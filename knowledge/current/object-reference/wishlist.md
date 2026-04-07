@@ -5,12 +5,10 @@ topic: wishlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.707Z
+lastCollected: 2026-04-07T18:38:44.523Z
 estimatedTokens: 720
-keywords: [Wishlist, buyer-created, WishlistItems, store, that’s, built, B2B, Commerce, Lightning, API, version, 49.0, later, Calls, Special]
+keywords: [Wishlist, buyer-created, WishlistItems, store, that’s, built, B2B, Commerce, Lightning, API, 49.0, Notes]
 ---
-
-# Wishlist
 
 > Represents a buyer-created list of WishlistItems in a store that’s built with B2B Commerce
          on Lightning. Available in API version 49.0 and later.

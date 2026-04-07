@@ -5,12 +5,10 @@ topic: supplier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.301Z
+lastCollected: 2026-04-07T18:38:14.717Z
 estimatedTokens: 307
-keywords: [Supplier, manufacturer, procures, product, parts, components, API, version, 59.0, later, Calls]
+keywords: [Supplier, manufacturer, procures, product, parts, API, 59.0]
 ---
-
-# Supplier
 
 > Represents information about a supplier that a manufacturer procures product
          parts and components from. This object is available in API version 59.0 and later.

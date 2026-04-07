@@ -5,12 +5,10 @@ topic: commerce-webstore-pricing-product
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.700Z
+lastCollected: 2026-04-07T18:37:12.590Z
 estimatedTokens: 433
 keywords: [Commerce, Webstore, Pricing, Product, buyer, price]
 ---
-
-# Commerce Webstore Pricing Product
 
 > Get the list and buyer price for a product.
 

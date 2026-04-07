@@ -5,12 +5,10 @@ topic: getinsurancemembereligibleplansmemberid-shouldincludedependents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.502Z
+lastCollected: 2026-04-07T18:37:49.346Z
 estimatedTokens: 235
-keywords: [getInsuranceMemberEligiblePlans, memberId, shouldIncludeDependents, enrollment, plans, group, census, member, their, dependents, eligible, API, Version, Requires, Chatter]
+keywords: [getInsuranceMemberEligiblePlans, memberId, shouldIncludeDependents, enrollment, plans, group, census, member, their, dependents, eligible, API, Requires, Chatter]
 ---
-
-# getInsuranceMemberEligiblePlans(memberId, shouldIncludeDependents)
 
 > Get the enrollment plans for which a group census member and their dependents are
   eligible.

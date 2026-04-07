@@ -5,12 +5,10 @@ topic: supervisorbargein
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.817Z
+lastCollected: 2026-04-07T18:39:23.753Z
 estimatedTokens: 215
 keywords: [supervisorBargeIn, Barge, call, supervisor, becomes, new, participant, unmuted, usual, mute, hold, recording, toggles]
 ---
-
-# supervisorBargeIn
 
 > Barge in on a call as a supervisor. The supervisor becomes
         a new participant in the call. The supervisor is unmuted and has the usual call controls

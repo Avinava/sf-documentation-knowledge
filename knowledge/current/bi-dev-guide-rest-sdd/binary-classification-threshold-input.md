@@ -5,12 +5,10 @@ topic: binary-classification-threshold-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.061Z
+lastCollected: 2026-04-07T18:36:58.583Z
 estimatedTokens: 129
-keywords: [Binary, Classification, Threshold, Input]
+keywords: [Binary, Classification, Threshold]
 ---
-
-# Binary Classification Threshold Input
 
 > A binary classification threshold input.
 

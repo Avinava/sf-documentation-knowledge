@@ -5,12 +5,10 @@ topic: manage-learning
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.410Z
+lastCollected: 2026-04-07T18:37:29.491Z
 estimatedTokens: 319
-keywords: [Manage, Learning, Output, representation, result, creating, includes, success, status, encountered, errors, IDs, objects, created, associated]
+keywords: [Manage, Learning, result, creating, includes, success, status, encountered, errors, IDs, created, new, record]
 ---
-
-# Manage Learning
 
 > Output representation of the result of creating a learning object. The result includes
     the success status, encountered errors, and IDs of the objects created or associated with the

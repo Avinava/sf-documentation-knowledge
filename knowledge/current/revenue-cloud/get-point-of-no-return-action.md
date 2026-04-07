@@ -5,12 +5,10 @@ topic: get-point-of-no-return-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.082Z
+lastCollected: 2026-04-07T18:35:39.857Z
 estimatedTokens: 447
-keywords: [Point, Action, milestone, line, item, sales, transaction, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Point, Action, milestone, line, item, sales, transaction, REST, HTTP]
 ---
-
-# Get Point Of No Return Action
 
 > Get details about the point of no return milestone for each line
             item in a sales transaction.

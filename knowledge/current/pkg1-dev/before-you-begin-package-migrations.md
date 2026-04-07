@@ -5,12 +5,10 @@ topic: before-you-begin-package-migrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.712Z
+lastCollected: 2026-04-07T18:38:54.072Z
 estimatedTokens: 718
-keywords: [Begin, Package, Migrations, you’ve, never, created, worked, managed, 2GP, packages, scratch, orgs, Salesforce, CLI, take]
+keywords: [Begin, Package, Migrations, you’ve, never, created, worked, managed, 2GP, packages, scratch, orgs, Salesforce, CLI, take, time, second-generation, Prerequisites, Conversion]
 ---
-
-# Before You Begin Package Migrations
 
 > If you’ve never created or worked with managed 2GP packages, scratch orgs, or Salesforce
   CLI, take some time to learn more about Salesforce DX and second-generation managed

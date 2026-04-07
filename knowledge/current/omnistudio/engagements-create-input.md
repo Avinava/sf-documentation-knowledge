@@ -5,12 +5,10 @@ topic: engagements-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.365Z
+lastCollected: 2026-04-07T18:36:36.910Z
 estimatedTokens: 97
-keywords: [Engagements, Input, representation]
+keywords: [Engagements]
 ---
-
-# Engagements Create Input
 
 > Input representation of the engagements create
     request.

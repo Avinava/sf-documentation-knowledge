@@ -5,12 +5,10 @@ topic: survey-description-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.292Z
+lastCollected: 2026-04-07T18:39:16.908Z
 estimatedTokens: 304
-keywords: [Survey, Input, representation, recipient, their, engagement, context, language, records, invitation, settings]
+keywords: [Survey, recipient, their, engagement, context, language, records, invitation, settings]
 ---
-
-# Survey Description Input
 
 > Input representation of the details of the survey recipient and their
       engagement context, and the language, related records, and invitation settings of the

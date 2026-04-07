@@ -5,12 +5,10 @@ topic: learning-equivalency-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.256Z
+lastCollected: 2026-04-07T18:37:29.357Z
 estimatedTokens: 191
 keywords: [Learning, Equivalency, Retrieves, record, along, source, target, mappings]
 ---
-
-# Learning Equivalency (GET)
 
 > Retrieves  a learning equivalency record along
     with its source and target learning mappings.

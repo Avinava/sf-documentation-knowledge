@@ -5,12 +5,10 @@ topic: cart-promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.245Z
+lastCollected: 2026-04-07T18:37:17.315Z
 estimatedTokens: 319
 keywords: [Cart, Promotion]
 ---
-
-# Cart Promotion
 
 > Promotion for a cart.
 

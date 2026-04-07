@@ -5,12 +5,10 @@ topic: presencedeclinereason
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.645Z
+lastCollected: 2026-04-07T18:36:33.975Z
 estimatedTokens: 227
-keywords: [PresenceDeclineReason, reason, agent, select, declining, Omni-Channel, work, API, version, 65.0, later, SOAP, Calls, REST, Special]
+keywords: [PresenceDeclineReason, reason, agent, select, declining, Omni-Channel, work, API, 65.0, SOAP, REST]
 ---
-
-# PresenceDeclineReason
 
 > Represents the reason an
          agent can select when declining an Omni-Channel work request. This object

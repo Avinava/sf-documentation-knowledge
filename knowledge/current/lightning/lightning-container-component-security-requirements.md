@@ -5,12 +5,10 @@ topic: lightning-container-component-security-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.514Z
+lastCollected: 2026-04-07T18:38:03.563Z
 estimatedTokens: 327
-keywords: [Lightning, Container, Component, Security, Requirements, Ensure, components, meet, Validity, Resource, Content, Access, Distribution]
+keywords: [Lightning, Container, Security, Requirements, Ensure, meet, Validity, Resource, Content, Distribution]
 ---
-
-# Lightning Container Component Security Requirements
 
 > Ensure that your Lightning container components meet security requirements.
 

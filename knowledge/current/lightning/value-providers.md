@@ -5,12 +5,10 @@ topic: value-providers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.185Z
+lastCollected: 2026-04-07T18:38:04.314Z
 estimatedTokens: 773
-keywords: [Providers, way, access, data, encapsulate, together, similar, how, encapsulates, Accessing, Objects]
+keywords: [Providers, way, encapsulate, together, similar, how, encapsulates, Accessing]
 ---
-
-# Value Providers
 
 > Value providers are a way to access data. Value providers
 encapsulate related values together, similar to how an object encapsulates

@@ -5,12 +5,10 @@ topic: edu-external-id-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.025Z
+lastCollected: 2026-04-07T18:37:29.140Z
 estimatedTokens: 100
-keywords: [Edu, External, Input, representation, associated, learning]
+keywords: [Edu, External, learning]
 ---
-
-# Edu External ID Details Input
 
 > Input representation of external fields associated with learning object.
 

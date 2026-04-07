@@ -5,12 +5,10 @@ topic: alternativepaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.887Z
+lastCollected: 2026-04-07T18:36:04.101Z
 estimatedTokens: 73
 keywords: [alternativePaymentMethod, alternative, payment, postauthorizaiton]
 ---
-
-# alternativePaymentMethod
 
 > The alternative payment method object used in a postauthorizaiton
       payment method request.

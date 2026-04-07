@@ -5,12 +5,10 @@ topic: rate-plan-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.556Z
+lastCollected: 2026-04-07T18:35:46.522Z
 estimatedTokens: 130
-keywords: [Rate, Plan, Output, representation]
+keywords: [Rate, Plan]
 ---
-
-# Rate Plan Response
 
 > Output representation of the details of a rate plan.
 

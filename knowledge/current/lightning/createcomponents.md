@@ -5,12 +5,10 @@ topic: createcomponents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.277Z
+lastCollected: 2026-04-07T18:38:05.480Z
 estimatedTokens: 330
-keywords: [createComponents, array, components, attributes, accepts, component, attribute, maps, callback, notify, caller]
+keywords: [createComponents, array, attributes, accepts, attribute, maps, callback, notify, caller]
 ---
-
-# createComponents()
 
 > Create an array of components from a list of types and attributes.
    This method accepts a list of component names and attribute maps, and a callback to notify the

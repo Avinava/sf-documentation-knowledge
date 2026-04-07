@@ -5,12 +5,10 @@ topic: paymentlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.442Z
+lastCollected: 2026-04-07T18:38:37.762Z
 estimatedTokens: 1807
-keywords: [PaymentLink, link, merchant, share, customers, collect, payments, products, services, payment, embed, Salesforce, app, send, directly]
+keywords: [PaymentLink, link, merchant, share, customers, collect, payments, products, services, payment, embed, Salesforce, app, send, directly, customer, directs, Pay, Now, show, total, amount, owed, itemized, shipping, tax, charges, enters, their, contact, submits, amounts, shown, store's, currency, API, 58.0]
 ---
-
-# PaymentLink
 
 > A link that a merchant can share with customers to collect payments for
          products and services. The payment link, which you can embed into a Salesforce app or send

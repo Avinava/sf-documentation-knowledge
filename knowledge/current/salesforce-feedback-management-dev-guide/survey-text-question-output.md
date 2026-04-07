@@ -5,12 +5,10 @@ topic: survey-text-question-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.473Z
+lastCollected: 2026-04-07T18:39:17.111Z
 estimatedTokens: 218
-keywords: [Survey, Text, Question, Output, representation]
+keywords: [Survey, Text, Question]
 ---
-
-# Survey Text Question Output
 
 > Output representation of the details of the text question on the
       survey page.

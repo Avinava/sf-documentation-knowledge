@@ -5,12 +5,10 @@ topic: get-assetv1contentcategories
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.984Z
+lastCollected: 2026-04-07T18:40:17.134Z
 estimatedTokens: 774
 keywords: [asset, content, categories, Builder, owned, reside, MID, shared, add, scope, call, **Overview**, Sort, Filter, Operators]
 ---
-
-# GET /asset/v1/content/categories
 
 > Returns one or more Content Builder categories that are owned by or reside in your MID. To request categories that have been shared with your MID, add a scope parameter to the call.
 

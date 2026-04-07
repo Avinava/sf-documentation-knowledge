@@ -5,12 +5,10 @@ topic: ampscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.542Z
+lastCollected: 2026-04-07T18:40:21.828Z
 estimatedTokens: 199
-keywords: [AMPscript, scripting, language, embed, HTML, emails, text, landing, pages, SMS, messages, push, notifications, MobilePush, system]
+keywords: [AMPscript, scripting, language, embed, HTML, emails, text, landing, pages, SMS, messages, push, notifications, MobilePush, system, processes, script, point, include, message, render, content, subscriber-by-subscriber, basis, Marke]
 ---
-
-# AMPscript
 
 > AMPscript is a scripting language that you can embed within HTML emails, text emails, landing pages, SMS messages, and push notifications from MobilePush. The system processes the script at the point where you include it in the message to render content on a subscriber-by-subscriber basis. The Marke
 

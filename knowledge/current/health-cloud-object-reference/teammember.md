@@ -5,12 +5,10 @@ topic: teammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.499Z
+lastCollected: 2026-04-07T18:37:48.117Z
 estimatedTokens: 799
-keywords: [TeamMember, member, associated, team, API, version, 58.0, later, Calls, Objects]
+keywords: [TeamMember, member, team, API, 58.0]
 ---
-
-# TeamMember
 
 > Represents the member associated with a team. This object is available
       in API version 58.0 and later.

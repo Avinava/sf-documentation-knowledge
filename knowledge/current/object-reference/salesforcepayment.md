@@ -5,12 +5,10 @@ topic: salesforcepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:48.765Z
+lastCollected: 2026-04-07T18:38:40.345Z
 estimatedTokens: 512
-keywords: [SalesforcePayment, Read-only, virtual, Account, App, payments, organization’s, Salesforce, invoice, Calls, Usage, Associated, Objects]
+keywords: [SalesforcePayment, Read-only, virtual, Account, App, payments, organization’s, Salesforce, invoice]
 ---
-
-# SalesforcePayment
 
 > Read-only virtual object used in the Your Account App. Represents
          information about payments related to your organization’s Salesforce invoice.

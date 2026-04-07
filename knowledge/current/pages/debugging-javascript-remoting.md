@@ -5,12 +5,10 @@ topic: debugging-javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.378Z
+lastCollected: 2026-04-07T18:38:51.633Z
 estimatedTokens: 219
 keywords: [Debugging, JavaScript, Remoting, pages, requires, debug, Visualforce, Apex]
 ---
-
-# Debugging JavaScript Remoting
 
 > Debugging pages that use JavaScript remoting requires you to debug
             Visualforce, Apex, and

@@ -5,12 +5,10 @@ topic: display-the-default-chat-button
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.613Z
+lastCollected: 2026-04-07T18:40:09.562Z
 estimatedTokens: 277
 keywords: [Display, Chat, Button, connects, customers, window, they, start, web]
 ---
-
-# Display the Default Chat Button
 
 > The default chat button connects your customers to the chat window so
    they can start a chat from your web page. Valid values are true and

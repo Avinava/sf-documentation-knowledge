@@ -5,12 +5,10 @@ topic: expressionfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.008Z
+lastCollected: 2026-04-07T18:38:31.945Z
 estimatedTokens: 672
-keywords: [ExpressionFilterCriteria, condition, expression, that’s, control, execution, macro, instructions, API, version, 46.0, later, Calls, Usage]
+keywords: [ExpressionFilterCriteria, condition, expression, that’s, control, execution, macro, instructions, API, 46.0]
 ---
-
-# ExpressionFilterCriteria
 
 > Represents a condition in an expression that’s used to control the
          execution of macro instructions. This object is available in API version 46.0 and

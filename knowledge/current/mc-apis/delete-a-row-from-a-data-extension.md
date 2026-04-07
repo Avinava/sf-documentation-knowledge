@@ -5,12 +5,10 @@ topic: delete-a-row-from-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.485Z
+lastCollected: 2026-04-07T18:40:16.627Z
 estimatedTokens: 1460
-keywords: [Row, Data, Extension, regarding, deletion, via, SOAP, API, Why, How, Sample, NET, Code, PHP, Envelope]
+keywords: [Row, Extension, regarding, deletion, via, SOAP, API, Why, How, Sample, NET, Code, PHP, Envelope, Items]
 ---
-
-# Delete a Row from a Data Extension
 
 > This page contains information  regarding the deletion of a row from a data extension via the SOAP API.
 

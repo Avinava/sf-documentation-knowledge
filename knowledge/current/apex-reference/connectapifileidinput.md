@@ -5,12 +5,10 @@ topic: connectapifileidinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.131Z
+lastCollected: 2026-04-07T18:36:05.472Z
 estimatedTokens: 235
-keywords: [ConnectApi.FileIdInput, Attach, file, already, uploaded, remove, feed, element]
+keywords: [ConnectApi.FileIdInput, Attach, file, already, uploaded, remove]
 ---
-
-# ConnectApi.FileIdInput
 
 > Attach a file that has already been uploaded or remove a file from a
       feed element.

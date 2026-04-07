@@ -5,12 +5,10 @@ topic: blngrevenuetransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.525Z
+lastCollected: 2026-04-07T18:37:04.134Z
 estimatedTokens: 2031
-keywords: [blng__RevenueTransaction__c, revenue, transactions, made, against, order, product, blng, _RevenueTransaction, Calls]
+keywords: [blng__RevenueTransaction__c, revenue, transactions, made, against, order, product, blng, _RevenueTransaction]
 ---
-
-# blng__RevenueTransaction__c
 
 > Represents the revenue transactions made against an order
       product.

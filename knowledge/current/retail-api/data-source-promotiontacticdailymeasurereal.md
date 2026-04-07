@@ -5,12 +5,10 @@ topic: data-source-promotiontacticdailymeasurereal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.347Z
+lastCollected: 2026-04-07T18:39:11.886Z
 estimatedTokens: 83
-keywords: [Data, Source, PromotionTacticDailyMeasureReal, integration, metadata, JSON, datasources, configuration, payload]
+keywords: [Source, PromotionTacticDailyMeasureReal, integration, metadata, JSON, datasources, configuration, payload]
 ---
-
-# Data Source: PromotionTacticDailyMeasureReal
 
 > This example provides details on the integration metadata JSON with the data source.
     This example provides details on the integration metadata JSON with the data source. The

@@ -5,12 +5,10 @@ topic: insurance-member-rating-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.669Z
+lastCollected: 2026-04-07T18:37:51.730Z
 estimatedTokens: 350
-keywords: [Insurance, Member, Rating, POST, Calculate, pricing, along, employee, employer, contribution, individual, members, group, census, plan]
+keywords: [Insurance, Member, Rating, POST, Calculate, pricing, along, employee, employer, contribution, individual, members, group, census, plan, coverages]
 ---
-
-# Insurance Member Rating (POST)
 
 > Calculate pricing along with employee and employer contribution for
    individual members of a group census based on plan and coverages within the

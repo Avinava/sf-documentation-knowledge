@@ -5,12 +5,10 @@ topic: feed-items-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.894Z
+lastCollected: 2026-04-07T18:37:13.858Z
 estimatedTokens: 530
-keywords: [Feed, Items, Resources, search, bookmark, post, comments, vote, polls, add, remove, topics, Experience, Cloud, sites]
+keywords: [Items, Resources, search, bookmark, post, comments, vote, polls, add, remove, topics, Experience, Cloud, sites, flagged, flag, moderation, flags]
 ---
-
-# Feed Items Resources
 
 > Get, search, delete, bookmark, and like feed items. Get and post comments. Get and
         vote in polls. Get, add, and remove topics. In Experience Cloud sites, get a flagged post,

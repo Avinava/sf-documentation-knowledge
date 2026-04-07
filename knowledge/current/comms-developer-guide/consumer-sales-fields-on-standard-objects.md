@@ -5,12 +5,10 @@ topic: consumer-sales-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.410Z
+lastCollected: 2026-04-07T18:37:26.321Z
 estimatedTokens: 314
-keywords: [Consumer, Sales, Standard, Objects, adds, Salesforce, features, represent, specific, business-to-consumer, B2C]
+keywords: [Consumer, Sales, Standard, adds, Salesforce, features, represent, specific, business-to-consumer, B2C]
 ---
-
-# Consumer Sales Fields on Standard Objects
 
 > The Consumer Sales adds standard fields to some standard Salesforce objects of other
     features to represent information specific to business-to-consumer (B2C).

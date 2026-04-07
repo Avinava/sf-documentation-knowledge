@@ -5,12 +5,10 @@ topic: connectapiopenclaimcoverageinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.196Z
+lastCollected: 2026-04-07T18:37:50.040Z
 estimatedTokens: 359
-keywords: [ConnectApi.OpenClaimCoverageInputRep, Input, representation, open, claim, coverage, action]
+keywords: [ConnectApi.OpenClaimCoverageInputRep, open, claim, coverage, action]
 ---
-
-# ConnectApi.OpenClaimCoverageInputRep
 
 > Input representation for the open claim coverage action.
 

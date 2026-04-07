@@ -5,12 +5,10 @@ topic: access-to-provider-network-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.520Z
+lastCollected: 2026-04-07T18:37:42.671Z
 estimatedTokens: 450
-keywords: [Access, Provider, Network, Management, standard, objects, users, Health, Cloud, Platform, permission, licenses, Foundation]
+keywords: [Provider, Network, Management, standard, users, Health, Cloud, Platform, permission, licenses, Foundation]
 ---
-
-# Access to Provider Network Management
 
 > The provider network management standard objects are available to users with the Health
     Cloud Platform and Provider Network Management permission set licenses and the Health Foundation

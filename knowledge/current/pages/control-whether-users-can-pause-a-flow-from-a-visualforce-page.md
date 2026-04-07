@@ -6,13 +6,10 @@ topic: control-whether-users-can-pause-a-flow-from-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.188Z
+lastCollected: 2026-04-07T18:38:51.430Z
 estimatedTokens: 329
-keywords: [Control, Whether, Users, Pause, Flow, Visualforce, embed, <flow, interview>, component, consider, want, let, flows, allowShowPause]
+keywords: [Control, Whether, Users, Pause, Flow, Visualforce, embed, <flow, interview>, consider, want, let, flows, allowShowPause, attribute, prevent, pausing]
 ---
-
-# Control Whether Users Can Pause a Flow from a Visualforce
-  Page
 
 > After you embed a flow in a Visualforce page with the <flow:interview> component, consider whether you want to let users pause flows from
   that page. Set the allowShowPause attribute to false to

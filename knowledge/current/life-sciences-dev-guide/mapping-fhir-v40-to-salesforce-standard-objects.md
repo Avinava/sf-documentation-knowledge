@@ -5,12 +5,10 @@ topic: mapping-fhir-v40-to-salesforce-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:08.873Z
+lastCollected: 2026-04-07T18:37:58.398Z
 estimatedTokens: 2515
-keywords: [Mapping, FHIR, v4.0, Salesforce, Standard, Objects, Fast, Health, Interoperability, Resources, defined, Level, Seven, HL7, healthcare]
+keywords: [Mapping, FHIR, v4.0, Salesforce, Standard, Fast, Health, Interoperability, Resources, defined, Level, Seven, HL7, healthcare, systems, work, seamlessly, together, enhancing, their, Clinical, Model, built, align, HL7’s, However, because, way, platform, works, implementation, isn’t, identical, how, it’s, Here’s, various, map, different]
 ---
-
-# Mapping FHIR v4.0 to Salesforce Standard Objects
 
 > The Fast Health Interoperability Resources (FHIR) standard defined by Health Level Seven
   (HL7) enables healthcare systems to work seamlessly together enhancing their interoperability. The

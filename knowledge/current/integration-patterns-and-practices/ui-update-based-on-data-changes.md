@@ -5,12 +5,10 @@ topic: ui-update-based-on-data-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.409Z
+lastCollected: 2026-04-07T18:37:53.686Z
 estimatedTokens: 1023
-keywords: [Data, Changes, Salesforce, manage, customer, cases, service, rep, phone, working, case, payment, needs, real-time, processing]
+keywords: [Context, Problem, Forces, Solution, Sketch, Results, Sidebars, Changes, Salesforce, manage, customer, cases, service, rep, phone, working, case, payment, needs, real-time, processing, application, indicating, cus]
 ---
-
-# UI Update Based on Data Changes
 
 > You use Salesforce to manage customer cases. A customer service rep is on the phone with a
     customer working on a case. The customer makes a payment, and the customer service rep needs to

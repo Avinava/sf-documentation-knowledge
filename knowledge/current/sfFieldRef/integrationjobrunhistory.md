@@ -5,12 +5,10 @@ topic: integrationjobrunhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.900Z
+lastCollected: 2026-04-07T18:39:45.460Z
 estimatedTokens: 266
-keywords: [IntegrationJobRunHistory, History, tracked, IntegrationJobRun]
+keywords: [IntegrationJobRunHistory, tracked, IntegrationJobRun]
 ---
-
-# IntegrationJobRunHistory
 
 > History for tracked fields of IntegrationJobRun.
 

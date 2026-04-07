@@ -5,12 +5,10 @@ topic: external-data-metadata-format-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.602Z
+lastCollected: 2026-04-07T18:36:53.968Z
 estimatedTokens: 3518
-keywords: [External, Data, Metadata, structure, files, file, JSON, consists, main, sections, Include, record, leave, Objects, Restrictions]
+keywords: [External, Metadata, structure, files, file, JSON, consists, main, sections, Include, record, leave, Restrictions, Numeric, Formats, Date]
 ---
-
-# External Data Metadata Format Reference
 
 > The metadata describes the structure of external data files. The metadata file is in
     JSON format. The .json file consists of 3 main sections: file format, object information, and

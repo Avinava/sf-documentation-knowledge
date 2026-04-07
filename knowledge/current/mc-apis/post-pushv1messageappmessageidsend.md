@@ -5,12 +5,10 @@ topic: post-pushv1messageappmessageidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.014Z
+lastCollected: 2026-04-07T18:40:18.203Z
 estimatedTokens: 651
-keywords: [POST, push, messageApp, messageId, send, Broadcasts, message, users, push-enabled, app, **Overview**, Usage]
+keywords: [POST, push, messageApp, messageId, send, Broadcasts, message, users, push-enabled, app, **Overview**]
 ---
-
-# POST /push/v1/messageApp/{messageId}/send
 
 > Broadcasts a message to all users of a push-enabled app.
 

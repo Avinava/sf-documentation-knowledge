@@ -5,12 +5,10 @@ topic: use-a-custom-stylesheet-in-a-visualforce-email-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.115Z
+lastCollected: 2026-04-07T18:38:51.354Z
 estimatedTokens: 614
-keywords: [Custom, Stylesheet, Visualforce, Email, Template, templates, always, standard, look, feel, Salesforce, components, However, extend, overwrite]
+keywords: [Stylesheet, Visualforce, Email, Template, templates, always, standard, look, feel, Salesforce, However, extend, overwrite, styles, defining, own, Define, Stylesheets]
 ---
-
-# Use a Custom Stylesheet in a Visualforce Email Template
 
 > By default, Visualforce email templates always use the standard look and feel of
 		other Salesforce components. However, you can extend or overwrite these styles by defining

@@ -5,12 +5,10 @@ topic: get-to-know-the-lwr-templates-for-experience-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.241Z
+lastCollected: 2026-04-07T18:37:33.634Z
 estimatedTokens: 371
-keywords: [Know, LWR, Templates, Experience, Cloud, Aura-based, Build, Own, template, supports, Aura, components, Lightning, web, Microsite]
+keywords: [Know, LWR, Templates, Experience, Cloud, Aura-based, Build, Own, template, supports, Aura, Lightning, web, Microsite, exclusively, programming, model, Powered, Runtime, lightweight, designed, scale, well, load, quickly, support, fully, customized, solutions]
 ---
-
-# Get to Know the LWR Templates for Experience Cloud
 
 > Experience Cloud has an existing Aura-based Build Your Own template, which supports
     Aura components and Lightning web components. But the Build Your Own (LWR) and the Microsite

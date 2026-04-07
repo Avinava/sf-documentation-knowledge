@@ -5,12 +5,10 @@ topic: problemincident
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.391Z
+lastCollected: 2026-04-07T18:39:54.953Z
 estimatedTokens: 339
-keywords: [ProblemIncident, junction, relates, Problem, Incident, API, version, 53.0, later]
+keywords: [ProblemIncident, junction, relates, Problem, Incident, API, 53.0]
 ---
-
-# ProblemIncident
 
 > Represents a junction object that relates a Problem to an Incident. This
       object is available in API version 53.0 and later.

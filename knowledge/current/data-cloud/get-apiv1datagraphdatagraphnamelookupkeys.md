@@ -5,12 +5,10 @@ topic: get-apiv1datagraphdatagraphnamelookupkeys
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.955Z
+lastCollected: 2026-04-07T18:35:51.796Z
 estimatedTokens: 171
-keywords: [api, dataGraph, dataGraphName, lookupKeys=, secondary, lookup, keys, data, graph, one-to-one, lookups]
+keywords: [api, dataGraph, dataGraphName, lookupKeys=, secondary, lookup, keys, graph, one-to-one, lookups]
 ---
-
-# GET /api/v1/dataGraph/{dataGraphName}?lookupKeys=[]
 
 > Use secondary lookup keys to request data from a data graph. The lookup keys can be used for one-to-one lookups
 

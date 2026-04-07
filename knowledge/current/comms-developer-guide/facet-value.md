@@ -5,12 +5,10 @@ topic: facet-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.353Z
+lastCollected: 2026-04-07T18:37:26.267Z
 estimatedTokens: 100
-keywords: [Facet, Output, representation, found, search, result]
+keywords: [Facet, found, search, result]
 ---
-
-# Facet Value
 
 > Output representation of the facet values found in the search result.
 

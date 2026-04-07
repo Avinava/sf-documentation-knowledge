@@ -5,12 +5,10 @@ topic: strong-customer-authentication-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.055Z
+lastCollected: 2026-04-07T18:38:45.893Z
 estimatedTokens: 335
-keywords: [Strong, Customer, Authentication, AppExchange, Checkout, SCA, enhances, security, online, payments, identity, verification, step, how, works]
+keywords: [Strong, Customer, Authentication, AppExchange, Checkout, SCA, enhances, security, online, payments, identity, verification, step, how, works, regions, require, affects, company, customers, ready]
 ---
-
-# Strong Customer Authentication for AppExchange Checkout
 
 > Strong customer authentication (SCA) enhances the security of online payments with an
         identity verification step. Learn how SCA works, which regions require it, and how it

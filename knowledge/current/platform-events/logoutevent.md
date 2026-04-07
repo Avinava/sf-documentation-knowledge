@@ -5,12 +5,10 @@ topic: logoutevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.547Z
+lastCollected: 2026-04-07T18:38:59.446Z
 estimatedTokens: 1396
-keywords: [LogoutEvent, Tracks, user, logouts, logout, event, records, successful, org’s, big, stores, data, LogoutEventStream, API, version]
+keywords: [LogoutEvent, Tracks, user, logouts, logout, event, records, successful, org’s, big, stores, LogoutEventStream, API, 46.0, Standard, SOQL]
 ---
-
-# LogoutEvent
 
 > Tracks user UI logouts. A logout event records a successful user logout from your org’s UI. LogoutEvent is a big object that stores the event data of LogoutEventStream. This object is
 		available in API version 46.0 and later.

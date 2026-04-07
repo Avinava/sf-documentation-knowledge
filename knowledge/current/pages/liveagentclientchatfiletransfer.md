@@ -5,12 +5,10 @@ topic: liveagentclientchatfiletransfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.827Z
+lastCollected: 2026-04-07T18:38:50.051Z
 estimatedTokens: 618
-keywords: [liveAgent, clientChatFileTransfer, file, upload, area, chat, window, visitor, send, agent, Attributes]
+keywords: [Attributes, liveAgent, clientChatFileTransfer, file, upload, area, chat, window, visitor, send, agent]
 ---
-
-# liveAgent:clientChatFileTransfer
 
 > The file upload area in a chat window where a visitor can send a file to an agent.
 

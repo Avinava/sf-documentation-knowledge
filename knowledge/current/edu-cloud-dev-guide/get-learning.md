@@ -5,12 +5,10 @@ topic: get-learning
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.440Z
+lastCollected: 2026-04-07T18:37:29.525Z
 estimatedTokens: 307
-keywords: [Learning, Output, representation, including, core, prerequisites, corequisites, recommended, items, outcomes]
+keywords: [Learning, including, core, prerequisites, corequisites, recommended, items, outcomes]
 ---
-
-# Get Learning
 
 > Output representation of the details of a learning object, including its core details,
     prerequisites, corequisites, recommended items, and learning outcomes.

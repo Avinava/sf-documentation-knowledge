@@ -5,12 +5,10 @@ topic: mvtostring
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.222Z
+lastCollected: 2026-04-07T18:37:00.789Z
 estimatedTokens: 495
-keywords: [mv_to_string, Converts, multivalue, _to, _string, Usage]
+keywords: [mv_to_string, Converts, multivalue, _to, _string]
 ---
-
-# mv_to_string()
 
 > Converts multivalue fields to string fields.
 

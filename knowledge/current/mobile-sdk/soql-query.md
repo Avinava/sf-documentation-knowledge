@@ -5,12 +5,10 @@ topic: soql-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.206Z
+lastCollected: 2026-04-07T18:40:27.394Z
 estimatedTokens: 234
-keywords: [SOQL, Query, Executes, requested, records, satisfy, iOS, Android]
+keywords: [Android, SOQL, Query, Executes, requested, records, satisfy, iOS]
 ---
-
-# SOQL Query
 
 > Executes the given SOQL query and returns the requested fields of records that satisfy
             the query.

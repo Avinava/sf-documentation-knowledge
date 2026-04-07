@@ -5,12 +5,10 @@ topic: oncustomconsolecomponentbuttonclicked
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.355Z
+lastCollected: 2026-04-07T18:36:50.594Z
 estimatedTokens: 234
-keywords: [onCustomConsoleComponentButtonClicked, Registers, function, call, button, clicked, application-level, custom, console, component, API, version, 25.0, later, Arguments]
+keywords: [Arguments, onCustomConsoleComponentButtonClicked, Registers, function, call, button, clicked, application-level, console, API, 25.0, Sample, Code–Visualforce, Event, Handler]
 ---
-
-# onCustomConsoleComponentButtonClicked()
 
 > Registers a function to call when
             a button is clicked on an application-level custom console component. This method is only available in API version 25.0 or

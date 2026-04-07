@@ -5,12 +5,10 @@ topic: item-arrange-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.936Z
+lastCollected: 2026-04-07T18:37:08.753Z
 estimatedTokens: 213
-keywords: [Item, Arrange, Input, Instructions, cart, delivery, group]
+keywords: [Item, Arrange, Instructions, cart, delivery, group]
 ---
-
-# Item Arrange Input
 
 > Instructions to arrange a cart item into a delivery group.
 

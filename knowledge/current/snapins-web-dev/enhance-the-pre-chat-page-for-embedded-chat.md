@@ -5,12 +5,10 @@ topic: enhance-the-pre-chat-page-for-embedded-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.711Z
+lastCollected: 2026-04-07T18:40:09.654Z
 estimatedTokens: 705
 keywords: [Enhance, Pre-Chat, Embedded, Chat, Pass, nonstandard, direct-to-button, routing, enable, fill, automatically, logged-in, customers]
 ---
-
-# Enhance the Pre-Chat Page for Embedded Chat
 
 > Pass nonstandard pre-chat details, set up direct-to-button routing, and enable pre-chat fields to fill automatically for logged-in customers.
 

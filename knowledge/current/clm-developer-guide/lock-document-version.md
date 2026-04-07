@@ -5,12 +5,10 @@ topic: lock-document-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.069Z
+lastCollected: 2026-04-07T18:37:25.027Z
 estimatedTokens: 90
-keywords: [Lock, Document, Version, active, contract, modification]
+keywords: [Lock, Document, active, contract, modification]
 ---
-
-# Lock Document Version
 
 > Lock an active contract document version for
     modification.

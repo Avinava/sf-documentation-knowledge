@@ -5,12 +5,10 @@ topic: versioning-apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.782Z
+lastCollected: 2026-04-07T18:38:54.157Z
 estimatedTokens: 282
-keywords: [Versioning, Apex, Code, subscribers, install, multiple, versions, package, write, references, classes, triggers, they, specify, version]
+keywords: [Versioning, Apex, Code, subscribers, install, multiple, versions, package, write, references, classes, triggers, they, specify, they’re, referencing]
 ---
-
-# Versioning Apex Code
 
 > When subscribers install multiple versions of your package and write code that
     references Apex classes or triggers in your package, they must specify the version that they’re

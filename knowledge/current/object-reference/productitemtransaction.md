@@ -5,12 +5,10 @@ topic: productitemtransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.354Z
+lastCollected: 2026-04-07T18:38:38.762Z
 estimatedTokens: 1123
-keywords: [ProductItemTransaction, action, taken, product, item, service, transactions, auto-generated, records, help, track, replenished, consumed, adjusted, Calls]
+keywords: [ProductItemTransaction, action, taken, product, item, service, transactions, auto-generated, records, help, track, replenished, consumed, adjusted]
 ---
-
-# ProductItemTransaction
 
 > Represents an action taken on a product item in field service. Product
 			item transactions are auto-generated records that help you track when a product item is

@@ -5,12 +5,10 @@ topic: connectapicreatecreditmemooutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.052Z
+lastCollected: 2026-04-07T18:36:08.432Z
 estimatedTokens: 99
 keywords: [created, Credit, Memo]
 ---
-
-# ConnectApi.CreateCreditMemoOutputRepresentation
 
 > ID of a created Credit Memo.
 

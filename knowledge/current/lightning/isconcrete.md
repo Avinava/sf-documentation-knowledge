@@ -5,12 +5,10 @@ topic: isconcrete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.240Z
+lastCollected: 2026-04-07T18:38:05.445Z
 estimatedTokens: 197
-keywords: [isConcrete, component, concrete, otherwise, sub-component, inheritance, chain]
+keywords: [isConcrete, concrete, otherwise, sub-component, inheritance, chain]
 ---
-
-# isConcrete()
 
 > Returns true if the
    component is concrete, or false otherwise. A concrete

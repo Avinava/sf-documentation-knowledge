@@ -5,12 +5,10 @@ topic: crisis-support-center-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.346Z
+lastCollected: 2026-04-07T18:37:42.487Z
 estimatedTokens: 258
-keywords: [Crisis, Support, Center, Management, data, model, lets, users, provide, range, services, app, simplified, intake, flow]
+keywords: [Crisis, Support, Center, Management, model, lets, users, provide, range, services, app, simplified, intake, flow, search, providers, beds, across, facilities]
 ---
-
-# Crisis Support Center Management
 
 > The Crisis Support Center Management data model lets users provide a range of crisis
   services from a single app. Use a simplified intake flow, search for providers and beds across

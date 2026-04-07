@@ -5,12 +5,10 @@ topic: marketingappextassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.051Z
+lastCollected: 2026-04-07T18:36:33.455Z
 estimatedTokens: 377
-keywords: [MarketingAppExtAssignment, Marketing, App, Extension, Business, Unit, assignment, dictates, Account, Engagement, external, activity, data, API, version]
+keywords: [MarketingAppExtAssignment, Marketing, App, Extension, Business, Unit, assignment, dictates, Account, Engagement, external, activity, API, 53.0, SOAP, REST, HTTP]
 ---
-
-# MarketingAppExtAssignment
 
 > Represents a Marketing App Extension Business Unit
         assignment, which dictates which Account Engagement business unit the external activity data

@@ -5,12 +5,10 @@ topic: consent-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.275Z
+lastCollected: 2026-04-07T18:35:51.133Z
 estimatedTokens: 502
-keywords: [Consent, Data, either, grant, revoke, Salesforce, Interactions, SDK, customer, chooses, opt, tracking, attached, Event, Structure]
+keywords: [Consent, either, grant, revoke, Salesforce, Interactions, SDK, customer, chooses, opt, attached, Event, Structure, tracked]
 ---
-
-# Consent Data
 
 > Consent data is used to either grant or revoke consent in Salesforce Interactions SDK.
     When a customer chooses to opt in to tracking these consent details are  attached to the Event

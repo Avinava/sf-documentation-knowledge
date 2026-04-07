@@ -5,12 +5,10 @@ topic: contentversioncomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.980Z
+lastCollected: 2026-04-07T18:39:35.437Z
 estimatedTokens: 231
-keywords: [ContentVersionComment, comment, version, file, API, 42.0, later]
+keywords: [ContentVersionComment, comment, file, API, 42.0]
 ---
-
-# ContentVersionComment
 
 > Represents a comment on a version of a file. This object is available in
     API version 42.0 and later.

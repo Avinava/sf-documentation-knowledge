@@ -5,12 +5,10 @@ topic: getutilityinfo-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.687Z
+lastCollected: 2026-04-07T18:36:49.856Z
 estimatedTokens: 478
-keywords: [getUtilityInfo, Lightning, Experience, state, current, utility, utilityInfo, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
+keywords: [Arguments, getUtilityInfo, Lightning, Experience, state, current, utility, utilityInfo, isn’t, Web, LWC, Aura, Sample, Code]
 ---
-
-# getUtilityInfo() for Lightning Experience
 
 > Returns the state of the current utility as a utilityInfo object. This method isn’t supported for Lightning Web Components
         (LWC).

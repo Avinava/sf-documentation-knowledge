@@ -5,12 +5,10 @@ topic: bot-version-activation-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.901Z
+lastCollected: 2026-04-07T18:37:16.959Z
 estimatedTokens: 118
-keywords: [Bot, Version, Activation, Info, Success, failure]
+keywords: [Bot, Activation, Info, Success, failure]
 ---
-
-# Bot Version Activation Info
 
 > Success or failure information of the bot version
     activation.

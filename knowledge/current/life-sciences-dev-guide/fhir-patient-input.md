@@ -5,12 +5,10 @@ topic: fhir-patient-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.814Z
+lastCollected: 2026-04-07T18:37:55.166Z
 estimatedTokens: 751
-keywords: [FHIR, Patient, Input, representation, resource]
+keywords: [FHIR, Patient, resource]
 ---
-
-# FHIR Patient Input
 
 > Input representation for the FHIR patient resource.
 

@@ -5,12 +5,10 @@ topic: run-a-soql-or-sosl-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.023Z
+lastCollected: 2026-04-07T18:40:07.968Z
 estimatedTokens: 650
-keywords: [Run, SOQL, SOSL, Query, It’s, often, useful, CLI, command, quickly, Salesforce, search, specific, terms, across]
+keywords: [SOQL, SOSL, Run, Query, It’s, often, useful, CLI, command, quickly, Salesforce, search, specific, terms, across, maybe, want, Account, records, energy, industry, contact, lead, begin, letters, two, robust, languages, cases]
 ---
-
-# Run a SOQL or SOSL Query
 
 > It’s often useful to run a CLI command to quickly query a Salesforce object or search for specific terms across many objects. For example, maybe you want to see all the Account records for the energy industry, or search for contact or lead names that begin with the letters JO. Salesforce provides two robust search languages for just these use cases: SOQL and SOSL.
 

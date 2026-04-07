@@ -5,12 +5,10 @@ topic: standardcontrollercontrollersobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.049Z
+lastCollected: 2026-04-07T18:38:48.007Z
 estimatedTokens: 75
-keywords: [StandardController, controllerSObject, Creates, new, instance, ApexPages.StandardController, standard, custom]
+keywords: [StandardController, controllerSObject, Creates, new, instance, ApexPages.StandardController, standard]
 ---
-
-# StandardController(controllerSObject)
 
 > Creates a new instance of the ApexPages.StandardController class for the specified standard
 or custom object.

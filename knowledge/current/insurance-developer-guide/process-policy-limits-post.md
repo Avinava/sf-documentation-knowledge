@@ -5,12 +5,10 @@ topic: process-policy-limits-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.824Z
+lastCollected: 2026-04-07T18:37:51.895Z
 estimatedTokens: 459
 keywords: [Process, Policy, Limits, POST, loss, item, claim, current, standings, insurance]
 ---
-
-# Process Policy Limits (POST)
 
 > Process the policy limits for a loss item in a claim by using the current standings of
   the insurance policy limits.

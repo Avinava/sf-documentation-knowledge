@@ -5,12 +5,10 @@ topic: userlicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.846Z
+lastCollected: 2026-04-07T18:38:43.616Z
 estimatedTokens: 1524
-keywords: [UserLicense, user, license, organization, entitles, specific, functionality, determines, profiles, permission, Calls, Usage]
+keywords: [UserLicense, user, license, organization, entitles, specific, functionality, determines, profiles, permission]
 ---
-
-# UserLicense
 
 > Represents a user license in your organization. A
    user license entitles a user to specific functionality and determines the profiles and permission

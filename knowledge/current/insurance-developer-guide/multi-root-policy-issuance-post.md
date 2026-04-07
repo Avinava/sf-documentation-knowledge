@@ -5,12 +5,10 @@ topic: multi-root-policy-issuance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.777Z
+lastCollected: 2026-04-07T18:37:51.849Z
 estimatedTokens: 453
 keywords: [Multi-Root, Policy, Issuance, POST, Asynchronoulsy, insurance, along, child, policies, includes, multiple, different, product, under, parent]
 ---
-
-# Multi-Root Policy Issuance (POST)
 
 > Asynchronoulsy create a multi-root insurance policy along with its
             child policies. A multi-root policy includes multiple child policies of different

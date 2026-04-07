@@ -5,12 +5,10 @@ topic: social-post-intents
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.025Z
+lastCollected: 2026-04-07T18:37:23.146Z
 estimatedTokens: 195
 keywords: [Social, Post, Intents]
 ---
-
-# Social Post Intents
 
 > Intents available for a social post.
 

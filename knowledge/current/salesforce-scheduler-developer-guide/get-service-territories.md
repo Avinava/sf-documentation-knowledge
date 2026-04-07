@@ -5,12 +5,10 @@ topic: get-service-territories
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.373Z
+lastCollected: 2026-04-07T18:39:21.190Z
 estimatedTokens: 431
-keywords: [Service, Territories, territory, branch, office, location, resources, appointment, attendees, operate, meet, customers, Show, users, territorieson, website, service-territories, Connect, API, work]
+keywords: [Service, Territories, territory, branch, office, location, resources, appointment, attendees, operate, meet, customers, Show, users, territorieson, website, retrieving, active, Salesforce, instance, search, user-entered, city, postal, code, state, view, distance, two, locations, user's, current, service-territories, Connect, API, fetch, work, group, selected, previous, step, Display, screen, scheduling, app]
 ---
-
-# Get Service Territories
 
 > A service territory represents a branch or office location where your service
    resources (appointment attendees) operate from or meet customers. Use the service-territories Connect API to fetch a list of service

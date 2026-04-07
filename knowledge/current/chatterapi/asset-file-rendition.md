@@ -5,12 +5,10 @@ topic: asset-file-rendition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.957Z
+lastCollected: 2026-04-07T18:37:13.921Z
 estimatedTokens: 393
 keywords: [Asset, File, Rendition, streamed, renditions, binary, preview]
 ---
-
-# Asset File Rendition
 
 > Get up to 25 streamed renditions of an asset file. A rendition is a
       binary preview of the file.

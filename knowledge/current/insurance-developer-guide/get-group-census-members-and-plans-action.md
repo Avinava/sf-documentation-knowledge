@@ -5,12 +5,10 @@ topic: get-group-census-members-and-plans-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.088Z
+lastCollected: 2026-04-07T18:37:48.817Z
 estimatedTokens: 684
-keywords: [Group, Census, Members, Plans, Action, member, records, associated, content, document, asynchronous, bulk, item, record, REST]
+keywords: [Inputs, Outputs, Group, Census, Members, Plans, Action, member, records, content, document, asynchronous, bulk, item, record, REST, HTTP]
 ---
-
-# Get Group Census Members and Plans Action
 
 > Get the group census member records and associated plans from the content document in
   the specified asynchronous bulk request item record.

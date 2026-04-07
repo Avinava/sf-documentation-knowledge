@@ -5,12 +5,10 @@ topic: storeactionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.497Z
+lastCollected: 2026-04-07T18:39:16.035Z
 estimatedTokens: 551
-keywords: [StoreActionPlanTemplate, Associate, action, plan, template, store, API, version, 48.0, later, Calls, Associated, Objects]
+keywords: [StoreActionPlanTemplate, Associate, action, plan, template, store, API, 48.0]
 ---
-
-# StoreActionPlanTemplate
 
 > Associate an action plan template with a store. This object is available
     in API version 48.0 and later.

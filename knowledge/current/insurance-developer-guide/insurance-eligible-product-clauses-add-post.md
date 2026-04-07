@@ -5,12 +5,10 @@ topic: insurance-eligible-product-clauses-add-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.600Z
+lastCollected: 2026-04-07T18:37:51.655Z
 estimatedTokens: 332
 keywords: [Insurance, Eligible, Product, Clauses, Add, POST, selected, quote, context]
 ---
-
-# Insurance Eligible Product Clauses Add (POST)
 
 > Add selected eligible product clauses to a quote or
   context.

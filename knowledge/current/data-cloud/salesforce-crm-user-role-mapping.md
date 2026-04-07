@@ -5,12 +5,10 @@ topic: salesforce-crm-user-role-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.588Z
+lastCollected: 2026-04-07T18:35:52.471Z
 estimatedTokens: 240
-keywords: [Salesforce, CRM, User, Role, Mapping, data, mappings, UserRole, DLO, found, Services, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, User, Role, Mapping, mappings, UserRole, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: User Role Mapping
 
 > These data mappings are for the UserRole DLO found in the Services bundle of the
   Salesforce CRM Connector for Data Cloud.

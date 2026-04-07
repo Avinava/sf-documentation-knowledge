@@ -5,12 +5,10 @@ topic: using-the-sync-manager-with-global-smartstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.093Z
+lastCollected: 2026-04-07T18:40:25.460Z
 estimatedTokens: 598
 keywords: [Sync, Manager, SmartStore, Mobile, instance, call, factory, compatible]
 ---
-
-# Using the Sync Manager with Global SmartStore
 
 > To use Mobile Sync with a global SmartStore instance, call a static factory
    method on the sync manager object to get a compatible sync manager instance.

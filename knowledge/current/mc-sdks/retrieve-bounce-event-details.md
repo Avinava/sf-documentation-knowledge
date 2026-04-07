@@ -5,12 +5,10 @@ topic: retrieve-bounce-event-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.934Z
+lastCollected: 2026-04-07T18:40:24.440Z
 estimatedTokens: 991
-keywords: [Retrieve, Bounce, Event, ET_BounceEvent, column, Marketing, Cloud, account, SDK, interact, described, below, Ruby, PHP, Python]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Bounce, Event, ET_BounceEvent, column, Marketing, Cloud, account, SDK, interact, described, below, PHP, Streamline, Filter, Requests]
 ---
-
-# Retrieve Bounce Event Details
 
 > The ET_BounceEvent object represents a column with a bounce event in a Marketing Cloud account. Use the SDK to interact with this object as described below:
 

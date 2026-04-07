@@ -5,12 +5,10 @@ topic: best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:15.774Z
+lastCollected: 2026-04-07T18:37:02.333Z
 estimatedTokens: 119
 keywords: [Best, Practices, creating, template, dependencies, follow, guidelines]
 ---
-
-# Best Practices
 
 > When creating template dependencies, follow these guidelines.
 

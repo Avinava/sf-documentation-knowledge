@@ -5,12 +5,10 @@ topic: create-commitment-response-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.151Z
+lastCollected: 2026-04-07T18:38:20.913Z
 estimatedTokens: 159
-keywords: [Commitment, Output, representation, result, success, status, code, error, any, associated, links]
+keywords: [Commitment, result, success, status, code, error, any, links]
 ---
-
-# Create Commitment Response Details
 
 > Output representation of the create commitment result with success status code, error, if
     any, and associated object links.

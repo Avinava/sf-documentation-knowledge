@@ -5,12 +5,10 @@ topic: engagementinteraction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.990Z
+lastCollected: 2026-04-07T18:36:44.686Z
 estimatedTokens: 1910
-keywords: [EngagementInteraction, interaction, service, representative, any, specialist, organization, organization’s, customer, Engagement, interactions, initiated, communication, channels, cover]
+keywords: [EngagementInteraction, interaction, service, representative, any, specialist, organization, organization’s, customer, Engagement, interactions, initiated, communication, channels, cover, topics, initiate, calling, inquire, insurance, claim, API, 55.0]
 ---
-
-# EngagementInteraction
 
 > Represents information about an
    interaction between a service representative or any other specialist in an organization and the

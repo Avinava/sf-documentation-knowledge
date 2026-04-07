@@ -5,12 +5,10 @@ topic: bulk-product-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.026Z
+lastCollected: 2026-04-07T18:37:25.939Z
 estimatedTokens: 875
-keywords: [Bulk, Product, Input, representation, retrieve, multiple, products]
+keywords: [Bulk, Product, retrieve, multiple, products]
 ---
-
-# Bulk Product Details Input
 
 > Input representation of the request to retrieve details of multiple products.
 

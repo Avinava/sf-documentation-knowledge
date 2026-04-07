@@ -5,12 +5,10 @@ topic: put-pushv1messagemessageid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.659Z
+lastCollected: 2026-04-07T18:40:20.920Z
 estimatedTokens: 2380
-keywords: [PUT, push, message, messageId, Updates, optionally, pass, text, override, definition, **Overview**, Usage, Outbound, Alert, Page-Only]
+keywords: [PUT, push, message, messageId, Updates, optionally, pass, text, override, definition, **Overview**, Outbound, Alert, Page-Only, Alert+Page, Location, Entry, Exit]
 ---
-
-# PUT /push/v1/message/{messageId}
 
 > Updates a push message. That request optionally allows you to pass the text of the message to override the message specified in the definition.
 

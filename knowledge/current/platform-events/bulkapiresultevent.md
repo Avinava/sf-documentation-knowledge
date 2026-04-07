@@ -5,12 +5,10 @@ topic: bulkapiresultevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.902Z
+lastCollected: 2026-04-07T18:38:58.759Z
 estimatedTokens: 1384
-keywords: [BulkApiResultEvent, Tracks, user, downloads, results, Bulk, API, 2.0, Calls, Special, Access, Rules, Event, Delivery, Allocation]
+keywords: [BulkApiResultEvent, Tracks, user, downloads, results, Bulk, API, 2.0, Event, Delivery, Allocation, Enforced]
 ---
-
-# BulkApiResultEvent
 
 > Tracks when a user downloads the results of a Bulk API or Bulk API
          2.0 request.

@@ -5,12 +5,10 @@ topic: queryresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:48.726Z
+lastCollected: 2026-04-07T18:36:34.051Z
 estimatedTokens: 530
-keywords: [QueryResult, results, query, EntityDefinition, layouts, entity, array, objects, Tooling, API, version, 34.0, later, QueryLocator, Metadata]
+keywords: [QueryResult, results, query, EntityDefinition, layouts, entity, array, Tooling, API, 34.0, QueryLocator, Metadata]
 ---
-
-# QueryResult
 
 > Represents the results of a query. For example, if you query on the object
         EntityDefinition, all the layouts for that entity are returned as an array of QueryResult

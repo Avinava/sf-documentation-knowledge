@@ -5,12 +5,10 @@ topic: endconversation-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.570Z
+lastCollected: 2026-04-07T18:36:49.720Z
 estimatedTokens: 93
-keywords: [endConversation, LWC, Lightning, Experience, Ends, Messaging, session, works, console, apps, Arguments]
+keywords: [Arguments, endConversation, LWC, Lightning, Experience, Ends, Messaging, session, works, console, apps]
 ---
-
-# endConversation() for LWC for Lightning Experience
 
 > Ends the Messaging session. This method works only in Lightning console
   apps.

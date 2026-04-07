@@ -5,12 +5,10 @@ topic: ipaddressrange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.495Z
+lastCollected: 2026-04-07T18:36:26.920Z
 estimatedTokens: 698
-keywords: [IPAddressRange, range, addresses, include, exclude, feature, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [IPAddressRange, range, addresses, include, exclude, feature, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# IPAddressRange
 
 > Represents a range of IP addresses to include in or exclude
       from the specified feature.

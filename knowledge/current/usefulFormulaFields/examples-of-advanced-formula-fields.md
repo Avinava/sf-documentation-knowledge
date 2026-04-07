@@ -5,12 +5,10 @@ topic: examples-of-advanced-formula-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.297Z
+lastCollected: 2026-04-07T18:40:12.318Z
 estimatedTokens: 1141
 keywords: [Examples, Advanced, Formula, Review, various, apps, modify, own, purposes]
 ---
-
-# Examples of Advanced Formula Fields
 
 > Review examples of formula fields for various types of apps that you can
   use and modify for your own purposes.

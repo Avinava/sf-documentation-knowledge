@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-inventory-reservations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.350Z
+lastCollected: 2026-04-07T18:37:12.211Z
 estimatedTokens: 516
 keywords: [Commerce, Webstore, Cart, Inventory, Reservations, reservation]
 ---
-
-# Commerce Webstore Cart Inventory Reservations
 
 > Create, update, or delete an inventory reservation from the
       cart.

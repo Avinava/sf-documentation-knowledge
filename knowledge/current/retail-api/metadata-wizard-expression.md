@@ -5,12 +5,10 @@ topic: metadata-wizard-expression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.970Z
+lastCollected: 2026-04-07T18:39:11.517Z
 estimatedTokens: 694
-keywords: [Metadata, Wizard, Expression, Expressions, provide, dynamic, Components, accept, their, access, instance, dynamically, attributes, conditions, Component]
+keywords: [Metadata, Wizard, Expression, Expressions, provide, dynamic, accept, their, instance, dynamically, attributes, conditions, attribute, re-rendered, every, time, changes, Literal, Logical, Variables, Identifiers, SObject, Labels]
 ---
-
-# Metadata Wizard Expression
 
 > Expressions provide dynamic values to Wizard Components. Wizard
       Components accept expressions in some of their metadata properties. With expressions, you can

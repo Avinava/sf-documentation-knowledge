@@ -5,12 +5,10 @@ topic: catching-different-exception-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.423Z
+lastCollected: 2026-04-07T18:36:17.653Z
 estimatedTokens: 510
-keywords: [Catching, Different, Exception, previous, examples, specific, catch, block, caught, generic, catches, try, running, throws, SObjectException]
+keywords: [Catching, Different, Exception, previous, examples, specific, catch, block, caught, generic, catches, try, running, throws, SObjectException, statement, argu]
 ---
-
-# Catching Different Exception Types
 
 > In the previous examples, we used the specific exception type in
 the catch block. We could have also just caught the generic Exception

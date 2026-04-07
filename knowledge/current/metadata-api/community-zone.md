@@ -5,12 +5,10 @@ topic: community-zone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.305Z
+lastCollected: 2026-04-07T18:36:23.615Z
 estimatedTokens: 1435
-keywords: [Community, Zone, Ideas, Chatter, Answers, objects, Zones, shared, features, allowing, view, locations.This, extends, Metadata, inherits]
+keywords: [ReputationLevels, ChatterAnswersReputationLevel, IdeaReputationLevel, Community, Zone, Ideas, Chatter, Answers, Zones, shared, features, allowing, view, locations.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Community (Zone)
 
 > Represents a zone that contains Ideas or Chatter Answers
             objects. Zones are shared by the Ideas, Answers, and Chatter Answers features, allowing

@@ -5,12 +5,10 @@ topic: create-the-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.726Z
+lastCollected: 2026-04-07T18:38:57.532Z
 estimatedTokens: 356
-keywords: [Canvas, App, Customize, Application, Modify, Data, user, permissions]
+keywords: [Canvas, App, Customize, Application, Modify, user, permissions]
 ---
-
-# Create the Canvas App
 
 > To create a canvas app, you need the Customize Application and Modify All Data user
   permissions.

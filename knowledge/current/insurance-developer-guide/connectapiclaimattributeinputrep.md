@@ -5,12 +5,10 @@ topic: connectapiclaimattributeinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.775Z
+lastCollected: 2026-04-07T18:37:49.640Z
 estimatedTokens: 91
-keywords: [ConnectApi.ClaimAttributeInputRep, Invocable, action, input, representation, claim, attributes]
+keywords: [ConnectApi.ClaimAttributeInputRep, Invocable, action, claim, attributes]
 ---
-
-# ConnectApi.ClaimAttributeInputRep
 
 > Invocable action input representation for claim attributes.
 

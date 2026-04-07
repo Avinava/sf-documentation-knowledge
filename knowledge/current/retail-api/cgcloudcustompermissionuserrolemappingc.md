@@ -5,12 +5,10 @@ topic: cgcloudcustompermissionuserrolemappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.999Z
+lastCollected: 2026-04-07T18:39:13.409Z
 estimatedTokens: 985
-keywords: [assigns, Mapping, mobility, user, roles, permission, API, version, 54.0, later, cgcloud, _Custom, _Permission, _User, _Role]
+keywords: [assigns, Mapping, mobility, user, roles, permission, API, 54.0, cgcloud, _Custom, _Permission, _User, _Role, _Mapping]
 ---
-
-# cgcloud__Custom_Permission_User_Role_Mapping__c
 
 > This object assigns (Mapping) mobility user roles to permission
          sets. This object is available in API version 54.0 and later.

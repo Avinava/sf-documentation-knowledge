@@ -5,12 +5,10 @@ topic: get-mru-list-view-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.170Z
+lastCollected: 2026-04-07T18:40:11.160Z
 estimatedTokens: 532
-keywords: [MRU, View, Actions, recently, objects]
+keywords: [MRU, View, Actions, recently]
 ---
-
-# Get MRU List View Actions
 
 > Get the header actions on the most recently used (MRU) list view for
       objects.

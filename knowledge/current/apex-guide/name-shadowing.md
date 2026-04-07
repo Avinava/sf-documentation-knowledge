@@ -5,12 +5,10 @@ topic: name-shadowing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.333Z
+lastCollected: 2026-04-07T18:36:16.553Z
 estimatedTokens: 295
 keywords: [Shadowing, Member, variables, shadowed, local, variables—in, particular, function, arguments, standard, Java, form]
 ---
-
-# Name Shadowing
 
 > Member variables can be shadowed by local variables—in particular
 function arguments. This allows methods and constructors of the standard

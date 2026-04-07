@@ -5,12 +5,10 @@ topic: cli-deprecation-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:38.954Z
+lastCollected: 2026-04-07T18:37:25.871Z
 estimatedTokens: 316
 keywords: [CLI, Deprecation, Policy, Salesforce, deprecates, commands, flags, underlying, API, changes]
 ---
-
-# CLI Deprecation Policy
 
 > Salesforce deprecates CLI commands and flags when, for example, the underlying API
     changes.

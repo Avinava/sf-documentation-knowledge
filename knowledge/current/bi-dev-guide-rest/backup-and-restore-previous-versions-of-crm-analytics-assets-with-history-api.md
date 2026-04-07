@@ -6,13 +6,10 @@ topic: backup-and-restore-previous-versions-of-crm-analytics-assets-with-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:08.011Z
+lastCollected: 2026-04-07T18:36:54.380Z
 estimatedTokens: 1485
-keywords: [Backup, Restore, Previous, Versions, CRM, Analytics, Assets, History, API, edit, dashboards, lenses, recipes, dataflows, backs]
+keywords: [Limitations, Backup, Restore, Previous, Versions, CRM, Analytics, Assets, API, edit, dashboards, lenses, recipes, dataflows, backs, automatically, save, new, asset, creates, snapshot, preview, snapshots, revert, REST, Previewing, Reverting]
 ---
-
-# Backup and Restore Previous Versions of CRM Analytics Assets with
-      History API
 
 > When you edit CRM Analytics dashboards, lenses, recipes, and dataflows, CRM Analytics
     backs them up automatically. When you save a new version of an asset, CRM Analytics creates a

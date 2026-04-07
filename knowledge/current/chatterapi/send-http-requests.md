@@ -5,12 +5,10 @@ topic: send-http-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.039Z
+lastCollected: 2026-04-07T18:37:24.086Z
 estimatedTokens: 480
-keywords: [Send, HTTP, Requests, Connect, REST, API, uses, receive, JSON, XML, content, it’s, easy, build, client]
+keywords: [Send, HTTP, Requests, Connect, REST, API, uses, receive, JSON, XML, content, it’s, easy, build, client, applications, tool, language, choice]
 ---
-
-# Send HTTP Requests
 
 > Connect REST API uses HTTP methods to send and receive JSON and XML content, so it’s
   easy to build client applications using the tool or the language of your choice.

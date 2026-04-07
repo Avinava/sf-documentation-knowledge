@@ -5,12 +5,10 @@ topic: context-definition-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.198Z
+lastCollected: 2026-04-07T18:39:02.406Z
 estimatedTokens: 93
-keywords: [Context, Definition, Output, representation, definitions, expression]
+keywords: [Context, Definition, definitions, expression]
 ---
-
-# Context Definition Output
 
 > Output representation of the context definitions in an expression
       set.

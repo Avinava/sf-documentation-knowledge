@@ -5,12 +5,10 @@ topic: platformstatusalertevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.724Z
+lastCollected: 2026-04-07T18:38:59.663Z
 estimatedTokens: 1074
-keywords: [PlatformStatusAlertEvent, Notifies, subscribers, alerts, occur, processing, user, service, job, execution, API, version, 45.0, later, Calls]
+keywords: [PlatformStatusAlertEvent, Notifies, subscribers, alerts, occur, processing, user, service, job, execution, API, 45.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# PlatformStatusAlertEvent
 
 > Notifies subscribers of alerts that occur during the processing of a
          user request or service job execution. This object is available in API version 45.0

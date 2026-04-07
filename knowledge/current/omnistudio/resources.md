@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.795Z
+lastCollected: 2026-04-07T18:36:35.265Z
 estimatedTokens: 212
-keywords: [Resources, Here’s, Accelerator, API, Common, Business, Context, Service, Decision, Explainer, includes, Digital, Lending, APIs, include, Expression, Intelligent, Form, Reader, Group]
+keywords: [Resources, Here’s, Accelerator, API, Common, Business, Context, Service, Decision, Explainer, includes, Digital, Lending, APIs, include, Expression, Intelligent, Form, Reader, Group, Membership, Households, Identity, Verification, Document, Interest, Tags, Lookup, known, Calculation, Procedure, Matrix, Mapper, Integration, Process, Compliance, Navigator, Record, Alerts, Scheduled, Reminders, resource, Rollup, Definitions, Studio, retrieve, processes, Stage, Management, Unified, Catalog]
 ---
-
-# Resources
 
 > Here’s a list of Intelligent Document Reader API resources.
 

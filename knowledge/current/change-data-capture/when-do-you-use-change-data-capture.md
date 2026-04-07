@@ -5,12 +5,10 @@ topic: when-do-you-use-change-data-capture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.907Z
+lastCollected: 2026-04-07T18:37:05.612Z
 estimatedTokens: 989
-keywords: [Change, Data, Capture, think, part, real-time, replication, process, cloud, Reliability]
+keywords: [Change, Capture, think, part, real-time, replication, process, cloud, Reliability]
 ---
-
-# When Do You Use Change Data Capture?
 
 > You can think of Change Data Capture as part of the real-time data
       replication process for the cloud.

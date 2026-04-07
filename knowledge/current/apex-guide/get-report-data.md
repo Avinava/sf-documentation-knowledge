@@ -5,12 +5,10 @@ topic: get-report-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.669Z
+lastCollected: 2026-04-07T18:36:15.901Z
 estimatedTokens: 298
-keywords: [Report, Data, ReportResults, fact, map, that’s, associated]
+keywords: [Report, ReportResults, fact, map, that’s]
 ---
-
-# Get Report Data
 
 > You can use the ReportResults class to get the fact map, which contains data that’s associated
 with a report.

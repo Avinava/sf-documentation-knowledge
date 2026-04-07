@@ -5,12 +5,10 @@ topic: address
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.966Z
+lastCollected: 2026-04-07T18:40:13.944Z
 estimatedTokens: 337
-keywords: [Address, Work.com, uses, standard, store, data, workplace, location, Command, Center, managed, package, installs, custom]
+keywords: [Address, Work.com, uses, standard, store, workplace, location, Command, Center, managed, package, installs]
 ---
-
-# Address
 
 > Work.com uses the Address standard object to store data about a workplace
       location address. The Workplace Command Center managed package installs custom fields for the

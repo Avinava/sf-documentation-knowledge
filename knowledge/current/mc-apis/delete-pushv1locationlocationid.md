@@ -5,12 +5,10 @@ topic: delete-pushv1locationlocationid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.395Z
+lastCollected: 2026-04-07T18:40:16.536Z
 estimatedTokens: 124
-keywords: [push, location, locationId, Deletes, **Overview**, Usage]
+keywords: [push, location, locationId, Deletes, **Overview**]
 ---
-
-# DELETE /push/v1/location/{locationId}
 
 > Deletes an existing location.
 

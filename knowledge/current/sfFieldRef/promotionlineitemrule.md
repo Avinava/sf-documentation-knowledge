@@ -5,12 +5,10 @@ topic: promotionlineitemrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.566Z
+lastCollected: 2026-04-07T18:39:57.133Z
 estimatedTokens: 375
-keywords: [PromotionLineItemRule, compound, conditions, promotion, API, version, 59.0, later]
+keywords: [PromotionLineItemRule, compound, conditions, promotion, API, 59.0]
 ---
-
-# PromotionLineItemRule
 
 > Lists compound conditions about a promotion. This object is
       available in API version 59.0 and later.

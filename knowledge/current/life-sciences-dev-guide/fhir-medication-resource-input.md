@@ -5,12 +5,10 @@ topic: fhir-medication-resource-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.795Z
+lastCollected: 2026-04-07T18:37:55.136Z
 estimatedTokens: 239
-keywords: [FHIR, Medication, Resource, Input, representation]
+keywords: [FHIR, Medication, Resource]
 ---
-
-# FHIR Medication Resource Input
 
 > The input representation of FHIR Medication.
 

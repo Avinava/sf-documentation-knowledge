@@ -5,12 +5,10 @@ topic: place-order-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.720Z
+lastCollected: 2026-04-07T18:35:44.726Z
 estimatedTokens: 920
-keywords: [Place, Order, POST, orders, integrated, pricing, configuration, validation, manage, throughout, their, entire, lifecycle, Additionally, insert]
+keywords: [Place, Order, POST, orders, integrated, pricing, configuration, validation, manage, throughout, their, entire, lifecycle, Additionally, insert, items]
 ---
-
-# Place Order (POST)
 
 > Place orders with integrated pricing, configuration, and validation,
       and manage them throughout their entire lifecycle. Additionally, update an order or insert

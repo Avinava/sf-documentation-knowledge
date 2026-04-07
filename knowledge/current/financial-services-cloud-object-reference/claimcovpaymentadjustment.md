@@ -5,12 +5,10 @@ topic: claimcovpaymentadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.898Z
+lastCollected: 2026-04-07T18:37:36.718Z
 estimatedTokens: 849
-keywords: [ClaimCovPaymentAdjustment, amount, increased, decreased, claim, coverage, payment, adjustments, deductibles, copays, coinsurance, applied, claimed, API, version]
+keywords: [ClaimCovPaymentAdjustment, amount, increased, decreased, claim, coverage, payment, adjustments, deductibles, copays, coinsurance, applied, claimed, API, 52.0]
 ---
-
-# ClaimCovPaymentAdjustment
 
 > Represents the amount increased or decreased on a claim coverage payment as adjustments such as deductibles, copays, or coinsurance when applied on a claimed amount. This object is available in API version 52.0 and later.
 

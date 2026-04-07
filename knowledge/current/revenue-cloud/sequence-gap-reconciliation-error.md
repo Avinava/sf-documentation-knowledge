@@ -5,12 +5,10 @@ topic: sequence-gap-reconciliation-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.721Z
+lastCollected: 2026-04-07T18:35:46.694Z
 estimatedTokens: 119
-keywords: [Sequence, Gap, Reconciliation, Error, Output, representation, errors, encountered, processing, API]
+keywords: [Sequence, Gap, Reconciliation, Error, errors, encountered, processing, API]
 ---
-
-# Sequence Gap Reconciliation Error
 
 > Output representation of the errors encountered during the processing of the API
     request.

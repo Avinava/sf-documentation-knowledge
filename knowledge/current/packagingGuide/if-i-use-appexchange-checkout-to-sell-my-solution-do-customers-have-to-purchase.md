@@ -6,13 +6,10 @@ topic: if-i-use-appexchange-checkout-to-sell-my-solution-do-customers-have-to-pu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.011Z
+lastCollected: 2026-04-07T18:38:45.843Z
 estimatedTokens: 98
-keywords: [AppExchange, Checkout, sell, solution, customers, purchase, Yes, purchases, occur, subject, revenue, sharing, per, Salesforce, partnership]
+keywords: [AppExchange, Checkout, sell, solution, customers, purchase, Yes, purchases, occur, subject, revenue, sharing, per, Salesforce, partnership, agreement, transaction, processed, another, way, can’t, associate, provision, licenses, License, Management, App, LMA]
 ---
-
-# If I use AppExchange Checkout to sell my solution, do customers have to purchase from
-        AppExchange?
 
 > Yes, purchases must occur on AppExchange and are subject to revenue sharing per your
         Salesforce partnership agreement. Also, if the transaction is processed another way,

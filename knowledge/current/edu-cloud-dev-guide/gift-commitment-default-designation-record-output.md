@@ -5,12 +5,10 @@ topic: gift-commitment-default-designation-record-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.455Z
+lastCollected: 2026-04-07T18:37:29.540Z
 estimatedTokens: 136
-keywords: [Gift, Commitment, Designation, Record, Output, representation, associated]
+keywords: [Gift, Commitment, Designation, Record]
 ---
-
-# Gift Commitment Default Designation Record Output
 
 > Output representation of a default designation record associated with a gift
     commitment.

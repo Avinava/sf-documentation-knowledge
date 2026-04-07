@@ -5,12 +5,10 @@ topic: connectapidecisiontableoutcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.357Z
+lastCollected: 2026-04-07T18:36:35.862Z
 estimatedTokens: 233
-keywords: [ConnectApi.DecisionTableOutcome, Output, representation, decision, execution]
+keywords: [ConnectApi.DecisionTableOutcome, decision, execution]
 ---
-
-# ConnectApi.DecisionTableOutcome
 
 > Output representation of the decision table
     execution.

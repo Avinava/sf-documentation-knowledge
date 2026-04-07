@@ -5,12 +5,10 @@ topic: mobile-notifications-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:15.992Z
+lastCollected: 2026-04-07T18:39:09.310Z
 estimatedTokens: 1939
-keywords: [Mobile, Notifications, Lightning, Platform, allow, app, developers, notify, their, customers, business, events, occur, customers’, orgs]
+keywords: [Mobile, Notifications, Lightning, Platform, allow, app, developers, notify, their, customers, business, events, occur, customers’, orgs, Salesforce, considerable, flexibility, push, devices, deliver]
 ---
-
-# Mobile Notifications Overview
 
 > Mobile notifications on Lightning Platform allow mobile app developers to  notify their
       customers when business events occur in customers’ orgs. Salesforce provides

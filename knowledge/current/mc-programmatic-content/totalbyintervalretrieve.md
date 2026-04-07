@@ -5,12 +5,10 @@ topic: totalbyintervalretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.637Z
+lastCollected: 2026-04-07T18:40:24.069Z
 estimatedTokens: 226
-keywords: [TotalByInterval.Retrieve, Function, Ordinal, data, aggregate, include, Send, Open, CLick, Bounce, Unsubscribe, datetime, **Overview**, **Syntax**]
+keywords: [TotalByInterval.Retrieve, Function, Ordinal, aggregate, include, Send, Open, CLick, Bounce, Unsubscribe, datetime, **Overview**, **Syntax**]
 ---
-
-# TotalByInterval.Retrieve
 
 > TotalByInterval.Retrieve(1, 2, 3, 4)
 

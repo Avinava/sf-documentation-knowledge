@@ -5,12 +5,10 @@ topic: apexemailpublisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.446Z
+lastCollected: 2026-04-07T18:38:49.584Z
 estimatedTokens: 1107
-keywords: [apex, emailPublisher, email, publisher, lets, support, agents, Case, Feed, compose, send, messages, customers, customize, templates]
+keywords: [Attributes, apex, emailPublisher, email, publisher, lets, support, agents, Case, compose, send, messages, customers, customize, templates, attachments, organizations, Email-to-Case, enabled, Ext, versions, less, displays]
 ---
-
-# apex:emailPublisher
 
 > The email publisher lets support agents who use Case Feed compose and send email messages to customers. You can customize this publisher to support email templates and attachments. This component can only be used in organizations that have Case Feed and Email-to-Case enabled. Ext JS versions less th
 

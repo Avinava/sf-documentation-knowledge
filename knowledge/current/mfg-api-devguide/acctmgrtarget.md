@@ -5,12 +5,10 @@ topic: acctmgrtarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:22.522Z
+lastCollected: 2026-04-07T18:38:12.833Z
 estimatedTokens: 1326
-keywords: [AcctMgrTarget, target, created, account, manager, stores, fiscal, year, measure, start, date, end, assignment, API, version]
+keywords: [AcctMgrTarget, target, created, account, manager, stores, fiscal, year, measure, start, date, end, assignment, API, 49.0]
 ---
-
-# AcctMgrTarget
 
 > Represents a target created by an account manager. It stores the
       fiscal year, measure, target value, start date, end date, and assignment information of an

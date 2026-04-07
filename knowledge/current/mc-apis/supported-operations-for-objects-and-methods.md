@@ -5,12 +5,10 @@ topic: supported-operations-for-objects-and-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.346Z
+lastCollected: 2026-04-07T18:40:20.588Z
 estimatedTokens: 1010
-keywords: [Operations, Objects, chart, SOAP, API]
+keywords: [Operations, chart, SOAP, API]
 ---
-
-# Supported Operations for Objects and Methods
 
 > This chart lists the supported operations for objects and methods within the SOAP API.
 

@@ -6,13 +6,10 @@ topic: support-querymore-by-using-server-driven-paging-by-using-server-driven-pa
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.946Z
+lastCollected: 2026-04-07T18:36:17.165Z
 estimatedTokens: 381
-keywords: [Support, queryMore, Server-Driven, Paging, external, system, ignores, any, batch, boundaries, sizes, queries, enable, declare, QUERY_PAGINATION_SERVER_DRIVEN]
+keywords: [Support, queryMore, Server-Driven, Paging, external, system, ignores, any, batch, boundaries, sizes, queries, enable, declare, QUERY_PAGINATION_SERVER_DRIVEN, capability, DataSource.Provider]
 ---
-
-# Support  queryMore by Using Server-Driven Paging by Using
-            Server-Driven Paging
 
 > With server-driven paging, the external system controls the paging and ignores any
         batch boundaries or page sizes that are specified in queries. To enable server-driven

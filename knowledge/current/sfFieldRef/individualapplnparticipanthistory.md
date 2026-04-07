@@ -5,12 +5,10 @@ topic: individualapplnparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.114Z
+lastCollected: 2026-04-07T18:39:44.692Z
 estimatedTokens: 281
-keywords: [IndividualApplnParticipantHistory, History, tracked, IndividualApplnParticipant]
+keywords: [IndividualApplnParticipantHistory, tracked, IndividualApplnParticipant]
 ---
-
-# IndividualApplnParticipantHistory
 
 > History for tracked fields of IndividualApplnParticipant.
 

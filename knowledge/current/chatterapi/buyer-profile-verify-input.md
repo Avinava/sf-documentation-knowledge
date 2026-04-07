@@ -5,12 +5,10 @@ topic: buyer-profile-verify-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.676Z
+lastCollected: 2026-04-07T18:37:07.395Z
 estimatedTokens: 237
-keywords: [Buyer, Profile, Verify, Input]
+keywords: [Buyer, Profile, Verify]
 ---
-
-# Buyer Profile Verify Input
 
 > Input details for the buyer profile verify request.
 

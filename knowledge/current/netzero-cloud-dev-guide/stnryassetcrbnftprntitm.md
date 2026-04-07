@@ -5,12 +5,10 @@ topic: stnryassetcrbnftprntitm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.905Z
+lastCollected: 2026-04-07T18:38:19.627Z
 estimatedTokens: 1610
-keywords: [StnryAssetCrbnFtprntItm, total, tCO₂e, emissions, individual, fuel, child, records, stationary, asset, carbon, footprint, record, API, version]
+keywords: [StnryAssetCrbnFtprntItm, total, tCO₂e, emissions, individual, fuel, child, records, stationary, asset, carbon, footprint, record, API, 54.0]
 ---
-
-# StnryAssetCrbnFtprntItm
 
 > Represents the total tCO₂e emissions of individual fuel types, which are the
          child records of the stationary asset carbon footprint record. This object is

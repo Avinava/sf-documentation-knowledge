@@ -5,12 +5,10 @@ topic: cgcloudcpsearchstrategystepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.966Z
+lastCollected: 2026-04-07T18:39:13.376Z
 estimatedTokens: 1710
-keywords: [cgcloud__CP_Search_Strategy_Step__c, stores, relationship, search, strategy, key, complex, pricing, steps, API, version, 54.0, later, cgcloud, _CP]
+keywords: [cgcloud__CP_Search_Strategy_Step__c, stores, relationship, search, strategy, key, complex, pricing, steps, API, 54.0, cgcloud, _CP, _Search, _Strategy, _Step]
 ---
-
-# cgcloud__CP_Search_Strategy_Step__c
 
 > This object stores the details of the relationship between search
          strategy and key type, which is used to search for complex pricing strategy steps.

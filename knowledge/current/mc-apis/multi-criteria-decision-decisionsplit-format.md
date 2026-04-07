@@ -5,12 +5,10 @@ topic: multi-criteria-decision-decisionsplit-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.329Z
+lastCollected: 2026-04-07T18:40:16.469Z
 estimatedTokens: 846
-keywords: [Multi, Criteria, Decision, DecisionSplit, multi-criteria, activity, split, decides, branch, contact, follows, workflow, attribute, runtime, cannot]
+keywords: [Multi, Criteria, Decision, DecisionSplit, multi-criteria, activity, split, decides, branch, contact, follows, workflow, attribute, runtime, cannot, #journey-specification-format, Journey, Specification, Helpful, Hints, Sample, Items]
 ---
-
-# Multi Criteria Decision (DecisionSplit) Format
 
 > The multi-criteria decision activity, also called the decision split activity, decides which branch a contact follows in a workflow based on contact attribute values at runtime. This activity type cannot be used in a custom activity.
 

@@ -6,13 +6,10 @@ topic: schedule-a-push-upgrade-using-soap-api-for-first--and-second-generation-m
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.614Z
+lastCollected: 2026-04-07T18:38:56.160Z
 estimatedTokens: 797
-keywords: [Schedule, Push, Upgrade, SOAP, API, First-, Second-Generation, Managed, Packages, you’ve, created, updated, version, package, automatically]
+keywords: [Schedule, Push, Upgrade, SOAP, API, First-, Second-Generation, Managed, Packages, you’ve, created, updated, package, automatically, deploy, customers]
 ---
-
-# Schedule a Push Upgrade Using SOAP API for First- and Second-Generation Managed
-    Packages
 
 > After you’ve created an updated version of your package, you can automatically deploy
     it to customers using a push upgrade.

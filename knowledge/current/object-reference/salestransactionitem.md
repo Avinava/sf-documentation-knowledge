@@ -5,12 +5,10 @@ topic: salestransactionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:33.284Z
+lastCollected: 2026-04-07T18:38:24.171Z
 estimatedTokens: 3055
-keywords: [SalesTransactionItem, business, logic, sales, transaction, item, order, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [SalesTransactionItem, business, logic, sales, transaction, item, order, API, 55.0]
 ---
-
-# SalesTransactionItem
 
 > Defines the business logic for a sales transaction item, for example, an item
          in an order. This object interface is available in API version 55.0 and later.

@@ -5,12 +5,10 @@ topic: bounding-box
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.200Z
+lastCollected: 2026-04-07T18:36:56.777Z
 estimatedTokens: 118
 keywords: [Bounding, Box, map]
 ---
-
-# Bounding Box
 
 > A bounding box of a map.
 

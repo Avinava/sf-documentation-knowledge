@@ -5,12 +5,10 @@ topic: switch-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.465Z
+lastCollected: 2026-04-07T18:36:19.682Z
 estimatedTokens: 848
-keywords: [Switch, Statements, Apex, statement, tests, whether, expression, matches, several, branches, accordingly, Blocks, Else, Block, Examples]
+keywords: [Switch, Statements, Apex, statement, tests, whether, expression, matches, several, branches, accordingly, Blocks, Else, Block, Examples, Literals, sObjects, Enums]
 ---
-
-# Switch Statements
 
 > Apex provides a switch statement that tests
         whether an expression matches one of several values and branches accordingly.

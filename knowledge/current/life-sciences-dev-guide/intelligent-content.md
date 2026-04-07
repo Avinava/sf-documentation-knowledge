@@ -5,12 +5,10 @@ topic: intelligent-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.681Z
+lastCollected: 2026-04-07T18:37:57.200Z
 estimatedTokens: 272
-keywords: [Intelligent, Content, facilitates, marketing, strategies, enabling, direct, interactive, communications, healthcare, professionals, HCPs, Sales, medical, teams]
+keywords: [Intelligent, Content, facilitates, marketing, strategies, enabling, direct, interactive, communications, healthcare, professionals, HCPs, Sales, medical, teams, deliver, personalized, presentations, real-time, feedback, analytics, enhancing, impact, their, interactions, continuously, refining, optimizing, messages, collection, analysis, ensures, they, relevant, responsive, HCP, needs, preferences, capabilities, include, optimized, user, interfaces, offering, comprehensive, solution, targeted, delivery, planned, unplanned]
 ---
-
-# Intelligent Content
 
 > Intelligent Content facilitates marketing strategies by enabling direct and interactive
   communications with healthcare professionals (HCPs). Sales and medical teams can deliver

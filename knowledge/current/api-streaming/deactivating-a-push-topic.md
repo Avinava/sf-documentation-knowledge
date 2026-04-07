@@ -5,12 +5,10 @@ topic: deactivating-a-push-topic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.063Z
+lastCollected: 2026-04-07T18:36:51.378Z
 estimatedTokens: 54
 keywords: [Deactivating, Push, Topic, temporarily, deactivate, PushTopic, rather, deleting, setting, isActive]
 ---
-
-# Deactivating a Push Topic
 
 > You can temporarily deactivate a PushTopic, rather than deleting it, by setting the isActive field to false.
 

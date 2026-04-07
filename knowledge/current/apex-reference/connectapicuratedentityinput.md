@@ -5,12 +5,10 @@ topic: connectapicuratedentityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.818Z
+lastCollected: 2026-04-07T18:36:05.200Z
 estimatedTokens: 81
-keywords: [ConnectApi.CuratedEntityInput, input, curated, entity]
+keywords: [ConnectApi.CuratedEntityInput, curated, entity]
 ---
-
-# ConnectApi.CuratedEntityInput
 
 > Represents the input details for a curated entity.
 

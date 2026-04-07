@@ -5,12 +5,10 @@ topic: item-arrangements-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.941Z
+lastCollected: 2026-04-07T18:37:08.758Z
 estimatedTokens: 103
-keywords: [Item, Arrangements, Input, Arrangement, cart, items, delivery, groups, Includes, instructions]
+keywords: [Item, Arrangements, Arrangement, cart, items, delivery, groups, Includes, instructions]
 ---
-
-# Item Arrangements Input
 
 > Arrangement of cart items into delivery groups. Includes instructions for one or more
       cart items.

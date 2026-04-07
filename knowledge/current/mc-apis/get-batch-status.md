@@ -5,12 +5,10 @@ topic: get-batch-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.906Z
+lastCollected: 2026-04-07T18:40:18.088Z
 estimatedTokens: 361
 keywords: [Batch, Status, API, resource, checks, privacy, settings, changes, call, change, made, profiles, Endpoint, URL]
 ---
-
-# Get Batch Status
 
 > This API resource checks the status of a batch of privacy settings changes. The call returns the status of each change made to the profiles.
 

@@ -5,13 +5,11 @@ topic: context-service-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:55.017Z
+lastCollected: 2026-04-07T18:36:40.723Z
 estimatedTokens: 93
 namespace: Context
 keywords: [Context, Service, Apex, built-in, manage, processes]
 ---
-
-# Context Service Apex Reference
 
 > Use the built-in Apex class to manage the processes of a context
       service.

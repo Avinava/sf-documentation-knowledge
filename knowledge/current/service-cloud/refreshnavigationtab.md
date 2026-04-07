@@ -5,12 +5,10 @@ topic: refreshnavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.427Z
+lastCollected: 2026-04-07T18:36:50.679Z
 estimatedTokens: 160
-keywords: [refreshNavigationTab, Refreshes, selected, navigation, tab, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, refreshNavigationTab, Refreshes, selected, navigation, tab, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# refreshNavigationTab()
 
 > Refreshes the selected navigation tab. This method
             is only available in API version 31.0 or later.

@@ -5,12 +5,10 @@ topic: implement-a-queue-management-visitor-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.242Z
+lastCollected: 2026-04-07T18:40:14.250Z
 estimatedTokens: 284
-keywords: [Implement, Queue, Management, Visitor, Experience, Let, patrons, join, digital, wait-list, keep, tabs, facility, occupancy, product]
+keywords: [Implement, Queue, Management, Visitor, Experience, Let, patrons, join, digital, wait-list, keep, tabs, facility, occupancy, product, includes, ready-made, host, assign, permissions, managers, well, regulate, customer, queues, document, helps, customized, sign]
 ---
-
-# Implement a Queue Management Visitor Experience
 
 > Let patrons join a digital wait-list and keep tabs on your facility occupancy with Queue
   Management. The product includes a ready-made host experience that allows you to assign

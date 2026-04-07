@@ -5,12 +5,10 @@ topic: pv2---patient-visit---additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.000Z
+lastCollected: 2026-04-07T18:37:58.526Z
 estimatedTokens: 252
-keywords: [PV2, Patient, Visit, Additional, HL7, segment, maps, primarily, ClinicalEncounter, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [PV2, Patient, Visit, Additional, HL7, segment, maps, primarily, ClinicalEncounter, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# PV2 - Patient Visit - Additional Information
 
 > The Patient Visit - Additional Information (PV2) HL7 segment maps primarily to the
       ClinicalEncounter object in Salesforce.

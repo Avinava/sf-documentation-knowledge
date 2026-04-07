@@ -5,12 +5,10 @@ topic: careprogramgoalhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.123Z
+lastCollected: 2026-04-07T18:39:32.523Z
 estimatedTokens: 264
-keywords: [CareProgramGoalHistory, History, tracked, CareProgramGoal]
+keywords: [CareProgramGoalHistory, tracked, CareProgramGoal]
 ---
-
-# CareProgramGoalHistory
 
 > History for tracked fields of CareProgramGoal.
 

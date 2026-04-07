@@ -5,12 +5,10 @@ topic: individualapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.674Z
+lastCollected: 2026-04-07T18:37:47.248Z
 estimatedTokens: 1409
-keywords: [IndividualApplication, application, form, submitted, individual, Provider, Network, Management, permission, license, Calls, Associated, Objects]
+keywords: [IndividualApplication, application, form, submitted, individual, Provider, Network, Management, permission, license]
 ---
-
-# IndividualApplication
 
 > Represents an application form submitted by an individual. Available with
     the Provider Network Management permission set license.

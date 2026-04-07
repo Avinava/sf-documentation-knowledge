@@ -5,12 +5,10 @@ topic: registeredexternalservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.842Z
+lastCollected: 2026-04-07T18:36:34.200Z
 estimatedTokens: 1685
-keywords: [RegisteredExternalService, registered, external, service, provide, extension, integration, API, version, 49.0, later, SOAP, Calls, REST, Special]
+keywords: [RegisteredExternalService, registered, external, service, provide, extension, integration, API, 49.0, SOAP, REST]
 ---
-
-# RegisteredExternalService
 
 > Represents a registered external service used to provide an extension or
          integration. This object is available in API version 49.0 and later.

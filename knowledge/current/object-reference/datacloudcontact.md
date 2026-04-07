@@ -5,12 +5,10 @@ topic: datacloudcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:38.657Z
+lastCollected: 2026-04-07T18:38:29.543Z
 estimatedTokens: 1138
-keywords: [DatacloudContact, Data.com, contact, records, API, version, 30.0, later, Calls, Usage]
+keywords: [DatacloudContact, Data.com, contact, records, API, 30.0]
 ---
-
-# DatacloudContact
 
 > The fields and
 				properties for Data.com contact records. This object is available in API

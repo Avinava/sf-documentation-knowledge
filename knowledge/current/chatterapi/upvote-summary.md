@@ -5,12 +5,10 @@ topic: upvote-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.424Z
+lastCollected: 2026-04-07T18:37:23.535Z
 estimatedTokens: 192
 keywords: [Upvote, Summary]
 ---
-
-# Upvote Summary
 
 > Upvote summary.
 

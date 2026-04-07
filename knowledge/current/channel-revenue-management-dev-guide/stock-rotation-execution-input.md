@@ -5,12 +5,10 @@ topic: stock-rotation-execution-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.135Z
+lastCollected: 2026-04-07T18:37:05.831Z
 estimatedTokens: 257
-keywords: [Stock, Rotation, Execution, Input, representation, performing, action]
+keywords: [Stock, Rotation, Execution, performing, action]
 ---
-
-# Stock Rotation Execution Input
 
 > Input representation for performing an action on a stock rotation
     execution.

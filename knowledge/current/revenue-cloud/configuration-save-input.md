@@ -5,12 +5,10 @@ topic: configuration-save-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.313Z
+lastCollected: 2026-04-07T18:35:43.200Z
 estimatedTokens: 156
-keywords: [Configuration, Save, Input, representation]
+keywords: [Configuration, Save]
 ---
-
-# Configuration Save Input
 
 > Input representation of the details to save a configuration.
 

@@ -5,12 +5,10 @@ topic: connectapiproductmediagroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.830Z
+lastCollected: 2026-04-07T18:36:11.095Z
 estimatedTokens: 308
-keywords: [ConnectApi.ProductMediaGroup, Media, group, associated, product]
+keywords: [ConnectApi.ProductMediaGroup, Media, group, product]
 ---
-
-# ConnectApi.ProductMediaGroup
 
 > Media group associated with a product.
 

@@ -5,12 +5,10 @@ topic: salesforce-surveys-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.759Z
+lastCollected: 2026-04-07T18:39:17.419Z
 estimatedTokens: 510
-keywords: [Salesforce, Surveys, Standard, Invocable, Actions, Send, email, survey, invitations, leads, contacts, users, org, action, customized]
+keywords: [Salesforce, Surveys, Standard, Invocable, Actions, Send, email, survey, invitations, leads, contacts, users, org, action, customized, notifications, events, updates, records, they’re, working]
 ---
-
-# Salesforce Surveys Standard Invocable Actions
 
 > Send email survey invitations to leads, contacts, and users in
       your org based on an action. Also, send customized notifications to users about important

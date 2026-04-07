@@ -5,12 +5,10 @@ topic: mention-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.526Z
+lastCollected: 2026-04-07T18:37:20.709Z
 estimatedTokens: 270
 keywords: [Mention, Validation, whether, proposed, context, user]
 ---
-
-# Mention Validation
 
 > Information about whether a proposed mention is valid for the context user.
 

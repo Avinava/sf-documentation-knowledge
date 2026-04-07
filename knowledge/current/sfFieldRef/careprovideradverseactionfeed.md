@@ -5,12 +5,10 @@ topic: careprovideradverseactionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.310Z
+lastCollected: 2026-04-07T18:39:32.711Z
 estimatedTokens: 365
-keywords: [CareProviderAdverseActionFeed, Feed, tracking, CareProviderAdverseAction]
+keywords: [CareProviderAdverseActionFeed, CareProviderAdverseAction]
 ---
-
-# CareProviderAdverseActionFeed
 
 > Feed tracking for CareProviderAdverseAction.
 

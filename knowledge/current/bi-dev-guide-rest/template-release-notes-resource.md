@@ -5,12 +5,10 @@ topic: template-release-notes-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:09.913Z
+lastCollected: 2026-04-07T18:36:56.465Z
 estimatedTokens: 382
-keywords: [Template, Release, Notes, Resource, Analytics, URL, Formats, Version, Postman, Components, HTTP]
+keywords: [Formats, Template, Release, Notes, Resource, Analytics, URL, Postman, HTTP]
 ---
-
-# Template Release Notes Resource
 
 > Returns the release notes for a single Analytics
     Template.

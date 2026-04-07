@@ -5,12 +5,10 @@ topic: about-sync-task-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.413Z
+lastCollected: 2026-04-07T18:40:25.782Z
 estimatedTokens: 374
-keywords: [Sync, Task, Errors, Mobile, SDK, 7.1, later, error, consistently, across, platforms, New, Updated, Resync, Deprecated]
+keywords: [Sync, Task, Errors, Mobile, SDK, 7.1, error, consistently, across, platforms, New, Updated, Resync, Deprecated, iOS]
 ---
-
-# About Sync Task Errors
 
 > In Mobile SDK 7.1 and later, sync task methods return error information consistently
     across platforms.

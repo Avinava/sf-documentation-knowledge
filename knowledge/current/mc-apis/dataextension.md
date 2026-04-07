@@ -5,12 +5,10 @@ topic: dataextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.237Z
+lastCollected: 2026-04-07T18:40:16.376Z
 estimatedTokens: 1500
-keywords: [DataExtension, data, extension, account, Items]
+keywords: [DataExtension, extension, account, Items]
 ---
-
-# DataExtension
 
 > The DataExtension object represents a data extension within an account.
 

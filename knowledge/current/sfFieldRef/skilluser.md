@@ -5,12 +5,10 @@ topic: skilluser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.726Z
+lastCollected: 2026-04-07T18:40:02.412Z
 estimatedTokens: 267
-keywords: [SkillUser, join, Skill, User, API, version, 24.0, later]
+keywords: [SkillUser, join, Skill, User, API, 24.0]
 ---
-
-# SkillUser
 
 > Represents a join between Skill and User. This object is available
     in API version 24.0 and later.

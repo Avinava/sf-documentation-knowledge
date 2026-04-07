@@ -5,12 +5,10 @@ topic: impactstrategyassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.565Z
+lastCollected: 2026-04-07T18:36:43.304Z
 estimatedTokens: 647
-keywords: [ImpactStrategyAssignment, connection, impact, strategy, outcome, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ImpactStrategyAssignment, connection, impact, strategy, outcome, API, 59.0]
 ---
-
-# ImpactStrategyAssignment
 
 > Represents the connection between the impact strategy and the outcome
          or other object related to the impact strategy. This object is available in API

@@ -5,12 +5,10 @@ topic: fulfillmentstepdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:47.076Z
+lastCollected: 2026-04-07T18:39:41.727Z
 estimatedTokens: 505
-keywords: [FulfillmentStepDefinition, definition, step, executed, fulfillment, orchestration, API, version, 61.0, later]
+keywords: [FulfillmentStepDefinition, definition, step, executed, fulfillment, orchestration, API, 61.0]
 ---
-
-# FulfillmentStepDefinition
 
 > Represents a definition of a step that must be executed during
          fulfillment orchestration. This object is available in API version 61.0 and

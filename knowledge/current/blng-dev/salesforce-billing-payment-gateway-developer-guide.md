@@ -5,12 +5,10 @@ topic: salesforce-billing-payment-gateway-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.502Z
+lastCollected: 2026-04-07T18:37:03.065Z
 estimatedTokens: 219
-keywords: [Salesforce, Billing, Payment, Gateway, Developer, API, enable, communication, external, gateways, integrate, process, credit, card, ACH]
+keywords: [Salesforce, Billing, Payment, Gateway, Developer, API, enable, communication, external, gateways, integrate, process, credit, card, ACH, transactions, provide, several, integration, options, support, integrations]
 ---
-
-# Salesforce Billing Payment Gateway Developer Guide
 
 > Use Salesforce Billing gateway API to enable communication between Salesforce Billing
   and external payment gateways. Salesforce Billing can integrate with payment gateways that process

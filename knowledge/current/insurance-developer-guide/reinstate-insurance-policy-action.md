@@ -5,12 +5,10 @@ topic: reinstate-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.192Z
+lastCollected: 2026-04-07T18:37:48.930Z
 estimatedTokens: 229
-keywords: [Reinstate, Insurance, Policy, Action, previously, canceled, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Reinstate, Insurance, Policy, Action, previously, canceled, REST, HTTP]
 ---
-
-# Reinstate Insurance Policy Action
 
 > Reinstate a previously canceled insurance policy.
 

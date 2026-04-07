@@ -5,12 +5,10 @@ topic: social-posts-intents-recall-publish-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.867Z
+lastCollected: 2026-04-07T18:37:15.936Z
 estimatedTokens: 126
 keywords: [Social, Posts, Intents, Recall, Publish, Approval, post]
 ---
-
-# Social Posts Intents, Recall Publish Approval
 
 > Recall an approval request to publish a social
     post.

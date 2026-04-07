@@ -5,12 +5,10 @@ topic: indicatorresulthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.972Z
+lastCollected: 2026-04-07T18:39:44.560Z
 estimatedTokens: 263
-keywords: [IndicatorResultHistory, History, tracked, IndicatorResult]
+keywords: [IndicatorResultHistory, tracked, IndicatorResult]
 ---
-
-# IndicatorResultHistory
 
 > History for tracked fields of IndicatorResult.
 

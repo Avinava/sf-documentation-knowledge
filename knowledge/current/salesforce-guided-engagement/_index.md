@@ -2,7 +2,7 @@
 domain: salesforce-guided-engagement
 name: Lightning Flow for Service Developer Guide
 documentCount: 24
-lastGenerated: 2026-04-07T09:06:38.401Z
+lastGenerated: 2026-04-07T18:40:43.469Z
 ---
 
 # Lightning Flow for Service Developer Guide — Knowledge Index

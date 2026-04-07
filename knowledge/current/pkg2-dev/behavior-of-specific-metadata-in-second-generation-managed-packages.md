@@ -5,13 +5,11 @@ topic: behavior-of-specific-metadata-in-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.982Z
+lastCollected: 2026-04-07T18:38:56.646Z
 estimatedTokens: 1240
 namespace: Metadata
 keywords: [Behavior, Specific, Metadata, Second-Generation, Managed, Packages, how, profiles, visibility, handled]
 ---
-
-# Behavior of Specific Metadata in Second-Generation Managed Packages
 
 > Learn how profiles and namespace visibility are handled for second-generation managed
   packages.

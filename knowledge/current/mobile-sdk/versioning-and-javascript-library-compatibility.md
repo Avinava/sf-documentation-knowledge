@@ -5,12 +5,10 @@ topic: versioning-and-javascript-library-compatibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.837Z
+lastCollected: 2026-04-07T18:40:26.158Z
 estimatedTokens: 894
-keywords: [Versioning, JavaScript, Library, Compatibility, hybrid, applications, client, code, interacts, native, Cordova, formerly, PhoneGap, SalesforceSDK, plug-ins]
+keywords: [Versioning, JavaScript, Library, Compatibility, hybrid, applications, client, code, interacts, native, Cordova, formerly, PhoneGap, SalesforceSDK, plug-ins, package, mobile, application, testing, assures, works, However, Finding, SDK, User, Agent, Detecting, sdkinfo, Plugin]
 ---
-
-# Versioning and JavaScript Library Compatibility
 
 > In hybrid applications, client JavaScript code interacts with native code through Cordova
    (formerly PhoneGap) and SalesforceSDK plug-ins. When you package your JavaScript code with your

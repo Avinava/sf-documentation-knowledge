@@ -5,12 +5,10 @@ topic: open-claim-coverage-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.146Z
+lastCollected: 2026-04-07T18:37:48.882Z
 estimatedTokens: 175
-keywords: [Open, Claim, Coverage, Action, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Open, Claim, Coverage, Action, REST, HTTP]
 ---
-
-# Open Claim Coverage Action
 
 > Open a claim coverage.
 

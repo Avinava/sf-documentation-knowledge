@@ -5,12 +5,10 @@ topic: apexrelatedlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.276Z
+lastCollected: 2026-04-07T18:38:50.522Z
 estimatedTokens: 633
-keywords: [apex, relatedList, Salesforce, records, parent, record, lookup, master-detail, relationship, Attributes, Facets]
+keywords: [Attributes, Facets, apex, relatedList, Salesforce, records, parent, record, lookup, master-detail, relationship]
 ---
-
-# apex:relatedList
 
 > A list of Salesforce records that are related to a parent record with a lookup or master-detail relationship.
 

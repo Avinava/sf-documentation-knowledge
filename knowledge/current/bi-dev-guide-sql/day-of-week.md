@@ -5,12 +5,10 @@ topic: day-of-week
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.998Z
+lastCollected: 2026-04-07T18:37:01.609Z
 estimatedTokens: 101
 keywords: [Day, Week, specific, date]
 ---
-
-# Day of Week
 
 > Returns an integer that represents the day of the week for a specific date.
 

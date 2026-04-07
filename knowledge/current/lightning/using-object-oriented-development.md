@@ -5,12 +5,10 @@ topic: using-object-oriented-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.689Z
+lastCollected: 2026-04-07T18:38:04.836Z
 estimatedTokens: 453
 keywords: [Object-Oriented, Development, framework, basic, constructs, inheritance, encapsulation, programming, presentation, layer]
 ---
-
-# Using Object-Oriented Development
 
 > The framework provides the basic constructs of inheritance and encapsulation from
     object-oriented programming and applies them to presentation layer development.

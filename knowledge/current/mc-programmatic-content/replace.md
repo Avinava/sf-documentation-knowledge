@@ -5,12 +5,10 @@ topic: replace
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.465Z
+lastCollected: 2026-04-07T18:40:21.752Z
 estimatedTokens: 139
-keywords: [Replace, Function, Ordinal, Variable, replac, **Overview**, **Syntax**, Usage]
+keywords: [Replace, Function, Ordinal, Variable, replac, **Overview**, **Syntax**]
 ---
-
-# Replace
 
 > Replace(1, 2, 3)
 

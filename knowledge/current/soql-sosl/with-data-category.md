@@ -5,12 +5,10 @@ topic: with-data-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.231Z
+lastCollected: 2026-04-07T18:40:10.204Z
 estimatedTokens: 759
-keywords: [DATA, CATEGORY, search, Salesforce, Knowledge, articles, questions, their, SOQL, query, clause, SELECT, statement, that’s, filter]
+keywords: [CATEGORY, search, Salesforce, Knowledge, articles, questions, their, SOQL, query, clause, SELECT, statement, that’s, filter, records, categories, visible, users, filteringExpression]
 ---
-
-# WITH DATA CATEGORY
 
 > You can search for Salesforce Knowledge
         articles and questions by their data category in a SOQL query. WITH DATA CATEGORY is an optional clause in a SELECT statement that’s used to filter records that are associated with one or

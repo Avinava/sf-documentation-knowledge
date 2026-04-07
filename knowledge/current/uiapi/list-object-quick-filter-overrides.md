@@ -5,12 +5,10 @@ topic: list-object-quick-filter-overrides
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.777Z
+lastCollected: 2026-04-07T18:40:11.791Z
 estimatedTokens: 138
 keywords: [Quick, Filter, Overrides, column]
 ---
-
-# List Object Quick Filter Overrides
 
 > List object column quick filter overrides.
 

@@ -5,12 +5,10 @@ topic: displaydurationinseconds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.888Z
+lastCollected: 2026-04-07T18:38:05.047Z
 estimatedTokens: 122
 keywords: [displayDurationInSeconds, Displays, length, time, seconds, Sample, Code]
 ---
-
-# displayDurationInSeconds()
 
 > Displays a length of time in seconds.
 

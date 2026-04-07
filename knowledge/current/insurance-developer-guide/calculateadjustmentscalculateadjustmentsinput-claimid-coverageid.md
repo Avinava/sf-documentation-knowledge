@@ -5,12 +5,10 @@ topic: calculateadjustmentscalculateadjustmentsinput-claimid-coverageid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.387Z
+lastCollected: 2026-04-07T18:37:49.216Z
 estimatedTokens: 324
-keywords: [CalculateAdjustments, CalculateAdjustmentsInput, claimId, coverageId, Calculate, adjustments, loss, item, determine, final, payable, amount, specific, claim, API]
+keywords: [CalculateAdjustments, CalculateAdjustmentsInput, claimId, coverageId, Calculate, adjustments, loss, item, determine, final, payable, amount, specific, claim, API, Requires, Chatter]
 ---
-
-# CalculateAdjustments(CalculateAdjustmentsInput, claimId, coverageId)
 
 > Calculate adjustments for a loss item and determine the final payable amount for a
   specific claim loss item.

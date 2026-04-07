@@ -5,13 +5,11 @@ topic: transcript-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.230Z
+lastCollected: 2026-04-07T18:39:00.287Z
 estimatedTokens: 442
 namespace: DataRetrieval
 keywords: [Transcript, Stores, conversation, customers, agents, written, specifying, roles, participants, their, messages, role, message]
 ---
-
-# Transcript Class
 
 > Stores the conversation between customers and agents in written format, specifying the
     roles of the participants and their messages.

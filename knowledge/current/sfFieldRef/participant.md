@@ -5,12 +5,10 @@ topic: participant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.247Z
+lastCollected: 2026-04-07T18:39:51.661Z
 estimatedTokens: 314
-keywords: [Participant, ConversationParticipant, new, referenced, time, created, API, version, 57.0, later]
+keywords: [Participant, ConversationParticipant, new, referenced, time, created, API, 57.0]
 ---
-
-# Participant
 
 > Represents a participant in a ConversationParticipant. An existing or
          new Participant is referenced each time a new ConversationParticipant is created. This

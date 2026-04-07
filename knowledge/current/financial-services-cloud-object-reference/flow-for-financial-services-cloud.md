@@ -5,12 +5,10 @@ topic: flow-for-financial-services-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.950Z
+lastCollected: 2026-04-07T18:37:35.613Z
 estimatedTokens: 612
-keywords: [Flow, Financial, Services, Cloud, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
+keywords: [Flow, FlowActionCall, Financial, Services, Cloud, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Financial Services Cloud
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

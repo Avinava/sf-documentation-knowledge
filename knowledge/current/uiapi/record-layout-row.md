@@ -5,12 +5,10 @@ topic: record-layout-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.087Z
+lastCollected: 2026-04-07T18:40:12.092Z
 estimatedTokens: 117
 keywords: [Record, Layout, Row]
 ---
-
-# Record Layout Row
 
 > A row in a record layout.
 

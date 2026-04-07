@@ -5,12 +5,10 @@ topic: understanding-date-and-time-serialization
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:59.373Z
+lastCollected: 2026-04-07T18:38:51.628Z
 estimatedTokens: 187
 keywords: [Understanding, Date, Time, Serialization, serialized, epoch, passed, via, Visualforce, remoting, Datetime]
 ---
-
-# Understanding Date and Time Serialization
 
 > Date and time values are serialized as epoch time when passed via Visualforce
     remoting.

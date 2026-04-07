@@ -5,12 +5,10 @@ topic: care-plan-session-enrollee-info-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.125Z
+lastCollected: 2026-04-07T18:39:02.340Z
 estimatedTokens: 84
-keywords: [Care, Plan, Session, Enrollee, Info, Output, representation, benefit, enrollees]
+keywords: [Care, Plan, Session, Enrollee, Info, benefit, enrollees]
 ---
-
-# Care Plan Session Enrollee Info List
 
 > Output representation of the details of benefit session
       enrollees.

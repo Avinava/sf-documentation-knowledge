@@ -5,12 +5,10 @@ topic: campaignshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.379Z
+lastCollected: 2026-04-07T18:38:27.372Z
 estimatedTokens: 830
-keywords: [CampaignShare, sharing, entry, Campaign, Calls, Special, Access, Rules, Usage]
+keywords: [CampaignShare, sharing, entry, Campaign]
 ---
-
-# CampaignShare
 
 > Represents a sharing entry on a Campaign.
 

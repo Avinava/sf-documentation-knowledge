@@ -5,12 +5,10 @@ topic: tenantsecurityconnectedapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.568Z
+lastCollected: 2026-04-07T18:38:42.324Z
 estimatedTokens: 1273
-keywords: [TenantSecurityConnectedApp, Stores, connected, app, added, removed, Security, Center, tenant, subscribers, API, version, 53.0, later, Calls]
+keywords: [TenantSecurityConnectedApp, Stores, connected, app, added, removed, Security, Center, tenant, subscribers, API, 53.0]
 ---
-
-# TenantSecurityConnectedApp
 
 > Stores the details for a connected app that was added to or removed from a Security
       Center tenant. This object is available to Security Center subscribers in API version 53.0 and

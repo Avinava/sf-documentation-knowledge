@@ -5,12 +5,10 @@ topic: insurancecontractfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.547Z
+lastCollected: 2026-04-07T18:39:45.103Z
 estimatedTokens: 361
-keywords: [InsuranceContractFeed, Feed, tracking, InsuranceContract]
+keywords: [InsuranceContractFeed, InsuranceContract]
 ---
-
-# InsuranceContractFeed
 
 > Feed tracking for InsuranceContract.
 

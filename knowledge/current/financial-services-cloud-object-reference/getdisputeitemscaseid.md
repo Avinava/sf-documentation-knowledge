@@ -5,12 +5,10 @@ topic: getdisputeitemscaseid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.587Z
+lastCollected: 2026-04-07T18:37:34.065Z
 estimatedTokens: 148
 keywords: [getDisputeItems, caseId, disputed, transactions, Case, createDisputeItemMerchAlert, getAlertStatusDetails, getDisputeBatchDetails, actions, call]
 ---
-
-# getDisputeItems(caseId)
 
 > Returns disputed transactions related to the specified Case ID. Called by the
     createDisputeItemMerchAlert, getAlertStatusDetails, getDisputeBatchDetails actions of the call

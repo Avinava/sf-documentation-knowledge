@@ -5,12 +5,10 @@ topic: stgdefinitionassignedrecordhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.049Z
+lastCollected: 2026-04-07T18:40:02.732Z
 estimatedTokens: 280
-keywords: [StgDefinitionAssignedRecordHistory, History, tracked, StgDefinitionAssignedRecord]
+keywords: [StgDefinitionAssignedRecordHistory, tracked, StgDefinitionAssignedRecord]
 ---
-
-# StgDefinitionAssignedRecordHistory
 
 > History for tracked fields of StgDefinitionAssignedRecord.
 

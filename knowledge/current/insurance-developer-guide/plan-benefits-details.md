@@ -5,12 +5,10 @@ topic: plan-benefits-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.087Z
+lastCollected: 2026-04-07T18:37:52.224Z
 estimatedTokens: 227
-keywords: [Plan, Benefits, Output, representation, insurance, policy]
+keywords: [Plan, Benefits, insurance, policy]
 ---
-
-# Plan Benefits Details
 
 > Output representation details of the insurance policy benefits.
 

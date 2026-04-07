@@ -5,12 +5,10 @@ topic: fields-on-productrequestlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.759Z
+lastCollected: 2026-04-07T18:37:57.284Z
 estimatedTokens: 92
 keywords: [ProductRequestLineItem, Life, Sciences, Cloud, extend, Product, Line, Item, represent, sample, order]
 ---
-
-# Fields on ProductRequestLineItem
 
 > Life Sciences Cloud fields extend the Product Request Line Item object to represent
     information about sample order details.

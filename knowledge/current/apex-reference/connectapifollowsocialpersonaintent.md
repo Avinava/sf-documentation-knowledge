@@ -5,12 +5,10 @@ topic: connectapifollowsocialpersonaintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.034Z
+lastCollected: 2026-04-07T18:36:09.419Z
 estimatedTokens: 139
 keywords: [ConnectApi.FollowSocialPersonaIntent, Follow, intent, social, persona]
 ---
-
-# ConnectApi.FollowSocialPersonaIntent
 
 > Follow intent on a social persona.
 

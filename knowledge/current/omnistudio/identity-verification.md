@@ -5,12 +5,10 @@ topic: identity-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:55.638Z
+lastCollected: 2026-04-07T18:36:41.331Z
 estimatedTokens: 423
-keywords: [Identity, Verification, feature, gives, ability, verify, customer, share, any, sensitive, Organizations, across, world, comply, regulations]
+keywords: [Identity, Verification, feature, gives, ability, verify, customer, share, any, sensitive, Organizations, across, world, comply, regulations, help, ascertain, customer’s, provide, protection, losses, fraud, Failure, follow, legal, consequences, ensure, person, seeks, confidential, prove, their]
 ---
-
-# Identity Verification
 
 > The Identity Verification feature gives you the ability to verify the identity of a
   customer before you share any sensitive information with them. Organizations across the world are

@@ -5,12 +5,10 @@ topic: mlmodelfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.519Z
+lastCollected: 2026-04-07T18:38:35.768Z
 estimatedTokens: 527
-keywords: [MLModelFactor, positive, negative, effect, model’s, score, API, version, 53.0, later, Calls, Special, Access, Rules]
+keywords: [MLModelFactor, positive, negative, effect, model’s, score, API, 53.0]
 ---
-
-# MLModelFactor
 
 > Represents a field value that has a positive or negative effect on the
          model’s score. This object is available in API version 53.0 and later.

@@ -5,12 +5,10 @@ topic: media-cloud-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.969Z
+lastCollected: 2026-04-07T18:38:11.238Z
 estimatedTokens: 158
-keywords: [Media, Cloud, Standard, Objects, added, Salesforce, represent, specific, features, orgs, settings, enabled]
+keywords: [Media, Cloud, Standard, added, Salesforce, represent, specific, features, orgs, settings, enabled]
 ---
-
-# Media Cloud Fields on Standard Objects
 
 > Media Cloud has added standard fields to some standard Salesforce objects to represent
     information specific to the Media Cloud features. These fields are available only in orgs where

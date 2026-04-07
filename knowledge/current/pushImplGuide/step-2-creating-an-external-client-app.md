@@ -7,14 +7,10 @@ topic: step-2-creating-an-external-client-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:15.951Z
+lastCollected: 2026-04-07T18:39:09.273Z
 estimatedTokens: 773
 keywords: [Step, Creating, External, Client, App, Once, you’ve, registered, mobile, vendor’s, push, service, Salesforce]
 ---
-
-# Step 2. Creating
-  an
-  External Client App
 
 > Once you’ve registered your mobile app with the OS vendor’s push service, the next step
   is to create

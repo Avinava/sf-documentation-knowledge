@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-applicationformproductproposal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.961Z
+lastCollected: 2026-04-07T18:36:52.390Z
 estimatedTokens: 279
 keywords: [Automotive, Cloud, ApplicationFormProductProposal, Standard, extend, represent, terms, attached, scheme, sanction, loan, lease]
 ---
-
-# Automotive Cloud Fields on ApplicationFormProductProposal
 
 > Standard fields extend the ApplicationFormProductProposal object for use in
          Automotive Cloud to represent the terms attached to a scheme to sanction an automotive loan

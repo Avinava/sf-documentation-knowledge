@@ -5,12 +5,10 @@ topic: employmentoffer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.384Z
+lastCollected: 2026-04-07T18:39:06.482Z
 estimatedTokens: 1638
-keywords: [EmploymentOffer, employment, offer, selected, candidate, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [EmploymentOffer, employment, offer, selected, candidate, API, 62.0]
 ---
-
-# EmploymentOffer
 
 > Represents an employment offer for a selected candidate. This
       object is available in API version 62.0 and later.

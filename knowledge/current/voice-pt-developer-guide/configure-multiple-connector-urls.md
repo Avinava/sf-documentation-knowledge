@@ -5,12 +5,10 @@ topic: configure-multiple-connector-urls
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:18.597Z
+lastCollected: 2026-04-07T18:40:13.525Z
 estimatedTokens: 681
-keywords: [Configure, Multiple, Connector, URLs, add, corresponding, login, managed, package, admin, select, URL, contact, center, creation]
+keywords: [Configure, Multiple, Connector, URLs, add, corresponding, login, managed, package, admin, select, URL, contact, center, creation, Considerations]
 ---
-
-# Configure Multiple Connector URLs
 
 > You can add multiple connector URLs and the corresponding login URLs in the managed
   package. The admin can select a connector URL during contact center creation or from the contact

@@ -5,12 +5,10 @@ topic: create-custom-pages-in-an-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.086Z
+lastCollected: 2026-04-07T18:37:33.433Z
 estimatedTokens: 836
-keywords: [Custom, Pages, LWR, Site, templates, Experience, Cloud, provide, few, key, additional, particular, case, Standard, Login]
+keywords: [Pages, LWR, Site, templates, Experience, Cloud, provide, few, key, additional, particular, case, Standard, Login, Authentication]
 ---
-
-# Create Custom Pages in an LWR Site
 
 > LWR templates in Experience Cloud provide only a few key default pages, so you can
     create additional custom pages for your particular use case.

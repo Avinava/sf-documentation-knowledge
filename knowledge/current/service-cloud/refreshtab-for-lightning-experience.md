@@ -5,12 +5,10 @@ topic: refreshtab-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.846Z
+lastCollected: 2026-04-07T18:36:50.028Z
 estimatedTokens: 718
-keywords: [refreshTab, Lightning, Experience, Refreshes, workspace, tab, subtab, tabId, Keep, mind, works, console, apps, Arguments, LWC]
+keywords: [Arguments, refreshTab, Lightning, Experience, Refreshes, workspace, tab, subtab, tabId, Keep, mind, works, console, apps, LWC, Sample, Code, Aura]
 ---
-
-# refreshTab() for Lightning Experience
 
 > Refreshes a workspace tab or a subtab specified by tabId. Keep in mind that the first subtab has the same tabId as the workspace tab. This method works only in
    Lightning console apps.

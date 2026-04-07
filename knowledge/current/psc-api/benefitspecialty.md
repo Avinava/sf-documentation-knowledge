@@ -5,12 +5,10 @@ topic: benefitspecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.943Z
+lastCollected: 2026-04-07T18:39:05.930Z
 estimatedTokens: 693
-keywords: [BenefitSpecialty, junction, benefit, care, specialty, maps, benefits, provided, constituents, specialties, offered, network, service, providers, API]
+keywords: [BenefitSpecialty, junction, benefit, care, specialty, maps, benefits, provided, constituents, specialties, offered, network, service, providers, API, 59.0]
 ---
-
-# BenefitSpecialty
 
 > Represents a junction between a benefit and a care specialty. The
          object maps the benefits provided to constituents with the specialties offered by the

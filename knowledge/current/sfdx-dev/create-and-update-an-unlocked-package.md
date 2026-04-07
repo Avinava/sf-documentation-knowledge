@@ -5,12 +5,10 @@ topic: create-and-update-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.789Z
+lastCollected: 2026-04-07T18:40:08.751Z
 estimatedTokens: 347
 keywords: [Unlocked, Package, you’re, ready, test, share, command, Metadata, Limits, Packages]
 ---
-
-# Create and Update an Unlocked Package
 
 > When you’re ready to test or share your package, use the sf package create command to create a package.
 

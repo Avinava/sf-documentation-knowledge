@@ -2,7 +2,7 @@
 domain: insurance-developer-guide
 name: Insurance Developer Guide
 documentCount: 616
-lastGenerated: 2026-04-07T09:06:36.877Z
+lastGenerated: 2026-04-07T18:40:42.155Z
 ---
 
 # Insurance Developer Guide — Knowledge Index

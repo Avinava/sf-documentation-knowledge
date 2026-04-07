@@ -5,12 +5,10 @@ topic: jsonxform-transformation-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.759Z
+lastCollected: 2026-04-07T18:36:56.296Z
 estimatedTokens: 279
-keywords: [JsonXform, Transformation, Resource, Performs, JSON, invoking, rules, expressions, document, transformed, REST, isn't, saved, server, service]
+keywords: [Formats, JsonXform, Transformation, Resource, Performs, JSON, invoking, expressions, document, transformed, REST, isn't, saved, server, service, provided, test, Analytics, templates, URL, HTTP, POST]
 ---
-
-# JsonXform Transformation Resource
 
 > Performs a JSON transformation by invoking a set of rules and expressions on a JSON document. The transformed JSON is returned in the REST
  response and isn't saved on the server. This service is provided to test rules used in Analytics templates.

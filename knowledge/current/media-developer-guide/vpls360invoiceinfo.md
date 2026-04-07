@@ -5,12 +5,10 @@ topic: vpls360invoiceinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.353Z
+lastCollected: 2026-04-07T18:38:11.684Z
 estimatedTokens: 112
-keywords: [VPLS360_InvoiceInfo, Integration, Procedure, fetches, stub, data, billing, summary, invoices, VPLS360, _InvoiceInfo, Sample, Input, Output, Calls]
+keywords: [VPLS360_InvoiceInfo, Integration, Procedure, fetches, stub, billing, summary, invoices, VPLS360, _InvoiceInfo, Sample]
 ---
-
-# VPLS360_InvoiceInfo
 
 > This Integration Procedure fetches stub data for the
 		billing summary and for invoices.

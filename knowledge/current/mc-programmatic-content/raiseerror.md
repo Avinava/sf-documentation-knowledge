@@ -5,12 +5,10 @@ topic: raiseerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.285Z
+lastCollected: 2026-04-07T18:40:22.696Z
 estimatedTokens: 515
-keywords: [RaiseError, Function, Ordinal, Error, message, display, whether, skips, send, current, subscriber, continues, **Overview**, **Syntax**, Usage, recipient, entire, job, val]
+keywords: [RaiseError, Function, Ordinal, Error, message, display, whether, skips, send, current, subscriber, continues, **Overview**, **Syntax**, recipient, entire, job, val]
 ---
-
-# RaiseError
 
 > RaiseError(1, 2, 3, 4, 5)
 

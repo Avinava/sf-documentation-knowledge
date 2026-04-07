@@ -5,12 +5,10 @@ topic: employmentcompensationsummaryshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.553Z
+lastCollected: 2026-04-07T18:39:39.199Z
 estimatedTokens: 257
 keywords: [EmploymentCompensationSummaryShare, Sharing, EmploymentCompensationSummary]
 ---
-
-# EmploymentCompensationSummaryShare
 
 > Sharing for EmploymentCompensationSummary.
 

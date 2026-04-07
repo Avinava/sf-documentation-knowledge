@@ -5,12 +5,10 @@ topic: fscpersonalizedfinanceutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.443Z
+lastCollected: 2026-04-07T18:37:33.894Z
 estimatedTokens: 193
-keywords: [FSCPersonalizedFinanceUtil, callable, provide, data, helper, functions, income, expense, Cash, Flow, FlexCard]
+keywords: [FSCPersonalizedFinanceUtil, callable, provide, helper, functions, income, expense, Cash, Flow, FlexCard]
 ---
-
-# FSCPersonalizedFinanceUtil Class
 
 > Use the callable FSCPersonalizedFinanceUtil class to provide data
       helper functions for income and expense data in the Cash Flow FlexCard.

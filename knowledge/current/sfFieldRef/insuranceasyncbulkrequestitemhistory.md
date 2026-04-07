@@ -5,12 +5,10 @@ topic: insuranceasyncbulkrequestitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.514Z
+lastCollected: 2026-04-07T18:39:45.075Z
 estimatedTokens: 282
-keywords: [InsuranceAsyncBulkRequestItemHistory, History, tracked, InsuranceAsyncBulkRequestItem]
+keywords: [InsuranceAsyncBulkRequestItemHistory, tracked, InsuranceAsyncBulkRequestItem]
 ---
-
-# InsuranceAsyncBulkRequestItemHistory
 
 > History for tracked fields of InsuranceAsyncBulkRequestItem.
 

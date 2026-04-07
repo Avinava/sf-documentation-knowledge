@@ -5,12 +5,10 @@ topic: virtualvisitconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.569Z
+lastCollected: 2026-04-07T18:36:45.330Z
 estimatedTokens: 1476
-keywords: [VirtualVisitConfig, configuration, external, video, provider, API, version, 54.0, later, Calls]
+keywords: [VirtualVisitConfig, configuration, external, video, provider, API, 54.0]
 ---
-
-# VirtualVisitConfig
 
 > Represents the configuration of an external video provider. This object
       is available in API version 54.0 and later.

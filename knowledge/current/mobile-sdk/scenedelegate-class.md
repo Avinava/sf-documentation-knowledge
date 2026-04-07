@@ -5,12 +5,10 @@ topic: scenedelegate-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.003Z
+lastCollected: 2026-04-07T18:40:26.314Z
 estimatedTokens: 810
-keywords: [SceneDelegate, handles, setup, life-cycle, management, scenes, Mobile, SDK, Swift, template, Salesforce, logins, app’s, root, view]
+keywords: [Initialization, SceneDelegate, handles, setup, life-cycle, management, scenes, Mobile, SDK, Swift, template, Salesforce, logins, app’s, root, view, controller, currently, doesn’t, Deferred, Login]
 ---
-
-# SceneDelegate Class
 
 > The SceneDelegate class handles setup and life-cycle
             management for scenes. In the Mobile SDK

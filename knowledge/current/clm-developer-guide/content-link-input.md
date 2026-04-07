@@ -5,12 +5,10 @@ topic: content-link-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.639Z
+lastCollected: 2026-04-07T18:37:24.634Z
 estimatedTokens: 165
-keywords: [Content, Link, Input, representation, fetch, token, data, ContentLink]
+keywords: [Content, Link, fetch, token, ContentLink]
 ---
-
-# Content Link Input
 
 > Input representation of the request to fetch the content token data from the ContentLink
     object.

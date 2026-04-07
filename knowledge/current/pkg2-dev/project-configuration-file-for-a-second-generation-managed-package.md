@@ -5,12 +5,10 @@ topic: project-configuration-file-for-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.638Z
+lastCollected: 2026-04-07T18:38:56.187Z
 estimatedTokens: 1518
-keywords: [Project, Configuration, File, Second-Generation, Managed, Package, blueprint, settings, outline, 2GP, determine, attributes, contents, Don’t, Want]
+keywords: [Project, Configuration, File, Second-Generation, Managed, Package, blueprint, settings, outline, 2GP, determine, attributes, contents, Don’t, Want, Salesforce, Automatically, Updated]
 ---
-
-# Project Configuration File for a Second-Generation Managed Package
 
 > The project configuration file is a blueprint for your project. The settings in the
     file create an outline of your managed 2GP package and determine the package attributes and

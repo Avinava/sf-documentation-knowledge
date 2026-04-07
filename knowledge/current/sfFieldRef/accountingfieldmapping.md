@@ -5,13 +5,11 @@ topic: accountingfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.376Z
+lastCollected: 2026-04-07T18:39:24.325Z
 estimatedTokens: 414
 namespace: NamespacePrefix
-keywords: [AccountingFieldMapping, custom, mappings, populate, transaction, journal, records, Salesforce, data, API, version, 58.0, later]
+keywords: [AccountingFieldMapping, mappings, populate, transaction, journal, records, Salesforce, API, 58.0]
 ---
-
-# AccountingFieldMapping
 
 > Represents the custom field mappings used to populate transaction journal
          records with other Salesforce data. This object is available in API version 58.0 and

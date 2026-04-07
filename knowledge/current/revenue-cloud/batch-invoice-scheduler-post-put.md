@@ -5,12 +5,10 @@ topic: batch-invoice-scheduler-post-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.306Z
+lastCollected: 2026-04-07T18:35:44.267Z
 estimatedTokens: 1013
 keywords: [Batch, Invoice, Scheduler, POST, PUT, automatically, generate, invoices, criteria, filters, run, schedules, requirements]
 ---
-
-# Batch Invoice Scheduler (POST, PUT)
 
 > Create or update an invoice scheduler to automatically generate
       invoices. Use the criteria and filters of the invoice scheduler to set up the invoice run

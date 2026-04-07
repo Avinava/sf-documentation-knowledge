@@ -5,12 +5,10 @@ topic: rebateprogrampayoutperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.113Z
+lastCollected: 2026-04-07T18:39:58.766Z
 estimatedTokens: 389
 keywords: [RebateProgramPayoutPeriod, period, payout, calculation, 1st, 31st, Jan, Dec, 14th]
 ---
-
-# RebateProgramPayoutPeriod
 
 > The period of the payout calculation. For example, 1st to 31st Jan, or 1st Dec
       to 14th Dec.

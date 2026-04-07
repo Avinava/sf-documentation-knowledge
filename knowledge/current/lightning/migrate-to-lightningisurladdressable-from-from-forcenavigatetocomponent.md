@@ -5,12 +5,10 @@ topic: migrate-to-lightningisurladdressable-from-from-forcenavigatetocomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.236Z
+lastCollected: 2026-04-07T18:38:03.236Z
 estimatedTokens: 567
-keywords: [Migrate, lightning, isUrlAddressable, force, navigateToComponent, pageReference, JavaScript, URL, instead, parsing, creating, directly, approach, helps, avoid]
+keywords: [Migrate, lightning, isUrlAddressable, force, navigateToComponent, pageReference, JavaScript, URL, instead, parsing, creating, directly, approach, helps, avoid, broken, navigation, Salesforce, changes, formats, future]
 ---
-
-# Migrate to  lightning:isUrlAddressable from from force:navigateToComponent
 
 > The pageReference JavaScript object represents
     a URL for a page. You can use a pageReference instead of

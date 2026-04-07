@@ -5,12 +5,10 @@ topic: create-transcripts-in-bulk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.264Z
+lastCollected: 2026-04-07T18:40:13.198Z
 estimatedTokens: 2014
-keywords: [Transcripts, Bulk, Creates, across, multiple, voice, calls, real, time, include, inbound, transfer, outbound, callback, consult]
+keywords: [Transcripts, Bulk, Creates, across, multiple, voice, real, time, include, inbound, transfer, outbound, callback, consult, URI, HTTP]
 ---
-
-# Create Transcripts in Bulk
 
 > Creates transcripts in bulk across multiple voice calls in real time.
       These voice calls can include inbound calls, transfer calls, outbound calls, callback calls,

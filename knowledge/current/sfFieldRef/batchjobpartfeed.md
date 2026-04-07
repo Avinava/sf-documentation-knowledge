@@ -5,12 +5,10 @@ topic: batchjobpartfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.868Z
+lastCollected: 2026-04-07T18:39:28.966Z
 estimatedTokens: 359
-keywords: [BatchJobPartFeed, Feed, tracking, BatchJobPart]
+keywords: [BatchJobPartFeed, BatchJobPart]
 ---
-
-# BatchJobPartFeed
 
 > Feed tracking for BatchJobPart.
 

@@ -5,13 +5,11 @@ topic: describelayoutitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.619Z
+lastCollected: 2026-04-07T18:36:02.826Z
 estimatedTokens: 1130
 namespace: QuickAction
-keywords: [DescribeLayoutItem, individual, item, QuickAction.DescribeLayoutRow, Usage, getLabel, getLayoutComponents, isEditableForNew, isEditableForUpdate, isPlaceholder, isRequired]
+keywords: [DescribeLayoutItem, individual, item, QuickAction.DescribeLayoutRow, getLabel, getLayoutComponents, isEditableForNew, isEditableForUpdate, isPlaceholder, isRequired]
 ---
-
-# DescribeLayoutItem Class
 
 > Represents an individual item in a QuickAction.DescribeLayoutRow.
 

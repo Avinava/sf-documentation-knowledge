@@ -5,12 +5,10 @@ topic: component-saved-view-state-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.282Z
+lastCollected: 2026-04-07T18:36:54.641Z
 estimatedTokens: 195
-keywords: [Component, Saved, View, State, Input, Analytics]
+keywords: [Saved, View, State, Analytics]
 ---
-
-# Component Saved View State Input
 
 > The state for an Analytics component saved view.
 

@@ -5,12 +5,10 @@ topic: actvpfrmdataconnectors3
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.941Z
+lastCollected: 2026-04-07T18:36:22.149Z
 estimatedTokens: 528
-keywords: [ActvPfrmDataConnectorS3, Amazon, bucket, export, directory, Parent, File, Suffix, Location, Version, Special, Access, Rules, Declarative, Metadata]
+keywords: [ActvPfrmDataConnectorS3, Amazon, bucket, export, directory, Parent, File, Suffix, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ActvPfrmDataConnectorS3
 
 > Represents the Amazon S3 bucket name and export
 			directory.

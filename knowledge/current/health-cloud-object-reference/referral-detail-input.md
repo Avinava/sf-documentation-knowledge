@@ -5,12 +5,10 @@ topic: referral-detail-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.012Z
+lastCollected: 2026-04-07T18:37:41.011Z
 estimatedTokens: 245
-keywords: [Referral, Detail, Input, representation, patient]
+keywords: [Referral, Detail, patient]
 ---
-
-# Referral Detail Input
 
 > Input representation of the request to create patient referral
       details.

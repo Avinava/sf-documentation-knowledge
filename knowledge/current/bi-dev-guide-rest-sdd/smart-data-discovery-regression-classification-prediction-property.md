@@ -5,12 +5,10 @@ topic: smart-data-discovery-regression-classification-prediction-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.449Z
+lastCollected: 2026-04-07T18:36:59.944Z
 estimatedTokens: 231
-keywords: [Smart, Data, Discovery, Regression, Classification, Prediction, model]
+keywords: [Smart, Discovery, Regression, Classification, Prediction, model]
 ---
-
-# Smart Data Discovery Regression Classification Prediction Property
 
 > The regression classification prediction model type.
 

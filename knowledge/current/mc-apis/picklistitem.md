@@ -5,12 +5,10 @@ topic: picklistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.971Z
+lastCollected: 2026-04-07T18:40:18.152Z
 estimatedTokens: 163
 keywords: [PicklistItem, item, restricted]
 ---
-
-# PicklistItem
 
 > The PicklistItem object defines values for a property. The object represents a single item in a restricted list.
 

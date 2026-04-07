@@ -5,12 +5,10 @@ topic: tokentype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.565Z
+lastCollected: 2026-04-07T18:36:12.858Z
 estimatedTokens: 132
 keywords: [TokenType, TokenUtility]
 ---
-
-# TokenType Enum
 
 > Defines the types of values supported by the TokenUtility methods.
 

@@ -5,12 +5,10 @@ topic: interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.681Z
+lastCollected: 2026-04-07T18:38:04.827Z
 estimatedTokens: 663
-keywords: [Interfaces, define, component’s, shape, defining, attributes, events, any, implementing, component, implement, can’t, directly, markup]
+keywords: [Interfaces, define, component’s, shape, defining, attributes, events, any, implementing, implement, can’t, directly, markup]
 ---
-
-# Interfaces
 
 > Interfaces define a component’s shape by defining attributes, events, or methods that
     any implementing component contains. To use an interface, a component must implement it. An

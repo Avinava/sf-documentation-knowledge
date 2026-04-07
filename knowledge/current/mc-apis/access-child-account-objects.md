@@ -5,12 +5,10 @@ topic: access-child-account-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.378Z
+lastCollected: 2026-04-07T18:40:17.547Z
 estimatedTokens: 819
-keywords: [Access, Child, Account, Objects, execute, certain, actions, view, permissions, roles, assigned, different, user, impersonation, help]
+keywords: [Child, Account, execute, certain, actions, view, permissions, roles, assigned, different, user, impersonation, help, another, troubleshoot, their, problems, issues, inside, own, admin, perform, impersonatio, Sample, NET, Code, Retrieve, PHP, SOAP, Envelope]
 ---
-
-# Access Child Account Objects
 
 > To execute certain actions or view information related to a child account, use the permissions and roles assigned to a different user. You can also use impersonation to help another user and troubleshoot their problems or issues inside their own account. You need admin access to perform impersonatio
 

@@ -5,12 +5,10 @@ topic: b2b-referral-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.350Z
+lastCollected: 2026-04-07T18:39:09.666Z
 estimatedTokens: 145
 keywords: [B2B, Referral, Management, Standard, Invocable, Actions, manage, programs, organization]
 ---
-
-# B2B Referral Management Standard Invocable Actions
 
 > Create and manage B2B referral programs for your organization using invocable
   actions.

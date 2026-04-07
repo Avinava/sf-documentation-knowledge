@@ -5,12 +5,10 @@ topic: campaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.520Z
+lastCollected: 2026-04-07T18:40:15.617Z
 estimatedTokens: 510
 keywords: [Campaign, Marketing, Cloud, perform, discrete, tasks, part, automated, process, start, stop, permission, Items]
 ---
-
-# Campaign
 
 > The Campaign object contains information about a campaign in Marketing Cloud. Use this object to perform discrete tasks as part of an automated process. To start or stop a Campaign using the perform method, you need the Campaign | Start or Campaign | Stop permission.
 

@@ -5,13 +5,11 @@ topic: documentgenerationsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.773Z
+lastCollected: 2026-04-07T18:39:38.462Z
 estimatedTokens: 464
 namespace: NamespacePrefix
-keywords: [DocumentGenerationSetting, org's, settings, automatic, document, generation, templates, API, version, 54.0, later]
+keywords: [DocumentGenerationSetting, org's, settings, automatic, document, generation, templates, API, 54.0]
 ---
-
-# DocumentGenerationSetting
 
 > Represents an org's settings for automatic document generation from
          templates. This object is available in API version 54.0 and later.

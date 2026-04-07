@@ -5,12 +5,10 @@ topic: retired-connectapi-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.386Z
+lastCollected: 2026-04-07T18:36:11.671Z
 estimatedTokens: 1228
-keywords: [Retired, ConnectApi, Output, Classes]
+keywords: [Retired, ConnectApi, Classes]
 ---
-
-# Retired ConnectApi Output Classes
 
 > These ConnectApi output classes are
   retired.

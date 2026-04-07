@@ -5,12 +5,10 @@ topic: fhir-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.603Z
+lastCollected: 2026-04-07T18:37:56.043Z
 estimatedTokens: 357
-keywords: [FHIR, output, representation]
+keywords: [FHIR]
 ---
-
-# FHIR Reference
 
 > The output representation of the FHIR reference
     values.

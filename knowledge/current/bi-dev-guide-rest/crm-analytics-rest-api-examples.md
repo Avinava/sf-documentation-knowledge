@@ -5,12 +5,10 @@ topic: crm-analytics-rest-api-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.132Z
+lastCollected: 2026-04-07T18:36:54.499Z
 estimatedTokens: 575
 keywords: [CRM, Analytics, REST, API, Examples, perform, tasks]
 ---
-
-# CRM Analytics REST API Examples
 
 > Use CRM Analytics REST API examples to perform tasks.
 

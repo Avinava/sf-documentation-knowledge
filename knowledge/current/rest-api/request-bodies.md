@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.082Z
+lastCollected: 2026-04-07T18:36:20.293Z
 estimatedTokens: 119
 keywords: [Bodies, perform, POST, PATCH, PUT, formatted, either, XML, JSON, chapter]
 ---
-
-# Request Bodies
 
 > To perform a POST, PATCH, or PUT request, create a request body formatted in either XML or
    JSON. This chapter lists the request bodies.

@@ -5,12 +5,10 @@ topic: running-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.193Z
+lastCollected: 2026-04-07T18:36:18.420Z
 estimatedTokens: 369
-keywords: [Running, Apex, access, features, Salesforce, user, programmatically, integrate, external, SOAP, REST, Web, services, run, code]
+keywords: [Running, Apex, features, Salesforce, user, programmatically, integrate, external, SOAP, REST, Web, services, run, code, variety, mechanisms, runs, atomic, transactions]
 ---
-
-# Running Apex
 
 > You can access many features of the Salesforce user interface programmatically in
         Apex, and you can integrate with external SOAP and REST Web services. You can run Apex code

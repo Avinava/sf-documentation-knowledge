@@ -5,12 +5,10 @@ topic: scontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.399Z
+lastCollected: 2026-04-07T18:38:52.710Z
 estimatedTokens: 205
-keywords: [$SControl, merge, referencing, custom, s-control, results, URL, executes, Usage]
+keywords: [$SControl, merge, referencing, s-control, results, URL, executes]
 ---
-
-# $SControl
 
 > A global merge field type to use when referencing an existing custom s-control by name.
         This merge field type results in a URL to a page where the s-control executes.

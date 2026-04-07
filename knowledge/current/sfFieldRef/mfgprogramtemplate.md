@@ -5,12 +5,10 @@ topic: mfgprogramtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.509Z
+lastCollected: 2026-04-07T18:39:48.984Z
 estimatedTokens: 266
-keywords: [MfgProgramTemplate, templates, associated, manufacturing, program]
+keywords: [MfgProgramTemplate, templates, manufacturing, program]
 ---
-
-# MfgProgramTemplate
 
 > Represents information about the templates associated with a manufacturing
          program.

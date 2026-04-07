@@ -5,12 +5,10 @@ topic: accountintelligencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.760Z
+lastCollected: 2026-04-07T18:36:21.992Z
 estimatedTokens: 737
-keywords: [AccountIntelligenceSettings, org’s, Account, Intelligence, settings, control, features, easy, sales, reps, accounts, relevant, news, articles, add]
+keywords: [AccountIntelligenceSettings, org’s, Account, Intelligence, settings, control, features, easy, sales, reps, accounts, relevant, news, articles, add, logos, records, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# AccountIntelligenceSettings
 
 > Represents an org’s Account Intelligence settings.
 			These settings control features that make it easy for sales reps to create accounts, see

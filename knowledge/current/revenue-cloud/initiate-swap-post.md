@@ -5,12 +5,10 @@ topic: initiate-swap-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.647Z
+lastCollected: 2026-04-07T18:35:44.649Z
 estimatedTokens: 593
-keywords: [Initiate, Swap, POST, amendment, trades, quantity, product, another, change, tracked, linked, asset, actions, net-zero, order]
+keywords: [Initiate, Swap, POST, amendment, trades, quantity, product, another, change, tracked, linked, asset, actions, net-zero, order, total, applicable]
 ---
-
-# Initiate Swap (POST)
 
 > Create an amendment that trades a quantity of one product for another.
       This change is tracked as a swap request with linked asset actions and a net-zero order total

@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-sort-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.123Z
+lastCollected: 2026-04-07T18:37:11.954Z
 estimatedTokens: 195
-keywords: [Commerce, Management, Webstore, Search, Sort, Rules, retrieve]
+keywords: [Commerce, Management, Webstore, Search, Sort, retrieve]
 ---
-
-# Commerce Management Webstore Search, Sort Rules
 
 > Create or retrieve sort rules for a webstore.
 

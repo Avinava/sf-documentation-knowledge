@@ -5,12 +5,10 @@ topic: data-connector-status-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.573Z
+lastCollected: 2026-04-07T18:36:56.080Z
 estimatedTokens: 324
-keywords: [Data, Connector, Status, Resource, Tests, external, Analytics, API, doesn't, work, test, local, Salesforce, URL, Formats]
+keywords: [Formats, Connector, Status, Resource, Tests, external, Analytics, API, doesn't, work, test, local, Salesforce, URL, Postman, HTTP]
 ---
-
-# Data Connector Status Resource
 
 > Tests the status of an external Analytics connector. This API doesn't work to test a
   local Salesforce connector.

@@ -5,12 +5,10 @@ topic: checkout-payment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.369Z
+lastCollected: 2026-04-07T18:37:17.442Z
 estimatedTokens: 196
 keywords: [Checkout, Payment, Commerce, store]
 ---
-
-# Checkout Payment
 
 > Payment response for a Commerce store checkout.
 

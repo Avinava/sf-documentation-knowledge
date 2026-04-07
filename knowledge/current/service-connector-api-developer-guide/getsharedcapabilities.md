@@ -5,12 +5,10 @@ topic: getsharedcapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.457Z
+lastCollected: 2026-04-07T18:39:23.393Z
 estimatedTokens: 128
 keywords: [getSharedCapabilities, capabilities, shared, across, partner, telephony, Messaging, channels, Bring, Own, Channel, CCaaS]
 ---
-
-# getSharedCapabilities
 
 > Get the capabilities that are shared across partner
         telephony and Messaging channels for Bring Your Own Channel and Bring Your Own Channel for

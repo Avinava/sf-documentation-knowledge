@@ -5,13 +5,11 @@ topic: batchablecontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.110Z
+lastCollected: 2026-04-07T18:36:13.426Z
 estimatedTokens: 393
 namespace: Database
 keywords: [BatchableContext, batch, job, implemented, internally, Apex, getChildJobId, getJobId]
 ---
-
-# BatchableContext Interface
 
 > Represents the parameter type of a batch job method and contains the batch job ID. This
   interface is implemented internally by Apex.

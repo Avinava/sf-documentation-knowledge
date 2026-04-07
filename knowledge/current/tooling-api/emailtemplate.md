@@ -5,12 +5,10 @@ topic: emailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.014Z
+lastCollected: 2026-04-07T18:36:32.504Z
 estimatedTokens: 853
-keywords: [EmailTemplate, template, email, mass, Sales, Engagement, first-generation, managed, packages, SOAP, Calls, REST, HTTP]
+keywords: [EmailTemplate, template, email, mass, Sales, Engagement, first-generation, managed, packages, SOAP, REST, HTTP]
 ---
-
-# EmailTemplate
 
 > Represents a template for an email,
         mass email, list email, or Sales Engagement email. Supported in first-generation managed packages

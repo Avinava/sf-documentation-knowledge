@@ -5,12 +5,10 @@ topic: void-posted-credit-memo-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.105Z
+lastCollected: 2026-04-07T18:35:44.061Z
 estimatedTokens: 77
-keywords: [Posted, Credit, Memo, Input, representation, voided]
+keywords: [Posted, Credit, Memo, voided]
 ---
-
-# Void Posted Credit Memo Input
 
 > Input representation of the details of a credit memo to be voided.
 

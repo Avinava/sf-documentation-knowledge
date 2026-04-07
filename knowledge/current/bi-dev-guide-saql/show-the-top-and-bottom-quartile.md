@@ -5,12 +5,10 @@ topic: show-the-top-and-bottom-quartile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:13.869Z
+lastCollected: 2026-04-07T18:37:00.387Z
 estimatedTokens: 214
-keywords: [Show, Top, Bottom, Quartile, SAQL, calculate, percentiles, data, Deal, Size, Country]
+keywords: [Show, Top, Bottom, Quartile, SAQL, calculate, percentiles, Deal, Size, Country]
 ---
-
-# Show the Top and Bottom Quartile
 
 > Use SAQL to calculate percentiles, like the top and bottom quartile of your
             data.

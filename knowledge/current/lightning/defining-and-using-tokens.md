@@ -5,12 +5,10 @@ topic: defining-and-using-tokens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.641Z
+lastCollected: 2026-04-07T18:38:05.862Z
 estimatedTokens: 467
-keywords: [Defining, Tokens, token, name-value, pair, specify, <aura, token>, component, Define, bundle, components’, CSS, styles, resources]
+keywords: [Defining, Tokens, token, name-value, pair, specify, <aura, token>, Define, bundle, components’, CSS, styles, resources]
 ---
-
-# Defining and Using Tokens
 
 > A token is a name-value pair that you specify using the <aura:token> component. Define tokens in a tokens bundle, and then use tokens in
     your components’ CSS styles resources.

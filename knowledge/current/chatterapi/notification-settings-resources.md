@@ -5,12 +5,10 @@ topic: notification-settings-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.855Z
+lastCollected: 2026-04-07T18:37:14.905Z
 estimatedTokens: 158
 keywords: [Notification, Settings, Resources, reset, app]
 ---
-
-# Notification Settings Resources
 
 > Get, set, and reset notification settings and notification app settings.
 

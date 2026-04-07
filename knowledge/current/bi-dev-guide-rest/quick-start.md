@@ -5,12 +5,10 @@ topic: quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:11.761Z
+lastCollected: 2026-04-07T18:36:58.310Z
 estimatedTokens: 329
 keywords: [Quick, Start, Connect, Salesforce, Trailhead, org, authenticate, CRM, Analytics, REST, API, Postman, look]
 ---
-
-# Quick Start
 
 > Connect to a Salesforce Trailhead org and authenticate. Then make a request to the CRM
   Analytics REST API in Postman, and look at the response.

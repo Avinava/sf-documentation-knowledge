@@ -5,12 +5,10 @@ topic: productconfigurationrulehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.068Z
+lastCollected: 2026-04-07T18:39:55.634Z
 estimatedTokens: 275
-keywords: [ProductConfigurationRuleHistory, History, tracked, ProductConfigurationRule]
+keywords: [ProductConfigurationRuleHistory, tracked, ProductConfigurationRule]
 ---
-
-# ProductConfigurationRuleHistory
 
 > History for tracked fields of ProductConfigurationRule.
 

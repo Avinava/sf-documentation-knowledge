@@ -5,12 +5,10 @@ topic: add-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.097Z
+lastCollected: 2026-04-07T18:36:18.326Z
 estimatedTokens: 676
-keywords: [Add, Apex, Trigger, step, Book__c, custom, calls, applyDiscount, MyHelloWorld, created, previous]
+keywords: [Add, Apex, Trigger, step, Book__c, applyDiscount, MyHelloWorld, created, previous]
 ---
-
-# Add an Apex Trigger
 
 > In this step, you create a trigger for the Book__c custom object that calls the applyDiscount method of the MyHelloWorld class that you created in the previous step.
 

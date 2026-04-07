@@ -5,12 +5,10 @@ topic: producersplitassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.872Z
+lastCollected: 2026-04-07T18:37:38.758Z
 estimatedTokens: 1176
-keywords: [ProducerSplitAssignment, commission, split, associated, producer, that's, process, statement, API, version, later, Calls, Objects]
+keywords: [ProducerSplitAssignment, commission, split, producer, that's, process, statement, API]
 ---
-
-# ProducerSplitAssignment
 
 > Represents information about commission split associated with a producer that's
          used to process commission statement. This object is available in API version 61 and

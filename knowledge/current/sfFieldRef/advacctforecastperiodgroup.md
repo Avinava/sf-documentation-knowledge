@@ -5,12 +5,10 @@ topic: advacctforecastperiodgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.129Z
+lastCollected: 2026-04-07T18:39:25.033Z
 estimatedTokens: 286
 keywords: [AdvAcctForecastPeriodGroup, advanced, account, forecast, period, records, parent]
 ---
-
-# AdvAcctForecastPeriodGroup
 
 > Represents information about advanced account forecast period records. This
          is the parent object of all the related advanced account forecast period records.

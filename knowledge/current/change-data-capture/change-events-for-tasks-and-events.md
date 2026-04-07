@@ -5,12 +5,10 @@ topic: change-events-for-tasks-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.790Z
+lastCollected: 2026-04-07T18:37:05.504Z
 estimatedTokens: 393
 keywords: [Change, Events, Tasks, receive, recurring, calendar, including, invitees]
 ---
-
-# Change Events for Tasks and Events
 
 > You can receive change events for single and recurring tasks and calendar events,
     including events with invitees.

@@ -5,12 +5,10 @@ topic: get-eligible-promotions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.516Z
+lastCollected: 2026-04-07T18:35:44.506Z
 estimatedTokens: 269
 keywords: [Eligible, Promotions, POST, line, items, quote, order]
 ---
-
-# Get Eligible Promotions (POST)
 
 > Get eligible promotions for line items within a quote or an
       order.

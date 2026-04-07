@@ -5,12 +5,10 @@ topic: groupconnect-chat-messaging-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.913Z
+lastCollected: 2026-04-07T18:40:17.064Z
 estimatedTokens: 392
-keywords: [GroupConnect, Chat, Messaging, API, Send, real-time, event-based, messages, users, Facebook, Messenger, LINE, Cases, Known, Limitations]
+keywords: [GroupConnect, Chat, Messaging, API, Send, real-time, event-based, messages, users, Facebook, Messenger, LINE, Cases, Known, Limitations, Items]
 ---
-
-# GroupConnect Chat Messaging API
 
 > Send real-time event-based messages to your users in Facebook Messenger and LINE.
 

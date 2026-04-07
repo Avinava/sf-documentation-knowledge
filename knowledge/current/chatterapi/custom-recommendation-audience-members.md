@@ -5,12 +5,10 @@ topic: custom-recommendation-audience-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.317Z
+lastCollected: 2026-04-07T18:37:15.363Z
 estimatedTokens: 275
-keywords: [Custom, Recommendation, Audience, Members]
+keywords: [Recommendation, Audience, Members]
 ---
-
-# Custom Recommendation Audience Members
 
 > Get the members of a custom recommendation
     audience.

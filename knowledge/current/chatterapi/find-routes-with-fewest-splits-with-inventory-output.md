@@ -5,12 +5,10 @@ topic: find-routes-with-fewest-splits-with-inventory-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.267Z
+lastCollected: 2026-04-07T18:37:19.413Z
 estimatedTokens: 264
-keywords: [Routes, Fewest, Splits, Inventory, Output, locations, combine, fulfill, order, availability, data]
+keywords: [Routes, Fewest, Splits, Inventory, locations, combine, fulfill, order, availability]
 ---
-
-# Find Routes With Fewest Splits With Inventory Output
 
 > Sets of inventory locations that can combine to fulfill an order, with
       availability data for those locations.

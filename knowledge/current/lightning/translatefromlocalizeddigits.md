@@ -5,12 +5,10 @@ topic: translatefromlocalizeddigits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.067Z
+lastCollected: 2026-04-07T18:38:05.234Z
 estimatedTokens: 76
 keywords: [translateFromLocalizedDigits, Translate, localized, digit, Arabic, digits, there, any]
 ---
-
-# translateFromLocalizedDigits()
 
 > Translate the localized digit string to a string with Arabic digits,
    if there is any.

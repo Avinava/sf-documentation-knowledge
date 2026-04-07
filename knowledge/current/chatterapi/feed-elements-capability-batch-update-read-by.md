@@ -5,12 +5,10 @@ topic: feed-elements-capability-batch-update-read-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.784Z
+lastCollected: 2026-04-07T18:37:13.743Z
 estimatedTokens: 389
-keywords: [Feed, Elements, Capability, Batch, Mark, multiple, context, user, time]
+keywords: [Capability, Batch, Mark, multiple, context, user, time]
 ---
-
-# Feed Elements Capability, Batch Update Read By
 
 > Mark multiple feed elements as read by the context user at the same time.
 

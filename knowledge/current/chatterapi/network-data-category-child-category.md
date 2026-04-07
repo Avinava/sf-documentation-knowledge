@@ -5,12 +5,10 @@ topic: network-data-category-child-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.803Z
+lastCollected: 2026-04-07T18:37:14.850Z
 estimatedTokens: 340
-keywords: [Network, Data, Category, Child, Retrieve, categories, Experience, Cloud, site]
+keywords: [Network, Category, Child, Retrieve, categories, Experience, Cloud, site]
 ---
-
-# Network Data Category Child Category
 
 > Retrieve child categories of a network data category in an Experience Cloud
     site.

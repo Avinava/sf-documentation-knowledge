@@ -5,12 +5,10 @@ topic: picklist-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:16.991Z
+lastCollected: 2026-04-07T18:40:11.995Z
 estimatedTokens: 355
 keywords: [Picklist]
 ---
-
-# Picklist Value
 
 > A single picklist value.
 

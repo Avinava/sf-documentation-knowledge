@@ -5,12 +5,10 @@ topic: setcanvasurlpathnewpath
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.003Z
+lastCollected: 2026-04-07T18:35:59.280Z
 estimatedTokens: 305
-keywords: [setCanvasUrlPath, newPath, Overrides, URL, canvas, app, current, Usage]
+keywords: [setCanvasUrlPath, newPath, Overrides, URL, canvas, app, current]
 ---
-
-# setCanvasUrlPath(newPath)
 
 > Overrides the URL of the canvas app for the current
   request.

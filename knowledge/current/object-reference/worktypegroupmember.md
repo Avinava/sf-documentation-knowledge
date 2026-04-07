@@ -5,12 +5,10 @@ topic: worktypegroupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.191Z
+lastCollected: 2026-04-07T18:38:45.043Z
 estimatedTokens: 553
-keywords: [WorkTypeGroupMember, relationship, work, group, belongs, API, version, 45.0, later, Calls, Associated, Objects]
+keywords: [WorkTypeGroupMember, relationship, work, group, belongs, API, 45.0]
 ---
-
-# WorkTypeGroupMember
 
 > Represents the relationship between a work type and the work type
          group it belongs to. This object is available in API version 45.0 and

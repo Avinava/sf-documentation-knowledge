@@ -5,12 +5,10 @@ topic: working-with-the-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.717Z
+lastCollected: 2026-04-07T18:36:51.000Z
 estimatedTokens: 533
 keywords: [Working, Salesforce, Console, Integration, Toolkit, streamline, business, process]
 ---
-
-# Working with the Salesforce Console Integration Toolkit
 
 > You can use Salesforce Console Integration Toolkit to
   streamline a business process.

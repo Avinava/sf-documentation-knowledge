@@ -5,12 +5,10 @@ topic: action-plan-template-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.418Z
+lastCollected: 2026-04-07T18:37:54.745Z
 estimatedTokens: 109
-keywords: [Action, Plan, Template, Input, representation]
+keywords: [Action, Plan, Template]
 ---
-
-# Action Plan Template Input
 
 > Input representation of an action plan template.
 

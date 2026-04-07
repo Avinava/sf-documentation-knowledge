@@ -5,12 +5,10 @@ topic: assessmenttaskcontentdocumenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.573Z
+lastCollected: 2026-04-07T18:39:27.556Z
 estimatedTokens: 282
-keywords: [AssessmentTaskContentDocumentHistory, History, tracked, AssessmentTaskContentDocument]
+keywords: [AssessmentTaskContentDocumentHistory, tracked, AssessmentTaskContentDocument]
 ---
-
-# AssessmentTaskContentDocumentHistory
 
 > History for tracked fields of AssessmentTaskContentDocument.
 

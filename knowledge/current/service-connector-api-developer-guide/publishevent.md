@@ -5,12 +5,10 @@ topic: publishevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.388Z
+lastCollected: 2026-04-07T18:39:23.318Z
 estimatedTokens: 994
-keywords: [publishEvent, Publishes, event, Salesforce, payload, verified, ensure, it’s, correct, published, publish, desk, phone, directly, partner]
+keywords: [publishEvent, Publishes, event, Salesforce, payload, verified, ensure, it’s, correct, published, publish, desk, phone, directly, partner, connector]
 ---
-
-# publishEvent
 
 > Publishes an event to Salesforce. The event payload is
         verified to ensure that it’s the correct type before it’s published. Use this method to

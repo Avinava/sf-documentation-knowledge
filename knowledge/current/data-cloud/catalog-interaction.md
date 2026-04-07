@@ -5,12 +5,10 @@ topic: catalog-interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.249Z
+lastCollected: 2026-04-07T18:35:51.106Z
 estimatedTokens: 637
-keywords: [Catalog, Interaction, capture, customer, interacts, various, tracking, items, product, blog, post]
+keywords: [Catalog, Interaction, capture, customer, interacts, various, items, product, blog, post]
 ---
-
-# Catalog Interaction
 
 > Use a catalog interaction to capture when a customer interacts with various tracking
         items. For example, a product or a blog post.

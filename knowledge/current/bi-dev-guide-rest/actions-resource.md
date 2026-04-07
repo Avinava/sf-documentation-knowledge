@@ -5,12 +5,10 @@ topic: actions-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.890Z
+lastCollected: 2026-04-07T18:36:55.312Z
 estimatedTokens: 311
-keywords: [Actions, Resource, Salesforce, user, Analytics, entityId, URL, Formats, Version, Postman, Components, HTTP]
+keywords: [Formats, Actions, Resource, Salesforce, user, Analytics, entityId, URL, Postman, HTTP]
 ---
-
-# Actions Resource
 
 > Returns the Salesforce actions available for the user in
   Analytics. The entityId is the user id.

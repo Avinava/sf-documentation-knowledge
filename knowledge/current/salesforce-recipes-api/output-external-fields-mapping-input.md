@@ -5,12 +5,10 @@ topic: output-external-fields-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.785Z
+lastCollected: 2026-04-07T18:39:18.506Z
 estimatedTokens: 95
-keywords: [Output, External, Mapping, Input, node, recipe]
+keywords: [External, Mapping, node, recipe]
 ---
-
-# Output External Fields Mapping Input
 
 > A field mapping for an output external node in a recipe.
 

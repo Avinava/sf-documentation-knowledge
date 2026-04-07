@@ -5,12 +5,10 @@ topic: salesforce-crm-loyalty-tier-group-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.346Z
+lastCollected: 2026-04-07T18:35:53.292Z
 estimatedTokens: 457
-keywords: [Salesforce, CRM, Loyalty, Tier, Group, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud, consists]
+keywords: [Salesforce, CRM, Loyalty, Tier, Group, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, consists, tiers, assigned, members, their, engagement, program, DMO]
 ---
-
-# Salesforce CRM: Loyalty Tier Group Mapping
 
 > These data mappings are for the Loyalty Tier Group DLO found in the Loyalty Management
   bundle of the Salesforce CRM Connector for Data Cloud. A tier group consists of a set of tiers

@@ -5,12 +5,10 @@ topic: programrebatetyppayoutsrchistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.353Z
+lastCollected: 2026-04-07T18:39:56.907Z
 estimatedTokens: 188
-keywords: [ProgramRebateTypPayoutSrcHistory, History, tracked, ProgramRebateTypPayoutSrc]
+keywords: [ProgramRebateTypPayoutSrcHistory, tracked, ProgramRebateTypPayoutSrc]
 ---
-
-# ProgramRebateTypPayoutSrcHistory
 
 > History for tracked fields of ProgramRebateTypPayoutSrc.
 

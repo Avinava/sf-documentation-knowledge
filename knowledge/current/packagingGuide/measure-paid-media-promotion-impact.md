@@ -5,12 +5,10 @@ topic: measure-paid-media-promotion-impact
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.178Z
+lastCollected: 2026-04-07T18:38:47.146Z
 estimatedTokens: 1168
-keywords: [Measure, Paid, Media, Promotion, Impact, co-marketing, formula, provided, Salesforce, data, AppExchange, Marketplace, Analytics, compares, listing]
+keywords: [Measure, Paid, Media, Promotion, Impact, co-marketing, formula, provided, Salesforce, AppExchange, Marketplace, Analytics, compares, listing, visits, time, period, equivalent]
 ---
-
-# Measure Paid Media Promotion Impact
 
 > To measure the impact of a co-marketing Paid Media Promotion, use a formula provided by
   Salesforce and data from AppExchange Marketplace Analytics. The formula compares listing visits

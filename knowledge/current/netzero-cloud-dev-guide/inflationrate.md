@@ -5,12 +5,10 @@ topic: inflationrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.297Z
+lastCollected: 2026-04-07T18:38:18.940Z
 estimatedTokens: 1387
-keywords: [InflationRate, inflation, rates, adjust, currency, year, another, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [InflationRate, inflation, rates, adjust, currency, year, another, API, 54.0]
 ---
-
-# InflationRate
 
 > Represents the inflation rates that are used to adjust currency values from
          one year to another. This object is available in API version 54.0 and later.

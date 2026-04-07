@@ -5,12 +5,10 @@ topic: connectapiordershipmentcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.317Z
+lastCollected: 2026-04-07T18:36:10.607Z
 estimatedTokens: 305
 keywords: [ConnectApi.OrderShipmentCollection, Collection, order, shipments]
 ---
-
-# ConnectApi.OrderShipmentCollection
 
 > Collection of order shipments.
 

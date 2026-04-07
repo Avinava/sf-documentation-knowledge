@@ -5,12 +5,10 @@ topic: useraccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.762Z
+lastCollected: 2026-04-07T18:40:21.028Z
 estimatedTokens: 423
 keywords: [UserAccess, retrieve, Marketing, Cloud, admin, Items]
 ---
-
-# UserAccess
 
 > To update or retrieve the UserAccess object, you must be a Marketing Cloud admin.
 

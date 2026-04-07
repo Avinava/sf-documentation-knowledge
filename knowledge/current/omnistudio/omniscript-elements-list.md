@@ -5,12 +5,10 @@ topic: omniscript-elements-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.283Z
+lastCollected: 2026-04-07T18:36:40.006Z
 estimatedTokens: 388
-keywords: [Omniscript, Elements, Output, representation]
+keywords: [Omniscript]
 ---
-
-# Omniscript Elements List
 
 > Output representation of the details of the Omniscript elements.
 

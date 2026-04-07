@@ -6,13 +6,10 @@ topic: isconsolenavigation-context-wire-adapter-for-lightning-experience-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.077Z
+lastCollected: 2026-04-07T18:36:50.271Z
 estimatedTokens: 355
-keywords: [IsConsoleNavigation, Context, Wire, Adapter, Lightning, Experience, Determines, whether, app, it’s, uses, console, navigation, Web, Components]
+keywords: [IsConsoleNavigation, Context, Wire, Adapter, Lightning, Experience, Determines, whether, app, it’s, uses, console, navigation, Web, LWC, Sample, Code]
 ---
-
-# IsConsoleNavigation Context Wire Adapter for Lightning Experience Context
-            Wire Adapter for Lightning Experience
 
 > Determines whether the app it’s used within uses console navigation. This wire
         adapter is available for Lightning Web Components (LWC) only.

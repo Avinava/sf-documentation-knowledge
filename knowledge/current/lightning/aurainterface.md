@@ -5,12 +5,10 @@ topic: aurainterface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.828Z
+lastCollected: 2026-04-07T18:38:04.983Z
 estimatedTokens: 301
-keywords: [aura, Interfaces, determine, component's, shape, defining, attributes, Implement, allow, component, different, contexts, record, Lightning, App]
+keywords: [aura, Interfaces, determine, component's, shape, defining, attributes, Implement, allow, different, contexts, record, Lightning, App, Builder]
 ---
-
-# aura:interface
 
 > Interfaces determine a component's shape by defining its attributes. Implement an
   interface to allow a component to be used in different contexts, such as on a record page or in

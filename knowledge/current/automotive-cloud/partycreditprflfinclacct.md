@@ -5,12 +5,10 @@ topic: partycreditprflfinclacct
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:06.550Z
+lastCollected: 2026-04-07T18:36:52.964Z
 estimatedTokens: 1317
-keywords: [PartyCreditPrflFinclAcct, financial, accounts, credit, card, auto, loan, mortgage, account, reported, bureau, Helps, lenders, review, borrower's]
+keywords: [PartyCreditPrflFinclAcct, financial, accounts, credit, card, auto, loan, mortgage, account, reported, bureau, Helps, lenders, review, borrower's, active, inactive, API, 65.0]
 ---
-
-# PartyCreditPrflFinclAcct
 
 > Represents information about financial accounts, such as a credit card, an
          auto loan, or a mortgage account, reported by a credit bureau. Helps lenders to review the

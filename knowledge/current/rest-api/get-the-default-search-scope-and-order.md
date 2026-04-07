@@ -5,12 +5,10 @@ topic: get-the-default-search-scope-and-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.742Z
+lastCollected: 2026-04-07T18:36:19.968Z
 estimatedTokens: 222
-keywords: [Search, Scope, Order, resource, retrieve, logged-in, user, including, any, pinned, objects, user’s, results]
+keywords: [Search, Scope, Order, resource, retrieve, logged-in, user, including, any, pinned, user’s, results]
 ---
-
-# Get the Default Search Scope and Order
 
 > Use the Search Scope and Order resource to retrieve the default
             global search scope and order for the logged-in user, including any pinned objects in

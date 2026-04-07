@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-one-to-one-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.004Z
+lastCollected: 2026-04-07T18:36:58.529Z
 estimatedTokens: 657
-keywords: [Abstract, Smart, Data, Discovery, Transformation, Input, base, identify]
+keywords: [Abstract, Smart, Discovery, Transformation, base, identify]
 ---
-
-# Abstract Smart Data Discovery One To One Transformation Input
 
 > The base input to identify the transformation as one to one.
 

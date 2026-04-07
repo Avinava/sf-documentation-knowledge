@@ -5,12 +5,10 @@ topic: paymentinstrumentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.439Z
+lastCollected: 2026-04-07T18:39:52.947Z
 estimatedTokens: 251
 keywords: [PaymentInstrumentShare, Sharing, PaymentInstrument]
 ---
-
-# PaymentInstrumentShare
 
 > Sharing for PaymentInstrument.
 

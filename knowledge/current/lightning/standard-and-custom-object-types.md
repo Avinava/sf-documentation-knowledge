@@ -5,12 +5,10 @@ topic: standard-and-custom-object-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.804Z
+lastCollected: 2026-04-07T18:38:04.957Z
 estimatedTokens: 157
-keywords: [Standard, Custom, attribute, corresponding, Account]
+keywords: [Standard, attribute, corresponding, Account]
 ---
-
-# Standard and Custom Object Types
 
 > An attribute can have a type corresponding to a standard or custom object. For example,
         this is an attribute for a standard Account object:

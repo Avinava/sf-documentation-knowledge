@@ -5,12 +5,10 @@ topic: partyidentityverificationstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.570Z
+lastCollected: 2026-04-07T18:37:38.424Z
 estimatedTokens: 1334
-keywords: [PartyIdentityVerificationStep, identity, verification, party, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [PartyIdentityVerificationStep, identity, verification, party, API, 56.0]
 ---
-
-# PartyIdentityVerificationStep
 
 > Represents information about the identity verification done for a party.
       This object is available in API version 56.0 and later.

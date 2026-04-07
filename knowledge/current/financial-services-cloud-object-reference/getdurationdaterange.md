@@ -5,12 +5,10 @@ topic: getdurationdaterange
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.626Z
+lastCollected: 2026-04-07T18:37:34.106Z
 estimatedTokens: 131
-keywords: [GetDurationDateRange, start, end, date, duration, Examples]
+keywords: [GetDurationDateRange, Examples, start, end, date, duration]
 ---
-
-# GetDurationDateRange
 
 > Returns the start and end date given a duration.
 

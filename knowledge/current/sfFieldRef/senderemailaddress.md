@@ -5,12 +5,10 @@ topic: senderemailaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.392Z
+lastCollected: 2026-04-07T18:40:01.153Z
 estimatedTokens: 451
-keywords: [SenderEmailAddress, address, marketing, email, API, version, 63.0, later]
+keywords: [SenderEmailAddress, address, marketing, email, API, 63.0]
 ---
-
-# SenderEmailAddress
 
 > Represents a From address in a marketing email. This object is available
       in API version 63.0 and later.

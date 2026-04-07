@@ -5,12 +5,10 @@ topic: dataset-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.645Z
+lastCollected: 2026-04-07T18:36:56.167Z
 estimatedTokens: 545
-keywords: [Dataset, Resource, deletes, updates, API, URL, Formats, Version, Postman, Components, HTTP, PATCH]
+keywords: [Formats, Dataset, Resource, deletes, updates, API, URL, Postman, HTTP, PATCH]
 ---
-
-# Dataset Resource
 
 > Returns, deletes, or updates a dataset with the specified ID or API
       name.

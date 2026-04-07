@@ -5,12 +5,10 @@ topic: mobilesecurityassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.578Z
+lastCollected: 2026-04-07T18:38:35.829Z
 estimatedTokens: 759
-keywords: [MobileSecurityAssignment, assignment, mobile, security, policies, profile, apply, Salesforce, app, Enhanced, enabled, API, version, 54.0, later]
+keywords: [MobileSecurityAssignment, assignment, mobile, security, policies, profile, apply, Salesforce, app, Enhanced, enabled, API, 54.0]
 ---
-
-# MobileSecurityAssignment
 
 > Represents the assignment of mobile security policies to
          a profile. The policies apply to the Salesforce mobile app with

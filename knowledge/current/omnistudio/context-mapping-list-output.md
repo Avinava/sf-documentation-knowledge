@@ -5,12 +5,10 @@ topic: context-mapping-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.394Z
+lastCollected: 2026-04-07T18:36:39.058Z
 estimatedTokens: 135
-keywords: [Context, Mapping, Output, representation, mappings]
+keywords: [Context, Mapping, mappings]
 ---
-
-# Context Mapping List Output
 
 > Output representation
     of

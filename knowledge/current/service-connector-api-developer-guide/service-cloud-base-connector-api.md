@@ -5,12 +5,10 @@ topic: service-cloud-base-connector-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.315Z
+lastCollected: 2026-04-07T18:39:23.248Z
 estimatedTokens: 296
 keywords: [Service, Cloud, Base, Connector, API, initialize, send, Salesforce, events, occur, Contact, Center, CCaaS, telephony, system]
 ---
-
-# Service Cloud Base Connector API
 
 > The Base Connector API allows you to initialize the API and send
             information to Salesforce when events occur with your Contact Center as a Service

@@ -5,12 +5,10 @@ topic: create-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.176Z
+lastCollected: 2026-04-07T18:39:22.063Z
 estimatedTokens: 2171
-keywords: [Custom, Capture, unique, business, data, storing, configure, want, appear, optionally, control, security, level]
+keywords: [Capture, unique, business, storing, configure, want, appear, optionally, control, security, level]
 ---
-
-# Create Custom Fields
 
 > Capture your unique business data by storing it in custom fields. When you create a
     custom field, you configure where you want it to appear and optionally control security at the

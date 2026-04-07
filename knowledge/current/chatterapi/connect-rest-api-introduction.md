@@ -5,12 +5,10 @@ topic: connect-rest-api-introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:37.062Z
+lastCollected: 2026-04-07T18:37:24.109Z
 estimatedTokens: 958
 keywords: [Connect, REST, API, Introduction, Consider, architecture, rate, limits, how, resources, requests, responses, work]
 ---
-
-# Connect REST API Introduction
 
 > Consider the Connect REST API architecture, rate limits, and how the resources,
                 requests, and responses work.

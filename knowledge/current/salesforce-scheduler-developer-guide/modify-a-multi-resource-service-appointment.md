@@ -5,12 +5,10 @@ topic: modify-a-multi-resource-service-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.777Z
+lastCollected: 2026-04-07T18:39:21.638Z
 estimatedTokens: 1039
 keywords: [Modify, Multi-Resource, Service, Appointment, Salesforce, Scheduler, APIs, case, explains, how, change, secondary, resources, time, slot]
 ---
-
-# Modify a Multi-Resource Service Appointment
 
 > Use Salesforce Scheduler APIs to modify a multi-resource service appointment. This
    use case explains how you can change the secondary service resources or the time slot of an

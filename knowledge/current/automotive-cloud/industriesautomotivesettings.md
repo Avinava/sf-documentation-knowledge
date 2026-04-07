@@ -5,12 +5,10 @@ topic: industriesautomotivesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.625Z
+lastCollected: 2026-04-07T18:36:51.992Z
 estimatedTokens: 709
-keywords: [IndustriesAutomotiveSettings, settings, enabling, features, Automotive, Cloud, Service, Excellence, Scheduler, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [IndustriesAutomotiveSettings, settings, enabling, features, Automotive, Cloud, Service, Excellence, Scheduler, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesAutomotiveSettings
 
 > Represents the settings for enabling
       features like Automotive Cloud, Automotive Service Excellence, and Automotive Scheduler.

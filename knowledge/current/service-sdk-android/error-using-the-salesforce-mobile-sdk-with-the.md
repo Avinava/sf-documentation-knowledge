@@ -5,12 +5,10 @@ topic: error-using-the-salesforce-mobile-sdk-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.595Z
+lastCollected: 2026-04-07T18:40:27.753Z
 estimatedTokens: 108
-keywords: [Error, Salesforce, Mobile, SDK, you're, trying, build, Service, Chat, project, explicitly, embeds, exclude, two, maven]
+keywords: [Error, Salesforce, Mobile, SDK, you're, trying, build, Service, Chat, project, explicitly, embeds, exclude, two, maven, dependencies, prevent, conflicts]
 ---
-
-# Error Using the Salesforce Mobile SDK with the
 
 > If you're trying to build a Service Chat SDK project that explicitly embeds the
     Salesforce Mobile SDK, exclude these two maven dependencies to prevent conflicts.

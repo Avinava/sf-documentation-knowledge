@@ -5,12 +5,10 @@ topic: delivering-html5-content-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.687Z
+lastCollected: 2026-04-07T18:40:26.028Z
 estimatedTokens: 195
-keywords: [Delivering, HTML5, Content, Visualforce, Traditionally, custom, websites, desktop, environment, combined, however, becomes, viable, delivery, mechanism]
+keywords: [Delivering, HTML5, Content, Visualforce, Traditionally, websites, desktop, environment, combined, however, becomes, viable, delivery, mechanism, mobile, Web, apps, leverage, third-party, widget, libraries, Sencha, templating]
 ---
-
-# Delivering HTML5 Content With Visualforce
 
 > Traditionally, you use Visualforce to create custom websites for the desktop environment.
       When combined with HTML5, however, Visualforce becomes a viable delivery mechanism for mobile

@@ -5,12 +5,10 @@ topic: custom-domain-expected-cname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.226Z
+lastCollected: 2026-04-07T18:37:13.168Z
 estimatedTokens: 112
-keywords: [Custom, Domain, Expected, CNAME, canonical, record, that’s, verify, ownership]
+keywords: [Domain, Expected, CNAME, canonical, record, that’s, verify, ownership]
 ---
-
-# Custom Domain Expected CNAME
 
 > Get values for the canonical name (CNAME) record that’s used to verify ownership of a
     custom domain.

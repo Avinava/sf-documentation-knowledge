@@ -5,12 +5,10 @@ topic: adserveruser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.064Z
+lastCollected: 2026-04-07T18:38:12.363Z
 estimatedTokens: 759
-keywords: [AdServerUser, junction, user, server, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AdServerUser, junction, user, server, API, 54.0]
 ---
-
-# AdServerUser
 
 > Represents a junction between a user and an ad server. This object is available in API
       version 54.0 and later.

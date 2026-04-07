@@ -5,12 +5,10 @@ topic: msgchannelusageexternalorg
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.658Z
+lastCollected: 2026-04-07T18:38:35.901Z
 estimatedTokens: 417
-keywords: [MsgChannelUsageExternalOrg, Enterprise, EID, Business, Unit, MID, Marketing, Cloud, connections, Unified, Messaging, channel, API, version, 60.0]
+keywords: [MsgChannelUsageExternalOrg, Enterprise, EID, Business, Unit, MID, Marketing, Cloud, connections, Unified, Messaging, channel, API, 60.0]
 ---
-
-# MsgChannelUsageExternalOrg
 
 > Represents the Enterprise ID (EID) and Business Unit (MID) for
          Marketing Cloud connections in a Unified Messaging channel. This object is available

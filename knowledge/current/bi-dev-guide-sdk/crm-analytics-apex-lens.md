@@ -5,12 +5,10 @@ topic: crm-analytics-apex-lens
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.760Z
+lastCollected: 2026-04-07T18:37:01.369Z
 estimatedTokens: 447
 keywords: [CRM, Analytics, Apex, Lens, Lenses, retrieve, collection, assets, describe, asset, Wave.Lenses]
 ---
-
-# CRM Analytics Apex Lens
 
 > Use the Lenses class to retrieve a collection of
     CRM Analytics lens assets and to describe a single lens asset.

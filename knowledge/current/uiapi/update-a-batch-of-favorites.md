@@ -5,12 +5,10 @@ topic: update-a-batch-of-favorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.974Z
+lastCollected: 2026-04-07T18:40:10.961Z
 estimatedTokens: 166
 keywords: [Batch, Favorites, once, sort, order, updated, relative, ordering, Any, missing, deleted]
 ---
-
-# Update a Batch of Favorites
 
 > Update all favorites at once. The sort order is updated to the given
       relative ordering. Any favorites missing from the request body are deleted.

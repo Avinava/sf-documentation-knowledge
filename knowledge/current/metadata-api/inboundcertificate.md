@@ -5,12 +5,10 @@ topic: inboundcertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.277Z
+lastCollected: 2026-04-07T18:36:26.717Z
 estimatedTokens: 404
-keywords: [InboundCertificate, mutual, authentication, certificate, imported, Salesforce, org, File, Suffix, Directory, Location, Special, Access, Rules, Version]
+keywords: [InboundCertificate, mutual, authentication, certificate, imported, Salesforce, org, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# InboundCertificate
 
 > Represents a mutual authentication certificate that is imported to
       your Salesforce org.

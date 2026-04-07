@@ -5,12 +5,10 @@ topic: security-considerations-for-flow-design
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:27.983Z
+lastCollected: 2026-04-07T18:39:21.861Z
 estimatedTokens: 1226
-keywords: [Security, Considerations, Flow, Design, Plan, securely, implement, manage, flows, Develop, Subflows, Appropriate, Execution, Context, Apex]
+keywords: [Security, Considerations, Flow, Design, Plan, securely, implement, manage, flows, Develop, Subflows, Appropriate, Execution, Context, Apex, Control, Logic, User, Mode, Validate, Inputs, Handle, Record-Triggered, Document, Functionality, Regular, Reviews]
 ---
-
-# Security Considerations for Flow Design
 
 > Plan for these considerations to securely design, implement, and manage
   flows.

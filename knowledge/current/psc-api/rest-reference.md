@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.119Z
+lastCollected: 2026-04-07T18:39:03.348Z
 estimatedTokens: 222
-keywords: [REST, access, Decision, Explainer, APIs, endpoints, follow, similar, conventions, Connect, Group, Membership, Households, Intelligent, Document, Reader, Interest, Tags, Omnistudio, Sector]
+keywords: [REST, Decision, Explainer, APIs, endpoints, follow, similar, conventions, Connect, Group, Membership, Households, Intelligent, Document, Reader, Interest, Tags, Omnistudio, Sector, Solutions, Record, Alerts, Rollup, Definitions, Business, endpoint, follows]
 ---
-
-# REST Reference
 
 > You can access Omnistudio APIs using REST endpoints. These REST APIs follow similar
     conventions as Connect REST APIs.

@@ -5,12 +5,10 @@ topic: apianomalyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.675Z
+lastCollected: 2026-04-07T18:38:58.563Z
 estimatedTokens: 1829
-keywords: [ApiAnomalyEvent, Track, anomalies, how, users, API, calls, version, 50.0, later, Special, Access, Rules, Subscribers, Event]
+keywords: [ApiAnomalyEvent, Track, anomalies, how, users, API, 50.0, Subscribers, Event, Delivery, Allocation, Enforced]
 ---
-
-# ApiAnomalyEvent
 
 > Track anomalies in how users make API calls. This object is
       available in API version 50.0 and later.

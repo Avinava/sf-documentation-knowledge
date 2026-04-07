@@ -5,12 +5,10 @@ topic: caredeterminantshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.319Z
+lastCollected: 2026-04-07T18:39:31.678Z
 estimatedTokens: 250
 keywords: [CareDeterminantShare, Sharing, CareDeterminant]
 ---
-
-# CareDeterminantShare
 
 > Sharing for CareDeterminant.
 

@@ -5,12 +5,10 @@ topic: userreaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.143Z
+lastCollected: 2026-04-07T18:38:02.049Z
 estimatedTokens: 538
-keywords: [UserReaction, reaction, users, medical, insight, upvote, downvote, identify, trending, insights, Calls]
+keywords: [UserReaction, reaction, users, medical, insight, upvote, downvote, identify, trending, insights]
 ---
-
-# UserReaction
 
 > Represents the reaction from users to the medical insight, like upvote and
          downvote, which is used to identify trending insights.

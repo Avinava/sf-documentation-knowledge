@@ -5,12 +5,10 @@ topic: rebateprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.099Z
+lastCollected: 2026-04-07T18:37:06.807Z
 estimatedTokens: 676
-keywords: [RebateProgram, rebate, program, organization, runs, account, accounts, specific, API, version, 51.0, later, Calls]
+keywords: [RebateProgram, rebate, program, organization, runs, account, accounts, specific, API, 51.0]
 ---
-
-# RebateProgram
 
 > The rebate program your organization runs with a single account, all
       accounts, or specific list of accounts. This object is available in API version 51.0 and

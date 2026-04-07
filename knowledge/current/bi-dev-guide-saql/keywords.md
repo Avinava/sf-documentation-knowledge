@@ -5,12 +5,10 @@ topic: keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.444Z
+lastCollected: 2026-04-07T18:37:01.026Z
 estimatedTokens: 152
 keywords: [Keywords, case-sensitive, lowercase]
 ---
-
-# Keywords
 
 > Keywords are case-sensitive and must be lowercase.
 

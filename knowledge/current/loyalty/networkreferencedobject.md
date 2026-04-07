@@ -5,12 +5,10 @@ topic: networkreferencedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.254Z
+lastCollected: 2026-04-07T18:38:10.509Z
 estimatedTokens: 332
-keywords: [NetworkReferencedObject, junction, associates, loyalty, program, Experience, Cloud, site, API, version, 51.0, later, Calls]
+keywords: [NetworkReferencedObject, junction, associates, loyalty, program, Experience, Cloud, site, API, 51.0]
 ---
-
-# NetworkReferencedObject
 
 > A junction object that associates the loyalty program with the Experience Cloud
       site. This object is available in API version 51.0 and later.

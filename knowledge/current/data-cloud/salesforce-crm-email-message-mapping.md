@@ -5,12 +5,10 @@ topic: salesforce-crm-email-message-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.491Z
+lastCollected: 2026-04-07T18:35:52.353Z
 estimatedTokens: 367
-keywords: [Salesforce, CRM, Email, Message, Mapping, data, mappings, EmailMessage, DLO, found, Services, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, Email, Message, Mapping, mappings, EmailMessage, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Email Message Mapping
 
 > These data mappings are for the EmailMessage DLO found in the Services bundle of the
   Salesforce CRM Connector for Data Cloud.

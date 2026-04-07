@@ -5,12 +5,10 @@ topic: connect-rest-api-quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.402Z
+lastCollected: 2026-04-07T18:37:24.408Z
 estimatedTokens: 365
 keywords: [Connect, REST, API, Quick, Start, Salesforce, authenticate, look]
 ---
-
-# Connect REST API Quick Start
 
 > Connect to Salesforce and authenticate, then make a request to Connect REST API and
     look at the response.

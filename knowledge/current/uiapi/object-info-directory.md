@@ -5,12 +5,10 @@ topic: object-info-directory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.960Z
+lastCollected: 2026-04-07T18:40:11.964Z
 estimatedTokens: 186
-keywords: [Info, Directory, objects, User, API, context]
+keywords: [Info, Directory, User, API, context]
 ---
-
-# Object Info Directory
 
 > A directory of objects that are supported by User Interface API and
       available to the context user.

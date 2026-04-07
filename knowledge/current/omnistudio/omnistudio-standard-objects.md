@@ -5,12 +5,10 @@ topic: omnistudio-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.547Z
+lastCollected: 2026-04-07T18:36:43.287Z
 estimatedTokens: 902
-keywords: [Omnistudio, Standard, Objects, data, model, foundational, across, components, consistent, access, management, guided, experiences, process, automation]
+keywords: [Omnistudio, Standard, model, foundational, across, consistent, management, guided, experiences, process, automation]
 ---
-
-# Omnistudio Standard Objects
 
 > Omnistudio data model defines the foundational objects and fields used across Omnistudio
   components. It enables consistent data access and management within guided experiences and process

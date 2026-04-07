@@ -5,12 +5,10 @@ topic: embedded-service-chat-for-web-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.698Z
+lastCollected: 2026-04-07T18:40:09.636Z
 estimatedTokens: 1008
-keywords: [Embedded, Service, Chat, Web, Developer, Improve, functionality, deployment, customizing, code, snippet, adding, HTML, JavaScript, Lightning]
+keywords: [Embedded, Service, Chat, Web, Developer, Improve, functionality, deployment, customizing, code, snippet, adding, HTML, JavaScript, Lightning, features]
 ---
-
-# Embedded Service Chat for Web Developer Guide
 
 > Improve the functionality of your Embedded Service Chat deployment by customizing
         parameters in the Embedded Service code snippet, adding HTML and JavaScript, or using a

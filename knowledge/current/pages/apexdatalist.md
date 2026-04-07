@@ -5,12 +5,10 @@ topic: apexdatalist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.383Z
+lastCollected: 2026-04-07T18:38:49.506Z
 estimatedTokens: 1055
-keywords: [apex, dataList, ordered, unordered, defined, iterating, over, data, <apex, dataList>, component, how, item, appear, include]
+keywords: [Attributes, apex, dataList, ordered, unordered, defined, iterating, over, <apex, dataList>, how, item, appear, include, items]
 ---
-
-# apex:dataList
 
 > An ordered or unordered list of values that is defined by iterating over a set of data. The body of the <apex:dataList> component specifies how a single item should appear in the list. The data set can include up to 1,000 items.
 

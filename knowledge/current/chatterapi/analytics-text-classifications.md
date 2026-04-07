@@ -5,12 +5,10 @@ topic: analytics-text-classifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.781Z
+lastCollected: 2026-04-07T18:37:15.840Z
 estimatedTokens: 401
 keywords: [Analytics, Text, Classifications, classified, different, analysis]
 ---
-
-# Analytics, Text Classifications
 
 > Get text classified into different classifications using text analysis.
 

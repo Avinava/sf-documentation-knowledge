@@ -5,12 +5,10 @@ topic: vote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.636Z
+lastCollected: 2026-04-07T18:37:23.700Z
 estimatedTokens: 165
-keywords: [Vote, upvote, downvote, feed, element, comment]
+keywords: [Vote, upvote, downvote, comment]
 ---
-
-# Vote
 
 > An upvote or downvote on a feed element or comment.
 

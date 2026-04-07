@@ -5,12 +5,10 @@ topic: standard-fulfillment-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:02.340Z
+lastCollected: 2026-04-07T18:35:47.374Z
 estimatedTokens: 1524
-keywords: [Standard, Fulfillment, Provider, CalloutIntegrationProvider, order, usage, Designer, configure, Payload, Considerations, Error, Handling, Integration, Definition, Configurations]
+keywords: [Considerations, Standard, Fulfillment, Provider, CalloutIntegrationProvider, order, Designer, configure, Payload, Error, Handling, Integration, Definition, Configurations]
 ---
-
-# Standard Fulfillment Provider
 
 > The Standard Fulfillment Provider or CalloutIntegrationProvider is a provider for the order fulfillment usage type. A
     Fulfillment Designer can configure this provider.

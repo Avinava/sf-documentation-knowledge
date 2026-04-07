@@ -5,12 +5,10 @@ topic: perform-a-send-preview-test-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.845Z
+lastCollected: 2026-04-07T18:40:23.266Z
 estimatedTokens: 88
 keywords: [Perform, Send, Preview, Test]
 ---
-
-# Perform a Send Preview Test Send
 
 # Perform a Send Preview Test Send
 

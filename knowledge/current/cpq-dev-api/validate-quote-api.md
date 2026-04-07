@@ -5,12 +5,10 @@ topic: validate-quote-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.388Z
+lastCollected: 2026-04-07T18:37:27.392Z
 estimatedTokens: 272
 keywords: [Validate, Quote, API, CPQ, any, validation, errors, REST, Examples, Apex]
 ---
-
-# Validate Quote API
 
 > Validate a CPQ quote and return any validation errors.
 

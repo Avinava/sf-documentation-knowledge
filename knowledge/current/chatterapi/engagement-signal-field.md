@@ -5,12 +5,10 @@ topic: engagement-signal-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.555Z
+lastCollected: 2026-04-07T18:37:18.647Z
 estimatedTokens: 88
-keywords: [Engagement, Signal, output]
+keywords: [Engagement, Signal]
 ---
-
-# Engagement Signal Field
 
 > Field output object.
 

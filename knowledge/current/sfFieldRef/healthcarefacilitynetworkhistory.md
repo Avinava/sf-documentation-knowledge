@@ -5,12 +5,10 @@ topic: healthcarefacilitynetworkhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.037Z
+lastCollected: 2026-04-07T18:39:43.657Z
 estimatedTokens: 276
-keywords: [HealthcareFacilityNetworkHistory, History, tracked, HealthcareFacilityNetwork]
+keywords: [HealthcareFacilityNetworkHistory, tracked, HealthcareFacilityNetwork]
 ---
-
-# HealthcareFacilityNetworkHistory
 
 > History for tracked fields of HealthcareFacilityNetwork.
 

@@ -5,12 +5,10 @@ topic: develop-secure-sites-authenticated-and-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.977Z
+lastCollected: 2026-04-07T18:37:26.944Z
 estimatedTokens: 582
-keywords: [Develop, Secure, Sites, Authenticated, Guest, Users, implementing, Experience, Cloud, site, accessible, external, unauthenticated, keep, security]
+keywords: [Develop, Secure, Sites, Authenticated, Guest, Users, implementing, Experience, Cloud, site, accessible, external, unauthenticated, keep, security, considerations, mind, login, privileges, they, can’t, internal, Salesforce, org, user, anyone, internet, visit, publicly, pages]
 ---
-
-# Develop Secure Sites: Authenticated and Guest Users
 
 > When implementing an Experience Cloud site accessible by external and unauthenticated
     guest users, keep these security considerations in mind. External users have login privileges to

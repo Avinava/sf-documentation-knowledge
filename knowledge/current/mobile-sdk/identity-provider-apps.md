@@ -5,12 +5,10 @@ topic: identity-provider-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.811Z
+lastCollected: 2026-04-07T18:40:25.197Z
 estimatedTokens: 1400
-keywords: [Identity, Provider, Apps, providers, help, known, users, avoid, reentering, their, Salesforce, credentials, every, time, they]
+keywords: [Identity, Provider, Apps, providers, help, known, users, avoid, reentering, their, Salesforce, credentials, every, time, they, log, Mobile, SDK, app, preserves, stringent, security, level, previous, releases]
 ---
-
-# Identity Provider Apps
 
 > Identity providers help known users avoid reentering their Salesforce credentials every time
   they log in to a Mobile SDK

@@ -5,12 +5,10 @@ topic: decision-table-bulk-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.226Z
+lastCollected: 2026-04-07T18:36:36.775Z
 estimatedTokens: 132
-keywords: [Decision, Bulk, Input, representation, lookup]
+keywords: [Decision, Bulk, lookup]
 ---
-
-# Decision Table Bulk Input
 
 > Input representation of the Decision Table bulk
       lookup.

@@ -5,12 +5,10 @@ topic: asyncrequestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.296Z
+lastCollected: 2026-04-07T18:40:15.365Z
 estimatedTokens: 418
 keywords: [AsyncRequestResult, status, specific, campaign, instance]
 ---
-
-# AsyncRequestResult
 
 > The AsyncRequestResult object returns status information for a specific campaign instance.
 

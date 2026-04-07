@@ -5,12 +5,10 @@ topic: referral-event-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.093Z
+lastCollected: 2026-04-07T18:39:09.417Z
 estimatedTokens: 966
-keywords: [Referral, Event, Input, representation]
+keywords: [Referral, Event]
 ---
-
-# Referral Event Input
 
 > Input representation of the request to create a referral
       event.

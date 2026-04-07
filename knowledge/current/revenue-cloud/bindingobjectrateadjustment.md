@@ -5,12 +5,10 @@ topic: bindingobjectrateadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.748Z
+lastCollected: 2026-04-07T18:35:48.734Z
 estimatedTokens: 911
-keywords: [BindingObjectRateAdjustment, rate, adjustments, usage, resource, associated, binding, that's, charge, over, consumption, API, version, 64.0, later]
+keywords: [BindingObjectRateAdjustment, rate, adjustments, resource, binding, that's, charge, over, consumption, API, 64.0]
 ---
-
-# BindingObjectRateAdjustment
 
 > Represents the rate adjustments of the usage resource associated with
          the binding object that's used to charge over consumption. This object is available in

@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappthemec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.117Z
+lastCollected: 2026-04-07T18:39:12.578Z
 estimatedTokens: 597
-keywords: [cgc_sync__Sync_Mobile_App_Theme__c, themes, mobile, app, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Theme, Calls]
+keywords: [cgc_sync__Sync_Mobile_App_Theme__c, themes, mobile, app, API, 53.0, cgc, _sync, _Mobile, _App, _Theme]
 ---
-
-# cgc_sync__Sync_Mobile_App_Theme__c
 
 > Represents the themes of a mobile app. This object is available in API
       version 53.0 and later.

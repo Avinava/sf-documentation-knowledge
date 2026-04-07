@@ -5,12 +5,10 @@ topic: invoice-preview-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.771Z
+lastCollected: 2026-04-07T18:35:44.780Z
 estimatedTokens: 442
 keywords: [Invoice, Preview, POST, Generate, invoices, includes, estimated, tax, amounts, billing, transaction, two, periods]
 ---
-
-# Invoice Preview (POST)
 
 > Generate preview invoices, which includes the estimated tax amounts,
       for a billing transaction for the next two billing periods.

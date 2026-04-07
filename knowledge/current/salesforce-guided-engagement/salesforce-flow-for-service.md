@@ -5,12 +5,10 @@ topic: salesforce-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.103Z
+lastCollected: 2026-04-07T18:39:17.776Z
 estimatedTokens: 1553
-keywords: [Salesforce, Flow, Service, Give, users, logical, steps, Actions, Recommendations, component, associate, record, deployment, automation, tools]
+keywords: [Salesforce, Flow, Service, Give, users, logical, steps, Actions, Recommendations, associate, record, deployment, automation, tools, API, configure, specific, channels, phone, chat, select, want]
 ---
-
-# Salesforce Flow for Service
 
 > Give your users a list of logical next steps with Salesforce Flow for Service and the
     Actions & Recommendations component. To create the list, associate actions with a record

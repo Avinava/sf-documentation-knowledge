@@ -5,12 +5,10 @@ topic: actionablelistfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.169Z
+lastCollected: 2026-04-07T18:36:43.903Z
 estimatedTokens: 1328
-keywords: [ActionableListFilterCondition, filter, condition, including, excluding, data, dataset, associated, actionable, API, version, 59.0, later, Calls, Objects]
+keywords: [ActionableListFilterCondition, filter, condition, including, excluding, dataset, actionable, API, 59.0]
 ---
-
-# ActionableListFilterCondition
 
 > Represents the filter condition for including or excluding data from
          the dataset associated with the actionable list. This object is available in API

@@ -5,12 +5,10 @@ topic: loyalty-management-mobile-sdk-for-ios-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.327Z
+lastCollected: 2026-04-07T18:38:09.618Z
 estimatedTokens: 352
-keywords: [Loyalty, Management, Mobile, SDK, iOS, Classes, organize, functionalities, data, structures, provided, building, applications, provide, components]
+keywords: [Loyalty, Management, Mobile, SDK, iOS, Classes, organize, functionalities, structures, provided, building, applications, provide, services, features, interact]
 ---
-
-# Loyalty Management Mobile SDK for iOS Classes
 
 > Loyalty Management Mobile SDK for iOS classes organize the functionalities and data
   structures provided by the SDK. When building applications using the SDK, classes provide

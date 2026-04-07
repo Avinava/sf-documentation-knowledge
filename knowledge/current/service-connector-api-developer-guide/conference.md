@@ -5,12 +5,10 @@ topic: conference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.403Z
+lastCollected: 2026-04-07T18:39:23.341Z
 estimatedTokens: 278
-keywords: [conference, call, multiple, calls, Multiparty, enabled, removes, rep, consult, adds]
+keywords: [conference, call, multiple, Multiparty, enabled, removes, rep, consult, adds]
 ---
-
-# conference
 
 > Create a conference call from multiple calls. If Multiparty
         Calls is enabled, this method removes a rep from a consult call and adds them to a

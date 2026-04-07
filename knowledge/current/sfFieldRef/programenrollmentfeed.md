@@ -5,12 +5,10 @@ topic: programenrollmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.266Z
+lastCollected: 2026-04-07T18:39:56.817Z
 estimatedTokens: 361
-keywords: [ProgramEnrollmentFeed, Feed, tracking, ProgramEnrollment]
+keywords: [ProgramEnrollmentFeed, ProgramEnrollment]
 ---
-
-# ProgramEnrollmentFeed
 
 > Feed tracking for ProgramEnrollment.
 

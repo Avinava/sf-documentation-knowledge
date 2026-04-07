@@ -5,12 +5,10 @@ topic: chat-in-the-for-android-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.519Z
+lastCollected: 2026-04-07T18:40:27.678Z
 estimatedTokens: 895
 keywords: [Chat, Android, Service, SDK, provide, real-time, sessions, native, app]
 ---
-
-# Chat in the  for Android for Android
 
 > Using Chat within the Service Chat SDK, you can provide real-time chat
         sessions from within your native app.

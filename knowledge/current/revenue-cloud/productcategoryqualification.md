@@ -5,12 +5,10 @@ topic: productcategoryqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.017Z
+lastCollected: 2026-04-07T18:35:49.983Z
 estimatedTokens: 882
-keywords: [ProductCategoryQualification, qualification, rules, product, categories, determine, category, qualifies, users, API, version, 60.0, later, Calls, Special]
+keywords: [ProductCategoryQualification, qualification, product, categories, determine, category, qualifies, users, API, 60.0]
 ---
-
-# ProductCategoryQualification
 
 > Represents qualification rules for product categories. The rules determine
          when the product category qualifies to be displayed to users. This object is available

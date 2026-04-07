@@ -5,12 +5,10 @@ topic: license-attributes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.451Z
+lastCollected: 2026-04-07T18:36:54.814Z
 estimatedTokens: 116
-keywords: [License, Attributes, Input, Analytics]
+keywords: [License, Attributes, Analytics]
 ---
-
-# License Attributes Input
 
 > The Analytics license attributes.
 

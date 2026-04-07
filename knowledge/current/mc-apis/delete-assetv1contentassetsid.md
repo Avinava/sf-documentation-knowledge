@@ -5,12 +5,10 @@ topic: delete-assetv1contentassetsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.344Z
+lastCollected: 2026-04-07T18:40:16.484Z
 estimatedTokens: 191
-keywords: [asset, content, assets, **Overview**, Usage]
+keywords: [asset, content, assets, **Overview**]
 ---
-
-# DELETE /asset/v1/content/assets/{id}
 
 # DELETE /asset/v1/content/assets/{id}
 

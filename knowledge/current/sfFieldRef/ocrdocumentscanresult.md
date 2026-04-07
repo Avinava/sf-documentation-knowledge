@@ -5,12 +5,10 @@ topic: ocrdocumentscanresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.476Z
+lastCollected: 2026-04-07T18:39:49.935Z
 estimatedTokens: 488
 keywords: [OcrDocumentScanResult, contents, document, optical, character, recognition, OCR, processing]
 ---
-
-# OcrDocumentScanResult
 
 > Represents the contents of a document after optical character recognition (OCR) 
       processing.

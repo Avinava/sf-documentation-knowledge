@@ -5,12 +5,10 @@ topic: servicecontractshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.651Z
+lastCollected: 2026-04-07T18:40:01.415Z
 estimatedTokens: 250
 keywords: [ServiceContractShare, Sharing, ServiceContract]
 ---
-
-# ServiceContractShare
 
 > Sharing for ServiceContract.
 

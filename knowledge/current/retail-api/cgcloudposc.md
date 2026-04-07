@@ -5,12 +5,10 @@ topic: cgcloudposc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.926Z
+lastCollected: 2026-04-07T18:39:14.321Z
 estimatedTokens: 1275
-keywords: [cgcloud__POS__c, Stores, POS, Point, Sale, place, customer's, premises, goods, sold, consumers, API, version, 54.0, later]
+keywords: [cgcloud__POS__c, Stores, POS, Point, Sale, place, customer's, premises, goods, sold, consumers, API, 54.0, cgcloud, _POS]
 ---
-
-# cgcloud__POS__c
 
 > Stores the details of the POS object. A Point of Sale (POS) stores
          the information about a place in the customer's premises at which goods are sold to

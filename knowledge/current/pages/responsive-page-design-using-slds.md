@@ -5,12 +5,10 @@ topic: responsive-page-design-using-slds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.680Z
+lastCollected: 2026-04-07T18:38:52.972Z
 estimatedTokens: 571
-keywords: [Responsive, Design, SLDS, web, aimed, creating, online, user, interfaces, provide, best, viewing, experience, including, easy]
+keywords: [Responsive, Design, SLDS, web, aimed, creating, online, user, interfaces, provide, best, viewing, experience, including, easy, reading, navigation, various, screen, sizes, Grid, System]
 ---
-
-# Responsive Page Design Using SLDS
 
 > Responsive design is a web design method aimed at creating online user interfaces that
     provide the best viewing experience, including easy reading and navigation, on various screen

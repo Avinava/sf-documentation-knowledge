@@ -5,12 +5,10 @@ topic: put-datav1asyncdataextensionsidrows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.617Z
+lastCollected: 2026-04-07T18:40:20.877Z
 estimatedTokens: 689
-keywords: [PUT, data, async, dataextensions, rows, Asynchronously, upsert, identified, extension, key, unique, identifier, external, customer, **Overview**]
+keywords: [PUT, async, dataextensions, rows, Asynchronously, upsert, identified, extension, key, unique, identifier, external, customer, **Overview**, Success, Accepted, Error]
 ---
-
-# PUT /data/v1/async/dataextensions/{id}/rows
 
 > Asynchronously upsert data into an identified data extension by id or key, where id is the unique identifier of the data extension and key is the external key (customer key) of the data extension.
 

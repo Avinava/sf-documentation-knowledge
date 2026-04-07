@@ -5,12 +5,10 @@ topic: html5-and-hybrid-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.660Z
+lastCollected: 2026-04-07T18:40:26.008Z
 estimatedTokens: 225
-keywords: [HTML5, Hybrid, Development, lets, lightweight, mobile, interfaces, installing, software, target, device, Any, touch, desktop, access]
+keywords: [HTML5, Hybrid, Development, lets, lightweight, mobile, interfaces, installing, software, target, device, Any, touch, desktop, now, supports, advanced, functionality, camera, GPS, making, simple, popular]
 ---
-
-# HTML5 and Hybrid Development
 
 > HTML5 lets you create lightweight mobile interfaces without installing software on the target
    device. Any mobile, touch or desktop device can access these mobile interfaces. HTML5 now

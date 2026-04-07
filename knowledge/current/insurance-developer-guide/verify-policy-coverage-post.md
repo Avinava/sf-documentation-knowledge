@@ -5,12 +5,10 @@ topic: verify-policy-coverage-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.886Z
+lastCollected: 2026-04-07T18:37:51.962Z
 estimatedTokens: 326
 keywords: [Verify, Policy, Coverage, POST, applicability, loss, date, under, insurance, eligible, coverages, processed, claims]
 ---
-
-# Verify Policy Coverage (POST)
 
 > Verify the applicability of a policy coverage for a specified loss date under an
   insurance policy, so that only eligible coverages are processed for claims.

@@ -5,12 +5,10 @@ topic: problemrelateditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.082Z
+lastCollected: 2026-04-07T18:38:38.460Z
 estimatedTokens: 803
-keywords: [ProblemRelatedItem, junction, relates, Problem, Asset, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [ProblemRelatedItem, junction, relates, Problem, Asset, API, 53.0]
 ---
-
-# ProblemRelatedItem
 
 > Represents a junction object that relates a Problem to an Asset.
       This object is available in API version 53.0 and later.

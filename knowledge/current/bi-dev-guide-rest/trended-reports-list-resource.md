@@ -5,12 +5,10 @@ topic: trended-reports-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.934Z
+lastCollected: 2026-04-07T18:36:56.487Z
 estimatedTokens: 177
 keywords: [Trended, Reports, Resource, trending, creates, report]
 ---
-
-# Trended Reports List Resource
 
 > Returns a list of trending reports or creates a trending report.
 

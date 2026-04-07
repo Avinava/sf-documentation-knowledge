@@ -5,12 +5,10 @@ topic: benefitassignmentadjustmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.968Z
+lastCollected: 2026-04-07T18:39:29.070Z
 estimatedTokens: 366
-keywords: [BenefitAssignmentAdjustmentFeed, Feed, tracking, BenefitAssignmentAdjustment]
+keywords: [BenefitAssignmentAdjustmentFeed, BenefitAssignmentAdjustment]
 ---
-
-# BenefitAssignmentAdjustmentFeed
 
 > Feed tracking for BenefitAssignmentAdjustment.
 

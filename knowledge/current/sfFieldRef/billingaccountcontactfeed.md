@@ -5,12 +5,10 @@ topic: billingaccountcontactfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.244Z
+lastCollected: 2026-04-07T18:39:29.359Z
 estimatedTokens: 363
-keywords: [BillingAccountContactFeed, Feed, tracking, BillingAccountContact]
+keywords: [BillingAccountContactFeed, BillingAccountContact]
 ---
-
-# BillingAccountContactFeed
 
 > Feed tracking for BillingAccountContact.
 

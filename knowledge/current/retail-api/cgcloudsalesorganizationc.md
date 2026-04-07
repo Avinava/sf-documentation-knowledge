@@ -5,12 +5,10 @@ topic: cgcloudsalesorganizationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.471Z
+lastCollected: 2026-04-07T18:39:14.868Z
 estimatedTokens: 4897
-keywords: [cgcloud__Sales_Organization__c, stores, Sales, Organization, API, version, 54.0, later, cgcloud, _Sales, _Organization, Calls, Associated, Objects]
+keywords: [cgcloud__Sales_Organization__c, stores, Sales, Organization, API, 54.0, cgcloud, _Sales, _Organization]
 ---
-
-# cgcloud__Sales_Organization__c
 
 > This object stores the details of the Sales Organization. This
       object is available in API version 54.0 and later.

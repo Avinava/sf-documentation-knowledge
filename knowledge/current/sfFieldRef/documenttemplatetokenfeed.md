@@ -5,12 +5,10 @@ topic: documenttemplatetokenfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.900Z
+lastCollected: 2026-04-07T18:39:38.588Z
 estimatedTokens: 363
-keywords: [DocumentTemplateTokenFeed, Feed, tracking, DocumentTemplateToken]
+keywords: [DocumentTemplateTokenFeed, DocumentTemplateToken]
 ---
-
-# DocumentTemplateTokenFeed
 
 > Feed tracking for DocumentTemplateToken.
 

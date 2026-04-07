@@ -5,12 +5,10 @@ topic: extlrecshrfieldmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.175Z
+lastCollected: 2026-04-07T18:38:32.137Z
 estimatedTokens: 318
-keywords: [ExtlRecShrFieldMap, external, record, share, mapping, sender, receiver, Partner, Connect, API, version, 62.0, later, Calls, Special]
+keywords: [ExtlRecShrFieldMap, external, record, share, mapping, sender, receiver, Partner, Connect, API, 62.0]
 ---
-
-# ExtlRecShrFieldMap
 
 > Represents the external record share field mapping between the sender
          and receiver for Partner Connect. This object is available in API version 62.0 and

@@ -5,12 +5,10 @@ topic: userconfigtransferbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.719Z
+lastCollected: 2026-04-07T18:38:43.486Z
 estimatedTokens: 223
-keywords: [UserConfigTransferButton, association, Chat, configuration, live, button, users, associated, specific, transfer, chats, queue, Calls, Special, Access]
+keywords: [UserConfigTransferButton, association, Chat, configuration, live, button, users, specific, transfer, chats, queue]
 ---
-
-# UserConfigTransferButton
 
 > Represents the association between a Chat configuration and a live chat
       button. This association allows users associated with a specific configuration to transfer

@@ -5,12 +5,10 @@ topic: adverseeventsupportinfofeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.413Z
+lastCollected: 2026-04-07T18:39:25.342Z
 estimatedTokens: 392
-keywords: [AdverseEventSupportInfoFeed, Feed, tracking, AdverseEventSupportInfo]
+keywords: [AdverseEventSupportInfoFeed, AdverseEventSupportInfo]
 ---
-
-# AdverseEventSupportInfoFeed
 
 > Feed tracking for AdverseEventSupportInfo.
 

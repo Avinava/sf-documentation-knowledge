@@ -5,12 +5,10 @@ topic: expected-revenue-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:01.928Z
+lastCollected: 2026-04-07T18:37:50.837Z
 estimatedTokens: 162
-keywords: [Expected, Revenue, Input, representation, calculate, brokerage]
+keywords: [Expected, Revenue, calculate, brokerage]
 ---
-
-# Expected Revenue Input
 
 > Input representation of the request to calculate expected brokerage revenue.
 

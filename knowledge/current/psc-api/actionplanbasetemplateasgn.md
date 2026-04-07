@@ -5,12 +5,10 @@ topic: actionplanbasetemplateasgn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.416Z
+lastCollected: 2026-04-07T18:39:05.422Z
 estimatedTokens: 782
-keywords: [ActionPlanBaseTemplateAsgn, junction, action, plan, template, record, assigned, job, position, recruitment, requisition, API, version, 62.0, Calls]
+keywords: [ActionPlanBaseTemplateAsgn, junction, action, plan, template, record, assigned, job, position, recruitment, requisition, API, 62.0]
 ---
-
-# ActionPlanBaseTemplateAsgn
 
 > Represents a junction between an action plan template and a related
          record. An action plan template can be assigned to a job position, position, or a

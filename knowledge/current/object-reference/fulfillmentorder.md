@@ -5,12 +5,10 @@ topic: fulfillmentorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:42.144Z
+lastCollected: 2026-04-07T18:38:33.232Z
 estimatedTokens: 4310
-keywords: [FulfillmentOrder, group, products, fees, delivery, charges, order, share, fulfillment, location, recipient, FulfillmentOrderLineItems, belonging, associated, OrderItemSummary]
+keywords: [FulfillmentOrder, group, products, fees, delivery, charges, order, share, fulfillment, location, recipient, FulfillmentOrderLineItems, belonging, OrderItemSummary, OrderSummary, API, 48.0]
 ---
-
-# FulfillmentOrder
 
 > Represents a group of products, fees, and delivery charges on a single
 			order that share the same fulfillment location, delivery method, and recipient. The

@@ -5,12 +5,10 @@ topic: healthcarediagnosisshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.753Z
+lastCollected: 2026-04-07T18:39:43.345Z
 estimatedTokens: 252
 keywords: [HealthCareDiagnosisShare, Sharing, HealthCareDiagnosis]
 ---
-
-# HealthCareDiagnosisShare
 
 > Sharing for HealthCareDiagnosis.
 

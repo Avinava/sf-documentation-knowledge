@@ -5,12 +5,10 @@ topic: accountplanobjmeasrela
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.631Z
+lastCollected: 2026-04-07T18:38:24.493Z
 estimatedTokens: 723
-keywords: [AccountPlanObjMeasRela, junction, account, plan, objective, measure, objects, API, version, 62.0, later, Calls, Associated]
+keywords: [AccountPlanObjMeasRela, junction, account, plan, objective, measure, API, 62.0]
 ---
-
-# AccountPlanObjMeasRela
 
 > Represents a junction between an account plan objective measure and the related objects. This object is available in API version 62.0 and later.
 

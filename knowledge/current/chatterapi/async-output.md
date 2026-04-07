@@ -5,12 +5,10 @@ topic: async-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.717Z
+lastCollected: 2026-04-07T18:37:16.786Z
 estimatedTokens: 335
-keywords: [Async, Output, representation, operation]
+keywords: [Async, operation]
 ---
-
-# Async Output
 
 > Output representation of the async operation.
 

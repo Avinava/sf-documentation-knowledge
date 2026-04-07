@@ -5,12 +5,10 @@ topic: researchstudyrelationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.422Z
+lastCollected: 2026-04-07T18:40:00.140Z
 estimatedTokens: 391
-keywords: [ResearchStudyRelationFeed, Feed, tracking, ResearchStudyRelation]
+keywords: [ResearchStudyRelationFeed, ResearchStudyRelation]
 ---
-
-# ResearchStudyRelationFeed
 
 > Feed tracking for ResearchStudyRelation.
 

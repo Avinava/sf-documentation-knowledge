@@ -5,12 +5,10 @@ topic: packageversionuninstallrequesterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.420Z
+lastCollected: 2026-04-07T18:36:33.800Z
 estimatedTokens: 184
-keywords: [PackageVersionUninstallRequestError, error, encountered, requesting, uninstall, Package2Version, second-generation, package, version, API, 41.0, later, SOAP, Calls, REST]
+keywords: [PackageVersionUninstallRequestError, error, encountered, requesting, uninstall, Package2Version, second-generation, package, API, 41.0, SOAP, REST, HTTP]
 ---
-
-# PackageVersionUninstallRequestError
 
 > Represents an
             error encountered while requesting an uninstall of a Package2Version (second-generation

@@ -5,12 +5,10 @@ topic: requirements-for-standalone-order-products-with-consumption-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.706Z
+lastCollected: 2026-04-07T18:37:04.326Z
 estimatedTokens: 755
 keywords: [Requirements, Standalone, Order, Products, Consumption, Schedules, monthly, product, schedule, rates, API, Salesforce, Lightning, Classic]
 ---
-
-# Requirements for Standalone Order Products with Consumption Schedules
 
 > Create a monthly order product with an order product consumption schedule and
   consumption rates through API in Salesforce Lightning or Salesforce Classic.

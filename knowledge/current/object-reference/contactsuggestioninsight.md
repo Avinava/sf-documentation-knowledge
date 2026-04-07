@@ -5,12 +5,10 @@ topic: contactsuggestioninsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.518Z
+lastCollected: 2026-04-07T18:38:28.424Z
 estimatedTokens: 997
-keywords: [ContactSuggestionInsight, suggestion, new, contact, record, API, versions, 45.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ContactSuggestionInsight, suggestion, new, contact, record, API, versions, 45.0]
 ---
-
-# ContactSuggestionInsight
 
 > Represents a suggestion for a new contact record. Available in
 		API versions 45.0 and later.

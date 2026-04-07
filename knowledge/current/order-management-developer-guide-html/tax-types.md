@@ -5,12 +5,10 @@ topic: tax-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.678Z
+lastCollected: 2026-04-07T18:38:45.471Z
 estimatedTokens: 707
 keywords: [Tax, Orders, include, two, taxes, sales, value-added, VAT]
 ---
-
-# Tax Types
 
 > Orders can include two types of taxes: sales tax and value-added
       tax (VAT).

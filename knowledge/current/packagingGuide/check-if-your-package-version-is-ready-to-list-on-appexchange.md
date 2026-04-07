@@ -5,12 +5,10 @@ topic: check-if-your-package-version-is-ready-to-list-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.522Z
+lastCollected: 2026-04-07T18:38:47.474Z
 estimatedTokens: 479
-keywords: [Check, Package, Version, Ready, AppExchange, Listing, readiness, whether, managed-released, approved, pass, security, review, org, connected]
+keywords: [Check, Package, Ready, AppExchange, Listing, readiness, whether, managed-released, approved, pass, security, review, org, connected, Partner, Console, Console's, Solution, tab, quickly]
 ---
-
-# Check If Your Package Version Is Ready to List on AppExchange
 
 > Listing readiness indicates whether a managed-released package version is approved to
         list on AppExchange or if it first must pass security review. If the org that contains the

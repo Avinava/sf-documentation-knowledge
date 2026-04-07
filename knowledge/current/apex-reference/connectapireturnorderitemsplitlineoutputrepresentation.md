@@ -5,12 +5,10 @@ topic: connectapireturnorderitemsplitlineoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:26.397Z
+lastCollected: 2026-04-07T18:36:11.688Z
 estimatedTokens: 514
-keywords: [change, order, created, ReturnOrderLineItem, read-only, Items, API, partial, quantity, creates, new, “split”, hold, remaining, case]
+keywords: [change, order, created, ReturnOrderLineItem, read-only, Items, API, partial, quantity, creates, new, “split”, hold, remaining, case, IDs, original, split, ReturnOrderLineItems]
 ---
-
-# ConnectApi.ReturnOrderItemSplitLineOutputRepresentation
 
 > After a change order is created for a ReturnOrderLineItem, that
       ReturnOrderLineItem is read-only. If the Return Items API is used to return a partial

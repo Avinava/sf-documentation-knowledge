@@ -5,12 +5,10 @@ topic: split-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.988Z
+lastCollected: 2026-04-07T18:39:18.716Z
 estimatedTokens: 106
-keywords: [Split, Input, node, recipe]
+keywords: [Split, node, recipe]
 ---
-
-# Split Parameters Input
 
 > The parameters for a split node in a recipe.
 

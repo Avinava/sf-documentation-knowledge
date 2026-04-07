@@ -5,12 +5,10 @@ topic: connectapieinsteinprompttemplategenerationserror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.447Z
+lastCollected: 2026-04-07T18:36:08.881Z
 estimatedTokens: 130
 keywords: [Error, prompt, template, generation]
 ---
-
-# ConnectApi.​EinsteinPrompt​Template​GenerationsError
 
 > Error response to a prompt template generation request.
 

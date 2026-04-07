@@ -5,12 +5,10 @@ topic: blngpaymentmappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.284Z
+lastCollected: 2026-04-07T18:37:03.843Z
 estimatedTokens: 1054
-keywords: [blng__PaymentMapping__c, process, associating, payment, purposes, blng, _PaymentMapping, Calls]
+keywords: [blng__PaymentMapping__c, process, associating, payment, purposes, blng, _PaymentMapping]
 ---
-
-# blng__PaymentMapping__c
 
 > Represents the process of associating payment types, methods, or purposes
          with other information.

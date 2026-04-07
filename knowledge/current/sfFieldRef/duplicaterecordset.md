@@ -5,12 +5,10 @@ topic: duplicaterecordset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.965Z
+lastCollected: 2026-04-07T18:39:38.644Z
 estimatedTokens: 378
-keywords: [DuplicateRecordSet, group, records, identified, duplicates, duplicate, record, items, custom, report, view, results, jobs]
+keywords: [DuplicateRecordSet, group, records, identified, duplicates, duplicate, record, items, report, view, results, jobs]
 ---
-
-# DuplicateRecordSet
 
 > Represents a group of records that have been identified as
 			duplicates. Each duplicate record set contains one or more duplicate record items. Use

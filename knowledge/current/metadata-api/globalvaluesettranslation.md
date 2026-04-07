@@ -5,12 +5,10 @@ topic: globalvaluesettranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.135Z
+lastCollected: 2026-04-07T18:36:26.576Z
 estimatedTokens: 712
-keywords: [GlobalValueSetTranslation, translation, shared, multiple, custom, picklist, optionally, across, objects, extends, Metadata, inherits, fullName, File, Suffix]
+keywords: [GlobalValueSetTranslation, ValueTranslation, translation, shared, multiple, picklist, optionally, across, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# GlobalValueSetTranslation
 
 > Contains details for a global value set
       translation. Global value sets are lists of values that can be shared by multiple custom

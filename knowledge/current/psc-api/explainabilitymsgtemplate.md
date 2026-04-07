@@ -5,12 +5,10 @@ topic: explainabilitymsgtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.402Z
+lastCollected: 2026-04-07T18:39:04.492Z
 estimatedTokens: 702
-keywords: [ExplainabilityMsgTemplate, template, decision, explanation, message, expression, step, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, element, API, version, 56.0, later]
+keywords: [ExplainabilityMsgTemplate, template, decision, explanation, message, expression, step, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 56.0, SOAP, REST]
 ---
-
-# ExplainabilityMsgTemplate
 
 > Represents the template that contains the decision explanation
          message for a specified element type. This object is available in API version 56.0 and

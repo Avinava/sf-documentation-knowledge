@@ -5,12 +5,10 @@ topic: feedattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.230Z
+lastCollected: 2026-04-07T18:38:32.189Z
 estimatedTokens: 1148
-keywords: [FeedAttachment, attachment, feed, item, file, link, add, various, attachments, Calls, Special, Access, Rules, Usage]
+keywords: [FeedAttachment, attachment, item, file, link, add, various, attachments]
 ---
-
-# FeedAttachment
 
 > Represents an attachment to a feed item, such as
 				a file attachment or a link. Use FeedAttachment to add various attachments to one

@@ -5,12 +5,10 @@ topic: group-by-rollup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.169Z
+lastCollected: 2026-04-07T18:37:01.778Z
 estimatedTokens: 458
-keywords: [GROUP, ROLLUP, sub-clause, creates, displays, aggregations, column, data, results, output, order, query]
+keywords: [GROUP, ROLLUP, sub-clause, creates, displays, aggregations, column, results, order, query]
 ---
-
-# GROUP BY ROLLUP
 
 > ROLLUP is a sub-clause of GROUP BY that creates and displays aggregations of column data. The
   results output of ROLLUP is based on column order in your

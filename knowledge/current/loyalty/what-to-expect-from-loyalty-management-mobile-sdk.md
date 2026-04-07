@@ -5,12 +5,10 @@ topic: what-to-expect-from-loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.172Z
+lastCollected: 2026-04-07T18:38:08.435Z
 estimatedTokens: 232
-keywords: [Expect, Loyalty, Management, Mobile, SDK, helps, program, engage, their, customers, app, manage, members’, profiles, track]
+keywords: [Expect, Loyalty, Management, Mobile, SDK, helps, program, engage, their, customers, app, manage, members’, profiles, track, transactions, reward, members, promotions, vouchers, rewards, brand]
 ---
-
-# What to Expect from Loyalty Management Mobile SDK
 
 > Loyalty Management Mobile SDK helps a loyalty program to engage with their customers
     through a mobile app. Use the mobile SDK to manage

@@ -5,12 +5,10 @@ topic: loweragentworkflag-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.750Z
+lastCollected: 2026-04-07T18:36:49.925Z
 estimatedTokens: 233
-keywords: [lowerAgentWorkFlag, Lightning, Experience, Lowers, flag, agent, work, item, Arguments, Sample, Code]
+keywords: [Arguments, lowerAgentWorkFlag, Lightning, Experience, Lowers, flag, agent, work, item, Sample, Code]
 ---
-
-# lowerAgentWorkFlag for Lightning Experience
 
 > Lowers a flag for this agent work item.
 

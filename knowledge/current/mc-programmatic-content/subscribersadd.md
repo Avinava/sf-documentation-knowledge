@@ -5,12 +5,10 @@ topic: subscribersadd
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.811Z
+lastCollected: 2026-04-07T18:40:23.224Z
 estimatedTokens: 138
 keywords: [Subscribers.Add, Function, Ordinal, Subscriber, email, address, Additional, attributes, **Overview**, **Syntax**]
 ---
-
-# Subscribers.Add
 
 > Subscribers.Add(1, 2)
 

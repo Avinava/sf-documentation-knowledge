@@ -5,12 +5,10 @@ topic: working-with-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.053Z
+lastCollected: 2026-04-07T18:36:19.280Z
 estimatedTokens: 147
 keywords: [Working, sObjects, developer, term, sObject, refers, any, stored, Lightning, platform, database]
 ---
-
-# Working with sObjects
 
 > In this developer guide, the term sObject refers to any object
         that can be stored in the Lightning  platform database.

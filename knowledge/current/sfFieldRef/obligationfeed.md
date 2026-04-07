@@ -5,12 +5,10 @@ topic: obligationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.448Z
+lastCollected: 2026-04-07T18:39:49.911Z
 estimatedTokens: 386
-keywords: [ObligationFeed, Feed, tracking, Obligation]
+keywords: [ObligationFeed, Obligation]
 ---
-
-# ObligationFeed
 
 > Feed tracking for Obligation.
 

@@ -5,12 +5,10 @@ topic: duplicate-job-status-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.338Z
+lastCollected: 2026-04-07T18:37:08.149Z
 estimatedTokens: 86
-keywords: [Duplicate, Job, Status, Input]
+keywords: [Duplicate, Job, Status]
 ---
-
-# Duplicate Job Status Input
 
 > Update the duplicate job status.
 

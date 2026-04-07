@@ -5,12 +5,10 @@ topic: serviceterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.308Z
+lastCollected: 2026-04-07T18:40:14.317Z
 estimatedTokens: 510
-keywords: [ServiceTerritory, locations, spaces, associated, workplace, Work.com, adds, new, custom, standard, API, version, 38.0, later, Calls]
+keywords: [ServiceTerritory, locations, spaces, workplace, Work.com, adds, new, standard, API, 38.0]
 ---
-
-# ServiceTerritory
 
 > Represents the locations and spaces associated with your workplace. Work.com
       adds new custom fields to the standard ServiceTerritory object. This object is available

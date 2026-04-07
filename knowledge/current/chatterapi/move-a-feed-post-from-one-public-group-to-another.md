@@ -5,12 +5,10 @@ topic: move-a-feed-post-from-one-public-group-to-another
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.347Z
+lastCollected: 2026-04-07T18:37:24.363Z
 estimatedTokens: 186
-keywords: [Move, Feed, Post, Group, Another, Chatter]
+keywords: [Move, Post, Group, Another, Chatter]
 ---
-
-# Move a Feed Post from one Public Group to Another
 
 > Move a Chatter feed post from one public group to another.
 

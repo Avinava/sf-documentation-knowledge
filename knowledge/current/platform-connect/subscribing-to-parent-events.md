@@ -5,12 +5,10 @@ topic: subscribing-to-parent-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.253Z
+lastCollected: 2026-04-07T18:38:57.030Z
 estimatedTokens: 94
-keywords: [Subscribing, Parent, Events, code, how, call, subscribe, canvas, app, handles, onscroll, event, fires, user, scrolls]
+keywords: [Subscribing, Parent, Events, code, how, call, subscribe, canvas, app, handles, onscroll, event, fires, user, scrolls, window]
 ---
-
-# Subscribing to Parent Events
 
 > The following code example shows how to call the subscribe method so that a canvas app
 can subscribe to parent events. This example handles the onscroll event that fires when the user

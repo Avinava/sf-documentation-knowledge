@@ -5,12 +5,10 @@ topic: sustainabilitystakeholder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.179Z
+lastCollected: 2026-04-07T18:38:19.854Z
 estimatedTokens: 750
-keywords: [SustainabilityStakeholder, stakeholder, sustainability, data, environmental, social, governance, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [SustainabilityStakeholder, stakeholder, sustainability, environmental, social, governance, API, 64.0]
 ---
-
-# SustainabilityStakeholder
 
 > Represents the stakeholder for sustainability data, such as stakeholder for
          environmental, social, and governance data. This object is available in API version

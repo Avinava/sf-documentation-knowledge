@@ -5,12 +5,10 @@ topic: forecastingfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.815Z
+lastCollected: 2026-04-07T18:36:26.279Z
 estimatedTokens: 782
-keywords: [ForecastingFilterCondition, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts, Parent, File, Suffix, Directory, Location]
+keywords: [ForecastingFilterCondition, filter, condition, logic, including, excluding, opportunity, forecasts, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ForecastingFilterCondition
 
 > Represents the custom filter condition logic for including
       or excluding data from opportunity forecasts.

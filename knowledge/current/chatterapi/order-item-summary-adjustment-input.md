@@ -5,12 +5,10 @@ topic: order-item-summary-adjustment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.619Z
+lastCollected: 2026-04-07T18:37:09.350Z
 estimatedTokens: 133
-keywords: [Order, Item, Summary, Adjustment, Input]
+keywords: [Order, Item, Summary, Adjustment]
 ---
-
-# Order Item Summary Adjustment Input
 
 > Order item summary.
 

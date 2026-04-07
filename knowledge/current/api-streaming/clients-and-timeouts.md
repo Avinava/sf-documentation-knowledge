@@ -5,12 +5,10 @@ topic: clients-and-timeouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.365Z
+lastCollected: 2026-04-07T18:36:51.705Z
 estimatedTokens: 484
 keywords: [Clients, Timeouts, Streaming, API, imposes, two, Bayeux, protocol]
 ---
-
-# Clients and Timeouts
 
 > Streaming API imposes two timeouts,
          as supported in the Bayeux protocol.

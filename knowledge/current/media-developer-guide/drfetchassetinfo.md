@@ -5,12 +5,10 @@ topic: drfetchassetinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.001Z
+lastCollected: 2026-04-07T18:38:11.267Z
 estimatedTokens: 151
-keywords: [DRFetchAssetInfo, Omnistudio, Data, Mapper, fetches, asset, account, associated, IDs, Sample, Input, Output]
+keywords: [DRFetchAssetInfo, Omnistudio, Mapper, fetches, asset, account, IDs, Sample]
 ---
-
-# DRFetchAssetInfo
 
 > This Omnistudio Data Mapper fetches the asset information
     for the account associated with the specified asset and account IDs.

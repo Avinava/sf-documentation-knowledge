@@ -5,12 +5,10 @@ topic: apexactionsupport
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.000Z
+lastCollected: 2026-04-07T18:38:48.945Z
 estimatedTokens: 1010
-keywords: [apex, actionSupport, component, adds, AJAX, support, another, allowing, refreshed, asynchronously, server, particular, event, occurs, button]
+keywords: [Attributes, apex, actionSupport, adds, AJAX, support, another, allowing, refreshed, asynchronously, server, particular, event, occurs, button, click, hover]
 ---
-
-# apex:actionSupport
 
 > A component that adds AJAX support to another component, allowing
 		the component to be refreshed asynchronously by the server when a

@@ -5,12 +5,10 @@ topic: page-products-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.882Z
+lastCollected: 2026-04-07T18:37:55.249Z
 estimatedTokens: 94
-keywords: [Products, Input, representation, product, guidance, IDs, associated, presentation]
+keywords: [Products, product, guidance, IDs, presentation]
 ---
-
-# Page Products Input
 
 > Input representation that contains the product and guidance IDs associated with a
         presentation page.

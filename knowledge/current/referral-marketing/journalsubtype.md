@@ -5,12 +5,10 @@ topic: journalsubtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.607Z
+lastCollected: 2026-04-07T18:39:09.988Z
 estimatedTokens: 863
-keywords: [JournalSubType, subcategory, transaction, journals, Journal, subtypes, identify, advocate, referred, party, activity, created, API, version, 59.0]
+keywords: [JournalSubType, subcategory, transaction, journals, Journal, subtypes, identify, advocate, referred, party, activity, created, API, 59.0]
 ---
-
-# JournalSubType
 
 > Represents a subcategory of transaction journals. Journal subtypes
          identify the type of advocate or referred party activity for which transaction journals are

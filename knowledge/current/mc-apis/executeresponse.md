@@ -5,12 +5,10 @@ topic: executeresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.768Z
+lastCollected: 2026-04-07T18:40:16.924Z
 estimatedTokens: 190
-keywords: [ExecuteResponse, responses, API, execute, calls, Items]
+keywords: [ExecuteResponse, responses, API, execute, Items]
 ---
-
-# ExecuteResponse
 
 > The ExecuteResponse object contains responses returned by the API for execute calls.
 

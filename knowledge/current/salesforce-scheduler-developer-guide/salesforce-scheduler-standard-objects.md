@@ -5,12 +5,10 @@ topic: salesforce-scheduler-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.807Z
+lastCollected: 2026-04-07T18:39:20.566Z
 estimatedTokens: 2461
-keywords: [Salesforce, Scheduler, Standard, Objects, gives, access, suite, Setup, tabs, shares, Service, core, features, including, appointments]
+keywords: [Salesforce, Scheduler, Standard, gives, suite, Setup, tabs, shares, Service, core, features, including, appointments]
 ---
-
-# Salesforce Scheduler Standard Objects
 
 > Salesforce Scheduler gives you access to a suite of standard objects that you can
       find in Setup and as tabs in Salesforce. Salesforce Scheduler shares these objects with Field

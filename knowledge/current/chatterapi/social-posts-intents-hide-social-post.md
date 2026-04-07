@@ -5,12 +5,10 @@ topic: social-posts-intents-hide-social-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.853Z
+lastCollected: 2026-04-07T18:37:15.916Z
 estimatedTokens: 184
 keywords: [Social, Posts, Intents, Hide, Post, unhide, network]
 ---
-
-# Social Posts Intents, Hide Social Post
 
 > Hide or unhide a social post on its social network.
 

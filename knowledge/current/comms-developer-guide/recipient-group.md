@@ -5,12 +5,10 @@ topic: recipient-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.266Z
+lastCollected: 2026-04-07T18:37:26.179Z
 estimatedTokens: 275
-keywords: [Recipient, Group, adding, removing, recipients, associated, offers, products, share, configuration]
+keywords: [Recipient, Group, adding, removing, recipients, offers, products, share, configuration]
 ---
-
-# Recipient Group
 
 > Update a recipient group by adding or removing recipients who are
       associated with offers or products that share the same configuration.

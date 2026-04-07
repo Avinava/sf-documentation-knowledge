@@ -5,12 +5,10 @@ topic: shiftpatternentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.504Z
+lastCollected: 2026-04-07T18:38:41.153Z
 estimatedTokens: 705
-keywords: [ShiftPatternEntry, links, shift, template, pattern, API, version, 51.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ShiftPatternEntry, links, shift, template, pattern, API, 51.0]
 ---
-
-# ShiftPatternEntry
 
 > ShiftPatternEntry links a shift template to a shift pattern. This object
       is available in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: how-the-appexchange-security-review-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.639Z
+lastCollected: 2026-04-07T18:38:47.594Z
 estimatedTokens: 2884
-keywords: [How, AppExchange, Security, Review, Works, process, combination, enforcement, mechanisms, paired, personalized, advice, tools, initiating, perform]
+keywords: [How, AppExchange, Security, Review, Works, process, combination, enforcement, mechanisms, paired, personalized, advice, tools, initiating, perform, own, testing, gather, materials, help, assess, solution, Product, team, attempts, identify, vulnerabilities, Throughout, guidance, tailored, Connect, members, their, office, hours, Ensure, You’re, Ready, Start, Test, Submission, Submit, Follow, Report]
 ---
-
-# How the AppExchange Security Review Works
 
 > The security review process is a combination of enforcement mechanisms paired with personalized advice and tools. Before initiating an AppExchange security review, perform your own testing and gather the materials that help us assess the security of your solution. During a review, our Product Security team attempts to identify security vulnerabilities in your solution. Throughout the process, you can get guidance tailored to your solution. Connect with security review team members during their office hours.
 

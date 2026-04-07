@@ -5,12 +5,10 @@ topic: connectapipollattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.063Z
+lastCollected: 2026-04-07T18:36:04.283Z
 estimatedTokens: 202
-keywords: [ConnectApi.PollAttachmentInput, Attach, poll, feed, item]
+keywords: [ConnectApi.PollAttachmentInput, Attach, poll, item]
 ---
-
-# ConnectApi.PollAttachmentInput
 
 > Attach a poll to a feed item.
 

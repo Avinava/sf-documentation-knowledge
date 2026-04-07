@@ -5,12 +5,10 @@ topic: decision-matrix-version-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.608Z
+lastCollected: 2026-04-07T18:39:01.753Z
 estimatedTokens: 501
-keywords: [Decision, Matrix, Version, Rows, Retrieve, paginated, manage, resource, add, new]
+keywords: [Decision, Matrix, Rows, Retrieve, paginated, manage, resource, add, new]
 ---
-
-# Decision Matrix Version Rows
 
 > Retrieve a paginated list of or manage rows in a decision matrix
       version. Use this resource to add new rows, or update or delete existing rows in a decision

@@ -5,13 +5,11 @@ topic: mydomainlogindiscoveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.840Z
+lastCollected: 2026-04-07T18:36:13.149Z
 estimatedTokens: 1370
 namespace: Auth
-keywords: [MyDomainLoginDiscoveryHandler, handler, implement, Domain, Login, Discovery, interview-based, two-step, process, user, prompted, unique, identifier, email, address]
+keywords: [MyDomainLoginDiscoveryHandler, handler, implement, Domain, Login, Discovery, interview-based, two-step, process, user, prompted, unique, identifier, email, address, phone, number, determines, discovers, how, authenticate, Either, enters, password, directed, identity, provider’s, startUrl, requestAttributes, Implementation, Test, MyDomainDiscLoginDefaultHandler]
 ---
-
-# MyDomainLoginDiscoveryHandler Interface
 
 > The handler used to implement the My Domain Login Discovery page,
       which is an interview-based (two-step) login process. First the user is prompted for a unique

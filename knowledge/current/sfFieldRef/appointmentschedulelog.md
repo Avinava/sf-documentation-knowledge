@@ -5,12 +5,10 @@ topic: appointmentschedulelog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.754Z
+lastCollected: 2026-04-07T18:39:26.711Z
 estimatedTokens: 430
-keywords: [AppointmentScheduleLog, Stores, service, appointments, Resource, calculate, utilization, AppointmentScheduleAggr, API, version, 52.0, later]
+keywords: [AppointmentScheduleLog, Stores, service, appointments, Resource, calculate, utilization, AppointmentScheduleAggr, API, 52.0]
 ---
-
-# AppointmentScheduleLog
 
 > Stores service appointments of each service Resource. This object is used to calculate the utilization of a service resource for the AppointmentScheduleAggr object.
 		This object is available in API version 52.0 and later.

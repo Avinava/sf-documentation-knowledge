@@ -5,12 +5,10 @@ topic: topics-a-user-is-knowledgeable-about
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.265Z
+lastCollected: 2026-04-07T18:37:16.331Z
 estimatedTokens: 218
 keywords: [Topics, User, Knowledgeable]
 ---
-
-# Topics a User Is Knowledgeable About
 
 > Topics that
 the specified user is knowledgeable about. Get a list of topics for

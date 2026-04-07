@@ -5,12 +5,10 @@ topic: accountplanstakeholder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.283Z
+lastCollected: 2026-04-07T18:37:58.821Z
 estimatedTokens: 1172
-keywords: [AccountPlanStakeholder, key, individuals, influence, account's, actions, vested, interest, outcomes, API, version, 65.0, later, Calls, Associated]
+keywords: [AccountPlanStakeholder, key, individuals, influence, account's, actions, vested, interest, outcomes, API, 65.0]
 ---
-
-# AccountPlanStakeholder
 
 > Represents the key individuals who can influence an account's actions or have
          a vested interest in its outcomes. This object is available in API version 65.0 and

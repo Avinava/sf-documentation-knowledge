@@ -5,12 +5,10 @@ topic: contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.646Z
+lastCollected: 2026-04-07T18:39:23.583Z
 estimatedTokens: 760
-keywords: [Contact, Functions, Objects]
+keywords: [Contact, Functions]
 ---
-
-# Contact
 
 > Represents information about a contact.
 

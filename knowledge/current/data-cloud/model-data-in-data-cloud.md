@@ -5,12 +5,10 @@ topic: model-data-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:09.218Z
+lastCollected: 2026-04-07T18:35:54.249Z
 estimatedTokens: 883
-keywords: [Model, Data, Cloud, key, terms, concepts, ingestion, modeling, material, standard, objects, DMOs, including, descriptions, relationships]
+keywords: [Model, Cloud, key, terms, concepts, ingestion, modeling, material, standard, DMOs, including, descriptions, relationships, along, mappings, starter, bundles, Customer, Lake, DLOs, Content]
 ---
-
-# Model Data in Data Cloud
 
 > Learn about the key terms and concepts related to data ingestion and modeling in Data Cloud. Find reference material on standard data model objects (DMOs),
         including fields, descriptions, and relationships, along with mappings associated with

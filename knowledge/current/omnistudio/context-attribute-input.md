@@ -5,12 +5,10 @@ topic: context-attribute-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.023Z
+lastCollected: 2026-04-07T18:36:36.554Z
 estimatedTokens: 83
-keywords: [Context, Attribute, Input, representation, updating]
+keywords: [Context, Attribute, updating]
 ---
-
-# Context Attribute Input
 
 > Input representation for updating context attribute.
 

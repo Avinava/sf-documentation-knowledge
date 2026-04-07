@@ -5,12 +5,10 @@ topic: getsublocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.055Z
+lastCollected: 2026-04-07T18:35:59.332Z
 estimatedTokens: 235
-keywords: [getSublocation, Retrieves, display, sublocation, canvas, app, Usage]
+keywords: [getSublocation, Retrieves, display, sublocation, canvas, app]
 ---
-
-# getSublocation()
 
 > Retrieves the display sublocation where
 the canvas app is being called from.

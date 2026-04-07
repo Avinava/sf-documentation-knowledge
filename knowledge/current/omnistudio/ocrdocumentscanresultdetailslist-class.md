@@ -5,12 +5,10 @@ topic: ocrdocumentscanresultdetailslist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.146Z
+lastCollected: 2026-04-07T18:36:35.641Z
 estimatedTokens: 466
-keywords: [OcrDocumentScanResultDetailsList, output, Fetch, Extracted, Text, invocable, action, ocrDocumentScanResultDetails]
+keywords: [OcrDocumentScanResultDetailsList, Fetch, Extracted, Text, invocable, action, ocrDocumentScanResultDetails]
 ---
-
-# OcrDocumentScanResultDetailsList Class
 
 > This class contains the parameters for the output of the Fetch Extracted Text invocable
     action.

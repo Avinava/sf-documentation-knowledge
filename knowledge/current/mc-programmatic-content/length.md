@@ -5,12 +5,10 @@ topic: length
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.403Z
+lastCollected: 2026-04-07T18:40:21.684Z
 estimatedTokens: 85
-keywords: [Length, Function, Ordinal, evaluate, **Overview**, **Syntax**, Usage]
+keywords: [Length, Function, Ordinal, evaluate, **Overview**, **Syntax**]
 ---
-
-# Length
 
 > Length(1)
 

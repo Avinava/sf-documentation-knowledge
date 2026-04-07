@@ -5,12 +5,10 @@ topic: article-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.687Z
+lastCollected: 2026-04-07T18:37:16.758Z
 estimatedTokens: 187
 keywords: [Article, Item, question, answer, search, results]
 ---
-
-# Article Item
 
 > Article item in question and answer
 search results.

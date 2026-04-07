@@ -5,12 +5,10 @@ topic: connectapiinsuranceaddmemberplansinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.022Z
+lastCollected: 2026-04-07T18:37:49.873Z
 estimatedTokens: 96
-keywords: [Input, representation, adding, plans, group, census, member]
+keywords: [adding, plans, group, census, member]
 ---
-
-# ConnectApi.InsuranceAddMemberPlansInputRepresentation
 
 > Input representation for adding plans to a group census member.
 

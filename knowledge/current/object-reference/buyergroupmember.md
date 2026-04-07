@@ -5,12 +5,10 @@ topic: buyergroupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.085Z
+lastCollected: 2026-04-07T18:38:27.066Z
 estimatedTokens: 331
-keywords: [BuyerGroupMember, member, buyer, group, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [BuyerGroupMember, member, buyer, group, API, 55.0]
 ---
-
-# BuyerGroupMember
 
 > Represents a member of a buyer group. This object is available
       in API version 55.0 and later.

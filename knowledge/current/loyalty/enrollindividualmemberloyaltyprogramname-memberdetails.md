@@ -5,12 +5,10 @@ topic: enrollindividualmemberloyaltyprogramname-memberdetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.452Z
+lastCollected: 2026-04-07T18:38:06.666Z
 estimatedTokens: 421
-keywords: [enrollIndividualMember, loyaltyProgramName, memberDetails, Enroll, individual, members, loyalty, program, API, Version, Requires, Chatter]
+keywords: [enrollIndividualMember, loyaltyProgramName, memberDetails, Enroll, individual, members, loyalty, program, API, Requires, Chatter]
 ---
-
-# enrollIndividualMember(loyaltyProgramName, memberDetails)
 
 > Enroll individual members in a loyalty program.
 

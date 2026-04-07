@@ -5,12 +5,10 @@ topic: crm-analytics-aura-events---selectionchanged-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.855Z
+lastCollected: 2026-04-07T18:37:01.453Z
 estimatedTokens: 852
-keywords: [CRM, Analytics, Aura, Events, SelectionChanged, Event, React, selections, dashboard, row, data, selection, Reacting, Resources]
+keywords: [Resources, CRM, Analytics, Aura, Events, SelectionChanged, Event, React, selections, dashboard, row, selection, Reacting]
 ---
-
-# CRM Analytics Aura Events - SelectionChanged Event
 
 > React to selections in your dashboard and get the row data for the selection.
 

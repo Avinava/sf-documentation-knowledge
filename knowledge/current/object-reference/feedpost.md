@@ -5,12 +5,10 @@ topic: feedpost
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.313Z
+lastCollected: 2026-04-07T18:38:32.289Z
 estimatedTokens: 1392
-keywords: [FeedPost, changes, record, feed, AccountFeed, text, posts, link, content, API, version, 18.0, 21.0, longer, later]
+keywords: [FeedPost, changes, record, AccountFeed, text, posts, link, content, API, 18.0, 21.0, longer, versions, Starting, FeedItem, represent, feeds]
 ---
-
-# FeedPost
 
 > FeedPost represents the following types of
     changes in a record feed, such as AccountFeed: text posts, link posts, and content

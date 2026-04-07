@@ -5,12 +5,10 @@ topic: actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:33.118Z
+lastCollected: 2026-04-07T18:36:18.344Z
 estimatedTokens: 924
-keywords: [Actions, quick, add, Salesforce, Classic, home, Chatter, tab, groups, record, detail, pages, Choose, standard, custom]
+keywords: [Actions, quick, add, Salesforce, Classic, home, Chatter, tab, groups, record, detail, pages, Choose, standard, company’s, needs]
 ---
-
-# Actions
 
 > Create quick actions, and add them to your Salesforce Classic home page, to the Chatter
     tab, to Chatter groups, and to record detail pages. Choose from standard quick actions, such as

@@ -5,12 +5,10 @@ topic: record-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.775Z
+lastCollected: 2026-04-07T18:38:03.863Z
 estimatedTokens: 378
-keywords: [Record, Changes, perform, advanced, tasks, force, recordData, handle, recordUpdated, event, loaded, updated, deleted, applying, different]
+keywords: [Record, Changes, perform, advanced, tasks, force, recordData, handle, recordUpdated, event, loaded, updated, deleted, applying, different, actions, change]
 ---
-
-# Record Changes
 
 > To perform more advanced tasks using force:recordData when the record changes, handle the recordUpdated event. You can handle record loaded, updated, and deleted changes,
     applying different actions to each change type.

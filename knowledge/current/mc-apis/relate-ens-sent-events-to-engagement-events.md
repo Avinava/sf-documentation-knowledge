@@ -5,12 +5,10 @@ topic: relate-ens-sent-events-to-engagement-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.672Z
+lastCollected: 2026-04-07T18:40:16.830Z
 estimatedTokens: 383
-keywords: [Relate, ENS, Sent, Events, Engagement, key, objective, Event, Notification, Service, normalize, data, correlating, transactional, API]
+keywords: [Relate, ENS, Sent, Events, Engagement, key, objective, Event, Notification, Service, normalize, correlating, transactional, API, messageKey, specify, unique, message, SQL, Server, way, implement]
 ---
-
-# Relate ENS Sent Events to Engagement Events
 
 > A key objective of the Event Notification Service is to normalize data from sent events by correlating  the transactional API request messageKey (the ID you use to specify a unique message) to an engagement event.  For this example, we will be using SQL Server, but the way you implement this in your
 

@@ -5,12 +5,10 @@ topic: using-relationship-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.940Z
+lastCollected: 2026-04-07T18:40:09.893Z
 estimatedTokens: 646
 keywords: [Relationship, Queries, SOQL, query, several, Child-to-Parent, Relationships, Parent-to-Child, Traverse]
 ---
-
-# Using Relationship Queries
 
 > Use SOQL to query several relationship types.
 

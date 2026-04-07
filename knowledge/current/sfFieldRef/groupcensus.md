@@ -5,12 +5,10 @@ topic: groupcensus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.512Z
+lastCollected: 2026-04-07T18:39:43.070Z
 estimatedTokens: 722
-keywords: [GroupCensus, snapshot, statistics, eligible, members, employees, group, employer, association, their, legal, dependents, entity, quoting, rating]
+keywords: [GroupCensus, snapshot, statistics, eligible, members, employees, group, employer, association, their, legal, dependents, entity, quoting, rating, subsequent, enrollment, process, Child, Account, API, 55.0]
 ---
-
-# GroupCensus
 
 > Represents a snapshot of statistics about eligible members (employees or members) of a group (employer or association) and their legal dependents. Use this entity in quoting, rating, and the subsequent enrollment process. Child object of employer or group Account. This object is available in API version 55.0 and later.
 

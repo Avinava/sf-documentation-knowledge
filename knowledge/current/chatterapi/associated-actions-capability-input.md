@@ -5,12 +5,10 @@ topic: associated-actions-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.483Z
+lastCollected: 2026-04-07T18:37:07.198Z
 estimatedTokens: 402
-keywords: [Associated, Actions, Capability, Input, action, links, created, updated, feed, element, associate, link, group, client, app]
+keywords: [Actions, Capability, action, links, created, updated, associate, link, group, client, app, definition, user, either, View, permission]
 ---
-
-# Associated Actions Capability Input
 
 > Describes
             action links that can be created or updated on a feed element. To associate an action

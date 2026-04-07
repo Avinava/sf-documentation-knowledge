@@ -5,12 +5,10 @@ topic: dashboard-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.528Z
+lastCollected: 2026-04-07T18:36:56.016Z
 estimatedTokens: 1115
-keywords: [Dashboard, Resources, Analytics, dashboards, allow, users, continuously, monitor, key, metrics, their, business, manage, collections, individual]
+keywords: [Dashboard, Resources, Analytics, dashboards, allow, users, continuously, monitor, key, metrics, their, business, manage, collections, individual, saved, views, histories, publishers]
 ---
-
-# Dashboard Resources
 
 > Analytics dashboards allow users to continuously monitor key metrics of their
   business. These resources allow users to manage collections of dashboards, individual dashboards,

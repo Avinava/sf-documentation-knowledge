@@ -5,12 +5,10 @@ topic: change-the-batch-size-in-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.814Z
+lastCollected: 2026-04-07T18:40:09.753Z
 estimatedTokens: 452
-keywords: [Change, Batch, Size, Queries, query, determines, number, rows, results, that’s, made, REST, API, SOAP, WSC]
+keywords: [Change, Batch, Size, Queries, query, determines, number, rows, results, that’s, made, REST, API, SOAP, WSC, Java, NET]
 ---
-
-# Change the Batch Size in Queries
 
 > The batch size for a query determines the number of rows that are returned in the query results. You can change the batch size that’s returned in queries made using both REST API and SOAP
 		API.

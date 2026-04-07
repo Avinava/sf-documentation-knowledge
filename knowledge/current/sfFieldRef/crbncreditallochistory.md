@@ -5,12 +5,10 @@ topic: crbncreditallochistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.685Z
+lastCollected: 2026-04-07T18:39:36.207Z
 estimatedTokens: 267
-keywords: [CrbnCreditAllocHistory, History, tracked, CrbnCreditAlloc]
+keywords: [CrbnCreditAllocHistory, tracked, CrbnCreditAlloc]
 ---
-
-# CrbnCreditAllocHistory
 
 > History for tracked fields of CrbnCreditAlloc.
 

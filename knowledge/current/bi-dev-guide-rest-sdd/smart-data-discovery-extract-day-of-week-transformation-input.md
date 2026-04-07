@@ -5,12 +5,10 @@ topic: smart-data-discovery-extract-day-of-week-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.155Z
+lastCollected: 2026-04-07T18:36:58.660Z
 estimatedTokens: 107
-keywords: [Smart, Data, Discovery, Extract, Day, Week, Transformation, Input]
+keywords: [Smart, Discovery, Extract, Day, Week, Transformation]
 ---
-
-# Smart Data Discovery Extract Day of Week Transformation Input
 
 > The input for an extract day of week transformation.
 

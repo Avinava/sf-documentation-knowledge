@@ -5,12 +5,10 @@ topic: supportcasefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.501Z
+lastCollected: 2026-04-07T18:38:50.738Z
 estimatedTokens: 225
-keywords: [support, caseFeed, Case, Feed, component, includes, elements, standard, including, publishers, Email, Portal, Log, Call, Internal]
+keywords: [Attributes, support, caseFeed, Case, includes, standard, including, publishers, Email, Portal, Log, Call, Internal, activity, filters, highlights, panel, organizations, enabled, displays]
 ---
-
-# support:caseFeed
 
 > The Case Feed component includes all of the elements of the standard Case Feed page, including the publishers (Email , Portal, Log a Call, and Internal Note), case activity feed, feed filters, and highlights panel. This component can only be used in organizations that have Case Feed enabled.
 

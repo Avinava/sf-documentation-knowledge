@@ -5,13 +5,11 @@ topic: objectdetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.059Z
+lastCollected: 2026-04-07T18:36:35.544Z
 estimatedTokens: 600
 namespace: DataRetrieval
-keywords: [ObjectDetailsRepresentation, Stores, associated, records, data, summarization]
+keywords: [ObjectDetailsRepresentation, Stores, records, summarization]
 ---
-
-# ObjectDetailsRepresentation Class
 
 > Stores the details of an object and its associated records so that you can use the data
     for object summarization.

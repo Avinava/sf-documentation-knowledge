@@ -5,12 +5,10 @@ topic: rxe---pharmacy-encoded-order-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.491Z
+lastCollected: 2026-04-07T18:37:44.826Z
 estimatedTokens: 180
-keywords: [RXE, Pharmacy, Encoded, Order, Segment, HL7, maps, primarily, Medication, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [RXE, Pharmacy, Encoded, Order, Segment, HL7, maps, primarily, Medication, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# RXE - Pharmacy Encoded Order Segment
 
 > The Pharmacy Encoded Order Segment (RXE) HL7 segment maps primarily to the Medication object in Salesforce.
 

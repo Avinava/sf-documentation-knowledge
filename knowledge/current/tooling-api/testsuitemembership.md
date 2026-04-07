@@ -5,12 +5,10 @@ topic: testsuitemembership
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.252Z
+lastCollected: 2026-04-07T18:36:34.683Z
 estimatedTokens: 333
-keywords: [TestSuiteMembership, Associates, Apex, ApexTestSuite, Tooling, API, version, 36.0, later, SOAP, Calls, REST, HTTP, Usage]
+keywords: [TestSuiteMembership, Associates, Apex, ApexTestSuite, Tooling, API, 36.0, SOAP, REST, HTTP]
 ---
-
-# TestSuiteMembership
 
 > Associates an Apex class with an ApexTestSuite. Available in Tooling API version 36.0 and later.
 

@@ -5,12 +5,10 @@ topic: partyfinancialassettermhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.724Z
+lastCollected: 2026-04-07T18:39:52.140Z
 estimatedTokens: 274
-keywords: [PartyFinancialAssetTermHistory, History, tracked, PartyFinancialAssetTerm]
+keywords: [PartyFinancialAssetTermHistory, tracked, PartyFinancialAssetTerm]
 ---
-
-# PartyFinancialAssetTermHistory
 
 > History for tracked fields of PartyFinancialAssetTerm.
 

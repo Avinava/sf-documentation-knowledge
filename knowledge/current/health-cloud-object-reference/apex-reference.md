@@ -5,13 +5,11 @@ topic: apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:54.082Z
+lastCollected: 2026-04-07T18:37:42.236Z
 estimatedTokens: 300
 namespace: HealthCloudExt
 keywords: [Apex, goes, detail, built-in, classes, interfaces, enums, Health, Cloud]
 ---
-
-# Apex Reference
 
 > This Apex reference goes into detail about the built-in Apex  classes, interfaces,
         methods, or enums for Health Cloud.

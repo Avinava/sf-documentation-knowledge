@@ -5,12 +5,10 @@ topic: dynamic-revenue-orchestrator-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.394Z
+lastCollected: 2026-04-07T18:35:47.428Z
 estimatedTokens: 2471
-keywords: [Dynamic, Revenue, Orchestrator, Standard, Objects, data, model, manage, product’s, fulfillment]
+keywords: [Dynamic, Revenue, Orchestrator, Standard, model, manage, product’s, fulfillment]
 ---
-
-# Dynamic Revenue Orchestrator Standard Objects
 
 > The Dynamic Revenue Orchestrator data model provides objects and fields to manage
   details of a product’s fulfillment.

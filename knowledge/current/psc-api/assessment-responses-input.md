@@ -5,12 +5,10 @@ topic: assessment-responses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.730Z
+lastCollected: 2026-04-07T18:39:00.863Z
 estimatedTokens: 120
-keywords: [Assessment, Responses, Input]
+keywords: [Assessment, Responses]
 ---
-
-# Assessment Responses Input
 
 > Input for assessment responses.
 

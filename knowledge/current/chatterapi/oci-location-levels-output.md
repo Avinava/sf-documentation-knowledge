@@ -5,12 +5,10 @@ topic: oci-location-levels-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.981Z
+lastCollected: 2026-04-07T18:37:20.149Z
 estimatedTokens: 86
-keywords: [OCI, Location, Levels, Output, Inventory, data]
+keywords: [OCI, Location, Levels, Inventory]
 ---
-
-# OCI Location Levels Output
 
 > Inventory location levels data.
 

@@ -5,12 +5,10 @@ topic: oauthtoken
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.001Z
+lastCollected: 2026-04-07T18:38:36.190Z
 estimatedTokens: 1144
-keywords: [OauthToken, OAuth, access, token, connected, app, authentication, user, management, API, version, 32.0, later, Calls, Special]
+keywords: [OauthToken, OAuth, token, connected, app, authentication, user, management, API, 32.0]
 ---
-
-# OauthToken
 
 > Represents an OAuth access token for connected app authentication. Use
 			this object to create a user interface for token management. This object is

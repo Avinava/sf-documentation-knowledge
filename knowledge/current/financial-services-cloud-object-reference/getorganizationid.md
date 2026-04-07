@@ -5,12 +5,10 @@ topic: getorganizationid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.727Z
+lastCollected: 2026-04-07T18:37:34.243Z
 estimatedTokens: 55
-keywords: [getOrganizationId, Org, API, Version]
+keywords: [getOrganizationId, Org, API]
 ---
-
-# getOrganizationId()
 
 > This method returns the Org ID as a String.
 

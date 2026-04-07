@@ -5,12 +5,10 @@ topic: courseoffering
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.801Z
+lastCollected: 2026-04-07T18:37:30.913Z
 estimatedTokens: 733
-keywords: [CourseOffering, instance, training, course, location, date, courses, API, version, 57.0, later, Calls]
+keywords: [CourseOffering, instance, training, course, location, date, courses, API, 57.0]
 ---
-
-# CourseOffering
 
 > Represents an instance of a training course with location and date details of
          training courses. This object is available in API version 57.0 and later.

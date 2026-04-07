@@ -5,12 +5,10 @@ topic: connectapibotinforepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.090Z
+lastCollected: 2026-04-07T18:36:07.432Z
 estimatedTokens: 92
-keywords: [ConnectApi.BotInfoRepresentation, bot, associated, conversation, application]
+keywords: [ConnectApi.BotInfoRepresentation, bot, conversation, application]
 ---
-
-# ConnectApi.BotInfoRepresentation
 
 > Information about the bot associated with the conversation
       application.

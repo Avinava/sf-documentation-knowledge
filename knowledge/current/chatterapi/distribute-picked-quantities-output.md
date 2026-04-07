@@ -5,12 +5,10 @@ topic: distribute-picked-quantities-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.335Z
+lastCollected: 2026-04-07T18:37:18.425Z
 estimatedTokens: 194
-keywords: [Distribute, Picked, Quantities, Output, representation, were, distributed, orders, any, remaining, quantity]
+keywords: [Distribute, Picked, Quantities, were, distributed, orders, any, remaining, quantity]
 ---
-
-# Distribute Picked Quantities Output
 
 > Output representation of where the quantities were distributed in orders and any remaining quantity
 

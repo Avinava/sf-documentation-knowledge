@@ -5,12 +5,10 @@ topic: complaint-management-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:47.048Z
+lastCollected: 2026-04-07T18:37:34.598Z
 estimatedTokens: 322
-keywords: [Complaint, Management, Input, representation]
+keywords: [Complaint, Management]
 ---
-
-# Complaint Management Request Input
 
 > Input representation of the request to create a public
     complaint.

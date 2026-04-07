@@ -5,12 +5,10 @@ topic: redeem-voucher-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.064Z
+lastCollected: 2026-04-07T18:39:09.383Z
 estimatedTokens: 379
-keywords: [Redeem, Voucher, Input, representation, advocate, their, referred, friend]
+keywords: [Redeem, Voucher, advocate, their, referred, friend]
 ---
-
-# Redeem Voucher Input
 
 > Input representation of the request to redeem a voucher for an advocate or their referred
     friend.

@@ -5,12 +5,10 @@ topic: order-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.521Z
+lastCollected: 2026-04-07T18:35:51.372Z
 estimatedTokens: 1334
 keywords: [Order, Schema, interaction, commerce, action, captures, actions, performed, user, manage, new, progress, completed, orders]
 ---
-
-# Order Schema
 
 > An order interaction is a commerce action that captures actions performed by a user to
   manage new, in progress, or completed orders.

@@ -5,12 +5,10 @@ topic: smart-data-discovery-scikit-learn-102-model-runtime-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.372Z
+lastCollected: 2026-04-07T18:36:58.869Z
 estimatedTokens: 101
-keywords: [Smart, Data, Discovery, Scikit, Model, Runtime, Input, identify, v1.0.2]
+keywords: [Smart, Discovery, Scikit, Model, Runtime, identify, v1.0.2]
 ---
-
-# Smart Data Discovery Scikit Learn 102 Model Runtime Input
 
 > The input to identify the model runtime type as Scikit Learn v1.0.2.
 

@@ -5,12 +5,10 @@ topic: actionableorchsourceevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.939Z
+lastCollected: 2026-04-07T18:36:52.366Z
 estimatedTokens: 398
-keywords: [ActionableOrchSourceEvent, event, actions, taken, orchestration, process, API, version, 62.0, later, Calls]
+keywords: [ActionableOrchSourceEvent, event, actions, taken, orchestration, process, API, 62.0]
 ---
-
-# ActionableOrchSourceEvent
 
 > Represents information about an event on which actions are taken by the
          orchestration process. This object is available in API version 62.0 and

@@ -5,13 +5,11 @@ topic: signalingapexprocessor-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.901Z
+lastCollected: 2026-04-07T18:35:41.766Z
 estimatedTokens: 860
 namespace: RevSignaling
-keywords: [SignalingApexProcessor, context-driven, orchestration, logic, procedure, plan, instance, contextual, Usage, execute, var1, Implementation]
+keywords: [SignalingApexProcessor, context-driven, orchestration, logic, procedure, plan, instance, contextual, execute, var1, Implementation]
 ---
-
-# SignalingApexProcessor Interface
 
 > Defines the context-driven orchestration logic based on procedure plan instance and
         contextual instance.

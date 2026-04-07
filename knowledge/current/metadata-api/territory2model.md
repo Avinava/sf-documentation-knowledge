@@ -5,12 +5,10 @@ topic: territory2model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.629Z
+lastCollected: 2026-04-07T18:36:30.046Z
 estimatedTokens: 1172
-keywords: [Territory2Model, metadata, associated, territory, model, Sales, Territories, extends, inherits, fullName, enabled, File, Suffix, Directory, Location]
+keywords: [Territory2Model, metadata, territory, model, Sales, Territories, extends, inherits, fullName, enabled, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Territory2Model
 
 > Represents the metadata associated with a territory
       model in Sales Territories.

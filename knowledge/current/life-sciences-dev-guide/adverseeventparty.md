@@ -5,12 +5,10 @@ topic: adverseeventparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.456Z
+lastCollected: 2026-04-07T18:37:59.007Z
 estimatedTokens: 853
-keywords: [AdverseEventParty, participated, adverse, event, how, they, were, involved, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [AdverseEventParty, participated, adverse, event, how, they, were, involved, API, 61.0]
 ---
-
-# AdverseEventParty
 
 > Indicates who or what participated in the adverse event and how they were
          involved. This object is available in API version 61.0 and later.

@@ -5,12 +5,10 @@ topic: prepare-to-list-your-solution-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.284Z
+lastCollected: 2026-04-07T18:38:46.142Z
 estimatedTokens: 815
-keywords: [Prepare, Solution, AppExchange, company, profile, share, contact, business, Connect, partner, orgs, solutions, Console, licenses, managed]
+keywords: [Prepare, Solution, AppExchange, company, profile, share, contact, business, Connect, partner, orgs, solutions, Console, licenses, managed, packages, distribute]
 ---
-
-# Prepare to List Your Solution on AppExchange
 
 > Create a company profile and share contact information for your AppExchange business.
   Connect your partner orgs and solutions to the Partner Console. Set up licenses for the managed

@@ -5,12 +5,10 @@ topic: two-way-rep-status-syncing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.396Z
+lastCollected: 2026-04-07T18:40:13.325Z
 estimatedTokens: 549
-keywords: [Two-Way, Rep, Status, Syncing, presence, changed, Omni-Channel, widget, partner, connector, added, ability, change, passes, back]
+keywords: [Two-Way, Rep, Status, Syncing, presence, changed, Omni-Channel, widget, partner, connector, added, ability, change, passes, back, Salesforce]
 ---
-
-# Two-Way Rep Status Syncing
 
 > Rep status (that is, rep presence) can be changed from the Omni-Channel widget, which
         sends status information to the partner connector. We added the ability to change the rep

@@ -5,12 +5,10 @@ topic: understand-logging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.138Z
+lastCollected: 2026-04-07T18:40:14.171Z
 estimatedTokens: 810
-keywords: [Understand, Logging, Work.com, captures, errors, exceptions, originate, Workplace, Command, Center, Wellness, Check, adds, log, messages]
+keywords: [Understand, Logging, Work.com, captures, errors, exceptions, originate, Workplace, Command, Center, Wellness, Check, adds, log, messages, wkcc__CmdCtrLog__c]
 ---
-
-# Understand Logging
 
 > Work.com captures errors and exceptions that originate from Workplace Command Center
     and Wellness Check and adds them as log messages to the wkcc__CmdCtrLog__c custom

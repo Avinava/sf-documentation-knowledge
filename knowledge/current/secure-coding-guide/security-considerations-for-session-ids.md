@@ -5,12 +5,10 @@ topic: security-considerations-for-session-ids
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:27.989Z
+lastCollected: 2026-04-07T18:39:21.867Z
 estimatedTokens: 1213
-keywords: [Security, Considerations, Session, IDs, Improper, handling, managed, packages, bypass, protections, pose, risks, Follow, established, guidelines]
+keywords: [Security, Considerations, Session, IDs, Improper, handling, managed, packages, bypass, protections, pose, risks, Follow, established, guidelines, mitigate, threats, ensure, secure, Cases, Prohibited, Alternatives]
 ---
-
-# Security Considerations for Session IDs
 
 > Improper handling of session IDs in managed packages can bypass namespace protections and
   pose security risks. Follow established guidelines to mitigate threats and ensure secure

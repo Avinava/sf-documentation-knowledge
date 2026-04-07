@@ -5,12 +5,10 @@ topic: ordersummaryadditionalinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.893Z
+lastCollected: 2026-04-07T18:38:37.171Z
 estimatedTokens: 1180
-keywords: [OrderSummaryAdditionalInfo, Stores, OrderSummary, including, context, around, order, inventory, reservation, origination, Einstein, uses, perform, analysis, stored]
+keywords: [OrderSummaryAdditionalInfo, Stores, OrderSummary, including, context, around, order, inventory, reservation, origination, Einstein, uses, perform, analysis, stored, API, 58.0]
 ---
-
-# OrderSummaryAdditionalInfo
 
 > Stores information related to OrderSummary including context around the
          order, such as inventory reservation details, order origination, and other values that

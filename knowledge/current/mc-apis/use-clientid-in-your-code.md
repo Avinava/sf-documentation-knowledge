@@ -5,12 +5,10 @@ topic: use-clientid-in-your-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.785Z
+lastCollected: 2026-04-07T18:40:21.051Z
 estimatedTokens: 2047
-keywords: [ClientID, Code, control, account, associated, Marketing, Cloud, Enterprise, 2.0, Agency, editions, ensure, created, right, specify]
+keywords: [ClientID, Code, control, account, Marketing, Cloud, Enterprise, 2.0, Agency, editions, ensure, created, right, specify, client, passed, API, Sample, NET, Authenticate, SOAP, Parent, Partner, Key, Retrieve, Specific, PHP, Envelopes, Perform]
 ---
-
-# Use ClientID in Your Code
 
 > Use ClientID to control which account an object is associated with when using Marketing Cloud Enterprise, Enterprise 2.0, and Agency editions. To ensure the object is created in the right account, specify the client ID on all objects passed into the API.
 

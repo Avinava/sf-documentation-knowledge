@@ -5,13 +5,11 @@ topic: quickaction-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.228Z
+lastCollected: 2026-04-07T18:36:03.444Z
 estimatedTokens: 2859
 namespace: System
-keywords: [QuickAction, Apex, process, actions, objects, allow, custom, appear, Chatter, feed, globally, describeAvailableQuickActions, parentType, describeQuickActions, sObjectNames]
+keywords: [QuickAction, Apex, process, actions, allow, appear, Chatter, globally, describeAvailableQuickActions, parentType, describeQuickActions, sObjectNames, performQuickAction, quickActionRequest, allOrNothing, performQuickActions, quickActionRequests]
 ---
-
-# QuickAction Class
 
 > Use Apex to request and process actions on objects
             that allow custom fields, on objects that appear in a Chatter feed, or on objects that

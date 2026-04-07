@@ -5,12 +5,10 @@ topic: yearlastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.131Z
+lastCollected: 2026-04-07T18:37:01.744Z
 estimatedTokens: 169
-keywords: [year_last_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, year, _last, _day]
+keywords: [year_last_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, year, _last, _day]
 ---
-
-# year_last_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date object as input. Returns an object of the same type that
   corresponds to the last day of the year that contains the specified date.

@@ -5,12 +5,10 @@ topic: productconsumed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.842Z
+lastCollected: 2026-04-07T18:36:47.800Z
 estimatedTokens: 1360
-keywords: [ProductConsumed, item, inventory, work, order, line, service, Calls, Special, Access, Rules, Usage, Associated, Objects]
+keywords: [ProductConsumed, item, inventory, work, order, line, service]
 ---
-
-# ProductConsumed
 
 > Represents an item from your inventory that was used to complete a
 			work order or work order line item in field service.

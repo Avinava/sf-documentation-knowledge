@@ -6,13 +6,10 @@ topic: hide-custom-objects-and-custom-permissions-in-your-subscribers-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.734Z
+lastCollected: 2026-04-07T18:38:55.162Z
 estimatedTokens: 689
-keywords: [Hide, Custom, Objects, Permissions, Subscribers’, Orgs, Occasionally, want, include, package, show, subscribers, you're, piloting, feature]
+keywords: [Hide, Permissions, Subscribers’, Orgs, Occasionally, want, include, package, show, subscribers, you're, piloting, feature, few, select, pilot]
 ---
-
-# Hide Custom Objects and Custom Permissions in Your Subscribers’
-      Orgs
 
 > Occasionally, you want to include custom permissions or custom objects in a package but
     not show them to your subscribers. For example, if you're piloting a feature for a few select

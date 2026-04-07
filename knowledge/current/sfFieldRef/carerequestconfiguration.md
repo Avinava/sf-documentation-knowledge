@@ -5,13 +5,11 @@ topic: carerequestconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.475Z
+lastCollected: 2026-04-07T18:39:32.871Z
 estimatedTokens: 345
 namespace: NamespacePrefix
-keywords: [CareRequestConfiguration, record, service, drug, admission, associated, care]
+keywords: [CareRequestConfiguration, record, service, drug, admission, care]
 ---
-
-# CareRequestConfiguration
 
 > Represents the details for a record type such as service request,
          drug request, or admission request. One or more record types can be associated with a care

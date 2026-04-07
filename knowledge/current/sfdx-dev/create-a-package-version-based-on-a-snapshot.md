@@ -5,12 +5,10 @@ topic: create-a-package-version-based-on-a-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.598Z
+lastCollected: 2026-04-07T18:40:08.556Z
 estimatedTokens: 705
-keywords: [Package, Version, Snapshot, you’re, partner, ISV, builds, second-generation, managed, packages, depend, base, versions, significantly, faster]
+keywords: [Package, Snapshot, you’re, partner, ISV, builds, second-generation, managed, packages, depend, base, versions, significantly, faster, scratch, org, snapshots, great, choice, dependent, stable, Benefits, Developing, Why, Can’t, Promote, How]
 ---
-
-# Create a Package Version Based on a Snapshot
 
 > If you’re a partner or ISV who builds second-generation managed packages that depend on
     base packages, you can create package versions significantly faster by using scratch org

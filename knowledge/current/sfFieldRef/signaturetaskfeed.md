@@ -5,12 +5,10 @@ topic: signaturetaskfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.550Z
+lastCollected: 2026-04-07T18:40:02.243Z
 estimatedTokens: 359
-keywords: [SignatureTaskFeed, Feed, tracking, SignatureTask]
+keywords: [SignatureTaskFeed, SignatureTask]
 ---
-
-# SignatureTaskFeed
 
 > Feed tracking for SignatureTask.
 

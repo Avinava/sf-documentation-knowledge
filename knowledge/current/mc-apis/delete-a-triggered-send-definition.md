@@ -5,12 +5,10 @@ topic: delete-a-triggered-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.447Z
+lastCollected: 2026-04-07T18:40:16.588Z
 estimatedTokens: 494
-keywords: [Triggered, Send, Definition, sample, code, below, model, creating, own, API, Marketing, Cloud, changes, external, key]
+keywords: [Triggered, Send, Definition, sample, code, below, model, creating, own, API, Marketing, Cloud, changes, external, key, deleted, change, reuse, keys, new, Ruby, PHP, Python, CSharp, Java, SOAP, Envelope, Items]
 ---
-
-# Delete a Triggered Send Definition
 
 > To delete a triggered send definition, use the sample code below as a model for creating your own API request. Marketing Cloud changes the external key and name of a triggered send definition after it is deleted. This change allows you to reuse deleted names and external keys for new triggered send 
 

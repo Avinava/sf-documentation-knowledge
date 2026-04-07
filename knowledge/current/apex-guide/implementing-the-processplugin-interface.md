@@ -5,12 +5,10 @@ topic: implementing-the-processplugin-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.015Z
+lastCollected: 2026-04-07T18:36:18.240Z
 estimatedTokens: 392
-keywords: [Implementing, Process.Plugin, built-in, pass, data, organization, flow, Implementation, Test]
+keywords: [Implementing, Process.Plugin, built-in, pass, organization, flow, Implementation, Test]
 ---
-
-# Implementing the Process.Plugin Interface
 
 > Process.Plugin is a built-in interface that
         allows you to pass data between your organization and a specified flow.

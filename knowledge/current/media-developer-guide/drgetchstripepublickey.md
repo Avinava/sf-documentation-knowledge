@@ -5,12 +5,10 @@ topic: drgetchstripepublickey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.021Z
+lastCollected: 2026-04-07T18:38:11.287Z
 estimatedTokens: 99
-keywords: [DRGetchStripePublicKey, Omnistudio, Data, Mapper, fetches, Stripe, key, payment, flow, Sample, Input, Output]
+keywords: [DRGetchStripePublicKey, Omnistudio, Mapper, fetches, Stripe, key, payment, flow, Sample]
 ---
-
-# DRGetchStripePublicKey
 
 > This Omnistudio Data Mapper fetches the Stripe public key
     value for the payment flow.

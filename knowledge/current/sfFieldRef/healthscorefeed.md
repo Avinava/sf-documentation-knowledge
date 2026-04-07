@@ -5,12 +5,10 @@ topic: healthscorefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.978Z
+lastCollected: 2026-04-07T18:39:43.592Z
 estimatedTokens: 386
-keywords: [HealthScoreFeed, Feed, tracking, HealthScore]
+keywords: [HealthScoreFeed, HealthScore]
 ---
-
-# HealthScoreFeed
 
 > Feed tracking for HealthScore.
 

@@ -5,13 +5,11 @@ topic: commercecatalog-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.330Z
+lastCollected: 2026-04-07T18:35:57.670Z
 estimatedTokens: 19201
 namespace: ConnectApi
-keywords: [CommerceCatalog, product, getCategoryMenuItems, webstoreId, includeImageUrl, addHomeMenuItem, publishStatus, effectiveAccountId, maxLevels, maxItems, API, Version, Guest, Users, Requires]
+keywords: [CommerceCatalog, product, getCategoryMenuItems, webstoreId, includeImageUrl, addHomeMenuItem, publishStatus, effectiveAccountId, maxLevels, maxItems, API, Guest, Users, Requires, Chatter, getProduct, productId, excludeFields, mediaGroups, excludeMedia, excludeEntitlementDetails, excludePrimaryProductCategory, excludeVariationInfo, excludeAttributeSetInfo, excludeQuantityRule, excludeProductSellingModels, noCache, getProductCategory, productCategoryId, getProductCategoryChildren, parentProductCategoryId, getProductCategoryPath, getProductChildCollection, pageToken, pageSize, includeProductSellingModels, includeRequiredChildrenOnly, excludeDynamicAttributeInfo, getProducts, ids, skus, excludePrices, includeQuantityRule, includeAttributeSetInfo, includeGroupByAttributeVariationInfo]
 ---
-
-# CommerceCatalog Class
 
 > Get a product.
 

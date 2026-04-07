@@ -5,12 +5,10 @@ topic: emailmessages-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.852Z
+lastCollected: 2026-04-07T18:35:59.126Z
 estimatedTokens: 199
 keywords: [EmailMessages]
 ---
-
-# EmailMessages Methods
 
 > The following are static methods for EmailMessages.
 

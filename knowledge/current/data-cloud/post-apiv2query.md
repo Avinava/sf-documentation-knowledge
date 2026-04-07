@@ -5,12 +5,10 @@ topic: post-apiv2query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.796Z
+lastCollected: 2026-04-07T18:35:51.652Z
 estimatedTokens: 258
-keywords: [POST, api, query, endpoint, SQL, data, along, batchId, batch, Examples, HTTP, Responses]
+keywords: [Examples, POST, api, query, endpoint, SQL, along, batchId, batch, HTTP, Responses]
 ---
-
-# POST /api/v2/query
 
 > Use the POST endpoint of Query API V2 to make the
     first request with the SQL query. The POST endpoint returns data along with batchId for the next

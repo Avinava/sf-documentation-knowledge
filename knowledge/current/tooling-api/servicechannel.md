@@ -5,12 +5,10 @@ topic: servicechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.052Z
+lastCollected: 2026-04-07T18:36:34.458Z
 estimatedTokens: 1285
-keywords: [ServiceChannel, channel, work, items, received, customers, API, version, 65.0, later, SOAP, Calls, REST, Special, Access]
+keywords: [ServiceChannel, channel, work, items, received, customers, API, 65.0, SOAP, REST]
 ---
-
-# ServiceChannel
 
 > Represents a channel for work items that are received from your customers.
          This object is available in API version 65.0 and later.

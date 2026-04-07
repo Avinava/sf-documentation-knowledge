@@ -5,12 +5,10 @@ topic: manufacturing-cloud-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.781Z
+lastCollected: 2026-04-07T18:38:13.111Z
 estimatedTokens: 1361
-keywords: [Manufacturing, Cloud, Metadata, API, access, feature, settings, customize, user, Developer]
+keywords: [Manufacturing, Cloud, Metadata, API, feature, settings, customize, user, Developer]
 ---
-
-# Manufacturing Cloud Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface. For more information about Metadata API and to find a complete

@@ -5,12 +5,10 @@ topic: get-compound-fields-in-change-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.840Z
+lastCollected: 2026-04-07T18:37:05.549Z
 estimatedTokens: 1331
-keywords: [Compound, Change, Events, lead, contact, Address, Geolocation, represented, nested, structures, event, message, record, updates, changedFields]
+keywords: [Compound, Change, Events, lead, contact, Address, Geolocation, represented, nested, structures, event, message, record, updates, changedFields, updated, CompoundField.ComponentField, included, structure, New]
 ---
-
-# Get Compound Fields in Change Events
 
 > Compound fields, such as lead or contact Name, Address, and Geolocation fields, are
   represented as nested field structures in the event message. In record updates, the

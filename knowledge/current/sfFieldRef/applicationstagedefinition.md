@@ -5,12 +5,10 @@ topic: applicationstagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:32.607Z
+lastCollected: 2026-04-07T18:39:26.557Z
 estimatedTokens: 365
-keywords: [ApplicationStageDefinition, stage, application, API, version, 61.0, later]
+keywords: [ApplicationStageDefinition, stage, application, API, 61.0]
 ---
-
-# ApplicationStageDefinition
 
 > Represents a stage of an application. This object is available in API
       version 61.0 and later.

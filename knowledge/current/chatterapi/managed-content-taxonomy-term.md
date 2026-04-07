@@ -5,12 +5,10 @@ topic: managed-content-taxonomy-term
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.378Z
+lastCollected: 2026-04-07T18:37:20.565Z
 estimatedTokens: 211
-keywords: [Managed, Content, Taxonomy, Term, associated]
+keywords: [Managed, Content, Taxonomy, Term]
 ---
-
-# Managed Content Taxonomy Term
 
 > Content taxonomy term associated with managed content.
 

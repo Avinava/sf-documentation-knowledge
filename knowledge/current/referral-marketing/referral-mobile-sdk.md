@@ -5,12 +5,10 @@ topic: referral-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.399Z
+lastCollected: 2026-04-07T18:39:09.715Z
 estimatedTokens: 342
-keywords: [Referral, Mobile, SDK, programs, help, increase, brand, awareness, build, loyal, customer, base, Integrate, program, capability]
+keywords: [Referral, Mobile, SDK, programs, help, increase, brand, awareness, build, loyal, customer, base, Integrate, program, capability, application, Software, Development, Kit, Android, iOS, Add, external, dependency, Loyalty, Management, extend, MyNTORewards, sample, app, include, promotions]
 ---
-
-# Referral Mobile SDK
 
 > Referral programs help increase brand awareness and build a loyal customer base for
     your brand. Integrate the referral program capability in a mobile application using the Referral

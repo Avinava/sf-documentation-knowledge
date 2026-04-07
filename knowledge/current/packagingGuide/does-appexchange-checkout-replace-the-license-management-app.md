@@ -5,12 +5,10 @@ topic: does-appexchange-checkout-replace-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.987Z
+lastCollected: 2026-04-07T18:38:45.818Z
 estimatedTokens: 94
-keywords: [AppExchange, Checkout, replace, License, Management, App, works, LMA, support, licensing, process, customer, purchases, solution, creates]
+keywords: [AppExchange, Checkout, replace, License, Management, App, works, LMA, support, licensing, process, customer, purchases, solution, creates, record, edits, their, subscription, adding, seats, automatically, updates, reflect, changes]
 ---
-
-# Does AppExchange Checkout replace the License Management App?
 
 > No, Checkout works with the LMA to support the licensing process. When a customer
       purchases your solution, Checkout creates a license record in the LMA. If a customer edits

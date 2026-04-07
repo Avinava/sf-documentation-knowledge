@@ -5,12 +5,10 @@ topic: updatepanel-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.124Z
+lastCollected: 2026-04-07T18:36:50.328Z
 estimatedTokens: 747
-keywords: [updatePanel, Lightning, Experience, label, icon, utility, panel, height, width, Web, Components, LWC, Arguments, heightTransition, widthTransition]
+keywords: [Arguments, updatePanel, Lightning, Experience, label, icon, utility, panel, height, width, Web, LWC, heightTransition, widthTransition, Sample, Code]
 ---
-
-# updatePanel() for Lightning Experience
 
 > Specifies a label and icon on the utility panel, and provides a height and width for
         the panel. This method is available for Lightning Web Components (LWC) only.

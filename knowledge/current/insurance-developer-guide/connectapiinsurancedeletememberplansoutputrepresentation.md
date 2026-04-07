@@ -5,12 +5,10 @@ topic: connectapiinsurancedeletememberplansoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.584Z
+lastCollected: 2026-04-07T18:37:50.451Z
 estimatedTokens: 125
-keywords: [Output, representation, member, plan, deletion, process]
+keywords: [member, plan, deletion, process]
 ---
-
-# ConnectApi.InsuranceDeleteMemberPlansOutputRepresentation
 
 > Output representation for the member plan deletion process.
 

@@ -5,12 +5,10 @@ topic: apexchartlabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.153Z
+lastCollected: 2026-04-07T18:38:49.154Z
 estimatedTokens: 636
-keywords: [apex, chartLabel, how, labels, Depending, component, wraps, <apex, chartLabel>, gives, options, affecting, display, data, series]
+keywords: [Attributes, apex, chartLabel, how, labels, Depending, wraps, <apex, chartLabel>, gives, options, affecting, display, series, pie, chart, segment, axes]
 ---
-
-# apex:chartLabel
 
 > Defines how labels are displayed. Depending on what component wraps it, <apex:chartLabel> gives you options for affecting the display of data series labels, pie chart segment labels, and axes labels.
 

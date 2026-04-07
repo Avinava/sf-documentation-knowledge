@@ -5,12 +5,10 @@ topic: connectapipardotbusinessunitcontextoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.449Z
+lastCollected: 2026-04-07T18:36:10.728Z
 estimatedTokens: 139
 keywords: [Pardot, business, unit, context]
 ---
-
-# ConnectApi.PardotBusinessUnitContextOutput
 
 > Pardot business unit context.
 

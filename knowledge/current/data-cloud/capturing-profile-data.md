@@ -5,12 +5,10 @@ topic: capturing-profile-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.367Z
+lastCollected: 2026-04-07T18:35:51.222Z
 estimatedTokens: 1119
-keywords: [Capturing, Profile, Data, Cloud, Module, Engagement, Mobile, SDK, collection, SDK’s, Identity, APIs, Setting, Attributes, Customer]
+keywords: [Capturing, Profile, Cloud, Module, Engagement, Mobile, SDK, collection, SDK’s, Identity, APIs, Setting, Attributes, Customer, Model, Anonymous, Known, Users, Shared, Party, Identifiers]
 ---
-
-# Capturing Profile Data
 
 > The Data Cloud Module for the Engagement Mobile SDK enables collection of profile
     data through the SDK’s Identity APIs.

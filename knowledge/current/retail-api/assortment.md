@@ -5,12 +5,10 @@ topic: assortment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.777Z
+lastCollected: 2026-04-07T18:39:12.298Z
 estimatedTokens: 1634
-keywords: [Assortment, products, eligible, sale, store, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [Assortment, products, eligible, sale, store, API, 47.0]
 ---
-
-# Assortment
 
 > Represents a list of products that are eligible for sale in a store. This
     object is available in API version 47.0 and later.

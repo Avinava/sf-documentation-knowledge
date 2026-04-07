@@ -5,12 +5,10 @@ topic: find-and-create-records-pre-chat-api-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.885Z
+lastCollected: 2026-04-07T18:38:06.127Z
 estimatedTokens: 128
 keywords: [Records, Pre-Chat, API, Code, Sample, Test, preview, how, automatically, customer, completes, form]
 ---
-
-# Find and Create Records Pre-Chat API Code Sample
 
 > Test and preview how to automatically create records when
 a customer completes a pre-chat form using this code sample.

@@ -5,13 +5,11 @@ topic: communitiesutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.215Z
+lastCollected: 2026-04-07T18:35:59.491Z
 estimatedTokens: 741
 namespace: Auth
 keywords: [CommunitiesUtil, getting, Experience, Cloud, user, getLogoutUrl, getUserDisplayName, isGuestUser, isInternalUser]
 ---
-
-# CommunitiesUtil Class
 
 > Contains methods for getting information about an
       Experience  Cloud user.

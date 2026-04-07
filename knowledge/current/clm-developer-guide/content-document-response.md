@@ -5,12 +5,10 @@ topic: content-document-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.103Z
+lastCollected: 2026-04-07T18:37:25.059Z
 estimatedTokens: 262
-keywords: [Content, Document, Output, representation, individual, documents]
+keywords: [Content, Document, individual, documents]
 ---
-
-# Content Document Response
 
 > Output representation of the individual content documents.
 

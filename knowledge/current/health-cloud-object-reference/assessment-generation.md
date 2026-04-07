@@ -5,12 +5,10 @@ topic: assessment-generation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.099Z
+lastCollected: 2026-04-07T18:37:42.240Z
 estimatedTokens: 328
-keywords: [Assessment, Generation, leverages, Einstein, generative, capabilities, questions, efficiently, extracting, question, complex, source, documents, innovation, combined]
+keywords: [Assessment, Generation, leverages, Einstein, generative, capabilities, questions, efficiently, extracting, question, complex, source, documents, innovation, combined, power, Discovery, Framework, helps, build, comprehensive, healthcare, questionnaires, meet, business, needs]
 ---
-
-# Assessment Generation
 
 > Assessment Generation leverages Einstein generative AI capabilities to create
     assessment questions by efficiently extracting question details from complex source documents.

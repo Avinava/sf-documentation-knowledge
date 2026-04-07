@@ -5,12 +5,10 @@ topic: contract-amender-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.247Z
+lastCollected: 2026-04-07T18:37:27.250Z
 estimatedTokens: 443
-keywords: [Contract, Amender, API, Receive, CPQ, quote, data, amendment, REST, Examples, Apex]
+keywords: [Contract, Amender, API, Receive, CPQ, quote, amendment, REST, Examples, Apex]
 ---
-
-# Contract Amender API
 
 > Receive a CPQ contract ID in a request, and return quote data for an amendment
   quote.

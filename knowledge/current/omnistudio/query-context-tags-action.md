@@ -5,12 +5,10 @@ topic: query-context-tags-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.738Z
+lastCollected: 2026-04-07T18:36:35.210Z
 estimatedTokens: 250
-keywords: [Query, Context, Tags, Action, tag, instance, associated, definition, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Query, Context, Tags, Action, tag, instance, definition, REST, HTTP]
 ---
-
-# Query Context Tags Action
 
 > Query the tag values from an instance that are associated with a context
         definition.

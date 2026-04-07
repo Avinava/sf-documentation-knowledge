@@ -5,12 +5,10 @@ topic: education-cloud-standard-value-set-names-and-standard-picklist-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.737Z
+lastCollected: 2026-04-07T18:37:29.809Z
 estimatedTokens: 1442
 keywords: [Education, Cloud, Standard, Picklist, picklists, their, corresponding]
 ---
-
-# Education Cloud Standard Value Set Names and Standard Picklist Fields
 
 > This table lists the names of standard picklists as standard value sets and their
   corresponding field names.

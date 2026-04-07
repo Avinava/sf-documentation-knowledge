@@ -5,12 +5,10 @@ topic: shipping-carrier-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.536Z
+lastCollected: 2026-04-07T18:37:10.244Z
 estimatedTokens: 125
-keywords: [Shipping, Carrier, Input]
+keywords: [Shipping, Carrier]
 ---
-
-# Shipping Carrier Input
 
 > Shipping carrier.
 

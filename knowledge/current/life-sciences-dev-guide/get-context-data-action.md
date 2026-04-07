@@ -5,12 +5,10 @@ topic: get-context-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.918Z
+lastCollected: 2026-04-07T18:37:57.467Z
 estimatedTokens: 255
-keywords: [Context, Data, Action, Retrieves, passed, input, prompt, template, generates, summary, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Context, Action, Retrieves, passed, prompt, template, generates, summary, REST, HTTP]
 ---
-
-# Get Context Data Action
 
 > Retrieves the context data that is passed as an input to a prompt
             template that generates a summary of the data.

@@ -5,12 +5,10 @@ topic: connectapidatacloudcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.220Z
+lastCollected: 2026-04-07T18:36:08.639Z
 estimatedTokens: 562
 keywords: [ConnectApi.DatacloudContact, Data.com, contact]
 ---
-
-# ConnectApi.DatacloudContact
 
 > Information about a Data.com contact.
 

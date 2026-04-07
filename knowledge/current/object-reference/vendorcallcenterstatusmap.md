@@ -5,12 +5,10 @@ topic: vendorcallcenterstatusmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.170Z
+lastCollected: 2026-04-07T18:38:43.971Z
 estimatedTokens: 279
-keywords: [VendorCallCenterStatusMap, Stores, mapping, call, center, vendor, agent, status, Salesforce, presence, associated, API, version, 54.0, later]
+keywords: [VendorCallCenterStatusMap, Stores, mapping, call, center, vendor, agent, status, Salesforce, presence, API, 54.0]
 ---
-
-# VendorCallCenterStatusMap
 
 > Stores a mapping between a call center vendor agent status and a Salesforce
          presence status for an associated call center. This object is available in API version

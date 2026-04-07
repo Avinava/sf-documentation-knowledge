@@ -5,12 +5,10 @@ topic: topics-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.899Z
+lastCollected: 2026-04-07T18:37:15.971Z
 estimatedTokens: 390
-keywords: [Topics, Resources, merge, Assign, unassign, articles, reassign, topic, article, assignment, rules, suggested, text, feed, item, endorsements, endorse, someone, groups, recently]
+keywords: [Topics, Resources, merge, Assign, unassign, articles, reassign, topic, article, assignment, suggested, text, item, record, trending, files, posted, recently, another, top, viewed, endorsements, endorse, someone, groups, contributing, knowledgeable, people, Opt, back]
 ---
-
-# Topics Resources
 
 > Get, update, merge, and delete topics. Assign and unassign
             topics from articles. Get, create, and reassign topic and article assignment rules. Get

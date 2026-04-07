@@ -5,12 +5,10 @@ topic: what-to-consider-before-removing-metadata-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:03.885Z
+lastCollected: 2026-04-07T18:38:56.513Z
 estimatedTokens: 737
-keywords: [Consider, Removing, Metadata, Components, cases, second-generation, managed, package, marks, component, deprecated, doesn’t, hard, subscriber, org]
+keywords: [Consider, Removing, Metadata, cases, second-generation, managed, package, marks, deprecated, doesn’t, hard, subscriber, org, approach, removal, ensures, upgrades, don’t, disrupt, subscriber’s]
 ---
-
-# What to Consider Before Removing Metadata Components
 
 > In most cases, removing metadata components from a second-generation managed package
   marks the component as deprecated and doesn’t hard delete the component from the subscriber org.

@@ -5,12 +5,10 @@ topic: attributedefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.248Z
+lastCollected: 2026-04-07T18:39:28.295Z
 estimatedTokens: 362
-keywords: [AttributeDefinitionFeed, Feed, tracking, AttributeDefinition]
+keywords: [AttributeDefinitionFeed, AttributeDefinition]
 ---
-
-# AttributeDefinitionFeed
 
 > Feed tracking for AttributeDefinition.
 

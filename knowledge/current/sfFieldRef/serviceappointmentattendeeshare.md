@@ -5,12 +5,10 @@ topic: serviceappointmentattendeeshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.510Z
+lastCollected: 2026-04-07T18:40:01.266Z
 estimatedTokens: 256
 keywords: [ServiceAppointmentAttendeeShare, Sharing, ServiceAppointmentAttendee]
 ---
-
-# ServiceAppointmentAttendeeShare
 
 > Sharing for ServiceAppointmentAttendee.
 

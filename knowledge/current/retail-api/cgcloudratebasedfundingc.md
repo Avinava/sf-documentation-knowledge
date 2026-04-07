@@ -5,12 +5,10 @@ topic: cgcloudratebasedfundingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.303Z
+lastCollected: 2026-04-07T18:39:14.706Z
 estimatedTokens: 2126
-keywords: [cgcloud__Rate_Based_Funding__c, stores, general, along, metadata, that's, associated, RBF, Template, created, API, version, 54.0, later, cgcloud]
+keywords: [cgcloud__Rate_Based_Funding__c, stores, general, along, metadata, that's, RBF, Template, created, API, 54.0, cgcloud, _Rate, _Based, _Funding]
 ---
-
-# cgcloud__Rate_Based_Funding__c
 
 > This object stores general information along with metadata that's
          associated with the RBF Template from which it was created. This object is available

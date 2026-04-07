@@ -5,12 +5,10 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:42.827Z
+lastCollected: 2026-04-07T18:36:28.369Z
 estimatedTokens: 5038
-keywords: [PermissionSet, permissions, that's, grant, access, users, changing, their, profile, reassigning, profiles, permission, deny, Declarative, Metadata]
+keywords: [PermissionSet, PermissionSetAgentAccess, PermissionSetApplicationVisibility, PermissionSetApexClassAccess, PermissionSetCustomMetadataTypeAccess, PermissionSetCustomPermissions, PermissionSetCustomSettingAccesses, PermissionSetEmailRoutingAddressAccess, PermissionSetExternalCredentialPrincipalAccess, PermissionSetExternalDataSourceAccess, PermissionSetFieldPermissions, PermissionSetFlowAccess, PermissionSetObjectPermissions, PermissionSetApexPageAccess, PermissionSetRecordTypeVisibility, PermissionSetTabSetting, PermissionSetUserPermission, PermissionSetServicePresenceStatusAccess, permissions, that's, grant, users, changing, their, profile, reassigning, profiles, permission, deny, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PermissionSet
 
 > Represents a set of permissions that's used to grant
             more access to one or more users without changing their profile or reassigning profiles.

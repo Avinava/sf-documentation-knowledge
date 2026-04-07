@@ -5,12 +5,10 @@ topic: sendsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.034Z
+lastCollected: 2026-04-07T18:40:20.259Z
 estimatedTokens: 533
 keywords: [SendSummary, retrieve-only, summary, specific, send, event, Items]
 ---
-
-# SendSummary
 
 > The SendSummary object is a retrieve-only object that contains summary information about a specific send event.
 

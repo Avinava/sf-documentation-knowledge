@@ -5,12 +5,10 @@ topic: output-external-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.789Z
+lastCollected: 2026-04-07T18:39:18.511Z
 estimatedTokens: 122
-keywords: [Output, External, Node, Input, recipe]
+keywords: [External, Node, recipe]
 ---
-
-# Output External Node Input
 
 > An output external node in a recipe.
 

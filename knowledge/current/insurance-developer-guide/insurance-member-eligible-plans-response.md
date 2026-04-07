@@ -5,12 +5,10 @@ topic: insurance-member-eligible-plans-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.271Z
+lastCollected: 2026-04-07T18:37:52.432Z
 estimatedTokens: 135
-keywords: [Insurance, Member, Eligible, Plans, Output, representation, member's]
+keywords: [Insurance, Member, Eligible, Plans, member's]
 ---
-
-# Insurance Member Eligible Plans Response
 
 > Output representation for a member's eligible plans.
 

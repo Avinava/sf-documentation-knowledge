@@ -5,12 +5,10 @@ topic: get-to-know-lightning-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.408Z
+lastCollected: 2026-04-07T18:36:49.520Z
 estimatedTokens: 398
 keywords: [Know, Lightning, Console, started, Salesforce, Experience]
 ---
-
-# Get to Know Lightning Console
 
 > Get started with the Salesforce console in Lightning Experience.
 

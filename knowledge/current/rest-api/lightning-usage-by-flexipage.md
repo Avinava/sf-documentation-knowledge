@@ -5,13 +5,11 @@ topic: lightning-usage-by-flexipage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.541Z
+lastCollected: 2026-04-07T18:36:20.779Z
 estimatedTokens: 248
 namespace: FlexiPage
-keywords: [Lightning, Usage, FlexiPage, custom, pages, viewed, frequently, Experience, resource, REST, API, version, 44.0, later]
+keywords: [Lightning, FlexiPage, pages, viewed, frequently, Experience, resource, REST, API, 44.0]
 ---
-
-# Lightning Usage by FlexiPage
 
 > Returns details about the custom pages viewed most
    frequently in Lightning Experience. This resource is available in REST API version 44.0 and

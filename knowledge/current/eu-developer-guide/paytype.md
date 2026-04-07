@@ -5,12 +5,10 @@ topic: paytype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.514Z
+lastCollected: 2026-04-07T18:37:32.746Z
 estimatedTokens: 397
-keywords: [PayType, pay, provided, service, worker, determines, hourly, rate, labor, agreement, API, version, 61.0, later, Calls]
+keywords: [PayType, pay, provided, service, worker, determines, hourly, rate, labor, agreement, API, 61.0]
 ---
-
-# PayType
 
 > Represents the type of pay provided to the field service worker that
          determines the hourly rate based on a labor agreement.  This object is available in

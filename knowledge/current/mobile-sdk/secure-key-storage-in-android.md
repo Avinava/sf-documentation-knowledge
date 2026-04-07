@@ -5,12 +5,10 @@ topic: secure-key-storage-in-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.835Z
+lastCollected: 2026-04-07T18:40:25.221Z
 estimatedTokens: 451
-keywords: [Secure, Key, Storage, Android, Mobile, SDK, encrypts, data, user, identity, tokens, SmartStore, databases, normal, workflow]
+keywords: [Secure, Key, Storage, Android, Mobile, SDK, encrypts, user, identity, tokens, SmartStore, databases, normal, workflow, protection, pattern, uses, considered, highly, However, “zero, day”, vulnerabilities, arise, heavily, guarded, schemes, stay, ahead, hackers, malicious, attacks, reinforces, encryption, highest, standards, supports, Upgrading, Apps]
 ---
-
-# Secure Key Storage in Android
 
 > Mobile SDK
     encrypts data such as user identity tokens and SmartStore databases. In a

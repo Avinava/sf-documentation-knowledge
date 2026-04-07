@@ -5,12 +5,10 @@ topic: rebateprogrampayoutperiodhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.128Z
+lastCollected: 2026-04-07T18:39:58.781Z
 estimatedTokens: 185
-keywords: [RebateProgramPayoutPeriodHistory, History, tracked, RebateProgramPayoutPeriod]
+keywords: [RebateProgramPayoutPeriodHistory, tracked, RebateProgramPayoutPeriod]
 ---
-
-# RebateProgramPayoutPeriodHistory
 
 > History for tracked fields of RebateProgramPayoutPeriod.
 

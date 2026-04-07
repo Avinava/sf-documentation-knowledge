@@ -5,12 +5,10 @@ topic: insurance-product-rating-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.833Z
+lastCollected: 2026-04-07T18:37:51.910Z
 estimatedTokens: 648
 keywords: [Insurance, Product, Rating, POST, PATCH, Rate, products, ratings, quoting, processes]
 ---
-
-# Insurance Product Rating (POST, PATCH)
 
 > Rate products or update product ratings in insurance quoting processes.
 

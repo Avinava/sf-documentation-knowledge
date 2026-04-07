@@ -5,12 +5,10 @@ topic: commerce-import-product-job-manage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.112Z
+lastCollected: 2026-04-07T18:37:11.942Z
 estimatedTokens: 374
-keywords: [Commerce, Import, Product, Job, Manage, Cancel, status, asynchronously, data, csv, file]
+keywords: [Commerce, Import, Product, Job, Manage, Cancel, status, asynchronously, csv, file]
 ---
-
-# Commerce Import Product Job, Manage
 
 > Cancel or get the status of a job to asynchronously import global
       product data using a .csv file.

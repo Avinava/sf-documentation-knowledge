@@ -5,12 +5,10 @@ topic: monitor-transcription-related-limit-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.123Z
+lastCollected: 2026-04-07T18:40:13.070Z
 estimatedTokens: 591
-keywords: [Monitor, Transcription-Related, Limit, Errors, org, exceeds, transcription, utterances, longer, transcribed, Track, hits, custom, VoiceCall]
+keywords: [Monitor, Transcription-Related, Limit, Errors, org, exceeds, transcription, utterances, longer, transcribed, Track, hits, VoiceCall]
 ---
-
-# Monitor Transcription-Related Limit Errors
 
 > When your org exceeds the transcription limit, utterances are no longer transcribed.
   Track when your org hits the transcription limit by using a custom field on the VoiceCall

@@ -5,12 +5,10 @@ topic: csv-files-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.058Z
+lastCollected: 2026-04-07T18:38:47.025Z
 estimatedTokens: 1020
-keywords: [CSV, Files, AppExchange, Marketplace, Analytics, export, data, comma-separated, creates, separate, file, dashboard, visualization, Activity, Source]
+keywords: [CSV, Files, AppExchange, Marketplace, Analytics, export, comma-separated, creates, separate, file, dashboard, visualization, Activity, Source, Timeline, Customer, Engagement, Sources, Top, Searches, Lead, Events, Chat]
 ---
-
-# CSV Files in AppExchange Marketplace Analytics
 
 > You can export data from AppExchange Marketplace Analytics in comma-separated value
     (.csv) format. When you export data, Marketplace Analytics creates a separate .csv file for each

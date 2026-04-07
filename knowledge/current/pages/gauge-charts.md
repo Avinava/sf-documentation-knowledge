@@ -5,12 +5,10 @@ topic: gauge-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.744Z
+lastCollected: 2026-04-07T18:38:48.698Z
 estimatedTokens: 335
 keywords: [Gauge, Charts, show, measurement, against, defined, axis, scale, Although, number, vary, chart, colors, communicate, means]
 ---
-
-# Gauge Charts
 
 > Gauge charts show a single measurement against a defined
 axis or scale. Although it charts a single number, you can vary the

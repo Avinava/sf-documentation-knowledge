@@ -5,12 +5,10 @@ topic: claimcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.864Z
+lastCollected: 2026-04-07T18:37:36.679Z
 estimatedTokens: 1095
-keywords: [ClaimCoverage, insurance, policy, coverage, claim, stores, financial, activities, including, payouts, reserves, API, version, 51.0, later]
+keywords: [ClaimCoverage, insurance, policy, coverage, claim, stores, financial, activities, including, payouts, reserves, API, 51.0]
 ---
-
-# ClaimCoverage
 
 > Represents the insurance policy coverage for a claim. This object stores the
       information about financial activities related to the claim, including payouts and

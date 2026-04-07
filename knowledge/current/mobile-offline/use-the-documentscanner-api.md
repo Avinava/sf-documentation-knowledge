@@ -5,12 +5,10 @@ topic: use-the-documentscanner-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.285Z
+lastCollected: 2026-04-07T18:38:15.807Z
 estimatedTokens: 744
-keywords: [DocumentScanner, API, add, document, scanning, features, Lightning, web, component, Test, Availability, Scan, Process, Results]
+keywords: [DocumentScanner, API, add, document, scanning, features, Lightning, web, Test, Availability, Scan, Process, Results]
 ---
-
-# Use the DocumentScanner API
 
 > To add document scanning features to a Lightning web component, use the
         DocumentScanner API.

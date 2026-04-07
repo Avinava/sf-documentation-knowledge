@@ -5,12 +5,10 @@ topic: introducing-the-salesforce-shield-platform-encryption-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.863Z
+lastCollected: 2026-04-07T18:38:57.680Z
 estimatedTokens: 2525
-keywords: [Introducing, Salesforce, Shield, Platform, Encryption, REST, API, bring, own, key, BYOK, —that, control, tenant, secrets]
+keywords: [Introducing, Salesforce, Shield, Platform, Encryption, REST, API, bring, own, key, BYOK, —that, control, tenant, secrets, premises, POST, PUT, operations, import, rotate, needed, versions, 38.0, Getting, Started, Client, Secret, Upload, Retrieve, Export, Destroy]
 ---
-
-# Introducing the Salesforce Shield Platform Encryption REST API
 
 > The Salesforce Shield Platform Encryption API enables you to bring your own key
         (BYOK)—that is, to control your own tenant secrets on your own premises. Use the

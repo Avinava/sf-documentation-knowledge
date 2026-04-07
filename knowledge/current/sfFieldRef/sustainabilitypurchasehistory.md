@@ -5,12 +5,10 @@ topic: sustainabilitypurchasehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.691Z
+lastCollected: 2026-04-07T18:40:03.396Z
 estimatedTokens: 272
-keywords: [SustainabilityPurchaseHistory, History, tracked, SustainabilityPurchase]
+keywords: [SustainabilityPurchaseHistory, tracked, SustainabilityPurchase]
 ---
-
-# SustainabilityPurchaseHistory
 
 > History for tracked fields of SustainabilityPurchase.
 

@@ -5,12 +5,10 @@ topic: dataextensionfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.265Z
+lastCollected: 2026-04-07T18:40:16.405Z
 estimatedTokens: 1465
-keywords: [DataExtensionField, data, extension, perform, retrieve, call, DataExtension.CustomerKey, Items]
+keywords: [DataExtensionField, extension, perform, retrieve, call, DataExtension.CustomerKey, Items]
 ---
-
-# DataExtensionField
 
 > The DataExtensionField object represents a field within a data extension. You can perform a retrieve call on this object and request DataExtension.CustomerKey.
 

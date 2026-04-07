@@ -5,12 +5,10 @@ topic: worktypestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.661Z
+lastCollected: 2026-04-07T18:37:48.291Z
 estimatedTokens: 827
-keywords: [WorkTypeStep, step, work, Special, Access, Rules, Calls, Associated, Objects]
+keywords: [WorkTypeStep, step, work]
 ---
-
-# WorkTypeStep
 
 > Represents each step within a work type.
 

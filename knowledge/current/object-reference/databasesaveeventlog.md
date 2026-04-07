@@ -5,12 +5,10 @@ topic: databasesaveeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.617Z
+lastCollected: 2026-04-07T18:38:29.509Z
 estimatedTokens: 738
-keywords: [DatabaseSaveEventLog, Database, Save, events, track, records, created, updated, deleted, API, version, 64.0, later, Calls, Special]
+keywords: [DatabaseSaveEventLog, Database, Save, events, track, records, created, updated, deleted, API, 64.0]
 ---
-
-# DatabaseSaveEventLog
 
 > Database Save events track when records are created,updated, or deleted
       This object is available in API version 64.0 and later.

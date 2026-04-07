@@ -5,12 +5,10 @@ topic: support-international-payments-in-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.015Z
+lastCollected: 2026-04-07T18:38:45.848Z
 estimatedTokens: 316
-keywords: [Support, International, Payments, AppExchange, Checkout, few, steps, ready, accept, customers, European, Union, regions, verify, company]
+keywords: [Support, International, Payments, AppExchange, Checkout, few, steps, ready, accept, customers, European, Union, regions, verify, company, United, Kingdom, country’s, tax, authority, requires, collect, value-added, VAT, enable, Publishing, Console]
 ---
-
-# Support International Payments in AppExchange Checkout
 
 > In a few steps, you can get Checkout ready to accept payments from customers in the
         European Union (EU) and other regions. First, verify that your company is based in the EU or

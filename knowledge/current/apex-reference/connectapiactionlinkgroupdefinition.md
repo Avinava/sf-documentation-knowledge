@@ -5,12 +5,10 @@ topic: connectapiactionlinkgroupdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.641Z
+lastCollected: 2026-04-07T18:36:06.997Z
 estimatedTokens: 631
-keywords: [ConnectApi.ActionLinkGroupDefinition, definition, action, link, group, sensitive, third, party, OAuth, bearer, token, reason, calls, made, Apex]
+keywords: [ConnectApi.ActionLinkGroupDefinition, definition, action, link, group, sensitive, third, party, OAuth, bearer, token, reason, made, Apex, created, modify, addition, user, making, call, View, permission]
 ---
-
-# ConnectApi.ActionLinkGroupDefinition
 
 > The definition of an action link group. Information in the action link
       group definition can be sensitive to a third party (for example, OAuth bearer token headers).

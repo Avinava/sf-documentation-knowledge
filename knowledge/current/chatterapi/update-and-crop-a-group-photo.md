@@ -5,12 +5,10 @@ topic: update-and-crop-a-group-photo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.385Z
+lastCollected: 2026-04-07T18:37:24.395Z
 estimatedTokens: 272
 keywords: [Crop, Group, Photo, Chatter]
 ---
-
-# Update and Crop a Group Photo
 
 > Update and crop a Chatter group photo.
 

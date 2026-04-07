@@ -7,14 +7,10 @@ topic: record-creation-with-received-documents-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.090Z
+lastCollected: 2026-04-07T18:37:55.528Z
 estimatedTokens: 557
-keywords: [Record, Creation, Received, Documents, POST, records, Salesforce, objects, document]
+keywords: [Record, Creation, Received, Documents, POST, records, Salesforce, document]
 ---
-
-# Record Creation with Received
-    Documents
-    (POST)
 
 > Create records in Salesforce objects using a document based on a
       received document record.

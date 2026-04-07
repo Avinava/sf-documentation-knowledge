@@ -5,12 +5,10 @@ topic: loyaltypgmgroupmbrrlnsphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.864Z
+lastCollected: 2026-04-07T18:39:47.351Z
 estimatedTokens: 281
-keywords: [LoyaltyPgmGroupMbrRlnspHistory, History, tracked, LoyaltyPgmGroupMbrRlnsp]
+keywords: [LoyaltyPgmGroupMbrRlnspHistory, tracked, LoyaltyPgmGroupMbrRlnsp]
 ---
-
-# LoyaltyPgmGroupMbrRlnspHistory
 
 > History for tracked fields of LoyaltyPgmGroupMbrRlnsp.
 

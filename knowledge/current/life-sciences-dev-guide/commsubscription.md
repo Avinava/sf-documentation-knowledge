@@ -5,12 +5,10 @@ topic: commsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.222Z
+lastCollected: 2026-04-07T18:37:57.748Z
 estimatedTokens: 795
-keywords: [CommSubscription, Standard, custom, extend, Communication, Subscription, represent, customer’s, preferences, specific, API, version, 65.0, later, Calls]
+keywords: [CommSubscription, Standard, extend, Communication, Subscription, represent, customer’s, preferences, specific, API, 65.0]
 ---
-
-# CommSubscription
 
 > Standard and custom fields extend the standard Communication
          Subscription object to represent a customer’s subscription preferences for a specific

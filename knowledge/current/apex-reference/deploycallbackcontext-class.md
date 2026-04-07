@@ -5,13 +5,11 @@ topic: deploycallbackcontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.004Z
+lastCollected: 2026-04-07T18:36:00.287Z
 estimatedTokens: 457
 namespace: Metadata
-keywords: [DeployCallbackContext, context, deployment, job, Usage, clone, getCallbackJobId]
+keywords: [DeployCallbackContext, context, deployment, job, clone, getCallbackJobId]
 ---
-
-# DeployCallbackContext Class
 
 > Represents context information for a deployment job.
 

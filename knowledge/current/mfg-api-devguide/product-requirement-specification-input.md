@@ -5,12 +5,10 @@ topic: product-requirement-specification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.320Z
+lastCollected: 2026-04-07T18:38:12.611Z
 estimatedTokens: 230
-keywords: [Product, Requirement, Specification, Input, representation, data, process, PropertiesListWrapperInput]
+keywords: [PropertiesListWrapperInput, Product, Requirement, Specification, process]
 ---
-
-# Product Requirement Specification Input
 
 > Input representation for the Product Requirement Specification data to
     process.

@@ -5,12 +5,10 @@ topic: testing-http-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.429Z
+lastCollected: 2026-04-07T18:36:16.648Z
 estimatedTokens: 356
-keywords: [Testing, HTTP, Callouts, deploy, package, Apex, 75%, code, test, coverage, don’t, support, tests, perform, fail]
+keywords: [Testing, HTTP, Callouts, deploy, package, Apex, 75%, code, test, coverage, don’t, support, tests, perform, fail, Enable, callout, instructing, generate, mock, responses, Test.setMock]
 ---
-
-# Testing HTTP Callouts
 
 > To deploy or package Apex, 75% of your code must have test coverage. By default, test
   methods don’t support HTTP callouts, so tests that perform callouts fail. Enable HTTP

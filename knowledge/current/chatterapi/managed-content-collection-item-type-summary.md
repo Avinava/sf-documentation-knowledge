@@ -5,12 +5,10 @@ topic: managed-content-collection-item-type-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.104Z
+lastCollected: 2026-04-07T18:37:20.287Z
 estimatedTokens: 141
 keywords: [Managed, Content, Collection, Item, Summary]
 ---
-
-# Managed Content Collection Item Type Summary
 
 > Summary of a collection item type.
 

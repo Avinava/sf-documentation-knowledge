@@ -5,13 +5,11 @@ topic: findduplicates-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.788Z
+lastCollected: 2026-04-07T18:36:00.072Z
 estimatedTokens: 1288
 namespace: Datacloud
-keywords: [FindDuplicates, Performs, rule-based, searches, duplicate, records, input, array, sObjects, sObject, record, want, duplicates, output, identifies]
+keywords: [FindDuplicates, Performs, rule-based, searches, duplicate, records, array, sObjects, sObject, record, want, duplicates, identifies, detected, active]
 ---
-
-# FindDuplicates Class
 
 > Performs rule-based searches for duplicate records. The input is an
       array of sObjects. Each sObject represents a record you want to find duplicates of. The output

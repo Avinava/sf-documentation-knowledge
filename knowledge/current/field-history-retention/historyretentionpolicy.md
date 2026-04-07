@@ -5,12 +5,10 @@ topic: historyretentionpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.278Z
+lastCollected: 2026-04-07T18:37:33.676Z
 estimatedTokens: 530
-keywords: [HistoryRetentionPolicy, policy, archiving, history, data, specify, number, months, want, keep, Salesforce, Audit, Trail, enabled, retained]
+keywords: [HistoryRetentionPolicy, policy, archiving, specify, number, months, want, keep, Salesforce, Audit, Trail, enabled, retained, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition]
 ---
-
-# HistoryRetentionPolicy
 
 > Represents the policy for archiving field history data. When you set a policy, you
         specify the number of months that you want to keep field history in Salesforce before

@@ -5,12 +5,10 @@ topic: scheduling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.142Z
+lastCollected: 2026-04-07T18:36:20.354Z
 estimatedTokens: 86
-keywords: [Scheduling, Salesforce, Scheduler, REST, resources, corresponding, URIs, resource, API, version, 45.0, later]
+keywords: [Scheduling, Salesforce, Scheduler, REST, resources, corresponding, URIs, resource, API, 45.0]
 ---
-
-# Scheduling
 
 > Returns a list of available Salesforce Scheduler REST resources and corresponding URIs.
     This resource is available in REST API version 45.0 and later.

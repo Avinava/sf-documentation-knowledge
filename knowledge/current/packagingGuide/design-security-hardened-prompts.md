@@ -5,12 +5,10 @@ topic: design-security-hardened-prompts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.343Z
+lastCollected: 2026-04-07T18:38:47.316Z
 estimatedTokens: 399
-keywords: [Design, Security-Hardened, Prompts, designing, prompt, sure, it’s, hardened, against, attacks, attempt, alter, instructions, Define, roles]
+keywords: [Design, Security-Hardened, Prompts, designing, prompt, sure, it’s, hardened, against, attacks, attempt, alter, instructions, Define, roles, boundaries, LLM, expected, content, Don't, allow, override]
 ---
-
-# Design Security-Hardened Prompts
 
 > When designing a prompt, make sure it’s hardened against attacks that attempt to alter
     it’s instructions. Define roles and boundaries for the LLM, and the expected output content and

@@ -5,12 +5,10 @@ topic: connect-your-trial-template-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.141Z
+lastCollected: 2026-04-07T18:38:45.994Z
 estimatedTokens: 304
-keywords: [Connect, Trial, Template, AppExchange, Partner, Console, plan, offer, trials, solution, listing, Salesforce, org, Trialforce, connected]
+keywords: [Connect, Trial, Template, AppExchange, Partner, Console, plan, offer, trials, solution, listing, Salesforce, org, Trialforce, connected, templates, add, listings]
 ---
-
-# Connect Your Trial Template to the AppExchange Partner Console
 
 > If you plan to offer trials of your solution on your AppExchange listing, connect the
     Salesforce org that contains your Trialforce template to the Partner Console. After the org is

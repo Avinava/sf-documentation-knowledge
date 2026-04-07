@@ -5,12 +5,10 @@ topic: legacy-formula-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.690Z
+lastCollected: 2026-04-07T18:39:18.390Z
 estimatedTokens: 130
-keywords: [Legacy, Formula, Input]
+keywords: [Legacy, Formula]
 ---
-
-# Legacy Formula Parameters Input
 
 > The legacy formula parameters for a formula.
 

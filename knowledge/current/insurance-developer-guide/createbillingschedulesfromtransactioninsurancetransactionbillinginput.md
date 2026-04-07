@@ -5,12 +5,10 @@ topic: createbillingschedulesfromtransactioninsurancetransactionbillinginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.347Z
+lastCollected: 2026-04-07T18:37:49.166Z
 estimatedTokens: 316
-keywords: [createBillingSchedulesFromTransaction, InsuranceTransactionBillingInput, billing, schedules, insurance, transaction, API, Version, Requires, Chatter]
+keywords: [createBillingSchedulesFromTransaction, InsuranceTransactionBillingInput, billing, schedules, insurance, transaction, API, Requires, Chatter]
 ---
-
-# createBillingSchedulesFromTransaction(InsuranceTransactionBillingInput)
 
 > Create billing schedules from an insurance transaction.
 

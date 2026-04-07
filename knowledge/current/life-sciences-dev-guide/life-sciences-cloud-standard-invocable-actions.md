@@ -5,12 +5,10 @@ topic: life-sciences-cloud-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.905Z
+lastCollected: 2026-04-07T18:37:57.452Z
 estimatedTokens: 635
 keywords: [Life, Sciences, Cloud, Standard, Invocable, Actions, streamline, process, enrolling, participants, clinical, trials]
 ---
-
-# Life Sciences Cloud Standard Invocable Actions
 
 > Use the standard invocable actions available with Life Sciences Cloud to streamline the
     process of enrolling participants in clinical trials.

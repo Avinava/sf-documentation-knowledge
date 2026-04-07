@@ -5,12 +5,10 @@ topic: consent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.270Z
+lastCollected: 2026-04-07T18:35:51.127Z
 estimatedTokens: 336
-keywords: [Consent, Salesforce, Interactions, SDK, designed, respect, user, privacy, doesn’t, store, transmit, data, collected, until, granted]
+keywords: [Consent, Salesforce, Interactions, SDK, designed, respect, user, privacy, doesn’t, store, transmit, collected, until, granted, site, management, features, integrate, signal, track]
 ---
-
-# Consent
 
 > The Salesforce Interactions SDK has been designed to respect user privacy and doesn’t
     store or transmit data collected until it has been granted consent. If your site has existing

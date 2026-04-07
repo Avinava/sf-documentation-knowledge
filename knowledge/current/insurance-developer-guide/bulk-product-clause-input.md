@@ -5,12 +5,10 @@ topic: bulk-product-clause-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.036Z
+lastCollected: 2026-04-07T18:37:50.977Z
 estimatedTokens: 85
-keywords: [Bulk, Product, Clause, Input, representation, creating, clauses]
+keywords: [Bulk, Product, Clause, creating, clauses]
 ---
-
-# Bulk Product Clause Input
 
 > Input representation for creating one or a list of product clauses.
 

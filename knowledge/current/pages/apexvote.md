@@ -5,12 +5,10 @@ topic: apexvote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.611Z
+lastCollected: 2026-04-07T18:38:50.845Z
 estimatedTokens: 178
-keywords: [apex, vote, component, displays, control, supports, Attributes]
+keywords: [Attributes, apex, vote, displays, control, supports]
 ---
-
-# apex:vote
 
 > A component that displays the vote control for an object that supports it.
 

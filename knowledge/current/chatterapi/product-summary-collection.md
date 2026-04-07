@@ -5,12 +5,10 @@ topic: product-summary-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.097Z
+lastCollected: 2026-04-07T18:37:22.204Z
 estimatedTokens: 183
 keywords: [Product, Summary, Collection, summaries]
 ---
-
-# Product Summary Collection
 
 > Collection of product summaries.
 

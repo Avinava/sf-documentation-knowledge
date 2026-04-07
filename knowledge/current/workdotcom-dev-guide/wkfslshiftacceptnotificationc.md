@@ -5,12 +5,10 @@ topic: wkfslshiftacceptnotificationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.348Z
+lastCollected: 2026-04-07T18:40:14.360Z
 estimatedTokens: 314
-keywords: [wkfsl__ShiftAcceptNotification__c, helper, ensure, employees, don’t, receive, mobile, app, notification, they, assigned, service, appointment, installed, part]
+keywords: [wkfsl__ShiftAcceptNotification__c, helper, ensure, employees, don’t, receive, mobile, app, notification, they, assigned, service, appointment, installed, part, Shift, Management, managed, package, API, 48.0, wkfsl, _ShiftAcceptNotification]
 ---
-
-# wkfsl__ShiftAcceptNotification__c
 
 > Represents a helper object to ensure that employees don’t receive more
       than one mobile app notification when they are assigned a service appointment. This object is

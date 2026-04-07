@@ -5,12 +5,10 @@ topic: favorite-batch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.716Z
+lastCollected: 2026-04-07T18:40:10.693Z
 estimatedTokens: 156
-keywords: [Favorite, Batch, Input, updating, favorites]
+keywords: [Favorite, Batch, updating, favorites]
 ---
-
-# Favorite Batch Input
 
 > Represents a single favorite when updating favorites in batch.
 

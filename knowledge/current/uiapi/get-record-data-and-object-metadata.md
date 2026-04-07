@@ -5,12 +5,10 @@ topic: get-record-data-and-object-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.325Z
+lastCollected: 2026-04-07T18:40:11.317Z
 estimatedTokens: 1204
-keywords: [Record, Data, Metadata, layout, build, collection, records]
+keywords: [Record, Metadata, layout, build, collection, records]
 ---
-
-# Get Record Data and Object Metadata
 
 > Get layout information, metadata, and data to build UI for a single
       record or for a collection of records.

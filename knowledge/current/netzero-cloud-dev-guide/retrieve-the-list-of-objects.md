@@ -5,12 +5,10 @@ topic: retrieve-the-list-of-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.711Z
+lastCollected: 2026-04-07T18:38:16.264Z
 estimatedTokens: 338
-keywords: [Retrieve, Objects, feature]
+keywords: [Retrieve, feature]
 ---
-
-# Retrieve the List of Objects
 
 > Retrieve the list of objects for a specified
     feature.

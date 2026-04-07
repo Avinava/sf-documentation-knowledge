@@ -5,12 +5,10 @@ topic: voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.825Z
+lastCollected: 2026-04-07T18:39:10.269Z
 estimatedTokens: 1547
-keywords: [Voucher, that’s, issued, advocate, referred, friend, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [Voucher, that’s, issued, advocate, referred, friend, API, 59.0]
 ---
-
-# Voucher
 
 > Represents the details of a voucher that’s issued to an advocate or
          to a referred friend. This object is available in API version 59.0 and

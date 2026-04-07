@@ -5,12 +5,10 @@ topic: define-a-router
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.452Z
+lastCollected: 2026-04-07T18:40:25.830Z
 estimatedTokens: 294
 keywords: [Define, Router, Backbone, navigation, paths, among, views, routers]
 ---
-
-# Define a Router
 
 > A Backbone router defines navigation paths among views.
 To learn more about routers, see What is a router?

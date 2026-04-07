@@ -5,12 +5,10 @@ topic: user-conversations-specific
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.148Z
+lastCollected: 2026-04-07T18:37:16.193Z
 estimatedTokens: 603
 keywords: [User, Conversations, Specific, conversation, context, Search, change, status]
 ---
-
-# User Conversations, Specific
 
 > Get a private conversation for the context user.
             Search within a private conversation and change the status of a private

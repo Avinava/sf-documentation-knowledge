@@ -5,12 +5,10 @@ topic: address
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.012Z
+lastCollected: 2026-04-07T18:39:24.919Z
 estimatedTokens: 518
 keywords: [Address, mailing, billing, home]
 ---
-
-# Address
 
 > Represents a mailing, billing, or home address.
 

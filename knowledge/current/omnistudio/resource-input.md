@@ -5,12 +5,10 @@ topic: resource-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.938Z
+lastCollected: 2026-04-07T18:36:37.463Z
 estimatedTokens: 491
-keywords: [Resource, Input, representation, expression, variable, constant]
+keywords: [Resource, expression, variable, constant]
 ---
-
-# Resource Input
 
 > Input representation of the expression set resource (variable or
       constant).

@@ -5,12 +5,10 @@ topic: smart-data-discovery-regression-prediction-property-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.368Z
+lastCollected: 2026-04-07T18:36:58.865Z
 estimatedTokens: 186
-keywords: [Smart, Data, Discovery, Regression, Prediction, Input, identify]
+keywords: [Smart, Discovery, Regression, Prediction, identify]
 ---
-
-# Smart Data Discovery Regression Prediction Property Input
 
 > The input to identify the prediction type as Regression.
 

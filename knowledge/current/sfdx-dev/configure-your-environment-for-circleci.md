@@ -5,12 +5,10 @@ topic: configure-your-environment-for-circleci
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.925Z
+lastCollected: 2026-04-07T18:40:07.863Z
 estimatedTokens: 607
 keywords: [Configure, Environment, CircleCI, integrating, framework, Dev, Hub, org, project]
 ---
-
-# Configure Your Environment for CircleCI
 
 > Before integrating your existing CircleCI framework, configure your Dev Hub org and
     CircleCI project.

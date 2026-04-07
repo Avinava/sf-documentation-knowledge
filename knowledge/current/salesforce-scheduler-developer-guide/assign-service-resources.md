@@ -5,12 +5,10 @@ topic: assign-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.661Z
+lastCollected: 2026-04-07T18:39:21.514Z
 estimatedTokens: 215
 keywords: [Assign, Service, Resources, choose, appointment, candidates, new, virtual, territory, Salesforce, Scheduler, secondary, resource]
 ---
-
-# Assign Service Resources
 
 > To choose appointment candidates from the new virtual service territory, assign
       service resources to the territory in Salesforce Scheduler. Set this new territory as the

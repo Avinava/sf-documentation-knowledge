@@ -5,12 +5,10 @@ topic: payment-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.720Z
+lastCollected: 2026-04-07T18:37:09.446Z
 estimatedTokens: 205
 keywords: [Payment, Info, additional, funds, order]
 ---
-
-# Payment Info
 
 > Payment information about additional funds required for an order.
 

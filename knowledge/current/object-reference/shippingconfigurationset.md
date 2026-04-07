@@ -5,12 +5,10 @@ topic: shippingconfigurationset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.630Z
+lastCollected: 2026-04-07T18:38:41.297Z
 estimatedTokens: 414
-keywords: [ShippingConfigurationSet, Shipping, configuration, products, store, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [ShippingConfigurationSet, Shipping, configuration, products, store, API, 59.0]
 ---
-
-# ShippingConfigurationSet
 
 > Shipping configuration for a set of products in a store. This object is
       available in API version 59.0 and later.

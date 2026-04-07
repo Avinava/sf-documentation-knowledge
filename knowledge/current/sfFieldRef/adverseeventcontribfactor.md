@@ -5,12 +5,10 @@ topic: adverseeventcontribfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.293Z
+lastCollected: 2026-04-07T18:39:25.194Z
 estimatedTokens: 334
-keywords: [AdverseEventContribFactor, contributing, factors, suspected, increased, probability, severity, adverse, event, API, version, 61.0, later]
+keywords: [AdverseEventContribFactor, contributing, factors, suspected, increased, probability, severity, adverse, event, API, 61.0]
 ---
-
-# AdverseEventContribFactor
 
 > The contributing factors suspected to have increased the probability or
          severity of the adverse event. This object is available in API version 61.0 and

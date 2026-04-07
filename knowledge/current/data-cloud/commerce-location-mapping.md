@@ -5,12 +5,10 @@ topic: commerce-location-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.649Z
+lastCollected: 2026-04-07T18:35:52.541Z
 estimatedTokens: 297
-keywords: [Commerce, Location, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, fulfills]
+keywords: [Commerce, Location, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, fulfills, orders, warehouse, retail, store, DLO]
 ---
-
-# Commerce: Location Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Location data is the location that fulfills

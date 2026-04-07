@@ -5,12 +5,10 @@ topic: topic-and-article-assignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.915Z
+lastCollected: 2026-04-07T18:37:15.983Z
 estimatedTokens: 226
-keywords: [Topic, Article, Assignments, Assign, topics, articles, unassign, data, category]
+keywords: [Topic, Article, Assignments, Assign, topics, articles, unassign, category]
 ---
-
-# Topic and Article Assignments
 
 > Assign topics to articles and unassign topics from articles in a
       data category.

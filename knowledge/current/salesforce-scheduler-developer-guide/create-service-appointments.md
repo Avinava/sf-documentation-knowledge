@@ -5,12 +5,10 @@ topic: create-service-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.338Z
+lastCollected: 2026-04-07T18:39:21.148Z
 estimatedTokens: 613
-keywords: [Service, Appointments, Show, users, appointment—an, appointment, booked, Salesforce, Scheduler—so, review, Scheduler, POST, service-appointments, Connect, API, step, concurrent, scheduling, application, show]
+keywords: [Service, Appointments, Show, users, appointment—an, appointment, booked, Salesforce, Scheduler—so, review, Scheduler, POST, service-appointments, Connect, API, step, concurrent, scheduling, application, show, user]
 ---
-
-# Create Service Appointments
 
 > A service appointment represents an appointment booked through Salesforce
       Scheduler. Make a POST request on the service-appointments Connect API to create the appointment.

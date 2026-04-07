@@ -5,12 +5,10 @@ topic: outcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.620Z
+lastCollected: 2026-04-07T18:36:43.359Z
 estimatedTokens: 832
-keywords: [Outcome, expected, change, participants, driven, organization's, activity, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [Outcome, expected, change, participants, driven, organization's, activity, API, 59.0]
 ---
-
-# Outcome
 
 > Represents information about the expected change in participants that
          is driven by the organization's activity. This object is available in API version 59.0

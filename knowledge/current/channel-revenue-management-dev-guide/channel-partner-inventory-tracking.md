@@ -5,12 +5,10 @@ topic: channel-partner-inventory-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.034Z
+lastCollected: 2026-04-07T18:37:05.736Z
 estimatedTokens: 345
-keywords: [Channel, Partner, Inventory, Tracking, Track, sales, resale, data, Leverage, point-of-sale, calculate, improve, downstream, processes, ship]
+keywords: [Channel, Partner, Inventory, Track, sales, resale, Leverage, point-of-sale, calculate, improve, downstream, processes, ship, debit, claims, price, protection]
 ---
-
-# Channel Partner Inventory Tracking
 
 > Track channel partner inventory based on sales and resale data. Leverage point-of-sale
   data to calculate partner inventory and improve downstream processes, such as ship and debit

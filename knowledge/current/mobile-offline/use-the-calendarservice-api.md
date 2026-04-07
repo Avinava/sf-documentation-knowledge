@@ -5,12 +5,10 @@ topic: use-the-calendarservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.216Z
+lastCollected: 2026-04-07T18:38:15.734Z
 estimatedTokens: 1491
-keywords: [CalendarService, API, develop, Lightning, web, component, calendar-based, features, accessing, device’s, native, calendar, functionality, Add, Test]
+keywords: [CalendarService, API, develop, Lightning, web, calendar-based, features, accessing, device’s, native, calendar, functionality, Add, Test, Availability, Calendars, Events, Event, Remove, Implicit, Coercion]
 ---
-
-# Use the CalendarService API
 
 > To develop a Lightning web component with calendar-based features, use the
   CalendarService API as your method for accessing a device’s native calendar functionality.

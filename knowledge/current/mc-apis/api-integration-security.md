@@ -5,12 +5,10 @@ topic: api-integration-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.133Z
+lastCollected: 2026-04-07T18:40:15.160Z
 estimatedTokens: 1261
-keywords: [API, Integration, Security, Keep, considerations, mind, integrating, Salesforce, apps, Marketing, Cloud, general, guidelines, around, web]
+keywords: [API, Integration, Security, Keep, considerations, mind, integrating, Salesforce, apps, Marketing, Cloud, general, guidelines, around, web, application, penetration, testing, composite, app, review, OWASP, Top, Ten, checklist, Enforce, Least, Privilege, Secure, Storage, Transit, Authentication, Session, Management, Control, Sensitive, Errors, Cross, Site, Forgery, CSRF, HTML, Injection, Scripting, XSS, Arbitrary, Redirects, Remote, Code, Execution, Insecure, Software, SQL]
 ---
-
-# API Integration Security
 
 > Keep the following security considerations in mind when integrating your Salesforce apps with the Marketing Cloud API. For general guidelines around web application penetration testing for your composite app, review the OWASP Top Ten checklist.
 

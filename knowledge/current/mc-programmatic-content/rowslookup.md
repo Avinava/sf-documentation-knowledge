@@ -5,12 +5,10 @@ topic: rowslookup
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.589Z
+lastCollected: 2026-04-07T18:40:23.022Z
 estimatedTokens: 297
-keywords: [Rows.Lookup, Function, Ordinal, Columns, search, data, uses, numeric, number, rows, ret, **Overview**, **Syntax**, Examples]
+keywords: [Examples, Rows.Lookup, Function, Ordinal, Columns, search, uses, numeric, number, rows, ret, **Overview**, **Syntax**]
 ---
-
-# Rows.Lookup
 
 > Rows.Lookup(1, 2, 3, 4)
 

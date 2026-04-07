@@ -5,13 +5,11 @@ topic: standardfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.847Z
+lastCollected: 2026-04-07T18:36:03.054Z
 estimatedTokens: 676
 namespace: Reports
-keywords: [StandardFilter, standard, filter, defined, report, API, Usage, getName, getValue, setName, setValue]
+keywords: [StandardFilter, standard, filter, defined, report, API, getName, getValue, setName, setValue]
 ---
-
-# StandardFilter Class
 
 > Contains information about the standard filter defined in the report,
       such as the filter field API name and filter value.

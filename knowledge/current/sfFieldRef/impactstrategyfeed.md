@@ -5,12 +5,10 @@ topic: impactstrategyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.688Z
+lastCollected: 2026-04-07T18:39:44.344Z
 estimatedTokens: 360
-keywords: [ImpactStrategyFeed, Feed, tracking, ImpactStrategy]
+keywords: [ImpactStrategyFeed, ImpactStrategy]
 ---
-
-# ImpactStrategyFeed
 
 > Feed tracking for ImpactStrategy.
 

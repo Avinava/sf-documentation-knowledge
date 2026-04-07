@@ -5,12 +5,10 @@ topic: question-and-answers-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.301Z
+lastCollected: 2026-04-07T18:37:22.407Z
 estimatedTokens: 298
-keywords: [Question, Answers, Capability, feed, element, comments]
+keywords: [Question, Answers, Capability, comments]
 ---
-
-# Question and Answers Capability
 
 > If a feed element has this capability, it has a question and comments on the feed element
     are answers to the question.

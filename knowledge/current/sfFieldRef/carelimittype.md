@@ -5,13 +5,11 @@ topic: carelimittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.441Z
+lastCollected: 2026-04-07T18:39:31.810Z
 estimatedTokens: 254
 namespace: NamespacePrefix
 keywords: [CareLimitType, characteristics, limits, benefit, provision]
 ---
-
-# CareLimitType
 
 > Defines the characteristics of limits on benefit provision.
 

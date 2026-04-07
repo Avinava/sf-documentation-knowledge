@@ -5,12 +5,10 @@ topic: find-uncaught-exceptions-in-event-log-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.503Z
+lastCollected: 2026-04-07T18:38:58.365Z
 estimatedTokens: 276
-keywords: [Uncaught, Exceptions, Event, Log, Files, unhandled, exception, occurs, execution, platform, Apex, trigger, Monitoring, Examples, include]
+keywords: [Uncaught, Exceptions, Event, Log, Files, unhandled, exception, occurs, execution, platform, Apex, trigger, Monitoring, Examples, include, uncatchable, limit, doesn’t, catch]
 ---
-
-# Find Uncaught Exceptions in Event Log Files
 
 > If an unhandled exception occurs during the execution of your platform event Apex
   trigger, you can get information about the exception using event log files in Event Monitoring.

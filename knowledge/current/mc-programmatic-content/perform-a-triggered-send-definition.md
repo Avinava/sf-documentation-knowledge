@@ -5,12 +5,10 @@ topic: perform-a-triggered-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.842Z
+lastCollected: 2026-04-07T18:40:23.263Z
 estimatedTokens: 70
 keywords: [Perform, Triggered, Send, Definition]
 ---
-
-# Perform a Triggered Send Definition
 
 # Perform a Triggered Send Definition
 

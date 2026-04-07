@@ -5,13 +5,11 @@ topic: notification-setting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.820Z
+lastCollected: 2026-04-07T18:39:09.139Z
 estimatedTokens: 627
 namespace: String
 keywords: [Notification, Setting, reset, org]
 ---
-
-# Notification Setting
 
 > Get, set, and reset a notification setting for the
     org.

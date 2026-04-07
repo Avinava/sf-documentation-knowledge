@@ -5,12 +5,10 @@ topic: currencyobjectshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.081Z
+lastCollected: 2026-04-07T18:39:36.634Z
 estimatedTokens: 252
 keywords: [CurrencyObject__Share, Sharing, CurrencyObject__, CurrencyObject, _Share]
 ---
-
-# CurrencyObject__Share
 
 > Sharing for CurrencyObject__.
 

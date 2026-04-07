@@ -5,12 +5,10 @@ topic: searchresultheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.955Z
+lastCollected: 2026-04-07T18:37:39.911Z
 estimatedTokens: 1094
 keywords: [SearchResultHeader, search, result, metadata, columns, part, developerName, dataType, displayLabel]
 ---
-
-# SearchResultHeader Class
 
 > Contains information about the search result header field list. This
       list represents the metadata information of the columns that are part of the search

@@ -5,12 +5,10 @@ topic: acceptchat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.717Z
+lastCollected: 2026-04-07T18:36:48.771Z
 estimatedTokens: 191
-keywords: [acceptChat, Accepts, chat, API, version, 29.0, later, isn't, Omni-Channel, 37.0, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, acceptChat, Accepts, chat, API, 29.0, isn't, Omni-Channel, 37.0, Sample, Code–Visualforce]
 ---
-
-# acceptChat()
 
 > Accepts a chat request. Available in API version 29.0 or
             later.

@@ -5,12 +5,10 @@ topic: billing-schedule-recovery-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.981Z
+lastCollected: 2026-04-07T18:35:42.874Z
 estimatedTokens: 110
-keywords: [Billing, Schedule, Recovery, Input, representation, schedules, recover, associated, invoice]
+keywords: [Billing, Schedule, Recovery, schedules, recover, invoice]
 ---
-
-# Billing Schedule Recovery Input
 
 > Input representation of the details of the billing schedules to recover the associated
     invoice.

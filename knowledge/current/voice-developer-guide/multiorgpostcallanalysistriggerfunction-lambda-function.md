@@ -5,12 +5,10 @@ topic: multiorgpostcallanalysistriggerfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.135Z
+lastCollected: 2026-04-07T18:40:13.084Z
 estimatedTokens: 203
-keywords: [MultiorgPostCallAnalysisTriggerFunction, Lambda, Function, automatically, sentiment, data, contact, center’s, Amazon, bucket, post, call, analysis]
+keywords: [MultiorgPostCallAnalysisTriggerFunction, Lambda, Function, automatically, sentiment, contact, center’s, Amazon, bucket, post, call, analysis]
 ---
-
-# MultiorgPostCallAnalysisTriggerFunction Lambda Function
 
 > This Lambda function automatically gets sentiment data from a contact center’s Amazon S3
   bucket for post call analysis.

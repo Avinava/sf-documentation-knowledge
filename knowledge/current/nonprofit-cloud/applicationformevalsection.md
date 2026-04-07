@@ -5,12 +5,10 @@ topic: applicationformevalsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.096Z
+lastCollected: 2026-04-07T18:38:22.068Z
 estimatedTokens: 1209
-keywords: [ApplicationFormEvalSection, Application, Form, Evaluation, API, version, 66.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ApplicationFormEvalSection, Application, Form, Evaluation, API, 66.0]
 ---
-
-# ApplicationFormEvalSection
 
 > Represents a section of an Application Form Evaluation.  This object is
       available in API version 66.0 and later.

@@ -5,12 +5,10 @@ topic: net-zero-cloud-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.537Z
+lastCollected: 2026-04-07T18:38:17.122Z
 estimatedTokens: 754
-keywords: [Net, Zero, Cloud, Metadata, API, access, feature, settings, customize, user, Developer]
+keywords: [Net, Zero, Cloud, Metadata, API, feature, settings, customize, user, Developer]
 ---
-
-# Net Zero Cloud Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface. For more information about Metadata API and to find a complete

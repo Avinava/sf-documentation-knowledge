@@ -5,12 +5,10 @@ topic: get-started-with-the-java-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.206Z
+lastCollected: 2026-04-07T18:40:24.661Z
 estimatedTokens: 66
 keywords: [Started, Java, SDK]
 ---
-
-# Get Started with the Java SDK
 
 # Get Started with the Java SDK
 

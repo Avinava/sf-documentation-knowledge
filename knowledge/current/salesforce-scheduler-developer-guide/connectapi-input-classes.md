@@ -5,12 +5,10 @@ topic: connectapi-input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.263Z
+lastCollected: 2026-04-07T18:39:19.962Z
 estimatedTokens: 126
-keywords: [ConnectApi, Input, Classes, take, arguments, instances]
+keywords: [ConnectApi, Classes, take, arguments, instances]
 ---
-
-# ConnectApi Input Classes
 
 > Some ConnectApi methods take arguments that are instances of ConnectApi input classes.
 

@@ -5,12 +5,10 @@ topic: nlpsummarizationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.731Z
+lastCollected: 2026-04-07T18:36:13.017Z
 estimatedTokens: 107
 keywords: [NlpSummarizationResult, summary, obtained, result, NLP, Operation]
 ---
-
-# NlpSummarizationResult Class
 
 > Provides the summary obtained as result of NLP
         Operation.

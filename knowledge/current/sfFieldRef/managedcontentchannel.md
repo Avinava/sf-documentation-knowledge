@@ -5,12 +5,10 @@ topic: managedcontentchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.576Z
+lastCollected: 2026-04-07T18:39:47.966Z
 estimatedTokens: 469
-keywords: [ManagedContentChannel, CMS, channel, channels, correspond, managed, content, publishing, endpoints, They, deliver, published, Salesforce, workspaces, audience]
+keywords: [ManagedContentChannel, CMS, channel, channels, correspond, managed, content, publishing, endpoints, They, deliver, published, Salesforce, workspaces, audience, API, 55.0]
 ---
-
-# ManagedContentChannel
 
 > Represents the details of a CMS channel. CMS channels correspond to managed
          content publishing endpoints. They deliver published content from your Salesforce CMS

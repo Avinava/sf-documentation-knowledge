@@ -5,12 +5,10 @@ topic: taxparameters-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.734Z
+lastCollected: 2026-04-07T18:37:03.301Z
 estimatedTokens: 1662
-keywords: [TaxParameters, setters, populate, data, needed, tax, calculation, passed, callout, getIsCommitOnGetTax, getLegalEntityReferences, getSObjectID, getSObjectListofIds, getSObjectType, getTaxMethod]
+keywords: [TaxParameters, setters, populate, needed, tax, calculation, passed, callout, getIsCommitOnGetTax, getLegalEntityReferences, getSObjectID, getSObjectListofIds, getSObjectType, getTaxMethod, setSObjectListofIds, listOfSobjectIds, setSObjectID, sObjectId, setLegalEntityReferences, legalEntityReference, setSObjectType, sObjectTypeInstance, setTaxMethod, taxMethod, setIsCommitOnGetTax, isCommitOnGetTax]
 ---
-
-# TaxParameters Class
 
 > Contains a list of setters to populate the data needed for a tax
       calculation. The data is passed in the tax callout.

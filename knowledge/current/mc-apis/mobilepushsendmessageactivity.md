@@ -5,12 +5,10 @@ topic: mobilepushsendmessageactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.762Z
+lastCollected: 2026-04-07T18:40:17.946Z
 estimatedTokens: 395
 keywords: [MobilePushSendMessageActivity, activity, send, message, MobilePush]
 ---
-
-# MobilePushSendMessageActivity
 
 > The MobilePushSendMessageActivity object defines an activity used to send a message in MobilePush.
 

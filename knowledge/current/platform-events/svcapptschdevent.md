@@ -5,12 +5,10 @@ topic: svcapptschdevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.941Z
+lastCollected: 2026-04-07T18:38:59.886Z
 estimatedTokens: 847
-keywords: [SvcApptSchdEvent, service, appointment, event, included, streamed, notification, received, channels, parent, platform, events, can’t, subscribe, channel]
+keywords: [SvcApptSchdEvent, service, appointment, event, included, streamed, notification, received, channels, parent, platform, events, can’t, subscribe, channel, directly, API, 50.0]
 ---
-
-# SvcApptSchdEvent
 
 > Represents the service appointment event. This object is included in a streamed
       notification received on the channels for the parent platform events. You can’t subscribe to

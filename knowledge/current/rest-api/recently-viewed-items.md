@@ -5,12 +5,10 @@ topic: recently-viewed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.851Z
+lastCollected: 2026-04-07T18:36:21.082Z
 estimatedTokens: 469
-keywords: [Recently, Viewed, Items, accessed, were, referenced, current, user, Salesforce, stores, record, views, uses, generate, records]
+keywords: [Recently, Viewed, Items, accessed, were, referenced, current, user, Salesforce, stores, record, views, uses, generate, records, sidebar, auto-complete, options, search]
 ---
-
-# Recently Viewed Items
 
 > Gets the most recently accessed items that were viewed or
 			referenced by the current user. Salesforce stores information about record views in

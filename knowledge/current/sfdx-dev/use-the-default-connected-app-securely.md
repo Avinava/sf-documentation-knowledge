@@ -5,12 +5,10 @@ topic: use-the-default-connected-app-securely
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.807Z
+lastCollected: 2026-04-07T18:40:07.749Z
 estimatedTokens: 634
-keywords: [Connected, App, Securely, authorize, org, login, web, command, don't, specify, --client-id, flag, Salesforce, CLI, creates]
+keywords: [Connected, App, Securely, authorize, org, login, web, command, don't, specify, --client-id, flag, Salesforce, CLI, creates, However, refresh, tokens, never, expire, security, best, practice, recommends, days, fewer, Another, expiration, token, minutes, Similar, continue, secure, way, configure, policies]
 ---
-
-# Use the Default Connected App Securely
 
 > If you authorize an org with the org login web
     command, but don't specify the --client-id flag, Salesforce

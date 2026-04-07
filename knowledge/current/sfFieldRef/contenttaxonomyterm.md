@@ -5,12 +5,10 @@ topic: contenttaxonomyterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.937Z
+lastCollected: 2026-04-07T18:39:35.393Z
 estimatedTokens: 343
-keywords: [ContentTaxonomyTerm, term, content, taxonomy, Terms, describe, how, it's, they’re, organized, parent-child, relationships, hierarchy, API, version]
+keywords: [ContentTaxonomyTerm, term, content, taxonomy, Terms, describe, how, it's, they’re, organized, parent-child, relationships, hierarchy, API, 63.0]
 ---
-
-# ContentTaxonomyTerm
 
 > Represents a term in a content taxonomy. Terms describe what content is or
          how it's used, and they’re organized in parent-child relationships in the taxonomy

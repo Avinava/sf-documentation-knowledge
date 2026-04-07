@@ -5,12 +5,10 @@ topic: predictionbuildersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.992Z
+lastCollected: 2026-04-07T18:36:28.531Z
 estimatedTokens: 618
-keywords: [PredictionBuilderSettings, settings, determine, how, user, interact, Einstein, Prediction, Builder, extends, Metadata, inherits, fullName, File, Suffix]
+keywords: [PredictionBuilderSettings, settings, determine, how, user, interact, Einstein, Prediction, Builder, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PredictionBuilderSettings
 
 > Represents the settings that determine how a user can
       interact with Einstein Prediction Builder.

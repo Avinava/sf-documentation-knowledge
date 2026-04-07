@@ -5,12 +5,10 @@ topic: story-range-field-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.443Z
+lastCollected: 2026-04-07T18:36:58.941Z
 estimatedTokens: 144
-keywords: [Story, Range, Input, data]
+keywords: [Story, Range]
 ---
-
-# Story Range Field Value Input
 
 > The story data range property.
 

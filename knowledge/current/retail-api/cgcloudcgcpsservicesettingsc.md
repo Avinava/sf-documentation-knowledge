@@ -5,12 +5,10 @@ topic: cgcloudcgcpsservicesettingsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.658Z
+lastCollected: 2026-04-07T18:39:13.082Z
 estimatedTokens: 899
-keywords: [cgcloud__CGCPS_Service_Settings__c, custom, setting, either, enable, disable, CGCPS, service, data, mocking, develop, non-CGCPS, service-enabled, orgs, API]
+keywords: [cgcloud__CGCPS_Service_Settings__c, setting, either, enable, disable, CGCPS, service, mocking, develop, non-CGCPS, service-enabled, orgs, API, 54.0, cgcloud, _CGCPS, _Service, _Settings]
 ---
-
-# cgcloud__CGCPS_Service_Settings__c
 
 > Use this custom setting to either enable or disable CGCPS service
          data mocking. With this setting, you can develop non-CGCPS service-enabled orgs. This

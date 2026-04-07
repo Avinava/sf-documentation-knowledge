@@ -5,12 +5,10 @@ topic: posted-invoice-list-write-off-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:00.127Z
+lastCollected: 2026-04-07T18:35:45.124Z
 estimatedTokens: 283
-keywords: [Posted, Invoice, Write-Off, POST, credit, memos, total, charge, amount, close, Special, Access, Rules]
+keywords: [Posted, Invoice, Write-Off, POST, credit, memos, total, charge, amount, close]
 ---
-
-# Posted Invoice List Write-Off (POST)
 
 > Create credit memos with the total charge amount on the invoice as the
       write-off amount and close the invoice.

@@ -5,12 +5,10 @@ topic: scratch-org-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.479Z
+lastCollected: 2026-04-07T18:40:08.432Z
 estimatedTokens: 373
-keywords: [Scratch, Org, Settings, defining, preferences, definition, Because, Metadata, API, they’re, comprehensive, way, configure, setting, it’s]
+keywords: [Scratch, Org, Settings, defining, preferences, definition, Because, Metadata, API, they’re, comprehensive, way, configure, setting, it’s, orgs, provide, fine-grained, control, define, rather, enabling, disabling]
 ---
-
-# Scratch Org Settings
 
 > Scratch org settings are the format for defining org preferences in the scratch org
         definition. Because you can use all Metadata API settings, they’re the most comprehensive

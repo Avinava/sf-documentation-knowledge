@@ -5,12 +5,10 @@ topic: locationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.533Z
+lastCollected: 2026-04-07T18:39:47.017Z
 estimatedTokens: 254
-keywords: [LocationHistory, History, tracked, Location]
+keywords: [LocationHistory, tracked, Location]
 ---
-
-# LocationHistory
 
 > History for tracked fields of Location.
 

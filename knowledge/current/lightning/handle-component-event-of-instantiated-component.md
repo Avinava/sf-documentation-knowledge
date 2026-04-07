@@ -5,12 +5,10 @@ topic: handle-component-event-of-instantiated-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.986Z
+lastCollected: 2026-04-07T18:38:04.087Z
 estimatedTokens: 479
-keywords: [Handle, Component, Event, Instantiated, parent, handler, action, instantiates, child, markup]
+keywords: [Handle, Event, Instantiated, parent, handler, action, instantiates, child, markup]
 ---
-
-# Handle Component Event of Instantiated Component
 
 > A parent component can set a handler action when it instantiates a child component in
   its markup.

@@ -5,12 +5,10 @@ topic: create-a-branded-login-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.851Z
+lastCollected: 2026-04-07T18:38:47.804Z
 estimatedTokens: 414
 keywords: [Branded, Login, Customers, typically, log, app, traditional, login.salesforce.com, site, customize, domain, parts, provide, experience]
 ---
-
-# Create a Branded Login Page
 
 > Customers typically log in to your app using the traditional login.salesforce.com site. A branded login page enables you
         to customize this domain and parts of this login page so you can provide a branded

@@ -5,12 +5,10 @@ topic: replicated-field-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.512Z
+lastCollected: 2026-04-07T18:36:54.874Z
 estimatedTokens: 143
-keywords: [Replicated, Collection, Input, Analytics, dataset, known, connected]
+keywords: [Replicated, Collection, Analytics, dataset, known, connected]
 ---
-
-# Replicated Field Collection Input
 
 > A collection of fields for an Analytics replicated dataset, also known as a connected
   object.

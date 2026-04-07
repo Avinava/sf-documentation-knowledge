@@ -5,12 +5,10 @@ topic: webstoreusercreatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.997Z
+lastCollected: 2026-04-07T18:38:59.943Z
 estimatedTokens: 476
-keywords: [WebStoreUserCreatedEvent, Notifies, subscribers, creation, new, user, WebStore, API, version, 59.0, later, Calls, Subscription, Channel, Special]
+keywords: [WebStoreUserCreatedEvent, Notifies, subscribers, creation, new, user, WebStore, API, 59.0, Subscription, Channel]
 ---
-
-# WebStoreUserCreatedEvent
 
 > Notifies subscribers of the creation of a new user for a WebStore.
 		This object is available in API version 59.0 and later.

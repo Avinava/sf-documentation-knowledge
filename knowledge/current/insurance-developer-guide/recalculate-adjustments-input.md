@@ -5,12 +5,10 @@ topic: recalculate-adjustments-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.359Z
+lastCollected: 2026-04-07T18:37:51.377Z
 estimatedTokens: 122
-keywords: [Recalculate, Adjustments, Input, representation, recalculating, payment]
+keywords: [Recalculate, Adjustments, recalculating, payment]
 ---
-
-# Recalculate Adjustments Input
 
 > Input representation for recalculating the adjustments for existing payment details.
 

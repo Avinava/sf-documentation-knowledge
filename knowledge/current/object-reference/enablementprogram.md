@@ -5,12 +5,10 @@ topic: enablementprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.549Z
+lastCollected: 2026-04-07T18:38:30.371Z
 estimatedTokens: 1613
-keywords: [EnablementProgram, Enablement, program, includes, exercises, measurable, milestones, help, users, sales, reps, achieve, specific, outcomes, company’s]
+keywords: [EnablementProgram, Enablement, program, includes, exercises, measurable, milestones, help, users, sales, reps, achieve, specific, outcomes, company’s, revenue, goals, API, 56.0]
 ---
-
-# EnablementProgram
 
 > Represents an Enablement program, which includes exercises and
          measurable milestones to help users such as sales reps achieve specific outcomes related to

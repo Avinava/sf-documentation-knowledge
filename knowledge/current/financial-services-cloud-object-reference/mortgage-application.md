@@ -5,12 +5,10 @@ topic: mortgage-application
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.275Z
+lastCollected: 2026-04-07T18:37:34.851Z
 estimatedTokens: 300
-keywords: [Mortgage, Application, API, call, borrowers, declarations, incomes, addresses, financial, transactions, liabilities, assets, title, holders, loanApplicationId]
+keywords: [Mortgage, Application, API, call, borrowers, declarations, incomes, addresses, financial, transactions, liabilities, assets, title, holders, loanApplicationId, externalID, external, system]
 ---
-
-# Mortgage Application
 
 > Use a single API call to get and update mortgage application
       information like borrowers, declarations, incomes, addresses, financial transactions,

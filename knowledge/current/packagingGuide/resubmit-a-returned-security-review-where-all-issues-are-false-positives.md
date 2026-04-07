@@ -5,12 +5,10 @@ topic: resubmit-a-returned-security-review-where-all-issues-are-false-positives
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.741Z
+lastCollected: 2026-04-07T18:38:47.691Z
 estimatedTokens: 386
-keywords: [Resubmit, Security, Review, Issues, Positives, submission, verification, stage, scan, results, indicate, didn't, address, false-positives, documentation]
+keywords: [Resubmit, Security, Review, Issues, Positives, submission, verification, stage, scan, results, indicate, didn't, address, false-positives, documentation, status, paused, until, receive, wizard, upload, report, solution, There’s, fee, evaluate]
 ---
-
-# Resubmit a Returned Security Review Where All Issues Are False Positives
 
 > In the submission verification stage, if your scan results indicate security issues
         that you didn't address with false-positives documentation, the status of your review is set

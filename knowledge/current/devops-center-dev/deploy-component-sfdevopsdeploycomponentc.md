@@ -5,12 +5,10 @@ topic: deploy-component-sfdevopsdeploycomponentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.534Z
+lastCollected: 2026-04-07T18:37:28.554Z
 estimatedTokens: 640
-keywords: [Deploy, Component, sf_devops__Deploy_Component__c, Stores, aggregated, metadata, components, deployed, part, promotion, Includes, work, items, associated, child]
+keywords: [Deploy, sf_devops__Deploy_Component__c, Stores, aggregated, metadata, deployed, part, promotion, Includes, work, items, child, Deployment, Result, orgs, DevOps, Center, installed, _devops, _Deploy, _Component]
 ---
-
-# Deploy Component (sf_devops__Deploy_Component__c)
 
 > Stores the aggregated set of metadata components that must be deployed as
          part of a promotion. Includes the metadata components of all the work items associated with

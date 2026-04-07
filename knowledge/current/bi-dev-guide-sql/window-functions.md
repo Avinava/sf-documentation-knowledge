@@ -5,12 +5,10 @@ topic: window-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.501Z
+lastCollected: 2026-04-07T18:37:02.110Z
 estimatedTokens: 2128
-keywords: [Window, Functions, function, lets, perform, calculations, selection—or, window"—of, rows, current, row, Unlike, regular, aggregate, avg]
+keywords: [Window, Functions, function, lets, perform, calculations, selection—or, window"—of, rows, current, row, Unlike, regular, aggregate, avg, sum, count, isn’t, grouped, Aggregation, Ranking]
 ---
-
-# Window Functions
 
 > A window function lets you perform calculations on a selection—or "window"—of rows that
   are related to the current row. Unlike a regular aggregate function, such as avg(), sum(), or count(), the row output of a window function isn’t grouped into a

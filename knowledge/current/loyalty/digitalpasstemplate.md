@@ -5,12 +5,10 @@ topic: digitalpasstemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.649Z
+lastCollected: 2026-04-07T18:38:09.962Z
 estimatedTokens: 1137
-keywords: [DigitalPassTemplate, template, creating, digital, passes, loyalty, membership, cards, coupons, outlines, pass's, design, data, functionality, enabling]
+keywords: [DigitalPassTemplate, template, creating, digital, passes, loyalty, membership, cards, coupons, outlines, pass's, design, functionality, enabling, generation, multiple, unique, reusable, API, 66.0]
 ---
-
-# DigitalPassTemplate
 
 > Represents a template for creating digital passes, such as loyalty membership
          cards or coupons. It outlines the pass's design, data fields, and functionality, enabling

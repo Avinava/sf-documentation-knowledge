@@ -5,12 +5,10 @@ topic: actionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.577Z
+lastCollected: 2026-04-07T18:39:24.528Z
 estimatedTokens: 580
-keywords: [ActionPlan, instance, action, plan, tasks, created, template, API, version, 44.0, later]
+keywords: [ActionPlan, instance, action, plan, tasks, created, template, API, 44.0]
 ---
-
-# ActionPlan
 
 > Represents the instance of an action plan, a set of tasks created from
 			an action plan template. This object is available in API version 44.0 and

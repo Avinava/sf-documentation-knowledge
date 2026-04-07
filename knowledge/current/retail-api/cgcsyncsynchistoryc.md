@@ -5,12 +5,10 @@ topic: cgcsyncsynchistoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.871Z
+lastCollected: 2026-04-07T18:39:12.386Z
 estimatedTokens: 1260
-keywords: [cgc_sync__Sync_History__c, Stores, every, sync, that's, performed, mobile, app, along, status, associated, Key, Performance, Indicators, KPIs]
+keywords: [cgc_sync__Sync_History__c, Stores, every, sync, that's, performed, mobile, app, along, status, Key, Performance, Indicators, KPIs, API, 53.0, cgc, _sync, _History]
 ---
-
-# cgc_sync__Sync_History__c
 
 > Stores information about every sync that's performed on the mobile app along
          with its status information and associated Key Performance Indicators (KPIs). This

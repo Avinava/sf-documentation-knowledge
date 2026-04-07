@@ -5,12 +5,10 @@ topic: cgcloudfieldsalesactivityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.032Z
+lastCollected: 2026-04-07T18:39:13.441Z
 estimatedTokens: 1383
-keywords: [cgcloud__Field_Sales_Activity__c, Stores, sales, activity, FSA, covers, job, definition, API, version, 54.0, later, cgcloud, _Field, _Sales]
+keywords: [cgcloud__Field_Sales_Activity__c, Stores, sales, activity, FSA, covers, job, definition, API, 54.0, cgcloud, _Field, _Sales, _Activity]
 ---
-
-# cgcloud__Field_Sales_Activity__c
 
 > Stores the details of the field sales activity object. Field Sales
          Activity (FSA) covers a set of job definition lists. This object is available in API

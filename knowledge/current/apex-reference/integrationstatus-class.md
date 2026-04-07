@@ -5,12 +5,10 @@ topic: integrationstatus-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:18.146Z
+lastCollected: 2026-04-07T18:36:03.360Z
 estimatedTokens: 346
-keywords: [IntegrationStatus, Supports, synchronous, execution, Apex, integrations, B2B, Commerce, implementation, status, Usage]
+keywords: [IntegrationStatus, Supports, synchronous, execution, Apex, integrations, B2B, Commerce, implementation, status]
 ---
-
-# IntegrationStatus Class
 
 > Supports synchronous execution of Apex integrations for B2B Commerce.
       The implementation must return the status of the execution.

@@ -5,12 +5,10 @@ topic: businesshourssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.882Z
+lastCollected: 2026-04-07T18:36:23.157Z
 estimatedTokens: 1758
-keywords: [BusinessHoursSettings, metadata, manage, settings, business, hours, holidays, entitlements, entitlement, templates, campaigns, cases, extends, inherits, fullName]
+keywords: [BusinessHoursSettings, BusinessHoursEntry, Holidays, metadata, manage, settings, business, hours, entitlements, entitlement, templates, campaigns, cases, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# BusinessHoursSettings
 
 > Represents the metadata used to manage settings
             for business hours and holidays in entitlements, entitlement templates, campaigns, and

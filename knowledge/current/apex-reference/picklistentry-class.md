@@ -5,13 +5,11 @@ topic: picklistentry-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.535Z
+lastCollected: 2026-04-07T18:36:00.810Z
 estimatedTokens: 737
 namespace: Schema
-keywords: [PicklistEntry, picklist, entry, Usage, getLabel, getValue, isActive, isDefaultValue]
+keywords: [PicklistEntry, picklist, entry, getLabel, getValue, isActive, isDefaultValue]
 ---
-
-# PicklistEntry Class
 
 > Represents a picklist entry.
 

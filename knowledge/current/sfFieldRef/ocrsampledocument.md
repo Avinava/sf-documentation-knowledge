@@ -5,13 +5,11 @@ topic: ocrsampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.506Z
+lastCollected: 2026-04-07T18:39:49.964Z
 estimatedTokens: 318
 namespace: NamespacePrefix
 keywords: [OcrSampleDocument, sample, document, that's, extracting, mapping, customer]
 ---
-
-# OcrSampleDocument
 
 > Represents the details of a sample document or a document type that's
       used as a reference while extracting and mapping information from a customer document.

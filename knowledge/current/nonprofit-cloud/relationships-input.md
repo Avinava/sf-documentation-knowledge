@@ -5,12 +5,10 @@ topic: relationships-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.864Z
+lastCollected: 2026-04-07T18:38:20.600Z
 estimatedTokens: 279
-keywords: [Relationships, Input, representation, relationship, among, members, party, group]
+keywords: [Relationships, relationship, among, members, party, group]
 ---
-
-# Relationships Input
 
 > Input representation of the relationship among members of a party
          relationship group.

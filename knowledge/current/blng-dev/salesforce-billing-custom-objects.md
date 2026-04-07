@@ -5,12 +5,10 @@ topic: salesforce-billing-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.634Z
+lastCollected: 2026-04-07T18:37:04.256Z
 estimatedTokens: 3749
-keywords: [Salesforce, Billing, Custom, Objects, data, model, manage, invoices, payments, revenue]
+keywords: [Salesforce, Billing, model, manage, invoices, payments, revenue]
 ---
-
-# Salesforce Billing Custom Objects
 
 > The Salesforce Billing data model provides custom objects to manage invoices, payments,
   and revenue.

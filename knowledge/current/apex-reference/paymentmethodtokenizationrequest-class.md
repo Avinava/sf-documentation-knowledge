@@ -5,13 +5,11 @@ topic: paymentmethodtokenizationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.781Z
+lastCollected: 2026-04-07T18:36:02.002Z
 estimatedTokens: 2488
 namespace: CommercePayments
-keywords: [PaymentMethodTokenizationRequest, Stores, data, tokenize, card, payment, tokenization, process, occurs, gateway, replaces, sensitive, customer, number, CVV]
+keywords: [PaymentMethodTokenizationRequest, Stores, tokenize, card, payment, tokenization, process, occurs, gateway, replaces, sensitive, customer, number, CVV, unique, identification, symbols, handled, Salesforce, bank, allowing, store, token, storing, paymentGatewayId, address, bankPaymentMethod, cardPaymentMethod, savedByMerchant, equals, obj, hashCode, toString]
 ---
-
-# PaymentMethodTokenizationRequest Class
 
 > Stores data about a request to tokenize a card payment method. The
             tokenization process occurs in the payment gateway. This process replaces sensitive

@@ -5,12 +5,10 @@ topic: document-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.754Z
+lastCollected: 2026-04-07T18:35:45.754Z
 estimatedTokens: 277
-keywords: [Document, Output, representation, generated]
+keywords: [Document, generated]
 ---
-
-# Document Details
 
 > Output representation of the details of the generated document.
 

@@ -5,12 +5,10 @@ topic: billingaccountcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.237Z
+lastCollected: 2026-04-07T18:39:29.351Z
 estimatedTokens: 368
-keywords: [BillingAccountContact, junction, Billing, Account, objects, Contact, API, version, 62.0, later]
+keywords: [BillingAccountContact, junction, Billing, Account, Contact, API, 62.0]
 ---
-
-# BillingAccountContact
 
 > Represents a junction between Billing Account objects and Contact
          objects. This object is available in API version 62.0 and later.

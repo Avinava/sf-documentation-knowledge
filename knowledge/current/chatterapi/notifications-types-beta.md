@@ -5,12 +5,10 @@ topic: notifications-types-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.878Z
+lastCollected: 2026-04-07T18:37:14.928Z
 estimatedTokens: 187
 keywords: [Notifications, Beta, notification, actions]
 ---
-
-# Notifications Types (Beta)
 
 > Get supported notification type details and actions.
 

@@ -5,12 +5,10 @@ topic: credit-memo-apply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.231Z
+lastCollected: 2026-04-07T18:35:43.114Z
 estimatedTokens: 122
-keywords: [Credit, Memo, Apply, Input, representation, invoice]
+keywords: [Credit, Memo, Apply, invoice]
 ---
-
-# Credit Memo Apply Input
 
 > Input representation of the request to apply a credit memo to an invoice.
 

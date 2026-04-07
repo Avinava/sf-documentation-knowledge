@@ -5,12 +5,10 @@ topic: connectapiexternalauthidentityproviderparameterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.055Z
+lastCollected: 2026-04-07T18:36:05.390Z
 estimatedTokens: 327
-keywords: [External, auth, identity, provider, input]
+keywords: [External, auth, identity, provider]
 ---
-
-# ConnectApi.ExternalAuthIdentityProviderParameterInput
 
 > External auth identity provider parameter input.
 

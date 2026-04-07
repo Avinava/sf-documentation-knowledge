@@ -5,12 +5,10 @@ topic: dashboardcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.365Z
+lastCollected: 2026-04-07T18:39:36.958Z
 estimatedTokens: 226
-keywords: [DashboardComponent, dashboard, component, chart, metric, gauge, Access, read-only, API, version, 21.0, later]
+keywords: [DashboardComponent, dashboard, chart, metric, gauge, read-only, API, 21.0]
 ---
-
-# DashboardComponent
 
 > Represents a dashboard component, which can be a chart, metric,
 			table, or gauge on a dashboard. Access is read-only. This object is available in

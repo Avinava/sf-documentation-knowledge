@@ -5,12 +5,10 @@ topic: colordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.054Z
+lastCollected: 2026-04-07T18:39:34.488Z
 estimatedTokens: 230
-keywords: [ColorDefinition, color-related, metadata, custom, tab, API, version, 43.0, later]
+keywords: [ColorDefinition, color-related, metadata, tab, API, 43.0]
 ---
-
-# ColorDefinition
 
 > Represents the color-related metadata for a custom tab. This
 		object is available in API version 43.0 and later.

@@ -5,12 +5,10 @@ topic: story-day-of-week-field-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.404Z
+lastCollected: 2026-04-07T18:36:58.901Z
 estimatedTokens: 148
-keywords: [Story, Day, Week, Input, data]
+keywords: [Story, Day, Week]
 ---
-
-# Story Day of Week Field Value Input
 
 > The story data day of week property.
 

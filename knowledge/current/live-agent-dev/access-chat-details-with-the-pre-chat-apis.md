@@ -5,12 +5,10 @@ topic: access-chat-details-with-the-pre-chat-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.719Z
+lastCollected: 2026-04-07T18:38:05.946Z
 estimatedTokens: 337
-keywords: [Access, Chat, Pre-Chat, APIs, API, custom, Deployment, incorporate]
+keywords: [Chat, Pre-Chat, APIs, API, Deployment, incorporate]
 ---
-
-# Access Chat Details with the Pre-Chat APIs
 
 > Use the Pre-Chat API to access custom details from the Deployment API and incorporate
     them into pre-chat.

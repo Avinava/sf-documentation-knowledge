@@ -5,12 +5,10 @@ topic: exceptions-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.398Z
+lastCollected: 2026-04-07T18:36:17.626Z
 estimatedTokens: 1206
-keywords: [Exceptions, Apex, errors, events, disrupt, normal, flow, code, execution, throw, statements, generate, try, catch, finally]
+keywords: [Exceptions, Apex, errors, events, disrupt, normal, flow, code, execution, throw, statements, generate, try, catch, finally, gracefully, recover, Happens, Exception, Occurs, Unhandled, Emails, User]
 ---
-
-# Exceptions in Apex
 
 > Exceptions note errors and other events that disrupt the normal flow of
         code execution. throw statements are used to

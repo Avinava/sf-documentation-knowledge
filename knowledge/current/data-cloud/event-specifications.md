@@ -5,12 +5,10 @@ topic: event-specifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.451Z
+lastCollected: 2026-04-07T18:35:51.303Z
 estimatedTokens: 406
 keywords: [Event, Specifications, Engagement, Mobile, SDK, Salesforce, Interactions]
 ---
-
-# Event Specifications
 
 > Event specifications for Salesforce Interactions SDK.
 

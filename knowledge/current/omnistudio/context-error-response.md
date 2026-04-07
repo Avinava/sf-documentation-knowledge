@@ -5,12 +5,10 @@ topic: context-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.377Z
+lastCollected: 2026-04-07T18:36:39.036Z
 estimatedTokens: 88
-keywords: [Context, Error, Output, representation]
+keywords: [Context, Error]
 ---
-
-# Context Error Response
 
 > Output representation of context error.
 

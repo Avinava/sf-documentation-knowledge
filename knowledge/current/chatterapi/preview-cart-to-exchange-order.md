@@ -5,12 +5,10 @@ topic: preview-cart-to-exchange-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.536Z
+lastCollected: 2026-04-07T18:37:15.599Z
 estimatedTokens: 294
 keywords: [Preview, Cart, Exchange, Order, Retrieves, action, considers, summary, balance, difference, Expected, change, financial]
 ---
-
-# Preview Cart to Exchange Order
 
 > Retrieves a preview of an exchange order. This action considers the order summary
     balance and the difference between the return order and the cart that represents the exchange

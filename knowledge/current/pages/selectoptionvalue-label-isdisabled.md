@@ -5,12 +5,10 @@ topic: selectoptionvalue-label-isdisabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.393Z
+lastCollected: 2026-04-07T18:38:48.348Z
 estimatedTokens: 139
 keywords: [SelectOption, label, isDisabled, Creates, new, instance, disabled, setting]
 ---
-
-# SelectOption(value, label, isDisabled)
 
 > Creates a new instance of the SelectOption class using the specified value, label, and
 disabled setting.

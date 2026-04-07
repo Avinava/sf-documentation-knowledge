@@ -5,12 +5,10 @@ topic: get-hubv1nestedtagstagid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.131Z
+lastCollected: 2026-04-07T18:40:17.283Z
 estimatedTokens: 496
-keywords: [hub, nestedtags, tagId, tag, associated, **Overview**, Usage]
+keywords: [hub, nestedtags, tagId, tag, **Overview**]
 ---
-
-# GET /hub/v1/nestedtags/{tagId}
 
 > Returns the tag associated with the specified tagId.
 

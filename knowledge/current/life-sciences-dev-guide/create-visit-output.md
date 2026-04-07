@@ -5,12 +5,10 @@ topic: create-visit-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.448Z
+lastCollected: 2026-04-07T18:37:55.907Z
 estimatedTokens: 163
-keywords: [Visit, Output, representation]
+keywords: [Visit]
 ---
-
-# Create Visit Output
 
 > Output representation of the create visit request.
 

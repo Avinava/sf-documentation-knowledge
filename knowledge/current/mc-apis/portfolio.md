@@ -5,12 +5,10 @@ topic: portfolio
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.989Z
+lastCollected: 2026-04-07T18:40:18.176Z
 estimatedTokens: 1114
-keywords: [Portfolio, file, Marketing, Cloud, account, cannot, upload, item, previously, deleted, application, retains, old, filename, case, articles, SOAP, API]
+keywords: [Portfolio, file, Marketing, Cloud, account, cannot, upload, item, previously, deleted, application, retains, old, filename, case, image, remains, email, cam, Items, articles, SOAP, API]
 ---
-
-# Portfolio
 
 > The Portfolio object indicates a file within the Portfolio of a Marketing Cloud account. You cannot upload a Portfolio item with the same name as a previously deleted Portfolio item. The application retains the old file and filename in case the Portfolio image remains in use by an existing email cam
 

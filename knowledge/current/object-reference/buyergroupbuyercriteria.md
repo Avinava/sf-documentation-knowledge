@@ -5,12 +5,10 @@ topic: buyergroupbuyercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:36.079Z
+lastCollected: 2026-04-07T18:38:27.059Z
 estimatedTokens: 630
-keywords: [BuyerGroupBuyerCriteria, Associates, buyer, group, enabled, webstores, supporting, multiple, languages, currencies, BuyerCriteria, define, API, version, 58.0]
+keywords: [BuyerGroupBuyerCriteria, Associates, buyer, group, enabled, webstores, supporting, multiple, languages, currencies, BuyerCriteria, define, API, 58.0]
 ---
-
-# BuyerGroupBuyerCriteria
 
 > Associates a buyer group that is enabled for webstores supporting multiple
          languages and currencies with BuyerCriteria that define those languages and

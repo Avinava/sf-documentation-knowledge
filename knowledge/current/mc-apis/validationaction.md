@@ -5,12 +5,10 @@ topic: validationaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.818Z
+lastCollected: 2026-04-07T18:40:21.087Z
 estimatedTokens: 75
 keywords: [ValidationAction, base, validation, actions]
 ---
-
-# ValidationAction
 
 > The ValidationAction object is the base class of all validation actions.
 

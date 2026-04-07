@@ -5,12 +5,10 @@ topic: modify-a-service-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.757Z
+lastCollected: 2026-04-07T18:39:21.622Z
 estimatedTokens: 716
-keywords: [Modify, Service, Appointment, Salesforce, Scheduler, APIs, case, explains, how, change, engagement, channel, resource, time, slot]
+keywords: [Modify, Service, Appointment, Salesforce, Scheduler, APIs, case, explains, how, change, engagement, channel, resource, time, slot, status, However, similar, fashion, territory, service-territories, Connect, API]
 ---
-
-# Modify a Service Appointment
 
 > Use Salesforce Scheduler APIs to modify a service appointment. This use case
    explains how you can change the engagement channel, service resource, time slot, or status of an

@@ -5,12 +5,10 @@ topic: territoryuserdowntime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.094Z
+lastCollected: 2026-04-07T18:38:01.999Z
 estimatedTokens: 706
-keywords: [TerritoryUserDowntime, blocks, time, normal, business, hours, various, reasons, sales, representatives, their, territories, API, version, 65.0]
+keywords: [TerritoryUserDowntime, blocks, time, normal, business, hours, various, reasons, sales, representatives, their, territories, API, 65.0]
 ---
-
-# TerritoryUserDowntime
 
 > Defines the blocks of time during normal business hours for various types of
          reasons when sales representatives are out of their territories. This object is available

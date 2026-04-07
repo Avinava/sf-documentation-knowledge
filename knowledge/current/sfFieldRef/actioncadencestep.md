@@ -5,12 +5,10 @@ topic: actioncadencestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.503Z
+lastCollected: 2026-04-07T18:39:24.455Z
 estimatedTokens: 1228
 keywords: [ActionCadenceStep, step, cadence, steps, belong, how, connected]
 ---
-
-# ActionCadenceStep
 
 > Represents a step in a cadence. Use ActionCadenceStep to learn which
 			steps belong to a cadence, and how the steps are connected to each other.

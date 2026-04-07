@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.198Z
+lastCollected: 2026-04-07T18:36:59.688Z
 estimatedTokens: 128
-keywords: [Smart, Data, Discovery, Narrative, row, Einstein, story]
+keywords: [Smart, Discovery, Narrative, row, Einstein, story]
 ---
-
-# Smart Data Discovery Narrative Field
 
 > A single row of narrative data for an Einstein Discovery story.
 

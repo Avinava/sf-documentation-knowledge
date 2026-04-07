@@ -5,12 +5,10 @@ topic: worktypegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.082Z
+lastCollected: 2026-04-07T18:36:53.434Z
 estimatedTokens: 922
-keywords: [WorkTypeGroup, grouping, work, categorize, appointments, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [WorkTypeGroup, grouping, work, categorize, appointments, API, 58.0]
 ---
-
-# WorkTypeGroup
 
 > Represents a grouping of work types used to categorize types of available
          appointments. This object is available in API version 58.0 and later.

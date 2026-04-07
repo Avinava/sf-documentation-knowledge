@@ -5,12 +5,10 @@ topic: log-deployment-activity-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.007Z
+lastCollected: 2026-04-07T18:38:06.258Z
 estimatedTokens: 443
 keywords: [Log, Deployment, Activity, APIs, occurs, particular]
 ---
-
-# Log Deployment Activity with the Deployment APIs
 
 > Log the activity that occurs in a particular deployment.
 

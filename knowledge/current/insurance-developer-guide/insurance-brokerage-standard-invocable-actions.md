@@ -5,12 +5,10 @@ topic: insurance-brokerage-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.699Z
+lastCollected: 2026-04-07T18:37:52.914Z
 estimatedTokens: 278
 keywords: [Insurance, Brokerage, Standard, Invocable, Actions]
 ---
-
-# Insurance Brokerage Standard Invocable Actions
 
 > Learn more about the standard invocable actions available with Insurance
     Brokerage.

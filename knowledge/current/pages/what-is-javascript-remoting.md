@@ -5,12 +5,10 @@ topic: what-is-javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.441Z
+lastCollected: 2026-04-07T18:38:51.701Z
 estimatedTokens: 175
-keywords: [JavaScript, Remoting, tool, front-end, developers, AJAX, Visualforce, directly, Apex, controller, run, asynchronous, actions, decoupling, perform]
+keywords: [JavaScript, Remoting, tool, front-end, developers, AJAX, Visualforce, directly, Apex, controller, run, asynchronous, actions, decoupling, perform, tasks, having, reload, entire]
 ---
-
-# What Is JavaScript Remoting?
 
 > JavaScript remoting is a tool that
   front-end developers can use to make an AJAX request from a Visualforce page directly to an Apex

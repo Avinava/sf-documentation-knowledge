@@ -5,12 +5,10 @@ topic: when-should-i-use-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.634Z
+lastCollected: 2026-04-07T18:36:17.861Z
 estimatedTokens: 822
-keywords: [Apex, Salesforce, ability, customize, prebuilt, apps, fit, organization, complex, business, processes, implement, custom, functionality, user]
+keywords: [Apex, Visualforce, Salesforce, ability, customize, prebuilt, apps, fit, organization, complex, business, processes, implement, functionality, user, interfaces, variety, tools, including, Lightning, SOAP, API]
 ---
-
-# When Should I Use Apex?
 
 > Salesforce provides the ability to customize prebuilt apps to
             fit your organization. For complex business processes, you can implement custom

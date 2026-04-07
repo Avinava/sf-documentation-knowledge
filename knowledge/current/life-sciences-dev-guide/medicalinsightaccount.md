@@ -5,12 +5,10 @@ topic: medicalinsightaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.084Z
+lastCollected: 2026-04-07T18:38:00.875Z
 estimatedTokens: 387
-keywords: [MedicalInsightAccount, account, provided, medical, insight, Calls]
+keywords: [MedicalInsightAccount, account, provided, medical, insight]
 ---
-
-# MedicalInsightAccount
 
 > Represents the account that provided the medical insight.
 

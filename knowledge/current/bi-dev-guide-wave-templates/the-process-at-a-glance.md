@@ -5,12 +5,10 @@ topic: the-process-at-a-glance
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.974Z
+lastCollected: 2026-04-07T18:37:02.518Z
 estimatedTokens: 590
 keywords: [Process, Glance, creating, source, app, CRM, Analytics, follow, steps, work, template, sections, developer, provide, step]
 ---
-
-# The Process at a Glance
 
 > After creating a source app in CRM Analytics, follow these steps to create and work with
     a template. The next sections of the developer guide provide details about each

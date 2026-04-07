@@ -5,12 +5,10 @@ topic: link-metadata-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.908Z
+lastCollected: 2026-04-07T18:37:20.074Z
 estimatedTokens: 67
 keywords: [Link, Metadata, Collection]
 ---
-
-# Link Metadata Collection
 
 > Collection of link metadata.
 

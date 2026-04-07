@@ -5,12 +5,10 @@ topic: engagement-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:10.376Z
+lastCollected: 2026-04-07T18:39:03.565Z
 estimatedTokens: 645
-keywords: [Engagement, Data, Model, stores, start, date, end, time, topic, attendees, interaction, customer, customer-authorized, representative, service]
+keywords: [Engagement, Model, stores, start, date, end, time, topic, attendees, interaction, customer, customer-authorized, representative, service, CSR, contact, center, agent, CCA, add, EngagementAttendee, EngagementInteraction, EngagementTopic, support, quick, actions, help, CCAs, perform, routine, quickly, navigating, multiple, pages, personalized, views, interactions, topics, filters, give, Experience, Cloud, users, Industries, clouds, they]
 ---
-
-# Engagement Data Model
 
 > The engagement data model
   stores details, such as start date and end date, time, topic, and attendees, about an interaction

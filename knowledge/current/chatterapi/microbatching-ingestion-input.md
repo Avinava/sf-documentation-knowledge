@@ -5,12 +5,10 @@ topic: microbatching-ingestion-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.303Z
+lastCollected: 2026-04-07T18:37:09.071Z
 estimatedTokens: 263
-keywords: [Microbatching, Ingestion, Input]
+keywords: [Microbatching, Ingestion]
 ---
-
-# Microbatching Ingestion Input
 
 > Microbatching ingestion input.
 

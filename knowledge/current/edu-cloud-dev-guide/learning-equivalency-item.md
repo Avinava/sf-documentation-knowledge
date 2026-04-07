@@ -5,12 +5,10 @@ topic: learning-equivalency-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.539Z
+lastCollected: 2026-04-07T18:37:29.618Z
 estimatedTokens: 275
-keywords: [Learning, Equivalency, Item, Output, representation, source, target, mappings]
+keywords: [Learning, Equivalency, Item, source, target, mappings]
 ---
-
-# Learning Equivalency Item
 
 > Output representation of a single learning equivalency with its source and target
     mappings.

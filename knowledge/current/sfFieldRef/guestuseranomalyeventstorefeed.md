@@ -5,12 +5,10 @@ topic: guestuseranomalyeventstorefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.729Z
+lastCollected: 2026-04-07T18:39:43.318Z
 estimatedTokens: 366
-keywords: [GuestUserAnomalyEventStoreFeed, Feed, tracking, GuestUserAnomalyEventStore]
+keywords: [GuestUserAnomalyEventStoreFeed, GuestUserAnomalyEventStore]
 ---
-
-# GuestUserAnomalyEventStoreFeed
 
 > Feed tracking for GuestUserAnomalyEventStore.
 

@@ -5,12 +5,10 @@ topic: recipe-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.807Z
+lastCollected: 2026-04-07T18:39:19.487Z
 estimatedTokens: 347
-keywords: [Recipe, Definition, data, prep, recipes]
+keywords: [Recipe, Definition, prep, recipes]
 ---
-
-# Recipe Definition
 
 > The definition for a data prep recipe. Available on for R3 recipes.
 

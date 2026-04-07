@@ -5,12 +5,10 @@ topic: adorderitemadspacespec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.745Z
+lastCollected: 2026-04-07T18:38:12.024Z
 estimatedTokens: 621
-keywords: [AdOrderItemAdSpaceSpec, junction, order, item, space, specification, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [AdOrderItemAdSpaceSpec, junction, order, item, space, specification, API, 62.0]
 ---
-
-# AdOrderItemAdSpaceSpec
 
 > Represents a junction between an ad order item and an ad space
          specification. This object is available in API version 62.0 and later.

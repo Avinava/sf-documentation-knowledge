@@ -5,12 +5,10 @@ topic: salesforce-crm-voucher-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.431Z
+lastCollected: 2026-04-07T18:35:53.392Z
 estimatedTokens: 391
-keywords: [Salesforce, CRM, Voucher, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, issued, program]
+keywords: [Salesforce, CRM, Voucher, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, issued, program, member, DMO]
 ---
-
-# Salesforce CRM: Voucher Mapping
 
 > These data mappings are for the Voucher DLO found in the Loyalty Management bundle of
   the Salesforce CRM Connector for Data Cloud. Data is about a voucher issued to a loyalty program

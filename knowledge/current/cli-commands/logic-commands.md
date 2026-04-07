@@ -5,12 +5,10 @@ topic: logic-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.359Z
+lastCollected: 2026-04-07T18:35:39.145Z
 estimatedTokens: 2317
-keywords: [logic, Commands, results, test, run, Beta, Examples, Flags]
+keywords: [Flags, logic, Commands, results, test, run, Beta, Examples]
 ---
-
-# logic Commands
 
 > Get the results of a test run.
 

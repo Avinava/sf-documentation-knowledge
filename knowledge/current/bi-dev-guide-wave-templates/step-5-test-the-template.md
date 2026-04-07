@@ -5,12 +5,10 @@ topic: step-5-test-the-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.118Z
+lastCollected: 2026-04-07T18:37:02.659Z
 estimatedTokens: 1277
-keywords: [Step, Test, Template, throughout, development, process, creating, exporting, files, edit, deploy, testing, results, reexport, again]
+keywords: [Step, Test, Template, throughout, development, process, creating, exporting, files, edit, deploy, testing, results, reexport, again, until, you’ve, achieved, result, want]
 ---
-
-# Step 5: Test the Template
 
 > Test the template throughout the development process. After creating the template and
   exporting its files, you edit them, and then deploy them for testing. Based on the results,

@@ -5,12 +5,10 @@ topic: claimitemrelatedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.489Z
+lastCollected: 2026-04-07T18:39:33.915Z
 estimatedTokens: 363
-keywords: [ClaimItemRelatedObject, relationship, claim, item, attributes, referenced, relevant, product, API, version, 65.0, later]
+keywords: [ClaimItemRelatedObject, relationship, claim, item, attributes, referenced, relevant, product, API, 65.0]
 ---
-
-# ClaimItemRelatedObject
 
 > Represents the relationship between a claim item and a related object. The
          values of the attributes from the related object are referenced by the relevant product

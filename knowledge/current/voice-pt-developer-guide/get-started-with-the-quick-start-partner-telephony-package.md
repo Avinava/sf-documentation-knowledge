@@ -5,12 +5,10 @@ topic: get-started-with-the-quick-start-partner-telephony-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.651Z
+lastCollected: 2026-04-07T18:40:13.576Z
 estimatedTokens: 1452
-keywords: [Started, Quick, Start, Partner, Telephony, Package, explore, features, telephony-enabled, org, We’ve, published, sample, install, contact]
+keywords: [Started, Quick, Start, Partner, Telephony, Package, explore, features, telephony-enabled, org, We’ve, published, sample, install, contact, center]
 ---
-
-# Get Started with the Quick Start Partner Telephony Package
 
 > You can explore the partner telephony features in your partner telephony-enabled org.
   We’ve published a sample quick start package that you can install in your org, create a contact

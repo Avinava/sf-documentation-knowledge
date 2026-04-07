@@ -5,12 +5,10 @@ topic: voicecallshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.186Z
+lastCollected: 2026-04-07T18:40:06.077Z
 estimatedTokens: 247
 keywords: [VoiceCallShare, Sharing, VoiceCall]
 ---
-
-# VoiceCallShare
 
 > Sharing for VoiceCall.
 

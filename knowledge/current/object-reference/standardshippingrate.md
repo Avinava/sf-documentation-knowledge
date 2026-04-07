@@ -5,12 +5,10 @@ topic: standardshippingrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:49.975Z
+lastCollected: 2026-04-07T18:38:41.725Z
 estimatedTokens: 772
-keywords: [StandardShippingRate, Standard, shipping, rate, store, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [StandardShippingRate, Standard, shipping, rate, store, API, 59.0]
 ---
-
-# StandardShippingRate
 
 > Standard shipping rate for a store. This object is available in API
       version 59.0 and later.

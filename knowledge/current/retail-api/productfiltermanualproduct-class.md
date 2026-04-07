@@ -5,12 +5,10 @@ topic: productfiltermanualproduct-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.141Z
+lastCollected: 2026-04-07T18:39:10.612Z
 estimatedTokens: 459
-keywords: [ProductFilter.ManualProduct, APEX, programmatic, access, Manual, Products, associated, instance, TPM_ProductFilter, TPM, _ProductFilter.ManualProduct, isIncluded, API, Version, getProductId]
+keywords: [ProductFilter.ManualProduct, APEX, programmatic, Manual, Products, instance, TPM_ProductFilter, TPM, _ProductFilter.ManualProduct, isIncluded, API, getProductId, ManualProduct, setIncluded, setProductId]
 ---
-
-# ProductFilter.ManualProduct Class
 
 > This APEX class provides programmatic access to a Manual Products associated to an
   instance of TPM_ProductFilter.

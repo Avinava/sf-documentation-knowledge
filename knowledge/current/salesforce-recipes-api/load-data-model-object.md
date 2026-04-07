@@ -5,12 +5,10 @@ topic: load-data-model-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.592Z
+lastCollected: 2026-04-07T18:39:19.275Z
 estimatedTokens: 120
-keywords: [Load, Data, Model, node, recipe]
+keywords: [Load, Model, node, recipe]
 ---
-
-# Load Data Model Object
 
 > A data model object for a load node in a recipe.
 

@@ -5,12 +5,10 @@ topic: resourcepreferencehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.552Z
+lastCollected: 2026-04-07T18:40:00.281Z
 estimatedTokens: 267
-keywords: [ResourcePreferenceHistory, History, tracked, ResourcePreference]
+keywords: [ResourcePreferenceHistory, tracked, ResourcePreference]
 ---
-
-# ResourcePreferenceHistory
 
 > History for tracked fields of ResourcePreference.
 

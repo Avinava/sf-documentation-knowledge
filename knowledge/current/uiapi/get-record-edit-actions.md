@@ -5,12 +5,10 @@ topic: get-record-edit-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.878Z
+lastCollected: 2026-04-07T18:40:10.859Z
 estimatedTokens: 516
 keywords: [Record, Edit, Actions]
 ---
-
-# Get Record Edit Actions
 
 > Get the actions on a record edit page.
 

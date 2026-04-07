@@ -5,12 +5,10 @@ topic: insurance-plans-eligibility-check-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.763Z
+lastCollected: 2026-04-07T18:37:51.827Z
 estimatedTokens: 481
-keywords: [Insurance, Plans, Eligibility, Check, POST, PATCH, Evaluate, product, configuration, rules, group, census, member, their, selected]
+keywords: [Insurance, Plans, Eligibility, Check, POST, PATCH, Evaluate, product, configuration, group, census, member, their, selected, plan, coverage, options, initial, enrollment, Reevaluate, added, removed]
 ---
-
-# Insurance Plans Eligibility Check (POST, PATCH)
 
 > Evaluate product configuration rules for a group census member based on their selected
   plan and coverage options during initial enrollment (POST). Reevaluate plan eligibility for a

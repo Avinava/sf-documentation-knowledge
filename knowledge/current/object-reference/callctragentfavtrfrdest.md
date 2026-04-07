@@ -5,12 +5,10 @@ topic: callctragentfavtrfrdest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.249Z
+lastCollected: 2026-04-07T18:38:27.243Z
 estimatedTokens: 480
-keywords: [CallCtrAgentFavTrfrDest, transfer, destination, marked, starred, favorite, Omni-Channel, softphone, contact, center, agent, voice, call, transfers, API]
+keywords: [CallCtrAgentFavTrfrDest, transfer, destination, marked, starred, favorite, Omni-Channel, softphone, contact, center, agent, voice, call, transfers, API, 55.0]
 ---
-
-# CallCtrAgentFavTrfrDest
 
 > Represents a transfer destination that has been marked (starred) as a
          favorite in the Omni-Channel softphone by a contact center agent for voice call

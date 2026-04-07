@@ -5,12 +5,10 @@ topic: individual-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.110Z
+lastCollected: 2026-04-07T18:37:51.056Z
 estimatedTokens: 116
-keywords: [Individual, Enrollment, Input, representation]
+keywords: [Individual, Enrollment]
 ---
-
-# Individual Enrollment Input
 
 > Input representation for individual enrollment.
 

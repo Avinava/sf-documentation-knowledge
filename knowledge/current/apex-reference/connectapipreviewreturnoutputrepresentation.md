@@ -5,12 +5,10 @@ topic: connectapipreviewreturnoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.619Z
+lastCollected: 2026-04-07T18:36:10.890Z
 estimatedTokens: 137
 keywords: [Expected, financial, proposed, action]
 ---
-
-# ConnectApi.PreviewReturnOutputRepresentation
 
 > Expected financial values for a proposed return
     action.

@@ -5,12 +5,10 @@ topic: manage-gift-transaction-designations-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.828Z
+lastCollected: 2026-04-07T18:37:28.920Z
 estimatedTokens: 259
-keywords: [Manage, Gift, Transaction, Designations, Action, Creates, manages, Designation, records, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Manage, Gift, Transaction, Designations, Action, Creates, manages, Designation, records, REST, HTTP]
 ---
-
-# Manage Gift Transaction Designations Action
 
 > Creates and manages Gift Transaction Designation records for a gift
       transaction.

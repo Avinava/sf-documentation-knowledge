@@ -5,12 +5,10 @@ topic: group-member-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.835Z
+lastCollected: 2026-04-07T18:37:08.648Z
 estimatedTokens: 124
-keywords: [Group, Member, Input, Chatter]
+keywords: [Group, Member, Chatter]
 ---
-
-# Group Member Input
 
 > Chatter group member input.
 

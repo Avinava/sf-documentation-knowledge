@@ -5,12 +5,10 @@ topic: create-proxy-signups-for-oauth-and-api-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.886Z
+lastCollected: 2026-04-07T18:38:47.837Z
 estimatedTokens: 1386
-keywords: [Proxy, Signups, OAuth, API, Access, SignupRequest, programmatically, org, any, system-generated, emails, sent, user]
+keywords: [Proxy, Signups, OAuth, API, SignupRequest, programmatically, org, any, system-generated, emails, sent, user]
 ---
-
-# Create Proxy Signups for OAuth and API Access
 
 > Using the SignupRequest object, you can programmatically create an org without any
     system-generated emails being sent to the user.

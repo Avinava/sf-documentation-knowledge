@@ -5,12 +5,10 @@ topic: get-a-file-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.774Z
+lastCollected: 2026-04-07T18:36:19.002Z
 estimatedTokens: 126
 keywords: [File, Preview, Call]
 ---
-
-# Get a File Preview
 
 > Call a method to get a file preview.
 

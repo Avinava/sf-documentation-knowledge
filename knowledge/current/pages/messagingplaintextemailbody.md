@@ -5,12 +5,10 @@ topic: messagingplaintextemailbody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.981Z
+lastCollected: 2026-04-07T18:38:50.225Z
 estimatedTokens: 233
-keywords: [messaging, plainTextEmailBody, plain, text, non-HTML, version, email, Attributes]
+keywords: [Attributes, messaging, plainTextEmailBody, plain, text, non-HTML, email]
 ---
-
-# messaging:plainTextEmailBody
 
 > The plain text (non-HTML) version of the email body.
 

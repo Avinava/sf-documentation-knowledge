@@ -5,12 +5,10 @@ topic: field-service-data-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:01.028Z
+lastCollected: 2026-04-07T18:36:46.895Z
 estimatedTokens: 922
-keywords: [Service, Data, Objects, suite, standard, custom, Salesforce, relate, different, ways, serve, foundation, managed, package, mobile]
+keywords: [Service, suite, standard, Salesforce, relate, different, ways, serve, foundation, managed, package, mobile, app]
 ---
-
-# Field Service Data Objects
 
 > Field Service is based on a suite of standard and custom Salesforce objects that relate
     to each other in different ways. These objects also serve as the foundation of the Field Service

@@ -5,12 +5,10 @@ topic: describe-global
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.095Z
+lastCollected: 2026-04-07T18:40:27.316Z
 estimatedTokens: 120
-keywords: [Describe, objects, org, their, metadata, iOS, Android]
+keywords: [Android, Describe, org, their, metadata, iOS]
 ---
-
-# Describe Global
 
 > Returns a list of all available objects in your org and their metadata.
 

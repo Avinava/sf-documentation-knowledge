@@ -5,12 +5,10 @@ topic: articletype-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.780Z
+lastCollected: 2026-04-07T18:37:54.073Z
 estimatedTokens: 686
-keywords: [ArticleType, Layout, metadata, associated, article, layouts, determine, users, view, edit, entering, data, sections, appear, articles]
+keywords: [LayoutSection, LayoutColumn, LayoutItem, ArticleType, Layout, metadata, article, layouts, determine, users, view, edit, entering, sections, appear, articles, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# ArticleType Layout
 
 > Represents the metadata associated with an article type page layout.
             Article type layouts determine which fields users can view and edit when entering data

@@ -5,12 +5,10 @@ topic: connectapiapplicationsrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.571Z
+lastCollected: 2026-04-07T18:35:41.430Z
 estimatedTokens: 148
-keywords: [ConnectApi.ApplicationsRequest, Connect, API, representation, application, item, input, credit, memo, apply]
+keywords: [ConnectApi.ApplicationsRequest, Connect, API, application, item, credit, memo, apply]
 ---
-
-# ConnectApi.ApplicationsRequest
 
 > Connect API representation of an application item input request for credit memo apply api
 

@@ -5,12 +5,10 @@ topic: analytics-enable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.361Z
+lastCollected: 2026-04-07T18:36:53.718Z
 estimatedTokens: 239
 keywords: [analytics, enable, target, org, Examples, Command]
 ---
-
-# analytics enable
 
 > Enable Analytics in the target org.
 

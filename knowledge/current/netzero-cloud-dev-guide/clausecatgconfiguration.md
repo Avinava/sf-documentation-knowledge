@@ -5,12 +5,10 @@ topic: clausecatgconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.867Z
+lastCollected: 2026-04-07T18:38:16.420Z
 estimatedTokens: 601
-keywords: [ClauseCatgConfiguration, configuration, clause, category, categorize, disclosure, compliance, reports, standardized, templates, document, Parent, File, Suffix, Directory, user, API, version, 57.0, later]
+keywords: [ClauseCatgConfiguration, configuration, clause, category, categorize, disclosure, compliance, reports, standardized, templates, document, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, user, API, 57.0, SOAP, REST]
 ---
-
-# ClauseCatgConfiguration
 
 > Represents the configuration about the clause category that can be
          used in a response document by the user. This object is available in API version 57.0

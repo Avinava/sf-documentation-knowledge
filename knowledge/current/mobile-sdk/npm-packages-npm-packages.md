@@ -6,13 +6,10 @@ topic: npm-packages-npm-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.878Z
+lastCollected: 2026-04-07T18:40:26.190Z
 estimatedTokens: 705
-keywords: [npm, Packages, mobile, developers, want, SDK, “black, box”, begin, creating, apps, quickly, possible, case, Salesforce]
+keywords: [npm, Packages, mobile, developers, want, SDK, “black, box”, begin, creating, apps, quickly, possible, case, Salesforce, package, installs, command, line, tool, Terminal, window, Windows, prompt]
 ---
-
-# npm Packages npm
-         Packages
 
 > Most mobile developers want to use Mobile SDK as a “black
       box” and begin creating apps as quickly as possible. For this use case Salesforce

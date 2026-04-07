@@ -5,12 +5,10 @@ topic: lists-of-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.726Z
+lastCollected: 2026-04-07T18:36:17.946Z
 estimatedTokens: 777
-keywords: [sObjects, contain, among, elements, bulk, processing, data, Auto-populating, SOQL, Query, Adding, Retrieving, Record, Generation, Array]
+keywords: [sObjects, contain, among, bulk, processing, Auto-populating, SOQL, Query, Adding, Retrieving, Record, Generation, Array, Notation, One-Dimensional]
 ---
-
-# Lists of sObjects
 
 > Lists can contain sObjects among other types of elements.
 Lists of sObjects can be used for bulk processing of data.

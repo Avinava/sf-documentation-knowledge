@@ -5,12 +5,10 @@ topic: connectapipicklistvalues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.540Z
+lastCollected: 2026-04-07T18:36:10.814Z
 estimatedTokens: 315
 keywords: [ConnectApi.PicklistValues, Picklist, scoped, record, dependent, includes, immediate, controlling, how, they, map]
 ---
-
-# ConnectApi.PicklistValues
 
 > Picklist values for a field, scoped to a record type. If a picklist is dependent, this
     response includes the values of its immediate controlling field and how they map to the

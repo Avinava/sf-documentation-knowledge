@@ -5,13 +5,11 @@ topic: benefitdisbursementadjdetail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.318Z
+lastCollected: 2026-04-07T18:39:00.387Z
 estimatedTokens: 608
 namespace: PublicSectrSltn
 keywords: [BenefitDisbursementAdjDetail, benefit, disbursement, adjustment, eligible, assignment, adjustmentAmount, adjustmentReason, baaId]
 ---
-
-# BenefitDisbursementAdjDetail Class
 
 > This class contains the benefit disbursement adjustment details for
       the eligible benefit assignment.

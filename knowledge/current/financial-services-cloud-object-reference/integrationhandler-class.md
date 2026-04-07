@@ -5,12 +5,10 @@ topic: integrationhandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.364Z
+lastCollected: 2026-04-07T18:37:33.792Z
 estimatedTokens: 249
-keywords: [IntegrationHandler, callable, fetch, financial, transaction, data, Usage]
+keywords: [IntegrationHandler, callable, fetch, financial, transaction]
 ---
-
-# IntegrationHandler Class
 
 > Use the callable IntegrationHandler class to fetch financial
   transaction data.

@@ -5,12 +5,10 @@ topic: calcmatrixcolumnrangehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.720Z
+lastCollected: 2026-04-07T18:39:30.994Z
 estimatedTokens: 274
-keywords: [CalcMatrixColumnRangeHistory, History, tracked, CalcMatrixColumnRange]
+keywords: [CalcMatrixColumnRangeHistory, tracked, CalcMatrixColumnRange]
 ---
-
-# CalcMatrixColumnRangeHistory
 
 > History for tracked fields of CalcMatrixColumnRange.
 

@@ -5,12 +5,10 @@ topic: rest-resources-for-unit-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.891Z
+lastCollected: 2026-04-07T18:36:31.284Z
 estimatedTokens: 473
-keywords: [REST, Resources, Unit, Testing, Retrieve, execute, Apex, flow, tests, place, view, Test, Discovery, API, asynchronously]
+keywords: [REST, Resources, Unit, Testing, Retrieve, execute, Apex, flow, tests, place, view, Test, Discovery, API, asynchronously, synchronously, Runner, APIs, Tooling]
 ---
-
-# REST Resources for Unit Testing
 
 > Retrieve and execute Apex and flow tests in one place. Get a complete view of your
     tests by using the Test Discovery API. Execute tests asynchronously or synchronously by using

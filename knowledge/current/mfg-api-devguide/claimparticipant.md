@@ -5,12 +5,10 @@ topic: claimparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.372Z
+lastCollected: 2026-04-07T18:38:13.655Z
 estimatedTokens: 356
-keywords: [ClaimParticipant, junction, associates, Claim, Account, participants, Manufacturing, Cloud, API, version, 58.0, later, Calls]
+keywords: [ClaimParticipant, junction, associates, Claim, Account, participants, Manufacturing, Cloud, API, 58.0]
 ---
-
-# ClaimParticipant
 
 > A junction object that associates the Claim object with the Account
          object. This object represents the participants of a claim. This object is available

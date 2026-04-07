@@ -5,12 +5,10 @@ topic: datatype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.912Z
+lastCollected: 2026-04-07T18:36:32.367Z
 estimatedTokens: 1018
-keywords: [DataType, EntityDefinition, EntityParticle, FieldDefinition, simplify, queries, Tooling, API, version, 34.0, later, SOAP, Calls, REST, HTTP]
+keywords: [DataType, Limitations, EntityDefinition, EntityParticle, FieldDefinition, simplify, queries, Tooling, API, 34.0, SOAP, REST, HTTP, SOQL]
 ---
-
-# DataType
 
 > Represents the datatype of a field. Use this object with EntityDefinition,
         EntityParticle, or FieldDefinition to simplify queries. Available in Tooling API version

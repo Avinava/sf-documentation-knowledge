@@ -5,12 +5,10 @@ topic: insurancepolicytransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.045Z
+lastCollected: 2026-04-07T18:39:08.306Z
 estimatedTokens: 1136
-keywords: [InsurancePolicyTransaction, transaction, change, affects, premium, insurance, policy, endorsement, renewal, cancellation, API, version, 60.0, later, Calls]
+keywords: [InsurancePolicyTransaction, transaction, change, affects, premium, insurance, policy, endorsement, renewal, cancellation, API, 60.0]
 ---
-
-# InsurancePolicyTransaction
 
 > Represents a transaction related to a change that affects the premium of an
          insurance policy, such as an endorsement, renewal, or cancellation. This object is

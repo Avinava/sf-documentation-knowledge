@@ -5,12 +5,10 @@ topic: salesforce-maps-apex-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.721Z
+lastCollected: 2026-04-07T18:38:10.986Z
 estimatedTokens: 1516
-keywords: [Salesforce, Maps, Apex, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Platform, server]
+keywords: [Salesforce, Maps, Apex, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Platform, server, conjunction, API, sample, code, documentation, starting, point, implementation]
 ---
-
-# Salesforce Maps Apex Methods
 
 > Apex is a typed, object-oriented programming language that allows developers to execute
     flow and transaction control statements on the Salesforce Platform server, in conjunction with

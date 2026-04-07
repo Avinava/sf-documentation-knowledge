@@ -5,12 +5,10 @@ topic: borrower-declaration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.987Z
+lastCollected: 2026-04-07T18:37:34.525Z
 estimatedTokens: 890
-keywords: [Borrower, Declaration, Input, representation, declarations]
+keywords: [Borrower, Declaration, declarations]
 ---
-
-# Borrower Declaration Input
 
 > Input representation for Borrower declarations
 

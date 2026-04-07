@@ -5,12 +5,10 @@ topic: emailtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.637Z
+lastCollected: 2026-04-07T18:40:16.782Z
 estimatedTokens: 205
 keywords: [EmailType, email, Requests, cannot, included, ignored, Items, case, insensitive]
 ---
-
-# EmailType
 
 > The EmailType object specifies type of email. Requests cannot update the EmailType. If the EmailType is included in an update request, it is ignored.
 

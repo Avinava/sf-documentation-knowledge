@@ -5,12 +5,10 @@ topic: forecastingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.874Z
+lastCollected: 2026-04-07T18:36:26.333Z
 estimatedTokens: 5895
-keywords: [ForecastingSettings, Forecasts, settings, options, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, ForecastingCategoryMapping, ForecastingDisplayedFamilySettings]
+keywords: [ForecastingSettings, ForecastingCategoryMapping, ForecastingDisplayedFamilySettings, ForecastingSubmissionSettings, ForecastingTypeSettings, AdjustmentsSettings, ForecastingGroup, ForecastingGroupItem, ForecastRangeSettings, OpportunityListFieldsLabelMapping, QuotasSettings, WeightedSourceCategory, Forecasts, settings, options, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, OpportunityListFields​SelectedSettings, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ForecastingSettings
 
 > Represents the Forecasts settings options. This
             type extends the Metadata metadata type and inherits its fullName

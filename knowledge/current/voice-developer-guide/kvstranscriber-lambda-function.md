@@ -5,12 +5,10 @@ topic: kvstranscriber-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.967Z
+lastCollected: 2026-04-07T18:40:12.907Z
 estimatedTokens: 481
 keywords: [kvsTranscriber, Lambda, Function, actual, real-time, transcription, work, directly, invoked, contact, flow, triggered, kvsConsumerTrigger, call, manually]
 ---
-
-# kvsTranscriber Lambda Function
 
 > This Lambda function does the actual real-time transcription work.
       This function is not directly invoked from a contact flow. It is triggered by the

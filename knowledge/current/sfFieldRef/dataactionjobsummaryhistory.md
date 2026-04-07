@@ -5,12 +5,10 @@ topic: dataactionjobsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.408Z
+lastCollected: 2026-04-07T18:39:37.013Z
 estimatedTokens: 271
-keywords: [DataActionJobSummaryHistory, History, tracked, DataActionJobSummary]
+keywords: [DataActionJobSummaryHistory, tracked, DataActionJobSummary]
 ---
-
-# DataActionJobSummaryHistory
 
 > History for tracked fields of DataActionJobSummary.
 

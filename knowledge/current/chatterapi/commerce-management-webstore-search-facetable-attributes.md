@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-facetable-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.794Z
+lastCollected: 2026-04-07T18:37:12.680Z
 estimatedTokens: 166
 keywords: [Commerce, Management, Webstore, Search, Facetable, Attributes]
 ---
-
-# Commerce Management Webstore Search, Facetable Attributes
 
 > Get and update facetable attributes.
 

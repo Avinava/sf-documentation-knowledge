@@ -5,12 +5,10 @@ topic: asset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.166Z
+lastCollected: 2026-04-07T18:37:34.728Z
 estimatedTokens: 541
-keywords: [Asset, Input, borrower's, co-borrower's, current, personal, real]
+keywords: [Asset, borrower's, co-borrower's, current, personal, real]
 ---
-
-# Asset Input
 
 > Represents details about the borrower's and co-borrower's current
       personal and real property.

@@ -5,12 +5,10 @@ topic: user-profiles-photo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.086Z
+lastCollected: 2026-04-07T18:37:16.136Z
 estimatedTokens: 991
 keywords: [User, Profiles, Photo, profile, post, crop]
 ---
-
-# User Profiles Photo
 
 > The user profile photo. Get, post, and crop the
     photo.

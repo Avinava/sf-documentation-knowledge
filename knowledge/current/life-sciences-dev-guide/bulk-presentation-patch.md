@@ -5,12 +5,10 @@ topic: bulk-presentation-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.064Z
+lastCollected: 2026-04-07T18:37:55.495Z
 estimatedTokens: 378
-keywords: [Bulk, Presentation, PATCH, associated, content, upload, files, PDF, ZIP, associating, metadata, Health, Cloud, Starter, Life]
+keywords: [Bulk, Presentation, PATCH, content, upload, files, PDF, ZIP, associating, metadata, Health, Cloud, Starter, Life, Sciences, Commercial, Admin, Permission, accessing, API, know, Email, Template, Intelligent]
 ---
-
-# Bulk Presentation (PATCH)
 
 > Update a presentation and its associated content in bulk. You can upload presentation
     files as PDF or ZIP and associating metadata. The Health Cloud Starter

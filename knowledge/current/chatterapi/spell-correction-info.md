@@ -5,12 +5,10 @@ topic: spell-correction-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.056Z
+lastCollected: 2026-04-07T18:37:23.173Z
 estimatedTokens: 184
 keywords: [Spell, Correction, Info, search]
 ---
-
-# Spell Correction Info
 
 > Spell correction information for object search.
 

@@ -5,12 +5,10 @@ topic: nonprofit-cloud-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.666Z
+lastCollected: 2026-04-07T18:38:21.527Z
 estimatedTokens: 466
-keywords: [Nonprofit, Cloud, Data, Model, objects, relationships]
+keywords: [Nonprofit, Cloud, Model, relationships]
 ---
-
-# Nonprofit Cloud Data Model
 
 > Learn about the objects and relationships within Nonprofit Cloud
 

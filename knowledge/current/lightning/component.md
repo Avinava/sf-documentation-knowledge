@@ -5,12 +5,10 @@ topic: component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.149Z
+lastCollected: 2026-04-07T18:38:05.338Z
 estimatedTokens: 1293
-keywords: [Component, work, components]
+keywords: [work]
 ---
-
-# Component
 
 > Component contains methods to work with
   components.

@@ -5,12 +5,10 @@ topic: simulation-step-result-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.825Z
+lastCollected: 2026-04-07T18:36:40.531Z
 estimatedTokens: 227
-keywords: [Simulation, Step, Result, Output, representation, results]
+keywords: [Simulation, Step, Result, results]
 ---
-
-# Simulation Step Result Output
 
 > Output representation of the simulation results of a
     step.

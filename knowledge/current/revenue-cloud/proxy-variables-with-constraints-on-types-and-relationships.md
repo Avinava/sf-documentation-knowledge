@@ -5,12 +5,10 @@ topic: proxy-variables-with-constraints-on-types-and-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.702Z
+lastCollected: 2026-04-07T18:35:42.588Z
 estimatedTokens: 2431
-keywords: [Proxy, Variables, Constraints, Relationships, including, parent, root, sibling, Cardinality, Examples, Full, Partial, Defining, Relations, Enforcing]
+keywords: [Cardinality, Parent, Proxy, Variables, Constraints, Relationships, including, root, sibling, Examples, Full, Partial, Defining, Relations, Enforcing, Conditional, via, require, Count, Similarity, Difference, Key, Characteristics, Standards, Compliance, Synchronization, Attribute, Explanation, this.quantity, Calculation]
 ---
-
-# Proxy Variables with Constraints on Types and Relationships
 
 > Use proxy variables to reference the variables of related types, including parent,
     root, and sibling types.

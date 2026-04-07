@@ -5,12 +5,10 @@ topic: protected-components-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:03.561Z
+lastCollected: 2026-04-07T18:38:56.095Z
 estimatedTokens: 371
-keywords: [Protected, Components, Managed, Packages, Developers, mark, certain, can’t, linked, referenced, created, subscriber, org, developer, component]
+keywords: [Protected, Managed, Packages, Developers, mark, certain, can’t, linked, referenced, created, subscriber, org, developer, future, release, worrying, failing, installations, However, marked, unprotected, released, globally, Considerations, Sandboxes]
 ---
-
-# Protected Components in Managed Packages
 
 > Developers can mark certain components as protected. Protected components
       can’t be linked to or referenced by components created in a subscriber org. A developer can

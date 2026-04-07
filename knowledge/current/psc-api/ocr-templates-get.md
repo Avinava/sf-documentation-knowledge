@@ -5,12 +5,10 @@ topic: ocr-templates-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.701Z
+lastCollected: 2026-04-07T18:39:03.834Z
 estimatedTokens: 237
 keywords: [OCR, Templates, Retrieve, active]
 ---
-
-# OCR Templates (GET)
 
 > Retrieve a list of active OCR templates.
 

@@ -5,12 +5,10 @@ topic: medicationtherapyreviewshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.096Z
+lastCollected: 2026-04-07T18:39:48.554Z
 estimatedTokens: 254
 keywords: [MedicationTherapyReviewShare, Sharing, MedicationTherapyReview]
 ---
-
-# MedicationTherapyReviewShare
 
 > Sharing for MedicationTherapyReview.
 

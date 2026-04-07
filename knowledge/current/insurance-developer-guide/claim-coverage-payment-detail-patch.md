@@ -5,12 +5,10 @@ topic: claim-coverage-payment-detail-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.527Z
+lastCollected: 2026-04-07T18:37:51.572Z
 estimatedTokens: 645
 keywords: [Claim, Coverage, Payment, Detail, PATCH, Modify, record, loss, expense]
 ---
-
-# Claim Coverage Payment Detail (PATCH)
 
 > Modify an existing claim coverage payment detail record for both loss and expense
         types.

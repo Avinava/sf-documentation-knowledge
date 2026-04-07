@@ -5,12 +5,10 @@ topic: use-promotion-business-objects-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.500Z
+lastCollected: 2026-04-07T18:39:11.002Z
 estimatedTokens: 383
-keywords: [Promotion, Business, Objects, API, accessed, REST, Aura, Components, Lightning, Web, Component]
+keywords: [Aura, Promotion, Business, API, accessed, REST, Lightning, Web]
 ---
-
-# Use Promotion Business Objects API
 
 > Promotion Business Object API can be accessed through REST API, Aura Components, and
         Lightning Web Component.

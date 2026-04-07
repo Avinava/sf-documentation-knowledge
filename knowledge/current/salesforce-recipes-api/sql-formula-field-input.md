@@ -5,12 +5,10 @@ topic: sql-formula-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.011Z
+lastCollected: 2026-04-07T18:39:18.739Z
 estimatedTokens: 405
-keywords: [SQL, Formula, Input, base, recipe, node]
+keywords: [SQL, Formula, base, recipe, node]
 ---
-
-# SQL Formula Field Input
 
 > The base SQL formula field for a recipe node.
 

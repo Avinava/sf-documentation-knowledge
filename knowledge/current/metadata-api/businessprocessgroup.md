@@ -5,12 +5,10 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.900Z
+lastCollected: 2026-04-07T18:36:23.182Z
 estimatedTokens: 853
-keywords: [BusinessProcessGroup, surveys, track, customers’, experiences, across, different, stages, their, lifecycle, extends, Metadata, inherits, fullName, File]
+keywords: [BusinessProcessGroup, BusinessProcessDefinition, BusinessProcessFeedback, surveys, track, customers’, experiences, across, different, stages, their, lifecycle, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# BusinessProcessGroup
 
 > Represents the surveys used to track customers’ experiences
     across different stages in their lifecycle. This type extends the Metadata metadata type and inherits its 

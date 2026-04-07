@@ -5,12 +5,10 @@ topic: accountterritoryassignmentruleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.699Z
+lastCollected: 2026-04-07T18:38:24.567Z
 estimatedTokens: 625
-keywords: [AccountTerritoryAssignmentRuleItem, row, selection, criteria, AccountTerritoryAssignmentRule, Sales, Territories, enabled, Calls, Special, Access, Rules, Usage]
+keywords: [AccountTerritoryAssignmentRuleItem, row, selection, criteria, AccountTerritoryAssignmentRule, Sales, Territories, enabled]
 ---
-
-# AccountTerritoryAssignmentRuleItem
 
 > A row of selection criteria for an AccountTerritoryAssignmentRule
    object. Available if Sales Territories has been enabled.

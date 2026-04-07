@@ -5,12 +5,10 @@ topic: orchestration-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.969Z
+lastCollected: 2026-04-07T18:37:15.016Z
 estimatedTokens: 172
 keywords: [Orchestration, Resources, instances, instance]
 ---
-
-# Orchestration Resources
 
 > Get orchestration instances or details about an
     orchestration instance.

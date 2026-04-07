@@ -5,12 +5,10 @@ topic: adcreativesizetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.627Z
+lastCollected: 2026-04-07T18:38:11.918Z
 estimatedTokens: 884
-keywords: [AdCreativeSizeType, size, creative, pixels, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AdCreativeSizeType, size, creative, pixels, API, 54.0]
 ---
-
-# AdCreativeSizeType
 
 > Represents the size of an ad creative such as 728 x 90 pixels.
       This object is available in API version 54.0 and later.

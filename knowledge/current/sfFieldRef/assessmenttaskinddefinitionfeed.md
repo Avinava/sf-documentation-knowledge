@@ -5,12 +5,10 @@ topic: assessmenttaskinddefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.635Z
+lastCollected: 2026-04-07T18:39:27.619Z
 estimatedTokens: 366
-keywords: [AssessmentTaskIndDefinitionFeed, Feed, tracking, AssessmentTaskIndDefinition]
+keywords: [AssessmentTaskIndDefinitionFeed, AssessmentTaskIndDefinition]
 ---
-
-# AssessmentTaskIndDefinitionFeed
 
 > Feed tracking for AssessmentTaskIndDefinition.
 

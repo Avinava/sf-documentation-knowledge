@@ -5,12 +5,10 @@ topic: record-layout-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.077Z
+lastCollected: 2026-04-07T18:40:12.088Z
 estimatedTokens: 467
 keywords: [Record, Layout, Item]
 ---
-
-# Record Layout Item
 
 > An item in a record layout.
 

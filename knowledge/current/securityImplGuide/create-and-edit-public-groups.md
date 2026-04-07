@@ -5,12 +5,10 @@ topic: create-and-edit-public-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.250Z
+lastCollected: 2026-04-07T18:39:22.139Z
 estimatedTokens: 1063
-keywords: [Edit, Groups, help, configure, users’, access, records, features, administrators, delegated]
+keywords: [Edit, Groups, help, configure, users’, records, features, administrators, delegated]
 ---
-
-# Create and Edit Public Groups
 
 > Create public groups to help configure your users’ access to records and other
       features. Only administrators and delegated administrators can create and edit public

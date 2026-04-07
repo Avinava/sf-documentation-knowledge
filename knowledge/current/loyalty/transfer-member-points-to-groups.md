@@ -5,12 +5,10 @@ topic: transfer-member-points-to-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.523Z
+lastCollected: 2026-04-07T18:38:08.837Z
 estimatedTokens: 253
-keywords: [Transfer, Member, Points, Groups, Transfers, Individual, Corporate, members’, contributions, associated, REST, HTTP, Inputs]
+keywords: [Inputs, Transfer, Member, Points, Groups, Transfers, Individual, Corporate, members’, contributions, REST, HTTP]
 ---
-
-# Transfer Member Points to Groups
 
 > Transfers Individual or Corporate type members’ points contributions to
    the members’ associated groups.

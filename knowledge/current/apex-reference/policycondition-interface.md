@@ -5,13 +5,11 @@ topic: policycondition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.987Z
+lastCollected: 2026-04-07T18:36:13.293Z
 estimatedTokens: 921
 namespace: TxnSecurity
-keywords: [PolicyCondition, Evaluates, event, against, transaction, security, policy, triggers, Usage, evaluate]
+keywords: [PolicyCondition, Evaluates, event, against, transaction, security, policy, triggers, evaluate]
 ---
-
-# PolicyCondition Interface
 
 > Evaluates an event against a transaction security policy. If the
       event triggers the policy, true is

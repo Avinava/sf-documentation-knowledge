@@ -5,12 +5,10 @@ topic: the-appexchange-security-review-wizard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.803Z
+lastCollected: 2026-04-07T18:38:47.750Z
 estimatedTokens: 314
 keywords: [AppExchange, Security, Review, Wizard, Submit, solutions, Partner, Console, visit, track, progress, submission, feedback, Salesforce, communicate]
 ---
-
-# The AppExchange Security Review Wizard
 
 > Submit your solutions for security review using the security review wizard in the
   AppExchange Partner Console. After you submit, visit the wizard to track the progress of the

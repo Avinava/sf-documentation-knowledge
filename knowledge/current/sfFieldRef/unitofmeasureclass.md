@@ -5,12 +5,10 @@ topic: unitofmeasureclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.704Z
+lastCollected: 2026-04-07T18:40:04.440Z
 estimatedTokens: 333
-keywords: [UnitOfMeasureClass, standard, unit, measure, dimension, API, version, 63.0, later]
+keywords: [UnitOfMeasureClass, standard, unit, measure, dimension, API, 63.0]
 ---
-
-# UnitOfMeasureClass
 
 > Represents a standard unit of measure dimension. This object is
       available in API version 63.0 and later.

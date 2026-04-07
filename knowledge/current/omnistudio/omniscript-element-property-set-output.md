@@ -5,12 +5,10 @@ topic: omniscript-element-property-set-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:54.311Z
+lastCollected: 2026-04-07T18:36:40.037Z
 estimatedTokens: 516
-keywords: [Omniscript, Element, Output, representation, configuration, elements]
+keywords: [Omniscript, configuration]
 ---
-
-# Omniscript Element Property Set Output
 
 > Output representation of the property set configuration of the Omniscript
     elements.

@@ -5,12 +5,10 @@ topic: post-contactsv1addressesemailsearch
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.511Z
+lastCollected: 2026-04-07T18:40:18.710Z
 estimatedTokens: 289
-keywords: [POST, contacts, addresses, email, search, Retrieves, contact, key, channel, **Overview**, Usage]
+keywords: [POST, contacts, addresses, email, search, Retrieves, contact, key, channel, **Overview**]
 ---
-
-# POST /contacts/v1/addresses/email/search
 
 > Retrieves the contact key for one or more email channel addresses.
 

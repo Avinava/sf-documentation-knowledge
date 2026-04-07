@@ -5,12 +5,10 @@ topic: scriptutilhttpget
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.054Z
+lastCollected: 2026-04-07T18:40:23.489Z
 estimatedTokens: 431
 keywords: [Script.Util.HttpGet, Function, Ordinal, **Overview**, **Syntax**]
 ---
-
-# Script.Util.HttpGet
 
 > Script.Util.HttpGet(1)
 

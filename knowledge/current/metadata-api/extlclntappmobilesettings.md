@@ -5,12 +5,10 @@ topic: extlclntappmobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.411Z
+lastCollected: 2026-04-07T18:36:25.916Z
 estimatedTokens: 425
 keywords: [ExtlClntAppMobileSettings, external, client, app’s, mobile, app, settings, screen, lock, device, Parent, File, Suffix, Directory, Location]
 ---
-
-# ExtlClntAppMobileSettings
 
 > Represents an external client app’s mobile app settings, such as screen lock on a mobile device.
 

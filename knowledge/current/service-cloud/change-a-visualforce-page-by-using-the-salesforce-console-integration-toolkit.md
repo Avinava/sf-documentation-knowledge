@@ -5,12 +5,10 @@ topic: change-a-visualforce-page-by-using-the-salesforce-console-integration-too
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.516Z
+lastCollected: 2026-04-07T18:36:50.774Z
 estimatedTokens: 613
 keywords: [Change, Visualforce, Salesforce, Console, Integration, Toolkit, implementation, look, different, how, user]
 ---
-
-# Change a Visualforce Page by Using the Salesforce Console Integration Toolkit
 
 > Each implementation of Salesforce Console Integration Toolkit can look different.
         This example shows how to change the Salesforce console user interface using the Salesforce

@@ -5,12 +5,10 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.608Z
+lastCollected: 2026-04-07T18:38:39.094Z
 estimatedTokens: 2559
-keywords: [Promotion, B2B, D2C, stores, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [Promotion, B2B, D2C, stores, API, 52.0]
 ---
-
-# Promotion
 
 > Represents a promotion for B2B or D2C stores. This object is available
       in API version 52.0 and later.

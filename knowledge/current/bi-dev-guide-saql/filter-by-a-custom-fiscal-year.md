@@ -5,12 +5,10 @@ topic: filter-by-a-custom-fiscal-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:13.792Z
+lastCollected: 2026-04-07T18:37:00.299Z
 estimatedTokens: 46
-keywords: [Filter, Custom, Fiscal, Year, Here’s, how, date]
+keywords: [Filter, Fiscal, Year, Here’s, how, date]
 ---
-
-# Filter by a Custom Fiscal Year
 
 > Here’s how to filter by a custom fiscal year date.
 

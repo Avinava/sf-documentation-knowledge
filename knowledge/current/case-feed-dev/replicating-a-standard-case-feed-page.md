@@ -5,12 +5,10 @@ topic: replicating-a-standard-case-feed-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.110Z
+lastCollected: 2026-04-07T18:37:04.817Z
 estimatedTokens: 472
-keywords: [Replicating, Standard, Case, Feed, support, CaseFeed, component, includes, elements, Attributes, Code, Sample]
+keywords: [Replicating, Standard, Case, support, CaseFeed, includes, Attributes, Code, Sample]
 ---
-
-# Replicating a Standard Case Feed Page
 
 > The support:CaseFeed component includes all
                 of the elements of the standard Case Feed page:

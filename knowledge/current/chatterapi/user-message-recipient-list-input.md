@@ -5,12 +5,10 @@ topic: user-message-recipient-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.806Z
+lastCollected: 2026-04-07T18:37:10.498Z
 estimatedTokens: 107
-keywords: [User, Message, Recipient, Input]
+keywords: [User, Message, Recipient]
 ---
-
-# User Message Recipient List Input
 
 > User message recipient list input.
 

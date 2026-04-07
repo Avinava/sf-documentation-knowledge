@@ -5,12 +5,10 @@ topic: oci-fulfill-reservation-single-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.023Z
+lastCollected: 2026-04-07T18:37:21.185Z
 estimatedTokens: 180
-keywords: [OCI, Fulfill, Reservation, Output, fulfilled]
+keywords: [OCI, Fulfill, Reservation, fulfilled]
 ---
-
-# OCI Fulfill Reservation Single Output
 
 > Details of a single fulfilled reservation.
 

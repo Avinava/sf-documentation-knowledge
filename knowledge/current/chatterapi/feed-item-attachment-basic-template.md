@@ -5,12 +5,10 @@ topic: feed-item-attachment-basic-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.005Z
+lastCollected: 2026-04-07T18:37:19.104Z
 estimatedTokens: 368
-keywords: [Feed, Item, Attachment, Basic, Template]
+keywords: [Item, Attachment, Basic, Template]
 ---
-
-# Feed Item Attachment: Basic Template
 
 > Basic template feed item attachment.
 

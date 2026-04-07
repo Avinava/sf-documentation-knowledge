@@ -5,12 +5,10 @@ topic: wkccsettingsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.067Z
+lastCollected: 2026-04-07T18:40:14.092Z
 estimatedTokens: 515
-keywords: [wkcc__Settings__c, Settings, Workplace, Command, Center, application, orgs, Work.com, installed, wkcc, _Settings, Calls]
+keywords: [wkcc__Settings__c, Settings, Workplace, Command, Center, application, orgs, Work.com, installed, wkcc, _Settings]
 ---
-
-# wkcc__Settings__c
 
 > Settings for the Workplace Command Center application. This object is
     available in orgs that have Work.com installed.

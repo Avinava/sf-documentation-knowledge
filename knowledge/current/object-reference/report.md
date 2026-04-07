@@ -5,12 +5,10 @@ topic: report
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:48.363Z
+lastCollected: 2026-04-07T18:38:39.959Z
 estimatedTokens: 1627
-keywords: [Report, data, meets, certain, criteria, organized, way, Access, read-only, API, version, 20.0, later, Calls, Query]
+keywords: [Report, meets, certain, criteria, organized, way, read-only, API, 20.0, Query, Scopes, Reports, “Sales”, Their, Inactive, User’s, Folder]
 ---
-
-# Report
 
 > Represents a report, a set of data that meets certain criteria,
 			displayed in an organized way. Access is read-only. This object is available in API

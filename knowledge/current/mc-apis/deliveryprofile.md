@@ -5,12 +5,10 @@ topic: deliveryprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.505Z
+lastCollected: 2026-04-07T18:40:16.648Z
 estimatedTokens: 843
 keywords: [DeliveryProfile, delivery, profile, account, address, domain, inclusion, footer, Items]
 ---
-
-# DeliveryProfile
 
 > The DeliveryProfile object contains information on a single delivery profile within an account, such as IP address, domain, header inclusion, and footer inclusion information.
 

@@ -5,12 +5,10 @@ topic: insurance-claims-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.762Z
+lastCollected: 2026-04-07T18:37:52.980Z
 estimatedTokens: 994
 keywords: [Insurance, Claims, Standard, Invocable, Actions]
 ---
-
-# Insurance Claims Standard Invocable Actions
 
 > Learn more about the standard invocable actions available with Insurance
     Claims.

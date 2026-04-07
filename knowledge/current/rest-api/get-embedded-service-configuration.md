@@ -5,12 +5,10 @@ topic: get-embedded-service-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.439Z
+lastCollected: 2026-04-07T18:36:20.664Z
 estimatedTokens: 153
-keywords: [Embedded, Service, Configuration, deployment, including, branding, colors, font, site, URL, resource, REST, API, version, 45.0]
+keywords: [Embedded, Service, Configuration, deployment, including, branding, colors, font, site, URL, resource, REST, API, 45.0]
 ---
-
-# Get Embedded Service Configuration
 
 > Get the values for your Embedded Service deployment configuration, including the
     branding colors, font, and site URL. This resource is available in REST API version 45.0 and

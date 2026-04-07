@@ -5,12 +5,10 @@ topic: insurance-member-plans-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.676Z
+lastCollected: 2026-04-07T18:37:51.738Z
 estimatedTokens: 405
 keywords: [Insurance, Member, Plans, POST, PATCH, group, census]
 ---
-
-# Insurance Member Plans (POST, PATCH)
 
 > Create and update insurance plans for a group census member.
 

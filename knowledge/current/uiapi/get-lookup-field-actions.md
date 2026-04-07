@@ -5,12 +5,10 @@ topic: get-lookup-field-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.125Z
+lastCollected: 2026-04-07T18:40:11.119Z
 estimatedTokens: 730
 keywords: [Lookup, Actions]
 ---
-
-# Get Lookup Field Actions
 
 > Get the actions on lookup fields.
 

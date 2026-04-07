@@ -5,12 +5,10 @@ topic: using-the-transient-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.447Z
+lastCollected: 2026-04-07T18:38:48.398Z
 estimatedTokens: 481
 keywords: [transient, Keyword, Apex, classes, serializable, namely, controllers, controller, extensions, implement, Batchable, Schedulable, addition, define]
 ---
-
-# Using the  transient Keyword Keyword
 
 > You can also use the transient keyword in Apex
             classes that are serializable, namely in controllers, controller extensions, or classes

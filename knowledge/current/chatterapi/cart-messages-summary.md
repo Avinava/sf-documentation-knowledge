@@ -5,12 +5,10 @@ topic: cart-messages-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.204Z
+lastCollected: 2026-04-07T18:37:17.274Z
 estimatedTokens: 360
 keywords: [Cart, Messages, Summary]
 ---
-
-# Cart Messages Summary
 
 > Cart messages summary.
 

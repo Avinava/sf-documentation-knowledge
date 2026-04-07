@@ -5,12 +5,10 @@ topic: create-service-territories
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.346Z
+lastCollected: 2026-04-07T18:39:21.157Z
 estimatedTokens: 190
 keywords: [Service, Territories, branch, locations, represent, call, center, organize, resources, ensure, assigned, appointments, near, home]
 ---
-
-# Create Service Territories
 
 > Create service territories, such as branch locations, to represent your branch or
       call center, to organize your service resources, and to ensure that the service resources are

@@ -5,12 +5,10 @@ topic: sample-app-using-react-native-sample-app-using-react-native
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.993Z
+lastCollected: 2026-04-07T18:40:27.209Z
 estimatedTokens: 545
 keywords: [Sample, App, React, Native, best, way, up-to-speed, Mobile, SDK, study, code]
 ---
-
-# Sample App Using React Native Sample App Using React Native
 
 > The best way to get up-to-speed on React Native in Mobile SDK is to study the sample
   code.

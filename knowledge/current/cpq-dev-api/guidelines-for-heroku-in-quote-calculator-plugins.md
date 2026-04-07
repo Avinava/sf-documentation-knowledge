@@ -5,12 +5,10 @@ topic: guidelines-for-heroku-in-quote-calculator-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:40.410Z
+lastCollected: 2026-04-07T18:37:27.419Z
 estimatedTokens: 262
-keywords: [Guidelines, Heroku, Quote, Calculator, Plugins, Salesforce, CPQ, call, perform, asynchronous, calculations, write, plugin, review, working]
+keywords: [Guidelines, Heroku, Quote, Calculator, Plugins, Salesforce, CPQ, call, perform, asynchronous, calculations, write, plugin, review, working, service]
 ---
-
-# Guidelines for Heroku in Quote Calculator Plugins
 
 > Salesforce CPQ quote calculator plugins call Heroku to perform asynchronous
   calculations. When you write a quote calculator plugin, review important guidelines for working

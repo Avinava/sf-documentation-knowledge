@@ -5,12 +5,10 @@ topic: quotedocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.984Z
+lastCollected: 2026-04-07T18:38:39.546Z
 estimatedTokens: 636
-keywords: [QuoteDocument, quote, document, API, version, 18.0, later, Calls, Usage]
+keywords: [QuoteDocument, quote, document, API, 18.0]
 ---
-
-# QuoteDocument
 
 > Represents a quote in document format. Available in API version
     18.0 and later.

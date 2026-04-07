@@ -5,12 +5,10 @@ topic: component-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.067Z
+lastCollected: 2026-04-07T18:37:33.407Z
 estimatedTokens: 563
-keywords: [Component, Let’s, look, sample, code, Lightning, web, includes, four, editable, lightningCommunity__Page, tells, Experience, Builder, drag-and-drop]
+keywords: [Let’s, look, sample, code, Lightning, web, includes, four, editable, lightningCommunity__Page, tells, Experience, Builder, drag-and-drop, lightningCommunity__Default, target, configure, any, design-time, targetConfig]
 ---
-
-# Component Properties
 
 > Let’s look at some sample code for a Lightning web component that includes four
     editable properties. lightningCommunity__Page tells

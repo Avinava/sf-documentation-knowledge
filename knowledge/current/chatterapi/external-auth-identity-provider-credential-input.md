@@ -5,12 +5,10 @@ topic: external-auth-identity-provider-credential-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.482Z
+lastCollected: 2026-04-07T18:37:08.306Z
 estimatedTokens: 167
-keywords: [External, Auth, Identity, Provider, Credential, Input]
+keywords: [External, Auth, Identity, Provider, Credential]
 ---
-
-# External Auth Identity Provider Credential Input
 
 > External auth identity provider credential input.
 

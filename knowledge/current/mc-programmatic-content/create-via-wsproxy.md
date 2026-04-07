@@ -5,12 +5,10 @@ topic: create-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.407Z
+lastCollected: 2026-04-07T18:40:22.826Z
 estimatedTokens: 2182
-keywords: [via, WSProxy, item, several, items, call, createItem, createBatch, functions, DataExtension, Multiple, Objects, Automation, Activity, Start]
+keywords: [via, WSProxy, item, several, items, call, createItem, createBatch, functions, DataExtension, Multiple, Automation, Activity, Start, Extract]
 ---
-
-# Create via WSProxy
 
 > To create a single item or several items of the same type in a single call, use the createItem and createBatch functions.
 

@@ -5,12 +5,10 @@ topic: comparing-javascript-remoting-and-apexactionfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.358Z
+lastCollected: 2026-04-07T18:38:51.613Z
 estimatedTokens: 158
-keywords: [Comparing, JavaScript, Remoting, <apex, actionFunction>, component, lets, call, controller, action]
+keywords: [Comparing, JavaScript, Remoting, <apex, actionFunction>, lets, call, controller, action]
 ---
-
-# Comparing JavaScript Remoting and  <apex:actionFunction>
 
 > The <apex:actionFunction> component also lets
     you call controller action methods through JavaScript.

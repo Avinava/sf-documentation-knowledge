@@ -5,12 +5,10 @@ topic: dataassessmentfieldmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.447Z
+lastCollected: 2026-04-07T18:39:37.049Z
 estimatedTokens: 460
-keywords: [DataAssessmentFieldMetric, summary, statistics, matched, blank, differing, account, records, org, compared, Data.com, API, version, 37.0, later]
+keywords: [DataAssessmentFieldMetric, summary, statistics, matched, blank, differing, account, records, org, compared, Data.com, API, 37.0]
 ---
-
-# DataAssessmentFieldMetric
 
 > Represents summary statistics for matched, blank, and differing
 			fields in account records of an org compared to records in Data.com. This object is

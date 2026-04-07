@@ -5,12 +5,10 @@ topic: big-objects-queueable-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.370Z
+lastCollected: 2026-04-07T18:37:02.921Z
 estimatedTokens: 399
-keywords: [Big, Objects, Queueable, write, trigger, process, flow, sObject, asynchronous, Apex, uses, isolate, DML, operations, different]
+keywords: [Big, Queueable, write, trigger, process, flow, sObject, asynchronous, Apex, uses, isolate, DML, operations, different, prevent, mixed, error]
 ---
-
-# Big Objects Queueable Example
 
 > To read or write to a big object using a trigger, process, or flow from a sObject,
         use asynchronous Apex. This example uses the asynchronous Apex Queueable interface to isolate DML operations on

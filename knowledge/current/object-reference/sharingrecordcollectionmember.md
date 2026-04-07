@@ -5,12 +5,10 @@ topic: sharingrecordcollectionmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.441Z
+lastCollected: 2026-04-07T18:38:41.105Z
 estimatedTokens: 197
-keywords: [SharingRecordCollectionMember, user, access, collection, records, API, version, 51.0, later, Calls]
+keywords: [SharingRecordCollectionMember, user, collection, records, API, 51.0]
 ---
-
-# SharingRecordCollectionMember
 
 > Represents a user with access to a collection of records. This object is available in API version 51.0 and later.
 

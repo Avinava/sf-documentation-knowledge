@@ -5,12 +5,10 @@ topic: add-a-language-to-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.161Z
+lastCollected: 2026-04-07T18:37:33.537Z
 estimatedTokens: 1104
-keywords: [Add, Language, LWR, Site, offer, multiple, languages, Settings, panel, Experience, Builder, including, appears, selector, easy]
+keywords: [Add, Language, LWR, Site, offer, multiple, languages, Settings, panel, Experience, Builder, including, appears, selector, easy, navigation, different, translations, visitors]
 ---
-
-# Add a Language to Your LWR Site
 
 > To offer your site in multiple languages, first add each language to the site
                 from the Settings panel in Experience Builder. You can offer your site in up to 40

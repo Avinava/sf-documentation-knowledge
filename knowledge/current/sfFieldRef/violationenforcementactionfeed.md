@@ -5,12 +5,10 @@ topic: violationenforcementactionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.978Z
+lastCollected: 2026-04-07T18:40:05.854Z
 estimatedTokens: 366
-keywords: [ViolationEnforcementActionFeed, Feed, tracking, ViolationEnforcementAction]
+keywords: [ViolationEnforcementActionFeed, ViolationEnforcementAction]
 ---
-
-# ViolationEnforcementActionFeed
 
 > Feed tracking for ViolationEnforcementAction.
 

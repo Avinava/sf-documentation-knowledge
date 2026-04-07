@@ -5,12 +5,10 @@ topic: link
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.556Z
+lastCollected: 2026-04-07T18:40:17.738Z
 estimatedTokens: 502
 keywords: [Link, message, LinkSend, retrieve, Items]
 ---
-
-# Link
 
 > The Link object represents a link within a message. While this object has no supported methods, you can return some properties using the LinkSend object and retrieve method.
 

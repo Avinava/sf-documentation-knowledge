@@ -5,12 +5,10 @@ topic: life-sciences-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.604Z
+lastCollected: 2026-04-07T18:37:57.104Z
 estimatedTokens: 358
-keywords: [Life, Sciences, Cloud, Business, APIs, access, REST, endpoints, follow, similar, conventions, Connect]
+keywords: [Life, Sciences, Cloud, Business, APIs, REST, endpoints, follow, similar, conventions, Connect]
 ---
-
-# Life Sciences Cloud Business APIs
 
 > You can access Life Sciences Cloud Business APIs using REST endpoints. These REST APIs
   follow similar conventions as Connect REST APIs.

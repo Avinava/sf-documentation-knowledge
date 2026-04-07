@@ -5,12 +5,10 @@ topic: sustnuomconversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.524Z
+lastCollected: 2026-04-07T18:36:29.944Z
 estimatedTokens: 667
-keywords: [SustnUomConversion, unit, measure, UOM, conversion, custom, fuel, defined, customer, org, Parent, File, Suffix, Directory, Location]
+keywords: [SustnUomConversion, unit, measure, UOM, conversion, fuel, defined, customer, org, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SustnUomConversion
 
 > Represents information about the unit of measure (UOM)
 			conversion for the custom fuel types defined by a customer in an org.

@@ -5,12 +5,10 @@ topic: prepare-your-app-for-submission
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.881Z
+lastCollected: 2026-04-07T18:40:28.023Z
 estimatedTokens: 693
-keywords: [Prepare, App, Submission, you’re, Swift, Package, Manager, install, SDK, strip, development, resources, unneeded, architectures, Service]
+keywords: [Prepare, App, Submission, you’re, Swift, Package, Manager, install, SDK, strip, development, resources, unneeded, architectures, Service, Chat, submit, Store]
 ---
-
-# Prepare Your App for Submission
 
 > If you’re not using Swift Package Manager to install the SDK, you need to strip
     development resources (such as unneeded architectures and header resources) from the Service Chat SDK before you can submit your app to the App Store.

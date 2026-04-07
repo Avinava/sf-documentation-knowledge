@@ -5,12 +5,10 @@ topic: list-sorting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.114Z
+lastCollected: 2026-04-07T18:36:19.343Z
 estimatedTokens: 518
-keywords: [Sorting, sort, elements, order, depends, data, SelectOption]
+keywords: [Sorting, sort, order, depends, SelectOption]
 ---
-
-# List Sorting
 
 > You can sort list elements and the sort order depends on the data type of the
     elements.

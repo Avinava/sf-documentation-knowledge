@@ -5,12 +5,10 @@ topic: install-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.813Z
+lastCollected: 2026-04-07T18:40:08.776Z
 estimatedTokens: 331
 keywords: [Install, Unlocked, Package, packages, CLI, browser, versions, scratch, org, sandbox, production]
 ---
-
-# Install an Unlocked Package
 
 > Install unlocked packages using the CLI or the browser. You can install package versions
   in a scratch org, sandbox org, DE org, or production org.

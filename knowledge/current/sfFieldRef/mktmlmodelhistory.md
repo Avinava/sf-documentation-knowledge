@@ -5,12 +5,10 @@ topic: mktmlmodelhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.622Z
+lastCollected: 2026-04-07T18:39:49.092Z
 estimatedTokens: 254
-keywords: [MktMLModelHistory, History, tracked, MktMLModel]
+keywords: [MktMLModelHistory, tracked, MktMLModel]
 ---
-
-# MktMLModelHistory
 
 > History for tracked fields of MktMLModel.
 

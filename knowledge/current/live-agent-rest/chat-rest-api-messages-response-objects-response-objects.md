@@ -5,12 +5,10 @@ topic: chat-rest-api-messages-response-objects-response-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.195Z
+lastCollected: 2026-04-07T18:38:06.437Z
 estimatedTokens: 777
-keywords: [Chat, REST, API, Messages, Objects, array, represent, events, occurred, agent’s, customer]
+keywords: [Chat, REST, API, Messages, array, represent, events, occurred, agent’s, customer]
 ---
-
-# Chat REST API Messages Response Objects Response Objects
 
 > The Messages request returns an array of objects
         that represent all the events that occurred during an agent’s chat with a chat

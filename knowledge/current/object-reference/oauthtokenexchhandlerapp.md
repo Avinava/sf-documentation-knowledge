@@ -5,12 +5,10 @@ topic: oauthtokenexchhandlerapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.025Z
+lastCollected: 2026-04-07T18:38:36.207Z
 estimatedTokens: 456
-keywords: [OauthTokenExchHandlerApp, enablement, settings, specific, Salesforce, connected, app, external, client, that’s, enabled, token, exchange, handler, multiple]
+keywords: [OauthTokenExchHandlerApp, enablement, settings, specific, Salesforce, connected, app, external, client, that’s, enabled, token, exchange, handler, multiple, apps, API, 60.0]
 ---
-
-# OauthTokenExchHandlerApp
 
 > Represents the enablement settings for a specific Salesforce connected app or
          external client app that’s enabled for the token exchange handler. A handler can be enabled

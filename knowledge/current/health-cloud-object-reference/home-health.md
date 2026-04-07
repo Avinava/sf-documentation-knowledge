@@ -5,12 +5,10 @@ topic: home-health
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.113Z
+lastCollected: 2026-04-07T18:37:42.248Z
 estimatedTokens: 1732
-keywords: [Home, Health, data, model, helps, store, organization’s, healthcare, services, preferences, patients, their, skills, resources, possess]
+keywords: [Home, Health, model, helps, store, organization’s, healthcare, services, preferences, patients, their, skills, resources, possess, visit, primarily, built, over, Salesforce, Service, uses]
 ---
-
-# Home Health
 
 > The Home Health data model helps you store data for your organization’s home healthcare
   services. You can store the preferences patients have for their services, the skills your

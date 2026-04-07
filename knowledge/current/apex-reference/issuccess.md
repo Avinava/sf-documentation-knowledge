@@ -5,12 +5,10 @@ topic: issuccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.057Z
+lastCollected: 2026-04-07T18:36:07.404Z
 estimatedTokens: 88
 keywords: [isSuccess, batch, operation, successful, otherwise]
 ---
-
-# isSuccess()
 
 > Returns a Boolean that is set to true if the batch operation was successful
 for this object, false otherwise.

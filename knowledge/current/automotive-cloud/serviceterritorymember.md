@@ -5,12 +5,10 @@ topic: serviceterritorymember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:06.787Z
+lastCollected: 2026-04-07T18:36:53.157Z
 estimatedTokens: 1322
-keywords: [ServiceTerritoryMember, service, resource, assigned, appointment, territory, API, version, 58.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ServiceTerritoryMember, service, resource, assigned, appointment, territory, API, 58.0]
 ---
-
-# ServiceTerritoryMember
 
 > Represents a service resource who can be assigned to an  appointment in a
          service territory. This object is available in API version 58.0 and later.

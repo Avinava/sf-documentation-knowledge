@@ -5,12 +5,10 @@ topic: crm-analytics-rest-api-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:08.066Z
+lastCollected: 2026-04-07T18:36:54.435Z
 estimatedTokens: 11426
 keywords: [CRM, Analytics, REST, API, Bodies, successful, execution, resource, either, JSON, XML]
 ---
-
-# CRM Analytics REST API Response Bodies
 
 > The successful execution of a request to a CRM Analytics REST API resource can return a
   response body in either JSON or XML format.

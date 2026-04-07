@@ -5,12 +5,10 @@ topic: global-product-import-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:21.813Z
+lastCollected: 2026-04-07T18:37:08.627Z
 estimatedTokens: 220
-keywords: [Product, Import, Input, Configuration, asynchronous, job]
+keywords: [Product, Import, Configuration, asynchronous, job]
 ---
-
-# Global Product Import Input
 
 > Configuration for an asynchronous global product import
     job.

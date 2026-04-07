@@ -5,12 +5,10 @@ topic: oci-product-check-availability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.010Z
+lastCollected: 2026-04-07T18:37:09.726Z
 estimatedTokens: 100
-keywords: [OCI, Product, Check, Availability, Input, needed, product’s]
+keywords: [OCI, Product, Check, Availability, needed, product’s]
 ---
-
-# OCI Product Check Availability Input
 
 > Information needed to check a product’s availability.
 

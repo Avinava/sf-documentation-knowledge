@@ -5,12 +5,10 @@ topic: namespaces-and-javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.415Z
+lastCollected: 2026-04-07T18:38:51.672Z
 estimatedTokens: 485
-keywords: [Namespaces, JavaScript, Remoting, $RemoteAction, automatically, resolve, correct, any, remote, action, easier, work, especially, pages, calls]
+keywords: [Namespaces, JavaScript, Remoting, $RemoteAction, automatically, resolve, correct, any, remote, action, easier, work, especially, pages, provided, packages]
 ---
-
-# Namespaces and JavaScript Remoting
 
 > You can use the $RemoteAction global to
         automatically resolve the correct namespace, if any, for your remote action. This makes it

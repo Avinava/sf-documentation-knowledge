@@ -5,12 +5,10 @@ topic: about-login-and-passcodes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.992Z
+lastCollected: 2026-04-07T18:40:26.302Z
 estimatedTokens: 1193
-keywords: [Login, Passcodes, access, Salesforce, objects, Mobile, SDK, app, customer, logs, org, flow, begins, app’s, connected]
+keywords: [Login, Passcodes, Salesforce, Mobile, SDK, app, customer, logs, org, flow, begins, app’s, connected, configuration, responds, posting, screen, device, Passcode, Policies, Multi-User, Behavior, Lock, Biometric, Identification, Disabling]
 ---
-
-# About Login and Passcodes
 
 > To access Salesforce objects from a Mobile SDK app, the
       customer logs in to a Salesforce org. When the login flow begins, Mobile SDK sends the app’s

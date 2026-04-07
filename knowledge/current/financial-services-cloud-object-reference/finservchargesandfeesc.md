@@ -5,12 +5,10 @@ topic: finservchargesandfeesc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.819Z
+lastCollected: 2026-04-07T18:37:36.620Z
 estimatedTokens: 857
-keywords: [FinServ_ChargesAndFees__c, agreed-to, fees, charges, servicing, individual’s, financial, account, FinServ, _ChargesAndFees, Calls]
+keywords: [FinServ_ChargesAndFees__c, agreed-to, fees, charges, servicing, individual’s, financial, account, FinServ, _ChargesAndFees]
 ---
-
-# FinServ_ChargesAndFees__c
 
 > Represents agreed-to fees and charges for servicing an individual’s
          financial account.

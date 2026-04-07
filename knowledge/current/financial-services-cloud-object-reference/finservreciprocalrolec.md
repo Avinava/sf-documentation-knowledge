@@ -5,12 +5,10 @@ topic: finservreciprocalrolec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.947Z
+lastCollected: 2026-04-07T18:37:38.834Z
 estimatedTokens: 619
-keywords: [FinServ_ReciprocalRole__c, entity’s, corresponding, role, one-to-one, relationship, entities, FinServ, _ReciprocalRole, Calls]
+keywords: [FinServ_ReciprocalRole__c, entity’s, corresponding, role, one-to-one, relationship, entities, FinServ, _ReciprocalRole]
 ---
-
-# FinServ_ReciprocalRole__c
 
 > Represents the other entity’s corresponding role in a one-to-one
             relationship between entities.

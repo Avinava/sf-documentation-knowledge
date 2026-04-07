@@ -5,12 +5,10 @@ topic: external-auth-identity-provider-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.736Z
+lastCollected: 2026-04-07T18:37:18.832Z
 estimatedTokens: 152
 keywords: [External, Auth, Identity, Provider, providers]
 ---
-
-# External Auth Identity Provider List
 
 > List of external auth identity providers.
 

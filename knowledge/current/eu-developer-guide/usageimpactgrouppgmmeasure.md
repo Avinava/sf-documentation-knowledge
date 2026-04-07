@@ -5,12 +5,10 @@ topic: usageimpactgrouppgmmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.699Z
+lastCollected: 2026-04-07T18:37:32.962Z
 estimatedTokens: 742
-keywords: [UsageImpactGroupPgmMeasure, junction, program, product, Usage, Impact, Group, version, API, 58.0, later, Calls, Special, Access, Rules]
+keywords: [UsageImpactGroupPgmMeasure, junction, program, product, Impact, Group, API, 58.0]
 ---
-
-# UsageImpactGroupPgmMeasure
 
 > Represents a junction between the program, product, and Usage Impact
          Group version. This object is available in API version 58.0 and later.

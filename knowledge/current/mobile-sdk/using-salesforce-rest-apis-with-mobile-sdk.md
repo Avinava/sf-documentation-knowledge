@@ -5,12 +5,10 @@ topic: using-salesforce-rest-apis-with-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.997Z
+lastCollected: 2026-04-07T18:40:26.307Z
 estimatedTokens: 289
-keywords: [Salesforce, REST, APIs, Mobile, SDK, iOS, requests, performed, asynchronously, Responses, successful, arrive, app, Array, Dictionary]
+keywords: [Salesforce, REST, APIs, Mobile, SDK, iOS, requests, performed, asynchronously, Responses, successful, arrive, app, Array, Dictionary, fails, Error]
 ---
-
-# Using Salesforce REST APIs with Mobile SDK
 
 > In Mobile SDK for iOS,
       all REST requests are performed asynchronously. Responses for successful REST requests arrive

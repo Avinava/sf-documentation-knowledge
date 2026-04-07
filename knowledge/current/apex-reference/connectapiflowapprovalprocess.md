@@ -5,12 +5,10 @@ topic: connectapiflowapprovalprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.976Z
+lastCollected: 2026-04-07T18:36:09.369Z
 estimatedTokens: 187
 keywords: [ConnectApi.FlowApprovalProcess, flow, approval, process, status, actions]
 ---
-
-# ConnectApi.FlowApprovalProcess
 
 > Details about a flow approval process, its status, and available actions.
 

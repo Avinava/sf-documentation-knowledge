@@ -5,12 +5,10 @@ topic: retrieve-and-de-duplicate-content-areas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:28.351Z
+lastCollected: 2026-04-07T18:40:23.788Z
 estimatedTokens: 1046
-keywords: [Retrieve, De-Duplicate, Content, Areas, sample, server-side, JavaScript, demonstrates, how, IDs, several, keyword, script, de-duplicates, any]
+keywords: [Retrieve, De-Duplicate, Content, Areas, sample, server-side, JavaScript, demonstrates, how, IDs, several, keyword, script, de-duplicates, any, repeating, occurrences, area, uses, itself, results, include, instance, every]
 ---
-
-# Retrieve and De-Duplicate Content Areas
 
 > The sample server-side JavaScript demonstrates how to retrieve the IDs of several content areas by keyword. The script then de-duplicates any repeating occurrences of a content area ID and uses those IDs to retrieve the content area itself. The results include a single instance of every content area
 

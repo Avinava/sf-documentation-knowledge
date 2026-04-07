@@ -5,12 +5,10 @@ topic: examinationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.256Z
+lastCollected: 2026-04-07T18:39:39.869Z
 estimatedTokens: 258
-keywords: [ExaminationHistory, History, tracked, Examination]
+keywords: [ExaminationHistory, tracked, Examination]
 ---
-
-# ExaminationHistory
 
 > History for tracked fields of Examination.
 

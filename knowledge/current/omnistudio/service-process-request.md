@@ -5,12 +5,10 @@ topic: service-process-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.963Z
+lastCollected: 2026-04-07T18:36:37.516Z
 estimatedTokens: 206
-keywords: [Service, Process, Input, creating, updating]
+keywords: [Service, Process, creating, updating]
 ---
-
-# Service Process Request
 
 > Input for creating or updating a service process.
 

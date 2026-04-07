@@ -5,12 +5,10 @@ topic: request-object-utility-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.764Z
+lastCollected: 2026-04-07T18:40:24.212Z
 estimatedTokens: 80
-keywords: [Utility, Functions, data, key, Load]
+keywords: [Load, Utility, Functions, key]
 ---
-
-# Request Object Utility Functions
 
 > Use these functions to request data based on a specified key.
 

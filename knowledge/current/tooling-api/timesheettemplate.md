@@ -5,12 +5,10 @@ topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.264Z
+lastCollected: 2026-04-07T18:36:34.695Z
 estimatedTokens: 950
-keywords: [TimeSheetTemplate, template, creating, time, sheets, Service, API, version, 46.0, later, SOAP, Calls, REST, HTTP, Special]
+keywords: [TimeSheetTemplate, Limitations, template, creating, time, sheets, Service, API, 46.0, SOAP, REST, HTTP]
 ---
-
-# TimeSheetTemplate
 
 > Represents a template for creating time sheets in Field
         Service. Available in API version 46.0 and later.

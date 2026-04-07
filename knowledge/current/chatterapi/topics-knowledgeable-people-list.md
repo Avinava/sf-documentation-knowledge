@@ -5,12 +5,10 @@ topic: topics-knowledgeable-people-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.942Z
+lastCollected: 2026-04-07T18:37:16.016Z
 estimatedTokens: 214
 keywords: [Topics, Knowledgeable, People, topic]
 ---
-
-# Topics, Knowledgeable People List
 
 > People who are knowledgeable
 about topics. Get a list of knowledgeable people for the specified

@@ -5,12 +5,10 @@ topic: customhttpheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.777Z
+lastCollected: 2026-04-07T18:36:32.231Z
 estimatedTokens: 383
-keywords: [CustomHttpHeader, custom, HTTP, OData, 2.0, 4.0, external, data, sources, provide, context, Salesforce, region, org, role]
+keywords: [CustomHttpHeader, HTTP, OData, 2.0, 4.0, external, sources, provide, context, Salesforce, region, org, role, person, viewing, API, 51.0, SOAP, REST]
 ---
-
-# CustomHttpHeader
 
 > Represents a custom HTTP header used with OData 2.0 or OData 4.0 external data
       sources. Custom HTTP headers provide context information from Salesforce such as region, org

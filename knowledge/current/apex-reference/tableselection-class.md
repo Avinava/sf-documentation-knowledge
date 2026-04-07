@@ -5,13 +5,11 @@ topic: tableselection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.687Z
+lastCollected: 2026-04-07T18:35:59.963Z
 estimatedTokens: 858
 namespace: DataSource
 keywords: [TableSelection, breakdown, SOQL, SOSL, query, represent, ORDER, SELECT, clauses, columnsSelected, filter, tableSelected]
 ---
-
-# TableSelection Class
 
 > Contains a breakdown of the SOQL or SOSL query. Its properties
       represent the FROM, ORDER BY, SELECT, and WHERE clauses in the query.

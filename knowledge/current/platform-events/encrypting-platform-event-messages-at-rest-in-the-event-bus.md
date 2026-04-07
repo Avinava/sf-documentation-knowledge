@@ -6,13 +6,10 @@ topic: encrypting-platform-event-messages-at-rest-in-the-event-bus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.020Z
+lastCollected: 2026-04-07T18:38:57.848Z
 estimatedTokens: 1259
-keywords: [Encrypting, Platform, Event, Messages, Rest, Bus, increased, security, enable, encryption, they’re, stored, Shield, org, Decrypting]
+keywords: [Encrypting, Platform, Event, Messages, Rest, Bus, increased, security, enable, encryption, they’re, stored, Shield, org, Decrypting, Delivery, Error, Status, Code, Events]
 ---
-
-# Encrypting Platform Event Messages at Rest in the Event
-    Bus
 
 > For increased security, you can enable encryption of platform event messages while
     they’re stored in the event bus in a Shield Encryption org.

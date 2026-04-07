@@ -5,12 +5,10 @@ topic: caseproceeding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.213Z
+lastCollected: 2026-04-07T18:39:06.270Z
 estimatedTokens: 1297
-keywords: [CaseProceeding, legal, formal, demand, enforcement, individual’s, rights, against, another, party, court, justice, API, version, 58.0]
+keywords: [CaseProceeding, legal, formal, demand, enforcement, individual’s, rights, against, another, party, court, justice, API, 58.0]
 ---
-
-# CaseProceeding
 
 > Represents a legal and formal demand for the enforcement of an individual’s
          rights against another party in a court of justice. This object is available in API

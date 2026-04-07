@@ -5,12 +5,10 @@ topic: build-your-own-scratch-org-definition-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.288Z
+lastCollected: 2026-04-07T18:40:08.243Z
 estimatedTokens: 2222
-keywords: [Build, Own, Scratch, Org, Definition, File, blueprint, mimics, shape, development, lifecycle, sandbox, packaging, production, Options]
+keywords: [Build, Own, Scratch, Org, Definition, File, blueprint, mimics, shape, development, lifecycle, sandbox, packaging, production, Options, Sample, ScratchOrgInfo, Object-Level, Sharing, Settings, Record]
 ---
-
-# Build Your Own Scratch Org Definition File
 
 > The scratch org definition file is a blueprint for a scratch org. It mimics the shape of
     an org that you use in the development lifecycle, such as sandbox, packaging, or production.

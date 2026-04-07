@@ -5,12 +5,10 @@ topic: post-a-binary-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.235Z
+lastCollected: 2026-04-07T18:37:24.275Z
 estimatedTokens: 414
 keywords: [Post, Binary, File]
 ---
-
-# Post a Binary File
 
 > Post a binary file.
 

@@ -5,12 +5,10 @@ topic: cancel-an-asynchronous-request-in-a-flow-local-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.973Z
+lastCollected: 2026-04-07T18:38:02.929Z
 estimatedTokens: 484
-keywords: [Cancel, Asynchronous, Flow, Local, Action, times, executes, action's, fault, connector, $Flow.FaultMessage, error, message, However, original]
+keywords: [Cancel, Asynchronous, Flow, Local, Action, times, executes, action's, fault, connector, $Flow.FaultMessage, error, message, However, original, isn't, automatically, canceled, abort, cancelToken, invoke]
 ---
-
-# Cancel an Asynchronous Request in a Flow Local Action
 
 > If an asynchronous request times out, the flow executes the local action's
     fault connector and sets $Flow.FaultMessage to the error message. However,

@@ -5,12 +5,10 @@ topic: b2b-referral-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.057Z
+lastCollected: 2026-04-07T18:39:09.375Z
 estimatedTokens: 247
-keywords: [B2B, Referral, Management, helps, brand, run, programs, evergreen, time-bound, promotions, channel, partners, managers, design, launch]
+keywords: [B2B, Referral, Management, helps, brand, run, programs, evergreen, time-bound, promotions, channel, partners, managers, design, launch, minutes, care, rest, inbuilt, automations, rewarding, advocates, their, referred, parties]
 ---
-
-# B2B Referral Management
 
 > B2B Referral Management helps your brand run referral programs with evergreen and
   time-bound promotions for your channel partners. Channel managers can design and launch referral

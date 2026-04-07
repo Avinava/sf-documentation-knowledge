@@ -5,12 +5,10 @@ topic: connectapireturnorderiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.980Z
+lastCollected: 2026-04-07T18:36:06.328Z
 estimatedTokens: 679
 keywords: [ReturnOrderLineItem, instructions, updating, read-only, Any, remaining, quantity, added, new]
 ---
-
-# ConnectApi.ReturnOrderItemInputRepresentation
 
 > ID of a ReturnOrderLineItem and instructions for updating it. After
       the update, the ReturnOrderLineItem is read-only. Any remaining quantity to be returned is

@@ -5,12 +5,10 @@ topic: prepare-your-customers-for-strong-customer-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.080Z
+lastCollected: 2026-04-07T18:38:45.919Z
 estimatedTokens: 652
-keywords: [Prepare, Customers, Strong, Customer, Authentication, serve, European, Economic, Area, communicate, how, SCA, affects, online, payments]
+keywords: [Prepare, Customers, Strong, Customer, Authentication, serve, European, Economic, Area, communicate, how, SCA, affects, online, payments, including, AppExchange, solution]
 ---
-
-# Prepare Your Customers for Strong Customer Authentication
 
 > If you serve customers in the European Economic Area, communicate how strong customer
     authentication (SCA) affects online payments, including payments for your AppExchange

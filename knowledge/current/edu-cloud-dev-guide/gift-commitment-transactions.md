@@ -5,12 +5,10 @@ topic: gift-commitment-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.186Z
+lastCollected: 2026-04-07T18:37:29.310Z
 estimatedTokens: 115
-keywords: [Gift, Commitment, Transactions, associated, donor, account]
+keywords: [Gift, Commitment, Transactions, donor, account]
 ---
-
-# Gift Commitment Transactions
 
 > Get a list of gift transactions associated with a gift commitment for a donor
     account.

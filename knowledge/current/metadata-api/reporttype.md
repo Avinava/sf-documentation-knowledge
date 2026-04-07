@@ -5,12 +5,10 @@ topic: reporttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.757Z
+lastCollected: 2026-04-07T18:36:29.237Z
 estimatedTokens: 1549
-keywords: [ReportType, metadata, associated, custom, report, allow, build, framework, users, customize, reports, Declarative, File, Suffix, Directory]
+keywords: [ReportType, ObjectRelationship, ReportLayoutSection, ReportTypeColumn, metadata, report, allow, build, framework, users, customize, reports, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ReportType
 
 > Represents the metadata associated with a custom report
             type. Custom report types allow you to build a framework from which users can create and

@@ -5,12 +5,10 @@ topic: edit-your-appexchange-security-review-before-you-submit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.565Z
+lastCollected: 2026-04-07T18:38:47.507Z
 estimatedTokens: 161
 keywords: [Edit, AppExchange, Security, Review, Submit, started, submission, solution, provide, back, wizard, continue, entering]
 ---
-
-# Edit Your AppExchange Security Review Before You Submit
 
 > You started a security review submission for your solution and have more information
         to provide before you submit. Go back to the security review wizard and continue entering

@@ -5,12 +5,10 @@ topic: using-the-mock
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.736Z
+lastCollected: 2026-04-07T18:40:26.964Z
 estimatedTokens: 835
-keywords: [Mock, facilitate, developing, testing, code, SmartStore, running, outside, container, emulated, Same-Origin, Policies, Authentication]
+keywords: [Authentication, Mock, facilitate, developing, testing, code, SmartStore, running, outside, container, emulated, Same-Origin, Policies]
 ---
-
-# Using the Mock
 
 > To facilitate developing and testing code that makes use of the SmartStore while running outside the
   container, you can use an emulated SmartStore.

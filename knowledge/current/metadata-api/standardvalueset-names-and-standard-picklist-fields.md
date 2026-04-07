@@ -5,12 +5,10 @@ topic: standardvalueset-names-and-standard-picklist-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.768Z
+lastCollected: 2026-04-07T18:36:31.162Z
 estimatedTokens: 9682
-keywords: [StandardValueSet, Standard, Picklist, API, version, 38.0, later, picklists, represented, previous, versions, CustomField, their, corresponding]
+keywords: [StandardValueSet, Standard, Picklist, API, 38.0, picklists, represented, previous, versions, CustomField, their, corresponding]
 ---
-
-# StandardValueSet Names and Standard Picklist Fields
 
 > In API version 38.0 and later, standard picklists are represented by the
   StandardValueSet type. In previous versions, standard picklists are represented by the CustomField

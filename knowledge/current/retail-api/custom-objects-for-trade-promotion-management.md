@@ -5,12 +5,10 @@ topic: custom-objects-for-trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.573Z
+lastCollected: 2026-04-07T18:39:12.097Z
 estimatedTokens: 3790
-keywords: [Custom, Objects, Trade, Promotion, Management, Consumer, Goods, Cloud, data, model, support, TPM]
+keywords: [Trade, Promotion, Management, Consumer, Goods, Cloud, model, support, TPM]
 ---
-
-# Custom Objects for Trade Promotion Management
 
 > The Consumer Goods Cloud data model provides objects and fields to support Trade
   Promotion Management (TPM).

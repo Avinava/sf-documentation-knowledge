@@ -5,12 +5,10 @@ topic: add-a-filter-with-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.162Z
+lastCollected: 2026-04-07T18:38:57.973Z
 estimatedTokens: 693
-keywords: [Add, Filter, Tooling, API, channel, PlatformEventChannel, specify, version, 56.0, later]
+keywords: [Add, Filter, Tooling, API, channel, PlatformEventChannel, specify, 56.0]
 ---
-
-# Add a Filter with Tooling API
 
 > Before you can add a filter, create a channel. Use PlatformEventChannel in Tooling API,
   and specify API version 56.0 or later.

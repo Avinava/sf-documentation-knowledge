@@ -5,12 +5,10 @@ topic: apexiframe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.557Z
+lastCollected: 2026-04-07T18:38:49.695Z
 estimatedTokens: 992
-keywords: [apex, iframe, component, creates, inline, frame, Visualforce, keep, visible, scrolled, replaced, Attributes]
+keywords: [Attributes, apex, iframe, creates, inline, frame, Visualforce, keep, visible, scrolled, replaced]
 ---
-
-# apex:iframe
 
 > A component that creates an inline frame within a Visualforce
 		page. With a frame, you can keep some information visible while other

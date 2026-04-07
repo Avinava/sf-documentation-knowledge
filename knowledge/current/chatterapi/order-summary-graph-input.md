@@ -5,12 +5,10 @@ topic: order-summary-graph-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:22.652Z
+lastCollected: 2026-04-07T18:37:09.388Z
 estimatedTokens: 394
-keywords: [Order, Summary, Graph, Input, containing, supporting, records]
+keywords: [Order, Summary, Graph, containing, supporting, records]
 ---
-
-# Order Summary Graph Input
 
 > Graph containing the details of an order summary and supporting
       records.

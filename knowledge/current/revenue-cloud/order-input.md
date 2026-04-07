@@ -5,12 +5,10 @@ topic: order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.527Z
+lastCollected: 2026-04-07T18:35:43.434Z
 estimatedTokens: 107
-keywords: [Order, Input, representation, sort, item]
+keywords: [Order, sort, item]
 ---
-
-# Order Input
 
 > Input representation of the sort order item request.
 

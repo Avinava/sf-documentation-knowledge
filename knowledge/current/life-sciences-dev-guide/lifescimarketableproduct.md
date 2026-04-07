@@ -5,12 +5,10 @@ topic: lifescimarketableproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:10.942Z
+lastCollected: 2026-04-07T18:38:00.729Z
 estimatedTokens: 2683
-keywords: [LifeSciMarketableProduct, products, Life, Science, company, manufactures, markets, sells, competes, including, brands, indications, therapeutic, areas, additional]
+keywords: [LifeSciMarketableProduct, products, Life, Science, company, manufactures, markets, sells, competes, including, brands, indications, therapeutic, areas, additional, physical, sampled, ordered, distributed, promotional, items, API, 65.0]
 ---
-
-# LifeSciMarketableProduct
 
 > Represents information about all products a Life Science company
          manufactures, markets, sells, or competes with, including brands, indications, and

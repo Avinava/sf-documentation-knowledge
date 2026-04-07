@@ -5,12 +5,10 @@ topic: understanding-relationship-names-custom-objects-and-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.882Z
+lastCollected: 2026-04-07T18:40:09.826Z
 estimatedTokens: 625
-keywords: [Understanding, Relationship, Custom, Objects, participate, queries, Salesforce, ensures, associated, remain, unique, standard, now, future, Having]
+keywords: [Understanding, Relationship, participate, queries, Salesforce, ensures, remain, unique, standard, now, future, Having, cases, query, traverses, relationships]
 ---
-
-# Understanding Relationship Names, Custom Objects, and Custom Fields
 
 > Custom objects can participate in relationship queries. Salesforce ensures that your custom object
     names, custom field names, and the relationship names that are associated with them remain

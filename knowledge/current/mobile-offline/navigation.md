@@ -5,12 +5,10 @@ topic: navigation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.856Z
+lastCollected: 2026-04-07T18:38:15.345Z
 estimatedTokens: 317
-keywords: [Navigation, Build, Lightning, web, components]
+keywords: [Navigation, Build, Lightning, web]
 ---
-
-# Navigation
 
 > Build navigation for Lightning web components.
 

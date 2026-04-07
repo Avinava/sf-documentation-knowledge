@@ -5,12 +5,10 @@ topic: aiscoringmodeldefversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:59.664Z
+lastCollected: 2026-04-07T18:36:45.424Z
 estimatedTokens: 1106
-keywords: [AIScoringModelDefVersion, version, scoring, model, that’s, Framework, Industries, Cloud, Einstein, API, 57.0, later, SOAP, Calls, REST]
+keywords: [AIScoringModelDefVersion, scoring, model, that’s, Framework, Industries, Cloud, Einstein, API, 57.0, SOAP, REST]
 ---
-
-# AIScoringModelDefVersion
 
 > Represents information about a version of an AI scoring model that’s
          used by the Scoring Framework for Industries Cloud Einstein. This object is available

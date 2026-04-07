@@ -5,12 +5,10 @@ topic: prorationpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.866Z
+lastCollected: 2026-04-07T18:39:57.456Z
 estimatedTokens: 373
-keywords: [ProrationPolicy, how, price, subscription, divided, time, periods, calculated, period, API, version, 55.0, later]
+keywords: [ProrationPolicy, how, price, subscription, divided, time, periods, calculated, period, API, 55.0]
 ---
-
-# ProrationPolicy
 
 > Defines how the price of a subscription is divided into time periods and how the price is calculated for each time period. This object is available in API version
 		55.0 and later.

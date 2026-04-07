@@ -5,12 +5,10 @@ topic: paymentauthadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.255Z
+lastCollected: 2026-04-07T18:38:37.558Z
 estimatedTokens: 1894
-keywords: [PaymentAuthAdjustment, adjustment, made, authorized, transaction, API, version, 51.0, later, Calls, Special, Access, Rules]
+keywords: [PaymentAuthAdjustment, adjustment, made, authorized, transaction, API, 51.0]
 ---
-
-# PaymentAuthAdjustment
 
 > Shows information about an adjustment made to an authorized
 			transaction. This object is available in API version 51.0 and later.

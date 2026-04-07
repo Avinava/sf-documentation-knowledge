@@ -5,12 +5,10 @@ topic: invoicelinetaxhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.250Z
+lastCollected: 2026-04-07T18:39:45.821Z
 estimatedTokens: 263
-keywords: [InvoiceLineTaxHistory, History, tracked, InvoiceLineTax]
+keywords: [InvoiceLineTaxHistory, tracked, InvoiceLineTax]
 ---
-
-# InvoiceLineTaxHistory
 
 > History for tracked fields of InvoiceLineTax.
 

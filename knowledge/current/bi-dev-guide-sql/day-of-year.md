@@ -5,12 +5,10 @@ topic: day-of-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.003Z
+lastCollected: 2026-04-07T18:37:01.613Z
 estimatedTokens: 104
 keywords: [Day, Year, specific, date]
 ---
-
-# Day of Year
 
 > Returns an integer that represents the day of the year for a specific date.
 

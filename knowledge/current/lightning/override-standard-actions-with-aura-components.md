@@ -5,12 +5,10 @@ topic: override-standard-actions-with-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.359Z
+lastCollected: 2026-04-07T18:38:03.378Z
 estimatedTokens: 624
-keywords: [Override, Standard, Actions, Aura, Components, Add, lightning, actionOverride, component, enable, action, custom, Overriding, customize, org]
+keywords: [Override, Standard, Actions, Aura, Add, lightning, actionOverride, enable, action, Overriding, customize, org, including, completely, customizing, way, view, edit, records]
 ---
-
-# Override Standard Actions with Aura Components
 
 > Add the lightning:actionOverride interface to an
   Aura component to enable the component to be used to override a standard action on an object. You

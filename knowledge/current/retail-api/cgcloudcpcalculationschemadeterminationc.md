@@ -5,12 +5,10 @@ topic: cgcloudcpcalculationschemadeterminationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.830Z
+lastCollected: 2026-04-07T18:39:13.239Z
 estimatedTokens: 1177
-keywords: [calculation, schema, determination, determine, rule, order, template, pricing, customer, API, version, 54.0, later, cgcloud, _CP]
+keywords: [calculation, schema, determination, determine, rule, order, template, pricing, customer, API, 54.0, cgcloud, _CP, _Calculation, _Schema, _Determination]
 ---
-
-# cgcloud__CP_Calculation_Schema_Determination__c
 
 > The calculation schema determination object is used to determine the
          rule based on order template pricing type and customer pricing type. This object is

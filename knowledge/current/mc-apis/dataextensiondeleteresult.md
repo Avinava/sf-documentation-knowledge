@@ -5,12 +5,10 @@ topic: dataextensiondeleteresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.248Z
+lastCollected: 2026-04-07T18:40:16.387Z
 estimatedTokens: 400
-keywords: [DataExtensionDeleteResult, error, messages, attempt, data, extension, primary, key, errors]
+keywords: [DataExtensionDeleteResult, error, messages, attempt, extension, primary, key, errors]
 ---
-
-# DataExtensionDeleteResult
 
 > The DataExtensionDeleteResult object provides error messages related to an attempt to delete information in a data extension. This object provides information for primary key errors only.
 

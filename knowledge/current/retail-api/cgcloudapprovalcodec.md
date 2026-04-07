@@ -5,12 +5,10 @@ topic: cgcloudapprovalcodec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.474Z
+lastCollected: 2026-04-07T18:39:12.897Z
 estimatedTokens: 928
-keywords: [cgcloud__Approval_Code__c, attributes, approval, code, users, API, version, 54.0, later, cgcloud, _Approval, _Code, Calls, Associated, Objects]
+keywords: [cgcloud__Approval_Code__c, attributes, approval, code, users, API, 54.0, cgcloud, _Approval, _Code]
 ---
-
-# cgcloud__Approval_Code__c
 
 > Represents the attributes for approval code of users. This object is
       available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: trncoursefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.592Z
+lastCollected: 2026-04-07T18:40:04.325Z
 estimatedTokens: 357
-keywords: [TrnCourseFeed, Feed, tracking, TrnCourse]
+keywords: [TrnCourseFeed, TrnCourse]
 ---
-
-# TrnCourseFeed
 
 > Feed tracking for TrnCourse.
 

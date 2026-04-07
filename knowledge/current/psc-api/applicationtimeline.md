@@ -5,12 +5,10 @@ topic: applicationtimeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.600Z
+lastCollected: 2026-04-07T18:39:05.601Z
 estimatedTokens: 482
-keywords: [ApplicationTimeline, milestone, dates, application, process, API, version, 57.0, later, Calls, Special, Access, Rules]
+keywords: [ApplicationTimeline, milestone, dates, application, process, API, 57.0]
 ---
-
-# ApplicationTimeline
 
 > Represents the milestone dates in the application process. This object is available in API version 57.0 and later.
 

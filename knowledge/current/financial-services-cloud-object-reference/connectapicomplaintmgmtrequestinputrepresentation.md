@@ -5,12 +5,10 @@ topic: connectapicomplaintmgmtrequestinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.514Z
+lastCollected: 2026-04-07T18:37:33.980Z
 estimatedTokens: 329
-keywords: [Input, representation, complaint]
+keywords: [complaint]
 ---
-
-# ConnectApi.ComplaintMgmtRequestInputRepresentation
 
 > Input representation of the request to create a public
       complaint.

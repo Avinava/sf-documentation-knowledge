@@ -5,12 +5,10 @@ topic: intelligent-form-reader-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.599Z
+lastCollected: 2026-04-07T18:36:41.296Z
 estimatedTokens: 825
-keywords: [Intelligent, Form, Reader, Standard, Objects, activate]
+keywords: [Intelligent, Form, Reader, Standard, activate]
 ---
-
-# Intelligent Form Reader Standard Objects
 
 > Use standard objects to create, update, and activate intelligent form
   reader.

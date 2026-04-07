@@ -5,12 +5,10 @@ topic: accounting-subledger-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.648Z
+lastCollected: 2026-04-07T18:39:00.769Z
 estimatedTokens: 290
-keywords: [Accounting, Subledger, Standard, Objects]
+keywords: [Accounting, Subledger, Standard]
 ---
-
-# Accounting Subledger Standard Objects
 
 > This section lists standard objects available for use with Accounting
   Subledger.

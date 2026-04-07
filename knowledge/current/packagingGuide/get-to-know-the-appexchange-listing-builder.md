@@ -5,12 +5,10 @@ topic: get-to-know-the-appexchange-listing-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.245Z
+lastCollected: 2026-04-07T18:38:46.099Z
 estimatedTokens: 650
 keywords: [Know, AppExchange, Listing, Builder, edit, Partner, Console, start, building, sections, tasks]
 ---
-
-# Get To Know the AppExchange Listing Builder
 
 > To create or edit an AppExchange listing, use the Listing Builder in the Partner
         Console. Before you start building, get to know the sections of the Listing Builder and the

@@ -5,12 +5,10 @@ topic: authformrequestrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.443Z
+lastCollected: 2026-04-07T18:39:28.514Z
 estimatedTokens: 385
-keywords: [AuthFormRequestRecord, Junction, Authorization, Salesforce, record, authorized, actual, financial, records, shared, third, parties, any, result, consent]
+keywords: [AuthFormRequestRecord, Junction, Authorization, Salesforce, record, authorized, actual, financial, records, shared, third, parties, any, result, consent, API, 52.0]
 ---
-
-# AuthFormRequestRecord
 
 > Junction between an Authorization Request and the Salesforce record that is
          being authorized. For example. the actual financial Salesforce records shared with third

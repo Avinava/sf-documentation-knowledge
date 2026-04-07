@@ -5,12 +5,10 @@ topic: query-performance-feedback-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.814Z
+lastCollected: 2026-04-07T18:36:21.045Z
 estimatedTokens: 937
 keywords: [Query, Performance, Feedback, Beta, Analyzes, SOQL, report, view, executing, Resources, Queries]
 ---
-
-# Query Performance Feedback (Beta)
 
 > Analyzes the performance of a specified SOQL query, report, or list view without
 		executing it.

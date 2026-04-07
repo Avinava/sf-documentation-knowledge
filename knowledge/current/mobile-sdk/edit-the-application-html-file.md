@@ -5,12 +5,10 @@ topic: edit-the-application-html-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.430Z
+lastCollected: 2026-04-07T18:40:25.799Z
 estimatedTokens: 242
 keywords: [Edit, Application, HTML, File, app’s, basic, structure, define, empty, references, links, code, infrastructure]
 ---
-
-# Edit the Application HTML File
 
 > To create your app’s basic structure, define an
 empty HTML page that contains references, links, and code infrastructure.

@@ -5,12 +5,10 @@ topic: example-configure-an-experience-cloud-site-for-facebook-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.916Z
+lastCollected: 2026-04-07T18:40:25.283Z
 estimatedTokens: 489
 keywords: [Configure, Experience, Cloud, Site, Facebook, Authentication, extend, reach, configuring, external, provider, handle, logins]
 ---
-
-# Example: Configure an Experience Cloud Site For Facebook Authentication
 
 > You can extend the reach of your Experience Cloud site by configuring an external
   authentication provider to handle site logins.

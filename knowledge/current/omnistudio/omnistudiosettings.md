@@ -5,12 +5,10 @@ topic: omnistudiosettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.249Z
+lastCollected: 2026-04-07T18:36:42.934Z
 estimatedTokens: 1518
-keywords: [OmniStudioSettings, settings, help, administrators, turn, specific, Omnistudio, features, capabilities, organization, level, Parent, Manifest, Access, File]
+keywords: [OmniStudioSettings, settings, help, administrators, turn, specific, Omnistudio, features, capabilities, organization, level, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# OmniStudioSettings
 
 > Represents the settings that help administrators turn on
 			specific Omnistudio features and capabilities at the organization level.

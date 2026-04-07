@@ -5,12 +5,10 @@ topic: billing-batch-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.280Z
+lastCollected: 2026-04-07T18:35:45.256Z
 estimatedTokens: 82
-keywords: [Billing, Batch, Scheduler, Output, representation, created, invoice, payment]
+keywords: [Billing, Batch, Scheduler, created, invoice, payment]
 ---
-
-# Billing Batch Scheduler
 
 > Output representation of the details of a created invoice or payment
     scheduler.

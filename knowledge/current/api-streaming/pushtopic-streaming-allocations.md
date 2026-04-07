@@ -5,12 +5,10 @@ topic: pushtopic-streaming-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.128Z
+lastCollected: 2026-04-07T18:36:51.446Z
 estimatedTokens: 639
 keywords: [PushTopic, Streaming, Allocations, apply, consumers, API, versions]
 ---
-
-# PushTopic Streaming Allocations
 
 > These default allocations apply to consumers of
    PushTopic Streaming in all API versions.

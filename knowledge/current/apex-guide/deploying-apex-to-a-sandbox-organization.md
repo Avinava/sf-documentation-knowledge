@@ -5,12 +5,10 @@ topic: deploying-apex-to-a-sandbox-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.594Z
+lastCollected: 2026-04-07T18:36:17.828Z
 estimatedTokens: 328
-keywords: [Deploying, Apex, Sandbox, Organization, Sandboxes, copies, Salesforce, org, separate, environments, development, testing, training, compromising, data]
+keywords: [Deploying, Apex, Sandbox, Organization, Sandboxes, copies, Salesforce, org, separate, environments, development, testing, training, compromising, applications, production, isolated, operations, perform, don’t, affect]
 ---
-
-# Deploying Apex to a Sandbox Organization
 
 > Sandboxes create copies of your Salesforce org in separate environments. Use them for
         development, testing, and training without compromising the data and applications in your

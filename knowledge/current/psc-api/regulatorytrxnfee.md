@@ -5,12 +5,10 @@ topic: regulatorytrxnfee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.487Z
+lastCollected: 2026-04-07T18:39:07.708Z
 estimatedTokens: 868
-keywords: [RegulatoryTrxnFee, association, regulatory, transaction, fees, applications, inspections, violations, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [RegulatoryTrxnFee, association, regulatory, transaction, fees, applications, inspections, violations, API, 51.0]
 ---
-
-# RegulatoryTrxnFee
 
 > Represents the association of regulatory transaction fees with your
       applications, inspections, or violations. This object is available in API version 51.0

@@ -5,12 +5,10 @@ topic: getfocusedsubtabobjectid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.280Z
+lastCollected: 2026-04-07T18:36:49.342Z
 estimatedTokens: 314
-keywords: [getFocusedSubtabObjectId, subtab, browser, focused, case, account, API, version, 24.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getFocusedSubtabObjectId, subtab, browser, focused, case, account, API, 24.0, Sample, Code–Visualforce]
 ---
-
-# getFocusedSubtabObjectId()
 
 > Returns the object ID of the subtab on which
             the browser is focused. For example, a case ID or account ID. This method is only

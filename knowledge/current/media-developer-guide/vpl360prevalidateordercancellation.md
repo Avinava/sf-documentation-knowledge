@@ -5,12 +5,10 @@ topic: vpl360prevalidateordercancellation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.839Z
+lastCollected: 2026-04-07T18:38:11.110Z
 estimatedTokens: 167
-keywords: [VPL360_PreValidateOrderCancellation, Integration, Procedure, determine, whether, order, eligible, cancellation, VPL360, _PreValidateOrderCancellation, Sample, Input, Output, Calls]
+keywords: [VPL360_PreValidateOrderCancellation, Integration, Procedure, determine, whether, order, eligible, cancellation, VPL360, _PreValidateOrderCancellation, Sample]
 ---
-
-# VPL360_PreValidateOrderCancellation
 
 > This Integration Procedure is used to determine whether an
     order is eligible for cancellation.

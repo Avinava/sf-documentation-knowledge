@@ -5,12 +5,10 @@ topic: fire-an-entry-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.374Z
+lastCollected: 2026-04-07T18:40:17.542Z
 estimatedTokens: 356
-keywords: [Fire, Entry, Event, There, two, ways, send, events, Journey, Builder, Results, Items]
+keywords: [Results, Fire, Entry, Event, There, two, ways, send, events, Journey, Builder, Items]
 ---
-
-# Fire an Entry Event
 
 > There are two ways to send events to Journey Builder:
 

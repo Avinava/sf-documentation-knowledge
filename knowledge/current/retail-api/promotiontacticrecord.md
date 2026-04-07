@@ -5,12 +5,10 @@ topic: promotiontacticrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.180Z
+lastCollected: 2026-04-07T18:39:10.650Z
 estimatedTokens: 443
-keywords: [Promotion.TacticRecord, APEX, wrapper, Promotion, Tactic, SObject, Records, instance, wraps, Record, parent, TPM_Promotion, provide, manipulate, order]
+keywords: [Promotion.TacticRecord, APEX, wrapper, Promotion, Tactic, SObject, Records, instance, wraps, Record, parent, TPM_Promotion, provide, manipulate, order, flag, insertion, deletion, extract, underlying, updates, made, TPM, _Promotion.TacticRecord, Set<Id>, getEffectiveBrands, API, getEffectiveCategories, _ProductFilter, getProductFilter]
 ---
-
-# Promotion.TacticRecord
 
 > This APEX class provides a wrapper to Promotion Tactic SObject Records. Each instance
   wraps an SObject Record related to the parent TPM_Promotion and provide methods to manipulate them

@@ -5,12 +5,10 @@ topic: datacloud-company-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.190Z
+lastCollected: 2026-04-07T18:37:18.274Z
 estimatedTokens: 217
 keywords: [Datacloud, Company, Collection, Purchase, companies, were, purchased, specific, order]
 ---
-
-# Datacloud Company Collection
 
 > Purchase details for all companies that were purchased for a specific
       order.

@@ -5,12 +5,10 @@ topic: hostedpaymentpagetransactionapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.660Z
+lastCollected: 2026-04-07T18:37:03.228Z
 estimatedTokens: 1080
-keywords: [HostedPaymentPageTransactionAPI, API, Apex, Salesforce, Billing, customers, call, save, credit, card, tokenization, transaction, new, Usage, Inputs]
+keywords: [Inputs, HostedPaymentPageTransactionAPI, API, Apex, Salesforce, Billing, customers, call, save, credit, card, tokenization, transaction, new, chargeTransaction, chargeRequest, savePaymentMethod, paymentMethodRequest]
 ---
-
-# HostedPaymentPageTransactionAPI Class
 
 > Global API Apex class for Salesforce Billing. Contains methods
             that customers can call to save a credit card with tokenization or make a transaction

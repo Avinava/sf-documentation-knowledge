@@ -5,12 +5,10 @@ topic: caredeterminanttypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.340Z
+lastCollected: 2026-04-07T18:39:31.705Z
 estimatedTokens: 269
-keywords: [CareDeterminantTypeHistory, History, tracked, CareDeterminantType]
+keywords: [CareDeterminantTypeHistory, tracked, CareDeterminantType]
 ---
-
-# CareDeterminantTypeHistory
 
 > History for tracked fields of CareDeterminantType.
 

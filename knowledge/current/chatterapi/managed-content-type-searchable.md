@@ -5,12 +5,10 @@ topic: managed-content-type-searchable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.399Z
+lastCollected: 2026-04-07T18:37:20.586Z
 estimatedTokens: 201
 keywords: [Managed, Content, Searchable, status]
 ---
-
-# Managed Content Type Searchable
 
 > Searchable status for a managed content type.
 

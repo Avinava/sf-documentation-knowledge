@@ -5,12 +5,10 @@ topic: validation-when-you-save-code-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.664Z
+lastCollected: 2026-04-07T18:38:05.887Z
 estimatedTokens: 320
-keywords: [Validation, Save, Code, Changes, Aura, component, JavaScript, validated, ensures, components, written, best, practices, avoid, common]
+keywords: [Validation, Save, Code, Changes, Aura, JavaScript, validated, ensures, written, best, practices, avoid, common, pitfalls, incompatible, Lightning, Locker, happens, automatically, resources, Developer, Console, favorite, IDE, via, API]
 ---
-
-# Validation When You Save Code Changes
 
 > Aura component JavaScript code is validated when you save it.
       Validation ensures that your components are written using best practices and avoid common

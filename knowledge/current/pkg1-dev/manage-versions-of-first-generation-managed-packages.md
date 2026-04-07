@@ -5,12 +5,10 @@ topic: manage-versions-of-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.668Z
+lastCollected: 2026-04-07T18:38:54.023Z
 estimatedTokens: 456
 keywords: [Manage, Versions, First-Generation, Managed, Packages, upload, package, AppExchange, Manager]
 ---
-
-# Manage Versions of First-Generation Managed Packages
 
 > After you upload a package to AppExchange, you can still manage it from the Package
     Manager page.

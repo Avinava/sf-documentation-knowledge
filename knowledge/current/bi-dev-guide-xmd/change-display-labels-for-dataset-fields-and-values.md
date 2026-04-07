@@ -5,12 +5,10 @@ topic: change-display-labels-for-dataset-fields-and-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.211Z
+lastCollected: 2026-04-07T18:37:02.765Z
 estimatedTokens: 679
-keywords: [Change, Display, Labels, Dataset, changes, affect, appearance, don’t, alter, underlying, data, stored, API]
+keywords: [Change, Display, Labels, Dataset, changes, affect, appearance, don’t, alter, underlying, stored, API]
 ---
-
-# Change Display Labels for Dataset Fields and Values
 
 > When you change display labels for fields and values, the changes affect only the
     appearance in the UI. The changes don’t alter the underlying data stored in the dataset or the

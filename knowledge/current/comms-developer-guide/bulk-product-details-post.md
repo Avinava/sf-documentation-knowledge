@@ -5,12 +5,10 @@ topic: bulk-product-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.203Z
+lastCollected: 2026-04-07T18:37:26.112Z
 estimatedTokens: 970
 keywords: [Bulk, Product, POST, Retrieve, multiple, products, API, composite, Discovery]
 ---
-
-# Bulk Product Details (POST)
 
 > Retrieve details for multiple products. This API is a composite API
       for Product Discovery.

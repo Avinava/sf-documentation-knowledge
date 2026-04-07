@@ -5,12 +5,10 @@ topic: gift-commitment-default-designations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.143Z
+lastCollected: 2026-04-07T18:37:29.259Z
 estimatedTokens: 120
-keywords: [Gift, Commitment, Designations, associated]
+keywords: [Gift, Commitment, Designations]
 ---
-
-# Gift Commitment Default Designations
 
 > Get default designations associated with a gift commitment.
 

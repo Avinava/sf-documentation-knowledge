@@ -5,12 +5,10 @@ topic: energyattrcertcreditfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.640Z
+lastCollected: 2026-04-07T18:39:39.290Z
 estimatedTokens: 363
-keywords: [EnergyAttrCertCreditFeed, Feed, tracking, EnergyAttrCertCredit]
+keywords: [EnergyAttrCertCreditFeed, EnergyAttrCertCredit]
 ---
-
-# EnergyAttrCertCreditFeed
 
 > Feed tracking for EnergyAttrCertCredit.
 

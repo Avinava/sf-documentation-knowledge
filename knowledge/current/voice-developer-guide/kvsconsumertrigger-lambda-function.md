@@ -5,12 +5,10 @@ topic: kvsconsumertrigger-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.962Z
+lastCollected: 2026-04-07T18:40:12.903Z
 estimatedTokens: 477
 keywords: [kvsConsumerTrigger, Lambda, Function, initiation, point, starting, real-time, transcription]
 ---
-
-# kvsConsumerTrigger Lambda Function
 
 > This Lambda function is the initiation point for starting real-time
       transcription.

@@ -5,12 +5,10 @@ topic: execute-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.418Z
+lastCollected: 2026-04-07T18:40:22.838Z
 estimatedTokens: 189
 keywords: [Execute, via, WSProxy, action, function]
 ---
-
-# Execute via WSProxy
 
 > To execute an action, use the execute function.
 

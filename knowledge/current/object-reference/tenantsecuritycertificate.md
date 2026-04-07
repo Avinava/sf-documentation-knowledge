@@ -5,12 +5,10 @@ topic: tenantsecuritycertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.542Z
+lastCollected: 2026-04-07T18:38:42.305Z
 estimatedTokens: 618
-keywords: [TenantSecurityCertificate, Stores, metric, key, certificate, binds, identity, entity, API, version, 63.0, later, Calls, Special, Access]
+keywords: [TenantSecurityCertificate, Stores, metric, key, certificate, binds, identity, entity, API, 63.0]
 ---
-
-# TenantSecurityCertificate
 
 > Stores metric details related to public key certificate information.
          The certificate binds the public key to the identity of an entity. This object is

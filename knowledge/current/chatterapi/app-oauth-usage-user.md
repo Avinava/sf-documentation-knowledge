@@ -5,12 +5,10 @@ topic: app-oauth-usage-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.636Z
+lastCollected: 2026-04-07T18:37:16.710Z
 estimatedTokens: 243
-keywords: [App, OAuth, Usage, User]
+keywords: [App, OAuth, User]
 ---
-
-# App OAuth Usage User
 
 > OAuth user.
 

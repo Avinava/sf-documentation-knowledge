@@ -5,12 +5,10 @@ topic: custom-block-widget-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.945Z
+lastCollected: 2026-04-07T18:40:21.220Z
 estimatedTokens: 225
-keywords: [Custom, Block, Widget, Best, Practices, developing, blocks, adhere, Lightning, Design, System, Remember, User, Choices, Canvas]
+keywords: [Block, Widget, Best, Practices, developing, blocks, adhere, Lightning, Design, System, Remember, User, Choices, Canvas, Real, Time]
 ---
-
-# Custom Block Widget Best Practices
 
 > When developing custom blocks, adhere to these best practices.
 

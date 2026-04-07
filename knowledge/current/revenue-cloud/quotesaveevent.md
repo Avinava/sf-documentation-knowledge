@@ -5,12 +5,10 @@ topic: quotesaveevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:05.407Z
+lastCollected: 2026-04-07T18:35:50.298Z
 estimatedTokens: 437
-keywords: [QuoteSaveEvent, Notifies, subscribers, process, started, Place, Quote, Sales, Transaction, API, successful, event, updated, isn't, errors]
+keywords: [QuoteSaveEvent, Notifies, subscribers, process, started, Place, Quote, Sales, Transaction, API, successful, event, updated, isn't, errors, how, fix, 60.0, Streaming, Subscription, Channel]
 ---
-
-# QuoteSaveEvent
 
 > Notifies subscribers that the process started by the Place Quote or
 			Place Sales Transaction API request is complete. If the process is successful, use this

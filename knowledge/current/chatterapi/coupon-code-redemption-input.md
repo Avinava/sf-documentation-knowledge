@@ -5,12 +5,10 @@ topic: coupon-code-redemption-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.166Z
+lastCollected: 2026-04-07T18:37:07.969Z
 estimatedTokens: 141
-keywords: [Coupon, Code, Redemption, Input, representation]
+keywords: [Coupon, Code, Redemption]
 ---
-
-# Coupon Code Redemption Input
 
 > Input representation for coupon code redemption.
 

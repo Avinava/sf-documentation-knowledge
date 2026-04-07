@@ -5,12 +5,10 @@ topic: userdailymetricownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.765Z
+lastCollected: 2026-04-07T18:38:43.533Z
 estimatedTokens: 779
-keywords: [UserDailyMetricOwnerSharingRule, rules, sharing, user, daily, metric, users, owner, Calls, Special, Access, Usage]
+keywords: [UserDailyMetricOwnerSharingRule, sharing, user, daily, metric, users, owner]
 ---
-
-# UserDailyMetricOwnerSharingRule
 
 > Represents the rules for sharing the user daily metric with users
       other than the owner.

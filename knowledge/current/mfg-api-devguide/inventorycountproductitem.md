@@ -5,12 +5,10 @@ topic: inventorycountproductitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.556Z
+lastCollected: 2026-04-07T18:38:13.869Z
 estimatedTokens: 1184
-keywords: [InventoryCountProductItem, inventory, count, product, location, Item, child, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [InventoryCountProductItem, inventory, count, product, location, Item, child, API, 63.0]
 ---
-
-# InventoryCountProductItem
 
 > Represents the inventory count of a product at a location. Inventory Count
          Product Item is a child object of Inventory Count. This object is available in API

@@ -5,12 +5,10 @@ topic: post-interactionv1interactionsstopidversionnumberversionnumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.108Z
+lastCollected: 2026-04-07T18:40:18.302Z
 estimatedTokens: 279
-keywords: [POST, interaction, interactions, stop, versionNumber=, versionNumber, Stops, running, journey, call, resource, assign, API, Integration, Automation]
+keywords: [POST, interaction, interactions, stop, versionNumber=, versionNumber, Stops, running, journey, call, resource, assign, API, Integration, Automation, scope, **Overview**]
 ---
-
-# POST /interaction/v1/interactions/stop/{id}?versionNumber={versionNumber}
 
 > Stops a running journey. To call this resource, assign your API Integration the Automation | Interactions | Read scope.
 

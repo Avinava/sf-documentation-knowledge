@@ -5,12 +5,10 @@ topic: integration-procedure-service-run
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:51.570Z
+lastCollected: 2026-04-07T18:36:37.105Z
 estimatedTokens: 133
-keywords: [Integration, Procedure, Service, Run, Input, representation, execute, Apex]
+keywords: [Integration, Procedure, Service, Run, execute, Apex]
 ---
-
-# Integration Procedure Service Run
 
 > Input representation of the details to execute an integration procedure from
     Apex.

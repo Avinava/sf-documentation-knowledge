@@ -5,12 +5,10 @@ topic: industrieseventorchsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.746Z
+lastCollected: 2026-04-07T18:38:13.072Z
 estimatedTokens: 409
-keywords: [IndustriesEventOrchSettings, settings, enabling, Manufacturing, cloud, feature, Event, Orchestration, Decision, Parent, Manifest, Access, File, Suffix, Directory]
+keywords: [IndustriesEventOrchSettings, settings, enabling, Manufacturing, cloud, feature, Event, Orchestration, Decision, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# IndustriesEventOrchSettings
 
 > Represents the settings for enabling Manufacturing
 			cloud feature like Event Orchestration Decision Table.

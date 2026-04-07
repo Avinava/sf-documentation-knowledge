@@ -5,13 +5,11 @@ topic: relatedcontentitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.213Z
+lastCollected: 2026-04-07T18:36:00.487Z
 estimatedTokens: 516
 namespace: Metadata
-keywords: [RelatedContentItem, individual, item, RelatedContent, Usage, layoutItem, clone]
+keywords: [RelatedContentItem, individual, item, RelatedContent, layoutItem, clone]
 ---
-
-# RelatedContentItem Class
 
 > Represents an individual item in the RelatedContent list.
 

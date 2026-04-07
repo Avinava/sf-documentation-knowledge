@@ -5,12 +5,10 @@ topic: conversation-unread-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.980Z
+lastCollected: 2026-04-07T18:37:18.050Z
 estimatedTokens: 130
 keywords: [Conversation, Unread, Count]
 ---
-
-# Conversation Unread Count
 
 > Conversation unread count.
 

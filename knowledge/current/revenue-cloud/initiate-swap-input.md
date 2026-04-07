@@ -5,12 +5,10 @@ topic: initiate-swap-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.442Z
+lastCollected: 2026-04-07T18:35:43.336Z
 estimatedTokens: 184
-keywords: [Initiate, Swap, Input, representation, action]
+keywords: [Initiate, Swap, action]
 ---
-
-# Initiate Swap Input
 
 > Input representation of the details of the request to initiate a swap action.
 

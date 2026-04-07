@@ -5,12 +5,10 @@ topic: connectapieinsteinprompttemplatemasksettingsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.465Z
+lastCollected: 2026-04-07T18:36:08.901Z
 estimatedTokens: 76
-keywords: [Data, masking, settings, prompt, template]
+keywords: [masking, settings, prompt, template]
 ---
-
-# ConnectApi.​EinsteinPrompt​TemplateMaskSettings​Representation
 
 > Data masking settings for a prompt template.
 

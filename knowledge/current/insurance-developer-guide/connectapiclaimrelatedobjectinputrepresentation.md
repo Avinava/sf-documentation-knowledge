@@ -5,12 +5,10 @@ topic: connectapiclaimrelatedobjectinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.826Z
+lastCollected: 2026-04-07T18:37:49.693Z
 estimatedTokens: 97
-keywords: [Input, representation, claim]
+keywords: [claim]
 ---
-
-# ConnectApi.ClaimRelatedObjectInputRepresentation
 
 > Input representation for a related object on a claim.
 

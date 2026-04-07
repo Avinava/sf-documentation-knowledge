@@ -5,12 +5,10 @@ topic: calculation-procedure-version-definition-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.180Z
+lastCollected: 2026-04-07T18:36:38.838Z
 estimatedTokens: 634
-keywords: [Calculation, Procedure, Version, Definition, Output, representation, expression]
+keywords: [Calculation, Procedure, Definition, expression]
 ---
-
-# Calculation Procedure Version Definition Output
 
 > Output representation of the expression set version
     definition.

@@ -5,12 +5,10 @@ topic: filetransferactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.838Z
+lastCollected: 2026-04-07T18:40:17.000Z
 estimatedTokens: 890
 keywords: [FileTransferActivity, instance, file, transfer, activity, account, perform, start, Interactions, Activities, permission, PartnerProperties, Items]
 ---
-
-# FileTransferActivity
 
 > The FileTransferActivity object represents an instance of a file transfer activity within an account. Use the perform method on an existing file transfer activity. To start a FileTransferActivity using the perform method, you need the Interactions | Activities | File Transfer | Start permission.
 

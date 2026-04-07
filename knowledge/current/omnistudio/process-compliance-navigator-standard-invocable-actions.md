@@ -5,12 +5,10 @@ topic: process-compliance-navigator-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.728Z
+lastCollected: 2026-04-07T18:36:43.466Z
 estimatedTokens: 242
 keywords: [Process, Compliance, Navigator, Standard, Invocable, Actions]
 ---
-
-# Process Compliance Navigator Standard Invocable Actions
 
 > Learn more about the standard invocable actions available with Process Compliance
     Navigator.

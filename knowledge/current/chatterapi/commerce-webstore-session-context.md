@@ -5,12 +5,10 @@ topic: commerce-webstore-session-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.848Z
+lastCollected: 2026-04-07T18:37:12.726Z
 estimatedTokens: 90
 keywords: [Commerce, Webstore, Session, Context, store]
 ---
-
-# Commerce Webstore Session Context
 
 > Get session context information for a Commerce
     store.

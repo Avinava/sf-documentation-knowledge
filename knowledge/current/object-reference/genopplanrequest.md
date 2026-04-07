@@ -5,12 +5,10 @@ topic: genopplanrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.264Z
+lastCollected: 2026-04-07T18:38:33.392Z
 estimatedTokens: 1036
-keywords: [GenOpPlanRequest, generate, service, plan, API, version, 67.0, later, Calls, Special, Access, Rules]
+keywords: [GenOpPlanRequest, generate, service, plan, API, 67.0]
 ---
-
-# GenOpPlanRequest
 
 > Represents a request to generate a service plan. This object is
 			available in API version 67.0 and later.

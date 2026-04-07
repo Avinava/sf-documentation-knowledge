@@ -5,12 +5,10 @@ topic: privacyrtbfrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.269Z
+lastCollected: 2026-04-07T18:39:54.823Z
 estimatedTokens: 388
-keywords: [PrivacyRTBFRequest, Right, Forgotten, made, Privacy, Center, API, version, 59.0, later]
+keywords: [PrivacyRTBFRequest, Right, Forgotten, made, Privacy, Center, API, 59.0]
 ---
-
-# PrivacyRTBFRequest
 
 > Represents a Right to Be Forgotten Request made in Privacy Center. This
       object is available in API version 59.0 and later.

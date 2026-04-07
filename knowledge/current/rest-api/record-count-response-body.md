@@ -5,12 +5,10 @@ topic: record-count-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.398Z
+lastCollected: 2026-04-07T18:36:21.640Z
 estimatedTokens: 176
 keywords: [Record, Count, result, Results, sObject]
 ---
-
-# Record Count Response Body
 
 > Describes the result of a Record Count request.
 

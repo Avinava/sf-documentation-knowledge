@@ -5,12 +5,10 @@ topic: pendingservicerouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.583Z
+lastCollected: 2026-04-07T18:38:37.910Z
 estimatedTokens: 3024
-keywords: [PendingServiceRouting, routing, work, item, that’s, waiting, routed, assigned, API, version, 40.0, later, Calls, Special, Access]
+keywords: [PendingServiceRouting, Limits, routing, work, item, that’s, waiting, routed, assigned, API, 40.0]
 ---
-
-# PendingServiceRouting
 
 > Represents the routing details of a work item that’s waiting to be
 			routed or assigned. This object is available in API version 40.0 and

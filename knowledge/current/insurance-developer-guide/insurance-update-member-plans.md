@@ -5,12 +5,10 @@ topic: insurance-update-member-plans
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.480Z
+lastCollected: 2026-04-07T18:37:52.669Z
 estimatedTokens: 191
-keywords: [Insurance, Member, Plans, Output, representation, operation]
+keywords: [Insurance, Member, Plans, operation]
 ---
-
-# Insurance Update Member Plans
 
 > Output representation for the update member plans operation.
 

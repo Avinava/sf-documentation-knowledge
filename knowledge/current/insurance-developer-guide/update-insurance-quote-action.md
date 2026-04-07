@@ -5,12 +5,10 @@ topic: update-insurance-quote-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.268Z
+lastCollected: 2026-04-07T18:37:49.030Z
 estimatedTokens: 524
-keywords: [Insurance, Quote, Action, adding, updating, deleting, nodes, optionally, executing, pricing, rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Insurance, Quote, Action, adding, updating, deleting, nodes, optionally, executing, pricing, REST, HTTP]
 ---
-
-# Update Insurance Quote Action
 
 > Update an existing insurance quote by adding, updating, or deleting
             nodes and optionally executing pricing and rules.

@@ -5,12 +5,10 @@ topic: voice-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.368Z
+lastCollected: 2026-04-07T18:37:16.433Z
 estimatedTokens: 215
-keywords: [Voice, Resources, email, address, AWS, root, user, that's, associated, account, apply, Service, Cloud, Amazon, Connect]
+keywords: [Voice, Resources, email, address, AWS, root, user, that's, account, apply, Service, Cloud, Amazon, Connect, partner, telephony, model]
 ---
-
-# Voice Resources
 
 > Update the email address of the AWS root user that's associated
             with the Voice account. These resources apply to the Service Cloud Voice with Amazon

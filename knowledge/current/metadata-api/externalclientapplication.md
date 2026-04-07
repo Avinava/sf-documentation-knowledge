@@ -5,12 +5,10 @@ topic: externalclientapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.266Z
+lastCollected: 2026-04-07T18:36:25.760Z
 estimatedTokens: 753
-keywords: [ExternalClientApplication, file, external, client, application, configuration, Parent, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
+keywords: [ExternalClientApplication, file, external, client, application, configuration, Parent, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ExternalClientApplication
 
 > Represents the header file for an external client
 			application configuration.

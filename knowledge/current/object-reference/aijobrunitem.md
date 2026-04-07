@@ -5,12 +5,10 @@ topic: aijobrunitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.221Z
+lastCollected: 2026-04-07T18:38:25.165Z
 estimatedTokens: 577
-keywords: [AiJobRunItem, Stores, individual, item, associated, parent, AiJobRun, including, inputs, resulting, API, version, 63.0, later, Calls]
+keywords: [AiJobRunItem, Stores, individual, item, parent, AiJobRun, including, inputs, resulting, API, 63.0]
 ---
-
-# AiJobRunItem
 
 > Stores an individual item associated with a parent AiJobRun, including the
          inputs and resulting response.  This object is available in API version 63.0 and

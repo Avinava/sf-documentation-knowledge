@@ -5,12 +5,10 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.292Z
+lastCollected: 2026-04-07T18:37:05.013Z
 estimatedTokens: 150
-keywords: [Introduction, document, explains, Salesforce, configurations, export, CSV, files, Real, Time, Reporting, RTR, Integration, API, customizing]
+keywords: [Introduction, document, explains, Salesforce, configurations, export, CSV, files, Real, Time, Reporting, RTR, Integration, API, customizing, APEX, exports, support, BOM]
 ---
-
-# Introduction
 
 > This document explains the Salesforce configurations required to
       export CSV files from within Real Time Reporting (RTR) using the Integration API, and provides

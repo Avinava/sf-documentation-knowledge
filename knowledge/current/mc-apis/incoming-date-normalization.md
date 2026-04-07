@@ -5,12 +5,10 @@ topic: incoming-date-normalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.448Z
+lastCollected: 2026-04-07T18:40:17.629Z
 estimatedTokens: 626
 keywords: [Incoming, Date, Normalization, dates, times, server, time, SOAP, message, API, Affected, Items]
 ---
-
-# Incoming Date Normalization
 
 > This page contains information about the normalization of incoming dates and times to the server time through a SOAP message on the API.
 

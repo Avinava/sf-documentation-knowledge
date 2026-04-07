@@ -5,13 +5,11 @@ topic: paymentgatewayprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:58.407Z
+lastCollected: 2026-04-07T18:39:52.918Z
 estimatedTokens: 384
 namespace: NamespacePrefix
-keywords: [PaymentGatewayProvider, Setup, entity, payment, gateways, connection, gateway, Apex, adapter, API, version, 48.0, later]
+keywords: [PaymentGatewayProvider, Setup, entity, payment, gateways, connection, gateway, Apex, adapter, API, 48.0]
 ---
-
-# PaymentGatewayProvider
 
 > Setup entity for payment gateways. Defines the connection to a payment gateway
       Apex adapter. This object is available in API version 48.0 and later.

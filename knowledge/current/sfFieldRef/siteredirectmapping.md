@@ -5,12 +5,10 @@ topic: siteredirectmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.671Z
+lastCollected: 2026-04-07T18:40:02.357Z
 estimatedTokens: 321
-keywords: [SiteRedirectMapping, site, redirect, external, Experience, Cloud, API, version, 52.0, later]
+keywords: [SiteRedirectMapping, site, redirect, external, Experience, Cloud, API, 52.0]
 ---
-
-# SiteRedirectMapping
 
 > Represents a site redirect from an external site to an Experience Cloud site.
       This object is available in API version 52.0 and later.

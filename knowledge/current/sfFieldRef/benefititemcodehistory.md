@@ -5,12 +5,10 @@ topic: benefititemcodehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.102Z
+lastCollected: 2026-04-07T18:39:29.215Z
 estimatedTokens: 264
-keywords: [BenefitItemCodeHistory, History, tracked, BenefitItemCode]
+keywords: [BenefitItemCodeHistory, tracked, BenefitItemCode]
 ---
-
-# BenefitItemCodeHistory
 
 > History for tracked fields of BenefitItemCode.
 

@@ -5,12 +5,10 @@ topic: connectapirequestheaderinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.957Z
+lastCollected: 2026-04-07T18:36:06.303Z
 estimatedTokens: 151
 keywords: [ConnectApi.RequestHeaderInput, HTTP, pair]
 ---
-
-# ConnectApi.RequestHeaderInput
 
 > An HTTP request header name and value pair.
 

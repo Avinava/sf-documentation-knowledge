@@ -5,12 +5,10 @@ topic: associate-actions-to-records-with-process-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.082Z
+lastCollected: 2026-04-07T18:39:17.760Z
 estimatedTokens: 1475
-keywords: [Associate, Actions, Records, Process, Builder, point-and-click, automation, tool, design, processes, kick, off, new, updated, record]
+keywords: [Associate, Actions, Records, Process, Builder, point-and-click, automation, tool, design, processes, kick, off, new, updated, record, meets, specific, criteria, flows, quick, building, triggered, creates, RecordAction, association, action, kicked]
 ---
-
-# Associate Actions to Records with Process Builder
 
 > Process Builder is a point-and-click automation tool that you can use to design
         processes that kick off when a new or updated record meets specific criteria. After you

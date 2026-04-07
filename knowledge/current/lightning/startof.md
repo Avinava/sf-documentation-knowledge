@@ -5,12 +5,10 @@ topic: startof
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.054Z
+lastCollected: 2026-04-07T18:38:05.224Z
 estimatedTokens: 132
 keywords: [startOf, date, start, unit, time, Sample, Code]
 ---
-
-# startOf()
 
 > Returns a date that is the start of a unit of time for the given
    date.

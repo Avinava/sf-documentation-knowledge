@@ -5,12 +5,10 @@ topic: smart-data-discovery-training-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.458Z
+lastCollected: 2026-04-07T18:36:59.949Z
 estimatedTokens: 134
-keywords: [Smart, Data, Discovery, Training, Metrics, collection, Einstein, model]
+keywords: [Smart, Discovery, Training, Metrics, collection, Einstein, model]
 ---
-
-# Smart Data Discovery Training Metrics
 
 > A collection of Einstein Discovery metrics from training a model.
 

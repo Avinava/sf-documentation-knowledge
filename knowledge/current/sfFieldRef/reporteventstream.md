@@ -5,12 +5,10 @@ topic: reporteventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.115Z
+lastCollected: 2026-04-07T18:39:59.795Z
 estimatedTokens: 691
-keywords: [ReportEventStream, Tracks, report-related, actions, user, runs, exports, report, API, version, 46.0, later]
+keywords: [ReportEventStream, Tracks, report-related, actions, user, runs, exports, report, API, 46.0]
 ---
-
-# ReportEventStream
 
 > Tracks report-related actions, such as when a user runs or exports a
 			report. This object is available in API version 46.0 and later.

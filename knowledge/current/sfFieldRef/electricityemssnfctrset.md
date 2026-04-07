@@ -5,12 +5,10 @@ topic: electricityemssnfctrset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.082Z
+lastCollected: 2026-04-07T18:39:38.756Z
 estimatedTokens: 1465
-keywords: [ElectricityEmssnFctrSet, factors, convert, electricity, usage, CO₂e, CO₂, CH₄, N₂O, record, holds, data, breakdown, sources, fuel]
+keywords: [ElectricityEmssnFctrSet, factors, convert, electricity, CO₂e, CO₂, CH₄, N₂O, record, holds, breakdown, sources, fuel, grid, mixes]
 ---
-
-# ElectricityEmssnFctrSet
 
 > Represents the factors that are used to convert electricity usage into CO₂e,
          CO₂, CH₄, and N₂O values. This record holds data on the breakdown of sources of electricity

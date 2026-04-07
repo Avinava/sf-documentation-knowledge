@@ -5,12 +5,10 @@ topic: using-javascript-in-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.339Z
+lastCollected: 2026-04-07T18:38:51.593Z
 estimatedTokens: 305
-keywords: [JavaScript, Visualforce, Pages, gives, access, wide, range, functionality, libraries, ways, customize, Action, tags, <apex, actionFunction>]
+keywords: [JavaScript, Visualforce, Pages, gives, wide, range, functionality, libraries, ways, customize, Action, tags, <apex, actionFunction>, actionSupport>, support, Ajax, requests]
 ---
-
-# Using JavaScript in Visualforce Pages
 
 > Using JavaScript in Visualforce
   pages gives you access to a wide range of existing JavaScript functionality, such as JavaScript

@@ -5,12 +5,10 @@ topic: bookmark-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.706Z
+lastCollected: 2026-04-07T18:36:18.925Z
 estimatedTokens: 95
-keywords: [Bookmark, Feed, Element, Call]
+keywords: [Bookmark, Call]
 ---
-
-# Bookmark a Feed Element
 
 > Call a method to bookmark a feed element.
 

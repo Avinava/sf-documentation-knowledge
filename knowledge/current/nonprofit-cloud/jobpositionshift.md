@@ -5,12 +5,10 @@ topic: jobpositionshift
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.414Z
+lastCollected: 2026-04-07T18:38:23.316Z
 estimatedTokens: 1151
-keywords: [JobPositionShift, specific, work, shift, associated, job, position, recurrence, schedules, API, version, 64.0, later, Calls, Special]
+keywords: [JobPositionShift, specific, work, shift, job, position, recurrence, schedules, API, 64.0]
 ---
-
-# JobPositionShift
 
 > Represents a specific work shift associated with a job position or
          one of its related recurrence schedules. This object is available in API version 64.0

@@ -5,12 +5,10 @@ topic: insurance-quote-config-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.972Z
+lastCollected: 2026-04-07T18:37:50.905Z
 estimatedTokens: 233
-keywords: [Insurance, Quote, Config, Options, Input, representation, line, item, objects]
+keywords: [Insurance, Quote, Config, Options, line, item]
 ---
-
-# Insurance Quote Config Options
 
 > Input representation of insurance quote line item related objects.
 

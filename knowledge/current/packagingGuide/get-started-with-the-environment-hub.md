@@ -5,12 +5,10 @@ topic: get-started-with-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.834Z
+lastCollected: 2026-04-07T18:38:46.807Z
 estimatedTokens: 358
-keywords: [Started, Environment, Hub, Configure, users, company, access, app, manage, member, orgs, connect, SSO, user, mappings]
+keywords: [Started, Environment, Hub, Configure, users, company, app, manage, member, orgs, connect, SSO, user, mappings]
 ---
-
-# Get Started with the Environment Hub
 
 > Configure the Environment Hub so that users at your company can access the app to create
   and manage member orgs. Then connect existing orgs to the hub and create SSO user

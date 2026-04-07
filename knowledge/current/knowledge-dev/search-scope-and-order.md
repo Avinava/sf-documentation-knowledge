@@ -5,12 +5,10 @@ topic: search-scope-and-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.943Z
+lastCollected: 2026-04-07T18:37:54.245Z
 estimatedTokens: 200
-keywords: [Search, Scope, Order, ordered, objects, logged-in, user, keeps, track, interacts, how, often, arranges, results, accordingly]
+keywords: [Search, Scope, Order, ordered, logged-in, user, keeps, track, interacts, how, often, arranges, results, accordingly, frequently, appear, top]
 ---
-
-# Search Scope and Order
 
 > Returns an ordered list of objects in the default global
    search scope of a logged-in user. Global search keeps track of which objects the user interacts

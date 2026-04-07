@@ -5,12 +5,10 @@ topic: unenroll-a-member
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.446Z
+lastCollected: 2026-04-07T18:38:07.678Z
 estimatedTokens: 362
 keywords: [Unenroll, Member, loyalty, program, URL, Sample, JSON, Requests]
 ---
-
-# Unenroll a Member
 
 > Unenroll a member from a loyalty program.
 

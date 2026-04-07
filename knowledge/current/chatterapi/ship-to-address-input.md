@@ -5,12 +5,10 @@ topic: ship-to-address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.531Z
+lastCollected: 2026-04-07T18:37:10.239Z
 estimatedTokens: 145
-keywords: [Ship, Address, Input]
+keywords: [Ship, Address]
 ---
-
-# Ship to Address Input
 
 > Ship to address input.
 

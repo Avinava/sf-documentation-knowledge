@@ -5,12 +5,10 @@ topic: datasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.975Z
+lastCollected: 2026-04-07T18:40:22.364Z
 estimatedTokens: 297
-keywords: [Datasource, uses, block, tag, add, data, item, context, templates, similar, functionality, defined, inline, part, template]
+keywords: [Datasource, Template, uses, block, tag, add, item, context, templates, similar, functionality, defined, inline, part]
 ---
-
-# Datasource
 
 > Guide uses the block datasource tag to add a data item to the data context used by the templates. While datasource uses similar functionality to the section tag, the datasource tag uses a datasource defined inline as part of the template.
 

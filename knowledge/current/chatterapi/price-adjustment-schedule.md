@@ -5,12 +5,10 @@ topic: price-adjustment-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.745Z
+lastCollected: 2026-04-07T18:37:21.856Z
 estimatedTokens: 165
 keywords: [Price, Adjustment, Schedule]
 ---
-
-# Price Adjustment Schedule
 
 > Price adjustment schedule.
 

@@ -5,12 +5,10 @@ topic: cms-content-search-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.989Z
+lastCollected: 2026-04-07T18:37:23.105Z
 estimatedTokens: 250
 keywords: [CMS, Content, Search, Item, result]
 ---
-
-# CMS Content Search Item
 
 > CMS Content Search result item.
 

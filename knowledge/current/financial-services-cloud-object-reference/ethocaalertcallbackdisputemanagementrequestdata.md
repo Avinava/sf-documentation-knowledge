@@ -5,12 +5,10 @@ topic: ethocaalertcallbackdisputemanagementrequestdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.350Z
+lastCollected: 2026-04-07T18:37:33.770Z
 estimatedTokens: 259
-keywords: [ethocaAlertCallback, disputeManagementRequestData, Send, Ethoca, alert, callback, transaction, dispute, management, API, Version, Requires, Chatter]
+keywords: [ethocaAlertCallback, disputeManagementRequestData, Send, Ethoca, alert, callback, transaction, dispute, management, API, Requires, Chatter]
 ---
-
-# ethocaAlertCallback(disputeManagementRequestData)
 
 > Send an Ethoca alert callback for transaction dispute management.
 

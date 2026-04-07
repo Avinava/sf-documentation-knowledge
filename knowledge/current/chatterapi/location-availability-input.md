@@ -5,12 +5,10 @@ topic: location-availability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.064Z
+lastCollected: 2026-04-07T18:37:08.844Z
 estimatedTokens: 133
-keywords: [Location, Availability, Input, quantity, product, inventory]
+keywords: [Location, Availability, quantity, product, inventory]
 ---
-
-# Location Availability Input
 
 > The available quantity of a product at an inventory
     location.

@@ -5,12 +5,10 @@ topic: reportevent-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.444Z
+lastCollected: 2026-04-07T18:39:22.335Z
 estimatedTokens: 571
-keywords: [ReportEvent, Policies, Report, event, monitor, data, viewed, downloaded, reports, Policy, Glance]
+keywords: [ReportEvent, Policies, Report, event, monitor, viewed, downloaded, reports, Policy, Glance]
 ---
-
-# ReportEvent Policies
 
 > Report event policies monitor when data is viewed or downloaded from your
   reports.

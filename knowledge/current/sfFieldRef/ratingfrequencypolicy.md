@@ -5,12 +5,10 @@ topic: ratingfrequencypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.738Z
+lastCollected: 2026-04-07T18:39:58.402Z
 estimatedTokens: 342
-keywords: [RatingFrequencyPolicy, policy, frequency, rating, triggered, ratable, summary, records, API, version, 62.0, later]
+keywords: [RatingFrequencyPolicy, policy, frequency, rating, triggered, ratable, summary, records, API, 62.0]
 ---
-
-# RatingFrequencyPolicy
 
 > Represents the policy that defines the frequency at which rating is
          triggered for the ratable summary records. This object is available in API version

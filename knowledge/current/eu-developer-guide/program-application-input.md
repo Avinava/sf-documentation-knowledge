@@ -5,12 +5,10 @@ topic: program-application-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.089Z
+lastCollected: 2026-04-07T18:37:32.262Z
 estimatedTokens: 168
-keywords: [Program, Application, Input, representation]
+keywords: [Program, Application]
 ---
-
-# Program Application Input
 
 > Input representation of an application to a program.
 

@@ -5,12 +5,10 @@ topic: sample-image-link-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.363Z
+lastCollected: 2026-04-07T18:40:12.380Z
 estimatedTokens: 530
-keywords: [Sample, Image, Link, Formulas, links, Yahoo, Instant, Messenger™, Flags, Case, Priority, Color, Squares, Age, Traffic]
+keywords: [Sample, Image, Link, Formulas, links, Yahoo, Instant, Messenger™, Flags, Case, Priority, Color, Squares, Age, Traffic, Lights, Status, Stars, Ratings, Consumer, Reports™—Style, Colored, Circles, Horizontal, Bars, Indicate, Scoring]
 ---
-
-# Sample Image Link Formulas
 
 > Use these formulas for image links.
 

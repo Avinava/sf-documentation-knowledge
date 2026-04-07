@@ -5,12 +5,10 @@ topic: quoted-string-escape-sequences
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.185Z
+lastCollected: 2026-04-07T18:40:10.158Z
 estimatedTokens: 413
-keywords: [Quoted, Escape, Sequences, SOQL, several, queries, include, special, characters, new, lines, carriage, tabs, quotes, character]
+keywords: [Quoted, Escape, Sequences, SOQL, several, queries, include, characters, new, lines, carriage, tabs, quotes, character, backslash, Escaped, Examples]
 ---
-
-# Quoted String Escape Sequences
 
 > SOQL defines several escape sequences that are valid in queries so that you can  include
   special characters in your queries. You can escape new lines, carriage returns, tabs, quotes, and

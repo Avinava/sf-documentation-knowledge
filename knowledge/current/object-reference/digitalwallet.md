@@ -5,12 +5,10 @@ topic: digitalwallet
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:39.005Z
+lastCollected: 2026-04-07T18:38:29.874Z
 estimatedTokens: 2522
-keywords: [DigitalWallet, customer’s, digital, wallet, service, Salesforce, Payments, payment, source, processing, gateway, API, version, 48.0, later]
+keywords: [DigitalWallet, customer’s, digital, wallet, service, Salesforce, Payments, payment, source, processing, gateway, API, 48.0]
 ---
-
-# DigitalWallet
 
 > Represents a customer’s digital wallet service. Salesforce Payments can use a digital wallet as a payment source when processing payments through a payment gateway. This
 		object is available in API version 48.0 and later.

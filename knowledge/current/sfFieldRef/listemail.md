@@ -5,12 +5,10 @@ topic: listemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.770Z
+lastCollected: 2026-04-07T18:39:46.321Z
 estimatedTokens: 576
-keywords: [ListEmail, email, sent, Salesforce, Account, Engagement, synced, recipients, generated, combining, ListEmailIndividualRecipients, ListEmailRecipientSource, Duplicate, invalid, removed]
+keywords: [ListEmail, email, sent, Salesforce, Account, Engagement, synced, recipients, generated, combining, ListEmailIndividualRecipients, ListEmailRecipientSource, Duplicate, invalid, removed, result, any, one-to-many, relationship, ListEmailIndividualRecipient, API, 41.0]
 ---
-
-# ListEmail
 
 > Represents a list email sent from Salesforce, or sent from Account
 			Engagement and synced to Salesforce. When the list email is sent, the recipients are

@@ -5,12 +5,10 @@ topic: source-object-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.191Z
+lastCollected: 2026-04-07T18:36:57.746Z
 estimatedTokens: 205
-keywords: [Source, Data, retrieved, advanced]
+keywords: [Source, retrieved, advanced]
 ---
-
-# Source Object Data
 
 > The data retrieved from a source object given a list of fields and advanced
   properties.

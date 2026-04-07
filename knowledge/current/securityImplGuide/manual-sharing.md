@@ -5,12 +5,10 @@ topic: manual-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.489Z
+lastCollected: 2026-04-07T18:39:22.380Z
 estimatedTokens: 984
 keywords: [Manual, Sharing, users, share, individual, records, groups, roles, Creation, Shares, Deletion]
 ---
-
-# Manual Sharing
 
 > Manual sharing allows users to share individual records with other users, public
     groups, and roles.

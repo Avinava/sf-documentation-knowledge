@@ -5,12 +5,10 @@ topic: benefit-assignment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.279Z
+lastCollected: 2026-04-07T18:37:29.376Z
 estimatedTokens: 347
 keywords: [Benefit, Assignment, POST, Add, provider’s, contact, record, Party-Role, Relationship, PRR, CCR, records, aren’t, already, present]
 ---
-
-# Benefit Assignment (POST)
 
 > Add the provider’s contact ID to the
       benefit assignment record. Create Party-Role Relationship (PRR) and Contact Contact

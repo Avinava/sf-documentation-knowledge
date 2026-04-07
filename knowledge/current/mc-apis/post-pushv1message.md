@@ -5,12 +5,10 @@ topic: post-pushv1message
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.874Z
+lastCollected: 2026-04-07T18:40:16.005Z
 estimatedTokens: 3726
-keywords: [POST, push, message, Creates, template, sending, subscribers, audience, inclusion, data, extension, personalize, subscriber, personalization, strings]
+keywords: [POST, push, message, Creates, template, sending, subscribers, audience, inclusion, extension, personalize, subscriber, personalization, strings, AMPscript, lookups, definition, **Overview**, Outbound, Alert, Location, Entry, Exit, Alert+Page, Inbox, Inbox+Alert]
 ---
-
-# POST /push/v1/message
 
 > Creates a push message template for sending to a list of subscribers or an audience inclusion list or data extension. You can personalize each message for each subscriber using personalization strings or AMPscript lookups from a data extension within a single push message definition. You can also pa
 

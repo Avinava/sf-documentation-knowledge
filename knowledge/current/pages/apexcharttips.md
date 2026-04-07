@@ -5,12 +5,10 @@ topic: apexcharttips
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.162Z
+lastCollected: 2026-04-07T18:38:49.164Z
 estimatedTokens: 546
-keywords: [apex, chartTips, tooltips, appear, mouseover, data, series, elements, component, offers, configuration, options, setting, tips, attribute]
+keywords: [Attributes, apex, chartTips, tooltips, appear, mouseover, series, offers, configuration, options, setting, tips, attribute]
 ---
-
-# apex:chartTips
 
 > Defines tooltips which appear on mouseover of data series elements. This component offers more configuration options than the default tooltips displayed by setting the tips attribute of a data series component to true.
 

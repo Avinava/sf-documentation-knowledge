@@ -5,12 +5,10 @@ topic: codesetrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.390Z
+lastCollected: 2026-04-07T18:38:13.678Z
 estimatedTokens: 439
-keywords: [CodesetRelationship, relationship, codeset, labor, code, associated, fault, Manufacturing, Cloud, API, version, 58.0, later, Calls]
+keywords: [CodesetRelationship, relationship, codeset, labor, code, fault, Manufacturing, Cloud, API, 58.0]
 ---
-
-# CodesetRelationship
 
 > Represents a relationship between a codeset and its related codeset.
          For example, a labor code associated with a fault code. This object is available in

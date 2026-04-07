@@ -5,12 +5,10 @@ topic: manual-inputs-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.117Z
+lastCollected: 2026-04-07T18:39:10.577Z
 estimatedTokens: 1354
-keywords: [Manual, Inputs, APEX, programmatic, access, TPM, Promotion, Calculation, Overrides, Scenario, _ManualInputs, ManualCalculationInput, API, Version, removeManualInput]
+keywords: [Manual, Inputs, APEX, programmatic, TPM, Promotion, Calculation, Overrides, Scenario, _ManualInputs, ManualCalculationInput, API, removeManualInput, toGenericObject, toJSON, load, clear, getManualInputs, ManualCalculationInput.ManualInput, addManualInput]
 ---
-
-# Manual Inputs Class
 
 > This APEX class provides programmatic access to the TPM Promotion Manual Inputs for
   Calculation Overrides. This class is used also for Scenario Manual Inputs on Promotion.

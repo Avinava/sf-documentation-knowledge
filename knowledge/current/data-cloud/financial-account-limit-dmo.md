@@ -5,12 +5,10 @@ topic: financial-account-limit-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.642Z
+lastCollected: 2026-04-07T18:35:53.605Z
 estimatedTokens: 429
-keywords: [Financial, Account, Limit, DMO, limits, associated, Provided, Services, Cloud, Data, Kit, API, version, later, Category]
+keywords: [Category, Relationships, Financial, Account, Limit, DMO, limits, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Financial Account Limit DMO
 
 > Represents the limits associated with a financial account. Provided in the Financial
       Services Cloud Data Kit. This DMO is available in API version 58 and later.

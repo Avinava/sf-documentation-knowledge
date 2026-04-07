@@ -5,12 +5,10 @@ topic: signuprequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.616Z
+lastCollected: 2026-04-07T18:40:02.304Z
 estimatedTokens: 261
-keywords: [SignupRequestHistory, History, tracked, SignupRequest]
+keywords: [SignupRequestHistory, tracked, SignupRequest]
 ---
-
-# SignupRequestHistory
 
 > History for tracked fields of SignupRequest.
 

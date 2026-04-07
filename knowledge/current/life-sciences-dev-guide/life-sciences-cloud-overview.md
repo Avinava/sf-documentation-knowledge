@@ -5,12 +5,10 @@ topic: life-sciences-cloud-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:07.613Z
+lastCollected: 2026-04-07T18:37:57.115Z
 estimatedTokens: 1083
 keywords: [Life, Sciences, Cloud, end-to-end, purpose-built, platform, industry, spanning, clinical, medical, commercial, domains, includes, developer, resources]
 ---
-
-# Life Sciences Cloud Overview
 
 > Life Sciences Cloud is an end-to-end, purpose-built platform for the life sciences
   industry spanning clinical to medical to commercial domains. This guide includes the available

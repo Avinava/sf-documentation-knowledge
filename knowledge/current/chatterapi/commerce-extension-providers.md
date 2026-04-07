@@ -5,12 +5,10 @@ topic: commerce-extension-providers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.484Z
+lastCollected: 2026-04-07T18:37:13.440Z
 estimatedTokens: 514
 keywords: [Commerce, Extension, Providers, register, provider, Apex, implements]
 ---
-
-# Commerce Extension Providers
 
 > Get Commerce extension providers or register a Commerce extension provider. An
     extension provider is an Apex Class that implements a Commerce extension.

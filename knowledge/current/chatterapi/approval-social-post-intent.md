@@ -5,12 +5,10 @@ topic: approval-social-post-intent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.681Z
+lastCollected: 2026-04-07T18:37:16.752Z
 estimatedTokens: 120
 keywords: [Approval, Social, Post, Intent]
 ---
-
-# Approval Social Post Intent
 
 > Approval intent for a social post.
 

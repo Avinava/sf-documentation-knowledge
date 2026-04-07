@@ -5,12 +5,10 @@ topic: splitting-group-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.390Z
+lastCollected: 2026-04-07T18:37:26.301Z
 estimatedTokens: 161
-keywords: [Splitting, Group, Output, representation, synchronous, operation, that’s, executed, add, remove, recipients, recipient]
+keywords: [Splitting, Group, synchronous, operation, that’s, executed, add, remove, recipients, recipient]
 ---
-
-# Splitting Group Output
 
 > Output representation of synchronous operation that’s executed to
       add or remove recipients to a recipient group.

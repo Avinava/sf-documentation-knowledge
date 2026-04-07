@@ -5,12 +5,10 @@ topic: change-data-capture-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.257Z
+lastCollected: 2026-04-07T18:38:58.074Z
 estimatedTokens: 1085
-keywords: [Change, Data, Capture, Events, Salesforce, publishes, represent, changes, records, include, record, creation, updates, deletion, undeletion]
+keywords: [Resources, Change, Capture, Events, Salesforce, publishes, represent, changes, records, include, record, creation, updates, deletion, undeletion, since, API, 44.0, Event, Subscription, Channels]
 ---
-
-# Change Data Capture Events
 
 > Salesforce Change Data Capture publishes change events, which represent changes to
     Salesforce records. Changes include record creation, updates to an existing record, deletion of

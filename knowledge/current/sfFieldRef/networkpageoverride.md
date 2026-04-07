@@ -5,12 +5,10 @@ topic: networkpageoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.167Z
+lastCollected: 2026-04-07T18:39:49.655Z
 estimatedTokens: 363
-keywords: [NetworkPageOverride, custom, pages, override, Experience, Cloud, sites, Builder, Visualforce, site, personalized, users, API, version, 34.0]
+keywords: [NetworkPageOverride, pages, override, Experience, Cloud, sites, Builder, Visualforce, site, personalized, users, API, 34.0]
 ---
-
-# NetworkPageOverride
 
 > Represents information about custom
 				pages used to override the default pages in Experience Cloud sites. You can

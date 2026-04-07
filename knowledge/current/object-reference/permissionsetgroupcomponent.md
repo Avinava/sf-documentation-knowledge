@@ -5,12 +5,10 @@ topic: permissionsetgroupcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.642Z
+lastCollected: 2026-04-07T18:38:37.976Z
 estimatedTokens: 325
-keywords: [PermissionSetGroupComponent, junction, relates, PermissionSetGroup, PermissionSet, objects, via, their, respective, IDs, permission, group, recalculation, determine, aggregated]
+keywords: [PermissionSetGroupComponent, junction, relates, PermissionSetGroup, PermissionSet, via, their, respective, IDs, permission, group, recalculation, determine, aggregated, permissions, API, 45.0]
 ---
-
-# PermissionSetGroupComponent
 
 > A junction object that relates the PermissionSetGroup and
       PermissionSet objects via their respective IDs; enables permission set group recalculation to

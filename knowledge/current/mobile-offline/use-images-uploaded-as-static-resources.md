@@ -5,12 +5,10 @@ topic: use-images-uploaded-as-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.367Z
+lastCollected: 2026-04-07T18:38:15.895Z
 estimatedTokens: 789
-keywords: [Images, Uploaded, Resources, packaging, stylesheets, JavaScript, files, Lightning, web, components, Salesforce, customization, features]
+keywords: [Images, Uploaded, Resources, packaging, stylesheets, JavaScript, files, Lightning, web, Salesforce, customization, features]
 ---
-
-# Use Images Uploaded as Static Resources
 
 > Static resources are a method for packaging one or more images, stylesheets, or
   JavaScript files for use within Lightning web components, and other Salesforce customization

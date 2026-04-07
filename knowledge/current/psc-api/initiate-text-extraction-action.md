@@ -5,12 +5,10 @@ topic: initiate-text-extraction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.564Z
+lastCollected: 2026-04-07T18:39:03.745Z
 estimatedTokens: 588
-keywords: [Initiate, Text, Extraction, Action, Extract, uploaded, document, Amazon, Textract, API, Special, Access, Rules, REST, HTTP]
+keywords: [Inputs, Outputs, Initiate, Text, Extraction, Action, Extract, uploaded, document, Amazon, Textract, API, REST, HTTP]
 ---
-
-# Initiate Text Extraction Action
 
 > Extract text from an uploaded document by using the Amazon Textract
    API.

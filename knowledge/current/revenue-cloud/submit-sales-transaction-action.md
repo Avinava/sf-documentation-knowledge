@@ -5,12 +5,10 @@ topic: submit-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.374Z
+lastCollected: 2026-04-07T18:35:40.152Z
 estimatedTokens: 771
-keywords: [Submit, Sales, Transaction, Action, Initiate, fulfillment, process, any, quote, order, summary, Special, Access, Rules, REST]
+keywords: [Inputs, Outputs, Submit, Sales, Transaction, Action, Initiate, fulfillment, process, any, quote, order, summary, REST, HTTP]
 ---
-
-# Submit Sales Transaction Action
 
 > Initiate the fulfillment process of any sales transaction, such as a
             quote, an order, or an order summary.

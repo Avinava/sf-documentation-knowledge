@@ -5,12 +5,10 @@ topic: creating-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.702Z
+lastCollected: 2026-04-07T18:38:02.631Z
 estimatedTokens: 556
-keywords: [Creating, Apps, Components, building, blocks, app, typical, workflow, put, pieces, together, new]
+keywords: [Creating, Apps, building, blocks, app, typical, workflow, put, pieces, together, new]
 ---
-
-# Creating Apps
 
 > Components are the building blocks of an app. This section shows you a typical workflow
   to put the pieces together to create a new app.

@@ -5,12 +5,10 @@ topic: connectapirefundoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.762Z
+lastCollected: 2026-04-07T18:37:50.661Z
 estimatedTokens: 93
-keywords: [ConnectApi.RefundOutputRepresentation, Output, representation, refund, payment]
+keywords: [ConnectApi.RefundOutputRepresentation, refund, payment]
 ---
-
-# ConnectApi.RefundOutputRepresentation
 
 > Output representation of the refund payment.
 

@@ -5,12 +5,10 @@ topic: deliveryestimationsetupfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.108Z
+lastCollected: 2026-04-07T18:39:37.807Z
 estimatedTokens: 364
-keywords: [DeliveryEstimationSetupFeed, Feed, tracking, DeliveryEstimationSetup]
+keywords: [DeliveryEstimationSetupFeed, DeliveryEstimationSetup]
 ---
-
-# DeliveryEstimationSetupFeed
 
 > Feed tracking for DeliveryEstimationSetup.
 

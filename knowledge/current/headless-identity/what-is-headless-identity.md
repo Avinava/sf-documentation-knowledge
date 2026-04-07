@@ -5,12 +5,10 @@ topic: what-is-headless-identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.543Z
+lastCollected: 2026-04-07T18:37:39.485Z
 estimatedTokens: 1068
-keywords: [Headless, Identity, Salesforce, gives, ability, separate, back-end, authentication, processes, front-end, experiences, calling, APIs, power, Customer]
+keywords: [Headless, Identity, Salesforce, gives, ability, separate, back-end, authentication, processes, front-end, experiences, calling, APIs, power, Customer, maintaining, control, over, user, experience, off-platform, third-party, app, offers, three, features, login, API, registration, password, reset, Forgot, link, sign-on, SSO, provider, native]
 ---
-
-# What Is Headless Identity?
 
 > Salesforce Headless Identity gives you the ability to separate back-end authentication
   processes from front-end identity experiences. By calling Headless Identity APIs, you can use the

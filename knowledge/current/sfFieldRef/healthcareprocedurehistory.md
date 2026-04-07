@@ -5,12 +5,10 @@ topic: healthcareprocedurehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.768Z
+lastCollected: 2026-04-07T18:39:43.369Z
 estimatedTokens: 269
-keywords: [HealthCareProcedureHistory, History, tracked, HealthCareProcedure]
+keywords: [HealthCareProcedureHistory, tracked, HealthCareProcedure]
 ---
-
-# HealthCareProcedureHistory
 
 > History for tracked fields of HealthCareProcedure.
 

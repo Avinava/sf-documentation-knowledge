@@ -5,12 +5,10 @@ topic: getversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.236Z
+lastCollected: 2026-04-07T18:38:05.440Z
 estimatedTokens: 33
-keywords: [getVersion, component’s, version, number]
+keywords: [getVersion, component’s, number]
 ---
-
-# getVersion()
 
 > Returns the component’s version number.
 

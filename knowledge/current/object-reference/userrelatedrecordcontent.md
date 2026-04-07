@@ -5,12 +5,10 @@ topic: userrelatedrecordcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.082Z
+lastCollected: 2026-04-07T18:38:43.856Z
 estimatedTokens: 326
-keywords: [UserRelatedRecordContent, link, managed, content, record, account, event, opportunity, user, reserved, future, Calls]
+keywords: [UserRelatedRecordContent, link, managed, content, record, account, event, opportunity, user, reserved, future]
 ---
-
-# UserRelatedRecordContent
 
 > Represents the link between a managed content record, an account, event, or opportunity record, and a user record.  This object is  reserved for future use.
 

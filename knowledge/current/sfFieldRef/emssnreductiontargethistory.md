@@ -5,12 +5,10 @@ topic: emssnreductiontargethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.618Z
+lastCollected: 2026-04-07T18:39:39.263Z
 estimatedTokens: 272
-keywords: [EmssnReductionTargetHistory, History, tracked, EmssnReductionTarget]
+keywords: [EmssnReductionTargetHistory, tracked, EmssnReductionTarget]
 ---
-
-# EmssnReductionTargetHistory
 
 > History for tracked fields of EmssnReductionTarget.
 

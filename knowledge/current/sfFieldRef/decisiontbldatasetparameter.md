@@ -5,12 +5,10 @@ topic: decisiontbldatasetparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.040Z
+lastCollected: 2026-04-07T18:39:37.731Z
 estimatedTokens: 319
-keywords: [DecisionTblDatasetParameter, mapping, decision, input, different, source, objects, dataset, link, know, evaluated, decisio]
+keywords: [DecisionTblDatasetParameter, mapping, decision, different, source, dataset, link, know, evaluated, decisio]
 ---
-
-# DecisionTblDatasetParameter
 
 > Represents the mapping between the decision table input fields and
          the fields of the different source objects in the dataset link. This mapping allows the

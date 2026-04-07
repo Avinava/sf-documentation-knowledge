@@ -5,12 +5,10 @@ topic: salesforce-pricing-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.245Z
+lastCollected: 2026-04-07T18:35:47.276Z
 estimatedTokens: 1422
-keywords: [Salesforce, Pricing, Objects, deployment, sequence, API, lookup, data, translation, requirements, Revenue, Cloud]
+keywords: [Salesforce, Pricing, deployment, sequence, API, lookup, translation, requirements, Revenue, Cloud]
 ---
-
-# Salesforce Pricing Objects
 
 > This table provides the deployment sequence, object types, API names, lookup fields,
     and data translation requirements for Salesforce Pricing objects in Revenue Cloud.

@@ -5,12 +5,10 @@ topic: headless-registration-javascript-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.527Z
+lastCollected: 2026-04-07T18:37:39.467Z
 estimatedTokens: 277
 keywords: [Headless, Registration, JavaScript, Examples, high-level, understand, how, implement, single-page, app, Authorization, Token, Exchange]
 ---
-
-# Headless Registration JavaScript Examples
 
 > Use these high-level  examples to understand how to implement headless registration for
   a single-page app.

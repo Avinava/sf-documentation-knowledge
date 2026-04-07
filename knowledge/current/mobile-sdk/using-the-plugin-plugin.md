@@ -5,12 +5,10 @@ topic: using-the-plugin-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.502Z
+lastCollected: 2026-04-07T18:40:25.877Z
 estimatedTokens: 255
-keywords: [Plugin, Beginning, Mobile, SDK, 3.0, Sync, plug-in, JavaScript, access, native, library’s, “sync, up”, down”, functionality]
+keywords: [Plugin, Beginning, Mobile, SDK, 3.0, Sync, plug-in, JavaScript, native, library’s, “sync, up”, down”, functionality, result, performance-intensive, operations—network, negotiations, parsing, SmartStore, management—run, threads]
 ---
-
-# Using the  Plugin Plugin
 
 > Beginning with Mobile SDK 3.0,
    the Mobile Sync plug-in provides

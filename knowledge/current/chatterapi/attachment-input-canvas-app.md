@@ -5,12 +5,10 @@ topic: attachment-input-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.495Z
+lastCollected: 2026-04-07T18:37:07.205Z
 estimatedTokens: 386
-keywords: [Attachment, Input, Canvas, App]
+keywords: [Attachment, Canvas, App]
 ---
-
-# Attachment Input: Canvas App
 
 > Canvas app attachment input.
 

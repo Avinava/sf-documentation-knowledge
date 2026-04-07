@@ -5,12 +5,10 @@ topic: contentdocumentlistviewmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.645Z
+lastCollected: 2026-04-07T18:38:28.543Z
 estimatedTokens: 404
-keywords: [ContentDocumentListViewMapping, association, ListView, Quip, ContentDocument, file, Maintains, mapping, view, document, exported, newly, created, API, version]
+keywords: [ContentDocumentListViewMapping, association, ListView, Quip, ContentDocument, file, Maintains, mapping, view, document, exported, newly, created, API, 44.0]
 ---
-
-# ContentDocumentListViewMapping
 
 > Represents an association between a ListView and a Quip
          ContentDocument. Applies to Quip file types only. Maintains the mapping between a list view

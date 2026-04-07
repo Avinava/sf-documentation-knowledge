@@ -5,12 +5,10 @@ topic: chat-rest-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.061Z
+lastCollected: 2026-04-07T18:38:06.310Z
 estimatedTokens: 527
 keywords: [Chat, REST, API, Resources, perform, POST, send, HTTP, appropriate]
 ---
-
-# Chat REST API Resources
 
 > To perform a POST or GET request, create and send an HTTP
 request with the appropriate parameters or request body.

@@ -5,12 +5,10 @@ topic: provider-search-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.989Z
+lastCollected: 2026-04-07T18:37:40.987Z
 estimatedTokens: 371
-keywords: [Provider, Search, Criteria, Input, healthcare, providers]
+keywords: [Provider, Search, Criteria, healthcare, providers]
 ---
-
-# Provider Search Criteria Input
 
 > Criteria used to search for healthcare providers.
 

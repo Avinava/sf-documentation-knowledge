@@ -5,12 +5,10 @@ topic: digitalverificationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.281Z
+lastCollected: 2026-04-07T18:39:37.999Z
 estimatedTokens: 268
-keywords: [DigitalVerificationHistory, History, tracked, DigitalVerification]
+keywords: [DigitalVerificationHistory, tracked, DigitalVerification]
 ---
-
-# DigitalVerificationHistory
 
 > History for tracked fields of DigitalVerification.
 

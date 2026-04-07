@@ -5,12 +5,10 @@ topic: smart-data-discovery-recipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.408Z
+lastCollected: 2026-04-07T18:36:59.902Z
 estimatedTokens: 119
-keywords: [Smart, Data, Discovery, Recipient, Einstein]
+keywords: [Smart, Discovery, Recipient, Einstein]
 ---
-
-# Smart Data Discovery Recipient
 
 > An Einstein Discovery recipient.
 

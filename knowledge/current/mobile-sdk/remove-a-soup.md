@@ -5,12 +5,10 @@ topic: remove-a-soup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.845Z
+lastCollected: 2026-04-07T18:40:27.065Z
 estimatedTokens: 94
-keywords: [Remove, Soup, Removing, deletes, user, signs, soups, deleted, automatically, occasions, want, call, applicable, removal, Hybrid]
+keywords: [Remove, Soup, Removing, deletes, user, signs, soups, deleted, automatically, occasions, want, call, applicable, removal, Hybrid, Apps, Android, iOS]
 ---
-
-# Remove a Soup
 
 > Removing a soup deletes it. When a user signs out, all soups are
   deleted automatically. For other occasions in which you want to delete a soup, call the applicable

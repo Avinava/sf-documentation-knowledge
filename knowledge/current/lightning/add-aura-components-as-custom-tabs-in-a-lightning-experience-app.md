@@ -5,12 +5,10 @@ topic: add-aura-components-as-custom-tabs-in-a-lightning-experience-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.412Z
+lastCollected: 2026-04-07T18:38:03.426Z
 estimatedTokens: 487
-keywords: [Add, Aura, Components, Custom, Tabs, Lightning, Experience, App, users, desktop, Salesforce, mobile, displaying, tab]
+keywords: [Add, Aura, Tabs, Lightning, Experience, App, users, desktop, Salesforce, mobile, displaying, tab]
 ---
-
-# Add Aura Components as Custom Tabs in a Lightning Experience App
 
 > Make your Aura components available for Lightning Experience users on desktop and in
         the Salesforce mobile app by displaying them in a custom tab in a Lightning Experience

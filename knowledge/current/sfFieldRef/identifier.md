@@ -5,12 +5,10 @@ topic: identifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.519Z
+lastCollected: 2026-04-07T18:39:44.165Z
 estimatedTokens: 425
-keywords: [Identifier, multiple, objects, API, version, 51.0, later]
+keywords: [Identifier, multiple, API, 51.0]
 ---
-
-# Identifier
 
 > Represents identifier information for multiple objects. This
     object is available in API version 51.0 and later.

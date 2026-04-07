@@ -5,12 +5,10 @@ topic: media-cloud-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.965Z
+lastCollected: 2026-04-07T18:38:11.234Z
 estimatedTokens: 574
-keywords: [Media, Cloud, Developer, Salesforce, Industries, modules, application, components, built, platform, products, suite, address, customer, requirements]
+keywords: [Media, Cloud, Developer, Salesforce, Industries, modules, application, built, platform, products, suite, address, customer, requirements, community, self-service, interfaces, agent, console, applications, deliver, key, commonly, business, processes, configure, as-is, extend, integrate, third-party, Omnistudio, Standard, Runtime, Base, Advanced, licensed, customers, However, isn't, Advertising, Sales, Management, Subscriber, Lifecycle]
 ---
-
-# Media Cloud Developer Guide
 
 > Salesforce Industries Media Cloud provides modules and application components that are
     built on the Salesforce platform and products. Use the Media application suite to set up a

@@ -5,12 +5,10 @@ topic: promotion-parent-products-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.144Z
+lastCollected: 2026-04-07T18:37:09.864Z
 estimatedTokens: 103
-keywords: [Promotion, Parent, Products, Input, IDs, product, variation]
+keywords: [Promotion, Parent, Products, IDs, product, variation]
 ---
-
-# Promotion Parent Products Input
 
 > IDs of a parent product and variation product.
 

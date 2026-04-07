@@ -5,12 +5,10 @@ topic: attributepicklistvaluefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.308Z
+lastCollected: 2026-04-07T18:39:28.363Z
 estimatedTokens: 364
-keywords: [AttributePicklistValueFeed, Feed, tracking, AttributePicklistValue]
+keywords: [AttributePicklistValueFeed, AttributePicklistValue]
 ---
-
-# AttributePicklistValueFeed
 
 > Feed tracking for AttributePicklistValue.
 

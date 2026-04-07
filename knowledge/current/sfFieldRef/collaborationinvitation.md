@@ -5,12 +5,10 @@ topic: collaborationinvitation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.041Z
+lastCollected: 2026-04-07T18:39:34.475Z
 estimatedTokens: 361
-keywords: [CollaborationInvitation, invitation, join, Chatter, either, directly, group, API, version, 21.0, later]
+keywords: [CollaborationInvitation, invitation, join, Chatter, either, directly, group, API, 21.0]
 ---
-
-# CollaborationInvitation
 
 > Represents an invitation to join Chatter,
                 either directly or through a group. This object is available in API

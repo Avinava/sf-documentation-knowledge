@@ -5,12 +5,10 @@ topic: connectapi-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.689Z
+lastCollected: 2026-04-07T18:36:43.427Z
 estimatedTokens: 501
-keywords: [ConnectApi, Output, Classes, Process, Compliance, Navigator, includes, Apex]
+keywords: [ConnectApi, Classes, Process, Compliance, Navigator, includes, Apex]
 ---
-
-# ConnectApi Output Classes
 
 > Process Compliance Navigator includes these Apex output classes.
 

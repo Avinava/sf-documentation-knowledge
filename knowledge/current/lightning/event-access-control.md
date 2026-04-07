@@ -5,12 +5,10 @@ topic: event-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.493Z
+lastCollected: 2026-04-07T18:38:02.416Z
 estimatedTokens: 83
-keywords: [Event, Access, Control, attribute, aura, tag, whether, outside, event’s]
+keywords: [Event, Control, attribute, aura, tag, whether, outside, event’s]
 ---
-
-# Event Access Control
 
 > The access attribute on the aura:event tag controls whether the event can be used outside of the
   event’s namespace.

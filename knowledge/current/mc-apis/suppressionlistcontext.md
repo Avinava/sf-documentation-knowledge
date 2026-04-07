@@ -5,12 +5,10 @@ topic: suppressionlistcontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.352Z
+lastCollected: 2026-04-07T18:40:20.595Z
 estimatedTokens: 594
-keywords: [SuppressionListContext, context, SuppressionListDefinition, associated, Items]
+keywords: [SuppressionListContext, context, SuppressionListDefinition, Items]
 ---
-
-# SuppressionListContext
 
 > The SuppressionListContext object defines a context that a SuppressionListDefinition can be associated with.
 

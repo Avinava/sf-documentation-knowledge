@@ -5,12 +5,10 @@ topic: customobjecttranslation-language-support-fully-supported-languages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.613Z
+lastCollected: 2026-04-07T18:36:21.848Z
 estimatedTokens: 522
-keywords: [CustomObjectTranslation, Language, Support, Fully, Languages, every, supports, possible, appendix, determine, Chinese, Simplified, Traditional, Danish, Dutch]
+keywords: [Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Russian, Spanish, Swedish, Thai, CustomObjectTranslation, Language, Support, Fully, Languages, every, supports, possible, appendix, determine, Chinese, Simplified, Traditional, Portuguese, Brazil, Mexico]
 ---
-
-# CustomObjectTranslation Language Support: Fully Supported Languages
 
 > Not every language supports all the possible values for the fields in CustomObjectTranslation. Use this appendix to determine which field values
     a language supports.

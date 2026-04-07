@@ -5,12 +5,10 @@ topic: infolibraryexternaldocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.305Z
+lastCollected: 2026-04-07T18:38:18.948Z
 estimatedTokens: 684
-keywords: [InfoLibraryExternalDocument, external, document, that's, collaborate, Library, content, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [InfoLibraryExternalDocument, external, document, that's, collaborate, Library, content, API, 62.0]
 ---
-
-# InfoLibraryExternalDocument
 
 > Represents the external document that's used to collaborate on Information
          Library content. This object is available in API version 62.0 and later.

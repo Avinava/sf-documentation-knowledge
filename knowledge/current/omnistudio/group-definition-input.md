@@ -5,12 +5,10 @@ topic: group-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.532Z
+lastCollected: 2026-04-07T18:36:37.062Z
 estimatedTokens: 263
-keywords: [Group, Definition, Input, representation, party, relationship]
+keywords: [Group, Definition, party, relationship]
 ---
-
-# Group Definition Input
 
 > Input representation of a party relationship group
       definition.

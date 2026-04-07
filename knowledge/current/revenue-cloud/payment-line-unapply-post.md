@@ -5,12 +5,10 @@ topic: payment-line-unapply-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.705Z
+lastCollected: 2026-04-07T18:35:44.711Z
 estimatedTokens: 479
-keywords: [Payment, Line, Unapply, POST, Revert, application, invoice, invoices, their, preapplication, state, API, correct, input, process]
+keywords: [Payment, Line, Unapply, POST, Revert, application, invoice, invoices, their, preapplication, state, API, correct, process]
 ---
-
-# Payment Line Unapply (POST)
 
 > Revert the application of a payment line from an invoice, and return the
       payment and invoices to their preapplication state. Use this API to correct an input during

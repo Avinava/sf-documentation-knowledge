@@ -5,12 +5,10 @@ topic: processexception
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.462Z
+lastCollected: 2026-04-07T18:39:55.025Z
 estimatedTokens: 546
-keywords: [ProcessException, business, exception, processing, failure, order, summary, separate, process, resolve, caused, continue, API, version, 50.0]
+keywords: [ProcessException, business, exception, processing, failure, order, summary, separate, process, resolve, caused, continue, API, 50.0]
 ---
-
-# ProcessException
 
 > Represents a business exception, such as a processing failure on an
       order summary. A separate process is required to resolve the failure that caused the process

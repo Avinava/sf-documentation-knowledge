@@ -5,13 +5,11 @@ topic: trigger-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.061Z
+lastCollected: 2026-04-07T18:36:01.329Z
 estimatedTokens: 872
 namespace: System
-keywords: [Trigger, access, run-time, context, sObject, records, operates, Variables]
+keywords: [Trigger, run-time, context, sObject, records, operates, Variables]
 ---
-
-# Trigger Class
 
 > Use the Trigger class to access run-time context
   information in a trigger, such as the type of trigger or the list of sObject records that the

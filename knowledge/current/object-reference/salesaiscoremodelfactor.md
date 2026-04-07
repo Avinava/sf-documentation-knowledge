@@ -5,12 +5,10 @@ topic: salesaiscoremodelfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.710Z
+lastCollected: 2026-04-07T18:38:40.289Z
 estimatedTokens: 1339
-keywords: [SalesAIScoreModelFactor, factors, Sales, Cloud, Einstein, uses, build, scoring, model, models, features, Opportunity, score, individual, records]
+keywords: [SalesAIScoreModelFactor, factors, Sales, Cloud, Einstein, uses, build, scoring, model, models, features, Opportunity, score, individual, records, API, 47.0]
 ---
-
-# SalesAIScoreModelFactor
 
 > Represents the factors that Sales Cloud Einstein uses to build a scoring model.
       Scoring models are used by features, such as Opportunity Scoring, to score individual

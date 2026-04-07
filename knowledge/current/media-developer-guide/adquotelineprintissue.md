@@ -5,12 +5,10 @@ topic: adquotelineprintissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.000Z
+lastCollected: 2026-04-07T18:38:12.290Z
 estimatedTokens: 632
-keywords: [AdQuoteLinePrintIssue, media, print, issue, quote, item, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [AdQuoteLinePrintIssue, media, print, issue, quote, item, API, 56.0]
 ---
-
-# AdQuoteLinePrintIssue
 
 > Represents the media print issue for an ad quote item. This object is
       available in API version 56.0 and later.

@@ -5,12 +5,10 @@ topic: get-personalized-navigation-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.934Z
+lastCollected: 2026-04-07T18:40:10.913Z
 estimatedTokens: 225
 keywords: [Personalized, Navigation, Items, user’s, tabs]
 ---
-
-# Get Personalized Navigation Items
 
 > Get a user’s personalized navigation items (tabs).
 

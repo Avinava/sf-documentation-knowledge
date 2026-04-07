@@ -5,12 +5,10 @@ topic: monitor-voicecall-limit-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.128Z
+lastCollected: 2026-04-07T18:40:13.076Z
 estimatedTokens: 814
-keywords: [Monitor, VoiceCall, Limit, Errors, org, exceeds, maximum, number, concurrent, calls, system, can’t, records, Track, hits]
+keywords: [Monitor, VoiceCall, Limit, Errors, org, exceeds, maximum, number, concurrent, system, can’t, records, Track, hits, call, phone, initiated, per, second, checking, InvokeTelephonyIntegrationApi, Lambda, function]
 ---
-
-# Monitor VoiceCall Limit Errors
 
 > When your org exceeds the limit for the maximum number of concurrent calls, the system
   can’t create VoiceCall records. Track when your org hits the concurrent call limit or the phone

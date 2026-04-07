@@ -5,12 +5,10 @@ topic: postinsurancecreatecontactscreatecontactsinputparam-createportalusers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.558Z
+lastCollected: 2026-04-07T18:37:49.408Z
 estimatedTokens: 326
-keywords: [postInsuranceCreateContacts, createContactsInputParam, createPortalUsers, contacts, portal, users, group, census, members, API, Version, Requires, Chatter]
+keywords: [postInsuranceCreateContacts, createContactsInputParam, createPortalUsers, contacts, portal, users, group, census, members, API, Requires, Chatter]
 ---
-
-# postInsuranceCreateContacts(createContactsInputParam, createPortalUsers)
 
 > Create contacts and portal users for group census members.
 

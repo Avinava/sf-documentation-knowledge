@@ -5,12 +5,10 @@ topic: get-points-balance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.450Z
+lastCollected: 2026-04-07T18:38:08.760Z
 estimatedTokens: 336
-keywords: [Points, Balance, Retrieve, loyalty, program, member, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Points, Balance, Retrieve, loyalty, program, member, REST, HTTP]
 ---
-
-# Get Points Balance
 
 > Retrieve the loyalty points balance for a specified loyalty program
    member.

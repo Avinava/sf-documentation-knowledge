@@ -5,12 +5,10 @@ topic: defining-a-custom-sync-down-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.193Z
+lastCollected: 2026-04-07T18:40:25.556Z
 estimatedTokens: 692
-keywords: [Defining, Custom, Sync, Down, Target, define, targets, operations, subclassing, platform’s, abstract, base, hybrid, apps, implement]
+keywords: [Defining, Sync, Down, Target, define, targets, operations, subclassing, platform’s, abstract, base, hybrid, apps, implement, native, platform, support, classes]
 ---
-
-# Defining a Custom Sync Down Target
 
 > You define custom targets for sync down operations by subclassing your platform’s abstract base
    class for sync down targets. To use custom targets in hybrid apps, implement a custom native

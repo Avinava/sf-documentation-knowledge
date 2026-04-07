@@ -5,13 +5,11 @@ topic: crm-analytics-aura-events---page-change-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.875Z
+lastCollected: 2026-04-07T18:37:01.482Z
 estimatedTokens: 871
 namespace: XXXXXXXXXXX
-keywords: [CRM, Analytics, Aura, Events, Change, Event, dashboards, Updating, Dashboard, Resources]
+keywords: [Resources, CRM, Analytics, Aura, Events, Change, Event, dashboards, Updating, Dashboard]
 ---
-
-# CRM Analytics Aura Events - Page Change Event
 
 > This event sends a request to CRM Analytics dashboards to change the displayed
         page.

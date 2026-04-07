@@ -5,12 +5,10 @@ topic: user-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:36.612Z
+lastCollected: 2026-04-07T18:37:23.684Z
 estimatedTokens: 1831
 keywords: [User, Summary, subset, Detail]
 ---
-
-# User Summary
 
 > The User Summary response body is a subset of the User Detail response
     body.

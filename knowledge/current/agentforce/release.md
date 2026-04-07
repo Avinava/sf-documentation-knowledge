@@ -5,12 +5,10 @@ topic: release
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.248Z
+lastCollected: 2026-04-07T18:35:55.357Z
 estimatedTokens: 1022
-keywords: [Release, service, management, operations, incidents, problems, change, requests, period, new, updated, deployed, API, version, 65.0]
+keywords: [Release, service, management, operations, incidents, problems, change, requests, period, new, updated, deployed, API, 65.0]
 ---
-
-# Release
 
 > Represents a release for service management operations, such as incidents,
          problems, and change requests. A release is a period during which new or updated service

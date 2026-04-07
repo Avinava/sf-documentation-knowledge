@@ -5,12 +5,10 @@ topic: deliver-trials-on-appexchange-with-test-drives
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.939Z
+lastCollected: 2026-04-07T18:38:46.894Z
 estimatedTokens: 476
-keywords: [Deliver, Trials, AppExchange, Test, Drives, free, solution, read-only, Salesforce, orgs, include, sample, data, drive, org]
+keywords: [Deliver, Trials, AppExchange, Test, Drives, free, solution, read-only, Salesforce, orgs, include, sample, drive, org, Environment, Hub, preconfigured, Trialforce, template, install, configure, connect, Partner, Console, expires, soon, log, case, extension]
 ---
-
-# Deliver Trials on AppExchange with Test Drives
 
 > Use test drives to deliver free trials of your AppExchange solution in read-only
         Salesforce orgs that include sample data. Create a test drive org in Environment Hub using a

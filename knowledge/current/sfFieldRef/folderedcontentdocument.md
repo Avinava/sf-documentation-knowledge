@@ -5,12 +5,10 @@ topic: folderedcontentdocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.495Z
+lastCollected: 2026-04-07T18:39:41.159Z
 estimatedTokens: 365
 keywords: [FolderedContentDocument, relationship, parent, child, ContentFolderItem, ContentWorkspace]
 ---
-
-# FolderedContentDocument
 
 > Represents the relationship between a parent and child
 			ContentFolderItem in a ContentWorkspace.

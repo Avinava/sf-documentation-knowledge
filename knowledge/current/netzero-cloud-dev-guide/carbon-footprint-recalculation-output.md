@@ -5,12 +5,10 @@ topic: carbon-footprint-recalculation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.845Z
+lastCollected: 2026-04-07T18:38:16.390Z
 estimatedTokens: 113
-keywords: [Carbon, Footprint, Recalculation, Output, representation]
+keywords: [Carbon, Footprint, Recalculation]
 ---
-
-# Carbon Footprint Recalculation Output
 
 > Output representation of the carbon footprint recalculation
       request.

@@ -5,12 +5,10 @@ topic: prevent-record-duplication-with-idempotent-record-writes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.582Z
+lastCollected: 2026-04-07T18:40:10.559Z
 estimatedTokens: 1420
-keywords: [Prevent, Record, Duplication, Idempotent, Writes, avoid, records, server, operations, occur, app, client, encounters, network, connection]
+keywords: [Prevent, Record, Duplication, Idempotent, Writes, avoid, records, server, operations, occur, app, client, encounters, network, connection, issue, Include, Idempotency, Key, Upload, File, HTTP, Status, Error, Codes]
 ---
-
-# Prevent Record Duplication with Idempotent Record Writes
 
 > Use idempotent record writes to avoid duplication of records and
       server operations, which can occur when an app or client encounters a network connection

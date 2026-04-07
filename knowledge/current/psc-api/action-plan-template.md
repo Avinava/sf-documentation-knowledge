@@ -5,12 +5,10 @@ topic: action-plan-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.958Z
+lastCollected: 2026-04-07T18:39:02.149Z
 estimatedTokens: 154
-keywords: [Action, Plan, Template, Output, representation, record]
+keywords: [Action, Plan, Template, record]
 ---
-
-# Action Plan Template
 
 > Output representation for the action plan template
   record.

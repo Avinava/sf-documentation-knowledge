@@ -5,12 +5,10 @@ topic: input-and-output-transformation-processors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.364Z
+lastCollected: 2026-04-07T18:35:47.398Z
 estimatedTokens: 296
-keywords: [Input, Output, Transformation, Processors, process, standard, fulfillment, sending, external, system, Prerequisites]
+keywords: [Prerequisites, Transformation, Processors, process, standard, fulfillment, sending, external, system]
 ---
-
-# Input and Output Transformation Processors
 
 > Use input and output processors to process a standard fulfillment request before
     sending it to an external system.

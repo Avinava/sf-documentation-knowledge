@@ -5,12 +5,10 @@ topic: locationgrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.520Z
+lastCollected: 2026-04-07T18:39:46.999Z
 estimatedTokens: 261
-keywords: [LocationGroupHistory, History, tracked, LocationGroup]
+keywords: [LocationGroupHistory, tracked, LocationGroup]
 ---
-
-# LocationGroupHistory
 
 > History for tracked fields of LocationGroup.
 

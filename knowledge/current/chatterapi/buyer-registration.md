@@ -5,12 +5,10 @@ topic: buyer-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.992Z
+lastCollected: 2026-04-07T18:37:17.055Z
 estimatedTokens: 82
 keywords: [Buyer, Registration, registered]
 ---
-
-# Buyer Registration
 
 > The ID of the registered buyer that is returned in the response.
 

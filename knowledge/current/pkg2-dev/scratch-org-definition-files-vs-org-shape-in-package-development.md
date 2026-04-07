@@ -5,12 +5,10 @@ topic: scratch-org-definition-files-vs-org-shape-in-package-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.671Z
+lastCollected: 2026-04-07T18:38:55.089Z
 estimatedTokens: 1101
-keywords: [Scratch, Org, Definition, Files, Shape, Package, Development, file, orgs, new, versions, blueprint, want, work, Build]
+keywords: [Scratch, Org, Definition, Files, Shape, Package, Development, file, orgs, new, versions, blueprint, want, work, Build, Own]
 ---
-
-# Scratch Org Definition Files vs Org Shape in Package Development
 
 > The scratch org definition file is used when you create scratch orgs, and also when you
     create new package versions. The scratch org definition file is a blueprint for your scratch org

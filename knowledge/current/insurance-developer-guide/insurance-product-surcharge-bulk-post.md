@@ -5,12 +5,10 @@ topic: insurance-product-surcharge-bulk-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.847Z
+lastCollected: 2026-04-07T18:37:51.924Z
 estimatedTokens: 174
 keywords: [Insurance, Product, Surcharge, Bulk, POST, surcharges, associate, root]
 ---
-
-# Insurance Product Surcharge Bulk (POST)
 
 > Create one or more product surcharges to associate with a root product.
 

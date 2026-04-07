@@ -5,12 +5,10 @@ topic: liveagentclientchatmessages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.856Z
+lastCollected: 2026-04-07T18:38:50.079Z
 estimatedTokens: 196
-keywords: [liveAgent, clientChatMessages, area, chat, window, displays, system, status, messages, session, disconnected, Attributes]
+keywords: [Attributes, liveAgent, clientChatMessages, area, chat, window, displays, system, status, messages, session, disconnected]
 ---
-
-# liveAgent:clientChatMessages
 
 > The area in a chat window that displays system status messages (such as "Chat session has
 			been disconnected").

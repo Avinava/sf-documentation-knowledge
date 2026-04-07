@@ -5,13 +5,11 @@ topic: industriesdocgen-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.555Z
+lastCollected: 2026-04-07T18:37:24.561Z
 estimatedTokens: 305
 namespace: The
 keywords: [industries_docgen, classes, document, generation, permission, management, Salesforce, Industries, _docgen]
 ---
-
-# industries_docgen Namespace
 
 > The industries_docgen namespace provides classes
     and methods for document generation and permission management in Salesforce

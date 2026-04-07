@@ -5,12 +5,10 @@ topic: orderitemdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.500Z
+lastCollected: 2026-04-07T18:39:50.905Z
 estimatedTokens: 406
-keywords: [OrderItemDetail, quantity, price, order, product, API, version, 60.0, later]
+keywords: [OrderItemDetail, quantity, price, order, product, API, 60.0]
 ---
-
-# OrderItemDetail
 
 > Represents information about the quantity and price details of an order
          product. This object is available in API version 60.0 and later.

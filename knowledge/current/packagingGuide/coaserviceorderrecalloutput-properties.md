@@ -5,12 +5,10 @@ topic: coaserviceorderrecalloutput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.781Z
+lastCollected: 2026-04-07T18:38:45.571Z
 estimatedTokens: 176
 keywords: [COA_ServiceOrderRecallOutput, COA, _ServiceOrderRecallOutput]
 ---
-
-# COA_ServiceOrderRecallOutput Properties
 
 > The following are properties for COA_ServiceOrderRecallOutput.
 

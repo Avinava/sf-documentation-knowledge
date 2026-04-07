@@ -5,12 +5,10 @@ topic: emailadministrationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.769Z
+lastCollected: 2026-04-07T18:36:25.215Z
 estimatedTokens: 1823
-keywords: [EmailAdministrationSettings, organization’s, email, administration, settings, including, deliverability, security, compliance, relay, configurations, system, notifications, extends, Metadata]
+keywords: [EmailAdministrationSettings, organization’s, email, administration, settings, including, deliverability, security, compliance, relay, configurations, system, notifications, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EmailAdministrationSettings
 
 > Represents an organization’s email
         administration settings, including email deliverability, security compliance, relay

@@ -5,12 +5,10 @@ topic: record-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.512Z
+lastCollected: 2026-04-07T18:37:22.623Z
 estimatedTokens: 133
 keywords: [Record, Snapshot, recommendation, reaction]
 ---
-
-# Record Snapshot
 
 > A record snapshot in a recommendation reaction.
 

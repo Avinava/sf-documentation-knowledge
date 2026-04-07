@@ -5,12 +5,10 @@ topic: renew-insurance-policies-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.204Z
+lastCollected: 2026-04-07T18:37:48.936Z
 estimatedTokens: 215
-keywords: [Renew, Insurance, Policies, Action, Process, renewal, bulk, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Renew, Insurance, Policies, Action, Process, renewal, bulk, REST, HTTP]
 ---
-
-# Renew Insurance Policies Action
 
 > Process the renewal of insurance policies in bulk.
 

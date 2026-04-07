@@ -5,12 +5,10 @@ topic: transaction-security-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.745Z
+lastCollected: 2026-04-07T18:38:31.633Z
 estimatedTokens: 1217
-keywords: [Transaction, Security, Event, events, contain, policy, execution, API, version, 55.0, later]
+keywords: [Transaction, Security, Event, events, contain, policy, execution, API, 55.0]
 ---
-
-# Transaction Security Event Type
 
 > Transaction Security events contain details about policy
          execution. This event type is supported in API version 55.0 and later.

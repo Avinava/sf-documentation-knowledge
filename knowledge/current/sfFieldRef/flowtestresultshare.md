@@ -5,12 +5,10 @@ topic: flowtestresultshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.454Z
+lastCollected: 2026-04-07T18:39:41.119Z
 estimatedTokens: 250
 keywords: [FlowTestResultShare, Sharing, FlowTestResult]
 ---
-
-# FlowTestResultShare
 
 > Sharing for FlowTestResult.
 

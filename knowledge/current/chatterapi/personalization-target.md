@@ -5,12 +5,10 @@ topic: personalization-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.240Z
+lastCollected: 2026-04-07T18:37:15.285Z
 estimatedTokens: 148
 keywords: [Personalization, Target]
 ---
-
-# Personalization Target
 
 > Get or delete a target.
 

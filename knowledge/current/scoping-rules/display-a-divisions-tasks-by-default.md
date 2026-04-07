@@ -5,12 +5,10 @@ topic: display-a-divisions-tasks-by-default
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.831Z
+lastCollected: 2026-04-07T18:39:21.703Z
 estimatedTokens: 72
-keywords: [Display, Division’s, Tasks, scoping, rule, displays, records, associated, particular, division, user, Tooling, API, Metadata]
+keywords: [Display, Division’s, Tasks, scoping, rule, displays, records, particular, division, user, Tooling, API, Metadata]
 ---
-
-# Display a Division’s Tasks by Default
 
 > This scoping rule displays records associated with a particular division by default for
   a user.

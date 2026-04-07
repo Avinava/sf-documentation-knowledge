@@ -5,12 +5,10 @@ topic: fundingawardrqmtsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.576Z
+lastCollected: 2026-04-07T18:39:06.700Z
 estimatedTokens: 1371
-keywords: [FundingAwardRqmtSection, part, funding, award, requirement, completed, reviewed, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [FundingAwardRqmtSection, part, funding, award, requirement, completed, reviewed, API, 62.0]
 ---
-
-# FundingAwardRqmtSection
 
 > Represents a part of a funding award requirement to be completed or
          reviewed. This object is available in API version 62.0 and later.

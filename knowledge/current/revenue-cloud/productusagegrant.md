@@ -5,12 +5,10 @@ topic: productusagegrant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.293Z
+lastCollected: 2026-04-07T18:35:50.194Z
 estimatedTokens: 1918
-keywords: [ProductUsageGrant, grant, associated, resource, product, service, purchased, quantity, renewal, rollover, policy, validity, API, version, 62.0]
+keywords: [ProductUsageGrant, grant, resource, product, service, purchased, quantity, renewal, rollover, policy, validity, API, 62.0]
 ---
-
-# ProductUsageGrant
 
 > Represents the details of a grant associated with a resource, product, or
          service, such as the purchased quantity, renewal and rollover policy, and validity of the

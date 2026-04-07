@@ -5,12 +5,10 @@ topic: use-location-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.414Z
+lastCollected: 2026-04-07T18:38:15.943Z
 estimatedTokens: 884
-keywords: [Location, Mobile, Device, Lightning, web, component, device’s, features, determine, current, association, person, holding, access, moment]
+keywords: [Location, Mobile, Device, Lightning, web, device’s, features, determine, current, association, person, holding, moment, time, subscribe, changes, receive, updates, significantly]
 ---
-
-# Use Location on a Mobile Device
 
 > A Lightning web component can use a mobile device’s location features to determine the
   current location of the device and, by association, the person who is holding it. You can access

@@ -5,13 +5,11 @@ topic: environmentcontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.007Z
+lastCollected: 2026-04-07T18:36:13.315Z
 estimatedTokens: 174
 namespace: Canvas
-keywords: [EnvironmentContext, retrieve, environment, context, app, display, location, configuration, Usage]
+keywords: [EnvironmentContext, retrieve, environment, context, app, display, location, configuration]
 ---
-
-# EnvironmentContext Interface
 
 > Use this interface to retrieve environment
 context information, such as the app display location or the configuration

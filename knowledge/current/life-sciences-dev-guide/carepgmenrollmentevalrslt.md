@@ -5,12 +5,10 @@ topic: carepgmenrollmentevalrslt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.743Z
+lastCollected: 2026-04-07T18:37:59.308Z
 estimatedTokens: 1296
-keywords: [CarePgmEnrollmentEvalRslt, result, evaluation, assess, eligibility, participant, enrolling, research, study, care, program, API, version, 62.0, later]
+keywords: [CarePgmEnrollmentEvalRslt, result, evaluation, assess, eligibility, participant, enrolling, research, study, care, program, API, 62.0]
 ---
-
-# CarePgmEnrollmentEvalRslt
 
 > Represents the result of an evaluation done to assess the eligibility of a
          participant enrolling for a research study or care program. This object is available

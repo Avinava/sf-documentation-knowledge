@@ -5,12 +5,10 @@ topic: design-and-super-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.536Z
+lastCollected: 2026-04-07T18:40:16.679Z
 estimatedTokens: 827
-keywords: [Design, Super, Content, attribute, displays, editing, asset, Marketing, Cloud, thumbnails, previews, there, actual, Once, published]
+keywords: [Design, Super, Content, attribute, displays, editing, asset, Marketing, Cloud, thumbnails, previews, there, actual, Once, published, ignored, blocks, slots, Sample, Items]
 ---
-
-# Design and Super Content
 
 > Design content is a default for the content attribute that displays when editing an asset in Marketing Cloud or as content thumbnails or previews when there is no actual content. Once the asset is published, design content is ignored. Design is only supported when used with blocks and slots.
 

@@ -5,12 +5,10 @@ topic: aggregation-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.753Z
+lastCollected: 2026-04-07T18:36:16.936Z
 estimatedTokens: 285
-keywords: [Aggregation, Salesforce, Connect, Custom, Adapters, receive, COUNT, query, selected, column, QueryAggregation.COUNT, provided, columnsSelected, tableSelection, DataSource.QueryContext]
+keywords: [Aggregation, Salesforce, Connect, Adapters, receive, COUNT, query, selected, column, QueryAggregation.COUNT, provided, columnsSelected, tableSelection, DataSource.QueryContext]
 ---
-
-# Aggregation for Salesforce Connect Custom Adapters
 
 > If you receive a COUNT() query, the selected
         column has the value QueryAggregation.COUNT in its

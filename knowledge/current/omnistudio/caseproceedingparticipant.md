@@ -5,12 +5,10 @@ topic: caseproceedingparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.669Z
+lastCollected: 2026-04-07T18:36:44.411Z
 estimatedTokens: 1107
-keywords: [CaseProceedingParticipant, junction, case, proceeding, participant, account, contact, stores, involved, API, version, 64.0, later, Calls, Associated]
+keywords: [CaseProceedingParticipant, junction, case, proceeding, participant, account, contact, stores, involved, API, 64.0]
 ---
-
-# CaseProceedingParticipant
 
 > Represents a junction between the case proceeding and a participant, such as
          an account or a contact. This object stores the details of a participant who is involved in

@@ -5,12 +5,10 @@ topic: revenuesourceobjectconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.223Z
+lastCollected: 2026-04-07T18:37:39.141Z
 estimatedTokens: 936
-keywords: [RevenueSourceObjectConfig, data, underlying, Salesforce, standard, custom, stores, opportunity, product-related, API, version, 57.0, later, SOAP, Calls]
+keywords: [RevenueSourceObjectConfig, underlying, Salesforce, standard, stores, opportunity, product-related, API, 57.0, SOAP, REST]
 ---
-
-# RevenueSourceObjectConfig
 
 > Represents data from the underlying Salesforce standard or custom object that
          stores opportunity and product-related information. This object is available in API

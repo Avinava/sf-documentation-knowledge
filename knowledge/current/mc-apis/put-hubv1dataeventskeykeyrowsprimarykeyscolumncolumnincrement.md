@@ -5,12 +5,10 @@ topic: put-hubv1dataeventskeykeyrowsprimarykeyscolumncolumnincrement
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.181Z
+lastCollected: 2026-04-07T18:40:18.383Z
 estimatedTokens: 364
-keywords: [PUT, hub, dataevents, key, rows, primaryKeys, column, increment, Increments, data, extension, external, **Overview**, Usage]
+keywords: [PUT, hub, dataevents, key, rows, primaryKeys, column, increment, Increments, extension, external, **Overview**]
 ---
-
-# PUT /hub/v1/dataevents/key:{key}/rows/{primaryKeys}/column/{column}/increment
 
 > Increments a column value by data extension external key.
 

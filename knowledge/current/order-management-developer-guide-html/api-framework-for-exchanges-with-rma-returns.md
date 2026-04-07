@@ -5,12 +5,10 @@ topic: api-framework-for-exchanges-with-rma-returns
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.565Z
+lastCollected: 2026-04-07T18:38:45.367Z
 estimatedTokens: 1314
-keywords: [API, Framework, Exchanges, RMA, Expand, exchange, capability, increasing, ways, customer, service, representative, CSR, help, customers]
+keywords: [API, Framework, Exchanges, RMA, Expand, exchange, capability, increasing, ways, customer, service, representative, CSR, help, customers, products, capabilities, uneven, already-fulfilled, order, configure, workflow, org, SalesforceOrderManagementGrowth, license]
 ---
-
-# API Framework for Exchanges with RMA Returns
 
 > Expand your exchange capability by increasing the ways that a customer service
     representative (CSR) can help your customers exchange products. With these exchange

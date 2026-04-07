@@ -5,12 +5,10 @@ topic: healthscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.942Z
+lastCollected: 2026-04-07T18:39:43.547Z
 estimatedTokens: 587
-keywords: [HealthScore, subject’s, score, specific, category, API, version, 55.0, later]
+keywords: [HealthScore, subject’s, score, specific, category, API, 55.0]
 ---
-
-# HealthScore
 
 > Represents a subject’s score for a specific score category. This object
       is available in API version 55.0 and later.

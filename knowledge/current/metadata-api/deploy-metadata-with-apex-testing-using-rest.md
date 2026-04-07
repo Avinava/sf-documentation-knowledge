@@ -5,12 +5,10 @@ topic: deploy-metadata-with-apex-testing-using-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:43.772Z
+lastCollected: 2026-04-07T18:36:29.252Z
 estimatedTokens: 2733
 keywords: [Deploy, Metadata, Apex, Testing, REST, deployRequest, resource, initiate, handles, operations, deployment, deployOptions, deployResult]
 ---
-
-# Deploy Metadata with Apex Testing Using REST
 
 > Deploy using the deployRequest REST resource to
     initiate a request that handles all operations for the deployment.

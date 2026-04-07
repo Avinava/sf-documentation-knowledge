@@ -5,12 +5,10 @@ topic: rest-headers-for-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.842Z
+lastCollected: 2026-04-07T18:36:31.239Z
 estimatedTokens: 334
 keywords: [REST, Tooling, API, subset]
 ---
-
-# REST Headers for Tooling API
 
 > Tooling API provides a subset of the REST headers
             available in REST API.

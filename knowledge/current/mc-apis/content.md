@@ -5,12 +5,10 @@ topic: content
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.730Z
+lastCollected: 2026-04-07T18:40:15.843Z
 estimatedTokens: 277
 keywords: [Content, attribute, asset's, actual, sent, customers, levels, asset, model, hold, identify, sub-content, Sample, Items]
 ---
-
-# Content
 
 > The content attribute contains the asset's actual content that will be sent to customers. The content attribute is used at all levels of the asset model to hold each asset's content and identify where to sub-content should go.
 

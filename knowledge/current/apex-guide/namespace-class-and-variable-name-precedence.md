@@ -5,12 +5,10 @@ topic: namespace-class-and-variable-name-precedence
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.343Z
+lastCollected: 2026-04-07T18:36:16.559Z
 estimatedTokens: 665
-keywords: [Variable, Precedence, However, variables, Apex, uses, dot, notation, member, refer, instances, they, sObject, own, rules]
+keywords: [Variable, Precedence, However, variables, Apex, uses, dot, notation, member, refer, instances, they, sObject, own, possibly, navigating, foreign, keys]
 ---
-
-# Namespace, Class, and Variable Name Precedence
 
 > However, with class variables Apex also uses dot notation to reference member variables. Those member
 variables might refer to other class instances, or they might refer

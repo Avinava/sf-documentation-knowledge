@@ -5,12 +5,10 @@ topic: pulsechecktemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.743Z
+lastCollected: 2026-04-07T18:37:31.890Z
 estimatedTokens: 1076
-keywords: [PulseCheckTemplate, common, template, Pulse, Check, records, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [PulseCheckTemplate, common, template, Pulse, Check, records, API, 62.0]
 ---
-
-# PulseCheckTemplate
 
 > Represents a common template used to create Pulse Check records. This
       object is available in API version 62.0 and later.

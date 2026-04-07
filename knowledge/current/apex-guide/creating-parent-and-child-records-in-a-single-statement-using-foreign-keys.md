@@ -6,13 +6,10 @@ topic: creating-parent-and-child-records-in-a-single-statement-using-foreign-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:34.274Z
+lastCollected: 2026-04-07T18:36:19.488Z
 estimatedTokens: 599
-keywords: [Creating, Parent, Child, Records, Statement, Foreign, Keys, levels, deep, created, call, different, sObject, SOAP, API]
+keywords: [Creating, Parent, Child, Records, Statement, Foreign, Keys, levels, deep, created, call, different, sObject, SOAP, API, Developer, Guid]
 ---
-
-# Creating Parent and Child Records in a Single Statement Using
-            Foreign Keys
 
 > You can create related records that are up to 10 levels deep. Also, the related
                 records created in a single call must have different sObject types. For more

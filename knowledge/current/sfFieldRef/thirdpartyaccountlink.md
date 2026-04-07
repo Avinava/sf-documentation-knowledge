@@ -5,12 +5,10 @@ topic: thirdpartyaccountlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.262Z
+lastCollected: 2026-04-07T18:40:03.993Z
 estimatedTokens: 307
-keywords: [ThirdPartyAccountLink, external, users, authenticated, authentication, provider, API, version, 32.0, later]
+keywords: [ThirdPartyAccountLink, external, users, authenticated, authentication, provider, API, 32.0]
 ---
-
-# ThirdPartyAccountLink
 
 > Represents the list of external users who authenticated using an
 			authentication provider. This object is available in API version 32.0 and

@@ -5,12 +5,10 @@ topic: document-recipient-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.231Z
+lastCollected: 2026-04-07T18:37:25.168Z
 estimatedTokens: 318
-keywords: [Document, Recipient, Status, Output, representation, sequence, signers]
+keywords: [Document, Recipient, Status, sequence, signers]
 ---
-
-# Document Recipient Status
 
 > Output representation of recipient status and sequence information for the
     signers.

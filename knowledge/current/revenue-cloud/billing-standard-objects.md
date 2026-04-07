@@ -5,12 +5,10 @@ topic: billing-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.286Z
+lastCollected: 2026-04-07T18:35:42.149Z
 estimatedTokens: 6074
-keywords: [Billing, Standard, Objects, data, model, manage, tax, configurations, credit, memos, invoices, accounting, periods, legal, entities]
+keywords: [Billing, Standard, model, manage, tax, configurations, credit, memos, invoices, accounting, periods, legal, entities]
 ---
-
-# Billing Standard Objects
 
 > The Billing data model provides objects and fields to manage billing and tax
   configurations, credit memos, and invoices, and accounting periods for legal entities.

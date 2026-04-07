@@ -5,12 +5,10 @@ topic: use-custom-fonts-in-your-experience-builder-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.693Z
+lastCollected: 2026-04-07T18:37:26.635Z
 estimatedTokens: 618
-keywords: [Custom, Fonts, Experience, Builder, Site, Upload, resources, primary, throughout, you’ve, font, file, zip]
+keywords: [Fonts, Experience, Builder, Site, Upload, resources, primary, throughout, you’ve, font, file, zip]
 ---
-
-# Use Custom Fonts in Your Experience Builder Site
 
 > Upload custom fonts as static resources and use them for primary and header fonts
     throughout your site. If you’ve more than one font file to upload, use a .zip file.

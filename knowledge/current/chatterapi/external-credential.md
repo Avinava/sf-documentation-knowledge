@@ -5,13 +5,11 @@ topic: external-credential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.685Z
+lastCollected: 2026-04-07T18:37:14.725Z
 estimatedTokens: 707
 namespace: String
-keywords: [External, Credential, including, named, credentials, principals, associated, status, principal]
+keywords: [External, Credential, including, named, credentials, principals, status, principal]
 ---
-
-# External Credential
 
 > External credential, including the named credentials and principals
       associated with it and the type and status of each principal.

@@ -5,12 +5,10 @@ topic: dandbcompany
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.549Z
+lastCollected: 2026-04-07T18:38:29.432Z
 estimatedTokens: 6854
-keywords: [DandBCompany, Dun, Bradstreet®, company, record, associated, account, added, Data.com, API, version, 25.0, later, Calls, Special]
+keywords: [DandBCompany, Dun, Bradstreet®, company, record, account, added, Data.com, API, 25.0]
 ---
-
-# DandBCompany
 
 > Represents a Dun & Bradstreet®
     company record, which is associated with an account added from Data.com. This object

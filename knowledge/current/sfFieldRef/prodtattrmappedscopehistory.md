@@ -5,12 +5,10 @@ topic: prodtattrmappedscopehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.559Z
+lastCollected: 2026-04-07T18:39:55.121Z
 estimatedTokens: 274
-keywords: [ProdtAttrMappedScopeHistory, History, tracked, ProdtAttrMappedScope]
+keywords: [ProdtAttrMappedScopeHistory, tracked, ProdtAttrMappedScope]
 ---
-
-# ProdtAttrMappedScopeHistory
 
 > History for tracked fields of ProdtAttrMappedScope.
 

@@ -5,12 +5,10 @@ topic: connect-to-the-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:02.828Z
+lastCollected: 2026-04-07T18:36:48.889Z
 estimatedTokens: 335
-keywords: [Connect, Toolkit, portion, any, JavaScript, code, uses, Salesforce, Console, Integration, different, depending, whether, embedding, Visualforce]
+keywords: [Connect, Toolkit, portion, any, JavaScript, code, uses, Salesforce, Console, Integration, different, depending, whether, embedding, Visualforce, third-party, domain]
 ---
-
-# Connect to the Toolkit
 
 > The first portion of any JavaScript code that uses the Salesforce Console Integration
     Toolkit must make the toolkit available to the JavaScript code. The syntax for this is different

@@ -5,12 +5,10 @@ topic: group-membership-requestsprivate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.145Z
+lastCollected: 2026-04-07T18:37:14.107Z
 estimatedTokens: 546
 keywords: [Group, Membership, Requests—Private, status, user, join]
 ---
-
-# Group Membership Requests—Private
 
 > Update the status of a request by a user to join a
    private group or get information about a request to join a private group.

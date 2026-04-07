@@ -5,12 +5,10 @@ topic: transformations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.735Z
+lastCollected: 2026-04-07T18:36:52.146Z
 estimatedTokens: 462
-keywords: [Transformations, Perform, business, transformation, lead, line, item, preferred, seller, data, source, opportunities, opportunity, target, scenarios]
+keywords: [Transformations, Perform, business, transformation, lead, line, item, preferred, seller, source, opportunities, opportunity, target, scenarios, LeadLineItem, OpportunityLineItem, LeadPreferredSeller, OpportunityPreferredSeller]
 ---
-
-# Transformations
 
 > Perform the business transformation of lead line item or lead
    preferred seller data (source object) to opportunities line item or opportunity preferred seller

@@ -5,12 +5,10 @@ topic: courseofferingptcpresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.833Z
+lastCollected: 2026-04-07T18:37:30.941Z
 estimatedTokens: 796
-keywords: [CourseOfferingPtcpResult, outcome, student's, participation, course, API, version, 57.0, later, Calls]
+keywords: [CourseOfferingPtcpResult, outcome, student's, participation, course, API, 57.0]
 ---
-
-# CourseOfferingPtcpResult
 
 > Represents the outcome of a student's participation in a course. This
       object is available in API version 57.0 and later.

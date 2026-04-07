@@ -5,12 +5,10 @@ topic: activationtargetplatformhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.776Z
+lastCollected: 2026-04-07T18:39:24.690Z
 estimatedTokens: 275
-keywords: [ActivationTargetPlatformHistory, History, tracked, ActivationTargetPlatform]
+keywords: [ActivationTargetPlatformHistory, tracked, ActivationTargetPlatform]
 ---
-
-# ActivationTargetPlatformHistory
 
 > History for tracked fields of ActivationTargetPlatform.
 

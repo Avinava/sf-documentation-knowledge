@@ -5,12 +5,10 @@ topic: pv1---patient-visit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.995Z
+lastCollected: 2026-04-07T18:37:58.514Z
 estimatedTokens: 976
-keywords: [PV1, Patient, Visit, HL7, segment, maps, Encounter, among, objects, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [PV1, Patient, Visit, HL7, segment, maps, Encounter, among, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# PV1 - Patient Visit
 
 > The Patient Visit (PV1) HL7 segment maps to the Encounter object, among other objects in Salesforce.
 

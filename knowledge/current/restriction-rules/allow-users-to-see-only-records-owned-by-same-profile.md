@@ -5,12 +5,10 @@ topic: allow-users-to-see-only-records-owned-by-same-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.898Z
+lastCollected: 2026-04-07T18:39:10.342Z
 estimatedTokens: 180
-keywords: [Allow, Users, Records, Owned, Profile, restriction, rule, active, events, dot, notation, traverse, relationships, recordFilter, Tooling]
+keywords: [Allow, Users, Records, Owned, Profile, restriction, rule, active, events, dot, notation, traverse, relationships, recordFilter, Tooling, API, Metadata]
 ---
-
-# Allow Users to See Only Records Owned by Same Profile
 
 > This restriction rule allows active users to see only the events owned by users that
         have the same profile. You can use dot notation to traverse object and field relationships

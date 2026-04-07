@@ -5,12 +5,10 @@ topic: process-configuration-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.374Z
+lastCollected: 2026-04-07T18:39:10.861Z
 estimatedTokens: 425
-keywords: [Process, Configuration, Settings, executing, API, system, reads, Setting, Custom, order, define, it’s, behavior]
+keywords: [Process, Configuration, Settings, executing, API, system, reads, Setting, order, define, it’s, behavior]
 ---
-
-# Process Configuration Settings
 
 > When executing BO API process, the system reads the following configuration values
         from System Setting Custom setting in order to define it’s behavior.

@@ -5,12 +5,10 @@ topic: createsalesforceobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.767Z
+lastCollected: 2026-04-07T18:40:22.131Z
 estimatedTokens: 260
-keywords: [CreateSalesforceObject, Function, Ordinal, record, Lead, CustomObject, numeric, Number, spec, **Overview**, **Syntax**, Usage]
+keywords: [CreateSalesforceObject, Function, Ordinal, record, Lead, CustomObject, numeric, Number, spec, **Overview**, **Syntax**]
 ---
-
-# CreateSalesforceObject
 
 > CreateSalesforceObject(1, 2, 3, 4)
 

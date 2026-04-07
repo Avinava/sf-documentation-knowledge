@@ -5,12 +5,10 @@ topic: send-emails-for-posted-invoices-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.956Z
+lastCollected: 2026-04-07T18:35:44.981Z
 estimatedTokens: 292
-keywords: [Send, Emails, Posted, Invoices, POST, invoice, batch, run, Special, Access, Rules]
+keywords: [Send, Emails, Posted, Invoices, POST, invoice, batch, run]
 ---
-
-# Send Emails for Posted Invoices (POST)
 
 > Send emails for the posted invoices of a specified invoice batch run
       ID.

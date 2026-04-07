@@ -5,12 +5,10 @@ topic: managed-content-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.163Z
+lastCollected: 2026-04-07T18:37:08.936Z
 estimatedTokens: 348
-keywords: [Managed, Content, Input]
+keywords: [Managed, Content]
 ---
-
-# Managed Content Input
 
 > Managed content.
 

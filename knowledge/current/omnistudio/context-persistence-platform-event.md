@@ -5,12 +5,10 @@ topic: context-persistence-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.088Z
+lastCollected: 2026-04-07T18:36:40.787Z
 estimatedTokens: 214
 keywords: [Context, Persistence, Platform, Event, ContextPersistence, notify, subscribers, completed, execution, processed]
 ---
-
-# Context Persistence Platform Event
 
 > Use the ContextPersistence event to notify subscribers after a context persistence
     event has completed its execution is processed.

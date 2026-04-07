@@ -5,12 +5,10 @@ topic: mcs-folder-share-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.001Z
+lastCollected: 2026-04-07T18:37:20.166Z
 estimatedTokens: 158
 keywords: [MCS, Folder, Share, Collection, targets, managed, content, space, shared]
 ---
-
-# MCS Folder Share Collection
 
 > Collection of targets that a managed content space folder is shared with.
 

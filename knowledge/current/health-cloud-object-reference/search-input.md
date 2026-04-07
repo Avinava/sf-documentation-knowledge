@@ -5,12 +5,10 @@ topic: search-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:53.035Z
+lastCollected: 2026-04-07T18:37:41.034Z
 estimatedTokens: 123
-keywords: [Search, Input, representation, API]
+keywords: [Search, API]
 ---
-
-# Search Input
 
 > Input representation for Search API
 

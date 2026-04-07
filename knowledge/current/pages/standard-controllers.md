@@ -5,12 +5,10 @@ topic: standard-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.839Z
+lastCollected: 2026-04-07T18:38:51.079Z
 estimatedTokens: 454
-keywords: [Standard, Controllers, Visualforce, controller, instructions, specify, happens, user, interacts, components, associated, markup, clicks, button, link]
+keywords: [Standard, Controllers, Visualforce, controller, instructions, specify, happens, user, interacts, markup, clicks, button, link, provide]
 ---
-
-# Standard Controllers
 
 > A Visualforce controller is a set of instructions that specify what happens when a user
       interacts with the components specified in associated Visualforce markup, such as when a user

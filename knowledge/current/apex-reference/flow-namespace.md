@@ -5,13 +5,11 @@ topic: flow-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.717Z
+lastCollected: 2026-04-07T18:36:15.030Z
 estimatedTokens: 105
 namespace: Flow
-keywords: [Flow, advanced, access, flows, Apex, Visualforce, controllers, asynchronous]
+keywords: [Flow, advanced, flows, Apex, Visualforce, controllers, asynchronous]
 ---
-
-# Flow Namespace
 
 > The Flow namespace provides a class for advanced
   access to flows from Apex such as from Visualforce controllers and asynchronous Apex.

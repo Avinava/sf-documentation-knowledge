@@ -5,12 +5,10 @@ topic: directmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.013Z
+lastCollected: 2026-04-07T18:38:29.880Z
 estimatedTokens: 248
-keywords: [DirectMessage, direct, message, conversation, multiple, users, Chatter, API, version, 38.0, later, Calls, Special, Access, Rules]
+keywords: [DirectMessage, direct, message, conversation, multiple, users, Chatter, API, 38.0]
 ---
-
-# DirectMessage
 
 > Represents a direct message conversation between multiple users in
       Chatter. This object is available in API version 38.0 and later.

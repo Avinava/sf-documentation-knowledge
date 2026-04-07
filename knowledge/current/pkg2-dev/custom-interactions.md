@@ -5,12 +5,10 @@ topic: custom-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.513Z
+lastCollected: 2026-04-07T18:38:54.894Z
 estimatedTokens: 1118
-keywords: [Custom, Interactions, understand, features, components, subscriber, interacted, how, they, flow, user, journey, Apex, enums, Successful]
+keywords: [Interactions, understand, features, subscriber, interacted, how, they, flow, user, journey, Apex, enums, Successful, Unsuccessful]
 ---
-
-# Custom Interactions
 
 > To understand which features and UI components a subscriber interacted with and how they
   flow through a user journey, create custom interactions with Apex enums and the IsvPartners.AppAnalytics.logCustomInteraction Apex

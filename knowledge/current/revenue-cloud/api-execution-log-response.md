@@ -5,12 +5,10 @@ topic: api-execution-log-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.169Z
+lastCollected: 2026-04-07T18:35:45.155Z
 estimatedTokens: 111
-keywords: [API, Execution, Log, Output, representation, pricing, waterfall]
+keywords: [API, Execution, Log, pricing, waterfall]
 ---
-
-# API Execution Log Response
 
 > Output representation of the execution log of a pricing waterfall request.
 

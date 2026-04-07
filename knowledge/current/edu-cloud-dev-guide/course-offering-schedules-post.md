@@ -5,12 +5,10 @@ topic: course-offering-schedules-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.177Z
+lastCollected: 2026-04-07T18:37:29.301Z
 estimatedTokens: 229
 keywords: [Course, Offering, Schedules, POST, Add, modify, resource, adding, new, updating]
 ---
-
-# Course Offering Schedules (POST)
 
 > Add or modify course offering schedules to the course offering. This resource is used
     to modify the schedules of an existing course offering by adding new schedules or updating the

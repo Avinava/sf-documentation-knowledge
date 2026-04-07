@@ -5,12 +5,10 @@ topic: automationtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.427Z
+lastCollected: 2026-04-07T18:40:15.515Z
 estimatedTokens: 420
-keywords: [AutomationTask, task, associated, automation, Studio, account]
+keywords: [AutomationTask, task, automation, Studio, account]
 ---
-
-# AutomationTask
 
 > The AutomationTask object defines a task associated with an automation in Automation Studio for an account.
 

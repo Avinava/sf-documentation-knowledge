@@ -5,12 +5,10 @@ topic: unsubevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.560Z
+lastCollected: 2026-04-07T18:40:20.813Z
 estimatedTokens: 581
 keywords: [UnsubEvent, regarding, specific, unsubscribe, action, taken, subscriber, Items]
 ---
-
-# UnsubEvent
 
 > The UnsubEvent object contains information regarding a specific unsubscribe action taken by a subscriber.
 

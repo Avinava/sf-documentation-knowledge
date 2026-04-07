@@ -5,13 +5,11 @@ topic: an-advanced-example-of-using-flowinterview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.145Z
+lastCollected: 2026-04-07T18:38:51.378Z
 estimatedTokens: 899
 namespace: Flow.Interview.ModemTroubleShooting
-keywords: [Advanced, <flow, interview>, component, designed, easy, develop, complex, Visualforce, interactions, access, additional, features, flow, creating]
+keywords: [Advanced, <flow, interview>, designed, easy, develop, complex, Visualforce, interactions, additional, features, flow, creating, controller, controllers, build, multiple, interact, Any, organization, individually, referenced, own, Apex, variables, accessed, member, Setting, reRender, Attribute]
 ---
-
-# An Advanced Example of Using  <flow:interview>
 
 > The <flow:interview> component is designed
         to make it easy to develop complex Visualforce interactions. You can

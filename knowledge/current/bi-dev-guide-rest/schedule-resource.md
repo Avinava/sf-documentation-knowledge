@@ -5,12 +5,10 @@ topic: schedule-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.842Z
+lastCollected: 2026-04-07T18:36:56.389Z
 estimatedTokens: 734
-keywords: [Schedule, Resource, Retrieve, dataflow, recipe, connection, sync, URL, Formats, Version, Postman, Components, HTTP, PUT, Examples]
+keywords: [Formats, Examples, Schedule, Resource, Retrieve, dataflow, recipe, connection, sync, URL, Postman, HTTP, PUT]
 ---
-
-# Schedule Resource
 
 > Retrieve, create or delete a schedule for a dataflow, recipe, or
    connection sync.

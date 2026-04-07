@@ -5,13 +5,11 @@ topic: channel-order-apex-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.496Z
+lastCollected: 2026-04-07T18:38:46.363Z
 estimatedTokens: 313
 namespace: The
 keywords: [Channel, Order, Apex, API, submit, orders, Salesforce, programmatically, classes, provided, CHANNEL_ORDERS]
 ---
-
-# Channel Order Apex API
 
 > You can submit orders to Salesforce programmatically using the Channel Order Apex API. To
         submit an order, use one of the classes provided in the CHANNEL_ORDERS namespace.

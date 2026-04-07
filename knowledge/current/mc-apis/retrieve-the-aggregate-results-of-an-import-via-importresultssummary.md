@@ -5,12 +5,10 @@ topic: retrieve-the-aggregate-results-of-an-import-via-importresultssummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.536Z
+lastCollected: 2026-04-07T18:40:18.739Z
 estimatedTokens: 1108
-keywords: [Retrieve, Aggregate, Results, Import, Via, ImportResultsSummary, retrieving, activity, retrieve-only, Why, How, Retrievethe, Sample, NET, Code]
+keywords: [Retrieve, Aggregate, Results, Import, Via, ImportResultsSummary, retrieving, activity, retrieve-only, Why, How, Retrievethe, Sample, NET, Code, SOAP, Envelope]
 ---
-
-# Retrieve the Aggregate Results of an Import Via ImportResultsSummary
 
 > This page contains information  about retrieving the aggregate results of an import activity using the retrieve-only object ImportResultsSummary.
 

@@ -5,12 +5,10 @@ topic: providernetworktierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.911Z
+lastCollected: 2026-04-07T18:39:57.503Z
 estimatedTokens: 178
-keywords: [ProviderNetworkTierHistory, History, tracked, ProviderNetworkTier]
+keywords: [ProviderNetworkTierHistory, tracked, ProviderNetworkTier]
 ---
-
-# ProviderNetworkTierHistory
 
 > History for tracked fields of ProviderNetworkTier.
 

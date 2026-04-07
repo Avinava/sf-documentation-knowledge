@@ -5,12 +5,10 @@ topic: loyalty-program-process-rule-condition-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.777Z
+lastCollected: 2026-04-07T18:38:08.020Z
 estimatedTokens: 245
-keywords: [Loyalty, Program, Process, Rule, Condition, Group, Output, representation]
+keywords: [Loyalty, Program, Process, Rule, Condition, Group]
 ---
-
-# Loyalty Program Process Rule Condition Group
 
 > Output representation of the loyalty program process rule condition
       group.

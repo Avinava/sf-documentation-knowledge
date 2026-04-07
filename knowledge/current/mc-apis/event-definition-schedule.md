@@ -5,12 +5,10 @@ topic: event-definition-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.730Z
+lastCollected: 2026-04-07T18:40:16.885Z
 estimatedTokens: 657
 keywords: [Event, Definition, Schedule, automation, executes, fire, activity, automatically, created, defined, sample, json, below, inserted]
 ---
-
-# Event Definition Schedule
 
 > An automation that executes a fire event activity will automatically be created if a schedule is defined in the Event Definition. The sample json below should be inserted into the Event Definition request body.
 

@@ -5,12 +5,10 @@ topic: businesslicensecodeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.051Z
+lastCollected: 2026-04-07T18:39:06.038Z
 estimatedTokens: 600
-keywords: [BusinessLicenseCodeSet, junction, business, license, code, API, version, 66.0, later, Calls, Associated, Objects]
+keywords: [BusinessLicenseCodeSet, junction, business, license, code, API, 66.0]
 ---
-
-# BusinessLicenseCodeSet
 
 > Represents a junction between a business license and a code set. This
       object is available in API version 66.0 and later.

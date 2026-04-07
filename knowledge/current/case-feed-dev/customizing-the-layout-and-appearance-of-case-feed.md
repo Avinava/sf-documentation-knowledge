@@ -5,12 +5,10 @@ topic: customizing-the-layout-and-appearance-of-case-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.172Z
+lastCollected: 2026-04-07T18:37:04.885Z
 estimatedTokens: 985
-keywords: [Customizing, Layout, Appearance, Case, Feed, Creating, customized, Visualforce, lets, control, overall, including, actions, tools, shown]
+keywords: [Customizing, Layout, Appearance, Case, Creating, customized, Visualforce, lets, control, overall, including, actions, tools, shown, they’re, located, include, standard, console, componen, chatter, Attributes, Code, Sample]
 ---
-
-# Customizing the Layout and Appearance of Case Feed
 
 > Creating a customized Case Feed page with Visualforce lets you control the overall
                 layout and appearance, including which actions and tools are shown and where

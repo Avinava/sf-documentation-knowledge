@@ -5,12 +5,10 @@ topic: batch-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:19.005Z
+lastCollected: 2026-04-07T18:37:05.703Z
 estimatedTokens: 371
-keywords: [Batch, Management, Tooling, API, Objects, view, settings, jobs]
+keywords: [Batch, Management, Tooling, API, view, settings, jobs]
 ---
-
-# Batch Management Tooling API Objects
 
 > You can use the Batch Management Tooling API object to view the settings of Batch
    Management jobs.

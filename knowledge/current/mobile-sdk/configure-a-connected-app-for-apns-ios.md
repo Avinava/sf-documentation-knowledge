@@ -5,12 +5,10 @@ topic: configure-a-connected-app-for-apns-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.921Z
+lastCollected: 2026-04-07T18:40:27.137Z
 estimatedTokens: 199
 keywords: [Configure, Connected, App, APNS, iOS, versions, mobile, tokens, push, certificates, token, provided, Salesforce, always, uses]
 ---
-
-# Configure a Connected App for APNS (iOS)
 
 > For iOS versions of your mobile app, you can use tokens, push certificates, or both.
         If a token is provided, Salesforce always uses the token.

@@ -5,12 +5,10 @@ topic: apexexecutionoverlayresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.311Z
+lastCollected: 2026-04-07T18:36:31.681Z
 estimatedTokens: 674
-keywords: [ApexExecutionOverlayResult, result, Apex, code, snippet, SOQL, query, defined, associated, ApexExecutionOverlayAction, resulting, heap, dump, API, version]
+keywords: [ApexExecutionOverlayResult, result, Apex, code, snippet, SOQL, query, defined, ApexExecutionOverlayAction, resulting, heap, dump, API, 28.0, SOAP, REST, HTTP]
 ---
-
-# ApexExecutionOverlayResult
 
 > Represents the result from the Apex code snippet or SOQL query defined
    in the associated ApexExecutionOverlayAction, and the resulting heap dump if one was returned.

@@ -5,12 +5,10 @@ topic: cart-item-basic-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.147Z
+lastCollected: 2026-04-07T18:37:17.222Z
 estimatedTokens: 102
 keywords: [Cart, Item, Basic, Result]
 ---
-
-# Cart Item Basic Result
 
 > Represents the result of a cart request.
 

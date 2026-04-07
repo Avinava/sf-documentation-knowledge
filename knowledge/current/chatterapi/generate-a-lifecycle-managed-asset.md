@@ -5,12 +5,10 @@ topic: generate-a-lifecycle-managed-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.857Z
+lastCollected: 2026-04-07T18:37:23.907Z
 estimatedTokens: 539
-keywords: [Generate, Lifecycle-Managed, Asset, Review, examples, Connect, REST, API, start, tracking, quantity, amount, monthly, recurring, revenue]
+keywords: [Generate, Lifecycle-Managed, Asset, Review, examples, Connect, REST, API, start, quantity, amount, monthly, recurring, revenue, over, lifecycle]
 ---
-
-# Generate a Lifecycle-Managed Asset
 
 > Review examples of using Connect REST API to create an asset and start tracking its
   quantity, amount, and monthly recurring revenue over its lifecycle.

@@ -5,12 +5,10 @@ topic: assessmenttaskdefinitionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.601Z
+lastCollected: 2026-04-07T18:39:27.588Z
 estimatedTokens: 255
 keywords: [AssessmentTaskDefinitionShare, Sharing, AssessmentTaskDefinition]
 ---
-
-# AssessmentTaskDefinitionShare
 
 > Sharing for AssessmentTaskDefinition.
 

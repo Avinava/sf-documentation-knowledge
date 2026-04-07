@@ -5,12 +5,10 @@ topic: dataclouddandbcompany
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:38.708Z
+lastCollected: 2026-04-07T18:38:29.595Z
 estimatedTokens: 5428
-keywords: [DatacloudDandBCompany, read-only, D&B, company, data, Data.com, API, calls, version, 30.0, later, Usage]
+keywords: [DatacloudDandBCompany, read-only, D&B, company, Data.com, API, 30.0]
 ---
-
-# DatacloudDandBCompany
 
 > Represents a
 				set of read-only fields that are used to return D&B company data from Data.com

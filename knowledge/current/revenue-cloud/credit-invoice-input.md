@@ -5,12 +5,10 @@ topic: credit-invoice-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.198Z
+lastCollected: 2026-04-07T18:35:43.085Z
 estimatedTokens: 417
-keywords: [Credit, Invoice, Input, representation, memo]
+keywords: [Credit, Invoice, memo]
 ---
-
-# Credit Invoice Input
 
 > Input representation of the details of the request to create a credit memo.
 

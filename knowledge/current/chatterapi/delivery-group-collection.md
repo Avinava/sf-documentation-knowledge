@@ -5,12 +5,10 @@ topic: delivery-group-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.275Z
+lastCollected: 2026-04-07T18:37:18.361Z
 estimatedTokens: 100
 keywords: [Delivery, Group, Collection, groups, Commerce, store, checkout]
 ---
-
-# Delivery Group Collection
 
 > Collection of delivery groups for a Commerce store checkout.
 

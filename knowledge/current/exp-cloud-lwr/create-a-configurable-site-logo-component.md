@@ -5,12 +5,10 @@ topic: create-a-configurable-site-logo-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.891Z
+lastCollected: 2026-04-07T18:37:33.187Z
 estimatedTokens: 427
-keywords: [Configurable, Site, Logo, Component, --dxp-s-site-logo-path, --dxp-s-site-logo-url, styling, hooks, easily, add, pages, Images, tab, Theme, panel]
+keywords: [Configurable, Site, Logo, --dxp-s-site-logo-path, --dxp-s-site-logo-url, styling, hooks, easily, add, pages, Images, tab, Theme, panel, system, automatically, updates, any, references, Experience, Builder]
 ---
-
-# Create a Configurable Site Logo Component
 
 > Use the --dxp-s-site-logo-path and --dxp-s-site-logo-url global styling hooks to create an easily
     configurable site logo component that you can add to your site pages. When you update the Site

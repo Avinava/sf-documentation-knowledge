@@ -5,13 +5,11 @@ topic: employeeprofiles-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.716Z
+lastCollected: 2026-04-07T18:35:58.048Z
 estimatedTokens: 3718
 namespace: ConnectApi
-keywords: [EmployeeProfiles, crop, employee, banner, photos, deleteBannerPhoto, employeeId, API, Version, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest]
+keywords: [EmployeeProfiles, crop, employee, banner, photos, deleteBannerPhoto, employeeId, API, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest, Users, setBannerPhoto, fileId, versionNumber, fileUpload, setBannerPhotoWithAttributes, bannerPhoto, setPhoto, setPhotoWithAttributes, photo]
 ---
-
-# EmployeeProfiles Class
 
 > Get, set and crop, and delete employee banner photos and photos.
 

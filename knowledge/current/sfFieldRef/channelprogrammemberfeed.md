@@ -5,12 +5,10 @@ topic: channelprogrammemberfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.332Z
+lastCollected: 2026-04-07T18:39:33.751Z
 estimatedTokens: 391
-keywords: [ChannelProgramMemberFeed, Feed, tracking, ChannelProgramMember]
+keywords: [ChannelProgramMemberFeed, ChannelProgramMember]
 ---
-
-# ChannelProgramMemberFeed
 
 > Feed tracking for ChannelProgramMember.
 

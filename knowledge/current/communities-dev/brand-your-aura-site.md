@@ -5,12 +5,10 @@ topic: brand-your-aura-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.677Z
+lastCollected: 2026-04-07T18:37:26.608Z
 estimatedTokens: 1305
-keywords: [Brand, Aura, Site, Customize, look, feel, Theme, panel, Experience, Builder, develop, own, custom, components, achieve]
+keywords: [Brand, Aura, Site, Customize, look, feel, Theme, panel, Experience, Builder, develop, own, achieve, pixel-perfect, design]
 ---
-
-# Brand Your Aura Site
 
 > Customize the look and feel of your Aura site using the Theme panel in Experience
     Builder or develop your own custom components to achieve a pixel-perfect design.

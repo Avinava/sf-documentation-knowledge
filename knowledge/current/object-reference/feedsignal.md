@@ -5,12 +5,10 @@ topic: feedsignal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.329Z
+lastCollected: 2026-04-07T18:38:32.305Z
 estimatedTokens: 283
-keywords: [feedSignal, Attach, feed, signals, UpDownVote, UserVerified, Verified, post, comment, API, version, 41.0, later, Calls]
+keywords: [feedSignal, Attach, signals, UpDownVote, UserVerified, Verified, post, comment, API, 41.0]
 ---
-
-# feedSignal
 
 > Attach feed signals, like UpDownVote,
         UserVerified, and Verified, to a feed post or

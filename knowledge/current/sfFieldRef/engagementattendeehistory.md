@@ -5,12 +5,10 @@ topic: engagementattendeehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.797Z
+lastCollected: 2026-04-07T18:39:39.459Z
 estimatedTokens: 267
-keywords: [EngagementAttendeeHistory, History, tracked, EngagementAttendee]
+keywords: [EngagementAttendeeHistory, tracked, EngagementAttendee]
 ---
-
-# EngagementAttendeeHistory
 
 > History for tracked fields of EngagementAttendee.
 

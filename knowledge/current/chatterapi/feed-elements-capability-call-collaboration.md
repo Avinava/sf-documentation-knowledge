@@ -5,12 +5,10 @@ topic: feed-elements-capability-call-collaboration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.624Z
+lastCollected: 2026-04-07T18:37:13.572Z
 estimatedTokens: 200
-keywords: [Feed, Elements, Capability, Call, Collaboration, Access, element]
+keywords: [Capability, Call, Collaboration]
 ---
-
-# Feed Elements Capability, Call Collaboration
 
 > Access the call collaboration capability of a feed
     element.

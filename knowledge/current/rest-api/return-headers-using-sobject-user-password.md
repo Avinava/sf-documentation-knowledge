@@ -5,12 +5,10 @@ topic: return-headers-using-sobject-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.322Z
+lastCollected: 2026-04-07T18:36:21.561Z
 estimatedTokens: 309
-keywords: [sObject, User, Password, sending, resource, operation, retrieving, content, itself, REST, API, version, 24.0, later]
+keywords: [sObject, User, Password, sending, resource, operation, retrieving, content, itself, REST, API, 24.0]
 ---
-
-# Return Headers Using sObject User Password
 
 > Returns only the headers that are returned by sending a GET request to the sObject User
   Password resource. This operation allows you to see returned header values of the GET request

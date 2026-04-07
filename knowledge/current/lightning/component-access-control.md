@@ -5,12 +5,10 @@ topic: component-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.488Z
+lastCollected: 2026-04-07T18:38:02.412Z
 estimatedTokens: 143
-keywords: [Component, Access, Control, attribute, aura, tag, whether, outside, component’s]
+keywords: [Control, attribute, aura, tag, whether, outside, component’s]
 ---
-
-# Component Access Control
 
 > The access attribute on the aura:component tag controls whether the component can be used
   outside of the component’s namespace.

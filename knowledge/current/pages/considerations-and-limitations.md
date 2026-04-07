@@ -5,12 +5,10 @@ topic: considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:56.545Z
+lastCollected: 2026-04-07T18:38:48.497Z
 estimatedTokens: 421
 keywords: [Considerations, Limitations, Keep, mind, working, Lightning, message, service, Visualforce]
 ---
-
-# Considerations and Limitations
 
 > Keep these considerations and limitations in mind when working with Lightning message
   service in Visualforce.

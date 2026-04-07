@@ -5,13 +5,11 @@ topic: fschousehold-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.946Z
+lastCollected: 2026-04-07T18:37:34.477Z
 estimatedTokens: 578
 namespace: The
 keywords: [fschousehold, classes, Financial, Goals, Plans, FlexCards]
 ---
-
-# fschousehold Namespace
 
 > The fschousehold namespace provides classes used
     in the Financial Goals and Plans FlexCards.

@@ -5,12 +5,10 @@ topic: promoted-search-terms
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.502Z
+lastCollected: 2026-04-07T18:36:17.736Z
 estimatedTokens: 247
-keywords: [Promoted, Search, Terms, useful, promoting, Salesforce, Knowledge, article, know, commonly, resolve, support, issue, end, user’s]
+keywords: [Promoted, Search, Terms, useful, promoting, Salesforce, Knowledge, article, know, commonly, resolve, support, issue, end, user’s, certain, keywords, Users, promote, results, associating, Apex, SearchPromotionRule, sObject, addition, user]
 ---
-
-# Promoted Search Terms
 
 > Promoted search terms are useful for promoting a
       Salesforce Knowledge article that you know is commonly used to resolve a support issue when an

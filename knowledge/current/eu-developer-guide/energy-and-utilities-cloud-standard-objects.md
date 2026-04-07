@@ -5,12 +5,10 @@ topic: energy-and-utilities-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.149Z
+lastCollected: 2026-04-07T18:37:32.321Z
 estimatedTokens: 4794
-keywords: [Energy, Utilities, Cloud, Standard, Objects, work, E&U]
+keywords: [Energy, Utilities, Cloud, Standard, work, E&U]
 ---
-
-# Energy and Utilities Cloud Standard Objects
 
 > Use standard objects to work with the E&U Cloud.
 

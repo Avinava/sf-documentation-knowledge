@@ -5,12 +5,10 @@ topic: connectapibillingaddressrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.519Z
+lastCollected: 2026-04-07T18:35:41.373Z
 estimatedTokens: 176
-keywords: [ConnectApi.BillingAddressRequest, Input, representation, address]
+keywords: [ConnectApi.BillingAddressRequest, address]
 ---
-
-# ConnectApi.BillingAddressRequest
 
 > Input representation of the details of an address.
 

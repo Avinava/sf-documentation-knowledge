@@ -5,12 +5,10 @@ topic: send-email-receipts-for-appexchange-checkout-purchases
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.097Z
+lastCollected: 2026-04-07T18:38:45.938Z
 estimatedTokens: 99
 keywords: [Send, Email, Receipts, AppExchange, Checkout, Purchases, customers, Stripe, dashboard]
 ---
-
-# Send Email Receipts for AppExchange Checkout Purchases
 
 > To send customers receipts for Checkout purchases, set up email receipts in your Stripe
   dashboard.

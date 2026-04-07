@@ -5,12 +5,10 @@ topic: prepare-to-install-loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.438Z
+lastCollected: 2026-04-07T18:38:09.750Z
 estimatedTokens: 878
 keywords: [Prepare, Install, Loyalty, Management, Mobile, SDK, org, ensure, Salesforce, Experience, Cloud, enabled]
 ---
-
-# Prepare to Install Loyalty Management Mobile SDK
 
 > Prepare your org before you install Loyalty Management Mobile SDK. Before you install
     Loyalty Management Mobile SDK, ensure you have a Salesforce org that has Loyalty Management and

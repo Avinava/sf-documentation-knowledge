@@ -5,12 +5,10 @@ topic: apextestqueueitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.913Z
+lastCollected: 2026-04-07T18:39:25.891Z
 estimatedTokens: 301
-keywords: [ApexTestQueueItem, Apex, job, queue, API, version, 23.0, later]
+keywords: [ApexTestQueueItem, Apex, job, queue, API, 23.0]
 ---
-
-# ApexTestQueueItem
 
 > Represents a single Apex class in the Apex job queue. This object
   is available in API version 23.0 and later.

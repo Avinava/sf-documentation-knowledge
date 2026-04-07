@@ -5,12 +5,10 @@ topic: goal-definition-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.618Z
+lastCollected: 2026-04-07T18:39:02.840Z
 estimatedTokens: 75
-keywords: [Goal, Definition, Output, representation, records]
+keywords: [Goal, Definition, records]
 ---
-
-# Goal Definition List
 
 > Output representation of the goal definition records.
 

@@ -5,12 +5,10 @@ topic: clause-library-category-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.086Z
+lastCollected: 2026-04-07T18:37:25.043Z
 estimatedTokens: 97
-keywords: [Clause, Library, Category, Output, representation, retrieve, configuration, getting]
+keywords: [Clause, Library, Category, retrieve, configuration, getting]
 ---
-
-# Clause Library Category Response
 
 > Output representation of the request to retrieve the clause library
       category configuration.

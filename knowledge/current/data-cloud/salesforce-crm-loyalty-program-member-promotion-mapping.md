@@ -5,12 +5,10 @@ topic: salesforce-crm-loyalty-program-member-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.312Z
+lastCollected: 2026-04-07T18:35:53.262Z
 estimatedTokens: 406
-keywords: [Salesforce, CRM, Loyalty, Program, Member, Promotion, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud]
+keywords: [Salesforce, CRM, Loyalty, Program, Member, Promotion, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, member’s, cumulative, promotions, progress, tracked, towards, achieving, target, DMO]
 ---
-
-# Salesforce CRM: Loyalty Program Member Promotion Mapping
 
 > These data mappings are for the Loyalty Program Member Promotion DLO found in the
   Loyalty Management bundle of the Salesforce CRM Connector for Data Cloud. Data about a member’s

@@ -5,12 +5,10 @@ topic: internal-record-alert-actions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.846Z
+lastCollected: 2026-04-07T18:39:01.998Z
 estimatedTokens: 262
 keywords: [Internal, Record, Alert, Actions, POST, Snooze, alerts, time, period, dismiss]
 ---
-
-# Internal Record Alert Actions (POST)
 
 > Snooze internal record alerts for a specified time period or dismiss
       them.

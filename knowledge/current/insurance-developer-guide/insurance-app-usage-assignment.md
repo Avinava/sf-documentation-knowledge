@@ -5,12 +5,10 @@ topic: insurance-app-usage-assignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.166Z
+lastCollected: 2026-04-07T18:37:52.303Z
 estimatedTokens: 90
-keywords: [Insurance, App, Usage, Assignment, Output, representation]
+keywords: [Insurance, App, Assignment]
 ---
-
-# Insurance App Usage Assignment
 
 > Output representation for the insurance app usage assignment.
 

@@ -5,12 +5,10 @@ topic: add-a-trace-flag-entry-for-the-overridden-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.552Z
+lastCollected: 2026-04-07T18:38:58.419Z
 estimatedTokens: 221
 keywords: [Add, Trace, Flag, Entry, Overridden, User, collect, logs, Apex, trigger, whose, running, Setup]
 ---
-
-# Add a Trace Flag Entry for the Overridden User
 
 > To collect logs for an Apex trigger whose default running user is overridden, add a
     trace flag entry for the user in Setup.

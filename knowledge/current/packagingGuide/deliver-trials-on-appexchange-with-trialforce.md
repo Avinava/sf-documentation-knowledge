@@ -5,12 +5,10 @@ topic: deliver-trials-on-appexchange-with-trialforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.896Z
+lastCollected: 2026-04-07T18:38:47.848Z
 estimatedTokens: 995
-keywords: [Deliver, Trials, AppExchange, Trialforce, free, solution, Salesforce, orgs, customers, keep, customize, key, concepts, relationships, best]
+keywords: [Deliver, Trials, AppExchange, Trialforce, free, solution, Salesforce, orgs, customers, keep, customize, key, concepts, relationships, best, practices, template, add, listing]
 ---
-
-# Deliver Trials on AppExchange with Trialforce
 
 > Use Trialforce to deliver free trials of your AppExchange solution in Salesforce orgs
         that customers can keep and customize. Learn Trialforce key concepts, relationships, and

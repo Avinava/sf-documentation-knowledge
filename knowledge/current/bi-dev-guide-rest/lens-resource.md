@@ -5,12 +5,10 @@ topic: lens-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.772Z
+lastCollected: 2026-04-07T18:36:56.311Z
 estimatedTokens: 425
-keywords: [Lens, Resource, deletes, updates, API, URL, Formats, Version, Postman, Components, HTTP, PATCH]
+keywords: [Formats, Lens, Resource, deletes, updates, API, URL, Postman, HTTP, PATCH]
 ---
-
-# Lens Resource
 
 > Returns, deletes, or updates the lens with the specified ID or API
       name.

@@ -5,12 +5,10 @@ topic: calculated-insight-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.229Z
+lastCollected: 2026-04-07T18:36:56.793Z
 estimatedTokens: 75
 keywords: [Calculated, Insight, Analytics, template, variable]
 ---
-
-# Calculated Insight Type
 
 > The calculated insight type of an Analytics template variable.
 

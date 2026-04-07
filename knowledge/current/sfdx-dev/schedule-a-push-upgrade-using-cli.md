@@ -5,12 +5,10 @@ topic: schedule-a-push-upgrade-using-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.967Z
+lastCollected: 2026-04-07T18:40:08.949Z
 estimatedTokens: 2511
-keywords: [Schedule, Push, Upgrade, CLI, Salesforce, commands, abort, view, requests, upgrades, let, second-generation, managed, packages, installed]
+keywords: [Schedule, Push, Upgrade, CLI, Salesforce, commands, abort, view, requests, upgrades, let, second-generation, managed, packages, installed, subscriber, orgs, asking, customers, install, themselves, Determine, Upgraded, Package, Retrieve, Scheduled, Cancel, Pending, Error, Messages]
 ---
-
-# Schedule a Push Upgrade Using CLI
 
 > Use Salesforce CLI commands to schedule, abort, or view details about your push upgrade
   requests. Push upgrades let you upgrade second-generation managed packages installed in subscriber

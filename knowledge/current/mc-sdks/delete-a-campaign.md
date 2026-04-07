@@ -5,12 +5,10 @@ topic: delete-a-campaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.968Z
+lastCollected: 2026-04-07T18:40:24.470Z
 estimatedTokens: 360
-keywords: [Campaign, Specify, unique, identifier, props, order, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Campaign, Specify, unique, identifier, props, order, identify, PHP]
 ---
-
-# Delete a Campaign
 
 > Use the Delete method to delete a campaign.  Specify the unique identifier id in the props properties in order to identify which campaign to delete:
 

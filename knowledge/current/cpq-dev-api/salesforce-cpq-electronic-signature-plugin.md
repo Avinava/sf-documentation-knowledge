@@ -5,12 +5,10 @@ topic: salesforce-cpq-electronic-signature-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.471Z
+lastCollected: 2026-04-07T18:37:27.480Z
 estimatedTokens: 89
-keywords: [Salesforce, CPQ, Electronic, Plugin, lets, developers, add, functionality, their, orgs, useful, organizations, wish, streamline, processes]
+keywords: [Salesforce, CPQ, Electronic, Plugin, lets, developers, add, functionality, their, orgs, useful, organizations, wish, streamline, processes, involving, signatures, finalizing, purchases, contracts]
 ---
-
-# Salesforce CPQ Electronic Signature Plugin
 
 > An electronic signature plugin lets developers add electronic signature functionality to
   their orgs. This is useful for organizations who wish to streamline processes involving

@@ -5,12 +5,10 @@ topic: emissionsactivityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.329Z
+lastCollected: 2026-04-07T18:39:38.983Z
 estimatedTokens: 266
-keywords: [EmissionsActivityHistory, History, tracked, EmissionsActivity]
+keywords: [EmissionsActivityHistory, tracked, EmissionsActivity]
 ---
-
-# EmissionsActivityHistory
 
 > History for tracked fields of EmissionsActivity.
 

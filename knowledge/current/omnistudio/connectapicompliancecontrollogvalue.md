@@ -5,12 +5,10 @@ topic: connectapicompliancecontrollogvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.189Z
+lastCollected: 2026-04-07T18:36:35.696Z
 estimatedTokens: 386
 keywords: [ConnectApi.ComplianceControllogValue, Compliance, controllog]
 ---
-
-# ConnectApi.ComplianceControllogValue
 
 > Compliance controllog value.
 

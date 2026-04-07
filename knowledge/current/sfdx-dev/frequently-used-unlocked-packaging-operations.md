@@ -5,12 +5,10 @@ topic: frequently-used-unlocked-packaging-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.891Z
+lastCollected: 2026-04-07T18:40:08.841Z
 estimatedTokens: 249
 keywords: [Frequently, Unlocked, Packaging, Operations, Salesforce, CLI, commands, Command, Line]
 ---
-
-# Frequently Used Unlocked Packaging Operations
 
 > For a complete list of Salesforce CLI packaging commands, see: Salesforce Command
     Line Reference Guide.

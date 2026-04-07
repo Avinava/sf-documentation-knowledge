@@ -5,12 +5,10 @@ topic: setgatewayavscodegatewayavscode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.985Z
+lastCollected: 2026-04-07T18:36:04.203Z
 estimatedTokens: 146
 keywords: [setGatewayAvsCode, gatewayAvsCode, AVS, address, verification, system, result, code, gateway, Maximum, length, characters]
 ---
-
-# setGatewayAvsCode(gatewayAvsCode)
 
 > Sets the AVS (address verification system) result code information that the gateway
     returned. Maximum length of 64 characters.

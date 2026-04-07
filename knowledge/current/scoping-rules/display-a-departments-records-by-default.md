@@ -5,12 +5,10 @@ topic: display-a-departments-records-by-default
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.827Z
+lastCollected: 2026-04-07T18:39:21.698Z
 estimatedTokens: 104
-keywords: [Display, Department’s, Records, scoping, rule, displays, contact, associated, particular, department, user, works, dynamically, matches, owner's]
+keywords: [Display, Department’s, Records, scoping, rule, displays, contact, particular, department, user, works, dynamically, matches, owner's, current, user's, Tooling, API, Metadata]
 ---
-
-# Display a Department’s Records by Default
 
 > This scoping rule displays contact records associated with a particular department by
     default for a user who works on them. The rule dynamically matches the contact owner's

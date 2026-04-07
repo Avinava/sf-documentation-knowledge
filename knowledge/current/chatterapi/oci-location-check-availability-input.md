@@ -5,12 +5,10 @@ topic: oci-location-check-availability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.070Z
+lastCollected: 2026-04-07T18:37:08.850Z
 estimatedTokens: 138
-keywords: [OCI, Location, Check, Availability, Input, needed, inventory, individual]
+keywords: [OCI, Location, Check, Availability, needed, inventory, individual]
 ---
-
-# OCI Location Check Availability Input
 
 > Information needed to check inventory availability at an individual
       location.

@@ -5,12 +5,10 @@ topic: decision-table-rows-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.645Z
+lastCollected: 2026-04-07T18:36:39.347Z
 estimatedTokens: 115
-keywords: [Decision, Rows, Output, representation, relation, including, current, state, pagination]
+keywords: [Decision, Rows, relation, including, current, state, pagination]
 ---
-
-# Decision Table Rows List
 
 > Output representation of the rows in relation to the decision table, including current
     state of pagination.

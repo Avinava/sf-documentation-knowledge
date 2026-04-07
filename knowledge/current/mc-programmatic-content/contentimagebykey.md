@@ -5,12 +5,10 @@ topic: contentimagebykey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.716Z
+lastCollected: 2026-04-07T18:40:22.077Z
 estimatedTokens: 321
-keywords: [ContentImagebyKey, Function, Ordinal, External, key, image, cannot, original, imag, **Overview**, **Syntax**, Usage]
+keywords: [ContentImagebyKey, Function, Ordinal, External, key, image, cannot, original, imag, **Overview**, **Syntax**]
 ---
-
-# ContentImagebyKey
 
 > ContentImagebyKey(1, 2)
 

@@ -5,12 +5,10 @@ topic: useresignvendoridentifierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.311Z
+lastCollected: 2026-04-07T18:40:05.151Z
 estimatedTokens: 279
-keywords: [UserEsignVendorIdentifierHistory, History, tracked, UserEsignVendorIdentifier]
+keywords: [UserEsignVendorIdentifierHistory, tracked, UserEsignVendorIdentifier]
 ---
-
-# UserEsignVendorIdentifierHistory
 
 > History for tracked fields of UserEsignVendorIdentifier.
 

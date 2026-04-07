@@ -5,13 +5,11 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.215Z
+lastCollected: 2026-04-07T18:39:54.769Z
 estimatedTokens: 348
 namespace: NamespacePrefix
-keywords: [PricingRecipe, various, data, models, entities, particular, cloud, that'll, consumed, pricing, store, design, run, time, API]
+keywords: [PricingRecipe, various, models, entities, particular, cloud, that'll, consumed, pricing, store, design, run, time, API, 60.0]
 ---
-
-# PricingRecipe
 
 > Represents one out of various data models or sets of entities of a particular
          cloud that'll be consumed by the pricing data store during design and run time. This

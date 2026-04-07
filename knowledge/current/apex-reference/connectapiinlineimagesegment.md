@@ -5,12 +5,10 @@ topic: connectapiinlineimagesegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.187Z
+lastCollected: 2026-04-07T18:36:09.577Z
 estimatedTokens: 167
-keywords: [ConnectApi.InlineImageSegment, inline, image, feed]
+keywords: [ConnectApi.InlineImageSegment, inline, image]
 ---
-
-# ConnectApi.InlineImageSegment
 
 > An inline image in the feed body.
 

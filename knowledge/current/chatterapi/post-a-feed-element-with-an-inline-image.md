@@ -5,12 +5,10 @@ topic: post-a-feed-element-with-an-inline-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.290Z
+lastCollected: 2026-04-07T18:37:24.333Z
 estimatedTokens: 461
-keywords: [Post, Feed, Element, Inline, Image, Chatter]
+keywords: [Post, Inline, Image, Chatter]
 ---
-
-# Post a Feed Element with an Inline Image
 
 > Post a feed element with an inline image in Chatter.
 

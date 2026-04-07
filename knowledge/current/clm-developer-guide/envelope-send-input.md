@@ -5,12 +5,10 @@ topic: envelope-send-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.735Z
+lastCollected: 2026-04-07T18:37:24.718Z
 estimatedTokens: 184
-keywords: [Envelope, Send, Input, e-signature, API]
+keywords: [Envelope, Send, e-signature, API]
 ---
-
-# Envelope Send Input
 
 > Input request to send e-signature details from API.
 

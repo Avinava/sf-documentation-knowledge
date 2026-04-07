@@ -5,12 +5,10 @@ topic: workforce-engagement-metadata-and-tooling-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.500Z
+lastCollected: 2026-04-07T18:40:14.511Z
 estimatedTokens: 336
-keywords: [Workforce, Engagement, Metadata, Tooling, API, enable, gain, access, components, objects]
+keywords: [Workforce, Engagement, Metadata, Tooling, API, enable, gain]
 ---
-
-# Workforce Engagement Metadata and Tooling API Reference
 
 > When you enable Workforce Engagement, you gain access to metadata components and
     tooling objects.

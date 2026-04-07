@@ -5,12 +5,10 @@ topic: auto-install-request-insert-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.219Z
+lastCollected: 2026-04-07T18:36:54.580Z
 estimatedTokens: 381
-keywords: [Auto-Install, Insert, Input]
+keywords: [Auto-Install, Insert]
 ---
-
-# Auto-Install Request Insert Input
 
 > The insert for an auto-install request.
 

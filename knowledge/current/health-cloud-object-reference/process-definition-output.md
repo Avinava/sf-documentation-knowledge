@@ -5,12 +5,10 @@ topic: process-definition-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.869Z
+lastCollected: 2026-04-07T18:37:42.013Z
 estimatedTokens: 103
-keywords: [Process, Definition, Output, Identity, Verification, record]
+keywords: [Process, Definition, Identity, Verification, record]
 ---
-
-# Process Definition Output
 
 > Represents the Identity Verification Process Definition
     record.

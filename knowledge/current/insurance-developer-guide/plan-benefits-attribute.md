@@ -5,12 +5,10 @@ topic: plan-benefits-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.281Z
+lastCollected: 2026-04-07T18:37:51.274Z
 estimatedTokens: 179
 keywords: [Plan, Benefits, Attribute, attributes, Insurance, Policy, Coverage]
 ---
-
-# Plan Benefits Attribute
 
 > Represents details of the plan benefits attributes for an Insurance Policy
         Coverage.

@@ -5,12 +5,10 @@ topic: schedule-appointments-by-selecting-location-first
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.786Z
+lastCollected: 2026-04-07T18:39:21.648Z
 estimatedTokens: 602
-keywords: [Schedule, Appointments, Selecting, Location, case, explains, how, build, scheduling, app, service, selection, appointment, experience, Salesforce]
+keywords: [Schedule, Appointments, Selecting, Location, case, explains, how, build, scheduling, app, service, selection, appointment, experience, Salesforce, Scheduler, APIs]
 ---
-
-# Schedule Appointments by Selecting Location First
 
 > This use case explains how you can build a scheduling app to have the
    service location selection first in your appointment scheduling experience using Salesforce

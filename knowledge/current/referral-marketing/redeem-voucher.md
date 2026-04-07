@@ -5,12 +5,10 @@ topic: redeem-voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.150Z
+lastCollected: 2026-04-07T18:39:09.471Z
 estimatedTokens: 136
-keywords: [Redeem, Voucher, Output, representation, redeemed]
+keywords: [Redeem, Voucher, redeemed]
 ---
-
-# Redeem Voucher
 
 > Output representation of the details of a redeemed voucher.
 

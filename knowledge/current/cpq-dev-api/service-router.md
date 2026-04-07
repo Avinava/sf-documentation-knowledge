@@ -5,12 +5,10 @@ topic: service-router
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.383Z
+lastCollected: 2026-04-07T18:37:27.387Z
 estimatedTokens: 405
-keywords: [Service, Router, SBQQ.ServiceRouter, Apex, serving, entry, point, API, calls, made, code, Visualforce, Remoting, REST, callouts]
+keywords: [Service, Router, SBQQ.ServiceRouter, Apex, serving, entry, point, API, made, code, Visualforce, Remoting, REST, callouts]
 ---
-
-# Service Router
 
 > SBQQ.ServiceRouter is a global Apex class serving as a single entry point for all API
   calls. You can use it for calls made by Apex code, Visualforce Remoting, or REST

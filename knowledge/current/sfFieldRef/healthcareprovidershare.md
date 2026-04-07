@@ -5,12 +5,10 @@ topic: healthcareprovidershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.213Z
+lastCollected: 2026-04-07T18:39:43.841Z
 estimatedTokens: 252
 keywords: [HealthcareProviderShare, Sharing, HealthcareProvider]
 ---
-
-# HealthcareProviderShare
 
 > Sharing for HealthcareProvider.
 

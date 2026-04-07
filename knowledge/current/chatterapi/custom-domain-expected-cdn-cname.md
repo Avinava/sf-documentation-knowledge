@@ -5,12 +5,10 @@ topic: custom-domain-expected-cdn-cname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.230Z
+lastCollected: 2026-04-07T18:37:13.172Z
 estimatedTokens: 117
-keywords: [Custom, Domain, Expected, CDN, CNAME, canonical, record, that’s, domains, Salesforce]
+keywords: [Domain, Expected, CDN, CNAME, canonical, record, that’s, domains, Salesforce]
 ---
-
-# Custom Domain Expected CDN CNAME
 
 > Get values for the canonical name (CNAME) record that’s required for custom domains
     that use the Salesforce CDN.

@@ -5,12 +5,10 @@ topic: worksteptemplatehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.293Z
+lastCollected: 2026-04-07T18:40:07.218Z
 estimatedTokens: 265
-keywords: [WorkStepTemplateHistory, History, tracked, WorkStepTemplate]
+keywords: [WorkStepTemplateHistory, tracked, WorkStepTemplate]
 ---
-
-# WorkStepTemplateHistory
 
 > History for tracked fields of WorkStepTemplate.
 

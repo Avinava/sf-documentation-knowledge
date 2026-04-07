@@ -5,12 +5,10 @@ topic: boost-and-bury-rule-target-expression-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.615Z
+lastCollected: 2026-04-07T18:37:07.333Z
 estimatedTokens: 94
-keywords: [Boost, Bury, Rule, Target, Expression, Input]
+keywords: [Boost, Bury, Rule, Target, Expression]
 ---
-
-# Boost and Bury Rule Target Expression Input
 
 > Target expression for a boost and bury rule.
 

@@ -5,12 +5,10 @@ topic: paygradestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.081Z
+lastCollected: 2026-04-07T18:39:07.280Z
 estimatedTokens: 977
-keywords: [PayGradeStep, pay, range, band, associated, grade, steps, enable, raises, API, version, 62.0, later, Calls, Special]
+keywords: [PayGradeStep, pay, range, band, grade, steps, enable, raises, API, 62.0]
 ---
-
-# PayGradeStep
 
 > Represents a pay range within the pay band associated with a pay
          grade. Pay steps enable pay raises within the pay band. This object is available in

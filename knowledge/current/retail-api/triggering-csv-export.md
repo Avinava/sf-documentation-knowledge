@@ -5,12 +5,10 @@ topic: triggering-csv-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.373Z
+lastCollected: 2026-04-07T18:39:11.904Z
 estimatedTokens: 217
-keywords: [Triggering, CSV, Export, Apex, call, expects, mandatory, business, year, actual, RTR, report, config, record, sales]
+keywords: [Triggering, CSV, Export, Apex, call, expects, mandatory, business, year, actual, RTR, report, config, record, sales, org, exported]
 ---
-
-# Triggering CSV Export
 
 > This Apex call expects the mandatory values of the business year, the actual name of the
   RTR report config record, and the sales org that must be exported.

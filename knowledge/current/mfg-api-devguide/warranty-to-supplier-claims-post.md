@@ -5,12 +5,10 @@ topic: warranty-to-supplier-claims-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.393Z
+lastCollected: 2026-04-07T18:38:12.686Z
 estimatedTokens: 487
 keywords: [Warranty, Supplier, Claims, POST, API, clones, claim, hierarchy, items, coverage, payment]
 ---
-
-# Warranty To Supplier Claims (POST)
 
 > Warranty to Supplier Claims API clones the existing warranty claim and its hierarchy such
     as claim items, claim coverage, and claim coverage payment details.

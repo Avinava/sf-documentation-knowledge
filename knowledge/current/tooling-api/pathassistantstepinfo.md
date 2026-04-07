@@ -5,12 +5,10 @@ topic: pathassistantstepinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.473Z
+lastCollected: 2026-04-07T18:36:33.829Z
 estimatedTokens: 326
-keywords: [PathAssistantStepInfo, guidance, step, Path, Tooling, API, version, 36.0, later, SOAP, Calls, REST, HTTP]
+keywords: [PathAssistantStepInfo, guidance, step, Path, Tooling, API, 36.0, SOAP, REST, HTTP]
 ---
-
-# PathAssistantStepInfo
 
 > Represents guidance for a step on a Path. Available in
         Tooling API version 36.0 and later.

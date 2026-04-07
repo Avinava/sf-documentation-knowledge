@@ -5,12 +5,10 @@ topic: connectapirefundinstructionshintinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.932Z
+lastCollected: 2026-04-07T18:36:06.279Z
 estimatedTokens: 216
 keywords: [payment, credit, sequence, refund, provide, optimal, processing]
 ---
-
-# ConnectApi.RefundInstructionsHintInputRepresentation
 
 > The payment credit sequence, credit types, and refund sequence that provide information
     for optimal refund processing.

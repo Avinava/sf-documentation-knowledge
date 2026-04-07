@@ -5,12 +5,10 @@ topic: emissionsactivityshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.335Z
+lastCollected: 2026-04-07T18:39:38.994Z
 estimatedTokens: 251
 keywords: [EmissionsActivityShare, Sharing, EmissionsActivity]
 ---
-
-# EmissionsActivityShare
 
 > Sharing for EmissionsActivity.
 

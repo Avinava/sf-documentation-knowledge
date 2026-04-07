@@ -5,12 +5,10 @@ topic: programrebatetypefilterhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.423Z
+lastCollected: 2026-04-07T18:39:56.984Z
 estimatedTokens: 183
-keywords: [ProgramRebateTypeFilterHistory, History, tracked, ProgramRebateTypeFilter]
+keywords: [ProgramRebateTypeFilterHistory, tracked, ProgramRebateTypeFilter]
 ---
-
-# ProgramRebateTypeFilterHistory
 
 > History for tracked fields of ProgramRebateTypeFilter.
 

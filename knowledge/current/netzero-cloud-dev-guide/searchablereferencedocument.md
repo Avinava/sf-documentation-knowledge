@@ -5,12 +5,10 @@ topic: searchablereferencedocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.804Z
+lastCollected: 2026-04-07T18:38:19.514Z
 estimatedTokens: 1038
-keywords: [SearchableReferenceDocument, documents, referenced, search, answers, documentation, authoring, ESG, disclosures, API, version, 61.0, later, Calls, Associated]
+keywords: [SearchableReferenceDocument, documents, referenced, search, answers, documentation, authoring, ESG, disclosures, API, 61.0]
 ---
-
-# SearchableReferenceDocument
 
 > Represents documents that are referenced to search for answers during
          documentation authoring, such as ESG disclosures. This object is available in API

@@ -5,12 +5,10 @@ topic: asynchronous-code-in-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.393Z
+lastCollected: 2026-04-07T18:38:47.376Z
 estimatedTokens: 768
-keywords: [Asynchronous, Code, Components, Hackers, manipulate, timing, produce, malicious, results, preserve, current, execution, context, wrap, function]
+keywords: [Asynchronous, Code, Hackers, manipulate, timing, produce, malicious, results, preserve, current, execution, context, wrap, function, batch, actions, Aura, Revised, getCallback, enqueueAction]
 ---
-
-# Asynchronous Code in Components
 
 > Hackers can manipulate the timing of asynchronous code to produce malicious results. To
     preserve current execution context, wrap asynchronous function calls or batch actions into a

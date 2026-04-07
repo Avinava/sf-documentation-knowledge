@@ -5,12 +5,10 @@ topic: reporteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.389Z
+lastCollected: 2026-04-07T18:38:39.994Z
 estimatedTokens: 2569
-keywords: [ReportEventLog, Report, event, logs, contain, happened, user, ran, includes, activity, that's, Export, additional, reports, exported]
+keywords: [ReportEventLog, Report, event, logs, contain, happened, user, ran, includes, activity, that's, Export, additional, reports, exported, Formatted, API, 61.0]
 ---
-
-# ReportEventLog
 
 > Report event logs contain information about what happened when a user ran a
          report. This event type includes all activity that's in the Report Export event type, and

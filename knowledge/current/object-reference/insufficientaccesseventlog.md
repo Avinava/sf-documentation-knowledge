@@ -5,12 +5,10 @@ topic: insufficientaccesseventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.555Z
+lastCollected: 2026-04-07T18:38:33.738Z
 estimatedTokens: 971
-keywords: [InsufficientAccessEventLog, Insufficient, Access, event, logs, contain, errors, relating, account, case, contact, opportunity, record, API, version]
+keywords: [InsufficientAccessEventLog, Insufficient, event, logs, contain, errors, relating, account, case, contact, opportunity, record, API, 61.0]
 ---
-
-# InsufficientAccessEventLog
 
 > Insufficient Access event logs contain details about errors relating to
          insufficient account, case, contact, and opportunity record access. This object is

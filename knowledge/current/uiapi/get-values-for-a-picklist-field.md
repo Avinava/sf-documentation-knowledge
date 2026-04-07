@@ -5,12 +5,10 @@ topic: get-values-for-a-picklist-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.224Z
+lastCollected: 2026-04-07T18:40:11.218Z
 estimatedTokens: 575
 keywords: [Picklist, field’s, dataType, equal, MultiPicklist, resource]
 ---
-
-# Get Values for a Picklist Field
 
 > If a field’s dataType property
       is equal to Picklist or MultiPicklist, use this resource to get its values.

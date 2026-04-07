@@ -5,12 +5,10 @@ topic: using-typescript-in-react-native-projects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.999Z
+lastCollected: 2026-04-07T18:40:27.215Z
 estimatedTokens: 400
-keywords: [TypeScript, React, Native, Projects, brings, useful, advantages, apps, help, write, safer, code—it, coexists, seamlessly, vanilla]
+keywords: [TypeScript, React, Native, Projects, brings, useful, advantages, apps, help, write, safer, code—it, coexists, seamlessly, vanilla, JavaScript, much, little]
 ---
-
-# Using TypeScript in React Native Projects
 
 > TypeScript brings useful advantages to React Native apps. Not only does it help you
         write safer code—it also coexists seamlessly with vanilla JavaScript. You can use as

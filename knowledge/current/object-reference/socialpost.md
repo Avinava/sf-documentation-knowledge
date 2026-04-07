@@ -5,12 +5,10 @@ topic: socialpost
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.869Z
+lastCollected: 2026-04-07T18:38:41.612Z
 estimatedTokens: 3145
-keywords: [SocialPost, snapshot, post, social, network, Facebook, Twitter, API, version, 23.0, later, Calls, Usage, Associated, Objects]
+keywords: [SocialPost, snapshot, post, social, network, Facebook, Twitter, API, 23.0]
 ---
-
-# SocialPost
 
 > Represents a snapshot of a post on a social network such as a Facebook
 			or Twitter. This object is available in API version 23.0 and later.

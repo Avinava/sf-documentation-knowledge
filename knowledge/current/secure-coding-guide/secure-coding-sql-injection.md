@@ -5,12 +5,10 @@ topic: secure-coding-sql-injection
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.136Z
+lastCollected: 2026-04-07T18:39:22.020Z
 estimatedTokens: 3771
-keywords: [Secure, Coding, SQL, Injection, Understand, how, SOQL, works, Queries, Sample, Vulnerability, Application, Vulnerable, Alternate, Ensure]
+keywords: [Secure, Coding, SQL, Injection, Understand, how, SOQL, works, Queries, Sample, Vulnerability, Application, Vulnerable, Alternate, Ensure, Query, Security, Third-Party, Libraries, APIs, Protect, Non-Salesforce, Best, Practices, Preventing, Across, Various, Technologies, Test]
 ---
-
-# Secure Coding SQL Injection
 
 > Understand how SOQL injection works and how to secure SOQL Queries.
 

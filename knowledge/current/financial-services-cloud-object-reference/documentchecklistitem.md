@@ -5,12 +5,10 @@ topic: documentchecklistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.330Z
+lastCollected: 2026-04-07T18:37:37.105Z
 estimatedTokens: 1647
-keywords: [DocumentChecklistItem, checklist, item, file, documentation, upload, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [DocumentChecklistItem, checklist, item, file, documentation, upload, API, 47.0]
 ---
-
-# DocumentChecklistItem
 
 > Represents a checklist item for a file documentation upload. This object
     is available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: tpm-promotion-header-slot-lwcs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.843Z
+lastCollected: 2026-04-07T18:39:16.388Z
 estimatedTokens: 1468
-keywords: [TPM, Promotion, Slot, LWCs, slot-specific, provide, access, various, sections, LWC, layer]
+keywords: [TPM, Promotion, Slot, LWCs, slot-specific, provide, various, sections, LWC, layer]
 ---
-
-# TPM Promotion Header Slot LWCs
 
 > The slot-specific LWCs related to the promotion header provide access to various
         promotion header sections in the LWC layer.

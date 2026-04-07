@@ -5,12 +5,10 @@ topic: datacleanroomdataspecfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.469Z
+lastCollected: 2026-04-07T18:39:37.079Z
 estimatedTokens: 363
-keywords: [DataCleanRoomDataSpecFeed, Feed, tracking, DataCleanRoomDataSpec]
+keywords: [DataCleanRoomDataSpecFeed, DataCleanRoomDataSpec]
 ---
-
-# DataCleanRoomDataSpecFeed
 
 > Feed tracking for DataCleanRoomDataSpec.
 

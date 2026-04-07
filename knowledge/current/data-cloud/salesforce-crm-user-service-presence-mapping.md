@@ -5,12 +5,10 @@ topic: salesforce-crm-user-service-presence-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.595Z
+lastCollected: 2026-04-07T18:35:52.480Z
 estimatedTokens: 441
-keywords: [Salesforce, CRM, User, Service, Presence, Mapping, data, mappings, UserServicePresence, DLO, found, Services, bundle, Connector, Cloud]
+keywords: [Salesforce, CRM, User, Service, Presence, Mapping, mappings, UserServicePresence, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: User Service Presence Mapping
 
 > These data mappings are for the UserServicePresence DLO found in the Services bundle of
   the Salesforce CRM Connector for Data Cloud.

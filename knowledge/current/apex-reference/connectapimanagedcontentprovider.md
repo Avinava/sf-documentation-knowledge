@@ -5,12 +5,10 @@ topic: connectapimanagedcontentprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.605Z
+lastCollected: 2026-04-07T18:36:09.940Z
 estimatedTokens: 237
 keywords: [ConnectApi.ManagedContentProvider, managed, content, provider]
 ---
-
-# ConnectApi.ManagedContentProvider
 
 > Information about a managed content provider.
 

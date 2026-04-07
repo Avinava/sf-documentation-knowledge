@@ -5,12 +5,10 @@ topic: custom-login-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.255Z
+lastCollected: 2026-04-07T18:39:22.144Z
 estimatedTokens: 487
-keywords: [Custom, Login, Flows, flow, directs, users, process, they, access, Salesforce, org, Experience, Cloud, site, control]
+keywords: [Login, Flows, flow, directs, users, process, they, Salesforce, org, Experience, Cloud, site, control, business, processes, follow, log, authenticates, user, enforcing, strong, authentication, collecting, successfully, they’re, redirected, their, unsuccessful, immediately]
 ---
-
-# Custom Login Flows
 
 > A login flow directs users through a login process before they access your Salesforce org
         or Experience Cloud site. You can use a login flow to control the business processes that

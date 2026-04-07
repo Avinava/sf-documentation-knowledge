@@ -5,12 +5,10 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.647Z
+lastCollected: 2026-04-07T18:36:52.026Z
 estimatedTokens: 639
-keywords: [IndustriesSettings, settings, enabling, features, Criteria-Based, Search, Filter, that’s, vehicle, inventory, visibility, File, Suffix, Directory, Location]
+keywords: [IndustriesSettings, settings, enabling, features, Criteria-Based, Search, Filter, that’s, vehicle, inventory, visibility, File, Suffix, Directory, Location, Automotive, Cloud, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesSettings
 
 > Represents the settings for enabling features like
    Criteria-Based Search and Filter that’s used for vehicle inventory visibility.

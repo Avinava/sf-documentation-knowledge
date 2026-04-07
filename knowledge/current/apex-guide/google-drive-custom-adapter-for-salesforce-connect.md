@@ -5,12 +5,10 @@ topic: google-drive-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.837Z
+lastCollected: 2026-04-07T18:36:17.015Z
 estimatedTokens: 146
-keywords: [Google, Drive™, Custom, Adapter, Salesforce, Connect, illustrates, how, callouts, OAuth, external, system, case, online, storage]
+keywords: [Google, Drive™, Adapter, Salesforce, Connect, illustrates, how, callouts, OAuth, external, system, case, online, storage, service, avoid, failing, tests, web, returning, mock, responses, test, DriveDataSourceConnection, DriveDataSourceProvider]
 ---
-
-# Google Drive™ Custom Adapter for Salesforce Connect
 
 > This example illustrates how to use callouts and OAuth to connect to an external
         system, which in this case is the Google Drive™ online storage service. The example also

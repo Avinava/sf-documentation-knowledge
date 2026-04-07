@@ -5,12 +5,10 @@ topic: transcribe-calls-with-amazon-transcribe
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.809Z
+lastCollected: 2026-04-07T18:40:12.770Z
 estimatedTokens: 665
-keywords: [Transcribe, Calls, Amazon, real, time, transcriptions, capped, minutes, because, Lambda, function, limitation]
+keywords: [Transcribe, Amazon, real, time, transcriptions, capped, minutes, because, Lambda, function, limitation]
 ---
-
-# Transcribe Calls with Amazon Transcribe
 
 > Use Amazon Transcribe to transcribe calls in real time. With Amazon
       Transcribe, transcriptions are capped at 15 minutes because of a Lambda function

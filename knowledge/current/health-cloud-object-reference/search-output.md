@@ -5,12 +5,10 @@ topic: search-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.935Z
+lastCollected: 2026-04-07T18:37:42.089Z
 estimatedTokens: 146
-keywords: [Search, Output, representation]
+keywords: [Search]
 ---
-
-# Search Output
 
 > Output representation of the search response.
 

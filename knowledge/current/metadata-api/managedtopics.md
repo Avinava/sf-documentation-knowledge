@@ -5,12 +5,10 @@ topic: managedtopics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.912Z
+lastCollected: 2026-04-07T18:36:27.457Z
 estimatedTokens: 792
-keywords: [ManagedTopics, navigational, featured, topics, managed, Experience, Cloud, site, File, Suffix, Directory, Location, Version, ManagedTopic, Declarative]
+keywords: [ManagedTopics, ManagedTopic, navigational, featured, topics, managed, Experience, Cloud, site, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ManagedTopics
 
 > Represents navigational and featured topics managed in
             an Experience Cloud site.

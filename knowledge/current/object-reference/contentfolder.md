@@ -5,12 +5,10 @@ topic: contentfolder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.657Z
+lastCollected: 2026-04-07T18:38:28.555Z
 estimatedTokens: 481
-keywords: [ContentFolder, folder, content, library, adding, files, API, version, 34.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ContentFolder, folder, content, library, adding, files, API, 34.0]
 ---
-
-# ContentFolder
 
 > Represents a folder in a content library for adding files. This
 		object is available in API version 34.0 and later.

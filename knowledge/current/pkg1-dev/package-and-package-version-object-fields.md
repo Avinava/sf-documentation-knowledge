@@ -5,12 +5,10 @@ topic: package-and-package-version-object-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.622Z
+lastCollected: 2026-04-07T18:38:53.963Z
 estimatedTokens: 527
-keywords: [Package, Version, License, Management, App, LMA, includes, custom, objects, display, 1GP, 2GP, you’ve, listed, AppExchange]
+keywords: [Package, License, Management, App, LMA, includes, display, 1GP, 2GP, you’ve, listed, AppExchange]
 ---
-
-# Package and Package Version Object Fields
 
 > The License Management App (LMA) includes a Package custom object and a Package Version
         custom object. These objects display details about each 1GP or 2GP package and package

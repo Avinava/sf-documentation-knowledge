@@ -5,12 +5,10 @@ topic: requesttype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.480Z
+lastCollected: 2026-04-07T18:36:12.774Z
 estimatedTokens: 148
-keywords: [RequestType, payment, transaction, made, gateway, tax, engine, Usage]
+keywords: [RequestType, payment, transaction, made, gateway, tax, engine]
 ---
-
-# RequestType Enum
 
 > Defines the type of payment transaction request made to the payment
       gateway.

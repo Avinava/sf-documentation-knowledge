@@ -5,12 +5,10 @@ topic: lightningoutapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.975Z
+lastCollected: 2026-04-07T18:36:33.374Z
 estimatedTokens: 534
-keywords: [LightningOutApp, Lightning, 2.0, application, app, embed, web, components, LWC, external, applications, API, version, 65.0, later]
+keywords: [LightningOutApp, Lightning, 2.0, application, app, embed, web, LWC, external, applications, API, 65.0, SOAP, REST]
 ---
-
-# LightningOutApp
 
 > Represents a Lightning Out 2.0 application. With a Lightning Out 2.0 app, you
          can embed Lightning web components (LWC) into external applications. This object is

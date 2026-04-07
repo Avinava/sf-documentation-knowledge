@@ -5,12 +5,10 @@ topic: dashboard-saved-view-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.331Z
+lastCollected: 2026-04-07T18:36:54.688Z
 estimatedTokens: 282
-keywords: [Dashboard, Saved, View, Input, Analytics]
+keywords: [Dashboard, Saved, View, Analytics]
 ---
-
-# Dashboard Saved View Input
 
 > A saved view for an Analytics dashboard.
 

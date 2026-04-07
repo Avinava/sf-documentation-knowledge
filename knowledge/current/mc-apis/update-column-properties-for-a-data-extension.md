@@ -5,12 +5,10 @@ topic: update-column-properties-for-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.734Z
+lastCollected: 2026-04-07T18:40:20.998Z
 estimatedTokens: 888
-keywords: [Column, Data, Extension, updating, Why, How, Sample, NET, File, SOAP, Envelope]
+keywords: [Column, Extension, updating, Why, How, Sample, NET, File, SOAP, Envelope]
 ---
-
-# Update Column Properties for a Data Extension
 
 > This page contains information  about updating the properties of a column within an existing data extension.
 

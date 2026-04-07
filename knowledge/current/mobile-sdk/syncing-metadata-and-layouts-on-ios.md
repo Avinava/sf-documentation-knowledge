@@ -5,12 +5,10 @@ topic: syncing-metadata-and-layouts-on-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.135Z
+lastCollected: 2026-04-07T18:40:25.500Z
 estimatedTokens: 1223
 keywords: [Syncing, Metadata, Layouts, iOS, layout, easy, started, how, initialize, configure, APIs, Initializing, Sync, Managers, Retrieving]
 ---
-
-# Syncing Metadata and Layouts on iOS
 
 > Metadata and layout syncing on iOS is easy to use. To get started, learn how to
     initialize and configure the APIs.

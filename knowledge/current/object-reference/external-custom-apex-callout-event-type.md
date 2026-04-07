@@ -5,12 +5,10 @@ topic: external-custom-apex-callout-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.212Z
+lastCollected: 2026-04-07T18:38:31.011Z
 estimatedTokens: 1298
-keywords: [External, Custom, Apex, Callout, Event, events, represent, data, callouts, via, adapters, Salesforce, Connect, EventLogFile, API]
+keywords: [External, Apex, Callout, Event, events, represent, callouts, via, adapters, Salesforce, Connect, EventLogFile, API, 40.0]
 ---
-
-# External Custom Apex Callout Event Type
 
 > External Custom Apex Callout events represent external data callouts
          via custom adapters for Salesforce Connect. This event type is available in the

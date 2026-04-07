@@ -5,12 +5,10 @@ topic: personexamination
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.626Z
+lastCollected: 2026-04-07T18:37:31.760Z
 estimatedTokens: 1402
-keywords: [PersonExamination, examinations, taken, person, API, version, 57.0, later, Calls]
+keywords: [PersonExamination, examinations, taken, person, API, 57.0]
 ---
-
-# PersonExamination
 
 > Represents the examinations taken by a person. This object is available
       in API version 57.0 and later.

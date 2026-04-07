@@ -5,12 +5,10 @@ topic: decisiontable-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.175Z
+lastCollected: 2026-04-07T18:39:03.403Z
 estimatedTokens: 57
 keywords: [DecisionTable]
 ---
-
-# DecisionTable Methods
 
 > This is a DecisionTable method.
 

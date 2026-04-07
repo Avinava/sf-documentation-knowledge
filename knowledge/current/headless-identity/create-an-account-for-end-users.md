@@ -5,12 +5,10 @@ topic: create-an-account-for-end-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.337Z
+lastCollected: 2026-04-07T18:37:39.269Z
 estimatedTokens: 243
-keywords: [Account, End, Users, store, including, their, contact, records, Headless, Identity, Apex, registration, handlers, new, log]
+keywords: [Account, End, Users, store, including, their, contact, records, Headless, Identity, Apex, registration, handlers, new, log, via, authentication, provider, sign, directly, site, they’re, added, contacts]
 ---
-
-# Create an Account for End Users
 
 > You must use an account to store information about your end users, including their
   contact records. For Headless Identity, you reference the account in your Apex registration

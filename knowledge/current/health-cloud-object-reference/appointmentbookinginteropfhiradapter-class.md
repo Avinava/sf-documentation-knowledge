@@ -5,12 +5,10 @@ topic: appointmentbookinginteropfhiradapter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.748Z
+lastCollected: 2026-04-07T18:37:39.698Z
 estimatedTokens: 1426
 keywords: [AppointmentBookingInteropFhirAdapter, implements, AppointmentBookingInterop, bookAppointment, cancelAppointment, findSlots, getSlotStatus]
 ---
-
-# AppointmentBookingInteropFhirAdapter Class
 
 > Represents the global class that implements the AppointmentBookingInterop interface.
 

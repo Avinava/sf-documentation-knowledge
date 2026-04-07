@@ -5,12 +5,10 @@ topic: day-in-the-week-month-quarter-or-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.060Z
+lastCollected: 2026-04-07T18:37:00.601Z
 estimatedTokens: 300
-keywords: [Day, Week, Month, Quarter, Year, time, period, date, functions, answer, questions, close, deals, beginning, end]
+keywords: [Day, Week, Month, Quarter, Year, time, period, date, functions, answer, questions, close, deals, beginning, end, _in, _week, _month, _quarter, _year]
 ---
-
-# Day in the Week, Month, Quarter, or Year
 
 > Returns the day in the specified time period for a given date. These functions
         answer questions like "do we close more deals at the beginning or end of a

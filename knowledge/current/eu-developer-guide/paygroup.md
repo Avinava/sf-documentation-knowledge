@@ -5,12 +5,10 @@ topic: paygroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.500Z
+lastCollected: 2026-04-07T18:37:32.730Z
 estimatedTokens: 197
-keywords: [PayGroup, employees, share, payroll, schedule, rules, API, version, 66.0, later, Calls]
+keywords: [PayGroup, employees, share, payroll, schedule, API, 66.0]
 ---
-
-# PayGroup
 
 > Represents a set of employees who share the same payroll schedule and rules. This object is available in API version 66.0 and later.
 

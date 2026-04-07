@@ -5,12 +5,10 @@ topic: create-order-from-cart-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.967Z
+lastCollected: 2026-04-07T18:37:25.884Z
 estimatedTokens: 395
-keywords: [Order, Cart, Action, creation, items, present, generated, entire, whole, rather, individual, Special, Access, Rules, REST]
+keywords: [Inputs, Outputs, Order, Cart, Action, creation, items, present, generated, entire, whole, rather, individual, REST, HTTP]
 ---
-
-# Create Order From Cart Action
 
 > Create single order creation for all items present in the cart. An
 			order is generated for the entire cart as a whole, rather than for individual cart

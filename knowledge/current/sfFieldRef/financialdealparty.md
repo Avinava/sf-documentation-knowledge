@@ -5,12 +5,10 @@ topic: financialdealparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.988Z
+lastCollected: 2026-04-07T18:39:40.604Z
 estimatedTokens: 337
 keywords: [FinancialDealParty, parties, partners, competitors, involved, deal]
 ---
-
-# FinancialDealParty
 
 > Represents the parties, such as partners and competitors, that are involved
 			in the deal.

@@ -5,12 +5,10 @@ topic: view-submitted-receipts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.941Z
+lastCollected: 2026-04-07T18:38:09.234Z
 estimatedTokens: 282
-keywords: [View, Submitted, Receipts, Loyalty, program, members, line, items, their, management, mobile, app, uploading, points, credit]
+keywords: [View, Submitted, Receipts, Loyalty, program, members, line, items, their, management, mobile, app, uploading, points, credit, processed, receipt]
 ---
-
-# View Submitted Receipts
 
 > Loyalty program members can view the submitted receipts and line items from their
   loyalty management mobile app after uploading the receipts, and view the loyalty points credit for

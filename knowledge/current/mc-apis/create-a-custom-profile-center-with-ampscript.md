@@ -5,12 +5,10 @@ topic: create-a-custom-profile-center-with-ampscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.965Z
+lastCollected: 2026-04-07T18:40:16.103Z
 estimatedTokens: 9970
-keywords: [Custom, Profile, Center, AMPscript, creating, Email, Studio's, Web, Collect, entered, uses, Marketing, Cloud, account, triggers]
+keywords: [Profile, Center, AMPscript, creating, Email, Studio's, Web, Collect, entered, uses, Marketing, Cloud, account, triggers, send, taken, Why, SOAP, API, Possible, Case, How, Form, Administrative, Items]
 ---
-
-# Create a Custom Profile Center with AMPscript
 
 > This page contains information about creating a custom Profile Center for Email Studio's Web Collect that takes information entered on a web page and uses it to update information in your Marketing Cloud account. This Profile Center also triggers a send using information taken from Marketing Cloud.
 

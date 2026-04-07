@@ -5,12 +5,10 @@ topic: generate-quote-document-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.279Z
+lastCollected: 2026-04-07T18:37:27.288Z
 estimatedTokens: 701
 keywords: [Generate, Quote, Document, API, Creates, saves, CPQ, REST, Examples, APEX]
 ---
-
-# Generate Quote Document API
 
 > Creates and saves a CPQ quote document.
 

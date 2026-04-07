@@ -5,12 +5,10 @@ topic: common-search-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.661Z
+lastCollected: 2026-04-07T18:37:40.645Z
 estimatedTokens: 160
-keywords: [Common, Search, Criteria, Input, filters, apply, provider, asset, searches]
+keywords: [Common, Search, Criteria, filters, apply, provider, asset, searches]
 ---
-
-# Common Search Criteria Input
 
 > Search filters that apply to both provider and asset searches.
 

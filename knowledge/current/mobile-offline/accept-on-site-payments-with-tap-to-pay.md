@@ -5,12 +5,10 @@ topic: accept-on-site-payments-with-tap-to-pay
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.488Z
+lastCollected: 2026-04-07T18:38:16.020Z
 estimatedTokens: 707
-keywords: [Accept, On-Site, Payments, Tap-to-Pay, Lightning, web, component, mobile, device, let, customers, capability, plug-in, pay, workers]
+keywords: [Accept, On-Site, Payments, Tap-to-Pay, Lightning, web, mobile, device, let, customers, capability, plug-in, pay, workers, directly, Service, app, integrates, Now, connect, secure, payment, system, processes, interaction]
 ---
-
-# Accept On-Site Payments with Tap-to-Pay
 
 > A Lightning web component can use a mobile device to let your customers use the
     Tap-to-Pay capability of the Payments plug-in to pay mobile workers directly. The Field Service

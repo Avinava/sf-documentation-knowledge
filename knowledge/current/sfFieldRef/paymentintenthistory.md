@@ -5,12 +5,10 @@ topic: paymentintenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.452Z
+lastCollected: 2026-04-07T18:39:52.960Z
 estimatedTokens: 261
-keywords: [PaymentIntentHistory, History, tracked, PaymentIntent]
+keywords: [PaymentIntentHistory, tracked, PaymentIntent]
 ---
-
-# PaymentIntentHistory
 
 > History for tracked fields of PaymentIntent.
 

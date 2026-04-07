@@ -5,12 +5,10 @@ topic: sossessionactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.923Z
+lastCollected: 2026-04-07T18:38:41.671Z
 estimatedTokens: 241
-keywords: [SOSSessionActivity, Captures, specific, events, occur, SOS, video, call, begins, ends, API, version, 34.0, later, Calls]
+keywords: [SOSSessionActivity, Captures, specific, events, occur, SOS, video, call, begins, ends, API, 34.0]
 ---
-
-# SOSSessionActivity
 
 > Captures information about specific events that occur during an SOS
 			video call, such as when an SOS call begins or ends. This object is available in

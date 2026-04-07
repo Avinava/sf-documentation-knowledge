@@ -5,12 +5,10 @@ topic: merge-customer-account-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.132Z
+lastCollected: 2026-04-07T18:37:55.583Z
 estimatedTokens: 444
 keywords: [Merge, Customer, Account, POST, Merges, accounts, any, fails, entire, operation, cancelled]
 ---
-
-# Merge Customer Account (POST)
 
 > Merges a list of customer accounts. If any one account merge in the request fails,
         the entire operation is cancelled.

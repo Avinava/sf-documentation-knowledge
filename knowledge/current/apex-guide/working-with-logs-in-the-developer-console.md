@@ -5,13 +5,11 @@ topic: working-with-logs-in-the-developer-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.162Z
+lastCollected: 2026-04-07T18:36:17.388Z
 estimatedTokens: 7993
 namespace: YourClass
 keywords: [Working, Logs, Developer, Console, tab, open, debug, Log, Categories, Levels, Event]
 ---
-
-# Working with Logs in the Developer Console
 
 > Use the Logs tab in the Developer Console to open debug logs.
 

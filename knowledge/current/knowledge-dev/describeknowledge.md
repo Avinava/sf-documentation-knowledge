@@ -5,12 +5,10 @@ topic: describeknowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:05.010Z
+lastCollected: 2026-04-07T18:37:54.315Z
 estimatedTokens: 231
-keywords: [describeKnowledge, Retrieves, Knowledge, language, settings, organization, Usage, Sample, Code—Java, Code—C#]
+keywords: [describeKnowledge, Retrieves, Knowledge, language, settings, organization, Sample, Code—Java, Code—C#]
 ---
-
-# describeKnowledge()
 
 > Retrieves the Knowledge language settings in the
   organization.

@@ -6,13 +6,10 @@ topic: requirements-for-standalone-termed-recurring-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.746Z
+lastCollected: 2026-04-07T18:37:04.373Z
 estimatedTokens: 351
 keywords: [Requirements, Standalone, Termed, Recurring, Order, Products, product, API, Salesforce, Lightning, Classic]
 ---
-
-# Requirements
-  for Standalone Termed Recurring Order Products
 
 > Create a termed recurring order product through API in Salesforce Lightning or
   Salesforce Classic.

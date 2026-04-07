@@ -5,12 +5,10 @@ topic: connectapiabstractmessagebody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.448Z
+lastCollected: 2026-04-07T18:36:06.801Z
 estimatedTokens: 170
 keywords: [ConnectApi.AbstractMessageBody, Abstract, message]
 ---
-
-# ConnectApi.AbstractMessageBody
 
 > Abstract message body.
 

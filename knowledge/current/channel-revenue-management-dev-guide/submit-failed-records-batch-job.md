@@ -5,12 +5,10 @@ topic: submit-failed-records-batch-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.954Z
+lastCollected: 2026-04-07T18:37:05.656Z
 estimatedTokens: 264
-keywords: [Submit, Failed, Records, Batch, Job, Run, resubmit, processing, action, executes, asynchronously, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Submit, Failed, Records, Batch, Job, Run, resubmit, processing, action, executes, asynchronously, REST, HTTP]
 ---
-
-# Submit Failed Records Batch Job
 
 > Run to resubmit an existing batch job with failed records for
    processing. This action executes the batch job asynchronously.

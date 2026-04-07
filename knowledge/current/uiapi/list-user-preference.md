@@ -5,12 +5,10 @@ topic: list-user-preference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.849Z
+lastCollected: 2026-04-07T18:40:11.853Z
 estimatedTokens: 238
 keywords: [User, Preference, preferences, view]
 ---
-
-# List User Preference
 
 > User preferences for the list view.
 

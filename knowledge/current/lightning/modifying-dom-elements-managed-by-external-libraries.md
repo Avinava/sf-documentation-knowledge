@@ -5,12 +5,10 @@ topic: modifying-dom-elements-managed-by-external-libraries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.363Z
+lastCollected: 2026-04-07T18:38:04.519Z
 estimatedTokens: 365
-keywords: [Modifying, DOM, Elements, Managed, External, Libraries, different, charting, library, manage, don’t, modify, render, event, handler]
+keywords: [Modifying, DOM, Managed, External, Libraries, different, charting, library, manage, don’t, modify, render, event, handler, renderer, because, they]
 ---
-
-# Modifying DOM Elements Managed by External Libraries
 
 > You can use different libraries, such as a charting library, to create and manage DOM
     elements. You don’t have to modify these DOM elements within the render event handler or a renderer because they are managed by the external

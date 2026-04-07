@@ -5,12 +5,10 @@ topic: productrelatedmaterial
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.897Z
+lastCollected: 2026-04-07T18:38:14.214Z
 estimatedTokens: 1037
-keywords: [ProductRelatedMaterial, components, product, API, version, 55.0, later, Calls]
+keywords: [ProductRelatedMaterial, product, API, 55.0]
 ---
-
-# ProductRelatedMaterial
 
 > Represents information about the components of a product. This object is
       available in API version 55.0 and later.

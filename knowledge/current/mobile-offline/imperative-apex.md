@@ -5,12 +5,10 @@ topic: imperative-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.404Z
+lastCollected: 2026-04-07T18:38:14.852Z
 estimatedTokens: 397
 keywords: [Imperative, Apex, traditional, way, call, network-based, API, control, You’re, invocation, rather, framework]
 ---
-
-# Imperative Apex
 
 > Imperative Apex is the more traditional way to call an Apex method, as a
   network-based API call. Imperative Apex allows you to control exactly when the method is called.

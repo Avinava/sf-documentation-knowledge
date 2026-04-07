@@ -5,12 +5,10 @@ topic: salestrxndeleteevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.951Z
+lastCollected: 2026-04-07T18:40:00.705Z
 estimatedTokens: 213
-keywords: [SalesTrxnDeleteEvent, platform, event, triggers, deletion, sales, transaction, fulfillment, records, corresponding, deleted, API, version, 64.0, later]
+keywords: [SalesTrxnDeleteEvent, platform, event, triggers, deletion, sales, transaction, fulfillment, records, corresponding, deleted, API, 64.0]
 ---
-
-# SalesTrxnDeleteEvent
 
 > Represents the platform event that triggers the deletion of sales transaction
          fulfillment request records when the corresponding reference records are deleted. This

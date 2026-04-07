@@ -5,12 +5,10 @@ topic: patchinsurancecheckplanseligibilityplanseligibilityinputparamwithcontexti
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.517Z
+lastCollected: 2026-04-07T18:37:49.357Z
 estimatedTokens: 328
-keywords: [patchInsuranceCheckPlansEligibility, plansEligibilityInputParamWithContextId, memberId, Check, eligibility, group, census, member, added, deleted, plans, context, API, Version, Requires]
+keywords: [patchInsuranceCheckPlansEligibility, plansEligibilityInputParamWithContextId, memberId, Check, eligibility, group, census, member, added, deleted, plans, context, API, Requires, Chatter]
 ---
-
-# patchInsuranceCheckPlansEligibility(plansEligibilityInputParamWithContextId, memberId)
 
 > Check the eligibility of a group census member for a set of added and deleted plans
   within an existing context.

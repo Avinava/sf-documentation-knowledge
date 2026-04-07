@@ -5,12 +5,10 @@ topic: interest-tags-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.834Z
+lastCollected: 2026-04-07T18:36:52.262Z
 estimatedTokens: 132
 keywords: [Interest, Tags, Automotive, Cloud, Configure, common, tag, dictionary, users, consistently, records, vehicles, leads]
 ---
-
-# Interest Tags in Automotive Cloud
 
 > Configure a common interest tag dictionary that users can use to consistently tag
   records such as vehicles, or leads.

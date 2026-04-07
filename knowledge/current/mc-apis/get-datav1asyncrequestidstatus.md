@@ -5,12 +5,10 @@ topic: get-datav1asyncrequestidstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.243Z
+lastCollected: 2026-04-07T18:40:17.402Z
 estimatedTokens: 472
-keywords: [data, async, requestId, status, Retrieve, originally, posted, asynchronous, determine, completed, whether, there, were, errors, processing]
+keywords: [async, requestId, status, Retrieve, originally, posted, asynchronous, determine, completed, whether, there, were, errors, processing, **Overview**]
 ---
-
-# GET /data/v1/async/{requestId}/status
 
 > Retrieve the status of the originally posted asynchronous request. Use the status to determine if the request has completed and whether or not there were errors in processing.
 

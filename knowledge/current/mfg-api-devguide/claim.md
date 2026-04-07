@@ -5,12 +5,10 @@ topic: claim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.326Z
+lastCollected: 2026-04-07T18:38:13.603Z
 estimatedTokens: 1019
-keywords: [Claim, warranty, submitted, partner, manufacturer, supplier, recovery, Manufacturing, Cloud, API, version, 58.0, later, Calls]
+keywords: [Claim, warranty, submitted, partner, manufacturer, supplier, recovery, Manufacturing, Cloud, API, 58.0]
 ---
-
-# Claim
 
 > Represents a warranty Claim submitted by a partner to a manufacturer,
          or a supplier recovery claim submitted by the manufacturer to a supplier. This object

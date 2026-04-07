@@ -5,12 +5,10 @@ topic: predict-history-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.067Z
+lastCollected: 2026-04-07T18:36:58.588Z
 estimatedTokens: 107
-keywords: [Predict, History, Input, query, prediction]
+keywords: [Predict, query, prediction]
 ---
-
-# Predict History Input
 
 > The query input for prediction history.
 

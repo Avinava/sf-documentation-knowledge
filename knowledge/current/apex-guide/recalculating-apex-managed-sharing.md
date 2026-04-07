@@ -5,12 +5,10 @@ topic: recalculating-apex-managed-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.807Z
+lastCollected: 2026-04-07T18:36:16.032Z
 estimatedTokens: 1476
-keywords: [Recalculating, Apex, Managed, Sharing, Salesforce, automatically, recalculates, records, organization-wide, access, level, changes, recalculation, adds, appropriate]
+keywords: [Recalculating, Apex, Managed, Sharing, Salesforce, automatically, recalculates, records, organization-wide, level, changes, recalculation, adds, appropriate, addition, removed, they, Creating, Testing, Recalculations, Associating]
 ---
-
-# Recalculating Apex Managed Sharing
 
 > Salesforce automatically recalculates sharing for all records on an object when its
             organization-wide sharing default access level changes. The recalculation adds managed

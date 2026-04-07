@@ -5,12 +5,10 @@ topic: template-validation-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.929Z
+lastCollected: 2026-04-07T18:36:56.482Z
 estimatedTokens: 256
-keywords: [Template, Validation, Resource, Validates, Analytics, org, readiness, URL, Formats, Version, Components, HTTP, POST]
+keywords: [Formats, Template, Validation, Resource, Validates, Analytics, org, readiness, URL, HTTP, POST]
 ---
-
-# Template Validation Resource
 
 > Validates an Analytics
   template for org readiness.

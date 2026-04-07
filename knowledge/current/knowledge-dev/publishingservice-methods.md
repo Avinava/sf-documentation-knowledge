@@ -5,12 +5,10 @@ topic: publishingservice-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.511Z
+lastCollected: 2026-04-07T18:37:53.797Z
 estimatedTokens: 1230
 keywords: [PublishingService]
 ---
-
-# PublishingService Methods
 
 > The following are methods for PublishingService. All methods are static.
 

@@ -5,12 +5,10 @@ topic: workorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.460Z
+lastCollected: 2026-04-07T18:36:48.440Z
 estimatedTokens: 4506
-keywords: [WorkOrder, service, work, performed, customer, API, version, 36.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [WorkOrder, service, work, performed, customer, API, 36.0]
 ---
-
-# WorkOrder
 
 > Represents field service work to be performed for a customer. This object is available in API version 36.0 and later.
 

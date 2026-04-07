@@ -5,12 +5,10 @@ topic: quotename
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.250Z
+lastCollected: 2026-04-07T18:37:40.221Z
 estimatedTokens: 33
 keywords: [quoteName, quote]
 ---
-
-# quoteName
 
 > The name of the quote.
 

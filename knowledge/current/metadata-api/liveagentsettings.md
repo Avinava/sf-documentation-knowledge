@@ -5,12 +5,10 @@ topic: liveagentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:41.767Z
+lastCollected: 2026-04-07T18:36:27.255Z
 estimatedTokens: 683
-keywords: [LiveAgentSettings, organization’s, Chat, settings, whether, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [LiveAgentSettings, organization’s, Chat, settings, whether, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LiveAgentSettings
 
 > Represents an organization’s Chat settings,
             such as whether Chat is enabled.

@@ -5,12 +5,10 @@ topic: salesforce-crm-loyalty-program-member-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.289Z
+lastCollected: 2026-04-07T18:35:53.232Z
 estimatedTokens: 570
-keywords: [Salesforce, CRM, Loyalty, Program, Member, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud, includes]
+keywords: [Salesforce, CRM, Loyalty, Program, Member, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, includes, their, individual, corporate, membership, DMO]
 ---
-
-# Salesforce CRM: Loyalty Program Member Mapping
 
 > These data mappings are for the Loyalty Program Member DLO found in the Loyalty
   Management bundle of the Salesforce CRM Connector for Data Cloud. This data includes information

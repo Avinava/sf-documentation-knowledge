@@ -5,12 +5,10 @@ topic: automated-chat-invitation-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.752Z
+lastCollected: 2026-04-07T18:38:05.992Z
 estimatedTokens: 184
 keywords: [Automated, Chat, Invitation, Code, Sample, Test, preview, how, invitations, work, website]
 ---
-
-# Automated Chat Invitation Code Sample
 
 > Test and preview how automated chat invitations can work
 on your website using this code sample.

@@ -5,12 +5,10 @@ topic: productsellingmodelhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.654Z
+lastCollected: 2026-04-07T18:39:56.192Z
 estimatedTokens: 269
-keywords: [ProductSellingModelHistory, History, tracked, ProductSellingModel]
+keywords: [ProductSellingModelHistory, tracked, ProductSellingModel]
 ---
-
-# ProductSellingModelHistory
 
 > History for tracked fields of ProductSellingModel.
 

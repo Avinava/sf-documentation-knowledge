@@ -5,12 +5,10 @@ topic: connectapiociupdatereservationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.619Z
+lastCollected: 2026-04-07T18:36:05.971Z
 estimatedTokens: 324
-keywords: [Data, Omnichannel, Inventory, item, reservations]
+keywords: [Omnichannel, Inventory, item, reservations]
 ---
-
-# ConnectApi.OCIUpdateReservationInputRepresentation
 
 > Data to update one or more Omnichannel Inventory item reservations.
 

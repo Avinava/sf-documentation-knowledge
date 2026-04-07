@@ -5,12 +5,10 @@ topic: step-3-walk-through-the-java-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:43.355Z
+lastCollected: 2026-04-07T18:36:28.848Z
 estimatedTokens: 989
-keywords: [Step, Walk, Java, Sample, Code, imported, WSDL, files, build, client, applications, Metadata, API, good, starting]
+keywords: [Step, Walk, Java, Sample, Code, imported, WSDL, files, build, client, applications, Metadata, API, good, starting, point, writing, own, Login, Utility, File-Based, Development]
 ---
-
-# Step 3: Walk Through the Java Sample Code
 
 > When you have imported the WSDL files, you can build client applications that use
             Metadata API. The sample is a good starting point for writing your own code.

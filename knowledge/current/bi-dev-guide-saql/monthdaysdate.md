@@ -5,12 +5,10 @@ topic: monthdaysdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.356Z
+lastCollected: 2026-04-07T18:37:00.922Z
 estimatedTokens: 23
 keywords: [month_days, date, number, days, month, specific, _days]
 ---
-
-# month_days(date)
 
 > Returns the number of days in the month for a specific date.
 

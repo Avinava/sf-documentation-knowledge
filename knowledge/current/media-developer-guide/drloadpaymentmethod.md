@@ -5,12 +5,10 @@ topic: drloadpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.030Z
+lastCollected: 2026-04-07T18:38:11.296Z
 estimatedTokens: 99
-keywords: [DRLoadPaymentMethod, Omnistudio, Data, Mapper, loads, payment, record, Sample, Input, Output]
+keywords: [DRLoadPaymentMethod, Omnistudio, Mapper, loads, payment, record, Sample]
 ---
-
-# DRLoadPaymentMethod
 
 > This Omnistudio Data Mapper loads the payment method details
     in the record.

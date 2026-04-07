@@ -5,12 +5,10 @@ topic: goalassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.269Z
+lastCollected: 2026-04-07T18:39:42.858Z
 estimatedTokens: 547
-keywords: [GoalAssignment, assignment, goal, API, version, 55.0, later]
+keywords: [GoalAssignment, assignment, goal, API, 55.0]
 ---
-
-# GoalAssignment
 
 > Represents the assignment of a goal. This object is available in API
       version 55.0 and later.

@@ -5,12 +5,10 @@ topic: enrollmenteligibilitycriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.956Z
+lastCollected: 2026-04-07T18:39:39.625Z
 estimatedTokens: 381
 keywords: [EnrollmentEligibilityCriteria, criteria, define, patient, enrollment, eligibility, care, programs]
 ---
-
-# EnrollmentEligibilityCriteria
 
 > Represents criteria that define patient enrollment eligibility for one or
 			more care programs.

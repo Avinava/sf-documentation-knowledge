@@ -5,12 +5,10 @@ topic: rest-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:45.869Z
+lastCollected: 2026-04-07T18:36:31.262Z
 estimatedTokens: 608
 keywords: [REST, you’re, language, isn’t, strongly, typed, JavaScript]
 ---
-
-# REST Overview
 
 > Use REST if you’re using a language that isn’t strongly
       typed, like JavaScript.

@@ -5,12 +5,10 @@ topic: showstorageaccessresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.773Z
+lastCollected: 2026-04-07T18:39:23.709Z
 estimatedTokens: 125
 keywords: [ShowStorageAccessResult, Result, publishEvent, event, SHOW_STORAGE_ACCESS]
 ---
-
-# ShowStorageAccessResult
 
 > Result returned by publishEvent when the event type is SHOW_STORAGE_ACCESS.
 

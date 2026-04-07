@@ -5,12 +5,10 @@ topic: trainingcourseparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.520Z
+lastCollected: 2026-04-07T18:40:04.253Z
 estimatedTokens: 276
-keywords: [TrainingCourseParticipantHistory, History, tracked, TrainingCourseParticipant]
+keywords: [TrainingCourseParticipantHistory, tracked, TrainingCourseParticipant]
 ---
-
-# TrainingCourseParticipantHistory
 
 > History for tracked fields of TrainingCourseParticipant.
 

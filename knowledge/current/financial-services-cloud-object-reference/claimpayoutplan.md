@@ -5,12 +5,10 @@ topic: claimpayoutplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.002Z
+lastCollected: 2026-04-07T18:37:36.786Z
 estimatedTokens: 1047
-keywords: [ClaimPayoutPlan, payout, plan, claim, payment, frequency, duration, payouts, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [ClaimPayoutPlan, payout, plan, claim, payment, frequency, duration, payouts, API, 56.0]
 ---
-
-# ClaimPayoutPlan
 
 > Represents the payout plan details for a claim, such as payment frequency, duration, and payouts. This object is available in API version 56.0 and later.
 

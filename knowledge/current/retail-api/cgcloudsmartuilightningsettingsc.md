@@ -5,12 +5,10 @@ topic: cgcloudsmartuilightningsettingsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:21.594Z
+lastCollected: 2026-04-07T18:39:15.032Z
 estimatedTokens: 1012
-keywords: [cgcloud__Smart_UI_Lightning_Settings__c, Internal, Smart, configurations, API, version, 54.0, later, cgcloud, _Smart, _UI, _Lightning, _Settings, Calls, Associated]
+keywords: [cgcloud__Smart_UI_Lightning_Settings__c, Internal, Smart, configurations, API, 54.0, cgcloud, _Smart, _UI, _Lightning, _Settings]
 ---
-
-# cgcloud__Smart_UI_Lightning_Settings__c
 
 > Internal Object contains Smart UI configurations. This object is
       available in API version 54.0 and later.

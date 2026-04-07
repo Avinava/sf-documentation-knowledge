@@ -5,13 +5,11 @@ topic: rulesappln-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.014Z
+lastCollected: 2026-04-07T18:35:41.857Z
 estimatedTokens: 307
 namespace: RulesAppln
-keywords: [RulesAppln, Apply, payments, credits, posted, invoices, adhering, rules]
+keywords: [RulesAppln, Apply, payments, credits, posted, invoices, adhering]
 ---
-
-# RulesAppln Namespace
 
 > Apply payments and credits to posted invoices by adhering to the specified rules.
 

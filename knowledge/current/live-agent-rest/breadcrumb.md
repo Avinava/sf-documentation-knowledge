@@ -5,12 +5,10 @@ topic: breadcrumb
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.081Z
+lastCollected: 2026-04-07T18:38:06.337Z
 estimatedTokens: 142
 keywords: [Breadcrumb, URL, Web, chat, visitor, viewing, chats, agent, determine]
 ---
-
-# Breadcrumb
 
 > Sets a breadcrumb value to the URL of the
 Web page that the chat visitor is viewing as the visitor chats with

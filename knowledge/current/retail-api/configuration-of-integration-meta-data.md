@@ -5,12 +5,10 @@ topic: configuration-of-integration-meta-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.185Z
+lastCollected: 2026-04-07T18:39:11.774Z
 estimatedTokens: 1611
-keywords: [Configuration, Integration, Meta, Data, dimensions, export, columns, filters, conditions, CSV, exports, Examples, sources]
+keywords: [Configuration, Integration, Meta, dimensions, export, columns, filters, conditions, CSV, exports, Examples, sources]
 ---
-
-# Configuration of Integration Meta Data
 
 > The integration meta configuration defines dimensions, export columns, filters, or
   conditions for CSV exports.

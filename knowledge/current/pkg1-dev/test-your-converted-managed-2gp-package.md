@@ -5,12 +5,10 @@ topic: test-your-converted-managed-2gp-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.720Z
+lastCollected: 2026-04-07T18:38:54.080Z
 estimatedTokens: 327
-keywords: [Test, Converted, Managed, 2GP, Package, migrate, subscribers, strongly, recommend, install, newly, new, scratch, org, functionality]
+keywords: [Test, Converted, Managed, 2GP, Package, migrate, subscribers, strongly, recommend, install, newly, new, scratch, org, functionality, prefer, sandbox, developer, edition]
 ---
-
-# Test Your Converted Managed 2GP Package
 
 > Before you migrate your first subscribers, we strongly recommend you install your newly
   converted managed 2GP package into a new scratch org and test its functionality. If you prefer,

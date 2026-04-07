@@ -5,12 +5,10 @@ topic: connectapipromotionevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.998Z
+lastCollected: 2026-04-07T18:36:11.278Z
 estimatedTokens: 270
 keywords: [ConnectApi.PromotionEvaluation, Results, promotion, evaluation]
 ---
-
-# ConnectApi.PromotionEvaluation
 
 > Results of a promotion evaluation.
 

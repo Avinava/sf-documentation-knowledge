@@ -5,12 +5,10 @@ topic: daily-scheduled-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.300Z
+lastCollected: 2026-04-07T18:36:54.659Z
 estimatedTokens: 65
-keywords: [Daily, Scheduled, Item, Input, schedule, data, refresh]
+keywords: [Daily, Scheduled, Item, schedule, refresh]
 ---
-
-# Daily Scheduled Item Input
 
 > The daily schedule for a data refresh.
 

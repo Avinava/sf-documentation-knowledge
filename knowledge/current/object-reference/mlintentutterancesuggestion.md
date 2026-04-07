@@ -5,12 +5,10 @@ topic: mlintentutterancesuggestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.498Z
+lastCollected: 2026-04-07T18:38:35.746Z
 estimatedTokens: 222
-keywords: [MlIntentUtteranceSuggestion, customer, input, training, purposes, feedback, loop, process, conversation, Admins, add, inputs, intent, model, API]
+keywords: [MlIntentUtteranceSuggestion, customer, training, purposes, feedback, loop, process, conversation, Admins, add, inputs, intent, model, API, 51.0]
 ---
-
-# MlIntentUtteranceSuggestion
 
 > Represents a customer input, used for training purposes in the
          feedback loop process of a conversation. Admins can add these inputs to the intent training

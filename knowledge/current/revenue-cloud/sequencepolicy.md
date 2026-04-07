@@ -5,12 +5,10 @@ topic: sequencepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:05.614Z
+lastCollected: 2026-04-07T18:35:50.499Z
 estimatedTokens: 1162
-keywords: [SequencePolicy, configuration, rules, generating, unique, sequential, numbers, records, Stores, settings, numbering, patterns, prefixes, suffixes, sequence]
+keywords: [SequencePolicy, configuration, generating, unique, sequential, numbers, records, Stores, settings, numbering, patterns, prefixes, suffixes, sequence, start, increment, filter, criteria, ensure, accurate, compliant, API, 65.0]
 ---
-
-# SequencePolicy
 
 > Represents the configuration of rules and parameters for generating
          unique, sequential numbers for records. Stores settings such as numbering patterns,

@@ -5,12 +5,10 @@ topic: apexpageblock
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.086Z
+lastCollected: 2026-04-07T18:38:50.343Z
 estimatedTokens: 1480
-keywords: [apex, pageBlock, area, uses, styling, similar, appearance, Salesforce, detail, any, content, Attributes, Facets]
+keywords: [Attributes, Facets, apex, pageBlock, area, uses, styling, similar, appearance, Salesforce, detail, any, content]
 ---
-
-# apex:pageBlock
 
 > An area of a page that uses styling similar to the appearance of a Salesforce detail page, but without any default content.
 

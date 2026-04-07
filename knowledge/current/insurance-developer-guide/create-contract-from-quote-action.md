@@ -5,12 +5,10 @@ topic: create-contract-from-quote-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.956Z
+lastCollected: 2026-04-07T18:37:48.672Z
 estimatedTokens: 204
-keywords: [Contract, Quote, Action, group, insurance, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Contract, Quote, Action, group, insurance, REST, HTTP]
 ---
-
-# Create Contract From Quote Action
 
 > Create a group insurance contract from a quote.
 

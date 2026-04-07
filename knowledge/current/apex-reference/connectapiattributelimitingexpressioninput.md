@@ -5,12 +5,10 @@ topic: connectapiattributelimitingexpressioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.240Z
+lastCollected: 2026-04-07T18:36:04.543Z
 estimatedTokens: 150
-keywords: [limiting, expression, input, activation]
+keywords: [limiting, expression, activation]
 ---
-
-# ConnectApi.AttributeLimitingExpressionInput
 
 > Represents the limiting expression input for an activation.
 

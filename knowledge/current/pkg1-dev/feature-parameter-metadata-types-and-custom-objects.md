@@ -5,12 +5,10 @@ topic: feature-parameter-metadata-types-and-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.523Z
+lastCollected: 2026-04-07T18:38:53.834Z
 estimatedTokens: 533
-keywords: [Feature, Metadata, Custom, Objects, represented, API, packaging, org, records, License, Management, hidden, subscriber’s, Lifecycle]
+keywords: [Feature, Metadata, represented, API, packaging, org, records, License, Management, hidden, subscriber’s, Lifecycle]
 ---
-
-# Feature Parameter Metadata Types and Custom Objects
 
 > Feature parameters are represented as Metadata API types in your packaging org, as
   records of custom objects in your License Management Org, and as hidden records in your

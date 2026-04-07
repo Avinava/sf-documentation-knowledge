@@ -5,12 +5,10 @@ topic: loanapplicantfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.213Z
+lastCollected: 2026-04-07T18:39:46.725Z
 estimatedTokens: 359
-keywords: [LoanApplicantFeed, Feed, tracking, LoanApplicant]
+keywords: [LoanApplicantFeed, LoanApplicant]
 ---
-
-# LoanApplicantFeed
 
 > Feed tracking for LoanApplicant.
 

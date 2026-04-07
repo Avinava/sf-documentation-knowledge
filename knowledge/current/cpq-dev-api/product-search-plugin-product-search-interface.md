@@ -5,13 +5,11 @@ topic: product-search-plugin---product-search-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.127Z
+lastCollected: 2026-04-07T18:37:27.107Z
 estimatedTokens: 572
 namespace: SBQQ
-keywords: [Product, Search, Plugin, implemented, SBQQ.ProductSearchPlugin, further, filter, users, enter, their, own, queries, Usage, Order, Execution]
+keywords: [Product, Search, Plugin, implemented, SBQQ.ProductSearchPlugin, further, filter, users, enter, their, own, queries, Order, Execution]
 ---
-
-# Product Search Plugin - Product Search Interface
 
 > Use implemented SBQQ.ProductSearchPlugin methods to further filter a
       product search on the Product Search page after users enter their own search

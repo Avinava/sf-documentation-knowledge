@@ -5,12 +5,10 @@ topic: loading-test-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.348Z
+lastCollected: 2026-04-07T18:36:18.582Z
 estimatedTokens: 476
-keywords: [Loading, Test, Data, Test.loadData, populate, having, write, lines, code]
+keywords: [Loading, Test, Test.loadData, populate, having, write, lines, code]
 ---
-
-# Loading Test Data
 
 > Using the Test.loadData method, you can populate data in your test methods without having
 to write many lines of code.

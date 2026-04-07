@@ -5,12 +5,10 @@ topic: managing-package-version-settings-for-visualforce-pages-and-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.595Z
+lastCollected: 2026-04-07T18:38:51.898Z
 estimatedTokens: 770
-keywords: [Managing, Package, Version, Settings, Visualforce, Pages, Components, markup, references, installed, managed, packages, referenced, saved, aid]
+keywords: [Managing, Package, Settings, Visualforce, Pages, markup, references, installed, managed, packages, referenced, saved, aid, backwards-compatibility, ensures, evolve, subsequent, versions]
 ---
-
-# Managing Package Version Settings for Visualforce Pages and Components
 
 > If Visualforce markup references installed managed packages, the version settings for each
    managed package referenced by the Visualforce markup are saved to aid backwards-compatibility.

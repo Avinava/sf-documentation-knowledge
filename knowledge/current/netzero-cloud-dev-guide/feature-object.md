@@ -5,12 +5,10 @@ topic: feature-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.770Z
+lastCollected: 2026-04-07T18:38:16.323Z
 estimatedTokens: 86
-keywords: [Feature, Output, representation]
+keywords: [Feature]
 ---
-
-# Feature Object
 
 > Output representation of the details of the feature
     object.

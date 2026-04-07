@@ -5,12 +5,10 @@ topic: datastreamtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.901Z
+lastCollected: 2026-04-07T18:36:32.358Z
 estimatedTokens: 2278
-keywords: [DataStreamTemplate, metadata, data, stream, user, adds, kit, API, version, 52.0, later, SOAP, Calls, REST, Special]
+keywords: [DataStreamTemplate, metadata, stream, user, adds, kit, API, 52.0, SOAP, REST]
 ---
-
-# DataStreamTemplate
 
 > Represents metadata about the data stream that a user adds to a data kit.
          This object is available in API version 52.0 and later.

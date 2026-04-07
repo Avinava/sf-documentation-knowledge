@@ -5,12 +5,10 @@ topic: like-a-feed-item-and-return-the-total-number-of-likes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.210Z
+lastCollected: 2026-04-07T18:37:24.258Z
 estimatedTokens: 295
-keywords: [Feed, Item, Total, Number, Likes]
+keywords: [Item, Total, Number, Likes]
 ---
-
-# Like a Feed Item and Return the Total Number of Likes
 
 > Like a feed item and get the total number of likes.
 

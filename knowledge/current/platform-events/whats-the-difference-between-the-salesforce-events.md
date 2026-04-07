@@ -5,12 +5,10 @@ topic: whats-the-difference-between-the-salesforce-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.212Z
+lastCollected: 2026-04-07T18:38:58.026Z
 estimatedTokens: 935
-keywords: [What’s, Difference, Salesforce, Events, offers, various, features, standard, platform, event-like, aren’t, event, notifications, Custom, Data]
+keywords: [What’s, Difference, Salesforce, Events, offers, various, features, standard, platform, event-like, aren’t, event, notifications, Comparison, Security, Apex, Monitoring]
 ---
-
-# What’s the Difference Between the Salesforce Events?
 
 > Salesforce offers various features that use events, some of which
       are based on standard platform events. Other features are event-like but aren’t event

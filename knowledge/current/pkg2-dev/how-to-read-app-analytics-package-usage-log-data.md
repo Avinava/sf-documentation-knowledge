@@ -5,12 +5,10 @@ topic: how-to-read-app-analytics-package-usage-log-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.525Z
+lastCollected: 2026-04-07T18:38:54.908Z
 estimatedTokens: 1104
-keywords: [How, App, Analytics, Package, Usage, Log, Data, logs, contain, subscribers, interact, managed, packaged, components, line]
+keywords: [How, App, Analytics, Package, Log, logs, contain, subscribers, interact, managed, packaged, line, interaction, user, understand, analyze, line—or, record—and, focus, accessed, interacted, occurred, Finally, specific]
 ---
-
-# How to Read App Analytics Package Usage Log Data
 
 > App Analytics package usage logs contain data about how subscribers interact with your
   managed package. Your managed package contains packaged components, and each package usage log

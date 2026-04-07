@@ -5,13 +5,11 @@ topic: schedulerresources-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:17.484Z
+lastCollected: 2026-04-07T18:36:02.692Z
 estimatedTokens: 2758
 namespace: LxScheduler
 keywords: [SchedulerResources, holds, business, logic, resources, availability, Implementation, Considerations, getAppointmentCandidates, getAppointmentCandidatesInput, getAppointmentSlots, getAppointmentSlotsInput, setAppointmentCandidatesMock, expectedResponse, setAppointmentSlotsMock]
 ---
-
-# SchedulerResources Class
 
 > Contains methods that holds the business logic to get resources
       availability.

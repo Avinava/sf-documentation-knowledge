@@ -5,12 +5,10 @@ topic: apptabmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.924Z
+lastCollected: 2026-04-07T18:38:25.871Z
 estimatedTokens: 269
-keywords: [AppTabMember, tabs, apps, API, version, 43.0, later, Calls]
+keywords: [AppTabMember, tabs, apps, API, 43.0]
 ---
-
-# AppTabMember
 
 > Represents the list of tabs for each of the available apps. This
 		object is available in API version 43.0 and later.

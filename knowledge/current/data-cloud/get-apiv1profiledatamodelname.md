@@ -5,12 +5,10 @@ topic: get-apiv1profiledatamodelname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.724Z
+lastCollected: 2026-04-07T18:35:51.584Z
 estimatedTokens: 426
-keywords: [api, profile, dataModelName, data, model, objects, search, filters, call, retrieve, records, applying, selected, Examples, HTTP]
+keywords: [Examples, api, profile, dataModelName, model, search, filters, call, retrieve, records, applying, selected, HTTP, Responses]
 ---
-
-# GET /api/v1/profile/{dataModelName}
 
 > Returns data model objects based on search filters. Use this API call to retrieve the
   object records after applying the selected filters.

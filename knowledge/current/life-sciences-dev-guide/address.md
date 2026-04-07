@@ -5,12 +5,10 @@ topic: address
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.471Z
+lastCollected: 2026-04-07T18:37:58.002Z
 estimatedTokens: 383
-keywords: [Address, FHIR, resource, maps, Contact​Point​Address​, Salesforce, V4.0, Clinical, Data, Model, Mapping, mailing, billing, home, Calls, Special, Access, Rules, Usage, Associated]
+keywords: [Address, FHIR, resource, maps, Contact​Point​Address​, Salesforce, V4.0, Clinical, Model, Mapping, mailing, billing, home]
 ---
-
-# Address
 
 > Represents a mailing, billing, or home address.
 

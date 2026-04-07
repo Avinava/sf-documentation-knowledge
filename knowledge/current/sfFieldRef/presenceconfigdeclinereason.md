@@ -5,12 +5,10 @@ topic: presenceconfigdeclinereason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.873Z
+lastCollected: 2026-04-07T18:39:54.425Z
 estimatedTokens: 318
-keywords: [PresenceConfigDeclineReason, settings, decline, reason, presence, user, declining, work, API, version, 37.0, later]
+keywords: [PresenceConfigDeclineReason, settings, decline, reason, presence, user, declining, work, API, 37.0]
 ---
-
-# PresenceConfigDeclineReason
 
 > Represents the settings for a decline reason that a presence user
    provides when declining work. This object is available in API version 37.0 and

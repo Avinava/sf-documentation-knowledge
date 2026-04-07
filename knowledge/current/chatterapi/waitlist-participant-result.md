@@ -5,12 +5,10 @@ topic: waitlist-participant-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.691Z
+lastCollected: 2026-04-07T18:37:23.752Z
 estimatedTokens: 345
-keywords: [Waitlist, Participant, Result, Output, representation, customer, added]
+keywords: [Waitlist, Participant, Result, customer, added]
 ---
-
-# Waitlist Participant Result
 
 > Output representation of a waitlist participant result. A waitlist
       participant is a customer who is added to a waitlist.

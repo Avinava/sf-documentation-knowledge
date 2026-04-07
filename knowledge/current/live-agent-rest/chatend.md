@@ -5,12 +5,10 @@ topic: chatend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.118Z
+lastCollected: 2026-04-07T18:38:06.377Z
 estimatedTokens: 213
 keywords: [ChatEnd, chat, visitor, ended]
 ---
-
-# ChatEnd
 
 > Indicates that a chat visitor has ended the chat.
 

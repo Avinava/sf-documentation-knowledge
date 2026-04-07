@@ -5,12 +5,10 @@ topic: export-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.421Z
+lastCollected: 2026-04-07T18:39:19.104Z
 estimatedTokens: 187
 keywords: [Export, node, recipe]
 ---
-
-# Export Parameters
 
 > The parameters for an export node in a recipe.
 

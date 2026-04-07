@@ -5,12 +5,10 @@ topic: decision-table-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.361Z
+lastCollected: 2026-04-07T18:39:02.582Z
 estimatedTokens: 101
-keywords: [Decision, Row, Output, representation, describe]
+keywords: [Decision, Row, describe]
 ---
-
-# Decision Table Row
 
 > Output representation to describe the output of a decision table row.
 

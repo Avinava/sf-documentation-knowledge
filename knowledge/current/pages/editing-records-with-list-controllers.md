@@ -5,12 +5,10 @@ topic: editing-records-with-list-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.815Z
+lastCollected: 2026-04-07T18:38:51.054Z
 estimatedTokens: 347
-keywords: [Editing, Records, Controllers, Command, buttons, links, associated, save, quicksave, edit, actions, controller, rendered, user, appropriate]
+keywords: [Editing, Records, Controllers, Command, buttons, links, save, quicksave, edit, actions, controller, rendered, user, appropriate, permissions, Likewise, particular, record]
 ---
-
-# Editing Records with List Controllers
 
 > Command buttons and links that are associated with save, quicksave, or edit actions in a list controller are not rendered if the user does not
 have the appropriate permissions. Likewise if no particular record

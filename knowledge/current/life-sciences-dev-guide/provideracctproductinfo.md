@@ -5,12 +5,10 @@ topic: provideracctproductinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.438Z
+lastCollected: 2026-04-07T18:38:01.277Z
 estimatedTokens: 1141
-keywords: [ProviderAcctProductInfo, specific, healthcare, professionals, organizations, territory, product, levels, segmentation, product-level, rankings, API, version, 65.0, later]
+keywords: [ProviderAcctProductInfo, specific, healthcare, professionals, organizations, territory, product, levels, segmentation, product-level, rankings, API, 65.0]
 ---
-
-# ProviderAcctProductInfo
 
 > Represents specific information for healthcare professionals or healthcare
          organizations at the territory and product levels. This information is used for

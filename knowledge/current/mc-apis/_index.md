@@ -2,7 +2,7 @@
 domain: mc-apis
 name: Marketing Cloud API
 documentCount: 809
-lastGenerated: 2026-04-07T09:06:39.448Z
+lastGenerated: 2026-04-07T18:40:44.641Z
 ---
 
 # Marketing Cloud API — Knowledge Index
@@ -44,7 +44,7 @@ lastGenerated: 2026-04-07T09:06:39.448Z
 | [373000-373999-filterdefinition-object-error-codes.md](./373000-373999-filterdefinition-object-error-codes.md) | 373000-373999 FilterDefinition Object Error Codes | developer-guide | 373000-373999, FilterDefinition, Error |
 | [380000-380999-sms-mt-configuration.md](./380000-380999-sms-mt-configuration.md) | 380000-380999 SMS MT Configuration | developer-guide | 380000-380999, SMS, Configuration |
 | [388000-389999-timezone-and-locale-objects.md](./388000-389999-timezone-and-locale-objects.md) | 388000-389999 TimeZone and Locale Objects | developer-guide | 388000-389999, TimeZone, Locale |
-| [396000-396999-data-folder.md](./396000-396999-data-folder.md) | 396000-396999 Data Folder | developer-guide | 396000-396999, Data, Folder |
+| [396000-396999-data-folder.md](./396000-396999-data-folder.md) | 396000-396999 Data Folder | developer-guide | 396000-396999, Folder |
 | [400-499-subscription-validation.md](./400-499-subscription-validation.md) | 400-499 Subscription Validation | api-reference | 400-499, Subscription, Validation |
 | [4000-4099-email-object.md](./4000-4099-email-object.md) | 4000-4099 Email Object | developer-guide | 4000-4099, Email |
 | [40000-40999-senderprofile-object.md](./40000-40999-senderprofile-object.md) | 40000-40999 SenderProfile Object | developer-guide | 40000-40999, SenderProfile |
@@ -62,7 +62,7 @@ lastGenerated: 2026-04-07T09:06:39.448Z
 | [446000-446999-double-opt-in-sms-messages.md](./446000-446999-double-opt-in-sms-messages.md) | 446000-446999 Double Opt In SMS Messages | developer-guide | 446000-446999, Double, Opt |
 | [447000-447999-unsubscribe-from-sms-publication.md](./447000-447999-unsubscribe-from-sms-publication.md) | 447000-447999 Unsubscribe From SMS Publication | developer-guide | 447000-447999, Unsubscribe, SMS |
 | [50000-50999-notifications.md](./50000-50999-notifications.md) | 50000-50999 Notifications | developer-guide | 50000-50999, Notifications |
-| [54000-54999-user-access.md](./54000-54999-user-access.md) | 54000-54999 User Access | developer-guide | 54000-54999, User, Access |
+| [54000-54999-user-access.md](./54000-54999-user-access.md) | 54000-54999 User Access | developer-guide | 54000-54999, User |
 | [55000-55999-salutation.md](./55000-55999-salutation.md) | 55000-55999 Salutation | developer-guide | 55000-55999, Salutation |
 | [56000-56999-business-rule.md](./56000-56999-business-rule.md) | 56000-56999 Business Rule | developer-guide | 56000-56999, Business, Rule |
 | [63000-63999-public-key-management.md](./63000-63999-public-key-management.md) | 63000-63999 Public Key Management | developer-guide | 63000-63999, Key, Management |
@@ -70,7 +70,7 @@ lastGenerated: 2026-04-07T09:06:39.448Z
 | [68000-68099-saveoption-object.md](./68000-68099-saveoption-object.md) | 68000-68099 SaveOption Object | developer-guide | 68000-68099, SaveOption |
 | [69000-69099-portfolio-object.md](./69000-69099-portfolio-object.md) | 69000-69099 Portfolio Object | developer-guide | 69000-69099, Portfolio |
 | [7000-7099-send-object.md](./7000-7099-send-object.md) | 7000-7099 Send Object | developer-guide | 7000-7099, Send |
-| [70000-71999-custom-object.md](./70000-71999-custom-object.md) | 70000-71999 Custom Object | developer-guide | 70000-71999, Custom |
+| [70000-71999-custom-object.md](./70000-71999-custom-object.md) | 70000-71999 Custom Object | developer-guide | 70000-71999 |
 | [access-child-account-objects.md](./access-child-account-objects.md) | Access Child Account Objects | help-article | To execute certain actions or view information related to a child account, use t |
 | [account.md](./account.md) | Account | api-reference | The Account object represents a Marketing Cloud account. |
 | [accountdataitem.md](./accountdataitem.md) | AccountDataItem | developer-guide | The AccountDataItem object contains information regarding a child account within |
@@ -406,7 +406,7 @@ lastGenerated: 2026-04-07T09:06:39.448Z
 | [groupconnect-chat-messaging-api.md](./groupconnect-chat-messaging-api.md) | GroupConnect Chat Messaging API | developer-guide | Send real-time event-based messages to your users in Facebook Messenger and LINE |
 | [groupdefinition.md](./groupdefinition.md) | GroupDefinition | api-reference | GroupDefinition, Items |
 | [groups.md](./groups.md) | Groups | developer-guide | The following are groups technical articles for SOAP API. |
-| [handle-errors-in-rest-api.md](./handle-errors-in-rest-api.md) | Handle Errors in REST API | api-reference | Handle, Errors, REST |
+| [handle-errors-in-rest-api.md](./handle-errors-in-rest-api.md) | Handle Errors in REST API | api-reference | Validation, Authorization, Authentication |
 | [helpmokeyword.md](./helpmokeyword.md) | HelpMOKeyword | api-reference | The HelpMOKeyword object defines actions associated with the HELP SMS keyword fo |
 | [hourlyrecurrence.md](./hourlyrecurrence.md) | HourlyRecurrence | developer-guide | The HourlyRecurrence object specifies an hourly recurrence pattern and value. Th |
 | [hourlyrecurrencepatterntypeenum.md](./hourlyrecurrencepatterntypeenum.md) | HourlyRecurrencePatternTypeEnum | developer-guide | The HourlyRecurrencePatternTypeEnum object identifies types of allowed patterns  |
@@ -655,7 +655,7 @@ lastGenerated: 2026-04-07T09:06:39.448Z
 | [retrieve-and-recreate-an-email-message-in-an-html-page.md](./retrieve-and-recreate-an-email-message-in-an-html-page.md) | Retrieve and Recreate an Email Message in an HTML Page | help-article | This page contains information  about retrieving the content and structure of an |
 | [retrieve-audience-of-send-definition.md](./retrieve-audience-of-send-definition.md) | Retrieve Audience of Send Definition | help-article | This page contains sample code illustrating how to retrieve the audience of an e |
 | [retrieve-data-extension-object-using-customer-key.md](./retrieve-data-extension-object-using-customer-key.md) | Retrieve Data Extension Object Using Customer Key | help-article | This page contains information  about retrieving a data extension object using t |
-| [retrieve-data-from-a-data-extension.md](./retrieve-data-from-a-data-extension.md) | Retrieve Data from a Data Extension | api-reference | Retrieve, Data, Extension |
+| [retrieve-data-from-a-data-extension.md](./retrieve-data-from-a-data-extension.md) | Retrieve Data from a Data Extension | api-reference | Retrieve, Extension, Sample |
 | [retrieve-more-email-attributes.md](./retrieve-more-email-attributes.md) | Retrieve More Email Attributes | help-article | This page contains information  about receiving more email attributes. |
 | [retrieve-more-than-2500-records-using-the-continuerequest-property.md](./retrieve-more-than-2500-records-using-the-continuerequest-property.md) | Retrieve More than 2500 Records Using the ContinueRequest Property | api-reference | This page contains information about retrieving more records using ContinueReque |
 | [retrieve-open-events-details.md](./retrieve-open-events-details.md) | Retrieve Open Events Details | help-article | This page contains information  about retrieving open events details. |
@@ -729,7 +729,7 @@ lastGenerated: 2026-04-07T09:06:39.448Z
 | [soap-api-best-practices.md](./soap-api-best-practices.md) | SOAP API Best Practices | concept | This page contains a broad conceptual overview of the Marketing Cloud SOAP API y |
 | [soap-api-performance.md](./soap-api-performance.md) | SOAP API Performance | developer-guide | You can increase SOAP API performance with smaller API load increments. Unless y |
 | [soap-faults.md](./soap-faults.md) | SOAP Faults | developer-guide | This page contains information regarding SOAP faults. These faults can occur for |
-| [soap-web-service-guide.md](./soap-web-service-guide.md) | SOAP Web Service Guide | developer-guide | SOAP, Web, Service |
+| [soap-web-service-guide.md](./soap-web-service-guide.md) | SOAP Web Service Guide | developer-guide | Troubleshooting, SOAP, Web |
 | [soaptype.md](./soaptype.md) | SoapType | developer-guide | SoapType |
 | [ssoidentity.md](./ssoidentity.md) | SsoIdentity | developer-guide | The SsoIdentity object contains information on the single sign-on identity to us |
 | [start-a-triggered-send-definition.md](./start-a-triggered-send-definition.md) | Start a Triggered Send Definition | api-reference | Before a triggered send definition can be used, it must be started. Once the tri |

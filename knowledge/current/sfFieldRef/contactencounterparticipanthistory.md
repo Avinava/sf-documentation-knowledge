@@ -5,12 +5,10 @@ topic: contactencounterparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.537Z
+lastCollected: 2026-04-07T18:39:34.979Z
 estimatedTokens: 279
-keywords: [ContactEncounterParticipantHistory, History, tracked, ContactEncounterParticipant]
+keywords: [ContactEncounterParticipantHistory, tracked, ContactEncounterParticipant]
 ---
-
-# ContactEncounterParticipantHistory
 
 > History for tracked fields of ContactEncounterParticipant.
 

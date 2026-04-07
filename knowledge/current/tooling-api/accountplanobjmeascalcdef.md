@@ -5,12 +5,10 @@ topic: accountplanobjmeascalcdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.153Z
+lastCollected: 2026-04-07T18:36:31.524Z
 estimatedTokens: 1203
-keywords: [AccountPlanObjMeasCalcDef, metadata, associated, account, plan, objective, measure, calculation, definition, target, rollup, logic, calculating, current, sales]
+keywords: [AccountPlanObjMeasCalcDef, metadata, account, plan, objective, measure, calculation, definition, target, rollup, logic, calculating, current, sales, API, 63.0, SOAP, REST]
 ---
-
-# AccountPlanObjMeasCalcDef
 
 > Represents the metadata associated with an account plan objective measure calculation definition. An account plan objective measure calculation definition contains a target object, rollup field, and logic for calculating the current value of a sales account plan objective measure. This object is available in API version 63.0 and later.
 

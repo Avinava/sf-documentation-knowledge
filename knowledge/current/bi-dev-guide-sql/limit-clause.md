@@ -5,12 +5,10 @@ topic: limit-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.203Z
+lastCollected: 2026-04-07T18:37:01.818Z
 estimatedTokens: 185
 keywords: [LIMIT, Clause, maximum, number, rows, SQL]
 ---
-
-# LIMIT Clause
 
 > The LIMIT clause specifies the maximum number of
   rows to return. If no LIMIT clause is specified, then SQL

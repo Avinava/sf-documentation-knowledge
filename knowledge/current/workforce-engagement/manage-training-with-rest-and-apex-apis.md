@@ -5,12 +5,10 @@ topic: manage-training-with-rest-and-apex-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.494Z
+lastCollected: 2026-04-07T18:40:14.506Z
 estimatedTokens: 429
-keywords: [Manage, Training, REST, Apex, APIs, learning, module, assignments, programmatically, record, objects, API, Examples]
+keywords: [Manage, Training, REST, Apex, APIs, learning, module, assignments, programmatically, record, API, Examples]
 ---
-
-# Manage Training with REST and Apex APIs
 
 > To manage learning module assignments programmatically, you can use REST or Apex APIs
   with record objects.

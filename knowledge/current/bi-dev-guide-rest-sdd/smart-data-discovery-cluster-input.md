@@ -5,12 +5,10 @@ topic: smart-data-discovery-cluster-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.128Z
+lastCollected: 2026-04-07T18:36:58.638Z
 estimatedTokens: 128
-keywords: [Smart, Data, Discovery, Cluster, Input, definitions]
+keywords: [Smart, Discovery, Cluster, definitions]
 ---
-
-# Smart Data Discovery Cluster Input
 
 > The input for cluster definitions.
 

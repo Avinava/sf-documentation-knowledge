@@ -5,12 +5,10 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.487Z
+lastCollected: 2026-04-07T18:35:47.529Z
 estimatedTokens: 1281
-keywords: [PricingRecipe, data, models, objects, particular, cloud, pricing, store, consumes, design, time, run, Parent, File, Suffix, various, entities, that'll, consumed, API]
+keywords: [PricingRecipe, PricingRecipeTableMapping, PricingProcedureOutputMap, models, particular, cloud, pricing, store, consumes, design, time, run, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, various, entities, that'll, consumed, API, 60.0]
 ---
-
-# PricingRecipe
 
 > Represents the data models or sets of objects of a particular
 			cloud that the pricing data store consumes during design time and run time.

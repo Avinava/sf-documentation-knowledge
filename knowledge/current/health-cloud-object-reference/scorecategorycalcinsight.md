@@ -5,12 +5,10 @@ topic: scorecategorycalcinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.841Z
+lastCollected: 2026-04-07T18:37:48.512Z
 estimatedTokens: 563
-keywords: [ScoreCategoryCalcInsight, how, score, category, Unified, Health, Scoring, mapped, calculated, insight, Salesforce, CDP, calculate, scores, API]
+keywords: [ScoreCategoryCalcInsight, how, score, category, Unified, Health, Scoring, mapped, calculated, insight, Salesforce, CDP, calculate, scores, API, 55.0, SOAP, REST]
 ---
-
-# ScoreCategoryCalcInsight
 
 > Represents how a score category in Unified Health Scoring is mapped to a
          calculated insight in Salesforce CDP. Use this object only if you use CDP to calculate

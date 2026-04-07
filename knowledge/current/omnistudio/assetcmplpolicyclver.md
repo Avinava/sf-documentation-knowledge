@@ -5,12 +5,10 @@ topic: assetcmplpolicyclver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.429Z
+lastCollected: 2026-04-07T18:36:44.187Z
 estimatedTokens: 340
-keywords: [AssetCmplPolicyClVer, association, Asset, Compliance, Policy, Clause, Version, API, 66.0, later, Calls]
+keywords: [AssetCmplPolicyClVer, association, Asset, Compliance, Policy, Clause, API, 66.0]
 ---
-
-# AssetCmplPolicyClVer
 
 > Represents an association between an Asset and a Compliance Policy Clause
          Version. This object is available in API version 66.0 and later.

@@ -5,12 +5,10 @@ topic: loginhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:52.694Z
+lastCollected: 2026-04-07T18:39:47.166Z
 estimatedTokens: 480
-keywords: [LoginHistory, login, history, successful, failed, attempts, organizations, enabled, portals, API, version, 21.0, later]
+keywords: [LoginHistory, login, successful, failed, attempts, organizations, enabled, portals, API, 21.0]
 ---
-
-# LoginHistory
 
 > Represents the login history for all successful and failed login
       attempts for organizations and enabled portals. This object is available in API version

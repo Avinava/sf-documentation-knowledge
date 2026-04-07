@@ -5,12 +5,10 @@ topic: programrebatetypeproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.465Z
+lastCollected: 2026-04-07T18:39:57.027Z
 estimatedTokens: 257
 keywords: [ProgramRebateTypeProduct, junction, program, rebate, product]
 ---
-
-# ProgramRebateTypeProduct
 
 > Represents a junction between a program rebate type and a product.
 

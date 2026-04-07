@@ -5,12 +5,10 @@ topic: inspolicyrelatedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.377Z
+lastCollected: 2026-04-07T18:39:44.950Z
 estimatedTokens: 370
-keywords: [InsPolicyRelatedObject, relationship, Insurance, Policy, attributes, referenced, relevant, product, API, version, 63.0, later]
+keywords: [InsPolicyRelatedObject, relationship, Insurance, Policy, attributes, referenced, relevant, product, API, 63.0]
 ---
-
-# InsPolicyRelatedObject
 
 > Represents the relationship between an Insurance Policy and a related object.
          The values of the attributes from the related object are referenced by the relevant product

@@ -5,12 +5,10 @@ topic: apexinlineeditsupport
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:57.602Z
+lastCollected: 2026-04-07T18:38:49.746Z
 estimatedTokens: 609
-keywords: [apex, inlineEditSupport, component, inline, editing, support, <apex, outputField>, various, container, components, order, form>, tag, Attributes]
+keywords: [Attributes, apex, inlineEditSupport, inline, editing, support, <apex, outputField>, various, container, order, form>, tag]
 ---
-
-# apex:inlineEditSupport
 
 > This component provides inline editing support to <apex:outputField> and various container components. In order to support inline editing, this component must also be within an <apex:form> tag.
 

@@ -5,12 +5,10 @@ topic: getrecordalertsforfinancialaccountfinancialaccountid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.355Z
+lastCollected: 2026-04-07T18:37:33.781Z
 estimatedTokens: 163
-keywords: [getRecordAlertsForFinancialAccount, financialAccountId, Retrieve, active, record, alerts, financial, accounts, API, Version, Requires, Chatter]
+keywords: [getRecordAlertsForFinancialAccount, financialAccountId, Retrieve, active, record, alerts, financial, accounts, API, Requires, Chatter]
 ---
-
-# getRecordAlertsForFinancialAccount(financialAccountId)
 
 > Retrieve a list of active record alerts on financial
   accounts.

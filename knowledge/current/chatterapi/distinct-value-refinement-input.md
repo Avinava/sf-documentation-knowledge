@@ -5,12 +5,10 @@ topic: distinct-value-refinement-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.313Z
+lastCollected: 2026-04-07T18:37:08.123Z
 estimatedTokens: 203
-keywords: [Distinct, Refinement, Input, Attribute-based, product, search]
+keywords: [Distinct, Refinement, Attribute-based, product, search]
 ---
-
-# Distinct Value Refinement Input
 
 > Attribute-based refinement with distinct values for product
       search.

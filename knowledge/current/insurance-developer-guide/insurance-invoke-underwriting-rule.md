@@ -5,12 +5,10 @@ topic: insurance-invoke-underwriting-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.317Z
+lastCollected: 2026-04-07T18:37:52.486Z
 estimatedTokens: 312
-keywords: [Insurance, Invoke, Underwriting, Rule, Output, representation]
+keywords: [Insurance, Invoke, Underwriting, Rule]
 ---
-
-# Insurance Invoke Underwriting Rule
 
 > Output representation for invoke underwriting rule response.
 

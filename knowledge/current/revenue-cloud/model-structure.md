@@ -5,12 +5,10 @@ topic: model-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.484Z
+lastCollected: 2026-04-07T18:35:42.360Z
 estimatedTokens: 1758
 keywords: [Model, Structure, tables, pages, show, constraint, Core, Concept, Examples]
 ---
-
-# Model Structure
 
 > The tables on the following pages show the structure for the constraint model in Core
     Concept Examples.

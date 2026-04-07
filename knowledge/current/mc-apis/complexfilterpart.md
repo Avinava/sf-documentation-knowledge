@@ -5,12 +5,10 @@ topic: complexfilterpart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.590Z
+lastCollected: 2026-04-07T18:40:15.694Z
 estimatedTokens: 161
 keywords: [ComplexFilterPart, multiple, filter, parts, Items]
 ---
-
-# ComplexFilterPart
 
 > The ComplexFilterPart object specifies multiple filter parts.
 

@@ -5,12 +5,10 @@ topic: connectapifeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.280Z
+lastCollected: 2026-04-07T18:36:06.631Z
 estimatedTokens: 406
-keywords: [ConnectApi.Feed, Chatter, feed]
+keywords: [ConnectApi.Feed, Chatter]
 ---
-
-# ConnectApi.Feed
 
 > Chatter feed.
 

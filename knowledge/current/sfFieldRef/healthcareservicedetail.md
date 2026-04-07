@@ -5,12 +5,10 @@ topic: healthcareservicedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.289Z
+lastCollected: 2026-04-07T18:39:43.920Z
 estimatedTokens: 347
-keywords: [HealthcareServiceDetail, junction, CareService, CodeSetBundle, links, healthcare, service, physical, therapy, codes, API, version, 59.0, later]
+keywords: [HealthcareServiceDetail, junction, CareService, CodeSetBundle, links, healthcare, service, physical, therapy, codes, API, 59.0]
 ---
-
-# HealthcareServiceDetail
 
 > Represents a junction object between a CareService and a CodeSetBundle.
       For example, this object links a healthcare service such as physical therapy to a set of

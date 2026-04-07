@@ -5,12 +5,10 @@ topic: create-an-agency-client-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.124Z
+lastCollected: 2026-04-07T18:40:16.259Z
 estimatedTokens: 978
 keywords: [Agency, Client, creating, Why, How, Sample, NET, Code, SOAP, Envelope]
 ---
-
-# Create an Agency Client Object
 
 > This page contains information  about creating an agency client object.
 

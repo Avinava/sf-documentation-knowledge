@@ -5,12 +5,10 @@ topic: sort-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.572Z
+lastCollected: 2026-04-07T18:37:10.273Z
 estimatedTokens: 593
-keywords: [Sort, Rule, Input]
+keywords: [Sort, Rule]
 ---
-
-# Sort Rule Input
 
 > Sort rule input.
 

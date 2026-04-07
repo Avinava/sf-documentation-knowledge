@@ -5,12 +5,10 @@ topic: give-guest-users-access-to-create-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.731Z
+lastCollected: 2026-04-07T18:37:26.674Z
 estimatedTokens: 1174
-keywords: [Give, Guest, Users, Access, Records, configure, user, profile, include, desired, Record, IDs, Creation, Apex, Flow]
+keywords: [Samples, Give, Guest, Users, Records, configure, user, profile, include, desired, Record, IDs, Creation, Apex, Flow]
 ---
-
-# Give Guest Users Access to Create Records
 
 > So guest users can create object records, configure the guest user profile to include
     create access for the desired object.

@@ -5,12 +5,10 @@ topic: controlling-the-status-bar-in-ios-7-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.820Z
+lastCollected: 2026-04-07T18:40:26.144Z
 estimatedTokens: 270
-keywords: [Controlling, Status, Bar, iOS, Hybrid, Apps, choose, show, hide, control, whether, overlays, web, view, Cordova]
+keywords: [Controlling, Status, Bar, iOS, Hybrid, Apps, choose, show, hide, control, whether, overlays, web, view, Cordova, plug-in, configure, settings, shown, Salesforce, Mobile, SDK, 2.3]
 ---
-
-# Controlling the Status Bar in iOS 7 Hybrid Apps
 
 > In iOS 7 you can choose to show or hide the status bar, and you can control whether it overlays
    the web view. You use the Cordova status bar plug-in to configure these settings. By default, the

@@ -5,12 +5,10 @@ topic: smart-data-discovery-aggregate-prediction-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.963Z
+lastCollected: 2026-04-07T18:36:59.454Z
 estimatedTokens: 158
-keywords: [Smart, Data, Discovery, Aggregate, Prediction, Error, Einstein]
+keywords: [Smart, Discovery, Aggregate, Prediction, Error, Einstein]
 ---
-
-# Smart Data Discovery Aggregate Prediction Error
 
 > An Einstein Discovery aggregate prediction error.
 

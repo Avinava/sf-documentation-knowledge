@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-the-record-list-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.770Z
+lastCollected: 2026-04-07T18:37:26.722Z
 estimatedTokens: 356
-keywords: [CSS, Overrides, Migration, Record, Component, plan, continue, custom, migrate, forward, template, View, Button, Bar, Buttons]
+keywords: [CSS, Overrides, Migration, Record, plan, continue, migrate, forward, template, View, Button, Bar, Buttons, Status, Picker, Trigger, Link]
 ---
-
-# CSS Overrides Migration for the Record List Component
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

@@ -5,12 +5,10 @@ topic: saleschannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.718Z
+lastCollected: 2026-04-07T18:38:40.298Z
 estimatedTokens: 1070
-keywords: [SalesChannel, origin, order, web, storefront, physical, store, marketplace, mobile, app, integrate, Salesforce, Management, B2C, Commerce]
+keywords: [SalesChannel, origin, order, web, storefront, physical, store, marketplace, mobile, app, integrate, Salesforce, Management, B2C, Commerce, corresponding, Site, implementation, API, 48.0]
 ---
-
-# SalesChannel
 
 > Represents the origin of an order. For example, a web storefront, physical
       store, marketplace, or mobile app. If you integrate Salesforce Order Management with

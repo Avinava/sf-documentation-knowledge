@@ -5,12 +5,10 @@ topic: create-dependencies-between-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.774Z
+lastCollected: 2026-04-07T18:38:56.322Z
 estimatedTokens: 1271
-keywords: [Dependencies, Second-Generation, Managed, Packages, avoid, monolithic, package, development, practices, plan, develop, smaller, modular, group, similar]
+keywords: [Dependencies, Second-Generation, Managed, Packages, avoid, monolithic, package, development, practices, plan, develop, smaller, modular, group, similar, functionality, define, dependency, metadata, contained, depends, another, defining, allow, extend, base, located, separate, How, Specify, 2GP, Specifying, Multiple]
 ---
-
-# Create Dependencies Between Second-Generation Managed Packages
 
 > To avoid monolithic package development practices, plan to develop smaller, modular
       packages that group similar functionality and components. You can then define the dependencies

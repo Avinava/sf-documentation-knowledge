@@ -5,12 +5,10 @@ topic: next-best-action-flow-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:33.726Z
+lastCollected: 2026-04-07T18:37:20.910Z
 estimatedTokens: 244
 keywords: [Best, Action, Flow, recommended]
 ---
-
-# Next Best Action Flow Action
 
 > A recommended flow.
 

@@ -5,12 +5,10 @@ topic: providernetworkcontract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.153Z
+lastCollected: 2026-04-07T18:37:47.777Z
 estimatedTokens: 986
-keywords: [ProviderNetworkContract, provider, network, bound, together, contract, API, version, 53.0, later, Management, permission, license, Calls, Usage]
+keywords: [ProviderNetworkContract, provider, network, bound, together, contract, API, 53.0, Management, permission, license]
 ---
-
-# ProviderNetworkContract
 
 > Represents a provider and a network bound together by a contract. This
       object is available in API version 53.0 and later with the Provider Network Management

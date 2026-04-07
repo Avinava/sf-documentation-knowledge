@@ -5,12 +5,10 @@ topic: sellerhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.377Z
+lastCollected: 2026-04-07T18:40:01.138Z
 estimatedTokens: 252
-keywords: [SellerHistory, History, tracked, Seller]
+keywords: [SellerHistory, tracked, Seller]
 ---
-
-# SellerHistory
 
 > History for tracked fields of Seller.
 

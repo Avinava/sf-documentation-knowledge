@@ -5,12 +5,10 @@ topic: edit-org-readinessjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.807Z
+lastCollected: 2026-04-07T18:37:02.368Z
 estimatedTokens: 172
 keywords: [Edit, org-readiness.json, file, configures, validations, run, user, org, ensure, app, successfully]
 ---
-
-# Edit org-readiness.json
 
 > The org-readiness.json file configures the
   validations to run on a user org to ensure it can create an app successfully.

@@ -5,12 +5,10 @@ topic: siteeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:49.712Z
+lastCollected: 2026-04-07T18:38:41.420Z
 estimatedTokens: 1635
-keywords: [SiteEventLog, stores, Site.com, requests, originate, browser, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [SiteEventLog, stores, Site.com, requests, originate, browser, API, 62.0]
 ---
-
-# SiteEventLog
 
 > SiteEventLog stores details of Site.com requests. Requests can originate from
          the browser (UI). This object is available in API version 62.0 and later.

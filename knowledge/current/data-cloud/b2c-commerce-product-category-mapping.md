@@ -5,12 +5,10 @@ topic: b2c-commerce-product-category-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.309Z
+lastCollected: 2026-04-07T18:35:52.110Z
 estimatedTokens: 265
-keywords: [B2C, Commerce, Product, Category, Mapping, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source]
+keywords: [B2C, Commerce, Product, Category, Mapping, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, model, DMO, Cloud, categories, products, DLO]
 ---
-
-# B2C Commerce: Product Category Mapping
 
 > After a data stream is deployed, the Salesforce B2C Commerce Order
          starter data bundle automatically maps source objects from B2C Commerce to data model

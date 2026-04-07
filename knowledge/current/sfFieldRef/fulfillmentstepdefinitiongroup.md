@@ -5,12 +5,10 @@ topic: fulfillmentstepdefinitiongroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.084Z
+lastCollected: 2026-04-07T18:39:41.736Z
 estimatedTokens: 298
-keywords: [FulfillmentStepDefinitionGroup, fulfillment, step, definitions, API, version, 61.0, later]
+keywords: [FulfillmentStepDefinitionGroup, fulfillment, step, definitions, API, 61.0]
 ---
-
-# FulfillmentStepDefinitionGroup
 
 > Represents a set of fulfillment step definitions. This object is
       available in API version 61.0 and later.

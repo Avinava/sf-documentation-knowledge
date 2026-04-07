@@ -5,12 +5,10 @@ topic: webstorenetwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.676Z
+lastCollected: 2026-04-07T18:38:44.488Z
 estimatedTokens: 595
-keywords: [WebStoreNetwork, relationship, web, store, experience, site, API, version, 49.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [WebStoreNetwork, relationship, web, store, experience, site, API, 49.0]
 ---
-
-# WebStoreNetwork
 
 > Represents the relationship between a web store and an experience site.
       This object is available in API version 49.0 and later.

@@ -5,12 +5,10 @@ topic: clone-promotion-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.130Z
+lastCollected: 2026-04-07T18:38:07.343Z
 estimatedTokens: 311
-keywords: [Clone, Promotion, Input, representation, decides, cloned, attributes, new, that’s, created]
+keywords: [Clone, Promotion, decides, cloned, attributes, new, that’s, created]
 ---
-
-# Clone Promotion Input
 
 > Input representation that decides which existing promotion is cloned and the attributes of the new promotion that’s created.
 

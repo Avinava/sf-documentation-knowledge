@@ -5,12 +5,10 @@ topic: external-credential-parameter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.516Z
+lastCollected: 2026-04-07T18:37:08.349Z
 estimatedTokens: 294
-keywords: [External, Credential, Input]
+keywords: [External, Credential]
 ---
-
-# External Credential Parameter Input
 
 > External credential parameter input.
 

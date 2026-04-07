@@ -5,12 +5,10 @@ topic: oci-location-group-check-availability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.076Z
+lastCollected: 2026-04-07T18:37:08.855Z
 estimatedTokens: 142
-keywords: [OCI, Location, Group, Check, Availability, Input, needed, inventory]
+keywords: [OCI, Location, Group, Check, Availability, needed, inventory]
 ---
-
-# OCI Location Group Check Availability Input
 
 > Information needed to check inventory availability in a location group.
 

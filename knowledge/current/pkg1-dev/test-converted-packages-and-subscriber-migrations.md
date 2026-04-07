@@ -5,12 +5,10 @@ topic: test-converted-packages-and-subscriber-migrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.716Z
+lastCollected: 2026-04-07T18:38:54.076Z
 estimatedTokens: 270
-keywords: [Test, Converted, Packages, Subscriber, Migrations, move, 2GP, development, longer, any, new, major, minor, 1GP, versions]
+keywords: [Test, Converted, Packages, Subscriber, Migrations, move, 2GP, development, longer, any, new, major, minor, 1GP, versions, package, transition, it’s, critical, thoroughly, migration, subscribers]
 ---
-
-# Test Converted Packages and Subscriber Migrations
 
 > When you complete your move to 2GP development, you can no longer create any new major
   or minor 1GP versions of that package. Before you make this transition, it’s critical that you

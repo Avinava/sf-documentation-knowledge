@@ -5,12 +5,10 @@ topic: useraccesspolicyfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.338Z
+lastCollected: 2026-04-07T18:36:34.778Z
 estimatedTokens: 692
-keywords: [UserAccessPolicyFilter, user, criteria, filter, access, policy, API, version, 57.0, later, SOAP, Calls, REST, Special, Rules]
+keywords: [UserAccessPolicyFilter, user, criteria, filter, policy, API, 57.0, SOAP, REST]
 ---
-
-# UserAccessPolicyFilter
 
 > Represents a user criteria filter for a user access policy. This object
       is available in API version 57.0 and later.

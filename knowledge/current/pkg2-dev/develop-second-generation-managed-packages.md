@@ -5,12 +5,10 @@ topic: develop-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.029Z
+lastCollected: 2026-04-07T18:38:56.706Z
 estimatedTokens: 770
 keywords: [Develop, Second-Generation, Managed, Packages, Ready, started, package, new, versions]
 ---
-
-# Develop Second-Generation Managed Packages
 
 > Ready to get started? Create your first second-generation managed package, and then
   update and create new versions of your package.

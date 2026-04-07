@@ -5,12 +5,10 @@ topic: configure-components-for-custom-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.402Z
+lastCollected: 2026-04-07T18:38:03.420Z
 estimatedTokens: 220
-keywords: [Configure, Components, Custom, Tabs, Add, force, appHostable, Aura, component, allow, tab, Lightning, Experience, Salesforce, mobile]
+keywords: [Configure, Tabs, Add, force, appHostable, Aura, allow, tab, Lightning, Experience, Salesforce, mobile, app, web]
 ---
-
-# Configure Components for Custom Tabs
 
 > Add the force:appHostable
    interface to an Aura component to allow it to be used as a custom tab in Lightning Experience,

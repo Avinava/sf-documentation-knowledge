@@ -5,12 +5,10 @@ topic: conversion-factors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.077Z
+lastCollected: 2026-04-07T18:38:16.649Z
 estimatedTokens: 1479
-keywords: [Conversion, Factors, convert, unit, measure, another, compatible, Energy, Weight, Conversions, Volume, Constants, Area, Waste, Generation]
+keywords: [Conversion, Factors, convert, unit, measure, another, compatible, Energy, Weight, Conversions, Volume, Constants, Area, Waste, Generation, Calorific, Freight, Hauling, Emissions, Factor, Item, Supplied, Emission]
 ---
-
-# Conversion Factors
 
 > You can convert the values from one unit of measure to another compatible unit of
   measure based on the conversion factors.

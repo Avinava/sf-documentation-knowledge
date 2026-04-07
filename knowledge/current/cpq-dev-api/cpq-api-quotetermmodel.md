@@ -5,12 +5,10 @@ topic: cpq-api-quotetermmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.367Z
+lastCollected: 2026-04-07T18:37:27.370Z
 estimatedTokens: 401
 keywords: [CPQ, API, QuoteTermModel, QuoteTerm, model, quote, term, Salesforce]
 ---
-
-# CPQ API QuoteTermModel
 
 > The QuoteTerm model represents the quote term object in Salesforce CPQ.
 

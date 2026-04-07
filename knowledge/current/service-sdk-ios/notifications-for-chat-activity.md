@@ -5,12 +5,10 @@ topic: notifications-for-chat-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:33.003Z
+lastCollected: 2026-04-07T18:40:28.134Z
 estimatedTokens: 1032
 keywords: [Notifications, Chat, Activity, there's, user, viewing, session, present, iOS, notification, system]
 ---
-
-# Notifications for Chat Activity
 
 > If there's chat activity when the user is not viewing the
             chat session, you can present that information to them using the iOS notification

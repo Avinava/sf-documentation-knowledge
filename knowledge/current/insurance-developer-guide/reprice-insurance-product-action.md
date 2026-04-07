@@ -5,12 +5,10 @@ topic: reprice-insurance-product-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.230Z
+lastCollected: 2026-04-07T18:37:48.961Z
 estimatedTokens: 614
-keywords: [Reprice, Insurance, Product, Action, Recalculate, price, products, user, inputs, REST, HTTP, Outputs]
+keywords: [Inputs, Outputs, Reprice, Insurance, Product, Action, Recalculate, price, products, user, REST, HTTP]
 ---
-
-# Reprice Insurance Product Action
 
 > Recalculate the price of insurance products based on user
     inputs.

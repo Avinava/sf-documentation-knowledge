@@ -5,12 +5,10 @@ topic: prediction-definitions-model-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.606Z
+lastCollected: 2026-04-07T18:36:59.099Z
 estimatedTokens: 322
 keywords: [Prediction, Definitions, Model, Resource, deletes, Einstein, Discovery, definition]
 ---
-
-# Prediction Definitions Model Resource
 
 > Returns or deletes a model for an Einstein Discovery prediction definition.
 

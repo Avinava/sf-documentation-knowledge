@@ -5,12 +5,10 @@ topic: prodtdecompenrchvarmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.980Z
+lastCollected: 2026-04-07T18:35:49.945Z
 estimatedTokens: 475
-keywords: [ProdtDecompEnrchVarMap, mapping, context, tag, attribute, variable, expression, API, version, 64.0, later, Calls]
+keywords: [ProdtDecompEnrchVarMap, mapping, context, tag, attribute, variable, expression, API, 64.0]
 ---
-
-# ProdtDecompEnrchVarMap
 
 > Represents the mapping of a field context tag or an attribute to a variable
          within an expression set. This object is available in API version 64.0 and later.

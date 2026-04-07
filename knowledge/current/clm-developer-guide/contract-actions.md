@@ -5,12 +5,10 @@ topic: contract-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.877Z
+lastCollected: 2026-04-07T18:37:24.850Z
 estimatedTokens: 298
 keywords: [Contract, Actions, Execute, possible, status, trigger, work, flows, change]
 ---
-
-# Contract Actions
 
 > Execute possible actions for a contract based on the status. Actions
       can trigger work flows and change the status for a contract.

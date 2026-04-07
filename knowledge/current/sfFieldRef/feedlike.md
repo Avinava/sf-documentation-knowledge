@@ -5,12 +5,10 @@ topic: feedlike
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.722Z
+lastCollected: 2026-04-07T18:39:40.370Z
 estimatedTokens: 238
-keywords: [FeedLike, user, liked, feed, item, API, version, 21.0, later]
+keywords: [FeedLike, user, liked, item, API, 21.0]
 ---
-
-# FeedLike
 
 > Indicates that a user has liked a feed item. This object is
     available in API version 21.0 and later.

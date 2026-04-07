@@ -5,12 +5,10 @@ topic: territorycontenttmplasgnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.068Z
+lastCollected: 2026-04-07T18:38:01.968Z
 estimatedTokens: 489
-keywords: [TerritoryContentTmplAsgnt, Stores, link, territory, template, allowing, assignment, relevant, content, specific, territories, API, version, 65.0, later]
+keywords: [TerritoryContentTmplAsgnt, Stores, link, territory, template, allowing, assignment, relevant, content, specific, territories, API, 65.0]
 ---
-
-# TerritoryContentTmplAsgnt
 
 > Stores a link between a territory and a template allowing for the assignment
          of relevant content to specific territories. This object is available in API version

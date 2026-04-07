@@ -5,12 +5,10 @@ topic: condition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.908Z
+lastCollected: 2026-04-07T18:37:44.089Z
 estimatedTokens: 1274
-keywords: [Condition, FHIR, resource, maps, Health​Condition, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Condition, FHIR, resource, maps, Health​Condition, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Condition
 
 > The Condition FHIR resource maps to the Health​Condition object in Salesforce.
 

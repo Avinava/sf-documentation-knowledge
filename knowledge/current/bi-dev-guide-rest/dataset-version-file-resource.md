@@ -5,12 +5,10 @@ topic: dataset-version-file-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.672Z
+lastCollected: 2026-04-07T18:36:56.198Z
 estimatedTokens: 105
-keywords: [Dataset, Version, File, Resource, access, binary, content]
+keywords: [Dataset, File, Resource, binary, content]
 ---
-
-# Dataset Version File Resource
 
 > Provides access to the binary content of the dataset version
     file.

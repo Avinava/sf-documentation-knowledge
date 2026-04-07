@@ -5,12 +5,10 @@ topic: connectapirevenueasyncrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.753Z
+lastCollected: 2026-04-07T18:35:41.621Z
 estimatedTokens: 117
-keywords: [ConnectApi.RevenueAsyncRepresentation, Output, representation, result, API, identifier]
+keywords: [ConnectApi.RevenueAsyncRepresentation, result, API, identifier]
 ---
-
-# ConnectApi.RevenueAsyncRepresentation
 
 > Output representation of the result of the API request with the request
     identifier.

@@ -5,12 +5,10 @@ topic: loyaltyprogrambadge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.007Z
+lastCollected: 2026-04-07T18:39:47.456Z
 estimatedTokens: 393
-keywords: [LoyaltyProgramBadge, badge, that's, associated, loyalty, program]
+keywords: [LoyaltyProgramBadge, badge, that's, loyalty, program]
 ---
-
-# LoyaltyProgramBadge
 
 > Represents information about the badge that's associated with a
          loyalty program.

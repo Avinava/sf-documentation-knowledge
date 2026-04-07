@@ -5,12 +5,10 @@ topic: describemetadataresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.410Z
+lastCollected: 2026-04-07T18:36:24.827Z
 estimatedTokens: 567
-keywords: [DescribeMetadataResult, organization, useful, developers, working, declarative, metadata, DescribeMetadataObject]
+keywords: [DescribeMetadataResult, DescribeMetadataObject, organization, useful, developers, working, declarative, metadata]
 ---
-
-# DescribeMetadataResult
 
 > Contains information about the organization that is useful
 for developers working with declarative metadata.

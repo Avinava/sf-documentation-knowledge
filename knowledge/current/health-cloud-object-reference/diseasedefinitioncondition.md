@@ -5,12 +5,10 @@ topic: diseasedefinitioncondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.456Z
+lastCollected: 2026-04-07T18:37:43.621Z
 estimatedTokens: 772
-keywords: [DiseaseDefinitionCondition, condition, disease, definition, criteria, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [DiseaseDefinitionCondition, condition, disease, definition, criteria, API, 64.0]
 ---
-
-# DiseaseDefinitionCondition
 
 > Represents a condition for disease definition criteria. This object is
       available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: rules-of-conversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:34.456Z
+lastCollected: 2026-04-07T18:36:19.673Z
 estimatedTokens: 1174
-keywords: [Rules, Conversion, general, Apex, requires, explicitly, convert, data, another, variable, cannot, implicitly, converted, string.format, However]
+keywords: [Conversion, general, Apex, requires, explicitly, convert, another, variable, cannot, implicitly, converted, string.format, However, few, Additional, Considerations]
 ---
-
-# Rules of Conversion
 
 > In general, Apex requires you to explicitly convert one data type to another. For
         example, a variable of the Integer data type cannot be implicitly converted to a String. You

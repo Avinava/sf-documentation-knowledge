@@ -5,12 +5,10 @@ topic: triggers-and-order-of-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:33.569Z
+lastCollected: 2026-04-07T18:36:18.787Z
 estimatedTokens: 2134
 keywords: [Triggers, Order, Execution, save, record, insert, upsert, statement, Salesforce, performs, sequence, events, certain, Additional, Considerations]
 ---
-
-# Triggers and Order of Execution
 
 > When you save a record with an insert,
             update, or upsert statement, Salesforce performs a sequence of events in a certain

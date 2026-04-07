@@ -5,12 +5,10 @@ topic: override-an-existing-page-with-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.827Z
+lastCollected: 2026-04-07T18:38:52.140Z
 estimatedTokens: 609
-keywords: [Override, Visualforce, Replace, standard, record, detail, uses, custom, tabs, organize, sections]
+keywords: [Override, Visualforce, Replace, standard, record, detail, uses, tabs, organize, sections]
 ---
-
-# Override an Existing Page with a Visualforce Page
 
 > Replace an existing page, such as a standard record detail page, with a Visualforce
       page that uses custom tabs to organize the record information into sections.

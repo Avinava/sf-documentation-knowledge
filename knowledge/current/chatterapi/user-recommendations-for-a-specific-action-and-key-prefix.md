@@ -5,12 +5,10 @@ topic: user-recommendations-for-a-specific-action-and-key-prefix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.206Z
+lastCollected: 2026-04-07T18:37:16.264Z
 estimatedTokens: 987
-keywords: [User, Recommendations, Specific, Action, Key, Prefix, Chatter, custom, context]
+keywords: [User, Recommendations, Specific, Action, Key, Prefix, Chatter, context]
 ---
-
-# User Recommendations for a Specific Action and Key Prefix
 
 > Get the Chatter, custom, and static
       recommendations for the specified action and key prefix for the context user.

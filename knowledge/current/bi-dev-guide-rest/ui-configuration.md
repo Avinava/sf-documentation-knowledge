@@ -5,12 +5,10 @@ topic: ui-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.354Z
+lastCollected: 2026-04-07T18:36:57.910Z
 estimatedTokens: 94
-keywords: [Configuration, Analytics, data]
+keywords: [Configuration, Analytics]
 ---
-
-# UI Configuration
 
 > Get the Analytics UI configuration data.
 

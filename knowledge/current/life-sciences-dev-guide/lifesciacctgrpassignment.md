@@ -5,12 +5,10 @@ topic: lifesciacctgrpassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.723Z
+lastCollected: 2026-04-07T18:38:00.493Z
 estimatedTokens: 522
-keywords: [LifeSciAcctGrpAssignment, junction, account, actionable, API, version, 65.0, later, Calls]
+keywords: [LifeSciAcctGrpAssignment, junction, account, actionable, API, 65.0]
 ---
-
-# LifeSciAcctGrpAssignment
 
 > Represents a junction between an account and actionable list. This object is
          available in API version 65.0 and later.

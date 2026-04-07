@@ -5,12 +5,10 @@ topic: datacloud-orderid-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.300Z
+lastCollected: 2026-04-07T18:37:13.247Z
 estimatedTokens: 271
 keywords: [Datacloud, OrderId, order]
 ---
-
-# Datacloud OrderId Information
 
 > Get information for an order.
 

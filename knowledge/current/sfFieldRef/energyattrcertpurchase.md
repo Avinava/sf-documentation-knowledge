@@ -5,12 +5,10 @@ topic: energyattrcertpurchase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.659Z
+lastCollected: 2026-04-07T18:39:39.311Z
 estimatedTokens: 333
 keywords: [EnergyAttrCertPurchase, purchase, energy, attribute, certificates, clean, project, supplier, includes, terms, engagement, delivery, certificate]
 ---
-
-# EnergyAttrCertPurchase
 
 > Represents information about the purchase of energy attribute
          certificates from the clean energy project supplier. The information includes terms of

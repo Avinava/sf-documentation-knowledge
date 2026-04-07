@@ -5,12 +5,10 @@ topic: updatedata
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.130Z
+lastCollected: 2026-04-07T18:40:23.570Z
 estimatedTokens: 247
-keywords: [UpdateData, Function, Ordinal, data, extension, array, containing, column, filter, **Overview**, **Syntax**, Examples, row, numeric, Number, columns, build, Usage]
+keywords: [UpdateData, Examples, Function, Ordinal, extension, array, containing, column, filter, **Overview**, **Syntax**, row, numeric, Number, columns, build]
 ---
-
-# UpdateData
 
 > UpdateData(1, 2, 3, 4, 5)
 

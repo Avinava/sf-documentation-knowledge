@@ -5,12 +5,10 @@ topic: contentblockbykey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.699Z
+lastCollected: 2026-04-07T18:40:22.059Z
 estimatedTokens: 332
-keywords: [ContentBlockbyKey, Function, Ordinal, External, key, content, block, impression, region, start, boo, **Overview**, **Syntax**, Usage, ContentBlockByKey, Impression]
+keywords: [ContentBlockbyKey, Function, Ordinal, External, key, content, block, impression, region, start, boo, **Overview**, **Syntax**, ContentBlockByKey, Impression]
 ---
-
-# ContentBlockbyKey
 
 > ContentBlockbyKey(1, 2, 3, 4, 5)
 

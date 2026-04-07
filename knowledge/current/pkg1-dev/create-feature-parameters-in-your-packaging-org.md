@@ -5,12 +5,10 @@ topic: create-feature-parameters-in-your-packaging-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.489Z
+lastCollected: 2026-04-07T18:38:53.802Z
 estimatedTokens: 377
-keywords: [Feature, Packaging, Org, data, flow, direction]
+keywords: [Feature, Packaging, Org, flow, direction]
 ---
-
-# Create Feature Parameters in Your Packaging Org
 
 > Create a feature parameter in your packaging org, and set its type, default value,
         and data flow direction.

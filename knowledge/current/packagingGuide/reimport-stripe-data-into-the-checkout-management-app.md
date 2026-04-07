@@ -5,12 +5,10 @@ topic: reimport-stripe-data-into-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.476Z
+lastCollected: 2026-04-07T18:38:46.337Z
 estimatedTokens: 257
-keywords: [Reimport, Stripe, Data, Checkout, Management, App, CMA, automatically, pulls, new, org, usually, don’t, import, anything]
+keywords: [Reimport, Stripe, Checkout, Management, App, CMA, automatically, pulls, new, org, usually, don’t, import, anything, manually, However, missing, incorrect]
 ---
-
-# Reimport Stripe Data into the Checkout Management App
 
 > The Checkout Management App (CMA) automatically pulls new Stripe data into your org, so
         usually you don’t need to import anything manually. However, if data in the CMA is missing

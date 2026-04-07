@@ -5,12 +5,10 @@ topic: programmatic-navigation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.867Z
+lastCollected: 2026-04-07T18:38:15.358Z
 estimatedTokens: 683
 keywords: [Programmatic, Navigation, Actions, features, require, complicated, designs, control, user, scheme, define, JavaScript]
 ---
-
-# Programmatic Navigation Actions
 
 > Some features require more complicated navigation designs. For the most complete control
   of your user interface and navigation scheme, define navigation actions using

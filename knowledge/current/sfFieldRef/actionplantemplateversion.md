@@ -5,12 +5,10 @@ topic: actionplantemplateversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.713Z
+lastCollected: 2026-04-07T18:39:24.619Z
 estimatedTokens: 419
-keywords: [ActionPlanTemplateVersion, version, action, plan, template, API, 44.0, later]
+keywords: [ActionPlanTemplateVersion, action, plan, template, API, 44.0]
 ---
-
-# ActionPlanTemplateVersion
 
 > Represents the version of an action plan template. This object
 		is available in API version 44.0 and later.

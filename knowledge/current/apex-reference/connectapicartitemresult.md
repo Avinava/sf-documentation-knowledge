@@ -5,12 +5,10 @@ topic: connectapicartitemresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.295Z
+lastCollected: 2026-04-07T18:36:07.667Z
 estimatedTokens: 169
 keywords: [ConnectApi.CartItemResult, Result, requesting, cart, item]
 ---
-
-# ConnectApi.CartItemResult
 
 > Result after requesting a cart item.
 

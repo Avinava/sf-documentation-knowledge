@@ -5,12 +5,10 @@ topic: insurance-group-census-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.279Z
+lastCollected: 2026-04-07T18:37:52.442Z
 estimatedTokens: 461
-keywords: [Insurance, Group, Census, Output, representation, summary, data]
+keywords: [Insurance, Group, Census, summary]
 ---
-
-# Insurance Group Census Details
 
 > Output representation of group census summary data.
 

@@ -5,12 +5,10 @@ topic: android-preparation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.841Z
+lastCollected: 2026-04-07T18:40:26.162Z
 estimatedTokens: 220
 keywords: [Android, Preparation, try, Mobile, SDK, apps, Android—native, hybrid, React, Native—install, native, development, environment]
 ---
-
-# Android Preparation
 
 > Before you try to create Mobile SDK apps for
         Android—native, hybrid, or React Native—install the Android native development

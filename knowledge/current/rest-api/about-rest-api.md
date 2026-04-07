@@ -5,12 +5,10 @@ topic: about-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.973Z
+lastCollected: 2026-04-07T18:36:20.186Z
 estimatedTokens: 399
-keywords: [REST, API, several, web, interfaces, access, Salesforce, data, user, perform, operations, integrate, applications]
+keywords: [REST, API, several, web, interfaces, Salesforce, user, perform, operations, integrate, applications]
 ---
-
-# About REST API
 
 > REST API is one of several web interfaces that you can use to access your Salesforce
   data without using the Salesforce user interface. With API access, you can perform operations and

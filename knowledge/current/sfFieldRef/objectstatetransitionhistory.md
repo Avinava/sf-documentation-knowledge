@@ -5,12 +5,10 @@ topic: objectstatetransitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.337Z
+lastCollected: 2026-04-07T18:39:49.844Z
 estimatedTokens: 271
-keywords: [ObjectStateTransitionHistory, History, tracked, ObjectStateTransition]
+keywords: [ObjectStateTransitionHistory, tracked, ObjectStateTransition]
 ---
-
-# ObjectStateTransitionHistory
 
 > History for tracked fields of ObjectStateTransition.
 

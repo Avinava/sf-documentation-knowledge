@@ -5,12 +5,10 @@ topic: eligible-enrollment-period-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.006Z
+lastCollected: 2026-04-07T18:38:07.221Z
 estimatedTokens: 154
-keywords: [Eligible, Enrollment, Period, Input, representation, eligibility, promotion]
+keywords: [Eligible, Enrollment, Period, eligibility, promotion]
 ---
-
-# Eligible Enrollment Period Input
 
 > Input representation of the enrollment eligibility details for the promotion.
 

@@ -5,12 +5,10 @@ topic: component-handling-its-own-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.001Z
+lastCollected: 2026-04-07T18:38:04.102Z
 estimatedTokens: 176
-keywords: [Component, Handling, Own, Event, handle, <aura, handler>, tag, markup]
+keywords: [Handling, Own, Event, handle, <aura, handler>, tag, markup]
 ---
-
-# Component Handling Its Own Event
 
 > A component can handle its own event by using the <aura:handler> tag in its markup.
 

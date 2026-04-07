@@ -5,12 +5,10 @@ topic: insurance-sales-transaction-item-tax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.443Z
+lastCollected: 2026-04-07T18:37:52.629Z
 estimatedTokens: 94
-keywords: [Insurance, Sales, Transaction, Item, Tax, Output, representation]
+keywords: [Insurance, Sales, Transaction, Item, Tax]
 ---
-
-# Insurance Sales Transaction Item Tax
 
 > Output representation for the details of the Insurance Sales Transaction Item
     Tax.

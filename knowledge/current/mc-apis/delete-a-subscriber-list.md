@@ -5,12 +5,10 @@ topic: delete-a-subscriber-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.494Z
+lastCollected: 2026-04-07T18:40:16.637Z
 estimatedTokens: 1533
-keywords: [Subscriber, longer, want, action, subscribers, remove, itself, further, conducted, Sample, NET, Code, PHP, SOAP, Envelope]
+keywords: [Subscriber, longer, want, action, subscribers, remove, itself, further, conducted, Sample, NET, Code, PHP, SOAP, Envelope, Items]
 ---
-
-# Delete a Subscriber List
 
 > If you no longer want to use a subscriber list, you can delete it. This action does not delete the subscribers on that list, but it does remove the list itself so that no further sends can be conducted with that list.
 

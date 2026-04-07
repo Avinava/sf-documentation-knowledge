@@ -5,12 +5,10 @@ topic: create-a-list-based-email-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.169Z
+lastCollected: 2026-04-07T18:40:16.307Z
 estimatedTokens: 2842
 keywords: [List-Based, Email, Send, Definition, creating, subscribers, Why, How, Sample, NET, Code, Retrieve, Classification, PHP, Perform]
 ---
-
-# Create a List-Based Email Send Definition
 
 > This page contains information on creating an email send definition. You can use the email send definition to send an email to a list of subscribers.
 

@@ -5,12 +5,10 @@ topic: configure-deep-linking-for-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.889Z
+lastCollected: 2026-04-07T18:36:46.744Z
 estimatedTokens: 504
-keywords: [Configure, Deep, Linking, Service, Mobile, App, technicians, rely, their, devices, perform, complex, tasks, require, navigate]
+keywords: [Configure, Deep, Linking, Service, Mobile, App, technicians, rely, their, devices, perform, complex, tasks, require, navigate, multiple, tabs, flows, actions, send, users, directly, right, spot]
 ---
-
-# Configure Deep Linking for the Field Service Mobile App
 
 > Your field technicians rely on their mobile devices to perform complex tasks, and some of
   those tasks require them to navigate between multiple tabs, flows, or actions. With deep linking,

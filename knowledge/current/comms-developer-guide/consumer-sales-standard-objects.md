@@ -5,12 +5,10 @@ topic: consumer-sales-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.422Z
+lastCollected: 2026-04-07T18:37:26.334Z
 estimatedTokens: 183
-keywords: [Consumer, Sales, Standard, Objects, data, model, manage, cart, item, attribute, relationships, items]
+keywords: [Consumer, Sales, Standard, model, manage, cart, item, attribute, relationships, items]
 ---
-
-# Consumer Sales Standard Objects
 
 > The Consumer Sales data model provides objects and fields to manage cart item attribute
     and relationships between the cart items.

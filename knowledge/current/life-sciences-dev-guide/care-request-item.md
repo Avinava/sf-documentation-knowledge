@@ -5,12 +5,10 @@ topic: care-request-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.323Z
+lastCollected: 2026-04-07T18:37:55.835Z
 estimatedTokens: 2426
-keywords: [Care, Item, service, including, modifiers, effective, date, requests, associated]
+keywords: [Care, Item, service, including, modifiers, effective, date, requests]
 ---
-
-# Care Request Item
 
 > The details of a care service request, including name, modifiers,
       and the effective date. One or more care service requests can be associated with a care

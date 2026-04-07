@@ -5,12 +5,10 @@ topic: recordalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:08.374Z
+lastCollected: 2026-04-07T18:37:57.901Z
 estimatedTokens: 1414
-keywords: [RecordAlert, alert, message, specific, record, tracks, status, active, period, API, version, 65.0, later, Calls]
+keywords: [RecordAlert, alert, message, specific, record, tracks, status, active, period, API, 65.0]
 ---
-
-# RecordAlert
 
 > Represents an alert message about a specific record and tracks the
          status and active period of the alert. This object is available in API version 65.0 and

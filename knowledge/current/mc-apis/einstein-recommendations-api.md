@@ -5,12 +5,10 @@ topic: einstein-recommendations-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.880Z
+lastCollected: 2026-04-07T18:40:18.066Z
 estimatedTokens: 339
-keywords: [Einstein, Recommendations, API, engine, empowers, marketers, deliver, millions, messages, across, key, digital, channels, personalized, individual’s]
+keywords: [Einstein, Recommendations, API, engine, empowers, marketers, deliver, millions, messages, across, key, digital, channels, personalized, individual’s, needs, interests, preferences, Development, Environment, Items]
 ---
-
-# Einstein Recommendations API
 
 > The Einstein Recommendations engine empowers marketers to deliver millions of messages across key digital channels that are personalized for each individual’s needs, interests, and preferences.
 

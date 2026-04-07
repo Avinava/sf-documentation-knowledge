@@ -5,12 +5,10 @@ topic: lightningloggereventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:43.161Z
+lastCollected: 2026-04-07T18:38:34.366Z
 estimatedTokens: 1443
-keywords: [LightningLoggerEventLog, Lightning, Logger, Event, Log, observed, component, logs, API, version, 61.0, later, Calls, Special, Access]
+keywords: [LightningLoggerEventLog, Lightning, Logger, Event, Log, observed, logs, API, 61.0]
 ---
-
-# LightningLoggerEventLog
 
 > Lightning Logger Event Log provides information from observed Lightning
          component logs. This object is available in API version 61.0 and later.

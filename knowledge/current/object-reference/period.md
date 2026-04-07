@@ -5,12 +5,10 @@ topic: period
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.599Z
+lastCollected: 2026-04-07T18:38:37.934Z
 estimatedTokens: 590
-keywords: [Period, fiscal, defined, FiscalYearSettings, Calls, Special, Access, Rules, Usage]
+keywords: [Period, fiscal, defined, FiscalYearSettings]
 ---
-
-# Period
 
 > Represents a fiscal period defined in FiscalYearSettings.
 

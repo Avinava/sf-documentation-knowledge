@@ -5,12 +5,10 @@ topic: salesforce-security-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.525Z
+lastCollected: 2026-04-07T18:39:22.419Z
 estimatedTokens: 605
-keywords: [Salesforce, Security, Basics, features, help, empower, users, their, jobs, safely, efficiently, limits, exposure, data, act]
+keywords: [Salesforce, Security, Basics, features, help, empower, users, their, jobs, safely, efficiently, limits, exposure, act, Implement, think, appropriate, sensitivity, We'll, work, together, protect, unauthorized, outside, company, inappropriate]
 ---
-
-# Salesforce Security Basics
 
 > The Salesforce security features help you empower your users to do their jobs safely
         and efficiently. Salesforce limits exposure of data to the users that act on it. Implement

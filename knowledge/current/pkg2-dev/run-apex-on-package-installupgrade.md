@@ -5,12 +5,10 @@ topic: run-apex-on-package-installupgrade
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.140Z
+lastCollected: 2026-04-07T18:38:54.562Z
 estimatedTokens: 712
-keywords: [Run, Apex, Package, Install, Upgrade, App, developers, specify, script, automatically, subscriber, installs, upgrades, managed, possible]
+keywords: [Run, Apex, Package, Install, Upgrade, App, developers, specify, script, automatically, subscriber, installs, upgrades, managed, possible, customize, subscriber’s, organization, instance, populate, settings, sample, send, email, installer, notify, external, system, kick, off, batch, operation, new, across, large, simplicity, post, member]
 ---
-
-# Run Apex on Package Install/Upgrade
 
 > App developers can specify an Apex script to run automatically
   after a subscriber installs or upgrades a managed package. This script makes it possible to customize the package

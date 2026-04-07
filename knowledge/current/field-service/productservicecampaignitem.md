@@ -5,12 +5,10 @@ topic: productservicecampaignitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.929Z
+lastCollected: 2026-04-07T18:36:47.896Z
 estimatedTokens: 797
-keywords: [ProductServiceCampaignItem, product, service, campaign's, asset, API, version, 51.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ProductServiceCampaignItem, product, service, campaign's, asset, API, 51.0]
 ---
-
-# ProductServiceCampaignItem
 
 > Represents a product service campaign's asset. This object is available in
     API version 51.0 and later.

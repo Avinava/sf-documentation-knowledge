@@ -5,12 +5,10 @@ topic: loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.674Z
+lastCollected: 2026-04-07T18:38:09.008Z
 estimatedTokens: 1408
-keywords: [Loyalty, Management, Mobile, SDK, Elevate, customer, experience, providing, iOS, Android, devices, engage, members, business, customers]
+keywords: [Loyalty, Management, Mobile, SDK, Elevate, customer, experience, providing, iOS, Android, devices, engage, members, business, customers, brand, channels, enhance, engagement, standalone, lightweight, flexibility, immersive, user, ready, sample, app, embedded, features]
 ---
-
-# Loyalty Management Mobile SDK
 
 > Elevate your customer experience by providing Loyalty Management on iOS and Android
     mobile devices. Use Loyalty Management Mobile SDK to engage members or business customers with

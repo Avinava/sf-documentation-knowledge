@@ -5,12 +5,10 @@ topic: recipe-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.431Z
+lastCollected: 2026-04-07T18:36:53.794Z
 estimatedTokens: 435
 keywords: [recipe, Commands, Manage, Analytics, recipes, Examples, Command, start]
 ---
-
-# recipe Commands
 
 > Manage Analytics recipes.
 

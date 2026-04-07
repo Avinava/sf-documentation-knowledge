@@ -5,12 +5,10 @@ topic: partyscreeningstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.667Z
+lastCollected: 2026-04-07T18:37:38.531Z
 estimatedTokens: 1293
-keywords: [PartyScreeningStep, screening, process, conducted, party, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [PartyScreeningStep, screening, process, conducted, party, API, 56.0]
 ---
-
-# PartyScreeningStep
 
 > Represents information about the screening process conducted for a
          party. This object is available in API version 56.0 and later.

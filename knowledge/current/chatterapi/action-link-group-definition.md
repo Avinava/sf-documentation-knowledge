@@ -5,12 +5,10 @@ topic: action-link-group-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.451Z
+lastCollected: 2026-04-07T18:37:11.216Z
 estimatedTokens: 297
-keywords: [Action, Link, Group, Definition, Deleting, removes, references, feed, elements, client, app, created, user, either, View, links, belong, mutually, exclusive, share]
+keywords: [Action, Link, Group, Definition, Deleting, removes, references, client, app, created, user, either, View, permission, links, belong, mutually, exclusive, share, Define, standalone, actions, their, own]
 ---
-
-# Action Link Group Definition
 
 > The definition of an action link group. All action links must belong to a group. Action
   links in a group are mutually exclusive and share some properties. Define standalone actions in

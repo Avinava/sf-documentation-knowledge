@@ -5,12 +5,10 @@ topic: get-transcript-from-conversation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.631Z
+lastCollected: 2026-04-07T18:37:39.578Z
 estimatedTokens: 283
-keywords: [Transcript, Conversation, Action, record, voice, call, messaging, session, chat, Special, Access, Rules, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Transcript, Conversation, Action, record, voice, call, messaging, session, chat, REST, HTTP]
 ---
-
-# Get Transcript from Conversation Action
 
 > Gets the transcript for a specified conversation record such as
             voice call, messaging session, or chat transcript.

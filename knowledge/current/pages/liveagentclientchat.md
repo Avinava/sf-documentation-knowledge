@@ -5,12 +5,10 @@ topic: liveagentclientchat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.801Z
+lastCollected: 2026-04-07T18:38:50.013Z
 estimatedTokens: 175
-keywords: [liveAgent, clientChat, main, parent, element, any, chat, window, order, additional, customization, Attributes]
+keywords: [Attributes, liveAgent, clientChat, main, parent, any, chat, window, order, additional, customization]
 ---
-
-# liveAgent:clientChat
 
 > The main parent element for any chat window. You must create this element in order to do
 			any additional customization of Chat.

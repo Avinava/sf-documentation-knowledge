@@ -5,12 +5,10 @@ topic: add-more-customizations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.766Z
+lastCollected: 2026-04-07T18:37:33.035Z
 estimatedTokens: 482
-keywords: [Add, Customizations, several, advanced, creating, custom, record, components, Apex, SOQL, search]
+keywords: [Add, Customizations, several, advanced, creating, record, Apex, SOQL, search]
 ---
-
-# Add More Customizations
 
 > This section describes several advanced customizations, such as creating custom record
     components and using Apex and SOQL for search.

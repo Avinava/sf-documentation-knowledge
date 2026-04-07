@@ -5,12 +5,10 @@ topic: condintrctnhlthrskadjfctrshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.339Z
+lastCollected: 2026-04-07T18:39:34.796Z
 estimatedTokens: 255
 keywords: [CondIntrctnHlthRskAdjFctrShare, Sharing, CondIntrctnHlthRskAdjFctr]
 ---
-
-# CondIntrctnHlthRskAdjFctrShare
 
 > Sharing for CondIntrctnHlthRskAdjFctr.
 

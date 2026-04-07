@@ -5,12 +5,10 @@ topic: obtain-a-platform-events-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.172Z
+lastCollected: 2026-04-07T18:38:57.982Z
 estimatedTokens: 348
 keywords: [Obtain, Platform, Event’s, Subscribers, View, triggers, processes, subscribed, event, Salesforce, user, API]
 ---
-
-# Obtain a Platform Event’s Subscribers
 
 > View a list of all triggers or processes that are subscribed to a
       platform event by using the Salesforce user interface or the API.

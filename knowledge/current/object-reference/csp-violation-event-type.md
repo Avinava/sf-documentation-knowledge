@@ -5,12 +5,10 @@ topic: csp-violation-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.157Z
+lastCollected: 2026-04-07T18:38:30.956Z
 estimatedTokens: 1649
-keywords: [CSP, Violation, Event, events, capture, blocked, resource, requests, Lightning, Experience, pages, content, security, policy, EventLogFile]
+keywords: [CSP, Violation, Event, events, capture, blocked, resource, requests, Lightning, Experience, pages, content, security, policy, EventLogFile, API, 63.0]
 ---
-
-# CSP Violation Event Type
 
 > CSP violation events capture details about blocked resource requests
 			from Lightning Experience pages based on your content security policy (CSP). The

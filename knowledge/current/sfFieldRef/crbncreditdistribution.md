@@ -5,12 +5,10 @@ topic: crbncreditdistribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.720Z
+lastCollected: 2026-04-07T18:39:36.247Z
 estimatedTokens: 416
-keywords: [CrbnCreditDistribution, junction, sustainability, credit, carbon, allocation, objects, offset, emissions, items, specify, activity]
+keywords: [CrbnCreditDistribution, junction, sustainability, credit, carbon, allocation, offset, emissions, items, specify, activity]
 ---
-
-# CrbnCreditDistribution
 
 > Represents a junction between the sustainability credit and carbon credit
          allocation objects. To offset emissions for carbon credit allocation items, specify the

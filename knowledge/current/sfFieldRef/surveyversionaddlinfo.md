@@ -5,12 +5,10 @@ topic: surveyversionaddlinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.633Z
+lastCollected: 2026-04-07T18:40:03.324Z
 estimatedTokens: 326
-keywords: [SurveyVersionAddlInfo, additional, survey, version, settings]
+keywords: [SurveyVersionAddlInfo, additional, survey, settings]
 ---
-
-# SurveyVersionAddlInfo
 
 > Represents additional information about a survey version. This information
       defines the default settings of a survey version.

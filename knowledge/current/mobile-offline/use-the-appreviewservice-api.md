@@ -5,12 +5,10 @@ topic: use-the-appreviewservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.014Z
+lastCollected: 2026-04-07T18:38:15.528Z
 estimatedTokens: 606
-keywords: [AppReviewService, API, develop, Lightning, web, component, app, review, features, Import, Test, Availability]
+keywords: [AppReviewService, API, develop, Lightning, web, app, review, features, Import, Test, Availability]
 ---
-
-# Use the AppReviewService API
 
 > To develop a Lightning web component with app review features, use the
         AppReviewService API.

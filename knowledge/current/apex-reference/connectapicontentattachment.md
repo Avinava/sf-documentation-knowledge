@@ -5,12 +5,10 @@ topic: connectapicontentattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.951Z
+lastCollected: 2026-04-07T18:36:08.313Z
 estimatedTokens: 902
-keywords: [ConnectApi.ContentAttachment, Attachments, feed, items, ContentPost]
+keywords: [ConnectApi.ContentAttachment, Attachments, items, ContentPost]
 ---
-
-# ConnectApi.ContentAttachment
 
 > Attachments in feed items with the type ContentPost.
 

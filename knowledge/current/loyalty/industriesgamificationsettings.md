@@ -5,12 +5,10 @@ topic: industriesgamificationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.309Z
+lastCollected: 2026-04-07T18:38:08.570Z
 estimatedTokens: 400
-keywords: [IndustriesGamificationSettings, settings, enable, games, Loyalty, Management, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [IndustriesGamificationSettings, settings, enable, games, Loyalty, Management, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# IndustriesGamificationSettings
 
 > Represents the settings to enable games in
       Loyalty Management.

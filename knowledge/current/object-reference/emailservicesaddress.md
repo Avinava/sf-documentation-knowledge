@@ -5,12 +5,10 @@ topic: emailservicesaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.355Z
+lastCollected: 2026-04-07T18:38:30.184Z
 estimatedTokens: 1012
-keywords: [EmailServicesAddress, email, service, address, Calls, Special, Access, Rules, Usage]
+keywords: [EmailServicesAddress, email, service, address]
 ---
-
-# EmailServicesAddress
 
 > An email service address.
 

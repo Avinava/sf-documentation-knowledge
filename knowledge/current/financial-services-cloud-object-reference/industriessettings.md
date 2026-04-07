@@ -5,12 +5,10 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:48.203Z
+lastCollected: 2026-04-07T18:37:35.895Z
 estimatedTokens: 4119
-keywords: [IndustriesSettings, settings, Financial, Services, Cloud.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
+keywords: [IndustriesSettings, settings, Financial, Services, Cloud.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Cloud, Declarative, Sample, Definition]
 ---
-
-# IndustriesSettings
 
 > Represents settings for Financial Services Cloud.This type extends the Metadata metadata type and inherits its
                         fullName field.

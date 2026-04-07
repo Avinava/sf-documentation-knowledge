@@ -5,12 +5,10 @@ topic: externaldocstorageconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.459Z
+lastCollected: 2026-04-07T18:38:20.137Z
 estimatedTokens: 235
-keywords: [ExternalDocStorageConfig, configuration, admin, setup, specify, drive, path, named, credential, storing, documents, external, drives, SOAP, API]
+keywords: [ExternalDocStorageConfig, configuration, admin, setup, specify, drive, path, named, credential, storing, documents, external, drives, SOAP, API, REST]
 ---
-
-# ExternalDocStorageConfig
 
 > Represents configuration, which admin makes in setup to specify the drive,
          path, and named credential to be used for storing documents on external

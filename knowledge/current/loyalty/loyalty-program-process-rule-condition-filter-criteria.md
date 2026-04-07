@@ -5,12 +5,10 @@ topic: loyalty-program-process-rule-condition-filter-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.772Z
+lastCollected: 2026-04-07T18:38:08.014Z
 estimatedTokens: 270
-keywords: [Loyalty, Program, Process, Rule, Condition, Filter, Criteria, Output, representation]
+keywords: [Loyalty, Program, Process, Rule, Condition, Filter, Criteria]
 ---
-
-# Loyalty Program Process Rule Condition Filter Criteria
 
 > Output representation of the loyalty program process rule condition
          filter criteria.

@@ -5,12 +5,10 @@ topic: php-code-samples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.962Z
+lastCollected: 2026-04-07T18:40:18.148Z
 estimatedTokens: 1351
 keywords: [PHP, Code, Samples, written, help, developers, work, Marketing, Cloud, SOAP, API, Why]
 ---
-
-# PHP Code Samples
 
 > This page contains code samples written to help PHP developers work with the Marketing Cloud SOAP API.
 

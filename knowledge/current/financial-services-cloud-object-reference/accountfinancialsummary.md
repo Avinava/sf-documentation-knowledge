@@ -5,12 +5,10 @@ topic: accountfinancialsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.389Z
+lastCollected: 2026-04-07T18:37:36.122Z
 estimatedTokens: 2160
-keywords: [AccountFinancialSummary, summary, financial, associated, account, API, version, 62.0, later, Calls, Special, Access, Rules, Objects]
+keywords: [AccountFinancialSummary, summary, financial, account, API, 62.0]
 ---
-
-# AccountFinancialSummary
 
 > Represents the summary of financial details associated with an account.
       This object is available in API version 62.0 and later.

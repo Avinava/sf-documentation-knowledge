@@ -5,13 +5,11 @@ topic: placesalestransactionexecutor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.600Z
+lastCollected: 2026-04-07T18:35:40.411Z
 estimatedTokens: 4040
 namespace: RevSalesTrxn
-keywords: [PlaceSalesTransactionExecutor, place, sales, transaction, graph, pricing, preferences, configuration, options, execute, graphRequest, pricingPreferenceEnum, configurationExecutionEnum, configuratorOptions, contextId]
+keywords: [PlaceSalesTransactionExecutor, place, sales, transaction, graph, pricing, preferences, configuration, options, execute, graphRequest, pricingPreferenceEnum, configurationExecutionEnum, configuratorOptions, contextId, catalogRatesPreferenceEnum, taxPreferenceEnum, persistPreferenceEnum, Implementation]
 ---
-
-# PlaceSalesTransactionExecutor Class
 
 > Contains methods to place a sales transaction with details of the graph request,
     pricing preferences, and configuration options.

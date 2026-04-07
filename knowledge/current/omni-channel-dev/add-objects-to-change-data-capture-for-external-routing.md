@@ -5,12 +5,10 @@ topic: add-objects-to-change-data-capture-for-external-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.311Z
+lastCollected: 2026-04-07T18:38:45.146Z
 estimatedTokens: 862
-keywords: [Add, Objects, Change, Data, Capture, External, Routing, enable, Omni-Channel, configure, CDC, publish, event, notifications, core]
+keywords: [Add, Change, Capture, External, Routing, enable, Omni-Channel, configure, CDC, publish, event, notifications, core, Service, Cloud]
 ---
-
-# Add Objects to Change Data Capture for External Routing
 
 > To enable external routing with Omni-Channel, configure Change Data Capture (CDC) to
   publish event notifications for core Service Cloud objects.

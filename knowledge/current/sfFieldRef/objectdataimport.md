@@ -5,12 +5,10 @@ topic: objectdataimport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.256Z
+lastCollected: 2026-04-07T18:39:49.747Z
 estimatedTokens: 372
-keywords: [ObjectDataImport, data, import, status, records, API, version, 57.0, later]
+keywords: [ObjectDataImport, import, status, records, API, 57.0]
 ---
-
-# ObjectDataImport
 
 > Represents the data import status of one or more object records. This
       object is available in API version 57.0 and later.

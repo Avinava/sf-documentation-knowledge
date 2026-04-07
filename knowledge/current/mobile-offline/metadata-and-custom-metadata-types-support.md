@@ -5,12 +5,10 @@ topic: metadata-and-custom-metadata-types-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.482Z
+lastCollected: 2026-04-07T18:38:14.958Z
 estimatedTokens: 264
-keywords: [Metadata, Custom, Support, LWC, Offline, uses, UI-API, access, standard]
+keywords: [Metadata, Support, LWC, Offline, uses, UI-API, standard]
 ---
-
-# Metadata and Custom Metadata Types Support
 
 > LWC Offline uses the UI-API to access standard metadata.
 

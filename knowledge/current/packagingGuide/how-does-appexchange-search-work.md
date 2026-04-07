@@ -5,12 +5,10 @@ topic: how-does-appexchange-search-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.308Z
+lastCollected: 2026-04-07T18:38:46.168Z
 estimatedTokens: 1340
-keywords: [How, AppExchange, Search, Work, popular, ways, Salesforce, customers, solutions, keyword, relevance, semantic, meaning, trust, score]
+keywords: [How, AppExchange, Search, Work, popular, ways, Salesforce, customers, solutions, keyword, relevance, semantic, meaning, trust, score, influence, results, apply, tips, help, discover, listing, they, solution, business, problem, Influences, Easy]
 ---
-
-# How Does AppExchange Search Work?
 
 > Search is one of the most popular ways that Salesforce customers find
    solutions on AppExchange. Learn how keyword relevance,

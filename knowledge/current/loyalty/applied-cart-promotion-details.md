@@ -5,12 +5,10 @@ topic: applied-cart-promotion-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.530Z
+lastCollected: 2026-04-07T18:38:07.767Z
 estimatedTokens: 455
 keywords: [Applied, Cart, Promotion, cart-level, promotions]
 ---
-
-# Applied Cart Promotion Details
 
 > The details of the cart-level promotions applied to the cart.
 

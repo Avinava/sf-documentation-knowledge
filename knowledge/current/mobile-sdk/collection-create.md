@@ -5,12 +5,10 @@ topic: collection-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.032Z
+lastCollected: 2026-04-07T18:40:27.261Z
 estimatedTokens: 272
-keywords: [Collection, Creates, records, iOS, Android, React, Native]
+keywords: [Android, Collection, Creates, records, iOS, React, Native]
 ---
-
-# Collection Create
 
 > Creates a collection of records of the specified object type.
 

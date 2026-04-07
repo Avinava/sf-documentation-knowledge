@@ -5,12 +5,10 @@ topic: updating-recurring-calendar-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.809Z
+lastCollected: 2026-04-07T18:37:05.522Z
 estimatedTokens: 300
-keywords: [Updating, Recurring, Calendar, Events, critical, change, made, event, changing, recurrence, pattern, start, date, series, deleted]
+keywords: [Updating, Recurring, Calendar, Events, critical, change, made, event, changing, recurrence, pattern, start, date, series, deleted, recreated]
 ---
-
-# Updating Recurring Calendar Events
 
 > If a critical change is made to a recurring calendar event, such as changing the
     recurrence pattern or the recurrence start date, the series is deleted and

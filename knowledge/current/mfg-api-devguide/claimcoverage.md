@@ -5,12 +5,10 @@ topic: claimcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.339Z
+lastCollected: 2026-04-07T18:38:13.623Z
 estimatedTokens: 1105
-keywords: [ClaimCoverage, causal, part, defective, asset, requires, repair, replacement, Manufacturing, Cloud, API, version, 58.0, later, Calls]
+keywords: [ClaimCoverage, causal, part, defective, asset, requires, repair, replacement, Manufacturing, Cloud, API, 58.0]
 ---
-
-# ClaimCoverage
 
 > Represents a causal part in a defective asset that requires repair or
          replacement. This object is available in Manufacturing Cloud in API version 58.0 and

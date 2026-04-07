@@ -5,12 +5,10 @@ topic: metricdatalink
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.473Z
+lastCollected: 2026-04-07T18:38:35.720Z
 estimatedTokens: 528
-keywords: [MetricDataLink, link, metric, data, source, report, Calls, Associated, Objects]
+keywords: [MetricDataLink, link, metric, source, report]
 ---
-
-# MetricDataLink
 
 > The link between the metric and the data source, such as a
 			report.

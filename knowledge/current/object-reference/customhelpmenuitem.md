@@ -5,12 +5,10 @@ topic: customhelpmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:38.405Z
+lastCollected: 2026-04-07T18:38:29.302Z
 estimatedTokens: 360
-keywords: [CustomHelpMenuItem, items, Lightning, Experience, help, menu, admin, added, display, custom, org-specific, resources, API, version, 44.0]
+keywords: [CustomHelpMenuItem, items, Lightning, Experience, help, menu, admin, added, display, org-specific, resources, API, 44.0, Packaging, Considerations]
 ---
-
-# CustomHelpMenuItem
 
 > Represents the items within a section of the Lightning Experience
          help menu that the admin added to display custom, org-specific help resources. This

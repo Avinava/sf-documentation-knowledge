@@ -5,12 +5,10 @@ topic: onsendctimessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.378Z
+lastCollected: 2026-04-07T18:36:50.621Z
 estimatedTokens: 259
-keywords: [onSendCTIMessage, Registers, function, fired, message, sent, sendCTIMessage, send, interaction, log, custom, console, component, API, version]
+keywords: [Arguments, onSendCTIMessage, Registers, function, fired, message, sent, sendCTIMessage, send, interaction, log, console, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# onSendCTIMessage()
 
 > Registers a function that is fired when a message is
             sent with the sendCTIMessage(). Use to get information or send

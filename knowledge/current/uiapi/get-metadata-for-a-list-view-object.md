@@ -5,12 +5,10 @@ topic: get-metadata-for-a-list-view-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.112Z
+lastCollected: 2026-04-07T18:40:11.106Z
 estimatedTokens: 151
 keywords: [Metadata, View]
 ---
-
-# Get Metadata for a List View Object
 
 > Get metadata for a list view object.
 

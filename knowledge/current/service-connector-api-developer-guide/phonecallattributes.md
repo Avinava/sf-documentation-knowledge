@@ -5,12 +5,10 @@ topic: phonecallattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.737Z
+lastCollected: 2026-04-07T18:39:23.669Z
 estimatedTokens: 361
-keywords: [PhoneCallAttributes, attributes, phone, call, key, pairs, JSON, Objects]
+keywords: [PhoneCallAttributes, attributes, phone, call, key, pairs, JSON]
 ---
-
-# PhoneCallAttributes
 
 > Represents the attributes for the phone call using key
         value pairs in a JSON object.

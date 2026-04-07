@@ -5,12 +5,10 @@ topic: gnrcvsttaskcontextrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.651Z
+lastCollected: 2026-04-07T18:39:06.786Z
 estimatedTokens: 715
-keywords: [GnrcVstTaskContextRelation, common, attributes, visit, task, context, Calls, Associated, Objects]
+keywords: [GnrcVstTaskContextRelation, common, attributes, visit, task, context]
 ---
-
-# GnrcVstTaskContextRelation
 
 > Represents common attributes used for a visit task and a visit task
          context.

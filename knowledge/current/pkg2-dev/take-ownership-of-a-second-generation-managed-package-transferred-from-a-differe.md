@@ -6,13 +6,10 @@ topic: take-ownership-of-a-second-generation-managed-package-transferred-from-a-
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.660Z
+lastCollected: 2026-04-07T18:38:56.212Z
 estimatedTokens: 1550
-keywords: [Take, Ownership, Second-Generation, Managed, Package, Transferred, Different, Dev, Hub, another, Hug, org, Transfers, External, Customers]
+keywords: [Take, Ownership, Second-Generation, Managed, Package, Transferred, Different, Dev, Hub, another, Hug, org, Transfers, External, Customers, Receive, Transfer, Impact, IDs, Project, File, New, Steps]
 ---
-
-# Take Ownership of a Second-Generation Managed Package Transferred from a Different Dev
-  Hub
 
 > You can take ownership of a second-generation managed package that is transferred from
   another Dev Hug org.

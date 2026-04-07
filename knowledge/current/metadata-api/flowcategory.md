@@ -5,12 +5,10 @@ topic: flowcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.716Z
+lastCollected: 2026-04-07T18:36:26.184Z
 estimatedTokens: 514
-keywords: [FlowCategory, flows, grouped, category, aren’t, added, directly, Lightning, Bolt, Solution, Instead, add, extends, Metadata, inherits]
+keywords: [FlowCategory, FlowCategoryItems, flows, grouped, category, aren’t, added, directly, Lightning, Bolt, Solution, Instead, add, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# FlowCategory
 
 > Represents a list of flows that are grouped by category.
       Flows aren’t added directly to a Lightning Bolt Solution. Instead, add the category the flows

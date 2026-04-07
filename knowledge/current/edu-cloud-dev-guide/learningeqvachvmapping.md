@@ -5,12 +5,10 @@ topic: learningeqvachvmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.328Z
+lastCollected: 2026-04-07T18:37:31.457Z
 estimatedTokens: 625
-keywords: [LearningEqvAchvMapping, mapping, learning, equivalency, internal, achievement, group, external, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [LearningEqvAchvMapping, mapping, learning, equivalency, internal, achievement, group, external, API, 65.0]
 ---
-
-# LearningEqvAchvMapping
 
 > Represents the mapping between a learning equivalency, internal achievement
          group, and external achievement group. This object is available in API version 65.0

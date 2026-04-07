@@ -5,12 +5,10 @@ topic: ar-spacecapture-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.999Z
+lastCollected: 2026-04-07T18:36:46.865Z
 estimatedTokens: 159
-keywords: [SpaceCapture, User, Experience, component, deliver, any, desire, follow, common, flow, calls, scan]
+keywords: [SpaceCapture, User, Experience, deliver, any, desire, follow, common, flow, scan]
 ---
-
-# AR SpaceCapture User Experience
 
 > Your component can deliver any user experience you desire, but you must follow a common
     flow for any component that calls for an AR SpaceCapture scan.

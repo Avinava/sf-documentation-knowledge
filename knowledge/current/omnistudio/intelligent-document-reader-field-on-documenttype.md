@@ -5,12 +5,10 @@ topic: intelligent-document-reader-field-on-documenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:56.177Z
+lastCollected: 2026-04-07T18:36:41.911Z
 estimatedTokens: 290
-keywords: [Intelligent, Document, Reader, DocumentType, Standard, custom, extend, represent, identity, documents, containing, want, extract, Calls]
+keywords: [Intelligent, Document, Reader, DocumentType, Standard, extend, represent, identity, documents, containing, want, extract]
 ---
-
-# Intelligent Document Reader Field on DocumentType
 
 > Standard and custom fields extend the standard DocumentType object
          for use in Intelligent Document Reader to represent information about document types for

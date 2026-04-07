@@ -5,12 +5,10 @@ topic: datamaskpolicyjobrundtlshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.702Z
+lastCollected: 2026-04-07T18:39:37.340Z
 estimatedTokens: 254
 keywords: [DataMaskPolicyJobRunDtlShare, Sharing, DataMaskPolicyJobRunDtl]
 ---
-
-# DataMaskPolicyJobRunDtlShare
 
 > Sharing for DataMaskPolicyJobRunDtl.
 

@@ -5,12 +5,10 @@ topic: get-pushv1messagelistmessageiddeliveriestokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.113Z
+lastCollected: 2026-04-07T18:40:17.263Z
 estimatedTokens: 287
-keywords: [push, messageList, messageId, deliveries, tokenId, send, message, API, receive, token, call, retrieve, number, contacts, attempted]
+keywords: [push, messageList, messageId, deliveries, tokenId, send, message, API, receive, token, call, retrieve, number, contacts, attempted, including, opted, job, **Overview**]
 ---
-
-# GET /push/v1/messageList/{messageId}/deliveries/{tokenId}
 
 > When you send a push message from the API, you receive a token ID in response. Use the token in this API call to retrieve the number of contacts we attempted to send to, not including those who opted out, for a messageList send job.
 

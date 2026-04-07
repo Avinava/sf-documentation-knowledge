@@ -5,12 +5,10 @@ topic: hybrid-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.807Z
+lastCollected: 2026-04-07T18:40:26.127Z
 estimatedTokens: 773
 keywords: [Hybrid, Sample, Apps, Salesforce, Mobile, SDK, platform-agnostic, SalesforceMobileSDK-Shared, GitHub, repository, Android, Wrappers, iOS, Source-only]
 ---
-
-# Hybrid Sample Apps
 
 > Salesforce Mobile SDK provides the following platform-agnostic hybrid sample apps in
     the the SalesforceMobileSDK-Shared GitHub repository.

@@ -5,12 +5,10 @@ topic: cmplplcyclcmplctlver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.711Z
+lastCollected: 2026-04-07T18:36:44.441Z
 estimatedTokens: 586
-keywords: [CmplPlcyClCmplCtlVer, junction, Compliance, Policy, Clause, Version, Control, objects, API, 65.0, later, Calls, Associated]
+keywords: [CmplPlcyClCmplCtlVer, junction, Compliance, Policy, Clause, Control, API, 65.0]
 ---
-
-# CmplPlcyClCmplCtlVer
 
 > Represents a junction between the Compliance Policy Clause Version and Compliance
       Control Version objects. This object is available in API version 65.0 and later.

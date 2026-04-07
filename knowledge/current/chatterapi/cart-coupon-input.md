@@ -5,12 +5,10 @@ topic: cart-coupon-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.786Z
+lastCollected: 2026-04-07T18:37:07.507Z
 estimatedTokens: 194
-keywords: [Cart, Coupon, Input]
+keywords: [Cart, Coupon]
 ---
-
-# Cart Coupon Input
 
 > A cart coupon input.
 

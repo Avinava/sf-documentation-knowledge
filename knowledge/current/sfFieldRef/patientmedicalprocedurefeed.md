@@ -5,12 +5,10 @@ topic: patientmedicalprocedurefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.242Z
+lastCollected: 2026-04-07T18:39:52.734Z
 estimatedTokens: 364
-keywords: [PatientMedicalProcedureFeed, Feed, tracking, PatientMedicalProcedure]
+keywords: [PatientMedicalProcedureFeed, PatientMedicalProcedure]
 ---
-
-# PatientMedicalProcedureFeed
 
 > Feed tracking for PatientMedicalProcedure.
 

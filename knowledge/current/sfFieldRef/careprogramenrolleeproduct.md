@@ -5,12 +5,10 @@ topic: careprogramenrolleeproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.028Z
+lastCollected: 2026-04-07T18:39:32.430Z
 estimatedTokens: 381
 keywords: [CareProgramEnrolleeProduct, affiliation, care, program, enrollee, product, provider]
 ---
-
-# CareProgramEnrolleeProduct
 
 > Represents the affiliation between a care program enrollee and a care program
       product, a care program provider, or both.

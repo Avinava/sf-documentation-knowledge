@@ -5,12 +5,10 @@ topic: context-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.401Z
+lastCollected: 2026-04-07T18:36:39.065Z
 estimatedTokens: 357
-keywords: [Context, Node, Output, representation, nodes, new, retrieve, query]
+keywords: [Context, Node, nodes, new, retrieve, query]
 ---
-
-# Context Node
 
 > Output representation of the details of context nodes.
 

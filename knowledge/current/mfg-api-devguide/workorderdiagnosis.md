@@ -5,12 +5,10 @@ topic: workorderdiagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.369Z
+lastCollected: 2026-04-07T18:38:14.778Z
 estimatedTokens: 260
-keywords: [WorkOrderDiagnosis, diagnosis, Work, Order, user, records, depot, repair, Calls]
+keywords: [WorkOrderDiagnosis, diagnosis, Work, Order, user, records, depot, repair]
 ---
-
-# WorkOrderDiagnosis
 
 > Represents the diagnosis details of the Work Order that the user records during depot
       repair.

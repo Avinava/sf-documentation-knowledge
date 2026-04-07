@@ -5,12 +5,10 @@ topic: dynamic-dml
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.329Z
+lastCollected: 2026-04-07T18:36:17.557Z
 estimatedTokens: 1067
-keywords: [Dynamic, DML, addition, querying, describe, building, SOQL, queries, runtime, sObjects, dynamically, insert, database, sObject, Creation]
+keywords: [Dynamic, DML, addition, querying, describe, building, SOQL, queries, runtime, sObjects, dynamically, insert, database, sObject, Creation, Setting, Retrieving, Foreign, Keys]
 ---
-
-# Dynamic DML
 
 > In addition to querying describe information and building SOQL
 queries at runtime, you can also create sObjects dynamically, and

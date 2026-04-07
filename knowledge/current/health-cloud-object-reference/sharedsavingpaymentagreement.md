@@ -5,12 +5,10 @@ topic: sharedsavingpaymentagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.447Z
+lastCollected: 2026-04-07T18:37:48.058Z
 estimatedTokens: 1056
-keywords: [SharedSavingPaymentAgreement, payment, terms, contracts, Shared, Saving, Agreement, API, version, 54.0, later, Provider, Network, Management, permission]
+keywords: [SharedSavingPaymentAgreement, payment, terms, contracts, Shared, Saving, Agreement, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# SharedSavingPaymentAgreement
 
 > Specifies the payment terms for contracts of Shared Saving Payment Agreement
          type. This object is available in API version 54.0 and later with the Provider Network

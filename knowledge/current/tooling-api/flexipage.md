@@ -5,12 +5,10 @@ topic: flexipage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.557Z
+lastCollected: 2026-04-07T18:36:33.037Z
 estimatedTokens: 2494
-keywords: [FlexiPage, Lightning, customizable, composed, regions, containing, components, SOAP, Calls, REST, HTTP, Sample, Code]
+keywords: [FlexiPage, Lightning, customizable, composed, regions, containing, SOAP, REST, HTTP, Sample, Code]
 ---
-
-# FlexiPage
 
 > Represents a Lightning page. A Lightning page is a
       customizable page composed of regions containing Lightning components.

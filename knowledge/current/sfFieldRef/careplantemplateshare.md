@@ -5,12 +5,10 @@ topic: careplantemplateshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.820Z
+lastCollected: 2026-04-07T18:39:32.183Z
 estimatedTokens: 251
 keywords: [CarePlanTemplateShare, Sharing, CarePlanTemplate]
 ---
-
-# CarePlanTemplateShare
 
 > Sharing for CarePlanTemplate.
 

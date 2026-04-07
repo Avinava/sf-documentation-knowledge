@@ -5,12 +5,10 @@ topic: salesforce-crm-case-article-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.044Z
+lastCollected: 2026-04-07T18:35:52.971Z
 estimatedTokens: 311
-keywords: [Salesforce, CRM, Case, Article, Mapping, data, mappings, CaseArticle, DLO, found, Knowledge, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, Case, Article, Mapping, mappings, CaseArticle, DLO, found, Knowledge, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Case Article Mapping
 
 > These data mappings are for the CaseArticle DLO found in the Knowledge bundle of the
   Salesforce CRM Connector for Data Cloud.

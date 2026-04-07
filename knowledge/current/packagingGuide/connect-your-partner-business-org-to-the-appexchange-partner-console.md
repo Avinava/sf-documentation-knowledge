@@ -5,12 +5,10 @@ topic: connect-your-partner-business-org-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.334Z
+lastCollected: 2026-04-07T18:38:46.190Z
 estimatedTokens: 434
-keywords: [Connect, Partner, Business, Org, AppExchange, Console, PBO, preinstalled, tools, run, you’re, ready, licensing, managed, packages]
+keywords: [Connect, Partner, Business, Org, AppExchange, Console, PBO, preinstalled, tools, run, you’re, ready, licensing, managed, packages, listings, solutions]
 ---
-
-# Connect Your Partner Business Org to the AppExchange Partner Console
 
 > A Partner Business Org (PBO) is an org preinstalled with the tools that you use to run
     your AppExchange business. Connect your PBO to the Partner Console so that you’re ready to set

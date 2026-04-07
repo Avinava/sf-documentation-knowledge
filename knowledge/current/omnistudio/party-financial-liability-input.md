@@ -5,12 +5,10 @@ topic: party-financial-liability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.708Z
+lastCollected: 2026-04-07T18:36:37.240Z
 estimatedTokens: 634
-keywords: [Party, Financial, Liability, Input, representation]
+keywords: [Party, Financial, Liability]
 ---
-
-# Party Financial Liability Input
 
 > Input representation of the details of the party financial liability.
 

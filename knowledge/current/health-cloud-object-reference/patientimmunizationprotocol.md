@@ -5,12 +5,10 @@ topic: patientimmunizationprotocol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.193Z
+lastCollected: 2026-04-07T18:37:43.371Z
 estimatedTokens: 1563
-keywords: [PatientImmunizationProtocol, protocol, followed, provider, patient’s, immunization, recommendations, vaccine, administered, child, PatientImmunization, API, version, 56.0, later]
+keywords: [PatientImmunizationProtocol, protocol, followed, provider, patient’s, immunization, recommendations, vaccine, administered, child, PatientImmunization, API, 56.0]
 ---
-
-# PatientImmunizationProtocol
 
 > Represents the protocol followed by a provider for a patient’s immunization
          and its related details. The protocol defines the set of recommendations that are followed

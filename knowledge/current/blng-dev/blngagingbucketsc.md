@@ -5,12 +5,10 @@ topic: blngagingbucketsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.905Z
+lastCollected: 2026-04-07T18:37:03.467Z
 estimatedTokens: 670
-keywords: [blng__AgingBuckets__c, outstanding, invoices, sorted, various, aging, periods, blng, _AgingBuckets, Calls]
+keywords: [blng__AgingBuckets__c, outstanding, invoices, sorted, various, aging, periods, blng, _AgingBuckets]
 ---
-
-# blng__AgingBuckets__c
 
 > Represents the outstanding invoices sorted into various aging
       periods.

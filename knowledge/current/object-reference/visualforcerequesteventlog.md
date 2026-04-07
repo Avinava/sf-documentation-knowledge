@@ -5,13 +5,11 @@ topic: visualforcerequesteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:52.290Z
+lastCollected: 2026-04-07T18:38:44.102Z
 estimatedTokens: 2047
 namespace: Type
-keywords: [VisualforceRequestEventLog, Visualforce, events, contain, requests, originate, browser, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [VisualforceRequestEventLog, Visualforce, events, contain, requests, originate, browser, API, 61.0]
 ---
-
-# VisualforceRequestEventLog
 
 > Visualforce Request events contain details of Visualforce requests. Requests
          can originate from the browser (UI). This object is available in API version

@@ -5,12 +5,10 @@ topic: checkstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.181Z
+lastCollected: 2026-04-07T18:36:23.481Z
 estimatedTokens: 754
-keywords: [checkStatus, Deprecated, Checks, status, asynchronous, metadata, calls, declarative, call, retrieve, removed, API, version, 31.0, earlier]
+keywords: [Arguments, checkStatus, Deprecated, Checks, status, asynchronous, metadata, declarative, call, retrieve, removed, API, 31.0, earlier, versions, Sample, Code—Java]
 ---
-
-# checkStatus()
 
 > Deprecated. Checks the status of asynchronous metadata calls create(), update(), or delete(), or the declarative metadata call retrieve(). This call is removed as of API version 31.0 and is available only in
   earlier versions.

@@ -5,12 +5,10 @@ topic: giftagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.412Z
+lastCollected: 2026-04-07T18:38:21.246Z
 estimatedTokens: 926
-keywords: [GiftAgreement, agreement, accept, gift, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftAgreement, agreement, accept, gift, API, 64.0]
 ---
-
-# GiftAgreement
 
 > The agreement to accept a gift. This object is available in API version
       64.0 and later.

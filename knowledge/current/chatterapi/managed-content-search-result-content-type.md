@@ -5,12 +5,10 @@ topic: managed-content-search-result-content-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.306Z
+lastCollected: 2026-04-07T18:37:20.493Z
 estimatedTokens: 152
 keywords: [Managed, Content, Search, Result]
 ---
-
-# Managed Content Search Result Content Type
 
 > Content type of a managed content search result.
 

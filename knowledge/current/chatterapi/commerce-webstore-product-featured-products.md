@@ -5,12 +5,10 @@ topic: commerce-webstore-product-featured-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.733Z
+lastCollected: 2026-04-07T18:37:12.622Z
 estimatedTokens: 669
 keywords: [Commerce, Webstore, Product, Featured, Products, Retrieve, collection, feature, specific]
 ---
-
-# Commerce Webstore Product Featured Products
 
 > Retrieve a collection of feature products for a specific
       product.

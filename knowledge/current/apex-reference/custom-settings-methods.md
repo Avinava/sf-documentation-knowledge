@@ -5,12 +5,10 @@ topic: custom-settings-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.339Z
+lastCollected: 2026-04-07T18:36:13.643Z
 estimatedTokens: 4932
-keywords: [Custom, Settings, similar, objects, enable, application, developers, data, well, associate, organization, profile, specific, user, exposed]
+keywords: [Settings, similar, enable, application, developers, well, associate, organization, profile, specific, user, exposed, cache, efficient, cost, repeated, queries, database, formula, validation, flows, Apex, SOAP, API, Setting, Examples, Hierarchy, Country, State, Code, getAll, getInstance, dataSetName, getValues, userId, profileId, getOrgDefaults]
 ---
-
-# Custom Settings Methods
 
 > Custom settings are similar to custom objects and enable application developers to
         create custom sets of data, as well as create and associate custom data for an organization,

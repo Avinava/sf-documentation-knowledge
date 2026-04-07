@@ -5,12 +5,10 @@ topic: serviceappointmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.577Z
+lastCollected: 2026-04-07T18:40:01.336Z
 estimatedTokens: 267
-keywords: [ServiceAppointmentHistory, History, tracked, ServiceAppointment]
+keywords: [ServiceAppointmentHistory, tracked, ServiceAppointment]
 ---
-
-# ServiceAppointmentHistory
 
 > History for tracked fields of ServiceAppointment.
 

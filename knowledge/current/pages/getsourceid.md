@@ -5,12 +5,10 @@ topic: getsourceid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.981Z
+lastCollected: 2026-04-07T18:38:47.935Z
 estimatedTokens: 46
 keywords: [getSourceId, source, record, creating, new, article, another]
 ---
-
-# getSourceId()
 
 > Returns the ID for the source object record when creating
 a new article from another object.

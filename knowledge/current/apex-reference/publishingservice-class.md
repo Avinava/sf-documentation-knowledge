@@ -5,13 +5,11 @@ topic: publishingservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.521Z
+lastCollected: 2026-04-07T18:36:03.751Z
 estimatedTokens: 4916
 namespace: KbManagement
-keywords: [PublishingService, KbManagement.PublishingService, manage, lifecycle, article, translations, Usage, archiveOnlineArticle, articleId, scheduledDate, assignDraftArticleTask, assigneeId, instructions, dueDate, sendEmailNotification]
+keywords: [PublishingService, KbManagement.PublishingService, manage, lifecycle, article, translations, archiveOnlineArticle, articleId, scheduledDate, assignDraftArticleTask, assigneeId, instructions, dueDate, sendEmailNotification, assignDraftTranslationTask, articleVersionId, cancelScheduledArchivingOfArticle, cancelScheduledPublicationOfArticle, completeTranslation, deleteArchivedArticle, deleteArchivedArticleVersion, versionNumber, deleteDraftArticle, deleteDraftTranslation, editArchivedArticle, editOnlineArticle, unpublish, editPublishedTranslation, language, publishArticle, flagAsNew, restoreOldVersion, scheduleForPublication, setTranslationToIncomplete, submitForTranslation]
 ---
-
-# PublishingService Class
 
 > Use the methods in the KbManagement.PublishingService class to manage the lifecycle of an article and its translations.
 

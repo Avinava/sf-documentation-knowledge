@@ -5,12 +5,10 @@ topic: productattributesetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.250Z
+lastCollected: 2026-04-07T18:38:38.647Z
 estimatedTokens: 285
-keywords: [ProductAttributeSetItem, attributes, associated, product, API, version, 50.0, later, Calls, Special, Access, Rules]
+keywords: [ProductAttributeSetItem, attributes, product, API, 50.0]
 ---
-
-# ProductAttributeSetItem
 
 > Represents a set of attributes that can be associated with a
          product. This object is available in API version 50.0 and later.

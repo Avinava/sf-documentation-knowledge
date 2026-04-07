@@ -6,13 +6,10 @@ topic: differences-between-connectapi-classes-and-other-apex-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.683Z
+lastCollected: 2026-04-07T18:36:16.902Z
 estimatedTokens: 515
 keywords: [Differences, ConnectApi, Classes, Apex, additional]
 ---
-
-# Differences Between ConnectApi Classes and Other Apex
-    Classes
 
 > Note these additional differences between ConnectApi classes and other Apex classes.
 

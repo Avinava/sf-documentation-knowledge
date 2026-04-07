@@ -5,12 +5,10 @@ topic: create-and-upload-an-unmanaged-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:01.938Z
+lastCollected: 2026-04-07T18:38:54.342Z
 estimatedTokens: 431
 keywords: [Upload, Unmanaged, Package, procedure, Tooling, API, sample, code, PackageUploadRequest, Developer, Considerations, Uninstalling, Packages]
 ---
-
-# Create and Upload an Unmanaged Package
 
 > Use the following procedure to upload an unmanaged package through the UI. You can also
   upload a package using the Tooling API. For sample code and more details, see the

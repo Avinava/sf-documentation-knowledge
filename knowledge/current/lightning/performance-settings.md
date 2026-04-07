@@ -5,12 +5,10 @@ topic: performance-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.712Z
+lastCollected: 2026-04-07T18:38:04.859Z
 estimatedTokens: 164
 keywords: [Performance, Settings, There, few, Setup, help, improve, application]
 ---
-
-# Performance Settings
 
 > There are a few Setup settings that can help you to improve application
   performance.

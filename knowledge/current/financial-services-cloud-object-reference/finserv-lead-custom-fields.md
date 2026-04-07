@@ -5,12 +5,10 @@ topic: finserv-lead-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.877Z
+lastCollected: 2026-04-07T18:37:35.529Z
 estimatedTokens: 557
-keywords: [FinServ, Lead, Custom, associated, individual, extend, Financial, Services, Cloud]
+keywords: [FinServ, Lead, individual, extend, Financial, Services, Cloud]
 ---
-
-# FinServ Lead Custom Fields
 
 > Represents a lead associated with an individual. Custom fields extend
    the Lead object for use in Financial Services Cloud.

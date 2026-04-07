@@ -6,13 +6,10 @@ topic: add-an-einstein-discovery-story-to-a-crm-analytics-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.538Z
+lastCollected: 2026-04-07T18:37:02.146Z
 estimatedTokens: 764
-keywords: [Add, Einstein, Discovery, Story, CRM, Analytics, Template, stories, added, app, referring, template-info.json, file, Metadata, Examples]
+keywords: [Add, Einstein, Discovery, Story, CRM, Analytics, Template, stories, added, app, referring, template-info.json, file, Metadata, Examples, Configure]
 ---
-
-# Add an Einstein Discovery Story to a CRM Analytics
-    Template
 
 > Einstein Discovery stories can be added to an app template by referring to the story
     in the template-info.json file.

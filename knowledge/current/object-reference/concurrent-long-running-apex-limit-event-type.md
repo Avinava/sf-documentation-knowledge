@@ -5,12 +5,10 @@ topic: concurrent-long-running-apex-limit-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.083Z
+lastCollected: 2026-04-07T18:38:30.882Z
 estimatedTokens: 1168
-keywords: [Concurrent, Long-Running, Apex, Limit, Event, events, contain, requests, org, Salesforce, terminated, reaching, org’s, concurrency, established]
+keywords: [Concurrent, Long-Running, Apex, Limit, Event, events, contain, requests, org, Salesforce, terminated, reaching, org’s, concurrency, established, context, execute, seconds, counted, towards, Asynchronous, don’t, count, exceed, new, invocation, denied, EventLogFile, API, 45.0]
 ---
-
-# Concurrent Long-Running Apex Limit Event Type
 
 > Concurrent Long-Running Apex Limit events contain information about
          long-running concurrent Apex requests in your org that Salesforce terminated after reaching

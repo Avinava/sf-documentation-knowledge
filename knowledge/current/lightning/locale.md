@@ -5,12 +5,10 @@ topic: locale
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.144Z
+lastCollected: 2026-04-07T18:38:04.274Z
 estimatedTokens: 721
 keywords: [$Locale, provider, current, user’s, preferred, locale, Number, Date, Formatting]
 ---
-
-# $Locale
 
 > The $Locale global value provider returns
         information about the current user’s

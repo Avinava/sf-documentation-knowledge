@@ -5,12 +5,10 @@ topic: dashboard-saved-view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.410Z
+lastCollected: 2026-04-07T18:36:56.938Z
 estimatedTokens: 304
 keywords: [Dashboard, Saved, View, Analytics]
 ---
-
-# Dashboard Saved View
 
 > A saved view for an Analytics dashboard.
 

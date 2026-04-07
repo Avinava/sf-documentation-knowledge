@@ -5,12 +5,10 @@ topic: connectapigenericobjectoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.493Z
+lastCollected: 2026-04-07T18:39:00.598Z
 estimatedTokens: 64
-keywords: [ConnectApi.GenericObjectOutput, Output, generic, attributes]
+keywords: [ConnectApi.GenericObjectOutput, generic, attributes]
 ---
-
-# ConnectApi.GenericObjectOutput
 
 > Output for generic object attributes.
 

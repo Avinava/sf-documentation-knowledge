@@ -5,12 +5,10 @@ topic: custom-file-download-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.208Z
+lastCollected: 2026-04-07T18:36:18.436Z
 estimatedTokens: 416
-keywords: [Custom, File, Download, Examples, Apex, customize, behavior, files, upon, attempted, assume, downloaded, customization, API, version]
+keywords: [File, Download, Examples, Apex, customize, behavior, files, upon, attempted, assume, downloaded, customization, API, 39.0]
 ---
-
-# Custom File Download Examples
 
 > You can use Apex to customize the behavior of files upon attempted download. These
         examples assume that only one file is being downloaded. File download customization is

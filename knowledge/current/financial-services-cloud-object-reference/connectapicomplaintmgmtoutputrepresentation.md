@@ -5,12 +5,10 @@ topic: connectapicomplaintmgmtoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.547Z
+lastCollected: 2026-04-07T18:37:34.012Z
 estimatedTokens: 108
-keywords: [Output, representation, created, complaint]
+keywords: [created, complaint]
 ---
-
-# ConnectApi.ComplaintMgmtOutputRepresentation
 
 > Output representation of the created public
     complaint.

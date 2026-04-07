@@ -5,12 +5,10 @@ topic: get-platformv1endpointsendpointtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.264Z
+lastCollected: 2026-04-07T18:40:17.431Z
 estimatedTokens: 192
-keywords: [platform, endpoints, endpointType, **Overview**, Usage]
+keywords: [platform, endpoints, endpointType, **Overview**]
 ---
-
-# GET /platform/v1/endpoints/{endpointType}
 
 # GET /platform/v1/endpoints/{endpointType}
 

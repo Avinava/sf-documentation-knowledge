@@ -5,12 +5,10 @@ topic: add-data-to-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.486Z
+lastCollected: 2026-04-07T18:40:22.913Z
 estimatedTokens: 37
-keywords: [Add, Data, Extension]
+keywords: [Add, Extension]
 ---
-
-# Add Data to a Data Extension
 
 # Add Data to a Data Extension
 

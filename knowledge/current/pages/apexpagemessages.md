@@ -5,12 +5,10 @@ topic: apexpagemessages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.164Z
+lastCollected: 2026-04-07T18:38:50.434Z
 estimatedTokens: 378
-keywords: [apex, pageMessages, component, displays, messages, were, generated, components, current, presented, Salesforce, styling, Attributes]
+keywords: [Attributes, apex, pageMessages, displays, messages, were, generated, current, presented, Salesforce, styling]
 ---
-
-# apex:pageMessages
 
 > This component displays all messages that were generated for all components on the current page, presented using the Salesforce styling.
 

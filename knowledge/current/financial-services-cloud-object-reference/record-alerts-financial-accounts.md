@@ -5,12 +5,10 @@ topic: record-alerts-financial-accounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.263Z
+lastCollected: 2026-04-07T18:37:34.838Z
 estimatedTokens: 178
 keywords: [Record, Alerts, Financial, Accounts, Retrieve, active]
 ---
-
-# Record Alerts (Financial Accounts)
 
 > Retrieve a list of active record alerts on financial
     accounts.

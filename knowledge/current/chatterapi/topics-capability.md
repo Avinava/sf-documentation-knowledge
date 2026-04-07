@@ -5,12 +5,10 @@ topic: topics-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:36.338Z
+lastCollected: 2026-04-07T18:37:23.448Z
 estimatedTokens: 176
-keywords: [Topics, Capability, feed, element, context, user, add, help, users, organize, discover, conversations]
+keywords: [Topics, Capability, context, user, add, help, users, organize, discover, conversations]
 ---
-
-# Topics Capability
 
 > If a feed element has this capability, the context user can add topics
       to it. Topics help users organize and discover conversations.

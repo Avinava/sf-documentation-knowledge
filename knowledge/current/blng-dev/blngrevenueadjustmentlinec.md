@@ -5,12 +5,10 @@ topic: blngrevenueadjustmentlinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.437Z
+lastCollected: 2026-04-07T18:37:04.029Z
 estimatedTokens: 1208
-keywords: [blng__RevenueAdjustmentLine__c, revenue, schedule, balance, change, multiple, adjustment, lines, target, different, blng, _RevenueAdjustmentLine, Calls]
+keywords: [blng__RevenueAdjustmentLine__c, revenue, schedule, balance, change, multiple, adjustment, lines, target, different, blng, _RevenueAdjustmentLine]
 ---
-
-# blng__RevenueAdjustmentLine__c
 
 > Represents a type of revenue schedule balance change. You can have multiple
          adjustment lines that each target a different revenue schedule.

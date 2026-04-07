@@ -5,12 +5,10 @@ topic: productdisqualificationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.131Z
+lastCollected: 2026-04-07T18:39:55.703Z
 estimatedTokens: 364
-keywords: [ProductDisqualificationFeed, Feed, tracking, ProductDisqualification]
+keywords: [ProductDisqualificationFeed, ProductDisqualification]
 ---
-
-# ProductDisqualificationFeed
 
 > Feed tracking for ProductDisqualification.
 

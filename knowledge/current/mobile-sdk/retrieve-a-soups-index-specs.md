@@ -5,12 +5,10 @@ topic: retrieve-a-soups-index-specs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.850Z
+lastCollected: 2026-04-07T18:40:27.069Z
 estimatedTokens: 145
-keywords: [Retrieve, Soup’s, Index, Specs, want, examine, display, specifications, soup, call, applicable, retrieval, Hybrid, Apps, Android]
+keywords: [Retrieve, Soup’s, Index, Specs, want, examine, display, specifications, soup, call, applicable, retrieval, Hybrid, Apps, Android, iOS]
 ---
-
-# Retrieve a Soup’s Index Specs
 
 > If you want to examine or display the index specifications for
     a soup, call the applicable index specs retrieval method.

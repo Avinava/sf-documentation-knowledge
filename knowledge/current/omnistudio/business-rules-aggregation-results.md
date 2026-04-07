@@ -5,12 +5,10 @@ topic: business-rules-aggregation-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.117Z
+lastCollected: 2026-04-07T18:36:38.778Z
 estimatedTokens: 99
-keywords: [Business, Rules, Aggregation, Results, Output, representation, expression]
+keywords: [Business, Aggregation, Results, expression]
 ---
-
-# Business Rules Aggregation Results
 
 > Output representation of expression set results.
 

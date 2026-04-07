@@ -5,12 +5,10 @@ topic: metadata-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.962Z
+lastCollected: 2026-04-07T18:39:11.509Z
 estimatedTokens: 702
-keywords: [Metadata, Definition, topic, structure, wizard, components, build, wizards, Configuration, WizardComponentMetadata, WizardButtonMetadata]
+keywords: [WizardComponentMetadata, WizardButtonMetadata, Metadata, Definition, topic, structure, wizard, build, wizards, Configuration]
 ---
-
-# Metadata Definition
 
 > This topic describes the metadata structure and the available
       wizard components that can be used to build wizards.

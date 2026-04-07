@@ -5,12 +5,10 @@ topic: paymentgateways-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.861Z
+lastCollected: 2026-04-07T18:37:03.431Z
 estimatedTokens: 428
-keywords: [PaymentGateways, common, payment, gateway, operation, across, gateways, Usage, processPayments, mapOfTransactionParameterById, paymentGatewayParameter, Implementation]
+keywords: [PaymentGateways, common, payment, gateway, operation, across, gateways, processPayments, mapOfTransactionParameterById, paymentGatewayParameter, Implementation]
 ---
-
-# PaymentGateways Interface
 
 > Interface with common payment gateway operation across all
       gateways.

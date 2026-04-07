@@ -5,12 +5,10 @@ topic: bulkapi2eventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.951Z
+lastCollected: 2026-04-07T18:38:26.930Z
 estimatedTokens: 1058
-keywords: [BulkApi2EventLog, Bulk, API, event, logs, contain, 2.0, requests, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [BulkApi2EventLog, Bulk, API, event, logs, contain, 2.0, requests, 61.0]
 ---
-
-# BulkApi2EventLog
 
 > Bulk API 2 event logs contain details about Bulk API 2.0
          requests. This object is available in API version 61.0 and later.

@@ -5,12 +5,10 @@ topic: busoperproccontrolver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.550Z
+lastCollected: 2026-04-07T18:36:44.315Z
 estimatedTokens: 585
-keywords: [BusOperProcControlVer, junction, Business, Operations, Process, Control, Version, API, 65.0, later, Calls, Associated, Objects]
+keywords: [BusOperProcControlVer, junction, Business, Operations, Process, Control, API, 65.0]
 ---
-
-# BusOperProcControlVer
 
 > Represents a junction between a Business Operations Process and a Control
          Version. This object is available in API version 65.0 and later.

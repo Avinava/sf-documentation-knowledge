@@ -5,12 +5,10 @@ topic: replacelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.470Z
+lastCollected: 2026-04-07T18:40:21.757Z
 estimatedTokens: 139
-keywords: [ReplaceList, Function, Ordinal, search, Replacement, replace, **Overview**, **Syntax**, Usage]
+keywords: [ReplaceList, Function, Ordinal, search, Replacement, replace, **Overview**, **Syntax**]
 ---
-
-# ReplaceList
 
 > ReplaceList(1, 2, 3)
 

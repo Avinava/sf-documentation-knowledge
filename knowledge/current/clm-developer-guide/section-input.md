@@ -5,12 +5,9 @@ topic: section-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.791Z
+lastCollected: 2026-04-07T18:37:24.769Z
 estimatedTokens: 72
-keywords: [Input, representation]
 ---
-
-# Section Input
 
 > Input representation of a section.
 

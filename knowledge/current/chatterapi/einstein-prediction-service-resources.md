@@ -5,12 +5,10 @@ topic: einstein-prediction-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:26.370Z
+lastCollected: 2026-04-07T18:37:13.320Z
 estimatedTokens: 119
-keywords: [Einstein, Prediction, Service, Resources, enable, programmatically, predictions, deployed, models, work, definitions, manage, model, refresh, bulk]
+keywords: [Einstein, Prediction, Service, Resources, enable, programmatically, predictions, deployed, models, work, definitions, manage, model, refresh, bulk, scoring, jobs]
 ---
-
-# Einstein Prediction Service Resources
 
 > Einstein Prediction Service resources enable you to programmatically get predictions
         from deployed models, work with prediction definitions and models, and manage model refresh

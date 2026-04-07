@@ -5,12 +5,10 @@ topic: auto-install-request-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.151Z
+lastCollected: 2026-04-07T18:36:56.715Z
 estimatedTokens: 164
 keywords: [Auto-Install, Collection, requests]
 ---
-
-# Auto-Install Request Collection
 
 > A collection of auto-install requests.
 

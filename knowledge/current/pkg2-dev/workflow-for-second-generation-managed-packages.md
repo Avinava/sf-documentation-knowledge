@@ -5,12 +5,10 @@ topic: workflow-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.024Z
+lastCollected: 2026-04-07T18:38:56.699Z
 estimatedTokens: 1439
 keywords: [Workflow, Second-Generation, Managed, Packages, install, package, 2GP, directly, command, line]
 ---
-
-# Workflow for Second-Generation Managed Packages
 
 > You can create and install a second-generation managed package (managed 2GP) directly
         from the command line.

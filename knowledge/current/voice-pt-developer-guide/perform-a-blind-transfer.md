@@ -5,12 +5,10 @@ topic: perform-a-blind-transfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.423Z
+lastCollected: 2026-04-07T18:40:13.354Z
 estimatedTokens: 639
 keywords: [Perform, Blind, Transfer, feature, vendors, addParticipant, Connector, API, hang, call, rather, add, caller, conversation]
 ---
-
-# Perform a Blind Transfer
 
 > With the blind transfer feature, vendors can use the addParticipant Connector API method
     to hang up and transfer a call rather than add a caller to an existing conversation.

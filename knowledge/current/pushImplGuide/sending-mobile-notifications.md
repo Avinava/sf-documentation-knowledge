@@ -5,12 +5,10 @@ topic: sending-mobile-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.010Z
+lastCollected: 2026-04-07T18:39:09.333Z
 estimatedTokens: 350
-keywords: [Sending, Mobile, Notifications, send, Salesforce, offers, several, options, Apex, REST, API, cases, declarative, feature-based, tools]
+keywords: [Sending, Mobile, Notifications, send, Salesforce, offers, several, options, Apex, REST, API, cases, declarative, feature-based, tools, notification, delivery, channel, skill, comfort, levels, choice]
 ---
-
-# Sending Mobile Notifications
 
 > To send mobile notifications, Salesforce offers several options: Apex, REST API, and, in
   some cases, declarative feature-based tools. The type of notification, the delivery channel, and

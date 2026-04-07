@@ -5,12 +5,10 @@ topic: example-of-building-map-data-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.469Z
+lastCollected: 2026-04-07T18:38:51.731Z
 estimatedTokens: 794
-keywords: [Building, Map, Data, Apex, Construct, location, perform, custom, query, search, nearby, locations, filter, transform, results]
+keywords: [Building, Map, Apex, Construct, location, perform, query, search, nearby, locations, filter, transform, results, can’t, Visualforce, standard, controller]
 ---
-
-# Example of Building Map Data in Apex
 
 > Construct your location data in Apex to perform a custom query, search for nearby
         locations, filter or transform results, or when you can’t use the results returned by a Visualforce standard

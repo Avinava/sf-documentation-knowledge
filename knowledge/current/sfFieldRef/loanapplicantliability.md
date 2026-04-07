@@ -5,12 +5,10 @@ topic: loanapplicantliability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.267Z
+lastCollected: 2026-04-07T18:39:46.766Z
 estimatedTokens: 314
-keywords: [LoanApplicantLiability, junction, borrower, loan, application, liability, API, version, 47.0, later]
+keywords: [LoanApplicantLiability, junction, borrower, loan, application, liability, API, 47.0]
 ---
-
-# LoanApplicantLiability
 
 > Represents a junction between a borrower and a loan application
 			liability. This object is available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: managed-content-document-clone-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.155Z
+lastCollected: 2026-04-07T18:37:08.929Z
 estimatedTokens: 247
-keywords: [Managed, Content, Document, Clone, Input]
+keywords: [Managed, Content, Document, Clone]
 ---
-
-# Managed Content Document Clone Input
 
 > Managed content clone input.
 

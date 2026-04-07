@@ -5,12 +5,10 @@ topic: bulkapiresulteventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.254Z
+lastCollected: 2026-04-07T18:39:30.440Z
 estimatedTokens: 366
-keywords: [BulkApiResultEventStore, Tracks, user, downloads, results, Bulk, API, big, stores, event, data, BulkApiResultEvent, version, 50.0, later]
+keywords: [BulkApiResultEventStore, Tracks, user, downloads, results, Bulk, API, big, stores, event, BulkApiResultEvent, 50.0]
 ---
-
-# BulkApiResultEventStore
 
 > Tracks when a user downloads the results of a Bulk API request.
          BulkApiResultEventStore is a big object that stores the event data of BulkApiResultEvent.

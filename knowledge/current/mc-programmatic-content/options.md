@@ -5,12 +5,10 @@ topic: options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.006Z
+lastCollected: 2026-04-07T18:40:22.392Z
 estimatedTokens: 372
-keywords: [Options, Specify, direct, how, wish, process, templates, simple, tags, include, multiple, option, pairs, tag, quote]
+keywords: [Options, Template, Specify, direct, how, wish, process, templates, simple, tags, include, multiple, option, pairs, tag, quote, space, reserved, character, Separate, Permitted]
 ---
-
-# Options
 
 > Specify options that direct Guide on how you wish to process information in your templates. Options use simple tags. You can include multiple option name and value pairs in one tag, and you should quote values only when those values include a space or a reserved character. Separate each option in th
 

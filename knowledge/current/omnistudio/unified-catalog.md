@@ -5,12 +5,10 @@ topic: unified-catalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.387Z
+lastCollected: 2026-04-07T18:36:46.232Z
 estimatedTokens: 252
-keywords: [Unified, Catalog, centralized, consistent, framework, managing, accessing, product, service, definitions, across, business, processes, serves, source]
+keywords: [Unified, Catalog, centralized, consistent, framework, managing, accessing, product, service, definitions, across, business, processes, serves, source, truth, reused, downstream, systems, applications, ensuring, uniformity, how, offerings, defined, discovered, consumed]
 ---
-
-# Unified Catalog
 
 > The Unified Catalog provides a centralized, consistent framework for managing and
   accessing product and service definitions across business processes. It serves as a single source

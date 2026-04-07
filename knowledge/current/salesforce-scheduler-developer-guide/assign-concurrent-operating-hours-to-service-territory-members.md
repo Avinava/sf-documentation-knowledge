@@ -5,12 +5,10 @@ topic: assign-concurrent-operating-hours-to-service-territory-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.585Z
+lastCollected: 2026-04-07T18:39:21.422Z
 estimatedTokens: 219
 keywords: [Assign, Concurrent, Operating, Hours, Service, Territory, Members, time, slots, applicable, member, respective, record]
 ---
-
-# Assign Concurrent Operating Hours to Service Territory Members
 
 > Concurrent time slots are applicable only to service territory members. Assign
       operating hours to a service territory member using the Operating Hours field on the

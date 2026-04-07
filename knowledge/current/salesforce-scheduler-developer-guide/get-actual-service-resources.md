@@ -5,12 +5,10 @@ topic: get-actual-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.356Z
+lastCollected: 2026-04-07T18:39:21.166Z
 estimatedTokens: 507
-keywords: [Actual, Service, Resources, Retrieve, resources—an, employee, company, loan, officer, investment, advisor, doctor, nurse, practitioner, retail]
+keywords: [Actual, Service, Resources, Retrieve, resources—an, employee, company, loan, officer, investment, advisor, doctor, nurse, practitioner, retail, store, specialist, attends, appointments, clients—based, work, group, territory, that’s, assigned, appointment, Business, managers, administrators, assign, resource]
 ---
-
-# Get Actual Service Resources
 
 > Retrieve the actual service resources—an employee from your
       company, such as a loan officer, investment advisor, doctor, nurse practitioner, or retail

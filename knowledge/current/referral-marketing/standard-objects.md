@@ -5,12 +5,10 @@ topic: standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.499Z
+lastCollected: 2026-04-07T18:39:09.844Z
 estimatedTokens: 2551
-keywords: [Standard, Objects, Referral, Marketing, B2B, Management, data, models, come, manage, program, design, advocate, rewards, Developers]
+keywords: [Standard, Referral, Marketing, B2B, Management, models, come, manage, program, design, advocate, rewards, Developers, extend, model, company’s, requirements]
 ---
-
-# Standard Objects
 
 > The Referral Marketing and B2B Referral Management data models come with a set of
         objects and fields to manage referral program information such as program design, advocate

@@ -5,12 +5,10 @@ topic: condintrctnhlthrskadjfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.931Z
+lastCollected: 2026-04-07T18:37:46.514Z
 estimatedTokens: 1028
-keywords: [CondIntrctnHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, interacting, conditions, they, diagnosed, status, their, benefits, eligibility]
+keywords: [CondIntrctnHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, interacting, conditions, they, diagnosed, status, their, benefits, eligibility, API, 61.0]
 ---
-
-# CondIntrctnHlthRskAdjFctr
 
 > Stores the risk adjustment factor for patients and members based on the set
          of interacting conditions they are diagnosed with and the status of their benefits

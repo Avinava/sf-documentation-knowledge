@@ -5,12 +5,10 @@ topic: lightningtabupdated
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:03.029Z
+lastCollected: 2026-04-07T18:36:49.107Z
 estimatedTokens: 94
-keywords: [lightning, tabUpdated, tab, updated, successfully, lightning__tabUpdated, Lightning, message, channel, corresponds, Aura, app, event, web, components, console, _tabUpdated, LWC]
+keywords: [lightning, tabUpdated, tab, updated, successfully, lightning__tabUpdated, Lightning, message, channel, corresponds, Aura, app, event, web, console, _tabUpdated, LWC]
 ---
-
-# lightning:tabUpdated
 
 > A Lightning message channel that corresponds to the lightning:tabUpdated Aura app event. This message channel is available for
         Lightning web components used within a Lightning console app.

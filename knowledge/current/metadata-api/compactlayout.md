@@ -5,12 +5,10 @@ topic: compactlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.350Z
+lastCollected: 2026-04-07T18:36:23.664Z
 estimatedTokens: 589
-keywords: [CompactLayout, metadata, associated, compact, layout, extends, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
+keywords: [CompactLayout, metadata, compact, layout, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CompactLayout
 
 > Represents the metadata associated with a compact
             layout. This type extends the Metadata metadata type and inherits its

@@ -5,12 +5,10 @@ topic: add-query-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.199Z
+lastCollected: 2026-04-07T18:38:03.201Z
 estimatedTokens: 394
 keywords: [Add, Query, URL, PageReference, state, key-value, pairs, serialized, describe, form, specific, user, save, bookmark]
 ---
-
-# Add Query Parameters
 
 > To add query parameters to the URL, update the PageReference state property. The key-value pairs of the state property are serialized to URL query parameters. The
     query parameters describe the page and form a more specific URL that the user can save or

@@ -5,12 +5,10 @@ topic: connectapichangeitemfeetaxinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.644Z
+lastCollected: 2026-04-07T18:36:05.003Z
 estimatedTokens: 162
-keywords: [Input, representation, taxes, associated, change, item, fee]
+keywords: [taxes, change, item, fee]
 ---
-
-# ConnectApi.ChangeItemFeeTaxInputRepresentation
 
 > Input representation of taxes associated with a change item fee.
 

@@ -5,12 +5,10 @@ topic: prodtsvccmpngrpdefcausalitm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.727Z
+lastCollected: 2026-04-07T18:38:14.054Z
 estimatedTokens: 1284
-keywords: [ProdtSvcCmpnGrpDefCausalItm, impacted, item, caused, service, campaign, initiated, airbag, needs, repaired, replaced, Stores, granular, causal, facilitating]
+keywords: [ProdtSvcCmpnGrpDefCausalItm, impacted, item, caused, service, campaign, initiated, airbag, needs, repaired, replaced, Stores, granular, causal, facilitating, efficient, execution, product, API, 65.0]
 ---
-
-# ProdtSvcCmpnGrpDefCausalItm
 
 > Represents information about the impacted item that caused the service
          campaign to be initiated, such as an airbag that needs to be repaired or replaced. Stores

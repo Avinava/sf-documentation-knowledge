@@ -5,12 +5,10 @@ topic: digital-verification-input-fields-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.681Z
+lastCollected: 2026-04-07T18:37:55.002Z
 estimatedTokens: 115
-keywords: [Digital, Verification, Input, Map, representation, key-value, pairs, containing, updated]
+keywords: [Digital, Verification, Map, key-value, pairs, containing, updated]
 ---
-
-# Digital Verification Input Fields Map
 
 > Input representation of the key-value pairs containing the fields to be updated for the
     digital verification.

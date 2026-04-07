@@ -5,12 +5,10 @@ topic: user-messages-general
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.334Z
+lastCollected: 2026-04-07T18:37:16.399Z
 estimatedTokens: 905
 keywords: [User, Messages, General, context, Search, across, post, message]
 ---
-
-# User Messages, General
 
 > Get private messages for the context user. Search across
          private messages and post a private message.

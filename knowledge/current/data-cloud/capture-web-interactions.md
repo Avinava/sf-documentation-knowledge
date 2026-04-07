@@ -5,13 +5,11 @@ topic: capture-web-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.834Z
+lastCollected: 2026-04-07T18:35:51.690Z
 estimatedTokens: 1391
 namespace: SalesforceInteractions
-keywords: [Capture, Web, Interactions, Salesforce, SDK, extensible, data, collection, framework, track, different, user, website, send, build]
+keywords: [Requirements, Sitemap, Capture, Web, Interactions, Salesforce, SDK, extensible, collection, framework, track, different, user, website, send, build, behavior, profiles, visitors, audience, segmentation, integrations, Identity, Cookie, Management, Consent]
 ---
-
-# Capture Web Interactions
 
 > Salesforce Interactions SDK is an extensible data capture and collection framework that
     you can use to track different user interactions on your website and send that information to

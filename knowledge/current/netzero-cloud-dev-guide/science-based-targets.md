@@ -5,12 +5,10 @@ topic: science-based-targets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.356Z
+lastCollected: 2026-04-07T18:38:16.949Z
 estimatedTokens: 1337
 keywords: [Science, Targets, quantitative, align, science-based, criteria, reduce, company's, emissions, closer, net, zero, future]
 ---
-
-# Science Based Targets
 
 > You can set quantitative targets that align with science-based criteria to reduce your
   company's emissions and get closer to a net zero future.

@@ -5,12 +5,10 @@ topic: set-up-standalone-orders-with-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.755Z
+lastCollected: 2026-04-07T18:37:04.378Z
 estimatedTokens: 507
-keywords: [Standalone, Orders, API, Manage, order, products, Salesforce, Billing, creating, CPQ, quote, call, They’re, useful, quotes]
+keywords: [Standalone, Orders, API, Manage, order, products, Salesforce, Billing, creating, CPQ, quote, call, They’re, useful, quotes, opportunities, external, platform, plan, management]
 ---
-
-# Set Up Standalone Orders with API
 
 > Manage your orders and order products in Salesforce and Salesforce Billing without first
   creating a CPQ quote. We call this type of order a standalone order. They’re useful if you manage

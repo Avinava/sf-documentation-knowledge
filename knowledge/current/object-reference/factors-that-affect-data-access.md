@@ -5,12 +5,10 @@ topic: factors-that-affect-data-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.050Z
+lastCollected: 2026-04-07T18:38:23.922Z
 estimatedTokens: 1941
-keywords: [Factors, Affect, Data, Access, organization's]
+keywords: [Factors, Affect, organization's]
 ---
-
-# Factors that Affect Data Access
 
 > Some factors affect access to your organization's data.
 

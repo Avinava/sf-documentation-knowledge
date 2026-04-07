@@ -5,12 +5,10 @@ topic: feed-elements-capability-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.613Z
+lastCollected: 2026-04-07T18:37:13.561Z
 estimatedTokens: 431
-keywords: [Feed, Elements, Capability, Bundle, Access, element]
+keywords: [Capability, Bundle]
 ---
-
-# Feed Elements Capability, Bundle
 
 > Access the bundle capability of a feed element.
 

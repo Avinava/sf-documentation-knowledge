@@ -5,12 +5,10 @@ topic: connectapigenericbundlecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.109Z
+lastCollected: 2026-04-07T18:36:09.500Z
 estimatedTokens: 105
-keywords: [ConnectApi.GenericBundleCapability, feed, element, capability, group, elements, condensed, bundle]
+keywords: [ConnectApi.GenericBundleCapability, capability, group, condensed, bundle]
 ---
-
-# ConnectApi.GenericBundleCapability
 
 > If a feed element has this capability, the feed element has a group of
    other feed elements condensed into one feed element. This group is called a

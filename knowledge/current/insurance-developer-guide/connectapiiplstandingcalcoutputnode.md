@@ -5,12 +5,10 @@ topic: connectapiiplstandingcalcoutputnode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.494Z
+lastCollected: 2026-04-07T18:37:50.328Z
 estimatedTokens: 178
-keywords: [ConnectApi.IPLStandingCalcOutputNode, Node, representation, Insurance, Policy, Term, Current, Standing, invocable, action]
+keywords: [ConnectApi.IPLStandingCalcOutputNode, Node, Insurance, Policy, Term, Current, Standing, invocable, action]
 ---
-
-# ConnectApi.IPLStandingCalcOutputNode
 
 > Node representation for the Insurance Policy Term Current Standing invocable action
     node.

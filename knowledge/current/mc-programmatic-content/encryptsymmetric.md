@@ -5,12 +5,10 @@ topic: encryptsymmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.333Z
+lastCollected: 2026-04-07T18:40:21.613Z
 estimatedTokens: 856
-keywords: [EncryptSymmetric, Function, Ordinal, Plain, text, data, passed, Algorithm, encrypt, **Overview**, **Syntax**, Usage, Mode, Padding]
+keywords: [EncryptSymmetric, Mode, Padding, Function, Ordinal, Plain, text, passed, Algorithm, encrypt, **Overview**, **Syntax**]
 ---
-
-# EncryptSymmetric
 
 > EncryptSymmetric(1, 2, 3, 4, 5, 6, 7, 8)
 

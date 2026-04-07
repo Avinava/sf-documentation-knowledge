@@ -5,12 +5,10 @@ topic: forecastingquota
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.655Z
+lastCollected: 2026-04-07T18:39:41.300Z
 estimatedTokens: 524
-keywords: [ForecastingQuota, individual, user’s, territory’s, quota, time, period, Managed, Quotas, user, permission, creating, updating, deleting, Users]
+keywords: [ForecastingQuota, individual, user’s, territory’s, quota, time, period, Managed, Quotas, user, permission, creating, updating, deleting, Users, edit, their, subordinates’, child, territories’, own, View, Forecasts, any, user's, forecast, regardless, hierarchy, API, versions, 25.0, managers, subordinates, territories, below]
 ---
-
-# ForecastingQuota
 
 > This object represents an individual user’s or territory’s quota for
             a specified time period. The Managed Quotas user permission is required for

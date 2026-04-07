@@ -5,12 +5,10 @@ topic: queued-execution-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.625Z
+lastCollected: 2026-04-07T18:38:31.499Z
 estimatedTokens: 1661
 keywords: [Queued, Execution, Event, events, contain, executions—for, batch, Apex]
 ---
-
-# Queued Execution Event Type
 
 > Queued Execution events contain details about queued
          executions—for example, batch Apex.

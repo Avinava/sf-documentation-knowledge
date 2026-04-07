@@ -5,12 +5,10 @@ topic: the-insightsexternaldata-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.550Z
+lastCollected: 2026-04-07T18:36:53.915Z
 estimatedTokens: 2476
-keywords: [InsightsExternalData, configure, control, external, data, uploads, provide, metadata, trigger, start, upload, process, check, status, cancellation]
+keywords: [InsightsExternalData, configure, control, external, uploads, provide, metadata, trigger, start, upload, process, check, status, cancellation, cleanup]
 ---
-
-# The InsightsExternalData Object
 
 > With the InsightsExternalData object, you can configure and control external data
       uploads. You can use it to provide metadata, trigger the start of the upload process, check

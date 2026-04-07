@@ -5,12 +5,10 @@ topic: onnewmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.327Z
+lastCollected: 2026-04-07T18:36:50.552Z
 estimatedTokens: 288
-keywords: [onNewMessage, Registers, function, call, new, message, sent, customer, agent, supervisor, API, version, 29.0, later, Arguments]
+keywords: [Arguments, onNewMessage, Registers, function, call, new, message, sent, customer, agent, supervisor, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# onNewMessage()
 
 > Registers a function to call when a new message is sent from a customer, agent, or
         supervisor. Available in API version 29.0 or

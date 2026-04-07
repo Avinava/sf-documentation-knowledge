@@ -5,12 +5,10 @@ topic: cgcloudviewc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.061Z
+lastCollected: 2026-04-07T18:39:15.577Z
 estimatedTokens: 1389
-keywords: [cgcloud__View__c, stores, filter, criteria, trade, calendar, API, version, 54.0, later, cgcloud, _View, Calls, Associated, Objects]
+keywords: [cgcloud__View__c, stores, filter, criteria, trade, calendar, API, 54.0, cgcloud, _View]
 ---
-
-# cgcloud__View__c
 
 > This object stores the filter criteria for the trade calendar.
       This object is available in API version 54.0 and later.

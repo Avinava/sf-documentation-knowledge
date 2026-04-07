@@ -5,12 +5,10 @@ topic: notification-action-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.820Z
+lastCollected: 2026-04-07T18:37:14.868Z
 estimatedTokens: 268
 keywords: [Notification, Action, Beta, Execute]
 ---
-
-# Notification Action (Beta)
 
 > Execute an action on a notification.
 

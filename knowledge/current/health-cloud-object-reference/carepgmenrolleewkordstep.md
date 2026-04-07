@@ -5,12 +5,10 @@ topic: carepgmenrolleewkordstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.287Z
+lastCollected: 2026-04-07T18:37:45.775Z
 estimatedTokens: 1088
-keywords: [CarePgmEnrolleeWkOrdStep, step, work, order, that's, executed, care, program, enrollee, API, version, 58.0, later, Calls, Associated]
+keywords: [CarePgmEnrolleeWkOrdStep, step, work, order, that's, executed, care, program, enrollee, API, 58.0]
 ---
-
-# CarePgmEnrolleeWkOrdStep
 
 > Represents information about the step in a work order that's executed for the
          care program enrollee. This object is available in API version 58.0 and later.

@@ -5,12 +5,10 @@ topic: connectapipromotioncartiteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.811Z
+lastCollected: 2026-04-07T18:36:06.161Z
 estimatedTokens: 748
 keywords: [ConnectApi.PromotionCartItemInput, Item, cart, promotion, evaluation]
 ---
-
-# ConnectApi.PromotionCartItemInput
 
 > Item in a cart during promotion evaluation.
 

@@ -5,12 +5,10 @@ topic: exception-handling-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.413Z
+lastCollected: 2026-04-07T18:36:17.647Z
 estimatedTokens: 726
 keywords: [Exception, Handling, how, works, Apex]
 ---
-
-# Exception Handling Example
 
 > Learn how exception handling works in Apex.
 

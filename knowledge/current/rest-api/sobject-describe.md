@@ -5,12 +5,10 @@ topic: sobject-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.034Z
+lastCollected: 2026-04-07T18:36:21.258Z
 estimatedTokens: 696
 keywords: [sObject, Describe, Completely, individual, metadata, levels, retrieve, URLs, child, relationships, Account]
 ---
-
-# sObject Describe
 
 > Completely describes the individual metadata at all levels for the specified object.
 		For example, this can be used to retrieve the fields, URLs, and child relationships for the

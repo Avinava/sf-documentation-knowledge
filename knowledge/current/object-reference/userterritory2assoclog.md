@@ -5,12 +5,10 @@ topic: userterritory2assoclog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.144Z
+lastCollected: 2026-04-07T18:38:43.926Z
 estimatedTokens: 490
-keywords: [UserTerritory2AssocLog, log, user, assigned, unassigned, territory, API, version, 57.0, later, Calls, Special, Access, Rules]
+keywords: [UserTerritory2AssocLog, log, user, assigned, unassigned, territory, API, 57.0]
 ---
-
-# UserTerritory2AssocLog
 
 > Represents a log of when a user is assigned and unassigned from a
          territory. This object is available in API version 57.0 and later.

@@ -5,12 +5,10 @@ topic: using-custom-components-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.921Z
+lastCollected: 2026-04-07T18:38:48.867Z
 estimatedTokens: 386
-keywords: [Custom, Components, Visualforce, <apex, component>, tag, markup, added, standard, whenever, component, included, uses, defined, saved]
+keywords: [Visualforce, <apex, component>, tag, markup, added, standard, whenever, included, uses, defined, saved]
 ---
-
-# Using Custom Components in a Visualforce Page
 
 > The body of an <apex:component> tag is the markup that is added to a standard Visualforce page whenever the
          component is included. For example, the following Visualforce page uses the component

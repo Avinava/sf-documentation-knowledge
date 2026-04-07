@@ -5,12 +5,10 @@ topic: get-blob-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.766Z
+lastCollected: 2026-04-07T18:36:19.988Z
 estimatedTokens: 516
-keywords: [Blob, Data, sObject, resource, record, exist, Salesforce, retrieving, Document]
+keywords: [Blob, sObject, resource, record, exist, Salesforce, retrieving, Document]
 ---
-
-# Get Blob Data
 
 > Use the sObject Blob Get resource to get blob data for a
    given record. To get blob data, a record with blob data must exist in

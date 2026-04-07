@@ -5,12 +5,10 @@ topic: recipients-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.382Z
+lastCollected: 2026-04-07T18:37:25.308Z
 estimatedTokens: 185
-keywords: [Recipients, Output, representation, recipient’s, personal, status, contract, document’s, signing, process]
+keywords: [Recipients, recipient’s, personal, status, contract, document’s, signing, process]
 ---
-
-# Recipients Response
 
 > Output representation of a recipient’s personal and status information in a contract
     document’s signing process.

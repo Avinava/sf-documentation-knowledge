@@ -5,12 +5,10 @@ topic: ocrdocumentscanresultdetail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.141Z
+lastCollected: 2026-04-07T18:36:35.636Z
 estimatedTokens: 845
-keywords: [OcrDocumentScanResultDetail, OCR, document, scan, result, stores, key-value, pairs, present, number, extracted, text, status, keyValuePairs, ocrDocumentScanResultId]
+keywords: [OcrDocumentScanResultDetail, OCR, document, scan, result, stores, key-value, pairs, present, number, extracted, text, status, keyValuePairs, ocrDocumentScanResultId, ocrService, pageNumber]
 ---
-
-# OcrDocumentScanResultDetail Class
 
 > This class contains the OCR document scan result details. It stores the OCR document scan
     result ID, key-value pairs present in the document, the page number of the extracted text, and

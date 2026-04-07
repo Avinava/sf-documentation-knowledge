@@ -5,12 +5,10 @@ topic: story-count-insights-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.520Z
+lastCollected: 2026-04-07T18:37:00.010Z
 estimatedTokens: 348
 keywords: [Story, Count, Insights, Case]
 ---
-
-# Story Count Insights Case
 
 > A count story insights case.
 

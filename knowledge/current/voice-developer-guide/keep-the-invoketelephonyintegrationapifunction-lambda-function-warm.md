@@ -6,13 +6,10 @@ topic: keep-the-invoketelephonyintegrationapifunction-lambda-function-warm
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.958Z
+lastCollected: 2026-04-07T18:40:12.899Z
 estimatedTokens: 702
-keywords: [Keep, InvokeTelephonyIntegrationApiFunction, Lambda, Function, Warm, hasn’t, invoked, period, time, AWS, framework, unloads, memory, “cold”, longer]
+keywords: [Keep, InvokeTelephonyIntegrationApiFunction, Lambda, Function, Warm, hasn’t, invoked, period, time, AWS, framework, unloads, memory, “cold”, longer, load, delay, cause, timeout, contact, flow, instructions, describe, how, “warm”, trigger]
 ---
-
-# Keep the InvokeTelephonyIntegrationApiFunction Lambda Function
-            Warm
 
 > When a Lambda function hasn’t been invoked after a period of
             time, the AWS framework unloads the function from memory. The next time the function is

@@ -5,12 +5,10 @@ topic: chatteranswersforgotpasswordconfirm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.250Z
+lastCollected: 2026-04-07T18:38:49.310Z
 estimatedTokens: 213
-keywords: [chatteranswers, forgotpasswordconfirm, Displays, Chatter, Answers, password, confirmation, Ext, versions, less, included, pages, component, Attributes]
+keywords: [Attributes, chatteranswers, forgotpasswordconfirm, Displays, Chatter, Answers, password, confirmation, Ext, versions, less, included, pages]
 ---
-
-# chatteranswers:forgotpasswordconfirm
 
 > Displays the Chatter Answers password confirmation page.  Ext JS versions less than 3 should not be included on pages that use this component.
 

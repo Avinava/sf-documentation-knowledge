@@ -5,12 +5,10 @@ topic: connectapicaseparticipantinfowrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.499Z
+lastCollected: 2026-04-07T18:37:33.960Z
 estimatedTokens: 331
-keywords: [ConnectApi.CaseParticipantInfoWrapper, Input, representation, case, participant, associated, complaint]
+keywords: [ConnectApi.CaseParticipantInfoWrapper, case, participant, complaint]
 ---
-
-# ConnectApi.CaseParticipantInfoWrapper
 
 > Input representation of a case participant associated with the
       complaint.

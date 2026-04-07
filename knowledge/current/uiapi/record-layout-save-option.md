@@ -5,12 +5,10 @@ topic: record-layout-save-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.092Z
+lastCollected: 2026-04-07T18:40:12.098Z
 estimatedTokens: 256
-keywords: [Record, Layout, Save, Option, options, define, behavior, occurs, objects, created, modified, Cases, Leads, “UseDefaultAssignmentRule”, exposed]
+keywords: [Record, Layout, Save, Option, options, define, behavior, occurs, created, modified, Cases, Leads, “UseDefaultAssignmentRule”, exposed, control, whether, assignment, applied, edited]
 ---
-
-# Record Layout Save Option
 
 > The save option for a record layout. Save options define behavior
       that occurs when objects are created or modified using the given layout. For example, for

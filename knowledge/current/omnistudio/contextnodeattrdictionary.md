@@ -5,12 +5,10 @@ topic: contextnodeattrdictionary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:59.905Z
+lastCollected: 2026-04-07T18:36:45.679Z
 estimatedTokens: 318
-keywords: [ContextNodeAttrDictionary, relationship, ContextNodeMapping, ContextDictionary, objects, junction, API, version, 62.0, later, SOAP, Calls, REST]
+keywords: [ContextNodeAttrDictionary, relationship, ContextNodeMapping, ContextDictionary, junction, API, 62.0, SOAP, REST]
 ---
-
-# ContextNodeAttrDictionary
 
 > Represents
          the

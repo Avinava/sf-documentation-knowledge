@@ -5,12 +5,10 @@ topic: commerce-extension-provider-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.020Z
+lastCollected: 2026-04-07T18:37:07.775Z
 estimatedTokens: 171
-keywords: [Commerce, Extension, Provider, Mapping, Input, map, webstore]
+keywords: [Commerce, Extension, Provider, Mapping, map, webstore]
 ---
-
-# Commerce Extension Provider Mapping Input
 
 > Describes information used to map an extension provider to a webstore.
 

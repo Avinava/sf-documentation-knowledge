@@ -5,12 +5,10 @@ topic: networkmembergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.917Z
+lastCollected: 2026-04-07T18:38:36.110Z
 estimatedTokens: 816
-keywords: [NetworkMemberGroup, group, members, Experience, Cloud, site, either, users, internal, org, external, assigned, portal, profiles, administrator]
+keywords: [NetworkMemberGroup, group, members, Experience, Cloud, site, either, users, internal, org, external, assigned, portal, profiles, administrator, adds, adding, profile, permission, any, user, becomes, member, API, 26.0, Sample, Code]
 ---
-
-# NetworkMemberGroup
 
 > Represents a group of members in an Experience Cloud site. Members can
    be either users in your internal org or external users assigned portal profiles. An administrator

@@ -5,12 +5,10 @@ topic: blngbillingtransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.881Z
+lastCollected: 2026-04-07T18:37:04.503Z
 estimatedTokens: 1101
-keywords: [blng__BillingTransaction__c, invoice, plan, line, billing, schedule, transaction, stores, billed, amount, relationship, line’s, commencement, date, order]
+keywords: [blng__BillingTransaction__c, invoice, plan, line, billing, schedule, transaction, stores, billed, amount, relationship, line’s, commencement, date, order, product’s, service, start, end, dates, invoiced, Salesforce, copies, blng, _BillingTransaction]
 ---
-
-# blng__BillingTransaction__c
 
 > Represents information about each invoice plan line of a billing schedule. A
          billing transaction stores the billed amount based on the relationship between the invoice

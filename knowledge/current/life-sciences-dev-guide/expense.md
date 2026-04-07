@@ -5,12 +5,10 @@ topic: expense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.312Z
+lastCollected: 2026-04-07T18:37:57.840Z
 estimatedTokens: 560
-keywords: [Expense, Life, Sciences, Cloud, extend, standard, represent, expenses, visit, API, version, 65.0, later, Calls]
+keywords: [Expense, Life, Sciences, Cloud, extend, standard, represent, expenses, visit, API, 65.0]
 ---
-
-# Expense
 
 > Life Sciences Cloud fields extend the standard Expense object to represent
          expenses related to a visit. This object is

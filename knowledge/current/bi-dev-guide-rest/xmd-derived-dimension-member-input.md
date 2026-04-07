@@ -5,12 +5,10 @@ topic: xmd-derived-dimension-member-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.823Z
+lastCollected: 2026-04-07T18:36:55.241Z
 estimatedTokens: 134
-keywords: [Xmd, Derived, Dimension, Member, Input, extended, metadata, Analytics, dataset]
+keywords: [Xmd, Derived, Dimension, Member, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Derived Dimension Member Input
 
 > The extended metadata (Xmd) for a member of a derived dimension in an Analytics
   dataset.

@@ -5,12 +5,10 @@ topic: what-are-recipes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.354Z
+lastCollected: 2026-04-07T18:38:54.740Z
 estimatedTokens: 448
-keywords: [Recipes, AppExchange, App, Analytics, Developer, Cookbook, uses, two, distinct, CRM, foundational, work, creating, build, recipe]
+keywords: [Recipes, AppExchange, App, Analytics, Developer, Cookbook, uses, two, distinct, CRM, foundational, work, creating, build, recipe, environment, result, key, performance, indicators, KPIs]
 ---
-
-# What Are Recipes?
 
 > The AppExchange App Analytics Developer Cookbook uses two distinct types of recipes: CRM
   Analytics recipes and App Analytics recipes. The CRM Analytics recipes are foundational work that

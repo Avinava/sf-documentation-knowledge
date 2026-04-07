@@ -5,12 +5,10 @@ topic: unauthenticated-rest-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.693Z
+lastCollected: 2026-04-07T18:40:25.090Z
 estimatedTokens: 201
-keywords: [Unauthenticated, REST, Requests, certain, cases, applications, calls, user, becomes, authenticated, application, access, services, outside, Salesforce, Mobile, SDK, apps, secure, endpoints]
+keywords: [Unauthenticated, REST, Requests, certain, cases, applications, user, becomes, authenticated, application, services, outside, Salesforce, don’t, require, authentication, implement, requirements, RestClient, instance, Mobile, SDK, apps, secure, endpoints, behalf, customer, handles, app, embedding, current, user’s, OAuth, token, automatically, refre, Requesting, Resources, External, Non-Native]
 ---
-
-# Unauthenticated REST Requests
 
 > Most REST requests from Mobile SDK apps go to
       secure Salesforce endpoints

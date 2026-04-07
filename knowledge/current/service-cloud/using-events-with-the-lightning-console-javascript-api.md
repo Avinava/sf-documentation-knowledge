@@ -5,12 +5,10 @@ topic: using-events-with-the-lightning-console-javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:03.396Z
+lastCollected: 2026-04-07T18:36:49.507Z
 estimatedTokens: 952
-keywords: [Events, Lightning, Console, JavaScript, API, framework, uses, event-driven, programming, handlers, respond, they, occur, several, specific]
+keywords: [Events, Lightning, Console, JavaScript, API, framework, uses, event-driven, programming, handlers, respond, they, occur, several, specific, apps, Work, Web, LWC, Subscribe, LMS, Channels, Aura]
 ---
-
-# Using Events with the Lightning Console JavaScript API
 
 > The Lightning framework uses event-driven programming, which allows you to create
     handlers to respond to interface events as they occur. The Lightning Console JavaScript API

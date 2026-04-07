@@ -5,12 +5,10 @@ topic: folders-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.730Z
+lastCollected: 2026-04-07T18:36:56.263Z
 estimatedTokens: 1156
-keywords: [Folders, Resource, collection, apps, creates, Analytics, app, folder, dataset, lenses, dashboard, URL, Formats, Version, Postman]
+keywords: [Formats, Folders, Resource, collection, apps, creates, Analytics, app, folder, dataset, lenses, dashboard, URL, Postman, HTTP, POST]
 ---
-
-# Folders List Resource
 
 > Returns a collection of apps or folders and creates an Analytics
       app, which is a folder that contains Analytics dataset, lenses, and

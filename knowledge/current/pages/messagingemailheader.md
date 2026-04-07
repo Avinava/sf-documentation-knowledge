@@ -5,12 +5,10 @@ topic: messagingemailheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.953Z
+lastCollected: 2026-04-07T18:38:50.198Z
 estimatedTokens: 278
-keywords: [messaging, emailHeader, Adds, custom, email, limited, characters, Attributes]
+keywords: [Attributes, messaging, emailHeader, Adds, email, limited, characters]
 ---
-
-# messaging:emailHeader
 
 > Adds a custom header to the email. The body of a header is limited to 1000 characters.
 

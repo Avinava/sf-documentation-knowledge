@@ -5,12 +5,10 @@ topic: legalentityfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.603Z
+lastCollected: 2026-04-07T18:39:46.149Z
 estimatedTokens: 358
-keywords: [LegalEntityFeed, Feed, tracking, LegalEntity]
+keywords: [LegalEntityFeed, LegalEntity]
 ---
-
-# LegalEntityFeed
 
 > Feed tracking for LegalEntity.
 

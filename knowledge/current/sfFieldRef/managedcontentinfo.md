@@ -5,12 +5,10 @@ topic: managedcontentinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.581Z
+lastCollected: 2026-04-07T18:39:47.971Z
 estimatedTokens: 95
 keywords: [ManagedContentInfo, creation, relationship, Product, ProductMedia]
 ---
-
-# ManagedContentInfo
 
 > Allows
 			the creation of relationship to Product using

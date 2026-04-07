@@ -5,12 +5,10 @@ topic: productrqmtspec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.947Z
+lastCollected: 2026-04-07T18:38:14.283Z
 estimatedTokens: 401
-keywords: [ProductRqmtSpec, requirements, captures, key, associated, Account, Contact, tracks, overall, lifecycle, status, acts, parent, requirement, items]
+keywords: [ProductRqmtSpec, requirements, captures, key, Account, Contact, tracks, overall, lifecycle, status, acts, parent, requirement, items, their, versions, API, 65.0]
 ---
-
-# ProductRqmtSpec
 
 > Defines a complete set of requirements. It captures key information such as the
       associated Account and Contact, tracks its overall lifecycle status, and acts as the parent

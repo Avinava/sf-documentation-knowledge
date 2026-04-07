@@ -5,12 +5,10 @@ topic: careperformer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.958Z
+lastCollected: 2026-04-07T18:37:56.395Z
 estimatedTokens: 1087
-keywords: [CarePerformer, person, performing, care, observations, procedure, immunizations, may, physician, patient’s, contact, anyone, administered, any, sort]
+keywords: [CarePerformer, person, performing, care, observations, procedure, immunizations, may, physician, patient’s, contact, anyone, administered, any, sort, patient, context, concerned, event, API, 51.0]
 ---
-
-# CarePerformer
 
 > Represents the person performing care in observations, procedure, and
       immunizations. This person may be a physician, the patient’s contact, or anyone who

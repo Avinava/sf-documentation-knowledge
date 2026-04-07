@@ -5,12 +5,10 @@ topic: development-platforms
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.414Z
+lastCollected: 2026-04-07T18:36:24.833Z
 estimatedTokens: 364
 keywords: [Development, Platforms, Metadata, API, supports, file-based, CRUD-based]
 ---
-
-# Development Platforms
 
 > Metadata API supports both file-based and CRUD-based development.
 

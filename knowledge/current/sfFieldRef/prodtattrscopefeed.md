@@ -5,12 +5,10 @@ topic: prodtattrscopefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.580Z
+lastCollected: 2026-04-07T18:39:55.142Z
 estimatedTokens: 360
-keywords: [ProdtAttrScopeFeed, Feed, tracking, ProdtAttrScope]
+keywords: [ProdtAttrScopeFeed, ProdtAttrScope]
 ---
-
-# ProdtAttrScopeFeed
 
 > Feed tracking for ProdtAttrScope.
 

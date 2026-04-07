@@ -5,12 +5,10 @@ topic: consumptionratehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.372Z
+lastCollected: 2026-04-07T18:39:34.828Z
 estimatedTokens: 263
-keywords: [ConsumptionRateHistory, History, tracked, ConsumptionRate]
+keywords: [ConsumptionRateHistory, tracked, ConsumptionRate]
 ---
-
-# ConsumptionRateHistory
 
 > History for tracked fields of ConsumptionRate.
 

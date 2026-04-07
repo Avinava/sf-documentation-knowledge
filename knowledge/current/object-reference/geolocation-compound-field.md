@@ -5,12 +5,10 @@ topic: geolocation-compound-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.002Z
+lastCollected: 2026-04-07T18:38:23.875Z
 estimatedTokens: 817
-keywords: [Geolocation, Compound, accessible, SOAP, REST, APIs, Location—a, structured, data, type—or, individual, latitude, longitude, elements, Retrieving]
+keywords: [Geolocation, Compound, accessible, SOAP, REST, APIs, Location—a, structured, type—or, individual, latitude, longitude, Retrieving]
 ---
-
-# Geolocation Compound Field
 
 > Geolocation fields are accessible in the SOAP and REST APIs as a
       Location—a structured compound data type—or as individual latitude and

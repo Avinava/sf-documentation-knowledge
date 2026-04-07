@@ -5,12 +5,10 @@ topic: lightning-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.085Z
+lastCollected: 2026-04-07T18:39:21.968Z
 estimatedTokens: 4807
 keywords: [Lightning, Security, General, Considerations]
 ---
-
-# Lightning Security
 
 > General Lightning Security Considerations
 

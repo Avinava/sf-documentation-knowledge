@@ -5,12 +5,10 @@ topic: mathematical-functions-numerical-derivation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.595Z
+lastCollected: 2026-04-07T18:35:42.476Z
 estimatedTokens: 322
-keywords: [Mathematical, Functions, Numerical, Derivation, operators, calculate, derived, arithmetic, relationships, variables, Usage]
+keywords: [Mathematical, Functions, Numerical, Derivation, operators, calculate, derived, arithmetic, relationships, variables]
 ---
-
-# Mathematical Functions (Numerical Derivation)
 
 > Mathematical functions and operators are used to calculate derived values based on
     arithmetic relationships between variables.

@@ -5,12 +5,10 @@ topic: working-with-very-large-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.000Z
+lastCollected: 2026-04-07T18:36:19.224Z
 estimatedTokens: 1463
-keywords: [Working, Large, SOQL, Queries, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any]
+keywords: [Working, Large, SOQL, Queries, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations, Efficient]
 ---
-
-# Working with Very Large SOQL Queries
 
 > Where possible, we changed noninclusive terms to align with our
             company value of Equality. We maintained certain terms to avoid any effect on customer

@@ -5,12 +5,10 @@ topic: vpls360addtag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.333Z
+lastCollected: 2026-04-07T18:38:11.659Z
 estimatedTokens: 111
-keywords: [VPLS360_addTag, Integration, Procedure, adds, HTML, tags, order, confirmation, mail, sent, subscriber, proper, padding, spacing, VPLS360]
+keywords: [VPLS360_addTag, Integration, Procedure, adds, HTML, tags, order, confirmation, mail, sent, subscriber, proper, padding, spacing, VPLS360, _addTag, Sample]
 ---
-
-# VPLS360_addTag
 
 > This Integration Procedure adds HTML tags so that the
         order confirmation mail sent to the subscriber has proper padding and spacing.

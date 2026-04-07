@@ -5,13 +5,11 @@ topic: taxcustomerdetailsrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.933Z
+lastCollected: 2026-04-07T18:35:40.803Z
 estimatedTokens: 1757
 namespace: CommerceTax
 keywords: [TaxCustomerDetailsRequest, customer, tax, calculation, accountId, code, exemptionNo, exemptionReason, taxCertificateId, equals, obj, hashCode, toString]
 ---
-
-# TaxCustomerDetailsRequest Class
 
 > Contains customer details used in tax calculation.
 

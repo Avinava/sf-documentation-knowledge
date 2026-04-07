@@ -5,12 +5,10 @@ topic: search-product-with-guided-selection-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.345Z
+lastCollected: 2026-04-07T18:35:40.125Z
 estimatedTokens: 1592
-keywords: [Search, Product, Guided, Selection, Action, products, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Search, Product, Guided, Selection, Action, products, REST, HTTP]
 ---
-
-# Search Product with Guided Selection Action
 
 > Use guided product selection to search for
         products.

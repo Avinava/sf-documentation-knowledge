@@ -5,12 +5,10 @@ topic: connectapiuserfeedentityactivitysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.501Z
+lastCollected: 2026-04-07T18:36:06.855Z
 estimatedTokens: 391
-keywords: [User, feed, entity, activity, summary]
+keywords: [User, entity, activity, summary]
 ---
-
-# ConnectApi.UserFeedEntityActivitySummary
 
 > User feed entity activity summary.
 

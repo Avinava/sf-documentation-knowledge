@@ -5,12 +5,10 @@ topic: connect-circleci-to-your-devhub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.932Z
+lastCollected: 2026-04-07T18:40:07.875Z
 estimatedTokens: 850
 keywords: [Connect, CircleCI, DevHub, Authorize, push, content, Dev, Hub, org, via, connected, app]
 ---
-
-# Connect CircleCI to Your DevHub
 
 > Authorize CircleCI to push content to your Dev Hub org via a connected app.
 

@@ -5,12 +5,10 @@ topic: 380000-380999-sms-mt-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.742Z
+lastCollected: 2026-04-07T18:40:14.749Z
 estimatedTokens: 101
 keywords: [380000-380999, SMS, Configuration]
 ---
-
-# 380000-380999 SMS MT Configuration
 
 # 380000-380999 SMS MT Configuration
 

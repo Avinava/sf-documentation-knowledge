@@ -5,12 +5,10 @@ topic: fhir-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.826Z
+lastCollected: 2026-04-07T18:37:55.183Z
 estimatedTokens: 235
-keywords: [FHIR, Input, representation]
+keywords: [FHIR]
 ---
-
-# FHIR Reference Input
 
 > The input representation for the Reference FHIR
     object.

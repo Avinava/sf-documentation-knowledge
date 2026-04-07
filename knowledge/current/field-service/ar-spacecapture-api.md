@@ -5,12 +5,10 @@ topic: ar-spacecapture-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.981Z
+lastCollected: 2026-04-07T18:36:46.839Z
 estimatedTokens: 23
-keywords: [SpaceCapture, API, Access, device’s, camera, capabilities, LWC]
+keywords: [SpaceCapture, API, device’s, camera, capabilities, LWC]
 ---
-
-# AR SpaceCapture API
 
 > Access a device’s camera and AR capabilities from an LWC.
 

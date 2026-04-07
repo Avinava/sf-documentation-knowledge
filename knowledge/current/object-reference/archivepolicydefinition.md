@@ -5,12 +5,10 @@ topic: archivepolicydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.041Z
+lastCollected: 2026-04-07T18:38:25.994Z
 estimatedTokens: 608
-keywords: [ArchivePolicyDefinition, data, lifecycle, policy, row, scope, frequency, rules, automated, archiving, purging, records, root, entity, Contact]
+keywords: [ArchivePolicyDefinition, lifecycle, policy, row, scope, frequency, automated, archiving, purging, records, root, entity, Contact, Lead, API, 65.0]
 ---
-
-# ArchivePolicyDefinition
 
 > Represents a data lifecycle policy that, in each row, defines the
             scope, frequency, and rules for automated archiving or purging of records from a root

@@ -5,12 +5,10 @@ topic: commerce-webstore-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.482Z
+lastCollected: 2026-04-07T18:37:12.363Z
 estimatedTokens: 1969
 keywords: [Commerce, Webstore, Checkout, store]
 ---
-
-# Commerce Webstore Checkout
 
 > Get, delete, or update a Commerce store checkout.
 

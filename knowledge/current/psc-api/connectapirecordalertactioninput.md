@@ -5,12 +5,10 @@ topic: connectapirecordalertactioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.409Z
+lastCollected: 2026-04-07T18:39:00.501Z
 estimatedTokens: 145
-keywords: [ConnectApi.RecordAlertActionInput, Representation, record, alert, action]
+keywords: [ConnectApi.RecordAlertActionInput, record, alert, action]
 ---
-
-# ConnectApi.RecordAlertActionInput
 
 > Representation of the record alert action.
 

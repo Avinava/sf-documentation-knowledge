@@ -5,12 +5,10 @@ topic: wkplanlocationassessmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.439Z
+lastCollected: 2026-04-07T18:40:14.451Z
 estimatedTokens: 1252
-keywords: [wkplan__LocationAssessment__c, Stores, data, metrics, evaluate, location, risk, crisis, COVID-19, pandemic, including, hospital, capacity, guidelines, operating]
+keywords: [wkplan__LocationAssessment__c, Stores, metrics, evaluate, location, risk, crisis, COVID-19, pandemic, including, hospital, capacity, guidelines, operating, safely, installed, part, Workplace, Strategy, Planner, managed, package, API, 50.0, wkplan, _LocationAssessment]
 ---
-
-# wkplan__LocationAssessment__c
 
 > Stores data for metrics used to evaluate location risk during a
       crisis, such as the COVID-19 pandemic, including hospital capacity and public guidelines for

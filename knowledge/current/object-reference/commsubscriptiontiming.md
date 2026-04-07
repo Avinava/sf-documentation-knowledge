@@ -5,12 +5,10 @@ topic: commsubscriptiontiming
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.195Z
+lastCollected: 2026-04-07T18:38:28.115Z
 estimatedTokens: 996
-keywords: [CommSubscriptionTiming, customer's, timing, preferences, receiving, communication, subscription, API, version, 48.0, later, Calls, Associated, Objects]
+keywords: [CommSubscriptionTiming, customer's, timing, preferences, receiving, communication, subscription, API, 48.0]
 ---
-
-# CommSubscriptionTiming
 
 > Represents a customer's timing preferences for receiving a
       communication subscription. This object is available in API version 48.0 and

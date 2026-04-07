@@ -5,12 +5,10 @@ topic: business-objective-association-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.630Z
+lastCollected: 2026-04-07T18:37:07.344Z
 estimatedTokens: 117
-keywords: [Business, Objective, Association, Input]
+keywords: [Business, Objective, Association]
 ---
-
-# Business Objective Association Input
 
 > Business objective association.
 

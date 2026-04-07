@@ -5,12 +5,10 @@ topic: formatdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.354Z
+lastCollected: 2026-04-07T18:40:21.641Z
 estimatedTokens: 272
-keywords: [FormatDate, Function, Ordinal, receive, formatting, either, yyyy, YYYY-MM-DD, Date, **Overview**, **Syntax**, Usage]
+keywords: [FormatDate, Function, Ordinal, receive, formatting, either, yyyy, YYYY-MM-DD, Date, **Overview**, **Syntax**]
 ---
-
-# FormatDate
 
 > FormatDate(1, 2, 3, 4)
 

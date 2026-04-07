@@ -5,12 +5,10 @@ topic: deliveryprofilesourceaddresstypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.513Z
+lastCollected: 2026-04-07T18:40:16.657Z
 estimatedTokens: 115
-keywords: [DeliveryProfileSourceAddressTypeEnum, source, address, associated, delivery, profile]
+keywords: [DeliveryProfileSourceAddressTypeEnum, source, address, delivery, profile]
 ---
-
-# DeliveryProfileSourceAddressTypeEnum
 
 > The DeliveryProfileSourceAddressTypeEnum object defines the source of the IP address associated with a delivery profile.
 

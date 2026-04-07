@@ -5,12 +5,10 @@ topic: invoice-ingestion-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.969Z
+lastCollected: 2026-04-07T18:35:45.940Z
 estimatedTokens: 202
-keywords: [Invoice, Ingestion, Output, representation, generated]
+keywords: [Invoice, Ingestion, generated]
 ---
-
-# Invoice Ingestion Details
 
 > Output representation of the details of a generated invoice.
 

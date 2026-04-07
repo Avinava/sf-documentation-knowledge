@@ -5,12 +5,10 @@ topic: loyaltyprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.645Z
+lastCollected: 2026-04-07T18:39:10.029Z
 estimatedTokens: 949
-keywords: [LoyaltyProgram, referral, program, records, program’s, promotions, rewards, advocates, referrals, associated, API, version, 59.0, later, Calls]
+keywords: [LoyaltyProgram, referral, program, records, program’s, promotions, rewards, advocates, referrals, API, 59.0]
 ---
-
-# LoyaltyProgram
 
 > Represents the referral program. All records related to the referral
          program’s promotions, rewards, advocates, and referrals are associated with the referral

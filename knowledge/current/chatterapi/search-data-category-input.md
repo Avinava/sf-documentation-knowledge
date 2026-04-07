@@ -6,13 +6,10 @@ topic: search-data-category-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.249Z
+lastCollected: 2026-04-07T18:37:08.052Z
 estimatedTokens: 221
-keywords: [Search, Data, Category, Input]
+keywords: [Search, Category]
 ---
-
-# Search Data Category
-    Input
 
 > Data category input for object search.
 

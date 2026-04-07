@@ -5,12 +5,10 @@ topic: using-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.637Z
+lastCollected: 2026-04-07T18:38:02.562Z
 estimatedTokens: 740
-keywords: [Apex, write, server-side, code, controllers, test, classes, customize, user, Lightning, Data, Service, SOQL, query, select]
+keywords: [Apex, write, server-side, code, controllers, test, classes, customize, user, Lightning, Service, SOQL, query, select, certain, records, provisions, that’s, managed, handle, refresh, own]
 ---
-
-# Using Apex
 
 > Use Apex to write server-side code, such as controllers and test classes. Use Apex only
     if you need to customize your user interface to do more than what Lightning Data Service allows,

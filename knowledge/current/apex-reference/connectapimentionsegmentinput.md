@@ -5,12 +5,10 @@ topic: connectapimentionsegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.454Z
+lastCollected: 2026-04-07T18:36:05.805Z
 estimatedTokens: 235
-keywords: [ConnectApi.MentionSegmentInput, Include, @mention, user, group, feed, post, comment, creating, mentions]
+keywords: [ConnectApi.MentionSegmentInput, Include, @mention, user, group, post, comment, creating, mentions]
 ---
-
-# ConnectApi.MentionSegmentInput
 
 > Include an @mention of a user or group in a feed post or comment. When creating a feed
     post or comment, you can include up to 25 mentions.

@@ -5,12 +5,10 @@ topic: invoicelinetax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.531Z
+lastCollected: 2026-04-07T18:35:49.477Z
 estimatedTokens: 2392
-keywords: [InvoiceLineTax, tax, invoice, line, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [InvoiceLineTax, tax, invoice, line, API, 62.0]
 ---
-
-# InvoiceLineTax
 
 > Represents tax information of an invoice line of type Tax. This object is available in API version 62.0 and
       later.

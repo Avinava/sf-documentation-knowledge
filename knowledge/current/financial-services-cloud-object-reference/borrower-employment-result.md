@@ -5,12 +5,10 @@ topic: borrower-employment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.380Z
+lastCollected: 2026-04-07T18:37:34.976Z
 estimatedTokens: 100
 keywords: [Borrower, employment, Result, POST, PATCH]
 ---
-
-# Borrower employment Result
 
 > Borrower employment result of the POST or PATCH
     request.

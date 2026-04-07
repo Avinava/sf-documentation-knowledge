@@ -5,12 +5,10 @@ topic: schedule-reorganization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.612Z
+lastCollected: 2026-04-07T18:39:11.127Z
 estimatedTokens: 129
-keywords: [Schedule, Reorganization, Performs, off-platform, data, cleanup]
+keywords: [Schedule, Reorganization, Performs, off-platform, cleanup]
 ---
-
-# Schedule Reorganization
 
 > Performs off-platform data cleanup and reorganization.
 

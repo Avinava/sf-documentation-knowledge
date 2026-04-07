@@ -5,12 +5,10 @@ topic: get-the-event-schema-with-pubsub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.033Z
+lastCollected: 2026-04-07T18:38:57.864Z
 estimatedTokens: 207
 keywords: [Event, Schema, Pub, Sub, API, retrieve, GetSchema, RPC, pass]
 ---
-
-# Get the Event Schema with Pub/Sub API
 
 > Use Pub/Sub API to retrieve the event schema with the GetSchema RPC method and pass in a schema ID.
 

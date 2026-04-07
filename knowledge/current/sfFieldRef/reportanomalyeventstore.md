@@ -5,12 +5,10 @@ topic: reportanomalyeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.077Z
+lastCollected: 2026-04-07T18:39:59.753Z
 estimatedTokens: 438
-keywords: [ReportAnomalyEventStore, Tracks, anomalies, how, users, run, export, reports, including, unsaved, stores, event, data, ReportAnomalyEvent, API]
+keywords: [ReportAnomalyEventStore, Tracks, anomalies, how, users, run, export, reports, including, unsaved, stores, event, ReportAnomalyEvent, API, 49.0]
 ---
-
-# ReportAnomalyEventStore
 
 > Tracks anomalies in how users run or export reports, including
 			unsaved reports. ReportAnomalyEventStore is an object that stores the event data of

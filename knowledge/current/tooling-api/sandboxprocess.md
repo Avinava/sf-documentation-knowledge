@@ -5,12 +5,10 @@ topic: sandboxprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.964Z
+lastCollected: 2026-04-07T18:36:34.358Z
 estimatedTokens: 2260
-keywords: [SandboxProcess, sandbox, copy, process, SandboxInfo, record, SOAP, Calls, REST, HTTP, Usage, Creating, Refreshing, Deleting, Checking]
+keywords: [SandboxProcess, sandbox, copy, process, SandboxInfo, record, SOAP, REST, HTTP, Creating, Refreshing, Deleting, Checking, Progress]
 ---
-
-# SandboxProcess
 
 > Represents the sandbox copy process for a
             SandboxInfo record.

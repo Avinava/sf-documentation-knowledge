@@ -5,12 +5,10 @@ topic: get-messagingv1emailmessagestypenotsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.124Z
+lastCollected: 2026-04-07T18:40:17.276Z
 estimatedTokens: 389
-keywords: [messaging, email, messages, type=notSent, paginated, were, sent, ordered, oldest, newest, **Overview**, Usage, HTTP, Responses]
+keywords: [messaging, email, messages, type=notSent, paginated, were, sent, ordered, oldest, newest, **Overview**, HTTP, Responses]
 ---
-
-# GET /messaging/v1/email/messages/?type=notSent
 
 > Gets a paginated list of messages that were not sent, ordered from oldest to newest.
 

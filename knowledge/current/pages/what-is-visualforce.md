@@ -5,12 +5,10 @@ topic: what-is-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.329Z
+lastCollected: 2026-04-07T18:38:51.582Z
 estimatedTokens: 1635
-keywords: [Visualforce, framework, developers, build, custom, user, interfaces, hosted, natively, Lightning, Platform, includes, tag-based, markup, language]
+keywords: [Visualforce, framework, developers, build, user, interfaces, hosted, natively, Lightning, Platform, includes, tag-based, markup, language, similar, HTML, server-side, “standard, controllers”, Controllers, Pages]
 ---
-
-# What is Visualforce?
 
 > Visualforce is a framework that allows developers to
         build custom user interfaces that can be hosted natively on Lightning Platform. The

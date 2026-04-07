@@ -6,13 +6,10 @@ topic: getlightningcontinuationrequestid-params-devname-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.471Z
+lastCollected: 2026-04-07T18:37:33.927Z
 estimatedTokens: 345
-keywords: [getLightningContinuation, requestId, params, devName, input, Continuation, provider, defined, Integration, Definition, record, referenced, Usage]
+keywords: [getLightningContinuation, requestId, params, devName, Continuation, provider, defined, Integration, Definition, record, referenced]
 ---
-
-# getLightningContinuation(requestId, params, devName,
-      input)
 
 > Gets the Continuation object returned by the provider defined in the
       Integration Definition record referenced by the devName parameter.

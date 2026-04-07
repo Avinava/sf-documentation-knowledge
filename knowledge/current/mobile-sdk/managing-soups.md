@@ -5,12 +5,10 @@ topic: managing-soups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.706Z
+lastCollected: 2026-04-07T18:40:26.942Z
 estimatedTokens: 873
-keywords: [Managing, Soups, SmartStore, utility, functionality, lets, retrieve, soup, metadata, perform, soup-level, operations, hybrid, React, Native]
+keywords: [Managing, Soups, SmartStore, utility, functionality, lets, retrieve, soup, metadata, perform, soup-level, operations, hybrid, React, Native, Android, iOS, apps]
 ---
-
-# Managing Soups
 
 > SmartStore provides utility functionality
    that lets you retrieve soup metadata and perform other soup-level operations. This

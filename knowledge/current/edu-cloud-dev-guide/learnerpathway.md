@@ -5,12 +5,10 @@ topic: learnerpathway
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.176Z
+lastCollected: 2026-04-07T18:37:31.301Z
 estimatedTokens: 889
-keywords: [LearnerPathway, learner's, planned, path, completion, their, enrolled, learning, programs, API, version, 61.0, later, Calls, Associated]
+keywords: [LearnerPathway, learner's, planned, path, completion, their, enrolled, learning, programs, API, 61.0]
 ---
-
-# LearnerPathway
 
 > Represents the learner's planned path to completion of their enrolled
          learning programs. This object is available in API version 61.0 and later.

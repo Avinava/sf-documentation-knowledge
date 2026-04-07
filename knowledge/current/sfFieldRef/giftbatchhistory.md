@@ -5,12 +5,10 @@ topic: giftbatchhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.897Z
+lastCollected: 2026-04-07T18:39:42.533Z
 estimatedTokens: 256
-keywords: [GiftBatchHistory, History, tracked, GiftBatch]
+keywords: [GiftBatchHistory, tracked, GiftBatch]
 ---
-
-# GiftBatchHistory
 
 > History for tracked fields of GiftBatch.
 

@@ -5,13 +5,11 @@ topic: discoveryframeworkprefill-integration-procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.319Z
+lastCollected: 2026-04-07T18:39:03.508Z
 estimatedTokens: 1028
 namespace: DiscoveryFrmwrk
-keywords: [DiscoveryFramework_Prefill, Integration, Procedure, calls, Omnistudio, Data, Mapper, Apex, customize, prefill, flow, edit, steps, Open, app]
+keywords: [Steps, DiscoveryFramework_Prefill, Integration, Procedure, Omnistudio, Mapper, Apex, customize, prefill, flow, edit, Open, app, Procedures, expand, DiscoveryFramework, highest, _Prefill, GetAssessmentId, PreFillAssessment, call, action, args, omniScriptPreFill]
 ---
-
-# DiscoveryFramework_Prefill Integration Procedure
 
 > The DiscoveryFramework_Prefill Integration Procedure calls a
   Omnistudio

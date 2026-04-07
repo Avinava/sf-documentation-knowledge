@@ -5,12 +5,10 @@ topic: bucket-date-bucket-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.404Z
+lastCollected: 2026-04-07T18:39:18.092Z
 estimatedTokens: 109
-keywords: [Bucket, Date, Input, node, recipe]
+keywords: [Bucket, Date, node, recipe]
 ---
-
-# Bucket Date Bucket Input
 
 > A bucket for a bucket node date field in a recipe.
 

@@ -5,12 +5,10 @@ topic: productfeaturedproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.337Z
+lastCollected: 2026-04-07T18:38:38.737Z
 estimatedTokens: 696
-keywords: [ProductFeaturedProduct, user-defined, collection, featured, products, meant, cross-sell, upsell, product, API, version, 64.0, later, Calls, Special]
+keywords: [ProductFeaturedProduct, user-defined, collection, featured, products, meant, cross-sell, upsell, product, API, 64.0]
 ---
-
-# ProductFeaturedProduct
 
 > Represents the user-defined collection of featured products that are meant to
          cross-sell or upsell with your product. This object is available in API version 64.0

@@ -5,12 +5,10 @@ topic: example-serving-the-appropriate-javascript-libraries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.735Z
+lastCollected: 2026-04-07T18:40:26.068Z
 estimatedTokens: 546
 keywords: [Serving, Appropriate, Javascript, Libraries, ship, client, uses, Salesforce, Mobile, SDK, 1.3, add, files, ZIP, file]
 ---
-
-# Example: Serving the Appropriate Javascript Libraries
 
 > For example, if you ship a client that uses Salesforce
  Mobile SDK v. 1.3, add these files to your ZIP file:

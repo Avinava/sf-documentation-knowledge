@@ -5,12 +5,10 @@ topic: groupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:42.330Z
+lastCollected: 2026-04-07T18:38:33.471Z
 estimatedTokens: 497
-keywords: [GroupMember, User, Group, member, Calls, Usage]
+keywords: [GroupMember, User, Group, member]
 ---
-
-# GroupMember
 
 > Represents a User or Group that is a member of a public group.
 

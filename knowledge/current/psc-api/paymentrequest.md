@@ -5,12 +5,10 @@ topic: paymentrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.191Z
+lastCollected: 2026-04-07T18:39:08.471Z
 estimatedTokens: 1744
-keywords: [PaymentRequest, financial, compensation, goods, services, provided, third, party, API, version, 60.0, later, Calls, Special, Access]
+keywords: [PaymentRequest, financial, compensation, goods, services, provided, third, party, API, 60.0]
 ---
-
-# PaymentRequest
 
 > Represents a financial compensation request for goods or services provided by
          a third party. This object is available in API version 60.0 and later.

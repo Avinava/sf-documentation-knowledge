@@ -5,12 +5,10 @@ topic: academictermpolicyrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.493Z
+lastCollected: 2026-04-07T18:37:30.554Z
 estimatedTokens: 717
-keywords: [AcademicTermPolicyRule, junction, Academic, Term, Expression, objects, policy, rule, API, version, 63.0, later, Calls, Associated]
+keywords: [AcademicTermPolicyRule, junction, Academic, Term, Expression, policy, rule, API, 63.0]
 ---
-
-# AcademicTermPolicyRule
 
 > Represents a junction between Academic Term and Expression Set objects where
          an expression set is used as a policy rule for the academic term. This object is

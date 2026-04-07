@@ -5,12 +5,10 @@ topic: sentevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.040Z
+lastCollected: 2026-04-07T18:40:20.265Z
 estimatedTokens: 575
-keywords: [SentEvent, tracking, data, send, including, individual, subscribers, Items]
+keywords: [SentEvent, send, including, individual, subscribers, Items]
 ---
-
-# SentEvent
 
 > The SentEvent object contains tracking data related to a send, including information on individual subscribers.
 

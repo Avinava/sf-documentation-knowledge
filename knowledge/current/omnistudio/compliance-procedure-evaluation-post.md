@@ -5,12 +5,10 @@ topic: compliance-procedure-evaluation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.158Z
+lastCollected: 2026-04-07T18:36:37.787Z
 estimatedTokens: 279
 keywords: [Compliance, Procedure, Evaluation, POST, Evaluate, business, context]
 ---
-
-# Compliance Procedure Evaluation (POST)
 
 > Evaluate a compliance procedure with a business context.
 

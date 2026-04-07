@@ -5,12 +5,10 @@ topic: files-and-networking
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.550Z
+lastCollected: 2026-04-07T18:40:25.927Z
 estimatedTokens: 302
-keywords: [Files, Networking, Mobile, SDK, API, management, implements, two, levels, technology, convenience, process, file, requests, Connect]
+keywords: [Files, Networking, Mobile, SDK, API, management, implements, two, levels, technology, convenience, process, file, requests, Connect, REST, Under, level, classes, give, apps, control, over, pending]
 ---
-
-# Files and Networking
 
 > Mobile SDK provides an API for files management that implements two levels of technology. For
    files management, Mobile SDK provides convenience methods that process file requests through the

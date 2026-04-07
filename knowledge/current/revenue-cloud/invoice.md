@@ -5,12 +5,10 @@ topic: invoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:04.406Z
+lastCollected: 2026-04-07T18:35:49.358Z
 estimatedTokens: 4207
-keywords: [Invoice, financial, document, describing, total, amount, buyer, pay, provided, products, services, API, version, 62.0, later]
+keywords: [Invoice, financial, document, describing, total, amount, buyer, pay, provided, products, services, API, 62.0]
 ---
-
-# Invoice
 
 > Represents information about a financial document describing the
          total amount a buyer must pay for provided products or services. This object is

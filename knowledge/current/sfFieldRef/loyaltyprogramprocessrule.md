@@ -5,12 +5,10 @@ topic: loyaltyprogramprocessrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.230Z
+lastCollected: 2026-04-07T18:39:47.644Z
 estimatedTokens: 343
 keywords: [LoyaltyProgramProcessRule, rule, loyalty, program, process]
 ---
-
-# LoyaltyProgramProcessRule
 
 > Represents the details of a rule in a loyalty program process.
 

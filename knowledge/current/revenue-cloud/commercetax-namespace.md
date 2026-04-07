@@ -5,13 +5,11 @@ topic: commercetax-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.028Z
+lastCollected: 2026-04-07T18:35:41.869Z
 estimatedTokens: 2342
 namespace: CommerceTax
 keywords: [CommerceTax, Manage, communication, Salesforce, external, tax, engine]
 ---
-
-# CommerceTax Namespace
 
 > Manage the communication between Salesforce and an external tax engine.
 

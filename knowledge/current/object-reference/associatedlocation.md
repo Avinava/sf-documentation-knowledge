@@ -5,12 +5,10 @@ topic: associatedlocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.286Z
+lastCollected: 2026-04-07T18:38:26.233Z
 estimatedTokens: 759
-keywords: [AssociatedLocation, link, account, location, Service, associate, multiple, accounts, shopping, center, may, customer, Calls, Special, Access]
+keywords: [AssociatedLocation, link, account, location, Service, associate, multiple, accounts, shopping, center, may, customer]
 ---
-
-# AssociatedLocation
 
 > Represents a link between an account and a location in Field Service.
 			You can associate multiple accounts with one location. For example, a shopping center

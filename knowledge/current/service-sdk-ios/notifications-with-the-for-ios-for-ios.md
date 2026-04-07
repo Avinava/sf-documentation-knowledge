@@ -5,12 +5,10 @@ topic: notifications-with-the-for-ios-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.885Z
+lastCollected: 2026-04-07T18:40:28.028Z
 estimatedTokens: 339
 keywords: [Notifications, iOS, Service, Chat, SDK, display, activity]
 ---
-
-# Notifications with the for iOS for iOS
 
 > The Service Chat SDK can display notifications for activity related to
     Chat.

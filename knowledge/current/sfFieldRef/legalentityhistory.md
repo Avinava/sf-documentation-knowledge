@@ -5,12 +5,10 @@ topic: legalentityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.609Z
+lastCollected: 2026-04-07T18:39:46.155Z
 estimatedTokens: 258
-keywords: [LegalEntityHistory, History, tracked, LegalEntity]
+keywords: [LegalEntityHistory, tracked, LegalEntity]
 ---
-
-# LegalEntityHistory
 
 > History for tracked fields of LegalEntity.
 

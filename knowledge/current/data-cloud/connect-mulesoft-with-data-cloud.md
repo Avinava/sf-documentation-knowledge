@@ -5,12 +5,10 @@ topic: connect-mulesoft-with-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.693Z
+lastCollected: 2026-04-07T18:35:51.553Z
 estimatedTokens: 218
-keywords: [Connect, MuleSoft, Data, Cloud, power, ecosystem, connectors, bring, Salesforce, Connector, helps, integrate, instance, external, systems]
+keywords: [Connect, MuleSoft, Cloud, power, ecosystem, connectors, bring, Salesforce, Connector, helps, integrate, instance, external, systems, Ingestion, API, enrich, records, automating, third, parties]
 ---
-
-# Connect MuleSoft with Data Cloud
 
 > Use the power of MuleSoft and its ecosystem of data connectors to bring data into Data Cloud. The Salesforce Data Cloud Connector helps you integrate
   your Data Cloud instance with external systems. With the Ingestion API, you can

@@ -5,12 +5,10 @@ topic: how-are-the-publisher-and-quick-action-apis-different
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.230Z
+lastCollected: 2026-04-07T18:37:04.948Z
 estimatedTokens: 743
-keywords: [How, Publisher, Quick, Action, APIs, Different, user, org, dictate, development, tools, interact, actions, Salesforce, Classic]
+keywords: [How, Publisher, Quick, Action, APIs, Different, user, org, dictate, development, tools, interact, actions, Salesforce, Classic, JavaScript, Visualforce, Lightning, Experience, quickActionAPI, call]
 ---
-
-# How Are the Publisher and Quick Action APIs Different?
 
 > The user interface in your org can dictate which development tools you can use to
     interact with actions. In Salesforce Classic, you use the Salesforce Classic Publisher

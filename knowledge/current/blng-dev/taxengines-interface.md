@@ -5,12 +5,10 @@ topic: taxengines-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.869Z
+lastCollected: 2026-04-07T18:37:03.438Z
 estimatedTokens: 674
-keywords: [TaxEngines, tax, engine, implements, calculating, clearing, in-memory, entities, previous, call, legal, references, resetSObjectListofIds, resetLegalEntityReferences, calculateTax]
+keywords: [TaxEngines, tax, engine, implements, calculating, clearing, in-memory, entities, previous, call, legal, references, resetSObjectListofIds, resetLegalEntityReferences, calculateTax, taxParametersInstance]
 ---
-
-# TaxEngines Interface
 
 > Your tax engine implements this interface. It contains methods for
       calculating tax, clearing in-memory entities from the previous call, and clearing legal

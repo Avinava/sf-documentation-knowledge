@@ -5,12 +5,10 @@ topic: createinsurancequoteoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.694Z
+lastCollected: 2026-04-07T18:37:49.542Z
 estimatedTokens: 2209
-keywords: [CreateInsuranceQuoteOptions, options, creating, insurance, quote, control, pricing, execution, product, catalog, validation, configuration, qualification, rules, persistence]
+keywords: [CreateInsuranceQuoteOptions, options, creating, insurance, quote, control, pricing, execution, product, catalog, validation, configuration, qualification, persistence, selling, model, group, individual, quotes, executePricing, validateProductCatalog, executeConfigurationRules, executeQualificationRules, saveQuote, productSellingModel]
 ---
-
-# CreateInsuranceQuoteOptions Class
 
 > Contains options for creating an insurance quote. Use this class to control pricing
     execution, product catalog validation, configuration and qualification rules, quote persistence,

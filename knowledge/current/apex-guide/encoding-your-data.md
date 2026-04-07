@@ -5,12 +5,10 @@ topic: encoding-your-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.371Z
+lastCollected: 2026-04-07T18:36:17.599Z
 estimatedTokens: 156
-keywords: [Encoding, Data, encode, decode, URLs, convert, strings, hexadecimal, provided, EncodingUtil]
+keywords: [Encoding, encode, decode, URLs, convert, strings, hexadecimal, provided, EncodingUtil]
 ---
-
-# Encoding Your Data
 
 > You can encode and decode URLs and convert strings to hexadecimal
 format by using the methods provided by the EncodingUtil class.

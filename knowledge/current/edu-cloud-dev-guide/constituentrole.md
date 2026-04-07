@@ -5,12 +5,10 @@ topic: constituentrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.755Z
+lastCollected: 2026-04-07T18:37:30.820Z
 estimatedTokens: 817
-keywords: [ConstituentRole, roles, associated, individual, API, version, 57.0, later, Calls]
+keywords: [ConstituentRole, roles, individual, API, 57.0]
 ---
-
-# ConstituentRole
 
 > Contains information about roles associated with the individual. This
       object is available in API version 57.0 and later.

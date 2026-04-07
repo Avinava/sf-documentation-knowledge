@@ -5,12 +5,10 @@ topic: specify-chat-images
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.750Z
+lastCollected: 2026-04-07T18:40:09.690Z
 estimatedTokens: 799
-keywords: [Specify, Chat, Images, own, pre-chat, banner, logo, waiting, state, image, agent, Einstein, Bots, avatars, recommend]
+keywords: [Specify, Chat, Images, own, pre-chat, banner, logo, waiting, state, image, agent, Einstein, Bots, avatars, recommend, adding, Embedded, Service, setup, settings, override, created, Minimized, Avatar]
 ---
-
-# Specify Chat Images
 
 > Use your own images for the pre-chat banner, header logo, waiting state
    image, and the agent and Einstein Bots avatars. We recommend adding your images in Embedded

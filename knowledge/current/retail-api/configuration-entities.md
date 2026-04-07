@@ -5,12 +5,10 @@ topic: configuration-entities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.349Z
+lastCollected: 2026-04-07T18:39:10.834Z
 estimatedTokens: 960
-keywords: [Configuration, Entities, Business, API, records, Workflows, Output, Entity, Workflow, Step, Input, Structure]
+keywords: [Configuration, Entities, Business, API, records, Workflows, Entity, Workflow, Step, Structure]
 ---
-
-# Configuration Entities
 
 > Business Object API records contains Workflows and Output Entities.
 

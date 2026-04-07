@@ -5,12 +5,10 @@ topic: editpublishedtranslationarticleid-language-unpublish
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.504Z
+lastCollected: 2026-04-07T18:37:53.790Z
 estimatedTokens: 125
-keywords: [editPublishedTranslation, articleId, language, unpublish, Creates, draft, version, online, translation, specific, new, primary, article, unpublishes]
+keywords: [editPublishedTranslation, articleId, language, unpublish, Creates, draft, online, translation, specific, new, primary, article, unpublishes]
 ---
-
-# editPublishedTranslation(articleId, language, unpublish)
 
 > Creates a draft version of the online translation for a specific language and returns the
   new draft primary version ID of the article. Also, unpublishes the article, if set to true.

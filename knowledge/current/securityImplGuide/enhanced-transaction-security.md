@@ -5,12 +5,10 @@ topic: enhanced-transaction-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.392Z
+lastCollected: 2026-04-07T18:39:22.288Z
 estimatedTokens: 1977
-keywords: [Enhanced, Transaction, Security, framework, intercepts, real-time, events, appropriate, actions, monitor, control, user, activity, policy, conditions]
+keywords: [Enhanced, Transaction, Security, framework, intercepts, real-time, events, appropriate, actions, monitor, control, user, activity, policy, conditions, evaluate, triggered, met, Block, Multi-Factor, Authentication, Notifications, build, policies, understand, event, common, cases, included, Monitoring, Condition, Builder, Apex, Glance]
 ---
-
-# Enhanced Transaction Security
 
 > Enhanced Transaction Security is a framework that intercepts real-time events and
   applies appropriate actions to monitor and control user activity. Each transaction security policy

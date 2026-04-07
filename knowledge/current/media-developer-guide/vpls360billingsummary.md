@@ -5,12 +5,10 @@ topic: vpls360billingsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.338Z
+lastCollected: 2026-04-07T18:38:11.665Z
 estimatedTokens: 134
-keywords: [VPLS360_BillingSummary, Integration, Procedure, fetches, stub, data, billing, summary, invoices, VPLS360, _BillingSummary, Sample, Input, Output, Calls]
+keywords: [VPLS360_BillingSummary, Integration, Procedure, fetches, stub, billing, summary, invoices, VPLS360, _BillingSummary, Sample]
 ---
-
-# VPLS360_BillingSummary
 
 > This Integration Procedure fetches stub data for the
 		billing summary and for invoices.

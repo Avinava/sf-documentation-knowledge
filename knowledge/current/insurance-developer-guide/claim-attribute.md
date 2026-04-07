@@ -5,12 +5,10 @@ topic: claim-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.939Z
+lastCollected: 2026-04-07T18:37:52.019Z
 estimatedTokens: 81
-keywords: [Claim, Attribute, Output, representation]
+keywords: [Claim, Attribute]
 ---
-
-# Claim Attribute
 
 > Output representation for a claim attribute.
 

@@ -5,12 +5,10 @@ topic: tenantsecuritycustommetricsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.601Z
+lastCollected: 2026-04-07T18:38:42.356Z
 estimatedTokens: 498
-keywords: [TenantSecurityCustomMetricSetup, configuration, custom, metric, Security, Center, API, version, 61.0, later, Calls]
+keywords: [TenantSecurityCustomMetricSetup, configuration, metric, Security, Center, API, 61.0]
 ---
-
-# TenantSecurityCustomMetricSetup
 
 > Represents the configuration for a custom metric within Security Center.
       This object is available in API version 61.0 and later.

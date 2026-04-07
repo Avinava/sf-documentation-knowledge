@@ -5,12 +5,10 @@ topic: get-related-list-actions-with-a-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.404Z
+lastCollected: 2026-04-07T18:40:11.400Z
 estimatedTokens: 357
 keywords: [Actions, record, detail, resource, uses, POST, enter, instead, complex, URL]
 ---
-
-# Get Related List Actions with a Request Body
 
 > Get the actions on related lists for a record detail page. This resource uses the POST
   method so you can enter request parameters in the request body instead using complex URL

@@ -5,12 +5,10 @@ topic: day-in-week-month-quarter-or-year-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.092Z
+lastCollected: 2026-04-07T18:37:01.705Z
 estimatedTokens: 239
 keywords: [Day, Week, Month, Quarter, Year, Functions, position]
 ---
-
-# Day in Week, Month, Quarter or Year Functions
 
 > Use the following functions to find the position of a day within a week, month, quarter,
   or year.

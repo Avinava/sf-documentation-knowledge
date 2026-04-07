@@ -5,12 +5,10 @@ topic: implementation-details-and-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.768Z
+lastCollected: 2026-04-07T18:40:25.161Z
 estimatedTokens: 790
-keywords: [Implementation, Options, Besides, basic, communication, certain, standard, scenarios, apply, identity, provider, setups, Initiate, Authentication, IdP]
+keywords: [Implementation, Options, Besides, basic, communication, certain, standard, scenarios, apply, identity, provider, setups, Initiate, Authentication, IdP, App, Fetch, Salesforce, Authorization, Code, Verify, User, Selection, Result]
 ---
-
-# Implementation Details and Options
 
 > Besides the basic communication details, certain standard scenarios apply to most
     identity provider setups.

@@ -5,12 +5,10 @@ topic: retrieve-rows-from-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.313Z
+lastCollected: 2026-04-07T18:40:22.730Z
 estimatedTokens: 408
-keywords: [Retrieve, Rows, Data, Extension, AMPscript, contained, landing, interact, web, service, API, pull, back, segment, subscribers, sample, code, displays, retrieved]
+keywords: [Retrieve, Rows, Extension, AMPscript, contained, landing, interact, web, service, API, pull, back, segment, subscribers, opened, email, past, weeks, code, sample, displays, retrieved]
 ---
-
-# Retrieve Rows from a Data Extension
 
 > This sample code shows the sample code within a landing page. The table displays the data retrieved from the data extension.
 

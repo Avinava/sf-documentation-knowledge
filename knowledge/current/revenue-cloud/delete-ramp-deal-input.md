@@ -5,12 +5,10 @@ topic: delete-ramp-deal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.298Z
+lastCollected: 2026-04-07T18:35:43.184Z
 estimatedTokens: 82
-keywords: [Ramp, Deal, Input, representation]
+keywords: [Ramp, Deal]
 ---
-
-# Delete Ramp Deal Input
 
 > Input representation of the request to delete a ramp deal.
 

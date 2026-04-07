@@ -5,13 +5,11 @@ topic: dataweave-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.904Z
+lastCollected: 2026-04-07T18:36:15.216Z
 estimatedTokens: 268
 namespace: DataWeave
 keywords: [DataWeave, classes, support, invocation, scripts, Apex]
 ---
-
-# DataWeave Namespace
 
 > The DataWeave namespace provides classes and methods to support the invocation of
         DataWeave scripts from Apex.

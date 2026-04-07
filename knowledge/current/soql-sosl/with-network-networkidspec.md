@@ -5,12 +5,10 @@ topic: with-network-networkidspec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.434Z
+lastCollected: 2026-04-07T18:40:10.407Z
 estimatedTokens: 407
-keywords: [NETWORK, NetworkIdSpec, search, Experience, Cloud, site, users, feeds, clause, SOSL, query, you’re, filtering, results, represented]
+keywords: [NETWORK, NetworkIdSpec, search, Experience, Cloud, site, users, feeds, clause, SOSL, query, you’re, filtering, results, represented, NetworkId, Clauses]
 ---
-
-# WITH NETWORK NetworkIdSpec
 
 > You can search for Experience Cloud site users and feeds by using the WITH NETWORK optional clause on a SOSL query. When you’re filtering
     search results by Experience Cloud site, each site is represented by a NetworkId.

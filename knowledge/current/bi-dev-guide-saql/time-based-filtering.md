@@ -5,12 +5,10 @@ topic: time-based-filtering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.050Z
+lastCollected: 2026-04-07T18:37:00.586Z
 estimatedTokens: 1335
-keywords: [Time-Based, Filtering, SAQL, gives, ways, specify, range, dates, want, look, ops, fiscal, quarter, cases, seven]
+keywords: [Time-Based, Filtering, SAQL, gives, ways, specify, range, dates, want, look, ops, fiscal, quarter, cases, seven, days, Date, Ranges, Filters, Display, Opportunities, Closed, Month, Fixed, Relative, Open-Ended, Add, Subtract]
 ---
-
-# Time-Based Filtering
 
 > SAQL gives you many ways to specify the range of dates that you want to look at, such
         as "all ops from the last fiscal quarter" or "all cases from the last seven

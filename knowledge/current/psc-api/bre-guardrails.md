@@ -5,12 +5,10 @@ topic: bre-guardrails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.017Z
+lastCollected: 2026-04-07T18:39:02.215Z
 estimatedTokens: 85
-keywords: [BRE, Guardrails, Output, representation, component]
+keywords: [BRE, Guardrails]
 ---
-
-# BRE Guardrails
 
 > Output representation of the BRE
     guardrails

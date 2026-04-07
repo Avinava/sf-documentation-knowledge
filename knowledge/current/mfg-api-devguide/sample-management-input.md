@@ -5,12 +5,10 @@ topic: sample-management-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.348Z
+lastCollected: 2026-04-07T18:38:12.638Z
 estimatedTokens: 148
-keywords: [Sample, Management, Input, creating, updating, versioning, Product, Requirement, Specification]
+keywords: [Sample, Management, creating, updating, versioning, Product, Requirement, Specification]
 ---
-
-# Sample Management Input
 
 > Input for creating, updating, or versioning a Product Requirement
     Specification.

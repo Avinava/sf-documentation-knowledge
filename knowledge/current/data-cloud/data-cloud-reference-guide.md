@@ -5,12 +5,10 @@ topic: data-cloud-reference-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.658Z
+lastCollected: 2026-04-07T18:35:51.517Z
 estimatedTokens: 1221
-keywords: [Data, Cloud, Salesforce, programmatic, access, simple, robust, secure, RESTful, APIs, integrate, web, mobile, applications, SDKs]
+keywords: [Cloud, Salesforce, programmatic, simple, robust, secure, RESTful, APIs, integrate, web, mobile, applications, SDKs, Extend, Editions, API, Limits]
 ---
-
-# Data Cloud Reference Guide
 
 > Salesforce provides programmatic access to Data Cloud information using
     simple, robust, and secure RESTful APIs. You can also integrate your web and mobile applications

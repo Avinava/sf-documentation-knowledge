@@ -5,12 +5,10 @@ topic: cgclouduserviewc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.025Z
+lastCollected: 2026-04-07T18:39:15.534Z
 estimatedTokens: 888
-keywords: [cgcloud__User_View__c, User, View, relation, junction, API, version, 54.0, later, cgcloud, _User, _View, Calls, Associated, Objects]
+keywords: [cgcloud__User_View__c, User, View, relation, junction, API, 54.0, cgcloud, _User, _View]
 ---
-
-# cgcloud__User_View__c
 
 > This object is a User and View relation junction object. This
       object is available in API version 54.0 and later.

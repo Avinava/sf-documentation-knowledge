@@ -5,12 +5,10 @@ topic: waste-disposal-emissions-factor-set-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.379Z
+lastCollected: 2026-04-07T18:38:16.968Z
 estimatedTokens: 234
 keywords: [Waste, Disposal, Emissions, Factor, Item, individual, factors, scope, handling]
 ---
-
-# Waste Disposal Emissions Factor Set Item
 
 > The Waste Disposal Emissions Factor Set Item object represents the individual emissions
   factors for scope 3 waste handling based on the waste type and disposal type.

@@ -5,12 +5,10 @@ topic: caretask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.722Z
+lastCollected: 2026-04-07T18:39:33.130Z
 estimatedTokens: 305
-keywords: [CareTask, additional, healthcare-related, task, process, status, beneficiary, tasks, API, version, 61.0, later]
+keywords: [CareTask, additional, healthcare-related, task, process, status, beneficiary, tasks, API, 61.0]
 ---
-
-# CareTask
 
 > Represents additional information about a healthcare-related task such as
          process status, beneficiary, and related tasks. This object is available in API

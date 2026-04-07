@@ -5,12 +5,10 @@ topic: add-a-limited-access-user-to-your-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.043Z
+lastCollected: 2026-04-07T18:38:56.728Z
 estimatedTokens: 357
-keywords: [Add, Limited, Access, User, Dev, Hub, Org, Provide, developers, Salesforce, development, tools, adding, Free, license]
+keywords: [Add, Limited, User, Dev, Hub, Org, Provide, developers, Salesforce, development, tools, adding, Free, license, profile, assign, permission]
 ---
-
-# Add a Limited Access User to Your Dev Hub Org
 
 > Provide your developers access to the Dev Hub and Salesforce DX development tools by
   adding a user with Salesforce Limited Access - Free license and the Limited Access user profile in

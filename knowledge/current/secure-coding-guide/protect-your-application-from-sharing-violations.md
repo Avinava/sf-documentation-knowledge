@@ -5,12 +5,10 @@ topic: protect-your-application-from-sharing-violations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:27.959Z
+lastCollected: 2026-04-07T18:39:21.833Z
 estimatedTokens: 1095
-keywords: [Protect, Application, Sharing, Violations, Enforce, rules, prevent, inadvertent, exposure, sensitive, data, General, Considerations, Enforcing]
+keywords: [Protect, Application, Sharing, Violations, Enforce, prevent, inadvertent, exposure, sensitive, General, Considerations, Enforcing]
 ---
-
-# Protect Your Application from Sharing Violations
 
 > Enforce sharing rules to prevent inadvertent exposure of sensitive data.
 

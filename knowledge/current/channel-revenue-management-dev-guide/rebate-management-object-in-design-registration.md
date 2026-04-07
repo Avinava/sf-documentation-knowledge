@@ -5,12 +5,10 @@ topic: rebate-management-object-in-design-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.431Z
+lastCollected: 2026-04-07T18:37:06.125Z
 estimatedTokens: 155
-keywords: [Rebate, Management, Design, Registration, access, standard, manage, relationship, accounts]
+keywords: [Rebate, Management, Design, Registration, standard, manage, relationship, accounts]
 ---
-
-# Rebate Management Object in Design Registration
 
 > Rebate Management provides access to a standard object that you
                   can use in Design Registration to manage a relationship between

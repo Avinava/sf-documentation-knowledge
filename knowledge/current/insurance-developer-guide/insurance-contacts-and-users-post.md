@@ -5,12 +5,10 @@ topic: insurance-contacts-and-users-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.647Z
+lastCollected: 2026-04-07T18:37:51.707Z
 estimatedTokens: 565
-keywords: [Insurance, Contacts, Users, POST, portal, group, census, members, Contact, record, linking, appropriate, policy, association, corresponding]
+keywords: [Insurance, Contacts, Users, POST, portal, group, census, members, Contact, record, linking, appropriate, policy, association, corresponding, user, created, allow, member, log, community]
 ---
-
-# Insurance Contacts and Users (POST)
 
 > Create contacts and portal users for group census members. The Contact
    record is used for linking to the appropriate policy for policy association, and the

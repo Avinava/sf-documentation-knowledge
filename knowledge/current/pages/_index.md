@@ -2,7 +2,7 @@
 domain: pages
 name: Visualforce Developer Guide
 documentCount: 609
-lastGenerated: 2026-04-07T09:06:37.910Z
+lastGenerated: 2026-04-07T18:40:43.092Z
 ---
 
 # Visualforce Developer Guide — Knowledge Index
@@ -222,7 +222,7 @@ a valid account record must be  |
 | [best-practices-for-static-resources.md](./best-practices-for-static-resources.md) | Best Practices for Static Resources | concept | Best, Practices, Resources |
 | [best-practices-for-using.md](./best-practices-for-using.md) | Best Practices for Using | concept | Visualforce Remote Objects is an effective tool for quickly adding simple data
   |
-| [best-practices-for-using-component-facets.md](./best-practices-for-using-component-facets.md) | Best Practices for Using Component Facets | concept | Best, Practices, Component |
+| [best-practices-for-using-component-facets.md](./best-practices-for-using-component-facets.md) | Best Practices for Using Component Facets | concept | Best, Practices, Facets |
 | [build-a-custom-controller.md](./build-a-custom-controller.md) | Build a Custom Controller | api-reference | A custom controller is an Apex class that uses the default,
         no-argument  |
 | [building-a-complex-chart-with.md](./building-a-complex-chart-with.md) | Building a Complex Chart with | api-reference | Use Visualforce charting to assemble a variety of chart components into a comple |
@@ -317,7 +317,7 @@ dat |
 | [creating-an-email-attachment.md](./creating-an-email-attachment.md) | Creating an Email Attachment | api-reference | If you want to add an attachment to your email, you will need to add only a few  |
 | [creating-an-empty-html5-container-page.md](./creating-an-empty-html5-container-page.md) | Creating an Empty HTML5 “Container” Page | developer-guide | Use an empty container page when you want to bypass most of Visualforce and add  |
 | [creating-and-displaying-dynamic-components.md](./creating-and-displaying-dynamic-components.md) | Creating and Displaying Dynamic Components | api-reference | The examples in this section are deliberately simple for instructional purposes. |
-| [creating-and-using-custom-components.md](./creating-and-using-custom-components.md) | Creating and Using Custom Components | help-article | Creating, Custom, Components |
+| [creating-and-using-custom-components.md](./creating-and-using-custom-components.md) | Creating and Using Custom Components | help-article | Creating |
 | [creating-basic-maps.md](./creating-basic-maps.md) | Creating Basic Maps | developer-guide | A basic map without markers requires only an <apex:map> component. This componen |
 | [creating-maps-with-visualforce.md](./creating-maps-with-visualforce.md) | Creating Maps with Visualforce | developer-guide | Maps communicate information more clearly than mere
    location data. Visualforc |
@@ -372,7 +372,7 @@ page. |
 | [displaying-related-lists-for-custom-objects.md](./displaying-related-lists-for-custom-objects.md) | Displaying Related Lists for Custom Objects | developer-guide | Where possible, we changed noninclusive terms to align with our
   company value  |
 | [documentation-typographical-conventions.md](./documentation-typographical-conventions.md) | Documentation Typographical Conventions | developer-guide | Apex and Visualforce documentation uses these typographical conventions. |
-| [dynamic-components-restrictions.md](./dynamic-components-restrictions.md) | Dynamic Components Restrictions | help-article | Dynamic, Components, Restrictions |
+| [dynamic-components-restrictions.md](./dynamic-components-restrictions.md) | Dynamic Components Restrictions | help-article | Dynamic, Restrictions |
 | [dynamic-references-to-action-methods-using-action.md](./dynamic-references-to-action-methods-using-action.md) | Dynamic References to Action Methods Using  $Action | api-reference | The $Action global variable allows you to
         dynamically reference valid ac |
 | [dynamic-references-to-global-variables.md](./dynamic-references-to-global-variables.md) | Dynamic References to Global Variables | developer-guide | Visualforce pages can use dynamic
@@ -537,7 +537,7 @@ cookie can only be accessed through HTTPS, otherwise returns |
             Apex contr |
 | [javascript-remoting-limits-and-considerations.md](./javascript-remoting-limits-and-considerations.md) | JavaScript Remoting Limits and Considerations | concept | Although JavaScript remoting isn’t subject to some resource limits, it has other |
 | [knowledgearticlecasetoolbar.md](./knowledgearticlecasetoolbar.md) | knowledge:articleCaseToolbar | developer-guide | UI component used when an article is opened from the case detail page. This comp |
-| [knowledgearticlelist.md](./knowledgearticlelist.md) | knowledge:articleList | developer-guide | knowledge, articleList, displays |
+| [knowledgearticlelist.md](./knowledgearticlelist.md) | knowledge:articleList | developer-guide | Attributes, knowledge, articleList |
 | [knowledgearticlerenderertoolbar.md](./knowledgearticlerenderertoolbar.md) | knowledge:articleRendererToolbar | developer-guide | Displays a header toolbar for an article. This toolbar includes voting stars, a  |
 | [knowledgearticletypelist.md](./knowledgearticletypelist.md) | knowledge:articleTypeList | developer-guide | A loop on all available article types. |
 | [knowledgecategorylist.md](./knowledgecategorylist.md) | knowledge:categoryList | developer-guide | A loop on a subset of the category hierarchy. The total number of categories dis |

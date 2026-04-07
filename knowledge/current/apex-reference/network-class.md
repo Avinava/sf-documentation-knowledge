@@ -5,13 +5,11 @@ topic: network-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.539Z
+lastCollected: 2026-04-07T18:36:03.769Z
 estimatedTokens: 3181
 namespace: System
-keywords: [Network, Asynchronously, creates, Experience, Cloud, site, user, account, contact, associates, processes, requests, batches, email, login]
+keywords: [Network, Asynchronously, creates, Experience, Cloud, site, user, account, contact, associates, processes, requests, batches, email, login, communitiesLanding, createExternalUserAsync, createRecordAsync, processType, mbObject, forwardToAuthPage, startURL, getLoginUrl, networkId, getLogoutUrl, getNetworkId, getSelfRegUrl]
 ---
-
-# Network Class
 
 > Asynchronously creates an Experience Cloud site user for the given
       account or contact and associates it with the site. This method processes requests in batches

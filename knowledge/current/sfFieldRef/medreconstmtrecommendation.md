@@ -5,12 +5,10 @@ topic: medreconstmtrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.766Z
+lastCollected: 2026-04-07T18:39:48.195Z
 estimatedTokens: 384
 keywords: [MedReconStmtRecommendation, Associates, medication, recommendation, statement, reconciliation]
 ---
-
-# MedReconStmtRecommendation
 
 > Associates a medication recommendation to a medication statement and
          medication reconciliation.

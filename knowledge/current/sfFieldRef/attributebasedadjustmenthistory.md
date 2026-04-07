@@ -5,12 +5,10 @@ topic: attributebasedadjustmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.169Z
+lastCollected: 2026-04-07T18:39:28.210Z
 estimatedTokens: 275
-keywords: [AttributeBasedAdjustmentHistory, History, tracked, AttributeBasedAdjustment]
+keywords: [AttributeBasedAdjustmentHistory, tracked, AttributeBasedAdjustment]
 ---
-
-# AttributeBasedAdjustmentHistory
 
 > History for tracked fields of AttributeBasedAdjustment.
 

@@ -5,12 +5,10 @@ topic: before-you-begin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.743Z
+lastCollected: 2026-04-07T18:38:04.891Z
 estimatedTokens: 401
-keywords: [Begin, work, Lightning, apps, components, Developer, Edition, org]
+keywords: [Begin, work, Lightning, apps, Developer, Edition, org]
 ---
-
-# Before You Begin
 
 > To work with Lightning apps and components, create a Developer Edition org.
 

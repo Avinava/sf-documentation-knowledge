@@ -5,12 +5,10 @@ topic: asynchronous-processing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.260Z
+lastCollected: 2026-04-07T18:40:15.322Z
 estimatedTokens: 564
-keywords: [Asynchronous, Processing, works, queueing, SOAP, API, calls, async, server, they, processed, Marketing, Cloud, scheduled, future, technical, articles]
+keywords: [Asynchronous, Processing, works, queueing, SOAP, API, async, server, they, processed, Marketing, Cloud, scheduled, future, improves, responsiveness, speed, Started, Limitations, Synchronous, technical, articles]
 ---
-
-# Asynchronous Processing
 
 > Asynchronous processing works by queueing SOAP API calls in an async server before they are processed. Calls are then processed as Marketing Cloud is available or scheduled to be processed in the future. Asynchronous processing improves the responsiveness and processing speed of Marketing Cloud SOAP
 

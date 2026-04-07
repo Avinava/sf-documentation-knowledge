@@ -5,12 +5,10 @@ topic: apexvariable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.605Z
+lastCollected: 2026-04-07T18:38:50.839Z
 estimatedTokens: 352
-keywords: [apex, variable, local, replacement, expression, component, <apex, variable>, reduce, repetitive, verbose, expressions, Attributes]
+keywords: [Attributes, apex, variable, local, replacement, expression, <apex, variable>, reduce, repetitive, verbose, expressions]
 ---
-
-# apex:variable
 
 > A local variable that can be used as a replacement for a specified expression within the body of the component. Use <apex:variable> to reduce repetitive and verbose expressions within a page.
 

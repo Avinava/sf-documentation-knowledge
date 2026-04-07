@@ -5,12 +5,10 @@ topic: apex-unexpected-exception-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.931Z
+lastCollected: 2026-04-07T18:38:30.746Z
 estimatedTokens: 1111
-keywords: [Apex, Unexpected, Exception, Event, captures, exceptions, code, execution, EventLogFile, API, version, 45.0, later, captured, @IsTest]
+keywords: [Apex, Unexpected, Exception, Event, captures, exceptions, code, execution, EventLogFile, API, 45.0, captured, @IsTest, anonymous]
 ---
-
-# Apex Unexpected Exception Event Type
 
 > The Apex Unexpected Exception event type captures information about
          unexpected exceptions in Apex code execution. This event type is available in the

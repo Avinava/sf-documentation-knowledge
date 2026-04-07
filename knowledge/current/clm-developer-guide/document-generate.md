@@ -5,12 +5,10 @@ topic: document-generate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.207Z
+lastCollected: 2026-04-07T18:37:25.147Z
 estimatedTokens: 162
-keywords: [Document, Generate, Output, Representation, generation, record]
+keywords: [Document, Generate, generation, record]
 ---
-
-# Document Generate
 
 > Output Representation of document generation record.
 

@@ -5,13 +5,11 @@ topic: queryutils-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.629Z
+lastCollected: 2026-04-07T18:35:59.906Z
 estimatedTokens: 2506
 namespace: DataSource
-keywords: [QueryUtils, helper, locally, filter, sort, apply, limit, offset, clauses, data, rows, provided, convenience, early, development]
+keywords: [QueryUtils, helper, locally, filter, sort, apply, limit, offset, clauses, rows, provided, convenience, early, development, tests, isn’t, production, environments, applyLimitAndOffset, queryContext, process]
 ---
-
-# QueryUtils Class
 
 > Contains helper methods to locally filter, sort, and apply limit and
       offset clauses to data rows. This helper class is provided for your convenience during early

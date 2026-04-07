@@ -5,12 +5,10 @@ topic: configurator-product-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.316Z
+lastCollected: 2026-04-07T18:37:26.225Z
 estimatedTokens: 105
-keywords: [Configurator, Product, Recommendations, Output, representation]
+keywords: [Configurator, Product, Recommendations]
 ---
-
-# Configurator Product Recommendations
 
 > Output representation of the details of the product recommendations.
 

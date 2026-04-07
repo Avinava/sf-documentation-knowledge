@@ -5,12 +5,10 @@ topic: monitor-the-dailyaggregation-crm-analytics-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.284Z
+lastCollected: 2026-04-07T18:38:54.675Z
 estimatedTokens: 182
 keywords: [Monitor, DailyAggregation, CRM, Analytics, Recipe, recipes, take, steps, status]
 ---
-
-# Monitor the DailyAggregation CRM Analytics Recipe
 
 > CRM Analytics recipes can take a while to complete. Use these steps to monitor the
   status of your DailyAggregation recipe.

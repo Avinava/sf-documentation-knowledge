@@ -5,12 +5,10 @@ topic: claimpaymentsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.551Z
+lastCollected: 2026-04-07T18:39:33.980Z
 estimatedTokens: 269
-keywords: [ClaimPaymentSummaryHistory, History, tracked, ClaimPaymentSummary]
+keywords: [ClaimPaymentSummaryHistory, tracked, ClaimPaymentSummary]
 ---
-
-# ClaimPaymentSummaryHistory
 
 > History for tracked fields of ClaimPaymentSummary.
 

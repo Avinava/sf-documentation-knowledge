@@ -5,12 +5,10 @@ topic: getting-started-with-streaming-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.122Z
+lastCollected: 2026-04-07T18:36:51.440Z
 estimatedTokens: 1278
-keywords: [Getting, Started, Streaming, API, events, push, technology, subscription, mechanism, receiving, near, real, time, supports, multiple]
+keywords: [Getting, Started, Streaming, API, events, push, technology, subscription, mechanism, receiving, near, real, time, supports, multiple, including, PushTopic, generic, platform, change, capture]
 ---
-
-# Getting Started with Streaming API
 
 > Streaming API enables streaming of events using push technology and provides a
     subscription mechanism for receiving events in near real time. The Streaming API subscription

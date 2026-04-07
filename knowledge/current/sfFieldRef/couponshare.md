@@ -5,12 +5,10 @@ topic: couponshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.523Z
+lastCollected: 2026-04-07T18:39:35.976Z
 estimatedTokens: 246
 keywords: [CouponShare, Sharing, Coupon]
 ---
-
-# CouponShare
 
 > Sharing for Coupon.
 

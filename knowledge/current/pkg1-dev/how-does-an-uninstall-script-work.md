@@ -5,12 +5,10 @@ topic: how-does-an-uninstall-script-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.785Z
+lastCollected: 2026-04-07T18:38:53.083Z
 estimatedTokens: 186
 keywords: [How, Uninstall, Script, Work, Apex, implements, UninstallHandler, onUninstall, actions, performed]
 ---
-
-# How Does an Uninstall Script Work?
 
 > An uninstall script is an Apex class that implements the UninstallHandler interface. This interface has a single method called onUninstall that specifies the actions to be performed on
     uninstall.

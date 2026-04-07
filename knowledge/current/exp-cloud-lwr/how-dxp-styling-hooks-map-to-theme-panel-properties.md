@@ -5,12 +5,10 @@ topic: how---dxp-styling-hooks-map-to-theme-panel-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.875Z
+lastCollected: 2026-04-07T18:37:33.165Z
 estimatedTokens: 3440
-keywords: [How, --dxp, Styling, Hooks, Map, Theme, Panel, declarative, maps, programmatic, user, updates, system, automatically, any]
+keywords: [Colors, Images, Text, Buttons, Forms, How, --dxp, Styling, Hooks, Map, Theme, Panel, declarative, maps, programmatic, user, updates, system, automatically, any, Lightning, web, uses, branding, Site, Spacing, Button]
 ---
-
-# How --dxp Styling Hooks Map to Theme Panel Properties
 
 > Each declarative property in the Theme panel maps to one or more programmatic --dxp styling hooks. When a user updates a property in the Theme
     panel, the system automatically updates any Lightning web component that uses the hooks

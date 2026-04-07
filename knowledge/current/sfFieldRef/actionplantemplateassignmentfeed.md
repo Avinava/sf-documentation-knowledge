@@ -5,12 +5,10 @@ topic: actionplantemplateassignmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.661Z
+lastCollected: 2026-04-07T18:39:24.578Z
 estimatedTokens: 367
-keywords: [ActionPlanTemplateAssignmentFeed, Feed, tracking, ActionPlanTemplateAssignment]
+keywords: [ActionPlanTemplateAssignmentFeed, ActionPlanTemplateAssignment]
 ---
-
-# ActionPlanTemplateAssignmentFeed
 
 > Feed tracking for ActionPlanTemplateAssignment.
 

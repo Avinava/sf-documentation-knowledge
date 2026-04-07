@@ -5,12 +5,10 @@ topic: contact-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.677Z
+lastCollected: 2026-04-07T18:40:15.787Z
 estimatedTokens: 489
-keywords: [Contact, Event, entry, provide, check, against, contact's, attributes, determines, injected, journey, decision, split, activity, Specification]
+keywords: [Contact, Event, entry, provide, check, against, contact's, attributes, determines, injected, journey, decision, split, activity, Specification, Helpful, Hints, Sample, Items]
 ---
-
-# Contact Event
 
 > The event is used as the default entry event to provide a boolean check against a contact's attributes, that determines if a contact should be injected into a journey. This is the same check used in the decision split activity.
 

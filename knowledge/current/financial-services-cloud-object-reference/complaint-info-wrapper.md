@@ -5,12 +5,10 @@ topic: complaint-info-wrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.042Z
+lastCollected: 2026-04-07T18:37:34.591Z
 estimatedTokens: 644
-keywords: [Complaint, Info, Wrapper, Input, representation]
+keywords: [Complaint, Info, Wrapper]
 ---
-
-# Complaint Info Wrapper
 
 > Input representation of the complaint details.
 

@@ -5,12 +5,10 @@ topic: benefit-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.997Z
+lastCollected: 2026-04-07T18:39:02.189Z
 estimatedTokens: 67
-keywords: [Benefit, Output, representation, records]
+keywords: [Benefit, records]
 ---
-
-# Benefit List
 
 > Output representation of the benefit records.
 

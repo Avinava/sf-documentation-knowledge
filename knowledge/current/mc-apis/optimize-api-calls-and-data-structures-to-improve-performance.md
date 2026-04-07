@@ -5,12 +5,10 @@ topic: optimize-api-calls-and-data-structures-to-improve-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.830Z
+lastCollected: 2026-04-07T18:40:18.015Z
 estimatedTokens: 2288
-keywords: [Optimize, API, Calls, Data, Structures, Improve, Performance, depend, factors, server, speed, processing, power, perform, highest]
+keywords: [Optimize, API, Structures, Improve, Performance, depend, factors, server, speed, processing, power, perform, highest, possible, level, series, best, practices, designed, reduce, amount, time, impact, account, require, order, accomplish, activities, Adding, Importing, Subscribers, Modifying, Contacts, Attributes, Multiple, Performing, Interacting, Extensions, Creating, Updating, Extension, Rows, Triggered, Send, Business, Units, Optimum, Thresholds, Items]
 ---
-
-# Optimize API Calls and Data Structures to Improve Performance
 
 > Your API calls depend on many more factors than server speed and processing power to perform at the highest possible level. This page contains a series of best practices designed to reduce the amount of time and impact on your account your API calls require in order to accomplish your activities.
 

@@ -6,13 +6,10 @@ topic: apex-considerations-for-salesforce-connect-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.429Z
+lastCollected: 2026-04-07T18:36:17.659Z
 estimatedTokens: 974
-keywords: [Apex, Considerations, Salesforce, Connect, External, Objects, code, access, data, via, any, adapter, requirements, limitations, apply]
+keywords: [Apex, Considerations, Salesforce, Connect, External, code, via, any, adapter, requirements, limitations, apply]
 ---
-
-# Apex Considerations for Salesforce Connect External
-  Objects
 
 > Apex code can access external object data via any Salesforce Connect adapter, but some
   requirements and limitations apply.

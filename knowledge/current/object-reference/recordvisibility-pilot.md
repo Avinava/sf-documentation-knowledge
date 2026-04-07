@@ -5,12 +5,10 @@ topic: recordvisibility-pilot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.230Z
+lastCollected: 2026-04-07T18:38:39.815Z
 estimatedTokens: 725
-keywords: [RecordVisibility, Pilot, visibility, attributes, determine, record’s, access, API, version, 46.0, later, Calls, Special, Rules, Usage]
+keywords: [RecordVisibility, Pilot, visibility, attributes, determine, record’s, API, 46.0]
 ---
-
-# RecordVisibility (Pilot)
 
 > Represents the visibility attributes that determine a record’s read
 			access. This object is read only and is available in API version 46.0 and

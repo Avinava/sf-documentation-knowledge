@@ -5,12 +5,10 @@ topic: using-expressions-in-tokens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.570Z
+lastCollected: 2026-04-07T18:38:05.787Z
 estimatedTokens: 882
 keywords: [Expressions, Tokens, support, restricted, reuse, token, another, combine, form, complex, style, Cross-Referencing, Combining]
 ---
-
-# Using Expressions in Tokens
 
 > Tokens support a restricted set of expressions. Use expressions to reuse one token
     value in another token, or to combine tokens to form a more complex style property.

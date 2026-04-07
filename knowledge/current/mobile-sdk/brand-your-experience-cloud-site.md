@@ -5,12 +5,10 @@ topic: brand-your-experience-cloud-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.899Z
+lastCollected: 2026-04-07T18:40:25.263Z
 estimatedTokens: 612
-keywords: [Brand, Experience, Cloud, Site, Salesforce, Tabs, Visualforce, template, customize, look, feel, Workspaces, adding, company, logo]
+keywords: [Brand, Experience, Cloud, Site, Salesforce, Tabs, Visualforce, template, customize, look, feel, Workspaces, adding, company, logo, colors, copyright, Customizing, ensures, matches, company’s, branding, instantly, recognizable, members]
 ---
-
-# Brand Your Experience Cloud Site
 
 > If you are using the Salesforce Tabs + Visualforce template, you can customize the look
   and feel of your Experience Cloud site in Experience Workspaces. You can customize by adding your

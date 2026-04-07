@@ -5,12 +5,10 @@ topic: scope3crbnftprnthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.105Z
+lastCollected: 2026-04-07T18:40:00.870Z
 estimatedTokens: 268
-keywords: [Scope3CrbnFtprntHistory, History, tracked, Scope3CrbnFtprnt]
+keywords: [Scope3CrbnFtprntHistory, tracked, Scope3CrbnFtprnt]
 ---
-
-# Scope3CrbnFtprntHistory
 
 > History for tracked fields of Scope3CrbnFtprnt.
 

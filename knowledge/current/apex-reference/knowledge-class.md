@@ -5,13 +5,11 @@ topic: knowledge-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.797Z
+lastCollected: 2026-04-07T18:35:58.133Z
 estimatedTokens: 2696
 namespace: ConnectApi
-keywords: [Knowledge, trending, articles, topic, Experience, Cloud, site, getTopViewedArticlesForTopic, communityId, topicId, maxResults, API, Version, Guest, Users]
+keywords: [Knowledge, trending, articles, topic, Experience, Cloud, site, getTopViewedArticlesForTopic, communityId, topicId, maxResults, API, Guest, Users, Requires, Chatter, getTrendingArticles, getTrendingArticlesForTopic, Test, setTestGetTrendingArticles, result, setTestGetTrendingArticlesForTopic]
 ---
-
-# Knowledge Class
 
 > Get the trending articles for a topic in an Experience Cloud
       site.

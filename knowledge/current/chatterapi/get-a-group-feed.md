@@ -5,12 +5,10 @@ topic: get-a-group-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.171Z
+lastCollected: 2026-04-07T18:37:24.219Z
 estimatedTokens: 111
-keywords: [Group, Feed, Chatter]
+keywords: [Group, Chatter]
 ---
-
-# Get a Group Feed
 
 > Get a Chatter group feed.
 

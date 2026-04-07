@@ -5,12 +5,10 @@ topic: visitedpartyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.103Z
+lastCollected: 2026-04-07T18:40:05.994Z
 estimatedTokens: 260
-keywords: [VisitedPartyHistory, History, tracked, VisitedParty]
+keywords: [VisitedPartyHistory, tracked, VisitedParty]
 ---
-
-# VisitedPartyHistory
 
 > History for tracked fields of VisitedParty.
 

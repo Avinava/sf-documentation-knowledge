@@ -5,12 +5,10 @@ topic: interact-with-nfc-tags-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.452Z
+lastCollected: 2026-04-07T18:38:15.986Z
 estimatedTokens: 570
-keywords: [Interact, NFC, Tags, Mobile, Device, Lightning, web, component, device’s, native, functionality, erase, write, operation, successful]
+keywords: [Interact, NFC, Tags, Mobile, Device, Lightning, web, device’s, native, functionality, erase, write, operation, successful, text, extracted, tag, simple, success, message, invoked]
 ---
-
-# Interact with NFC Tags on a Mobile Device
 
 > A Lightning web component can use a device’s native NFC functionality to read, erase,
     and write to NFC tags. When an NFC operation is successful, the text data extracted from the NFC

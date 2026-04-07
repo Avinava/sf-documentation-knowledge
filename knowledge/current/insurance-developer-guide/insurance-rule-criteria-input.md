@@ -5,12 +5,10 @@ topic: insurance-rule-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.212Z
+lastCollected: 2026-04-07T18:37:51.163Z
 estimatedTokens: 205
-keywords: [Insurance, Rule, Criteria, Input, representation]
+keywords: [Insurance, Rule, Criteria]
 ---
-
-# Insurance Rule Criteria Input
 
 > Input representation details of the insurance rule criteria.
 

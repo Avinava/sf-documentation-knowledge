@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.478Z
+lastCollected: 2026-04-07T18:38:12.777Z
 estimatedTokens: 606
 keywords: [Bodies, Here’s, Manufacturing, Cloud, Business, API]
 ---
-
-# Response Bodies
 
 > Here’s a list of Manufacturing Cloud Business API response bodies.
 

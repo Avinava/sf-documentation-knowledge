@@ -5,12 +5,10 @@ topic: extending-tokens-bundles
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.574Z
+lastCollected: 2026-04-07T18:38:05.792Z
 estimatedTokens: 535
 keywords: [Extending, Tokens, Bundles, extends, attribute, extend, bundle, another]
 ---
-
-# Extending Tokens Bundles
 
 > Use the extends attribute to extend one tokens
   bundle from another.

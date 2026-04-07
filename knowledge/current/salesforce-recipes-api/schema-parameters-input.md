@@ -5,12 +5,10 @@ topic: schema-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.970Z
+lastCollected: 2026-04-07T18:39:18.702Z
 estimatedTokens: 102
-keywords: [Schema, Input, node, recipe]
+keywords: [Schema, node, recipe]
 ---
-
-# Schema Parameters Input
 
 > The parameters for a schema node in a recipe.
 

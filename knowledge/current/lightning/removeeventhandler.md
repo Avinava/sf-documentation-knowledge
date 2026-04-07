@@ -5,12 +5,10 @@ topic: removeeventhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.252Z
+lastCollected: 2026-04-07T18:38:05.458Z
 estimatedTokens: 179
-keywords: [removeEventHandler, Dynamically, removes, component, event, handler]
+keywords: [removeEventHandler, Dynamically, removes, event, handler]
 ---
-
-# removeEventHandler()
 
 > Dynamically removes a component event handler for the specified
    event.

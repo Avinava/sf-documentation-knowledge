@@ -5,12 +5,10 @@ topic: meta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.739Z
+lastCollected: 2026-04-07T18:40:17.922Z
 estimatedTokens: 104
-keywords: [Meta, much, data, internal, functionality, Content, Builder, channel-specific, attributes, instead, leverage, attribute, sure, pass, API]
+keywords: [Meta, much, internal, functionality, Content, Builder, channel-specific, attributes, instead, leverage, attribute, sure, pass, API, Items]
 ---
-
-# Meta
 
 > Meta is used much like data but for internal functionality in Content Builder. Use channel-specific attributes instead of meta to leverage the data attribute. If meta is returned, be sure to pass it through the API.
 

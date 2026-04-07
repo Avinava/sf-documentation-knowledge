@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-coupon
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.452Z
+lastCollected: 2026-04-07T18:37:12.329Z
 estimatedTokens: 304
 keywords: [Commerce, Webstore, Cart, Coupon]
 ---
-
-# Commerce Webstore Cart Coupon
 
 > Delete a coupon from a cart.
 

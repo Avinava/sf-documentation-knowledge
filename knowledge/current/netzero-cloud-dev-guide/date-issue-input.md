@@ -5,12 +5,10 @@ topic: date-issue-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.610Z
+lastCollected: 2026-04-07T18:38:16.150Z
 estimatedTokens: 211
-keywords: [Date, Issue, Input, representation, energy, consumption, records, having, issues]
+keywords: [Date, Issue, energy, consumption, records, having, issues]
 ---
-
-# Date Issue Input
 
 > Input representation of the request to get energy consumption
       records having date issues.

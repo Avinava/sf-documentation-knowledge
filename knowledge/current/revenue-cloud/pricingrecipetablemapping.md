@@ -5,12 +5,10 @@ topic: pricingrecipetablemapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.957Z
+lastCollected: 2026-04-07T18:35:49.921Z
 estimatedTokens: 505
-keywords: [PricingRecipeTableMapping, mapping, pricing, components, lookup, chosen, recipe, API, version, 60.0, later, Calls]
+keywords: [PricingRecipeTableMapping, mapping, pricing, lookup, chosen, recipe, API, 60.0]
 ---
-
-# PricingRecipeTableMapping
 
 > Represents the mapping of pricing components of a lookup table with the
          chosen pricing recipe. This object is available in API version 60.0 and later.

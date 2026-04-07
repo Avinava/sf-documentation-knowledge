@@ -5,12 +5,10 @@ topic: task
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.958Z
+lastCollected: 2026-04-07T18:40:03.675Z
 estimatedTokens: 791
 keywords: [Task, business, activity, making, phone, call, to-do, items, user, Event, records, collectively, referred, activities]
 ---
-
-# Task
 
 > Represents a business activity such as making a phone call or other
 			to-do items. In the user interface, Task and Event records are collectively referred to

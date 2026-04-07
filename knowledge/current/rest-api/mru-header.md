@@ -5,12 +5,10 @@ topic: mru-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:34.900Z
+lastCollected: 2026-04-07T18:36:20.116Z
 estimatedTokens: 515
-keywords: [MRU, record, created, updated, upserted, retrieved, updates, recently, items, shown, Recent, sidebar, Salesforce, user, API]
+keywords: [MRU, record, created, updated, upserted, retrieved, updates, recently, items, shown, Recent, sidebar, Salesforce, user, API, 60.0]
 ---
-
-# MRU Header
 
 > Defines if the record that is created, updated, upserted, or retrieved updates the list
   of most recently used (MRU) items. MRU items are shown in the Recent Items section of the sidebar

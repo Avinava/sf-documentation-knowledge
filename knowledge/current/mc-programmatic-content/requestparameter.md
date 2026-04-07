@@ -5,12 +5,10 @@ topic: requestparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.306Z
+lastCollected: 2026-04-07T18:40:22.718Z
 estimatedTokens: 130
-keywords: [RequestParameter, queryParam, Function, Ordinal, **Overview**, **Syntax**, Usage]
+keywords: [RequestParameter, queryParam, Function, Ordinal, **Overview**, **Syntax**]
 ---
-
-# RequestParameter
 
 > RequestParameter(queryParam)
 

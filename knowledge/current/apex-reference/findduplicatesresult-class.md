@@ -5,13 +5,11 @@ topic: findduplicatesresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.810Z
+lastCollected: 2026-04-07T18:36:00.089Z
 estimatedTokens: 1684
 namespace: Datacloud
-keywords: [FindDuplicatesResult, Output, rule-based, searches, duplicate, records, results, detecting, duplicates, instances, FindDuplicates, FindDuplicatesByIds, classes, duplicateresults, errors]
+keywords: [FindDuplicatesResult, rule-based, searches, duplicate, records, results, detecting, duplicates, instances, FindDuplicates, FindDuplicatesByIds, classes, duplicateresults, errors, success, getDuplicateResults, getErrors, isSuccess]
 ---
-
-# FindDuplicatesResult Class
 
 > Output for rule-based searches for duplicate records. FindDuplicatesResult contains results of detecting duplicates
       using instances of FindDuplicates or FindDuplicatesByIds classes.

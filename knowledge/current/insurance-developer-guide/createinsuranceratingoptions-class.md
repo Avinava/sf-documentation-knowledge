@@ -5,12 +5,10 @@ topic: createinsuranceratingoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.703Z
+lastCollected: 2026-04-07T18:37:49.552Z
 estimatedTokens: 1927
-keywords: [CreateInsuranceRatingOptions, options, creating, insurance, rating, control, pricing, execution, configuration, rules, data, context, JSON, product, results]
+keywords: [CreateInsuranceRatingOptions, options, creating, insurance, rating, control, pricing, execution, configuration, context, JSON, product, results, running, operation, executePricing, executeConfigurationRules, returnContextJSON, returnProductDetails, returnRatingResults]
 ---
-
-# CreateInsuranceRatingOptions Class
 
 > Contains options for creating an insurance rating. Use this class to control pricing
     execution, configuration rules, and the response data, such as context JSON, product details,

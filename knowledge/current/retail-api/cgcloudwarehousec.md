@@ -5,12 +5,10 @@ topic: cgcloudwarehousec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.125Z
+lastCollected: 2026-04-07T18:39:15.644Z
 estimatedTokens: 2010
-keywords: [cgcloud__Warehouse__c, Stores, warehouse, organizational, segmentation, purpose, maintaining, materials, stored, different, places, API, version, 54.0, later]
+keywords: [cgcloud__Warehouse__c, Stores, warehouse, organizational, segmentation, purpose, maintaining, materials, stored, different, places, API, 54.0, cgcloud, _Warehouse]
 ---
-
-# cgcloud__Warehouse__c
 
 > Stores the details of the warehouse object. An organizational
          segmentation for the purpose of maintaining materials that are stored in different

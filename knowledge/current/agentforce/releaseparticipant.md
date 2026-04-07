@@ -5,12 +5,10 @@ topic: releaseparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.255Z
+lastCollected: 2026-04-07T18:35:55.365Z
 estimatedTokens: 352
-keywords: [ReleaseParticipant, relationship, release, user, group, participates, owner, manager, API, version, 65.0, later, Calls]
+keywords: [ReleaseParticipant, relationship, release, user, group, participates, owner, manager, API, 65.0]
 ---
-
-# ReleaseParticipant
 
 > Represents the relationship between a release and a user or group who
          participates in a release, such as an owner or a manager. This object is available in

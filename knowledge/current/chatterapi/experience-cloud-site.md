@@ -5,12 +5,10 @@ topic: experience-cloud-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.979Z
+lastCollected: 2026-04-07T18:37:12.876Z
 estimatedTokens: 178
 keywords: [Experience, Cloud, Site]
 ---
-
-# Experience Cloud Site
 
 > Get information about an Experience Cloud site.
 

@@ -5,12 +5,10 @@ topic: datakitobjecttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.054Z
+lastCollected: 2026-04-07T18:36:24.390Z
 estimatedTokens: 934
-keywords: [DataKitObjectTemplate, Data, Kit, Template, templates, added, inside, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [DataKitObjectTemplate, Kit, Template, templates, added, inside, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataKitObjectTemplate
 
 > Represents the object in Data Kit Object Template.
       These object templates are added inside the data kit.

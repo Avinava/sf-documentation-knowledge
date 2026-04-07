@@ -5,12 +5,10 @@ topic: initiate-file-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.816Z
+lastCollected: 2026-04-07T18:39:01.966Z
 estimatedTokens: 291
 keywords: [Initiate, File, Upload, API, multi-part, unique, identifier, part]
 ---
-
-# Initiate File Upload
 
 > This API sends a request to initiate a multi-part upload. It returns a response with an
   upload ID, which is a unique identifier for the multi-part upload. This identifier is optional for

@@ -5,12 +5,10 @@ topic: cancel-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.922Z
+lastCollected: 2026-04-07T18:37:48.628Z
 estimatedTokens: 212
-keywords: [Cancel, Insurance, Policy, Action, user, inputs, represent, REST, HTTP, Outputs]
+keywords: [Inputs, Outputs, Cancel, Insurance, Policy, Action, user, represent, REST, HTTP]
 ---
-
-# Cancel Insurance Policy Action
 
 > Cancel an insurance policy by using a set of user inputs that represent policy
     details.

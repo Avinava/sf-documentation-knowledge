@@ -5,12 +5,10 @@ topic: applicationformrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.563Z
+lastCollected: 2026-04-07T18:39:05.560Z
 estimatedTokens: 826
-keywords: [ApplicationFormRelation, relationship, application, context, it’s, held, form, recruitment, requisition, API, version, 62.0, later, Calls, Special]
+keywords: [ApplicationFormRelation, relationship, application, context, it’s, held, form, recruitment, requisition, API, 62.0]
 ---
-
-# ApplicationFormRelation
 
 > Represents the relationship between an application and the context in which
          it’s held. For example, a application form related to recruitment requisition. This

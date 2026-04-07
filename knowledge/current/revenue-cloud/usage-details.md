@@ -5,12 +5,10 @@ topic: usage-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.934Z
+lastCollected: 2026-04-07T18:35:46.945Z
 estimatedTokens: 390
-keywords: [Usage, Output, representation, quote, order, asset]
+keywords: [quote, order, asset]
 ---
-
-# Usage Details
 
 > Output representation of the usage details of a quote, an order, or an asset.
 

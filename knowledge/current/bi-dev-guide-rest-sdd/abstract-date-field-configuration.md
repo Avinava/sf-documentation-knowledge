@@ -5,12 +5,10 @@ topic: abstract-date-field-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.715Z
+lastCollected: 2026-04-07T18:36:59.209Z
 estimatedTokens: 286
 keywords: [Abstract, Date, Configuration, base, Einstein, Discovery]
 ---
-
-# Abstract Date Field Configuration
 
 > The base Einstein Discovery date field configuration.
 

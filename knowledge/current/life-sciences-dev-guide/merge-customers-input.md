@@ -5,12 +5,10 @@ topic: merge-customers-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.873Z
+lastCollected: 2026-04-07T18:37:55.239Z
 estimatedTokens: 292
-keywords: [Merge, Customers, Input, Consolidated, Account, Merged]
+keywords: [Merge, Customers, Consolidated, Account, Merged]
 ---
-
-# Merge Customers Input
 
 > The request to merge a Consolidated Account with a Merged Account.
 

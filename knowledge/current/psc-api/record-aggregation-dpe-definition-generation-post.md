@@ -5,12 +5,10 @@ topic: record-aggregation-dpe-definition-generation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.693Z
+lastCollected: 2026-04-07T18:39:01.838Z
 estimatedTokens: 435
-keywords: [Record, Aggregation, DPE, Definition, Generation, POST, Generate, Data, Processing, Engine, definitions, configured, Run, aggregate, records]
+keywords: [Record, Aggregation, DPE, Definition, Generation, POST, Generate, Processing, Engine, definitions, configured, Run, aggregate, records]
 ---
-
-# Record Aggregation DPE Definition Generation (POST)
 
 > Generate a Data Processing Engine (DPE) definition for the record
       aggregation definitions that you have configured. Run the DPE definition to aggregate

@@ -5,12 +5,10 @@ topic: get-components-for-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.985Z
+lastCollected: 2026-04-07T18:35:55.089Z
 estimatedTokens: 558
-keywords: [Components, Configuration, Item, Retrieve, child, specific, unique, identifier, CIComponent]
+keywords: [CIComponent, Configuration, Item, Retrieve, child, specific, unique, identifier]
 ---
-
-# Get Components for Configuration Item
 
 > Retrieve child components of a specific type for a configuration
       item by its unique identifier.

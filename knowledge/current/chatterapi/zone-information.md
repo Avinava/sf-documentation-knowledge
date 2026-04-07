@@ -5,12 +5,10 @@ topic: zone-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.410Z
+lastCollected: 2026-04-07T18:37:16.486Z
 estimatedTokens: 208
 keywords: [Zone, Chatter, Answers]
 ---
-
-# Zone Information
 
 > Information about the specified Chatter Answers
     zone.

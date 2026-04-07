@@ -5,12 +5,10 @@ topic: fulfillment-order-invoice-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.484Z
+lastCollected: 2026-04-07T18:37:19.631Z
 estimatedTokens: 109
-keywords: [Fulfillment, Order, Invoice, Output, created]
+keywords: [Fulfillment, Order, Invoice, created]
 ---
-
-# Fulfillment Order Invoice Output
 
 > ID of the created invoice.
 

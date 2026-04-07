@@ -5,12 +5,10 @@ topic: ordersummaryadditionalinfofeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.841Z
+lastCollected: 2026-04-07T18:39:51.252Z
 estimatedTokens: 394
-keywords: [OrderSummaryAdditionalInfoFeed, Feed, tracking, OrderSummaryAdditionalInfo]
+keywords: [OrderSummaryAdditionalInfoFeed, OrderSummaryAdditionalInfo]
 ---
-
-# OrderSummaryAdditionalInfoFeed
 
 > Feed tracking for OrderSummaryAdditionalInfo.
 

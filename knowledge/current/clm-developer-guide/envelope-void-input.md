@@ -5,12 +5,10 @@ topic: envelope-void-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.747Z
+lastCollected: 2026-04-07T18:37:24.723Z
 estimatedTokens: 102
-keywords: [Envelope, Input]
+keywords: [Envelope]
 ---
-
-# Envelope Void Input
 
 > Input to get void envelope related details.
 

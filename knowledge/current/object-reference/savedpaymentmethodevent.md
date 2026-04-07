@@ -5,12 +5,10 @@ topic: savedpaymentmethodevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:48.893Z
+lastCollected: 2026-04-07T18:38:40.480Z
 estimatedTokens: 384
-keywords: [SavedPaymentMethodEvent, saved, payment, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered, API]
+keywords: [SavedPaymentMethodEvent, saved, payment, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered, API, 59.0]
 ---
-
-# SavedPaymentMethodEvent
 
 > Represents a saved payment method platform event. Subscribe to these events
          so you can listen and respond to them when they’re published. For example, create a

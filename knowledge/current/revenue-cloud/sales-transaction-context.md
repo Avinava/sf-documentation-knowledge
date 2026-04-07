@@ -5,12 +5,10 @@ topic: sales-transaction-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.679Z
+lastCollected: 2026-04-07T18:35:46.646Z
 estimatedTokens: 156
-keywords: [Sales, Transaction, Context, Output, representation, associated]
+keywords: [Sales, Transaction, Context]
 ---
-
-# Sales Transaction Context
 
 > Output representation of the context details that are associated with a sales
     transaction.

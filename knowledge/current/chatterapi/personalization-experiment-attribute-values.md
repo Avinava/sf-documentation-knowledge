@@ -5,12 +5,10 @@ topic: personalization-experiment-attribute-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.572Z
+lastCollected: 2026-04-07T18:37:21.684Z
 estimatedTokens: 123
 keywords: [Personalization, Experiment, Attribute]
 ---
-
-# Personalization Experiment Attribute Values
 
 > Defines the personalization attribute values.
 

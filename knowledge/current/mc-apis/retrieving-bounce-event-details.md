@@ -5,12 +5,10 @@ topic: retrieving-bounce-event-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.640Z
+lastCollected: 2026-04-07T18:40:18.838Z
 estimatedTokens: 3428
-keywords: [Retrieving, Bounce, Event, regarding, events, Why, Retrieve, How, Sample, NET, Code, Java, Axis2, Axis, 1.4]
+keywords: [Retrieving, Bounce, Event, regarding, events, Why, Retrieve, How, Sample, NET, Code, Java, Axis2, Axis, 1.4, PHP, SOAP, Envelope, Items]
 ---
-
-# Retrieving Bounce Event Details
 
 > This page contains information regarding retrieving details about bounce events.
 

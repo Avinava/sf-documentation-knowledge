@@ -5,12 +5,10 @@ topic: storeintegratedservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.352Z
+lastCollected: 2026-04-07T18:40:03.040Z
 estimatedTokens: 309
 keywords: [StoreIntegratedService, association, integration, store]
 ---
-
-# StoreIntegratedService
 
 > Represents an association between an integration and a store.
 

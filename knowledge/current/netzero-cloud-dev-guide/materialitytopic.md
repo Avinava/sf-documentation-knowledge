@@ -5,12 +5,10 @@ topic: materialitytopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.362Z
+lastCollected: 2026-04-07T18:38:19.011Z
 estimatedTokens: 846
-keywords: [MaterialityTopic, possible, topic, materiality, assessment, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [MaterialityTopic, possible, topic, materiality, assessment, API, 59.0]
 ---
-
-# MaterialityTopic
 
 > Represents a possible topic for materiality assessment. This
       object is available in API version 59.0 and later.

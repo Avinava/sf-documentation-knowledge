@@ -5,12 +5,10 @@ topic: insurance-census-summary-sync-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.640Z
+lastCollected: 2026-04-07T18:37:51.698Z
 estimatedTokens: 209
-keywords: [Insurance, Census, Summary, Sync, POST, Synchronize, recalculate, data, group]
+keywords: [Insurance, Census, Summary, Sync, POST, Synchronize, recalculate, group]
 ---
-
-# Insurance Census Summary Sync (POST)
 
 > Synchronize and recalculate the summary data for a group census.
 

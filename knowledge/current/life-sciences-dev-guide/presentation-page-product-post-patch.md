@@ -5,12 +5,10 @@ topic: presentation-page-product-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.144Z
+lastCollected: 2026-04-07T18:37:55.597Z
 estimatedTokens: 388
-keywords: [Presentation, Product, POST, PATCH, guidance, associations, Health, Cloud, Starter, Life, Sciences, Commercial, Admin, Permission, accessing]
+keywords: [Presentation, Product, POST, PATCH, guidance, associations, Health, Cloud, Starter, Life, Sciences, Commercial, Admin, Permission, accessing, API, know, Email, Template, Intelligent, Content]
 ---
-
-# Presentation Page Product (POST, PATCH)
 
 > Create or update (delete) product and guidance associations for a presentation page.
             The Health Cloud Starter and Life Sciences Commercial

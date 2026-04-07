@@ -5,12 +5,10 @@ topic: mfgprogramvariantfrcstfactshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.559Z
+lastCollected: 2026-04-07T18:39:49.028Z
 estimatedTokens: 165
 keywords: [MfgProgramVariantFrcstFactShare, Sharing, MfgProgramVariantFrcstFact]
 ---
-
-# MfgProgramVariantFrcstFactShare
 
 > Sharing for MfgProgramVariantFrcstFact.
 

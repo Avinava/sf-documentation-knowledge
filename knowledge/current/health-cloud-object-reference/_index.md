@@ -2,7 +2,7 @@
 domain: health-cloud-object-reference
 name: Salesforce Health Cloud Developer Guide
 documentCount: 833
-lastGenerated: 2026-04-07T09:06:36.777Z
+lastGenerated: 2026-04-07T18:40:42.065Z
 ---
 
 # Salesforce Health Cloud Developer Guide — Knowledge Index

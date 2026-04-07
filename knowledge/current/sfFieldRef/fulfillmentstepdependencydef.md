@@ -5,12 +5,10 @@ topic: fulfillmentstepdependencydef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.117Z
+lastCollected: 2026-04-07T18:39:41.780Z
 estimatedTokens: 299
-keywords: [FulfillmentStepDependencyDef, dependency, created, two, fulfillment, step, records, API, version, 62.0, later]
+keywords: [FulfillmentStepDependencyDef, dependency, created, two, fulfillment, step, records, API, 62.0]
 ---
-
-# FulfillmentStepDependencyDef
 
 > Represents a dependency that must be created between two fulfillment
          step records. This object is available in API version 62.0 and later.

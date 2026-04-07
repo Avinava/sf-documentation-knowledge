@@ -5,12 +5,10 @@ topic: get-smsv1queuemodeliveriestokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.155Z
+lastCollected: 2026-04-07T18:40:17.308Z
 estimatedTokens: 168
-keywords: [sms, queueMO, deliveries, tokenId, Retrieves, delivery, status, queued, **Overview**, Usage]
+keywords: [sms, queueMO, deliveries, tokenId, Retrieves, delivery, status, queued, **Overview**]
 ---
-
-# GET /sms/v1/queueMO/deliveries/{tokenId}
 
 > Retrieves the delivery status of a queued MO.
 

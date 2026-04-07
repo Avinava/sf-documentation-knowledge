@@ -5,12 +5,10 @@ topic: patient-upsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.702Z
+lastCollected: 2026-04-07T18:37:56.141Z
 estimatedTokens: 239
-keywords: [Patient, Upsert, Output, representation, result, FHIR, resource, created]
+keywords: [Patient, Upsert, result, FHIR, resource, created]
 ---
-
-# Patient Upsert
 
 > Output representation of result after a Patient FHIR resource is
       created.

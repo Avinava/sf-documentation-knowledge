@@ -5,12 +5,10 @@ topic: next-best-action-native-recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.731Z
+lastCollected: 2026-04-07T18:37:20.916Z
 estimatedTokens: 173
 keywords: [Best, Action, Native, Recommendation, record, user, recommended, take]
 ---
-
-# Next Best Action Native Recommendation
 
 > A record the user is recommended to take action on.
 

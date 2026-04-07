@@ -5,12 +5,10 @@ topic: sample-opportunity-management-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.386Z
+lastCollected: 2026-04-07T18:40:12.409Z
 estimatedTokens: 1058
-keywords: [Sample, Opportunity, Management, Formulas, business, expenses, earnings, Expected, Product, Revenue, Maintenance, Calculation, Monthly, Subscription-Based, Calculated]
+keywords: [Sample, Opportunity, Management, Formulas, business, expenses, earnings, Expected, Product, Revenue, Maintenance, Calculation, Monthly, Subscription-Based, Calculated, Amounts, Additional, Costs, Categorization, Completeness, License, Text, Display, Total, Deal, Size, Price, Units, Professional, Services, Stage-Based, Sales, Document, Selection, Coach, Shipping, Cost, Weight, Percentage, Tiered, Commission, Rates, Contract, Recurring, Non-Recurring]
 ---
-
-# Sample Opportunity Management Formulas
 
 > Use these formulas for business expenses and earnings.
 

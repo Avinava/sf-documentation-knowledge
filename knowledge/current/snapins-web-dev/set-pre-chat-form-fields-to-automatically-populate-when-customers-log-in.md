@@ -5,12 +5,10 @@ topic: set-pre-chat-form-fields-to-automatically-populate-when-customers-log-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.703Z
+lastCollected: 2026-04-07T18:40:09.641Z
 estimatedTokens: 522
-keywords: [Pre-Chat, Form, Automatically, Populate, Customers, Log, agents, already, know, basic, their, email, address, array, 4.0]
+keywords: [Pre-Chat, Form, Automatically, Populate, Customers, Log, agents, already, know, basic, their, email, address, array, 4.0, code, snippet, relevant, mix, match, different, record, embedded, chat, windows, placed, outside, Salesforce, Lightning, beta, window, Experience, sites, enable, contact, fill, settings]
 ---
-
-# Set Pre-Chat Form Fields to Automatically Populate when Customers Log In
 
 > When your customers log in, agents already know basic information like their name and
         email address. Use this array in your 4.0 code snippet to populate relevant pre-chat fields

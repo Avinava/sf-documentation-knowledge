@@ -5,12 +5,10 @@ topic: retrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.441Z
+lastCollected: 2026-04-07T18:40:22.870Z
 estimatedTokens: 214
-keywords: [Retrieve, Function, Ordinal, Criteria, search, account, filter, expression, JSON, containing, additional, **Overview**, **Syntax**, Examples, options, user, Critieria, content, data, extension]
+keywords: [Retrieve, Examples, Function, Ordinal, Criteria, search, account, filter, expression, JSON, containing, additional, **Overview**, **Syntax**, options, user, Critieria, content, extension, Directs, accounts, accessible, authen, email, event, definitions, folder, Portfolio, send, classification, criteria, triggered]
 ---
-
-# Retrieve
 
 > Retrieve(1)
 

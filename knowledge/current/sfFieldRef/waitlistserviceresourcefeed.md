@@ -5,12 +5,10 @@ topic: waitlistserviceresourcefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.437Z
+lastCollected: 2026-04-07T18:40:06.337Z
 estimatedTokens: 364
-keywords: [WaitlistServiceResourceFeed, Feed, tracking, WaitlistServiceResource]
+keywords: [WaitlistServiceResourceFeed, WaitlistServiceResource]
 ---
-
-# WaitlistServiceResourceFeed
 
 > Feed tracking for WaitlistServiceResource.
 

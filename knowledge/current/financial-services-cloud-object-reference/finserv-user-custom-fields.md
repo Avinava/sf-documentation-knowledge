@@ -5,12 +5,10 @@ topic: finserv-user-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.901Z
+lastCollected: 2026-04-07T18:37:35.553Z
 estimatedTokens: 142
-keywords: [FinServ, User, Custom, organization, extend, standard, Financial, Services, Cloud, Calls]
+keywords: [FinServ, User, organization, extend, standard, Financial, Services, Cloud]
 ---
-
-# FinServ User Custom Fields
 
 > Represents a user in your organization. Custom fields extend the
          standard User object for use in Financial Services Cloud.

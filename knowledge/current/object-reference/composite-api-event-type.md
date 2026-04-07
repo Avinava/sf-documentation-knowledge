@@ -5,12 +5,10 @@ topic: composite-api-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.063Z
+lastCollected: 2026-04-07T18:38:30.863Z
 estimatedTokens: 815
-keywords: [Composite, API, Event, events, contain, requests, generated, graph, call, version, 64.0, later]
+keywords: [Composite, API, Event, events, contain, requests, generated, graph, call, 64.0]
 ---
-
-# Composite API Event Type
 
 > Composite API events contain details about composite API
 			requests. One composite API event is generated for each composite API and composite

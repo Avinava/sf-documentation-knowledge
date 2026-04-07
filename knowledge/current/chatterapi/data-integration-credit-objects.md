@@ -5,12 +5,10 @@ topic: data-integration-credit-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.170Z
+lastCollected: 2026-04-07T18:37:18.258Z
 estimatedTokens: 77
-keywords: [Data, Integration, Credit, Objects, External, active, packages]
+keywords: [Integration, Credit, External, active, packages]
 ---
-
-# Data Integration Credit Objects
 
 > External object names of active packages.
 

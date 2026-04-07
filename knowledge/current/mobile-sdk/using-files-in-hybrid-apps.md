@@ -5,12 +5,10 @@ topic: using-files-in-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.546Z
+lastCollected: 2026-04-07T18:40:25.923Z
 estimatedTokens: 239
-keywords: [Files, Hybrid, Apps, file, wrappers, reside, force+files.js, JavaScript, library, functions, pass, callback, function, receives, handles]
+keywords: [Files, Hybrid, Apps, file, wrappers, reside, force+files.js, JavaScript, library, functions, pass, callback, function, receives, handles, server, handle, errors]
 ---
-
-# Using Files in Hybrid Apps
 
 > Hybrid file request wrappers reside in the force+files.js JavaScript library. When using the hybrid
          functions, you pass in a callback function that receives and handles the server response.

@@ -5,12 +5,10 @@ topic: collabuserengmtrecordlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:37.080Z
+lastCollected: 2026-04-07T18:38:28.005Z
 estimatedTokens: 398
-keywords: [CollabUserEngmtRecordLink, association, CollabUserEngagementMetric, Salesforce, record, tracks, Account, Contact, associated, user, engagement, metric, API, version, 50.0]
+keywords: [CollabUserEngmtRecordLink, association, CollabUserEngagementMetric, Salesforce, record, tracks, Account, Contact, user, engagement, metric, API, 50.0]
 ---
-
-# CollabUserEngmtRecordLink
 
 > Represents an association between a CollabUserEngagementMetric and a Salesforce
       record. It tracks which Salesforce record, such as an Account or Contact, is associated

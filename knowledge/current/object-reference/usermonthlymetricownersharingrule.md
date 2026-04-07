@@ -5,12 +5,10 @@ topic: usermonthlymetricownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.916Z
+lastCollected: 2026-04-07T18:38:43.686Z
 estimatedTokens: 781
-keywords: [UserMonthlyMetricOwnerSharingRule, rules, sharing, user, monthly, metric, users, owner, Calls, Special, Access, Usage]
+keywords: [UserMonthlyMetricOwnerSharingRule, sharing, user, monthly, metric, users, owner]
 ---
-
-# UserMonthlyMetricOwnerSharingRule
 
 > Represents the rules for sharing the user monthly metric with users
       other than the owner.

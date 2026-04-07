@@ -5,12 +5,10 @@ topic: how-data-binding-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.369Z
+lastCollected: 2026-04-07T18:40:17.537Z
 estimatedTokens: 2661
-keywords: [How, Data, Binding, Works, bind, Activity, created, via, Journey, Builder, API, Custom, running, process, greatly]
+keywords: [How, Binding, Works, bind, Activity, created, via, Journey, Builder, API, running, process, greatly, simplifies, marketer, developer, dynamically, connects, contact, flowing, Basics, Context, Event, Evaluating, Expressions, Best, Practices, Items]
 ---
-
-# How Data Binding Works
 
 > Data Binding allows you to bind an Activity created via the Journey Builder API or a Custom Activity to data in a running journey. This process greatly simplifies how a marketer or developer dynamically connects data for each contact flowing through a journey.
 

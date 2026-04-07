@@ -5,12 +5,10 @@ topic: volunteer-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.477Z
+lastCollected: 2026-04-07T18:38:23.376Z
 estimatedTokens: 711
-keywords: [Volunteer, Management, Standard, Objects, data, model, manage, programs, improve, experience, organization]
+keywords: [Volunteer, Management, Standard, model, manage, programs, improve, experience, organization]
 ---
-
-# Volunteer Management Standard Objects
 
 > The Volunteer Management data model provides objects and fields to manage volunteer
       programs and improve the volunteer experience for your organization.

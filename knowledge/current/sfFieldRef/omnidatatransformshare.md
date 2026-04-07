@@ -5,12 +5,10 @@ topic: omnidatatransformshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.689Z
+lastCollected: 2026-04-07T18:39:50.127Z
 estimatedTokens: 251
 keywords: [OmniDataTransformShare, Sharing, OmniDataTransform]
 ---
-
-# OmniDataTransformShare
 
 > Sharing for OmniDataTransform.
 

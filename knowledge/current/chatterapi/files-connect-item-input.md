@@ -5,12 +5,10 @@ topic: files-connect-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.131Z
+lastCollected: 2026-04-07T18:37:07.931Z
 estimatedTokens: 191
-keywords: [Files, Connect, Item, Input]
+keywords: [Files, Connect, Item]
 ---
-
-# Files Connect Item Input
 
 > The item type ID and fields of the item type.
 

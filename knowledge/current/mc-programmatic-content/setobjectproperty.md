@@ -5,12 +5,10 @@ topic: setobjectproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.368Z
+lastCollected: 2026-04-07T18:40:22.783Z
 estimatedTokens: 237
-keywords: [SetObjectProperty, Function, Ordinal, API, receiving, assigned, **Overview**, **Syntax**, Usage, New, prop, Sample, Code]
+keywords: [SetObjectProperty, Function, Ordinal, API, receiving, assigned, **Overview**, **Syntax**, New, prop, Sample, Code]
 ---
-
-# SetObjectProperty
 
 > SetObjectProperty(1, 2, 3)
 

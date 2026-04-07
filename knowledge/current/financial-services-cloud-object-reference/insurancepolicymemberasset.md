@@ -5,12 +5,10 @@ topic: insurancepolicymemberasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.058Z
+lastCollected: 2026-04-07T18:37:37.873Z
 estimatedTokens: 1148
-keywords: [InsurancePolicyMemberAsset, junction, associates, InsurancePolicyAsset, InsurancePolicyParticipant, you’ve, enabled, Many-to-Many, Relationships, org, pref, Calls, Associated, Objects]
+keywords: [InsurancePolicyMemberAsset, junction, associates, InsurancePolicyAsset, InsurancePolicyParticipant, you’ve, enabled, Many-to-Many, Relationships, org, pref]
 ---
-
-# InsurancePolicyMemberAsset
 
 > A junction object that associates the InsurancePolicyAsset object with the
 			InsurancePolicyParticipant object. You see this object only if you’ve enabled the Use

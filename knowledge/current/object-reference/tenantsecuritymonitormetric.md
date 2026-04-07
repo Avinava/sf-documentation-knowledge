@@ -5,12 +5,10 @@ topic: tenantsecuritymonitormetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.755Z
+lastCollected: 2026-04-07T18:38:42.489Z
 estimatedTokens: 983
-keywords: [TenantSecurityMonitorMetric, Stores, daily, count, change, metric, Security, Center, subscribers, API, version, 53.0, later, Calls, Special]
+keywords: [TenantSecurityMonitorMetric, Stores, daily, count, change, metric, Security, Center, subscribers, API, 53.0]
 ---
-
-# TenantSecurityMonitorMetric
 
 > Stores the daily count and daily count change for a metric within
          Security Center. This object is available to Security Center subscribers in API version

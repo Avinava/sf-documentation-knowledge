@@ -5,12 +5,10 @@ topic: change-events-for-pricebookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.781Z
+lastCollected: 2026-04-07T18:37:05.500Z
 estimatedTokens: 85
-keywords: [Change, Events, PricebookEntry, payload, include, system, sCreatedById, CreatedDate, LastModifiedById, LastModifiedDate, due, highly, customized, nature, prevents]
+keywords: [Change, Events, PricebookEntry, payload, include, system, sCreatedById, CreatedDate, LastModifiedById, LastModifiedDate, due, highly, customized, nature, prevents, specific, captured, time, event, generated]
 ---
-
-# Change Events for PricebookEntry
 
 > The Create Change Events payload does not include the system fields (sCreatedById, 
   CreatedDate, LastModifiedById, and LastModifiedDate). This is due to the highly customized 

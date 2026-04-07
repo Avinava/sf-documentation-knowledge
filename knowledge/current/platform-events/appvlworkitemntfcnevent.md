@@ -5,12 +5,10 @@ topic: appvlworkitemntfcnevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.798Z
+lastCollected: 2026-04-07T18:38:58.653Z
 estimatedTokens: 713
-keywords: [AppvlWorkItemNtfcnEvent, Tracks, asynchronous, management, notification, systems, Advanced, Approvals, API, version, 66.0, later, Calls, Subscribers, Event]
+keywords: [AppvlWorkItemNtfcnEvent, Tracks, asynchronous, management, notification, systems, Advanced, Approvals, API, 66.0, Subscribers, Event, Delivery, Allocation, Enforced]
 ---
-
-# AppvlWorkItemNtfcnEvent
 
 > Tracks the asynchronous management of notification systems in
 			Advanced Approvals. This object is available in API version 66.0 and

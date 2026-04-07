@@ -5,13 +5,11 @@ topic: paymentsbilling-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.488Z
+lastCollected: 2026-04-07T18:35:40.279Z
 estimatedTokens: 2264
 namespace: ConnectApi
-keywords: [PaymentsBilling, allocate, balance, payment, reduce, invoice, Additionally, revert, application, line, applyPaymentLine, PaymentLineApplyInput, paymentId, API, Version]
+keywords: [PaymentsBilling, allocate, balance, payment, reduce, invoice, Additionally, revert, application, line, applyPaymentLine, PaymentLineApplyInput, paymentId, API, Requires, Chatter, applyRefundLine, RefundLineApplyInput, refundId, unapplyPaymentLine, PaymentLineUnapplyInput, paymentLineId]
 ---
-
-# PaymentsBilling Class
 
 > Use the PaymentsBilling class to allocate the balance of a payment to reduce the balance
   of an invoice. Additionally, revert the application of a payment line from an invoice.

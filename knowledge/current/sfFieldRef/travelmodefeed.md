@@ -5,12 +5,10 @@ topic: travelmodefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.571Z
+lastCollected: 2026-04-07T18:40:04.304Z
 estimatedTokens: 358
-keywords: [TravelModeFeed, Feed, tracking, TravelMode]
+keywords: [TravelModeFeed, TravelMode]
 ---
-
-# TravelModeFeed
 
 > Feed tracking for TravelMode.
 

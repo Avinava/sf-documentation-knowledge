@@ -5,12 +5,10 @@ topic: standardvalueset-names-and-standard-picklist-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:08.464Z
+lastCollected: 2026-04-07T18:37:57.994Z
 estimatedTokens: 1726
 keywords: [StandardValueSet, Standard, Picklist, picklists, their, corresponding]
 ---
-
-# StandardValueSet Names and Standard Picklist Fields
 
 > This table lists the names of standard picklists as standard value sets and their
         corresponding field names.

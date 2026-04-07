@@ -5,12 +5,10 @@ topic: managed-content-space
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.319Z
+lastCollected: 2026-04-07T18:37:20.506Z
 estimatedTokens: 525
 keywords: [Managed, Content, Space]
 ---
-
-# Managed Content Space
 
 > Managed content space.
 

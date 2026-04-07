@@ -5,12 +5,10 @@ topic: base-asset-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.056Z
+lastCollected: 2026-04-07T18:36:58.579Z
 estimatedTokens: 111
-keywords: [Base, Asset, Input, Einstein, Discovery, inherited, AssetReferenceInput]
+keywords: [Base, Asset, Einstein, Discovery, inherited, AssetReferenceInput]
 ---
-
-# Base Asset Reference Input
 
 > The base Einstein Discovery asset, inherited by AssetReferenceInput.
 

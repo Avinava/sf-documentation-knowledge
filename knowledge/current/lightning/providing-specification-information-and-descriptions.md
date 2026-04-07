@@ -5,12 +5,10 @@ topic: providing-specification-information-and-descriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.876Z
+lastCollected: 2026-04-07T18:38:03.970Z
 estimatedTokens: 444
 keywords: [Providing, Specification, Descriptions, tab, root, definition, attributes]
 ---
-
-# Providing Specification Information and Descriptions
 
 > Descriptions on the Specification tab describes a root definition and its
     attributes and methods.

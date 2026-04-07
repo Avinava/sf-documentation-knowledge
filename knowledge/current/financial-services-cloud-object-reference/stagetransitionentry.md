@@ -5,12 +5,10 @@ topic: stagetransitionentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.041Z
+lastCollected: 2026-04-07T18:37:38.944Z
 estimatedTokens: 621
-keywords: [StageTransitionEntry, runtime, instance, stage, transition, API, version, 60.0, later, Calls]
+keywords: [StageTransitionEntry, runtime, instance, stage, transition, API, 60.0]
 ---
-
-# StageTransitionEntry
 
 > Represents the information about the runtime instance of the object stage
          transition. This object is available in API version 60.0 and later.

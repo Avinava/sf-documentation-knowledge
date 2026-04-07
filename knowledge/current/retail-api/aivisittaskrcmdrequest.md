@@ -5,12 +5,10 @@ topic: aivisittaskrcmdrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.663Z
+lastCollected: 2026-04-07T18:39:12.189Z
 estimatedTokens: 992
-keywords: [AiVisitTaskRcmdRequest, responses, visit, task, recommendations, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [AiVisitTaskRcmdRequest, responses, visit, task, recommendations, API, 51.0]
 ---
-
-# AiVisitTaskRcmdRequest
 
 > Represents the request parameters and responses of visit task recommendations.
      This object is available in API version

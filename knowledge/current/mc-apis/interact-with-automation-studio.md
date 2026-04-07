@@ -5,12 +5,10 @@ topic: interact-with-automation-studio
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.494Z
+lastCollected: 2026-04-07T18:40:17.673Z
 estimatedTokens: 6349
-keywords: [Interact, Automation, Studio, SOAP, API, Marketing, Cloud, Prerequisites, Why, Sample, NET, Code, Perform, Immediately, Retrieve]
+keywords: [Prerequisites, Interact, Automation, Studio, SOAP, API, Marketing, Cloud, Why, Sample, NET, Code, Perform, Immediately, Retrieve, Instance, Envelope, Schedule, Pause]
 ---
-
-# Interact with Automation Studio
 
 > This page contains information about using the SOAP API to interact with Automation Studio within Marketing Cloud.
 

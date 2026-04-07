@@ -2,7 +2,7 @@
 domain: live-agent-dev
 name: Service Cloud Chat Developer Guide
 documentCount: 52
-lastGenerated: 2026-04-07T09:06:37.117Z
+lastGenerated: 2026-04-07T18:40:42.361Z
 ---
 
 # Service Cloud Chat Developer Guide — Knowledge Index

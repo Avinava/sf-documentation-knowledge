@@ -5,12 +5,10 @@ topic: documentreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.797Z
+lastCollected: 2026-04-07T18:37:58.318Z
 estimatedTokens: 1211
-keywords: [Document​Reference, F​HI​R, resource, maps, Diagnostic​Summary, Diagnostic​SummaryDetail, objects, Salesforce​, V4​.0, ​Clinical, ​Data, ​Model, ​Mapping, Sample, Record]
+keywords: [Document​Reference, F​HI​R, resource, maps, Diagnostic​Summary, Diagnostic​SummaryDetail, Salesforce​, V4​.0, ​Clinical, ​Data, ​Model, ​Mapping, Sample, Record, Diagram]
 ---
-
-# Document​Reference
 
 > The Document​Reference F​HI​R resource maps to
     the Diagnostic​Summary and Diagnostic​SummaryDetail objects in Salesforce​.

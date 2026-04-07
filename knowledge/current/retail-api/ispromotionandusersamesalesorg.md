@@ -5,12 +5,10 @@ topic: ispromotionandusersamesalesorg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.760Z
+lastCollected: 2026-04-07T18:39:11.295Z
 estimatedTokens: 75
-keywords: [isPromotionAndUserSameSalesOrg, validates, promotion, belongs, Salesorg, user, exists, Input, Sample]
+keywords: [isPromotionAndUserSameSalesOrg, validates, promotion, belongs, Salesorg, user, exists, Sample]
 ---
-
-# isPromotionAndUserSameSalesOrg
 
 > This method validates if the given promotion belongs to the same Salesorg where the user
   exists.

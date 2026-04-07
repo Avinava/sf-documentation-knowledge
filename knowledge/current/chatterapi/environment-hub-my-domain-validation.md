@@ -5,12 +5,10 @@ topic: environment-hub-my-domain-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.429Z
+lastCollected: 2026-04-07T18:37:13.376Z
 estimatedTokens: 257
 keywords: [Environment, Hub, Domain, Validation, Validates, unique, determines, URLs, enable, sign-on, connect, organizations, Results, attempt, validate]
 ---
-
-# Environment Hub My Domain Validation
 
 > Validates that the specified My Domain name is available, valid, and
       unique. Your My Domain name determines the URLs used when you enable single sign-on or connect

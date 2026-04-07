@@ -5,12 +5,10 @@ topic: canvasrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.565Z
+lastCollected: 2026-04-07T18:38:57.361Z
 estimatedTokens: 301
-keywords: [CanvasRequest, signed, authentication, canvas, app, receive, initial, POST, message, Salesforce, Context, Client, objects]
+keywords: [CanvasRequest, signed, authentication, canvas, app, receive, initial, POST, message, Salesforce, Context, Client]
 ---
-
-# CanvasRequest
 
 > When you use a signed request for authentication in your canvas app, you receive a
                 CanvasRequest object in the initial POST message from Salesforce. This object

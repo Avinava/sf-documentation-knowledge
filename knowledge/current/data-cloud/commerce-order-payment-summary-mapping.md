@@ -5,12 +5,10 @@ topic: commerce-order-payment-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:07.690Z
+lastCollected: 2026-04-07T18:35:52.583Z
 estimatedTokens: 331
-keywords: [Commerce, Order, Payment, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
+keywords: [Commerce, Order, Payment, Summary, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, payments, applied, sales, DLO]
 ---
-
-# Commerce: Order Payment Summary Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Order Payment Summary data is about one or more

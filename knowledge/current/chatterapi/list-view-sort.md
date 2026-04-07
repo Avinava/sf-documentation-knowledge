@@ -5,12 +5,10 @@ topic: list-view-sort
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.618Z
+lastCollected: 2026-04-07T18:37:22.719Z
 estimatedTokens: 208
 keywords: [View, Sort, Ordinal, order]
 ---
-
-# List View Sort
 
 > Ordinal of a sort order in a related list.
 

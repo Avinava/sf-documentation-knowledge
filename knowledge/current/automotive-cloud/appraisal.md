@@ -5,12 +5,10 @@ topic: appraisal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.977Z
+lastCollected: 2026-04-07T18:36:52.407Z
 estimatedTokens: 992
-keywords: [Appraisal, items, API, version, 63.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [Appraisal, items, API, 63.0]
 ---
-
-# Appraisal
 
 > Represents the appraisal for one or more items. This object is available in API
       version 63.0 and later.

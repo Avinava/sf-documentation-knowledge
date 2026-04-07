@@ -5,12 +5,10 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.109Z
+lastCollected: 2026-04-07T18:39:08.377Z
 estimatedTokens: 1947
-keywords: [Location, warehouse, service, vehicle, work, site, element, region, team, performs, associate, activities, specific, locations, tasks]
+keywords: [Location, warehouse, service, vehicle, work, site, region, team, performs, associate, activities, specific, locations, tasks, events, appear, timeline, view, detail]
 ---
-
-# Location
 
 > Represents a warehouse, service vehicle, work site, or other element of
 			the region where your team performs field service work. You can associate activities

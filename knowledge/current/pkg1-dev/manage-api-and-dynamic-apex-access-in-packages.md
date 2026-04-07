@@ -5,12 +5,10 @@ topic: manage-api-and-dynamic-apex-access-in-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.892Z
+lastCollected: 2026-04-07T18:38:53.201Z
 estimatedTokens: 1486
-keywords: [Manage, API, Dynamic, Apex, Access, Packages, package, setting, components, standard, custom, objects, displays, developer, installer]
+keywords: [Manage, API, Dynamic, Apex, Packages, package, setting, standard, displays, developer, installer, detail, Accepting, Rejecting, Privileges, Installation, Changing]
 ---
-
-# Manage API and Dynamic Apex Access in Packages
 
 > API Access is a package setting that controls the dynamic Apex
             and API access that package components have to standard and custom objects. The setting

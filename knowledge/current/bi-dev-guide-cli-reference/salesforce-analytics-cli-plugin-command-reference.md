@@ -5,12 +5,10 @@ topic: salesforce-analytics-cli-plugin-command-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:07.106Z
+lastCollected: 2026-04-07T18:36:53.463Z
 estimatedTokens: 678
 keywords: [Salesforce, Analytics, CLI, Plugin, Command, commands, their, flags, Getting, Started]
 ---
-
-# Salesforce Analytics CLI Plugin Command Reference
 
 > The command reference contains information about the Salesforce CLI commands for the
         Analytics plugin and their flags.

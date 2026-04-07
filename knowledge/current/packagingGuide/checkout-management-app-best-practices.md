@@ -5,12 +5,10 @@ topic: checkout-management-app-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:54.386Z
+lastCollected: 2026-04-07T18:38:46.247Z
 estimatedTokens: 348
 keywords: [Checkout, Management, App, Best, Practices, Follow, guidelines, CMA]
 ---
-
-# Checkout Management App Best Practices
 
 > Follow these guidelines and best practices when you use the Checkout Management App
   (CMA).

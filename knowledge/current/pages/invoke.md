@@ -5,12 +5,10 @@ topic: invoke
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.947Z
+lastCollected: 2026-04-07T18:38:47.901Z
 estimatedTokens: 90
 keywords: [invoke, Invokes, action]
 ---
-
-# invoke()
 
 > Invokes the action.
 

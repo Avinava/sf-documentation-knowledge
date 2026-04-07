@@ -5,12 +5,10 @@ topic: attribute-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.484Z
+lastCollected: 2026-04-07T18:38:02.407Z
 estimatedTokens: 177
-keywords: [Attribute, Access, Control, aura, tag, whether, outside, attribute’s]
+keywords: [Attribute, Control, aura, tag, whether, outside, attribute’s]
 ---
-
-# Attribute Access Control
 
 > The access attribute on the aura:attribute tag controls whether the attribute can be used
   outside of the attribute’s namespace.

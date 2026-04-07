@@ -5,12 +5,10 @@ topic: drextractfirstpromoitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.987Z
+lastCollected: 2026-04-07T18:38:11.257Z
 estimatedTokens: 107
-keywords: [DRExtractfirstPromoItem, Omnistudio, Data, Mapper, extracts, promotional, item, promotion, product, codes, Sample, Input, Output]
+keywords: [DRExtractfirstPromoItem, Omnistudio, Mapper, extracts, promotional, item, promotion, product, codes, Sample]
 ---
-
-# DRExtractfirstPromoItem
 
 > This Omnistudio Data Mapper extracts the promotional item
     with the promotion ID, for the specified product codes.

@@ -5,12 +5,10 @@ topic: headless-forgot-password-flow-change-the-users-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.446Z
+lastCollected: 2026-04-07T18:37:39.385Z
 estimatedTokens: 414
 keywords: [Headless, Forgot, Password, Flow, Change, User’s, receive, one-time, OTP, Salesforce, new, endpoint, walks, changing, Postman]
 ---
-
-# Headless Forgot Password Flow: Change the User’s Password
 
 > After you receive a one-time password (OTP) from Salesforce, you can change your
   password with a new request to the forgot password endpoint. This example walks you through

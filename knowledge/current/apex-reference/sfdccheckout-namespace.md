@@ -5,13 +5,11 @@ topic: sfdccheckout-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.012Z
+lastCollected: 2026-04-07T18:36:15.334Z
 estimatedTokens: 374
 namespace: The
 keywords: [Sfdc_Checkout, classes, B2B, Commerce, apps, Salesforce, Sfdc, _Checkout]
 ---
-
-# Sfdc_Checkout Namespace
 
 > The Sfdc_Checkout namespace provides an interface and classes for B2B Commerce apps in
     Salesforce.

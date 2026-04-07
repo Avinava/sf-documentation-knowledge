@@ -5,12 +5,10 @@ topic: get-started-by-using-a-sample-repo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.164Z
+lastCollected: 2026-04-07T18:40:08.120Z
 estimatedTokens: 1133
-keywords: [Started, Sample, Repo, quickest, way, going, Salesforce, tooling, clone, dreamhouse-lwc, GitHub, configuration, files, application, try]
+keywords: [Started, Sample, Repo, quickest, way, going, Salesforce, tooling, clone, dreamhouse-lwc, GitHub, configuration, files, application, try, commonly, CLI, commands, addition, source, code, includes, Apex, tests]
 ---
-
-# Get Started by Using a Sample Repo
 
 > The quickest way to get going with Salesforce DX tooling is to clone the dreamhouse-lwc GitHub repo. Use its configuration files and
 		Salesforce application to try some commonly used Salesforce CLI commands. In addition to

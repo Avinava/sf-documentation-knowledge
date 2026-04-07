@@ -5,12 +5,10 @@ topic: carebenefitverifysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.070Z
+lastCollected: 2026-04-07T18:37:58.591Z
 estimatedTokens: 659
-keywords: [CareBenefitVerifySettings, configuration, settings, benefit, verification, requests, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Configuration, API, version, 53.0, later]
+keywords: [CareBenefitVerifySettings, configuration, settings, benefit, verification, requests, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Configuration, API, 53.0, SOAP, REST]
 ---
-
-# CareBenefitVerifySettings
 
 > Configuration settings for benefit verification requests. This object is
       available in API version 53.0 and later.

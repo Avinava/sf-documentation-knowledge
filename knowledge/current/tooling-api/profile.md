@@ -5,12 +5,10 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.702Z
+lastCollected: 2026-04-07T18:36:34.027Z
 estimatedTokens: 802
-keywords: [Profile, user, user’s, permission, perform, different, functions, Salesforce, extends, Metadata, inherits, fullName, SOAP, Calls, REST]
+keywords: [Profile, user, user’s, permission, perform, different, functions, Salesforce, extends, Metadata, inherits, fullName, SOAP, REST, HTTP]
 ---
-
-# Profile
 
 > Represents a user profile. A profile defines a user’s
         permission to perform different functions within Salesforce. This type extends the Metadata 

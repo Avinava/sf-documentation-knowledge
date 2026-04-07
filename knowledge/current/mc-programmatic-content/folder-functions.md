@@ -5,12 +5,10 @@ topic: folder-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.747Z
+lastCollected: 2026-04-07T18:40:23.165Z
 estimatedTokens: 196
-keywords: [Folder, Functions, allow, access, control, folders, Marketing, Cloud, account, Load, Initialization]
+keywords: [Load, Initialization, Folder, Functions, allow, control, folders, Marketing, Cloud, account]
 ---
-
-# Folder Functions
 
 > These functions allow you to access and control folders within your Marketing Cloud account.
 

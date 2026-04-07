@@ -5,12 +5,10 @@ topic: crmemoprocesserrdtlevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.994Z
+lastCollected: 2026-04-07T18:35:48.968Z
 estimatedTokens: 319
-keywords: [CrMemoProcessErrDtlEvent, errors, occurred, creating, applying, credit, memo, part, included, CreditInvoiceProcessedEvent, CreditMemoProcessedEvent, NegInvcLineProcessedEvent, VoidInvoiceProcessedEvent, platform, event]
+keywords: [CrMemoProcessErrDtlEvent, errors, occurred, creating, applying, credit, memo, part, included, CreditInvoiceProcessedEvent, CreditMemoProcessedEvent, NegInvcLineProcessedEvent, VoidInvoiceProcessedEvent, platform, event, message, can't, subscribe, directly, API, 62.0]
 ---
-
-# CrMemoProcessErrDtlEvent
 
 > Represents the information about errors that occurred while creating
          or applying a credit memo as part of a request. This object is included in a CreditInvoiceProcessedEvent, CreditMemoProcessedEvent, NegInvcLineProcessedEvent, or VoidInvoiceProcessedEvent platform event message. You can't subscribe

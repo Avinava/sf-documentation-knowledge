@@ -5,12 +5,10 @@ topic: contracttypeconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.593Z
+lastCollected: 2026-04-07T18:37:25.518Z
 estimatedTokens: 969
-keywords: [ContractTypeConfig, settings, define, characteristics, behavior, contracts, API, version, 56.0, later, Calls, Associated, Objects, 54.0, SOAP, REST]
+keywords: [ContractTypeConfig, settings, define, characteristics, behavior, contracts, API, 56.0, 54.0, SOAP, REST]
 ---
-
-# ContractTypeConfig
 
 > The settings that define the characteristics and behavior of all contracts of that
       type. This object is available in API version 56.0 and later.

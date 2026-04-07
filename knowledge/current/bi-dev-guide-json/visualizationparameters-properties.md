@@ -6,13 +6,10 @@ topic: visualizationparameters-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.800Z
+lastCollected: 2026-04-07T18:36:54.168Z
 estimatedTokens: 316
 keywords: [visualizationParameters, key, chart, defined, step, associate, widget, override, settings]
 ---
-
-# visualizationParameters
-            Properties
 
 > The visualizationParameters key contains chart
         properties defined for the step. When you associate the step with a widget, the widget

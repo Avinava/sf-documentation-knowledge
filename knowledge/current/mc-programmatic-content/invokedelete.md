@@ -5,12 +5,10 @@ topic: invokedelete
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.149Z
+lastCollected: 2026-04-07T18:40:22.540Z
 estimatedTokens: 119
-keywords: [InvokeDelete, Function, Ordinal, API, Output, status, message, numeric, **Overview**, **Syntax**, Usage, perform, array, containing, RequestID, call]
+keywords: [InvokeDelete, Function, Ordinal, API, status, message, numeric, **Overview**, **Syntax**, perform, array, containing, RequestID, call]
 ---
-
-# InvokeDelete
 
 > InvokeDelete(1, 2, 3)
 

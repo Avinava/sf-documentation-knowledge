@@ -5,12 +5,10 @@ topic: connectapicartpromotioncollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.330Z
+lastCollected: 2026-04-07T18:36:07.703Z
 estimatedTokens: 278
-keywords: [ConnectApi.CartPromotionCollection, promotions, associated, cart]
+keywords: [ConnectApi.CartPromotionCollection, promotions, cart]
 ---
-
-# ConnectApi.CartPromotionCollection
 
 > All the promotions associated with the cart.
 

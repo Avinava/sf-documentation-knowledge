@@ -5,12 +5,10 @@ topic: assessmentenvelopeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.657Z
+lastCollected: 2026-04-07T18:37:30.729Z
 estimatedTokens: 280
-keywords: [AssessmentEnvelopeItem, item, envelope, assessments, learner, API, version, 62.0, later, Calls]
+keywords: [AssessmentEnvelopeItem, item, envelope, assessments, learner, API, 62.0]
 ---
-
-# AssessmentEnvelopeItem
 
 > Represents information about an item in an envelope that contains the
          assessments related to a learner. This object is available in API version 62.0 and

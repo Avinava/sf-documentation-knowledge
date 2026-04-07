@@ -5,12 +5,10 @@ topic: retired-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.502Z
+lastCollected: 2026-04-07T18:40:10.477Z
 estimatedTokens: 130
 keywords: [Retired, Bodies, User, API]
 ---
-
-# Retired Response Bodies
 
 > These User Interface API response bodies are retired.
 

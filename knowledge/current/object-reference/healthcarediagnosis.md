@@ -5,12 +5,10 @@ topic: healthcarediagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.376Z
+lastCollected: 2026-04-07T18:38:33.525Z
 estimatedTokens: 1493
-keywords: [HealthCareDiagnosis, industry-standard, healthcare, diagnosis, codes, Spring, ’21, release, Procedure, objects, stored, specifically, procedures, diagnoses, were]
+keywords: [HealthCareDiagnosis, industry-standard, healthcare, diagnosis, codes, Spring, ’21, release, Procedure, stored, specifically, procedures, diagnoses, were, prior-authorization, requests, approval, processes, Since, Spring’21, Health, Cloud, uses, Code, Bundle, purpose, instead]
 ---
-
-# HealthCareDiagnosis
 
 > Represents information related to industry-standard healthcare
 			diagnosis codes. Before the Spring ’21 release, the Healthcare Procedure and Healthcare

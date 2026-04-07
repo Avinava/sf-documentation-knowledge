@@ -5,12 +5,10 @@ topic: internalorganizationunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.571Z
+lastCollected: 2026-04-07T18:38:33.746Z
 estimatedTokens: 1016
-keywords: [InternalOrganizationUnit, organization, Employee, belongs, API, version, 48.0, later, 49.0, supports, reports, criteria-based, sharing, rules, history]
+keywords: [InternalOrganizationUnit, organization, Employee, belongs, API, 48.0, 49.0, supports, reports, criteria-based, sharing, plus, exclude, individual, layouts]
 ---
-
-# InternalOrganizationUnit
 
 > Represents an organization that an Employee belongs to. This object is
     available in API version 48.0 and later. In API version 49.0 and later, this object supports

@@ -5,12 +5,10 @@ topic: change-the-default-fields-for-a-values-table
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.317Z
+lastCollected: 2026-04-07T18:37:02.877Z
 estimatedTokens: 329
 keywords: [Change, particular, dataset, shown, sorted, alphabetical, order, includes, dates, five, measures, dimensions, editing, XMD]
 ---
-
-# Change the Default Fields for a Values Table
 
 > When you create a values table, particular dataset fields are shown by default. When the
     fields are sorted in alphabetical order, which includes dates, the table shows the first five

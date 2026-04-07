@@ -5,12 +5,10 @@ topic: get-application-form
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.041Z
+lastCollected: 2026-04-07T18:36:39.725Z
 estimatedTokens: 87
-keywords: [Application, Form, Output, representation]
+keywords: [Application, Form]
 ---
-
-# Get Application Form
 
 > Output representation of the request to get the application form details.
 

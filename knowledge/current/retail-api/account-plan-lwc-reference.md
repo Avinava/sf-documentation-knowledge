@@ -5,12 +5,10 @@ topic: account-plan-lwc-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.742Z
+lastCollected: 2026-04-07T18:39:16.283Z
 estimatedTokens: 2187
-keywords: [Account, Plan, LWC, tpm-account-plan, service, component, loads, TPM, exposing, state, events, keep, components, sync, changes]
+keywords: [Events, Account, Plan, LWC, tpm-account-plan, service, loads, TPM, exposing, state, keep, sync, changes, onstatuschange, oncalculationstatuschange, oncategoryfilterchange, onkpisubsetsfilterchange, Implementation, exportKPIs, API, getProperty, getLevelNames, getKPISubsets, getKPIs, getPeriods, getPeriodTypes, setManualInputs]
 ---
-
-# Account Plan LWC Reference
 
 > The tpm-account-plan LWC is a service component
         that loads a TPM account plan, exposing methods to update the account plan state, and events

@@ -5,12 +5,10 @@ topic: cart-messages-visibility-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.825Z
+lastCollected: 2026-04-07T18:37:07.544Z
 estimatedTokens: 92
-keywords: [Cart, Messages, Visibility, Input]
+keywords: [Cart, Messages, Visibility]
 ---
-
-# Cart Messages Visibility Input
 
 > Set the visibility for cart messages.
 

@@ -5,12 +5,10 @@ topic: videocallinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.218Z
+lastCollected: 2026-04-07T18:38:44.025Z
 estimatedTokens: 993
-keywords: [VideoCallInsight, video, call, insight, data, associated, record, specific, recording, transcript, API, version, 66.0, later, Calls]
+keywords: [VideoCallInsight, video, call, insight, record, specific, recording, transcript, API, 66.0]
 ---
-
-# VideoCallInsight
 
 > Represents the video call insight data associated with a video call. Each
          record represents the call insight of a specific recording or transcript within a

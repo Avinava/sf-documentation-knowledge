@@ -5,12 +5,10 @@ topic: develop-experience-builder-sites-the-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.631Z
+lastCollected: 2026-04-07T18:37:26.536Z
 estimatedTokens: 660
-keywords: [Develop, Experience, Builder, Sites, Basics, Developer, Console, development, tool, how, basic, drag-and-drop, Aura, component, tips]
+keywords: [Develop, Experience, Builder, Sites, Basics, Developer, Console, development, tool, how, basic, drag-and-drop, Aura, tips, consider, along, way]
 ---
-
-# Develop Experience Builder Sites: The Basics
 
 > Learn about the Developer Console development tool, how to create a basic drag-and-drop
     Aura component, and tips to consider along the way.

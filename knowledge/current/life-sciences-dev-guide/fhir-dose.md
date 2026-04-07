@@ -5,12 +5,10 @@ topic: fhir-dose
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.765Z
+lastCollected: 2026-04-07T18:37:55.102Z
 estimatedTokens: 223
-keywords: [FHIR, Dose, Input, representation, dosage, quantity]
+keywords: [FHIR, Dose, dosage, quantity]
 ---
-
-# FHIR Dose
 
 > Input representation for the dosage quantity.
 

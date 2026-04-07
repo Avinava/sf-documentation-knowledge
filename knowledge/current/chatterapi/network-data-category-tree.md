@@ -5,12 +5,10 @@ topic: network-data-category-tree
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.792Z
+lastCollected: 2026-04-07T18:37:14.838Z
 estimatedTokens: 215
-keywords: [Network, Data, Category, Tree, Experience, Cloud, site]
+keywords: [Network, Category, Tree, Experience, Cloud, site]
 ---
-
-# Network Data Category Tree
 
 > Get or update the network data category tree in an Experience Cloud site.
 

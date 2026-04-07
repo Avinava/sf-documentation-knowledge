@@ -5,12 +5,10 @@ topic: cartdeliverygroupmethodadj
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:38.839Z
+lastCollected: 2026-04-07T18:39:33.248Z
 estimatedTokens: 388
 keywords: [CartDeliveryGroupMethodAdj, shipping, promotion, discount]
 ---
-
-# CartDeliveryGroupMethodAdj
 
 > Represents the shipping promotion discount for a shipping method.
 

@@ -5,12 +5,10 @@ topic: retrieve-the-subscriberstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.706Z
+lastCollected: 2026-04-07T18:40:18.908Z
 estimatedTokens: 3486
 keywords: [Retrieve, SubscriberStatusEvent, retrieving, Why, How, Sample, NET, Code, Results, PHP, Incremental, Periods, Time, SOAP, Envelopes]
 ---
-
-# Retrieve the SubscriberStatusEvent
 
 > This page contains information  about retrieving the SubscriberStatusEvent object.
 

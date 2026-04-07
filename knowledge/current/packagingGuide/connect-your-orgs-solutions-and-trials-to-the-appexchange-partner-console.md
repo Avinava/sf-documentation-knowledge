@@ -5,12 +5,10 @@ topic: connect-your-orgs-solutions-and-trials-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.146Z
+lastCollected: 2026-04-07T18:38:45.999Z
 estimatedTokens: 448
 keywords: [Connect, Orgs, Solutions, Trials, AppExchange, Partner, Console, listing, Salesforce, run, business, plan]
 ---
-
-# Connect Your Orgs, Solutions, and Trials to the AppExchange Partner Console
 
 > Before you create an AppExchange listing, connect the Salesforce orgs that you need to
   run your AppExchange business to the Partner Console. Then connect the solutions and trials that

@@ -5,12 +5,10 @@ topic: vehicle-asset-carbon-footprint-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.669Z
+lastCollected: 2026-04-07T18:38:16.213Z
 estimatedTokens: 139
-keywords: [Vehicle, Asset, Carbon, Footprint, Input, representation, source, calculate, assets, fleet, vehicles, corporate, aircraft, company, shuttles]
+keywords: [Vehicle, Asset, Carbon, Footprint, source, calculate, assets, fleet, vehicles, corporate, aircraft, company, shuttles]
 ---
-
-# Vehicle Asset Carbon Footprint Input
 
 > Input representation of the source to calculate the carbon footprint
       from vehicle assets, such as fleet vehicles, corporate aircraft, and company

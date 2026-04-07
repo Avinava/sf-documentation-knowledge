@@ -5,12 +5,10 @@ topic: ocr-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:56.230Z
+lastCollected: 2026-04-07T18:36:41.957Z
 estimatedTokens: 472
-keywords: [OCR, Metadata, API, access, feature, settings, customize, user, Developer]
+keywords: [OCR, Metadata, API, feature, settings, customize, user, Developer]
 ---
-
-# OCR Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface. For more information about Metadata API and to find a complete

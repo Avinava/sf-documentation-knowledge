@@ -5,12 +5,10 @@ topic: 310000-310099-dataextension-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.694Z
+lastCollected: 2026-04-07T18:40:14.697Z
 estimatedTokens: 381
 keywords: [310000-310099, DataExtension]
 ---
-
-# 310000-310099 DataExtension Object
 
 # 310000-310099 DataExtension Object
 

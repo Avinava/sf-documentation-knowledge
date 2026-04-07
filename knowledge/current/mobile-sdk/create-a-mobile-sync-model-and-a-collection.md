@@ -6,13 +6,10 @@ topic: create-a-mobile-sync-model-and-a-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.446Z
+lastCollected: 2026-04-07T18:40:25.824Z
 estimatedTokens: 291
 keywords: [Mobile, Sync, Model, Collection]
 ---
-
-# Create a Mobile Sync Model
-        and a Collection
 
 # Create a Mobile Sync Model and a Collection
 

@@ -5,12 +5,10 @@ topic: apexinputfile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.670Z
+lastCollected: 2026-04-07T18:38:49.816Z
 estimatedTokens: 1274
-keywords: [apex, inputFile, component, creates, input, upload, file, Attributes]
+keywords: [Attributes, apex, inputFile, creates, upload, file]
 ---
-
-# apex:inputFile
 
 > A component that creates an input field to upload a file.
 

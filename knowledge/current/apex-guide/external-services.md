@@ -5,13 +5,11 @@ topic: external-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.433Z
+lastCollected: 2026-04-07T18:36:17.663Z
 estimatedTokens: 217
 namespace: ExternalService
-keywords: [External, Services, connect, Salesforce, org, service, outside, employee, banking, register, call, natively, Apex, code, Objects]
+keywords: [External, Services, connect, Salesforce, org, service, outside, employee, banking, register, call, natively, Apex, code, operations, defined, service's, registered, API, specification, become, classes, ExternalService, schema, map, strongly, typed, making, compiler, heavy, lifting, safe, callout, needing, Http, perform, transforms, JSON, strings]
 ---
-
-# External Services
 
 > External Services connect your Salesforce org to a service outside of Salesforce, such as
   an employee banking service. After you register the external service, you can call it natively in

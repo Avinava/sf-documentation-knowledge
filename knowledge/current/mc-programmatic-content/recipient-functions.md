@@ -5,12 +5,10 @@ topic: recipient-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.338Z
+lastCollected: 2026-04-07T18:40:23.773Z
 estimatedTokens: 196
-keywords: [Recipient, Functions, Query, Definition, server-side, JavaScript, allow, manipulate, queries, via, ways, Load, Initialize]
+keywords: [Load, Initialize, Recipient, Functions, Query, Definition, server-side, JavaScript, allow, manipulate, queries, via, ways]
 ---
-
-# Recipient Functions
 
 > The Query Definition server-side JavaScript functions allow you to manipulate queries via server-side JavaScript in the following ways:
 

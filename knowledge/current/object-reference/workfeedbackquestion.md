@@ -5,12 +5,10 @@ topic: workfeedbackquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.831Z
+lastCollected: 2026-04-07T18:38:44.642Z
 estimatedTokens: 865
-keywords: [WorkFeedbackQuestion, free-form, text, multiple, choice, question, questions, Calls, Associated, Objects]
+keywords: [WorkFeedbackQuestion, free-form, text, multiple, choice, question, questions]
 ---
-
-# WorkFeedbackQuestion
 
 > Represents a free-form text type or multiple choice question within
 			a set of questions.

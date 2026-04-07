@@ -5,12 +5,10 @@ topic: customize-fonts-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.822Z
+lastCollected: 2026-04-07T18:40:27.957Z
 estimatedTokens: 923
 keywords: [Customize, Fonts, There, three, customizable, font, settings, throughout, SCFontWeightLight, SCFontWeightRegular, SCFontWeightBold]
 ---
-
-# Customize Fonts with the
 
 > There are three customizable font settings used throughout the UI:
    SCFontWeightLight, SCFontWeightRegular,

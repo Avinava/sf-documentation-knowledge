@@ -5,12 +5,10 @@ topic: accountprivatelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.052Z
+lastCollected: 2026-04-07T18:40:15.075Z
 estimatedTokens: 449
 keywords: [AccountPrivateLabel, labels, account, Items]
 ---
-
-# AccountPrivateLabel
 
 > The AccountPrivateLabel object contains information on one or more available private labels for an account.
 

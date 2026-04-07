@@ -5,12 +5,10 @@ topic: get-site-specific-feed-elements-from-a-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.770Z
+lastCollected: 2026-04-07T18:36:18.991Z
 estimatedTokens: 202
-keywords: [Site-Specific, Feed, Elements, Call, display, user, profile, scoped, specific, Experience, Cloud, site]
+keywords: [Site-Specific, Call, display, user, profile, scoped, specific, Experience, Cloud, site]
 ---
-
-# Get Site-Specific Feed Elements from a Feed
 
 > Call a method to display a user profile feed that contains only feed elements that are
     scoped to a specific Experience Cloud site.

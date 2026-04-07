@@ -5,12 +5,10 @@ topic: clinicaldetectedissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.659Z
+lastCollected: 2026-04-07T18:39:34.092Z
 estimatedTokens: 303
-keywords: [ClinicalDetectedIssue, detected, issue, resulting, clinical, activity, API, version, 55.0, later]
+keywords: [ClinicalDetectedIssue, detected, issue, resulting, clinical, activity, API, 55.0]
 ---
-
-# ClinicalDetectedIssue
 
 > Represents information about a detected issue resulting from a
          clinical activity. This object is available in API version 55.0 and later.

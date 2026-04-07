@@ -5,12 +5,10 @@ topic: scheduled-timezone-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.571Z
+lastCollected: 2026-04-07T18:36:54.937Z
 estimatedTokens: 105
-keywords: [Scheduled, Timezone, Input, schedule, time, zone]
+keywords: [Scheduled, Timezone, schedule, time, zone]
 ---
-
-# Scheduled Timezone Input
 
 > The information for a schedule time zone.
 

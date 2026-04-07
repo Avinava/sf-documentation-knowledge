@@ -5,12 +5,10 @@ topic: assetdowntimeperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.804Z
+lastCollected: 2026-04-07T18:39:27.794Z
 estimatedTokens: 462
-keywords: [AssetDowntimePeriod, period, asset, able, perform, expected, Downtime, periods, include, planned, activities, maintenance, unplanned, events, mechanical]
+keywords: [AssetDowntimePeriod, period, asset, able, perform, expected, Downtime, periods, include, planned, activities, maintenance, unplanned, events, mechanical, breakdown, API, 49.0]
 ---
-
-# AssetDowntimePeriod
 
 > Represents a period during which an asset is not able to perform as expected.
       Downtime periods include planned activities, such as maintenance, and unplanned events, such

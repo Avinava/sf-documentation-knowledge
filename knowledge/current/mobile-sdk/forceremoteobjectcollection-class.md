@@ -5,12 +5,10 @@ topic: forceremoteobjectcollection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.077Z
+lastCollected: 2026-04-07T18:40:25.444Z
 estimatedTokens: 593
-keywords: [Force.RemoteObjectCollection, support, collections, fetched, objects, Mobile, Sync, introduces, abstract, serves, layer, abstraction, Force.SObjectCollection, Backbone.Collection, Instead]
+keywords: [Force.RemoteObjectCollection, support, collections, fetched, Mobile, Sync, introduces, abstract, serves, layer, abstraction, Force.SObjectCollection, Backbone.Collection, Instead, directly, subclassing, Backbone.Collect, Implementing, Endpoints, fetchRemoteObjectFromServer]
 ---
-
-# Force.RemoteObjectCollection Class
 
 > To support collections of fetched objects, Mobile Sync
             introduces the Force.RemoteObjectCollection

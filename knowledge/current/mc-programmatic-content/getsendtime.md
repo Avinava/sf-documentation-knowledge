@@ -5,12 +5,10 @@ topic: getsendtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.376Z
+lastCollected: 2026-04-07T18:40:21.662Z
 estimatedTokens: 435
-keywords: [GetSendTime, Function, Ordinal, Determines, whether, show, send, time, subscribers, job, data, extension, start, **Overview**, **Syntax**]
+keywords: [GetSendTime, Function, Ordinal, Determines, whether, show, send, time, subscribers, job, extension, start, **Overview**, **Syntax**]
 ---
-
-# GetSendTime
 
 > GetSendTime(1)
 

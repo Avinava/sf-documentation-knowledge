@@ -5,12 +5,10 @@ topic: searchcustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.983Z
+lastCollected: 2026-04-07T18:36:29.461Z
 estimatedTokens: 1176
-keywords: [SearchCustomization, configuration, search, settings, created, Manager, includes, channel, searchable, objects, rules, filter, results, Parent, File]
+keywords: [SearchCustomization, SearchCustomizationObjectOverride, SearchCustomizationFieldOverride, SearchCustomizationRule, SearchCustomizationRuleValue, configuration, search, settings, created, Manager, includes, channel, searchable, filter, results, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SearchCustomization
 
 > Represents the configuration of search settings created in
       Search Manager. The configuration includes the search channel, searchable objects and fields,

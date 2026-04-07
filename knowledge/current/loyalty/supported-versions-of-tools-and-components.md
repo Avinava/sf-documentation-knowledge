@@ -5,12 +5,10 @@ topic: supported-versions-of-tools-and-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.243Z
+lastCollected: 2026-04-07T18:38:08.511Z
 estimatedTokens: 255
-keywords: [Versions, Tools, Components, Gamification, Mobile, SDK, works, iOS, 15.0+, Android, 8.0+, Install, Loyalty, Management, Studio, Electric, Eel, 2022.1.1+]
+keywords: [Android, Versions, Tools, Gamification, Mobile, SDK, works, iOS, 15.0+, 8.0+, Install, Loyalty, Management, Studio, Electric, Eel, 2022.1.1+]
 ---
-
-# Supported Versions of Tools and Components
 
 > Loyalty Management Mobile SDK works on iOS 15.0+ and Android Studio Electric Eel
   2022.1.1+ versions. Install the tools and components required to set up Loyalty Management Mobile

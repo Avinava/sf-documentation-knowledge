@@ -5,12 +5,10 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.221Z
+lastCollected: 2026-04-07T18:40:21.502Z
 estimatedTokens: 490
-keywords: [Introduction, Marketing, Cloud, platform, call, API, mobile, app, integrates, build, custom, apps, components, top, Packages]
+keywords: [Introduction, APIs, SDKs, Marketing, Cloud, platform, call, API, mobile, app, integrates, build, apps, top, Packages, Programmatic, Languages, Items]
 ---
-
-# Introduction
 
 > Using the Marketing Cloud platform, you can call the public Marketing Cloud API, create a mobile app that integrates with Marketing Cloud, or build custom apps and components on top of Marketing Cloud.
 

@@ -5,12 +5,10 @@ topic: service-process-layout-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.907Z
+lastCollected: 2026-04-07T18:36:38.562Z
 estimatedTokens: 93
-keywords: [Service, Process, Layout, Data, Retrieve]
+keywords: [Service, Process, Layout, Retrieve]
 ---
-
-# Service Process Layout Data
 
 > Retrieve service process layout data.
 

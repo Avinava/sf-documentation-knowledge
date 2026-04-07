@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.363Z
+lastCollected: 2026-04-07T18:36:58.861Z
 estimatedTokens: 363
-keywords: [Smart, Data, Discovery, Projected, Predictions, Transformation, Input]
+keywords: [Smart, Discovery, Projected, Predictions, Transformation]
 ---
-
-# Smart Data Discovery Projected Predictions Transformation Input
 
 > The input for a projected predictions transformation.
 

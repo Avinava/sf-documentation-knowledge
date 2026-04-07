@@ -5,12 +5,10 @@ topic: defer-login
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.718Z
+lastCollected: 2026-04-07T18:40:26.054Z
 estimatedTokens: 333
-keywords: [Defer, Login, Mobile, SDK, hybrid, apps, always, present, Salesforce, screen, startup, Sometimes, however, benefit, deferring, Apps, built, early, versions, React]
+keywords: [Defer, Login, Mobile, SDK, hybrid, apps, always, present, Salesforce, screen, startup, Sometimes, however, benefit, deferring, authentication, until, point.With, little, configuration, any, logical, place, app, Step, Configure, Project, Skip, Initiate, JavaScript, Apps, built, early, versions, React, Native, point, Beginning, 4.2, Step1, Disable]
 ---
-
-# Defer Login
 
 > Apps built with early versions of React Native for Mobile SDK always
         present a Salesforce login screen at startup. Sometimes, however, these apps can benefit

@@ -5,12 +5,10 @@ topic: content-area-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.503Z
+lastCollected: 2026-04-07T18:40:22.930Z
 estimatedTokens: 237
-keywords: [Content, Area, Functions, manipulate, areas, inside, Marketing, Cloud, account, Email, messages, SMS, landing, pages, Load]
+keywords: [Load, Initialization, Content, Area, Functions, manipulate, areas, inside, Marketing, Cloud, account, Email, messages, SMS, landing, pages]
 ---
-
-# Content Area Functions
 
 > Use these functions to create and manipulate content areas inside your Marketing Cloud account. Email messages, SMS messages, and landing pages can make use of content areas.
 

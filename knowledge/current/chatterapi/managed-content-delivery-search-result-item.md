@@ -5,12 +5,10 @@ topic: managed-content-delivery-search-result-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.177Z
+lastCollected: 2026-04-07T18:37:20.361Z
 estimatedTokens: 287
 keywords: [Managed, Content, Delivery, Search, Result, Item]
 ---
-
-# Managed Content Delivery Search Result Item
 
 > Managed content search result item.
 

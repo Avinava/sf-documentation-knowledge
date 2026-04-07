@@ -5,12 +5,10 @@ topic: connectapicdpqueryv2row
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.603Z
+lastCollected: 2026-04-07T18:36:07.978Z
 estimatedTokens: 91
-keywords: [ConnectApi.CdpQueryV2Row, Row, query, output, API]
+keywords: [ConnectApi.CdpQueryV2Row, Row, query, API]
 ---
-
-# ConnectApi.CdpQueryV2Row
 
 > Row in the query output for the V2 API.
 

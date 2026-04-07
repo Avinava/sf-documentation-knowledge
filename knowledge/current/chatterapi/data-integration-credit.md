@@ -5,12 +5,10 @@ topic: data-integration-credit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.166Z
+lastCollected: 2026-04-07T18:37:18.247Z
 estimatedTokens: 228
-keywords: [Data, Integration, Credit, Contract]
+keywords: [Integration, Credit, Contract]
 ---
-
-# Data Integration Credit
 
 > Contract credit information.
 

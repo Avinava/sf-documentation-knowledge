@@ -5,12 +5,10 @@ topic: contactsfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.656Z
+lastCollected: 2026-04-07T18:39:23.588Z
 estimatedTokens: 148
 keywords: [ContactsFilter, Criteria, filter, result, getContacts]
 ---
-
-# ContactsFilter
 
 > Criteria object used to filter the result set returned by getContacts.
 

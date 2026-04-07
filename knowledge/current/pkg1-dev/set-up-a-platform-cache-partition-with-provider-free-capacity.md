@@ -5,12 +5,10 @@ topic: set-up-a-platform-cache-partition-with-provider-free-capacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.827Z
+lastCollected: 2026-04-07T18:38:53.123Z
 estimatedTokens: 680
-keywords: [Platform, Cache, Partition, Provider, Free, Capacity, Salesforce, security-reviewed, managed, packages, made, automatically, enabled, Developer, edition]
+keywords: [Platform, Cache, Partition, Provider, Free, Capacity, Salesforce, security-reviewed, managed, packages, made, automatically, enabled, Developer, edition, orgs]
 ---
-
-# Set Up a Platform Cache Partition with Provider Free Capacity
 
 > Salesforce provides 3 MB of free Platform Cache capacity for security-reviewed managed
   packages. This is made available through a capacity type called Provider Free capacity and is

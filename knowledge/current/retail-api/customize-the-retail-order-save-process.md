@@ -5,12 +5,10 @@ topic: customize-the-retail-order-save-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.102Z
+lastCollected: 2026-04-07T18:39:11.703Z
 estimatedTokens: 526
 keywords: [Customize, Retail, Order, Save, Process, callable, Apex, customization, hook]
 ---
-
-# Customize the Retail Order Save Process
 
 > To customize the retail order save process, create a callable Apex class as a
     customization hook.

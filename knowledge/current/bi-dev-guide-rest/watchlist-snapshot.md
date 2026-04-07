@@ -5,12 +5,10 @@ topic: watchlist-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.451Z
+lastCollected: 2026-04-07T18:36:58.008Z
 estimatedTokens: 155
 keywords: [Watchlist, Snapshot, Analytics, collection]
 ---
-
-# Watchlist Snapshot
 
 > An Analytics watchlist snapshot collection.
 

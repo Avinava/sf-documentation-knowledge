@@ -5,12 +5,10 @@ topic: subscriptiontopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.397Z
+lastCollected: 2026-04-07T18:37:44.718Z
 estimatedTokens: 1242
-keywords: [SubscriptionTopic, FHIR, resource, maps, InteropTopic, InteropTopicDetail, InteropTopicTriggerCriteria, InteropTopicFilterand, InteropTopicNtfcnResourceobjects, Salesforce, V4.0, Subscription, Data, Model, Mapping]
+keywords: [SubscriptionTopic, FHIR, resource, maps, InteropTopic, InteropTopicDetail, InteropTopicTriggerCriteria, InteropTopicFilterand, InteropTopicNtfcnResourceobjects, Salesforce, V4.0, Subscription, Model, Mapping]
 ---
-
-# SubscriptionTopic
 
 > The SubscriptionTopic FHIR resource maps to the
    InteropTopic, InteropTopicDetail,

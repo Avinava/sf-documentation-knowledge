@@ -5,12 +5,10 @@ topic: organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.374Z
+lastCollected: 2026-04-07T18:38:52.684Z
 estimatedTokens: 193
-keywords: [$Organization, merge, referencing, company, profile, organization, organization’s, city, fax, Usage]
+keywords: [$Organization, merge, referencing, company, profile, organization, organization’s, city, fax]
 ---
-
-# $Organization
 
 > A global merge field type to use when referencing information about your company
   profile. Use organization merge fields to reference your organization’s city, fax, ID, or

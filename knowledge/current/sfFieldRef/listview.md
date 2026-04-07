@@ -5,13 +5,11 @@ topic: listview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.802Z
+lastCollected: 2026-04-07T18:39:46.353Z
 estimatedTokens: 354
 namespace: NamespacePrefix
-keywords: [ListView, view, records, specific, criteria, API, version, 32.0, later]
+keywords: [ListView, view, records, specific, criteria, API, 32.0]
 ---
-
-# ListView
 
 > Represents a list view. A list view shows a set of records for an
    object, based on specific criteria. This object is available in API version 32.0 and

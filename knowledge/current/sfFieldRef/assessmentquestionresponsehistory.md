@@ -5,12 +5,10 @@ topic: assessmentquestionresponsehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.370Z
+lastCollected: 2026-04-07T18:39:27.354Z
 estimatedTokens: 278
-keywords: [AssessmentQuestionResponseHistory, History, tracked, AssessmentQuestionResponse]
+keywords: [AssessmentQuestionResponseHistory, tracked, AssessmentQuestionResponse]
 ---
-
-# AssessmentQuestionResponseHistory
 
 > History for tracked fields of AssessmentQuestionResponse.
 

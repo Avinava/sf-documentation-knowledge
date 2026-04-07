@@ -5,12 +5,10 @@ topic: apex-code-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.498Z
+lastCollected: 2026-04-07T18:36:16.719Z
 estimatedTokens: 824
-keywords: [Apex, Code, Versions, aid, backwards-compatibility, classes, triggers, stored, version, settings, specific, Salesforce, API, Versioning]
+keywords: [Apex, Code, Versions, aid, backwards-compatibility, classes, triggers, stored, settings, specific, Salesforce, API, Versioning]
 ---
-
-# Apex Code Versions
 
 > To aid backwards-compatibility, classes and triggers are stored with the version
         settings for a specific Salesforce API version.

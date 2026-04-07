@@ -5,12 +5,10 @@ topic: settabhighlighted-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.934Z
+lastCollected: 2026-04-07T18:36:50.122Z
 estimatedTokens: 482
-keywords: [setTabHighlighted, Lightning, Experience, Highlights, tab, different, background, color, badge, don’t, persist, reloading, console, app, works]
+keywords: [Arguments, setTabHighlighted, Lightning, Experience, Highlights, tab, different, background, color, badge, don’t, persist, reloading, console, app, works, apps, LWC, Sample, Code, Aura]
 ---
-
-# setTabHighlighted() for Lightning Experience
 
 > Highlights the specified tab with a different background color and a badge. Tab
         highlights don’t persist after reloading a Lightning console app. This method works only in

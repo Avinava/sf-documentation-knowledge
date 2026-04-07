@@ -5,12 +5,10 @@ topic: product-requirement-specification-version-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.331Z
+lastCollected: 2026-04-07T18:38:12.622Z
 estimatedTokens: 224
-keywords: [Product, Requirement, Specification, Version, Input, representation, versions, including, data, associated, items, PropertiesListWrapperInput]
+keywords: [PropertiesListWrapperInput, Product, Requirement, Specification, versions, including, items]
 ---
-
-# Product Requirement Specification Version Input
 
 > Input representation for a list of specification versions, including version data and
     associated items.

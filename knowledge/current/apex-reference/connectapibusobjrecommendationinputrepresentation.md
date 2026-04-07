@@ -5,12 +5,10 @@ topic: connectapibusobjrecommendationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.379Z
+lastCollected: 2026-04-07T18:36:04.706Z
 estimatedTokens: 647
 keywords: [Recommended, action, business, objective, goal]
 ---
-
-# ConnectApi.BusObjRecommendationInputRepresentation
 
 > Recommended action for a business objective, or goal.
 

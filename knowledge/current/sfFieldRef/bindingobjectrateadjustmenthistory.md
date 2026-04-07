@@ -5,12 +5,10 @@ topic: bindingobjectrateadjustmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.633Z
+lastCollected: 2026-04-07T18:39:29.787Z
 estimatedTokens: 279
-keywords: [BindingObjectRateAdjustmentHistory, History, tracked, BindingObjectRateAdjustment]
+keywords: [BindingObjectRateAdjustmentHistory, tracked, BindingObjectRateAdjustment]
 ---
-
-# BindingObjectRateAdjustmentHistory
 
 > History for tracked fields of BindingObjectRateAdjustment.
 

@@ -5,12 +5,10 @@ topic: recordalertswrapper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.435Z
+lastCollected: 2026-04-07T18:37:33.884Z
 estimatedTokens: 210
-keywords: [RecordAlertsWrapper, callable, fetch, Record, Alert, data, Financial, Services, Cloud, group, results, Account, Category, Usage]
+keywords: [RecordAlertsWrapper, callable, fetch, Record, Alert, Financial, Services, Cloud, group, results, Account, Category]
 ---
-
-# RecordAlertsWrapper Class
 
 > Use the callable RecordAlertsWrapper class to fetch Record Alert data.
       For Financial Services Cloud, you can group the results by Financial Account and Record Alert

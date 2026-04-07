@@ -5,12 +5,10 @@ topic: get-datav1auditsecurityevents
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.221Z
+lastCollected: 2026-04-07T18:40:17.378Z
 estimatedTokens: 657
-keywords: [data, audit, securityEvents, Retrieves, logged, Trail, security, events, authenticated, user’s, account, children, Logins, audited, enterprise]
+keywords: [audit, securityEvents, Retrieves, logged, Trail, security, events, authenticated, user’s, account, children, Logins, audited, enterprise, level, **Overview**, Marketing, Cloud, Permissions, Items]
 ---
-
-# GET /data/v1/audit/securityEvents
 
 > Retrieves logged Audit Trail security events for the authenticated user’s account and its children. Logins are audited at the enterprise level.
 

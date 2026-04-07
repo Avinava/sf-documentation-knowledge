@@ -5,13 +5,11 @@ topic: industriesdigitallending-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.941Z
+lastCollected: 2026-04-07T18:36:15.252Z
 estimatedTokens: 350
 namespace: The
 keywords: [IndustriesDigitalLending, classes, Digital, Lending, OmniScripts, Integration, Procedures]
 ---
-
-# IndustriesDigitalLending Namespace
 
 > The industriesDigitalLending namespace provides
         classes used in the

@@ -5,12 +5,10 @@ topic: fiscalyearfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.056Z
+lastCollected: 2026-04-07T18:37:01.669Z
 estimatedTokens: 186
-keywords: [fiscal_year_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, fiscal, year, begins, February, _year, _first]
+keywords: [fiscal_year_first_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, fiscal, year, begins, February, _year, _first, _day]
 ---
-
-# fiscal_year_first_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date object as input. Returns an object of the same type that
   corresponds to the first day of the fiscal year that contains the specified date. By default, the

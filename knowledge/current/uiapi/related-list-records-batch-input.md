@@ -5,12 +5,10 @@ topic: related-list-records-batch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.847Z
+lastCollected: 2026-04-07T18:40:10.814Z
 estimatedTokens: 570
-keywords: [Records, Batch, Input, record, data]
+keywords: [Records, Batch, record]
 ---
-
-# Related List Records Batch Input
 
 > Get record data for a batch of related lists.
 

@@ -5,12 +5,10 @@ topic: authapplicationplaceshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.417Z
+lastCollected: 2026-04-07T18:39:28.483Z
 estimatedTokens: 253
 keywords: [AuthApplicationPlaceShare, Sharing, AuthApplicationPlace]
 ---
-
-# AuthApplicationPlaceShare
 
 > Sharing for AuthApplicationPlace.
 

@@ -5,12 +5,10 @@ topic: creating-an-ios-swift-project-manually
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.092Z
+lastCollected: 2026-04-07T18:40:26.398Z
 estimatedTokens: 794
 keywords: [Creating, iOS, Swift, Project, Manually, prefer, forceios, CocoaPods, Mobile, SDK, apps, Xcode]
 ---
-
-# Creating an iOS Swift Project Manually
 
 > If you prefer not to use forceios or CocoaPods, you can create Mobile SDK apps manually in
     Xcode.

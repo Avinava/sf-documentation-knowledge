@@ -5,12 +5,10 @@ topic: invoice-preview-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.982Z
+lastCollected: 2026-04-07T18:35:45.950Z
 estimatedTokens: 102
-keywords: [Invoice, Preview, Result, Output, representation, invoices, generated, billing, transaction]
+keywords: [Invoice, Preview, Result, invoices, generated, billing, transaction]
 ---
-
-# Invoice Preview Result
 
 > Output representation of the list of preview invoices that are generated for the billing transaction.
 

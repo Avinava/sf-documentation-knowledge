@@ -5,12 +5,10 @@ topic: dispute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:49.190Z
+lastCollected: 2026-04-07T18:37:36.967Z
 estimatedTokens: 1416
-keywords: [Dispute, involves, multiple, disputed, transactions, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [Dispute, involves, multiple, disputed, transactions, API, 59.0]
 ---
-
-# Dispute
 
 > Represents the details of a dispute that involves one or multiple disputed
          transactions. This object is available in API version 59.0 and later.

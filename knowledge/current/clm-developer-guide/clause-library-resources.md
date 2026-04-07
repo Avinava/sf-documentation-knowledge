@@ -5,12 +5,10 @@ topic: clause-library-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.837Z
+lastCollected: 2026-04-07T18:37:24.807Z
 estimatedTokens: 273
 keywords: [Clause, Library, Resources, Manage, Salesforce, Contracts]
 ---
-
-# Clause Library Resources
 
 > Manage Salesforce Contracts clause library resources.
 

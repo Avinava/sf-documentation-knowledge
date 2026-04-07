@@ -5,12 +5,10 @@ topic: handling-rest-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.194Z
+lastCollected: 2026-04-07T18:40:26.507Z
 estimatedTokens: 656
 keywords: [Handling, REST, Requests, runtime, Mobile, SDK, creates, singleton, instance, RestClient, obtain, RestRequest, send, Salesforce, server]
 ---
-
-# Handling REST Requests
 
 > At runtime, Mobile SDK creates a singleton instance of RestClient. You use this instance to obtain a
                     RestRequest object and to send that object

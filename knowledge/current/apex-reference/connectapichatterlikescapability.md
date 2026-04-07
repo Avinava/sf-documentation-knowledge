@@ -5,12 +5,10 @@ topic: connectapichatterlikescapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.717Z
+lastCollected: 2026-04-07T18:36:08.086Z
 estimatedTokens: 290
-keywords: [ConnectApi.ChatterLikesCapability, feed, element, capability, context, user, likes]
+keywords: [ConnectApi.ChatterLikesCapability, capability, context, user, likes]
 ---
-
-# ConnectApi.ChatterLikesCapability
 
 > If a feed element has this capability, the context user can like it.
       Exposes information about existing likes.

@@ -5,12 +5,10 @@ topic: loyalty-process-parameter-map-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.082Z
+lastCollected: 2026-04-07T18:38:07.301Z
 estimatedTokens: 83
-keywords: [Loyalty, Process, Map, Input, representation]
+keywords: [Loyalty, Process, Map]
 ---
-
-# Loyalty Process Parameter Map Input
 
 > Input representation of the input parameters for the loyalty
       process.

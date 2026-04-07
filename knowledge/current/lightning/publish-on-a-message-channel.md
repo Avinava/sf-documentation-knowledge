@@ -5,12 +5,10 @@ topic: publish-on-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.612Z
+lastCollected: 2026-04-07T18:38:04.754Z
 estimatedTokens: 663
-keywords: [Publish, Message, Channel, include, lightning, messageChannel, component, Aura, component's, controller, file]
+keywords: [Publish, Message, Channel, include, lightning, messageChannel, Aura, component's, controller, file]
 ---
-
-# Publish on a Message Channel
 
 > To publish a message on a message channel, include a lightning:messageChannel component in your Aura component and use the publish() method in your Aura component's controller file.
 

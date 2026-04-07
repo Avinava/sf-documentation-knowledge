@@ -5,12 +5,10 @@ topic: orderitemrateadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.563Z
+lastCollected: 2026-04-07T18:39:50.968Z
 estimatedTokens: 326
-keywords: [OrderItemRateAdjustment, negotiated, rate, adjustment, order, product, API, version, 62.0, later]
+keywords: [OrderItemRateAdjustment, negotiated, rate, adjustment, order, product, API, 62.0]
 ---
-
-# OrderItemRateAdjustment
 
 > Represents the negotiated rate adjustment for an order product. This
       object is available in API version 62.0 and later.

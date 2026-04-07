@@ -5,12 +5,10 @@ topic: expressionsetversionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.454Z
+lastCollected: 2026-04-07T18:39:40.045Z
 estimatedTokens: 270
-keywords: [ExpressionSetVersionHistory, History, tracked, ExpressionSetVersion]
+keywords: [ExpressionSetVersionHistory, tracked, ExpressionSetVersion]
 ---
-
-# ExpressionSetVersionHistory
 
 > History for tracked fields of ExpressionSetVersion.
 

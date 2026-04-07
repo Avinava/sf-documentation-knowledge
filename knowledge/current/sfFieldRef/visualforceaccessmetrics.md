@@ -5,12 +5,10 @@ topic: visualforceaccessmetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.135Z
+lastCollected: 2026-04-07T18:40:06.023Z
 estimatedTokens: 243
 keywords: [VisualforceAccessMetrics, summary, statistics, Visualforce, pages]
 ---
-
-# VisualforceAccessMetrics
 
 > Represents summary statistics for Visualforce pages.
 

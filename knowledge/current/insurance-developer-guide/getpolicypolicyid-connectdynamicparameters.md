@@ -5,12 +5,10 @@ topic: getpolicypolicyid-connectdynamicparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.611Z
+lastCollected: 2026-04-07T18:37:49.456Z
 estimatedTokens: 367
-keywords: [GetPolicy, policyId, connectDynamicParameters, insurance, policy, Pass, additional, context, metadata, customize, that's, fetched, API, Version, Requires]
+keywords: [GetPolicy, policyId, connectDynamicParameters, insurance, policy, Pass, additional, context, metadata, customize, that's, fetched, API, Requires, Chatter]
 ---
-
-# GetPolicy(policyId, connectDynamicParameters)
 
 > Get details of an insurance policy. Pass additional context or metadata to customize the
     information that's fetched.

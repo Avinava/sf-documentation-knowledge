@@ -5,12 +5,10 @@ topic: macro-use-case-recursive-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.038Z
+lastCollected: 2026-04-07T18:37:02.579Z
 estimatedTokens: 225
 keywords: [Macro, Case, Recursive, Operations, Here’s, deletes, sfdcDigest, node, digest, nodes, depend]
 ---
-
-# Macro Use Case: Recursive Operations
 
 > Here’s an example of a macro that deletes an sfdcDigest node. It also deletes the digest node and all other nodes that depend on
     that node.

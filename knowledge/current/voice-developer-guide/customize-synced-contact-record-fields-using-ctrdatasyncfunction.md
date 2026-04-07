@@ -5,12 +5,10 @@ topic: customize-synced-contact-record-fields-using-ctrdatasyncfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.722Z
+lastCollected: 2026-04-07T18:40:12.691Z
 estimatedTokens: 682
-keywords: [Customize, Synced, Contact, Record, CTRDataSyncFunction, Although, provided, Lambda, automatically, syncs, Amazon’s, previously, trace, CTR, VoiceCall]
+keywords: [Customize, Synced, Contact, Record, CTRDataSyncFunction, Although, provided, Lambda, automatically, syncs, Amazon’s, previously, trace, CTR, VoiceCall, function, sync, additional]
 ---
-
-# Customize Synced Contact Record Fields Using CTRDataSyncFunction
 
 > Although the provided CTRDataSyncFunction Lambda automatically syncs
             many of the fields between Amazon’s contact record (previously called contact trace record or CTR) and a VoiceCall record,

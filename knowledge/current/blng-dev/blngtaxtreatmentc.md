@@ -5,12 +5,10 @@ topic: blngtaxtreatmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.583Z
+lastCollected: 2026-04-07T18:37:04.200Z
 estimatedTokens: 839
-keywords: [blng__TaxTreatment__c, how, Salesforce, external, engines, calculate, taxes, tax, engine, calculation, blng, _TaxTreatment, Calls]
+keywords: [blng__TaxTreatment__c, how, Salesforce, external, engines, calculate, taxes, tax, engine, calculation, blng, _TaxTreatment]
 ---
-
-# blng__TaxTreatment__c
 
 > Represents how Salesforce and external engines calculate taxes, and the tax
          engine to use for tax calculation.

@@ -5,12 +5,10 @@ topic: lightningerroreventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.132Z
+lastCollected: 2026-04-07T18:38:34.330Z
 estimatedTokens: 1730
-keywords: [LightningErrorEventLog, Lightning, Error, events, represent, errors, occurred, user, interactions, Experience, Salesforce, mobile, app, API, version]
+keywords: [LightningErrorEventLog, Lightning, Error, events, represent, errors, occurred, user, interactions, Experience, Salesforce, mobile, app, API, 64.0]
 ---
-
-# LightningErrorEventLog
 
 > Lightning Error events represent errors that occurred during user
          interactions with Lightning Experience and the Salesforce mobile app. This object is

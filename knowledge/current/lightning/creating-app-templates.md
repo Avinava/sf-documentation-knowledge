@@ -5,12 +5,10 @@ topic: creating-app-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.755Z
+lastCollected: 2026-04-07T18:38:02.686Z
 estimatedTokens: 257
-keywords: [Creating, App, Templates, template, bootstraps, loading, framework, Customize, app’s, component, extends, aura]
+keywords: [Creating, App, Templates, template, bootstraps, loading, framework, Customize, app’s, extends, aura]
 ---
-
-# Creating App Templates
 
 > An app template bootstraps the loading of the framework and the app. Customize an
         app’s template by creating a component that extends the default aura:template template.

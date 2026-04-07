@@ -5,12 +5,10 @@ topic: lazy-load-page-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.704Z
+lastCollected: 2026-04-07T18:38:48.652Z
 estimatedTokens: 500
-keywords: [Lazy, Load, Components, reduce, delay, expensive, calculations, loading, loads, essential, delays, features, until, user, performs]
+keywords: [Lazy, Load, reduce, delay, expensive, calculations, loading, loads, essential, delays, features, until, user, performs, action, requires, technique, gives, users, faster, large, appear, responsive, though, entire, total, time]
 ---
-
-# Lazy Load Page Components
 
 > To reduce or delay expensive calculations, use lazy loading. With lazy loading, a page
     loads its essential components first and delays the other features until the user performs an

@@ -5,12 +5,10 @@ topic: validate-components-during-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.792Z
+lastCollected: 2026-04-07T18:38:15.272Z
 estimatedTokens: 331
-keywords: [Validate, Components, Development, ensure, offline, environments, watch, act, recommendations, analyzer]
+keywords: [Validate, Development, ensure, offline, environments, watch, act, recommendations, analyzer]
 ---
-
-# Validate Components During Development
 
 > To ensure your components can be used in offline environments, watch for and act on the
   recommendations of the static analyzer.

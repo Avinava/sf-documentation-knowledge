@@ -5,12 +5,10 @@ topic: messagingtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.426Z
+lastCollected: 2026-04-07T18:38:35.673Z
 estimatedTokens: 275
-keywords: [MessagingTemplate, Messaging, template, send, pre-formatted, messages, API, version, 47.0, later, Calls]
+keywords: [MessagingTemplate, Messaging, template, send, pre-formatted, messages, API, 47.0]
 ---
-
-# MessagingTemplate
 
 > Represents a Messaging template used to send pre-formatted messages. This
     object is available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: considerations-for-lwc-offline-in-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:02.629Z
+lastCollected: 2026-04-07T18:36:48.667Z
 estimatedTokens: 359
-keywords: [Considerations, LWC, Offline, Service, Mobile, App, apply, run, components]
+keywords: [Considerations, LWC, Offline, Service, Mobile, App, apply, run]
 ---
-
-# Considerations for LWC Offline in the Field Service Mobile App
 
 > The following considerations apply to LWC Offline when you run your components in the
   Field Service mobile app.

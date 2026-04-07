@@ -5,12 +5,10 @@ topic: yourgatewayapi
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.631Z
+lastCollected: 2026-04-07T18:37:03.198Z
 estimatedTokens: 249
-keywords: [YourGatewayAPI, base, connects, Salesforce, Billing, package, payment, gateway, user, API, classes, different, needs, However, we've]
+keywords: [YourGatewayAPI, base, connects, Salesforce, Billing, package, payment, gateway, user, API, classes, different, needs, However, we've, provided, template, help, own]
 ---
-
-# YourGatewayAPI
 
 > YourGatewayAPI is a base class that connects the Salesforce Billing package to your
         payment gateway package. All user gateway API classes will be different based on your needs.

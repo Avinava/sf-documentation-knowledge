@@ -5,12 +5,10 @@ topic: create-the-getmaxcount-action-for-email-send-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.201Z
+lastCollected: 2026-04-07T18:40:16.338Z
 estimatedTokens: 1190
 keywords: [GetMaxCount, Action, Email, Send, Definitions, including, performing, definition, How, Sample, SOAP]
 ---
-
-# Create the GetMaxCount Action for Email Send Definitions
 
 > This page contains information  about including the GetMaxCount action when performing an email send definition.
 

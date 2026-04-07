@@ -5,12 +5,10 @@ topic: retail-order-save-customization-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.095Z
+lastCollected: 2026-04-07T18:39:11.697Z
 estimatedTokens: 263
-keywords: [Retail, Order, Save, Customization, Cases, different, Apex, process, Change, managed, package, sObject, Add, custom, define]
+keywords: [Retail, Order, Save, Customization, Cases, different, Apex, process, Change, managed, package, sObject, Add, define, parent-child, relationship]
 ---
-
-# Retail Order Save Customization Use Cases
 
 > Here are the different Apex customization use cases for the retail order save
     process.

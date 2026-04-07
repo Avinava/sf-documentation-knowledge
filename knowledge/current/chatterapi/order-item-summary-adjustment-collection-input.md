@@ -5,12 +5,10 @@ topic: order-item-summary-adjustment-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.612Z
+lastCollected: 2026-04-07T18:37:09.345Z
 estimatedTokens: 98
-keywords: [Order, Item, Summary, Adjustment, Collection, Input, summaries]
+keywords: [Order, Item, Summary, Adjustment, Collection, summaries]
 ---
-
-# Order Item Summary Adjustment Collection Input
 
 > Collection of order item summaries.
 

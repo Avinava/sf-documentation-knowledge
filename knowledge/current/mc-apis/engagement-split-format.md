@@ -5,12 +5,10 @@ topic: engagement-split-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.652Z
+lastCollected: 2026-04-07T18:40:16.802Z
 estimatedTokens: 637
-keywords: [Engagement, Split, activity, change, path, contact, how, they, did, interact, email, define, logical, flows, journey]
+keywords: [Engagement, Split, activity, change, path, contact, how, they, did, interact, email, define, logical, flows, journey, clicks, opens, cannot, Helpful, Hints, #journey-specification-format, Specification, Sample, Items]
 ---
-
-# Engagement Split Format
 
 > The engagement split activity is used to change the path for a contact based on how they did or did not interact with an email. It allows you to define logical flows for your journey based on clicks and opens. This activity type cannot be used in a custom activity.
 

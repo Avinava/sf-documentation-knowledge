@@ -5,12 +5,10 @@ topic: field-service-mobile-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.873Z
+lastCollected: 2026-04-07T18:36:46.729Z
 estimatedTokens: 1020
-keywords: [Service, Mobile, Settings, app, assigned, profile, context, user, resource, REST, API, version, 42.0, later]
+keywords: [Service, Mobile, Settings, app, assigned, profile, context, user, resource, REST, API, 42.0]
 ---
-
-# Field Service Mobile Settings
 
 > Returns information about the Field Service mobile app settings assigned to the profile
   of the context user. This resource is available in REST API version 42.0 and later.

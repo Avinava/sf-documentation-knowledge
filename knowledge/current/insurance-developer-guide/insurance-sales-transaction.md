@@ -5,12 +5,10 @@ topic: insurance-sales-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.448Z
+lastCollected: 2026-04-07T18:37:52.634Z
 estimatedTokens: 178
-keywords: [Insurance, Sales, Transaction, Output, representation]
+keywords: [Insurance, Sales, Transaction]
 ---
-
-# Insurance Sales Transaction
 
 > Output representation for the insurance sales transaction.
 

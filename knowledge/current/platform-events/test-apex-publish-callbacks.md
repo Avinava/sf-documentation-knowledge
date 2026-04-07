@@ -5,12 +5,10 @@ topic: test-apex-publish-callbacks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.433Z
+lastCollected: 2026-04-07T18:38:58.287Z
 estimatedTokens: 615
-keywords: [Test, Apex, Publish, Callbacks, callback, add, provide, tests, package, deploy, production, meet, code, coverage, requirements]
+keywords: [Test, Apex, Publish, Callbacks, callback, add, provide, tests, package, deploy, production, meet, code, coverage, requirements, MyCallbackTest, MyCallbackTestWithCorrelation]
 ---
-
-# Test Apex Publish Callbacks
 
 > To test your Apex publish callback class, add an Apex test class. You must provide Apex
   tests before you can package or deploy an Apex class to production and meet code coverage

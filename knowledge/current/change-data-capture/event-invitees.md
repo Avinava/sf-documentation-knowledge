@@ -5,12 +5,10 @@ topic: event-invitees
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.795Z
+lastCollected: 2026-04-07T18:37:05.509Z
 estimatedTokens: 456
-keywords: [Event, Invitees, Change, events, generated, addition, calendar, record, Salesforce, user, invited, child, created, invitee, IsChild]
+keywords: [Event, Invitees, Change, events, generated, addition, calendar, record, Salesforce, user, invited, child, created, invitee, IsChild, OwnerId, invitee’s]
 ---
-
-# Event Invitees
 
 > Change events are generated for event invitees in addition to the calendar event
     record. When a Salesforce user is invited to a calendar event, a child calendar event record is

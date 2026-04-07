@@ -5,12 +5,10 @@ topic: connectapiauthreversalgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.957Z
+lastCollected: 2026-04-07T18:36:07.296Z
 estimatedTokens: 88
-keywords: [ConnectApi.AuthReversalGatewayResponse, Authorization, Reversal, Gateway, Representation]
+keywords: [ConnectApi.AuthReversalGatewayResponse, Authorization, Reversal, Gateway]
 ---
-
-# ConnectApi.AuthReversalGatewayResponse
 
 > Authorization Reversal Gateway Response
     Representation.

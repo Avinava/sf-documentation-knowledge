@@ -5,12 +5,10 @@ topic: hold-fo-capacity-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.852Z
+lastCollected: 2026-04-07T18:37:08.669Z
 estimatedTokens: 118
-keywords: [Hold, Capacity, Input, fulfillment, order, locations, correspond, action, call]
+keywords: [Hold, Capacity, fulfillment, order, locations, correspond, action, call]
 ---
-
-# Hold FO Capacity Input
 
 > Request to hold fulfillment order capacity at one or more locations.
       Can correspond to one action call.

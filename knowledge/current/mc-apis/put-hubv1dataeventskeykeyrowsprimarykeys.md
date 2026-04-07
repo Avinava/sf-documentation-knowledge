@@ -5,12 +5,10 @@ topic: put-hubv1dataeventskeykeyrowsprimarykeys
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.175Z
+lastCollected: 2026-04-07T18:40:18.377Z
 estimatedTokens: 456
-keywords: [PUT, hub, dataevents, key, rows, primaryKeys, Upserts, data, extension, row, **Overview**, Usage]
+keywords: [PUT, hub, dataevents, key, rows, primaryKeys, Upserts, extension, row, **Overview**]
 ---
-
-# PUT /hub/v1/dataevents/key:{key}/rows/{primaryKeys}
 
 > Upserts a data extension row by key.
 

@@ -5,12 +5,10 @@ topic: next-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.381Z
+lastCollected: 2026-04-07T18:40:09.333Z
 estimatedTokens: 1404
 keywords: [Steps, you’ve, installed, Salesforce, CLI, Development, Pathways]
 ---
-
-# Next Steps
 
 > Read on to learn what to do after you’ve installed Salesforce CLI.
 

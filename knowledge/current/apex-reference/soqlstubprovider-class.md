@@ -5,13 +5,11 @@ topic: soqlstubprovider-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.043Z
+lastCollected: 2026-04-07T18:36:01.318Z
 estimatedTokens: 1476
 namespace: System
-keywords: [SoqlStubProvider, mock, test, handling, SOQL, query, responses, Data, Cloud, model, objects, DMOs, Usage, handleSoqlQuery, targetType]
+keywords: [SoqlStubProvider, mock, test, handling, SOQL, query, responses, Cloud, model, DMOs, handleSoqlQuery, targetType, stubbedQuery, bindMap]
 ---
-
-# SoqlStubProvider Class
 
 > Contains a method to create a mock test class for handling SOQL query responses for Data
     Cloud data model objects (DMOs).

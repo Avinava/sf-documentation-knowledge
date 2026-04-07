@@ -6,13 +6,10 @@ topic: extending-salesforce-styles-with-stylesheets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.062Z
+lastCollected: 2026-04-07T18:38:52.363Z
 estimatedTokens: 246
-keywords: [Extending, Salesforce, Styles, Stylesheets, <apex, stylesheet>, tag, add, additional, style, styleClass, attribute, Visualforce, components, connect]
+keywords: [Extending, Salesforce, Styles, Stylesheets, <apex, stylesheet>, tag, add, additional, style, styleClass, attribute, Visualforce, connect, definitions, technique, lets, extend, own]
 ---
-
-# Extending Salesforce Styles with
-    Stylesheets
 
 > Use the <apex:stylesheet> tag to add
     additional stylesheets to a page. Use the style or

@@ -5,12 +5,10 @@ topic: productrelatedcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:01.445Z
+lastCollected: 2026-04-07T18:39:56.018Z
 estimatedTokens: 630
-keywords: [ProductRelatedComponent, product, included, bundle, add-on, API, version, 57.0, later]
+keywords: [ProductRelatedComponent, product, included, bundle, add-on, API, 57.0]
 ---
-
-# ProductRelatedComponent
 
 > Represents a product that is included in a product bundle, a set, or
 			a product and an add-on. This object is available in API version 57.0 and

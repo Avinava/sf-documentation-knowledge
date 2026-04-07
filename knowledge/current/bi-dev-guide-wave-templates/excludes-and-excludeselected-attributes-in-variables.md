@@ -5,12 +5,10 @@ topic: excludes-and-excludeselected-attributes-in-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.849Z
+lastCollected: 2026-04-07T18:37:02.406Z
 estimatedTokens: 375
 keywords: [excludes, excludeSelected, Attributes, Variables, attribute, define, exclude, selections, wizard, questions, already, selected, previous]
 ---
-
-# excludes and excludeSelected Attributes in Variables
 
 > In variables, use the excludes attribute in
   variables to define values to exclude from selections in response to wizard questions. Use the

@@ -5,12 +5,10 @@ topic: insurance-plan-rating
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.375Z
+lastCollected: 2026-04-07T18:37:52.555Z
 estimatedTokens: 200
-keywords: [Insurance, Plan, Rating, Output, representation, individual, plan's, pricing, result]
+keywords: [Insurance, Plan, Rating, individual, plan's, pricing, result]
 ---
-
-# Insurance Plan Rating
 
 > Output representation of an individual plan's pricing result.
 

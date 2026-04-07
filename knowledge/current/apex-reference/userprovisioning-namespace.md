@@ -5,13 +5,11 @@ topic: userprovisioning-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.841Z
+lastCollected: 2026-04-07T18:36:15.153Z
 estimatedTokens: 280
 namespace: UserProvisioning
 keywords: [UserProvisioning, monitoring, outbound, user, provisioning, requests]
 ---
-
-# UserProvisioning Namespace
 
 > The UserProvisioning namespace provides methods
   for monitoring outbound user provisioning requests.

@@ -5,12 +5,10 @@ topic: communitiessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.293Z
+lastCollected: 2026-04-07T18:36:23.595Z
 estimatedTokens: 1702
-keywords: [CommunitiesSettings, community, settings, org, Enable, digital, experiences, workspaces, Manage, moderation, guest, user, partner, extends, Metadata]
+keywords: [CommunitiesSettings, community, settings, org, Enable, digital, experiences, workspaces, Manage, moderation, guest, user, partner, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CommunitiesSettings
 
 > Represents community settings for an org. Enable digital experiences and workspaces.
     Manage moderation, guest user and partner settings, and more. This type extends the Metadata metadata type and inherits its fullName field.

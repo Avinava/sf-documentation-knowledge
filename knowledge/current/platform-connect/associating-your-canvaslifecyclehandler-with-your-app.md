@@ -5,12 +5,10 @@ topic: associating-your-canvaslifecyclehandler-with-your-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.433Z
+lastCollected: 2026-04-07T18:38:57.236Z
 estimatedTokens: 170
 keywords: [Associating, CanvasLifecycleHandler, App, you’ve, created, Apex, implementation, associate, canvas, adding, configuration, settings]
 ---
-
-# Associating Your CanvasLifecycleHandler with Your App
 
 > After you’ve created an Apex implementation class for CanvasLifecycleHandler, you
   need to associate it with your canvas app by adding the class name to your canvas app

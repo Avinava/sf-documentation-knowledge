@@ -5,12 +5,10 @@ topic: cgclouduserdocumenttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.988Z
+lastCollected: 2026-04-07T18:39:15.487Z
 estimatedTokens: 1773
-keywords: [cgcloud__User_Document_Template__c, Stores, daily, report, template, reports, API, version, 54.0, later, cgcloud, _User, _Document, _Template, Calls]
+keywords: [cgcloud__User_Document_Template__c, Stores, daily, report, template, reports, API, 54.0, cgcloud, _User, _Document, _Template]
 ---
-
-# cgcloud__User_Document_Template__c
 
 > Stores the details of the daily report template, which is to be used
          for daily reports. This object is available in API version 54.0 and later.

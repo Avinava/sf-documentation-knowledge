@@ -5,12 +5,10 @@ topic: advacctforecastfactadj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.210Z
+lastCollected: 2026-04-07T18:38:13.466Z
 estimatedTokens: 456
-keywords: [AdvAcctForecastFactAdj, adjustments, made, advanced, account, forecast, fact, records, API, version, 53.0, later, Calls]
+keywords: [AdvAcctForecastFactAdj, adjustments, made, advanced, account, forecast, fact, records, API, 53.0]
 ---
-
-# AdvAcctForecastFactAdj
 
 > Represents information about adjustments made to advanced account forecast
          fact records. This object is available in API version 53.0 and later.

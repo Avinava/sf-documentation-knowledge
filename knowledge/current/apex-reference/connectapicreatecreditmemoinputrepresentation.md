@@ -5,12 +5,10 @@ topic: connectapicreatecreditmemoinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.762Z
+lastCollected: 2026-04-07T18:36:05.137Z
 estimatedTokens: 154
 keywords: [change, orders, credit, memo]
 ---
-
-# ConnectApi.CreateCreditMemoInputRepresentation
 
 > A list of change orders used to create a credit
     memo.

@@ -5,13 +5,11 @@ topic: recommendations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.458Z
+lastCollected: 2026-04-07T18:35:58.727Z
 estimatedTokens: 37210
 namespace: ConnectApi
-keywords: [Recommendations, audience, custom, recommendation, createRecommendationAudience, communityId, recommendationAudience, API, Version, Requires, Chatter, Usage, createRecommendationDefinition, recommendationDefinition, title]
+keywords: [Recommendations, audience, recommendation, createRecommendationAudience, communityId, recommendationAudience, API, Requires, Chatter, createRecommendationDefinition, recommendationDefinition, title, actionUrl, actionUrlName, explanation, createScheduledRecommendation, scheduledRecommendation, recommendationDefinitionId, rank, enabled, recommendationAudienceId, channel, deleteRecommendationAudience, deleteRecommendationDefinition, deleteRecommendationDefinitionPhoto, deleteScheduledRecommendation, scheduledRecommendationId, deleteDefinitionIfLast, getRecommendationAudience, getRecommendationAudienceMembership, pageParam, pageSize, getRecommendationAudiences, getRecommendationDefinition, getRecommendationDefinitionPhoto, getRecommendationDefinitions, getRecommendationForUser, userId, action, objectId, getRecommendationsForUser, contextAction, contextObjectId, maxResults, Guest, Users, objectCategory, getScheduledRecommendation, getScheduledRecommendations, rejectRecommendationForUser, objectEnum, updateRecommendationAudience, updateRecommendationDefinition, updateRecommendationDefinitionPhoto, fileUpload, fileId, versionNumber, photo, updateScheduledRecommendation, Test, setTestGetRecommendationForUser, result, setTestGetRecommendationsForUser, Retired]
 ---
-
-# Recommendations Class
 
 > Create an audience for a custom recommendation.
 

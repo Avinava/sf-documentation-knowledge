@@ -5,12 +5,10 @@ topic: sustainability-data-gap-filler-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.830Z
+lastCollected: 2026-04-07T18:38:16.373Z
 estimatedTokens: 146
-keywords: [Sustainability, Data, Gap, Filler, Output, representation]
+keywords: [Sustainability, Gap, Filler]
 ---
-
-# Sustainability Data Gap Filler Output
 
 > Output representation of the data gap filler request.
 

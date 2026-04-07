@@ -2,7 +2,7 @@
 domain: cpq-plugins
 name: Salesforce CPQ Plugins
 documentCount: 42
-lastGenerated: 2026-04-07T09:06:36.391Z
+lastGenerated: 2026-04-07T18:40:41.757Z
 ---
 
 # Salesforce CPQ Plugins — Knowledge Index

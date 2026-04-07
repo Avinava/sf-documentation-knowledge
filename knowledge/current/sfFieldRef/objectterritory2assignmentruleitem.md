@@ -5,12 +5,10 @@ topic: objectterritory2assignmentruleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.396Z
+lastCollected: 2026-04-07T18:39:49.876Z
 estimatedTokens: 385
 keywords: [ObjectTerritory2AssignmentRuleItem, row, selection, criteria, ObjectTerritory2AssignmentRule, created, deleted, BooleanFilter, corresponding, Sales, Territories, enabled]
 ---
-
-# ObjectTerritory2AssignmentRuleItem
 
 > A single row of selection criteria for an
             ObjectTerritory2AssignmentRule object. ObjectTerritory2AssignmentRuleItem can only be

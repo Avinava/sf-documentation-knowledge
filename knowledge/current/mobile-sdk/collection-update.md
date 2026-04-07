@@ -5,12 +5,10 @@ topic: collection-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.060Z
+lastCollected: 2026-04-07T18:40:27.284Z
 estimatedTokens: 276
-keywords: [Collection, Updates, requested, records, iOS, Android, React, Native]
+keywords: [Android, Collection, Updates, requested, records, iOS, React, Native]
 ---
-
-# Collection Update
 
 > Updates the requested collection with the given
         records.

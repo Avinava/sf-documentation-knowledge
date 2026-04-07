@@ -5,12 +5,10 @@ topic: additional-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.012Z
+lastCollected: 2026-04-07T18:37:25.930Z
 estimatedTokens: 94
-keywords: [Additional, Input, representation, standard, custom, include]
+keywords: [Additional, standard, include]
 ---
-
-# Additional Fields Input
 
 > Input representation of the additional standard or custom fields to include in the
     response.

@@ -5,12 +5,10 @@ topic: pardot-business-unit-context-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.997Z
+lastCollected: 2026-04-07T18:37:15.044Z
 estimatedTokens: 244
-keywords: [Pardot, Business, Unit, Context, Resource, units, user, access]
+keywords: [Pardot, Business, Unit, Context, Resource, units, user]
 ---
-
-# Pardot Business Unit Context Resource
 
 > Get the Pardot business units the context user has access
     to.

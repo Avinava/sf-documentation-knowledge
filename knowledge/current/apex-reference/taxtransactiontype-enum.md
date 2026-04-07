@@ -5,12 +5,10 @@ topic: taxtransactiontype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.524Z
+lastCollected: 2026-04-07T18:36:12.824Z
 estimatedTokens: 273
-keywords: [TaxTransactionType, whether, tax, transaction, credit, debit, Usage]
+keywords: [TaxTransactionType, whether, tax, transaction, credit, debit]
 ---
-
-# TaxTransactionType Enum
 
 > Shows whether the tax transaction is for a credit or debit
       transaction.

@@ -5,12 +5,10 @@ topic: creating-a-template-from-a-dependent-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.770Z
+lastCollected: 2026-04-07T18:37:02.330Z
 estimatedTokens: 134
 keywords: [Creating, Template, Dependent, App, Apps, dependencies, assets, templatized, creation, process, standalone, templates]
 ---
-
-# Creating a Template from a Dependent App
 
 > Apps with dependencies on assets on other apps can be templatized using the same
     template creation process as standalone templates.

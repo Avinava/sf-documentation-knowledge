@@ -5,12 +5,10 @@ topic: cgcloudpromotionhurdlec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.132Z
+lastCollected: 2026-04-07T18:39:14.526Z
 estimatedTokens: 1686
-keywords: [cgcloud__Promotion_Hurdle__c, stores, restriction, satisfied, apply, rewards, API, version, 54.0, later, cgcloud, _Promotion, _Hurdle, Calls, Associated]
+keywords: [cgcloud__Promotion_Hurdle__c, stores, restriction, satisfied, apply, rewards, API, 54.0, cgcloud, _Promotion, _Hurdle]
 ---
-
-# cgcloud__Promotion_Hurdle__c
 
 > This object stores the restriction that must be satisfied to apply
          the rewards. This object is available in API version 54.0 and later.

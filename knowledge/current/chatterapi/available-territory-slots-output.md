@@ -5,12 +5,10 @@ topic: available-territory-slots-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.811Z
+lastCollected: 2026-04-07T18:37:16.878Z
 estimatedTokens: 94
-keywords: [Territory, Slots, Output, result]
+keywords: [Territory, Slots, result]
 ---
-
-# Available Territory Slots Output
 
 > Available territory slots result.
 

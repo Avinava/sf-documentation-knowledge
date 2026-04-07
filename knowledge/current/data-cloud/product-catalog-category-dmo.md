@@ -5,12 +5,10 @@ topic: product-catalog-category-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.408Z
+lastCollected: 2026-04-07T18:35:54.455Z
 estimatedTokens: 412
-keywords: [Product, Catalog, Category, DMO, Data, Cloud, model, shoes, trucks, housewares, API, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Product, Catalog, DMO, Cloud, model, shoes, trucks, housewares, API, Primary, Subject, Area, Key]
 ---
-
-# Product Catalog Category DMO
 
 > The Product Catalog Category DMO is a Data Cloud data model object
       (DMO) for the category of the product catalog, such as shoes, trucks, or

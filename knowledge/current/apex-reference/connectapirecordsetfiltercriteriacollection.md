@@ -5,12 +5,10 @@ topic: connectapirecordsetfiltercriteriacollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:26.240Z
+lastCollected: 2026-04-07T18:36:11.532Z
 estimatedTokens: 156
 keywords: [recordset, filters, records]
 ---
-
-# ConnectApi.RecordsetFilterCriteriaCollection
 
 > List of the recordset filters and records.
 

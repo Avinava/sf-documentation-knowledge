@@ -5,12 +5,10 @@ topic: user-interface-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.851Z
+lastCollected: 2026-04-07T18:39:16.397Z
 estimatedTokens: 294
 keywords: [User, Customization, how, customize, TPM]
 ---
-
-# User Interface Customization
 
 > This section provides information on how to customize the TPM user
     interface.

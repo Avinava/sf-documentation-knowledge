@@ -5,12 +5,10 @@ topic: connectapicaseinfowrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.493Z
+lastCollected: 2026-04-07T18:37:33.947Z
 estimatedTokens: 245
-keywords: [ConnectApi.CaseInfoWrapper, Input, representation, case, complaint]
+keywords: [ConnectApi.CaseInfoWrapper, case, complaint]
 ---
-
-# ConnectApi.CaseInfoWrapper
 
 > Input representation of a case related to the
     complaint.

@@ -5,12 +5,10 @@ topic: settabtitle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.693Z
+lastCollected: 2026-04-07T18:36:50.978Z
 estimatedTokens: 323
-keywords: [setTabTitle, title, primary, tab, subtab, API, version, 20.0, later, Arguments, Sample, Code–Visualforce, 25.0]
+keywords: [Arguments, setTabTitle, title, primary, tab, subtab, API, 20.0, Sample, Code–Visualforce, 25.0]
 ---
-
-# setTabTitle()
 
 > Sets the title of a primary tab or subtab. This method is only available in API version 20.0 or later.
 

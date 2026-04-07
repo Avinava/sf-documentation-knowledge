@@ -5,12 +5,10 @@ topic: updateinsurancequoteoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.722Z
+lastCollected: 2026-04-07T18:37:49.581Z
 estimatedTokens: 1959
-keywords: [UpdateInsuranceQuoteOptions, options, updating, insurance, quote, control, pricing, execution, configuration, qualification, rules, product, catalog, validation, persistence]
+keywords: [UpdateInsuranceQuoteOptions, options, updating, insurance, quote, control, pricing, execution, configuration, qualification, product, catalog, validation, persistence, quotes, executePricing, executeConfigurationRules, executeQualificationRules, validateProductCatalog, saveQuote]
 ---
-
-# UpdateInsuranceQuoteOptions Class
 
 > Contains options for updating an existing insurance quote. Use this class to control
     pricing execution, configuration and qualification rules, product catalog validation, and quote

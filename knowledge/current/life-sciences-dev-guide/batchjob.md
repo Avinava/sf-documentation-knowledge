@@ -5,12 +5,10 @@ topic: batchjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.179Z
+lastCollected: 2026-04-07T18:37:57.711Z
 estimatedTokens: 1105
-keywords: [BatchJob, instance, batch, job, either, running, run, Life, Sciences, Cloud, API, version, 65.0, later, Calls]
+keywords: [BatchJob, instance, batch, job, either, running, run, Life, Sciences, Cloud, API, 65.0]
 ---
-
-# BatchJob
 
 > Represents an instance of a batch job that is either running and has been
       run. This object is available in Life Sciences Cloud API version 65.0 and later.

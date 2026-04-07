@@ -5,12 +5,10 @@ topic: batch-payment-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.091Z
+lastCollected: 2026-04-07T18:35:46.051Z
 estimatedTokens: 85
-keywords: [Batch, Payment, Scheduler, Output, representation]
+keywords: [Batch, Payment, Scheduler]
 ---
-
-# Batch Payment Scheduler
 
 > Output representation of the details of a payment scheduler.
 

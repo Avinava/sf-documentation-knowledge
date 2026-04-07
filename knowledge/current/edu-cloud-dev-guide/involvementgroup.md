@@ -5,12 +5,10 @@ topic: involvementgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.151Z
+lastCollected: 2026-04-07T18:37:31.280Z
 estimatedTokens: 1385
-keywords: [InvolvementGroup, involvement, group, institution, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [InvolvementGroup, involvement, group, institution, API, 64.0]
 ---
-
-# InvolvementGroup
 
 > Represents an involvement group in an institution. This object is
       available in API version 64.0 and later.

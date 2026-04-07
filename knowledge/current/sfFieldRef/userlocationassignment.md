@@ -5,12 +5,10 @@ topic: userlocationassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.370Z
+lastCollected: 2026-04-07T18:40:05.212Z
 estimatedTokens: 383
 keywords: [UserLocationAssignment, assignment, location, user]
 ---
-
-# UserLocationAssignment
 
 > Represents the assignment between a location and a user.
 

@@ -5,12 +5,10 @@ topic: get-dummy-service-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.362Z
+lastCollected: 2026-04-07T18:39:21.173Z
 estimatedTokens: 488
 keywords: [Dummy, Service, Resource, Show, users, availability, selected, work, group, territory]
 ---
-
-# Get Dummy Service Resource
 
 > Show your users the dummy resource and its availability  based on the
       selected work type group and service territory.

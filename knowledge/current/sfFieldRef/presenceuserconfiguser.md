@@ -5,12 +5,10 @@ topic: presenceuserconfiguser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.902Z
+lastCollected: 2026-04-07T18:39:54.455Z
 estimatedTokens: 321
-keywords: [PresenceUserConfigUser, configuration, determines, settings, assigned, presence, user, user-level, configurations, override, profile-level, API, version, 32.0, later]
+keywords: [PresenceUserConfigUser, configuration, determines, settings, assigned, presence, user, user-level, configurations, override, profile-level, API, 32.0]
 ---
-
-# PresenceUserConfigUser
 
 > Represents a configuration that determines the settings that are
    assigned to a presence user. These user-level configurations override profile-level

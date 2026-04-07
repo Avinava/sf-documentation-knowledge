@@ -5,12 +5,10 @@ topic: record-layout-section-user-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.103Z
+lastCollected: 2026-04-07T18:40:12.108Z
 estimatedTokens: 145
 keywords: [Record, Layout, User, State]
 ---
-
-# Record Layout Section User State
 
 > The user state information for a record layout
     section.

@@ -5,13 +5,11 @@ topic: understanding-namespaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:13.906Z
+lastCollected: 2026-04-07T18:40:08.869Z
 estimatedTokens: 900
 namespace: With
 keywords: [Understanding, Namespaces, 1-15, character, alphanumeric, identifier, distinguishes, package, contents, packages, org]
 ---
-
-# Understanding Namespaces
 
 > A namespace is a 1-15 character alphanumeric identifier that distinguishes your package
     and its contents from other packages in your org.

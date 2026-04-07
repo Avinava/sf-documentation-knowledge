@@ -5,12 +5,10 @@ topic: vehicle-asset-carbon-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.375Z
+lastCollected: 2026-04-07T18:38:16.964Z
 estimatedTokens: 1973
-keywords: [Vehicle, Asset, Carbon, Footprint, total, emissions, vehicles, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide]
+keywords: [Vehicle, Asset, Carbon, Footprint, total, emissions, vehicles, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent, tCO₂e]
 ---
-
-# Vehicle Asset Carbon Footprint
 
 > The Vehicle Asset Carbon Footprint object represents the total carbon emissions from
     vehicles. Carbon footprint quantifies the effect of atmospheric warming, which is represented in

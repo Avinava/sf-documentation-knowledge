@@ -5,12 +5,10 @@ topic: personalizationobjective
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.309Z
+lastCollected: 2026-04-07T18:38:24.196Z
 estimatedTokens: 814
-keywords: [PersonalizationObjective, specific, business, outcome, want, achieve, creating, recommender, API, version, 62.0, later, Calls, Usage, Associated]
+keywords: [PersonalizationObjective, specific, business, outcome, want, achieve, creating, recommender, API, 62.0]
 ---
-
-# PersonalizationObjective
 
 > Represents a specific business outcome that you want to achieve when creating a
       recommender. Available in API version 62.0 and later.

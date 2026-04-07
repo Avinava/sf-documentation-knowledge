@@ -5,12 +5,10 @@ topic: feeditemtypeenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.253Z
+lastCollected: 2026-04-07T18:36:12.535Z
 estimatedTokens: 577
-keywords: [FeedItemTypeEnum, feed, item, feed-based, layout]
+keywords: [FeedItemTypeEnum, item, feed-based, layout]
 ---
-
-# FeedItemTypeEnum Enum
 
 > The type of feed item in a feed-based page layout.
 

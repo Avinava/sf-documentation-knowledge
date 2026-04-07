@@ -5,12 +5,10 @@ topic: forecastingsrcrecjudgment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.009Z
+lastCollected: 2026-04-07T18:38:33.075Z
 estimatedTokens: 363
-keywords: [ForecastingSrcRecJudgment, forecast, managers’, judgment, whether, they, consider, opportunity-related, deal, certain, close, API, version, 59.0, later]
+keywords: [ForecastingSrcRecJudgment, forecast, managers’, judgment, whether, they, consider, opportunity-related, deal, certain, close, API, 59.0]
 ---
-
-# ForecastingSrcRecJudgment
 
 > Represents forecast managers’ judgment of whether they consider an
          opportunity-related deal to be certain to close. This object is available in API

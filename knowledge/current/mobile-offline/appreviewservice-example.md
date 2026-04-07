@@ -5,12 +5,10 @@ topic: appreviewservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.008Z
+lastCollected: 2026-04-07T18:38:15.522Z
 estimatedTokens: 138
-keywords: [AppReviewService, Here’s, minimal, Lightning, web, component, uses, app, review]
+keywords: [AppReviewService, Here’s, minimal, Lightning, web, uses, app, review]
 ---
-
-# AppReviewService Example
 
 > Here’s a minimal but complete example of a Lightning web component that uses
         AppReviewService to request an app review.

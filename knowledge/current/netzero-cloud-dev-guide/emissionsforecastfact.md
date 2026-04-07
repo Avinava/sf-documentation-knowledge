@@ -5,12 +5,10 @@ topic: emissionsforecastfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.805Z
+lastCollected: 2026-04-07T18:38:18.319Z
 estimatedTokens: 3143
-keywords: [EmissionsForecastFact, time, periods, measures, dimensions, forecast, emissions, company, generated, business, revenue, employee, count, actual, data]
+keywords: [EmissionsForecastFact, time, periods, measures, dimensions, forecast, emissions, company, generated, business, revenue, employee, count, actual, previous, years, API, 54.0]
 ---
-
-# EmissionsForecastFact
 
 > Represents information about the time periods, measures, and dimensions used to forecast the emissions of a company. The emissions forecast of the company is generated based on its business measures such as revenue or employee count, and the actual emissions data from previous years. This object is available in API version 54.0 and later.
 

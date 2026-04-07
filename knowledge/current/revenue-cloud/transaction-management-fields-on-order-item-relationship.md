@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-order-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.000Z
+lastCollected: 2026-04-07T18:35:48.037Z
 estimatedTokens: 230
-keywords: [Transaction, Management, Order, Item, Relationship, Standard, custom, extend, API, version, 58.0, later, Special, Access, Rules]
+keywords: [Transaction, Management, Order, Item, Relationship, Standard, extend, API, 58.0]
 ---
-
-# Transaction Management Fields on Order Item Relationship
 
 > Standard and custom fields extend the standard Order Item Relationship object
          for use in Transaction Management. This object is available in API version 58.0 and

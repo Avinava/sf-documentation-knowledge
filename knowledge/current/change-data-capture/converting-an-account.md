@@ -5,12 +5,10 @@ topic: converting-an-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.764Z
+lastCollected: 2026-04-07T18:37:05.476Z
 estimatedTokens: 96
 keywords: [Converting, Account, person, converted, business, API, modifying, record, change, event, generated, new]
 ---
-
-# Converting an Account
 
 > If a person account is converted to a business account through the API by modifying the
     record type ID, a change event for the account is generated. This change event contains the

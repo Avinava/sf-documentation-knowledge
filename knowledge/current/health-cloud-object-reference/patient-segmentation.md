@@ -5,12 +5,10 @@ topic: patient-segmentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.494Z
+lastCollected: 2026-04-07T18:37:42.645Z
 estimatedTokens: 579
-keywords: [Patient, Segmentation, data, model, helps, dashboard, generate, insights, demographics, risk, scores, adjustment, factors]
+keywords: [Patient, Segmentation, model, helps, dashboard, generate, insights, demographics, risk, scores, adjustment, factors]
 ---
-
-# Patient Segmentation
 
 > The Patient Segmentation data model helps the Patient Segmentation dashboard generate
   insights into patient demographics and risk scores based on risk adjustment factors.

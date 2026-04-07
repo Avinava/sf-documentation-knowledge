@@ -5,12 +5,10 @@ topic: datacloudownedentity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.716Z
+lastCollected: 2026-04-07T18:38:29.604Z
 estimatedTokens: 533
-keywords: [DatacloudOwnedEntity, tracks, user-purchased, records, API, version, 30.0, later, Calls, Usage]
+keywords: [DatacloudOwnedEntity, tracks, user-purchased, records, API, 30.0]
 ---
-
-# DatacloudOwnedEntity
 
 > Represents
 				fields in the DatacloudOwnedEntity object. The DatacloudOwnedEntity object tracks

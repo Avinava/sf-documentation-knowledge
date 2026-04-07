@@ -5,12 +5,10 @@ topic: sobject-approvallayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.966Z
+lastCollected: 2026-04-07T18:36:21.193Z
 estimatedTokens: 288
-keywords: [sObject, ApprovalLayouts, Retrieve, approval, layouts, resource, REST, API, version, 30.0, later]
+keywords: [sObject, ApprovalLayouts, Retrieve, approval, layouts, resource, REST, API, 30.0]
 ---
-
-# sObject ApprovalLayouts
 
 > Retrieve a list of approval layouts for a specified object. This resource is available
     in REST API version 30.0 and later.

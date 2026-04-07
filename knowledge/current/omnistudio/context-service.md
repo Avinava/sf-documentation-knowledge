@@ -5,12 +5,10 @@ topic: context-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:55.073Z
+lastCollected: 2026-04-07T18:36:40.773Z
 estimatedTokens: 522
-keywords: [Context, Service, Simplify, sharing, consumption, business, application, data, Acting, generic, module, forms, layer, applications, procedures]
+keywords: [Context, Service, Simplify, sharing, consumption, business, application, Acting, generic, module, forms, layer, applications, procedures, enabling, easy, retrieval, across, various, industry, clouds, every, step, process]
 ---
-
-# Context Service
 
 > Simplify the sharing and consumption of business application data using Context Service.
   Acting as a generic module, Context Service forms a layer between applications and procedures,

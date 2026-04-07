@@ -5,12 +5,10 @@ topic: benefittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.313Z
+lastCollected: 2026-04-07T18:38:22.344Z
 estimatedTokens: 464
-keywords: [BenefitType, benefit, delivered, conjunction, units, measure, report, how, much, organization, delivers, across, programs, Program, Management]
+keywords: [BenefitType, benefit, delivered, conjunction, units, measure, report, how, much, organization, delivers, across, programs, Program, Management, API, 57.0]
 ---
-
-# BenefitType
 
 > Represents the type of benefit being delivered. Use benefit types in
          conjunction with units of measure to report on how many or how much of a type of benefit

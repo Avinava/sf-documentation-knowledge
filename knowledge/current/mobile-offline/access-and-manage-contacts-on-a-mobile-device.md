@@ -5,12 +5,10 @@ topic: access-and-manage-contacts-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.225Z
+lastCollected: 2026-04-07T18:38:15.744Z
 estimatedTokens: 748
-keywords: [Access, Manage, Contacts, Mobile, Device, Lightning, web, component, device’s, features, select, device's, address, book, save]
+keywords: [Manage, Contacts, Mobile, Device, Lightning, web, device’s, features, select, device's, address, book, save, new, selected, they’re, invoked, import, Salesforce, attach, contact, record, otherwise, process, needed, take, export]
 ---
-
-# Access and Manage Contacts on a Mobile Device
 
 > A Lightning web component can use a mobile device’s contacts features to select contacts
   from the device's address book or save new contacts to it. When contacts are selected, they’re

@@ -5,12 +5,10 @@ topic: integrate-your-mobile-applications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.330Z
+lastCollected: 2026-04-07T18:35:51.187Z
 estimatedTokens: 672
-keywords: [Integrate, Mobile, Applications, Data, Cloud, Module, Engagement, SDK, possible, integration, capture, rich, behavioral, demographic, customers]
+keywords: [Prerequisites, Integrate, Mobile, Applications, Cloud, Module, Engagement, SDK, possible, integration, capture, rich, behavioral, demographic, customers, app, lifecycle, screen, navigation, events, collected, unified, profile, customer, enable, hyper-personalized, across, multiple, clouds, including, Marketing, Commerce, Service, Install, Download, Additional, Resources]
 ---
-
-# Integrate Your Mobile Applications
 
 > Data Cloud Module for the Engagement Mobile SDK makes it possible for you to
     integrate your mobile applications with Data Cloud. This integration allows you to

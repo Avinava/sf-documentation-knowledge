@@ -5,12 +5,10 @@ topic: violationtypeassessmentind
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.632Z
+lastCollected: 2026-04-07T18:39:07.847Z
 estimatedTokens: 491
-keywords: [ViolationTypeAssessmentInd, violation, associated, assessment, indicator, definitions, API, version, 49.0, later, Calls, Objects]
+keywords: [ViolationTypeAssessmentInd, violation, assessment, indicator, definitions, API, 49.0]
 ---
-
-# ViolationTypeAssessmentInd
 
 > Represents violation types associated with assessment indicator definitions. This object is available in API version 49.0 and later.
 

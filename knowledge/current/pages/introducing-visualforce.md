@@ -5,12 +5,10 @@ topic: introducing-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.283Z
+lastCollected: 2026-04-07T18:38:51.534Z
 estimatedTokens: 574
-keywords: [Introducing, Visualforce, Interested, creating, new, components, recommend, building, Lightning, web, instead, They’re, modern, powerful, custom]
+keywords: [Introducing, Visualforce, Interested, creating, new, recommend, building, Lightning, web, instead, They’re, modern, powerful, HTML, Salesforce, apps, sites, you’re, curious, why]
 ---
-
-# Introducing Visualforce
 
 > Interested in creating new Visualforce components? We recommend building Lightning web
       components instead. They’re more modern and powerful custom HTML elements for your Salesforce

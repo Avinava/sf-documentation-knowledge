@@ -5,12 +5,10 @@ topic: claimfinancialsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.177Z
+lastCollected: 2026-04-07T18:37:35.865Z
 estimatedTokens: 501
-keywords: [ClaimFinancialSettings, configuration, settings, Insurance, Claim, Financial, Services, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 57.0, later, Calls]
+keywords: [ClaimFinancialSettings, configuration, settings, Insurance, Claim, Financial, Services, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 57.0, SOAP, REST]
 ---
-
-# ClaimFinancialSettings
 
 > Represents the configuration settings for Insurance Claim Financial Services. This object is available in API version 57.0 and later.
 

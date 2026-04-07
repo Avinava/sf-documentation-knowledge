@@ -5,12 +5,10 @@ topic: informationorigin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.834Z
+lastCollected: 2026-04-07T18:37:58.354Z
 estimatedTokens: 204
-keywords: [InformationOrigin, CRDMetricData, FHIR, resource, maps, AssessmentQuestionResponse, V4.0, Discovery, Framework, Data, Model, Mapping]
+keywords: [InformationOrigin, CRDMetricData, FHIR, resource, maps, AssessmentQuestionResponse, V4.0, Discovery, Framework, Model, Mapping]
 ---
-
-# InformationOrigin
 
 > The CRDMetricData FHIR resource maps to the
    AssessmentQuestionResponse object.

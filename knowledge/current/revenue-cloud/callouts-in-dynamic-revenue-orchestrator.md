@@ -5,12 +5,10 @@ topic: callouts-in-dynamic-revenue-orchestrator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.332Z
+lastCollected: 2026-04-07T18:35:47.366Z
 estimatedTokens: 1066
-keywords: [Callouts, Dynamic, Revenue, Orchestrator, callout, step, ‌HTTP, calls, external, system, Data, Consumption, Framework, Process, Integration]
+keywords: [Callouts, Dynamic, Revenue, Orchestrator, callout, step, ‌HTTP, external, system, Consumption, Framework, Process, Integration, management, communication, systems]
 ---
-
-# Callouts in Dynamic Revenue Orchestrator
 
 > Use callout step types to make ‌HTTP calls to an external system. Callout step types
     use the Data Consumption Framework and Process Type Integration for interface management and

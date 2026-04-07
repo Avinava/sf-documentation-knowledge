@@ -5,12 +5,10 @@ topic: questionreportabuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.171Z
+lastCollected: 2026-04-07T18:39:57.778Z
 estimatedTokens: 225
 keywords: [QuestionReportAbuse, user-reported, abuse, Question, Chatter, Answers, zone]
 ---
-
-# QuestionReportAbuse
 
 > Represents a user-reported abuse
         on a Question

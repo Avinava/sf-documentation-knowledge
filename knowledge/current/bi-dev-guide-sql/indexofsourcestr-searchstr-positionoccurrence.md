@@ -7,14 +7,10 @@ topic: indexofsourcestr-searchstr-positionoccurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.398Z
+lastCollected: 2026-04-07T18:37:02.005Z
 estimatedTokens: 225
 keywords: [index_of, source_str, search_str, position, occurrence, indicating, whether, ends, search, index, _of, source, _str]
 ---
-
-# index_of(source_str,
-    search_str,
-   [position,occurrence])
 
 > Returns a boolean indicating whether a string ends with the search string.
 

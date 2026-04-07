@@ -5,12 +5,10 @@ topic: connectapicreateorderpaymentsummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.778Z
+lastCollected: 2026-04-07T18:36:05.155Z
 estimatedTokens: 303
 keywords: [OrderSummary, OrderPaymentSummary, payment, authorization, payments, include]
 ---
-
-# ConnectApi.CreateOrderPaymentSummaryInputRepresentation
 
 > An OrderSummary for which to create an OrderPaymentSummary, with the
       payment authorization or payments to include in it.

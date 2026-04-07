@@ -5,12 +5,10 @@ topic: stage-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.223Z
+lastCollected: 2026-04-07T18:36:39.908Z
 estimatedTokens: 232
-keywords: [Stage, Output, representation, associated]
+keywords: [Stage]
 ---
-
-# Stage Details
 
 > Output representation of the details associated with a stage.
 

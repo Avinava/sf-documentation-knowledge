@@ -5,12 +5,10 @@ topic: create-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.043Z
+lastCollected: 2026-04-07T18:40:24.548Z
 estimatedTokens: 1675
-keywords: [Data, Extension, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java, Columns]
+keywords: [Ruby, Python, CSharp, Java, Columns, Extension, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a Data Extension
 
 > Use the Post method to create a new data extension within a Marketing Cloud account.
 

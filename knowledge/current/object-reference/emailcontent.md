@@ -5,12 +5,10 @@ topic: emailcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.241Z
+lastCollected: 2026-04-07T18:38:30.077Z
 estimatedTokens: 1507
-keywords: [EmailContent, marketing, email, asset, Account, Engagement, API, version, 50.0, later, Calls, Special, Access, Rules]
+keywords: [EmailContent, marketing, email, asset, Account, Engagement, API, 50.0]
 ---
-
-# EmailContent
 
 > Represents a marketing email asset for use with Account
 			Engagement. This object is available in API version 50.0 and later.

@@ -5,12 +5,10 @@ topic: input-component-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.475Z
+lastCollected: 2026-04-07T18:38:04.631Z
 estimatedTokens: 219
-keywords: [Input, Component, Labels, label, purpose, attribute, $Label]
+keywords: [Labels, label, purpose, attribute, $Label]
 ---
-
-# Input Component Labels
 
 > A label describes the purpose of an input component. To
 set a label on an input component, use the label attribute.

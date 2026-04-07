@@ -5,13 +5,11 @@ topic: transfermemberpointstogroupsinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.718Z
+lastCollected: 2026-04-07T18:38:06.927Z
 estimatedTokens: 677
 namespace: LoyaltyManagement
 keywords: [build, instance, setJournalId, journalId]
 ---
-
-# TransferMemberPointsToGroupsInputBuilder Class
 
 > Contains methods to build an instance of the LoyaltyManagement.TransferMemberPointsToGroupsInput
       class.

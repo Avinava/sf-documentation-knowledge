@@ -5,12 +5,10 @@ topic: 303000-303999-filter-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.684Z
+lastCollected: 2026-04-07T18:40:14.692Z
 estimatedTokens: 62
 keywords: [303000-303999, Filter, Activity]
 ---
-
-# 303000-303999 Filter Activity
 
 # 303000-303999 Filter Activity
 

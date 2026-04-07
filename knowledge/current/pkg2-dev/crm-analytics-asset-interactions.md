@@ -5,12 +5,10 @@ topic: crm-analytics-asset-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.469Z
+lastCollected: 2026-04-07T18:38:54.857Z
 estimatedTokens: 520
-keywords: [CRM, Analytics, Asset, Interactions, record, package, usage, log, custom_entity_type, AnalyticsDashboard, AnalyticsLens, AnalyticsRecipe, interaction, packaged, assets]
+keywords: [CRM, Analytics, Asset, Interactions, record, package, log, custom_entity_type, AnalyticsDashboard, AnalyticsLens, AnalyticsRecipe, interaction, packaged, assets, Runs, Views]
 ---
-
-# CRM Analytics Asset Interactions
 
 > Each record in your package usage log that has a custom_entity_type of AnalyticsDashboard, AnalyticsLens, or AnalyticsRecipe describes an interaction with your packaged CRM Analytics
   assets.

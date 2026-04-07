@@ -5,12 +5,10 @@ topic: connectapicdpidentityresolutionmatchruleoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.468Z
+lastCollected: 2026-04-07T18:36:07.846Z
 estimatedTokens: 152
 keywords: [Identity, resolution, ruleset’s, match, rule]
 ---
-
-# ConnectApi.CdpIdentityResolutionMatchRuleOutput
 
 > Identity resolution ruleset’s match rule.
 

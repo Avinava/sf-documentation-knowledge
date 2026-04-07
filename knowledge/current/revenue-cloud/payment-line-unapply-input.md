@@ -5,12 +5,10 @@ topic: payment-line-unapply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.572Z
+lastCollected: 2026-04-07T18:35:43.453Z
 estimatedTokens: 145
-keywords: [Payment, Line, Unapply, Input, representation, covers, specify, revert, application, their, preapplication, state]
+keywords: [Payment, Line, Unapply, covers, specify, revert, application, their, preapplication, state]
 ---
-
-# Payment Line Unapply Input
 
 > Input representation of the payment line details. This representation covers fields that
     you can specify to revert a payment line application to their preapplication state.

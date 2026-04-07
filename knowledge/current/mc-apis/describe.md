@@ -5,12 +5,10 @@ topic: describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.518Z
+lastCollected: 2026-04-07T18:40:16.662Z
 estimatedTokens: 230
-keywords: [Describe, metadata, associated, dynamically, build, profile, centers, track, data, retrieval, interfaces, supports, form, ObjectDefinitionRequest, Output]
+keywords: [Describe, metadata, dynamically, build, profile, centers, track, retrieval, interfaces, supports, form, ObjectDefinitionRequest, Items]
 ---
-
-# Describe
 
 > Use the Describe method to get information about the metadata associated with an object. You could use the Describe method to dynamically build profile centers and track data retrieval interfaces. The Describe method supports a request for object metadata in the form of an ObjectDefinitionRequest an
 

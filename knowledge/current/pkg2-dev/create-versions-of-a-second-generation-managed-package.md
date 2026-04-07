@@ -5,12 +5,10 @@ topic: create-versions-of-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.797Z
+lastCollected: 2026-04-07T18:38:56.369Z
 estimatedTokens: 1213
-keywords: [Versions, Second-Generation, Managed, Package, version, fixed, snapshot, contents, metadata, installable, immutable, artifact, lets, manage, changes]
+keywords: [Versions, Second-Generation, Managed, Package, fixed, snapshot, contents, metadata, installable, immutable, artifact, lets, manage, changes, track, what’s, different, time, release, deploy, specific, 2GP, Option, Async, Validation, Skip, How, Per, Day]
 ---
-
-# Create Versions of a Second-Generation Managed Package
 
 > A
         package version is a fixed snapshot of the package contents and related metadata. The

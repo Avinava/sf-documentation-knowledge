@@ -5,12 +5,10 @@ topic: calculate-or-recalculate-adjustments-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.428Z
+lastCollected: 2026-04-07T18:37:51.446Z
 estimatedTokens: 705
 keywords: [Calculate, Recalculate, Adjustments, POST, PATCH, new, loss, item, payment, detail, record, under, claim, coverage]
 ---
-
-# Calculate or Recalculate Adjustments (POST, PATCH)
 
 > Calculate adjustments for a new loss item (POST) or recalculate
    adjustments for an existing payment detail record (PATCH) under a claim

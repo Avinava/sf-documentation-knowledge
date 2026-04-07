@@ -5,12 +5,10 @@ topic: resume-a-flow-interview-from-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.326Z
+lastCollected: 2026-04-07T18:38:03.342Z
 estimatedTokens: 383
-keywords: [Resume, Flow, Interview, Aura, Component, users, interviews, they, paused, their, home, customize, how, embed, lightning]
+keywords: [Resume, Flow, Interview, Aura, users, interviews, they, paused, their, home, customize, how, embed, lightning, client-side, controller, pass, resumeFlow]
 ---
-
-# Resume a Flow Interview from an Aura Component
 
 > By default, users can resume interviews that they paused from the Paused
                 Interviews component on their home page. To customize how and where users can resume

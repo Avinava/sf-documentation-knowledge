@@ -5,12 +5,10 @@ topic: deploy-metadata-to-production
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.989Z
+lastCollected: 2026-04-07T18:36:30.367Z
 estimatedTokens: 410
-keywords: [Deploy, Metadata, Production, final, step, development, cycle, move, customizations, source, control, system, Git, API, Recent]
+keywords: [Deploy, Metadata, Production, final, step, development, cycle, move, customizations, source, control, system, Git, API, Recent, Validation]
 ---
-
-# Deploy Metadata to Production
 
 > In the final step of the development cycle, move customizations from a
       source control system such as Git into production with Metadata API.

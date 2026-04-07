@@ -5,12 +5,10 @@ topic: grpcensusgrpclasssummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.698Z
+lastCollected: 2026-04-07T18:37:37.498Z
 estimatedTokens: 1209
-keywords: [GrpCensusGrpClassSummary, junction, group, census, statistics, members, associated, Calls, Objects]
+keywords: [GrpCensusGrpClassSummary, junction, group, census, statistics, members]
 ---
-
-# GrpCensusGrpClassSummary
 
 > Represents a junction between group census and group class to get statistics about the
       group class members for the associated group census.

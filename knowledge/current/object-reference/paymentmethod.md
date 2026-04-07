@@ -5,12 +5,10 @@ topic: paymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.470Z
+lastCollected: 2026-04-07T18:38:37.782Z
 estimatedTokens: 1351
-keywords: [PaymentMethod, buyer, uses, compensate, seller, good, service, Common, payment, include, cash, checks, credit, debit, cards]
+keywords: [PaymentMethod, buyer, uses, compensate, seller, good, service, Common, payment, include, cash, checks, credit, debit, cards, money, orders, bank, transfers, online, services, API, 48.0]
 ---
-
-# PaymentMethod
 
 > Represents the method that a buyer uses to compensate the seller of a good or service. Common payment methods include cash, checks, credit or debit cards, money orders, bank
 			transfers, and online payment services. This object is available in API version 48.0 and later.

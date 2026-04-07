@@ -5,12 +5,10 @@ topic: contacthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.557Z
+lastCollected: 2026-04-07T18:39:35.000Z
 estimatedTokens: 253
-keywords: [ContactHistory, History, tracked, Contact]
+keywords: [ContactHistory, tracked, Contact]
 ---
-
-# ContactHistory
 
 > History for tracked fields of Contact.
 

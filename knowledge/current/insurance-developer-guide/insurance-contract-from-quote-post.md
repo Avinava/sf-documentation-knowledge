@@ -5,12 +5,10 @@ topic: insurance-contract-from-quote-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.506Z
+lastCollected: 2026-04-07T18:37:51.542Z
 estimatedTokens: 315
 keywords: [Insurance, Contract, Quote, POST, group, benefits, API, supports, asynchronous, operation, long-running, conversions]
 ---
-
-# Insurance Contract from Quote (POST)
 
 > Create a group benefits contract from a quote. This API supports asynchronous operation
   for long-running conversions.

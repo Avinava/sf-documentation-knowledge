@@ -5,12 +5,10 @@ topic: document-retired
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.273Z
+lastCollected: 2026-04-07T18:37:39.207Z
 estimatedTokens: 151
 keywords: [Document, Retired, Fear, we've, got, better, content, Trailhead, covers, material]
 ---
-
-# Document Retired
 
 > This guide is retired. Fear not, we've got even better content in Trailhead that covers
   material from this guide and more.

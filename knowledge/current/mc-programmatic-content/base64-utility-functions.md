@@ -5,12 +5,10 @@ topic: base64-utility-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.664Z
+lastCollected: 2026-04-07T18:40:24.097Z
 estimatedTokens: 82
-keywords: [Base64, Utility, Functions, encode, decode, strings, standard, Load]
+keywords: [Load, Base64, Utility, Functions, encode, decode, strings, standard]
 ---
-
-# Base64 Utility Functions
 
 > Use these functions to encode and decode strings using the Base64 standard.
 

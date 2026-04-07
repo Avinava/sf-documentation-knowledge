@@ -5,12 +5,10 @@ topic: fulfillmenttaskassignmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:04.310Z
+lastCollected: 2026-04-07T18:35:49.261Z
 estimatedTokens: 1039
-keywords: [FulfillmentTaskAssignmentRule, actions, assign, task, user, queue, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [FulfillmentTaskAssignmentRule, actions, assign, task, user, queue, API, 63.0]
 ---
-
-# FulfillmentTaskAssignmentRule
 
 > Represents a set of actions that assign a task to a user or
          queue. This object is available in API version 63.0 and later.

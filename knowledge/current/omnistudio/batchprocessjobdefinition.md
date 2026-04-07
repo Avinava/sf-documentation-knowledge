@@ -5,12 +5,10 @@ topic: batchprocessjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:56.740Z
+lastCollected: 2026-04-07T18:36:42.436Z
 estimatedTokens: 2016
-keywords: [BatchProcessJobDefinition, Batch, Management, job, definition, File, Suffix, Directory, Location, Version, Special, Access, Rules, BatchDataSource, BatchDataSrcFilterCriteria, API, version, 51.0, later, SOAP]
+keywords: [BatchProcessJobDefinition, BatchDataSource, BatchDataSrcFilterCriteria, BatchDataSourceOrderField, Batch, Management, job, definition, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest, API, 51.0, SOAP, REST]
 ---
-
-# BatchProcessJobDefinition
 
 > Represents the details of a Batch Management job
       definition.

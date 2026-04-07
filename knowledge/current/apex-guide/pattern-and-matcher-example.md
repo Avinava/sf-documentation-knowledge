@@ -5,12 +5,10 @@ topic: pattern-and-matcher-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.380Z
+lastCollected: 2026-04-07T18:36:16.602Z
 estimatedTokens: 339
 keywords: [Pattern, Matcher, end, position, match, character, matched, parsing, want, additional, work, found]
 ---
-
-# Pattern and Matcher Example
 
 > The Matcher class end method
 returns the position in the match string after the last character

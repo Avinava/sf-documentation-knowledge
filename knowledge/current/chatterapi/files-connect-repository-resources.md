@@ -5,12 +5,10 @@ topic: files-connect-repository-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.012Z
+lastCollected: 2026-04-07T18:37:12.910Z
 estimatedTokens: 749
-keywords: [Files, Connect, Repository, Resources, external, content, that’s, connected, Salesforce, repositories, file, folders, folder, repository’s, directory]
+keywords: [Files, Connect, Repository, Resources, external, content, that’s, connected, Salesforce, repositories, file, folders, folder, repository’s, directory, entries, permissions, permission]
 ---
-
-# Files Connect Repository Resources
 
 > A Files Connect repository is
                 an external content repository that’s connected to Salesforce. Use these

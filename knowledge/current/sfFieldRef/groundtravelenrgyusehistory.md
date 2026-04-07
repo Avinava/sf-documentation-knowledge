@@ -5,12 +5,10 @@ topic: groundtravelenrgyusehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.479Z
+lastCollected: 2026-04-07T18:39:43.045Z
 estimatedTokens: 271
-keywords: [GroundTravelEnrgyUseHistory, History, tracked, GroundTravelEnrgyUse]
+keywords: [GroundTravelEnrgyUseHistory, tracked, GroundTravelEnrgyUse]
 ---
-
-# GroundTravelEnrgyUseHistory
 
 > History for tracked fields of GroundTravelEnrgyUse.
 

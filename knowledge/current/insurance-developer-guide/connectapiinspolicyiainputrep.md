@@ -5,12 +5,10 @@ topic: connectapiinspolicyiainputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.979Z
+lastCollected: 2026-04-07T18:37:49.844Z
 estimatedTokens: 223
-keywords: [ConnectApi.InsPolicyIAInputRep, Input, representation, insurance, policy]
+keywords: [ConnectApi.InsPolicyIAInputRep, insurance, policy]
 ---
-
-# ConnectApi.InsPolicyIAInputRep
 
 > Input representation details of an insurance policy.
 

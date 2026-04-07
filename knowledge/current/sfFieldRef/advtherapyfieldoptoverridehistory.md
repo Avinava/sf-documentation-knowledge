@@ -5,12 +5,10 @@ topic: advtherapyfieldoptoverridehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.231Z
+lastCollected: 2026-04-07T18:39:25.134Z
 estimatedTokens: 285
-keywords: [AdvTherapyFieldOptOverrideHistory, History, tracked, AdvTherapyFieldOptOverride]
+keywords: [AdvTherapyFieldOptOverrideHistory, tracked, AdvTherapyFieldOptOverride]
 ---
-
-# AdvTherapyFieldOptOverrideHistory
 
 > History for tracked fields of AdvTherapyFieldOptOverride.
 

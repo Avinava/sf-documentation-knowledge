@@ -5,12 +5,10 @@ topic: provideractivitygoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.474Z
+lastCollected: 2026-04-07T18:38:01.321Z
 estimatedTokens: 2292
-keywords: [ProviderActivityGoal, goals, provider, accounts, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ProviderActivityGoal, goals, provider, accounts, API, 65.0]
 ---
-
-# ProviderActivityGoal
 
 > Represents the goals for the provider accounts. This object is available
       in API version 65.0 and later.

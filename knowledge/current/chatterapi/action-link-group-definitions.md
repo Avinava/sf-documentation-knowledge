@@ -5,12 +5,10 @@ topic: action-link-group-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.458Z
+lastCollected: 2026-04-07T18:37:11.225Z
 estimatedTokens: 973
-keywords: [Action, Link, Group, Definitions, definition, associate, feed, element, post, associated, actions, capability]
+keywords: [Action, Link, Group, Definitions, definition, associate, post, actions, capability]
 ---
-
-# Action Link Group Definitions
 
 > Create an action link group definition. To
          associate an action link with a feed element, first create an action link group definition.

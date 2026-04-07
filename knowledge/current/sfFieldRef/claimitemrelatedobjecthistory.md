@@ -5,12 +5,10 @@ topic: claimitemrelatedobjecthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.507Z
+lastCollected: 2026-04-07T18:39:33.929Z
 estimatedTokens: 273
-keywords: [ClaimItemRelatedObjectHistory, History, tracked, ClaimItemRelatedObject]
+keywords: [ClaimItemRelatedObjectHistory, tracked, ClaimItemRelatedObject]
 ---
-
-# ClaimItemRelatedObjectHistory
 
 > History for tracked fields of ClaimItemRelatedObject.
 

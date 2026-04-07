@@ -5,12 +5,10 @@ topic: manage-source-tracking-for-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.649Z
+lastCollected: 2026-04-07T18:40:08.605Z
 estimatedTokens: 654
-keywords: [Manage, Source, Tracking, org, works, target, Don’t, worry, deploy, retrieve, metadata, commands, check, conflicts, specify]
+keywords: [Manage, Source, org, works, target, Don’t, worry, deploy, retrieve, metadata, commands, check, conflicts, specify, want, appropriate, flag, --source-dir, --metadata, Editions, Support, New, Orgs]
 ---
-
-# Manage Source Tracking for Your org
 
 > Source tracking works only if your target org allows it. Don’t worry, you can still
         deploy or retrieve metadata to and from an org without source tracking. But the commands

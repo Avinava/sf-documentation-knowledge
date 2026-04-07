@@ -5,12 +5,10 @@ topic: connectapitransferrecordinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.660Z
+lastCollected: 2026-04-07T18:35:41.537Z
 estimatedTokens: 172
-keywords: [Input, representation, assets, transferred]
+keywords: [assets, transferred]
 ---
-
-# ConnectApi.TransferRecordInputRepresentation
 
 > Input representation of the details of the assets to be transferred.
 

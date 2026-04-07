@@ -5,12 +5,10 @@ topic: insuranceproductclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.179Z
+lastCollected: 2026-04-07T18:37:53.473Z
 estimatedTokens: 671
-keywords: [InsuranceProductClause, junction, product, insurance, clause, association, clauses, applicable, specific, products, Excluded, Driver, auto, motorcycle, home]
+keywords: [InsuranceProductClause, junction, product, insurance, clause, association, clauses, applicable, specific, products, Excluded, Driver, auto, motorcycle, home, API, 65.0]
 ---
-
-# InsuranceProductClause
 
 > Represents a junction between a product and an insurance clause. This
          association defines the clauses applicable for the specific products. For example, an

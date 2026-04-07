@@ -5,12 +5,10 @@ topic: variablegetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.785Z
+lastCollected: 2026-04-07T18:40:24.267Z
 estimatedTokens: 94
 keywords: [Variable.GetValue, Function, Ordinal, variable, **Overview**, **Syntax**]
 ---
-
-# Variable.GetValue
 
 > Variable.GetValue(1)
 

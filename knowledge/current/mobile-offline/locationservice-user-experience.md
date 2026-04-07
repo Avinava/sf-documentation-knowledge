@@ -5,12 +5,10 @@ topic: locationservice-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.443Z
+lastCollected: 2026-04-07T18:38:15.977Z
 estimatedTokens: 305
-keywords: [LocationService, User, Experience, component, deliver, any, desire, There, number, common, location-based, features, suitable]
+keywords: [LocationService, User, Experience, deliver, any, desire, There, number, common, location-based, features, suitable]
 ---
-
-# LocationService User Experience
 
 > Your component can deliver any user experience you desire. There are a number of common
     location-based features where LocationService might be suitable.

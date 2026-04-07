@@ -5,13 +5,11 @@ topic: socialengagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.572Z
+lastCollected: 2026-04-07T18:35:58.843Z
 estimatedTokens: 4566
 namespace: ConnectApi
-keywords: [SocialEngagement, social, post, network, deleteSocialPost, socialPostId, socialAccountId, API, Version, Requires, Chatter, followSocialPersona, socialPersonaId, followSocialPostPersona, getIntents]
+keywords: [SocialEngagement, social, post, network, deleteSocialPost, socialPostId, socialAccountId, API, Requires, Chatter, followSocialPersona, socialPersonaId, followSocialPostPersona, getIntents, getManagedSocialAccount, getManagedSocialAccounts, socialNetwork, getRelationship, hideSocialPost, likeSocialPost, massApprove, massApproval, recallApproval, unfollowSocialPersona, unfollowSocialPostPersona, unhideSocialPost, unlikeSocialPost]
 ---
-
-# SocialEngagement Class
 
 > Delete a social post from its social network.
 

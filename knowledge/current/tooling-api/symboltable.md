@@ -5,12 +5,10 @@ topic: symboltable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.217Z
+lastCollected: 2026-04-07T18:36:34.655Z
 estimatedTokens: 1080
-keywords: [SymbolTable, complex, user-defined, tokens, ApexClass, ApexClassMember, ApexTriggerMember, their, associated, line, column, locations, Annotations, Modifiers, Usage]
+keywords: [SymbolTable, Annotations, Modifiers, complex, user-defined, tokens, ApexClass, ApexClassMember, ApexTriggerMember, their, line, column, locations]
 ---
-
-# SymbolTable
 
 > A complex type that represents all user-defined tokens in the
     Body of an ApexClass, ApexClassMember, or ApexTriggerMember and their

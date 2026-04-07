@@ -5,12 +5,10 @@ topic: recipe-rest-api-enums
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.337Z
+lastCollected: 2026-04-07T18:39:18.022Z
 estimatedTokens: 1756
 keywords: [Recipe, REST, API, Enums, specific, wave, recipes]
 ---
-
-# Recipe REST API Enums
 
 > Enums specific to the /wave/recipes namespace
 

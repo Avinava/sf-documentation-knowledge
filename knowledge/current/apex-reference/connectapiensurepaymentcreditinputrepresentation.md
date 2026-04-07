@@ -5,12 +5,10 @@ topic: connectapiensurepaymentcreditinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.984Z
+lastCollected: 2026-04-07T18:36:05.331Z
 estimatedTokens: 195
 keywords: [credit, memo, optionally, payment, sequence, issuing, credits, amount, distributed, until, fully, applied, don’t, specify, Ensure]
 ---
-
-# ConnectApi.EnsurePaymentCreditInputRepresentation
 
 > The credit memo information and, optionally, the payment sequence details for issuing
     credits. The credit memo amount is distributed to the payment methods specified in the payment

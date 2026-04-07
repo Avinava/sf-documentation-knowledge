@@ -5,12 +5,10 @@ topic: smart-data-discovery-numeric-range-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.262Z
+lastCollected: 2026-04-07T18:36:58.760Z
 estimatedTokens: 85
-keywords: [Smart, Data, Discovery, Numeric, Range, Input]
+keywords: [Smart, Discovery, Numeric, Range]
 ---
-
-# Smart Data Discovery Numeric Range Input
 
 > A numeric range for a field.
 

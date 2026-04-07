@@ -5,12 +5,10 @@ topic: sortorder-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.301Z
+lastCollected: 2026-04-07T18:36:12.592Z
 estimatedTokens: 64
 keywords: [SortOrder, sort, order]
 ---
-
-# SortOrder Enum
 
 > Describes the sort order of a related list.
 

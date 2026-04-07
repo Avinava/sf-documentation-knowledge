@@ -5,12 +5,10 @@ topic: extlclntappglobaloauthsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.399Z
+lastCollected: 2026-04-07T18:36:25.904Z
 estimatedTokens: 1952
-keywords: [ExtlClntAppGlobalOauthSettings, settings, OAuth, plugin, external, client, app, include, sensitive, consumer, can’t, packaged, added, source, control]
+keywords: [ExtlClntAppGlobalOauthSettings, ExternalAppIdTokenConfig, settings, OAuth, plugin, external, client, app, include, sensitive, consumer, can’t, packaged, added, source, control, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ExtlClntAppGlobalOauthSettings
 
 > Represents the global settings for the OAuth
 			plugin in an external client app. These settings include private and sensitive OAuth

@@ -5,13 +5,11 @@ topic: usersetupentityaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:10.735Z
+lastCollected: 2026-04-07T18:40:05.607Z
 estimatedTokens: 263
 namespace: NamespacePrefix
-keywords: [UserSetupEntityAccess, enabled, custom, permissions, running, user, API, version, 48.0, later]
+keywords: [UserSetupEntityAccess, enabled, permissions, running, user, API, 48.0]
 ---
-
-# UserSetupEntityAccess
 
 > Represents the enabled custom permissions of the running user. This
       object is available in API version 48.0 and later.

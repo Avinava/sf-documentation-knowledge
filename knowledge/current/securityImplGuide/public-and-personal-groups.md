@@ -5,12 +5,10 @@ topic: public-and-personal-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.188Z
+lastCollected: 2026-04-07T18:39:23.124Z
 estimatedTokens: 938
 keywords: [Personal, Groups, group, consists, users, contain, individual, particular, role, territory, plus, below, hierarchy]
 ---
-
-# Public and Personal Groups
 
 > A group consists of a set of users. A group can contain individual users, other groups,
     or the users in a particular role or territory. It can also contain the users in a particular

@@ -5,13 +5,11 @@ topic: disclosuredefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.358Z
+lastCollected: 2026-04-07T18:39:38.078Z
 estimatedTokens: 416
 namespace: NamespacePrefix
-keywords: [DisclosureDefinitionVersion, version, disclosure, definition]
+keywords: [DisclosureDefinitionVersion, disclosure, definition]
 ---
-
-# DisclosureDefinitionVersion
 
 > Represents the version information about the disclosure
          definition.

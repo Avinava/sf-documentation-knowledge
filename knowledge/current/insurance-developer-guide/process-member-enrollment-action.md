@@ -5,12 +5,10 @@ topic: process-member-enrollment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.170Z
+lastCollected: 2026-04-07T18:37:48.903Z
 estimatedTokens: 541
-keywords: [Process, Member, Enrollment, Action, insurance, policies, group, census, members, per, their, selected, plans, REST, HTTP]
+keywords: [Inputs, Outputs, Process, Member, Enrollment, Action, insurance, policies, group, census, members, per, their, selected, plans, REST, HTTP]
 ---
-
-# Process Member Enrollment Action
 
 > Create insurance policies for specified group census members as per their selected
         plans.

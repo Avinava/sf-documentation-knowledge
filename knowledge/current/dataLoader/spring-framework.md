@@ -5,12 +5,10 @@ topic: spring-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.330Z
+lastCollected: 2026-04-07T18:37:28.362Z
 estimatedTokens: 348
 keywords: [Spring, Framework, XML, files, configure, beans, bean, instance, correspond, object's, setter]
 ---
-
-# Spring Framework
 
 > The Spring Framework allows you to use XML files to configure beans. Each bean
     represents an instance of an object; the parameters correspond to each object's setter

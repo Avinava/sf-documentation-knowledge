@@ -5,12 +5,10 @@ topic: wstdispoemssnfctrsetitm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.642Z
+lastCollected: 2026-04-07T18:40:07.574Z
 estimatedTokens: 418
 keywords: [WstDispoEmssnFctrSetItm, individual, emissions, factors, scope, waste, handling, disposal]
 ---
-
-# WstDispoEmssnFctrSetItm
 
 > Represents the individual emissions factors for scope 3 waste handling based
          on the waste type and disposal type.

@@ -5,12 +5,10 @@ topic: resume
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.392Z
+lastCollected: 2026-04-07T18:38:05.610Z
 estimatedTokens: 119
-keywords: [resume, Resumes, event, handling, position, handler, processing, sequence, previously, paused, isn’t, nothing, throws, error, it’s]
+keywords: [resume, Resumes, event, handling, position, handler, processing, sequence, previously, paused, isn’t, nothing, throws, error, it’s, phase, Any, remaining, handlers, execute, current, call, stack, deferred, executed, new, Therefore, exact, timing, behavior, predictable]
 ---
-
-# resume()
 
 > Resumes event handling for this event from the same position in the
    event handler processing sequence from which it was previously paused. If the event isn’t paused,

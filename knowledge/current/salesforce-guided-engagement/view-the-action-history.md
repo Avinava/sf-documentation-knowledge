@@ -5,12 +5,10 @@ topic: view-the-action-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.958Z
+lastCollected: 2026-04-07T18:39:17.622Z
 estimatedTokens: 765
-keywords: [View, Action, History, actions, were, launched, agents, tab, Recommendations, component, state, status, started, paused, resumed]
+keywords: [View, Action, actions, were, launched, agents, tab, Recommendations, state, status, started, paused, resumed, completed, record, programmatically, RecordActionHistory, Component’s, Understand, APIs, Query]
 ---
-
-# View the Action History
 
 > See which actions were launched, by which agents, and when in the History tab on the
     Actions & Recommendations component. The History tab also shows the state, or status, for

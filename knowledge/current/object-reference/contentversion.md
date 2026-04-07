@@ -5,12 +5,10 @@ topic: contentversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.805Z
+lastCollected: 2026-04-07T18:38:28.714Z
 estimatedTokens: 7596
-keywords: [ContentVersion, specific, version, document, Salesforce, CRM, content, Files, versions, 17.0, later, documents, 20.0, Calls, Special]
+keywords: [ContentVersion, specific, document, Salesforce, CRM, content, Files, versions, 17.0, documents, 20.0, Applying, Tags, Records]
 ---
-
-# ContentVersion
 
 > Represents a specific version of a document in Salesforce CRM content or Salesforce
 		Files. This object is available in versions 17.0 and later for Salesforce CRM content

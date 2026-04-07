@@ -5,12 +5,10 @@ topic: calloptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.963Z
+lastCollected: 2026-04-07T18:36:31.361Z
 estimatedTokens: 109
-keywords: [CallOptions, API, client, identifier, Version, Calls, Sample, Code—Java]
+keywords: [CallOptions, API, client, identifier, Sample, Code—Java]
 ---
-
-# CallOptions
 
 > Specifies the API client identifier.
 

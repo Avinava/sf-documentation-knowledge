@@ -5,12 +5,10 @@ topic: smart-data-discovery-customizable-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.146Z
+lastCollected: 2026-04-07T18:36:58.652Z
 estimatedTokens: 114
-keywords: [Smart, Data, Discovery, Customizable, Input, Einstein]
+keywords: [Smart, Discovery, Customizable, Einstein]
 ---
-
-# Smart Data Discovery Customizable Field Input
 
 > Input for an Einstein Discovery customizable field.
 

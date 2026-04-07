@@ -5,12 +5,10 @@ topic: workreportlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.212Z
+lastCollected: 2026-04-07T18:40:07.127Z
 estimatedTokens: 611
-keywords: [WorkReportLineItem, measure, work, performed, contractor, business, consumer, location, program, API, version, 59.0, later]
+keywords: [WorkReportLineItem, measure, work, performed, contractor, business, consumer, location, program, API, 59.0]
 ---
-
-# WorkReportLineItem
 
 > Represents one measure of work performed by a contractor business for a
          consumer at a location within a program. This object is available in API version 59.0

@@ -5,12 +5,10 @@ topic: connecting-to-the-soap-api-using-java-and-axis-14
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.659Z
+lastCollected: 2026-04-07T18:40:15.768Z
 estimatedTokens: 1276
-keywords: [Connecting, SOAP, API, Java, Axis, 1.4, connection, test, calls, perform, various, tasks, sending, email, retrieving]
+keywords: [Connecting, SOAP, API, Java, Axis, 1.4, connection, test, perform, various, tasks, sending, email, retrieving, Why, Connect, How, Authenticate, Apache, Password, Callback, Handler, Content, Client, config.xml, File, Changing, Call, Timeout, Known, Issues, Items]
 ---
-
-# Connecting to the SOAP API Using Java and Axis 1.4
 
 > You can use the connection to the SOAP API to test your calls and perform various tasks, such as sending email and retrieving tracking information.
 

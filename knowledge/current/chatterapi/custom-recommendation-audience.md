@@ -5,12 +5,10 @@ topic: custom-recommendation-audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.311Z
+lastCollected: 2026-04-07T18:37:15.354Z
 estimatedTokens: 868
-keywords: [Custom, Recommendation, Audience]
+keywords: [Recommendation, Audience]
 ---
-
-# Custom Recommendation Audience
 
 > Get information about, update, and delete a custom recommendation
       audience.

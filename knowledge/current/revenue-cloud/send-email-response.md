@@ -5,12 +5,10 @@ topic: send-email-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.711Z
+lastCollected: 2026-04-07T18:35:46.679Z
 estimatedTokens: 320
-keywords: [Send, Email, Output, representation, API, emails, posted, invoices]
+keywords: [Send, Email, API, emails, posted, invoices]
 ---
-
-# Send Email Response
 
 > Output representation of the API request to send emails for posted
     invoices.

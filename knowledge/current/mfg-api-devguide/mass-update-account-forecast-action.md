@@ -5,12 +5,10 @@ topic: mass-update-account-forecast-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.666Z
+lastCollected: 2026-04-07T18:38:12.996Z
 estimatedTokens: 406
-keywords: [Mass, Account, Forecast, Action, different, products, periods, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Mass, Account, Forecast, Action, different, products, periods, REST, HTTP]
 ---
-
-# Mass Update Account Forecast Action
 
 > Mass update account forecast fields for different products and periods
    with this single action.

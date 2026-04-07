@@ -5,12 +5,10 @@ topic: invoice-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.924Z
+lastCollected: 2026-04-07T18:37:08.741Z
 estimatedTokens: 395
-keywords: [Invoice, Input, representation, billing, schedule]
+keywords: [Invoice, billing, schedule]
 ---
-
-# Invoice Input
 
 > Input representation of the details of the billing
     schedule.

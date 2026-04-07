@@ -5,12 +5,10 @@ topic: fundraisingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:43.039Z
+lastCollected: 2026-04-07T18:37:30.114Z
 estimatedTokens: 1701
-keywords: [FundraisingConfig, collection, settings, configure, Fundraising, API, version, 59.0, later, SOAP, Calls, REST, Special, Access, Rules]
+keywords: [FundraisingConfig, collection, settings, configure, Fundraising, API, 59.0, SOAP, REST]
 ---
-
-# FundraisingConfig
 
 > Represents a collection of settings to configure Fundraising.
       This object is available in API version 59.0 and later.

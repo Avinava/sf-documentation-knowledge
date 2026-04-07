@@ -5,12 +5,10 @@ topic: get-ottv1sendmessageid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.001Z
+lastCollected: 2026-04-07T18:40:15.022Z
 estimatedTokens: 741
-keywords: [ott, send, messageId, Retrieves, message, **Overview**, Usage, Retrieve, Messenger, LINE]
+keywords: [ott, send, messageId, Retrieves, message, **Overview**, Retrieve, Messenger, LINE]
 ---
-
-# GET /ott/v1/send/{messageId}
 
 > Retrieves all the information about an existing OTT send message request.
 

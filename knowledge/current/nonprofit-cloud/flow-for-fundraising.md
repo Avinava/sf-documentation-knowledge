@@ -5,12 +5,10 @@ topic: flow-for-fundraising
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.523Z
+lastCollected: 2026-04-07T18:38:21.376Z
 estimatedTokens: 773
-keywords: [Flow, Fundraising, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic, provide]
+keywords: [FlowActionCall, Flow, Fundraising, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Fundraising
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

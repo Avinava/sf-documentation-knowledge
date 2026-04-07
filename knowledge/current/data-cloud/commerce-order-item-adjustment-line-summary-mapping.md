@@ -5,12 +5,10 @@ topic: commerce-order-item-adjustment-line-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.662Z
+lastCollected: 2026-04-07T18:35:52.557Z
 estimatedTokens: 425
-keywords: [Commerce, Order, Item, Adjustment, Line, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud]
+keywords: [Commerce, Order, Item, Adjustment, Line, Summary, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, change, price, sales, product, made, fulfillment, stand, alone, level, DLO]
 ---
-
-# Commerce: Order Item Adjustment Line Summary Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Order Item Adjustment Line Summary data is

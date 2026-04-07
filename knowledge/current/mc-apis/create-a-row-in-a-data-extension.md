@@ -5,12 +5,10 @@ topic: create-a-row-in-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.030Z
+lastCollected: 2026-04-07T18:40:16.175Z
 estimatedTokens: 1678
-keywords: [Row, Data, Extension, SOAP, API, maintain, extensions, may, point, add, subscriber, publication, suppression, document, helps]
+keywords: [Row, Extension, SOAP, API, maintain, extensions, may, point, add, subscriber, publication, suppression, document, helps, sample, code, successfully, Why, How, Ruby, Rails, Creating, File, Sendable, Call, Items]
 ---
-
-# Create a Row in a Data Extension
 
 > If you use the SOAP API to maintain your data extensions, you may have to create a row in a data extension at some point. For example, you may have to add a subscriber from a publication or suppression list. The information in this document helps you set up your sample code and successfully add the 
 

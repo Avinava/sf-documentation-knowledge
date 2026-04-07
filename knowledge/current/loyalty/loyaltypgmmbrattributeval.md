@@ -5,12 +5,10 @@ topic: loyaltypgmmbrattributeval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.953Z
+lastCollected: 2026-04-07T18:38:10.233Z
 estimatedTokens: 918
-keywords: [LoyaltyPgmMbrAttributeVal, reached, loyalty, program, member, engagement, attribute, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyPgmMbrAttributeVal, reached, loyalty, program, member, engagement, attribute, API, 55.0]
 ---
-
-# LoyaltyPgmMbrAttributeVal
 
 > Represents information about the value reached by a loyalty program member
          for an engagement attribute. This object is available in API version 55.0 and later.

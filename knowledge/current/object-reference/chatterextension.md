@@ -5,12 +5,10 @@ topic: chatterextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.946Z
+lastCollected: 2026-04-07T18:38:27.879Z
 estimatedTokens: 766
-keywords: [ChatterExtension, Rich, Publisher, App, that’s, integrated, Chatter, API, version, 41.0, later, Calls]
+keywords: [ChatterExtension, Rich, Publisher, App, that’s, integrated, Chatter, API, 41.0]
 ---
-
-# ChatterExtension
 
 > Represents a Rich Publisher App that’s integrated with the Chatter
       publisher. This object is available in API version 41.0 and later.

@@ -5,12 +5,10 @@ topic: post-ottv1send
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.018Z
+lastCollected: 2026-04-07T18:40:15.039Z
 estimatedTokens: 5186
-keywords: [POST, ott, send, message, recipient, networks, Facebook, Messenger, LINE, **Overview**, Usage, Success, Error, Possible, Errors]
+keywords: [POST, ott, send, message, recipient, networks, Facebook, Messenger, LINE, **Overview**, Success, Error, Possible, Errors, Samples, Different, Content, Text, Image, Video, Audio, Native]
 ---
-
-# POST /ott/v1/send
 
 > Send an OTT message to the recipient. Supported OTT networks are Facebook Messenger and LINE.
 

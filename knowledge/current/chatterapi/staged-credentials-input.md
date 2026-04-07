@@ -5,12 +5,10 @@ topic: staged-credentials-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.582Z
+lastCollected: 2026-04-07T18:37:10.283Z
 estimatedTokens: 81
-keywords: [Staged, Credentials, Input, rotate, data]
+keywords: [Staged, Credentials, rotate]
 ---
-
-# Staged Credentials Input
 
 > Request to rotate credentials with staged data.
 

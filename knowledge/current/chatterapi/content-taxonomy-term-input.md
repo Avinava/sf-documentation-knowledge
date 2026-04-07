@@ -5,12 +5,10 @@ topic: content-taxonomy-term-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.148Z
+lastCollected: 2026-04-07T18:37:07.950Z
 estimatedTokens: 257
-keywords: [Content, Taxonomy, Term, Input]
+keywords: [Content, Taxonomy, Term]
 ---
-
-# Content Taxonomy Term Input
 
 > Create or update a term within a content taxonomy.
 

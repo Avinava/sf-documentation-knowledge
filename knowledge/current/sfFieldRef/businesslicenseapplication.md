@@ -5,12 +5,10 @@ topic: businesslicenseapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.411Z
+lastCollected: 2026-04-07T18:39:30.621Z
 estimatedTokens: 763
-keywords: [BusinessLicenseApplication, application, form, submitted, business, owner, API, version, 49.0, later]
+keywords: [BusinessLicenseApplication, application, form, submitted, business, owner, API, 49.0]
 ---
-
-# BusinessLicenseApplication
 
 > Represents an application form submitted by a business owner. This
       object is available in API version 49.0 and later.

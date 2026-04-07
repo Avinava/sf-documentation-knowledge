@@ -5,12 +5,10 @@ topic: cgcloudproductassortmentproductsharec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.955Z
+lastCollected: 2026-04-07T18:39:14.345Z
 estimatedTokens: 934
-keywords: [stores, categories, assigned, Product, assortment, API, version, 54.0, later, cgcloud, _Product, _Assortment, _Share, Calls, Associated]
+keywords: [stores, categories, assigned, Product, assortment, API, 54.0, cgcloud, _Product, _Assortment, _Share]
 ---
-
-# cgcloud__Product_Assortment_Product_Share__c
 
 > This object stores the details of categories that are assigned to a
          Product assortment. This object is available in API version 54.0 and later.

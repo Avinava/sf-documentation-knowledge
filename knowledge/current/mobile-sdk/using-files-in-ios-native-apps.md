@@ -5,12 +5,10 @@ topic: using-files-in-ios-native-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.555Z
+lastCollected: 2026-04-07T18:40:25.932Z
 estimatedTokens: 500
-keywords: [Files, iOS, Native, Apps, handle, convenience, defined, SFRestAPI, category, parallel, API, Android, hybrid, They, send]
+keywords: [Files, iOS, Native, Apps, handle, convenience, defined, SFRestAPI, category, parallel, API, Android, hybrid, They, send, requests, REST, APIs, different, underpinnings, Responses, Multithreading]
 ---
-
-# Using Files in iOS Native Apps
 
 > To handle files in native iOS apps, use convenience methods defined in the SFRestAPI (Files) category. These methods parallel the files
       API for Android native and hybrid apps. They send requests to the same list of REST APIs, but

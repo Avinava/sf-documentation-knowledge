@@ -5,12 +5,10 @@ topic: external-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.553Z
+lastCollected: 2026-04-07T18:35:42.438Z
 estimatedTokens: 687
 keywords: [External, Variables, Constraint, Modeling, Language, CML, defined, virtual, Context, Path, Annotation, Variable, Annotations]
 ---
-
-# External Variables
 
 > External variables are global Constraint Modeling Language (CML) variables defined
     within a virtual CML type.

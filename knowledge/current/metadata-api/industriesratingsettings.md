@@ -5,12 +5,10 @@ topic: industriesratingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.336Z
+lastCollected: 2026-04-07T18:36:26.772Z
 estimatedTokens: 658
-keywords: [IndustriesRatingSettings, settings, Rate, Management, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Declarative]
+keywords: [IndustriesRatingSettings, settings, Rate, Management, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# IndustriesRatingSettings
 
 > Represents the settings for Rate
 		Management.

@@ -5,12 +5,10 @@ topic: case-management-business-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.624Z
+lastCollected: 2026-04-07T18:38:20.307Z
 estimatedTokens: 237
 keywords: [Case, Management, Business, API, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Case Management Business API
 
 > Case Management Business APIs are RESTful APIs that are sometimes available as Apex
   classes and methods.

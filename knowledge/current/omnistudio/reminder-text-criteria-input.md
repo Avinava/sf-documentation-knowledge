@@ -5,12 +5,10 @@ topic: reminder-text-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.924Z
+lastCollected: 2026-04-07T18:36:37.449Z
 estimatedTokens: 207
-keywords: [Reminder, Text, Criteria, Input, representation]
+keywords: [Reminder, Text, Criteria]
 ---
-
-# Reminder Text Criteria Input
 
 > Input representation of the text criteria of a reminder.
 

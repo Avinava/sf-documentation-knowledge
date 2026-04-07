@@ -5,12 +5,10 @@ topic: recordactionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.256Z
+lastCollected: 2026-04-07T18:39:58.912Z
 estimatedTokens: 392
-keywords: [RecordActionHistory, lifecycle, RecordAction, goes, different, states, API, version, 44.0, later]
+keywords: [RecordActionHistory, lifecycle, RecordAction, goes, different, states, API, 44.0]
 ---
-
-# RecordActionHistory
 
 > Represents the lifecycle of a RecordAction as it goes through
          different states. Available in API version 44.0 and later.

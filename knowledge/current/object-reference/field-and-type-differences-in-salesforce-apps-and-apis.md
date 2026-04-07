@@ -5,12 +5,10 @@ topic: field-and-type-differences-in-salesforce-apps-and-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.950Z
+lastCollected: 2026-04-07T18:38:23.824Z
 estimatedTokens: 630
-keywords: [Differences, Salesforce, Apps, APIs, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any]
+keywords: [Differences, Salesforce, Apps, APIs, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations]
 ---
-
-# Field and Type Differences in Salesforce Apps and APIs
 
 > Where possible, we changed noninclusive terms to align with our company
    value of Equality. We maintained certain terms to avoid any effect on customer

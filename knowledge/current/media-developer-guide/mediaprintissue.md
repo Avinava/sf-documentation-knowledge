@@ -5,12 +5,10 @@ topic: mediaprintissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.259Z
+lastCollected: 2026-04-07T18:38:12.546Z
 estimatedTokens: 642
-keywords: [MediaPrintIssue, print, media, issue, date, advertising, deadline, publication, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [MediaPrintIssue, print, media, issue, date, advertising, deadline, publication, API, 57.0]
 ---
-
-# MediaPrintIssue
 
 > Represents the details of a print media issue with details such as
          issue name, date, advertising deadline about the publication. This object is available

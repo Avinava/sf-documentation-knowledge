@@ -5,13 +5,11 @@ topic: scope-and-visibility-of-remoteaction-methods-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.437Z
+lastCollected: 2026-04-07T18:38:51.697Z
 estimatedTokens: 524
 namespace: Global
 keywords: [Scope, Visibility, @RemoteAction, Apex, either]
 ---
-
-# Scope and Visibility of  @RemoteAction Methods Methods
 
 > Apex @RemoteAction methods must be static and either global or public.
 

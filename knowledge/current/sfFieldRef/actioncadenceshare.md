@@ -5,12 +5,10 @@ topic: actioncadenceshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.481Z
+lastCollected: 2026-04-07T18:39:24.433Z
 estimatedTokens: 249
 keywords: [ActionCadenceShare, Sharing, ActionCadence]
 ---
-
-# ActionCadenceShare
 
 > Sharing for ActionCadence.
 

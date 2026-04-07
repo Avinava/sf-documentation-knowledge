@@ -5,12 +5,10 @@ topic: trigger-context-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.502Z
+lastCollected: 2026-04-07T18:36:18.720Z
 estimatedTokens: 987
-keywords: [Trigger, Context, Variables, triggers, define, implicit, allow, developers, access, run-time, contained, System.Trigger]
+keywords: [Trigger, Context, Variables, triggers, define, implicit, allow, developers, run-time, contained, System.Trigger]
 ---
-
-# Trigger Context Variables
 
 > All triggers define implicit variables that allow developers to access run-time
         context. These variables are contained in the System.Trigger class.

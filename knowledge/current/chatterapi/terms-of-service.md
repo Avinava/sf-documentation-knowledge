@@ -5,12 +5,10 @@ topic: terms-of-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.269Z
+lastCollected: 2026-04-07T18:37:23.381Z
 estimatedTokens: 107
 keywords: [Terms, Service, Social, Customer]
 ---
-
-# Terms of Service
 
 > Information related to the Social Customer Service terms of
       service.

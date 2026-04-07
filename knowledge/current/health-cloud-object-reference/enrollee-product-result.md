@@ -5,12 +5,10 @@ topic: enrollee-product-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.626Z
+lastCollected: 2026-04-07T18:37:41.746Z
 estimatedTokens: 223
 keywords: [Enrollee, Product, Result, enrollee’s, products]
 ---
-
-# Enrollee Product Result
 
 > Details about the enrollee’s products.
 

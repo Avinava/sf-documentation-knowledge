@@ -5,12 +5,10 @@ topic: cgcloudsignatureflowstepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.570Z
+lastCollected: 2026-04-07T18:39:15.008Z
 estimatedTokens: 1484
-keywords: [cgcloud__Signature_Flow_Step__c, stores, flow, steps, template, API, version, 54.0, later, cgcloud, _Signature, _Flow, _Step, Calls, Associated]
+keywords: [cgcloud__Signature_Flow_Step__c, stores, flow, steps, template, API, 54.0, cgcloud, _Signature, _Flow, _Step]
 ---
-
-# cgcloud__Signature_Flow_Step__c
 
 > This object stores the details of the signature flow steps that are
          used in a signature template. This object is available in API version 54.0 and later.

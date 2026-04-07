@@ -5,12 +5,10 @@ topic: channelprogramlevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.296Z
+lastCollected: 2026-04-07T18:39:33.702Z
 estimatedTokens: 388
-keywords: [ChannelProgramLevel, level, member, experience, channel, program, API, version, 41.0, later]
+keywords: [ChannelProgramLevel, level, member, experience, channel, program, API, 41.0]
 ---
-
-# ChannelProgramLevel
 
 > Represents a level, based on member experience, in a channel
 			program. This object is available in API version 41.0 and later.

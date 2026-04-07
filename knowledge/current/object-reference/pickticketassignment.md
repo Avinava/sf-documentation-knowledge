@@ -5,12 +5,10 @@ topic: pickticketassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.743Z
+lastCollected: 2026-04-07T18:38:38.095Z
 estimatedTokens: 590
-keywords: [PickTicketAssignment, association, FulfillmentOrder, PickTicket, containing, products, picked, part, API, version, 57.0, later, Calls, Special, Access]
+keywords: [PickTicketAssignment, association, FulfillmentOrder, PickTicket, containing, products, picked, part, API, 57.0]
 ---
-
-# PickTicketAssignment
 
 > Represents the association of a FulfillmentOrder with a PickTicket. A
          PickTicket has one PickTicketAssignment for each FulfillmentOrder containing products to be

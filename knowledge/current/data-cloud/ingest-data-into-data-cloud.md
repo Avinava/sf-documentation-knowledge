@@ -5,12 +5,10 @@ topic: ingest-data-into-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.823Z
+lastCollected: 2026-04-07T18:35:51.678Z
 estimatedTokens: 838
-keywords: [Ingest, Data, Cloud, Ingestion, API, RESTful, supports, streaming, bulk, interaction, patterns, loading, connector, performing, uploads]
+keywords: [Ingest, Cloud, Ingestion, API, RESTful, supports, streaming, bulk, interaction, patterns, loading, connector, performing, uploads]
 ---
-
-# Ingest Data into Data Cloud
 
 > The Ingestion API provides a RESTful interface that supports both streaming and bulk
     interaction patterns for loading data into Data Cloud. You can use a single

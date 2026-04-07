@@ -5,12 +5,10 @@ topic: schedule-account-plan-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.572Z
+lastCollected: 2026-04-07T18:39:11.078Z
 estimatedTokens: 673
 keywords: [Schedule, Account, Plan, Calculation, plans, IDs, category, time, range, KPI, collection]
 ---
-
-# Schedule Account Plan Calculation
 
 > Schedule calculation for account plans for the given account plan
       IDs, category IDs, and time range for a given KPI collection.

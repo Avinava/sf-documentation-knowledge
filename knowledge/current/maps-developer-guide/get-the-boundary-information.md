@@ -5,12 +5,10 @@ topic: get-the-boundary-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.674Z
+lastCollected: 2026-04-07T18:38:10.933Z
 estimatedTokens: 448
 keywords: [Boundary, GetBoundaryInformation, Apex, geographical, IDs, locations, fit, search, criteria, Sample, Code]
 ---
-
-# Get the Boundary Information
 
 > The GetBoundaryInformation() Apex
       method returns geographical IDs of locations that fit the specified search

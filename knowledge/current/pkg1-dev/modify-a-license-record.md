@@ -5,12 +5,10 @@ topic: modify-a-license-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.577Z
+lastCollected: 2026-04-07T18:38:53.893Z
 estimatedTokens: 492
-keywords: [Modify, License, Record, change, customer’s, access, offering, modifying, Management, App, LMA, increase, decrease, number, seats]
+keywords: [Modify, License, Record, change, customer’s, offering, modifying, Management, App, LMA, increase, decrease, number, seats, included, expiration, date]
 ---
-
-# Modify a License Record
 
 > You can change a customer’s access to your offering by modifying a license record using
   the License Management App (LMA). For example, you can increase or decrease the number of seats

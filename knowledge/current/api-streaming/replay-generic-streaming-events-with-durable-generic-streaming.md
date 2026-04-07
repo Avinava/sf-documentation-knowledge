@@ -5,12 +5,10 @@ topic: replay-generic-streaming-events-with-durable-generic-streaming
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.103Z
+lastCollected: 2026-04-07T18:36:51.420Z
 estimatedTokens: 433
-keywords: [Replay, Generic, Streaming, Events, Durable, client, receive, subscribes, channel, long, Salesforce, session, active, sent, subscribed]
+keywords: [Replay, Generic, Streaming, Events, Durable, client, receive, subscribes, channel, long, Salesforce, session, active, sent, subscribed, disconnects, missed, However, fetch, 24-hour, retention, window, Code, Sample]
 ---
-
-# Replay Generic Streaming Events with  Durable Generic Streaming
 
 > A client can receive generic streaming events after it subscribes to a channel and as
     long as the Salesforce session is active. Events sent before a client subscribes to a channel or

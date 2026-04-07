@@ -5,12 +5,10 @@ topic: leadownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.009Z
+lastCollected: 2026-04-07T18:38:34.201Z
 estimatedTokens: 870
-keywords: [LeadOwnerSharingRule, rules, sharing, lead, users, owner, Calls, Usage]
+keywords: [LeadOwnerSharingRule, sharing, lead, users, owner]
 ---
-
-# LeadOwnerSharingRule
 
 > Represents the rules for sharing a lead with users other than the
       owner.

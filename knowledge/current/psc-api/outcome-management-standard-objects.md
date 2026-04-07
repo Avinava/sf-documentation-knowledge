@@ -5,12 +5,10 @@ topic: outcome-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.946Z
+lastCollected: 2026-04-07T18:39:04.959Z
 estimatedTokens: 758
-keywords: [Outcome, Management, Standard, Objects, data, model, define, measure, evaluate, organization’s, strategy]
+keywords: [Outcome, Management, Standard, model, define, measure, evaluate, organization’s, strategy]
 ---
-
-# Outcome Management Standard Objects
 
 > The Outcome Management data model provides objects and fields to define, measure, and
     evaluate an organization’s outcome strategy.

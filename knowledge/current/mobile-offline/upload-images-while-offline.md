@@ -5,12 +5,10 @@ topic: upload-images-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.386Z
+lastCollected: 2026-04-07T18:38:15.919Z
 estimatedTokens: 578
-keywords: [Upload, Images, Offline, files, Salesforce, mobile, client, photos, equipment, installed, service, call, there’s, Internet, device]
+keywords: [Upload, Images, Offline, files, Salesforce, mobile, client, photos, equipment, installed, service, call, there’s, Internet, device, regains, network]
 ---
-
-# Upload Images While Offline
 
 > Upload files, such as images, to Salesforce, even when your mobile client is offline.
   For example, upload photos of equipment installed during a service call, even if there’s no

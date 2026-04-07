@@ -5,12 +5,10 @@ topic: orderitemadjustmentlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.665Z
+lastCollected: 2026-04-07T18:38:36.906Z
 estimatedTokens: 1483
-keywords: [OrderItemAdjustmentLineItem, adjustment, made, order, item, API, version, 48.0, later, Calls, Special, Access, Rules]
+keywords: [OrderItemAdjustmentLineItem, adjustment, made, order, item, API, 48.0]
 ---
-
-# OrderItemAdjustmentLineItem
 
 > An adjustment that has been made to an order item. This object is
     available in API version 48.0 and later.

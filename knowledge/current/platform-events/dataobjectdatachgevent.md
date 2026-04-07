@@ -5,12 +5,10 @@ topic: dataobjectdatachgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.072Z
+lastCollected: 2026-04-07T18:38:58.945Z
 estimatedTokens: 789
-keywords: [DataObjectDataChgEvent, Notifies, subscribers, action, Data, Cloud, API, version, 53.0, later, Calls, Subscription, Channel, Special, Access]
+keywords: [DataObjectDataChgEvent, Notifies, subscribers, action, Cloud, API, 53.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# DataObjectDataChgEvent
 
 > Notifies subscribers of an action within Data Cloud. This object
 		is available in API version 53.0 and later.

@@ -5,12 +5,10 @@ topic: assessmentinddefinedvaluehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.227Z
+lastCollected: 2026-04-07T18:39:27.201Z
 estimatedTokens: 280
-keywords: [AssessmentIndDefinedValueHistory, History, tracked, AssessmentIndDefinedValue]
+keywords: [AssessmentIndDefinedValueHistory, tracked, AssessmentIndDefinedValue]
 ---
-
-# AssessmentIndDefinedValueHistory
 
 > History for tracked fields of AssessmentIndDefinedValue.
 

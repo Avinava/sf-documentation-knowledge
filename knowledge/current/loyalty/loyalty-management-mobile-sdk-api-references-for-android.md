@@ -5,12 +5,10 @@ topic: loyalty-management-mobile-sdk-api-references-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.136Z
+lastCollected: 2026-04-07T18:38:09.424Z
 estimatedTokens: 350
-keywords: [Loyalty, Management, Mobile, SDK, API, References, Android, interacts, Salesforce, APIs, retrieves, member, benefits, transactions, profiles]
+keywords: [Loyalty, Management, Mobile, SDK, API, References, Android, interacts, Salesforce, APIs, retrieves, member, benefits, transactions, profiles, promotions, vouchers, enrolls, individual, opts, promotion]
 ---
-
-# Loyalty Management Mobile SDK API References for Android
 
 > The Loyalty Management Mobile SDK for Android interacts with Salesforce Loyalty
     Management APIs and retrieves member benefits, transactions, profiles, promotions, vouchers,

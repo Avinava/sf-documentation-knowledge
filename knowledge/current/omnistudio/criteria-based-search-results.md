@@ -5,12 +5,10 @@ topic: criteria-based-search-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.375Z
+lastCollected: 2026-04-07T18:36:37.984Z
 estimatedTokens: 531
 keywords: [Criteria-Based, Search, Results, searchable, configuration, criteria, defined, admin]
 ---
-
-# Criteria-Based Search Results
 
 > Returns the results for search based on the searchable object
       configuration and search criteria configuration defined by the admin.

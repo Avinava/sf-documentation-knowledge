@@ -5,12 +5,10 @@ topic: replicated-dataset-fields-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.832Z
+lastCollected: 2026-04-07T18:36:56.378Z
 estimatedTokens: 460
-keywords: [Replicated, Dataset, Resource, Retrieves, connected, URL, Formats, Version, Postman, Components, HTTP, PATCH]
+keywords: [Formats, Replicated, Dataset, Resource, Retrieves, connected, URL, Postman, HTTP, PATCH]
 ---
-
-# Replicated Dataset Fields Resource
 
 > Retrieves a list of fields for the specified connected
     object.

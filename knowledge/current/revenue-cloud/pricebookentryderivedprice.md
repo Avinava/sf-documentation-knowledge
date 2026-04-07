@@ -5,12 +5,10 @@ topic: pricebookentryderivedprice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.840Z
+lastCollected: 2026-04-07T18:35:49.798Z
 estimatedTokens: 1285
-keywords: [PriceBookEntryDerivedPrice, price, product, that’s, derived, another, source, asset, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [PriceBookEntryDerivedPrice, price, product, that’s, derived, another, source, asset, API, 61.0]
 ---
-
-# PriceBookEntryDerivedPrice
 
 > Represents the price of a product that’s derived from another source
          such as a product or an asset. This object is available in API version 61.0 and

@@ -5,12 +5,10 @@ topic: public-complaint-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.008Z
+lastCollected: 2026-04-07T18:39:05.020Z
 estimatedTokens: 154
-keywords: [Complaint, Data, Model, objects, relationships, complaints, Sector, Solutions]
+keywords: [Complaint, Model, relationships, complaints, Sector, Solutions]
 ---
-
-# Public Complaint Data Model
 
 > Learn about the objects and relationships used for public complaints in Public Sector Solutions.
 

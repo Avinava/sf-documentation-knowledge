@@ -5,12 +5,10 @@ topic: nfcservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.473Z
+lastCollected: 2026-04-07T18:38:16.003Z
 estimatedTokens: 125
-keywords: [NFCService, Here’s, basic, Lightning, web, component, uses, parse, text, data, image]
+keywords: [NFCService, Here’s, basic, Lightning, web, uses, parse, text, image]
 ---
-
-# NFCService Example
 
 > Here’s a basic example of a Lightning web component that uses NFCService to parse text
     data from an image.

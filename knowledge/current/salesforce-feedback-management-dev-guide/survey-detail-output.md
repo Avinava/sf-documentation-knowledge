@@ -5,12 +5,10 @@ topic: survey-detail-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.422Z
+lastCollected: 2026-04-07T18:39:17.051Z
 estimatedTokens: 164
-keywords: [Survey, Detail, Output, representation]
+keywords: [Survey, Detail]
 ---
-
-# Survey Detail Output
 
 > Output representation of the details of the survey.
 

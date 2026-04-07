@@ -5,12 +5,10 @@ topic: prvdaccountusergroupinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.704Z
+lastCollected: 2026-04-07T18:38:01.581Z
 estimatedTokens: 820
-keywords: [PrvdAccountUserGroupInfo, classification, provider, account, user, group, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [PrvdAccountUserGroupInfo, classification, provider, account, user, group, API, 65.0]
 ---
-
-# PrvdAccountUserGroupInfo
 
 > Represents the classification values for the provider account user
          group. This object is available in API version 65.0 and later.

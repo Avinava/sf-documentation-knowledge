@@ -5,12 +5,10 @@ topic: post-contactsv1contactspreferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.071Z
+lastCollected: 2026-04-07T18:40:15.095Z
 estimatedTokens: 433
-keywords: [POST, contacts, preferences, Adds, consent, management, contact, records, data, protection, privacy, concerns, include, multiple, IDs]
+keywords: [POST, contacts, preferences, Adds, consent, management, contact, records, protection, privacy, concerns, include, multiple, IDs, JSON, payload, best, performance, batches, whenever, possible, **Overview**, Marketing, Cloud, Permissions, Scope]
 ---
-
-# POST /contacts/v1/contacts/preferences
 
 > Adds consent management information to contact records for data protection and privacy concerns. The request can include multiple contact IDs in a single JSON payload. For best performance, use batches of contact ID values whenever possible.
 

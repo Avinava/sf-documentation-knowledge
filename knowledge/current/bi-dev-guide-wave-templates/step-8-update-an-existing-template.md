@@ -5,12 +5,10 @@ topic: step-8-update-an-existing-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.132Z
+lastCollected: 2026-04-07T18:37:02.672Z
 estimatedTokens: 1012
-keywords: [Step, Template, changing, source, app’s, dashboards, lenses, datasets, CRM, Analytics, Studio, Updating, Asset, Version]
+keywords: [Step, Template, changing, source, app’s, dashboards, lenses, datasets, CRM, Analytics, Studio, Updating, Asset]
 ---
-
-# Step 8: Update an Existing Template
 
 > Update a template after changing the source app’s dashboards, lenses, and datasets in
     CRM Analytics Studio.

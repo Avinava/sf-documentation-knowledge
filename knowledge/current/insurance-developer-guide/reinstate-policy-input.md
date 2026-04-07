@@ -5,12 +5,10 @@ topic: reinstate-policy-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.365Z
+lastCollected: 2026-04-07T18:37:51.384Z
 estimatedTokens: 311
-keywords: [Reinstate, Policy, Input, representation, reinstating, insurance]
+keywords: [Reinstate, Policy, reinstating, insurance]
 ---
-
-# Reinstate Policy Input
 
 > Input representation for reinstating an insurance policy.
 

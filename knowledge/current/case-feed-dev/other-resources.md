@@ -5,12 +5,10 @@ topic: other-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.182Z
+lastCollected: 2026-04-07T18:37:04.895Z
 estimatedTokens: 149
 keywords: [Resources, addition, there, how, Salesforce, Classic, Publisher, JavaScript, API, Lightning, Quick, Action]
 ---
-
-# Other Resources
 
 > In addition to this guide, there are other resources available for you as you learn how
     to use the Salesforce Classic Publisher JavaScript API and Lightning Quick Action JavaScript

@@ -5,12 +5,10 @@ topic: billingaccountfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.264Z
+lastCollected: 2026-04-07T18:39:29.403Z
 estimatedTokens: 360
-keywords: [BillingAccountFeed, Feed, tracking, BillingAccount]
+keywords: [BillingAccountFeed, BillingAccount]
 ---
-
-# BillingAccountFeed
 
 > Feed tracking for BillingAccount.
 

@@ -5,12 +5,10 @@ topic: loyalty-engine-realtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.728Z
+lastCollected: 2026-04-07T18:38:07.969Z
 estimatedTokens: 368
-keywords: [Loyalty, Engine, Realtime, Output, representation, program, process, result]
+keywords: [Loyalty, Engine, Realtime, program, process, result]
 ---
-
-# Loyalty Engine Realtime
 
 > Output representation of the loyalty program process
     result.

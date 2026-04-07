@@ -5,12 +5,10 @@ topic: schedule-appointments-by-using-sharing-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.736Z
+lastCollected: 2026-04-07T18:39:21.596Z
 estimatedTokens: 1251
 keywords: [Schedule, Appointments, Sharing, Availability, case, how, external, website, Salesforce, Scheduler, APIs, users, book, invitation, URL]
 ---
-
-# Schedule Appointments by Using Sharing Availability
 
 > This use case describes how to create an external website by using the
       Salesforce Scheduler APIs that your users can use to book appointments using the invitation

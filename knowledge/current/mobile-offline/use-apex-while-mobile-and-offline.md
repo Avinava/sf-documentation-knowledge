@@ -5,12 +5,10 @@ topic: use-apex-while-mobile-and-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.382Z
+lastCollected: 2026-04-07T18:38:14.797Z
 estimatedTokens: 935
-keywords: [Apex, Mobile, Offline, Apex-backed, wire, adapters, imperative, Lightning, web, components, call, org]
+keywords: [Apex, Mobile, Offline, Apex-backed, wire, adapters, imperative, Lightning, web, call, org]
 ---
-
-# Use Apex While Mobile and Offline
 
 > Use Apex-backed wire adapters and imperative Apex in your Lightning web components to
   call Apex methods in your org.

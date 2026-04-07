@@ -5,12 +5,10 @@ topic: quotelineitemgroupclassfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.362Z
+lastCollected: 2026-04-07T18:39:57.991Z
 estimatedTokens: 302
-keywords: [QuoteLineItemGroupClassFeed, Feed, tracking, QuoteLineItemGroupClass]
+keywords: [QuoteLineItemGroupClassFeed, QuoteLineItemGroupClass]
 ---
-
-# QuoteLineItemGroupClassFeed
 
 > Feed tracking for QuoteLineItemGroupClass.
 

@@ -5,12 +5,10 @@ topic: decision-table
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.167Z
+lastCollected: 2026-04-07T18:39:03.396Z
 estimatedTokens: 386
-keywords: [Decision, outcomes, standard, custom, business, rules, define, part, metadata]
+keywords: [Decision, outcomes, standard, business, define, part, metadata]
 ---
-
-# Decision Table
 
 > A decision table provides outcomes for one or more fields of a standard or custom
     object based on the business rules that you define. The business rules can be part of a standard

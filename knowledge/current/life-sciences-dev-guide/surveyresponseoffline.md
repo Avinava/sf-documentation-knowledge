@@ -5,12 +5,10 @@ topic: surveyresponseoffline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.980Z
+lastCollected: 2026-04-07T18:38:01.875Z
 estimatedTokens: 939
-keywords: [SurveyResponseOffline, participant’s, offline, survey, including, status, participant, location, completion, time, staging, environments, API, version, 65.0]
+keywords: [SurveyResponseOffline, participant’s, offline, survey, including, status, participant, location, completion, time, staging, environments, API, 65.0]
 ---
-
-# SurveyResponseOffline
 
 > Represents information about a participant’s offline survey response, including the
       response status, participant location, and completion time, for both offline and staging

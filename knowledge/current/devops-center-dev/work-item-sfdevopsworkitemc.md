@@ -5,12 +5,10 @@ topic: work-item-sfdevopsworkitemc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.688Z
+lastCollected: 2026-04-07T18:37:28.762Z
 estimatedTokens: 2550
-keywords: [Work, Item, sf_devops__Work_Item__c, collection, metadata, changes, project, associated, environment, performed, it’s, connected, VCS, Event, handles]
+keywords: [Work, Item, sf_devops__Work_Item__c, collection, metadata, changes, project, environment, performed, it’s, connected, VCS, Event, handles, goes, number, development, lifecycle, stages, until, part, release, pipeline, orgs, DevOps, Center, installed, _devops, _Work, _Item]
 ---
-
-# Work Item (sf_devops__Work_Item__c)
 
 > Represents a collection of metadata changes in a project. A work item
          can be associated with an environment in which the work is performed. If it’s not connected

@@ -5,13 +5,11 @@ topic: brandtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.981Z
+lastCollected: 2026-04-07T18:39:30.106Z
 estimatedTokens: 301
 namespace: NamespacePrefix
 keywords: [BrandTemplate, Letterhead, HTML, EmailTemplate]
 ---
-
-# BrandTemplate
 
 > Letterhead for HTML EmailTemplate.
 

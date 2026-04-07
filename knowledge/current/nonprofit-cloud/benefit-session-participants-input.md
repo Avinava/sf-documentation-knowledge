@@ -5,12 +5,10 @@ topic: benefit-session-participants-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.684Z
+lastCollected: 2026-04-07T18:38:20.404Z
 estimatedTokens: 124
-keywords: [Benefit, Session, Participants, Input, representation, add]
+keywords: [Benefit, Session, Participants, add]
 ---
-
-# Benefit Session Participants Input
 
 > Input representation of the request to add participants to a benefit
       session.

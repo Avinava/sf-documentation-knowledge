@@ -5,12 +5,10 @@ topic: api-integration-permission-scopes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.001Z
+lastCollected: 2026-04-07T18:40:21.277Z
 estimatedTokens: 935
-keywords: [API, Integration, Permission, Scopes, let, access, Marketing, Cloud, functionality, assign, permissions, Installed, Packages, package, needs]
+keywords: [API, Integration, Permission, Scopes, let, Marketing, Cloud, functionality, assign, permissions, Installed, Packages, package, needs, scope, usually, collection, behaviors, Review, REST, Scop, Items]
 ---
-
-# API Integration Permission Scopes
 
 > To let your API integration access Marketing Cloud functionality, assign it permissions, or scopes, in Installed Packages. Assign only the scopes that your package needs. A scope usually represents a collection of related permissions and behaviors in Marketing Cloud. Review REST Permissions and Scop
 

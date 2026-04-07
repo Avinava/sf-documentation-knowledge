@@ -5,12 +5,10 @@ topic: commerce-subscription-action-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.128Z
+lastCollected: 2026-04-07T18:37:11.959Z
 estimatedTokens: 182
-keywords: [Commerce, Subscription, Action, History, Retrieve, API, authenticated, buyers]
+keywords: [Commerce, Subscription, Action, Retrieve, API, authenticated, buyers]
 ---
-
-# Commerce Subscription Action History
 
 > Retrieve the complete subscription action history for the
       specified subscription. This API is available only for authenticated buyers.

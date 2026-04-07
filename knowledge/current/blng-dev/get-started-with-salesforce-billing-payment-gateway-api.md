@@ -5,12 +5,10 @@ topic: get-started-with-salesforce-billing-payment-gateway-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.515Z
+lastCollected: 2026-04-07T18:37:03.078Z
 estimatedTokens: 176
 keywords: [Started, Salesforce, Billing, Payment, Gateway, API, enable, communication, external, gateways]
 ---
-
-# Get Started with Salesforce Billing Payment Gateway API
 
 > Use Salesforce Billing gateway API to enable communication between Salesforce Billing
   and external payment gateways.

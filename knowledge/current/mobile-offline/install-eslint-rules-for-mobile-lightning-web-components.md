@@ -5,12 +5,10 @@ topic: install-eslint-rules-for-mobile-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.534Z
+lastCollected: 2026-04-07T18:38:15.014Z
 estimatedTokens: 538
-keywords: [Install, ESLint, Rules, Mobile, Lightning, Web, Components, We’ve, created, help, develop, code, works, offline, development]
+keywords: [Install, ESLint, Mobile, Lightning, Web, We’ve, created, help, develop, code, works, offline, development, machine, run, source]
 ---
-
-# Install ESLint Rules for Mobile Lightning Web Components
 
 > We’ve created ESLint rules to help you develop code that works with mobile and offline
     Lightning web components. You can install them on your development machine and run them on your

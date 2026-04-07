@@ -5,12 +5,10 @@ topic: livechatobjectaccessconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.838Z
+lastCollected: 2026-04-07T18:38:35.072Z
 estimatedTokens: 410
-keywords: [LiveChatObjectAccessConfig, action, perform, Chat, API, version, 53.0, later, Calls, Special, Access, Rules]
+keywords: [LiveChatObjectAccessConfig, action, perform, Chat, API, 53.0]
 ---
-
-# LiveChatObjectAccessConfig
 
 > Represents the action you can perform on a specified object by the Chat
          API. This object is available in API version 53.0 and later.

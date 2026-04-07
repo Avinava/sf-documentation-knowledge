@@ -5,12 +5,10 @@ topic: rowsretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.599Z
+lastCollected: 2026-04-07T18:40:23.032Z
 estimatedTokens: 429
 keywords: [Rows.Retrieve, Function, Ordinal, filter, retrieve, **Overview**, **Syntax**]
 ---
-
-# Rows.Retrieve
 
 > Rows.Retrieve(1)
 

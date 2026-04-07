@@ -5,12 +5,10 @@ topic: offset
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:15.172Z
+lastCollected: 2026-04-07T18:40:10.144Z
 estimatedTokens: 1097
-keywords: [OFFSET, expecting, records, query’s, results, display, multiple, pages, clause, SOQL, query, 51–75, jump, displaying, 301–350]
+keywords: [OFFSET, expecting, records, query’s, results, display, multiple, pages, clause, SOQL, query, 51–75, jump, displaying, 301–350, efficient, way, handle, large, Considerations]
 ---
-
-# OFFSET
 
 > When expecting many records in a query’s results, you can display the results in
         multiple pages by using the OFFSET clause on a SOQL

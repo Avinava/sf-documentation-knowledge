@@ -5,12 +5,10 @@ topic: productdetectedpricechange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.320Z
+lastCollected: 2026-04-07T18:38:38.722Z
 estimatedTokens: 545
-keywords: [ProductDetectedPriceChange, detected, change, price, product, associated, partner, account, API, version, 63.0, later, Calls]
+keywords: [ProductDetectedPriceChange, detected, change, price, product, partner, account, API, 63.0]
 ---
-
-# ProductDetectedPriceChange
 
 > Represents a detected change in price for a product associated with a partner
          account. This object is available in API version 63.0 and later.

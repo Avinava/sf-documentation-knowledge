@@ -5,12 +5,10 @@ topic: cartitemrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.538Z
+lastCollected: 2026-04-07T18:37:26.442Z
 estimatedTokens: 881
-keywords: [CartItemRelationship, row, relationship, cart, items, API, version, 66.0, later, Calls, Special, Access, Rules]
+keywords: [CartItemRelationship, row, relationship, cart, items, API, 66.0]
 ---
-
-# CartItemRelationship
 
 > Each row represents a relationship between cart items. This object is
       available in API version 66.0 and later.

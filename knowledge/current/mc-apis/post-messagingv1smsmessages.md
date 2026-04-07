@@ -5,12 +5,10 @@ topic: post-messagingv1smsmessages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:24.936Z
+lastCollected: 2026-04-07T18:40:20.162Z
 estimatedTokens: 1023
-keywords: [POST, messaging, sms, messages, message, multiple, recipients, send, definition, provide, messageKey, otherwise, automatically, generated, **Overview**]
+keywords: [POST, messaging, sms, messages, message, multiple, recipients, send, definition, provide, messageKey, otherwise, automatically, generated, **Overview**, Mixed, Responses, HTTP]
 ---
-
-# POST /messaging/v1/sms/messages/
 
 > Sends a message to multiple recipients using a send definition. You can provide a messageKey in the request; otherwise, the messageKey is automatically generated in the response.
 

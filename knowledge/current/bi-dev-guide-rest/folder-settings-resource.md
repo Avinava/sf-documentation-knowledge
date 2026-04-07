@@ -5,12 +5,10 @@ topic: folder-settings-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.749Z
+lastCollected: 2026-04-07T18:36:56.285Z
 estimatedTokens: 159
 keywords: [Folder, Settings, Resource, updates, Analytics, app]
 ---
-
-# Folder Settings Resource
 
 > Returns or updates the settings for an Analytics app or folder
   with the specified ID.

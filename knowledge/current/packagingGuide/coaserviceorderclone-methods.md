@@ -5,12 +5,10 @@ topic: coaserviceorderclone-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.726Z
+lastCollected: 2026-04-07T18:38:45.517Z
 estimatedTokens: 78
 keywords: [COA_ServiceOrderClone, COA, _ServiceOrderClone]
 ---
-
-# COA_ServiceOrderClone Methods
 
 > The following are methods for COA_ServiceOrderClone.
 

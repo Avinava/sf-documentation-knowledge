@@ -5,12 +5,10 @@ topic: assignedresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.963Z
+lastCollected: 2026-04-07T18:39:20.739Z
 estimatedTokens: 722
-keywords: [AssignedResource, service, resource, assigned, appointment, Salesforce, Scheduler, resources, appear, appointments, API, version, 38.0, later, Calls]
+keywords: [AssignedResource, service, resource, assigned, appointment, Salesforce, Scheduler, resources, appear, appointments, API, 38.0]
 ---
-
-# AssignedResource
 
 > Represents a service resource who is assigned to a service appointment
 			in Salesforce Scheduler. Assigned resources appear in the Assigned Resources related

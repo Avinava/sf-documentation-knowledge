@@ -5,12 +5,10 @@ topic: with-spellcorrection
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.453Z
+lastCollected: 2026-04-07T18:40:10.423Z
 estimatedTokens: 192
-keywords: [SPELL_CORRECTION, clause, added, SOSL, query, spell, correction, enabled, searches, support, API, version, later, _CORRECTION, APIs]
+keywords: [SPELL_CORRECTION, clause, added, SOSL, query, spell, correction, enabled, searches, support, API, _CORRECTION, APIs]
 ---
-
-# WITH SPELL_CORRECTION
 
 > WITH
                 SPELL_CORRECTION is an optional clause that can be added to a SOSL query.

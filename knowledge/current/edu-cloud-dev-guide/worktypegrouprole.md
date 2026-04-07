@@ -5,12 +5,10 @@ topic: worktypegrouprole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.812Z
+lastCollected: 2026-04-07T18:37:31.963Z
 estimatedTokens: 439
-keywords: [WorkTypeGroupRole, grouping, work, roles, categorize, appointments, Salesforce, Scheduler, API, version, 57.0, later, Calls]
+keywords: [WorkTypeGroupRole, grouping, work, roles, categorize, appointments, Salesforce, Scheduler, API, 57.0]
 ---
-
-# WorkTypeGroupRole
 
 > Represents a grouping of work types by roles, used to categorize types of
          appointments available in Salesforce Scheduler. This object is available in API

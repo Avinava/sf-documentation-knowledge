@@ -5,12 +5,10 @@ topic: businessbrand
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.367Z
+lastCollected: 2026-04-07T18:39:30.571Z
 estimatedTokens: 336
-keywords: [BusinessBrand, unique, brand, business, belongs, parent, entity, API, version, 53.0, later]
+keywords: [BusinessBrand, unique, brand, business, belongs, parent, entity, API, 53.0]
 ---
-
-# BusinessBrand
 
 > Represents a unique brand for a business that belongs to a parent
          entity. This object is available in API version 53.0 and later.

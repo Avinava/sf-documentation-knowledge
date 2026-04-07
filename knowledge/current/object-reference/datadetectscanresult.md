@@ -5,12 +5,10 @@ topic: datadetectscanresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.781Z
+lastCollected: 2026-04-07T18:38:29.667Z
 estimatedTokens: 350
-keywords: [DataDetectScanResult, results, DataDetect, scan, policy, data, API, version, 63.0, later, Calls]
+keywords: [DataDetectScanResult, results, DataDetect, scan, policy, API, 63.0]
 ---
-
-# DataDetectScanResult
 
 > Represents the results of a DataDetect scan policy data scan. This
       object is available in API version 63.0 and later.

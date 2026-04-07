@@ -5,12 +5,10 @@ topic: addresses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.148Z
+lastCollected: 2026-04-07T18:35:45.140Z
 estimatedTokens: 121
-keywords: [Addresses, Output, representation, calculating, tax]
+keywords: [Addresses, calculating, tax]
 ---
-
-# Addresses
 
 > Output representation of the details of the addresses that are used for calculating
     tax.

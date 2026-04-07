@@ -5,12 +5,10 @@ topic: referral-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.286Z
+lastCollected: 2026-04-07T18:37:41.354Z
 estimatedTokens: 492
-keywords: [Referral, Management, patient, Salesforce, org, external, data, source]
+keywords: [Referral, Management, patient, Salesforce, org, external, source]
 ---
-
-# Referral Management
 
 > Create a patient referral in a Salesforce org from an external data
       source.

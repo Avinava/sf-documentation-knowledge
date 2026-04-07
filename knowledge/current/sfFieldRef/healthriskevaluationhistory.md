@@ -5,12 +5,10 @@ topic: healthriskevaluationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.917Z
+lastCollected: 2026-04-07T18:39:43.527Z
 estimatedTokens: 270
-keywords: [HealthRiskEvaluationHistory, History, tracked, HealthRiskEvaluation]
+keywords: [HealthRiskEvaluationHistory, tracked, HealthRiskEvaluation]
 ---
-
-# HealthRiskEvaluationHistory
 
 > History for tracked fields of HealthRiskEvaluation.
 

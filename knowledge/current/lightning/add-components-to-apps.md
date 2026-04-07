@@ -5,12 +5,10 @@ topic: add-components-to-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.667Z
+lastCollected: 2026-04-07T18:38:02.587Z
 estimatedTokens: 933
-keywords: [Add, Components, Apps, you’re, ready, app, look, built-in, base, Salesforce, framework, extending, composition, custom, building]
+keywords: [Add, Apps, you’re, ready, app, look, built-in, base, Salesforce, framework, extending, composition, building]
 ---
-
-# Add Components to Apps
 
 > When you’re ready to add components to your app, first look at the built-in base
         components that Salesforce provides with the framework. You can also use these components by

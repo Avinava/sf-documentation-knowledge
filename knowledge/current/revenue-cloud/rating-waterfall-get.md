@@ -5,12 +5,10 @@ topic: rating-waterfall-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.883Z
+lastCollected: 2026-04-07T18:35:44.900Z
 estimatedTokens: 252
 keywords: [Rating, Waterfall, persisted, stores, process, logs, insights, internal]
 ---
-
-# Rating Waterfall (GET)
 
 > Get the persisted rating waterfall that stores the process logs.
       Rating waterfall provides insights into the internal rating process.

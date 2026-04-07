@@ -5,12 +5,10 @@ topic: care-requests-update-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.644Z
+lastCollected: 2026-04-07T18:37:40.627Z
 estimatedTokens: 97
-keywords: [Care, Requests, Input, authorization]
+keywords: [Care, Requests, authorization]
 ---
-
-# Care Requests Update List Input
 
 > A list of care authorization requests to update.
 

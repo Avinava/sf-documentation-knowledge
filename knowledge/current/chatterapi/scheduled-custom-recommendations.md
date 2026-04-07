@@ -5,12 +5,10 @@ topic: scheduled-custom-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.382Z
+lastCollected: 2026-04-07T18:37:15.436Z
 estimatedTokens: 1924
-keywords: [Scheduled, Custom, Recommendations, recommendation]
+keywords: [Scheduled, Recommendations, recommendation]
 ---
-
-# Scheduled Custom Recommendations
 
 > Get a list of scheduled custom recommendations or create a scheduled
       custom recommendation.

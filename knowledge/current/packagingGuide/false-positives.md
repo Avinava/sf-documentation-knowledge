@@ -5,12 +5,10 @@ topic: false-positives
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.586Z
+lastCollected: 2026-04-07T18:38:47.526Z
 estimatedTokens: 469
-keywords: [Positives, navigate, AppExchange, security, review, process, you're, likely, encounter, positive, issues, solution, occurs, security-scanning, tool]
+keywords: [Positives, navigate, AppExchange, security, review, process, you're, likely, encounter, positive, issues, solution, occurs, security-scanning, tool, code, reviewer, flags, appears, pose, vulnerability, actually, doesn’t, Instead, flagged, nonexistent, nonexploitable, support, case, functionality]
 ---
-
-# False Positives
 
 > As you navigate the AppExchange security review process, you're likely to encounter
       false positive issues with your solution. A false positive occurs when a

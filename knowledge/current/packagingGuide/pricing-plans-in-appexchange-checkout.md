@@ -5,12 +5,10 @@ topic: pricing-plans-in-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.046Z
+lastCollected: 2026-04-07T18:38:45.881Z
 estimatedTokens: 268
-keywords: [Pricing, Plans, AppExchange, Checkout, supports, two, one-time, subscription, either, plan, charge, customers, per, user, company]
+keywords: [Pricing, Plans, AppExchange, Checkout, supports, two, one-time, subscription, either, plan, charge, customers, per, user, company, basis, customer, buys, individual, license, every, their, org, uses, solution, org-wide, means, provide, flexible, payment, options, offer, several, listing]
 ---
-
-# Pricing Plans in AppExchange Checkout
 
 > Checkout supports two types of pricing plans: one-time and subscription. For either
     type of plan, you can charge customers on a per user or per company basis. If you charge on a

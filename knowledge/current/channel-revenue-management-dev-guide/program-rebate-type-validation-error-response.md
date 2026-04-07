@@ -5,12 +5,10 @@ topic: program-rebate-type-validation-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:19.116Z
+lastCollected: 2026-04-07T18:37:05.814Z
 estimatedTokens: 120
 keywords: [Program, Rebate, Validation, Error, setup]
 ---
-
-# Program Rebate Type Validation Error Response
 
 > Represents error details for program rebate type setup validation.
 

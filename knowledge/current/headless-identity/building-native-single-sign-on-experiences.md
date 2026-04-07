@@ -5,12 +5,10 @@ topic: building-native-single-sign-on-experiences
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.538Z
+lastCollected: 2026-04-07T18:37:39.479Z
 estimatedTokens: 643
-keywords: [Building, Native, Sign-On, Experiences, configure, OAuth, 2.0, web-server, user-agent, flows, SSO, experience, app, feature, add]
+keywords: [Building, Native, Sign-On, Experiences, configure, OAuth, 2.0, web-server, user-agent, flows, SSO, experience, app, feature, add, Headless, Identity, implementation]
 ---
-
-# Building Native Single Sign-On Experiences
 
 > You can configure the OAuth 2.0 web-server and user-agent flows to create a native single
     sign-on (SSO) experience in your app. Use this feature to add SSO to your Headless Identity

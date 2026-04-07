@@ -5,12 +5,10 @@ topic: overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:20.755Z
+lastCollected: 2026-04-07T18:38:11.018Z
 estimatedTokens: 376
-keywords: [sales, service, teams, spend, time, building, customer, relationships, less, road, fine-tune, Salesforce, Maps, implementation, Apex]
+keywords: [sales, service, teams, spend, time, building, customer, relationships, less, road, fine-tune, Salesforce, Maps, implementation, Apex, estimated, travel, distances, times, locations, geographical, coordinates, addresses, retrieve, geometric, areas, perimeters, API, Performance, Considerations, Guidelines]
 ---
-
-# Overview
 
 > Get your sales and service teams to spend more time building customer relationships and
   less time on the road when you fine-tune your Salesforce Maps implementation using Apex. For

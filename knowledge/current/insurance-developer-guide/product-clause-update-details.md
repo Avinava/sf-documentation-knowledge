@@ -5,12 +5,10 @@ topic: product-clause-update-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.485Z
+lastCollected: 2026-04-07T18:37:52.674Z
 estimatedTokens: 140
-keywords: [Product, Clause, Output, representation, updated]
+keywords: [Product, Clause, updated]
 ---
-
-# Product Clause Update Details
 
 > Output representation of the details for an updated product clause.
 

@@ -5,12 +5,10 @@ topic: engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:10.356Z
+lastCollected: 2026-04-07T18:39:03.540Z
 estimatedTokens: 522
-keywords: [Engagement, objects, store, customer, service, representative]
+keywords: [Engagement, store, customer, service, representative]
 ---
-
-# Engagement
 
 > Use the engagement objects to store details about an engagement between a customer and a
   customer service representative.

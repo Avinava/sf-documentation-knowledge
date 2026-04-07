@@ -5,12 +5,10 @@ topic: database-statistics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.203Z
+lastCollected: 2026-04-07T18:39:17.884Z
 estimatedTokens: 155
-keywords: [Database, Statistics, Modern, databases, gather, amount, data, stored, inside, they, execute, queries, efficiently, Because, Salesforce’s]
+keywords: [Database, Statistics, Modern, databases, gather, amount, stored, inside, they, execute, queries, efficiently, Because, Salesforce’s, multitenant, approach, software, architecture, platform, keep, own, statistical, hel]
 ---
-
-# Database Statistics
 
 > Modern databases gather statistics on the amount and types of data stored inside of them, and
    they use this information to execute queries efficiently. Because of Salesforce’s multitenant

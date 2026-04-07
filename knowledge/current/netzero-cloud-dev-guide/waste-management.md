@@ -5,12 +5,10 @@ topic: waste-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.393Z
+lastCollected: 2026-04-07T18:38:16.982Z
 estimatedTokens: 312
-keywords: [Waste, Management, calculate, upstream, emissions, generated, operations, reporting, company, either, company-owned, controlled, third-party, treatment, disposal]
+keywords: [Waste, Management, calculate, upstream, emissions, generated, operations, reporting, company, either, company-owned, controlled, third-party, treatment, disposal, downstream, end-of-life, company's, sold, products]
 ---
-
-# Waste Management
 
 > You can calculate upstream emissions from waste generated in operations for a reporting
   company, either by company-owned/controlled operations or by third-party treatment and disposal of

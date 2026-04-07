@@ -5,12 +5,10 @@ topic: asgnrsrcapptschdevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.955Z
+lastCollected: 2026-04-07T18:39:20.730Z
 estimatedTokens: 442
-keywords: [AsgnRsrcApptSchdEvent, assigned, resources, part, various, platform, events, included, streamed, notification, received, channels, parent, can’t, subscribe]
+keywords: [AsgnRsrcApptSchdEvent, assigned, resources, part, various, platform, events, included, streamed, notification, received, channels, parent, can’t, subscribe, channel, directly, API, 50.0]
 ---
-
-# AsgnRsrcApptSchdEvent
 
 > Represents the assigned resources that are part of various platform events.
       This object is included in a streamed notification received on the channels for the parent

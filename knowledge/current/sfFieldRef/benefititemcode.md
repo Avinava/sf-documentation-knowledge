@@ -5,12 +5,10 @@ topic: benefititemcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.089Z
+lastCollected: 2026-04-07T18:39:29.196Z
 estimatedTokens: 314
-keywords: [BenefitItemCode, code, bundle, identifies, item, associated, benefit, API, version, 59.0, later]
+keywords: [BenefitItemCode, code, bundle, identifies, item, benefit, API, 59.0]
 ---
-
-# BenefitItemCode
 
 > Represents information about a code set or a code set bundle that
          identifies an item that is associated with a benefit. This object is available in API

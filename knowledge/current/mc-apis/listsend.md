@@ -5,12 +5,10 @@ topic: listsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.605Z
+lastCollected: 2026-04-07T18:40:17.790Z
 estimatedTokens: 877
-keywords: [ListSend, retrieve-only, associated, completed, send, conducted, data, extension, any, publication, multiple, retrieve, SendID, Items]
+keywords: [ListSend, retrieve-only, completed, send, conducted, extension, any, publication, multiple, retrieve, SendID, Items]
 ---
-
-# ListSend
 
 > The ListSend object specifies retrieve-only properties associated with the list for a completed send. If you conducted the send to a data extension, ListSend represents any associated publication lists. If you conducted a send to multiple lists, a ListSend retrieve on the SendID of that send would r
 

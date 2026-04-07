@@ -5,12 +5,10 @@ topic: connectapifieldchangevaluesegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.367Z
+lastCollected: 2026-04-07T18:36:06.719Z
 estimatedTokens: 127
 keywords: [ConnectApi.FieldChangeValueSegment, change, segment]
 ---
-
-# ConnectApi.FieldChangeValueSegment
 
 > Field change value segment.
 

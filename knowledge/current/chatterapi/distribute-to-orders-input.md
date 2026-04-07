@@ -6,13 +6,10 @@ topic: distribute-to-orders-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.323Z
+lastCollected: 2026-04-07T18:37:08.134Z
 estimatedTokens: 106
-keywords: [Distribute, Orders, Input, representation, element]
+keywords: [Distribute, Orders]
 ---
-
-# Distribute
-    To Orders Input
 
 > Input representation of a single element within the Distribute To
       Orders list.

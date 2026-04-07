@@ -5,12 +5,10 @@ topic: webstorecatalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.646Z
+lastCollected: 2026-04-07T18:38:44.463Z
 estimatedTokens: 475
-keywords: [WebStoreCatalog, collection, products, associated, store, API, version, 49.0, later, Calls, Special, Access, Rules, Objects]
+keywords: [WebStoreCatalog, collection, products, store, API, 49.0]
 ---
-
-# WebStoreCatalog
 
 > Represents the collection of products associated with a store.
       This object is available in API version 49.0 and later.

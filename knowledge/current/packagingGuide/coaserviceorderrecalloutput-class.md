@@ -5,12 +5,10 @@ topic: coaserviceorderrecalloutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.878Z
+lastCollected: 2026-04-07T18:38:45.704Z
 estimatedTokens: 160
-keywords: [COA_ServiceOrderRecallOutput, Wrapper, output, recall, operation, COA, _ServiceOrderRecallOutput]
+keywords: [COA_ServiceOrderRecallOutput, Wrapper, recall, operation, COA, _ServiceOrderRecallOutput]
 ---
-
-# COA_ServiceOrderRecallOutput Class
 
 > Wrapper class for output parameters returned from the recall operation.
 

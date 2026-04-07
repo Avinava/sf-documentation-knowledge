@@ -5,12 +5,10 @@ topic: account-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.136Z
+lastCollected: 2026-04-07T18:39:11.739Z
 estimatedTokens: 196
 keywords: [Account, Dimension, integration, export, configured, sales, org, CSV, exports, executed, meta, JSON]
 ---
-
-# Account Dimension
 
 > The account dimension for integration export must be configured for each sales org on
   which CSV exports is executed.

@@ -5,12 +5,10 @@ topic: user-mission-activity-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.546Z
+lastCollected: 2026-04-07T18:37:23.624Z
 estimatedTokens: 86
 keywords: [User, Mission, Activity, Status]
 ---
-
-# User Mission Activity Status
 
 > Status of mission activity for a user.
 

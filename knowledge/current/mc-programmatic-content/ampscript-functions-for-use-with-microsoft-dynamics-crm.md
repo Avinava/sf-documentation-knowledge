@@ -5,12 +5,10 @@ topic: ampscript-functions-for-use-with-microsoft-dynamics-crm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.822Z
+lastCollected: 2026-04-07T18:40:22.185Z
 estimatedTokens: 991
-keywords: [AMPscript, Functions, Microsoft, Dynamics, CRM, conjunction, Smart, Capture, landing, pages, modify, records, Salesforce, Marketing, Cloud]
+keywords: [Lookup, AMPscript, Functions, Microsoft, Dynamics, CRM, conjunction, Smart, Capture, landing, pages, modify, records, Salesforce, Marketing, Cloud, integration, system, Party]
 ---
-
-# AMPscript Functions for use with Microsoft Dynamics CRM
 
 > Use these AMPscript functions in conjunction with Smart Capture and landing pages to modify records in the Salesforce Marketing Cloud integration with the Microsoft Dynamics CRM system.
 

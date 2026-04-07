@@ -5,12 +5,10 @@ topic: picklist-including-dependent-picklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.872Z
+lastCollected: 2026-04-07T18:36:28.411Z
 estimatedTokens: 853
-keywords: [Picklist, Including, Dependent, Deprecated, definition, custom, standard, account, Version, Declarative, Metadata, File, Suffix, Directory, Location]
+keywords: [Picklist, Including, Dependent, Deprecated, definition, standard, account, Declarative, Metadata, File, Suffix, Directory, Location, Java, Sample, Wildcard, Support, Manifest]
 ---
-
-# Picklist (Including Dependent Picklist)
 
 > Deprecated. Represents a picklist (or dependent
             picklist) definition for a custom field in a custom object or a custom or standard field

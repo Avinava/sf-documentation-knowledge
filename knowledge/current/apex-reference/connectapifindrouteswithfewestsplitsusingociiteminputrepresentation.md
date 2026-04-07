@@ -5,12 +5,10 @@ topic: connectapifindrouteswithfewestsplitsusingociiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.163Z
+lastCollected: 2026-04-07T18:36:05.501Z
 estimatedTokens: 467
 keywords: [quantity, product, location, group, assigned, fulfill]
 ---
-
-# ConnectApi.FindRoutesWithFewestSplitsUsingOCIItemInputRepresentation
 
 > A quantity of a product and a location group or location assigned to
       fulfill it.

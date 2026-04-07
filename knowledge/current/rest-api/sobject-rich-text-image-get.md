@@ -5,12 +5,10 @@ topic: sobject-rich-text-image-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.230Z
+lastCollected: 2026-04-07T18:36:21.467Z
 estimatedTokens: 497
-keywords: [sObject, Rich, Text, Image, data, specific, area, record, uploaded]
+keywords: [sObject, Rich, Text, Image, specific, area, record, uploaded]
 ---
-
-# sObject Rich Text Image Get
 
 > Gets the specified image data from a specific rich text area
    field in a given record. To get an image, you must have a record with an image uploaded to a

@@ -5,12 +5,10 @@ topic: personlifeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.457Z
+lastCollected: 2026-04-07T18:39:54.002Z
 estimatedTokens: 628
 keywords: [PersonLifeEvent, life, events, individual, marriage, birth, child, birthday, engagement]
 ---
-
-# PersonLifeEvent
 
 > Represents the life events of an individual, such as marriage, birth of a
 			child, birthday, engagement.

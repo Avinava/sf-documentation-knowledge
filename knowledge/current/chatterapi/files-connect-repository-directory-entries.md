@@ -5,12 +5,10 @@ topic: files-connect-repository-directory-entries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.025Z
+lastCollected: 2026-04-07T18:37:12.925Z
 estimatedTokens: 96
 keywords: [Files, Connect, Repository, Directory, Entries, user, group]
 ---
-
-# Files Connect Repository Directory Entries
 
 > Get the user and group directory entries of a
     repository.

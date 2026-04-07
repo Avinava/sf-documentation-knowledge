@@ -5,12 +5,10 @@ topic: about-pin-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.002Z
+lastCollected: 2026-04-07T18:40:25.372Z
 estimatedTokens: 98
 keywords: [PIN, Security]
 ---
-
-# About PIN Security
 
 # About PIN Security
 

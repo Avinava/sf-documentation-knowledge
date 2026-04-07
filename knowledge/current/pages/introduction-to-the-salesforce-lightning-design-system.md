@@ -5,12 +5,10 @@ topic: introduction-to-the-salesforce-lightning-design-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.663Z
+lastCollected: 2026-04-07T18:38:52.955Z
 estimatedTokens: 747
-keywords: [Introduction, Salesforce, Lightning, Design, System, SLDS, helps, build, applications, look, feel, Experience, writing, line, CSS]
+keywords: [Introduction, Salesforce, Lightning, Design, System, SLDS, helps, build, applications, look, feel, Experience, writing, line, CSS, framework, gives, icons, color, palettes, font, developers, Core, Principles, Benefits]
 ---
-
-# Introduction to the Salesforce Lightning Design System
 
 > The Salesforce Lightning Design System (SLDS) helps you build applications with the look
   and feel of Lightning Experience without writing a single line of CSS. SLDS is a CSS framework

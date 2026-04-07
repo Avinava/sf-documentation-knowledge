@@ -5,12 +5,10 @@ topic: customize-and-localize-strings-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:33.047Z
+lastCollected: 2026-04-07T18:40:28.180Z
 estimatedTokens: 672
-keywords: [Customize, Localize, Strings, change, text, throughout, user, resource, Localizable.strings, file, Localization, bundle, languages, want, tokens]
+keywords: [Customize, Localize, Strings, change, text, throughout, user, resource, Localizable.strings, file, Localization, bundle, languages, want, tokens, match, intend, override]
 ---
-
-# Customize and Localize Strings with the
 
 > You can change the text used throughout the user interface. To customize text, create
   string resource values in a Localizable.strings file in the

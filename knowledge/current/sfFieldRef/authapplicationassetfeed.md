@@ -5,12 +5,10 @@ topic: authapplicationassetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.373Z
+lastCollected: 2026-04-07T18:39:28.435Z
 estimatedTokens: 363
-keywords: [AuthApplicationAssetFeed, Feed, tracking, AuthApplicationAsset]
+keywords: [AuthApplicationAssetFeed, AuthApplicationAsset]
 ---
-
-# AuthApplicationAssetFeed
 
 > Feed tracking for AuthApplicationAsset.
 

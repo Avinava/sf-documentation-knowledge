@@ -5,12 +5,10 @@ topic: mentoring-benefit-assignment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.063Z
+lastCollected: 2026-04-07T18:37:29.174Z
 estimatedTokens: 102
-keywords: [Mentoring, Benefit, Assignment, Input, representation, add, provider, offering’s, contact, record]
+keywords: [Mentoring, Benefit, Assignment, add, provider, offering’s, contact, record]
 ---
-
-# Mentoring Benefit Assignment Input
 
 > Input representation of the request to add a provider offering’s contact ID to the
     benefit assignment record.

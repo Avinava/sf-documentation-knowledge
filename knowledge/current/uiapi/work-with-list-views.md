@@ -5,12 +5,10 @@ topic: work-with-list-views
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.535Z
+lastCollected: 2026-04-07T18:40:10.510Z
 estimatedTokens: 806
-keywords: [Work, Views, View, resources, record, data, metadata, Salesforce]
+keywords: [Work, Views, View, resources, record, metadata, Salesforce]
 ---
-
-# Work with List Views
 
 > Use the List View resources to get record data and metadata about
       list views displayed in the Salesforce UI.

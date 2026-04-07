@@ -5,12 +5,10 @@ topic: basic-personalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.935Z
+lastCollected: 2026-04-07T18:40:22.313Z
 estimatedTokens: 409
 keywords: [Basic, Personalization, demonstrates, how, insert, city, email, message, Subscriber]
 ---
-
-# Basic Personalization
 
 > This example demonstrates how to insert the first name, last name, and city name into an email message.
 

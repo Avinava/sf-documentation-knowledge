@@ -5,12 +5,10 @@ topic: methods-available-to-experience-cloud-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.719Z
+lastCollected: 2026-04-07T18:36:16.921Z
 estimatedTokens: 6942
-keywords: [Experience, Cloud, Guest, Users, site, access, logging, Apex, user]
+keywords: [Experience, Cloud, Guest, Users, site, logging, Apex, user]
 ---
-
-# Methods Available to Experience Cloud Guest Users
 
 > If your Experience Cloud site allows access without logging in, guest users have access
         to many Apex methods. These methods return information the guest user has access

@@ -5,12 +5,10 @@ topic: modify-the-post-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.707Z
+lastCollected: 2026-04-07T18:40:09.650Z
 estimatedTokens: 294
 keywords: [Modify, Post-Chat, add, URL, chat, button, specify, whether, automatically, opens]
 ---
-
-# Modify the Post-Chat
 
 > After you add a post-chat URL for your chat button, you can specify
    whether it automatically opens or not. Valid values are true and

@@ -5,12 +5,10 @@ topic: financialdealproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.029Z
+lastCollected: 2026-04-07T18:39:40.635Z
 estimatedTokens: 276
 keywords: [FinancialDealProduct, products, services, offered, bank, deal]
 ---
-
-# FinancialDealProduct
 
 > Represents the products (services) offered by the bank in the deal.
 

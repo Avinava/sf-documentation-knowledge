@@ -5,12 +5,10 @@ topic: standardaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.111Z
+lastCollected: 2026-04-07T18:36:34.527Z
 estimatedTokens: 761
-keywords: [StandardAction, buttons, links, actions, standard, custom, API, version, 34.0, later, SOAP, Calls, REST, HTTP]
+keywords: [StandardAction, buttons, links, actions, standard, API, 34.0, SOAP, REST, HTTP]
 ---
-
-# StandardAction
 
 > Represents the buttons, links, and
             actions (standard actions) for a standard or custom object. This object is available in

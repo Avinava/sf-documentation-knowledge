@@ -5,12 +5,10 @@ topic: writing-xml-using-streams
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.641Z
+lastCollected: 2026-04-07T18:36:18.856Z
 estimatedTokens: 284
-keywords: [Writing, XML, Streams, XmlStreamWriter, enable, data, Writer]
+keywords: [Writing, XML, Streams, XmlStreamWriter, enable, Writer]
 ---
-
-# Writing XML Using Streams
 
 > The XmlStreamWriter class methods enable the writing of
 XML data.

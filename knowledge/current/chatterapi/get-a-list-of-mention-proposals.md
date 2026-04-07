@@ -5,12 +5,10 @@ topic: get-a-list-of-mention-proposals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.175Z
+lastCollected: 2026-04-07T18:37:24.223Z
 estimatedTokens: 408
 keywords: [@Mention, Proposals, Chatter]
 ---
-
-# Get a List of @Mention Proposals
 
 > Get a list of @mention proposals in Chatter.
 

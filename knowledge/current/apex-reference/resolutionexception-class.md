@@ -5,13 +5,11 @@ topic: resolutionexception-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.466Z
+lastCollected: 2026-04-07T18:35:59.743Z
 estimatedTokens: 940
 namespace: CommerceExtension
 keywords: [ResolutionException, Exception, indicating, problem, execution, resolution, strategy, errorMessage, getTypeName]
 ---
-
-# ResolutionException Class
 
 > Exception indicating a problem with the execution of a resolution strategy.
 

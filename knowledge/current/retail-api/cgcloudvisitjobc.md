@@ -5,12 +5,10 @@ topic: cgcloudvisitjobc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.075Z
+lastCollected: 2026-04-07T18:39:15.592Z
 estimatedTokens: 1903
-keywords: [cgcloud__Visit_Job__c, answered, questions, product, surveys, jobs, API, version, 54.0, later, cgcloud, _Visit, _Job, Calls, Associated]
+keywords: [cgcloud__Visit_Job__c, answered, questions, product, surveys, jobs, API, 54.0, cgcloud, _Visit, _Job]
 ---
-
-# cgcloud__Visit_Job__c
 
 > This object contains answered questions and product surveys
          (jobs). This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: continuous-integration-with-travis-ci
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.979Z
+lastCollected: 2026-04-07T18:40:07.919Z
 estimatedTokens: 163
 keywords: [Continuous, Integration, Travis, cloud-based, service, building, testing, software, projects, hosted, GitHub]
 ---
-
-# Continuous Integration with Travis CI
 
 > Travis CI is a cloud-based continuous integration (CI) service for building and testing software projects hosted on GitHub.
 

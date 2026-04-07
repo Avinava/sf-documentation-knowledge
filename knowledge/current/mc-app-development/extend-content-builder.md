@@ -5,12 +5,10 @@ topic: extend-content-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.949Z
+lastCollected: 2026-04-07T18:40:21.230Z
 estimatedTokens: 585
-keywords: [Extend, Content, Builder, includes, native, editors, block, widgets, edit, block's, give, users, customized, editing, experience]
+keywords: [Extend, Content, Builder, includes, native, editors, block, widgets, edit, block's, give, users, customized, editing, experience, editor, develop, SDK, instead, What’s, How, Widget, Work, Items]
 ---
-
-# Extend Content Builder
 
 > Content Builder includes native editors, called block widgets, used to create and edit the block's content. To give your users a customized editing experience within the Content Builder editor, you can develop custom block widgets with the Content Builder Block SDK. For example, instead of using the
 

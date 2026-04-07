@@ -5,12 +5,10 @@ topic: omnisupervisorconfigtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.150Z
+lastCollected: 2026-04-07T18:38:36.325Z
 estimatedTokens: 368
-keywords: [OmniSupervisorConfigTab, visible, tabs, Command, Center, Service, configuration, API, version, 60.0, later, Calls, Special, Access, Rules]
+keywords: [OmniSupervisorConfigTab, visible, tabs, Command, Center, Service, configuration, API, 60.0]
 ---
-
-# OmniSupervisorConfigTab
 
 > Represents the visible tabs specified in a Command Center for Service
          configuration. This object is available in API version 60.0 and later.

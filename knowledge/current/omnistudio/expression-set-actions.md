@@ -5,12 +5,10 @@ topic: expression-set-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.687Z
+lastCollected: 2026-04-07T18:36:35.154Z
 estimatedTokens: 945
-keywords: [Expression, Actions, Invoke, active, user-defined, rule, accepts, input, output, configured, function, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Expression, Actions, Invoke, active, user-defined, rule, accepts, configured, function, REST, HTTP]
 ---
-
-# Expression Set Actions
 
 > Invoke an active expression set. An expression set is a user-defined
       rule that accepts an input and returns the output based on the configured

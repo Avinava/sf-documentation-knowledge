@@ -5,12 +5,10 @@ topic: waitlist-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.625Z
+lastCollected: 2026-04-07T18:39:20.360Z
 estimatedTokens: 87
-keywords: [Waitlist, Result, Output, representation]
+keywords: [Waitlist, Result]
 ---
-
-# Waitlist Result
 
 > Output representation of the waitlist result.
 

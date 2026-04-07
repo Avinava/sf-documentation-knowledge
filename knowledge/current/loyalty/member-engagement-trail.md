@@ -5,12 +5,10 @@ topic: member-engagement-trail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.350Z
+lastCollected: 2026-04-07T18:38:07.572Z
 estimatedTokens: 245
 keywords: [Member, Engagement, Trail, Fetches, current, target, milestones, defined, rewards, received, achieving]
 ---
-
-# Member Engagement Trail
 
 > Fetches current and target values of the milestones defined in an engagement trail
         and the rewards received after achieving milestones.

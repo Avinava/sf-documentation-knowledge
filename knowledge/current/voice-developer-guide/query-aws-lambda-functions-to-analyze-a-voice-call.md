@@ -5,12 +5,10 @@ topic: query-aws-lambda-functions-to-analyze-a-voice-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.989Z
+lastCollected: 2026-04-07T18:40:12.933Z
 estimatedTokens: 755
-keywords: [Query, AWS, Lambda, Functions, Analyze, Voice, Call, function, logs, Amazon, Connect, flows, results, troubleshoot, events]
+keywords: [Query, AWS, Lambda, Functions, Analyze, Voice, Call, function, logs, Amazon, Connect, flows, results, troubleshoot, events, happen, throughout, stages]
 ---
-
-# Query AWS Lambda Functions to Analyze a Voice Call
 
 > Query AWS Lambda function logs and Amazon Connect flows, and use the
       query results to analyze and troubleshoot the events that happen throughout the stages of a

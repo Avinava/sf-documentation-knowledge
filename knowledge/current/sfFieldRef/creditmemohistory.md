@@ -5,12 +5,10 @@ topic: creditmemohistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.921Z
+lastCollected: 2026-04-07T18:39:36.475Z
 estimatedTokens: 257
-keywords: [CreditMemoHistory, History, tracked, CreditMemo]
+keywords: [CreditMemoHistory, tracked, CreditMemo]
 ---
-
-# CreditMemoHistory
 
 > History for tracked fields of CreditMemo.
 

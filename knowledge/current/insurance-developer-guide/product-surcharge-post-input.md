@@ -5,12 +5,10 @@ topic: product-surcharge-post-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.341Z
+lastCollected: 2026-04-07T18:37:51.354Z
 estimatedTokens: 397
-keywords: [Product, Surcharge, Post, Input, representation]
+keywords: [Product, Surcharge, Post]
 ---
-
-# Product Surcharge Post Input
 
 > Input representation of product surcharge details.
 

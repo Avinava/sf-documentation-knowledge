@@ -5,12 +5,10 @@ topic: reservations-transfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.945Z
+lastCollected: 2026-04-07T18:37:14.993Z
 estimatedTokens: 416
-keywords: [Reservations, Transfer, inventory, locations, location, groups, API, doesn’t, change, physical, quantities, reduces, reserved, quantity, source]
+keywords: [Reservations, Transfer, inventory, locations, location, groups, API, doesn’t, change, physical, quantities, reduces, reserved, quantity, source, increases, destination]
 ---
-
-# Reservations, Transfer
 
 > Transfer one or more inventory reservations between locations or
       location groups. This API doesn’t change physical quantities, but reduces the reserved

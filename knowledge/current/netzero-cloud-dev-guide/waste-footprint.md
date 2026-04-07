@@ -5,12 +5,10 @@ topic: waste-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.385Z
+lastCollected: 2026-04-07T18:38:16.973Z
 estimatedTokens: 775
 keywords: [Waste, Footprint, volume, aggregated, carbon, emissions, generated, either, part, operations, end, life, product]
 ---
-
-# Waste Footprint
 
 > The Waste Footprint object represents the volume of aggregated waste and carbon
     emissions from waste generated either as part of operations or at the end of life of a

@@ -5,13 +5,11 @@ topic: schema-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.783Z
+lastCollected: 2026-04-07T18:36:15.095Z
 estimatedTokens: 1259
 namespace: Schema
 keywords: [Schema, classes, metadata]
 ---
-
-# Schema Namespace
 
 > The Schema namespace
 provides classes and methods for schema metadata information.

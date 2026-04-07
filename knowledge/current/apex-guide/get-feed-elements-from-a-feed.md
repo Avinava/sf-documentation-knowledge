@@ -5,12 +5,10 @@ topic: get-feed-elements-from-a-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.761Z
+lastCollected: 2026-04-07T18:36:18.975Z
 estimatedTokens: 346
-keywords: [Feed, Elements, Call]
+keywords: [Call]
 ---
-
-# Get Feed Elements From a Feed
 
 > Call a method to get feed elements from a feed.
 

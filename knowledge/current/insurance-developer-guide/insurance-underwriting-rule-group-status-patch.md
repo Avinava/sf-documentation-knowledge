@@ -5,12 +5,10 @@ topic: insurance-underwriting-rule-group-status-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.748Z
+lastCollected: 2026-04-07T18:37:51.810Z
 estimatedTokens: 188
 keywords: [Insurance, Underwriting, Rule, Group, Status, PATCH]
 ---
-
-# Insurance Underwriting Rule Group Status (PATCH)
 
 > Update the status of an underwriting rule group.
 

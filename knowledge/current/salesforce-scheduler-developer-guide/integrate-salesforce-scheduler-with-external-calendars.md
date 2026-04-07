@@ -5,12 +5,10 @@ topic: integrate-salesforce-scheduler-with-external-calendars
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.792Z
+lastCollected: 2026-04-07T18:39:20.545Z
 estimatedTokens: 583
 keywords: [Integrate, Salesforce, Scheduler, External, Calendars, developer, resources, write, appointments, directly, events]
 ---
-
-# Integrate Salesforce Scheduler with External Calendars
 
 > Salesforce Scheduler provides developer resources that you can use to write
       appointments directly to, and read events from, external calendars.

@@ -5,12 +5,10 @@ topic: order-summaries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.594Z
+lastCollected: 2026-04-07T18:37:15.652Z
 estimatedTokens: 797
-keywords: [Order, Summaries, OrderSummary, considered, original, Subsequent, change, orders, apply, represented, specify, whether, managed, Salesforce, Management]
+keywords: [Order, Summaries, OrderSummary, considered, original, Subsequent, change, orders, apply, represented, specify, whether, managed, Salesforce, Management, external, system, APIs, run, manages]
 ---
-
-# Order Summaries
 
 > Create an OrderSummary based on an order. That order is considered
       the original order for the OrderSummary. Subsequent change orders that apply to the

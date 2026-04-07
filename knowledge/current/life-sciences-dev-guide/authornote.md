@@ -5,12 +5,10 @@ topic: authornote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.385Z
+lastCollected: 2026-04-07T18:37:56.818Z
 estimatedTokens: 1329
-keywords: [AuthorNote, Stores, notes, associated, different, records, along, author, time, authored, isn’t, necessarily, person, created, record]
+keywords: [AuthorNote, Stores, notes, different, records, along, author, time, authored, isn’t, necessarily, person, created, record, provided, API, 52.0]
 ---
-
-# AuthorNote
 
 > Stores notes associated with different types of records along with
          information about the author of the note and the time the note was authored. The author

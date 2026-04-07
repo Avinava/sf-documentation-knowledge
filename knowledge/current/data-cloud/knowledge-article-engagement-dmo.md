@@ -5,12 +5,10 @@ topic: knowledge-article-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:08.856Z
+lastCollected: 2026-04-07T18:35:53.868Z
 estimatedTokens: 3105
-keywords: [Knowledge, Article, Engagement, DMO, Stores, user, It’s, logical, subtype, EngagementAction, Provided, Ingestion, API, version, later]
+keywords: [Category, Relationships, Knowledge, Article, Engagement, DMO, Stores, user, It’s, logical, subtype, EngagementAction, Provided, Ingestion, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Knowledge Article Engagement DMO
 
 > Stores the user engagement details related to a Knowledge Article. It’s a logical
   subtype of EngagementAction. Provided by the Knowledge Engagement Ingestion API. This DMO is available in API

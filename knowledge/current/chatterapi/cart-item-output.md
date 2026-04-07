@@ -5,12 +5,10 @@ topic: cart-item-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.175Z
+lastCollected: 2026-04-07T18:37:17.245Z
 estimatedTokens: 384
-keywords: [Cart, Item, Output]
+keywords: [Cart, Item]
 ---
-
-# Cart Item Output
 
 > Item in a cart.
 

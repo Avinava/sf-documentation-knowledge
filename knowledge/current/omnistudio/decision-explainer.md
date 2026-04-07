@@ -5,12 +5,10 @@ topic: decision-explainer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.142Z
+lastCollected: 2026-04-07T18:36:40.839Z
 estimatedTokens: 259
-keywords: [Decision, Explainer, audit-like, service, applications, store, their, application, data, explain, past, events, stored, retrieved, later]
+keywords: [Decision, Explainer, audit-like, service, applications, store, their, application, explain, past, events, stored, retrieved, reporting, custom-built, user, interfaces]
 ---
-
-# Decision Explainer
 
 > Decision Explainer is an audit-like service that can be used by applications to store
     their application data to explain past events. The stored data can be retrieved later for

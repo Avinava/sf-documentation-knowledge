@@ -5,12 +5,10 @@ topic: httppost
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.088Z
+lastCollected: 2026-04-07T18:40:22.481Z
 estimatedTokens: 365
-keywords: [HTTPPost, Function, Ordinal, URL, receive, posted, content, content-type, Require, **Overview**, **Syntax**, Usage, receiving]
+keywords: [HTTPPost, Function, Ordinal, URL, receive, posted, content, content-type, Require, **Overview**, **Syntax**, receiving]
 ---
-
-# HTTPPost
 
 > HTTPPost(1, 2, 3, 4, 5, 6)
 

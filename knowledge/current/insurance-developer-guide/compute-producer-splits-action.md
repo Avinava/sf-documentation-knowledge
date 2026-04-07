@@ -5,12 +5,10 @@ topic: compute-producer-splits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.928Z
+lastCollected: 2026-04-07T18:37:48.635Z
 estimatedTokens: 294
-keywords: [Compute, Producer, Splits, Action, producers, associated, Insurance, Policy, Commission, Statement, Line, Item, Special, Access, Rules]
+keywords: [Inputs, Outputs, Compute, Producer, Splits, Action, producers, Insurance, Policy, Commission, Statement, Line, Item, REST, HTTP]
 ---
-
-# Compute Producer Splits Action
 
 > Compute the producer splits for the producers associated with an Insurance Policy, for a
   Commission Statement Line Item.

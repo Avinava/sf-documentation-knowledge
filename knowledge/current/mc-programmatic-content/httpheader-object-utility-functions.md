@@ -5,12 +5,10 @@ topic: httpheader-object-utility-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.733Z
+lastCollected: 2026-04-07T18:40:24.175Z
 estimatedTokens: 86
-keywords: [HTTPHeader, Utility, Functions, add, retrieve, remove, HTTP, Load, impression, regions, content, areas]
+keywords: [Load, HTTPHeader, Utility, Functions, add, retrieve, remove, HTTP, impression, regions, content, areas]
 ---
-
-# HTTPHeader Object Utility Functions
 
 > Use these functions to add, retrieve, and remove information from an HTTP header.
 

@@ -5,12 +5,10 @@ topic: cgcloudsalesorganizationuserc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.489Z
+lastCollected: 2026-04-07T18:39:14.881Z
 estimatedTokens: 1667
-keywords: [cgcloud__Sales_Organization_User__c, stores, relationship, sales, organization, user, API, version, 54.0, later, cgcloud, _Sales, _Organization, _User, Calls]
+keywords: [cgcloud__Sales_Organization_User__c, stores, relationship, sales, organization, user, API, 54.0, cgcloud, _Sales, _Organization, _User]
 ---
-
-# cgcloud__Sales_Organization_User__c
 
 > This object stores the details of the relationship between a sales
          organization and a user. This object is available in API version 54.0 and later.

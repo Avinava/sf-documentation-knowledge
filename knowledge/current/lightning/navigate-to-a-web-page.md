@@ -5,12 +5,10 @@ topic: navigate-to-a-web-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.273Z
+lastCollected: 2026-04-07T18:38:03.285Z
 estimatedTokens: 183
 keywords: [Navigate, Web, navigation, service, supports, different, kinds, pages, Lightning, attributes, state]
 ---
-
-# Navigate to a Web Page
 
 > The navigation service supports different kinds of pages in Lightning. Each page
     reference type supports a different set of attributes and state properties.

@@ -5,12 +5,10 @@ topic: publisherror
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.379Z
+lastCollected: 2026-04-07T18:39:23.301Z
 estimatedTokens: 643
 keywords: [publishError, Publishes, partner, connector, error, telephony, Salesforce]
 ---
-
-# publishError
 
 > Publishes a partner connector error or telephony error to
         Salesforce.

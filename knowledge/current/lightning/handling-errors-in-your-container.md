@@ -5,12 +5,10 @@ topic: handling-errors-in-your-container
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.452Z
+lastCollected: 2026-04-07T18:38:03.472Z
 estimatedTokens: 645
 keywords: [Handling, Errors, Container, Handle, Lightning, component’s, controller]
 ---
-
-# Handling Errors in Your Container
 
 > Handle errors in Lightning container with a method in your component’s
     controller.

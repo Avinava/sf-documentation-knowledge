@@ -5,12 +5,10 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.529Z
+lastCollected: 2026-04-07T18:38:17.116Z
 estimatedTokens: 1626
-keywords: [IndustriesSettings, settings, Net, Zero, Cloud, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata]
+keywords: [IndustriesSettings, settings, Net, Zero, Cloud, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesSettings
 
 > Represents settings for Net Zero Cloud.
 

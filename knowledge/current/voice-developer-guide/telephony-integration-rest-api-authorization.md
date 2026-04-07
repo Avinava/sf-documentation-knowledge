@@ -5,12 +5,10 @@ topic: telephony-integration-rest-api-authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.157Z
+lastCollected: 2026-04-07T18:40:13.102Z
 estimatedTokens: 783
-keywords: [Telephony, Integration, REST, API, Authorization, requires, JWT, Usually, provisioning, process, already, content, simply, instructions, case]
+keywords: [Telephony, Integration, REST, API, Authorization, requires, JWT, Usually, provisioning, process, already, content, simply, instructions, case, manually]
 ---
-
-# Telephony Integration REST API Authorization
 
 > The Telephony Integration REST API requires JWT authorization. Usually, the provisioning
   process already sets up this authorization for you. This content simply provides instructions in

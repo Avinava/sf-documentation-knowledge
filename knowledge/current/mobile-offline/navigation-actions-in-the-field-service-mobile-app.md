@@ -5,12 +5,10 @@ topic: navigation-actions-in-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.879Z
+lastCollected: 2026-04-07T18:38:15.371Z
 estimatedTokens: 664
-keywords: [Navigation, Actions, Service, Mobile, App, programmatic, Lightning, web, components, intended, Navigate, LWC, Native, Screen, via]
+keywords: [Navigation, Actions, Service, Mobile, App, programmatic, Lightning, web, intended, Navigate, LWC, Native, Screen, via, Deep, Link, Quick, Action, Open, Salesforce, Email, Phone, Message]
 ---
-
-# Navigation Actions in the Field Service Mobile App
 
 > Use these supported programmatic navigation actions in your Lightning web components
         intended for use in the Field Service Mobile app.

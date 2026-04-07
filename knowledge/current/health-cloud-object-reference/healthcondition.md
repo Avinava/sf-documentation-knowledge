@@ -5,12 +5,10 @@ topic: healthcondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.841Z
+lastCollected: 2026-04-07T18:37:43.022Z
 estimatedTokens: 2368
-keywords: [HealthCondition, clinical, condition, problem, any, clinically, relevant, occurrence, matter, concern, API, version, 51.0, later, Calls]
+keywords: [HealthCondition, clinical, condition, problem, any, clinically, relevant, occurrence, matter, concern, API, 51.0, Additional]
 ---
-
-# HealthCondition
 
 > Represents a clinical condition, problem, or any clinically relevant occurrence
       that is a matter of concern. This object is available in API version 51.0 and later.

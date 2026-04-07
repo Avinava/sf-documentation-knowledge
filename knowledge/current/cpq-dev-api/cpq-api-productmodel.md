@@ -5,12 +5,10 @@ topic: cpq-api-productmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.313Z
+lastCollected: 2026-04-07T18:37:27.317Z
 estimatedTokens: 293
-keywords: [CPQ, API, ProductModel, Product, model, data, Salesforce]
+keywords: [CPQ, API, ProductModel, Product, model, Salesforce]
 ---
-
-# CPQ API ProductModel
 
 > The Product model represents a product data model in Salesforce CPQ.
 

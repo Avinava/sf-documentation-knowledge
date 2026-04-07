@@ -5,12 +5,10 @@ topic: connectapipromotionproductcategoriesinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.830Z
+lastCollected: 2026-04-07T18:36:06.180Z
 estimatedTokens: 308
-keywords: [IDs, product, associated, category]
+keywords: [IDs, product, category]
 ---
-
-# ConnectApi.PromotionProductCategoriesInput
 
 > IDs of a product and associated category.
 

@@ -5,12 +5,10 @@ topic: message-segment-markup-end
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.506Z
+lastCollected: 2026-04-07T18:37:20.690Z
 estimatedTokens: 238
 keywords: [Message, Segment, Markup, End, rich, text]
 ---
-
-# Message Segment: Markup End
 
 > End of rich text markup.
 

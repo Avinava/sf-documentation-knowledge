@@ -5,12 +5,10 @@ topic: recordactionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:48.177Z
+lastCollected: 2026-04-07T18:38:39.756Z
 estimatedTokens: 1170
-keywords: [RecordActionHistory, lifecycle, RecordAction, goes, different, states, API, version, 44.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [RecordActionHistory, lifecycle, RecordAction, goes, different, states, API, 44.0, Java]
 ---
-
-# RecordActionHistory
 
 > Represents the lifecycle of a RecordAction as it goes through
          different states. Available in API version 44.0 and later.

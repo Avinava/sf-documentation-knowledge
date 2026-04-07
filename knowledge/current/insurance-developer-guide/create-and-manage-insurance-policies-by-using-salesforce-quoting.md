@@ -5,12 +5,10 @@ topic: create-and-manage-insurance-policies-by-using-salesforce-quoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.027Z
+lastCollected: 2026-04-07T18:37:53.301Z
 estimatedTokens: 968
-keywords: [Manage, Insurance, Policies, Salesforce, Quoting, how, effectively, Policy, Connect, APIs, along, associated, invocable, actions, build]
+keywords: [Manage, Insurance, Policies, Salesforce, Quoting, how, effectively, Policy, Connect, APIs, along, invocable, actions, build, comprehensive, user, journeys, Flows, Omniscripts]
 ---
-
-# Create and Manage Insurance Policies by Using Salesforce Quoting
 
 > Learn how to effectively use the Insurance Policy and Quoting Connect APIs, along with
     the associated invocable actions, to build comprehensive user journeys by using Salesforce Flows

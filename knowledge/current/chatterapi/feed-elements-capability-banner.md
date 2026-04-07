@@ -5,12 +5,10 @@ topic: feed-elements-capability-banner
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.601Z
+lastCollected: 2026-04-07T18:37:13.548Z
 estimatedTokens: 199
-keywords: [Feed, Elements, Capability, Banner, Access, element]
+keywords: [Capability, Banner]
 ---
-
-# Feed Elements Capability, Banner
 
 > Access the banner capability of a feed element.
 

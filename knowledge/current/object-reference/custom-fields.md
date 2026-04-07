@@ -5,12 +5,10 @@ topic: custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.016Z
+lastCollected: 2026-04-07T18:38:23.888Z
 estimatedTokens: 1063
-keywords: [Custom, Salesforce, administrators, define, standard, objects, their, organization, user, creation, flag—a, object—is, Client, applications, cannot]
+keywords: [Salesforce, administrators, define, standard, their, organization, user, creation, flag—a, object—is, Client, applications, cannot, via, API, Usually, Support, Naming, Conventions, External, Attribute, Uniqueness, Managed, Packages]
 ---
-
-# Custom Fields
 
 > Salesforce administrators can define custom fields for standard or custom objects in their
    organization using the user interface. During creation, the custom

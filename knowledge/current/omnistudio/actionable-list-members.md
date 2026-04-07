@@ -5,12 +5,10 @@ topic: actionable-list-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:49.582Z
+lastCollected: 2026-04-07T18:36:35.046Z
 estimatedTokens: 491
-keywords: [Actionable, Members, Help, creators, view, prospects, including, customers, Enable, assign, sales, agents, service, engage, build]
+keywords: [Actionable, Members, Help, creators, view, prospects, including, customers, Enable, assign, sales, agents, service, engage, build, trusted, relationships]
 ---
-
-# Actionable List Members
 
 > Help list creators view actionable list members or prospects, including the existing
     customers. Enable list creators to set up and assign actionable lists to sales agents or service

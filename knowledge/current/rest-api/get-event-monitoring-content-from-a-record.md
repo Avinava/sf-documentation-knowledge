@@ -5,12 +5,10 @@ topic: get-event-monitoring-content-from-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.610Z
+lastCollected: 2026-04-07T18:36:19.835Z
 estimatedTokens: 187
-keywords: [Event, Monitoring, Content, Record, sObject, Blob, Retrieve, resource, data]
+keywords: [Event, Monitoring, Content, Record, sObject, Blob, Retrieve, resource]
 ---
-
-# Get Event Monitoring Content from a Record
 
 > Use the sObject Blob
 		Retrieve resource to retrieve BLOB data for a given record.

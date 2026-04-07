@@ -5,12 +5,10 @@ topic: personlocationavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.430Z
+lastCollected: 2026-04-07T18:38:23.332Z
 estimatedTokens: 946
-keywords: [PersonLocationAvailability, availability, person, specific, location, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [PersonLocationAvailability, availability, person, specific, location, API, 64.0]
 ---
-
-# PersonLocationAvailability
 
 > Represents a the availability of a person at a specific
          location.. This object is available in API version 64.0 and later.

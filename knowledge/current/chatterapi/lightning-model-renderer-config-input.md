@@ -5,12 +5,10 @@ topic: lightning-model-renderer-config-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.981Z
+lastCollected: 2026-04-07T18:37:08.793Z
 estimatedTokens: 211
-keywords: [Lightning, Model, Renderer, Config, Input, configuration]
+keywords: [Lightning, Model, Renderer, Config, configuration]
 ---
-
-# Lightning Model Renderer Config Input
 
 > Input for lightning model type renderer configuration.
 

@@ -5,12 +5,10 @@ topic: barcodescanner-examplemodern-scanning-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.081Z
+lastCollected: 2026-04-07T18:38:15.602Z
 estimatedTokens: 211
-keywords: [BarcodeScanner, Example–Modern, Scanning, API, Here’s, Lightning, web, component, uses, scan, multiple, barcodes, simultaneously, process, batch]
+keywords: [BarcodeScanner, Example–Modern, Scanning, API, Here’s, Lightning, web, uses, scan, multiple, barcodes, simultaneously, process, batch, completed]
 ---
-
-# BarcodeScanner Example–Modern Scanning API
 
 > Here’s a complete example of a Lightning web component that uses BarcodeScanner to scan
     multiple barcodes simultaneously and process them in a batch after scanning is

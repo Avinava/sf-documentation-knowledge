@@ -5,12 +5,10 @@ topic: mute-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.156Z
+lastCollected: 2026-04-07T18:37:10.838Z
 estimatedTokens: 1186
-keywords: [Mute, Feed, Resources, containing, elements, context, user, muted, URL]
+keywords: [Mute, Resources, containing, context, user, muted, URL]
 ---
-
-# Mute Feed Resources
 
 > A feed containing feed elements that the context user
    muted.

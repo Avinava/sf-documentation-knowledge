@@ -5,12 +5,10 @@ topic: platform-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.176Z
+lastCollected: 2026-04-07T18:40:23.611Z
 estimatedTokens: 107
-keywords: [Platform, Functions, Server-side, JavaScript, allow, standard, JSON, functionality, interact, Marketing, Cloud, objects, function, email, messages]
+keywords: [Platform, Functions, Server-side, JavaScript, allow, standard, JSON, functionality, interact, Marketing, Cloud, function, email, messages, mobile, CloudPages, microsites, landing, pages, Because, exist, outside]
 ---
-
-# Platform Functions
 
 > Platform Server-side JavaScript functions allow you to use standard JSON and JavaScript functionality to interact with the Marketing Cloud platform. Platform objects can function within email messages, mobile messages, CloudPages, microsites, and landing pages. Because platform objects exist outside
 

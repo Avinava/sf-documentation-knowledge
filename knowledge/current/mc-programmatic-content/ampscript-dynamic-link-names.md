@@ -5,12 +5,10 @@ topic: ampscript-dynamic-link-names
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.818Z
+lastCollected: 2026-04-07T18:40:22.180Z
 estimatedTokens: 247
-keywords: [AMPscript, Dynamic, Link, functionality, lets, include, content, including, substitution, strings, function, calls, assigned, track, resolved]
+keywords: [AMPscript, Dynamic, Link, functionality, lets, include, content, including, substitution, strings, function, assigned, track, resolved]
 ---
-
-# AMPscript Dynamic Link Names
 
 > This functionality lets you include dynamic content, including substitution strings and AMPscript function calls, in the name assigned to a link. You can then track the link by the resolved values.
 

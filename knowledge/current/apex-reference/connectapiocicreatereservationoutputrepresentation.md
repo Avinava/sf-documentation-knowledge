@@ -5,12 +5,10 @@ topic: connectapiocicreatereservationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.065Z
+lastCollected: 2026-04-07T18:36:10.366Z
 estimatedTokens: 183
 keywords: [Result, Omnichannel, Inventory, reservation, creation]
 ---
-
-# ConnectApi.OCICreateReservationOutputRepresentation
 
 > Result of an Omnichannel Inventory reservation creation
       request.

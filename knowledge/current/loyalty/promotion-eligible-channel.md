@@ -5,12 +5,10 @@ topic: promotion-eligible-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.909Z
+lastCollected: 2026-04-07T18:38:08.166Z
 estimatedTokens: 244
-keywords: [Promotion, Eligible, Channel, Output, representation]
+keywords: [Promotion, Eligible, Channel]
 ---
-
-# Promotion Eligible Channel
 
 > Output representation of the eligible channel for a promotion.
 

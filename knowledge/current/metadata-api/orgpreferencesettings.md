@@ -5,12 +5,10 @@ topic: orgpreferencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.674Z
+lastCollected: 2026-04-07T18:36:28.210Z
 estimatedTokens: 997
-keywords: [OrgPreferenceSettings, Removed, API, version, 48.0, unique, org, preference, settings, Salesforce, File, Suffix, Directory, Location, OrganizationSettingsDetail]
+keywords: [OrgPreferenceSettings, OrganizationSettingsDetail, Removed, API, 48.0, unique, org, preference, settings, Salesforce, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# OrgPreferenceSettings
 
 > Removed in API version 48.0. Represents the
             unique org preference settings in a Salesforce org.

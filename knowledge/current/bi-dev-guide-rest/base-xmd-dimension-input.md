@@ -5,12 +5,10 @@ topic: base-xmd-dimension-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.773Z
+lastCollected: 2026-04-07T18:36:55.185Z
 estimatedTokens: 620
-keywords: [Base, Xmd, Dimension, Input, dimensions, derived]
+keywords: [Base, Xmd, Dimension, dimensions, derived]
 ---
-
-# Base Xmd Dimension Input
 
 > The base Xmd dimension for dimensions and derived dimensions.
 

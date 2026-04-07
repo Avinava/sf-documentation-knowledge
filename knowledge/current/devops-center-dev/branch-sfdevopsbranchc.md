@@ -5,12 +5,10 @@ topic: branch-sfdevopsbranchc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.501Z
+lastCollected: 2026-04-07T18:37:28.518Z
 estimatedTokens: 942
-keywords: [Branch, sf_devops__Branch__c, Stores, state, source, control, repository, version, system, VCS, DevOps, Center, model, child, lives]
+keywords: [Branch, sf_devops__Branch__c, Stores, state, source, control, repository, system, VCS, DevOps, Center, model, child, lives, Work, Item, Pipeline, Stage, records, refer, orgs, installed, _devops, _Branch]
 ---
-
-# Branch (sf_devops__Branch__c)
 
 > Stores the state of a branch in the source control repository (also version
          control system, or VCS). In the DevOps Center object model, this object is a child of the

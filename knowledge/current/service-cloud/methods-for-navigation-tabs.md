@@ -5,12 +5,10 @@ topic: methods-for-navigation-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.212Z
+lastCollected: 2026-04-07T18:36:50.419Z
 estimatedTokens: 343
-keywords: [Navigation, Tabs, Salesforce, console, displays, tab, users, select, objects, view, home, pages, Administrators, choose, access]
+keywords: [Navigation, Tabs, Salesforce, console, displays, tab, users, select, view, home, pages, Administrators, choose]
 ---
-
-# Methods for Navigation Tabs
 
 > A Salesforce console displays a navigation tab from which users can select objects to view lists
    or home pages. Administrators choose the objects that users can access from a navigation tab.

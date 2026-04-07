@@ -5,12 +5,10 @@ topic: debug-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.064Z
+lastCollected: 2026-04-07T18:40:08.016Z
 estimatedTokens: 607
-keywords: [Debug, Apex, Salesforce, Extensions, Visual, Studio, Code, development, tasks, choice, Debugger, Whichever, chose, breakpoints, classes]
+keywords: [Debug, Apex, Salesforce, Extensions, Visual, Studio, Code, development, tasks, choice, Debugger, Whichever, chose, breakpoints, classes, step, their, execution, inspect, real, time, bugs, run, tests, command, line, Replay, Interactive, ISV, Customer]
 ---
-
-# Debug Apex
 
 > If you use Salesforce Extensions for Visual Studio Code (VS Code) for your development
     tasks, you have a choice of Apex Debugger extensions. Whichever debugger you chose, you set

@@ -5,12 +5,10 @@ topic: applicationformtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.489Z
+lastCollected: 2026-04-07T18:39:26.435Z
 estimatedTokens: 465
-keywords: [ApplicationFormTemplate, capture, application, metadata, template, tracking, processing, API, version, 59.0, later]
+keywords: [ApplicationFormTemplate, capture, application, metadata, template, processing, API, 59.0]
 ---
-
-# ApplicationFormTemplate
 
 > Represents the fields to capture application metadata as a template which is
          used in application tracking and processing. This object is available in API version

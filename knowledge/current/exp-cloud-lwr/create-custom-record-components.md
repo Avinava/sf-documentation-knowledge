@@ -5,12 +5,10 @@ topic: create-custom-record-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.778Z
+lastCollected: 2026-04-07T18:37:33.048Z
 estimatedTokens: 709
-keywords: [Custom, Record, Components, Build, Own, LWR, template, doesn’t, include, User, API, construct, Cell, Navigate, Action]
+keywords: [Record, Build, Own, LWR, template, doesn’t, include, User, API, construct, Cell, Navigate, Action]
 ---
-
-# Create Custom Record Components
 
 > The Build Your Own (LWR) template doesn’t include record components, but you can use
     the User Interface API to construct your own custom components.

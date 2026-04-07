@@ -5,12 +5,10 @@ topic: getcapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.440Z
+lastCollected: 2026-04-07T18:39:23.379Z
 estimatedTokens: 246
-keywords: [getCapabilities, partner, telephony, capabilities, Availability]
+keywords: [Availability, getCapabilities, partner, telephony, capabilities]
 ---
-
-# getCapabilities
 
 > Get the partner telephony capabilities.
 

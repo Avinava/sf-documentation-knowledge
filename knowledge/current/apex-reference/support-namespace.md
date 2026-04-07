@@ -5,13 +5,11 @@ topic: support-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.807Z
+lastCollected: 2026-04-07T18:36:15.118Z
 estimatedTokens: 204
 namespace: Support
-keywords: [Support, Case, Feed]
+keywords: [Support, Case]
 ---
-
-# Support Namespace
 
 > The Support namespace provides an interface used
 for Case Feed.

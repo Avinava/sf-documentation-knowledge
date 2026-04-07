@@ -6,13 +6,10 @@ topic: requirements-for-the-for-android-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.635Z
+lastCollected: 2026-04-07T18:40:27.785Z
 estimatedTokens: 463
 keywords: [Requirements, Android, Salesforce, org, SDK, development, mobile, app, Service, Chat, Permission]
 ---
-
-# Requirements for the  for Android for
-   Android
 
 > The Salesforce org, SDK development, and mobile app requirements for using the Service
   Chat SDK.

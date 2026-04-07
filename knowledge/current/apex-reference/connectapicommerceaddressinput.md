@@ -5,12 +5,10 @@ topic: connectapicommerceaddressinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.686Z
+lastCollected: 2026-04-07T18:36:05.047Z
 estimatedTokens: 444
-keywords: [ConnectApi.CommerceAddressInput, Commerce, address, input]
+keywords: [ConnectApi.CommerceAddressInput, Commerce, address]
 ---
-
-# ConnectApi.CommerceAddressInput
 
 > Commerce address input.
 

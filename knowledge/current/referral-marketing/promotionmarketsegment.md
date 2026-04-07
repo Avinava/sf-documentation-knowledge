@@ -5,12 +5,10 @@ topic: promotionmarketsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.728Z
+lastCollected: 2026-04-07T18:39:10.155Z
 estimatedTokens: 654
-keywords: [PromotionMarketSegment, junction, promotion, Data, Cloud, segment, Associate, want, contacts, associated, join, advocates, referral, API, version]
+keywords: [PromotionMarketSegment, junction, promotion, Cloud, segment, Associate, want, contacts, join, advocates, referral, API, 59.0, B2C, programs]
 ---
-
-# PromotionMarketSegment
 
 > Represents a junction between a promotion and a Data Cloud segment.
          Associate a promotion with a segment when you want only the contacts associated with the

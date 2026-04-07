@@ -5,12 +5,10 @@ topic: personalization-target-developer-and-group-names
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.849Z
+lastCollected: 2026-04-07T18:37:26.791Z
 estimatedTokens: 1966
-keywords: [Personalization, Target, Developer, Group, Determine, experience, variation, targets, Connect, REST, API, Metadata, personalize, Builder, site]
+keywords: [Personalization, Target, Developer, Group, Determine, experience, variation, targets, Connect, REST, API, Metadata, personalize, Builder, site, Variations, Branding, Visibility, Attributes]
 ---
-
-# Personalization Target Developer and Group Names
 
 > Determine the developer name and group name for your experience variation targets when
     using Connect REST API or Metadata API to personalize your Experience Builder site.

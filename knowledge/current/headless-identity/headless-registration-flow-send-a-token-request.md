@@ -5,12 +5,10 @@ topic: headless-registration-flow-send-a-token-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.496Z
+lastCollected: 2026-04-07T18:37:39.434Z
 estimatedTokens: 348
-keywords: [Headless, Registration, Flow, Send, Token, receive, authorization, code, Salesforce, exchange, access, walks, initializing, Postman]
+keywords: [Headless, Registration, Flow, Send, Token, receive, authorization, code, Salesforce, exchange, walks, initializing, Postman]
 ---
-
-# Headless Registration Flow: Send a Token Request
 
 > After you receive the authorization code from Salesforce, exchange the code for an
   access token. This example walks you through initializing the code exchange with

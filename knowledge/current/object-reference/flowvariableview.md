@@ -5,12 +5,10 @@ topic: flowvariableview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.783Z
+lastCollected: 2026-04-07T18:38:32.769Z
 estimatedTokens: 503
-keywords: [FlowVariableView, variable, flow, version, API, 46.0, later, Calls, Usage]
+keywords: [FlowVariableView, variable, flow, API, 46.0]
 ---
-
-# FlowVariableView
 
 > Represents a variable within the flow version. This object is
       available in API version 46.0 and later.

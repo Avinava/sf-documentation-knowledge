@@ -5,12 +5,10 @@ topic: query-calculated-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.254Z
+lastCollected: 2026-04-07T18:35:51.111Z
 estimatedTokens: 545
-keywords: [Query, Calculated, Insights, API, calls, support, data, collection, Cloud, selected, SQL, dimensions, measures, filters, Key]
+keywords: [Query, Calculated, Insights, API, support, collection, Cloud, selected, SQL, dimensions, measures, filters, Key, Call]
 ---
-
-# Query Calculated Insights
 
 > The Calculated Insights API calls only support data collection from the Data Cloud Calculated Insights object. You can use this API to query Calculated
     Insights with selected SQL dimensions and measures with optional filters.

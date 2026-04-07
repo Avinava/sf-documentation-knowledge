@@ -5,12 +5,10 @@ topic: authenticate-between-workcom-and-other-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.890Z
+lastCollected: 2026-04-07T18:40:13.863Z
 estimatedTokens: 249
-keywords: [Authenticate, Work.com, Orgs, installed, new, dedicated, org, solution, access, original, strategy, authenticating]
+keywords: [Authenticate, Work.com, Orgs, installed, new, dedicated, org, solution, original, strategy, authenticating]
 ---
-
-# Authenticate Between Work.com and Other Orgs
 
 > If Work.com has been installed in a new, dedicated org, but your solution must access
     the original org, you need a strategy for authenticating to the other org.

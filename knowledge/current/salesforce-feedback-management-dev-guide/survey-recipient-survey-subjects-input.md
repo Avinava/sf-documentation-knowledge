@@ -5,12 +5,10 @@ topic: survey-recipient-survey-subjects-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.338Z
+lastCollected: 2026-04-07T18:39:16.960Z
 estimatedTokens: 121
-keywords: [Survey, Recipient, Subjects, Input, Records, associated, invitation]
+keywords: [Survey, Recipient, Subjects, Records, invitation]
 ---
-
-# Survey Recipient Survey Subjects Input
 
 > Records associated with the survey invitation.
 

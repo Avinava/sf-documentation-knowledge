@@ -5,12 +5,10 @@ topic: bucket-date-time-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.424Z
+lastCollected: 2026-04-07T18:39:18.120Z
 estimatedTokens: 128
-keywords: [Bucket, Date, Time, Input, node, recipe]
+keywords: [Bucket, Date, Time, node, recipe]
 ---
-
-# Bucket Date Time Field Input
 
 > A  date time field for a bucket node in a recipe.
 

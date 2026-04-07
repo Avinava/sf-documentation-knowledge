@@ -5,12 +5,10 @@ topic: getcallback
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.297Z
+lastCollected: 2026-04-07T18:38:05.501Z
 estimatedTokens: 366
-keywords: [getCallback, $A.getCallback, wrap, any, code, modifies, component, outside, normal, rerendering, lifecycle, setTimeout, call, ensures, framework]
+keywords: [getCallback, $A.getCallback, wrap, any, code, modifies, outside, normal, rerendering, lifecycle, setTimeout, call, ensures, framework, rerenders, modified, processes, enqueued, actions, Sample]
 ---
-
-# getCallback()
 
 > Use $A.getCallback() to wrap
    any code that modifies a component outside the normal rerendering lifecycle, such as in a setTimeout() call. The $A.getCallback() call ensures that the framework rerenders the modified component and

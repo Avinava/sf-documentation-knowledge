@@ -5,12 +5,10 @@ topic: yourgatewayname
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.637Z
+lastCollected: 2026-04-07T18:37:03.205Z
 estimatedTokens: 208
 keywords: [YourGatewayName, base, user, gateway, API, classes, different, needs, However, we've, provided, template, help, own]
 ---
-
-# YourGatewayName
 
 > YourGateWayName is a base class. All user gateway API classes will be different based
         on your needs. However, we've provided a template that you can use to help create your

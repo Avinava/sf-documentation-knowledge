@@ -5,12 +5,10 @@ topic: troubleshoot-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.462Z
+lastCollected: 2026-04-07T18:40:09.410Z
 estimatedTokens: 684
 keywords: [Troubleshoot, Salesforce, CLI, Here’s, errors, how, fix]
 ---
-
-# Troubleshoot Salesforce CLI
 
 > Here’s a list of Salesforce CLI errors and how to fix them.
 

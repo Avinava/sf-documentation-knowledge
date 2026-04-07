@@ -5,12 +5,10 @@ topic: get-smsv1contactsrefreshlistidstatustokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.175Z
+lastCollected: 2026-04-07T18:40:17.329Z
 estimatedTokens: 208
-keywords: [sms, contacts, refreshList, status, tokenId, Retrieves, refresh, **Overview**, Usage]
+keywords: [sms, contacts, refreshList, status, tokenId, Retrieves, refresh, **Overview**]
 ---
-
-# GET /sms/v1/contacts/refreshList/{id}/status/{tokenId}
 
 > Retrieves the refresh list status.
 

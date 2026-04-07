@@ -5,12 +5,10 @@ topic: oci-batch-update-single-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.479Z
+lastCollected: 2026-04-07T18:37:09.248Z
 estimatedTokens: 311
-keywords: [OCI, Batch, Input, inventory, record]
+keywords: [OCI, Batch, inventory, record]
 ---
-
-# OCI Batch Update Single Input
 
 > Details of one inventory record to update in a batch update.
 

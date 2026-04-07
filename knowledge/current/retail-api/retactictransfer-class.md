@@ -5,12 +5,10 @@ topic: retactictransfer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.065Z
+lastCollected: 2026-04-07T18:39:10.529Z
 estimatedTokens: 413
-keywords: [RE_TacticTransfer, Apex, programmatic, access, sObject, sObjects, _TacticTransfer, Implementation]
+keywords: [RE_TacticTransfer, Apex, programmatic, sObject, sObjects, _TacticTransfer, Implementation]
 ---
-
-# RE_TacticTransfer Class
 
 > The RE_TacticTransfer Apex class provides
   programmatic access to the RE_TacticTransfer sObject and its

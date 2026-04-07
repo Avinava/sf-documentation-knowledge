@@ -5,12 +5,10 @@ topic: rebatepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.083Z
+lastCollected: 2026-04-07T18:37:06.790Z
 estimatedTokens: 220
-keywords: [RebatePayment, Tracks, payment, generated, member, back, end, processing, API, version, 51.0, later, Calls]
+keywords: [RebatePayment, Tracks, payment, generated, member, back, end, processing, API, 51.0]
 ---
-
-# RebatePayment
 
 > Tracks if the payment has been generated for this member for back end
       processing. This object is available in API version 51.0 and later.

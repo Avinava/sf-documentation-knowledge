@@ -5,12 +5,10 @@ topic: work-item-promote-sfdevopsworkitempromotec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.718Z
+lastCollected: 2026-04-07T18:37:28.803Z
 estimatedTokens: 1503
-keywords: [Work, Item, Promote, sf_devops__Work_Item_Promote__c, unbundled, promotion, stage, pipeline, Promotions, Deeper, Look, orgs, DevOps, Center, installed]
+keywords: [Work, Item, Promote, sf_devops__Work_Item_Promote__c, unbundled, promotion, stage, pipeline, Promotions, Deeper, Look, orgs, DevOps, Center, installed, _devops, _Work, _Item, _Promote]
 ---
-
-# Work Item Promote (sf_devops__Work_Item_Promote__c)
 
 > Represents the unbundled promotion of a work item to the next stage
          in a pipeline. See Unbundled Promotions: A Deeper Look for more information. This

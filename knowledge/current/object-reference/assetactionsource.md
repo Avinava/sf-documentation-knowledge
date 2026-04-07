@@ -5,12 +5,10 @@ topic: assetactionsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.138Z
+lastCollected: 2026-04-07T18:38:26.080Z
 estimatedTokens: 2167
-keywords: [AssetActionSource, way, record, transactions, caused, changes, lifecycle-managed, assets, trace, financial, asset, actions, supports, Salesforce, order]
+keywords: [AssetActionSource, way, record, transactions, caused, changes, lifecycle-managed, assets, trace, financial, asset, actions, supports, Salesforce, order, products, work, line, items, transaction, IDs, systems, can’t, edited, API, 50.0]
 ---
-
-# AssetActionSource
 
 > Represents an optional way to record what transactions caused changes to
          lifecycle-managed assets. Use it to trace financial and other information about asset

@@ -5,12 +5,10 @@ topic: connectapidaterecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.246Z
+lastCollected: 2026-04-07T18:36:08.663Z
 estimatedTokens: 107
 keywords: [ConnectApi.DateRecordField, Record, containing, date]
 ---
-
-# ConnectApi.DateRecordField
 
 > Record field containing a date.
 

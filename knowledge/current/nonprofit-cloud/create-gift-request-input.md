@@ -5,12 +5,10 @@ topic: create-gift-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.749Z
+lastCollected: 2026-04-07T18:38:20.482Z
 estimatedTokens: 732
-keywords: [Gift, Input, representation, data, new, accepts, standard, custom, donor, account, transaction, appear, include, customFields, relevant]
+keywords: [Gift, new, accepts, standard, donor, account, transaction, appear, include, customFields, relevant]
 ---
-
-# Create Gift Request Input
 
 > Input representation of the data required to create a new gift. This request body
     accepts both standard and custom fields for donor account and gift transaction. If a standard

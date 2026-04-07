@@ -5,12 +5,10 @@ topic: upload-attachments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.190Z
+lastCollected: 2026-04-07T18:37:28.228Z
 estimatedTokens: 505
-keywords: [Upload, Attachments, Data, Loader, Salesforce]
+keywords: [Upload, Attachments, Loader, Salesforce]
 ---
-
-# Upload Attachments
 
 > Use Data Loader to upload attachments to Salesforce.
 

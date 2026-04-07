@@ -5,12 +5,10 @@ topic: jobpositionqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.867Z
+lastCollected: 2026-04-07T18:39:07.022Z
 estimatedTokens: 517
-keywords: [JobPositionQualification, qualification, specific, job, position, Data, Visualization, Program, Management, Analyst, API, version, 64.0, later, Calls]
+keywords: [JobPositionQualification, qualification, specific, job, position, Visualization, Program, Management, Analyst, API, 64.0]
 ---
-
-# JobPositionQualification
 
 > Represents qualification required for a specific job position. For example,
          Data Visualization for a Program and Management Analyst position. This object is

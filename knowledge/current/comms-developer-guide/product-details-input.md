@@ -5,12 +5,10 @@ topic: product-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.153Z
+lastCollected: 2026-04-07T18:37:26.069Z
 estimatedTokens: 939
-keywords: [Product, Input, representation]
+keywords: [Product]
 ---
-
-# Product Details Input
 
 > Input representation of the request to get product details.
 

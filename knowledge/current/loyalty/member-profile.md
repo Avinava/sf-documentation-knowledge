@@ -5,12 +5,10 @@ topic: member-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.357Z
+lastCollected: 2026-04-07T18:38:07.579Z
 estimatedTokens: 380
-keywords: [Member, Profile, loyalty, program, Output, representation, asynchronously, requesting, data, API, Resource, Input, Sample]
+keywords: [Member, Profile, loyalty, program, Resource, asynchronously, requesting, API, Sample]
 ---
-
-# Member Profile
 
 > Output representation of the details of a loyalty program
     member.

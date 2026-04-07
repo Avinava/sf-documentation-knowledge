@@ -5,12 +5,10 @@ topic: einstein-prompt-template-mask-data-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.481Z
+lastCollected: 2026-04-07T18:37:18.569Z
 estimatedTokens: 119
-keywords: [Einstein, Prompt, Template, Mask, Data, Representation, masked]
+keywords: [Einstein, Prompt, Template, Mask, masked]
 ---
-
-# Einstein Prompt Template Mask Data Representation
 
 > Information about masked data for a prompt template.
 

@@ -5,12 +5,10 @@ topic: lifescimetadatarecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.983Z
+lastCollected: 2026-04-07T18:38:00.769Z
 estimatedTokens: 968
-keywords: [LifeSciMetadataRecord, configuration, record, Life, Sciences, child, LifeSciMetadataCategory, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [LifeSciMetadataRecord, configuration, record, Life, Sciences, child, LifeSciMetadataCategory, API, 65.0]
 ---
-
-# LifeSciMetadataRecord
 
 > Represents a configuration record for Life Sciences. This object is a child
          of LifeSciMetadataCategory.  This object is available in API version 65.0 and

@@ -5,12 +5,10 @@ topic: considerations-for-multiple-notifications-in-the-same-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:05.338Z
+lastCollected: 2026-04-07T18:36:51.679Z
 estimatedTokens: 384
 keywords: [Considerations, Multiple, Notifications, Transaction, behavior, Streaming, API, delivered]
 ---
-
-# Considerations for Multiple Notifications in the Same Transaction
 
 > Learn about the behavior of Streaming API when multiple
       notifications are delivered within the same transaction.

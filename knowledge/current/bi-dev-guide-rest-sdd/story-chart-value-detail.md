@@ -5,12 +5,10 @@ topic: story-chart-value-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.501Z
+lastCollected: 2026-04-07T18:36:59.998Z
 estimatedTokens: 767
 keywords: [Story, Chart, Detail]
 ---
-
-# Story Chart Value Detail
 
 > The detail for a value in a story chart.
 

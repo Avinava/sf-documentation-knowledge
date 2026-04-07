@@ -5,12 +5,10 @@ topic: checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.471Z
+lastCollected: 2026-04-07T18:38:46.331Z
 estimatedTokens: 1083
-keywords: [Checkout, Management, App, CMA, brings, power, Salesforce, AppExchange, beautiful, dashboard, visually, displays, data, it’s, easy]
+keywords: [Checkout, Management, App, CMA, brings, power, Salesforce, AppExchange, beautiful, dashboard, visually, displays, it’s, easy, how, offerings, performing, Automated, email, notifications, keep, customers, team, members, loop, whenever, activity, occurs]
 ---
-
-# Checkout Management App
 
 > The Checkout Management App (CMA) brings the power of Salesforce to AppExchange Checkout.
     A beautiful dashboard visually displays AppExchange Checkout data, so it’s easy to see how your

@@ -5,12 +5,10 @@ topic: resolve-apex-test-failures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.006Z
+lastCollected: 2026-04-07T18:38:54.418Z
 estimatedTokens: 219
-keywords: [Resolve, Apex, Test, Failures, Package, installs, upgrades, may, fail, passing, coverage, However, ignored, developer, write]
+keywords: [Resolve, Apex, Test, Failures, Package, installs, upgrades, may, fail, passing, coverage, However, ignored, developer, write, assumptions, subscriber's]
 ---
-
-# Resolve Apex Test Failures
 
 > Package installs or upgrades may fail for not passing Apex test coverage. However, some
   of these failures can be ignored. For example, a developer might write an Apex test that makes

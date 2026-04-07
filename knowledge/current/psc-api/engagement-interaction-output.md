@@ -5,12 +5,10 @@ topic: engagement-interaction-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.426Z
+lastCollected: 2026-04-07T18:39:02.642Z
 estimatedTokens: 571
-keywords: [Engagement, Interaction, Output, representation, fetch, record]
+keywords: [Engagement, Interaction, fetch, record]
 ---
-
-# Engagement Interaction Output
 
 > Output representation to fetch an engagement interaction
     record.

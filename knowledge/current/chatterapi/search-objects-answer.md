@@ -5,12 +5,10 @@ topic: search-objects-answer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.460Z
+lastCollected: 2026-04-07T18:37:15.512Z
 estimatedTokens: 262
-keywords: [Search, Objects, Answer, natural, language, query]
+keywords: [Search, Answer, natural, language, query]
 ---
-
-# Search Objects Answer
 
 > Search objects using a natural language query and return an answer.
 

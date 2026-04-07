@@ -5,12 +5,10 @@ topic: a-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.262Z
+lastCollected: 2026-04-07T18:38:05.469Z
 estimatedTokens: 925
 keywords: [entry, point, framework, JavaScript, code]
 ---
-
-# $A namespace
 
 > The $A namespace is the entry point for using
   the framework in JavaScript code.

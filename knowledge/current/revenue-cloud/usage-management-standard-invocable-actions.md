@@ -5,12 +5,10 @@ topic: usage-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.147Z
+lastCollected: 2026-04-07T18:35:51.005Z
 estimatedTokens: 544
-keywords: [Usage, Management, Standard, Invocable, Actions]
+keywords: [Management, Standard, Invocable, Actions]
 ---
-
-# Usage Management Standard Invocable Actions
 
 > Learn more about the standard invocable actions available with Usage
     Management.

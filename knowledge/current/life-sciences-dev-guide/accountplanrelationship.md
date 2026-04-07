@@ -5,12 +5,10 @@ topic: accountplanrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.270Z
+lastCollected: 2026-04-07T18:37:58.809Z
 estimatedTokens: 860
-keywords: [AccountPlanRelationship, relationship, multiple, account, plans, key, management, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [AccountPlanRelationship, relationship, multiple, account, plans, key, management, API, 65.0]
 ---
-
-# AccountPlanRelationship
 
 > Represents the relationship between multiple account plans for key account
          management. This object is available in API version 65.0 and later.

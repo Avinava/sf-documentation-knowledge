@@ -5,12 +5,10 @@ topic: partybusinessregion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.454Z
+lastCollected: 2026-04-07T18:37:38.307Z
 estimatedTokens: 839
-keywords: [PartyBusinessRegion, trading, regions, party, covering, domestic, international, locations, business, entity, actively, involved, activities, API, version]
+keywords: [PartyBusinessRegion, trading, regions, party, covering, domestic, international, locations, business, entity, actively, involved, activities, API, 61.0]
 ---
-
-# PartyBusinessRegion
 
 > Represents the trading regions of a party, covering both domestic and
          international locations, where the business entity is actively involved in trading

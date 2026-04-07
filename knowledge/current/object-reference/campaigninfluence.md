@@ -5,12 +5,10 @@ topic: campaigninfluence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.324Z
+lastCollected: 2026-04-07T18:38:27.314Z
 estimatedTokens: 666
-keywords: [CampaignInfluence, association, campaign, opportunity, Customizable, Influence, API, version, 37.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [CampaignInfluence, association, campaign, opportunity, Customizable, Influence, API, 37.0]
 ---
-
-# CampaignInfluence
 
 > Represents the association between a campaign and an opportunity in
 			Customizable Campaign Influence. This object is available in API version 37.0 and

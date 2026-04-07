@@ -5,12 +5,10 @@ topic: unpublish-the-online-version-of-a-translated-article
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.580Z
+lastCollected: 2026-04-07T18:37:53.867Z
 estimatedTokens: 134
-keywords: [Unpublish, Online, Version, Translated, Article, Unpublishes]
+keywords: [Unpublish, Online, Translated, Article, Unpublishes]
 ---
-
-# Unpublish the Online Version of a Translated Article
 
 > Unpublishes the online version of a translated article.
 

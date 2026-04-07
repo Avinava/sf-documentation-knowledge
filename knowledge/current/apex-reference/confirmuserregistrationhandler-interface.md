@@ -5,13 +5,11 @@ topic: confirmuserregistrationhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.783Z
+lastCollected: 2026-04-07T18:36:13.070Z
 estimatedTokens: 1294
 namespace: Auth
-keywords: [ConfirmUserRegistrationHandler, Manages, sign-on, SSO, user, mappings, Salesforce, third-party, identity, provider, confirm, updating, Usage, confirmUser, userId]
+keywords: [ConfirmUserRegistrationHandler, Manages, sign-on, SSO, user, mappings, Salesforce, third-party, identity, provider, confirm, updating, confirmUser, userId, tpalId, portalId, userdata, Implementation]
 ---
-
-# ConfirmUserRegistrationHandler Interface
 
 > Manages single sign-on (SSO) user mappings between Salesforce and a
       third-party identity provider. Use this interface to confirm user mappings before updating

@@ -5,12 +5,10 @@ topic: add-the-search-result-list-item-view
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.440Z
+lastCollected: 2026-04-07T18:40:25.817Z
 estimatedTokens: 334
 keywords: [Add, Search, Result, Item, View]
 ---
-
-# Add the Search Result List Item View
 
 # Add the Search Result List Item View
 

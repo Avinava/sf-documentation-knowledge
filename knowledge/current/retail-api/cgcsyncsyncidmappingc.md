@@ -5,12 +5,10 @@ topic: cgcsyncsyncidmappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.886Z
+lastCollected: 2026-04-07T18:39:12.406Z
 estimatedTokens: 289
-keywords: [cgc_sync__Sync_ID_Mapping__c, mappings, local, mobile, application, IDs, Salesforce, API, version, 53.0, later, cgc, _sync, _ID, _Mapping]
+keywords: [cgc_sync__Sync_ID_Mapping__c, mappings, local, mobile, application, IDs, Salesforce, API, 53.0, cgc, _sync, _ID, _Mapping]
 ---
-
-# cgc_sync__Sync_ID_Mapping__c
 
 > Contains information about the mappings of the local mobile application IDs
          to Salesforce IDs. This object is available in API version 53.0 and later.

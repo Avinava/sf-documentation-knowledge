@@ -5,12 +5,10 @@ topic: pcmtemssnfctrsetitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.740Z
+lastCollected: 2026-04-07T18:39:53.273Z
 estimatedTokens: 278
-keywords: [PcmtEmssnFctrSetItemHistory, History, tracked, PcmtEmssnFctrSetItem]
+keywords: [PcmtEmssnFctrSetItemHistory, tracked, PcmtEmssnFctrSetItem]
 ---
-
-# PcmtEmssnFctrSetItemHistory
 
 > History for tracked fields of PcmtEmssnFctrSetItem.
 

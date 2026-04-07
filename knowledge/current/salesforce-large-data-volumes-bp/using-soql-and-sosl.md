@@ -5,12 +5,10 @@ topic: using-soql-and-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.280Z
+lastCollected: 2026-04-07T18:39:17.963Z
 estimatedTokens: 947
 keywords: [SOQL, SOSL, query, equivalent, SELECT, SQL, statement, programmatic, way, performing, text-based, search]
 ---
-
-# Using SOQL and SOSL
 
 > A SOQL query is the equivalent of a SELECT SQL statement, and a SOSL query
 is a programmatic way of performing a text-based search.

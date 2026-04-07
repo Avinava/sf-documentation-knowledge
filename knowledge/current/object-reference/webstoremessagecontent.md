@@ -5,12 +5,10 @@ topic: webstoremessagecontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.668Z
+lastCollected: 2026-04-07T18:38:44.481Z
 estimatedTokens: 503
-keywords: [WebStoreMessageContent, assocation, managed, content, message, record, CMS, web, store, along, attributes, specify, application, intent, API]
+keywords: [WebStoreMessageContent, assocation, managed, content, message, record, CMS, web, store, along, attributes, specify, application, intent, API, 61.0]
 ---
-
-# WebStoreMessageContent
 
 > Represents the assocation of a managed content message record in CMS to a web
          store, along with other attributes that specify the application and intent of the message

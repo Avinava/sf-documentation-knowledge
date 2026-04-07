@@ -5,12 +5,10 @@ topic: product-price
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.020Z
+lastCollected: 2026-04-07T18:37:22.130Z
 estimatedTokens: 384
 keywords: [Product, Price, Pricing]
 ---
-
-# Product Price
 
 > Pricing information for a product.
 

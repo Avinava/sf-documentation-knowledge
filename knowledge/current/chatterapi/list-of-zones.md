@@ -5,12 +5,10 @@ topic: list-of-zones
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.424Z
+lastCollected: 2026-04-07T18:37:16.501Z
 estimatedTokens: 318
 keywords: [Zones, Chatter, Answers, organization, context, user]
 ---
-
-# List of Zones
 
 > A list of Chatter Answers zones in the organization. Get
    information about zones available to the context user.

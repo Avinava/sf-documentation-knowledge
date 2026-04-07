@@ -5,13 +5,11 @@ topic: limitations-for-salesforce-dx
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:12.994Z
+lastCollected: 2026-04-07T18:40:07.941Z
 estimatedTokens: 1471
 namespace: Description
-keywords: [Limitations, Salesforce, known, issues, run, CLI, Dev, Hub, Scratch, Orgs, Source, Management, Deployment, Managed, First-Generation]
+keywords: [Deployment, Limitations, Salesforce, known, issues, run, CLI, Dev, Hub, Scratch, Orgs, Source, Management, Managed, First-Generation, Packages, Second-Generation, Unlocked]
 ---
-
-# Limitations for Salesforce DX
 
 > Here are some known issues you could run into while using Salesforce DX.
 

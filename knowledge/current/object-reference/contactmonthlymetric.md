@@ -5,12 +5,10 @@ topic: contactmonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.390Z
+lastCollected: 2026-04-07T18:38:28.296Z
 estimatedTokens: 1696
-keywords: [ContactMonthlyMetric, monthly, engagement, metrics, contact, API, version, 52.0, later, Calls, Special, Access, Rules]
+keywords: [ContactMonthlyMetric, monthly, engagement, metrics, contact, API, 52.0]
 ---
-
-# ContactMonthlyMetric
 
 > Represents the monthly engagement metrics for a contact. This object is
       available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: carespecialtytaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.689Z
+lastCollected: 2026-04-07T18:39:33.096Z
 estimatedTokens: 305
-keywords: [CareSpecialtyTaxonomy, junction, care, specialty, taxonomy, API, version, 64.0, later]
+keywords: [CareSpecialtyTaxonomy, junction, care, specialty, taxonomy, API, 64.0]
 ---
-
-# CareSpecialtyTaxonomy
 
 > Represents a junction between a care specialty and a care
          taxonomy. This object is available in API version 64.0 and later.

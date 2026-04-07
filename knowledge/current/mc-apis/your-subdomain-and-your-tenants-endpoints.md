@@ -5,12 +5,10 @@ topic: your-subdomain-and-your-tenants-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.897Z
+lastCollected: 2026-04-07T18:40:21.171Z
 estimatedTokens: 657
-keywords: [Subdomain, Tenant's, Endpoints, customers, S10, continue, legacy, recommend, tenant-specific, Marketing, Cloud, improved, performance, Locate, API]
+keywords: [Subdomain, Tenant's, Endpoints, customers, S10, continue, legacy, recommend, tenant-specific, Marketing, Cloud, improved, performance, Locate, API, Integrations, Token, Username, Password, Items]
 ---
-
-# Your Subdomain and Your Tenant's Endpoints
 
 > While customers on S1 through S10 can continue to use the legacy endpoints, we recommend that you use the tenant-specific Marketing Cloud endpoints for improved performance.
 

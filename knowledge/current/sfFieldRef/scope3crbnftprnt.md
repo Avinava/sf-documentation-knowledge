@@ -5,12 +5,10 @@ topic: scope3crbnftprnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.090Z
+lastCollected: 2026-04-07T18:40:00.843Z
 estimatedTokens: 1486
-keywords: [Scope3CrbnFtprnt, total, carbon, emissions, scope, activities, footprint, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide]
+keywords: [Scope3CrbnFtprnt, total, carbon, emissions, scope, activities, footprint, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent, tCO₂e]
 ---
-
-# Scope3CrbnFtprnt
 
 > Represents the total carbon emissions from scope 3 activities. Carbon
          footprint quantifies the effect of atmospheric warming, which is represented in metric

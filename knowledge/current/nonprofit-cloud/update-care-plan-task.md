@@ -5,12 +5,10 @@ topic: update-care-plan-task
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.338Z
+lastCollected: 2026-04-07T18:38:21.143Z
 estimatedTokens: 106
-keywords: [Care, Plan, Task, Output, representation]
+keywords: [Care, Plan, Task]
 ---
-
-# Update Care Plan Task
 
 > Output representation of the request to update a care plan
   task.

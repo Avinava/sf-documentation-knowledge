@@ -5,12 +5,10 @@ topic: create-a-guid-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.090Z
+lastCollected: 2026-04-07T18:35:47.113Z
 estimatedTokens: 373
-keywords: [GUID, Add, objects, deployment, ensure, unique, identification, records, across, environments]
+keywords: [GUID, Add, deployment, ensure, unique, identification, records, across, environments]
 ---
-
-# Create a GUID Field
 
 > Add a GUID field to all objects used during your deployment to ensure unique
   identification of records across environments.

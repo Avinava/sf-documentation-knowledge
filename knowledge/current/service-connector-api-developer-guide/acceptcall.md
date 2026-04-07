@@ -5,12 +5,10 @@ topic: acceptcall
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.393Z
+lastCollected: 2026-04-07T18:39:23.329Z
 estimatedTokens: 111
 keywords: [acceptCall, Accept, call]
 ---
-
-# acceptCall
 
 > Accept a call.
 

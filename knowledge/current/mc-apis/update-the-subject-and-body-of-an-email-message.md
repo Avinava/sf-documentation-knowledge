@@ -5,12 +5,10 @@ topic: update-the-subject-and-body-of-an-email-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.745Z
+lastCollected: 2026-04-07T18:40:21.015Z
 estimatedTokens: 870
-keywords: [Subject, Email, Message, updating, line, via, SOAP, API, Why, How, toUpdate, Sample, Envelope, PHP, Code]
+keywords: [Subject, Email, Message, updating, line, via, SOAP, API, Why, How, toUpdate, Sample, Envelope, PHP, Code, Items]
 ---
-
-# Update the Subject and Body of an Email Message
 
 > This page contains information  about updating the subject line and body of an email message via the SOAP API.
 

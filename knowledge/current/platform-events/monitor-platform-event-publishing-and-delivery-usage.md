@@ -5,12 +5,10 @@ topic: monitor-platform-event-publishing-and-delivery-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.252Z
+lastCollected: 2026-04-07T18:38:58.063Z
 estimatedTokens: 2271
-keywords: [Monitor, Platform, Event, Publishing, Delivery, Usage, data, Pub, Sub, API, CometD, clients, empApi, Lightning, components]
+keywords: [Monitor, Platform, Event, Publishing, Delivery, Pub, Sub, API, CometD, clients, empApi, Lightning, relays, query, PlatformEventUsageMetric, 58.0, enable, Enhanced, Metrics, granular, various, time, segments, isn’t, enabled, hours, ending, hour, historical, daily, 50.0, Obtain, General, Considerations]
 ---
-
-# Monitor Platform Event Publishing and Delivery Usage
 
 > To get usage data for event publishing and delivery to Pub/Sub API and CometD clients,
    empApi Lightning components, and event relays, query the

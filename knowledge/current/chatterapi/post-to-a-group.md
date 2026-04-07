@@ -5,12 +5,10 @@ topic: post-to-a-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.341Z
+lastCollected: 2026-04-07T18:37:24.359Z
 estimatedTokens: 419
 keywords: [Post, Group, Chatter]
 ---
-
-# Post to a Group
 
 > Post to a Chatter group.
 

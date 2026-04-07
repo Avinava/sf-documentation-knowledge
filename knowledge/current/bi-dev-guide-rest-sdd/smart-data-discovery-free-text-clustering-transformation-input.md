@@ -5,12 +5,10 @@ topic: smart-data-discovery-free-text-clustering-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.197Z
+lastCollected: 2026-04-07T18:36:58.698Z
 estimatedTokens: 107
-keywords: [Smart, Data, Discovery, Free, Text, Clustering, Transformation, Input]
+keywords: [Smart, Discovery, Free, Text, Clustering, Transformation]
 ---
-
-# Smart Data Discovery Free Text Clustering Transformation Input
 
 > The input for a free text clustering transformation.
 

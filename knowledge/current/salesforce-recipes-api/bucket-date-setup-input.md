@@ -5,12 +5,10 @@ topic: bucket-date-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.415Z
+lastCollected: 2026-04-07T18:39:18.110Z
 estimatedTokens: 148
-keywords: [Bucket, Date, Setup, Input, node, recipe]
+keywords: [Bucket, Date, Setup, node, recipe]
 ---
-
-# Bucket Date Setup Input
 
 > The date setup for a bucket node in a recipe.
 

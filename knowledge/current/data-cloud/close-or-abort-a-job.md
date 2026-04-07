@@ -5,12 +5,10 @@ topic: close-or-abort-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.260Z
+lastCollected: 2026-04-07T18:35:51.117Z
 estimatedTokens: 341
-keywords: [Close, Abort, Job, updating, state, UploadComplete, uploaded, data, enqueued, processing, Aborted, doesn’t, queued, processed, Any]
+keywords: [Close, Abort, Job, updating, state, UploadComplete, uploaded, enqueued, processing, Aborted, doesn’t, queued, processed, Any, part, deleted]
 ---
-
-# Close or Abort a Job
 
 > Close a job by updating the job state to UploadComplete. When you
   close a job, the uploaded data is enqueued for processing. To abort a job, update the job state to

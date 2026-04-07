@@ -5,13 +5,11 @@ topic: clm-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.025Z
+lastCollected: 2026-04-07T18:35:57.325Z
 estimatedTokens: 552
 namespace: ConnectApi
-keywords: [Clm, contracts, createContract, contractInputPayload, API, Version, Requires, Chatter, updateContract]
+keywords: [Clm, contracts, createContract, contractInputPayload, API, Requires, Chatter, updateContract]
 ---
-
-# Clm Class
 
 > Create contracts using the object ID.
 

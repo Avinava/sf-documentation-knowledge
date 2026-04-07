@@ -5,12 +5,10 @@ topic: synchronize-workcom-data-between-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.124Z
+lastCollected: 2026-04-07T18:40:14.155Z
 estimatedTokens: 447
-keywords: [Synchronize, Work.com, Data, Orgs, Users, encouraged, install, org, dedicated, may, result, scenarios, migrated, kept, synch]
+keywords: [Synchronize, Work.com, Orgs, Users, encouraged, install, org, dedicated, may, result, scenarios, migrated, kept, synch, new]
 ---
-
-# Synchronize Work.com Data Between Orgs
 
 > Users are encouraged to install and use Work.com in an org dedicated to Work.com. This
     may result in scenarios where data in an existing org has to be migrated or kept in synch with a

@@ -5,12 +5,10 @@ topic: virtual-calls-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.395Z
+lastCollected: 2026-04-07T18:36:46.240Z
 estimatedTokens: 154
-keywords: [Virtual, Calls, Standard, Objects, configure]
+keywords: [Virtual, Standard, configure]
 ---
-
-# Virtual Calls Standard Objects
 
 > Use these standard objects to configure virtual calls.
 

@@ -5,12 +5,10 @@ topic: gift-transactions-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.255Z
+lastCollected: 2026-04-07T18:38:21.017Z
 estimatedTokens: 133
-keywords: [Gift, Transactions, Output, representation, associated, commitment, record]
+keywords: [Gift, Transactions, commitment, record]
 ---
-
-# Gift Transactions Output
 
 > Output representation of the gift transactions associated with a gift commitment
     record.

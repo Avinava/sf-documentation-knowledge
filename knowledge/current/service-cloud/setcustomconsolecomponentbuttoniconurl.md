@@ -5,12 +5,10 @@ topic: setcustomconsolecomponentbuttoniconurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.581Z
+lastCollected: 2026-04-07T18:36:50.850Z
 estimatedTokens: 216
-keywords: [setCustomConsoleComponentButtonIconUrl, button, icon, URL, application-level, custom, console, component, that’s, API, version, 25.0, later, Arguments, Sample]
+keywords: [Arguments, setCustomConsoleComponentButtonIconUrl, button, icon, URL, application-level, console, that’s, API, 25.0, Sample, Code–Visualforce]
 ---
-
-# setCustomConsoleComponentButtonIconUrl()
 
 > Sets the button icon URL of an
             application-level custom console component that’s on a page. This method is only available in API version 25.0 or

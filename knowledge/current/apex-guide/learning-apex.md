@@ -5,12 +5,10 @@ topic: learning-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.623Z
+lastCollected: 2026-04-07T18:36:17.851Z
 estimatedTokens: 1280
-keywords: [Learning, Apex, developer, account, there, resources, Trailhead, Content, Salesforce, Developers, Center, Code, Samples, SDKs, Training]
+keywords: [Learning, Apex, developer, account, there, resources, Trailhead, Content, Salesforce, Developers, Center, Code, Samples, SDKs, Training, Courses]
 ---
-
-# Learning Apex
 
 > After you have your developer account, there are many resources available to you for
         learning about Apex

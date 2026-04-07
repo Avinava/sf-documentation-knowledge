@@ -5,12 +5,10 @@ topic: enforce-security-with-the-stripinaccessible-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.521Z
+lastCollected: 2026-04-07T18:36:16.741Z
 estimatedTokens: 1335
-keywords: [Enforce, Security, stripInaccessible, field-level, object-level, data, protection, strip, relationship, query, subquery, results, user, can’t, access]
+keywords: [Enforce, Security, stripInaccessible, field-level, object-level, protection, strip, relationship, query, subquery, results, user, can’t, remove, inaccessible, sObject, DML, operations, avoid, exceptions, sanitize, sObjects, deserialized, untrusted, source]
 ---
-
-# Enforce Security with the stripInaccessible Method
 
 > Use the stripInaccessible method to enforce
     field-level and object-level data protection. This method can be used to strip the fields and

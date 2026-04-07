@@ -5,11 +5,9 @@ topic: field-set-fields-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.553Z
+lastCollected: 2026-04-07T18:37:51.595Z
 estimatedTokens: 194
 ---
-
-# Field Set Fields (GET)
 
 > Get the fields of a field set by the field set ID and object name.
 

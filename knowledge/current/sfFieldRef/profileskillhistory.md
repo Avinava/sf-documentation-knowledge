@@ -5,12 +5,10 @@ topic: profileskillhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.143Z
+lastCollected: 2026-04-07T18:39:56.689Z
 estimatedTokens: 256
-keywords: [ProfileSkillHistory, History, tracked, ProfileSkill]
+keywords: [ProfileSkillHistory, tracked, ProfileSkill]
 ---
-
-# ProfileSkillHistory
 
 > History for tracked fields of ProfileSkill.
 

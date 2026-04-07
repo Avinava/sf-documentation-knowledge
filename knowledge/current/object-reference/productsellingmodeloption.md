@@ -5,12 +5,10 @@ topic: productsellingmodeloption
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.468Z
+lastCollected: 2026-04-07T18:38:38.869Z
 estimatedTokens: 764
-keywords: [ProductSellingModelOption, junction, Product, Selling, Model, Product2, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [ProductSellingModelOption, junction, Product, Selling, Model, Product2, API, 55.0]
 ---
-
-# ProductSellingModelOption
 
 > A junction object between Product Selling Model and Product2. This
       object is available in API version 55.0 and later.

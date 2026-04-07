@@ -5,12 +5,10 @@ topic: data-source-promotion-measures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.337Z
+lastCollected: 2026-04-07T18:39:11.878Z
 estimatedTokens: 138
-keywords: [Data, Source, Promotion, Measures, integration, metadata, report, configuration, PromotionMeasures, requires, dimensions]
+keywords: [Source, Promotion, Measures, integration, metadata, report, configuration, PromotionMeasures, requires, dimensions]
 ---
-
-# Data Source: Promotion Measures
 
 > An integration metadata report configuration using the data source PromotionMeasures requires dimensions.
 

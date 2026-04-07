@@ -5,12 +5,10 @@ topic: asset-result-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.044Z
+lastCollected: 2026-04-07T18:37:17.111Z
 estimatedTokens: 153
-keywords: [Asset, Result, Output, Connect, REST, API, representation, lifecycle-managed, assets]
+keywords: [Asset, Result, Connect, REST, API, lifecycle-managed, assets]
 ---
-
-# Asset Result Output
 
 > Connect REST API output representation for lifecycle-managed
       assets.

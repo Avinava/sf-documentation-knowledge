@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.007Z
+lastCollected: 2026-04-07T18:37:25.925Z
 estimatedTokens: 1188
 keywords: [Bodies, Here’s, Revenue, Cloud, Communications, API]
 ---
-
-# Response Bodies
 
 > Here’s a list of Revenue Cloud for Communications API response bodies.
 

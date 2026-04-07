@@ -5,12 +5,10 @@ topic: changing-the-display-density
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:13.744Z
+lastCollected: 2026-04-07T18:38:03.816Z
 estimatedTokens: 1096
-keywords: [Changing, Display, Density, Lightning, Experience, setting, determines, how, densely, content, labels, located, controlled, org, Setup]
+keywords: [Changing, Display, Density, Lightning, Experience, setting, determines, how, densely, content, labels, located, controlled, org, Setup, users, their, liking, profile, menu, Org’s, Form, Override, Reduce, Space, Label, Variants, Considerations]
 ---
-
-# Changing the Display Density
 
 > In Lightning Experience, the display density setting determines how densely content
         is displayed and where field labels are located. Display density is controlled for the org

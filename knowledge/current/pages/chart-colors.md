@@ -5,12 +5,10 @@ topic: chart-colors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.739Z
+lastCollected: 2026-04-07T18:38:48.688Z
 estimatedTokens: 346
-keywords: [Chart, Colors, match, built-in, reporting, analytics, charts, visually-consistent, dashboards, want, own, color, scheme, customize, elements]
+keywords: [Chart, Colors, match, built-in, reporting, analytics, charts, visually-consistent, dashboards, want, own, color, scheme, customize]
 ---
-
-# Chart Colors
 
 > By default, chart colors match those of the built-in reporting
 and analytics charts so that you can create visually-consistent dashboards.

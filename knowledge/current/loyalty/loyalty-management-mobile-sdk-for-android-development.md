@@ -5,12 +5,10 @@ topic: loyalty-management-mobile-sdk-for-android-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.158Z
+lastCollected: 2026-04-07T18:38:09.442Z
 estimatedTokens: 439
-keywords: [Loyalty, Management, Mobile, SDK, Android, Development, delivers, source, code, build, scripts, native, sample, app, develop]
+keywords: [Loyalty, Management, Mobile, SDK, Android, Development, delivers, source, code, build, scripts, native, sample, app, develop, apps]
 ---
-
-# Loyalty Management Mobile SDK for Android Development
 
 > Loyalty Management Mobile SDK for Android delivers source code, build scripts, and
   native sample app to develop mobile apps on Android.

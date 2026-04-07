@@ -5,12 +5,10 @@ topic: disputeitemqueueresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.263Z
+lastCollected: 2026-04-07T18:37:37.037Z
 estimatedTokens: 1031
-keywords: [DisputeItemQueueResponse, received, job, that’s, run, fetch, claim, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [DisputeItemQueueResponse, received, job, that’s, run, fetch, claim, API, 61.0]
 ---
-
-# DisputeItemQueueResponse
 
 > Represents the response received from the job that’s run to fetch the claim
          details. This object is available in API version 61.0 and later.

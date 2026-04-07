@@ -5,12 +5,10 @@ topic: claimpaymentsummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.545Z
+lastCollected: 2026-04-07T18:39:33.974Z
 estimatedTokens: 362
-keywords: [ClaimPaymentSummaryFeed, Feed, tracking, ClaimPaymentSummary]
+keywords: [ClaimPaymentSummaryFeed, ClaimPaymentSummary]
 ---
-
-# ClaimPaymentSummaryFeed
 
 > Feed tracking for ClaimPaymentSummary.
 

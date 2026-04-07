@@ -5,12 +5,10 @@ topic: careprogramgoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.458Z
+lastCollected: 2026-04-07T18:37:45.960Z
 estimatedTokens: 1266
-keywords: [CareProgramGoal, business, clinical, goal, care, program, Calls, Associated, Objects]
+keywords: [CareProgramGoal, business, clinical, goal, care, program]
 ---
-
-# CareProgramGoal
 
 > Represents a business or clinical goal related to a care program.
 

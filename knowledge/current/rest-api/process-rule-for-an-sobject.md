@@ -5,12 +5,10 @@ topic: process-rule-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.737Z
+lastCollected: 2026-04-07T18:36:20.975Z
 estimatedTokens: 506
 keywords: [Process, Rule, sObject, Accesses, active, workflow, retrieve, record, HEAD, HTTP, POST, trigger]
 ---
-
-# Process Rule for an sObject
 
 > Accesses an active workflow rule for an sObject. Use the GET method to retrieve the
         record or fields. Use the HEAD method to retrieve information in HTTP headers. Use the POST

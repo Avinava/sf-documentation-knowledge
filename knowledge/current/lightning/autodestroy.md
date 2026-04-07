@@ -5,12 +5,10 @@ topic: autodestroy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.172Z
+lastCollected: 2026-04-07T18:38:05.368Z
 estimatedTokens: 127
-keywords: [autoDestroy, flag, tell, rendering, service, whether, destroy, component, removed, facet]
+keywords: [autoDestroy, flag, tell, rendering, service, whether, destroy, removed, facet]
 ---
-
-# autoDestroy()
 
 > Sets a flag to tell the rendering service whether or not to destroy
    this component when it is removed from its rendering facet.

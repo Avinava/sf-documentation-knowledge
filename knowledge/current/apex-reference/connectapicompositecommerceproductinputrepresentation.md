@@ -5,12 +5,10 @@ topic: connectapicompositecommerceproductinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.696Z
+lastCollected: 2026-04-07T18:36:05.058Z
 estimatedTokens: 163
-keywords: [Composite, product, input]
+keywords: [Composite, product]
 ---
-
-# ConnectApi.CompositeCommerceProductInputRepresentation
 
 > Composite product input.
 

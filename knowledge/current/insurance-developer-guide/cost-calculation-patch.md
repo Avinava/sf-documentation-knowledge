@@ -5,12 +5,10 @@ topic: cost-calculation-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.471Z
+lastCollected: 2026-04-07T18:37:51.504Z
 estimatedTokens: 505
-keywords: [Cost, Calculation, PATCH, Calculate, premium, fee, premium-equivalent, amount, InsuranceRatePlanLineItem, underlying, rate, plan, fees, equivalent, rolled]
+keywords: [Cost, Calculation, PATCH, Calculate, premium, fee, premium-equivalent, amount, InsuranceRatePlanLineItem, underlying, rate, plan, fees, equivalent, rolled, Insurance, Coverage, Policy]
 ---
-
-# Cost Calculation (PATCH)
 
 > Calculate the premium, fee, or premium-equivalent amount at InsuranceRatePlanLineItem
     based on the underlying rate plan. The InsuranceRatePlanLineItem premium, fees, or premium

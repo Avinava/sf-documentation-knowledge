@@ -5,12 +5,10 @@ topic: carebarrierdeterminant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.626Z
+lastCollected: 2026-04-07T18:37:59.187Z
 estimatedTokens: 740
-keywords: [CareBarrierDeterminant, relationship, barrier, determinant, patient, member, API, version, 45.0, later, Calls, Associated, Objects]
+keywords: [CareBarrierDeterminant, relationship, barrier, determinant, patient, member, API, 45.0]
 ---
-
-# CareBarrierDeterminant
 
 > Represents the relationship of a barrier to a determinant for a
 			patient or member. Available in API version 45.0 and later.

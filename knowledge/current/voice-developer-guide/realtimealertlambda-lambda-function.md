@@ -5,12 +5,10 @@ topic: realtimealertlambda-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.993Z
+lastCollected: 2026-04-07T18:40:12.937Z
 estimatedTokens: 707
-keywords: [RealtimeAlertLambda, Lambda, Function, publishes, RealtimeAlertEvent, platform, event, Salesforce, REST, API, CloudWatch, alarms, Amazon, Connect, instance]
+keywords: [RealtimeAlertLambda, Lambda, Function, publishes, RealtimeAlertEvent, platform, event, Salesforce, REST, API, CloudWatch, alarms, Amazon, Connect, instance, don’t, call, manually]
 ---
-
-# RealtimeAlertLambda Lambda Function
 
 > This Lambda publishes the RealtimeAlertEvent platform event using the
       Salesforce REST API. This function is called by CloudWatch alarms in your Amazon Connect

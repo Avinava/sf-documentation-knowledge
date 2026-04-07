@@ -5,12 +5,10 @@ topic: finserveducationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.349Z
+lastCollected: 2026-04-07T18:37:37.124Z
 estimatedTokens: 269
-keywords: [FinServ_Education__c, individual’s, educational, background, FinServ, _Education, Calls]
+keywords: [FinServ_Education__c, individual’s, educational, background, FinServ, _Education]
 ---
-
-# FinServ_Education__c
 
 > Represents an individual’s educational background.
 

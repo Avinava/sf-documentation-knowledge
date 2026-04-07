@@ -5,12 +5,10 @@ topic: benefitassignmentadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.843Z
+lastCollected: 2026-04-07T18:39:05.831Z
 estimatedTokens: 1182
-keywords: [BenefitAssignmentAdjustment, monetary, non-monetary, benefit, adjustment, made, enrollee, disbursed, various, frequencies, API, version, 56.0, later, Calls]
+keywords: [BenefitAssignmentAdjustment, monetary, non-monetary, benefit, adjustment, made, enrollee, disbursed, various, frequencies, API, 56.0]
 ---
-
-# BenefitAssignmentAdjustment
 
 > Represents a monetary or non-monetary benefit adjustment made to an
          enrollee that can be disbursed in various frequencies. This object is available in API

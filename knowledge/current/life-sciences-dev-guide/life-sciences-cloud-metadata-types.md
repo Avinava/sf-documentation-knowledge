@@ -5,12 +5,10 @@ topic: life-sciences-cloud-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.716Z
+lastCollected: 2026-04-07T18:37:57.238Z
 estimatedTokens: 1095
-keywords: [Life, Sciences, Cloud, Metadata, API, access, feature, settings, customize, user]
+keywords: [Life, Sciences, Cloud, Metadata, API, feature, settings, customize, user]
 ---
-
-# Life Sciences Cloud Metadata Types
 
 > Metadata API enables you to access some types and feature settings that you can
   customize in the user interface.

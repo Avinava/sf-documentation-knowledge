@@ -5,12 +5,10 @@ topic: accountbrand
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.441Z
+lastCollected: 2026-04-07T18:38:24.319Z
 estimatedTokens: 969
-keywords: [AccountBrand, brand, Partner, Account, API, version, 43.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [AccountBrand, brand, Partner, Account, API, 43.0]
 ---
-
-# AccountBrand
 
 > Represents the brand details of a Partner Account. This object
 		is available in API version 43.0 and later.

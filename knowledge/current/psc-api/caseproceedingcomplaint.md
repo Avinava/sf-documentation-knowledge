@@ -5,12 +5,10 @@ topic: caseproceedingcomplaint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.223Z
+lastCollected: 2026-04-07T18:39:06.277Z
 estimatedTokens: 310
-keywords: [CaseProceedingComplaint, association, complaint, corresponding, case, proceeding, API, version, 58.0, later]
+keywords: [CaseProceedingComplaint, association, complaint, corresponding, case, proceeding, API, 58.0]
 ---
-
-# CaseProceedingComplaint
 
 > Represents the association between a complaint and its corresponding case
          proceeding. This object is available in API version 58.0 and later.

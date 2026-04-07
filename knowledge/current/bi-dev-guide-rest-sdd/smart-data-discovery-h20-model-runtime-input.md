@@ -5,12 +5,10 @@ topic: smart-data-discovery-h20-model-runtime-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.201Z
+lastCollected: 2026-04-07T18:36:58.702Z
 estimatedTokens: 94
-keywords: [Smart, Data, Discovery, H20, Model, Runtime, Input, identify]
+keywords: [Smart, Discovery, H20, Model, Runtime, identify]
 ---
-
-# Smart Data Discovery H20 Model Runtime Input
 
 > The input to identify the model runtime type as H20.
 

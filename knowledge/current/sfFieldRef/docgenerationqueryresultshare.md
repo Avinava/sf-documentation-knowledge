@@ -5,12 +5,10 @@ topic: docgenerationqueryresultshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.540Z
+lastCollected: 2026-04-07T18:39:38.244Z
 estimatedTokens: 255
 keywords: [DocGenerationQueryResultShare, Sharing, DocGenerationQueryResult]
 ---
-
-# DocGenerationQueryResultShare
 
 > Sharing for DocGenerationQueryResult.
 

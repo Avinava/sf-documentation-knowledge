@@ -5,12 +5,10 @@ topic: pharmacy-benefits-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.995Z
+lastCollected: 2026-04-07T18:37:57.551Z
 estimatedTokens: 285
-keywords: [Pharmacy, Benefits, Verification, uses, data, model, that’s, FHIR-CARIN, NCPDP, aligned, store, interoperable, supports, drug, manufacturers]
+keywords: [Pharmacy, Benefits, Verification, uses, model, that’s, FHIR-CARIN, NCPDP, aligned, store, interoperable, supports, drug, manufacturers, providers, pharmacists, life, sciences, organizations, determining, coverage, medications, prescribed, patients, under, care, program]
 ---
-
-# Pharmacy Benefits Verification
 
 > Pharmacy Benefits Verification uses a data model that’s FHIR-CARIN and NCPDP aligned to
   store its data and make it interoperable. The pharmacy benefits verification data model supports

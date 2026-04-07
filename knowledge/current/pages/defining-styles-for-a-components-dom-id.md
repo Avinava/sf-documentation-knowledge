@@ -5,12 +5,10 @@ topic: defining-styles-for-a-components-dom-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.082Z
+lastCollected: 2026-04-07T18:38:52.384Z
 estimatedTokens: 368
 keywords: [Defining, Styles, Component’s, DOM, CSS, attribute, selectors, style, definition, want, apply, rely, rather, HTML, tag]
 ---
-
-# Defining Styles for a Component’s DOM ID
 
 > Use CSS attribute selectors for the style definition if you want to apply a style
         using a DOM ID. Attribute selectors rely on the definition of an attribute, rather than an

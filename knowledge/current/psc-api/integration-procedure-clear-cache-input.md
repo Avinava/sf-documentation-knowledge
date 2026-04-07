@@ -5,12 +5,10 @@ topic: integration-procedure-clear-cache-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.222Z
+lastCollected: 2026-04-07T18:39:01.372Z
 estimatedTokens: 310
-keywords: [Integration, Procedure, Clear, Cache, Input, representation, execution, procedures]
+keywords: [Integration, Procedure, Clear, Cache, execution, procedures]
 ---
-
-# Integration Procedure Clear Cache Input
 
 > Input representation of the details to clear the execution cache of the integration
     procedures.

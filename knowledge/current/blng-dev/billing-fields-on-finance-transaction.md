@@ -6,13 +6,10 @@ topic: billing-fields-on-finance-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.787Z
+lastCollected: 2026-04-07T18:37:04.412Z
 estimatedTokens: 513
-keywords: [Billing, Finance, Transaction, Standard, custom, extend, represent, transactions]
+keywords: [Billing, Finance, Transaction, Standard, extend, represent, transactions]
 ---
-
-# Billing
-      Fields on Finance Transaction
 
 > Standard and custom fields extend the standard Finance Transaction
          object for use in Billing to represent information about finance

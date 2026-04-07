@@ -5,12 +5,10 @@ topic: lens-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.795Z
+lastCollected: 2026-04-07T18:36:56.336Z
 estimatedTokens: 479
-keywords: [Lens, Resources, Analytics, lenses, how, users, view, data, dataset, basis, building, any, dashboard, allow, manage]
+keywords: [Lens, Resources, Analytics, lenses, how, users, view, dataset, basis, building, any, dashboard, allow, manage, collections, individual, files]
 ---
-
-# Lens Resources
 
 > Analytics lenses are how users view data in a dataset and are the basis for building any dashboard. 
   These resources allow users to manage collections of lenses, individual lenses,

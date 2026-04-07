@@ -5,12 +5,10 @@ topic: xmd-date-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.807Z
+lastCollected: 2026-04-07T18:36:55.219Z
 estimatedTokens: 185
-keywords: [Xmd, Date, Input, extended, metadata]
+keywords: [Xmd, Date, extended, metadata]
 ---
-
-# Xmd Date Input
 
 > The extended metadata (Xmd) for a date.
 

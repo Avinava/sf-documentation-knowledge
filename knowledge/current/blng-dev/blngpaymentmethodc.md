@@ -5,12 +5,10 @@ topic: blngpaymentmethodc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.308Z
+lastCollected: 2026-04-07T18:37:03.878Z
 estimatedTokens: 2854
-keywords: [blng__PaymentMethod__c, storage, different, payment, customers, blng, _PaymentMethod, Calls]
+keywords: [blng__PaymentMethod__c, storage, different, payment, customers, blng, _PaymentMethod]
 ---
-
-# blng__PaymentMethod__c
 
 > Represents the storage of information about different payment methods
          used by customers.

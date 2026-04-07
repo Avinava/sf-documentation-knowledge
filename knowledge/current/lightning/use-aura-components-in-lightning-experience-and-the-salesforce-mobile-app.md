@@ -7,14 +7,10 @@ topic: use-aura-components-in-lightning-experience-and-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.354Z
+lastCollected: 2026-04-07T18:38:03.373Z
 estimatedTokens: 681
-keywords: [Aura, Components, Lightning, Experience, Salesforce, Mobile, App, Customize, extend, Launch, tabs, apps, actions]
+keywords: [Aura, Lightning, Experience, Salesforce, Mobile, App, Customize, extend, Launch, tabs, apps, actions]
 ---
-
-# Use Aura
-      Components in Lightning Experience and the
-      Salesforce Mobile App
 
 > Customize and extend Lightning Experience and the Salesforce mobile app with Aura
   components. Launch components from tabs, apps, and actions.

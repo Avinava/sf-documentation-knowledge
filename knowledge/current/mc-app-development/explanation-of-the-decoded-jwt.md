@@ -5,12 +5,10 @@ topic: explanation-of-the-decoded-jwt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.078Z
+lastCollected: 2026-04-07T18:40:21.358Z
 estimatedTokens: 1981
 keywords: [Explanation, Decoded, JWT, decode, JSON, looks, similar, Sample, Refresh, Token, Implementation, Restrictions, Items]
 ---
-
-# Explanation of the Decoded JWT
 
 > After you decode the JWT, the JSON request body looks similar to this example.
 

@@ -5,12 +5,10 @@ topic: transactional-send-response-level-error-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.453Z
+lastCollected: 2026-04-07T18:40:20.707Z
 estimatedTokens: 774
-keywords: [Transactional, Send, Level, Error, Codes, code, occurs, there, problem, synchronous, processing, reusing, duplicate, messageKey, malformed]
+keywords: [Transactional, Send, Level, Error, Codes, code, occurs, there, problem, synchronous, processing, reusing, duplicate, messageKey, malformed, email, address, Response-Level]
 ---
-
-# Transactional Send Response Level Error Codes
 
 > A response level error code occurs when there is a problem with syntax or other synchronous processing error, such as reusing a duplicate messageKey or malformed email address.
 

@@ -5,12 +5,10 @@ topic: step-five-import-the-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.103Z
+lastCollected: 2026-04-07T18:37:28.140Z
 estimatedTokens: 582
-keywords: [Step, Five, Import, Data, Now, pieces, place, run, Loader, command, line, insert, new, accounts]
+keywords: [Step, Five, Import, Now, pieces, place, run, Loader, command, line, insert, new, accounts]
 ---
-
-# Step Five: Import the Data
 
 > Now that all the pieces are in place, you can run Data Loader from the command line and
   insert some new accounts.

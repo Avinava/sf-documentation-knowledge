@@ -5,12 +5,10 @@ topic: care-services-review-requests-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.203Z
+lastCollected: 2026-04-07T18:37:41.256Z
 estimatedTokens: 437
 keywords: [Care, Services, Review, Requests, PATCH]
 ---
-
-# Care Services Review Requests (PATCH)
 
 > Update care services review requests or update existing
       requests.

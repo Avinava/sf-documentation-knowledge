@@ -5,12 +5,10 @@ topic: multisite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.428Z
+lastCollected: 2026-04-07T18:37:26.338Z
 estimatedTokens: 235
-keywords: [Multisite, Optimize, location, component, location-based, quotes, orders, manage, customer, assets, multiple, quote, assetize, order, enjoy]
+keywords: [Multisite, Optimize, location, location-based, quotes, orders, manage, customer, assets, multiple, quote, assetize, order, enjoy, flexible, management]
 ---
-
-# Multisite
 
 > Optimize your location component to create location-based quotes and orders, manage
     multisite customer assets, create multiple orders from a single quote, assetize order, and enjoy

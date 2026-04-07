@@ -5,12 +5,10 @@ topic: blngrevenuedistributionmethodc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.460Z
+lastCollected: 2026-04-07T18:37:04.057Z
 estimatedTokens: 1193
-keywords: [blng__RevenueDistributionMethod__c, how, revenue, company, spread, over, specific, period, blng, _RevenueDistributionMethod, Calls]
+keywords: [blng__RevenueDistributionMethod__c, how, revenue, company, spread, over, specific, period, blng, _RevenueDistributionMethod]
 ---
-
-# blng__RevenueDistributionMethod__c
 
 > Represents how the revenue of a company is spread over a specific
          period.

@@ -5,12 +5,10 @@ topic: finservrevenuec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.010Z
+lastCollected: 2026-04-07T18:37:38.908Z
 estimatedTokens: 377
-keywords: [FinServ_Revenue__c, data, Financial, Services, Cloud, external, systems, aggregate, revenue, streams, advisor’s, book, business, FinServ, _Revenue]
+keywords: [FinServ_Revenue__c, Financial, Services, Cloud, external, systems, aggregate, revenue, streams, advisor’s, book, business, FinServ, _Revenue]
 ---
-
-# FinServ_Revenue__c
 
 > Represents data from Financial Services Cloud and external systems to
    aggregate revenue streams for an advisor’s book of business.

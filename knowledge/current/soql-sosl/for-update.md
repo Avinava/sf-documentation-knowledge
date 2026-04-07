@@ -5,12 +5,10 @@ topic: for-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.073Z
+lastCollected: 2026-04-07T18:40:10.031Z
 estimatedTokens: 315
 keywords: [Apex, lock, sObject, records, they’re, updated, order, prevent, race, conditions, thread, safety, problems]
 ---
-
-# FOR UPDATE
 
 > In Apex, you can use FOR
     UPDATE to lock sObject records while they’re being updated in order to prevent

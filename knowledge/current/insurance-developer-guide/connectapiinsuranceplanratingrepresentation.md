@@ -5,12 +5,10 @@ topic: connectapiinsuranceplanratingrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.704Z
+lastCollected: 2026-04-07T18:37:50.584Z
 estimatedTokens: 189
-keywords: [Output, representation, pricing, results, individual, plan]
+keywords: [pricing, results, individual, plan]
 ---
-
-# ConnectApi.InsurancePlanRatingRepresentation
 
 > Output representation of pricing results for an individual plan.
 

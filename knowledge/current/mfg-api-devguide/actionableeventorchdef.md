@@ -5,12 +5,10 @@ topic: actionableeventorchdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.646Z
+lastCollected: 2026-04-07T18:38:12.970Z
 estimatedTokens: 711
-keywords: [ActionableEventOrchDef, definition, actionable, event, orchestration, records, migrated, org, another, Parent, File, Suffix, Directory, Location, Version]
+keywords: [ActionableEventOrchDef, definition, actionable, event, orchestration, records, migrated, org, another, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# ActionableEventOrchDef
 
 > Represents the definition of an actionable event
 			orchestration so that the records can be migrated from one org to another.

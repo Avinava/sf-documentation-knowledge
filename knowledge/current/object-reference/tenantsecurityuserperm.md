@@ -5,12 +5,10 @@ topic: tenantsecurityuserperm
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:50.908Z
+lastCollected: 2026-04-07T18:38:42.633Z
 estimatedTokens: 1182
-keywords: [TenantSecurityUserPerm, Stores, permissions, assigned, user, tenants, Security, Center, subscribers, API, version, 53.0, later, Calls, Special]
+keywords: [TenantSecurityUserPerm, Stores, permissions, assigned, user, tenants, Security, Center, subscribers, API, 53.0]
 ---
-
-# TenantSecurityUserPerm
 
 > Stores information on permissions assigned to a user. Use this object to see which
       tenants a user is assigned to. This object is available to Security Center subscribers in API

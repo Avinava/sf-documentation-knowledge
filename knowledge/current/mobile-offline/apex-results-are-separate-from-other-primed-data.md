@@ -5,12 +5,10 @@ topic: apex-results-are-separate-from-other-primed-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.395Z
+lastCollected: 2026-04-07T18:38:14.825Z
 estimatedTokens: 1013
-keywords: [Apex, Results, Separate, Primed, Data, saved, durable, store, separately, stored, built-in, components, modules, wires, Lightning]
+keywords: [Apex, Results, Separate, Primed, saved, durable, store, separately, stored, built-in, modules, wires, Lightning, Service, LDS]
 ---
-
-# Apex Results Are Separate from Other Primed Data
 
 > Apex results are saved in the durable store separately from data stored by built-in
   components, modules, and wires that use Lightning Data Service (LDS) to access data.

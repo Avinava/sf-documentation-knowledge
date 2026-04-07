@@ -5,12 +5,10 @@ topic: repricing-product-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.699Z
+lastCollected: 2026-04-07T18:37:15.760Z
 estimatedTokens: 294
 keywords: [Repricing, Product, Search, webstore, products, term]
 ---
-
-# Repricing, Product Search
 
 > Search a webstore for products by search term.
 

@@ -5,12 +5,10 @@ topic: get-group-census-members-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.080Z
+lastCollected: 2026-04-07T18:37:48.808Z
 estimatedTokens: 640
-keywords: [Group, Census, Members, Action, member, records, content, document, asynchronous, bulk, item, record, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Group, Census, Members, Action, member, records, content, document, asynchronous, bulk, item, record, REST, HTTP]
 ---
-
-# Get Group Census Members Action
 
 > Get the group census member records from the content document in the specified
         asynchronous bulk request item record.

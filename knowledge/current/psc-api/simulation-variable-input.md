@@ -5,12 +5,10 @@ topic: simulation-variable-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.394Z
+lastCollected: 2026-04-07T18:39:01.545Z
 estimatedTokens: 210
-keywords: [Simulation, Variable, Input]
+keywords: [Simulation, Variable]
 ---
-
-# Simulation Variable Input
 
 > Input information of the input variable and its
     value.

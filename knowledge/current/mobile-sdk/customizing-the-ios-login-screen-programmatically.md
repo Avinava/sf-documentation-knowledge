@@ -5,12 +5,10 @@ topic: customizing-the-ios-login-screen-programmatically
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.449Z
+lastCollected: 2026-04-07T18:40:26.720Z
 estimatedTokens: 1057
-keywords: [Customizing, iOS, Login, Screen, Programmatically, Mobile, SDK, extensive, options, style, behavior, screen's, navigation, bar, simple]
+keywords: [Customizing, iOS, Login, Screen, Programmatically, Mobile, SDK, extensive, options, style, behavior, screen's, navigation, bar, simple, declarative, changes, control, widget, appearance, visibility, reimagine, extending, view, controller, showSettingsIcon, showNavbar, Colors, Font, Overriding, Widgets, SFLoginViewController]
 ---
-
-# Customizing the iOS Login Screen Programmatically
 
 > Mobile SDK for
   iOS provides extensive options for customizing the style and behavior of the  login screen's

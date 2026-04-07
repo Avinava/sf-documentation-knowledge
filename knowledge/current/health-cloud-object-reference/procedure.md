@@ -5,12 +5,10 @@ topic: procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.069Z
+lastCollected: 2026-04-07T18:37:44.286Z
 estimatedTokens: 3144
-keywords: [​Procedure, procedure, FHIR, resource, maps, Patient​Medical​​Procedure, Patient​Medical​​Procedure​Detail, objects, Salesforce​, V4​.0, Clinical​, Data, Model, Mapping, Sample]
+keywords: [​Procedure, procedure, FHIR, resource, maps, Patient​Medical​​Procedure, Patient​Medical​​Procedure​Detail, Salesforce​, V4​.0, Clinical​, Model, Mapping, Sample, Record, Diagram]
 ---
-
-# ​Procedure
 
 > The procedure FHIR resource maps to the Patient​Medical​​Procedure and Patient​Medical​​Procedure​Detail objects in Salesforce​.
 

@@ -5,12 +5,10 @@ topic: userlistviewcriterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.356Z
+lastCollected: 2026-04-07T18:40:05.197Z
 estimatedTokens: 352
-keywords: [UserListViewCriterion, criterion, user’s, customized, view, consists, filters, sort, order, user, added, Salesforce, Mobile, app, API]
+keywords: [UserListViewCriterion, criterion, user’s, customized, view, consists, filters, sort, order, user, added, Salesforce, Mobile, app, API, 32.0]
 ---
-
-# UserListViewCriterion
 
 > Represents the criterion for a user’s customized list view. The
    criterion consists of the filters or sort order a user added to a list view for the Salesforce

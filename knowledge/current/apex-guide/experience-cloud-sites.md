@@ -5,13 +5,11 @@ topic: experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.443Z
+lastCollected: 2026-04-07T18:36:17.674Z
 estimatedTokens: 253
 namespace: Network
 keywords: [Experience, Cloud, Sites, branded, spaces, employees, customers, partners, connect, customize, meet, business, needs, transition, seamlessly]
 ---
-
-# Experience Cloud Sites
 
 > Experience Cloud sites are branded spaces for your employees, customers, and partners to
   connect. You can customize and create sites to meet your business needs, then transition

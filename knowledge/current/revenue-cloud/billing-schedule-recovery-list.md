@@ -5,12 +5,10 @@ topic: billing-schedule-recovery-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.291Z
+lastCollected: 2026-04-07T18:35:45.267Z
 estimatedTokens: 98
-keywords: [Billing, Schedule, Recovery, Output, representation, recovered, schedules, associated, invoice]
+keywords: [Billing, Schedule, Recovery, recovered, schedules, invoice]
 ---
-
-# Billing Schedule Recovery List
 
 > Output representation of the recovered details of the billing schedules and associated
     invoice.

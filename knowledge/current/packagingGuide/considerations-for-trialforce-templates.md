@@ -5,12 +5,10 @@ topic: considerations-for-trialforce-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:55.911Z
+lastCollected: 2026-04-07T18:38:47.868Z
 estimatedTokens: 533
 keywords: [Considerations, Trialforce, Templates, creating, approximate, snapshots, Source, Organization, TSO]
 ---
-
-# Considerations for Trialforce Templates
 
 > Learn the considerations for creating and using Trialforce templates, which are
       approximate snapshots of your Trialforce Source Organization (TSO).

@@ -5,12 +5,10 @@ topic: step-3-create-the-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.960Z
+lastCollected: 2026-04-07T18:36:51.268Z
 estimatedTokens: 331
 keywords: [Step, Resources]
 ---
-
-# Step 3: Create the Static Resources
 
 # Step 3: Create the Static Resources
 

@@ -5,12 +5,10 @@ topic: privacyholdreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.001Z
+lastCollected: 2026-04-07T18:38:38.366Z
 estimatedTokens: 377
-keywords: [PrivacyHoldReason, business, legal, purpose, why, record, Privacy, Hold, API, version, 59.0, later, Calls, Special, Access]
+keywords: [PrivacyHoldReason, business, legal, purpose, why, record, Privacy, Hold, API, 59.0]
 ---
-
-# PrivacyHoldReason
 
 > Represents the business or legal purpose for why a record has a Privacy
          Hold. This object is available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: promotion-configuration-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.382Z
+lastCollected: 2026-04-07T18:38:07.612Z
 estimatedTokens: 387
-keywords: [Promotion, Configuration, View, including, definition, eligibility, criteria, rules, limits, rule, library, version, API, developers, system]
+keywords: [Promotion, Configuration, View, including, definition, eligibility, criteria, limits, rule, library, API, developers, system, integrators, company, active, promotions, Salesforce, org, export, external, systems, offline, point-of-sale, POS]
 ---
-
-# Promotion Configuration (GET)
 
 > View configuration of a promotion, including its definition, eligibility criteria, rules,
     limits, and related rule library version. The Promotion Configuration API enables developers and

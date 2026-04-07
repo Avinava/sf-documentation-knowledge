@@ -5,12 +5,10 @@ topic: userterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.126Z
+lastCollected: 2026-04-07T18:38:43.900Z
 estimatedTokens: 760
-keywords: [UserTerritory, User, assigned, Territory, Calls, Special, Access, Rules, Usage]
+keywords: [UserTerritory, User, assigned, Territory]
 ---
-
-# UserTerritory
 
 > Represents a User who has been assigned to a
   Territory.

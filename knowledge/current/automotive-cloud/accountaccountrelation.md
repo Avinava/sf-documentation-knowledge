@@ -5,12 +5,10 @@ topic: accountaccountrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.877Z
+lastCollected: 2026-04-07T18:36:52.303Z
 estimatedTokens: 1098
-keywords: [AccountAccountRelation, relationship, accounts, dealer, account, household, API, version, 58.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [AccountAccountRelation, relationship, accounts, dealer, account, household, API, 58.0]
 ---
-
-# AccountAccountRelation
 
 > Represents a relationship between accounts, such as a relationship between a
          dealer account and a household account. This object is available in API version 58.0

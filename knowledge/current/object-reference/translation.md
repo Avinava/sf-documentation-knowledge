@@ -5,12 +5,10 @@ topic: translation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.163Z
+lastCollected: 2026-04-07T18:38:42.877Z
 estimatedTokens: 357
-keywords: [Translation, languages, enabled, Salesforce, org, API, version, 47.0, later, Calls, Special, Access, Rules]
+keywords: [Translation, languages, enabled, Salesforce, org, API, 47.0]
 ---
-
-# Translation
 
 > The Translation object represents the languages enabled for translation in your
       Salesforce org. This object is available in API version 47.0 and later.

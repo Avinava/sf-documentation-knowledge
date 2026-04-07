@@ -5,12 +5,10 @@ topic: commerce-webstore-checkout-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.495Z
+lastCollected: 2026-04-07T18:37:12.377Z
 estimatedTokens: 546
 keywords: [Commerce, Webstore, Checkout, Orders, Place, order, store]
 ---
-
-# Commerce Webstore Checkout Orders
 
 > Place an order for a Commerce store checkout.
 

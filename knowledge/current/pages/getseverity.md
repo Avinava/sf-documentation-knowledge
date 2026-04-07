@@ -5,12 +5,10 @@ topic: getseverity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.024Z
+lastCollected: 2026-04-07T18:38:47.981Z
 estimatedTokens: 62
 keywords: [getSeverity, severity, message]
 ---
-
-# getSeverity()
 
 > Returns the severity enum used to create the message.
 

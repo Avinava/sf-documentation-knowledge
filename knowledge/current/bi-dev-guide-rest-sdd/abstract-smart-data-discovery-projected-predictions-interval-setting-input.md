@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-projected-predictions-interval-setting-inpu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.021Z
+lastCollected: 2026-04-07T18:36:58.547Z
 estimatedTokens: 360
-keywords: [Abstract, Smart, Data, Discovery, Projected, Predictions, Interval, Setting, Input, base, Einstein, settings]
+keywords: [Abstract, Smart, Discovery, Projected, Predictions, Interval, Setting, base, Einstein, settings]
 ---
-
-# Abstract Smart Data Discovery Projected Predictions Interval Setting Input
 
 > The base Einstein Discovery projected predictions interval settings input.
 

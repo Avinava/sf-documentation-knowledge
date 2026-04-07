@@ -5,12 +5,10 @@ topic: partnernetworkrecordconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.189Z
+lastCollected: 2026-04-07T18:38:37.487Z
 estimatedTokens: 824
-keywords: [PartnerNetworkRecordConnection, record, shared, Salesforce, organizations, Calls, Special, Access, Rules, Usage]
+keywords: [PartnerNetworkRecordConnection, record, shared, Salesforce, organizations]
 ---
-
-# PartnerNetworkRecordConnection
 
 > Represents a
                 record shared between Salesforce organizations using Salesforce to

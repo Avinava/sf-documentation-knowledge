@@ -5,12 +5,10 @@ topic: clinical-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.269Z
+lastCollected: 2026-04-07T18:37:42.410Z
 estimatedTokens: 3827
-keywords: [Clinical, Data, Model, Patient, healthcare, records, industry, accurate, performing, managing, care, becomes, difficult, readily, seeks]
+keywords: [Clinical, Model, Patient, healthcare, records, industry, accurate, performing, managing, care, becomes, difficult, readily, seeks, provider, every, time, However, reality, patient’s, journey, multiple, providers, hospitals, different, times, Because, health, hinges, accuracy, their, medical, it’s, crucial, systems, interoperable, interoperability, possible, vital, industry-recognized, standards, how, structured, stored, transferred, That’s, defined, Level, HL7, come]
 ---
-
-# Clinical Data Model
 
 > Patient data and healthcare records are important in the healthcare industry. Without
   accurate information, performing and managing care becomes difficult. These records are readily

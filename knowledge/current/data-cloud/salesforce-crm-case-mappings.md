@@ -5,12 +5,10 @@ topic: salesforce-crm-case-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.038Z
+lastCollected: 2026-04-07T18:35:52.957Z
 estimatedTokens: 590
-keywords: [Salesforce, CRM, Case, Mappings, data, stream, deployed, starter, bundle, automatically, maps, Sales, Cloud, Service, model]
+keywords: [Salesforce, CRM, Case, Mappings, stream, deployed, starter, bundle, automatically, maps, Sales, Cloud, Service, model, DMO, bundles, deploy, Contact, Point, DMOs, Identity, Resolution, uses, link, multiple, records, unified, customer, profile, DLO, Mapping]
 ---
-
-# Salesforce CRM: Case Mappings
 
 > After a data stream is deployed, the Salesforce CRM starter data
          bundle automatically maps data from Sales Cloud or Service Cloud to data model objects

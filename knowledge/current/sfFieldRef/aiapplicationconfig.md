@@ -5,13 +5,11 @@ topic: aiapplicationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.874Z
+lastCollected: 2026-04-07T18:39:23.805Z
 estimatedTokens: 314
 namespace: NamespacePrefix
-keywords: [AIApplicationConfig, Additional, prediction, application, API, version, 50.0, later]
+keywords: [AIApplicationConfig, Additional, prediction, application, API, 50.0]
 ---
-
-# AIApplicationConfig
 
 > Additional prediction information related to an AI application. This
     object is available in API version 50.0 and later.

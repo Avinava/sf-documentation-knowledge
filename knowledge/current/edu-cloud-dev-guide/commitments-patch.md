@@ -5,12 +5,10 @@ topic: commitments-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.152Z
+lastCollected: 2026-04-07T18:37:29.274Z
 estimatedTokens: 812
-keywords: [Commitments, PATCH, Modify, data, schedule, campaign, outreach, source, code, donor, payment, instrument, active, gift, commitment]
+keywords: [Commitments, PATCH, Modify, schedule, campaign, outreach, source, code, donor, payment, instrument, active, gift, commitment]
 ---
-
-# Commitments (PATCH)
 
 > Modify the data for the schedule, campaign, outreach source code, donor, and payment
     instrument on an active gift commitment.

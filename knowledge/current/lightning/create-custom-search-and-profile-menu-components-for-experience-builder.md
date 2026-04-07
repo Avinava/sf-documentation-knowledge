@@ -6,13 +6,10 @@ topic: create-custom-search-and-profile-menu-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.954Z
+lastCollected: 2026-04-07T18:38:02.884Z
 estimatedTokens: 424
-keywords: [Custom, Search, Profile, Menu, Components, Experience, Builder, replace, Customer, Service, template’s, standard, Post, Publisher, forceCommunity]
+keywords: [Search, Profile, Menu, Experience, Builder, replace, Customer, Service, template’s, standard, Post, Publisher, forceCommunity, profileMenuInterface, searchInterface]
 ---
-
-# Create Custom Search and Profile Menu Components for Experience
-      Builder
 
 > Create custom components to replace the Customer Service template’s
       standard Profile Header and Search & Post Publisher components in Experience

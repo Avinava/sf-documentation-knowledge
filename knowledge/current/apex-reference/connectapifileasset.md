@@ -5,12 +5,10 @@ topic: connectapifileasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.934Z
+lastCollected: 2026-04-07T18:36:09.316Z
 estimatedTokens: 282
 keywords: [ConnectApi.FileAsset, asset, file]
 ---
-
-# ConnectApi.FileAsset
 
 > An asset file.
 

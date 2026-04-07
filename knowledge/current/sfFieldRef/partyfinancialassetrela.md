@@ -5,12 +5,10 @@ topic: partyfinancialassetrela
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.678Z
+lastCollected: 2026-04-07T18:39:52.092Z
 estimatedTokens: 396
-keywords: [PartyFinancialAssetRela, relationship, financial, assets, relates, party, asset, another, grouping, pledged, together, collateral, part, multiple, groups]
+keywords: [PartyFinancialAssetRela, relationship, financial, assets, relates, party, asset, another, grouping, pledged, together, collateral, part, multiple, groups, group, distinct, loan, API, 65.0, Digital, Lending, permission]
 ---
-
-# PartyFinancialAssetRela
 
 > Represents the relationship between financial assets. The object relates one
          party financial asset to another and is used for grouping assets to be pledged together as

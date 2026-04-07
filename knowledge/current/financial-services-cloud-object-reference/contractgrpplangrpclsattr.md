@@ -5,12 +5,10 @@ topic: contractgrpplangrpclsattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.116Z
+lastCollected: 2026-04-07T18:37:36.897Z
 estimatedTokens: 447
-keywords: [ContractGrpPlanGrpClsAttr, view, attributes, selected, contract, group, plan, API, version, 64.0, later, Calls]
+keywords: [ContractGrpPlanGrpClsAttr, view, attributes, selected, contract, group, plan, API, 64.0]
 ---
-
-# ContractGrpPlanGrpClsAttr
 
 > Represents a view of the attributes selected for each contract group plan
          group class. This object is available in API version 64.0 and later.

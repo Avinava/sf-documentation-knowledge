@@ -5,12 +5,10 @@ topic: appexchange-security-review-stages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.756Z
+lastCollected: 2026-04-07T18:38:47.705Z
 estimatedTokens: 1908
 keywords: [AppExchange, Security, Review, Stages, four-stage, process, partner, it’s, understand, happens, know, stage]
 ---
-
-# AppExchange Security Review Stages
 
 > The AppExchange security review is a four-stage process. As a partner, it’s important
   for you to understand what the stages are, what happens during each one, and to know which stage

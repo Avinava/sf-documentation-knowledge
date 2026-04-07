@@ -5,12 +5,10 @@ topic: enable-receipt-scanning
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.862Z
+lastCollected: 2026-04-07T18:38:09.157Z
 estimatedTokens: 606
-keywords: [Enable, Receipt, Scanning, org, Loyalty, Management, Scanner, Kit, unlocked, package, installed, Members, their, mobile, device]
+keywords: [Enable, Receipt, Scanning, org, Loyalty, Management, Scanner, Kit, unlocked, package, installed, Members, their, mobile, device, upload, receipts, points]
 ---
-
-# Enable Receipt Scanning
 
 > Enable receipt scanning in the org where the Loyalty Management Receipt Scanner Kit
   unlocked package is installed. Members can then use their mobile device to upload receipts and get

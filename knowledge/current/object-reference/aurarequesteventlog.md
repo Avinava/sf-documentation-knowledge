@@ -5,12 +5,10 @@ topic: aurarequesteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:35.509Z
+lastCollected: 2026-04-07T18:38:26.471Z
 estimatedTokens: 1425
-keywords: [AuraRequestEventLog, Aura, Event, Log, requests, Apex, Lightning, web, components, API, version, 61.0, later, Calls, Special]
+keywords: [AuraRequestEventLog, Aura, Event, Log, requests, Apex, Lightning, web, API, 61.0]
 ---
-
-# AuraRequestEventLog
 
 > Aura Request Event Log contains details of requests to Apex methods from Aura
          and Lightning web components. This object is available in API version 61.0 and later.

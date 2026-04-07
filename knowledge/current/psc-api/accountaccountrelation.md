@@ -5,12 +5,10 @@ topic: accountaccountrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.359Z
+lastCollected: 2026-04-07T18:39:05.368Z
 estimatedTokens: 1135
-keywords: [AccountAccountRelation, relationship, accounts, business, account, household, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [AccountAccountRelation, relationship, accounts, business, account, household, API, 57.0]
 ---
-
-# AccountAccountRelation
 
 > Represents a relationship between accounts, such as a relationship between a
          business account and a household account. This object is available in API version 57.0

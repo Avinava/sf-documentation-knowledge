@@ -5,12 +5,10 @@ topic: generateconsoleurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.123Z
+lastCollected: 2026-04-07T18:36:49.192Z
 estimatedTokens: 303
-keywords: [generateConsoleUrl, Generates, URL, tab, group, tabs, Salesforce, console, any, include, external, URLs, add, console’s, allowlist]
+keywords: [Arguments, generateConsoleUrl, Generates, URL, tab, group, tabs, Salesforce, console, any, include, external, URLs, add, console’s, allowlist, they, display, correctly.This, API, 28.0, Sample, Code–Visualforce]
 ---
-
-# generateConsoleUrl()
 
 > Generates a URL to a tab, or group of related tabs,
             in the Salesforce console. If any tabs include external URLs, then add the external URLs

@@ -5,12 +5,10 @@ topic: get-started-with-the-partner-marketplace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.290Z
+lastCollected: 2026-04-07T18:38:47.257Z
 estimatedTokens: 4329
-keywords: [Started, Partner, Marketplace, Now, understand, how, works, it’s, time, cover, main, steps, creating, account, receiving]
+keywords: [Started, Partner, Marketplace, Now, understand, how, works, it’s, time, cover, main, steps, creating, account, receiving, payouts, app, Business, org, PBO, submit, interest, Salesforce, team, reviews, application, contacts, Onboard, Locate, Connect, Stripe, Step, Manage, Products, Map, Package, Licenses, Send, Offers, Initial, Offer, Add-On, Add, Review, Statuses, View, Track, Orders, Order]
 ---
-
-# Get Started with the Partner Marketplace
 
 > Now that you understand what the Partner Marketplace is and how it works, it’s time to
     learn how to use it. We cover the main steps, from creating your account to receiving payouts.

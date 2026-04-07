@@ -5,12 +5,10 @@ topic: energyattrcertpurchaseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.684Z
+lastCollected: 2026-04-07T18:39:39.339Z
 estimatedTokens: 254
 keywords: [EnergyAttrCertPurchaseShare, Sharing, EnergyAttrCertPurchase]
 ---
-
-# EnergyAttrCertPurchaseShare
 
 > Sharing for EnergyAttrCertPurchase.
 

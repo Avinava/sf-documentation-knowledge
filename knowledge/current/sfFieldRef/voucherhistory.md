@@ -5,12 +5,10 @@ topic: voucherhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.368Z
+lastCollected: 2026-04-07T18:40:06.264Z
 estimatedTokens: 253
-keywords: [VoucherHistory, History, tracked, Voucher]
+keywords: [VoucherHistory, tracked, Voucher]
 ---
-
-# VoucherHistory
 
 > History for tracked fields of Voucher.
 

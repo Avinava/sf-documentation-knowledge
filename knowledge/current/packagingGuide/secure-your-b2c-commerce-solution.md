@@ -5,12 +5,10 @@ topic: secure-your-b2c-commerce-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.366Z
+lastCollected: 2026-04-07T18:38:47.347Z
 estimatedTokens: 1468
-keywords: [Secure, B2C, Commerce, Solution, Cartridges, Headless, Integrations, listed, AppExchange, adhere, requirements, Encryption, Cryptography, Secret, Storage]
+keywords: [Cryptography, Environments, Secure, B2C, Commerce, Solution, Cartridges, Headless, Integrations, listed, AppExchange, adhere, requirements, Encryption, Secret, Storage, Authentication, Authorization, Open, API, OCAPI, Salesforce, SCAPI, Settings, Sensitive, Logging, Client-Side, Scripts, Code, Injection, User-Input, Validation, User, Cross-Site, Forgery, CSRF, Redirects, Content, Security, Policy, Patches, Upgrades]
 ---
-
-# Secure Your B2C Commerce Solution
 
 > All B2C Commerce Cartridges and Headless Integrations listed on AppExchange must adhere
   to these requirements.

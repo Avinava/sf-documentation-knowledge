@@ -5,12 +5,10 @@ topic: create-a-custom-navigation-menu-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.099Z
+lastCollected: 2026-04-07T18:37:33.451Z
 estimatedTokens: 1162
-keywords: [Custom, Navigation, Menu, Component, Build, Own, LWR, template, includes, customize, desktop, mobile, versions, site, prefer]
+keywords: [Navigation, Menu, Build, Own, LWR, template, includes, customize, desktop, mobile, versions, site, prefer, recommend, Lightning, web, Apex, controller, items, Step, Configure, Implement]
 ---
-
-# Create a Custom Navigation Menu Component
 
 > The Build Your Own (LWR) template includes a Navigation Menu component that you can
     customize for the desktop and mobile versions of your site. If you prefer to create your own

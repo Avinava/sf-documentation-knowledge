@@ -5,12 +5,10 @@ topic: supported-notification-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.690Z
+lastCollected: 2026-04-07T18:40:16.849Z
 estimatedTokens: 4179
-keywords: [Notification, Events, Event, Service, supports, their, corresponding, payloads, Common, Attributes, Transactional, Email, Sent, Info, Payload]
+keywords: [Notification, Events, Event, Service, supports, their, corresponding, payloads, Common, Attributes, Transactional, Email, Sent, Info, Payload, TransactionalSendEvents.EmailNotSent, Bounced, Bounce, TransactionalSendEvents.EmailBounced, Engagement, Open, EngagementEvents.EmailOpen, Click, EngagementEvents.EmailClick, Unsubscribe, EngagementEvents.EmailUnsubscribe, SMS, Transient, Delivered]
 ---
-
-# Supported Notification Events
 
 > The Event Notification Service supports these event notification types and their corresponding payloads.
 

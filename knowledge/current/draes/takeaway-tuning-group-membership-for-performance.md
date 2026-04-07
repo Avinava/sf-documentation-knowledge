@@ -5,12 +5,10 @@ topic: takeaway-tuning-group-membership-for-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.756Z
+lastCollected: 2026-04-07T18:37:28.845Z
 estimatedTokens: 290
-keywords: [Takeaway, Tuning, Group, Membership, Performance, Understand, characteristics, various, maintenance, operations, you’re, performing, Always, test, substantial]
+keywords: [Takeaway, Tuning, Group, Membership, Performance, Understand, characteristics, various, maintenance, operations, you’re, performing, Always, test, substantial, configuration, changes, full, copy, sandbox, that's, recently, refreshed, know, expect, production]
 ---
-
-# Takeaway: Tuning Group Membership for Performance
 
 > Understand the performance characteristics of the various group maintenance operations
   that you’re performing. Always test substantial configuration changes in a full copy sandbox

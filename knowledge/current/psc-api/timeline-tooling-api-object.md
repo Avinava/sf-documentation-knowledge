@@ -5,12 +5,10 @@ topic: timeline-tooling-api-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.316Z
+lastCollected: 2026-04-07T18:39:08.602Z
 estimatedTokens: 177
-keywords: [Timeline, Tooling, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
+keywords: [Timeline, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---
-
-# Timeline Tooling API Object
 
 > Tooling API exposes metadata used in developer tooling that
   you can access through REST or SOAP. Tooling API’s SOQL capabilities for many metadata types allow

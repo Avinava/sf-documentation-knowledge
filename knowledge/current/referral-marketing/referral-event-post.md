@@ -5,12 +5,10 @@ topic: referral-event-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.145Z
+lastCollected: 2026-04-07T18:39:09.466Z
 estimatedTokens: 1089
-keywords: [Referral, Event, POST, records, advocate, refers, friend, referred, friends, sign, purchase, Special, Access, Rules]
+keywords: [Referral, Event, POST, records, advocate, refers, friend, referred, friends, sign, purchase]
 ---
-
-# Referral Event (POST)
 
 > Create referral event records when an advocate refers a friend, or
       when referred friends sign up or make a purchase.

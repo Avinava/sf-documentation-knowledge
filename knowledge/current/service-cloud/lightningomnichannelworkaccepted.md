@@ -5,12 +5,10 @@ topic: lightningomnichannelworkaccepted
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.970Z
+lastCollected: 2026-04-07T18:36:49.041Z
 estimatedTokens: 176
 keywords: [lightning, omniChannelWorkAccepted, agent, accepted, work, assignment, automatically]
 ---
-
-# lightning:omniChannelWorkAccepted
 
 > Indicates that an agent has accepted a work
             assignment, or that a work assignment has been automatically accepted.

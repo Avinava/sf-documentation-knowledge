@@ -5,12 +5,10 @@ topic: procedure-plan-evaluation-by-object-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.450Z
+lastCollected: 2026-04-07T18:35:44.435Z
 estimatedTokens: 532
-keywords: [Procedure, Plan, Evaluation, POST, Evaluate, definition, primary, check, prerequisites, usage, context, mapping]
+keywords: [Procedure, Plan, Evaluation, POST, Evaluate, definition, primary, check, prerequisites, context, mapping]
 ---
-
-# Procedure Plan Evaluation By Object (POST)
 
 > Evaluate a procedure plan definition based on a primary object to
       check for prerequisites such as usage type and context mapping details.

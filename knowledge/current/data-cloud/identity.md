@@ -5,12 +5,10 @@ topic: identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.615Z
+lastCollected: 2026-04-07T18:35:51.471Z
 estimatedTokens: 521
-keywords: [Identity, Salesforce, Interactions, SDK, supports, identification, new, returning, customer, first-party, cookie, _sfid_$, domainHash, produced, running]
+keywords: [Identity, Salesforce, Interactions, SDK, supports, identification, new, returning, customer, first-party, cookie, _sfid_$, domainHash, produced, running, website’s, domain, hashing, function, Sharing, Across, Multiple, Domains]
 ---
-
-# Identity
 
 > The Salesforce Interactions SDK supports identification of new and returning customer
   using the first-party cookie _sfid_${domainHash}. Also, the

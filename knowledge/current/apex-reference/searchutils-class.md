@@ -5,13 +5,11 @@ topic: searchutils-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.648Z
+lastCollected: 2026-04-07T18:35:59.925Z
 estimatedTokens: 618
 namespace: DataSource
-keywords: [SearchUtils, Helper, implementing, search, custom, adapter, Salesforce, Connect, Usage, searchByName, searchDetails, connection]
+keywords: [SearchUtils, Helper, implementing, search, adapter, Salesforce, Connect, searchByName, searchDetails, connection]
 ---
-
-# SearchUtils Class
 
 > Helper class for implementing search on a custom adapter for
       Salesforce Connect.

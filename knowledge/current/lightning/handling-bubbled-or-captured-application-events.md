@@ -5,12 +5,10 @@ topic: handling-bubbled-or-captured-application-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.932Z
+lastCollected: 2026-04-07T18:38:04.030Z
 estimatedTokens: 989
-keywords: [Handling, Bubbled, Captured, Application, Events, Event, propagation, rules, determine, components, containment, hierarchy, handle, bubble, capture]
+keywords: [Handling, Bubbled, Captured, Application, Events, Event, propagation, determine, containment, hierarchy, handle, bubble, capture, phases, how, Container, Stop, Pausing, Asynchronous, Code, Execution]
 ---
-
-# Handling Bubbled or Captured Application Events
 
 > Event propagation rules determine which components in the containment hierarchy can
     handle events by default in the bubble or capture phases. Learn about the rules and how to

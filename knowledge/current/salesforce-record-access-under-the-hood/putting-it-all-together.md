@@ -5,12 +5,10 @@ topic: putting-it-all-together
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.110Z
+lastCollected: 2026-04-07T18:39:19.800Z
 estimatedTokens: 1532
-keywords: [Putting, Together, paper’s, scenarios, seen, how, access, rights, users, recorded, Sharing, Group, Maintenance, tables, Salesforce]
+keywords: [Putting, Together, paper’s, scenarios, seen, how, rights, users, recorded, Sharing, Group, Maintenance, tables, Salesforce, platform, relatively, simple, examples, few, rows, were, changing, However, common, administrative]
 ---
-
-# Putting It All Together
 
 > In this paper’s scenarios, you have seen how the access rights of users are recorded in
    the Object Sharing and Group Maintenance tables of the Salesforce platform. In those relatively

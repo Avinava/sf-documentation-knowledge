@@ -5,12 +5,10 @@ topic: integrated-care-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.353Z
+lastCollected: 2026-04-07T18:37:42.495Z
 estimatedTokens: 2732
-keywords: [Integrated, Care, Management, data, model, store, clinical, patient, member’s, plans, USCDI, FHIR, R4-aligned, helps, system’s]
+keywords: [Integrated, Care, Management, model, store, clinical, patient, member’s, plans, USCDI, FHIR, R4-aligned, helps, system’s, interoperability]
 ---
-
-# Integrated Care Management
 
 > Integrated Care Management provides a data model to store clinical data related to a
     patient or member’s care plans. This data model is both USCDI and FHIR R4-aligned, which helps

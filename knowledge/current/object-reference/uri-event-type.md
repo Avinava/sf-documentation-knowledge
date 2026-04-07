@@ -5,12 +5,10 @@ topic: uri-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.847Z
+lastCollected: 2026-04-07T18:38:31.721Z
 estimatedTokens: 1734
 keywords: [URI, Event, events, contain, user, interaction, web, browser]
 ---
-
-# URI Event Type
 
 > URI events contain details about user interaction with the web
          browser UI.

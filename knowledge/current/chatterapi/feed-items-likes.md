@@ -5,12 +5,10 @@ topic: feed-items-likes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.515Z
+lastCollected: 2026-04-07T18:37:13.472Z
 estimatedTokens: 348
-keywords: [Feed-Items, Likes, feed, item]
+keywords: [Feed-Items, Likes, item]
 ---
-
-# Feed-Items Likes
 
 > Get likes for a feed item or like a feed item.
 

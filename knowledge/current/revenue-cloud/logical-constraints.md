@@ -5,12 +5,10 @@ topic: logical-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.585Z
+lastCollected: 2026-04-07T18:35:42.471Z
 estimatedTokens: 2377
-keywords: [Logical, Constraints, constraint, statement, hold, logically, any, expression, operator, Patterns, Key, Components, Operators, Explanation, How]
+keywords: [Logical, Constraints, constraint, statement, hold, logically, any, expression, operator, Patterns, Key, Operators, Explanation, How, User, Order, Affects, Engine, Behavior, Evaluation, Generator, Left-Hand, Side, Right-Hand, Resolution, Implication, Directional, Enforcement, Bi-conditional, <->, Symmetrical, Equivalence, Exception, exclude, Rule]
 ---
-
-# Logical Constraints
 
 > A logical constraint defines a statement that must hold true logically. The constraint
     can be any logical expression by using a logical operator.

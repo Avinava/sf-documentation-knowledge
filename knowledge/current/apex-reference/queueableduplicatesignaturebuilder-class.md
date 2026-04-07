@@ -5,13 +5,11 @@ topic: queueableduplicatesignaturebuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.003Z
+lastCollected: 2026-04-07T18:36:01.206Z
 estimatedTokens: 2215
 namespace: System
-keywords: [QueueableDuplicateSignature.Builder, Build, unique, queueable, job, inner, builder, builds, QueueableDuplicateSignature, input, addId, addInteger, addString, DuplicateSignature, AsyncOptions]
+keywords: [Examples, QueueableDuplicateSignature.Builder, Build, unique, queueable, job, inner, builder, builds, QueueableDuplicateSignature, addId, addInteger, addString, DuplicateSignature, AsyncOptions, store, Enqueue, System.enqueueJob, inputId, inputInteger, inputString, getMaxSize, getRemainingSize, getSize]
 ---
-
-# QueueableDuplicateSignature.Builder Class
 
 > Build a unique signature for your queueable job using this inner builder class. The
       build() class method builds a  QueueableDuplicateSignature object, with input from the addId(), addInteger(), and addString() methods. Use the DuplicateSignature property in the AsyncOptions

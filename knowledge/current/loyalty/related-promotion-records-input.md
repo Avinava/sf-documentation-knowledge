@@ -5,12 +5,10 @@ topic: related-promotion-records-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.167Z
+lastCollected: 2026-04-07T18:38:07.394Z
 estimatedTokens: 170
-keywords: [Promotion, Records, Input, representation, decides, cloned, associated, new]
+keywords: [Promotion, Records, decides, cloned, new]
 ---
-
-# Related Promotion Records Input
 
 > Input representation that decides which related records and fields of the existing promotion are cloned and associated with the new promotion.
 

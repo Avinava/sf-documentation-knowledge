@@ -5,12 +5,10 @@ topic: insurance-member-rating-plans-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.133Z
+lastCollected: 2026-04-07T18:37:51.076Z
 estimatedTokens: 87
-keywords: [Insurance, Member, Rating, Plans, Input, representation, individual, plan]
+keywords: [Insurance, Member, Rating, Plans, individual, plan]
 ---
-
-# Insurance Member Rating Plans Input
 
 > Input representation for an individual rating plan.
 

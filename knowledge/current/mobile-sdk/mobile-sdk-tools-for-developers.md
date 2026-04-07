@@ -5,12 +5,10 @@ topic: mobile-sdk-tools-for-developers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.419Z
+lastCollected: 2026-04-07T18:40:27.584Z
 estimatedTokens: 166
 keywords: [Mobile, SDK, Tools, Developers, help, what’s, happening, their, apps, runtime]
 ---
-
-# Mobile SDK Tools for Developers
 
 > Mobile SDK provides tools
   that help developers see what’s happening in their apps at runtime.

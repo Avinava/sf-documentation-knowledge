@@ -5,12 +5,10 @@ topic: journalsubtypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.346Z
+lastCollected: 2026-04-07T18:39:45.898Z
 estimatedTokens: 262
-keywords: [JournalSubTypeHistory, History, tracked, JournalSubType]
+keywords: [JournalSubTypeHistory, tracked, JournalSubType]
 ---
-
-# JournalSubTypeHistory
 
 > History for tracked fields of JournalSubType.
 

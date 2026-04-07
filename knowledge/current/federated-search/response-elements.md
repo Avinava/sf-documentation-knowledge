@@ -5,12 +5,10 @@ topic: response-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.524Z
+lastCollected: 2026-04-07T18:40:14.537Z
 estimatedTokens: 1530
-keywords: [Elements, external, search, provider, results, federated, connector, Atom, RSS, Common, Salesforce, Dublin, Core, provided, extracts]
+keywords: [external, search, provider, results, federated, connector, Atom, RSS, Common, Salesforce, Dublin, Core, provided, extracts, Entry]
 ---
-
-# Response: Elements
 
 > The external search provider returns results to the federated search connector in Atom
   or RSS format. Common elements, such as from Salesforce or Dublin Core, are also provided. The

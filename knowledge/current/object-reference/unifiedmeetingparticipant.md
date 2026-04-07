@@ -5,12 +5,10 @@ topic: unifiedmeetingparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.405Z
+lastCollected: 2026-04-07T18:38:43.146Z
 estimatedTokens: 494
-keywords: [UnifiedMeetingParticipant, participant, meeting, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access, Rules]
+keywords: [UnifiedMeetingParticipant, participant, meeting, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedMeetingParticipant
 
 > Represents a participant in a meeting. This object is available
       for reports and dashboards in the Winter ’24 release and later.

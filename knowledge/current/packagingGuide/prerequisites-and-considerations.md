@@ -5,12 +5,10 @@ topic: prerequisites-and-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:55.266Z
+lastCollected: 2026-04-07T18:38:47.238Z
 estimatedTokens: 493
 keywords: [Prerequisites, Considerations, There, few, review, setting, Partner, Marketplace]
 ---
-
-# Prerequisites and Considerations
 
 > There are a few prerequisites and considerations to review before setting up the Partner
   Marketplace.

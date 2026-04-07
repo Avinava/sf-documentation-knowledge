@@ -5,12 +5,10 @@ topic: sendemailmokeyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.006Z
+lastCollected: 2026-04-07T18:40:20.234Z
 estimatedTokens: 583
 keywords: [SendEmailMOKeyword, action, triggered, email, message, addresses, defined, Items]
 ---
-
-# SendEmailMOKeyword
 
 > The SendEmailMOKeyword object defines the action that sends a triggered email message to the email addresses defined in an MO message.
 

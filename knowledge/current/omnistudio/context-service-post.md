@@ -5,12 +5,10 @@ topic: context-service-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.339Z
+lastCollected: 2026-04-07T18:36:37.940Z
 estimatedTokens: 240
-keywords: [Context, Service, POST, new, records, submitting, metadata, associated, JSON, data, validating, system, generates, objects, created]
+keywords: [Context, Service, POST, new, records, submitting, metadata, JSON, validating, system, generates, created, API, apply, They, cannot, pass, across, multiple, requests]
 ---
-
-# Context Service (POST)
 
 > Create new context records by submitting metadata and associated JSON data. After
     validating the data, the system generates a new context ID. Context objects created using this

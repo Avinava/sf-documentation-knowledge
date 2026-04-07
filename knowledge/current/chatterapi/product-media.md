@@ -5,12 +5,10 @@ topic: product-media
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.993Z
+lastCollected: 2026-04-07T18:37:22.103Z
 estimatedTokens: 468
-keywords: [Product, Media, associated]
+keywords: [Product, Media]
 ---
-
-# Product Media
 
 > Media associated with a product.
 

@@ -5,12 +5,10 @@ topic: manage-model-refresh-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:11.932Z
+lastCollected: 2026-04-07T18:36:58.459Z
 estimatedTokens: 281
 keywords: [Manage, Model, Refresh, Jobs, Einstein, Prediction, Service, REST, API, endpoints, retrieve, metadata, Job, Task]
 ---
-
-# Manage Model Refresh Jobs
 
 > The Einstein Prediction Service provides REST API endpoints to retrieve metadata for
     model refresh jobs.

@@ -5,12 +5,10 @@ topic: output-d360-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.759Z
+lastCollected: 2026-04-07T18:39:18.473Z
 estimatedTokens: 119
-keywords: [Output, D360, Node, Input, recipe]
+keywords: [D360, Node, recipe]
 ---
-
-# Output D360 Node Input
 
 > An output D360 node in a recipe.
 

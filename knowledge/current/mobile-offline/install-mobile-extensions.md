@@ -5,12 +5,10 @@ topic: install-mobile-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.830Z
+lastCollected: 2026-04-07T18:38:15.318Z
 estimatedTokens: 2425
-keywords: [Install, Mobile, Extensions, lwc-dev-mobile, Salesforce, CLI, plug-in, it’s, installed, check, Android, iOS, configurations, finds, problems]
+keywords: [Install, Mobile, Extensions, lwc-dev-mobile, Salesforce, CLI, plug-in, it’s, installed, check, Android, iOS, configurations, finds, problems, command, gives, hints, how, fix, environment, preview, line, Visual, Studio, Code, Development, Virtual, Devices, Device, Start]
 ---
-
-# Install Mobile Extensions
 
 > To use Mobile Extensions, install the lwc-dev-mobile Salesforce CLI plug-in. After it’s installed, use it to check for the
     required Android and iOS configurations. If the plug-in finds problems, the command output gives

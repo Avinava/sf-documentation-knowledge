@@ -6,13 +6,10 @@ topic: runtime-considerations-for-flows-that-include-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:13.093Z
+lastCollected: 2026-04-07T18:38:03.071Z
 estimatedTokens: 504
-keywords: [Runtime, Considerations, Flows, Include, Aura, Components, Depending, run, flow, may, look, behave, differently, expected, app]
+keywords: [Runtime, Considerations, Flows, Include, Aura, Depending, run, flow, may, look, behave, differently, expected, app, that's, distribution, doesn't, necessary, resources, Lightning, framework, Builder, direct, URL, https, yourDomain.my.salesforce.com, MyFlowName, force, events, aren’t, handled]
 ---
-
-# Runtime Considerations for Flows That Include Aura
-    Components
 
 > Depending on where you run your flow, Aura components may look or behave differently
     than expected. The flow runtime app that's used for some distribution methods doesn't include

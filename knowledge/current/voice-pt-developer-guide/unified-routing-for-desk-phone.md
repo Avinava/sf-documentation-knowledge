@@ -5,12 +5,10 @@ topic: unified-routing-for-desk-phone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.794Z
+lastCollected: 2026-04-07T18:40:13.718Z
 estimatedTokens: 610
 keywords: [Unified, Routing, Desk, Phone, route, voice, call, rep’s, configure, managed, package]
 ---
-
-# Unified Routing for Desk Phone
 
 > To route a voice call to a rep’s desk phone, configure unified routing for desk phone
   in a managed package.

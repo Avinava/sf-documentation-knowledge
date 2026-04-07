@@ -5,12 +5,10 @@ topic: bypass-object-level-and-field-level-access-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.387Z
+lastCollected: 2026-04-07T18:38:47.370Z
 estimatedTokens: 641
-keywords: [Bypass, Object-Level, Field-Level, Access, Settings, Design, solutions, enforce, org’s, CRUD, security, FLS, standard, custom, objects]
+keywords: [Bypass, Object-Level, Field-Level, Settings, Design, solutions, enforce, org’s, CRUD, security, FLS, standard, Apex]
 ---
-
-# Bypass Object-Level and Field-Level Access Settings
 
 > Design your solutions to enforce the org’s create, read, update, and delete (CRUD) and
     field-level security (FLS) settings on standard and custom objects.

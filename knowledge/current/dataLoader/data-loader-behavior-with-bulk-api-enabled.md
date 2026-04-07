@@ -5,12 +5,10 @@ topic: data-loader-behavior-with-bulk-api-enabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.351Z
+lastCollected: 2026-04-07T18:37:28.382Z
 estimatedTokens: 335
-keywords: [Data, Loader, Behavior, Bulk, API, Enabled, Enabling, lets, load, large, number, records, faster, SOAP-based, However]
+keywords: [Loader, Behavior, Bulk, API, Enabled, Enabling, lets, load, large, number, records, faster, SOAP-based, However, there, differences, enable, difference, execute, hard, permission, license]
 ---
-
-# Data Loader Behavior with Bulk API Enabled
 
 > Enabling the Bulk API in Data Loader lets you load or delete a large number of records
   faster than using the default SOAP-based API. However, there are some differences in behavior in

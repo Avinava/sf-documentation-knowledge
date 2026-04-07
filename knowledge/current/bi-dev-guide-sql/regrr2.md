@@ -5,12 +5,10 @@ topic: regrr2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.916Z
+lastCollected: 2026-04-07T18:37:01.528Z
 estimatedTokens: 31
 keywords: [regr_r2, R-squared, goodness-of-fit, regression, regr, _r2]
 ---
-
-# regr_r2()
 
 > Returns the R-squared, or goodness-of-fit value for a regression.
 

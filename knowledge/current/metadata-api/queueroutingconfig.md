@@ -5,12 +5,10 @@ topic: queueroutingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.290Z
+lastCollected: 2026-04-07T18:36:28.782Z
 estimatedTokens: 1350
-keywords: [QueueRoutingConfig, settings, determine, how, work, items, routed, agents, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [QueueRoutingConfig, QueueRoutingConfigSkill, settings, determine, how, work, items, routed, agents, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# QueueRoutingConfig
 
 > Represents the settings that determine how work items
       are routed to agents.

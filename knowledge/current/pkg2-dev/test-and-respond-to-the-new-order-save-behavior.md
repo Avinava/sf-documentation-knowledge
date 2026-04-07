@@ -5,12 +5,10 @@ topic: test-and-respond-to-the-new-order-save-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.905Z
+lastCollected: 2026-04-07T18:38:56.544Z
 estimatedTokens: 1010
-keywords: [Test, Respond, New, Order, Save, Behavior, sure, custom, application, logic, works, accurately, records, associated, turn]
+keywords: [Test, Respond, New, Order, Save, Behavior, sure, application, logic, works, accurately, records, turn, Enable, setting, recommend, support, old, testing]
 ---
-
-# Test and Respond to the New Order Save Behavior
 
 > To make sure custom application logic works accurately on records associated with the
     Order object, turn on the Enable New Order Save Behavior setting, and test the behavior. We

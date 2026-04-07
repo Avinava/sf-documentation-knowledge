@@ -5,13 +5,11 @@ topic: headlessuserdiscoveryresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.261Z
+lastCollected: 2026-04-07T18:35:59.537Z
 estimatedTokens: 1152
 namespace: Auth
-keywords: [HeadlessUserDiscoveryResponse, describe, result, headless, user, discovery, handler, implements, Auth.HeadlessUserDiscoveryHandler, login, passwordless, forgot, password, flows, Usage]
+keywords: [HeadlessUserDiscoveryResponse, describe, result, headless, user, discovery, handler, implements, Auth.HeadlessUserDiscoveryHandler, login, passwordless, forgot, password, flows, userIds, customErrorMessage]
 ---
-
-# HeadlessUserDiscoveryResponse Class
 
 > Contains methods to describe the result of headless user discovery using a handler that
     implements the Auth.HeadlessUserDiscoveryHandler interface

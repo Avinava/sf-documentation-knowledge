@@ -5,12 +5,10 @@ topic: apextestsuite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.945Z
+lastCollected: 2026-04-07T18:39:25.938Z
 estimatedTokens: 284
-keywords: [ApexTestSuite, suite, Apex, classes, include, test, run, TestSuiteMembership, associates, API, version, 36.0, later]
+keywords: [ApexTestSuite, suite, Apex, classes, include, test, run, TestSuiteMembership, associates, API, 36.0]
 ---
-
-# ApexTestSuite
 
 > Represents a suite of Apex classes to include in a test run. A
    TestSuiteMembership object associates each class with the suite. This object is available in

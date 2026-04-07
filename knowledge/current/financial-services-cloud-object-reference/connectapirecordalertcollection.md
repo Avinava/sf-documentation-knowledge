@@ -5,12 +5,10 @@ topic: connectapirecordalertcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.573Z
+lastCollected: 2026-04-07T18:37:34.048Z
 estimatedTokens: 68
-keywords: [ConnectApi.RecordAlertCollection, Representation, collection, record, alerts]
+keywords: [ConnectApi.RecordAlertCollection, collection, record, alerts]
 ---
-
-# ConnectApi.RecordAlertCollection
 
 > Representation of a collection of record alerts.
 

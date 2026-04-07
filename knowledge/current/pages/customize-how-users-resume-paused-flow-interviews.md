@@ -5,12 +5,10 @@ topic: customize-how-users-resume-paused-flow-interviews
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.195Z
+lastCollected: 2026-04-07T18:38:51.437Z
 estimatedTokens: 626
-keywords: [Customize, How, Users, Resume, Paused, Flow, Interviews, their, component, home, want, pausedInterviewId, attribute, <flow, interview>]
+keywords: [Customize, How, Users, Resume, Paused, Flow, Interviews, their, home, want, pausedInterviewId, attribute, <flow, interview>, Visualforce, Apex, Controller, Layout]
 ---
-
-# Customize How Users Resume Paused Flow Interviews
 
 > By default, users can resume their paused interviews from the Paused Interviews
     component on their home page. If you want to customize how and where users can resume their

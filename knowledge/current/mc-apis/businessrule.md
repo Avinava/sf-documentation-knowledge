@@ -5,12 +5,10 @@ topic: businessrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.498Z
+lastCollected: 2026-04-07T18:40:15.599Z
 estimatedTokens: 654
-keywords: [BusinessRule, business, rules, account, retrieve, Marketing, Cloud, admin, Items]
+keywords: [BusinessRule, business, account, retrieve, Marketing, Cloud, admin, Items]
 ---
-
-# BusinessRule
 
 > The BusinessRule object contains business rules for your account. To update or retrieve the BusinessRule object, you must be a Marketing Cloud admin.
 

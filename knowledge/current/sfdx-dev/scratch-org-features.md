@@ -5,12 +5,10 @@ topic: scratch-org-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.453Z
+lastCollected: 2026-04-07T18:40:08.407Z
 estimatedTokens: 50483
-keywords: [Scratch, Org, Features, definition, file, configuration, determine, shape, enable, add-on, AccountInspection, AccountingSubledgerGrowthEdition, AccountingSubledgerStarterEdition, AccountingSubledgerUser, AddCustomApps]
+keywords: [AccountInspection, AccountingSubledgerGrowthEdition, AccountingSubledgerStarterEdition, AccountingSubledgerUser, AdmissionsConnectUser, AdvisorLinkFeature, AdvisorLinkPathwaysFeature, AIAttribution, AllUserIdServiceAccess, AnalyticsAdminPerms, AnalyticsAppEmbedded, ApexGuruCodeAnalyzer, ArcGraphCommunity, Assessments, AssociationEngine, AuthorApex, B2BCommerce, B2BLoyaltyManagement, B2CCommerceGMV, B2CLoyaltyManagement, B2CLoyaltyManagementPlus, BatchManagement, BenefitManagement, BigObjectsBulkAPI, BillingAdvanced, Briefcase, BudgetManagement, BusinessRulesEngine, BYOCCaaS, BYOOTT, CacheOnlyKeys, CampaignInfluence2, CascadeDelete, CaseClassification, CaseWrapUp, CGAnalytics, ChangeDataCapture, Chatbot, ChatterEmailFooterLogo, ChatterEmailFooterText, ChatterEmailSenderName, CloneApplication, CMSMaxContType, CMSMaxNodesPerContType, CMSUnlimitedUse, Communities, CompareReportsOrgPerm, ConAppPluginExecuteAsUser, ConnectedAppCustomNotifSubscription, ConnectedAppToolingAPI, ConsentEventStream, ContactsToMultipleAccounts, ContractApprovals, ContractManagement, ContractMgmtInd, CoreCpq, CustomerDataPlatform, CustomerDataPlatformLite, CustomerExperienceAnalytics, CustomFieldDataTranslation, CustomNotificationType, DataComDnbAccounts, DataComFullClean, DataMaskUser, DataProcessingEngine, DebugApex, DecisionTable, DefaultWorkflowUser, DeferSharingCalc, DevelopmentWave, DeviceTrackingEnabled, DevOpsCenter, DisableManageIdConfAPI, DisclosureFramework, Division, DocGen, DocGenDesigner, DocGenInd, DocumentChecklist, DocumentReaderPageLimit, DSARPortability, DurableClassicStreamingAPI, DurableGenericStreamingAPI, DynamicClientCreationLimit, EAndUDigitalSales, EAndUSelfServicePortal, EAOutputConnectors, EASyncOut, EdPredictionM3Threshold, EdPredictionTimeout, EdPredictionTimeoutBulk, EdPredictionTimeoutByomBulk, Einstein1AIPlatform, EinsteinAnalyticsPlus, EinsteinArticleRecommendations, EinsteinBuilderFree, EinsteinDocReader, EinsteinRecommendationBuilder, EinsteinSalesRepFdbk, EinsteinSearch]
 ---
-
-# Scratch Org Features
 
 > The scratch org definition file contains the configuration values that determine the
         shape of the scratch org. You can enable these supported add-on features in a scratch

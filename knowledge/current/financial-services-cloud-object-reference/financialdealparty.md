@@ -5,12 +5,10 @@ topic: financialdealparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.483Z
+lastCollected: 2026-04-07T18:37:37.264Z
 estimatedTokens: 1355
-keywords: [FinancialDealParty, parties, partners, competitors, involved, deal, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [FinancialDealParty, parties, partners, competitors, involved, deal, API, 52.0]
 ---
-
-# FinancialDealParty
 
 > Represents the parties, such as partners and competitors, that are involved
 			in the deal. This object is available in API version 52.0 and later.

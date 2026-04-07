@@ -5,12 +5,10 @@ topic: navigation-item-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.788Z
+lastCollected: 2026-04-07T18:40:10.770Z
 estimatedTokens: 181
-keywords: [Navigation, Item, Collection, Input, items, tabs, app, Pass, user’s, personalized]
+keywords: [Navigation, Item, Collection, items, tabs, app, Pass, user’s, personalized]
 ---
-
-# Navigation Item Collection Input
 
 > A collection of all the navigation items (tabs) for an app. Pass
       this request body to get or update a user’s personalized navigation items.

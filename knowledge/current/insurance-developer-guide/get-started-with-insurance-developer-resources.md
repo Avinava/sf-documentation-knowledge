@@ -5,12 +5,10 @@ topic: get-started-with-insurance-developer-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.786Z
+lastCollected: 2026-04-07T18:37:53.005Z
 estimatedTokens: 988
-keywords: [Started, Insurance, Developer, Resources, Cloud, manage, end-to-end, processes, configure, quotes, policy, transactions, automate, brokerage, policies]
+keywords: [Started, Insurance, Developer, Resources, Cloud, manage, end-to-end, processes, configure, quotes, policy, transactions, automate, brokerage, policies, commissions, Claims, Management, Group, Benefits, Administration, Product, Quoting]
 ---
-
-# Get Started with Insurance Developer Resources
 
 > Use the developer resources of Insurance Cloud to manage end-to-end insurance
     processes. Create and configure quotes, manage policy transactions, and automate processes

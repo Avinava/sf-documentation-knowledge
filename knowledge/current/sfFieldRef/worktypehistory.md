@@ -5,12 +5,10 @@ topic: worktypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.477Z
+lastCollected: 2026-04-07T18:40:07.411Z
 estimatedTokens: 255
-keywords: [WorkTypeHistory, History, tracked, WorkType]
+keywords: [WorkTypeHistory, tracked, WorkType]
 ---
-
-# WorkTypeHistory
 
 > History for tracked fields of WorkType.
 

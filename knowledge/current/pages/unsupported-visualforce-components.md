@@ -5,12 +5,10 @@ topic: unsupported-visualforce-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.521Z
+lastCollected: 2026-04-07T18:38:52.828Z
 estimatedTokens: 302
-keywords: [Unsupported, Visualforce, Components, Here’s, aren’t, Salesforce, mobile, app, shouldn’t, pages]
+keywords: [Unsupported, Visualforce, Here’s, aren’t, Salesforce, mobile, app, shouldn’t, pages]
 ---
-
-# Unsupported Visualforce Components
 
 > Here’s a list of Visualforce components that aren’t supported in the Salesforce mobile
     app, and shouldn’t be used in Visualforce pages that will be used with the Salesforce mobile

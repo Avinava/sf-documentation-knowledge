@@ -5,12 +5,10 @@ topic: connectapidatastreamactionresponseoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.196Z
+lastCollected: 2026-04-07T18:36:08.604Z
 estimatedTokens: 127
-keywords: [action, data, stream]
+keywords: [action, stream]
 ---
-
-# ConnectApi.DataStreamActionResponseOutput
 
 > Represents an action on a data stream.
 

@@ -5,12 +5,10 @@ topic: update-learnings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.134Z
+lastCollected: 2026-04-07T18:37:29.250Z
 estimatedTokens: 85
-keywords: [Learnings, Input, representation, learning, records]
+keywords: [Learnings, learning, records]
 ---
-
-# Update Learnings Input
 
 > Input representation of the request details to update learning records.
 

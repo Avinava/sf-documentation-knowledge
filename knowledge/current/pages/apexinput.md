@@ -5,12 +5,10 @@ topic: apexinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.621Z
+lastCollected: 2026-04-07T18:38:49.762Z
 estimatedTokens: 1585
-keywords: [apex, input, HTML5-friendly, general, purpose, component, adapts, data, expected, form, uses, HTML, attribute, allow, client]
+keywords: [Attributes, apex, HTML5-friendly, general, purpose, adapts, expected, form, uses, HTML, attribute, allow, client, browsers, display, type-appropriate, user, widgets, date, picker, range, slider, perform, client-side, formatting, validation]
 ---
-
-# apex:input
 
 > An HTML5-friendly general purpose input component that adapts to the data expected by a form field. It uses the HTML type attribute to allow client browsers to display type-appropriate user input widgets, such as a date picker or range slider, or to perform client-side formatting or validation, such
 

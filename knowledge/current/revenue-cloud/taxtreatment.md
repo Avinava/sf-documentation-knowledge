@@ -5,12 +5,10 @@ topic: taxtreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.703Z
+lastCollected: 2026-04-07T18:35:50.589Z
 estimatedTokens: 969
-keywords: [TaxTreatment, tax, calculation, external, engines, product, requires, policy, determine, whether, apply, least, treatment, treatments, how]
+keywords: [TaxTreatment, tax, calculation, external, engines, product, requires, policy, determine, whether, apply, least, treatment, treatments, how, taxable, products, taxed, API, 62.0]
 ---
-
-# TaxTreatment
 
 > Represents information about tax calculation by external
          engines. Each product requires a tax policy to determine whether to apply tax. Each tax

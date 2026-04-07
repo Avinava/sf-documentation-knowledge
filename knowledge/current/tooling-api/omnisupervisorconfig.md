@@ -5,12 +5,10 @@ topic: omnisupervisorconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.274Z
+lastCollected: 2026-04-07T18:36:33.655Z
 estimatedTokens: 841
-keywords: [OmniSupervisorConfig, Omni-Channel, supervisor, configuration, assigned, group, supervisors, API, version, 57.0, later, SOAP, Calls, REST, Special]
+keywords: [OmniSupervisorConfig, Omni-Channel, supervisor, configuration, assigned, group, supervisors, API, 57.0, SOAP, REST]
 ---
-
-# OmniSupervisorConfig
 
 > Represents the Omni-Channel supervisor configuration for an assigned group of
          supervisors. This object is available in API version 57.0 and later.

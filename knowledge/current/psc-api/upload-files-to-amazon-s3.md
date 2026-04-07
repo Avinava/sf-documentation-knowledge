@@ -5,12 +5,10 @@ topic: upload-files-to-amazon-s3
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:11.976Z
+lastCollected: 2026-04-07T18:39:04.989Z
 estimatedTokens: 487
-keywords: [Upload, Files, Amazon, explains, how, custom, Lightning, Web, Component, LWC, uploads, directly, Salesforce, bucket, Prerequisites]
+keywords: [Prerequisites, Upload, Files, Amazon, explains, how, Lightning, Web, LWC, uploads, directly, Salesforce, bucket, Works]
 ---
-
-# Upload Files to Amazon S3
 
 > This section explains how to create a custom Lightning Web Component (LWC) that uploads
   the files directly from Salesforce to an Amazon S3 bucket.

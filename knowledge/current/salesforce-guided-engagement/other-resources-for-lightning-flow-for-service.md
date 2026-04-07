@@ -5,12 +5,10 @@ topic: other-resources-for-lightning-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.995Z
+lastCollected: 2026-04-07T18:39:17.653Z
 estimatedTokens: 450
 keywords: [Resources, Lightning, Flow, Service, developer, guides, Trailhead, help, started]
 ---
-
-# Other Resources for Lightning Flow for Service
 
 > Learn about other resources, like developer guides and Trailhead, to help you get
     started with Lightning Flow for Service.

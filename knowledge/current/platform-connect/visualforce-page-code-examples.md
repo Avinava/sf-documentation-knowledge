@@ -6,13 +6,10 @@ topic: visualforce-page-code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:05:04.280Z
+lastCollected: 2026-04-07T18:38:57.054Z
 estimatedTokens: 554
 keywords: [Visualforce, Code, Examples, display, canvas, app, number, ways, Detail, Standard, Border, Scrolling]
 ---
-
-# Visualforce
-        Page Code Examples
 
 > You can display a canvas app on a Visualforce page in a number of ways.
 

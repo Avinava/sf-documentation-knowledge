@@ -5,12 +5,10 @@ topic: chatteranswersfeeds
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.239Z
+lastCollected: 2026-04-07T18:38:49.293Z
 estimatedTokens: 297
-keywords: [chatteranswers, feeds, Chatter, Answers, feed, let, users, browse, questions, articles, post, replies, zone, components, customized]
+keywords: [Attributes, chatteranswers, feeds, Chatter, Answers, let, users, browse, questions, articles, post, replies, zone, customized, experience, displays]
 ---
-
-# chatteranswers:feeds
 
 > Chatter Answers feed, which let users browse questions and articles and post replies to questions within a zone. Use with other Chatter Answers components to create a customized experience for your Chatter Answers users.
 

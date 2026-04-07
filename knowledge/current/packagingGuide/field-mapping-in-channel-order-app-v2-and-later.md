@@ -5,12 +5,10 @@ topic: field-mapping-in-channel-order-app-v2-and-later
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.540Z
+lastCollected: 2026-04-07T18:38:46.402Z
 estimatedTokens: 511
-keywords: [Mapping, Channel, Order, App, Later, COA, retired, service, detail, you’re, upgrading, v1.39, earlier, how, map]
+keywords: [Mapping, Channel, Order, App, COA, retired, service, detail, you’re, upgrading, v1.39, earlier, how, map, new, ones]
 ---
-
-# Field Mapping in Channel Order App v2 and Later
 
 > In Channel Order App (COA) v2, we retired some fields on the service order detail
     object. If you’re upgrading from v1.39 or earlier to v2 or later, the table shows how the

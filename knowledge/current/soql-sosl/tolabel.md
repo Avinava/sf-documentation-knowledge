@@ -5,12 +5,10 @@ topic: tolabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.195Z
+lastCollected: 2026-04-07T18:40:10.168Z
 estimatedTokens: 597
 keywords: [toLabel, Translate, SOQL, query, results, language, user, submits, function]
 ---
-
-# toLabel()
 
 > Translate SOQL query results into the language of the user who submits the query using
     the toLabel function.

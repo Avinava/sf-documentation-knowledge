@@ -5,12 +5,10 @@ topic: matchingruleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:44.281Z
+lastCollected: 2026-04-07T18:38:35.531Z
 estimatedTokens: 748
-keywords: [MatchingRuleItem, criteria, matching, rule, identify, duplicate, records, API, version, 33.0, later, Calls, Special, Access, Rules]
+keywords: [MatchingRuleItem, criteria, matching, rule, identify, duplicate, records, API, 33.0]
 ---
-
-# MatchingRuleItem
 
 > Represents criteria used by a matching rule to identify duplicate
 			records. This object is available in API version 33.0 and later.

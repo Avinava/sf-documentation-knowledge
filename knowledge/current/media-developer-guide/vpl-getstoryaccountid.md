@@ -5,12 +5,10 @@ topic: vpl-getstoryaccountid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.312Z
+lastCollected: 2026-04-07T18:38:11.640Z
 estimatedTokens: 100
-keywords: [VPL-GetStoryAccountId, Omnistudio, Data, Mapper, agent, console, fetch, account, user, context, customer, story, Sample, Input, Output]
+keywords: [VPL-GetStoryAccountId, Omnistudio, Mapper, agent, console, fetch, account, user, context, customer, story, Sample]
 ---
-
-# VPL-GetStoryAccountId
 
 > This Omnistudio Data Mapper is used in the agent console
         to fetch the account ID for a user based on the context ID of the customer

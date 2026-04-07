@@ -5,12 +5,10 @@ topic: enable-the-voice-extension-page-in-lightning-app-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.836Z
+lastCollected: 2026-04-07T18:40:12.788Z
 estimatedTokens: 1902
-keywords: [Enable, Voice, Extension, Lightning, App, Builder, Configure, feature, let, administrators, add, custom, their, Omni-Channel, softphones]
+keywords: [Steps, Enable, Voice, Extension, Lightning, App, Builder, Configure, feature, let, administrators, add, their, Omni-Channel, softphones, FlexiPage, Step, Metadata, File, Web, Extensions, Aura, Link, Service, Cloud, Toolkit, API, Telephony, Connector, Message, Bridge, Deploy, Distribute, Managed, Package]
 ---
-
-# Enable the Voice Extension Page in Lightning App Builder
 
 > Configure this feature to let administrators add custom voice controls to their Omni-Channel softphones using the Voice Extension FlexiPage in the Lightning App Builder.
 

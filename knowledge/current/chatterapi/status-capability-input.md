@@ -5,12 +5,10 @@ topic: status-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.588Z
+lastCollected: 2026-04-07T18:37:10.289Z
 estimatedTokens: 288
-keywords: [Status, Capability, Input, Change, feed, post, comment]
+keywords: [Status, Capability, Change, post, comment]
 ---
-
-# Status Capability Input
 
 > Change the status of a feed post or comment.
 

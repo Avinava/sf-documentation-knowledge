@@ -5,12 +5,10 @@ topic: leadtag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.031Z
+lastCollected: 2026-04-07T18:38:34.228Z
 estimatedTokens: 352
-keywords: [LeadTag, Associates, word, short, phrase, Lead, Calls, Usage]
+keywords: [LeadTag, Associates, word, short, phrase, Lead]
 ---
-
-# LeadTag
 
 > Associates a word or short phrase with a Lead.
 

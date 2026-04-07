@@ -5,12 +5,10 @@ topic: deploying-a-recent-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.982Z
+lastCollected: 2026-04-07T18:37:28.022Z
 estimatedTokens: 977
-keywords: [Deploying, Recent, Validation, helps, shorten, deployment, time, because, tests, aren’t, rerun, successful, deploy, validated, components]
+keywords: [Deploying, Recent, Validation, helps, shorten, deployment, time, because, tests, aren’t, rerun, successful, deploy, validated, running, <sf, deployRecentValidation>, task]
 ---
-
-# Deploying a Recent Validation
 
 > Deploying a validation helps you shorten your deployment time because tests aren’t
     rerun. If you have a recent successful validation, you can deploy the validated components

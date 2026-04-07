@@ -5,12 +5,10 @@ topic: nullif
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.333Z
+lastCollected: 2026-04-07T18:37:01.940Z
 estimatedTokens: 144
 keywords: [NULLIF, function, shorthand, searched, case, statement, two, equal, expressions]
 ---
-
-# NULLIF()
 
 > Use the nullif() function as shorthand for a
   searched case statement where two equal expressions return null.

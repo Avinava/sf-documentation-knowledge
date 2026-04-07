@@ -5,12 +5,10 @@ topic: testing-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.590Z
+lastCollected: 2026-04-07T18:38:04.727Z
 estimatedTokens: 253
-keywords: [Testing, Components, Automated, tests, best, way, achieve, predictable, repeatable, assessments, quality, custom, code, Writing, gives]
+keywords: [Testing, Automated, tests, best, way, achieve, predictable, repeatable, assessments, quality, code, Writing, gives, confidence, they, work, designed, evaluate, impact, changes, refactoring, new, versions, Salesforce, third-party, JavaScript, libraries]
 ---
-
-# Testing Components
 
 > Automated tests are the best way to achieve predictable, repeatable assessments
                 of the quality of your custom code. Writing automated tests for your custom

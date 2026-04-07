@@ -5,12 +5,10 @@ topic: rgltycodeviolregclver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.769Z
+lastCollected: 2026-04-07T18:37:31.922Z
 estimatedTokens: 477
-keywords: [RgltyCodeViolRegClVer, junction, Regulatory, Code, Violation, Regulation, Clause, Version, objects, API, 63.0, later, Calls]
+keywords: [RgltyCodeViolRegClVer, junction, Regulatory, Code, Violation, Regulation, Clause, API, 63.0]
 ---
-
-# RgltyCodeViolRegClVer
 
 > Represents a junction between Regulatory Code Violation and Regulation Clause
          Version objects. This object is available in API version 63.0 and later.

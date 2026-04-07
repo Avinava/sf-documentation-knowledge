@@ -5,12 +5,10 @@ topic: post-hubv1campaignsidassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.225Z
+lastCollected: 2026-04-07T18:40:15.253Z
 estimatedTokens: 364
-keywords: [POST, hub, campaigns, assets, Associates, asset, collection, campaign, **Overview**, Usage]
+keywords: [POST, hub, campaigns, assets, Associates, asset, collection, campaign, **Overview**]
 ---
-
-# POST /hub/v1/campaigns/{id}/assets
 
 > Associates an asset or collection of assets to a campaign.
 

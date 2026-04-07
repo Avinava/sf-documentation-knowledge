@@ -5,12 +5,10 @@ topic: managedcontentnodetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.999Z
+lastCollected: 2026-04-07T18:36:33.396Z
 estimatedTokens: 726
-keywords: [ManagedContentNodeType, standard, custom, content, node, created, org, API, version, 47.0, later, SOAP, Calls, REST, HTTP]
+keywords: [ManagedContentNodeType, standard, content, node, created, org, API, 47.0, SOAP, REST, HTTP]
 ---
-
-# ManagedContentNodeType
 
 > Represents
         standard and custom content node types created for use with your org. Available in API

@@ -5,13 +5,11 @@ topic: loyaltyactionerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.606Z
+lastCollected: 2026-04-07T18:38:06.810Z
 estimatedTokens: 533
 namespace: LoyaltyManagement
 keywords: [LoyaltyActionError, errors, execution, Loyalty, Management, action, code, message, getCode, getMessage]
 ---
-
-# LoyaltyActionError Class
 
 > A class that contains the errors related to the execution of a Loyalty
       Management action.

@@ -5,12 +5,10 @@ topic: picklistsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.879Z
+lastCollected: 2026-04-07T18:36:28.417Z
 estimatedTokens: 651
-keywords: [PicklistSettings, org’s, picklist, settings, control, behavior, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [PicklistSettings, org’s, picklist, settings, control, behavior, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PicklistSettings
 
 > Represents an org’s picklist settings. These
             settings control the behavior of a picklist.

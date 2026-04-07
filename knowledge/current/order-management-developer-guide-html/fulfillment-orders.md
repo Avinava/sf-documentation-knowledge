@@ -5,12 +5,10 @@ topic: fulfillment-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.589Z
+lastCollected: 2026-04-07T18:38:45.389Z
 estimatedTokens: 1195
-keywords: [Fulfillment, Orders, FulfillmentOrder, record, supporting, records, including, FulfillmentOrderLineItems, FulfillmentOrderItemAdjustments, FulfillmentOrderItemTaxes, call, Order, Management, API, flow]
+keywords: [Fulfillment, Orders, FulfillmentOrder, record, supporting, records, including, FulfillmentOrderLineItems, FulfillmentOrderItemAdjustments, FulfillmentOrderItemTaxes, call, Order, Management, API, flow, core, action, creates, Location, Capacity]
 ---
-
-# Fulfillment Orders
 
 > A FulfillmentOrder record has a set of supporting records,
       including FulfillmentOrderLineItems, FulfillmentOrderItemAdjustments, and

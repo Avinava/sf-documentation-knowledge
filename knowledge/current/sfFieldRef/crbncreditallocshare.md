@@ -5,12 +5,10 @@ topic: crbncreditallocshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.712Z
+lastCollected: 2026-04-07T18:39:36.239Z
 estimatedTokens: 250
 keywords: [CrbnCreditAllocShare, Sharing, CrbnCreditAlloc]
 ---
-
-# CrbnCreditAllocShare
 
 > Sharing for CrbnCreditAlloc.
 

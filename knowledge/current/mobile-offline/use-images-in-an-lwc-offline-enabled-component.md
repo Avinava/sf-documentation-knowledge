@@ -5,12 +5,10 @@ topic: use-images-in-an-lwc-offline-enabled-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.348Z
+lastCollected: 2026-04-07T18:38:15.874Z
 estimatedTokens: 665
-keywords: [Images, LWC, Offline-Enabled, Component, Lightning, Web, Components, supports, multiple, ways, referencing, graphics, assets, work, runs]
+keywords: [Images, LWC, Offline-Enabled, Lightning, Web, supports, multiple, ways, referencing, graphics, assets, work, runs, offline, several, offline-ready]
 ---
-
-# Use Images in an LWC Offline-Enabled Component
 
 > Lightning Web Components supports multiple ways of referencing graphics assets in a
     component. Not all of these methods work when the component runs offline. LWC Offline supports

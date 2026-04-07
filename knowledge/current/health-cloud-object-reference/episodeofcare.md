@@ -5,12 +5,10 @@ topic: episodeofcare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.241Z
+lastCollected: 2026-04-07T18:37:44.505Z
 estimatedTokens: 573
-keywords: [EpisodeOfCare, FHIR, resource, maps, Care​Episode​, Care​EpisodeDetail​, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [EpisodeOfCare, FHIR, resource, maps, Care​Episode​, Care​EpisodeDetail​, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# EpisodeOfCare
 
 > The episodeOfCare FHIR resource maps to the
       Care​Episode​ and Care​EpisodeDetail​ objects in Salesforce.

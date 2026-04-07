@@ -5,12 +5,10 @@ topic: returning-fieldspec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.334Z
+lastCollected: 2026-04-07T18:40:10.316Z
 estimatedTokens: 1767
 keywords: [RETURNING, FieldSpec, clause, add, SOSL, query, specify, text, search, result, *FieldSpec*, Clauses]
 ---
-
-# RETURNING FieldSpec
 
 > RETURNING is an optional clause that you can add to
     a SOSL query to specify the information to be returned in the text search result.

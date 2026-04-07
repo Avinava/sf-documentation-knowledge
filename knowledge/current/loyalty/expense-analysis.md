@@ -5,12 +5,10 @@ topic: expense-analysis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.228Z
+lastCollected: 2026-04-07T18:38:09.514Z
 estimatedTokens: 511
-keywords: [Expense, Analysis, Stores, product, receipt, submitted, review, member, access, LoyaltyProgramMember, Resource, Rest, Sample, Output]
+keywords: [Resource, Expense, Analysis, Stores, product, receipt, submitted, review, member, LoyaltyProgramMember, Rest, Sample]
 ---
-
-# Expense Analysis
 
 > Stores the product and information from a receipt submitted for review by a member. To
   get the receipt information, access the LoyaltyProgramMember object reference.

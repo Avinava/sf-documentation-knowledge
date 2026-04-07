@@ -5,12 +5,10 @@ topic: field-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.250Z
+lastCollected: 2026-04-07T18:39:23.184Z
 estimatedTokens: 1028
 keywords: [Permissions, field-level, security, lets, specify, whether, users, view, edit]
 ---
-
-# Field Permissions
 
 > Field permissions, or field-level security, lets you specify whether users can view or
     edit each field for an object.

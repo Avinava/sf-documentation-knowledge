@@ -5,12 +5,10 @@ topic: svccatalogfulfillmentflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.194Z
+lastCollected: 2026-04-07T18:36:34.629Z
 estimatedTokens: 670
-keywords: [SvcCatalogFulfillmentFlow, flow, associated, specific, catalog, item, Service, API, version, 53.0, later, SOAP, Calls, REST, Special]
+keywords: [SvcCatalogFulfillmentFlow, flow, specific, catalog, item, Service, API, 53.0, SOAP, REST]
 ---
-
-# SvcCatalogFulfillmentFlow
 
 > Represents the flow associated with a specific catalog item in the Service
          Catalog. This object is available in API version 53.0 and later.

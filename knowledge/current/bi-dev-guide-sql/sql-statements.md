@@ -5,12 +5,10 @@ topic: sql-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.375Z
+lastCollected: 2026-04-07T18:37:01.976Z
 estimatedTokens: 183
-keywords: [SQL, Statements, statement, access, perform, operations, data, tables, database]
+keywords: [SQL, Statements, statement, perform, operations, tables, database]
 ---
-
-# SQL Statements
 
 > Use a SQL statement to access and perform operations on data from one or more tables in
   your database.

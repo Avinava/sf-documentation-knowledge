@@ -5,12 +5,10 @@ topic: pie-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.781Z
+lastCollected: 2026-04-07T18:38:48.723Z
 estimatedTokens: 281
-keywords: [Pie, Charts, common, customizations, <apex, pieSeries>, colors, labels, colorSet, attribute, chartLabel>, component, were, demonstrated, previous]
+keywords: [Pie, Charts, common, customizations, <apex, pieSeries>, colors, labels, colorSet, attribute, chartLabel>, were, demonstrated, previous, examples]
 ---
-
-# Pie Charts
 
 > The most common customizations to <apex:pieSeries> charts is to colors
 and labels. Use the colorSet attribute and the <apex:chartLabel> component that were demonstrated in previous examples.

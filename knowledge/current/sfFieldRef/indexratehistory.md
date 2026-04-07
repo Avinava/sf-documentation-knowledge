@@ -5,12 +5,10 @@ topic: indexratehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.826Z
+lastCollected: 2026-04-07T18:39:44.442Z
 estimatedTokens: 256
-keywords: [IndexRateHistory, History, tracked, IndexRate]
+keywords: [IndexRateHistory, tracked, IndexRate]
 ---
-
-# IndexRateHistory
 
 > History for tracked fields of IndexRate.
 

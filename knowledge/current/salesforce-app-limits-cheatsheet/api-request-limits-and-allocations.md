@@ -5,12 +5,10 @@ topic: api-request-limits-and-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.944Z
+lastCollected: 2026-04-07T18:39:16.487Z
 estimatedTokens: 2729
-keywords: [API, Limits, Allocations, apply, Salesforce, Platform, SOAP, REST, APIs, any, built, frameworks, unless, noted, otherwise]
+keywords: [API, Limits, Allocations, apply, Salesforce, Platform, SOAP, REST, APIs, any, built, frameworks, unless, noted, otherwise, visit, specific, documentation, Concurrent, Timeout, Total, Monitoring, Happens, Reach, Exceed, Limit, Increasing, Metering, Calculations, Size, Length, Stored, Third-Party, Refresh, Tokens]
 ---
-
-# API Request Limits and Allocations
 
 > These limits and allocations apply to Salesforce Platform SOAP and REST APIs and any
 		other API built on those frameworks, unless noted otherwise. For information about limits on

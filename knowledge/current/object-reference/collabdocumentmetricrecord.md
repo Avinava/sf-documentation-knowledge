@@ -5,12 +5,10 @@ topic: collabdocumentmetricrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.987Z
+lastCollected: 2026-04-07T18:38:27.913Z
 estimatedTokens: 292
-keywords: [CollabDocumentMetricRecord, association, CollabDocumentMetric, Salesforce, record.It, tracks, record, Account, Contact, linked, Quip, thread, metrics, were, gathered]
+keywords: [CollabDocumentMetricRecord, association, CollabDocumentMetric, Salesforce, record.It, tracks, record, Account, Contact, linked, Quip, thread, metrics, were, gathered, API, 50.0]
 ---
-
-# CollabDocumentMetricRecord
 
 > Represents an association between a CollabDocumentMetric and a
          Salesforce record.It tracks which Salesforce record, such as an Account or Contact, is

@@ -5,12 +5,10 @@ topic: suggestedassessmentreasonfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.413Z
+lastCollected: 2026-04-07T18:40:03.109Z
 estimatedTokens: 393
-keywords: [SuggestedAssessmentReasonFeed, Feed, tracking, SuggestedAssessmentReason]
+keywords: [SuggestedAssessmentReasonFeed, SuggestedAssessmentReason]
 ---
-
-# SuggestedAssessmentReasonFeed
 
 > Feed tracking for SuggestedAssessmentReason.
 

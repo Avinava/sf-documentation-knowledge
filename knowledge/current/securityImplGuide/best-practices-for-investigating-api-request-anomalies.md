@@ -5,12 +5,10 @@ topic: best-practices-for-investigating-api-request-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.722Z
+lastCollected: 2026-04-07T18:39:22.612Z
 estimatedTokens: 826
-keywords: [Best, Practices, Investigating, API, Anomalies, Keep, tips, mind, investigate, unusual, user, behavior, require, well-informed, evaluation]
+keywords: [Best, Practices, Investigating, API, Anomalies, Keep, tips, mind, investigate, unusual, user, behavior, require, well-informed, evaluation, data’s, safety]
 ---
-
-# Best Practices for Investigating API Request Anomalies
 
 > Keep these tips and best practices in mind when you investigate unusual user behavior.
     Find the information you require to make a well-informed evaluation of your data’s safety.

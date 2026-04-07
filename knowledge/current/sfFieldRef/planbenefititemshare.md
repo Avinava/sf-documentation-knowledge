@@ -5,12 +5,10 @@ topic: planbenefititemshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.765Z
+lastCollected: 2026-04-07T18:39:54.314Z
 estimatedTokens: 250
 keywords: [PlanBenefitItemShare, Sharing, PlanBenefitItem]
 ---
-
-# PlanBenefitItemShare
 
 > Sharing for PlanBenefitItem.
 

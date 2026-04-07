@@ -5,13 +5,11 @@ topic: placequote-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.973Z
+lastCollected: 2026-04-07T18:36:15.283Z
 estimatedTokens: 109
 namespace: PlaceQuote
 keywords: [PlaceQuote, classes, quotes, pricing, preferences, configuration, options]
 ---
-
-# PlaceQuote Namespace
 
 > The PlaceQuote namespace provides classes and
         methods to create or update quotes with pricing preferences and configuration

@@ -5,12 +5,10 @@ topic: individualapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.120Z
+lastCollected: 2026-04-07T18:37:31.242Z
 estimatedTokens: 779
-keywords: [IndividualApplication, preferences, applicant, program, enrollment, API, version, 57.0, later, Calls]
+keywords: [IndividualApplication, preferences, applicant, program, enrollment, API, 57.0]
 ---
-
-# IndividualApplication
 
 > Represents information about the preferences of an applicant during program
          enrollment. This object is available in API version 57.0 and later.

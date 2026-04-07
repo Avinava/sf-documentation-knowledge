@@ -5,12 +5,10 @@ topic: standard-and-custom-objects-for-future-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.195Z
+lastCollected: 2026-04-07T18:39:15.713Z
 estimatedTokens: 849
-keywords: [Standard, Custom, Objects, Future, listed, org, they, internal]
+keywords: [Standard, Future, listed, org, they, internal]
 ---
-
-# Standard and Custom Objects for Future Use
 
 > The objects listed in this section are available in the org, but they are for internal
   use only.

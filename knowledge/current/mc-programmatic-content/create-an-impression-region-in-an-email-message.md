@@ -5,12 +5,10 @@ topic: create-an-impression-region-in-an-email-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.114Z
+lastCollected: 2026-04-07T18:40:22.509Z
 estimatedTokens: 532
 keywords: [Impression, Region, Email, Message, sample, includes, offer, holiday, sale, state, residence, subscriber]
 ---
-
-# Create an Impression Region in an Email Message
 
 > This sample includes an offer for a holiday sale within the body of an email based on the state of residence of the subscriber.
 

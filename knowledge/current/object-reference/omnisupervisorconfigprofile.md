@@ -5,12 +5,10 @@ topic: omnisupervisorconfigprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.132Z
+lastCollected: 2026-04-07T18:38:36.307Z
 estimatedTokens: 330
-keywords: [OmniSupervisorConfigProfile, supervisor, profiles, Command, Center, Service, configuration, User-level, configurations, override, profile-level, API, version, 41.0, later]
+keywords: [OmniSupervisorConfigProfile, supervisor, profiles, Command, Center, Service, configuration, User-level, configurations, override, profile-level, API, 41.0]
 ---
-
-# OmniSupervisorConfigProfile
 
 > Represents the supervisor profiles to which a Command Center for
    Service configuration applies. User-level configurations override profile-level

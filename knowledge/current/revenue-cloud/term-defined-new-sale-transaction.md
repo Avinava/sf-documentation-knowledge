@@ -5,12 +5,10 @@ topic: term-defined-new-sale-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:01:57.953Z
+lastCollected: 2026-04-07T18:35:42.846Z
 estimatedTokens: 3589
-keywords: [Term-Defined, New, Sale, Transaction, Understand, key, considerations, billing, schedule, TermDefined, selling, model]
+keywords: [Considerations, Term-Defined, New, Sale, Transaction, Understand, key, billing, schedule, TermDefined, selling, model]
 ---
-
-# Term-Defined New Sale Transaction
 
 > Understand the required values and key considerations before you create a billing
     schedule for a new sale transaction with the TermDefined selling model type.

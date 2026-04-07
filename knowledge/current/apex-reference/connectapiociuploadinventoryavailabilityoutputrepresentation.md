@@ -5,12 +5,10 @@ topic: connectapiociuploadinventoryavailabilityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.185Z
+lastCollected: 2026-04-07T18:36:10.482Z
 estimatedTokens: 122
 keywords: [upload, inventory, availability, job]
 ---
-
-# ConnectApi.OCIUploadInventoryAvailabilityOutputRepresentation
 
 > Response to an upload inventory availability job.
 

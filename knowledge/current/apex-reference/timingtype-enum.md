@@ -5,12 +5,10 @@ topic: timingtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.347Z
+lastCollected: 2026-04-07T18:36:12.642Z
 estimatedTokens: 94
 keywords: [TimingType, enumerated, timing]
 ---
-
-# TimingType Enum
 
 > Represents an enumerated type that describes the type of timing.
 

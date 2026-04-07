@@ -5,12 +5,10 @@ topic: executefilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.840Z
+lastCollected: 2026-04-07T18:40:22.209Z
 estimatedTokens: 144
-keywords: [ExecuteFilter, Function, Ordinal, External, key, data, filter, execute, **Overview**, **Syntax**, Usage]
+keywords: [ExecuteFilter, Function, Ordinal, External, key, filter, execute, **Overview**, **Syntax**]
 ---
-
-# ExecuteFilter
 
 > ExecuteFilter(1)
 

@@ -5,12 +5,10 @@ topic: connect-in-apex-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.692Z
+lastCollected: 2026-04-07T18:36:18.906Z
 estimatedTokens: 2228
 keywords: [Connect, Apex, Examples, perform, common, tasks]
 ---
-
-# Connect in Apex Examples
 
 > Use these examples to perform common tasks with Connect in Apex.
 

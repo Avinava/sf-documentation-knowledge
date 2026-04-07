@@ -5,12 +5,10 @@ topic: code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:03:04.861Z
+lastCollected: 2026-04-07T18:36:51.157Z
 estimatedTokens: 532
-keywords: [Code, Examples, Check, streaming, events, Java, Aura, components, Visualforce]
+keywords: [Code, Examples, Check, streaming, events, Java, Aura, Visualforce]
 ---
-
-# Code Examples
 
 > Check out code examples for streaming events in Java, Aura components, and
   Visualforce.

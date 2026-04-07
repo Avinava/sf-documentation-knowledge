@@ -5,13 +5,11 @@ topic: appdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.084Z
+lastCollected: 2026-04-07T18:39:26.033Z
 estimatedTokens: 507
 namespace: NamespacePrefix
-keywords: [AppDefinition, metadata, app, navigation, items, apps, current, user, access, API, version, 43.0, later]
+keywords: [AppDefinition, metadata, app, navigation, items, apps, current, user, API, 43.0]
 ---
-
-# AppDefinition
 
 > Represents the metadata of an app and its navigation items. Metadata is
 			returned only for apps that the current user can access. This object is available

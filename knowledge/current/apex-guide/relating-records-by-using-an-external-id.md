@@ -5,12 +5,10 @@ topic: relating-records-by-using-an-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.289Z
+lastCollected: 2026-04-07T18:36:19.502Z
 estimatedTokens: 408
-keywords: [Relating, Records, External, Add, custom, parent, record, Associating, alternative, another, relationship, master-detail, lookup, defined, objects]
+keywords: [Relating, Records, External, Add, parent, record, Associating, alternative, another, relationship, master-detail, lookup, defined, involved]
 ---
-
-# Relating Records by Using an External ID
 
 > Add related records by using a custom external ID field on the parent record.
   Associating records through the external ID field is an alternative to using the record ID. You

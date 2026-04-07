@@ -5,12 +5,10 @@ topic: smart-data-discovery-model-field-numeric-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.211Z
+lastCollected: 2026-04-07T18:36:58.711Z
 estimatedTokens: 155
-keywords: [Smart, Data, Discovery, Model, Numeric, Input, Einstein]
+keywords: [Smart, Discovery, Model, Numeric, Einstein]
 ---
-
-# Smart Data Discovery Model Field Numeric Input
 
 > The Einstein Discovery numeric model field create or update.
 

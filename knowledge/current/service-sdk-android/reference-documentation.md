@@ -5,12 +5,10 @@ topic: reference-documentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.706Z
+lastCollected: 2026-04-07T18:40:27.850Z
 estimatedTokens: 375
 keywords: [Documentation, Service, Chat, SDK, Android]
 ---
-
-# Reference Documentation
 
 > Reference documentation for Service Chat SDK for Android.
 

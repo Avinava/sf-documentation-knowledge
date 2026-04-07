@@ -5,12 +5,10 @@ topic: cgcloudtourtourcheckc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.874Z
+lastCollected: 2026-04-07T18:39:15.365Z
 estimatedTokens: 1078
-keywords: [cgcloud__Tour_Tour_Check__c, Stores, relationship, tour, check, API, version, 54.0, later, cgcloud, _Tour, _Check, Calls, Associated, Objects]
+keywords: [cgcloud__Tour_Tour_Check__c, Stores, relationship, tour, check, API, 54.0, cgcloud, _Tour, _Check]
 ---
-
-# cgcloud__Tour_Tour_Check__c
 
 > Stores the details of the relationship between tour and tour
          check. This object is available in API version 54.0 and later.

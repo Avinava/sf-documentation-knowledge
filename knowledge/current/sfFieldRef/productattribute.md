@@ -5,12 +5,10 @@ topic: productattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.693Z
+lastCollected: 2026-04-07T18:39:55.260Z
 estimatedTokens: 309
-keywords: [ProductAttribute, attributes, associated, product, API, version, 50.0, later]
+keywords: [ProductAttribute, attributes, product, API, 50.0]
 ---
-
-# ProductAttribute
 
 > Represents the attributes that can be associated with a product.
       This object is available in API version 50.0 and later.

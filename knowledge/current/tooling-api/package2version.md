@@ -5,12 +5,10 @@ topic: package2version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.364Z
+lastCollected: 2026-04-07T18:36:33.746Z
 estimatedTokens: 2046
-keywords: [Package2Version, second-generation, package, version, Dev, Hub, org, except, Tag, Branch, visible, subscriber, API, 41.0, later]
+keywords: [Package2Version, second-generation, package, Dev, Hub, org, except, Tag, Branch, visible, subscriber, API, 41.0, SOAP, REST, HTTP]
 ---
-
-# Package2Version
 
 > Represents a
             second-generation package version in a Dev Hub org. Values for all fields except for

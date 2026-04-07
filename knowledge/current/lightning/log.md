@@ -5,12 +5,10 @@ topic: log
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.317Z
+lastCollected: 2026-04-07T18:38:05.530Z
 estimatedTokens: 103
-keywords: [log, Deprecated, Logs, browser's, JavaScript, console, doesn't, production, debug, modes, it’s, useful, internal, usage, framework]
+keywords: [log, Deprecated, Logs, browser's, JavaScript, console, doesn't, production, debug, modes, it’s, useful, internal, framework]
 ---
-
-# log()
 
 > Deprecated. Logs to the browser's JavaScript console, if it is
    available. This method doesn't log in production or debug modes so it’s only useful for internal

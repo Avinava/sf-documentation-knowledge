@@ -5,12 +5,10 @@ topic: post-contactsv1contactsactionsdeletetypelistreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.944Z
+lastCollected: 2026-04-07T18:40:14.965Z
 estimatedTokens: 1180
-keywords: [POST, contacts, actions, delete?type=listReference, Deletes, operations, runs, asynchronously, OperationID, check, status, **Overview**, Usage, Items]
+keywords: [POST, contacts, actions, delete?type=listReference, Deletes, operations, runs, asynchronously, OperationID, check, status, **Overview**, Items]
 ---
-
-# POST /contacts/v1/contacts/actions/delete?type=listReference
 
 > Deletes contacts based on specified list reference value. This operations runs asynchronously. Use the OperationID value returned to check the status of the delete.
 

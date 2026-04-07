@@ -5,12 +5,10 @@ topic: snapshot-deployment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.992Z
+lastCollected: 2026-04-07T18:35:45.014Z
 estimatedTokens: 288
 keywords: [Snapshot, Deployment, POST, indexes, improve, search, results, easier, products, run, time, terms]
 ---
-
-# Snapshot Deployment (POST)
 
 > Create indexes for a snapshot. Indexes improve search results and make
       it easier to find products at run time through search terms.

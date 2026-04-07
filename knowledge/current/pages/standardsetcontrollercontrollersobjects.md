@@ -5,12 +5,10 @@ topic: standardsetcontrollercontrollersobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.115Z
+lastCollected: 2026-04-07T18:38:48.065Z
 estimatedTokens: 90
-keywords: [StandardSetController, controllerSObjects, Creates, instance, ApexPages.StandardSetController, standard, custom, objects]
+keywords: [StandardSetController, controllerSObjects, Creates, instance, ApexPages.StandardSetController, standard]
 ---
-
-# StandardSetController(controllerSObjects)
 
 > Creates an instance of the ApexPages.StandardSetController class for the specified list of standard or custom
   objects.

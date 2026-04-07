@@ -5,12 +5,10 @@ topic: fulfillment-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.743Z
+lastCollected: 2026-04-07T18:37:08.569Z
 estimatedTokens: 545
-keywords: [Fulfillment, Group, Input, OrderItemSummaries, fulfilled, together, location, handle, defined, FulfillmentOrder, “Warehouse”, “Retail, Store.”, assigned]
+keywords: [Fulfillment, Group, OrderItemSummaries, fulfilled, together, location, handle, defined, FulfillmentOrder, “Warehouse”, “Retail, Store.”, assigned]
 ---
-
-# Fulfillment Group Input
 
 > A list of OrderItemSummaries to be fulfilled together, and the
       fulfillment location to handle them. The fulfillment type is one of the values defined for the

@@ -5,12 +5,10 @@ topic: create-a-company-profile-for-your-appexchange-business
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.344Z
+lastCollected: 2026-04-07T18:38:46.200Z
 estimatedTokens: 228
-keywords: [Company, Profile, AppExchange, Business, polished, accurate, helps, build, customer, trust, solution, consulting, service, tell, customers]
+keywords: [Company, Profile, AppExchange, Business, polished, accurate, helps, build, customer, trust, solution, consulting, service, tell, customers, brand, stand, include, website, phone, number, browsing, listings, Provider]
 ---
-
-# Create a Company Profile for Your AppExchange Business
 
 > A polished, accurate company profile helps build customer trust in your AppExchange
     solution or consulting service. In your profile, tell customers what makes your brand stand out

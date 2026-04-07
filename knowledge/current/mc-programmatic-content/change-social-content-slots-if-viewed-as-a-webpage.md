@@ -5,12 +5,10 @@ topic: change-social-content-slots-if-viewed-as-a-webpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.383Z
+lastCollected: 2026-04-07T18:40:22.806Z
 estimatedTokens: 1691
-keywords: [Change, Social, Content, Slots, Viewed, Webpage, examples, require, familiarity, HTML, Paste, Emails, AMPscript, Prerequisites, Sample]
+keywords: [Prerequisites, Change, Social, Content, Slots, Viewed, Webpage, examples, require, familiarity, HTML, Paste, Emails, AMPscript, Sample, Shared, Email]
 ---
-
-# Change Social Content Slots if Viewed As A Webpage
 
 > These examples require familiarity with HTML, Paste HTML Emails, and AMPscript.
 

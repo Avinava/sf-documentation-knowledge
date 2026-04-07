@@ -5,12 +5,10 @@ topic: observation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:56.281Z
+lastCollected: 2026-04-07T18:37:44.550Z
 estimatedTokens: 3160
-keywords: [​Observation, observation, FHIR, resource, maps, Care​Observation, Care​Observation​Component, objects, Salesforce​, V4​.0, Clinical, Data, Model, Mapping]
+keywords: [​Observation, observation, FHIR, resource, maps, Care​Observation, Care​Observation​Component, Salesforce​, V4​.0, Clinical, Model, Mapping]
 ---
-
-# ​Observation
 
 > The observation FHIR resource maps to the Care​Observation and Care​Observation​Component objects in Salesforce​.
 

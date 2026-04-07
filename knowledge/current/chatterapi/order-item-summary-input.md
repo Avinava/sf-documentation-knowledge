@@ -5,12 +5,10 @@ topic: order-item-summary-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.626Z
+lastCollected: 2026-04-07T18:37:09.356Z
 estimatedTokens: 494
-keywords: [Order, Item, Summary, Input, OrderItemSummary, quantity]
+keywords: [Order, Item, Summary, OrderItemSummary, quantity]
 ---
-
-# Order Item Summary Input
 
 > An OrderItemSummary and quantity.
 

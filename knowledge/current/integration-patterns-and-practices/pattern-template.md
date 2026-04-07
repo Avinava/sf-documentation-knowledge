@@ -5,12 +5,10 @@ topic: pattern-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.402Z
+lastCollected: 2026-04-07T18:37:53.675Z
 estimatedTokens: 405
-keywords: [Pattern, Template, integration, follows, consistent, structure, consistency, provided, easier, compare, patterns, Context, Problem, Forces, Solution]
+keywords: [Context, Problem, Forces, Solution, Sketch, Results, Sidebars, Pattern, Template, integration, follows, consistent, structure, consistency, provided, easier, compare, patterns]
 ---
-
-# Pattern Template
 
 > Each integration pattern follows a consistent structure. This provides consistency in the
     information provided in each pattern and also makes it easier to compare patterns.

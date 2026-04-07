@@ -5,12 +5,10 @@ topic: valtfrmgrp
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:05.955Z
+lastCollected: 2026-04-07T18:35:50.826Z
 estimatedTokens: 700
-keywords: [ValTfrmGrp, rule, determines, how, order, broken, sub-orders, specific, technical, help, fulfillment, applied, commercial, product, API]
+keywords: [ValTfrmGrp, rule, determines, how, order, broken, sub-orders, specific, technical, help, fulfillment, applied, commercial, product, API, 61.0]
 ---
-
-# ValTfrmGrp
 
 > Represents a rule that determines how an order is broken into
          sub-orders with specific technical details that help in order fulfillment. The rule can be

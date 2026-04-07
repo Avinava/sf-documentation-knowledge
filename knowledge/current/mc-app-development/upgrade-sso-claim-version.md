@@ -5,12 +5,10 @@ topic: upgrade-sso-claim-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.204Z
+lastCollected: 2026-04-07T18:40:21.479Z
 estimatedTokens: 247
-keywords: [Upgrade, SSO, Claim, Version, Marketing, Cloud, app, process, uses, JSON, Web, Token, JWT, acquire, access]
+keywords: [Upgrade, SSO, Claim, Marketing, Cloud, app, process, uses, JSON, Web, Token, JWT, acquire, tokens, behalf, logged-in, users, Decoded, Items]
 ---
-
-# Upgrade SSO Claim Version
 
 > The Marketing Cloud app SSO process uses a JSON Web Token (JWT) to acquire access tokens on behalf of logged-in users.
 

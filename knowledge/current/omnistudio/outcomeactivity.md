@@ -5,12 +5,10 @@ topic: outcomeactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.635Z
+lastCollected: 2026-04-07T18:36:43.374Z
 estimatedTokens: 1007
-keywords: [OutcomeActivity, junction, Outcome, that's, activity, undertaken, organization, achieve, API, version, 59.0, later, Calls, Special, Access]
+keywords: [OutcomeActivity, junction, Outcome, that's, activity, undertaken, organization, achieve, API, 59.0]
 ---
-
-# OutcomeActivity
 
 > Represents a junction between Outcome and the object that's related
          to the activity undertaken by an organization to achieve that outcome. This object is

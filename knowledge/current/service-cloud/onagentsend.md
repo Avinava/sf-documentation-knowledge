@@ -5,12 +5,10 @@ topic: onagentsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.247Z
+lastCollected: 2026-04-07T18:36:50.457Z
 estimatedTokens: 371
-keywords: [onAgentSend, Registers, function, call, agent, chat, message, Salesforce, console, intercepts, occurs, sent, visitor, API, version]
+keywords: [Arguments, onAgentSend, Registers, function, call, agent, chat, message, Salesforce, console, intercepts, occurs, sent, visitor, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# onAgentSend()
 
 > Registers a function to call when an agent sends a chat message through the
         Salesforce console. This method intercepts the message and occurs before it is sent to the

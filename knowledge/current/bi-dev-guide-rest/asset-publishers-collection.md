@@ -5,12 +5,10 @@ topic: asset-publishers-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.116Z
+lastCollected: 2026-04-07T18:36:56.683Z
 estimatedTokens: 162
 keywords: [Asset, Publishers, Collection]
 ---
-
-# Asset Publishers Collection
 
 > A collection of asset publishers.
 

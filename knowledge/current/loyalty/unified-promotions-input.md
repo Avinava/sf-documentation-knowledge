@@ -5,12 +5,10 @@ topic: unified-promotions-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.183Z
+lastCollected: 2026-04-07T18:38:07.411Z
 estimatedTokens: 828
-keywords: [Unified, Promotions, Input, representation, promotion, configuration, created, updated]
+keywords: [Unified, Promotions, promotion, configuration, created, updated]
 ---
-
-# Unified Promotions Input
 
 > Input representation of the promotion configuration to be created, or
     updated.

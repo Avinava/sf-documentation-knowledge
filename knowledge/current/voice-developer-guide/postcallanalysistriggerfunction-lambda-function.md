@@ -5,12 +5,10 @@ topic: postcallanalysistriggerfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.983Z
+lastCollected: 2026-04-07T18:40:12.927Z
 estimatedTokens: 440
-keywords: [PostCallAnalysisTriggerFunction, Lambda, Function, automatically, sentiment, data, contact, center’s, Amazon, bucket, post-call, analysis]
+keywords: [PostCallAnalysisTriggerFunction, Lambda, Function, automatically, sentiment, contact, center’s, Amazon, bucket, post-call, analysis]
 ---
-
-# PostCallAnalysisTriggerFunction Lambda Function
 
 > This Lambda function automatically gets sentiment data from a contact
       center’s Amazon S3 bucket for post-call analysis.

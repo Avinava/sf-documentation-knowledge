@@ -5,12 +5,10 @@ topic: restrict-login-ip-addresses-in-profiles
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.511Z
+lastCollected: 2026-04-07T18:39:22.402Z
 estimatedTokens: 916
-keywords: [Restrict, Login, Addresses, Profiles, Control, access, user, level, specifying, range, allowed, user’s, profile, define, address]
+keywords: [Restrict, Login, Addresses, Profiles, Control, user, level, specifying, range, allowed, user’s, profile, define, address, restrictions, any, denied]
 ---
-
-# Restrict Login IP Addresses in Profiles
 
 > Control login access at the user level by specifying a range of
    allowed IP addresses on a user’s profile. When you define IP address restrictions for a profile,

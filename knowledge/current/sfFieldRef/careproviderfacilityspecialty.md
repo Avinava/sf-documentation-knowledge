@@ -5,12 +5,10 @@ topic: careproviderfacilityspecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.341Z
+lastCollected: 2026-04-07T18:39:32.732Z
 estimatedTokens: 513
 keywords: [CareProviderFacilitySpecialty, specialties, practitioner, location, physician, board-certified, spine, neuro, may, provide, services, another]
 ---
-
-# CareProviderFacilitySpecialty
 
 > Represents all the specialties that the practitioner provides at a given
          location. For example, a physician who is board-certified in both spine and neuro may

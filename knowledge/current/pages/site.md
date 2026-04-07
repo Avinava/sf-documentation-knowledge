@@ -5,12 +5,10 @@ topic: site
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.414Z
+lastCollected: 2026-04-07T18:38:52.724Z
 estimatedTokens: 1542
-keywords: [$Site, merge, referencing, current, Salesforce, site, Usage]
+keywords: [$Site, merge, referencing, current, Salesforce, site]
 ---
-
-# $Site
 
 > A global merge field type to use when referencing information about the current
   Salesforce site.

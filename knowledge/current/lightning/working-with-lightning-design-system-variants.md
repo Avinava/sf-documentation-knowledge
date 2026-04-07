@@ -5,12 +5,10 @@ topic: working-with-lightning-design-system-variants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.519Z
+lastCollected: 2026-04-07T18:38:04.677Z
 estimatedTokens: 529
-keywords: [Working, Lightning, Design, System, Variants, Base, component, correspond, blueprint, variations, change, appearance, controlled, variant, attribute]
+keywords: [Working, Lightning, Design, System, Variants, Base, correspond, blueprint, variations, change, appearance, controlled, variant, attribute, Applying]
 ---
-
-# Working with Lightning Design System Variants
 
 > Base component variants correspond to blueprint variations in Lightning Design System.
     Variants change the appearance of a component and are controlled by the variant attribute.

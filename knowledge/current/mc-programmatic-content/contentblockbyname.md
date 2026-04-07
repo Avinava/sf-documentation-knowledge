@@ -5,12 +5,10 @@ topic: contentblockbyname
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.705Z
+lastCollected: 2026-04-07T18:40:22.065Z
 estimatedTokens: 559
-keywords: [ContentBlockbyName, Function, Ordinal, content, block, impression, region, start, **Overview**, **Syntax**, Usage, ContentBlockByName, including, path, contents, folder, necessary]
+keywords: [ContentBlockbyName, Function, Ordinal, content, block, impression, region, start, **Overview**, **Syntax**, ContentBlockByName, including, path, contents, folder, necessary]
 ---
-
-# ContentBlockbyName
 
 > ContentBlockbyName(1, 2, 3, 4, 5)
 

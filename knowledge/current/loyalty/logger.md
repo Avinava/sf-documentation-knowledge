@@ -5,12 +5,10 @@ topic: logger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.172Z
+lastCollected: 2026-04-07T18:38:09.457Z
 estimatedTokens: 192
 keywords: [Logger, standardized, way, save, debug, verbose, info, error, log, messages, Message, Add, Trace, code, execution, identify, Informational, Faulty]
 ---
-
-# Logger
 
 > The
       Logger class provides a standardized way to save debug, verbose,

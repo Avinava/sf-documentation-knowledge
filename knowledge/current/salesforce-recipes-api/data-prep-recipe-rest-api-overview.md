@@ -5,12 +5,10 @@ topic: data-prep-recipe-rest-api-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:24.346Z
+lastCollected: 2026-04-07T18:39:18.031Z
 estimatedTokens: 562
-keywords: [Data, Prep, Recipe, REST, API, access, recipes, CDP, Salesforce, Pipelines, CRM, Analytics, programmatically]
+keywords: [Prep, Recipe, REST, API, recipes, CDP, Salesforce, Pipelines, CRM, Analytics, programmatically]
 ---
-
-# Data Prep Recipe REST API Overview
 
 > You can access Data Prep recipes for CDP, Salesforce Data Pipelines, and CRM Analytics
   programmatically using the Recipe REST API.

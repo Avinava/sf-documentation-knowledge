@@ -5,12 +5,10 @@ topic: create-a-beta-package-for-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.933Z
+lastCollected: 2026-04-07T18:38:54.336Z
 estimatedTokens: 1860
 keywords: [Beta, Package, First-Generation, Managed, Packages, Follow, procedure, upload, Tooling, API, sample, code, PackageUploadRequest, Developer]
 ---
-
-# Create a Beta Package for First-Generation Managed Packages
 
 > Follow this procedure to create and upload a beta package through the UI. (You can
     also upload a package using the Tooling API. For sample code and more details, see the

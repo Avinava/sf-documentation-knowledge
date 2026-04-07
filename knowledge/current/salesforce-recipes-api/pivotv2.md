@@ -5,12 +5,10 @@ topic: pivotv2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.720Z
+lastCollected: 2026-04-07T18:39:19.402Z
 estimatedTokens: 130
-keywords: [PivotV2, version, pivot, aggregate, data, node, recipe]
+keywords: [PivotV2, pivot, aggregate, node, recipe]
 ---
-
-# PivotV2
 
 > A version 2 pivot for an aggregate data node in a recipe.
 

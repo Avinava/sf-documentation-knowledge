@@ -5,12 +5,10 @@ topic: exception-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.406Z
+lastCollected: 2026-04-07T18:36:17.639Z
 estimatedTokens: 760
-keywords: [Exception, Statements, Apex, uses, exceptions, errors, events, disrupt, normal, flow, code, execution, throw, generate, try]
+keywords: [Exception, Statements, Apex, uses, exceptions, errors, events, disrupt, normal, flow, code, execution, throw, generate, try, catch, finally, gracefully, recover, Try-Catch-Finally, Can’t, Caught, Versioned, Behavior, Changes]
 ---
-
-# Exception Statements
 
 > Apex uses exceptions to note errors and other events that
                 disrupt the normal flow of code execution. throw statements can be used to generate exceptions, while try, catch, and finally can be

@@ -5,12 +5,10 @@ topic: clinicalservicerequestdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.897Z
+lastCollected: 2026-04-07T18:39:34.332Z
 estimatedTokens: 310
-keywords: [ClinicalServiceRequestDetail, Associates, records, different, objects, clinical, service, record, add, multi-object, junction, API, version, 51.0, later]
+keywords: [ClinicalServiceRequestDetail, Associates, records, different, clinical, service, record, add, multi-object, junction, API, 51.0]
 ---
-
-# ClinicalServiceRequestDetail
 
 > Associates records from different objects to a clinical service request record
       to add more information to it. This is a multi-object junction object. This object is

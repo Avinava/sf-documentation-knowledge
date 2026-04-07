@@ -5,12 +5,10 @@ topic: flowperformancesetupdetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.126Z
+lastCollected: 2026-04-07T18:36:03.338Z
 estimatedTokens: 73
 keywords: [FlowPerformanceSetupDetails, internal]
 ---
-
-# FlowPerformanceSetupDetails Class
 
 > The methods and properties in this class are for internal use only.
 

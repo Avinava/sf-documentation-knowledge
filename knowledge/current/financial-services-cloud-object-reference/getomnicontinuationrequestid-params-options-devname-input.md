@@ -6,13 +6,10 @@ topic: getomnicontinuationrequestid-params-options-devname-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.481Z
+lastCollected: 2026-04-07T18:37:33.933Z
 estimatedTokens: 390
-keywords: [getOmniContinuation, requestId, params, options, devName, input, Continuation, provider, defined, Integration, Definition, record, referenced, Usage]
+keywords: [getOmniContinuation, requestId, params, options, devName, Continuation, provider, defined, Integration, Definition, record, referenced]
 ---
-
-# getOmniContinuation(requestId, params, options, devName,
-      input)
 
 > Gets the Continuation object returned by the provider defined in the
       Integration Definition record referenced by the devName parameter.

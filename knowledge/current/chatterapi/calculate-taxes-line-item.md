@@ -5,12 +5,10 @@ topic: calculate-taxes-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.010Z
+lastCollected: 2026-04-07T18:37:17.075Z
 estimatedTokens: 291
 keywords: [Calculate, Taxes, Line, Item, tax]
 ---
-
-# Calculate Taxes Line Item
 
 > Calculate tax line item.
 

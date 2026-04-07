@@ -5,12 +5,10 @@ topic: dashboard-json-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.692Z
+lastCollected: 2026-04-07T18:36:54.064Z
 estimatedTokens: 722
 keywords: [Dashboard, JSON, consists, define, layouts, pages, widgets, steps, exposed, editable, designer, user, Others, via]
 ---
-
-# Dashboard JSON Properties
 
 > The dashboard JSON consists of properties that define layouts, pages, widgets, and
     steps. Some properties are exposed and editable in the dashboard designer user interface. Others

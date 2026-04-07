@@ -5,12 +5,10 @@ topic: decision-matrix-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:56.475Z
+lastCollected: 2026-04-07T18:36:42.180Z
 estimatedTokens: 151
-keywords: [Decision, Matrix, Data, Model, objects, relationships]
+keywords: [Decision, Matrix, Model, relationships]
 ---
-
-# Decision Matrix Data Model Overview
 
 > Learn about the objects and relationships within the Decision Matrix data
     model.

@@ -5,12 +5,10 @@ topic: adtargettemplatevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.224Z
+lastCollected: 2026-04-07T18:38:12.512Z
 estimatedTokens: 756
-keywords: [AdTargetTemplateValue, targeting, that's, included, target, template, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [AdTargetTemplateValue, targeting, that's, included, target, template, API, 63.0]
 ---
-
-# AdTargetTemplateValue
 
 > Represents a targeting value that's included in an ad target template.
       This object is available in API version 63.0 and later.

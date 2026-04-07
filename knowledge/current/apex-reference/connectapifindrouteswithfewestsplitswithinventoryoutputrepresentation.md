@@ -5,12 +5,10 @@ topic: connectapifindrouteswithfewestsplitswithinventoryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.971Z
+lastCollected: 2026-04-07T18:36:09.364Z
 estimatedTokens: 411
-keywords: [inventory, locations, combine, fulfill, order, availability, data]
+keywords: [inventory, locations, combine, fulfill, order, availability]
 ---
-
-# ConnectApi.FindRoutesWithFewestSplitsWithInventoryOutputRepresentation
 
 > Sets of inventory locations that can combine to fulfill an order, with
       availability data for those locations.

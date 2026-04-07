@@ -5,12 +5,10 @@ topic: api-access-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.737Z
+lastCollected: 2026-04-07T18:38:46.609Z
 estimatedTokens: 914
-keywords: [API, Access, Group, Professional, Editions, isn't, normally, Edition, orgs, However, app, passes, security, review, you’re]
+keywords: [API, Group, Professional, Editions, isn't, normally, Edition, orgs, However, app, passes, security, review, you’re, eligible, APIs, building, composite, applications]
 ---
-
-# API Access in Group and Professional Editions
 
 > API access isn't normally supported in Group and Professional Edition orgs. However,
     after your app passes the security review, you’re eligible to use some APIs for building

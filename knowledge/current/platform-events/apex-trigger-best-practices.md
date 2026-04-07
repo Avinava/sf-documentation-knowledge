@@ -5,12 +5,10 @@ topic: apex-trigger-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.615Z
+lastCollected: 2026-04-07T18:38:58.493Z
 estimatedTokens: 1614
-keywords: [Apex, Trigger, Best, Practices, Inefficient, platform, event, triggers, cause, processing, rate, keep, publishing, sure, run]
+keywords: [Apex, Trigger, Best, Practices, Inefficient, platform, event, triggers, cause, processing, rate, keep, publishing, sure, run, efficiently, avoid, delays, writing, configuring, Fine-Tuning, Batch, Size, Code, Bulkification, Record, Locking, Contention, Caching, Cache, Resilient, Automation, Triggered, Changes, Analysis, Parallel, Subscriptions]
 ---
-
-# Apex Trigger Best Practices
 
 > Inefficient Apex platform event triggers cause the trigger event processing rate to not
     keep up with the event publishing rate. To make sure that your triggers run efficiently and

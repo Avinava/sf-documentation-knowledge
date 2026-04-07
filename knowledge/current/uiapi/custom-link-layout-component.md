@@ -5,12 +5,10 @@ topic: custom-link-layout-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.590Z
+lastCollected: 2026-04-07T18:40:11.587Z
 estimatedTokens: 240
-keywords: [Custom, Link, Layout, Component, record]
+keywords: [Link, Layout, record]
 ---
-
-# Custom Link Layout Component
 
 > A custom link component on a record page layout.
 

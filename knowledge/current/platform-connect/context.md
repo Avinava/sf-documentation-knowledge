@@ -5,12 +5,10 @@ topic: context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.606Z
+lastCollected: 2026-04-07T18:38:57.410Z
 estimatedTokens: 739
-keywords: [Context, Salesforce, exclude, portions, data, don’t, control, amount, that’s, excluded, implement, own, Canvas.CanvasLifecycleHandler, Apex, provide]
+keywords: [Context, Salesforce, exclude, portions, don’t, control, amount, that’s, excluded, implement, own, Canvas.CanvasLifecycleHandler, Apex, provide, sections]
 ---
-
-# Context
 
 > You can request Salesforce exclude portions of the context data that you don’t need.
                 To control the amount of data that’s excluded, you must implement your own

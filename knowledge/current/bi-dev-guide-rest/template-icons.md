@@ -5,12 +5,10 @@ topic: template-icons
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.265Z
+lastCollected: 2026-04-07T18:36:57.820Z
 estimatedTokens: 159
 keywords: [Template, Icons, Analytics]
 ---
-
-# Template Icons
 
 > The icons for an Analytics template.
 

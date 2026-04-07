@@ -5,12 +5,10 @@ topic: workload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.939Z
+lastCollected: 2026-04-07T18:38:44.743Z
 estimatedTokens: 753
-keywords: [Workload, time, series, work, item, volume, average, handle, aggregation, forecasting, processes, API, version, 49.0, later]
+keywords: [Workload, time, series, work, item, volume, average, handle, aggregation, forecasting, processes, API, 49.0]
 ---
-
-# Workload
 
 > Represents the time series for work item volume and average handle time from
          aggregation and forecasting processes. This object is available in API version 49.0

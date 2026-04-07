@@ -5,12 +5,10 @@ topic: ocr-target-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.252Z
+lastCollected: 2026-04-07T18:36:39.960Z
 estimatedTokens: 160
-keywords: [OCR, Target, Output, representation]
+keywords: [OCR, Target]
 ---
-
-# OCR Target Object
 
 > Output representation of the OCR target object.
 

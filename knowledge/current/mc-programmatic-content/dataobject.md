@@ -5,12 +5,10 @@ topic: dataobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.967Z
+lastCollected: 2026-04-07T18:40:22.355Z
 estimatedTokens: 340
-keywords: [Dataobject, tag, add, data, current, context, template, recommended, purchases, email, web, declare, referencing, activity, Message]
+keywords: [Dataobject, Template, tag, add, current, context, recommended, purchases, email, web, declare, referencing, activity, Message]
 ---
-
-# Dataobject
 
 > Use the dataobject tag to add data to the current context of the template. For example, use dataobject to add a list of recommended purchases in an email or web page. You must declare all information for the dataobject tag before referencing it within your activity.
 

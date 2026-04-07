@@ -5,12 +5,10 @@ topic: writing-documentation-for-the-component-library
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.870Z
+lastCollected: 2026-04-07T18:38:03.963Z
 estimatedTokens: 1223
-keywords: [Writing, Documentation, Component, Library, helps, developers, components, develop, their, apps, effectively, provide, interactive, examples, specification]
+keywords: [Writing, Documentation, Library, helps, developers, develop, their, apps, effectively, provide, interactive, examples, specification, descriptions, event, Viewing]
 ---
-
-# Writing Documentation for the Component Library
 
 > Documentation helps developers use your components to develop their apps more
     effectively. You can provide interactive examples, documentation, and specification descriptions

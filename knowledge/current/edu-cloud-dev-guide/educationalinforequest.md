@@ -5,12 +5,10 @@ topic: educationalinforequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.959Z
+lastCollected: 2026-04-07T18:37:31.038Z
 estimatedTokens: 703
-keywords: [EducationalInfoRequest, RFI, raised, prospective, students, parents, counselors, API, version, 57.0, later, Calls]
+keywords: [EducationalInfoRequest, RFI, raised, prospective, students, parents, counselors, API, 57.0]
 ---
-
-# EducationalInfoRequest
 
 > Represents details about a request for information (RFI) raised by
          prospective students, parents, or counselors. This object is available in API version

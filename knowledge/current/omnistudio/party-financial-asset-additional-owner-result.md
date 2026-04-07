@@ -5,12 +5,10 @@ topic: party-financial-asset-additional-owner-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.336Z
+lastCollected: 2026-04-07T18:36:40.070Z
 estimatedTokens: 496
-keywords: [Party, Financial, Asset, Additional, Owner, Result, Output, representation]
+keywords: [Party, Financial, Asset, Additional, Owner, Result]
 ---
-
-# Party Financial Asset Additional Owner Result
 
 > Output representation of the details of the additional owner of the party financial
     asset.

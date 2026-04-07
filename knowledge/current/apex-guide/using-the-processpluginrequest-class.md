@@ -5,12 +5,10 @@ topic: using-the-processpluginrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.988Z
+lastCollected: 2026-04-07T18:36:18.218Z
 estimatedTokens: 327
-keywords: [Process.PluginRequest, passes, input, implements, flow, Code]
+keywords: [Process.PluginRequest, passes, implements, flow, Code]
 ---
-
-# Using the Process.PluginRequest Class
 
 > The Process.PluginRequest class passes input
         parameters from the class that implements the interface to the flow.

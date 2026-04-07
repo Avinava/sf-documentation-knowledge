@@ -5,12 +5,10 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.842Z
+lastCollected: 2026-04-07T18:38:57.657Z
 estimatedTokens: 794
-keywords: [User, JSON-formatted, containing, context, current, canvas, app, display, user’s, subsequent, calls, retrieve, additional, role]
+keywords: [User, JSON-formatted, containing, context, current, canvas, app, display, user’s, subsequent, retrieve, additional, role]
 ---
-
-# User
 
 > The User object
 is a JSON-formatted object containing context information about the

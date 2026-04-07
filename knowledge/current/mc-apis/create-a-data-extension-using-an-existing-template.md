@@ -5,12 +5,10 @@ topic: create-a-data-extension-using-an-existing-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.970Z
+lastCollected: 2026-04-07T18:40:16.112Z
 estimatedTokens: 2439
-keywords: [Data, Extension, Template, creating, Why, How, Sample, PHP, Code, Retrieve, Templates, SOAP, Envelope]
+keywords: [Extension, Template, creating, Why, How, Sample, PHP, Code, Retrieve, Templates, SOAP, Envelope]
 ---
-
-# Create a Data Extension Using an Existing Template
 
 > This page contains information  about creating a data extension using an existing data extension template.
 

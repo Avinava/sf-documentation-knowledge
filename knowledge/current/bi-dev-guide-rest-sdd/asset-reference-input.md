@@ -5,12 +5,10 @@ topic: asset-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.050Z
+lastCollected: 2026-04-07T18:36:58.574Z
 estimatedTokens: 81
-keywords: [Asset, Input, Einstein, Discovery, wraps, BaseAssetReferenceInput]
+keywords: [Asset, Einstein, Discovery, wraps, BaseAssetReferenceInput]
 ---
-
-# Asset Reference Input
 
 > An Einstein Discovery asset reference. This wraps the BaseAssetReferenceInput
 

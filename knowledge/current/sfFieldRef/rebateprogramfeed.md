@@ -5,12 +5,10 @@ topic: rebateprogramfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.025Z
+lastCollected: 2026-04-07T18:39:58.687Z
 estimatedTokens: 297
-keywords: [RebateProgramFeed, Feed, tracking, RebateProgram]
+keywords: [RebateProgramFeed, RebateProgram]
 ---
-
-# RebateProgramFeed
 
 > Feed tracking for RebateProgram.
 

@@ -5,12 +5,10 @@ topic: install-nodejs-npm-and-git-command-line
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.866Z
+lastCollected: 2026-04-07T18:40:26.183Z
 estimatedTokens: 420
-keywords: [Install, Node.js, npm, Git, Command, Line, mobile, developers, want, SDK, “black, box”, begin, creating, apps]
+keywords: [Install, Node.js, npm, Git, Command, Line, mobile, developers, want, SDK, “black, box”, begin, creating, apps, quickly, possible, case, offers, variety, scripts, help, plan, take, advantage, tools, installer, automatically, installs, latest]
 ---
-
-# Install Node.js, npm, and Git Command Line
 
 > Many mobile developers want to use Mobile SDK as a
             “black box” and begin creating apps as quickly as possible. For this use

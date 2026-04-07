@@ -5,12 +5,10 @@ topic: delegatedaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.945Z
+lastCollected: 2026-04-07T18:38:29.823Z
 estimatedTokens: 651
-keywords: [DelegatedAccount, external, managed, account, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [DelegatedAccount, external, managed, account, API, 49.0]
 ---
-
-# DelegatedAccount
 
 > Represents the external managed account. This object is
       available in API version 49.0 and later.

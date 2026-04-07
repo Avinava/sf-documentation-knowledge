@@ -5,12 +5,10 @@ topic: insecure-external-assets-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.303Z
+lastCollected: 2026-04-07T18:38:31.098Z
 estimatedTokens: 1901
-keywords: [Insecure, External, Assets, Event, events, contain, include, images, videos, accessed, users, over, HTTP, protocol, Salesforce]
+keywords: [Insecure, External, Assets, Event, events, contain, include, images, videos, accessed, users, over, HTTP, protocol, Salesforce, pages, hosted, insecurely, third-party, sites, loaded, Chrome, Firefox, Microsoft, Edge, Safari, browser, INSECURE_URI, URI, load, asset, EventLogFile, API, 42.0]
 ---
-
-# Insecure External Assets Event Type
 
 > Insecure External Assets events contain information about external
          assets. External assets include images or videos accessed by users over an insecure HTTP

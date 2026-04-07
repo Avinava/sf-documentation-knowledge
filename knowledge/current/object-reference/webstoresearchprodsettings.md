@@ -5,12 +5,10 @@ topic: webstoresearchprodsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.691Z
+lastCollected: 2026-04-07T18:38:44.503Z
 estimatedTokens: 603
-keywords: [WebStoreSearchProdSettings, Search, settings, WebStore, product, API, version, 47.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [WebStoreSearchProdSettings, Search, settings, WebStore, product, API, 47.0]
 ---
-
-# WebStoreSearchProdSettings
 
 > Search settings for a WebStore product search. This object is available
       in API version 47.0 and later.

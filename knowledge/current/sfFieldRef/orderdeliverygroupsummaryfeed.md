@@ -5,12 +5,10 @@ topic: orderdeliverygroupsummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.380Z
+lastCollected: 2026-04-07T18:39:50.786Z
 estimatedTokens: 393
-keywords: [OrderDeliveryGroupSummaryFeed, Feed, tracking, OrderDeliveryGroupSummary]
+keywords: [OrderDeliveryGroupSummaryFeed, OrderDeliveryGroupSummary]
 ---
-
-# OrderDeliveryGroupSummaryFeed
 
 > Feed tracking for OrderDeliveryGroupSummary.
 

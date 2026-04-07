@@ -5,12 +5,10 @@ topic: folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.808Z
+lastCollected: 2026-04-07T18:38:32.825Z
 estimatedTokens: 1235
-keywords: [Folder, repository, Dashboard, Document, EmailTemplate, Macro, QuickText, Report, item, contained, Calls, Special, Access, Rules, Usage]
+keywords: [Folder, repository, Dashboard, Document, EmailTemplate, Macro, QuickText, Report, item, contained]
 ---
-
-# Folder
 
 > Represents a repository for a Dashboard, Document, EmailTemplate,
    Macro, QuickText, or Report. Only one type of item can be contained in a folder.

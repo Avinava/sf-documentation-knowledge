@@ -6,13 +6,10 @@ topic: type-resolution-and-system-namespace-for-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:31.354Z
+lastCollected: 2026-04-07T18:36:16.569Z
 estimatedTokens: 203
 keywords: [Resolution, System, T1.T2, mean, inner, top-level, order, precedence]
 ---
-
-# Type Resolution and System Namespace for
-Types
 
 > For the type T1.T2 this
 could mean an inner type T2 in a top-level class T1, or it could mean a top-level class T2 in the namespace T1 (in that order of precedence).

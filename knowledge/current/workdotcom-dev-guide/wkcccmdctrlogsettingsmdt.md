@@ -5,12 +5,10 @@ topic: wkcccmdctrlogsettingsmdt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.989Z
+lastCollected: 2026-04-07T18:40:13.982Z
 estimatedTokens: 466
-keywords: [wkcc__CmdCtrLogSettings__mdt, Custom, metadata, record, named, configuring, logging, Workplace, Command, Center, Wellness, Check, enable, disable, configure]
+keywords: [wkcc__CmdCtrLogSettings__mdt, metadata, record, named, configuring, logging, Workplace, Command, Center, Wellness, Check, enable, disable, configure, whether, how, long, Salesforce, keeps, old, log, messages, wkcc__CmdCtrLog__c, stores, orgs, installed, wkcc, _CmdCtrLogSettings, _mdt]
 ---
-
-# wkcc__CmdCtrLogSettings__mdt
 
 > Custom metadata type that contains a record named Default for configuring
       logging in Workplace Command Center and Wellness Check. You can enable or disable

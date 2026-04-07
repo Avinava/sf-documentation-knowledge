@@ -5,12 +5,10 @@ topic: cgcloudcpkeytypec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.880Z
+lastCollected: 2026-04-07T18:39:13.288Z
 estimatedTokens: 2688
-keywords: [cgcloud__CP_Key_Type__c, key, complex, pricing, search, strategy, API, version, 54.0, later, cgcloud, _CP, _Key, _Type, Calls]
+keywords: [cgcloud__CP_Key_Type__c, key, complex, pricing, search, strategy, API, 54.0, cgcloud, _CP, _Key, _Type]
 ---
-
-# cgcloud__CP_Key_Type__c
 
 > The key type object is used in the complex pricing search
          strategy. This object is available in API version 54.0 and later.

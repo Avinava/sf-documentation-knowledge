@@ -5,12 +5,10 @@ topic: verification-process-field-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.995Z
+lastCollected: 2026-04-07T18:37:42.157Z
 estimatedTokens: 94
-keywords: [Verification, Process, Output, Identity, record]
+keywords: [Verification, Process, Identity, record]
 ---
-
-# Verification Process Field List Output
 
 > Represents the list of fields in the Identity Verification Process
       Field record.

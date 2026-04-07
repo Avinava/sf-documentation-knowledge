@@ -5,12 +5,10 @@ topic: typographical-conventions-in-this-document
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.257Z
+lastCollected: 2026-04-07T18:40:10.230Z
 estimatedTokens: 509
-keywords: [Typographical, Conventions, Document, SOQL, uses, custom, SOSL, specific]
+keywords: [Typographical, Conventions, Document, SOQL, uses, SOSL, specific]
 ---
-
-# Typographical Conventions in This Document
 
 > This SOQL reference uses custom typographical conventions.
 

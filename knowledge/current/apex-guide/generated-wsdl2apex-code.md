@@ -5,12 +5,10 @@ topic: generated-wsdl2apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.943Z
+lastCollected: 2026-04-07T18:36:16.163Z
 estimatedTokens: 321
 keywords: [Generated, WSDL2Apex, Code, generate, Apex, classes, WSDL, document, tool, open, source, GitHub]
 ---
-
-# Generated WSDL2Apex Code
 
 > You can generate Apex classes from a WSDL document using the WSDL2Apex tool. The
         WSDL2Apex tool is open source and available on GitHub.

@@ -5,12 +5,10 @@ topic: slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.094Z
+lastCollected: 2026-04-07T18:40:20.322Z
 estimatedTokens: 328
-keywords: [Slots, allow, control, manipulate, restrict, content, blocks, move, different, enforce, block, number, restrictions, limited, recursion]
+keywords: [Slots, allow, control, manipulate, restrict, content, blocks, move, different, enforce, block, number, restrictions, limited, recursion, maximum, depth, Sample, Asset, Items]
 ---
-
-# Slots
 
 > Slots allow you to control, manipulate, and restrict content blocks. You can create slots, move slots to different blocks, and enforce block number and type restrictions within slots. Blocks within slots are limited to 2x recursion, with a maximum depth of 4 objects.
 

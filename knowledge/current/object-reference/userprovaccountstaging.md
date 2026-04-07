@@ -5,12 +5,10 @@ topic: userprovaccountstaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.007Z
+lastCollected: 2026-04-07T18:38:43.779Z
 estimatedTokens: 1074
-keywords: [UserProvAccountStaging, Temporarily, stores, user, account, completes, Provisioning, Wizard, stored, UserProvAccount, click, button, collect, analyze, accounts]
+keywords: [UserProvAccountStaging, Temporarily, stores, user, account, completes, Provisioning, Wizard, stored, UserProvAccount, click, button, collect, analyze, accounts, target, system]
 ---
-
-# UserProvAccountStaging
 
 > Temporarily stores user account information while a user completes the
 			User Provisioning Wizard. This information that is stored in the UserProvAccount object

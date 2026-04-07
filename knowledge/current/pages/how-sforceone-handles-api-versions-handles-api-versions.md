@@ -6,13 +6,10 @@ topic: how-sforceone-handles-api-versions-handles-api-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.471Z
+lastCollected: 2026-04-07T18:38:52.779Z
 estimatedTokens: 1311
-keywords: [How, sforce.one, Handles, API, Versions, frequently, improved, new, releases, maintain, backward, compatibility, version-specific, behavior, specific]
+keywords: [How, sforce.one, Handles, API, Versions, frequently, improved, new, releases, maintain, backward, compatibility, version-specific, behavior, specific, apps, Examples]
 ---
-
-# How  sforce.one Handles API Versions Handles API
-            Versions
 
 > The sforce.one object is frequently improved
         in new releases. To maintain backward compatibility, sforce.one provides version-specific behavior, and you can use a specific

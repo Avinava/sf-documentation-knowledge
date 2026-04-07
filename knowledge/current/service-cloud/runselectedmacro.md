@@ -5,12 +5,10 @@ topic: runselectedmacro
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.504Z
+lastCollected: 2026-04-07T18:36:50.766Z
 estimatedTokens: 187
-keywords: [runSelectedMacro, Executes, selected, macro, widget, API, version, 36.0, later, isn’t, Lightning, Console, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, runSelectedMacro, Executes, selected, macro, widget, API, 36.0, isn’t, Lightning, Console, Sample, Code–Visualforce]
 ---
-
-# runSelectedMacro()
 
 > Executes the selected macro in the macro widget. This
             method is only available in API version 36.0 or later. This method isn’t supported in

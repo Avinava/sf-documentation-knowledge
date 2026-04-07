@@ -5,13 +5,11 @@ topic: resolution-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.459Z
+lastCollected: 2026-04-07T18:35:59.736Z
 estimatedTokens: 897
 namespace: CommerceExtension
 keywords: [Resolution, strategy, conditionally, invokes, domain, logic, provided, extension, provider, resolutionState, providerName, getProviderName, getResolutionState]
 ---
-
-# Resolution Class
 
 > Resolution of a resolution strategy, which conditionally invokes default domain logic,
     logic provided by an extension provider, or no logic.

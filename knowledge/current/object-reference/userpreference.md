@@ -5,12 +5,10 @@ topic: userpreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.937Z
+lastCollected: 2026-04-07T18:38:43.707Z
 estimatedTokens: 794
-keywords: [UserPreference, functional, preference, specific, user, organization, Calls, Special, Access, Rules, Usage]
+keywords: [UserPreference, functional, preference, specific, user, organization]
 ---
-
-# UserPreference
 
 > Represents a functional preference for a specific user in
     your organization.

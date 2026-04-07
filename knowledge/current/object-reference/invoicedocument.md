@@ -5,12 +5,10 @@ topic: invoicedocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.679Z
+lastCollected: 2026-04-07T18:38:33.857Z
 estimatedTokens: 543
-keywords: [InvoiceDocument, Tracks, displays, status, documents, generated, invoices, Invoice, entity, records, API, version, 61.0, later, Calls]
+keywords: [InvoiceDocument, Tracks, displays, status, documents, generated, invoices, Invoice, entity, records, API, 61.0]
 ---
-
-# InvoiceDocument
 
 > Tracks and displays the status of documents generated for invoices. Invoice
          documents are available in the related lists of invoice entity records. This object is

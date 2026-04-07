@@ -5,12 +5,10 @@ topic: create-a-triggered-send-using-the-async-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.115Z
+lastCollected: 2026-04-07T18:40:16.250Z
 estimatedTokens: 691
-keywords: [Triggered, Send, Async, API, ensure, call, queued, ready, once, completed, matter, happens, network, connection, prioritize]
+keywords: [Triggered, Send, Async, API, ensure, call, queued, ready, once, completed, matter, happens, network, connection, prioritize, CorrellationID, ConversationID, track, exchange, emails, Sample, NET, Code, Items]
 ---
-
-# Create a Triggered Send Using the Async API
 
 > By using the async API, you can ensure that your call is queued and ready to go once the call is completed, no matter what happens with your network connection. You can also prioritize triggered sends and use the CorrellationID and ConversationID objects to track an exchange of emails related to the
 

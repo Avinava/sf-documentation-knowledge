@@ -5,12 +5,10 @@ topic: leadmonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.000Z
+lastCollected: 2026-04-07T18:38:34.192Z
 estimatedTokens: 1674
-keywords: [LeadMonthlyMetric, monthly, engagement, metrics, lead, API, version, 52.0, later, Calls, Special, Access, Rules]
+keywords: [LeadMonthlyMetric, monthly, engagement, metrics, lead, API, 52.0]
 ---
-
-# LeadMonthlyMetric
 
 > Represents the monthly engagement metrics for a lead. This object is
       available in API version 52.0 and later.

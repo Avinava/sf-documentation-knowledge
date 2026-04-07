@@ -5,12 +5,10 @@ topic: supplemental-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.157Z
+lastCollected: 2026-04-07T18:35:46.111Z
 estimatedTokens: 212
-keywords: [Supplemental, Transaction, Output, representation, created, order]
+keywords: [Supplemental, Transaction, created, order]
 ---
-
-# Supplemental Transaction
 
 > Output representation of the details of the created supplemental order.
 

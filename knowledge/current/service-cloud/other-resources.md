@@ -5,12 +5,10 @@ topic: other-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.499Z
+lastCollected: 2026-04-07T18:36:50.760Z
 estimatedTokens: 347
 keywords: [Resources, addition, there, how, console, APIs]
 ---
-
-# Other Resources
 
 > In addition to this guide, there are other resources available for you as you learn how
     to use the console APIs.

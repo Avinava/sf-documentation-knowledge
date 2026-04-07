@@ -5,12 +5,10 @@ topic: understanding-package-upgrades-with-ancestry
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:03.759Z
+lastCollected: 2026-04-07T18:38:56.291Z
 estimatedTokens: 284
-keywords: [Understanding, Package, Upgrades, Ancestry, Review, how, impacts, version, allowed]
+keywords: [Understanding, Package, Upgrades, Ancestry, Review, how, impacts, allowed]
 ---
-
-# Understanding Package Upgrades with Ancestry
 
 > Review how package ancestry impacts which package version upgrades are
     allowed.

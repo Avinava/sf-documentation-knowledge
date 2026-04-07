@@ -5,12 +5,10 @@ topic: connectapiengagementtopiccreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.261Z
+lastCollected: 2026-04-07T18:36:35.770Z
 estimatedTokens: 436
-keywords: [ConnectApi.EngagementTopicCreateInput, Input, representation, engagement, topic, record]
+keywords: [ConnectApi.EngagementTopicCreateInput, engagement, topic, record]
 ---
-
-# ConnectApi.EngagementTopicCreateInput
 
 > Input representation to create an engagement topic
     record.

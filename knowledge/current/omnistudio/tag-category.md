@@ -5,12 +5,10 @@ topic: tag-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.854Z
+lastCollected: 2026-04-07T18:36:40.558Z
 estimatedTokens: 106
-keywords: [Tag, Category, Output, representation, interest]
+keywords: [Tag, Category, interest]
 ---
-
-# Tag Category
 
 > Output representation of the category details of an interest
     tag.

@@ -5,12 +5,10 @@ topic: flowinterview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.198Z
+lastCollected: 2026-04-07T18:39:40.801Z
 estimatedTokens: 413
-keywords: [FlowInterview, flow, interview, running, instance, API, version, 32.0, later]
+keywords: [FlowInterview, flow, interview, running, instance, API, 32.0]
 ---
-
-# FlowInterview
 
 > Represents a flow interview. A flow interview is a
          running instance of a flow. This object is available in API version 32.0 and

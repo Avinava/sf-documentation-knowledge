@@ -5,12 +5,10 @@ topic: managedcontentvariant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.248Z
+lastCollected: 2026-04-07T18:38:35.493Z
 estimatedTokens: 750
-keywords: [ManagedContentVariant, variant, managed, content, item, API, version, 56.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ManagedContentVariant, variant, managed, content, item, API, 56.0]
 ---
-
-# ManagedContentVariant
 
 > Represents a variant of a managed content item. This object is available
       in API version 56.0 and later.

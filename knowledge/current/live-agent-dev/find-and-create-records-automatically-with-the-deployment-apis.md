@@ -5,12 +5,10 @@ topic: find-and-create-records-automatically-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.791Z
+lastCollected: 2026-04-07T18:38:06.027Z
 estimatedTokens: 622
-keywords: [Records, Automatically, Deployment, APIs, API, search, Salesforce, records—like, case, contact, account, lead—automatically, agent, begins, chat]
+keywords: [Records, Automatically, Deployment, APIs, API, search, Salesforce, records—like, case, contact, account, lead—automatically, agent, begins, chat, customer]
 ---
-
-# Find and Create Records Automatically with the Deployment APIs
 
 > Use the Deployment API to search for or create Salesforce records—like a case,
       contact, account, or lead—automatically when an agent begins a chat with a

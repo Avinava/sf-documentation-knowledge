@@ -5,12 +5,10 @@ topic: codeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.234Z
+lastCollected: 2026-04-07T18:36:52.669Z
 estimatedTokens: 1152
-keywords: [Codeset, various, industry, defined, codes, context, their, systems, versions, API, version, 58.0, later, Calls, Special]
+keywords: [Codeset, various, industry, defined, codes, context, their, systems, versions, API, 58.0]
 ---
-
-# Codeset
 
 > Represents various industry defined codes in the context of their
          systems and versions of those systems. This object is available in API version 58.0

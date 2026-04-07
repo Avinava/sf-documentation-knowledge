@@ -5,12 +5,10 @@ topic: extlrecshrevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.114Z
+lastCollected: 2026-04-07T18:38:58.992Z
 estimatedTokens: 591
-keywords: [ExtlRecShrEvent, Tracks, record, data, published, vendor’s, Salesforce, org, connected, partner’s, Partner, Connect, API, version, 62.0]
+keywords: [ExtlRecShrEvent, Tracks, record, published, vendor’s, Salesforce, org, connected, partner’s, Partner, Connect, API, 62.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# ExtlRecShrEvent
 
 > Tracks the record data published from a
 			vendor’s

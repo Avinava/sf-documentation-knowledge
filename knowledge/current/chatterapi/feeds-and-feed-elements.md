@@ -5,12 +5,10 @@ topic: feeds-and-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.895Z
+lastCollected: 2026-04-07T18:37:23.941Z
 estimatedTokens: 3769
-keywords: [Feeds, Feed, Elements, container, items, specific, posts, generic, bundled, recommendations, Capabilities, How, Salesforce, Displays, Bundles]
+keywords: [Capabilities, Feeds, container, items, specific, posts, generic, bundled, recommendations, How, Salesforce, Displays, Bundles, Visibility, Post, Item, chatter, feed-elements]
 ---
-
-# Feeds and Feed Elements
 
 > A feed is a container of feed elements. Feed elements can be feed
          items, such as specific posts, or generic feed elements, such as bundled posts or

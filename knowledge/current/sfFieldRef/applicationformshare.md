@@ -5,12 +5,10 @@ topic: applicationformshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.481Z
+lastCollected: 2026-04-07T18:39:26.426Z
 estimatedTokens: 250
 keywords: [ApplicationFormShare, Sharing, ApplicationForm]
 ---
-
-# ApplicationFormShare
 
 > Sharing for ApplicationForm.
 

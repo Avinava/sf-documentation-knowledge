@@ -5,12 +5,10 @@ topic: content-document
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.109Z
+lastCollected: 2026-04-07T18:37:25.065Z
 estimatedTokens: 251
-keywords: [Content, Document, Output, representation, record]
+keywords: [Content, Document, record]
 ---
-
-# Content Document
 
 > Output representation of the content document record.
 

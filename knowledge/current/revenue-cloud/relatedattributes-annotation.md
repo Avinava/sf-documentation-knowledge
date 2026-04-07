@@ -5,12 +5,10 @@ topic: relatedattributes-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.430Z
+lastCollected: 2026-04-07T18:35:42.300Z
 estimatedTokens: 2590
 keywords: [relatedAttributes, Annotation, Constraint, Modeling, Language, CML, resets, domain, original, domainComputation, Configurator, Result, Configuration, Settings]
 ---
-
-# relatedAttributes Annotation
 
 > relatedAttributes is a Constraint Modeling
     Language (CML) annotation that resets the domain to the original one for

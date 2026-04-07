@@ -5,13 +5,11 @@ topic: apex-reference-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:02:30.202Z
+lastCollected: 2026-04-07T18:36:15.483Z
 estimatedTokens: 4331
 namespace: ApexPages
-keywords: [Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server]
+keywords: [Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, API, includes, built-in, classes, interfaces, enums, exceptions, grouped, DML, insert, merge, restore]
 ---
-
-# Apex Reference Guide
 
 > Apex is a strongly typed, object-oriented programming language that allows developers
         to execute flow and transaction control statements on the Salesforce Platform server, in

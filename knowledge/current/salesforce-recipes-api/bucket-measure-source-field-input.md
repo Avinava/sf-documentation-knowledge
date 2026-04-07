@@ -5,12 +5,10 @@ topic: bucket-measure-source-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.482Z
+lastCollected: 2026-04-07T18:39:18.162Z
 estimatedTokens: 102
-keywords: [Bucket, Measure, Source, Input, node, recipe]
+keywords: [Bucket, Measure, Source, node, recipe]
 ---
-
-# Bucket Measure Source Field Input
 
 > A measure source field for a bucket node in a recipe.
 

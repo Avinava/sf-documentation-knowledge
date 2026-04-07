@@ -5,12 +5,10 @@ topic: drfetchorderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.006Z
+lastCollected: 2026-04-07T18:38:11.272Z
 estimatedTokens: 144
-keywords: [DRFetchOrderItem, Omnistudio, Data, Mapper, fetches, item, order, Asset, workflow, Sample, Input, Output]
+keywords: [DRFetchOrderItem, Omnistudio, Mapper, fetches, item, order, Asset, workflow, Sample]
 ---
-
-# DRFetchOrderItem
 
 > This Omnistudio Data Mapper fetches the details of item in
     an order during the Asset to Order workflow.

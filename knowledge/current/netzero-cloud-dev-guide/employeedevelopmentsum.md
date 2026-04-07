@@ -5,12 +5,10 @@ topic: employeedevelopmentsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.877Z
+lastCollected: 2026-04-07T18:38:18.396Z
 estimatedTokens: 1627
-keywords: [EmployeeDevelopmentSum, statistics, training, development, provided, upskill, employees, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [EmployeeDevelopmentSum, statistics, training, development, provided, upskill, employees, API, 57.0]
 ---
-
-# EmployeeDevelopmentSum
 
 > Represents statistics about training and development provided to
          upskill the employees. This object is available in API version 57.0 and

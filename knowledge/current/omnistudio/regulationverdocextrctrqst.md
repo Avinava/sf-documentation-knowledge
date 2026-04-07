@@ -5,12 +5,10 @@ topic: regulationverdocextrctrqst
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.422Z
+lastCollected: 2026-04-07T18:36:45.194Z
 estimatedTokens: 350
-keywords: [RegulationVerDocExtrctRqst, extract, documents, Regulation, Version, API, 65.0, later, Calls]
+keywords: [RegulationVerDocExtrctRqst, extract, documents, Regulation, API, 65.0]
 ---
-
-# RegulationVerDocExtrctRqst
 
 > Represents a request to extract documents related to a Regulation
          Version. This object is available in API version 65.0 and later.

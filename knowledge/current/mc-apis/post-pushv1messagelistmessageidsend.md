@@ -5,12 +5,10 @@ topic: post-pushv1messagelistmessageidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.068Z
+lastCollected: 2026-04-07T18:40:18.257Z
 estimatedTokens: 802
-keywords: [POST, push, messageList, messageId, send, message, mobile, devices, push-enabled, app, **Overview**, Usage]
+keywords: [POST, push, messageList, messageId, send, message, mobile, devices, push-enabled, app, **Overview**]
 ---
-
-# POST /push/v1/messageList/{messageId}/send
 
 > Sends a message to the specified mobile devices of a push-enabled app.
 

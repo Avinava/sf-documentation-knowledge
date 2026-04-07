@@ -5,13 +5,11 @@ topic: jwt-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.289Z
+lastCollected: 2026-04-07T18:35:59.570Z
 estimatedTokens: 2882
 namespace: Auth
-keywords: [JWT, Generates, JSON, Claims, Web, Token, resulting, Base64-encoded, payload, passed, argument, instance, Auth.JWS, Usage, clone]
+keywords: [JWT, Generates, JSON, Claims, Web, Token, resulting, Base64-encoded, payload, passed, argument, instance, Auth.JWS, clone, getAdditionalClaims, getAud, getIss, getNbfClockSkew, getSub, getValidityLength, setAdditionalClaims, additionalClaims, setAud, aud, setIss, iss, setNbfClockSkew, nbfClockSkew, setSub, sub, setValidityLength, validityLength, toJSONString]
 ---
-
-# JWT Class
 
 > Generates the JSON Claims Set in a JSON Web Token (JWT). The resulting
       Base64-encoded payload can be passed as an argument to create an instance of the Auth.JWS class.

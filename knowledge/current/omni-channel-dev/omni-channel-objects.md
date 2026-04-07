@@ -5,12 +5,10 @@ topic: omni-channel-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.415Z
+lastCollected: 2026-04-07T18:38:45.235Z
 estimatedTokens: 1252
-keywords: [Omni-Channel, Objects, API, retrieve, records, accounts, leads, custom, Salesforce, data, model, includes, several, let, control]
+keywords: [Omni-Channel, API, retrieve, records, accounts, leads, Salesforce, model, includes, several, let, control, customize, including, users, routing, configurations, statuses]
 ---
-
-# Omni-Channel Objects
 
 > Use an API to create, retrieve, update or delete records, such as accounts, leads, and
     custom objects. The Salesforce data model includes several objects that let you control and

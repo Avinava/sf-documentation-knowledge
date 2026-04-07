@@ -5,12 +5,10 @@ topic: enable-debugging-for-lwc-developers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.562Z
+lastCollected: 2026-04-07T18:38:15.044Z
 estimatedTokens: 588
-keywords: [Enable, Debugging, LWC, Developers, settings, developer, user, needs, tools, developing, their, LWCs, Debug, Mode, Lightning]
+keywords: [Enable, Debugging, LWC, Developers, settings, developer, user, needs, tools, developing, their, LWCs, Debug, Mode, Lightning, Web, Security]
 ---
-
-# Enable Debugging for LWC Developers
 
 > Enable debugging settings for each LWC developer user who needs to use debugging tools
   while developing their LWCs.

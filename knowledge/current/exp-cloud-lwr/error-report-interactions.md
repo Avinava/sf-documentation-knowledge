@@ -5,12 +5,10 @@ topic: error-report-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.997Z
+lastCollected: 2026-04-07T18:37:33.300Z
 estimatedTokens: 123
 keywords: [Error, Report, Interactions, capture, occurs, site, Event]
 ---
-
-# Error Report Interactions
 
 > Error interactions capture when an error occurs on your
 		site.

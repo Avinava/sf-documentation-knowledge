@@ -5,12 +5,10 @@ topic: abort-export-process-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.660Z
+lastCollected: 2026-04-07T18:39:11.176Z
 estimatedTokens: 76
-keywords: [Abort, Export, Process, Input, Query, API]
+keywords: [Abort, Export, Process, Query, API]
 ---
-
-# Abort Export Process Input
 
 > Query parameters for Abort Export Process API.
 

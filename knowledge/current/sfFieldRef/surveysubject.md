@@ -5,12 +5,10 @@ topic: surveysubject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.617Z
+lastCollected: 2026-04-07T18:40:03.306Z
 estimatedTokens: 319
 keywords: [SurveySubject, relationship, survey, another, account, case]
 ---
-
-# SurveySubject
 
 > Represents a relationship between a survey and another object, such
 			as an account or a case.

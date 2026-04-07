@@ -5,12 +5,10 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.114Z
+lastCollected: 2026-04-07T18:37:28.152Z
 estimatedTokens: 467
 keywords: [Prerequisites, quick, start]
 ---
-
-# Prerequisites
 
 > Prerequisites for this quick start.
 

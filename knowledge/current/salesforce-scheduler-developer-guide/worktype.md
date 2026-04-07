@@ -5,12 +5,10 @@ topic: worktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.243Z
+lastCollected: 2026-04-07T18:39:21.054Z
 estimatedTokens: 2205
-keywords: [WorkType, work, performed, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special, Access, Rules, Usage, Associated]
+keywords: [WorkType, work, performed, Salesforce, Scheduler, API, 38.0]
 ---
-
-# WorkType
 
 > Represents a type of work to be performed in Salesforce
 			Scheduler. This object is available in API version 38.0 and later.

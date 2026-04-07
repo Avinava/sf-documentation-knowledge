@@ -5,12 +5,10 @@ topic: widgets-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.650Z
+lastCollected: 2026-04-07T18:36:54.022Z
 estimatedTokens: 631
-keywords: [widgets, key, determine, height, width, widget, it’s, placed, dashboard, layout, Because, designer, uses, grid, specify]
+keywords: [widgets, key, determine, height, width, widget, it’s, placed, dashboard, layout, Because, designer, uses, grid, specify, terms, rows, columns, number]
 ---
-
-# widgets Properties
 
 > The widgets key contains properties that determine
     the height and width of each widget, and where it’s placed on the dashboard layout. Because the

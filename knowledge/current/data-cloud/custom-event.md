@@ -5,12 +5,10 @@ topic: custom-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.439Z
+lastCollected: 2026-04-07T18:35:51.292Z
 estimatedTokens: 71
-keywords: [Custom, Event, capture, user-defined, attributes, mobile, SDK, define, source, map, Schema, naming, conventions]
+keywords: [Event, capture, user-defined, attributes, mobile, SDK, define, source, map, Schema, naming, conventions]
 ---
-
-# Custom Event
 
 > To capture user-defined attributes in the mobile SDK, define the source properties in a
         custom event. You can then map the fields to a Custom Event Schema using the Mobile Schema

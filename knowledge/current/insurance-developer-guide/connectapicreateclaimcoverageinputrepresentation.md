@@ -5,12 +5,10 @@ topic: connectapicreateclaimcoverageinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.846Z
+lastCollected: 2026-04-07T18:37:49.718Z
 estimatedTokens: 305
-keywords: [Input, representation, creating, claim, coverage]
+keywords: [creating, claim, coverage]
 ---
-
-# ConnectApi.CreateClaimCoverageInputRepresentation
 
 > Input representation for creating a claim coverage.
 

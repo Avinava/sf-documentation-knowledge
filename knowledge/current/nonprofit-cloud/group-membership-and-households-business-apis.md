@@ -5,12 +5,10 @@ topic: group-membership-and-households-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:30.558Z
+lastCollected: 2026-04-07T18:38:21.415Z
 estimatedTokens: 236
-keywords: [Group, Membership, Households, Business, APIs, define, manage, party, relationship, groups, individuals, trusts, Special, Access, Rules]
+keywords: [Group, Membership, Households, Business, APIs, define, manage, party, relationship, groups, individuals, trusts]
 ---
-
-# Group Membership and Households Business APIs
 
 > Use business APIs to define and manage party relationship groups of individuals or
     trusts.

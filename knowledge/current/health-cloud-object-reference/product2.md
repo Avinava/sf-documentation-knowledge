@@ -5,12 +5,10 @@ topic: product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.183Z
+lastCollected: 2026-04-07T18:37:46.794Z
 estimatedTokens: 962
-keywords: [Product2, product, org, sells, Calls, Associated, Objects]
+keywords: [Product2, product, org, sells]
 ---
-
-# Product2
 
 > Represents a product that your org sells.
 

@@ -5,12 +5,10 @@ topic: updating-recipient-group-error-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.395Z
+lastCollected: 2026-04-07T18:37:26.306Z
 estimatedTokens: 141
-keywords: [Updating, Recipient, Group, Error, Output, representation, detailing, reasons, why, updated]
+keywords: [Updating, Recipient, Group, Error, detailing, reasons, why, updated]
 ---
-
-# Updating Recipient Group Error Output
 
 > Output representation detailing the reasons why the recipient group
       was not updated.

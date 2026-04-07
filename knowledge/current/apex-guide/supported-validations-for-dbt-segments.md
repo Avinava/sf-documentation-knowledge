@@ -5,12 +5,10 @@ topic: supported-validations-for-dbt-segments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.950Z
+lastCollected: 2026-04-07T18:36:19.173Z
 estimatedTokens: 284
 keywords: [Validations, DBT, Segments, creating, updating, segment, ConnectApi.CdpSegmentInput, subject, SQL]
 ---
-
-# Supported Validations for DBT Segments
 
 > When creating or updating a segment, the ConnectApi.CdpSegmentInput class is subject to
     some SQL validations.

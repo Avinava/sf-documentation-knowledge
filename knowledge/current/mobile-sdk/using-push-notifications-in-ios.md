@@ -5,12 +5,10 @@ topic: using-push-notifications-in-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.940Z
+lastCollected: 2026-04-07T18:40:27.155Z
 estimatedTokens: 545
 keywords: [Push, Notifications, iOS, developing, app, supports, remember, key, points, Configuration, Apple, Notification, Services]
 ---
-
-# Using Push Notifications in iOS
 
 > When developing an iOS app that supports push notifications, remember these key points:
 

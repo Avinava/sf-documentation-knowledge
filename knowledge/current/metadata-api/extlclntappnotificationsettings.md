@@ -5,12 +5,10 @@ topic: extlclntappnotificationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.417Z
+lastCollected: 2026-04-07T18:36:25.922Z
 estimatedTokens: 770
-keywords: [ExtlClntAppNotificationSettings, external, client, app’s, notification, subscriptions, mobile, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [ExtlClntAppNotificationSettings, ExtlClntAppNotificationType, external, client, app’s, notification, subscriptions, mobile, Parent, File, Suffix, Directory, Location]
 ---
-
-# ExtlClntAppNotificationSettings
 
 > Represents an external client app’s notification subscriptions for mobile.
 

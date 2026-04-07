@@ -5,12 +5,10 @@ topic: stampassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.972Z
+lastCollected: 2026-04-07T18:40:02.670Z
 estimatedTokens: 277
-keywords: [StampAssignment, assignment, User, Specialty, API, version, 39.0, later]
+keywords: [StampAssignment, assignment, User, Specialty, API, 39.0]
 ---
-
-# StampAssignment
 
 > Represents assignment of a User Specialty
 				to a user.

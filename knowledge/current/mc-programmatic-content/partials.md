@@ -5,12 +5,10 @@ topic: partials
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.010Z
+lastCollected: 2026-04-07T18:40:22.397Z
 estimatedTokens: 435
 keywords: [Partials, simple, tag, prefix, pull, external, content, runtime, include, three, identifiers, stored, Portfolio, account]
 ---
-
-# Partials
 
 > Partials use a simple tag and a > prefix. Use partials to pull in external content at runtime. All partials include one of three identifiers for content stored in the Portfolio for your account:
 

@@ -5,12 +5,10 @@ topic: clause-category-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.091Z
+lastCollected: 2026-04-07T18:37:25.048Z
 estimatedTokens: 134
-keywords: [Clause, Category, Output, representation, field-level]
+keywords: [Clause, Category, field-level]
 ---
-
-# Clause Category Response
 
 > Output representation of the field-level details for a clause
       category.

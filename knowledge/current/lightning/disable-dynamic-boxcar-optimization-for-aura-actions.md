@@ -5,12 +5,10 @@ topic: disable-dynamic-boxcar-optimization-for-aura-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.558Z
+lastCollected: 2026-04-07T18:38:03.608Z
 estimatedTokens: 311
-keywords: [Disable, Dynamic, Boxcar, Optimization, Aura, Actions, improves, performance, Lightning, components, apps, including, Experience, itself, org]
+keywords: [Disable, Dynamic, Boxcar, Optimization, Aura, Actions, improves, performance, Lightning, apps, including, Experience, itself, org, adversely, affected, Setup]
 ---
-
-# Disable Dynamic Boxcar Optimization for Aura Actions
 
 > Dynamic boxcar optimization improves performance for most Lightning components and apps,
   including Lightning Experience itself. If your org has components that are adversely affected by

@@ -6,13 +6,10 @@ topic: whats-the-difference-between-a-get-it-now-click-and-an-install-in-appexch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.113Z
+lastCollected: 2026-04-07T18:38:47.085Z
 estimatedTokens: 144
 keywords: [What’s, Difference, Now, Click, Install, AppExchange, Marketplace, Analytics, records, several, interactions, customer, installs, solution]
 ---
-
-# What’s the Difference Between a Get It Now Click and an Install in AppExchange Marketplace
-  Analytics?
 
 > AppExchange Marketplace Analytics records several interactions when a customer installs
   your solution.

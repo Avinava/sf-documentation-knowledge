@@ -5,12 +5,10 @@ topic: carerequestexchangeinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.645Z
+lastCollected: 2026-04-07T18:37:46.200Z
 estimatedTokens: 994
-keywords: [CareRequestExchangeInfo, care, exchange, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [CareRequestExchangeInfo, care, exchange, API, 63.0]
 ---
-
-# CareRequestExchangeInfo
 
 > Represents information about a care request exchange. This object is
       available in API version 63.0 and later.

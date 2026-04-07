@@ -5,12 +5,10 @@ topic: event-driven-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.244Z
+lastCollected: 2026-04-07T18:37:53.540Z
 estimatedTokens: 167
-keywords: [Event, Driven, Architecture, Salesforce, Enterprise, Messaging, Platform, EMP, Events, Streaming, API, Change, Data, Capture, CDC]
+keywords: [Event, Driven, Architecture, Salesforce, Enterprise, Messaging, Platform, EMP, Events, Streaming, API, Change, Capture, CDC, enterprises, style, architectures, EDAs]
 ---
-
-# Event Driven Architecture
 
 > The Salesforce Enterprise Messaging Platform (EMP) with Platform Events, Streaming API,
   and Change Data Capture (CDC) enables enterprises to create event driven style architectures

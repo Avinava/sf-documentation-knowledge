@@ -5,12 +5,10 @@ topic: quotelinemateriallinegrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.410Z
+lastCollected: 2026-04-07T18:39:58.037Z
 estimatedTokens: 279
-keywords: [QuoteLineMaterialLineGroupHistory, History, tracked, QuoteLineMaterialLineGroup]
+keywords: [QuoteLineMaterialLineGroupHistory, tracked, QuoteLineMaterialLineGroup]
 ---
-
-# QuoteLineMaterialLineGroupHistory
 
 > History for tracked fields of QuoteLineMaterialLineGroup.
 

@@ -5,12 +5,10 @@ topic: considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:16.878Z
+lastCollected: 2026-04-07T18:39:10.320Z
 estimatedTokens: 2693
-keywords: [Considerations, Keep, limitations, mind, restriction, rules, Objects, Applicable, Features, Creating, External, Performance]
+keywords: [Considerations, Keep, limitations, mind, restriction, Applicable, Features, Creating, External, Performance]
 ---
-
-# Considerations
 
 > Keep these considerations and limitations in mind while using restriction
   rules.

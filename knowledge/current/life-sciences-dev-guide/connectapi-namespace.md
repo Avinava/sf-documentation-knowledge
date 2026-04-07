@@ -5,13 +5,11 @@ topic: connectapi-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.318Z
+lastCollected: 2026-04-07T18:37:54.653Z
 estimatedTokens: 406
 namespace: ConnectApi
-keywords: [ConnectApi, Connect, Apex, classes, accessing, data, REST, API, custom, experiences, Salesforce]
+keywords: [ConnectApi, Connect, Apex, classes, accessing, REST, API, experiences, Salesforce]
 ---
-
-# ConnectApi Namespace
 
 > The ConnectApi namespace (also called Connect
         in Apex) provides classes for accessing the same data available in Connect REST API. Use

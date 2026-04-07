@@ -5,12 +5,10 @@ topic: userappinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.169Z
+lastCollected: 2026-04-07T18:40:04.996Z
 estimatedTokens: 339
-keywords: [UserAppInfo, Stores, Lightning, app, logged, user, hasn’t, Salesforce, lost, access, accessed, API, version, 38.0, later]
+keywords: [UserAppInfo, Stores, Lightning, app, logged, user, hasn’t, Salesforce, lost, accessed, API, 38.0]
 ---
-
-# UserAppInfo
 
 > Stores the last Lightning app logged in to. If the user hasn’t logged
 			into Salesforce or if the user lost access to the last accessed app, the UserAppInfo

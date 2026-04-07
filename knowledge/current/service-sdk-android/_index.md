@@ -2,7 +2,7 @@
 domain: service-sdk-android
 name: Embedded Service Chat SDK for Android Developer Guide
 documentCount: 41
-lastGenerated: 2026-04-07T09:06:39.584Z
+lastGenerated: 2026-04-07T18:40:44.784Z
 ---
 
 # Embedded Service Chat SDK for Android Developer Guide — Knowledge Index

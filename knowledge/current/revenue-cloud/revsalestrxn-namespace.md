@@ -5,13 +5,11 @@ topic: revsalestrxn-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.005Z
+lastCollected: 2026-04-07T18:35:41.848Z
 estimatedTokens: 1159
 namespace: RevSalesTrxn
 keywords: [RevSalesTrxn, sales, transaction, quote, order, integrated, pricing, configuration, Additionally, insert, line, items, calculate, estimated, tax]
 ---
-
-# RevSalesTrxn Namespace
 
 > Create a sales transaction, such as a quote or an order, with integrated
       pricing and configuration. Additionally, update an order or a quote, and insert and delete

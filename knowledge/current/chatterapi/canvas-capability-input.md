@@ -5,12 +5,10 @@ topic: canvas-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.749Z
+lastCollected: 2026-04-07T18:37:07.469Z
 estimatedTokens: 291
-keywords: [Canvas, Capability, Input, app, associated, feed, element]
+keywords: [Canvas, Capability, app]
 ---
-
-# Canvas Capability Input
 
 > Create or update a canvas app associated with a feed
     element.

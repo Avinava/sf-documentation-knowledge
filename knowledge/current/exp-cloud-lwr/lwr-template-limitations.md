@@ -5,12 +5,10 @@ topic: lwr-template-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.237Z
+lastCollected: 2026-04-07T18:37:33.627Z
 estimatedTokens: 1517
-keywords: [LWR, Template, Limitations, templates, Experience, Cloud, don’t, include, features, Aura, Check, current, differences, begin, creating]
+keywords: [LWR, Template, Limitations, templates, Experience, Cloud, don’t, include, features, Aura, Check, current, differences, begin, creating, site, Unsupported, Settings, Workspaces, Builder, Enhanced, Dynamic, Import, Lightning, Web, Security, Asset, Files, Sandbox]
 ---
-
-# LWR Template Limitations
 
 > LWR templates in Experience Cloud don’t include the same features as Aura templates.
     Check out the current differences and limitations before you begin creating your

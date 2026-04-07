@@ -5,12 +5,10 @@ topic: social-posts-intents-follow-persona
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.848Z
+lastCollected: 2026-04-07T18:37:15.912Z
 estimatedTokens: 301
 keywords: [Social, Posts, Intents, Follow, Persona, stop, post, network]
 ---
-
-# Social Posts Intents, Follow Persona
 
 > Follow or stop following a social persona of a social post on its
       social network.

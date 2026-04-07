@@ -5,12 +5,10 @@ topic: sendadditionalattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.973Z
+lastCollected: 2026-04-07T18:40:20.193Z
 estimatedTokens: 391
-keywords: [SendAdditionalAttribute, another, attribute, associated, send, Items]
+keywords: [SendAdditionalAttribute, another, attribute, send, Items]
 ---
-
-# SendAdditionalAttribute
 
 > The SendAdditionalAttribute object defines another attribute associated with a send.
 

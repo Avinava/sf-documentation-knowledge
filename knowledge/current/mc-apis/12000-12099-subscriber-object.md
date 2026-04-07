@@ -5,12 +5,10 @@ topic: 12000-12099-subscriber-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.614Z
+lastCollected: 2026-04-07T18:40:14.631Z
 estimatedTokens: 863
 keywords: [12000-12099, Subscriber]
 ---
-
-# 12000-12099 Subscriber Object
 
 # 12000-12099 Subscriber Object
 

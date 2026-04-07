@@ -5,12 +5,10 @@ topic: custom-iterators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.264Z
+lastCollected: 2026-04-07T18:36:16.490Z
 estimatedTokens: 500
-keywords: [Custom, Iterators, Iterator, instructions, traversing, loop, useful, data, exists, sources, outside, Salesforce, normally, define, scope]
+keywords: [Iterators, Iterator, instructions, traversing, loop, useful, exists, sources, outside, Salesforce, normally, define, scope, SELECT, statement, Iterat, Iterable]
 ---
-
-# Custom Iterators
 
 > Using the Iterator interface you can create a custom set
             of instructions for traversing a List through a loop. The iterator is useful for data

@@ -5,12 +5,10 @@ topic: getting-csv-delta-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.283Z
+lastCollected: 2026-04-07T18:39:11.830Z
 estimatedTokens: 71
 keywords: [Getting, CSV, Delta, Export, Once, actual, file, requested, cURL]
 ---
-
-# Getting CSV Delta Export
 
 > Once the actual export file is requested, the CSV delta export file can be requested.
 

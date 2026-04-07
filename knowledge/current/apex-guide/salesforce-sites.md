@@ -5,12 +5,10 @@ topic: salesforce-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.506Z
+lastCollected: 2026-04-07T18:36:17.740Z
 estimatedTokens: 264
-keywords: [Salesforce, Sites, lets, build, custom, pages, Web, applications, inheriting, Lightning, Platform, capabilities, including, analytics, workflow]
+keywords: [Salesforce, Sites, lets, build, pages, Web, applications, inheriting, Lightning, Platform, capabilities, including, analytics, workflow, approvals, programmable, logic]
 ---
-
-# Salesforce Sites
 
 > Salesforce Sites lets you build custom pages and Web applications by inheriting
   Lightning Platform capabilities including analytics, workflow and approvals, and programmable

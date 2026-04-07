@@ -5,12 +5,10 @@ topic: returnorderlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.074Z
+lastCollected: 2026-04-07T18:36:48.051Z
 estimatedTokens: 3215
-keywords: [ReturnOrderLineItem, specific, product, repaired, part, order, service, item, Management, API, version, 42.0, later, Calls, Special]
+keywords: [ReturnOrderLineItem, specific, product, repaired, part, order, service, item, Management, API, 42.0]
 ---
-
-# ReturnOrderLineItem
 
 > Represents a specific product that is returned or repaired as part of
 			a return order in Field service, or a specific order item that is returned as part of a

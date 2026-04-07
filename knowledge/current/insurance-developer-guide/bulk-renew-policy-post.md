@@ -5,12 +5,10 @@ topic: bulk-renew-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.414Z
+lastCollected: 2026-04-07T18:37:51.430Z
 estimatedTokens: 232
 keywords: [Bulk, Renew, Policy, POST, policies, insurance, IDs]
 ---
-
-# Bulk Renew Policy (POST)
 
 > Bulk renew policies for the specified insurance policy IDs.
 

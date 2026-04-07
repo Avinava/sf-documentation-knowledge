@@ -5,12 +5,10 @@ topic: commerce-return-order-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.790Z
+lastCollected: 2026-04-07T18:35:52.687Z
 estimatedTokens: 684
-keywords: [Commerce, Order, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, products]
+keywords: [Commerce, Order, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, products, Salesforce, Management, DLO]
 ---
-
-# Commerce: Return Order Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Return Order data is about the return of order

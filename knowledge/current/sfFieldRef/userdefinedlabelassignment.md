@@ -5,12 +5,10 @@ topic: userdefinedlabelassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.255Z
+lastCollected: 2026-04-07T18:40:05.091Z
 estimatedTokens: 343
-keywords: [UserDefinedLabelAssignment, relationship, record, label, item, user, assigned, API, version, 61.0, later]
+keywords: [UserDefinedLabelAssignment, relationship, record, label, item, user, assigned, API, 61.0]
 ---
-
-# UserDefinedLabelAssignment
 
 > Represents a relationship between a record label and the item the
          user assigned it to. This object is available in API version 61.0 and

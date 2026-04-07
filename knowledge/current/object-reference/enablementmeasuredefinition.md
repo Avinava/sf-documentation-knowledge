@@ -5,12 +5,10 @@ topic: enablementmeasuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:39.536Z
+lastCollected: 2026-04-07T18:38:30.359Z
 estimatedTokens: 1746
-keywords: [EnablementMeasureDefinition, Enablement, measure, job-related, activity, user, performs, milestone, outcome, program, identifies, source, objects, filters, filter]
+keywords: [EnablementMeasureDefinition, Enablement, measure, job-related, activity, user, performs, milestone, outcome, program, identifies, source, filters, filter, logic, Metadata, API, 56.0]
 ---
-
-# EnablementMeasureDefinition
 
 > Represents an Enablement measure, which specifies the job-related
          activity that a user performs to complete a milestone or outcome in an Enablement program.

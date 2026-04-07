@@ -5,12 +5,10 @@ topic: healthscorehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.985Z
+lastCollected: 2026-04-07T18:39:43.600Z
 estimatedTokens: 258
-keywords: [HealthScoreHistory, History, tracked, HealthScore]
+keywords: [HealthScoreHistory, tracked, HealthScore]
 ---
-
-# HealthScoreHistory
 
 > History for tracked fields of HealthScore.
 

@@ -5,12 +5,10 @@ topic: mobile-development-preview-environments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.695Z
+lastCollected: 2026-04-07T18:38:15.181Z
 estimatedTokens: 1420
-keywords: [Mobile, Development, Preview, Environments, iterate, components, real-time, Local, Dev, Developers, context, Salesforce, app, virtual, device]
+keywords: [Administrators, Developers, Mobile, Development, Preview, Environments, iterate, real-time, Local, Dev, context, Salesforce, app, virtual, device, build, admins, Lightning, Experience, Builder]
 ---
-
-# Mobile Development Preview Environments
 
 > To preview and iterate on components in a real-time preview, use Local Dev. Developers can also preview components in context in the Salesforce mobile app, or
     in a virtual device build of the Salesforce mobile app. Salesforce admins can preview Lightning

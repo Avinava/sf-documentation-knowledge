@@ -5,12 +5,10 @@ topic: manage-learnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.416Z
+lastCollected: 2026-04-07T18:37:29.497Z
 estimatedTokens: 152
-keywords: [Manage, Learnings, Output, representation, results, new, learning, objects, courses, programs]
+keywords: [Manage, Learnings, results, new, learning, courses, programs]
 ---
-
-# Manage Learnings
 
 > Output representation of the results of new learning objects, such as courses or
     programs.

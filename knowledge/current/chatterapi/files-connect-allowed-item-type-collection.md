@@ -5,12 +5,10 @@ topic: files-connect-allowed-item-type-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.823Z
+lastCollected: 2026-04-07T18:37:17.897Z
 estimatedTokens: 95
 keywords: [Files, Connect, Allowed, Item, Collection, created, repository, folder]
 ---
-
-# Files Connect Allowed Item Type Collection
 
 > The item types allowed to be created in the repository
     folder.

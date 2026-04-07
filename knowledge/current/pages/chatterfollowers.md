@@ -5,12 +5,10 @@ topic: chatterfollowers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.187Z
+lastCollected: 2026-04-07T18:38:49.192Z
 estimatedTokens: 227
-keywords: [chatter, followers, Displays, record, components, unavailable, Visualforce, pages, Force.com, sites, Ext, versions, less, included, component]
+keywords: [Attributes, chatter, followers, Displays, record, unavailable, Visualforce, pages, Force.com, sites, Ext, versions, less, included]
 ---
-
-# chatter:followers
 
 > Displays the list of Chatter followers for a record. Note that Chatter components are unavailable for Visualforce pages on Force.com sites. Ext JS versions less than 3 should not be included on pages that use this component.
 

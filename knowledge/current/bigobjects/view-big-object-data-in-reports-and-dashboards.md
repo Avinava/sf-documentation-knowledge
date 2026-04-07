@@ -5,12 +5,10 @@ topic: view-big-object-data-in-reports-and-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.390Z
+lastCollected: 2026-04-07T18:37:02.944Z
 estimatedTokens: 448
-keywords: [View, Big, Data, Reports, Dashboards, working, billions, records, it’s, practical, build, directly, Instead, Bulk, API]
+keywords: [View, Big, Reports, Dashboards, working, billions, records, it’s, practical, build, directly, Instead, Bulk, API, write, query, extracts, smaller, representative, subset, you’re, interested, store, dataset, any, Lightning, Platform, feature]
 ---
-
-# View Big Object Data in Reports and Dashboards
 
 > When working with big data and billions of records, it’s not practical to build reports
   or dashboards directly from that data. Instead, use Bulk API to write a query that extracts a

@@ -5,12 +5,10 @@ topic: queueupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.210Z
+lastCollected: 2026-04-07T18:38:06.450Z
 estimatedTokens: 66
 keywords: [QueueUpdate, new, position, chat, visitor, queue, visitor’s, changes]
 ---
-
-# QueueUpdate
 
 > Indicates the new position of the chat visitor in the chat
 queue when the visitor’s position in the queue changes.

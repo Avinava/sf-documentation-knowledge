@@ -5,12 +5,10 @@ topic: senderprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.018Z
+lastCollected: 2026-04-07T18:40:20.243Z
 estimatedTokens: 1238
-keywords: [SenderProfile, send, profile, conjunction, email, definition, override, elements, part, Schedule, Perform, call, EmailSendDefinition, Items]
+keywords: [SenderProfile, send, profile, conjunction, email, definition, override, part, Schedule, Perform, call, EmailSendDefinition, Items]
 ---
-
-# SenderProfile
 
 > The SenderProfile object is the send profile used in conjunction with an email send definition. You can override the following elements of the SenderProfile object as part of a Schedule or Perform call for an EmailSendDefinition:
 

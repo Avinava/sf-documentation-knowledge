@@ -5,12 +5,10 @@ topic: isfilterhiddenquote-fieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.654Z
+lastCollected: 2026-04-07T18:37:27.654Z
 estimatedTokens: 195
-keywords: [isFilterHidden, quote, fieldName, Determines, visibility, filter, hide, let, users, Salesforce, CPQ, calls, implemented, search, input]
+keywords: [isFilterHidden, quote, fieldName, Determines, visibility, filter, hide, let, users, Salesforce, CPQ, implemented, search]
 ---
-
-# isFilterHidden(quote, fieldName)
 
 > Determines the visibility of a filter in the UI. Return True to hide the filter and False to let users see the filter. Salesforce CPQ calls this implemented method
       for each search input field.

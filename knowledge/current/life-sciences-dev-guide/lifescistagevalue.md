@@ -5,12 +5,10 @@ topic: lifescistagevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.067Z
+lastCollected: 2026-04-07T18:38:00.857Z
 estimatedTokens: 402
-keywords: [LifeSciStageValue, individual, step, workflow, API, version, 65.0, later, Calls]
+keywords: [LifeSciStageValue, individual, step, workflow, API, 65.0]
 ---
-
-# LifeSciStageValue
 
 > Represents an individual step within a workflow. This object is
       available in API version 65.0 and later.

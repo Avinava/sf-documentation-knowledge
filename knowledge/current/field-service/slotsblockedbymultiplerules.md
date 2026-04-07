@@ -5,12 +5,10 @@ topic: slotsblockedbymultiplerules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.500Z
+lastCollected: 2026-04-07T18:36:46.339Z
 estimatedTokens: 82
 keywords: [slotsBlockedByMultipleRules, number, slots, blocked, combination, rule, others]
 ---
-
-# slotsBlockedByMultipleRules
 
 > The number of slots that are blocked by a combination of this rule
       and others.

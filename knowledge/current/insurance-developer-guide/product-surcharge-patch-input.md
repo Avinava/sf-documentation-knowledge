@@ -5,12 +5,10 @@ topic: product-surcharge-patch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.334Z
+lastCollected: 2026-04-07T18:37:51.344Z
 estimatedTokens: 384
-keywords: [Product, Surcharge, Patch, Input, representation]
+keywords: [Product, Surcharge, Patch]
 ---
-
-# Product Surcharge Patch Input
 
 > Input representation for product surcharge patch request.
 

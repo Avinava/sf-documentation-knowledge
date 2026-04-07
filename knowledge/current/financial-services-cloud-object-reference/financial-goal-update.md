@@ -5,12 +5,10 @@ topic: financial-goal-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.234Z
+lastCollected: 2026-04-07T18:37:34.806Z
 estimatedTokens: 327
 keywords: [Financial, Goal, members, funding]
 ---
-
-# Financial Goal Update
 
 > Update a financial goal and its members and funding.
 

@@ -5,12 +5,10 @@ topic: percentiledisc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.909Z
+lastCollected: 2026-04-07T18:37:01.520Z
 estimatedTokens: 40
-keywords: [percentile_disc, corresponding, percentile, Accepts, measure, input, _disc]
+keywords: [percentile_disc, corresponding, percentile, Accepts, measure, _disc]
 ---
-
-# percentile_disc
 
 > Returns the value corresponding to a given percentile. Accepts measure fields as
   input.

@@ -5,12 +5,10 @@ topic: social-account-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.005Z
+lastCollected: 2026-04-07T18:37:23.122Z
 estimatedTokens: 155
 keywords: [Social, Account, Relationship, Follow, managed, persona]
 ---
-
-# Social Account Relationship
 
 > Follow relationship between a managed social account and a social
       persona.

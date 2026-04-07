@@ -5,12 +5,10 @@ topic: sign-up-for-salesforce-platform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.006Z
+lastCollected: 2026-04-07T18:40:25.376Z
 estimatedTokens: 289
-keywords: [Sign, Salesforce, Platform, access, wealth, tutorials, blogs, support, forums, developer, programs, join]
+keywords: [Sign, Salesforce, Platform, wealth, tutorials, blogs, support, forums, developer, programs, join]
 ---
-
-# Sign Up for Salesforce Platform
 
 > To access a wealth of tutorials, blogs, and support forums for all Salesforce developer
     programs, join the Salesforce Platform.

@@ -5,12 +5,10 @@ topic: work-with-employee-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.147Z
+lastCollected: 2026-04-07T18:40:14.180Z
 estimatedTokens: 562
-keywords: [Work, Employee, Data, Work.com, uses, track, solutions, may, already, alternate, model, tracks, employees, apply, full]
+keywords: [Work, Employee, Work.com, uses, track, solutions, may, already, alternate, model, tracks, employees, apply, full, power, correlate, synchronize, their]
 ---
-
-# Work with Employee Data
 
 > While Work.com uses Employee to track employee information, existing solutions may
   already have an alternate data model that tracks employees. To apply the full power of Work.com,

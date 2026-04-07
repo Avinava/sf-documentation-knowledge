@@ -5,12 +5,10 @@ topic: lightningconversationendusermessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.935Z
+lastCollected: 2026-04-07T18:36:48.998Z
 estimatedTokens: 280
-keywords: [lightning__conversationEndUserMessage, Messaging, event, triggered, customer, new, message, Enhanced, channels, text, messages, files, rich, content, work]
+keywords: [lightning__conversationEndUserMessage, Messaging, event, triggered, customer, new, message, Enhanced, channels, text, messages, files, rich, content, work, session, active, Conversation, visible, lightning, _conversationEndUserMessage, LWC, Sample, Code, Aura]
 ---
-
-# lightning__conversationEndUserMessage
 
 > Messaging event triggered when the
             customer sends a new message. In Enhanced Messaging channels, this event is triggered

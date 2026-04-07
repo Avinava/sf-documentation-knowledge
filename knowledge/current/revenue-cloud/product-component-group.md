@@ -5,12 +5,10 @@ topic: product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.410Z
+lastCollected: 2026-04-07T18:35:46.372Z
 estimatedTokens: 389
-keywords: [Product, Component, Group, Output, representation]
+keywords: [Product, Group]
 ---
-
-# Product Component Group
 
 > Output representation of the product component group.
 

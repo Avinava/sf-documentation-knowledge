@@ -5,12 +5,10 @@ topic: leaner-query-tags-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.152Z
+lastCollected: 2026-04-07T18:36:39.835Z
 estimatedTokens: 233
-keywords: [Leaner, Query, Tags, Result, Output, representation, includes, compact, tag, data, mapped, shared, record, IDs]
+keywords: [Leaner, Query, Tags, Result, includes, compact, tag, mapped, shared, record, IDs]
 ---
-
-# Leaner Query Tags Result
 
 > Output representation of the leaner query tags result. The result includes compact tag
     data mapped to tag names and a shared list of record IDs.

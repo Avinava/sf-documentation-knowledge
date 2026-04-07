@@ -5,12 +5,10 @@ topic: uninstall-salesforce-cli-or-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.468Z
+lastCollected: 2026-04-07T18:40:09.416Z
 estimatedTokens: 646
-keywords: [Uninstall, Salesforce, CLI, Plugins, Uninstalling, removes, entirely, computer, Installed, macOS, Linux, Installers, TAR, Files, Windows]
+keywords: [Uninstall, Salesforce, CLI, Plugins, Uninstalling, removes, entirely, computer, Installed, macOS, Linux, Installers, TAR, Files, Windows, Installer, npm, Remove, Authorization, Log, Plugin]
 ---
-
-# Uninstall Salesforce CLI or Plugins
 
 > Uninstalling Salesforce CLI removes it entirely from your computer.
 

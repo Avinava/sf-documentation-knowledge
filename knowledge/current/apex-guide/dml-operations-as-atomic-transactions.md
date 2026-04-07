@@ -5,12 +5,10 @@ topic: dml-operations-as-atomic-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.302Z
+lastCollected: 2026-04-07T18:36:19.515Z
 estimatedTokens: 281
-keywords: [DML, Operations, Atomic, Transactions, execute, transaction, either, successfully, error, occurs, operation, entire, rolled, back, data]
+keywords: [DML, Operations, Atomic, Transactions, execute, transaction, either, successfully, error, occurs, operation, entire, rolled, back, committed, database, boundary, trigger]
 ---
-
-# DML Operations As Atomic Transactions
 
 > DML operations execute within a transaction. All DML operations
 in a transaction either complete successfully, or if an error occurs in one operation, the entire

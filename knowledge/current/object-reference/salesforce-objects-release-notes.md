@@ -5,12 +5,10 @@ topic: salesforce-objects-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:33.063Z
+lastCollected: 2026-04-07T18:38:23.934Z
 estimatedTokens: 158
-keywords: [Salesforce, Objects, Release, Notes, recent, updates, changes]
+keywords: [Salesforce, Release, Notes, recent, updates, changes]
 ---
-
-# Salesforce Objects Release Notes
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
       Salesforce Objects.

@@ -5,12 +5,10 @@ topic: engagement-signal-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.540Z
+lastCollected: 2026-04-07T18:37:18.635Z
 estimatedTokens: 159
 keywords: [Engagement, Signal, Collection, Signals]
 ---
-
-# Engagement Signal Collection
 
 > List of Engagement Signals.
 

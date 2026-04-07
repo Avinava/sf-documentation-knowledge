@@ -5,12 +5,10 @@ topic: social-posts-intents-like-social-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.857Z
+lastCollected: 2026-04-07T18:37:15.921Z
 estimatedTokens: 183
 keywords: [Social, Posts, Intents, Post, unlike, network]
 ---
-
-# Social Posts Intents, Like Social Post
 
 > Like or unlike a social post in its social network.
 

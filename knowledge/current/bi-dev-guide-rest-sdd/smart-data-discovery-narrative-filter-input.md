@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.241Z
+lastCollected: 2026-04-07T18:36:58.740Z
 estimatedTokens: 212
-keywords: [Smart, Data, Discovery, Narrative, Filter, Input, metadata]
+keywords: [Smart, Discovery, Narrative, Filter, metadata]
 ---
-
-# Smart Data Discovery Narrative Filter Input
 
 > The narrative filter metadata.
 

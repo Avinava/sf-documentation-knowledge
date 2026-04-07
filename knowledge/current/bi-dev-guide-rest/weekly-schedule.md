@@ -5,12 +5,10 @@ topic: weekly-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.571Z
+lastCollected: 2026-04-07T18:36:58.130Z
 estimatedTokens: 150
 keywords: [Weekly, Schedule, Specify, runs, Analytics, asset]
 ---
-
-# Weekly Schedule
 
 > Specify a schedule that runs weekly for an Analytics asset.
 

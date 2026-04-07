@@ -5,12 +5,10 @@ topic: visit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.173Z
+lastCollected: 2026-04-07T18:38:02.080Z
 estimatedTokens: 638
-keywords: [Visit, Track, rep’s, health, care, provider, Special, Access, Rules, Calls]
+keywords: [Visit, Track, rep’s, health, care, provider]
 ---
-
-# Visit
 
 > Track information related to a field rep’s visit to a health care provider.
 

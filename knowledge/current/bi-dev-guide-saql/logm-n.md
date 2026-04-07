@@ -5,12 +5,10 @@ topic: logm-n
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.134Z
+lastCollected: 2026-04-07T18:37:00.689Z
 estimatedTokens: 81
-keywords: [log, natural, logarithm, base, number, any, positive, non-zero, numeric, range, 1e308, smallest, produce, 0.3e-323, function]
+keywords: [log, natural, logarithm, base, number, any, positive, non-zero, numeric, range, 1e308, smallest, produce, 0.3e-323, function, foreach, statement]
 ---
-
-# log(m, n)
 
 > Returns the natural logarithm (base m) of a number n. The values
    m and n can be any positive, non-zero numeric value in the

@@ -5,12 +5,10 @@ topic: component-bundles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.826Z
+lastCollected: 2026-04-07T18:38:02.757Z
 estimatedTokens: 504
-keywords: [Component, Bundles, bundle, app, resources, File-Size, Limits]
+keywords: [Bundles, bundle, app, resources, File-Size, Limits]
 ---
-
-# Component Bundles
 
 > A component bundle contains a component or an app and all its related
     resources.

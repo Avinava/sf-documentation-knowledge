@@ -2,7 +2,7 @@
 domain: maps-developer-guide
 name: Salesforce Maps Apex Developer Guide
 documentCount: 17
-lastGenerated: 2026-04-07T09:06:37.207Z
+lastGenerated: 2026-04-07T18:40:42.459Z
 ---
 
 # Salesforce Maps Apex Developer Guide — Knowledge Index

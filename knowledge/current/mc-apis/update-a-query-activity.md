@@ -5,12 +5,10 @@ topic: update-a-query-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.722Z
+lastCollected: 2026-04-07T18:40:20.986Z
 estimatedTokens: 468
-keywords: [Query, Activity, Updating, change, criteria, retrieves, tracking, account, better, refine, results, choose, receive, entirely, Why]
+keywords: [Query, Activity, Updating, change, criteria, retrieves, account, better, refine, results, choose, receive, entirely, Why, How, Sample, NET, Code, Items]
 ---
-
-# Update a Query Activity
 
 > Updating a query activity allows you to change the criteria for the query that retrieves tracking information from your account. You can change the criteria to better refine your results or change the results you choose to receive entirely.
 

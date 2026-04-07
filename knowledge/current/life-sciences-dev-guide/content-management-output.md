@@ -5,12 +5,10 @@ topic: content-management-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.438Z
+lastCollected: 2026-04-07T18:37:55.901Z
 estimatedTokens: 179
-keywords: [Content, Management, Output, job, status, any, associated, messages, APIs]
+keywords: [Content, Management, job, status, any, messages, APIs]
 ---
-
-# Content Management Output
 
 > Represents the information about the job status and any associated messages returned
         for Content Management APIs.

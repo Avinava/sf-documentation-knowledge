@@ -5,12 +5,10 @@ topic: referral-statistics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.206Z
+lastCollected: 2026-04-07T18:39:09.516Z
 estimatedTokens: 174
 keywords: [Referral, Statistics]
 ---
-
-# Referral Statistics
 
 > Represents the response for Referral Statistics.
 

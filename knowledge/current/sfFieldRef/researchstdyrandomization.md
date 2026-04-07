@@ -5,12 +5,10 @@ topic: researchstdyrandomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.213Z
+lastCollected: 2026-04-07T18:39:59.918Z
 estimatedTokens: 461
-keywords: [ResearchStdyRandomization, randomization, algorithm, configuration, defined, research, study, API, version, 61.0, later]
+keywords: [ResearchStdyRandomization, randomization, algorithm, configuration, defined, research, study, API, 61.0]
 ---
-
-# ResearchStdyRandomization
 
 > Represents the randomization algorithm configuration defined for a research
          study. This object is available in API version 61.0 and later.

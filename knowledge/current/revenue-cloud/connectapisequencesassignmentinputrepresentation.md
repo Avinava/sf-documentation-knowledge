@@ -5,12 +5,10 @@ topic: connectapisequencesassignmentinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.635Z
+lastCollected: 2026-04-07T18:35:41.510Z
 estimatedTokens: 156
-keywords: [target, objects, sequence, pattern, assigned]
+keywords: [target, sequence, pattern, assigned]
 ---
-
-# ConnectApi.SequencesAssignmentInputRepresentation
 
 > The details of the target objects to which the sequence pattern values are assigned.
 

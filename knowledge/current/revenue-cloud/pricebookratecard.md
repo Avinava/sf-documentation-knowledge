@@ -5,12 +5,10 @@ topic: pricebookratecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.848Z
+lastCollected: 2026-04-07T18:35:49.811Z
 estimatedTokens: 645
-keywords: [PriceBookRateCard, junction, price, book, rate, card, objects, API, version, 62.0, later, Calls, Associated]
+keywords: [PriceBookRateCard, junction, price, book, rate, card, API, 62.0]
 ---
-
-# PriceBookRateCard
 
 > Represents a junction between price book and rate card objects.
       This object is available in API version 62.0 and later.

@@ -5,12 +5,10 @@ topic: upperstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.451Z
+lastCollected: 2026-04-07T18:37:02.059Z
 estimatedTokens: 71
 keywords: [upper, str, copy, cased, characters, converted, uppercase]
 ---
-
-# upper(str)
 
 > Returns a copy of string str with all cased characters converted to
   uppercase.

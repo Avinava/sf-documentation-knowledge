@@ -5,12 +5,10 @@ topic: user-activities-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.429Z
+lastCollected: 2026-04-07T18:37:23.541Z
 estimatedTokens: 260
 keywords: [User, Activities, Job]
 ---
-
-# User Activities Job
 
 > User activities job.
 

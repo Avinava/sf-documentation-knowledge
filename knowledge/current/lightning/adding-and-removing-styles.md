@@ -5,12 +5,10 @@ topic: adding-and-removing-styles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.300Z
+lastCollected: 2026-04-07T18:38:04.441Z
 estimatedTokens: 708
-keywords: [Adding, Removing, Styles, add, remove, CSS, style, component, element, runtime, Toggling]
+keywords: [Adding, Removing, Styles, add, remove, CSS, style, runtime, Toggling]
 ---
-
-# Adding and Removing Styles
 
 > You can add or remove a CSS style on a component or element during
         runtime.

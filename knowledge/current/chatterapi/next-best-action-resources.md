@@ -5,12 +5,10 @@ topic: next-best-action-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.756Z
+lastCollected: 2026-04-07T18:37:14.797Z
 estimatedTokens: 175
 keywords: [Best, Action, Resources, recommendation, execute, strategy, manage, reactions, recommendations]
 ---
-
-# Next Best Action Resources
 
 > Get a recommendation, execute a recommendation strategy, and manage reactions to
       recommendations.

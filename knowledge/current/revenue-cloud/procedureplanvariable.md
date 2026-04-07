@@ -5,12 +5,10 @@ topic: procedureplanvariable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.048Z
+lastCollected: 2026-04-07T18:35:50.909Z
 estimatedTokens: 455
-keywords: [ProcedurePlanVariable, setup, any, adhoc, user-defined, variable, linked, procedure, plan, definition, record, API, version, 62.0, later]
+keywords: [ProcedurePlanVariable, setup, any, adhoc, user-defined, variable, linked, procedure, plan, definition, record, API, 62.0, SOAP, REST]
 ---
-
-# ProcedurePlanVariable
 
 > Represents the setup for any adhoc user-defined variable that can be
          linked to a procedure plan definition record. This object is available in API version

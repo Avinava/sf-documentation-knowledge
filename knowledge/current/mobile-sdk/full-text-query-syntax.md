@@ -5,12 +5,10 @@ topic: full-text-query-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.649Z
+lastCollected: 2026-04-07T18:40:26.893Z
 estimatedTokens: 762
 keywords: [Full-Text, Query, Mobile, SDK, queries, SQLite's, enhanced, logical, operators, refine, search]
 ---
-
-# Full-Text Query Syntax
 
 > Mobile SDK full-text
   queries use SQLite's enhanced query syntax. With this syntax, you can use logical operators to

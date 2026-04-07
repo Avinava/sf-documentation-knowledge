@@ -5,12 +5,10 @@ topic: activity-sources-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.228Z
+lastCollected: 2026-04-07T18:38:47.193Z
 estimatedTokens: 1025
-keywords: [Activity, Sources, AppExchange, Marketplace, Analytics, how, internal, external, traffic, contribute, listing, installs, resulted, customers, discovered]
+keywords: [Definitions, Activity, Sources, AppExchange, Marketplace, Analytics, how, internal, external, traffic, contribute, listing, installs, resulted, customers, discovered, search, versus, Google]
 ---
-
-# Activity Sources in AppExchange Marketplace Analytics
 
 > See how internal and external traffic sources contribute to activity on your AppExchange
     listing. For example, see how many installs resulted from customers who discovered your listing

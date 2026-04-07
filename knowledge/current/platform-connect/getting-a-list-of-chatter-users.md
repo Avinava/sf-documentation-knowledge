@@ -5,12 +5,10 @@ topic: getting-a-list-of-chatter-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.321Z
+lastCollected: 2026-04-07T18:38:57.108Z
 estimatedTokens: 193
 keywords: [Getting, Chatter, Users, code, call]
 ---
-
-# Getting a List of Chatter Users
 
 > The following code example shows a call to return a list
 of Chatter users.

@@ -5,12 +5,10 @@ topic: connectapiemailmessagecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.500Z
+lastCollected: 2026-04-07T18:36:08.940Z
 estimatedTokens: 634
-keywords: [ConnectApi.EmailMessageCapability, feed, element, capability, email, message, case]
+keywords: [ConnectApi.EmailMessageCapability, capability, email, message, case]
 ---
-
-# ConnectApi.EmailMessageCapability
 
 > If a feed element has this capability, it has an email message from a
       case.

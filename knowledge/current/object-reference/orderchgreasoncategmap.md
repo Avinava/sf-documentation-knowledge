@@ -5,12 +5,10 @@ topic: orderchgreasoncategmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.548Z
+lastCollected: 2026-04-07T18:38:36.712Z
 estimatedTokens: 523
-keywords: [OrderChgReasonCategMap, mapping, order, change, reason, service, flow, category, API, version, 65.0, later, Calls]
+keywords: [OrderChgReasonCategMap, mapping, order, change, reason, service, flow, category, API, 65.0]
 ---
-
-# OrderChgReasonCategMap
 
 > The mapping between an order change reason and a service flow category. This
   object is available in API version 65.0 and later.

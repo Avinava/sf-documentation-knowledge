@@ -5,12 +5,10 @@ topic: cgcloudorderitemordertemplateassociationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.592Z
+lastCollected: 2026-04-07T18:39:13.982Z
 estimatedTokens: 1132
-keywords: [Holds, association, order, item, templates, template, API, version, 54.0, later, cgcloud, _Order, _Item, _Template, _Association]
+keywords: [Holds, association, order, item, templates, template, API, 54.0, cgcloud, _Order, _Item, _Template, _Association]
 ---
-
-# cgcloud__Order_Item_Order_Template_Association__c
 
 > Holds the association of order item templates with order template.
        This object is available in API version 54.0 and later.

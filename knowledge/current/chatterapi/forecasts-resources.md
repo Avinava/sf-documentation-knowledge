@@ -5,12 +5,10 @@ topic: forecasts-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.059Z
+lastCollected: 2026-04-07T18:37:14.020Z
 estimatedTokens: 458
 keywords: [Forecasts, Resources, forecast, users, managers, hierarchy]
 ---
-
-# Forecasts Resources
 
 > Get information about forecast users, managers, and the forecast
             hierarchy.

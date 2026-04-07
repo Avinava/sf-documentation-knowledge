@@ -5,12 +5,10 @@ topic: how-do-custom-theme-layouts-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.715Z
+lastCollected: 2026-04-07T18:37:26.661Z
 estimatedTokens: 1021
-keywords: [How, Custom, Theme, Layouts, Work, understand, layout, works, let’s, look, things, Experience, Builder, perspective, combine]
+keywords: [How, Theme, Layouts, Work, understand, layout, works, let’s, look, things, Experience, Builder, perspective, combine, give, granular, control, appearance, structure, site, customize, layout’s, footer, match, company’s, branding, style, configure, search, bar, user, profile, menu, apply, individual, pages, quickly, change, central, location]
 ---
-
-# How Do Custom Theme Layouts Work?
 
 > To understand how a theme layout works, let’s look at things from the Experience
     Builder perspective. In Experience Builder, theme layouts combine with theme layout components

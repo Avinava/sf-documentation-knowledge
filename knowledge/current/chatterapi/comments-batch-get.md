@@ -5,12 +5,10 @@ topic: comments-batch-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.870Z
+lastCollected: 2026-04-07T18:37:11.677Z
 estimatedTokens: 97
 keywords: [Comments, Batch, comma-separated]
 ---
-
-# Comments, Batch Get
 
 > Get information about a comma-separated list of up to 100
       comments.

@@ -5,12 +5,10 @@ topic: sobjects-suggested-articles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.267Z
+lastCollected: 2026-04-07T18:36:21.511Z
 estimatedTokens: 742
-keywords: [sObjects, Suggested, Articles, results, Case, Work, Order, Line, suggestions, common, keywords, title, that’s, entered, record]
+keywords: [sObjects, Suggested, Articles, results, Case, Work, Order, Line, suggestions, common, keywords, title, that’s, entered, record, saved, assigned, resource, REST, API, 30.0]
 ---
-
-# sObjects Suggested Articles
 
 > Returns results on suggested articles for a Case, Work Order, or Work Order Line. These
     suggestions are based on common keywords in the title, description, and other information that’s

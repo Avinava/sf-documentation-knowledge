@@ -5,12 +5,10 @@ topic: emailinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.277Z
+lastCollected: 2026-04-07T18:38:30.110Z
 estimatedTokens: 714
-keywords: [EmailInsight, insight, generated, email, interaction, EmailInsights, acts, central, place, store, various, insights, messages, stored, include]
+keywords: [EmailInsight, insight, generated, email, interaction, EmailInsights, acts, central, place, store, various, insights, messages, stored, include, status, time, generation, certain, created, pre-configured, API, 63.0]
 ---
-
-# EmailInsight
 
 > Represents an insight generated from an email interaction. EmailInsights acts
          as a central place to store various types of insights related to email messages. The

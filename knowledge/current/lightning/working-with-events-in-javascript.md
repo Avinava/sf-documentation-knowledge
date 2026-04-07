@@ -5,12 +5,10 @@ topic: working-with-events-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.376Z
+lastCollected: 2026-04-07T18:38:04.531Z
 estimatedTokens: 1293
-keywords: [Working, Events, JavaScript, useful, common, patterns, Fire, Event, Current, Phase, Source, Component, Pause, Prevent, Execution]
+keywords: [Working, Events, JavaScript, useful, common, patterns, Fire, Event, Current, Phase, Source, Pause, Prevent, Execution, Resume, Paused, Stop, Propagation]
 ---
-
-# Working with Events in JavaScript
 
 > These are useful and common patterns for working with events in
         JavaScript.

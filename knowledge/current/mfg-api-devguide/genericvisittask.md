@@ -5,12 +5,10 @@ topic: genericvisittask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.850Z
+lastCollected: 2026-04-07T18:38:13.183Z
 estimatedTokens: 1092
-keywords: [GenericVisitTask, task, performed, visit, Manufacturing, Cloud, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [GenericVisitTask, task, performed, visit, Manufacturing, Cloud, API, 56.0]
 ---
-
-# GenericVisitTask
 
 > Represents information about a task that can be performed during a
          visit. This object is available in Manufacturing Cloud in API version 56.0 and

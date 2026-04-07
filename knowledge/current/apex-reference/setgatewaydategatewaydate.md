@@ -5,12 +5,10 @@ topic: setgatewaydategatewaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.989Z
+lastCollected: 2026-04-07T18:36:04.208Z
 estimatedTokens: 102
 keywords: [setGatewayDate, gatewayDate, date, authorization, occurred, gateways, don’t, send]
 ---
-
-# setGatewayDate(gatewayDate)
 
 > Sets the date that the authorization occurred. Some gateways don’t send this
     value.

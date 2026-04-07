@@ -5,12 +5,10 @@ topic: get-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.902Z
+lastCollected: 2026-04-07T18:40:10.878Z
 estimatedTokens: 464
-keywords: [Apps, metadata, user, access]
+keywords: [Apps, metadata, user]
 ---
-
-# Get Apps
 
 > Get metadata for all the apps a user has access to.
 

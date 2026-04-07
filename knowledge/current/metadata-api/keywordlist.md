@@ -5,12 +5,10 @@ topic: keywordlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.506Z
+lastCollected: 2026-04-07T18:36:26.928Z
 estimatedTokens: 788
-keywords: [KeywordList, keywords, Experience, Cloud, site, moderation, keyword, criteria, offensive, language, inappropriate, content, don’t, want, File]
+keywords: [KeywordList, Keyword, keywords, Experience, Cloud, site, moderation, criteria, offensive, language, inappropriate, content, don’t, want, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# KeywordList
 
 > Represents a list of keywords used in Experience Cloud
       site moderation. This keyword list is a type of moderation criteria that defines offensive

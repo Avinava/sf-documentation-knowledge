@@ -5,12 +5,10 @@ topic: multiple-fulfillment-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.349Z
+lastCollected: 2026-04-07T18:37:09.120Z
 estimatedTokens: 96
-keywords: [Multiple, Fulfillment, Order, Input, inputs, creating, orders]
+keywords: [Multiple, Fulfillment, Order, inputs, creating, orders]
 ---
-
-# Multiple Fulfillment Order Input
 
 > List of inputs for creating fulfillment orders.
 

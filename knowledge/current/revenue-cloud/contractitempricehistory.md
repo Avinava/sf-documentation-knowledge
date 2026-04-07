@@ -5,13 +5,11 @@ topic: contractitempricehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:03.832Z
+lastCollected: 2026-04-07T18:35:48.811Z
 estimatedTokens: 460
 namespace: Namespace
-keywords: [ContractItemPriceHistory, history, changes, ContractItemPrice, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [ContractItemPriceHistory, changes, ContractItemPrice, API, 61.0]
 ---
-
-# ContractItemPriceHistory
 
 > Represents the history of changes to the values in the fields of a
          ContractItemPrice object. This object is available in API version 61.0 and

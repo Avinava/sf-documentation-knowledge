@@ -5,13 +5,11 @@ topic: omnichannelinventoryservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.209Z
+lastCollected: 2026-04-07T18:35:58.474Z
 estimatedTokens: 3744
 namespace: ConnectApi
-keywords: [OmnichannelInventoryService, inventory, reservation, Omnichannel, createReservation, createReservationInputRepresentation, API, Version, Requires, Chatter, fulfillReservation, fulfillReservationInputRepresentation, getInventoryAvailability, getInventoryAvailabilityUploadStatus, uploadId]
+keywords: [OmnichannelInventoryService, inventory, reservation, Omnichannel, createReservation, createReservationInputRepresentation, API, Requires, Chatter, fulfillReservation, fulfillReservationInputRepresentation, getInventoryAvailability, getInventoryAvailabilityUploadStatus, uploadId, getPublishLocationStructureStatus, publishLocationStructure, releaseReservation, releaseReservationInputRepresentation, submitInventoryAvailabilityUpload, fileUpload, transferReservation, transferReservationInputRepresentation, updateReservation, updateReservationInputRepresentation]
 ---
-
-# OmnichannelInventoryService Class
 
 > Create an inventory reservation in Omnichannel
     Inventory.

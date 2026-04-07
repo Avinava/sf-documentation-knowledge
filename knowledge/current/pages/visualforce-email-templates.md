@@ -5,12 +5,10 @@ topic: visualforce-email-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.108Z
+lastCollected: 2026-04-07T18:38:51.346Z
 estimatedTokens: 555
-keywords: [Visualforce, Email, Templates, Developers, administrators, advantage, over, standard, HTML, gives, ability, perform, advanced, operations, data]
+keywords: [Visualforce, Email, Templates, Developers, administrators, advantage, over, standard, HTML, gives, ability, perform, advanced, operations, sent, recipient]
 ---
-
-# Visualforce Email Templates
 
 > Developers and administrators can use Visualforce to create email templates. The
   advantage of using Visualforce over standard HTML email templates is that Visualforce gives you

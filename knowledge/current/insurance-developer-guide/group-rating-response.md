@@ -5,12 +5,10 @@ topic: group-rating-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.290Z
+lastCollected: 2026-04-07T18:37:52.456Z
 estimatedTokens: 118
-keywords: [Group, Rating, Output, representation, Benefits, process]
+keywords: [Group, Rating, Benefits, process]
 ---
-
-# Group Rating Response
 
 > Output representation of the Group Benefits Group Rating process.
 

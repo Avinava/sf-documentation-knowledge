@@ -5,12 +5,10 @@ topic: close-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.969Z
+lastCollected: 2026-04-07T18:37:07.683Z
 estimatedTokens: 214
-keywords: [Close, Capability, Input, feed, element, closed]
+keywords: [Close, Capability, closed]
 ---
-
-# Close Capability Input
 
 > Set a feed element to closed.
 

@@ -5,12 +5,10 @@ topic: cgcloudpromotionrewardproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.202Z
+lastCollected: 2026-04-07T18:39:14.603Z
 estimatedTokens: 1194
-keywords: [cgcloud__Promotion_Reward_Product__c, stores, product, that's, assigned, promotion, reward, API, version, 54.0, later, cgcloud, _Promotion, _Reward, _Product]
+keywords: [cgcloud__Promotion_Reward_Product__c, stores, product, that's, assigned, promotion, reward, API, 54.0, cgcloud, _Promotion, _Reward, _Product]
 ---
-
-# cgcloud__Promotion_Reward_Product__c
 
 > This object stores the details of the product that's assigned to a
          promotion reward. This object is available in API version 54.0 and later.

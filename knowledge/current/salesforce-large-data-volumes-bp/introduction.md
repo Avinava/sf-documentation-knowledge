@@ -5,12 +5,10 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:24.247Z
+lastCollected: 2026-04-07T18:39:17.924Z
 estimatedTokens: 751
-keywords: [Introduction, paper, experienced, application, architects, work, Salesforce, deployments, contain, large, data, volumes, What’s, Big, Objects]
+keywords: [Introduction, paper, experienced, application, architects, work, Salesforce, deployments, contain, large, volumes, What’s, Big]
 ---
-
-# Introduction
 
 > This paper is for experienced application architects who work with Salesforce deployments that
     contain large data volumes.

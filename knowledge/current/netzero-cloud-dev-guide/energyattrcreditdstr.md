@@ -5,12 +5,10 @@ topic: energyattrcreditdstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.003Z
+lastCollected: 2026-04-07T18:38:18.536Z
 estimatedTokens: 1262
-keywords: [EnergyAttrCreditDstr, junction, energy, attribute, credits, stationary, asset, indicating, quantity, distributed, specific, API, version, 59.0, later]
+keywords: [EnergyAttrCreditDstr, junction, energy, attribute, credits, stationary, asset, indicating, quantity, distributed, specific, API, 59.0]
 ---
-
-# EnergyAttrCreditDstr
 
 > Represents a junction between energy attribute credits and stationary
          asset energy use indicating the quantity of credits distributed for a specific energy

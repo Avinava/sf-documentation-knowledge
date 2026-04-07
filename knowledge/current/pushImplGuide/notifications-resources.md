@@ -5,12 +5,10 @@ topic: notifications-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.840Z
+lastCollected: 2026-04-07T18:39:09.160Z
 estimatedTokens: 586
 keywords: [Notifications, Resources, Execute, action, notification, status, actions]
 ---
-
-# Notifications Resources
 
 > Get or update notifications. Execute an action for a notification. Get the status of
   notifications. Get supported notification type details and actions.

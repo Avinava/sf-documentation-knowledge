@@ -5,13 +5,11 @@ topic: primarytabcomponents-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.188Z
+lastCollected: 2026-04-07T18:36:00.464Z
 estimatedTokens: 841
 namespace: Metadata
-keywords: [PrimaryTabComponents, custom, console, components, primary, tabs, Salesforce, Usage, component, containers, clone]
+keywords: [PrimaryTabComponents, console, primary, tabs, Salesforce, containers, clone]
 ---
-
-# PrimaryTabComponents Class
 
 > Represents custom console components on primary tabs in the Salesforce
     console.

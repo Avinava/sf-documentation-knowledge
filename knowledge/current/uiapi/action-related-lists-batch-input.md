@@ -5,12 +5,10 @@ topic: action-related-lists-batch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.681Z
+lastCollected: 2026-04-07T18:40:10.659Z
 estimatedTokens: 230
-keywords: [Action, Batch, Input, actions, record]
+keywords: [Action, Batch, actions, record]
 ---
-
-# Action Related Lists Batch Input
 
 > Get the actions on a batch of related lists for a record.
 

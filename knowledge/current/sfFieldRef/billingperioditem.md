@@ -5,12 +5,10 @@ topic: billingperioditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.439Z
+lastCollected: 2026-04-07T18:39:29.591Z
 estimatedTokens: 442
-keywords: [BillingPeriodItem, payment, period, subscription, billing, item, pass, invoice, line, Management, API, version, 55.0, later]
+keywords: [BillingPeriodItem, payment, period, subscription, billing, item, pass, invoice, line, Management, API, 55.0]
 ---
-
-# BillingPeriodItem
 
 > Represents one payment period for a subscription. The billing period item is
          used to pass billing information to an invoice line item in Subscription Management.

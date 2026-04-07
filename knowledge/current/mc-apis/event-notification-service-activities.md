@@ -5,12 +5,10 @@ topic: event-notification-service-activities
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.657Z
+lastCollected: 2026-04-07T18:40:16.813Z
 estimatedTokens: 603
-keywords: [Event, Notification, Service, Activities, establish, active, subscription, receives, processes, events, involves, sequence, responsible, creating, callback]
+keywords: [Event, Notification, Service, Activities, establish, active, subscription, receives, processes, events, involves, sequence, responsible, creating, callback, setup, providing, URL, endpoint, callbackURL, processing, posted, notifications]
 ---
-
-# Event Notification Service Activities
 
 > For the Event Notification Service to establish an active subscription that receives and processes notification events involves a sequence of activities. You are responsible for creating a callback (setup), for providing a callback URL endpoint (callbackURL), and for processing posted notifications 
 

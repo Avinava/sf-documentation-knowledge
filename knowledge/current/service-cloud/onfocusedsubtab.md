@@ -5,12 +5,10 @@ topic: onfocusedsubtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.372Z
+lastCollected: 2026-04-07T18:36:50.614Z
 estimatedTokens: 204
-keywords: [onFocusedSubtab, Registers, function, call, focus, browser, changes, different, subtab, API, version, 24.0, later, Arguments, Sample]
+keywords: [Arguments, onFocusedSubtab, Registers, function, call, focus, browser, changes, different, subtab, API, 24.0, Sample, Code–Visualforce, Event, Handler]
 ---
-
-# onFocusedSubtab()
 
 > Registers a function to call when the
             focus of the browser changes to a different subtab. This method is only available in API

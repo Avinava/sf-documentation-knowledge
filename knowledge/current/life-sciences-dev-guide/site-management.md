@@ -5,12 +5,10 @@ topic: site-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:08.449Z
+lastCollected: 2026-04-07T18:37:57.976Z
 estimatedTokens: 255
-keywords: [Site, Management, data, model, helps, life, sciences, organizations, identify, suitable, sites, conducting, research, studies, Study]
+keywords: [Site, Management, model, helps, life, sciences, organizations, identify, suitable, sites, conducting, research, studies, Study, managers, search, investigators, Criteria-Based, Filter, send, assessments, assessment, responses, assign, scores, their, They, tag, future, selection, efforts]
 ---
-
-# Site Management
 
 > The Site Management data model helps life sciences organizations identify suitable sites
   for conducting research studies. Study managers can search for the sites and investigators using

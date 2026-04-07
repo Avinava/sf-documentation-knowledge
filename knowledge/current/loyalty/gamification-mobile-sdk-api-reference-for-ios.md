@@ -5,12 +5,10 @@ topic: gamification-mobile-sdk-api-reference-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.176Z
+lastCollected: 2026-04-07T18:38:08.440Z
 estimatedTokens: 198
-keywords: [Gamification, Mobile, SDK, API, iOS, interacts, Salesforce, APIs, retrieves, games, assigned, loyalty, member, rewards, won]
+keywords: [Gamification, Mobile, SDK, API, iOS, interacts, Salesforce, APIs, retrieves, games, assigned, loyalty, member, rewards, won, playing, game]
 ---
-
-# Gamification Mobile SDK API Reference for iOS
 
 > The Gamification Mobile iOS SDK interacts with the Salesforce Gamification APIs,
                 and retrieves games assigned to a loyalty member, and the rewards won by the member

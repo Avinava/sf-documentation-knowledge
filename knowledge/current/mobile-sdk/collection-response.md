@@ -5,12 +5,10 @@ topic: collection-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.043Z
+lastCollected: 2026-04-07T18:40:27.273Z
 estimatedTokens: 279
 keywords: [Collection, Handles, responses, Mobile, SDK, requests]
 ---
-
-# Collection Response
 
 > Handles responses for all Mobile SDK Collection requests.
 

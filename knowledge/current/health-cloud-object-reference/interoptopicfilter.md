@@ -5,12 +5,10 @@ topic: interoptopicfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.749Z
+lastCollected: 2026-04-07T18:37:47.336Z
 estimatedTokens: 928
-keywords: [InteropTopicFilter, interoperability, topic's, notification, filtered, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [InteropTopicFilter, interoperability, topic's, notification, filtered, API, 64.0]
 ---
-
-# InteropTopicFilter
 
 > Represents the properties by which an interoperability topic's notification
          can be filtered. This object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: eligible-promotions-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.644Z
+lastCollected: 2026-04-07T18:38:07.876Z
 estimatedTokens: 110
-keywords: [Eligible, Promotions, Output, representation]
+keywords: [Eligible, Promotions]
 ---
-
-# Eligible Promotions List
 
 > Output representation of a list of eligible promotions.
 

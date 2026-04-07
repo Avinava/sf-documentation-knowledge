@@ -5,13 +5,11 @@ topic: membertierinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.677Z
+lastCollected: 2026-04-07T18:38:06.890Z
 estimatedTokens: 919
 namespace: LoyaltyManagement
 keywords: [MemberTierInputBuilder, build, instance, LoyaltyManagement.MemberTierInput, setLoyaltyProgramMemberId, loyaltyProgramMemberId, setProgramName, programName, setTierGroupName, tierGroupName]
 ---
-
-# MemberTierInputBuilder Class
 
 > Contains methods to build an instance of the LoyaltyManagement.MemberTierInput class.
 

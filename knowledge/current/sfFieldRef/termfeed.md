@@ -5,12 +5,10 @@ topic: termfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.155Z
+lastCollected: 2026-04-07T18:40:03.881Z
 estimatedTokens: 383
-keywords: [TermFeed, Feed, tracking, Term]
+keywords: [TermFeed, Term]
 ---
-
-# TermFeed
 
 > Feed tracking for Term.
 

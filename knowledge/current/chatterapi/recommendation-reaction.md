@@ -5,12 +5,10 @@ topic: recommendation-reaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.739Z
+lastCollected: 2026-04-07T18:37:20.923Z
 estimatedTokens: 443
 keywords: [Recommendation, Reaction, produced, strategy]
 ---
-
-# Recommendation Reaction
 
 > Reaction to a recommendation produced by a recommendation
       strategy.

@@ -5,12 +5,10 @@ topic: dataflow-jobs-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.595Z
+lastCollected: 2026-04-07T18:36:56.107Z
 estimatedTokens: 1175
 keywords: [Dataflow, Jobs, Resource, starts, new, job, Includes, standard, dataflows, recipes, Postman]
 ---
-
-# Dataflow Jobs List Resource
 
 > Returns a list of dataflow jobs and starts a new dataflow job.
       Includes standard dataflows and recipes.

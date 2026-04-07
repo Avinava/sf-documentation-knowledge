@@ -5,12 +5,10 @@ topic: overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:14.440Z
+lastCollected: 2026-04-07T18:37:01.022Z
 estimatedTokens: 593
-keywords: [SAQL, Salesforce, Analytics, Query, Language, access, data, CRM, dataset, uses, behind, scenes, lenses, dashboards, explorer]
+keywords: [SAQL, Salesforce, Analytics, Query, Language, CRM, dataset, uses, behind, scenes, lenses, dashboards, explorer, gather, visualizations]
 ---
-
-# Overview
 
 > Use SAQL (Salesforce Analytics Query Language) to access data in CRM Analytics
             dataset. CRM Analytics uses SAQL behind the scenes in lenses, dashboards, and explorer

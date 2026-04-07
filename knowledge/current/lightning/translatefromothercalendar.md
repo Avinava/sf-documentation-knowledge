@@ -5,12 +5,10 @@ topic: translatefromothercalendar
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.071Z
+lastCollected: 2026-04-07T18:38:05.248Z
 estimatedTokens: 83
-keywords: [translateFromOtherCalendar, Translates, input, date, another, calendar, system, Buddhist, Gregorian, locale]
+keywords: [translateFromOtherCalendar, Translates, date, another, calendar, system, Buddhist, Gregorian, locale]
 ---
-
-# translateFromOtherCalendar()
 
 > Translates the input date from another calendar system (for example,
    the Buddhist calendar) to the Gregorian calendar based on the locale.

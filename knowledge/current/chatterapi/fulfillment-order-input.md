@@ -5,12 +5,10 @@ topic: fulfillment-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.752Z
+lastCollected: 2026-04-07T18:37:08.577Z
 estimatedTokens: 465
-keywords: [Fulfillment, Order, Input, OrderDeliveryGroupSummary, delivery, recipient, groups, assign, FulfillmentOrders, group, OrderItemSummaries, match, share, location, creates]
+keywords: [Fulfillment, Order, OrderDeliveryGroupSummary, delivery, recipient, groups, assign, FulfillmentOrders, group, OrderItemSummaries, match, share, location, creates, FulfillmentOrder, FulfillmentOrderLineItem, OrderItemSummary]
 ---
-
-# Fulfillment Order Input
 
 > An OrderDeliveryGroupSummary that defines a delivery method and
     recipient, and a list of fulfillment groups to assign to FulfillmentOrders. Each fulfillment

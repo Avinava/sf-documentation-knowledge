@@ -5,12 +5,10 @@ topic: billingtreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.704Z
+lastCollected: 2026-04-07T18:35:48.687Z
 estimatedTokens: 882
-keywords: [BillingTreatment, billing, order, item, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [BillingTreatment, billing, order, item, API, 62.0]
 ---
-
-# BillingTreatment
 
 > Represents information about the billing of an order item. This
       object is available in API version 62.0 and later.

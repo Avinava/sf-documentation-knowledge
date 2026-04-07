@@ -5,12 +5,10 @@ topic: index
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.873Z
+lastCollected: 2026-04-07T18:36:33.291Z
 estimatedTokens: 606
-keywords: [Index, defined, custom, big, Tooling, API, version, 41.0, later, SOAP, Calls, REST, HTTP, Limitations, Usage]
+keywords: [Index, Limitations, defined, big, Tooling, API, 41.0, SOAP, REST, HTTP]
 ---
-
-# Index
 
 > Represents the index defined within a custom big
             object. Available in Tooling API version 41.0 and later.

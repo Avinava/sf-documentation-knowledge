@@ -5,12 +5,10 @@ topic: loyalty-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.678Z
+lastCollected: 2026-04-07T18:38:09.012Z
 estimatedTokens: 505
-keywords: [Loyalty, Management, Metadata, API, access, feature, settings, customize, user, Developer]
+keywords: [Loyalty, Management, Metadata, API, feature, settings, customize, user, Developer]
 ---
-
-# Loyalty Management Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface. For more information about Metadata API and to find a complete

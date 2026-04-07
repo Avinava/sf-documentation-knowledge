@@ -5,12 +5,10 @@ topic: ideareputationlevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.451Z
+lastCollected: 2026-04-07T18:38:33.606Z
 estimatedTokens: 275
-keywords: [IdeaReputationLevel, reputation, level, Ideas, zone, internal, organization, system, calculate, levels, per, API, version, 28.0, later]
+keywords: [IdeaReputationLevel, reputation, level, Ideas, zone, internal, organization, system, calculate, levels, per, API, 28.0]
 ---
-
-# IdeaReputationLevel
 
 > Represents a reputation level within an Ideas zone or internal
    organization and is used by the system to calculate reputation. You can create up to 25 levels

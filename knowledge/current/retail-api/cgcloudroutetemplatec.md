@@ -5,12 +5,10 @@ topic: cgcloudroutetemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.386Z
+lastCollected: 2026-04-07T18:39:14.784Z
 estimatedTokens: 1415
-keywords: [cgcloud__Route_Template__c, Stores, route, template, that's, routes, API, version, 54.0, later, cgcloud, _Route, _Template, Calls, Associated]
+keywords: [cgcloud__Route_Template__c, Stores, route, template, that's, routes, API, 54.0, cgcloud, _Route, _Template]
 ---
-
-# cgcloud__Route_Template__c
 
 > Stores the details of the route template object that's to be used for
          routes. This object is available in API version 54.0 and later.

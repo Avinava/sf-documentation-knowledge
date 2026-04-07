@@ -5,12 +5,10 @@ topic: visualforce-events-for-customizing-the-wizard-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.175Z
+lastCollected: 2026-04-07T18:37:02.714Z
 estimatedTokens: 1400
-keywords: [VisualForce, Events, Customizing, Wizard, explains, user, Event, wizard.ready, wizard.update, wizard.visibility, wizard.values, wizard.next, wizard.resize, wizard.options, wizard.buttons]
+keywords: [VisualForce, Events, Customizing, Wizard, explains, user, Event, wizard.ready, wizard.update, wizard.visibility, wizard.values, wizard.next, wizard.resize, wizard.options, wizard.buttons, wizard.create]
 ---
-
-# VisualForce Events for Customizing the Wizard UI
 
 > This reference section explains the details of using VisualForce for customizing the
     Wizard user interface.

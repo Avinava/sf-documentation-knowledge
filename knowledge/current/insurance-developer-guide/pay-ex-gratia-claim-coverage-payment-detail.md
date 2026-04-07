@@ -5,12 +5,10 @@ topic: pay-ex-gratia-claim-coverage-payment-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.512Z
+lastCollected: 2026-04-07T18:37:52.704Z
 estimatedTokens: 381
-keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail, Output, representation, that’s, made]
+keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail, that’s, made]
 ---
-
-# Pay Ex Gratia Claim Coverage Payment Detail
 
 > Output representation for the details of the ex gratia payment that’s made for the claim coverage payment detail.
 

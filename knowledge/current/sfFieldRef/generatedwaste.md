@@ -5,12 +5,10 @@ topic: generatedwaste
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.736Z
+lastCollected: 2026-04-07T18:39:42.369Z
 estimatedTokens: 743
 keywords: [GeneratedWaste, waste, generated, operations, treating, end-of-life, products, were, sold]
 ---
-
-# GeneratedWaste
 
 > Represents the information on the waste generated in operations, the waste
          generated while treating end-of-life products that were sold, and so on.

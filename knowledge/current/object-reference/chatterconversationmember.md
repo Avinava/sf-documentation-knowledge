@@ -5,12 +5,10 @@ topic: chatterconversationmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.936Z
+lastCollected: 2026-04-07T18:38:27.870Z
 estimatedTokens: 364
-keywords: [ChatterConversationMember, member, conversation, Chatter, either, sent, messages, received, participants, API, version, 23.0, later, Calls, Usage]
+keywords: [ChatterConversationMember, member, conversation, Chatter, either, sent, messages, received, participants, API, 23.0]
 ---
-
-# ChatterConversationMember
 
 > Represents a member of a private conversation in Chatter. A member has
    either sent messages to or received messages from other conversation participants. This

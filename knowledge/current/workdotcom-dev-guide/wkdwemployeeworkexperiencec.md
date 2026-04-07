@@ -5,12 +5,10 @@ topic: wkdwemployeeworkexperiencec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.154Z
+lastCollected: 2026-04-07T18:40:14.188Z
 estimatedTokens: 535
-keywords: [wkdw__EmployeeWorkExperience__c, Stores, work, experience, employee, Workspace, community, orgs, managed, package, installed, wkdw, _EmployeeWorkExperience, Calls]
+keywords: [wkdw__EmployeeWorkExperience__c, Stores, work, experience, employee, Workspace, community, orgs, managed, package, installed, wkdw, _EmployeeWorkExperience]
 ---
-
-# wkdw__EmployeeWorkExperience__c
 
 > Stores work experience of an employee in the Employee Workspace community.
     This object is available in orgs that have the Employee Workspace managed package

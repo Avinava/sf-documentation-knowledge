@@ -5,12 +5,10 @@ topic: feed-elements-capability-direct-message-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.692Z
+lastCollected: 2026-04-07T18:37:13.656Z
 estimatedTokens: 282
-keywords: [Feed, Elements, Capability, Direct, Message, Members]
+keywords: [Capability, Direct, Message, Members]
 ---
-
-# Feed Elements Capability, Direct Message Members
 
 > Get all the members for a direct message.
 

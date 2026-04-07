@@ -5,12 +5,10 @@ topic: duplicate-rule-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.895Z
+lastCollected: 2026-04-07T18:36:20.111Z
 estimatedTokens: 351
-keywords: [Duplicate, Rule, Configure, options, rules, Salesforce, uses, record, created, updated, upserted, part, Management]
+keywords: [Duplicate, Rule, Configure, options, Salesforce, uses, record, created, updated, upserted, part, Management]
 ---
-
-# Duplicate Rule Header
 
 > Configure options for duplicate rules. Salesforce uses
    duplicate rules to see if the record that is being created, updated, or upserted is a duplicate

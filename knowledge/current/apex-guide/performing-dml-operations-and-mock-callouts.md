@@ -5,12 +5,10 @@ topic: performing-dml-operations-and-mock-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.959Z
+lastCollected: 2026-04-07T18:36:16.183Z
 estimatedTokens: 752
-keywords: [Performing, DML, Operations, Mock, Callouts, aren’t, allowed, transaction, because, result, pending, uncommitted, work, prevents, executing]
+keywords: [Performing, DML, Operations, Mock, Callouts, aren’t, allowed, transaction, because, result, pending, uncommitted, work, prevents, executing, Sometimes, want, insert, test, making, callout, enable, enclo, Asynchronous, Apex]
 ---
-
-# Performing DML Operations and Mock Callouts
 
 > By default, callouts aren’t
 allowed after DML operations in the same transaction because DML operations

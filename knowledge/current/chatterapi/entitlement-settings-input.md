@@ -5,12 +5,10 @@ topic: entitlement-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:21.440Z
+lastCollected: 2026-04-07T18:37:08.265Z
 estimatedTokens: 199
-keywords: [Entitlement, Settings, Input, applicable, product, rows, import, csv, file]
+keywords: [Entitlement, Settings, applicable, product, rows, import, csv, file]
 ---
-
-# Entitlement Settings Input
 
 > Entitlement settings applicable to all product rows in a product
       import .csv file.

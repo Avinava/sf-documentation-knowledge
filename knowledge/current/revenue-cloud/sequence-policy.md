@@ -5,12 +5,10 @@ topic: sequence-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.733Z
+lastCollected: 2026-04-07T18:35:46.705Z
 estimatedTokens: 170
-keywords: [Sequence, Policy, Output, representation, status, assigned, pattern]
+keywords: [Sequence, Policy, status, assigned, pattern]
 ---
-
-# Sequence Policy
 
 > Output representation that shows the status of the assigned sequence pattern
     values.

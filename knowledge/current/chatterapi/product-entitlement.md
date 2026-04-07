@@ -5,12 +5,10 @@ topic: product-entitlement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.963Z
+lastCollected: 2026-04-07T18:37:22.072Z
 estimatedTokens: 108
 keywords: [Product, Entitlement, Entitlements]
 ---
-
-# Product Entitlement
 
 > Entitlements for a product.
 

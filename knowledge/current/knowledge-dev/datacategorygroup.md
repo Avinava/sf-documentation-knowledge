@@ -5,12 +5,10 @@ topic: datacategorygroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.795Z
+lastCollected: 2026-04-07T18:37:54.087Z
 estimatedTokens: 2320
-keywords: [DataCategoryGroup, data, category, group, File, Suffix, Directory, Location, Version, DataCategory, ObjectUsage, Declarative, Metadata, Sample, Definition]
+keywords: [DataCategoryGroup, DataCategory, ObjectUsage, category, group, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataCategoryGroup
 
 > Represents a data category group.
 

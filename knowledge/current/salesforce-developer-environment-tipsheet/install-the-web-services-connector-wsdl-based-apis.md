@@ -5,12 +5,10 @@ topic: install-the-web-services-connector-wsdl-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.143Z
+lastCollected: 2026-04-07T18:39:16.736Z
 estimatedTokens: 349
-keywords: [Install, Web, Services, Connector, WSDL-Based, APIs, Lightning, Platform, WSC, high-performance, runtime, framework, Salesforce, easier, download]
+keywords: [Install, Web, Services, Connector, WSDL-Based, APIs, Lightning, Platform, WSC, high-performance, runtime, framework, Salesforce, easier, download, prebuilt, jar, file, Force, MVN, repository]
 ---
-
-# Install the Web Services Connector (WSDL-Based APIs)
 
 > The Lightning Platform Web Services Connector (WSC) is a high-performance runtime
 		framework that makes using WSDL-based Salesforce APIs easier. To install the WSC, download

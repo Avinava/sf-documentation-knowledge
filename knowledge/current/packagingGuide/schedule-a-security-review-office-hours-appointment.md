@@ -5,12 +5,10 @@ topic: schedule-a-security-review-office-hours-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.747Z
+lastCollected: 2026-04-07T18:38:47.696Z
 estimatedTokens: 601
-keywords: [Schedule, Security, Review, Office, Hours, Appointment, Access, expert, guidance, AppExchange, team, members, scheduled, web, conferences]
+keywords: [Schedule, Security, Review, Office, Hours, Appointment, expert, guidance, AppExchange, team, members, scheduled, web, conferences, answers, logistics, submission, requirements, Operations, Troubleshoot, security-related, technical, issues, Product, engineers, Visit, Partner, Portal, Process, Questions]
 ---
-
-# Schedule a Security Review Office Hours Appointment
 
 > Access expert guidance from AppExchange security review team members through
         scheduled web conferences. Get answers about security review logistics and submission

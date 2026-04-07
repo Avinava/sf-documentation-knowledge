@@ -5,12 +5,10 @@ topic: networkemailtmplallowlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.119Z
+lastCollected: 2026-04-07T18:39:49.604Z
 estimatedTokens: 338
-keywords: [NetworkEmailTmplAllowlist, allowlist, one-time, password, OTP, email, templates, sent, end, users, Headless, Registration, Flow, Passwordless, Login]
+keywords: [NetworkEmailTmplAllowlist, allowlist, one-time, password, OTP, email, templates, sent, end, users, Headless, Registration, Flow, Passwordless, Login, Forgot, API, 60.0]
 ---
-
-# NetworkEmailTmplAllowlist
 
 > Represents an allowlist for the one-time password (OTP) email templates that
          are sent to end users during the Headless Registration Flow, the Headless Passwordless

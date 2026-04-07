@@ -5,12 +5,10 @@ topic: granting-user-access-for-apex-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.632Z
+lastCollected: 2026-04-07T18:38:02.557Z
 estimatedTokens: 360
-keywords: [Granting, User, Access, Apex, Classes, authenticated, guest, @AuraEnabled, user’s, profile, assigned, permission]
+keywords: [Granting, User, Apex, Classes, authenticated, guest, @AuraEnabled, user’s, profile, assigned, permission]
 ---
-
-# Granting User Access for Apex Classes
 
 > An authenticated or guest user can access an @AuraEnabled Apex method only when the user’s profile or an
    assigned permission set allows access to the Apex class.

@@ -5,12 +5,10 @@ topic: tenantsecret
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.490Z
+lastCollected: 2026-04-07T18:38:42.262Z
 estimatedTokens: 2519
-keywords: [TenantSecret, stores, encrypted, organization-specific, key, fragment, that’s, primary, secret, KDF, seed, produce, org-specific, data, encryption]
+keywords: [TenantSecret, stores, encrypted, organization-specific, key, fragment, that’s, primary, secret, KDF, seed, produce, org-specific, encryption, keys, API, 34.0]
 ---
-
-# TenantSecret
 
 > This object stores an encrypted organization-specific key fragment
          that’s used with the primary secret (KDF seed) to produce org-specific data encryption

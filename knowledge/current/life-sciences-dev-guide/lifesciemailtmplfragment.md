@@ -5,12 +5,10 @@ topic: lifesciemailtmplfragment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.815Z
+lastCollected: 2026-04-07T18:38:00.591Z
 estimatedTokens: 964
-keywords: [LifeSciEmailTmplFragment, collection, reusable, components, inserted, email, templates, allowing, end, users, custom, modular, emails, tailored, their]
+keywords: [LifeSciEmailTmplFragment, collection, reusable, inserted, email, templates, allowing, end, users, modular, emails, tailored, their, needs, API, 65.0]
 ---
-
-# LifeSciEmailTmplFragment
 
 > Represents a collection of reusable components that can be inserted into
          email templates, allowing end users to create custom and modular emails tailored to their

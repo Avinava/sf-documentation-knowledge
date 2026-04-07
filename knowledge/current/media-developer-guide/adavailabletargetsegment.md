@@ -5,12 +5,10 @@ topic: adavailabletargetsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.593Z
+lastCollected: 2026-04-07T18:38:11.883Z
 estimatedTokens: 873
-keywords: [AdAvailableTargetSegment, junction, product, target, category, media, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [AdAvailableTargetSegment, junction, product, target, category, media, API, 63.0]
 ---
-
-# AdAvailableTargetSegment
 
 > Represents the junction between ad product and ad target category
          based on the media type. This object is available in API version 63.0 and later.

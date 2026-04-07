@@ -5,12 +5,10 @@ topic: agentforce-it-service-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.792Z
+lastCollected: 2026-04-07T18:35:54.886Z
 estimatedTokens: 330
-keywords: [Agentforce, Service, Metadata, API, access, feature, settings, customize, user, Developer]
+keywords: [Agentforce, Service, Metadata, API, feature, settings, customize, user, Developer]
 ---
-
-# Agentforce IT Service Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface. For more information about Metadata API and to find a complete

@@ -5,12 +5,10 @@ topic: retrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.845Z
+lastCollected: 2026-04-07T18:36:29.325Z
 estimatedTokens: 2403
-keywords: [retrieve, call, retrieves, XML, file, representations, components, organization, Usage, Permissions, Arguments, Sample, Code—Java]
+keywords: [Permissions, Arguments, retrieve, call, retrieves, XML, file, representations, organization, Sample, Code—Java]
 ---
-
-# retrieve()
 
 > The retrieve() call retrieves XML file
         representations of components in an organization.

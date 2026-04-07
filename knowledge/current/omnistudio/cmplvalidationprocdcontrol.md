@@ -5,12 +5,10 @@ topic: cmplvalidationprocdcontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.735Z
+lastCollected: 2026-04-07T18:36:44.466Z
 estimatedTokens: 535
-keywords: [CmplValidationProcdControl, junction, Validation, Procedure, Version, Compliance, Control, API, 65.0, later, Calls, Associated, Objects]
+keywords: [CmplValidationProcdControl, junction, Validation, Procedure, Compliance, Control, API, 65.0]
 ---
-
-# CmplValidationProcdControl
 
 > Represents a junction between a Validation Procedure Version and a Compliance
          Control. This object is available in API version 65.0 and later.

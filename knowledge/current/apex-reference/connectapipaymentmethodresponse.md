@@ -5,12 +5,10 @@ topic: connectapipaymentmethodresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.484Z
+lastCollected: 2026-04-07T18:36:10.759Z
 estimatedTokens: 118
 keywords: [ConnectApi.PaymentMethodResponse, Payment]
 ---
-
-# ConnectApi.PaymentMethodResponse
 
 > Payment method information response.
 

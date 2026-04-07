@@ -6,13 +6,10 @@ topic: sample-custom-components-for-outlook-and-gmail-integration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.129Z
+lastCollected: 2026-04-07T18:38:03.122Z
 estimatedTokens: 808
-keywords: [Sample, Custom, Components, Outlook, Gmail, Integration, Review, samples, Aura, implement, email, application, pane, Apply, Selected]
+keywords: [Sample, Outlook, Gmail, Integration, Review, samples, Aura, implement, email, application, pane, Apply, Selected, Context, Display, Record, Recipients]
 ---
-
-# Sample Custom Components for Outlook and Gmail
-        Integration
 
 > Review samples of custom Aura components that you can implement in the email
         application pane for Outlook integration and Gmail Integration.

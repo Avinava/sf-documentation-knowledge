@@ -5,13 +5,11 @@ topic: assessmentquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.298Z
+lastCollected: 2026-04-07T18:39:27.265Z
 estimatedTokens: 494
 namespace: Namespace
-keywords: [AssessmentQuestion, Stores, questions, assessment, API, version, 55.0, later]
+keywords: [AssessmentQuestion, Stores, questions, assessment, API, 55.0]
 ---
-
-# AssessmentQuestion
 
 > Stores the questions required for an assessment. This object is
       available in API version 55.0 and later.

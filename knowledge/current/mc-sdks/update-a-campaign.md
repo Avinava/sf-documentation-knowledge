@@ -5,12 +5,10 @@ topic: update-a-campaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.980Z
+lastCollected: 2026-04-07T18:40:24.482Z
 estimatedTokens: 320
-keywords: [Campaign, Patch, Specify, unique, identifier, props, order, identify, updated, Ruby, PHP, Python, Java]
+keywords: [Ruby, Python, Java, Campaign, Patch, Specify, unique, identifier, props, order, identify, updated, PHP]
 ---
-
-# Update a Campaign
 
 > Use the Patch method to update an existing campaign. Specify the unique identifier id in the props property in order to identify which campaign will be updated.
 

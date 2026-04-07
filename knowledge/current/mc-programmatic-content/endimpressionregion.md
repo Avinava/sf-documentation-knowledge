@@ -5,12 +5,10 @@ topic: endimpressionregion
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.832Z
+lastCollected: 2026-04-07T18:40:22.201Z
 estimatedTokens: 116
 keywords: [EndImpressionRegion, Function, Ordinal, whether, ends, previous, impression, regions, end, message, implicitly, closes, explici, **Overview**, **Syntax**, nested, Insert, ClearAll, clear, region]
 ---
-
-# EndImpressionRegion
 
 > EndImpressionRegion(1)
 

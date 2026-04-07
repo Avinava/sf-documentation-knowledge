@@ -5,12 +5,10 @@ topic: schedule-an-email-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:24.867Z
+lastCollected: 2026-04-07T18:40:20.093Z
 estimatedTokens: 1508
 keywords: [Schedule, Email, Send, Definition, scheduling, Why, How, Sample, NET, Code, PHP, SOAP]
 ---
-
-# Schedule an Email Send Definition
 
 > This page contains information  about scheduling an email send definition.
 

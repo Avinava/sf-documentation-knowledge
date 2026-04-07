@@ -5,13 +5,11 @@ topic: insuranceclaimfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.493Z
+lastCollected: 2026-04-07T18:37:49.335Z
 estimatedTokens: 78
 namespace: ConnectApi
 keywords: [InsuranceClaimFamily, Manage, insurance, claims]
 ---
-
-# InsuranceClaimFamily Class
 
 > Manage insurance claims.
 

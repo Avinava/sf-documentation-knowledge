@@ -5,12 +5,10 @@ topic: engagement-signal-metric-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.403Z
+lastCollected: 2026-04-07T18:37:08.224Z
 estimatedTokens: 139
-keywords: [Engagement, Signal, Metric, Input, creating]
+keywords: [Engagement, Signal, Metric, creating]
 ---
-
-# Engagement Signal Metric Input
 
 > Request body for creating an Engagement Signal Metric.
 

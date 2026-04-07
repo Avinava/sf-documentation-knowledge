@@ -5,12 +5,10 @@ topic: introduction-to-referral-marketing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.358Z
+lastCollected: 2026-04-07T18:39:09.674Z
 estimatedTokens: 77
-keywords: [Introduction, Referral, Marketing, managers, manage, programs, company’s, customers, their, referrals, Developers, company, resources, provided, customize]
+keywords: [Introduction, Referral, Marketing, managers, manage, programs, company’s, customers, their, referrals, Developers, company, resources, provided, customize, extend, capabilities]
 ---
-
-# Introduction to Referral Marketing
 
 > Referral Marketing enables marketing managers to create and manage referral programs
     for the company’s customers and their referrals. Developers in your company can use the

@@ -5,12 +5,10 @@ topic: provider-network-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.507Z
+lastCollected: 2026-04-07T18:37:42.658Z
 estimatedTokens: 1795
-keywords: [Provider, Network, Management, health, insurance, companies, bring, providers, their, helps, members, patients, care, fits, needs]
+keywords: [Provider, Network, Management, health, insurance, companies, bring, providers, their, helps, members, patients, care, fits, needs, managing, networks, contract, payment, agreement, terms]
 ---
-
-# Provider Network Management
 
 > Provider Network Management allows health insurance companies to bring providers into
     their network and helps members or patients find care that fits their needs. It provides objects

@@ -5,12 +5,10 @@ topic: persist-context-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.781Z
+lastCollected: 2026-04-07T18:36:38.433Z
 estimatedTokens: 357
 keywords: [Persist, Context, POST, passing]
 ---
-
-# Persist Context (POST)
 
 > Persist a context by passing the context ID.
 

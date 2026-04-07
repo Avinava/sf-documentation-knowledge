@@ -5,12 +5,10 @@ topic: industriesunifiedinventorysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.116Z
+lastCollected: 2026-04-07T18:37:58.634Z
 estimatedTokens: 429
-keywords: [IndustriesUnifiedInventorySettings, settings, Industries, Unified, Inventory, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [IndustriesUnifiedInventorySettings, settings, Industries, Unified, Inventory, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesUnifiedInventorySettings
 
 > Represents the settings for Industries Unified
 			Inventory.

@@ -5,12 +5,10 @@ topic: surveys-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.401Z
+lastCollected: 2026-04-07T18:39:17.030Z
 estimatedTokens: 903
-keywords: [Surveys, Resources, Understand, customer, feedback, evolves, over, time, engaging, customers, users, relevant, personalized, Incorporate, survey]
+keywords: [Surveys, Resources, Understand, customer, feedback, evolves, over, time, engaging, customers, users, relevant, personalized, Incorporate, survey, management, process, gain, actionable, insights, every, stage, lifecycle]
 ---
-
-# Surveys Resources
 
 > Understand customer feedback as it evolves over time by
       engaging customers and users with relevant, personalized surveys. Incorporate survey data into

@@ -5,12 +5,10 @@ topic: cgcsyncsyncmessagec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.896Z
+lastCollected: 2026-04-07T18:39:12.414Z
 estimatedTokens: 550
-keywords: [cgc_sync__Sync_Message__c, messages, exposed, mobile, app, user, sync, process, API, version, 53.0, later, cgc, _sync, _Message]
+keywords: [cgc_sync__Sync_Message__c, messages, exposed, mobile, app, user, sync, process, API, 53.0, cgc, _sync, _Message]
 ---
-
-# cgc_sync__Sync_Message__c
 
 > Represents the messages that are exposed to a mobile app user during the sync
          process. This object is available in API version 53.0 and later.

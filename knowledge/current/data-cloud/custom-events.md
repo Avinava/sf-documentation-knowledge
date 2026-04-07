@@ -5,12 +5,10 @@ topic: custom-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.301Z
+lastCollected: 2026-04-07T18:35:51.159Z
 estimatedTokens: 211
-keywords: [Custom, Events, recommended, Cart, Interaction, Catalog, Order, data, models, provided, Salesforce, Interactions, SDK, unified, model]
+keywords: [Events, recommended, Cart, Interaction, Catalog, Order, models, provided, Salesforce, Interactions, SDK, unified, model, across, capture, addition]
 ---
-
-# Custom Events
 
 > Use the recommended Cart Interaction, Catalog Interaction, and Order Interaction data
     models provided by the Salesforce Interactions SDK to use the unified data model across

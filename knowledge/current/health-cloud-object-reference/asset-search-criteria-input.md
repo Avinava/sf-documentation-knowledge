@@ -5,12 +5,10 @@ topic: asset-search-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.486Z
+lastCollected: 2026-04-07T18:37:40.465Z
 estimatedTokens: 146
-keywords: [Asset, Search, Criteria, Input, assets]
+keywords: [Asset, Search, Criteria, assets]
 ---
-
-# Asset Search Criteria Input
 
 > Criteria used to search for assets.
 

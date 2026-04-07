@@ -5,12 +5,10 @@ topic: notification-builder-platform-push-payloads
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.001Z
+lastCollected: 2026-04-07T18:39:09.324Z
 estimatedTokens: 359
-keywords: [Notification, Builder, Platform, Push, Payloads, how, handle, payload, content, custom, notifications]
+keywords: [Notification, Builder, Platform, Push, Payloads, how, handle, payload, content, notifications]
 ---
-
-# Notification Builder Platform Push Payloads
 
 > Learn about how we handle push payload content for custom notifications.
 

@@ -5,12 +5,10 @@ topic: drextractpromo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.992Z
+lastCollected: 2026-04-07T18:38:11.262Z
 estimatedTokens: 96
-keywords: [DRExtractPromo, Omnistudio, Data, Mapper, extracts, promotions, product, codes, Sample, Input, Output]
+keywords: [DRExtractPromo, Omnistudio, Mapper, extracts, promotions, product, codes, Sample]
 ---
-
-# DRExtractPromo
 
 > This Omnistudio Data Mapper extracts the promotions for
     specified product codes.

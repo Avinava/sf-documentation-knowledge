@@ -5,12 +5,10 @@ topic: promptactionownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.716Z
+lastCollected: 2026-04-07T18:38:39.226Z
 estimatedTokens: 646
-keywords: [PromptActionOwnerSharingRule, rule, determines, PromptAction, sharing, access, owners, API, version, 46.0, later, Calls, Special, Rules]
+keywords: [PromptActionOwnerSharingRule, rule, determines, PromptAction, sharing, owners, API, 46.0]
 ---
-
-# PromptActionOwnerSharingRule
 
 > Represents a rule which determines PromptAction sharing access for the owners. Available in API version 46.0
       and later.

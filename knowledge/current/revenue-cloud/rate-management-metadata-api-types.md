@@ -5,12 +5,10 @@ topic: rate-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.091Z
+lastCollected: 2026-04-07T18:35:48.131Z
 estimatedTokens: 207
-keywords: [Rate, Management, Metadata, API, access, feature, settings, customize, user]
+keywords: [Rate, Management, Metadata, API, feature, settings, customize, user]
 ---
-
-# Rate Management Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

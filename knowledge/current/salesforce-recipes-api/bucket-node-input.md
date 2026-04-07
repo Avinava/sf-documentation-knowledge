@@ -5,12 +5,10 @@ topic: bucket-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.486Z
+lastCollected: 2026-04-07T18:39:18.166Z
 estimatedTokens: 117
-keywords: [Bucket, Node, Input, recipe]
+keywords: [Bucket, Node, recipe]
 ---
-
-# Bucket Node Input
 
 > A bucket node in a recipe.
 

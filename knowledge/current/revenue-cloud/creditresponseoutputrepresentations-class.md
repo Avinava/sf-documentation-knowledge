@@ -5,13 +5,11 @@ topic: creditresponseoutputrepresentations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.562Z
+lastCollected: 2026-04-07T18:35:40.350Z
 estimatedTokens: 823
 namespace: IssueCreditMemo
-keywords: [CreditResponseOutputRepresentations, result, credit, memo, operation, success, failure, any, additional, message, Usage, additionalInformation]
+keywords: [CreditResponseOutputRepresentations, result, credit, memo, operation, success, failure, any, additional, message, additionalInformation]
 ---
-
-# CreditResponseOutputRepresentations Class
 
 > Represents the result of a credit memo operation. Indicates success or failure and any additional information or message.
 

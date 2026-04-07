@@ -6,13 +6,10 @@ topic: best-practices-for-accessing-component-ids
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:56.629Z
+lastCollected: 2026-04-07T18:38:48.577Z
 estimatedTokens: 879
-keywords: [Best, Practices, Accessing, Component, IDs, refer, Visualforce, JavaScript, another, Web-enabled, language, specify, attribute, DOM, constructed]
+keywords: [Best, Practices, Accessing, IDs, refer, Visualforce, JavaScript, another, Web-enabled, language, specify, attribute, DOM, constructed, combination, attributes, contain, Unique, Iterating]
 ---
-
-# Best Practices for Accessing Component
-IDs
 
 > To refer to a Visualforce component in JavaScript or another Web-enabled language, you must
 specify a value for the id attribute for that component. A DOM ID is constructed from a combination

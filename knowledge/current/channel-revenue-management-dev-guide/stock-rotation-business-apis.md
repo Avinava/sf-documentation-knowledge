@@ -5,12 +5,10 @@ topic: stock-rotation-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.194Z
+lastCollected: 2026-04-07T18:37:06.892Z
 estimatedTokens: 279
-keywords: [Stock, Rotation, Business, APIs, access, REST, endpoints, follow, similar, conventions, Connect]
+keywords: [Stock, Rotation, Business, APIs, REST, endpoints, follow, similar, conventions, Connect]
 ---
-
-# Stock Rotation Business APIs
 
 > You can access Stock Rotation Business APIs using REST endpoints. These REST APIs
     follow similar conventions as Connect REST APIs.

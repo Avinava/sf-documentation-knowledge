@@ -5,12 +5,10 @@ topic: cgcloudordertemplateproductselectorgroupc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.754Z
+lastCollected: 2026-04-07T18:39:14.143Z
 estimatedTokens: 1020
-keywords: [Stores, relation, Order, Template, Product, selection, API, version, 54.0, later, cgcloud, _Order, _Template, _Product, _Selector]
+keywords: [Stores, relation, Order, Template, Product, selection, API, 54.0, cgcloud, _Order, _Template, _Product, _Selector, _Group]
 ---
-
-# cgcloud__Order_Template_Product_Selector_Group__c
 
 > Stores the relation between Order Template and Product
          selection. This object is available in API version 54.0 and later.

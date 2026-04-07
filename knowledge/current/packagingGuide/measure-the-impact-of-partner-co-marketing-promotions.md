@@ -5,12 +5,10 @@ topic: measure-the-impact-of-partner-co-marketing-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.191Z
+lastCollected: 2026-04-07T18:38:47.161Z
 estimatedTokens: 419
-keywords: [Measure, Impact, Partner, Co-Marketing, Promotions, AppExchange, Marketplace, Analytics, data, simple, formulas, provided, Salesforce, Calculate, scores]
+keywords: [Measure, Impact, Partner, Co-Marketing, Promotions, AppExchange, Marketplace, Analytics, simple, formulas, provided, Salesforce, Calculate, scores, Listing, Sponsorship, Sponsored, Search, Paid, Media]
 ---
-
-# Measure the Impact of Partner Co-Marketing Promotions
 
 > Use AppExchange Marketplace Analytics data in simple formulas provided by Salesforce to
     measure the impact of co-marketing promotions. Calculate impact scores for Listing Sponsorship,

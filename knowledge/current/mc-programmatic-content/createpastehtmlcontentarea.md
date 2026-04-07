@@ -5,9 +5,9 @@ topic: createpastehtmlcontentarea
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.742Z
+lastCollected: 2026-04-07T18:40:22.099Z
 estimatedTokens: 236
-keywords: [createPasteHTMLContentArea, AMPscript, content, area, PasteHTML, email, message, part, send, taken, outside, Marketing, Cloud, application, RSS]
+keywords: [createPasteHTMLContentArea, AMPscript, content, area, PasteHTML, email, message, part, send, taken, outside, Marketing, Cloud, application, RSS, via, syndication]
 ---
 
 # createPasteHTMLContentArea

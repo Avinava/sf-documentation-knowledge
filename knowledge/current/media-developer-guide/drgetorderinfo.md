@@ -5,12 +5,10 @@ topic: drgetorderinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.025Z
+lastCollected: 2026-04-07T18:38:11.291Z
 estimatedTokens: 111
-keywords: [DRgetOrderInfo, Omnistudio, Data, Mapper, order, item, products, Sample, Input, Output]
+keywords: [DRgetOrderInfo, Omnistudio, Mapper, order, item, products, Sample]
 ---
-
-# DRgetOrderInfo
 
 > This Omnistudio Data Mapper gets information about an order
     item and returns the value true or false for signature products.

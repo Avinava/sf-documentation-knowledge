@@ -5,12 +5,10 @@ topic: using-the-refresh-sync-down-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.321Z
+lastCollected: 2026-04-07T18:40:25.694Z
 estimatedTokens: 311
-keywords: [Refresh, Sync, Down, Target, apps, download, records, cache, let, users, edit, SmartStore, connectivity, drops, Local]
+keywords: [Refresh, Sync, Down, Target, apps, download, records, cache, let, users, edit, SmartStore, connectivity, drops, Local, “offline”, work, quick, efficient—a, great, user, experience—but, resumes, it's, cached, server, updates, APIs]
 ---
-
-# Using the Refresh Sync Down Target
 
 > Many apps download records, cache all of them, and then let users edit them from the SmartStore cache when connectivity drops.
   Local “offline” work is quick and efficient—a great user experience—but, when

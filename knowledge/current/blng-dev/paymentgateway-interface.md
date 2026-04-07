@@ -5,12 +5,10 @@ topic: paymentgateway-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.850Z
+lastCollected: 2026-04-07T18:37:03.414Z
 estimatedTokens: 1304
-keywords: [PaymentGateway, standard, payment, transaction, operations, voids, refunds, Usage, generateToken, mapOfTransactionParameterById, chargeTransaction, voidTransaction, authorizeTransaction, refundTransaction, Implementation]
+keywords: [PaymentGateway, standard, payment, transaction, operations, voids, refunds, generateToken, mapOfTransactionParameterById, chargeTransaction, voidTransaction, authorizeTransaction, refundTransaction, Implementation]
 ---
-
-# PaymentGateway Interface
 
 > Interface for standard payment transaction operations such as voids
       and refunds.

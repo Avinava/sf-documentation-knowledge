@@ -5,12 +5,10 @@ topic: best-practices-for-improving-visualforce-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:56.690Z
+lastCollected: 2026-04-07T18:38:48.638Z
 estimatedTokens: 1573
 keywords: [Best, Practices, Improving, Visualforce, Performance, strategies, improve, pages]
 ---
-
-# Best Practices for Improving Visualforce Performance
 
 > Learn strategies to improve the performance of
     Visualforce

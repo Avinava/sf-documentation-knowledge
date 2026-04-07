@@ -5,12 +5,10 @@ topic: asynchronous-interaction-pattern
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.320Z
+lastCollected: 2026-04-07T18:35:47.353Z
 estimatedTokens: 1024
 keywords: [Asynchronous, Interaction, Pattern, specify, add, callback, URI, integration, definition, Standard, Fulfillment, Provider, Apex, attribute]
 ---
-
-# Asynchronous Interaction Pattern
 
 > To specify an asynchronous request, you must add the callback URI to the integration
     definition for Standard Fulfillment Provider or Apex Type Provider as an optional

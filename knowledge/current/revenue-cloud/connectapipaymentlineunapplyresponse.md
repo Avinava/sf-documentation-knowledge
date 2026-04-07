@@ -5,12 +5,10 @@ topic: connectapipaymentlineunapplyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.738Z
+lastCollected: 2026-04-07T18:35:41.607Z
 estimatedTokens: 116
-keywords: [ConnectApi.PaymentLineUnapplyResponse, Output, representation, reversed, payment, line, application, include, record, date]
+keywords: [ConnectApi.PaymentLineUnapplyResponse, reversed, payment, line, application, include, record, date]
 ---
-
-# ConnectApi.PaymentLineUnapplyResponse
 
 > Output representation of the details of the reversed payment line application. The
     details include the ID of the payment line record and date when the payment line application was

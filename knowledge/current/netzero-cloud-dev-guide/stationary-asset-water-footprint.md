@@ -5,12 +5,10 @@ topic: stationary-asset-water-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.011Z
+lastCollected: 2026-04-07T18:38:17.545Z
 estimatedTokens: 2462
 keywords: [Stationary, Asset, Water, Footprint, Activity, water-related, activities, withdrawal, consumption, discharge, assets]
 ---
-
-# Stationary Asset Water Footprint
 
 > The Stationary Asset Water Activity object represents information about the
     water-related activities, such as withdrawal, consumption, or discharge of water, that are

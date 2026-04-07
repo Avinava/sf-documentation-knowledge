@@ -5,12 +5,10 @@ topic: set-the-width-height-and-base-font-size
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.779Z
+lastCollected: 2026-04-07T18:40:09.724Z
 estimatedTokens: 603
 keywords: [Width, Height, Base, Font, Size, Change, sizes, chat, window, code, snippet, match, websites, requirements]
 ---
-
-# Set the Width, Height, and Base Font Size
 
 > Change the default sizes for your chat window in the code snippet to
    match your websites requirements.

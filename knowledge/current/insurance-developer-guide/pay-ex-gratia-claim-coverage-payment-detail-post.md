@@ -5,12 +5,10 @@ topic: pay-ex-gratia-claim-coverage-payment-detail-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.796Z
+lastCollected: 2026-04-07T18:37:51.870Z
 estimatedTokens: 373
 keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail, POST, Process, discretionary, enabling, policy, limits, exceeded]
 ---
-
-# Pay Ex Gratia Claim Coverage Payment Detail (POST)
 
 > Process a discretionary ex gratia payment for a claim coverage payment detail, enabling payment even when coverage or policy limits are exceeded.
 

@@ -5,12 +5,10 @@ topic: move-to-2gp-migrate-your-managed-packages-with-ease
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.760Z
+lastCollected: 2026-04-07T18:38:54.131Z
 estimatedTokens: 789
-keywords: [Move, 2GP, Migrate, Managed, Packages, Ease, first-generation, packaging, 1GP, package, development, work, you're, alone, ISVs]
+keywords: [Move, 2GP, Migrate, Managed, Packages, Ease, first-generation, packaging, 1GP, package, development, work, you're, alone, ISVs, looking, second-generation, take, advantage, benefits]
 ---
-
-# Move to 2GP: Migrate Your Managed Packages with Ease
 
 > Are you still using first-generation managed packaging (1GP) for your package
   development work? If so, you're not alone. Many ISVs like you are looking to move to

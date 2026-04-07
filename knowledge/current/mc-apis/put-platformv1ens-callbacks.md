@@ -5,12 +5,10 @@ topic: put-platformv1ens-callbacks
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.597Z
+lastCollected: 2026-04-07T18:40:20.852Z
 estimatedTokens: 362
-keywords: [PUT, platform, ens-callbacks, Updates, registered, callback, take, two, minutes, changes, become, active, **Overview**, Usage, HTTP]
+keywords: [PUT, platform, ens-callbacks, Updates, registered, callback, take, two, minutes, changes, become, active, **Overview**, HTTP, Responses]
 ---
-
-# PUT /platform/v1/ens-callbacks
 
 > Updates a registered callback. It can take up to two minutes for callback changes to become active.
 

@@ -5,12 +5,10 @@ topic: integrate-chat-with-lightning-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.991Z
+lastCollected: 2026-04-07T18:39:17.649Z
 estimatedTokens: 518
-keywords: [Integrate, Chat, Lightning, Flow, Service, Customers, often, looking, quick, immediate, resolutions, their, problems, helps, agents]
+keywords: [Integrate, Chat, Lightning, Flow, Service, Customers, often, looking, quick, immediate, resolutions, their, problems, helps, agents, provide, consistent, efficient, view, business, processes, context, customer, because, actions, presented, subtabs, Transcript, primary, tab, appropriate, take, right, front, having, manually, search]
 ---
-
-# Integrate Chat with Lightning Flow for Service
 
 > Customers who chat with you are often looking for quick and immediate resolutions to
         their problems. Lightning Flow for Service helps your agents provide consistent and

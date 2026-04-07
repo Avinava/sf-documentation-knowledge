@@ -5,12 +5,10 @@ topic: applicationrendermethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:32.545Z
+lastCollected: 2026-04-07T18:39:26.494Z
 estimatedTokens: 370
-keywords: [ApplicationRenderMethod, how, part, application, rendered, API, version, 61.0, later]
+keywords: [ApplicationRenderMethod, how, part, application, rendered, API, 61.0]
 ---
-
-# ApplicationRenderMethod
 
 > Represents how a part of an application can be rendered. This object is
       available in API version 61.0 and later.

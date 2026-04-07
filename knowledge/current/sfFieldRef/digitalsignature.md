@@ -5,12 +5,10 @@ topic: digitalsignature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.232Z
+lastCollected: 2026-04-07T18:39:37.947Z
 estimatedTokens: 464
 keywords: [DigitalSignature, captured, service, report]
 ---
-
-# DigitalSignature
 
 > Represents a signature captured on a service report in field
 			service.

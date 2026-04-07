@@ -5,12 +5,10 @@ topic: employeedevelopmentsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.500Z
+lastCollected: 2026-04-07T18:39:39.147Z
 estimatedTokens: 409
 keywords: [EmployeeDevelopmentSum, statistics, training, development, provided, upskill, employees]
 ---
-
-# EmployeeDevelopmentSum
 
 > Represents statistics about training and development provided to
          upskill the employees.

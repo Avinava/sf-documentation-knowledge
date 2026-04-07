@@ -5,12 +5,10 @@ topic: contactsservice-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.254Z
+lastCollected: 2026-04-07T18:38:15.774Z
 estimatedTokens: 284
-keywords: [ContactsService, User, Experience, component, deliver, any, desire, there’s, common, flow, imports, exports, contact, data]
+keywords: [ContactsService, User, Experience, deliver, any, desire, there’s, common, flow, imports, exports, contact]
 ---
-
-# ContactsService User Experience
 
 > Your component can deliver any user experience you desire, but there’s a common flow
     for any component that imports or exports contact data.

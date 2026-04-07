@@ -5,12 +5,10 @@ topic: deploystatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.245Z
+lastCollected: 2026-04-07T18:36:12.527Z
 estimatedTokens: 239
-keywords: [DeployStatus, result, status, deployment, Usage]
+keywords: [DeployStatus, result, status, deployment]
 ---
-
-# DeployStatus Enum
 
 > The result status of a deployment.
 

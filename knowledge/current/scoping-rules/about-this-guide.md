@@ -5,12 +5,10 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.855Z
+lastCollected: 2026-04-07T18:39:21.722Z
 estimatedTokens: 526
-keywords: [criteria, select, rules, help, users, records, relevant, Scoping, don’t, restrict, record, access, already, open, report]
+keywords: [criteria, select, help, users, records, relevant, Scoping, don’t, restrict, record, already, open, report, they, per, org’s, sharing, settings]
 ---
-
-# About This Guide
 
 > Based on criteria that you select, you can set rules to help your users see only records
   that are relevant to them. Scoping rules don’t restrict the record access that your users already

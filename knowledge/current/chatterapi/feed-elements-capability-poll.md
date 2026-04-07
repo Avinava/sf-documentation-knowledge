@@ -5,12 +5,10 @@ topic: feed-elements-capability-poll
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.764Z
+lastCollected: 2026-04-07T18:37:13.723Z
 estimatedTokens: 468
-keywords: [Feed, Elements, Capability, Poll, Access, element, vote]
+keywords: [Capability, Poll, vote]
 ---
-
-# Feed Elements Capability, Poll
 
 > Access a poll for a feed element or vote on a poll.
 

@@ -5,12 +5,10 @@ topic: healthconditionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.824Z
+lastCollected: 2026-04-07T18:39:43.437Z
 estimatedTokens: 263
-keywords: [HealthConditionHistory, History, tracked, HealthCondition]
+keywords: [HealthConditionHistory, tracked, HealthCondition]
 ---
-
-# HealthConditionHistory
 
 > History for tracked fields of HealthCondition.
 

@@ -5,12 +5,10 @@ topic: marketingappextaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.033Z
+lastCollected: 2026-04-07T18:36:33.438Z
 estimatedTokens: 626
-keywords: [MarketingAppExtAction, Action, add, Engagement, Studio, programs, Account, execute, third-party, app, API, version, 56.0, later, SOAP]
+keywords: [MarketingAppExtAction, Action, add, Engagement, Studio, programs, Account, execute, third-party, app, API, 56.0, SOAP, REST, HTTP]
 ---
-
-# MarketingAppExtAction
 
 > Represents an Action Type, which is an action that you can add to Engagement
          Studio programs in Account Engagement and execute in a third-party app. This object is

@@ -5,12 +5,10 @@ topic: supportportalpublisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.523Z
+lastCollected: 2026-04-07T18:38:50.761Z
 estimatedTokens: 591
-keywords: [support, portalPublisher, Portal, publisher, lets, agents, Case, Feed, compose, post, messages, component, organizations, enabled, displays]
+keywords: [Attributes, support, portalPublisher, Portal, publisher, lets, agents, Case, compose, post, messages, organizations, enabled, displays]
 ---
-
-# support:portalPublisher
 
 > The Portal publisher lets support agents who use Case Feed compose and post portal messages. This component can only be used in organizations that have Case Feed enabled.
 

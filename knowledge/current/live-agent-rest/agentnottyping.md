@@ -5,12 +5,10 @@ topic: agentnottyping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.069Z
+lastCollected: 2026-04-07T18:38:06.323Z
 estimatedTokens: 58
 keywords: [AgentNotTyping, agent, typing, message, chat, visitor]
 ---
-
-# AgentNotTyping
 
 > Indicates that the agent is not typing a message to the
 chat visitor.

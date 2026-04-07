@@ -5,12 +5,10 @@ topic: connectapiattributefilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.893Z
+lastCollected: 2026-04-07T18:36:07.232Z
 estimatedTokens: 184
-keywords: [ConnectApi.AttributeFilter, attribute, filter, output]
+keywords: [ConnectApi.AttributeFilter, attribute, filter]
 ---
-
-# ConnectApi.AttributeFilter
 
 > Represents the attribute filter output.
 

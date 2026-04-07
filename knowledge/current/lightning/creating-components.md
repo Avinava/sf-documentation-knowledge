@@ -5,12 +5,10 @@ topic: creating-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.285Z
+lastCollected: 2026-04-07T18:38:03.293Z
 estimatedTokens: 1686
-keywords: [Creating, Components, functional, units, Lightning, Component, framework]
+keywords: [Creating, functional, units, Lightning, framework]
 ---
-
-# Creating Components
 
 > Components are the functional units of the Lightning Component framework.
 

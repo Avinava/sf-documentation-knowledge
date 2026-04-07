@@ -5,12 +5,10 @@ topic: inboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.287Z
+lastCollected: 2026-04-07T18:36:26.726Z
 estimatedTokens: 892
-keywords: [InboundNetworkConnection, connection, third-party, data, service, Salesforce, org, inbound, because, callouts, coming, Salesforce.This, extends, Metadata, inherits]
+keywords: [InboundNetworkConnection, InboundNetworkConnProperty, connection, third-party, service, Salesforce, org, inbound, because, callouts, coming, Salesforce.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# InboundNetworkConnection
 
 > Represents a private connection between a
       third-party data service and a Salesforce org. The connection is inbound because the callouts

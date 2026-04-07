@@ -5,12 +5,10 @@ topic: case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.271Z
+lastCollected: 2026-04-07T18:40:14.278Z
 estimatedTokens: 381
-keywords: [Case, Employee, Concierge, uses, standard, store, manage, support, ticket, data, managed, package, installs, custom, Usage]
+keywords: [Case, Employee, Concierge, uses, standard, store, manage, support, ticket, managed, package, installs]
 ---
-
-# Case
 
 > Employee Concierge uses the standard object Case to store and manage employee
       support ticket data. The Employee Concierge managed package also installs a custom field for

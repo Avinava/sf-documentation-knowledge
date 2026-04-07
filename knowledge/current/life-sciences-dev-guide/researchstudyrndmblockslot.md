@@ -5,12 +5,10 @@ topic: researchstudyrndmblockslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.916Z
+lastCollected: 2026-04-07T18:38:01.806Z
 estimatedTokens: 1122
-keywords: [ResearchStudyRndmBlockSlot, individual, randomization, block, items, corresponding, Research, Study, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [ResearchStudyRndmBlockSlot, individual, randomization, block, items, corresponding, Research, Study, API, 61.0]
 ---
-
-# ResearchStudyRndmBlockSlot
 
 > Represents the individual randomization block items corresponding to a
          Research Study Randomization Block This object is available in API version 61.0 and

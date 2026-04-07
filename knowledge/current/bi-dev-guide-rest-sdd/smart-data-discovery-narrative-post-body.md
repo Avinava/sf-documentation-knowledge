@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-post-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.213Z
+lastCollected: 2026-04-07T18:36:59.698Z
 estimatedTokens: 167
-keywords: [Smart, Data, Discovery, Narrative, Post, row, Einstein, story]
+keywords: [Smart, Discovery, Narrative, Post, row, Einstein, story]
 ---
-
-# Smart Data Discovery Narrative Post Body
 
 > A single row of narrative data for an Einstein Discovery story.
 

@@ -5,12 +5,10 @@ topic: getpartyexpensestatuslabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.599Z
+lastCollected: 2026-04-07T18:37:34.080Z
 estimatedTokens: 65
 keywords: [GetPartyExpenseStatusLabel, picklist, party, expense, status, entity]
 ---
-
-# GetPartyExpenseStatusLabel
 
 > Returns the picklist values for the party expense status field on
             the party expense entity.

@@ -5,12 +5,10 @@ topic: user-interface-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:04.259Z
+lastCollected: 2026-04-07T18:38:57.038Z
 estimatedTokens: 867
-keywords: [User, Considerations, plan, canvas, app, Salesforce, mobile, take, account, device, screen, sizes, Size, Logo, Image]
+keywords: [User, Considerations, plan, canvas, app, Salesforce, mobile, take, account, device, screen, sizes, Size, Logo, Image, Icon, Thumbnail]
 ---
-
-# User Interface Considerations
 
 > If you plan to use your canvas app in the Salesforce mobile
      app, take into account mobile device screen sizes. For more information, see Canvas in the Salesforce Mobile App.

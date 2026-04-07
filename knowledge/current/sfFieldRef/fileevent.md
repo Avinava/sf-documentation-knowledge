@@ -5,12 +5,10 @@ topic: fileevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.808Z
+lastCollected: 2026-04-07T18:39:40.470Z
 estimatedTokens: 493
-keywords: [FileEvent, Tracks, user, downloads, document, includes, events, performed, files, API, version, 57.0, later]
+keywords: [FileEvent, Tracks, user, downloads, document, includes, events, performed, files, API, 57.0]
 ---
-
-# FileEvent
 
 > Tracks when a user downloads a document. This information includes
          events performed on files. This object is available in API version 57.0 and

@@ -5,12 +5,10 @@ topic: setgatewayauthcodegatewayauthcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.981Z
+lastCollected: 2026-04-07T18:36:04.198Z
 estimatedTokens: 118
 keywords: [setGatewayAuthCode, gatewayAuthCode, authorization, code, gateway, Maximum, length, characters]
 ---
-
-# setGatewayAuthCode(gatewayAuthCode)
 
 > Sets the authorization code that the gateway returned. Maximum
       length of 64 characters.

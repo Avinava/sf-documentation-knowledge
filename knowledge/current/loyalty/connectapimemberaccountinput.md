@@ -5,12 +5,10 @@ topic: connectapimemberaccountinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.760Z
+lastCollected: 2026-04-07T18:38:06.976Z
 estimatedTokens: 192
-keywords: [ConnectApi.MemberAccountInput, Input, representation, loyalty, member, account]
+keywords: [ConnectApi.MemberAccountInput, loyalty, member, account]
 ---
-
-# ConnectApi.MemberAccountInput
 
 > Input representation of the loyalty member account.
 

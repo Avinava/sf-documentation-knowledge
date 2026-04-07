@@ -5,12 +5,10 @@ topic: model-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.478Z
+lastCollected: 2026-04-07T18:36:58.975Z
 estimatedTokens: 257
 keywords: [Model, Resource, Einstein, Discovery, updates, deletes]
 ---
-
-# Model Resource
 
 > Returns an Einstein Discovery model, updates a model, or deletes a model.
 

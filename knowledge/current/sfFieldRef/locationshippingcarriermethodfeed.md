@@ -5,12 +5,10 @@ topic: locationshippingcarriermethodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:52.563Z
+lastCollected: 2026-04-07T18:39:47.040Z
 estimatedTokens: 367
-keywords: [LocationShippingCarrierMethodFeed, Feed, tracking, LocationShippingCarrierMethod]
+keywords: [LocationShippingCarrierMethodFeed, LocationShippingCarrierMethod]
 ---
-
-# LocationShippingCarrierMethodFeed
 
 > Feed tracking for LocationShippingCarrierMethod.
 

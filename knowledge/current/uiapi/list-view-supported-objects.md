@@ -5,12 +5,10 @@ topic: list-view-supported-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.632Z
+lastCollected: 2026-04-07T18:40:10.612Z
 estimatedTokens: 5549
-keywords: [View, Objects, views, support, subset, standard, User, API, supports]
+keywords: [View, views, support, subset, standard, User, API, supports]
 ---
-
-# List View Supported Objects
 
 > List views support a subset of the standard objects that User
       Interface API supports.

@@ -5,12 +5,10 @@ topic: briefcasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:35.855Z
+lastCollected: 2026-04-07T18:38:26.838Z
 estimatedTokens: 1210
-keywords: [BriefcaseDefinition, briefcase, definition, selected, records, users, view, they’re, offline, Salesforce, Service, mobile, app, iOS, Android]
+keywords: [BriefcaseDefinition, briefcase, definition, selected, records, users, view, they’re, offline, Salesforce, Service, mobile, app, iOS, Android, API, 50.0, Packaging, Considerations]
 ---
-
-# BriefcaseDefinition
 
 > Represents a briefcase definition. A briefcase makes selected records
 			available for users to view when they’re offline in the Salesforce Field Service mobile

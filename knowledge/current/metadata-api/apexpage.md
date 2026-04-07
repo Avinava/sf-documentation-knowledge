@@ -5,12 +5,10 @@ topic: apexpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.735Z
+lastCollected: 2026-04-07T18:36:28.274Z
 estimatedTokens: 1003
-keywords: [ApexPage, Visualforce, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition, Wildcard, Support, Manifest]
+keywords: [ApexPage, Visualforce, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ApexPage
 
 > Represents a Visualforce page.
 

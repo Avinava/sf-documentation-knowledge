@@ -5,12 +5,10 @@ topic: termshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.168Z
+lastCollected: 2026-04-07T18:40:03.893Z
 estimatedTokens: 245
 keywords: [TermShare, Sharing, Term]
 ---
-
-# TermShare
 
 > Sharing for Term.
 

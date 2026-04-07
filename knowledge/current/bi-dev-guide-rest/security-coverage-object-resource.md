@@ -5,12 +5,10 @@ topic: security-coverage-object-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.851Z
+lastCollected: 2026-04-07T18:36:56.398Z
 estimatedTokens: 109
 keywords: [Security, Coverage, Resource, particular, API, discover, whether, Analytics, inherit, sharing, settings]
 ---
-
-# Security Coverage Object Resource
 
 > Returns the security coverage for a particular
     object. Use this API to discover whether Analytics can inherit sharing settings from an object.

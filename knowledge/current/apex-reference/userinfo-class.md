@@ -5,13 +5,11 @@ topic: userinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.627Z
+lastCollected: 2026-04-07T18:36:14.939Z
 estimatedTokens: 4193
 namespace: TypeException
-keywords: [UserInfo, preferred, theme, current, user, getCurrentUvid, getDefaultCurrency, Usage, getFirstName, getLanguage, getLastName, getLocale, getName, getOrganizationId, getOrganizationName]
+keywords: [UserInfo, preferred, theme, current, user, getCurrentUvid, getDefaultCurrency, getFirstName, getLanguage, getLastName, getLocale, getName, getOrganizationId, getOrganizationName, getProfileId, getSessionId, getTimeZone, getUiTheme, getUiThemeDisplayed, getUserEmail, getUserId, getUserName, getUserRoleId, getUserType, hasPackageLicense, packageId, isCurrentUserLicensed, isCurrentUserLicensedForPackage, isMultiCurrencyOrganization]
 ---
-
-# UserInfo Class
 
 > Returns the preferred theme for the current user.
 

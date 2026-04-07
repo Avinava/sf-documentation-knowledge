@@ -5,13 +5,11 @@ topic: productspecificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.749Z
+lastCollected: 2026-04-07T18:39:56.289Z
 estimatedTokens: 323
 namespace: NamespacePrefix
-keywords: [ProductSpecificationType, product, specification, provided, user, terminology, unique, industry, associated, record, API, version, 60.0, later]
+keywords: [ProductSpecificationType, product, specification, provided, user, terminology, unique, industry, record, API, 60.0]
 ---
-
-# ProductSpecificationType
 
 > Represents the type of product specification provided by the user to make the
          product terminology unique to an industry. A product specification type is associated with

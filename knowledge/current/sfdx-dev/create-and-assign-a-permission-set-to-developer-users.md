@@ -5,12 +5,10 @@ topic: create-and-assign-a-permission-set-to-developer-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.144Z
+lastCollected: 2026-04-07T18:40:09.094Z
 estimatedTokens: 487
-keywords: [Assign, Permission, Developer, Users, give, full, access, Dev, Hub, org, custom, grants, objects, license, Standard]
+keywords: [Assign, Permission, Developer, Users, give, full, Dev, Hub, org, grants, license, Standard, Permissions, Scratch, Orgs, Unlocked, Packaging, Second-Generation, Managed]
 ---
-
-# Create and Assign a Permission Set to Developer Users
 
 > To give full access to the Dev Hub org, create and assign a custom permission set that
   grants access to required Dev Hub objects. Or if you have the Developer license, assign the

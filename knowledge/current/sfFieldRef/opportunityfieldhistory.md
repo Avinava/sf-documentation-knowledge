@@ -5,12 +5,10 @@ topic: opportunityfieldhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.123Z
+lastCollected: 2026-04-07T18:39:50.545Z
 estimatedTokens: 282
-keywords: [OpportunityFieldHistory, history, changes, opportunity, versions, 13.0, later]
+keywords: [OpportunityFieldHistory, changes, opportunity, versions, 13.0]
 ---
-
-# OpportunityFieldHistory
 
 > Represents the history of changes to the values in the fields of an
       opportunity. This object is available in versions 13.0 and later.

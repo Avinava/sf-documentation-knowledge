@@ -5,12 +5,10 @@ topic: problemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.384Z
+lastCollected: 2026-04-07T18:39:54.946Z
 estimatedTokens: 253
-keywords: [ProblemHistory, History, tracked, Problem]
+keywords: [ProblemHistory, tracked, Problem]
 ---
-
-# ProblemHistory
 
 > History for tracked fields of Problem.
 

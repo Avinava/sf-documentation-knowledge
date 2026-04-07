@@ -5,12 +5,10 @@ topic: missions-user-activity-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.609Z
+lastCollected: 2026-04-07T18:37:14.631Z
 estimatedTokens: 555
 keywords: [Missions, User, Activity, mission, count]
 ---
-
-# Missions User Activity, Update
 
 > Update the mission activity count for a user.
 

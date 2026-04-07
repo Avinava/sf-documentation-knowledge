@@ -5,12 +5,10 @@ topic: encode-with-jwt-signing-secret
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.019Z
+lastCollected: 2026-04-07T18:40:21.300Z
 estimatedTokens: 656
 keywords: [Encode, JWT, Signing, Secret, Journey, Builder, uses, package, containing, activity, key, How, Add, Sample, Items]
 ---
-
-# Encode with JWT Signing Secret
 
 > Journey Builder uses the JWT Signing Secret from the package containing the activity as the default signing key for the JWT.
 

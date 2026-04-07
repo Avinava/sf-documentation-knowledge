@@ -5,12 +5,10 @@ topic: quarterdaysdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.372Z
+lastCollected: 2026-04-07T18:37:00.938Z
 estimatedTokens: 24
 keywords: [quarter_days, date, number, days, quarter, specific, _days]
 ---
-
-# quarter_days(date)
 
 > Returns the number of days in the quarter for a specific date.
 

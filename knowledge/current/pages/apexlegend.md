@@ -5,12 +5,10 @@ topic: apexlegend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.776Z
+lastCollected: 2026-04-07T18:38:49.978Z
 estimatedTokens: 387
-keywords: [apex, legend, chart, component, offers, additional, configuration, options, beyond, defaults, attribute, <apex, chart>, Attributes]
+keywords: [Attributes, apex, legend, chart, offers, additional, configuration, options, beyond, defaults, attribute, <apex, chart>]
 ---
-
-# apex:legend
 
 > Defines a chart legend. This component offers additional configuration options beyond the defaults used by the legend attribute of the <apex:chart> component.
 

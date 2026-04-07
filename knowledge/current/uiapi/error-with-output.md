@@ -5,12 +5,10 @@ topic: error-with-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.648Z
+lastCollected: 2026-04-07T18:40:11.656Z
 estimatedTokens: 277
-keywords: [Error, Output, extra, errors, rare, cases, message, isn't, enough, describe, reason, failure, conflicting, precondition, exists]
+keywords: [Error, extra, errors, rare, cases, message, isn't, enough, describe, reason, failure, conflicting, precondition, exists, result, include, cause, conflict]
 ---
-
-# Error with Output
 
 > Contains extra information about errors. In rare cases, an error message isn't enough to
   describe the reason for a failure. For example, when a conflicting precondition exists, the error

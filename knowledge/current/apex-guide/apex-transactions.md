@@ -5,12 +5,10 @@ topic: apex-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.436Z
+lastCollected: 2026-04-07T18:36:18.664Z
 estimatedTokens: 870
-keywords: [Apex, Transactions, transaction, operations, executed, unit, DML, successfully, error, occurs, operation, entire, rolled, back, data]
+keywords: [Apex, Transactions, transaction, operations, executed, unit, DML, successfully, error, occurs, operation, entire, rolled, back, committed, database, boundary, trigger, anonymous, block, code, Visualforce, Web, service, How, Useful]
 ---
-
-# Apex Transactions
 
 > An Apex transaction represents a set of operations that are executed as a
         single unit. All DML operations in a transaction must complete successfully. If an error

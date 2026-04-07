@@ -5,12 +5,10 @@ topic: environmentalrisk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.017Z
+lastCollected: 2026-04-07T18:38:18.553Z
 estimatedTokens: 1332
-keywords: [EnvironmentalRisk, risk, environmental, resources, organization, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [EnvironmentalRisk, risk, environmental, resources, organization, API, 56.0]
 ---
-
-# EnvironmentalRisk
 
 > Represents information about the risk that the environmental resources create
          for an organization. This object is available in API version 56.0 and later.

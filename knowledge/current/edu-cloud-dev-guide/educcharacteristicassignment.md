@@ -5,12 +5,10 @@ topic: educcharacteristicassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.970Z
+lastCollected: 2026-04-07T18:37:31.049Z
 estimatedTokens: 1304
-keywords: [EducCharacteristicAssignment, assignment, educational, characteristic, student, Assignments, active, academic, interval, year, semester, API, version, 66.0, later]
+keywords: [EducCharacteristicAssignment, assignment, educational, characteristic, student, Assignments, active, academic, interval, year, semester, API, 66.0]
 ---
-
-# EducCharacteristicAssignment
 
 > Represents the assignment of an educational characteristic to a student.
          Assignments are active for an academic interval such as an academic year or semester.

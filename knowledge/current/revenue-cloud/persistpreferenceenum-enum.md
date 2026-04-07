@@ -5,12 +5,10 @@ topic: persistpreferenceenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.816Z
+lastCollected: 2026-04-07T18:35:41.686Z
 estimatedTokens: 134
-keywords: [PersistPreferenceEnum, whether, persist, pricing, changes, sales, transaction, record, API, version, 65.0, later]
+keywords: [PersistPreferenceEnum, whether, persist, pricing, changes, sales, transaction, record, API, 65.0]
 ---
-
-# PersistPreferenceEnum Enum
 
 > Specifies whether to persist pricing changes for each sales transaction record.
     Available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: platformeventchannelmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.935Z
+lastCollected: 2026-04-07T18:36:28.475Z
 estimatedTokens: 1884
-keywords: [PlatformEventChannelMember, entity, selected, Change, Data, Capture, notifications, standard, custom, channel, platform, event, File, Suffix, Directory]
+keywords: [PlatformEventChannelMember, EnrichedField, entity, selected, Change, Capture, notifications, standard, channel, platform, event, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Underscores, Member, Full, Referencing, Members, Channels, Package.xml, Wildcard, Support, Manifest]
 ---
-
-# PlatformEventChannelMember
 
 > Represents an entity selected for Change Data Capture
       notifications on a standard or custom channel, or a platform event selected on a custom

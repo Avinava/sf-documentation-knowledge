@@ -5,12 +5,10 @@ topic: care-plan-task-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.142Z
+lastCollected: 2026-04-07T18:39:02.351Z
 estimatedTokens: 70
-keywords: [Care, Plan, Task, Output, representation, tasks]
+keywords: [Care, Plan, Task, tasks]
 ---
-
-# Care Plan Task List
 
 > Output representation for the list of care plan
   tasks.

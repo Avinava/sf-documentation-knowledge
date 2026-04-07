@@ -5,12 +5,10 @@ topic: e-signature-notification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.009Z
+lastCollected: 2026-04-07T18:37:24.970Z
 estimatedTokens: 143
 keywords: [E-signature, Notification, settings]
 ---
-
-# E-signature Notification
 
 > Get e-signature notification settings.
 

@@ -5,13 +5,11 @@ topic: productattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.724Z
+lastCollected: 2026-04-07T18:39:55.288Z
 estimatedTokens: 333
 namespace: NamespacePrefix
-keywords: [ProductAttributeSet, group, attributes, associated, product, API, version, 50.0, later]
+keywords: [ProductAttributeSet, group, attributes, product, API, 50.0]
 ---
-
-# ProductAttributeSet
 
 > Represents a group of attributes that can be associated with a
          product. This object is available in API version 50.0 and later.

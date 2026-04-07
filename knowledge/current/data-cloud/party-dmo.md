@@ -5,12 +5,10 @@ topic: party-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:09.297Z
+lastCollected: 2026-04-07T18:35:54.334Z
 estimatedTokens: 951
-keywords: [Party, DMO, dealing, Provided, Financial, Services, Cloud, Data, Kit, API, version, later, Category, Primary, Subject]
+keywords: [Category, Relationships, Party, DMO, dealing, Provided, Financial, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Party DMO
 
 > Represents information about who you are dealing with. Provided in the Financial
       Services Cloud Data Kit. This DMO is available in API version 58 and later.

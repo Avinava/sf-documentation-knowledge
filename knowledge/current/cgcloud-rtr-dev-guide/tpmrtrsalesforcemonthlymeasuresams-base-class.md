@@ -5,12 +5,10 @@ topic: tpmrtrsalesforcemonthlymeasuresams-base-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.301Z
+lastCollected: 2026-04-07T18:37:05.023Z
 estimatedTokens: 381
 keywords: [TPM_RTRSalesforceMonthlyMeasures_AMS, Base, second, that's, code-routing, retrieve, Salesforce, REST, endpoint, services, apexrest, RTRSalesforceMonthlyMeasures, TPM, _RTRSalesforceMonthlyMeasures, _AMS, classes]
 ---
-
-# TPM_RTRSalesforceMonthlyMeasures_AMS (Base Class)
 
 > TPM_RTRSalesforceMonthlyMeasures_AMS is the second
     base class that's used for code-routing and is required to retrieve the information by a

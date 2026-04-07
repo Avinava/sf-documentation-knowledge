@@ -6,13 +6,10 @@ topic: get-apiv1universalidlookupentitynamedatasourceidcdatasourceobjectidcsourc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.932Z
+lastCollected: 2026-04-07T18:35:51.780Z
 estimatedTokens: 420
-keywords: [api, universalIdLookup, entity_name, DataSourceId__c, DataSourceObjectId__c, SourceRecordId__c, Retrieve, Individual, records, data, sources, runner’s, profile, comes, three]
+keywords: [Examples, api, universalIdLookup, entity_name, DataSourceId__c, DataSourceObjectId__c, SourceRecordId__c, Retrieve, Individual, records, sources, runner’s, profile, comes, three, retail, sales, loyalty, program, mobile, identity, unified, record, runner, created, assigned, entity, _name, DataSourceId, DataSourceObjectId, SourceRecordId]
 ---
-
-# GET
-  /api/v1/universalIdLookup/{entity_name}/{DataSourceId__c}/{DataSourceObjectId__c}/{SourceRecordId__c}
 
 > Retrieve all the Individual records of an individual from all the data sources. For
   example, if a runner’s profile information comes from three data sources retail sales, loyalty

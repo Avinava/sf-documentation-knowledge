@@ -5,12 +5,10 @@ topic: indicatorperformanceperiodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.933Z
+lastCollected: 2026-04-07T18:39:44.531Z
 estimatedTokens: 366
-keywords: [IndicatorPerformancePeriodFeed, Feed, tracking, IndicatorPerformancePeriod]
+keywords: [IndicatorPerformancePeriodFeed, IndicatorPerformancePeriod]
 ---
-
-# IndicatorPerformancePeriodFeed
 
 > Feed tracking for IndicatorPerformancePeriod.
 

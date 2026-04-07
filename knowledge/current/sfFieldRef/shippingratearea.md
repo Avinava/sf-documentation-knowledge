@@ -5,12 +5,10 @@ topic: shippingratearea
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.528Z
+lastCollected: 2026-04-07T18:40:02.222Z
 estimatedTokens: 313
-keywords: [ShippingRateArea, designated, geographical, area, that’s, shipping, API, version, 59.0, later]
+keywords: [ShippingRateArea, designated, geographical, area, that’s, shipping, API, 59.0]
 ---
-
-# ShippingRateArea
 
 > A designated geographical area that’s available for shipping. This
       object is available in API version 59.0 and later.

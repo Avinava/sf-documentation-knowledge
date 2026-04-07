@@ -5,12 +5,10 @@ topic: update-plan-benefit-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.382Z
+lastCollected: 2026-04-07T18:37:51.411Z
 estimatedTokens: 119
-keywords: [Plan, Benefit, Input, Insurance, Policy, Coverage, Networks, Benefits]
+keywords: [Plan, Benefit, Insurance, Policy, Coverage, Networks, Benefits]
 ---
-
-# Update Plan Benefit Input
 
 > Update Insurance Policy Coverage Networks and Insurance Policy
             Coverage Benefits by using the ID of an Insurance Policy Coverage.

@@ -5,12 +5,10 @@ topic: getredirectcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.914Z
+lastCollected: 2026-04-07T18:35:59.183Z
 estimatedTokens: 508
 keywords: [getRedirectCode, HTTP, redirect, code, getRedirect, PageReference]
 ---
-
-# getRedirectCode()
 
 > Returns the HTTP redirect code used when getRedirect() is set to true
       for the PageReference object.

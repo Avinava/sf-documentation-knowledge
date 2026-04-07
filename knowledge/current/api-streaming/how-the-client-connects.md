@@ -5,12 +5,10 @@ topic: how-the-client-connects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.305Z
+lastCollected: 2026-04-07T18:36:51.636Z
 estimatedTokens: 1454
-keywords: [How, Client, Connects, Streaming, API, uses, HTTP, 1.1, request-response, model, Bayeux, protocol, CometD, implementation, multiple]
+keywords: [How, Client, Connects, Streaming, API, uses, HTTP, 1.1, request-response, model, Bayeux, protocol, CometD, implementation, multiple, stages]
 ---
-
-# How the Client Connects
 
 > Streaming API uses the HTTP/1.1 request-response model and the Bayeux protocol (CometD
     implementation). A Bayeux client connects to Streaming API in multiple stages.

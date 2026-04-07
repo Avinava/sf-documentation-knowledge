@@ -5,12 +5,10 @@ topic: orderitemtaxlineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.710Z
+lastCollected: 2026-04-07T18:39:51.116Z
 estimatedTokens: 273
-keywords: [OrderItemTaxLineItemHistory, History, tracked, OrderItemTaxLineItem]
+keywords: [OrderItemTaxLineItemHistory, tracked, OrderItemTaxLineItem]
 ---
-
-# OrderItemTaxLineItemHistory
 
 > History for tracked fields of OrderItemTaxLineItem.
 

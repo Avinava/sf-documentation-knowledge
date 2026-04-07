@@ -5,12 +5,10 @@ topic: set-a-translated-article-version-to-incomplete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.622Z
+lastCollected: 2026-04-07T18:37:53.916Z
 estimatedTokens: 112
-keywords: [Translated, Article, Version, Incomplete]
+keywords: [Translated, Article, Incomplete]
 ---
-
-# Set a Translated Article Version to Incomplete
 
 > Sets a translated article version to incomplete.
 

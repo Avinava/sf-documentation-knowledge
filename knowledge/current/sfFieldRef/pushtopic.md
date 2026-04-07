@@ -5,12 +5,10 @@ topic: pushtopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.129Z
+lastCollected: 2026-04-07T18:39:57.733Z
 estimatedTokens: 417
-keywords: [PushTopic, query, basis, notifying, Streaming, API, clients, changes, records, org, version, 21.0, later]
+keywords: [PushTopic, query, basis, notifying, Streaming, API, clients, changes, records, org, 21.0]
 ---
-
-# PushTopic
 
 > Represents a query that is the basis for notifying Streaming API clients of changes to records in an org. This object is available in API version 21.0 and later.
 

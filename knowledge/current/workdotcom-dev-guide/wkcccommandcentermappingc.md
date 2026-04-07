@@ -5,12 +5,10 @@ topic: wkcccommandcentermappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.998Z
+lastCollected: 2026-04-07T18:40:13.996Z
 estimatedTokens: 1175
-keywords: [wkcc__CommandCenterMapping__c, Stores, mappings, tabs, Command, Center, Settings, app, access, Launcher, orgs, Workplace, installed, wkcc, _CommandCenterMapping]
+keywords: [wkcc__CommandCenterMapping__c, Stores, mappings, tabs, Command, Center, Settings, app, Launcher, orgs, Workplace, installed, wkcc, _CommandCenterMapping]
 ---
-
-# wkcc__CommandCenterMapping__c
 
 > Stores the mappings for all tabs in the Command Center Settings app, which you
       access from App Launcher. This object is available in orgs that have Workplace Command

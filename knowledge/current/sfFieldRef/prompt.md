@@ -5,13 +5,11 @@ topic: prompt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.798Z
+lastCollected: 2026-04-07T18:39:57.384Z
 estimatedTokens: 299
 namespace: NamespacePrefix
-keywords: [Prompt, record, in-app, guidance, walkthrough, API, version, 46.0, later]
+keywords: [Prompt, record, in-app, guidance, walkthrough, API, 46.0]
 ---
-
-# Prompt
 
 > Represents record details about an in-app guidance prompt or
          walkthrough. Available in API version 46.0 and later.

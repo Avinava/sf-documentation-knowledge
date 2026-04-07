@@ -5,12 +5,10 @@ topic: expression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.654Z
+lastCollected: 2026-04-07T18:38:07.887Z
 estimatedTokens: 144
-keywords: [Expression, Output, representation]
+keywords: [Expression]
 ---
-
-# Expression
 
 > Output representation of the expression.
 

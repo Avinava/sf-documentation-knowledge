@@ -5,12 +5,10 @@ topic: workreward
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:53.107Z
+lastCollected: 2026-04-07T18:38:44.938Z
 estimatedTokens: 926
-keywords: [WorkReward, store, reward, codes, tied, Fund, Funds, least, record, Calls, Special, Access, Rules, Additional, Considerations]
+keywords: [WorkReward, store, reward, codes, tied, Fund, Funds, least, record, Additional, Considerations]
 ---
-
-# WorkReward
 
 > Used to store reward codes tied to a Reward Fund. Reward Funds must
 			have at least one WorkReward

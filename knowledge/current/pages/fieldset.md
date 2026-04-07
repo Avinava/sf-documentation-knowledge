@@ -5,12 +5,10 @@ topic: fieldset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.314Z
+lastCollected: 2026-04-07T18:38:52.624Z
 estimatedTokens: 76
-keywords: [$FieldSet, access, defined, organization, Usage]
+keywords: [$FieldSet, defined, organization]
 ---
-
-# $FieldSet
 
 > Provides access to a field set defined in your organization.
 

@@ -5,12 +5,10 @@ topic: workreportlineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.226Z
+lastCollected: 2026-04-07T18:40:07.142Z
 estimatedTokens: 268
-keywords: [WorkReportLineItemHistory, History, tracked, WorkReportLineItem]
+keywords: [WorkReportLineItemHistory, tracked, WorkReportLineItem]
 ---
-
-# WorkReportLineItemHistory
 
 > History for tracked fields of WorkReportLineItem.
 

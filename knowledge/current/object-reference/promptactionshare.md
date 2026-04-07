@@ -5,12 +5,10 @@ topic: promptactionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.723Z
+lastCollected: 2026-04-07T18:38:39.235Z
 estimatedTokens: 730
-keywords: [PromptActionShare, sharing, entry, prompt, action, record, API, version, 46.0, later, Calls, Special, Access, Rules]
+keywords: [PromptActionShare, sharing, entry, prompt, action, record, API, 46.0]
 ---
-
-# PromptActionShare
 
 > Represents a sharing entry on a prompt action record. Available
       in API version 46.0 and later.

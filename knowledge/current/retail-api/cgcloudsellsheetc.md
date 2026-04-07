@@ -5,12 +5,10 @@ topic: cgcloudsellsheetc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.542Z
+lastCollected: 2026-04-07T18:39:14.934Z
 estimatedTokens: 1278
-keywords: [cgcloud__Sell_Sheet__c, attributes, associated, sell, sheet, Sales, folder, API, version, 54.0, later, cgcloud, _Sell, _Sheet, Calls]
+keywords: [cgcloud__Sell_Sheet__c, attributes, sell, sheet, Sales, folder, API, 54.0, cgcloud, _Sell, _Sheet]
 ---
-
-# cgcloud__Sell_Sheet__c
 
 > This object contains the attributes that are associated with the sell
          sheet to be used on the Sales folder. This object is available in API version 54.0 and

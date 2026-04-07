@@ -5,12 +5,10 @@ topic: product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:00.673Z
+lastCollected: 2026-04-07T18:39:55.235Z
 estimatedTokens: 688
 keywords: [Product2, product, company, sells]
 ---
-
-# Product2
 
 > Represents a product that your company sells.
 

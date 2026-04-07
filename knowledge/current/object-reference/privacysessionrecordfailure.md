@@ -5,12 +5,10 @@ topic: privacysessionrecordfailure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.054Z
+lastCollected: 2026-04-07T18:38:38.424Z
 estimatedTokens: 643
-keywords: [PrivacySessionRecordFailure, error, messages, encountered, policy, job, executions, Privacy, Center, API, version, 59.0, later, Calls, Special]
+keywords: [PrivacySessionRecordFailure, error, messages, encountered, policy, job, executions, Privacy, Center, API, 59.0]
 ---
-
-# PrivacySessionRecordFailure
 
 > Represents error messages encountered during policy job executions in Privacy
          Center. This object is available in API version 59.0 and later.

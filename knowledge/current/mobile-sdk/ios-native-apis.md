@@ -5,12 +5,10 @@ topic: ios-native-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.365Z
+lastCollected: 2026-04-07T18:40:26.669Z
 estimatedTokens: 307
-keywords: [iOS, Native, APIs, classes, Mobile, SDK, work, multi-user, support, app, few, simple, calls, handles, any]
+keywords: [iOS, Native, APIs, classes, Mobile, SDK, work, multi-user, support, app, few, simple, handles, any, cached, memory, option, customizing, user, switching, activity]
 ---
-
-# iOS Native APIs
 
 > Native classes in Mobile SDK for iOS do most of the work for multi-user support. Your app
 makes a few simple calls and handles any data cached in memory. You

@@ -5,12 +5,10 @@ topic: supporting-ipados-in-apps-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.953Z
+lastCollected: 2026-04-07T18:40:26.265Z
 estimatedTokens: 560
-keywords: [Supporting, iPadOS, Apps, Mobile, SDK, 9.0, enhances, iPad, customer, experience, Landscape, mode, now, functions, expected]
+keywords: [Supporting, iPadOS, Apps, Mobile, SDK, 9.0, enhances, iPad, customer, experience, Landscape, mode, now, functions, expected, supports, multiple, windows, IDP, AuthHelper, Scene-Enabled]
 ---
-
-# Supporting iPadOS in  Apps Apps
 
 > Mobile SDK 9.0
         enhances the iPad customer experience. Landscape mode now functions as expected, and Mobile SDK now

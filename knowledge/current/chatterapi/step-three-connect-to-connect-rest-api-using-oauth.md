@@ -5,12 +5,10 @@ topic: step-three-connect-to-connect-rest-api-using-oauth
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:37.414Z
+lastCollected: 2026-04-07T18:37:24.423Z
 estimatedTokens: 500
-keywords: [Step, Three, Connect, REST, API, OAuth, Salesforce, access, token, Pass, requests]
+keywords: [Step, Three, Connect, REST, API, OAuth, Salesforce, token, Pass, requests]
 ---
-
-# Step Three: Connect to Connect REST API Using OAuth
 
 > Use OAuth to connect to Salesforce and get an access token. Pass the access token in
           requests to Connect REST API.

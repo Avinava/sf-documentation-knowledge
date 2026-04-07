@@ -5,12 +5,10 @@ topic: create-a-contact-flow-with-contact-lens
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.654Z
+lastCollected: 2026-04-07T18:40:12.632Z
 estimatedTokens: 243
-keywords: [Contact, Flow, Lens, help, started, packaged, sample, flows, already, Prerequisites]
+keywords: [Prerequisites, Contact, Flow, Lens, help, started, packaged, sample, flows, already]
 ---
-
-# Create a Contact Flow with Contact Lens
 
 > To help you get started, use the packaged sample contact flows
    already set up with Contact Lens.

@@ -5,12 +5,10 @@ topic: voicecallqualityfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.162Z
+lastCollected: 2026-04-07T18:40:06.056Z
 estimatedTokens: 311
 keywords: [VoiceCallQualityFeedback, feedback, Sales, Dialer, user, quality, VoiceCall]
 ---
-
-# VoiceCallQualityFeedback
 
 > Represents feedback given by a Sales Dialer user about the quality of
 			a VoiceCall

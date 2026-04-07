@@ -5,12 +5,10 @@ topic: canceling-a-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.953Z
+lastCollected: 2026-04-07T18:37:27.988Z
 estimatedTokens: 618
 keywords: [Canceling, Deployment, cancel, that’s, progress, queued, <sf, cancelDeploy>, task]
 ---
-
-# Canceling a Deployment
 
 > You can cancel a deployment that’s in progress or queued with the <sf:cancelDeploy> task.
 

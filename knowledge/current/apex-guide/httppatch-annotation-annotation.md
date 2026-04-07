@@ -5,12 +5,10 @@ topic: httppatch-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.085Z
+lastCollected: 2026-04-07T18:36:16.308Z
 estimatedTokens: 80
 keywords: [HttpPatch, Annotation, @HttpPatch, level, expose, Apex, REST, resource, HTTP, PATCH, sent, updates]
 ---
-
-# HttpPatch Annotation Annotation
 
 > The @HttpPatch annotation is used at the method level
    and enables you to expose an Apex method as a REST resource. This method is called when an HTTP

@@ -5,12 +5,10 @@ topic: get-chat-settings-from-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.972Z
+lastCollected: 2026-04-07T18:40:28.103Z
 estimatedTokens: 872
-keywords: [Chat, Settings, Org, you’ve, console, supply, app, developer, four, endpoint, hostname, organization, deployment, button, org’s]
+keywords: [Chat, Settings, Org, you’ve, console, supply, app, developer, four, endpoint, hostname, organization, deployment, button, org’s, setup]
 ---
-
-# Get Chat Settings from Your Org
 
 > After you’ve set up chat in the console, supply your app developer with four values:
         the chat endpoint hostname, the organization ID, the deployment ID, and the button ID. You

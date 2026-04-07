@@ -5,12 +5,10 @@ topic: logineventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:52.676Z
+lastCollected: 2026-04-07T18:39:47.149Z
 estimatedTokens: 697
-keywords: [LoginEventStream, tracks, login, activity, users, log, Salesforce, API, version, 46.0, later]
+keywords: [LoginEventStream, tracks, login, activity, users, log, Salesforce, API, 46.0]
 ---
-
-# LoginEventStream
 
 > LoginEventStream tracks login activity of users who log in to
 			Salesforce. This object is available in API version 46.0 and later.

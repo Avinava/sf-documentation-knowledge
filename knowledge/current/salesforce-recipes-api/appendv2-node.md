@@ -5,12 +5,10 @@ topic: appendv2-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.263Z
+lastCollected: 2026-04-07T18:39:18.950Z
 estimatedTokens: 114
-keywords: [AppendV2, Node, version, append, recipe]
+keywords: [AppendV2, Node, append, recipe]
 ---
-
-# AppendV2 Node
 
 > A version 2 append node in a recipe.
 

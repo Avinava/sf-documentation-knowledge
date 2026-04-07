@@ -5,12 +5,10 @@ topic: respondwhen
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.320Z
+lastCollected: 2026-04-07T18:40:18.532Z
 estimatedTokens: 237
 keywords: [RespondWhen, via, email, HTTP, post, asynchronous, call, send, separate, URLs, different, actions, necessary]
 ---
-
-# RespondWhen
 
 > The RespondWhen object sends a response via email or HTTP post for an asynchronous call. You can send to separate URLs for different actions as necessary.
 

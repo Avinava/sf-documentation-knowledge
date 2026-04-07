@@ -5,12 +5,10 @@ topic: lightningurieventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.378Z
+lastCollected: 2026-04-07T18:38:59.266Z
 estimatedTokens: 2809
-keywords: [LightningUriEventStream, Detects, user, creates, accesses, updates, deletes, record, Lightning, Experience, API, version, 46.0, later, Calls]
+keywords: [LightningUriEventStream, Detects, user, creates, accesses, updates, deletes, record, Lightning, Experience, API, 46.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# LightningUriEventStream
 
 > Detects when a user creates, accesses, updates, or deletes a record
          in Lightning Experience only. This object is available in API version 46.0 and

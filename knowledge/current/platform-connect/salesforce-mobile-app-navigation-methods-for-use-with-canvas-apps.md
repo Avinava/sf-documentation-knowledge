@@ -5,12 +5,10 @@ topic: salesforce-mobile-app-navigation-methods-for-use-with-canvas-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.416Z
+lastCollected: 2026-04-07T18:38:57.214Z
 estimatedTokens: 2139
 keywords: [Salesforce, Mobile, App, Navigation, Canvas, Apps, framework, includes, smoothly, integrate, needing, Visualforce]
 ---
-
-# Salesforce Mobile App Navigation Methods for Use with Canvas Apps
 
 > The Canvas framework includes methods that you can
       use to smoothly integrate navigation between a canvas app and the Salesforce mobile app,

@@ -5,12 +5,10 @@ topic: applicationformproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:48.522Z
+lastCollected: 2026-04-07T18:37:36.277Z
 estimatedTokens: 1611
-keywords: [ApplicationFormProduct, junction, application, product, requested, applicant, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [ApplicationFormProduct, junction, application, product, requested, applicant, API, 59.0]
 ---
-
-# ApplicationFormProduct
 
 > Represents a junction between the application and the product requested by an
          applicant. This object is available in API version 59.0 and later.

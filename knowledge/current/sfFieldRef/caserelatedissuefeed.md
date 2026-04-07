@@ -5,12 +5,10 @@ topic: caserelatedissuefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.019Z
+lastCollected: 2026-04-07T18:39:33.439Z
 estimatedTokens: 361
-keywords: [CaseRelatedIssueFeed, Feed, tracking, CaseRelatedIssue]
+keywords: [CaseRelatedIssueFeed, CaseRelatedIssue]
 ---
-
-# CaseRelatedIssueFeed
 
 > Feed tracking for CaseRelatedIssue.
 

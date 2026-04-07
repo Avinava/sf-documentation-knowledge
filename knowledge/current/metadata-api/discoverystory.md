@@ -5,12 +5,10 @@ topic: discoverystory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.622Z
+lastCollected: 2026-04-07T18:36:25.071Z
 estimatedTokens: 833
-keywords: [DiscoveryStory, metadata, associated, story, Einstein, Discovery, Declarative, File, Suffix, Directory, Location, Version, DiscoveryStoryOutcome, Sample, Definitions]
+keywords: [DiscoveryStory, DiscoveryStoryOutcome, metadata, story, Einstein, Discovery, Declarative, File, Suffix, Directory, Location, Sample, Definitions, Wildcard, Support, Manifest]
 ---
-
-# DiscoveryStory
 
 > Represents the metadata associated with a story used in Einstein
    Discovery.

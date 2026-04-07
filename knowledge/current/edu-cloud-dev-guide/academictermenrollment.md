@@ -5,12 +5,10 @@ topic: academictermenrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.485Z
+lastCollected: 2026-04-07T18:37:30.546Z
 estimatedTokens: 1654
-keywords: [AcademicTermEnrollment, student's, enrollment, Academic, Term, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [AcademicTermEnrollment, student's, enrollment, Academic, Term, API, 57.0]
 ---
-
-# AcademicTermEnrollment
 
 > Represents information about a student's enrollment in an Academic Term.
       This object is available in API version 57.0 and later.

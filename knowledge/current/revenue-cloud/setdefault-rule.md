@@ -5,12 +5,10 @@ topic: setdefault-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.649Z
+lastCollected: 2026-04-07T18:35:42.534Z
 estimatedTokens: 415
-keywords: [SetDefault, Rule, component, selection, attribute, quantity, similar, require]
+keywords: [SetDefault, Rule, selection, attribute, quantity, similar, require]
 ---
-
-# SetDefault Rule
 
 > The setDefault rule allows component selection with attribute values and quantity,
     similar to the require rule.

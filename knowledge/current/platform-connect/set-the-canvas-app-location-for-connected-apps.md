@@ -5,12 +5,10 @@ topic: set-the-canvas-app-location-for-connected-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.784Z
+lastCollected: 2026-04-07T18:38:57.595Z
 estimatedTokens: 1072
 keywords: [Canvas, App, Location, Connected, Apps, Specify, display, user, Salesforce, via]
 ---
-
-# Set the Canvas App Location for Connected Apps
 
 > Specify where your canvas app can display to a user in Salesforce via a connected
   app.

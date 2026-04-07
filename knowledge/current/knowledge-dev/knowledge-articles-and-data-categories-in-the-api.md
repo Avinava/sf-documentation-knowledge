@@ -5,12 +5,10 @@ topic: knowledge-articles-and-data-categories-in-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:04.673Z
+lastCollected: 2026-04-07T18:37:53.964Z
 estimatedTokens: 2299
-keywords: [Knowledge, Articles, Data, Categories, API, working, basics]
+keywords: [Knowledge, Articles, Categories, API, working, basics]
 ---
-
-# Knowledge Articles and Data Categories in the API
 
 > Before working with the Knowledge API, learn the basics about knowledge articles and
   data categories.

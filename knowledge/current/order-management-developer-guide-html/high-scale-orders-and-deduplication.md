@@ -5,12 +5,10 @@ topic: high-scale-orders-and-deduplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.595Z
+lastCollected: 2026-04-07T18:38:45.395Z
 estimatedTokens: 628
 keywords: [High-Scale, Orders, Deduplication, uses, Pending, Order, Summaries, REST, API, summary, graphs, Entities, included, aren't, subject]
 ---
-
-# High-Scale Orders and Deduplication
 
 > High-Scale Orders uses the Pending Order Summaries REST API to create summaries from
     order summary graphs. Entities included in the request parameter aren't subject to deduplication

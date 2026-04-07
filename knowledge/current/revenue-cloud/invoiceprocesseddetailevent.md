@@ -5,12 +5,10 @@ topic: invoiceprocesseddetailevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.540Z
+lastCollected: 2026-04-07T18:35:49.484Z
 estimatedTokens: 433
-keywords: [InvoiceProcessedDetailEvent, notification, customers, regarding, results, attempt, invoice, billing, schedules, part, commerce, invoices, platform, event, share]
+keywords: [InvoiceProcessedDetailEvent, notification, customers, regarding, results, attempt, invoice, billing, schedules, part, commerce, invoices, platform, event, share, grouping, key, InvoiceProcessedDetailEventplatform, action, grouped, parent, API, 62.0, Subscribers, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# InvoiceProcessedDetailEvent
 
 > Represents the notification to customers regarding the results of an
          attempt to create an invoice from billing schedules as part of /commerce/billing/invoices request. The InvoiceProcessedDetailEvent platform event contains the results of an attempt

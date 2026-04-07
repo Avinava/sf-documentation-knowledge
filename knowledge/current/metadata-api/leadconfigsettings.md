@@ -5,12 +5,10 @@ topic: leadconfigsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.616Z
+lastCollected: 2026-04-07T18:36:27.063Z
 estimatedTokens: 837
-keywords: [LeadConfigSettings, configuration, settings, Leads, control, how, they, converted, actions, extends, Metadata, inherits, fullName, File, Suffix]
+keywords: [LeadConfigSettings, configuration, settings, Leads, control, how, they, converted, actions, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest]
 ---
-
-# LeadConfigSettings
 
 > Represents configuration settings for Leads that control how they are converted and
 		displayed, and what actions are available. This type extends the Metadata metadata type and inherits its fullName field.

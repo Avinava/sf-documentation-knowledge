@@ -5,12 +5,10 @@ topic: automatedactioncondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.630Z
+lastCollected: 2026-04-07T18:38:26.597Z
 estimatedTokens: 464
-keywords: [AutomatedActionCondition, logical, operator, evaluating, conditions, automated, action, API, version, 57.0, later, Calls]
+keywords: [AutomatedActionCondition, logical, operator, evaluating, conditions, automated, action, API, 57.0]
 ---
-
-# AutomatedActionCondition
 
 > Represents the logical operator details for evaluating conditions in an
          automated action. This object is available in API version 57.0 and later.

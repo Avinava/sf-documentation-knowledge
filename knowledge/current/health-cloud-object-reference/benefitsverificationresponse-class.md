@@ -5,13 +5,11 @@ topic: benefitsverificationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.803Z
+lastCollected: 2026-04-07T18:37:39.749Z
 estimatedTokens: 1226
 namespace: HealthCloudExt
 keywords: [BenefitsVerificationResponse, verification, benefits, benefitPeriodEndDate, benefitPeriodStartDate, benefitsItem, benefitsRequestId, errorResponse, groupNumber, isCoverageActive, jsonResponse, memberNumber]
 ---
-
-# BenefitsVerificationResponse Class
 
 > Response for verification of benefits.
 

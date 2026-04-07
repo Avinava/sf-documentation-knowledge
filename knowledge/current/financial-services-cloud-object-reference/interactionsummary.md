@@ -5,12 +5,10 @@ topic: interactionsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.252Z
+lastCollected: 2026-04-07T18:37:38.076Z
 estimatedTokens: 1270
-keywords: [InteractionSummary, summary, interaction, including, confidentiality, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [InteractionSummary, summary, interaction, including, confidentiality, API, 51.0]
 ---
-
-# InteractionSummary
 
 > Represents the summary of an interaction, including confidentiality
 			information. This object is available in API version 51.0 and later.

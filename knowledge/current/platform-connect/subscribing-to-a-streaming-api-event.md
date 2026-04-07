@@ -5,12 +5,10 @@ topic: subscribing-to-a-streaming-api-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.244Z
+lastCollected: 2026-04-07T18:38:57.020Z
 estimatedTokens: 568
 keywords: [Subscribing, Streaming, API, Event, code, how, call, subscribe, canvas, app, standard, sfdc.canvas.client.subscribe]
 ---
-
-# Subscribing to a Streaming API Event
 
 > This code example shows how to call the subscribe method so
                 that a canvas app can subscribe to a Streaming API event. When you subscribe to an

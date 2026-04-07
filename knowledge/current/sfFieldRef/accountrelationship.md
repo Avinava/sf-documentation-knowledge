@@ -5,12 +5,10 @@ topic: accountrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.323Z
+lastCollected: 2026-04-07T18:39:24.251Z
 estimatedTokens: 359
-keywords: [AccountRelationship, relationship, two, accounts, API, version, 45.0, later]
+keywords: [AccountRelationship, relationship, two, accounts, API, 45.0]
 ---
-
-# AccountRelationship
 
 > Represents a relationship of a given type between two accounts.
 		This object is available in API version 45.0 and later.

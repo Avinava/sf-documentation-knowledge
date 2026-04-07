@@ -5,12 +5,10 @@ topic: einsteinaisettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.748Z
+lastCollected: 2026-04-07T18:36:25.194Z
 estimatedTokens: 800
-keywords: [EinsteinAISettings, Einstein, settings, including, feedback, integration, Data, PII, masking, trust, features, Parent, Manifest, Access, File]
+keywords: [EinsteinAISettings, Einstein, settings, including, feedback, integration, PII, masking, trust, features, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# EinsteinAISettings
 
 > Represents Einstein AI settings, including AI feedback integration with Data 360 and
 		PII masking for AI trust features.

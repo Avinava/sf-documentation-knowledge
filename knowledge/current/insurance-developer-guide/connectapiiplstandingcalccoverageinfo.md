@@ -5,12 +5,10 @@ topic: connectapiiplstandingcalccoverageinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.481Z
+lastCollected: 2026-04-07T18:37:50.312Z
 estimatedTokens: 155
-keywords: [ConnectApi.IPLStandingCalcCoverageInfo, Output, representation, insurance, policy, limit, standing, calculation]
+keywords: [ConnectApi.IPLStandingCalcCoverageInfo, insurance, policy, limit, standing, calculation]
 ---
-
-# ConnectApi.IPLStandingCalcCoverageInfo
 
 > Output representation for insurance policy limit standing calculation.
 

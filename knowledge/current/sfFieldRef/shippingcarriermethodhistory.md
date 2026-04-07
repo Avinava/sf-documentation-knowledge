@@ -5,12 +5,10 @@ topic: shippingcarriermethodhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:07.491Z
+lastCollected: 2026-04-07T18:40:02.186Z
 estimatedTokens: 271
-keywords: [ShippingCarrierMethodHistory, History, tracked, ShippingCarrierMethod]
+keywords: [ShippingCarrierMethodHistory, tracked, ShippingCarrierMethod]
 ---
-
-# ShippingCarrierMethodHistory
 
 > History for tracked fields of ShippingCarrierMethod.
 

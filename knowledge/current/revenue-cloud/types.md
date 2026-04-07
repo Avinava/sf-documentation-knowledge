@@ -5,12 +5,10 @@ topic: types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.686Z
+lastCollected: 2026-04-07T18:35:42.572Z
 estimatedTokens: 790
-keywords: [Constraint, Modeling, Language, CML, define, represent, entities, objects, model, foundational, building, blocks, encapsulates, relationships, rules]
+keywords: [Constraint, Modeling, Language, CML, define, represent, entities, model, foundational, building, blocks, encapsulates, relationships, entity, Generic, Structure, Basic, Declaration, Variables]
 ---
-
-# Types
 
 > In Constraint Modeling Language (CML), you define types to represent entities or
     objects in the model. Types are the foundational building blocks of CML. A type encapsulates the

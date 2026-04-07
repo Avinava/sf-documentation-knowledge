@@ -5,12 +5,10 @@ topic: serviceappointmentcapacityusagefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.518Z
+lastCollected: 2026-04-07T18:40:01.274Z
 estimatedTokens: 368
-keywords: [ServiceAppointmentCapacityUsageFeed, Feed, tracking, ServiceAppointmentCapacityUsage]
+keywords: [ServiceAppointmentCapacityUsageFeed, ServiceAppointmentCapacityUsage]
 ---
-
-# ServiceAppointmentCapacityUsageFeed
 
 > Feed tracking for ServiceAppointmentCapacityUsage.
 

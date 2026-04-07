@@ -5,12 +5,10 @@ topic: original-denial-medical-director
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.660Z
+lastCollected: 2026-04-07T18:37:56.102Z
 estimatedTokens: 68
 keywords: [Original, Denial, Medical, Director, denied]
 ---
-
-# Original Denial Medical Director
 
 > The name of the medical director who denied the original request.
 

@@ -5,12 +5,10 @@ topic: healthconditionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.831Z
+lastCollected: 2026-04-07T18:39:43.444Z
 estimatedTokens: 250
 keywords: [HealthConditionShare, Sharing, HealthCondition]
 ---
-
-# HealthConditionShare
 
 > Sharing for HealthCondition.
 

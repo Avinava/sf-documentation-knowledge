@@ -5,12 +5,10 @@ topic: get-all-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.584Z
+lastCollected: 2026-04-07T18:35:51.444Z
 estimatedTokens: 190
-keywords: [Jobs, Retrieves, Data, Cloud]
+keywords: [Jobs, Retrieves, Cloud]
 ---
-
-# Get All Jobs
 
 > Retrieves all jobs in Data Cloud.
 

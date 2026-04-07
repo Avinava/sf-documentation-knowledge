@@ -5,13 +5,11 @@ topic: navigationlinkset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.024Z
+lastCollected: 2026-04-07T18:39:49.499Z
 estimatedTokens: 345
 namespace: NamespacePrefix
-keywords: [NavigationLinkSet, navigation, menu, Experience, Cloud, site, consists, items, users, click, parts, API, version, 35.0, later]
+keywords: [NavigationLinkSet, navigation, menu, Experience, Cloud, site, consists, items, users, click, parts, API, 35.0]
 ---
-
-# NavigationLinkSet
 
 > Represents the navigation menu in an Experience Cloud site. A
 			navigation menu consists of items that users can click to go to other parts of the site.

@@ -5,12 +5,10 @@ topic: svccatalogfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:50.212Z
+lastCollected: 2026-04-07T18:38:42.013Z
 estimatedTokens: 735
-keywords: [SvcCatalogFilterCriteria, eligibility, rule, determines, Service, Catalog, user, access, item, API, version, 60.0, later, SOAP, Calls]
+keywords: [SvcCatalogFilterCriteria, eligibility, rule, determines, Service, Catalog, user, item, API, 60.0, SOAP, REST]
 ---
-
-# SvcCatalogFilterCriteria
 
 > Represents an eligibility rule that determines if a Service Catalog user has
          access to a catalog item. This object is available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: personaccountownerpoweruser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.859Z
+lastCollected: 2026-04-07T18:36:28.398Z
 estimatedTokens: 287
-keywords: [PersonAccountOwnerPowerUser, user, own, customer, partner, portal, accounts, Person, account, owner, power, users, large, number, either]
+keywords: [PersonAccountOwnerPowerUser, user, own, customer, partner, portal, accounts, Person, account, owner, power, users, large, number, either, They, can’t, change, their, role, look, parent, reparent, can't, created, deferred, sharing, turned, org, API, 57.0]
 ---
-
-# PersonAccountOwnerPowerUser
 
 > Represents a user who can own more than 50,000 customer or partner portal accounts. Person account owner power users can own a large number of either customer or
       partner users. They can’t change their role, look up to a parent role, or reparent their role.

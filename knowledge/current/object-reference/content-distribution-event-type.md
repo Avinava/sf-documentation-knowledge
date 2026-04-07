@@ -5,12 +5,10 @@ topic: content-distribution-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.110Z
+lastCollected: 2026-04-07T18:38:30.908Z
 estimatedTokens: 788
 keywords: [Content, Distribution, Event, events, contain, distributions, deliveries, users]
 ---
-
-# Content Distribution Event Type
 
 > Content Distribution events contain information about content
          distributions and deliveries to users.

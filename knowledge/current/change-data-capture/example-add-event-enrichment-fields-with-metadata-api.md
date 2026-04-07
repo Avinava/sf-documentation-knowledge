@@ -5,12 +5,10 @@ topic: example-add-event-enrichment-fields-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.467Z
+lastCollected: 2026-04-07T18:37:05.206Z
 estimatedTokens: 484
 keywords: [Add, Event, Enrichment, Metadata, API, PlatformEventChannelMember, specify, channel, member]
 ---
-
-# Example: Add Event Enrichment Fields with Metadata API
 
 > To add event enrichment fields, use the PlatformEventChannelMember metadata type, and
         specify the fields, the channel, and channel member.

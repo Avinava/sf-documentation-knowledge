@@ -5,12 +5,10 @@ topic: billing-fields-on-collectionplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.200Z
+lastCollected: 2026-04-07T18:35:42.052Z
 estimatedTokens: 711
-keywords: [Billing, CollectionPlanItem, Standard, extend, represent, invoice, balance, API, version, 64.0, later, Calls, Special, Access, Rules]
+keywords: [Billing, CollectionPlanItem, Standard, extend, represent, invoice, balance, API, 64.0]
 ---
-
-# Billing Fields on CollectionPlanItem
 
 > Standard fields extend the CollectionPlanItem object for use in Billing to
          represent information about the invoice balance. This object is available in API

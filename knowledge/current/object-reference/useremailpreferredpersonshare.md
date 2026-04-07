@@ -5,12 +5,10 @@ topic: useremailpreferredpersonshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.831Z
+lastCollected: 2026-04-07T18:38:43.600Z
 estimatedTokens: 640
-keywords: [UserEmailPreferredPersonShare, sharing, entry, UserEmailPreferredPerson, customizable, records.This, API, version, 44.0, later, Calls]
+keywords: [UserEmailPreferredPersonShare, sharing, entry, UserEmailPreferredPerson, customizable, records.This, API, 44.0]
 ---
-
-# UserEmailPreferredPersonShare
 
 > Represents a sharing entry on a UserEmailPreferredPerson object.
          Sharing is not customizable for UserEmailPreferredPerson records.This object is

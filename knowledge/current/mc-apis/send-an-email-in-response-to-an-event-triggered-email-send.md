@@ -5,12 +5,10 @@ topic: send-an-email-in-response-to-an-event-triggered-email-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.954Z
+lastCollected: 2026-04-07T18:40:20.173Z
 estimatedTokens: 380
-keywords: [Send, Email, Event, Triggered, scenario, how, message, definition, ensure, running, Once, trigger, Diagram, Objects, Referenced]
+keywords: [Diagram, Send, Email, Event, Triggered, scenario, how, message, definition, ensure, running, Once, trigger, Referenced, Items]
 ---
-
-# Send an Email in Response to an Event (Triggered Email Send)
 
 > This scenario describes how to send a triggered email message using an existing triggered send definition. Note that you must first create your triggered send definition and ensure that the triggered send definition is running before you can use it to send a triggered email message. Once the trigger
 

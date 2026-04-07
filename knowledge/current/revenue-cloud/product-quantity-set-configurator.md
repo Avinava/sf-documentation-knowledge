@@ -5,12 +5,10 @@ topic: product-quantity-set-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.774Z
+lastCollected: 2026-04-07T18:35:46.758Z
 estimatedTokens: 298
-keywords: [Product, Quantity, Configurator, Output, representation]
+keywords: [Product, Quantity, Configurator]
 ---
-
-# Product Quantity Set Configurator
 
 > Output representation of the request details to set product quantity.
 

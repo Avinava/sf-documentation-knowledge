@@ -5,12 +5,10 @@ topic: get-work-type-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.377Z
+lastCollected: 2026-04-07T18:39:21.194Z
 estimatedTokens: 204
-keywords: [Work, Groups, group, general, appointment, category, topic, home, loan, investment, Show, users, groupson, landing, app, retrieving, Salesforce, Query, WorkTypeGroup, retrieve]
+keywords: [Work, Groups, group, general, appointment, category, topic, home, loan, investment, Show, users, groupson, landing, app, retrieving, Salesforce, instance, select, booking, appointments, Query, WorkTypeGroup, retrieve, authentication, show, user, Display]
 ---
-
-# Get Work Type Groups
 
 > Display the work type groups for the appointment.
 

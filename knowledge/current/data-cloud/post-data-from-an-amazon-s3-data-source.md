@@ -5,12 +5,10 @@ topic: post-data-from-an-amazon-s3-data-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.710Z
+lastCollected: 2026-04-07T18:35:51.570Z
 estimatedTokens: 261
-keywords: [Post, Data, Amazon, Source, stream]
+keywords: [Post, Amazon, Source, stream]
 ---
-
-# Post Data from an Amazon S3 Data Source
 
 > Use the POST method to stream data from an Amazon S3 data source.
 

@@ -5,12 +5,10 @@ topic: forecastingitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.956Z
+lastCollected: 2026-04-07T18:38:33.016Z
 estimatedTokens: 3154
-keywords: [ForecastingItem, read-only, individual, forecast, amounts, Users, their, perspectives, roles, include, forecasting, revenue, AmountWithoutAdjustments, AmountWithoutManagerAdjustment, ForecastAmount]
+keywords: [ForecastingItem, read-only, individual, forecast, amounts, Users, their, perspectives, roles, include, forecasting, revenue, AmountWithoutAdjustments, AmountWithoutManagerAdjustment, ForecastAmount, OwnerOnlyAmount, quantity, QuantityWithoutAdjustments, QuantityWithoutManagerAdjustment, ForecastQuantity, OwnerOnlyQuantity, API, 26.0]
 ---
-
-# ForecastingItem
 
 > This object is read-only used for individual forecast amounts. Users
    see amounts based on their perspectives and forecast roles. The amounts users see include

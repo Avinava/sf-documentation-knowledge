@@ -5,12 +5,10 @@ topic: connectapifindrouteswithfewestsplitsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.960Z
+lastCollected: 2026-04-07T18:36:09.354Z
 estimatedTokens: 265
 keywords: [inventory, location, combinations, fulfill, order, exceeding, maximum, number, shipments]
 ---
-
-# ConnectApi.FindRoutesWithFewestSplitsOutputRepresentation
 
 > A list of inventory location combinations that can fulfill an order
       without exceeding the maximum number of shipments.

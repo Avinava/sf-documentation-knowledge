@@ -5,12 +5,10 @@ topic: execute-qualification-procedure-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.962Z
+lastCollected: 2026-04-07T18:35:39.745Z
 estimatedTokens: 705
-keywords: [Execute, Qualification, Procedure, Action, status, products, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Execute, Qualification, Procedure, Action, status, products, REST, HTTP]
 ---
-
-# Execute Qualification Procedure Action
 
 > Execute a qualification procedure, which returns the qualification
             status for the specified products.

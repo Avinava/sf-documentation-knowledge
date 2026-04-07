@@ -5,12 +5,10 @@ topic: review-soap-envelopes-to-retrieve-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.719Z
+lastCollected: 2026-04-07T18:40:18.925Z
 estimatedTokens: 3219
-keywords: [Review, SOAP, Envelopes, Retrieve, envelope, XML, elements, included, message, present, preferred, coding, language, Error, Sample]
+keywords: [Review, SOAP, Envelopes, Retrieve, envelope, XML, included, message, present, preferred, coding, language, Error, Sample, Java, Axis2, Code, NET, Items]
 ---
-
-# Review SOAP Envelopes to Retrieve Information
 
 > The SOAP envelope represents (in XML format) all of the elements included within a message. You can use this SOAP envelope to review the information present in the message and use your preferred coding language to retrieve information from that envelope.
 

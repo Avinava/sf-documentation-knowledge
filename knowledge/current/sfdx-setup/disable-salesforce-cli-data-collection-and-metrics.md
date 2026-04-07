@@ -5,12 +5,10 @@ topic: disable-salesforce-cli-data-collection-and-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.243Z
+lastCollected: 2026-04-07T18:40:09.189Z
 estimatedTokens: 197
-keywords: [Disable, Salesforce, CLI, Data, Collection, Metrics, collects, usage, telemetry, help, improve, collect, anonymous, plugins, commands]
+keywords: [Disable, Salesforce, CLI, Collection, Metrics, collects, telemetry, help, improve, collect, anonymous, plugins, commands, flags, were, run, performance, error]
 ---
-
-# Disable Salesforce CLI Data Collection and Metrics
 
 > Salesforce collects usage data and metrics (telemetry) to help improve Salesforce CLI.
   We collect anonymous information related to the use of Salesforce CLI and plugins, such as which

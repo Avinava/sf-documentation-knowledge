@@ -5,12 +5,10 @@ topic: assetcancelerrordtlevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.825Z
+lastCollected: 2026-04-07T18:38:58.680Z
 estimatedTokens: 229
-keywords: [AssetCancelErrorDtlEvent, errors, occurred, processing, asset-management, assets, collection, actions, initiate-cancellation, included, AssetCancelInitiatedEvent, message, can't, subscribe, directly]
+keywords: [AssetCancelErrorDtlEvent, errors, occurred, processing, asset-management, assets, collection, actions, initiate-cancellation, included, AssetCancelInitiatedEvent, message, can't, subscribe, directly, API, versions, 55.0, 56.0]
 ---
-
-# AssetCancelErrorDtlEvent
 
 > Contains information about errors that occurred during the processing of an
 				/asset-management/assets/collection/actions/initiate-cancellation

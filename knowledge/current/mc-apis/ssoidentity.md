@@ -5,12 +5,10 @@ topic: ssoidentity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.206Z
+lastCollected: 2026-04-07T18:40:20.445Z
 estimatedTokens: 406
 keywords: [SsoIdentity, sign-on, identity, logging, account]
 ---
-
-# SsoIdentity
 
 > The SsoIdentity object contains information on the single sign-on identity to use when logging into an account.
 

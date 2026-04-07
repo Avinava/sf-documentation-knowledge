@@ -5,12 +5,10 @@ topic: delete-a-second-generation-managed-package-or-package-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.916Z
+lastCollected: 2026-04-07T18:38:56.558Z
 estimatedTokens: 310
-keywords: [Second-Generation, Managed, Package, Version, commands, packages, versions, longer]
+keywords: [Second-Generation, Managed, Package, commands, packages, versions, longer]
 ---
-
-# Delete a Second-Generation Managed Package or Package Version
 
 > Use the sf package version
     delete and sf package delete commands to delete

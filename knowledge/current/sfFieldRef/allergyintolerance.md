@@ -5,12 +5,10 @@ topic: allergyintolerance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.638Z
+lastCollected: 2026-04-07T18:39:25.593Z
 estimatedTokens: 327
-keywords: [AllergyIntolerance, clinical, assessment, patient’s, allergy, intolerance, API, version, 51.0, later]
+keywords: [AllergyIntolerance, clinical, assessment, patient’s, allergy, intolerance, API, 51.0]
 ---
-
-# AllergyIntolerance
 
 > Represents a clinical assessment of a patient’s allergy or intolerance.
     This object is available in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: inventory-actions-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.817Z
+lastCollected: 2026-04-07T18:36:52.237Z
 estimatedTokens: 132
-keywords: [Inventory, Actions, Result, Output, representation, results, vehicle, transfer, action, search]
+keywords: [Inventory, Actions, Result, results, vehicle, transfer, action, search]
 ---
-
-# Inventory Actions Result
 
 > Output representation of the results for the vehicle inventory
       transfer action search.

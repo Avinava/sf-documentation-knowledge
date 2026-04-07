@@ -5,12 +5,10 @@ topic: use-page-context-in-the-utility-bar-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:03.462Z
+lastCollected: 2026-04-07T18:36:49.586Z
 estimatedTokens: 369
-keywords: [Context, Utility, Bar, API, Lightning, console, apps, standard, navigation, utilities, respond, current, web, component, CurrentPageReference]
+keywords: [Context, Utility, Bar, API, Lightning, console, apps, standard, navigation, utilities, respond, current, web, CurrentPageReference, wire, adapter, Aura, specify, implements="force, hasRecordId, recordId, record, user, viewing, LWC]
 ---
-
-# Use Page Context in the Utility Bar API
 
 > In both Lightning console apps and standard navigation apps, utilities can respond to
         the context of the current page. For a Lightning web component, use the CurrentPageReference wire adapter. For an Aura

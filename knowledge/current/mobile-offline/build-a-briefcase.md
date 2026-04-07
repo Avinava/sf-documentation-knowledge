@@ -5,12 +5,10 @@ topic: build-a-briefcase
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.721Z
+lastCollected: 2026-04-07T18:38:15.202Z
 estimatedTokens: 319
-keywords: [Build, Briefcase, Builder, how, choose, records, offline, users, It's, think, they, access, App, uses, depends]
+keywords: [Build, Briefcase, Builder, how, choose, records, offline, users, It's, think, they, App, uses, depends, priming]
 ---
-
-# Build a Briefcase
 
 > Briefcase Builder is how you choose which records are available offline for your users.
     It's important to think about your users and which records they need access to while offline.

@@ -5,12 +5,10 @@ topic: scorecardshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.254Z
+lastCollected: 2026-04-07T18:40:01.014Z
 estimatedTokens: 247
 keywords: [ScorecardShare, Sharing, Scorecard]
 ---
-
-# ScorecardShare
 
 > Sharing for Scorecard.
 

@@ -5,12 +5,10 @@ topic: promotionloyaltyptnrprodthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.596Z
+lastCollected: 2026-04-07T18:39:57.183Z
 estimatedTokens: 279
-keywords: [PromotionLoyaltyPtnrProdtHistory, History, tracked, PromotionLoyaltyPtnrProdt]
+keywords: [PromotionLoyaltyPtnrProdtHistory, tracked, PromotionLoyaltyPtnrProdt]
 ---
-
-# PromotionLoyaltyPtnrProdtHistory
 
 > History for tracked fields of PromotionLoyaltyPtnrProdt.
 

@@ -5,12 +5,10 @@ topic: engagement-signal-compound-metric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.362Z
+lastCollected: 2026-04-07T18:37:08.178Z
 estimatedTokens: 196
 keywords: [Engagement, Signal, Compound, Metric, creating]
 ---
-
-# Engagement Signal Compound Metric
 
 > Response body for an Engagement Signal Compound Metric.
 

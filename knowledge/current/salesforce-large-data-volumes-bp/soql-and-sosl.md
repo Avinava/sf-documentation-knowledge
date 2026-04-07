@@ -5,12 +5,10 @@ topic: soql-and-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.149Z
+lastCollected: 2026-04-07T18:39:17.828Z
 estimatedTokens: 725
 keywords: [SOQL, SOSL, filters, specific, terms, queries]
 ---
-
-# SOQL and SOSL
 
 > Use filters and specific terms in your queries.
 

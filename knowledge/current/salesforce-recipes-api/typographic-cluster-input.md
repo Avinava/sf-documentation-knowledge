@@ -5,12 +5,10 @@ topic: typographic-cluster-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.131Z
+lastCollected: 2026-04-07T18:39:18.833Z
 estimatedTokens: 155
-keywords: [Typographic, Cluster, Input, configuration, algorithm]
+keywords: [Typographic, Cluster, configuration, algorithm]
 ---
-
-# Typographic Cluster Input
 
 > The configuration for a typographic cluster algorithm.
 

@@ -5,12 +5,10 @@ topic: generate-account-statement
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.014Z
+lastCollected: 2026-04-07T18:35:39.794Z
 estimatedTokens: 706
-keywords: [Generate, Account, Statement, Generates, comprehensive, transaction, history, balance, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Generate, Account, Statement, Generates, comprehensive, transaction, balance, REST, HTTP]
 ---
-
-# Generate Account Statement
 
 > Generates a comprehensive account statement for a specified account
             with transaction history and balance information.

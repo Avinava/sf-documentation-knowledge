@@ -5,12 +5,10 @@ topic: triggering-csv-exports
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.387Z
+lastCollected: 2026-04-07T18:39:11.917Z
 estimatedTokens: 335
 keywords: [Triggering, CSV, Exports, API, trigger, simultaneously, generated, asynchronously, Sample]
 ---
-
-# Triggering CSV Exports
 
 > Use the Triggering CSV Exports API to trigger CSV exports simultaneously. The CSV exports
     are generated asynchronously.

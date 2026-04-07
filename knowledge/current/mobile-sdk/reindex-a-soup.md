@@ -5,12 +5,10 @@ topic: reindex-a-soup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.836Z
+lastCollected: 2026-04-07T18:40:27.061Z
 estimatedTokens: 242
-keywords: [Reindex, Soup, reindexing, previously, altered, data, later, want, sure, elements, properly, indexed, alterSoup, reindexSoup, perform]
+keywords: [Reindex, Soup, reindexing, previously, altered, want, sure, properly, indexed, alterSoup, reindexSoup, perform, better, conversion, creation, JSON1, index, specs, spec, Hybrid, Apps, Android, iOS]
 ---
-
-# Reindex a Soup
 
 > Use reindexing if you previously altered a soup without
   reindexing the data, but later you want to make sure all elements in the soup are properly

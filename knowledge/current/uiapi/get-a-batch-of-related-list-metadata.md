@@ -5,12 +5,10 @@ topic: get-a-batch-of-related-list-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.424Z
+lastCollected: 2026-04-07T18:40:11.417Z
 estimatedTokens: 296
 keywords: [Batch, Metadata, layout]
 ---
-
-# Get a Batch of Related List Metadata
 
 > Returns metadata for a batch of related lists in a page
             layout.

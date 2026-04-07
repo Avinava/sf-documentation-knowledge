@@ -5,12 +5,10 @@ topic: community-template-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.705Z
+lastCollected: 2026-04-07T18:37:17.775Z
 estimatedTokens: 90
 keywords: [Community, Template, Collection, Experience, Builder, templates]
 ---
-
-# Community Template Collection
 
 > A list of Experience Builder templates.
 

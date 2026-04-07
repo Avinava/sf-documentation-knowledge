@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.145Z
+lastCollected: 2026-04-07T18:40:27.362Z
 estimatedTokens: 126
-keywords: [Resources, API, version, including, resource, URI, iOS, Android]
+keywords: [Resources, Android, API, including, resource, URI, iOS]
 ---
-
-# Resources
 
 > Gets available resources for the specified API version, including resource name and
         URI.

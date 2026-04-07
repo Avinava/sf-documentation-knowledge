@@ -5,12 +5,10 @@ topic: error-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.017Z
+lastCollected: 2026-04-07T18:36:25.501Z
 estimatedTokens: 642
-keywords: [Error, Handling, Metadata, API, calls, client, application, identify, resolve, runtime, errors]
+keywords: [Error, Handling, Metadata, API, client, application, identify, resolve, runtime, errors]
 ---
-
-# Error Handling
 
 > Metadata API calls return error information that your client application
   can use to identify and resolve runtime errors.

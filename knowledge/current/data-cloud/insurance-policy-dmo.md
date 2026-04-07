@@ -5,12 +5,10 @@ topic: insurance-policy-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.823Z
+lastCollected: 2026-04-07T18:35:53.833Z
 estimatedTokens: 418
-keywords: [Insurance, Policy, DMO, Provided, Financial, Services, Cloud, Data, Kit, API, version, later, Category, Primary, Subject]
+keywords: [Category, Relationships, Insurance, Policy, DMO, Provided, Financial, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Insurance Policy DMO
 
 > Represents an insurance policy. Provided in the Financial Services Cloud Data Kit.
       This DMO is available in API version 58 and later.

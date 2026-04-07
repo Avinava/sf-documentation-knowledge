@@ -5,12 +5,10 @@ topic: advacctforecastadjperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.185Z
+lastCollected: 2026-04-07T18:38:13.440Z
 estimatedTokens: 333
-keywords: [AdvAcctForecastAdjPeriod, adjustment, period, advanced, account, forecast, API, version, 53.0, later, Calls]
+keywords: [AdvAcctForecastAdjPeriod, adjustment, period, advanced, account, forecast, API, 53.0]
 ---
-
-# AdvAcctForecastAdjPeriod
 
 > Represents details about the adjustment period of the advanced account
          forecast values. This object is available in API version 53.0 and later.

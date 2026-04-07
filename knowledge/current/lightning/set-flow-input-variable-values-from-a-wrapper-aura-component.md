@@ -5,12 +5,10 @@ topic: set-flow-input-variable-values-from-a-wrapper-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.314Z
+lastCollected: 2026-04-07T18:38:03.329Z
 estimatedTokens: 525
-keywords: [Flow, Input, Variable, Wrapper, Aura, Component, embed, custom, give, context, initializing, variables, component's, controller, maps]
+keywords: [Flow, Variable, Wrapper, Aura, embed, give, context, initializing, variables, component's, controller, maps, pass, startFlow]
 ---
-
-# Set Flow Input Variable Values from a Wrapper Aura Component
 
 > When you embed a flow in a custom Aura component, give the flow more context by
                 initializing its variables. In the component's controller, create a list of maps,

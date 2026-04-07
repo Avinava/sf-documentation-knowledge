@@ -5,12 +5,10 @@ topic: forecasting-ancestors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.394Z
+lastCollected: 2026-04-07T18:37:19.539Z
 estimatedTokens: 118
 keywords: [Forecasting, Ancestors, forecast, managers, territories]
 ---
-
-# Forecasting Ancestors
 
 > A list of forecast managers or territories.
 

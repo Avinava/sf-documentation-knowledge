@@ -5,12 +5,10 @@ topic: mfgprogramcpntfrcstfactfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.452Z
+lastCollected: 2026-04-07T18:39:48.927Z
 estimatedTokens: 302
-keywords: [MfgProgramCpntFrcstFactFeed, Feed, tracking, MfgProgramCpntFrcstFact]
+keywords: [MfgProgramCpntFrcstFactFeed, MfgProgramCpntFrcstFact]
 ---
-
-# MfgProgramCpntFrcstFactFeed
 
 > Feed tracking for MfgProgramCpntFrcstFact.
 

@@ -5,12 +5,10 @@ topic: mobileconnectrefreshlistactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.751Z
+lastCollected: 2026-04-07T18:40:17.935Z
 estimatedTokens: 403
-keywords: [MobileConnectRefreshListActivity, activity, refresh, associated, send, MobileConnect]
+keywords: [MobileConnectRefreshListActivity, activity, refresh, send, MobileConnect]
 ---
-
-# MobileConnectRefreshListActivity
 
 > The MobileConnectRefreshListActivity object defines an activity used to refresh a list associated with a send in MobileConnect.
 

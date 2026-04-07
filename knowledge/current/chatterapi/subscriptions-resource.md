@@ -5,12 +5,10 @@ topic: subscriptions-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.871Z
+lastCollected: 2026-04-07T18:37:15.941Z
 estimatedTokens: 212
 keywords: [Subscriptions, Resource, subscription, unfollow, record, topic]
 ---
-
-# Subscriptions Resource
 
 > Information about the specified
 subscription. Also used to delete a subscription, for example, to

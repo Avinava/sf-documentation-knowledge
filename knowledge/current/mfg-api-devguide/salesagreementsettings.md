@@ -5,12 +5,10 @@ topic: salesagreementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.826Z
+lastCollected: 2026-04-07T18:38:13.153Z
 estimatedTokens: 1920
-keywords: [SalesAgreementSettings, settings, control, display, agreement, terms, metrics, sales, agreements, calculation, actual, quantity, products, approval, File, API]
+keywords: [SalesAgreementSettings, AdvAcctFrcstDisplayGroup, AdvAcctFrcstDplyGroupItem, AdvAcctForecastMeasureDef, ObjectMapping, ObjectMappingField, settings, control, display, agreement, terms, metrics, sales, agreements, calculation, actual, quantity, products, approval, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 57.0, SOAP, REST, HTTP]
 ---
-
-# SalesAgreementSettings
 
 > Represents settings that control the
       display of agreement terms metrics in sales agreements and the calculation of the actual

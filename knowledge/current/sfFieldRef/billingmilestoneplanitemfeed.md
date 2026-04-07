@@ -5,12 +5,10 @@ topic: billingmilestoneplanitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.416Z
+lastCollected: 2026-04-07T18:39:29.562Z
 estimatedTokens: 393
-keywords: [BillingMilestonePlanItemFeed, Feed, tracking, BillingMilestonePlanItem]
+keywords: [BillingMilestonePlanItemFeed, BillingMilestonePlanItem]
 ---
-
-# BillingMilestonePlanItemFeed
 
 > Feed tracking for BillingMilestonePlanItem.
 

@@ -5,12 +5,10 @@ topic: connectapierroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.444Z
+lastCollected: 2026-04-07T18:37:50.281Z
 estimatedTokens: 127
-keywords: [ConnectApi.ErrorOutputRepresentation, Output, representation, error, encountered, processing]
+keywords: [ConnectApi.ErrorOutputRepresentation, error, encountered, processing]
 ---
-
-# ConnectApi.ErrorOutputRepresentation
 
 > Output representation details of the error encountered while processing the
     request.

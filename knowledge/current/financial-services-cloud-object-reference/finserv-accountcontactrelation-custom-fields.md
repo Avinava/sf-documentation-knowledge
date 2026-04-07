@@ -5,12 +5,10 @@ topic: finserv-accountcontactrelation-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.372Z
+lastCollected: 2026-04-07T18:37:36.103Z
 estimatedTokens: 953
-keywords: [FinServ, AccountContactRelation, Custom, relationship, individual, specifically, contact, part, household, account, member, standard, Shared, Contacts, feature]
+keywords: [FinServ, AccountContactRelation, relationship, individual, specifically, contact, part, household, account, member, standard, Shared, Contacts, feature, extend, Financial, Services, Cloud]
 ---
-
-# FinServ AccountContactRelation Custom Fields
 
 > Represents the relationship between an individual (specifically the
             contact part of the individual) and the household (account) that the individual is a

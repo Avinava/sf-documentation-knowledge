@@ -5,12 +5,10 @@ topic: html-comments-and-ie-conditional-comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.231Z
+lastCollected: 2026-04-07T18:38:51.469Z
 estimatedTokens: 439
-keywords: [HTML, Comments, Conditional, Visualforce, removes, XML, rendering, processing, their, contents, Internet, Explorer, however, won’t, removed]
+keywords: [HTML, Comments, Conditional, Visualforce, removes, XML, rendering, processing, their, contents, Internet, Explorer, however, won’t, removed, allowing, include, IE-specific, resources, meta, tags]
 ---
-
-# HTML Comments and IE Conditional Comments
 
 > Visualforce removes most HTML and
         XML comments from the page before rendering, without processing their contents. Internet

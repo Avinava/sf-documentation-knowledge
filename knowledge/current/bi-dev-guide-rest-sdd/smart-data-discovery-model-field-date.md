@@ -5,12 +5,10 @@ topic: smart-data-discovery-model-field-date
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.169Z
+lastCollected: 2026-04-07T18:36:59.660Z
 estimatedTokens: 133
-keywords: [Smart, Data, Discovery, Model, Date, Einstein]
+keywords: [Smart, Discovery, Model, Date, Einstein]
 ---
-
-# Smart Data Discovery Model Field Date
 
 > An Einstein Discovery date model field.
 

@@ -5,12 +5,10 @@ topic: pricebookentryadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.072Z
+lastCollected: 2026-04-07T18:39:54.627Z
 estimatedTokens: 277
 keywords: [PricebookEntryAdjustment, Read-only, junction, created, associate, price, adjustment, schedule, book, entry]
 ---
-
-# PricebookEntryAdjustment
 
 > Read-only junction object created when you associate a price adjustment
       schedule with a price book entry.

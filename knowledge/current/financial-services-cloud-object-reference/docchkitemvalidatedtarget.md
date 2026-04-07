@@ -5,12 +5,10 @@ topic: docchkitemvalidatedtarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.305Z
+lastCollected: 2026-04-07T18:37:37.079Z
 estimatedTokens: 1134
-keywords: [DocChkItemValidatedTarget, document, checklist, item, target, against, validated, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [DocChkItemValidatedTarget, document, checklist, item, target, against, validated, API, 59.0]
 ---
-
-# DocChkItemValidatedTarget
 
 > Represents the details of the document checklist item and the target object
          against which the document checklist item was validated.  This object is available in

@@ -5,12 +5,10 @@ topic: indexrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.660Z
+lastCollected: 2026-04-07T18:35:47.688Z
 estimatedTokens: 186
-keywords: [IndexRate, Standard, extend, Salesforce, Pricing, represent, rate, API, version, 65.0, later, Calls]
+keywords: [IndexRate, Standard, extend, Salesforce, Pricing, represent, rate, API, 65.0]
 ---
-
-# IndexRate
 
 > Standard fields extend the IndexRate object for use in Salesforce Pricing to
          represent information for a given rate. This object is available in API version 65.0 and

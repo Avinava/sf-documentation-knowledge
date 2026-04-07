@@ -5,12 +5,10 @@ topic: smart-data-discovery-filter-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.102Z
+lastCollected: 2026-04-07T18:36:59.591Z
 estimatedTokens: 75
-keywords: [Smart, Data, Discovery, Filter, record, conditions]
+keywords: [Smart, Discovery, Filter, record, conditions]
 ---
-
-# Smart Data Discovery Filter List
 
 > A list of record filter conditions.
 

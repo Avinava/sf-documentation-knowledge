@@ -5,12 +5,10 @@ topic: target-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.256Z
+lastCollected: 2026-04-07T18:37:23.370Z
 estimatedTokens: 63
 keywords: [Target, Collection, personalization, targets]
 ---
-
-# Target Collection
 
 > List of personalization targets.
 

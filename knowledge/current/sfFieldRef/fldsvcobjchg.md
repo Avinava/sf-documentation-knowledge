@@ -5,12 +5,10 @@ topic: fldsvcobjchg
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.152Z
+lastCollected: 2026-04-07T18:39:40.752Z
 estimatedTokens: 389
-keywords: [FldSvcObjChg, change, made, service, appointment’s, tracked, API, version, 63.0, later]
+keywords: [FldSvcObjChg, change, made, service, appointment’s, tracked, API, 63.0]
 ---
-
-# FldSvcObjChg
 
 > Represents a change made to one of a service appointment’s tracked fields.
        This object is available in API version 63.0 and later.

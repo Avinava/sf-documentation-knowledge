@@ -5,12 +5,10 @@ topic: adquotelinetargetexpression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.008Z
+lastCollected: 2026-04-07T18:38:12.305Z
 estimatedTokens: 789
-keywords: [AdQuoteLineTargetExpression, expression, decides, targeting, criteria, quote, line, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [AdQuoteLineTargetExpression, expression, decides, targeting, criteria, quote, line, API, 62.0]
 ---
-
-# AdQuoteLineTargetExpression
 
 > Represents the expression that decides the targeting criteria for an
          ad quote line. This object is available in API version 62.0 and later.

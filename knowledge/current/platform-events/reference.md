@@ -5,13 +5,11 @@ topic: reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.475Z
+lastCollected: 2026-04-07T18:38:58.332Z
 estimatedTokens: 418
 namespace: System
 keywords: [documentation, platform, events, covers, API, Apex, limits, error, codes, standard]
 ---
-
-# Reference
 
 > The reference documentation for platform events covers an API object, Apex methods,
     limits, error codes, and standard platform events.

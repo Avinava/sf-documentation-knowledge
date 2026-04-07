@@ -5,12 +5,10 @@ topic: insurancepolicyassetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.611Z
+lastCollected: 2026-04-07T18:39:45.169Z
 estimatedTokens: 363
-keywords: [InsurancePolicyAssetFeed, Feed, tracking, InsurancePolicyAsset]
+keywords: [InsurancePolicyAssetFeed, InsurancePolicyAsset]
 ---
-
-# InsurancePolicyAssetFeed
 
 > Feed tracking for InsurancePolicyAsset.
 

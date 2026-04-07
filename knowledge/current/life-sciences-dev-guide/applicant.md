@@ -5,12 +5,10 @@ topic: applicant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.160Z
+lastCollected: 2026-04-07T18:37:57.694Z
 estimatedTokens: 1362
-keywords: [Applicant, Specify, care, program, enrollee, represented, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [Applicant, Specify, care, program, enrollee, represented, API, 59.0]
 ---
-
-# Applicant
 
 > Specify the care program enrollee represented as an applicant. This
       object is available in API version 59.0 and later.

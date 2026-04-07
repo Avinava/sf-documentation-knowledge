@@ -5,12 +5,10 @@ topic: pushupgradecustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.824Z
+lastCollected: 2026-04-07T18:38:39.359Z
 estimatedTokens: 380
-keywords: [PushUpgradeCustomization, Customized, push, upgrades, allow, package, subscriber, block, their, org, developers, control, subscribers, opt, upgrade]
+keywords: [PushUpgradeCustomization, Customized, push, upgrades, allow, package, subscriber, block, their, org, developers, control, subscribers, opt, upgrade, customization, maps, specific, API, 60.0]
 ---
-
-# PushUpgradeCustomization
 
 > Customized push upgrades allow a package subscriber to block push upgrades to
          their org. Package developers control which subscribers can opt into customized push

@@ -5,12 +5,10 @@ topic: soql-with-fieldhistoryarchive
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.297Z
+lastCollected: 2026-04-07T18:37:33.706Z
 estimatedTokens: 432
 keywords: [SOQL, FieldHistoryArchive, subset, commands, query, Examples, Allowed, Queries]
 ---
-
-# SOQL with FieldHistoryArchive
 
 > You can use a subset of SOQL commands to query FieldHistoryArchive.
 

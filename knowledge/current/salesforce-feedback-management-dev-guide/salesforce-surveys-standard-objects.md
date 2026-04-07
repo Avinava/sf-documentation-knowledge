@@ -5,12 +5,10 @@ topic: salesforce-surveys-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.579Z
+lastCollected: 2026-04-07T18:39:17.224Z
 estimatedTokens: 1055
-keywords: [Salesforce, Surveys, Standard, Objects, Feedback, Management, SFM, access, suite, Setup, tabs, work, core, features]
+keywords: [Salesforce, Surveys, Standard, Feedback, Management, SFM, suite, Setup, tabs, work, core, features]
 ---
-
-# Salesforce Surveys Standard Objects
 
 > Salesforce Feedback Management (SFM) provides you access to a
       suite of standard objects that you can find in Setup and as tabs in Salesforce. Use the

@@ -5,12 +5,10 @@ topic: connectapieinsteinprompttemplatemaskcontentrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.451Z
+lastCollected: 2026-04-07T18:36:08.886Z
 estimatedTokens: 150
-keywords: [Generated, masked, data, masking, prompt, template]
+keywords: [Generated, masked, masking, prompt, template]
 ---
-
-# ConnectApi.​EinsteinPrompt​TemplateMask​Content​Representation
 
 > Generated response with masked data and masking information for a prompt
     template.

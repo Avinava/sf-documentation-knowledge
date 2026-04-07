@@ -5,12 +5,10 @@ topic: insurance-member-rating-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.339Z
+lastCollected: 2026-04-07T18:37:52.512Z
 estimatedTokens: 122
-keywords: [Insurance, Member, Rating, Output, representation, individual, member's, results]
+keywords: [Insurance, Member, Rating, individual, member's, results]
 ---
-
-# Insurance Member Rating Details
 
 > Output representation of an individual member's rating results.
 

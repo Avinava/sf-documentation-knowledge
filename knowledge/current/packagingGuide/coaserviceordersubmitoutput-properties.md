@@ -5,12 +5,10 @@ topic: coaserviceordersubmitoutput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.814Z
+lastCollected: 2026-04-07T18:38:45.630Z
 estimatedTokens: 177
 keywords: [COA_ServiceOrderSubmitOutput, COA__ServiceOrderSubmitOutput, COA, _ServiceOrderSubmitOutput]
 ---
-
-# COA_ServiceOrderSubmitOutput Properties
 
 > The following are properties for COA__ServiceOrderSubmitOutput.
 

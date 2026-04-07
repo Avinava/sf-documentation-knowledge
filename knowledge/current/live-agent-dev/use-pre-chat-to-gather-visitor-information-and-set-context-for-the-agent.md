@@ -6,13 +6,10 @@ topic: use-pre-chat-to-gather-visitor-information-and-set-context-for-the-agent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.042Z
+lastCollected: 2026-04-07T18:38:06.290Z
 estimatedTokens: 553
 keywords: [Pre-Chat, Gather, Visitor, Context, Agent, forms, collect, visitors, customize, their, experience]
 ---
-
-# Use Pre-Chat to Gather Visitor Information and Set Context for the
-      Agent
 
 > Use pre-chat forms in to collect information from visitors and customize their pre-chat
   experience.

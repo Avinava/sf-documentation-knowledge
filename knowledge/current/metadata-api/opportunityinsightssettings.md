@@ -5,12 +5,10 @@ topic: opportunityinsightssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.619Z
+lastCollected: 2026-04-07T18:36:28.153Z
 estimatedTokens: 698
-keywords: [OpportunityInsightsSettings, org’s, Einstein, Opportunity, Insights, settings, setting, features, give, relevant, updates, opportunities, File, Suffix, Directory]
+keywords: [OpportunityInsightsSettings, org’s, Einstein, Opportunity, Insights, settings, setting, features, give, relevant, updates, opportunities, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# OpportunityInsightsSettings
 
 > Represents an org’s Einstein Opportunity Insights
 			settings. This setting controls features that give you relevant updates about your

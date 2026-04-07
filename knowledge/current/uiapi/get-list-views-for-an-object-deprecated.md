@@ -5,12 +5,10 @@ topic: get-list-views-for-an-object-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.086Z
+lastCollected: 2026-04-07T18:40:11.073Z
 estimatedTokens: 442
-keywords: [Views, Deprecated, collection, associated]
+keywords: [Views, Deprecated, collection]
 ---
-
-# Get List Views for an Object (Deprecated)
 
 > Get a collection of list views associated with an
         object.

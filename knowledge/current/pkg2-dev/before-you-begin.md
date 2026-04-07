@@ -5,12 +5,10 @@ topic: before-you-begin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.201Z
+lastCollected: 2026-04-07T18:38:54.604Z
 estimatedTokens: 1310
 keywords: [Begin, prerequisites, App, Analytics, recipes]
 ---
-
-# Before You Begin
 
 > Complete these prerequisites before you create App Analytics recipes.
 

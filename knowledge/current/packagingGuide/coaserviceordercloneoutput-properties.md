@@ -5,12 +5,10 @@ topic: coaserviceordercloneoutput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.713Z
+lastCollected: 2026-04-07T18:38:45.505Z
 estimatedTokens: 232
 keywords: [COA_ServiceOrderCloneOutput, COA, _ServiceOrderCloneOutput]
 ---
-
-# COA_ServiceOrderCloneOutput Properties
 
 > The following are properties for COA__ServiceOrderClone.COA__ServiceOrderCloneOutput.
 

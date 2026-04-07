@@ -5,12 +5,10 @@ topic: bsgrelationshipfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.069Z
+lastCollected: 2026-04-07T18:39:30.222Z
 estimatedTokens: 388
-keywords: [BsgRelationshipFeed, Feed, tracking, BsgRelationship]
+keywords: [BsgRelationshipFeed, BsgRelationship]
 ---
-
-# BsgRelationshipFeed
 
 > Feed tracking for BsgRelationship.
 

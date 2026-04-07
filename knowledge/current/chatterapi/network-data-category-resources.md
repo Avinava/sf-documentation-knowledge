@@ -5,12 +5,10 @@ topic: network-data-category-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.275Z
+lastCollected: 2026-04-07T18:37:13.219Z
 estimatedTokens: 386
-keywords: [Network, Data, Category, Resources, tree, articles, catalog, items, groups]
+keywords: [Network, Category, Resources, tree, articles, catalog, items, groups]
 ---
-
-# Network Data Category Resources
 
 > Get or update the network data category tree. Get articles for a network data
       category. Get catalog items for a network data category. Get category groups.

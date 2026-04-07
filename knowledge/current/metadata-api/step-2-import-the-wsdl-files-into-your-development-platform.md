@@ -6,13 +6,10 @@ topic: step-2-import-the-wsdl-files-into-your-development-platform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.336Z
+lastCollected: 2026-04-07T18:36:28.830Z
 estimatedTokens: 448
-keywords: [Step, Import, WSDL, Files, Development, Platform, Once, environment, generate, necessary, objects, building, client, Web, service]
+keywords: [Step, Import, WSDL, Files, Development, Platform, Once, environment, generate, necessary, building, client, Web, service, applications, sample, instructions, WSC, platforms, Java, Environments]
 ---
-
-# Step 2: Import the WSDL Files Into Your
-Development Platform
 
 > Once you have the WSDL files, import them into your development
 platform so that your development environment can generate the necessary

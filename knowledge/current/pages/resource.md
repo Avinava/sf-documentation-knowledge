@@ -5,12 +5,10 @@ topic: resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.394Z
+lastCollected: 2026-04-07T18:38:52.704Z
 estimatedTokens: 320
-keywords: [$Resource, merge, referencing, resource, Visualforce, URLFOR, functions, particular, file, archive, Usage, Examples]
+keywords: [Examples, $Resource, merge, referencing, resource, Visualforce, URLFOR, functions, particular, file, archive]
 ---
-
-# $Resource
 
 > A global merge field type to use when referencing an existing static resource by name in
   a Visualforce page. You can also use resource merge fields in URLFOR functions to reference a particular file in a static resource

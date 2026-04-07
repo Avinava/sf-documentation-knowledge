@@ -5,12 +5,10 @@ topic: post-interactionv1interactionscontactexitstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.689Z
+lastCollected: 2026-04-07T18:40:15.805Z
 estimatedTokens: 512
-keywords: [POST, interaction, interactions, contactexit, status, remove, contact, journey, versions, **Overview**, Usage]
+keywords: [POST, interaction, interactions, contactexit, status, remove, contact, journey, versions, **Overview**]
 ---
-
-# POST /interaction/v1/interactions/contactexit/status
 
 > Returns the status of a request to remove a contact from a journey or from one or more versions of a journey.
 

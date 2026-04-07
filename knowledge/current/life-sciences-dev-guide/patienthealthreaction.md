@@ -5,12 +5,10 @@ topic: patienthealthreaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.309Z
+lastCollected: 2026-04-07T18:37:56.740Z
 estimatedTokens: 1194
-keywords: [PatientHealthReaction, patient’s, adverse, reaction, allergy, intolerance, immunization, API, version, 51.0, later, Calls, Usage, Associated, Objects]
+keywords: [PatientHealthReaction, patient’s, adverse, reaction, allergy, intolerance, immunization, API, 51.0]
 ---
-
-# PatientHealthReaction
 
 > Represents a patient’s adverse reaction to an allergy, intolerance, or
       immunization. This object is available in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: target-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.037Z
+lastCollected: 2026-04-07T18:39:18.773Z
 estimatedTokens: 111
-keywords: [Target, Input, recipe, bucket]
+keywords: [Target, recipe, bucket]
 ---
-
-# Target Field Input
 
 > A target field for a recipe bucket.
 

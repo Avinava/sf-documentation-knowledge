@@ -5,12 +5,10 @@ topic: run-a-java-client-with-oauth-bearer-token-login
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.059Z
+lastCollected: 2026-04-07T18:36:51.373Z
 estimatedTokens: 534
 keywords: [Run, Java, Client, OAuth, Bearer, Token, Login, uses, EMP, Connector, subscribe, channel, authentication]
 ---
-
-# Run a Java Client with OAuth Bearer Token Login
 
 > Run a Java client that uses EMP Connector to subscribe to the channel with OAuth
         authentication.

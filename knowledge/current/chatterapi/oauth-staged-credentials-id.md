@@ -5,12 +5,10 @@ topic: oauth-staged-credentials-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.897Z
+lastCollected: 2026-04-07T18:37:14.942Z
 estimatedTokens: 447
 keywords: [OAuth, Staged, Credentials, Add, replace, primary]
 ---
-
-# OAuth Staged Credentials ID
 
 > Add OAuth credentials as staged credentials, replace primary credentials with staged
     credentials, or delete staged credentials.

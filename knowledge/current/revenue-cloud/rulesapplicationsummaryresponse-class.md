@@ -5,13 +5,11 @@ topic: rulesapplicationsummaryresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.678Z
+lastCollected: 2026-04-07T18:35:40.487Z
 estimatedTokens: 1612
 namespace: RulesAppln
-keywords: [RulesApplicationSummaryResponse, store, summary, rules, application, including, payment, credit, memo, counts, statistics, fetchedPaymentsCount, fetchedCreditMemosCount, totalPaymentApplications, totalCreditMemoApplications]
+keywords: [RulesApplicationSummaryResponse, store, summary, application, including, payment, credit, memo, counts, statistics, fetchedPaymentsCount, fetchedCreditMemosCount, totalPaymentApplications, totalCreditMemoApplications, areAllInvoicesConsidered]
 ---
-
-# RulesApplicationSummaryResponse Class
 
 > Contains properties to store the summary details of the rules application, including payment and credit memo counts and application statistics.
 

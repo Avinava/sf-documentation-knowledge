@@ -5,13 +5,11 @@ topic: externalauthidentityprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.339Z
+lastCollected: 2026-04-07T18:36:32.813Z
 estimatedTokens: 1441
 namespace: CreatedByNamespace
-keywords: [ExternalAuthIdentityProvider, external, authentication, auth, identity, provider, links, credential, obtains, OAuth, tokens, outbound, callouts, systems, SOAP]
+keywords: [ExternalAuthIdentityProvider, ExternalAuthIdentityProviderParameter, external, authentication, auth, identity, provider, links, credential, obtains, OAuth, tokens, outbound, callouts, systems, SOAP, API, REST]
 ---
-
-# ExternalAuthIdentityProvider
 
 > Represents an external authentication (auth) identity provider. An external
          auth identity provider links to an external credential and obtains OAuth tokens for

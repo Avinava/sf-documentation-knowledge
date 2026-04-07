@@ -6,13 +6,10 @@ topic: salesforce-dx-project-structure-and-source-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.605Z
+lastCollected: 2026-04-07T18:40:08.563Z
 estimatedTokens: 1850
-keywords: [Salesforce, Project, Structure, Source, specific, uses, different, files, file, extensions, Metadata, API, retrieve, org, start]
+keywords: [Documents, Salesforce, Project, Structure, Source, specific, uses, different, files, file, extensions, Metadata, API, retrieve, org, start, command, CLI, stores, deploy, converts, requires, Transformation, Resources, Aura, Lightning, Web, ExperienceBundle, DigitalExperienceBundle, Experience, Cloud, Sites]
 ---
-
-# Salesforce DX Project Structure and Source
-            Format
 
 > A Salesforce DX project has a specific project structure and source format. Source
         format uses a different set of files and file extensions from what Metadata API uses. When

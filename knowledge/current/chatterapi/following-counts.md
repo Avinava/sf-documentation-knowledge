@@ -5,12 +5,10 @@ topic: following-counts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.383Z
+lastCollected: 2026-04-07T18:37:19.529Z
 estimatedTokens: 175
 keywords: [Counts, Chatter]
 ---
-
-# Following Counts
 
 > Chatter following counts.
 

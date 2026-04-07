@@ -5,12 +5,10 @@ topic: voucher-definition-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.707Z
+lastCollected: 2026-04-07T18:35:54.778Z
 estimatedTokens: 955
-keywords: [Voucher, Definition, DMO, Data, Cloud, model, associated, loyalty, program, API, Category, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Voucher, Definition, DMO, Cloud, model, loyalty, program, API, Primary, Subject, Area, Key]
 ---
-
-# Voucher Definition DMO
 
 > The Voucher Definition DMO is a Data Cloud data model object (DMO) for
       details about a voucher definition associated with a loyalty program.

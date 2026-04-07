@@ -5,12 +5,10 @@ topic: cancel-policy-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.821Z
+lastCollected: 2026-04-07T18:37:50.728Z
 estimatedTokens: 117
-keywords: [Cancel, Policy, Input, Representation]
+keywords: [Cancel, Policy]
 ---
-
-# Cancel Policy Input
 
 > Input Representation of cancel policy details.
 

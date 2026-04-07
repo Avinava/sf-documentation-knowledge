@@ -5,12 +5,10 @@ topic: identity-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.460Z
+lastCollected: 2026-04-07T18:35:51.312Z
 estimatedTokens: 1045
-keywords: [Identity, Schema, Capturing, profile, data, achieved, mobile, SDK’s, component, tracks, various, attributes, emit, events, Cloud]
+keywords: [Identity, Schema, Capturing, profile, achieved, mobile, SDK’s, tracks, various, attributes, emit, events, Cloud, Module, listens, contain, aggregate, several, contact, point, streams]
 ---
-
-# Identity Schema
 
 > Capturing profile data is achieved through the mobile SDK’s identity component. The
   component sets and tracks various profile attributes and emit identity events, which the

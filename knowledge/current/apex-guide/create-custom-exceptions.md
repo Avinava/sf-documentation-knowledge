@@ -5,12 +5,10 @@ topic: create-custom-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.391Z
+lastCollected: 2026-04-07T18:36:17.619Z
 estimatedTokens: 1262
-keywords: [Custom, Exceptions, enable, specify, detailed, error, messages, handling, catch, blocks, Rethrowing, Inner, Exception]
+keywords: [Exceptions, enable, specify, detailed, error, messages, handling, catch, blocks, Rethrowing, Inner, Exception]
 ---
-
-# Create Custom Exceptions
 
 > Custom exceptions enable you to specify detailed error messages and have more custom
             error handling in your catch blocks.

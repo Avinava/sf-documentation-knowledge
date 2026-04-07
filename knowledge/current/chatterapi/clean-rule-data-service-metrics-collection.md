@@ -5,12 +5,10 @@ topic: clean-rule-data-service-metrics-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.405Z
+lastCollected: 2026-04-07T18:37:17.478Z
 estimatedTokens: 156
-keywords: [Clean, Rule, Data, Service, Metrics, Collection, services, associated, active, integration, rules, organization]
+keywords: [Clean, Rule, Service, Metrics, Collection, services, active, integration, organization]
 ---
-
-# Clean Rule Data Service Metrics Collection
 
 > Metrics for data services associated with all active data
       integration rules in an organization.

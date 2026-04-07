@@ -5,12 +5,10 @@ topic: apex-dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.086Z
+lastCollected: 2026-04-07T18:36:12.373Z
 estimatedTokens: 1932
-keywords: [Apex, DML, Operations, perform, statements, Database, lead, conversion, convertLead, There, counterpart, Insert, Statement, Upsert, How]
+keywords: [Apex, DML, Operations, perform, statements, Database, lead, conversion, convertLead, There, counterpart, Insert, Statement, Upsert, How, Chooses, Undelete, Merge]
 ---
-
-# Apex DML Operations
 
 > You can perform DML operations using the Apex DML statements or the methods of the
             Database class. For lead conversion, use the

@@ -5,12 +5,10 @@ topic: connectapiauthorizationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.294Z
+lastCollected: 2026-04-07T18:36:04.604Z
 estimatedTokens: 342
-keywords: [ConnectApi.AuthorizationRequest, Payment, Authorization, input, consumed, service]
+keywords: [ConnectApi.AuthorizationRequest, Payment, Authorization, consumed, service]
 ---
-
-# ConnectApi.AuthorizationRequest
 
 > Payment Authorization input consumed by the Payment Authorization
       service.

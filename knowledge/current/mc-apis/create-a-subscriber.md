@@ -5,12 +5,10 @@ topic: create-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.923Z
+lastCollected: 2026-04-07T18:40:16.063Z
 estimatedTokens: 279
-keywords: [Subscriber, scenario, how, Marketing, Cloud, via, SOAP, API, instance, account, Once, populate, attributes, Diagram, Objects, Why, Sample, Code, NET, PHP]
+keywords: [Diagram, Subscriber, scenario, how, Marketing, Cloud, via, SOAP, API, instance, account, Once, populate, attributes, Referenced, Items, Why, Sample, Code, NET, PHP, Ruby, Rails, Java, Axis, 1.4, 2.0, CXF, Envelope, Attributes, Behalf]
 ---
-
-# Create a Subscriber
 
 > This page contains information on how to use the Marketing Cloud SOAP API to create a subscriber in your Marketing Cloud account.
 

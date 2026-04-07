@@ -5,12 +5,10 @@ topic: knowledgefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.431Z
+lastCollected: 2026-04-07T18:39:45.987Z
 estimatedTokens: 335
-keywords: [Knowledge__Feed, feed, knowledge, article, _Feed]
+keywords: [Knowledge__Feed, knowledge, article, _Feed]
 ---
-
-# Knowledge__Feed
 
 > Represents the feed for a knowledge article.
 

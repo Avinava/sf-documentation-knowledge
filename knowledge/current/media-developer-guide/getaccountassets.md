@@ -5,12 +5,10 @@ topic: getaccountassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.088Z
+lastCollected: 2026-04-07T18:38:11.354Z
 estimatedTokens: 195
-keywords: [GetAccountAssets, Omnistudio, Data, Mapper, assets, account, along, total, subscription, costs, Sample, Input, Output]
+keywords: [GetAccountAssets, Omnistudio, Mapper, assets, account, along, total, subscription, costs, Sample]
 ---
-
-# GetAccountAssets
 
 > This Omnistudio Data Mapper gets the assets for an account
     along with the total subscription costs.

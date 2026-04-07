@@ -5,12 +5,10 @@ topic: prediction-definition-model-card-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.582Z
+lastCollected: 2026-04-07T18:36:59.078Z
 estimatedTokens: 139
 keywords: [Prediction, Definition, Model, Card, Resource, Deletes]
 ---
-
-# Prediction Definition Model Card Resource
 
 > Deletes a prediction definition model card.
 

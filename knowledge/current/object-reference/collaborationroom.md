@@ -5,12 +5,10 @@ topic: collaborationroom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.052Z
+lastCollected: 2026-04-07T18:38:27.974Z
 estimatedTokens: 530
-keywords: [CollaborationRoom, collaboration, room, links, Salesforce, Slack, channel, applications, specific, cases, swarming, reporting, API, version, 55.0]
+keywords: [CollaborationRoom, collaboration, room, links, Salesforce, Slack, channel, applications, specific, cases, swarming, reporting, API, 55.0]
 ---
-
-# CollaborationRoom
 
 > Represents a collaboration room, which links Salesforce to a Slack channel
          used by applications with specific use cases, such as swarming or reporting. This

@@ -5,12 +5,10 @@ topic: blngglaccountc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.012Z
+lastCollected: 2026-04-07T18:37:03.544Z
 estimatedTokens: 620
-keywords: [blng__GLAccount__c, accounting, journal, entries, General, Ledger, account, define, credit, debit, endpoints, accounts, along, associated, records]
+keywords: [blng__GLAccount__c, accounting, journal, entries, General, Ledger, account, define, credit, debit, endpoints, accounts, along, records, exported, external, bookkeeping, system, blng, _GLAccount]
 ---
-
-# blng__GLAccount__c
 
 > Represents the accounting journal entries in a General Ledger (GL) account.
          You can define both a credit GL account and a debit GL account as endpoints for these

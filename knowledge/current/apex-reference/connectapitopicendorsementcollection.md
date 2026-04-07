@@ -5,12 +5,10 @@ topic: connectapitopicendorsementcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.787Z
+lastCollected: 2026-04-07T18:36:12.068Z
 estimatedTokens: 147
 keywords: [ConnectApi.TopicEndorsementCollection, Collection, topic, endorsement, bodies]
 ---
-
-# ConnectApi.TopicEndorsementCollection
 
 > Collection of topic endorsement response bodies.
 

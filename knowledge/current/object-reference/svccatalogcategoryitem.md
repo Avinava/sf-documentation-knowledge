@@ -5,12 +5,10 @@ topic: svccatalogcategoryitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.198Z
+lastCollected: 2026-04-07T18:38:42.002Z
 estimatedTokens: 374
-keywords: [SvcCatalogCategoryItem, association, Service, Catalog, item, category, items, grouped, categories, API, version, 58.0, later, Calls, Special]
+keywords: [SvcCatalogCategoryItem, association, Service, Catalog, item, category, items, grouped, categories, API, 58.0]
 ---
-
-# SvcCatalogCategoryItem
 
 > Represents an association between a Service Catalog item and
          category. Service catalog items can be grouped into categories. This object is

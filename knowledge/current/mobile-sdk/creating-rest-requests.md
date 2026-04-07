@@ -5,12 +5,10 @@ topic: creating-rest-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.186Z
+lastCollected: 2026-04-07T18:40:26.500Z
 estimatedTokens: 536
-keywords: [Creating, REST, Requests, Mobile, SDK, API, supports, Salesforce, Lightning, Platform, RestClient, factory, RestRequest, instances, every]
+keywords: [Creating, REST, Requests, Mobile, SDK, API, supports, Salesforce, Lightning, Platform, RestClient, factory, RestRequest, instances, every, endpoint, obtain, customized, calling, appropriate, cli]
 ---
-
-# Creating REST Requests
 
 > The Mobile SDK REST API supports many types of Salesforce
       REST requests. For the Lightning Platform API, RestClient

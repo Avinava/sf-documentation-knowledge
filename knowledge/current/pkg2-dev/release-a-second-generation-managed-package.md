@@ -5,12 +5,10 @@ topic: release-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.801Z
+lastCollected: 2026-04-07T18:38:56.382Z
 estimatedTokens: 265
-keywords: [Release, Second-Generation, Managed, Package, new, version, marked, beta, created, develop, may, several, versions, ready, released]
+keywords: [Release, Second-Generation, Managed, Package, new, marked, beta, created, develop, may, several, versions, ready, released, distributed, listed, AppExchange, installed, customer, orgs]
 ---
-
-# Release a Second-Generation Managed Package
 
 > Each new second-generation managed package version is marked as beta when created. As you
     develop your package, you may create several package versions before you create a version that

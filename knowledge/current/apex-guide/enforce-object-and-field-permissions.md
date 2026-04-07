@@ -5,12 +5,10 @@ topic: enforce-object-and-field-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.407Z
+lastCollected: 2026-04-07T18:36:16.625Z
 estimatedTokens: 1272
-keywords: [Enforce, Permissions, Apex, generally, runs, system, context, current, user's, field-level, security, FLS, aren’t, taken, account]
+keywords: [Considerations, Enforce, Permissions, Apex, generally, runs, system, context, current, user's, field-level, security, FLS, aren’t, taken, account, code, execution, user, mode, database, operations, SOQL, queries, check, perform, specific, DML, operation, query, sufficient]
 ---
-
-# Enforce Object and Field Permissions
 
 > Apex generally runs in system context, so the current user's permissions and
         field-level security (FLS) aren’t taken into account during code execution. To

@@ -5,12 +5,10 @@ topic: lifescipresentation-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.297Z
+lastCollected: 2026-04-07T18:37:54.624Z
 estimatedTokens: 156
 keywords: [LifeSciPresentation, Life, Sciences, Cloud]
 ---
-
-# LifeSciPresentation Methods
 
 > These are the LifeSciPresentation methods for
         Life Sciences Cloud.

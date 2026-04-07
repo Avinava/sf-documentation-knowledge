@@ -5,12 +5,10 @@ topic: formatcurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.349Z
+lastCollected: 2026-04-07T18:40:21.630Z
 estimatedTokens: 355
-keywords: [FormatCurrency, Function, Ordinal, numeric, receive, formatting, ISO, culture, code, indicate, correct, currency, **Overview**, **Syntax**, Usage]
+keywords: [FormatCurrency, Function, Ordinal, numeric, receive, formatting, ISO, culture, code, indicate, correct, currency, **Overview**, **Syntax**]
 ---
-
-# FormatCurrency
 
 > FormatCurrency(1, 2, 3, 4)
 

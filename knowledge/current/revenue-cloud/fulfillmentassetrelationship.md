@@ -5,12 +5,10 @@ topic: fulfillmentassetrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.142Z
+lastCollected: 2026-04-07T18:35:49.106Z
 estimatedTokens: 515
-keywords: [FulfillmentAssetRelationship, relationship, two, fulfillment, assets, API, version, 61.0, later, Calls]
+keywords: [FulfillmentAssetRelationship, relationship, two, fulfillment, assets, API, 61.0]
 ---
-
-# FulfillmentAssetRelationship
 
 > Represents a relationship between two fulfillment assets. This
       object is available in API version 61.0 and later.

@@ -5,12 +5,10 @@ topic: feedtrackedchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.746Z
+lastCollected: 2026-04-07T18:39:40.398Z
 estimatedTokens: 272
-keywords: [FeedTrackedChange, individual, change, changes, child, record, feed, AccountFeed, API, version, 18.0, later]
+keywords: [FeedTrackedChange, individual, change, changes, child, record, AccountFeed, API, 18.0]
 ---
-
-# FeedTrackedChange
 
 > Represents an individual field change or set of
     field changes. A FeedTrackedChange is a child object of a record feed, such as AccountFeed.

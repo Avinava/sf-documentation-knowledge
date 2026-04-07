@@ -5,12 +5,10 @@ topic: distinct-facet-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.838Z
+lastCollected: 2026-04-07T18:37:18.932Z
 estimatedTokens: 214
 keywords: [Distinct, Facet]
 ---
-
-# Distinct Facet Value
 
 > Distinct facet value.
 

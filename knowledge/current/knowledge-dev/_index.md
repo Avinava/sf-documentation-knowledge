@@ -2,7 +2,7 @@
 domain: knowledge-dev
 name: Salesforce Knowledge Developer Guide
 documentCount: 106
-lastGenerated: 2026-04-07T09:06:36.900Z
+lastGenerated: 2026-04-07T18:40:42.178Z
 ---
 
 # Salesforce Knowledge Developer Guide — Knowledge Index

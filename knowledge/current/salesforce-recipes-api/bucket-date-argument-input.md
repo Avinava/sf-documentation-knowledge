@@ -5,12 +5,10 @@ topic: bucket-date-argument-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.400Z
+lastCollected: 2026-04-07T18:39:18.080Z
 estimatedTokens: 111
-keywords: [Bucket, Date, Argument, Input, node, recipe]
+keywords: [Bucket, Date, Argument, node, recipe]
 ---
-
-# Bucket Date Argument Input
 
 > The argument for a bucket node date field in a recipe.
 

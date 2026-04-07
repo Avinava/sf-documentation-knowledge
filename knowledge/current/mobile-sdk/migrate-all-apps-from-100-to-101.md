@@ -5,12 +5,10 @@ topic: migrate-all-apps-from-100-to-101
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.256Z
+lastCollected: 2026-04-07T18:40:26.569Z
 estimatedTokens: 2044
 keywords: [Migrate, Apps, 10.0, 10.1, Mobile, SDK, migration, easiest, Salesforce, CLI, plugin, npm, scripts]
 ---
-
-# Migrate All Apps from 10.0 to 10.1
 
 > Mobile SDK 10.1
     migration is easiest if you use the Salesforce CLI plugin or the Mobile SDK npm

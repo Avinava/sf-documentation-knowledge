@@ -5,12 +5,10 @@ topic: enable-secure-browser-caching
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.708Z
+lastCollected: 2026-04-07T18:38:04.855Z
 estimatedTokens: 254
-keywords: [Enable, Secure, Browser, Caching, data, improve, reload, performance, avoiding, extra, round, trips, server]
+keywords: [Enable, Secure, Browser, Caching, improve, reload, performance, avoiding, extra, round, trips, server]
 ---
-
-# Enable Secure Browser Caching
 
 > Enable secure data caching in the browser to improve page reload performance by avoiding
   extra round trips to the server.

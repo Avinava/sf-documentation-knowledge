@@ -5,12 +5,10 @@ topic: maintenance-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.018Z
+lastCollected: 2026-04-07T18:37:20.184Z
 estimatedTokens: 432
 keywords: [Maintenance, upcoming, scheduled, organization]
 ---
-
-# Maintenance Information
 
 > Information about the upcoming scheduled maintenance for the
       organization.

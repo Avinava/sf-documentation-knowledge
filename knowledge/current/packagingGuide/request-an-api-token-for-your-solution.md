@@ -5,12 +5,10 @@ topic: request-an-api-token-for-your-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.349Z
+lastCollected: 2026-04-07T18:38:46.212Z
 estimatedTokens: 273
 keywords: [API, Token, Solution, AppExchange, authenticate, authorize, requests, managed, package, passes, security, review]
 ---
-
-# Request an API Token for Your Solution
 
 > An API token is required for an AppExchange solution to authenticate and authorize API
     requests. You can request an API token for your managed package after it passes the AppExchange

@@ -5,12 +5,10 @@ topic: rootviewcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.960Z
+lastCollected: 2026-04-07T18:40:26.272Z
 estimatedTokens: 790
-keywords: [RootViewController, root, view, controller, displays, custom, app, presents, Objective-C, apps, bottom, stack, Mobile, SDK, template]
+keywords: [RootViewController, root, view, controller, displays, app, presents, Objective-C, apps, bottom, stack, Mobile, SDK, template, project, appropriately, Design, Swift, Implementation]
 ---
-
-# RootViewController Class
 
 > A root view controller displays the first custom view that your app presents. In
             Objective-C apps, this view is the one at the bottom, or root, of your view stack. For

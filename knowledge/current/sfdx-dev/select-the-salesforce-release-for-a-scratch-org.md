@@ -5,12 +5,10 @@ topic: select-the-salesforce-release-for-a-scratch-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.499Z
+lastCollected: 2026-04-07T18:40:08.451Z
 estimatedTokens: 1400
-keywords: [Select, Salesforce, Release, Scratch, Org, transition, specify, preview, previous, creating, Specific, How, Transitions, Affect, Version]
+keywords: [Select, Salesforce, Release, Scratch, Org, transition, specify, preview, previous, creating, Specific, How, Transitions, Affect, Want, Pre-Release]
 ---
-
-# Select the Salesforce Release for a Scratch Org
 
 > During the Salesforce release transition, you can specify the release (preview or
   previous) when creating a scratch org.

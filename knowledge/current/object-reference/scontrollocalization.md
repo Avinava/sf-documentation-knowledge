@@ -5,12 +5,10 @@ topic: scontrollocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:48.975Z
+lastCollected: 2026-04-07T18:38:40.562Z
 estimatedTokens: 1703
-keywords: [ScontrolLocalization, translated, label, s-control, Calls, Special, Access, Rules, Usage]
+keywords: [ScontrolLocalization, translated, label, s-control]
 ---
-
-# ScontrolLocalization
 
 > The translated value of the field label for an
   s-control.

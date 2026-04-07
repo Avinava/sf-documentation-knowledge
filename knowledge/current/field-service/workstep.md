@@ -5,12 +5,10 @@ topic: workstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.553Z
+lastCollected: 2026-04-07T18:36:48.536Z
 estimatedTokens: 1078
-keywords: [WorkStep, work, step, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [WorkStep, work, step, plan, API, 52.0]
 ---
-
-# WorkStep
 
 > Represents a work step in a work plan. This object is available in API
     version 52.0 and later.

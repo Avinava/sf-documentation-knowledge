@@ -5,12 +5,10 @@ topic: content-document-details-get-delete-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.852Z
+lastCollected: 2026-04-07T18:37:24.821Z
 estimatedTokens: 380
-keywords: [Content, Document, PATCH, associated, contract, version]
+keywords: [Content, Document, PATCH, contract]
 ---
-
-# Content Document Details (GET, DELETE, PATCH)
 
 > Get content document details associated with a contract document
       version.

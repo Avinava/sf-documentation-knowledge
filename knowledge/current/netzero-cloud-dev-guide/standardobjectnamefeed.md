@@ -5,12 +5,10 @@ topic: standardobjectnamefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.050Z
+lastCollected: 2026-04-07T18:38:17.582Z
 estimatedTokens: 2100
-keywords: [StandardObjectNameFeed, model, feed, objects, associated, standard, represent, posts, feed-tracked, changes, Calls, Special, Access, Rules, Usage]
+keywords: [StandardObjectNameFeed, model, standard, represent, posts, feed-tracked, changes]
 ---
-
-# StandardObjectNameFeed
 
 > StandardObjectNameFeed is the model for all feed
       objects associated with standard objects. These objects represent the posts and feed-tracked

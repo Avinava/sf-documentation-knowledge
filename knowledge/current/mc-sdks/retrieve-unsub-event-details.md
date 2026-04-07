@@ -5,12 +5,10 @@ topic: retrieve-unsub-event-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.372Z
+lastCollected: 2026-04-07T18:40:24.816Z
 estimatedTokens: 980
-keywords: [Retrieve, Unsub, Event, ET_UnsubEvent, column, Marketing, Cloud, account, SDK, interact, described, below, Ruby, PHP, Python]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Unsub, Event, ET_UnsubEvent, column, Marketing, Cloud, account, SDK, interact, described, below, PHP, Streamline, Filter, Requests]
 ---
-
-# Retrieve Unsub Event Details
 
 > The ET_UnsubEvent object represents a column with a unsub event in a Marketing Cloud account. Use the SDK to interact with this object as described below:
 

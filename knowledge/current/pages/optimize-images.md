@@ -5,12 +5,10 @@ topic: optimize-images
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.674Z
+lastCollected: 2026-04-07T18:38:48.622Z
 estimatedTokens: 441
-keywords: [Optimize, Images, frequently, largest, components, web, they, significantly, affect, Visualforce, page’s, performance]
+keywords: [Optimize, Images, frequently, largest, web, they, significantly, affect, Visualforce, page’s, performance]
 ---
-
-# Optimize Images
 
 > Images are frequently the largest components of a web page, so they significantly affect
     a Visualforce page’s performance.

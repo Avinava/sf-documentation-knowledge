@@ -2,7 +2,7 @@
 domain: revenue-cloud
 name: Revenue Cloud / Agentforce Revenue Management
 documentCount: 1274
-lastGenerated: 2026-04-07T09:06:34.326Z
+lastGenerated: 2026-04-07T18:40:39.884Z
 ---
 
 # Revenue Cloud / Agentforce Revenue Management — Knowledge Index

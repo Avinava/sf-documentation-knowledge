@@ -5,12 +5,10 @@ topic: bookmark
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.797Z
+lastCollected: 2026-04-07T18:38:26.777Z
 estimatedTokens: 301
-keywords: [Bookmark, link, opportunities, share, common, Calls, Usage]
+keywords: [Bookmark, link, opportunities, share, common]
 ---
-
-# Bookmark
 
 > Represents a link between opportunities
                 that share common information.

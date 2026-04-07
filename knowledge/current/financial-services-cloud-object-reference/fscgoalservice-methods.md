@@ -5,12 +5,10 @@ topic: fscgoalservice-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.705Z
+lastCollected: 2026-04-07T18:37:34.212Z
 estimatedTokens: 103
 keywords: [FSCGoalService]
 ---
-
-# FSCGoalService Methods
 
 > The following are methods for FSCGoalService.
 

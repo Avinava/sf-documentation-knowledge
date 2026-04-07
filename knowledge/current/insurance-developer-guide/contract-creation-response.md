@@ -5,12 +5,10 @@ topic: contract-creation-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.214Z
+lastCollected: 2026-04-07T18:37:52.364Z
 estimatedTokens: 168
-keywords: [Contract, Creation, Output, representation, group, benefits, Quote-to-Contract, process]
+keywords: [Contract, Creation, group, benefits, Quote-to-Contract, process]
 ---
-
-# Contract Creation Response
 
 > Output representation of the group benefits Quote-to-Contract process.
 

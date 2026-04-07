@@ -5,12 +5,10 @@ topic: record-access-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.062Z
+lastCollected: 2026-04-07T18:39:19.755Z
 estimatedTokens: 252
-keywords: [Record, Access, Calculation, Every, time, user, attempts, open, run, report, view, search, data, API, Salesforce]
+keywords: [Record, Calculation, Every, time, user, attempts, open, run, report, view, search, API, Salesforce, checks, configuration, features, determine, records, configurations, elaborate, especia]
 ---
-
-# Record Access Calculation
 
 > Every time a user attempts to open a record, run a report, access a list view, or search for
    data using the user interface or API, Salesforce checks the configuration of its

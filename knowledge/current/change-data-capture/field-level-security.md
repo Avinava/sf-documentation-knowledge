@@ -5,12 +5,10 @@ topic: field-level-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.690Z
+lastCollected: 2026-04-07T18:37:05.419Z
 estimatedTokens: 456
-keywords: [Field-Level, Security, Change, Data, Capture, respects, org’s, settings, Delivered, events, contain, subscribed, user, allowed, view]
+keywords: [Field-Level, Security, Change, Capture, respects, org’s, settings, Delivered, events, contain, subscribed, user, allowed, view, delivering, event, user’s, permissions, checked, isn’t, included, message, subscriber, receives]
 ---
-
-# Field-Level Security
 
 > Change Data Capture respects your org’s field-level security settings. Delivered events
     contain only the fields that a subscribed user is allowed to view. Before delivering a change

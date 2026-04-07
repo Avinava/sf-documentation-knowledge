@@ -5,12 +5,10 @@ topic: apptbundleaggrpolicyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.945Z
+lastCollected: 2026-04-07T18:39:26.900Z
 estimatedTokens: 363
-keywords: [ApptBundleAggrPolicyFeed, Feed, tracking, ApptBundleAggrPolicy]
+keywords: [ApptBundleAggrPolicyFeed, ApptBundleAggrPolicy]
 ---
-
-# ApptBundleAggrPolicyFeed
 
 > Feed tracking for ApptBundleAggrPolicy.
 

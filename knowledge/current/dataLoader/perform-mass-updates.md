@@ -5,12 +5,10 @@ topic: perform-mass-updates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.359Z
+lastCollected: 2026-04-07T18:37:28.391Z
 estimatedTokens: 162
-keywords: [Perform, Mass, Updates, data, Loader, large, number, records, time]
+keywords: [Perform, Mass, Updates, Loader, large, number, records, time]
 ---
-
-# Perform Mass Updates
 
 > Use data Loader to update a large number of records at one time.
 

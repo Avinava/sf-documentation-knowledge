@@ -5,12 +5,10 @@ topic: courseofrptcpactvtygrd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.925Z
+lastCollected: 2026-04-07T18:37:31.000Z
 estimatedTokens: 1483
-keywords: [CourseOfrPtcpActvtyGrd, https, gus.lightning.force.com, lightning, MDS_Entity__c, a7BEE000000QYE92AO, view, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [CourseOfrPtcpActvtyGrd, https, gus.lightning.force.com, lightning, MDS_Entity__c, a7BEE000000QYE92AO, view, API, 65.0]
 ---
-
-# CourseOfrPtcpActvtyGrd
 
 > https://gus.lightning.force.com/lightning/r/MDS_Entity__c/a7BEE000000QYE92AO/view
       This object is available in API version 65.0 and later.

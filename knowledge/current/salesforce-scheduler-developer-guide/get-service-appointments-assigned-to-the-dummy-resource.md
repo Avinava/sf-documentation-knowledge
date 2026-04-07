@@ -5,12 +5,10 @@ topic: get-service-appointments-assigned-to-the-dummy-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.368Z
+lastCollected: 2026-04-07T18:39:21.184Z
 estimatedTokens: 371
-keywords: [Service, Appointments, Assigned, Dummy, Resource, Show, users, appointments—appointments, booked, Salesforce, Scheduler—scheduled, against, retrieving, Branch, managers]
+keywords: [Service, Appointments, Assigned, Dummy, Resource, Show, users, appointments—appointments, booked, Salesforce, Scheduler—scheduled, against, retrieving, Branch, managers, administrators, reassign, actual, resources]
 ---
-
-# Get Service Appointments Assigned to the Dummy Resource
 
 > Show your users the service appointments—appointments booked
       through Salesforce Scheduler—scheduled against the dummy resource by retrieving the

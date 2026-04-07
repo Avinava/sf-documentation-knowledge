@@ -5,12 +5,10 @@ topic: careepisodedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.478Z
+lastCollected: 2026-04-07T18:37:47.067Z
 estimatedTokens: 960
-keywords: [CareEpisodeDetail, additional, associated, CareEpisode, record, may, referral, requests, episode, care, started, diagnoses, meant, address, API]
+keywords: [CareEpisodeDetail, additional, CareEpisode, record, may, referral, requests, episode, care, started, diagnoses, meant, address, API, 57.0]
 ---
-
-# CareEpisodeDetail
 
 > Represents additional information associated with a CareEpisode record.
       This information may be the referral requests that an episode of care started from or the

@@ -5,12 +5,10 @@ topic: usageimpactgroupversionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.010Z
+lastCollected: 2026-04-07T18:40:04.810Z
 estimatedTokens: 274
-keywords: [UsageImpactGroupVersionHistory, History, tracked, UsageImpactGroupVersion]
+keywords: [UsageImpactGroupVersionHistory, tracked, UsageImpactGroupVersion]
 ---
-
-# UsageImpactGroupVersionHistory
 
 > History for tracked fields of UsageImpactGroupVersion.
 

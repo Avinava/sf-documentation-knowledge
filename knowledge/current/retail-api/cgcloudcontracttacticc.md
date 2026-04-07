@@ -5,12 +5,10 @@ topic: cgcloudcontracttacticc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.789Z
+lastCollected: 2026-04-07T18:39:13.205Z
 estimatedTokens: 1088
-keywords: [cgcloud__Contract_Tactic__c, Relation, Contract, Tactic, template, API, version, 54.0, later, cgcloud, _Contract, _Tactic, Calls, Associated, Objects]
+keywords: [cgcloud__Contract_Tactic__c, Relation, Contract, Tactic, template, API, 54.0, cgcloud, _Contract, _Tactic]
 ---
-
-# cgcloud__Contract_Tactic__c
 
 > Relation between a Contract and a Tactic template. This object
       is available in API version 54.0 and later.

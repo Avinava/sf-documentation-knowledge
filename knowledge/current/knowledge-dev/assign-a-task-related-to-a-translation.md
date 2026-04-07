@@ -5,12 +5,10 @@ topic: assign-a-task-related-to-a-translation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.560Z
+lastCollected: 2026-04-07T18:37:53.848Z
 estimatedTokens: 159
 keywords: [Assign, Task, Translation, Assigns, user, translated, article, including, due, date, instructions, actions, defined, change, resource]
 ---
-
-# Assign a Task Related to a Translation
 
 > Assigns a task to a user for a translated article, including due date and instructions.
   The actions are defined by the field change you request on the resource.

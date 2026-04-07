@@ -5,12 +5,10 @@ topic: authornotehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.541Z
+lastCollected: 2026-04-07T18:39:28.622Z
 estimatedTokens: 257
-keywords: [AuthorNoteHistory, History, tracked, AuthorNote]
+keywords: [AuthorNoteHistory, tracked, AuthorNote]
 ---
-
-# AuthorNoteHistory
 
 > History for tracked fields of AuthorNote.
 

@@ -5,12 +5,10 @@ topic: testing-your-external-client-app-push-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.020Z
+lastCollected: 2026-04-07T18:39:09.343Z
 estimatedTokens: 732
-keywords: [Testing, External, Client, App, Push, Configuration, run, quick, test, notification, setup, Send, Troubleshoot, round-trip, notifications]
+keywords: [Testing, External, Client, App, Push, Configuration, run, quick, test, notification, setup, Send, Troubleshoot, round-trip, notifications, synchronous, mechanism, having, configure, Apex, REST, gain, insights, what’s, going, behind, scenes, asynchronous, environment, real-world]
 ---
-
-# Testing Your External Client App Push Configuration
 
 > To run a quick test of your push notification setup, use the Send Test Notification page.
         Troubleshoot round-trip push notifications in a synchronous mechanism without having to

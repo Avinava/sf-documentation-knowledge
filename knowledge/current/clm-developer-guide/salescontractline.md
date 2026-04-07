@@ -5,12 +5,10 @@ topic: salescontractline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.858Z
+lastCollected: 2026-04-07T18:37:25.756Z
 estimatedTokens: 883
-keywords: [SalesContractLine, Stores, contract's, product, including, price, quantity, components, covered, API, version, 56.0, later, Calls, Associated]
+keywords: [SalesContractLine, Stores, contract's, product, including, price, quantity, covered, API, 56.0]
 ---
-
-# SalesContractLine
 
 > Stores a contract's product information, including price, quantity, and components
       covered. This object is available in API version 56.0 and later.

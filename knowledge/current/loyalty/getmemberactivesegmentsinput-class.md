@@ -5,13 +5,11 @@ topic: getmemberactivesegmentsinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.553Z
+lastCollected: 2026-04-07T18:38:06.765Z
 estimatedTokens: 112
 namespace: LoyaltyManagement
-keywords: [GetMemberActiveSegmentsInput, retrieve, active, Data, Cloud, market, segments, loyalty, program, member, part, receives, input, Member's, action]
+keywords: [GetMemberActiveSegmentsInput, retrieve, active, Cloud, market, segments, loyalty, program, member, part, receives, Member's, action]
 ---
-
-# GetMemberActiveSegmentsInput Class
 
 > Use this class to retrieve active Data Cloud market segments that a
       loyalty program member is part of. This class receives the input parameter values for the Get

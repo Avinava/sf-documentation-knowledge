@@ -5,12 +5,10 @@ topic: signedrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.826Z
+lastCollected: 2026-04-07T18:38:57.635Z
 estimatedTokens: 347
 keywords: [SignedRequest, Canvas, work, signed, requests]
 ---
-
-# SignedRequest
 
 > Canvas provides a SignedRequest object that has methods you can use to work with signed
     requests.

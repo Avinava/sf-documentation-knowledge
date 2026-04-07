@@ -5,12 +5,10 @@ topic: timeslothistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.378Z
+lastCollected: 2026-04-07T18:40:04.112Z
 estimatedTokens: 273
-keywords: [TimeSlotHistory, history, changes, made, tracked, time, slot, API, version, 38.0, later]
+keywords: [TimeSlotHistory, changes, made, tracked, time, slot, API, 38.0]
 ---
-
-# TimeSlotHistory
 
 > Represents the history of changes made to tracked fields on a time
    slot. This object is available in API version 38.0 and later.

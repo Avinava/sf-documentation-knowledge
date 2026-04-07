@@ -5,12 +5,10 @@ topic: presenting-user-error-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.559Z
+lastCollected: 2026-04-07T18:38:57.353Z
 estimatedTokens: 296
 keywords: [Presenting, User, Error, Messages, Canvas.CanvasRenderException, display]
 ---
-
-# Presenting User Error Messages
 
 > You can use Canvas.CanvasRenderException to display error messages to the
         user.

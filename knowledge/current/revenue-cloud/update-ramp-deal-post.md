@@ -5,12 +5,10 @@ topic: update-ramp-deal-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:00.033Z
+lastCollected: 2026-04-07T18:35:45.069Z
 estimatedTokens: 609
 keywords: [Ramp, Deal, POST, Modify, scenarios, segment, updates, quantity, discount, date, change]
 ---
-
-# Update Ramp Deal (POST)
 
 > Modify a ramp deal in scenarios where a segment has updates such as
       quantity, discount, or date change.

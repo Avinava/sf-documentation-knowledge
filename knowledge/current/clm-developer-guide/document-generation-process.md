@@ -5,12 +5,10 @@ topic: document-generation-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.923Z
+lastCollected: 2026-04-07T18:37:24.887Z
 estimatedTokens: 172
-keywords: [Document, Generation, Process, status, contract, version]
+keywords: [Document, Generation, Process, status, contract]
 ---
-
-# Document Generation Process
 
 > Get the status of document generation process for a given contract
       document version ID.

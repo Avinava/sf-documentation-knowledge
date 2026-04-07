@@ -5,12 +5,10 @@ topic: commerce-order-item-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.684Z
+lastCollected: 2026-04-07T18:35:52.576Z
 estimatedTokens: 949
-keywords: [Commerce, Order, Item, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
+keywords: [Commerce, Order, Item, Summary, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, sales, identifies, product, service, sold, customer, DLO]
 ---
-
-# Commerce: Order Item Summary Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Order Item Summary data is information about a

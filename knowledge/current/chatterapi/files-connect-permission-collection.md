@@ -5,12 +5,10 @@ topic: files-connect-permission-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.856Z
+lastCollected: 2026-04-07T18:37:17.924Z
 estimatedTokens: 71
 keywords: [Files, Connect, Permission, Collection, permissions]
 ---
-
-# Files Connect Permission Collection
 
 > A collection of permissions.
 

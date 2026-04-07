@@ -5,12 +5,10 @@ topic: validate-user-controlled-data-added-to-a-prompt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.330Z
+lastCollected: 2026-04-07T18:38:47.306Z
 estimatedTokens: 173
-keywords: [Validate, User-Controlled, Data, Added, Prompt, including, Ensure, meets, criteria, acceptable, input, case, isn't, met, don’t]
+keywords: [Validate, User-Controlled, Added, Prompt, including, Ensure, meets, criteria, acceptable, case, isn't, met, don’t, include]
 ---
-
-# Validate User-Controlled Data Added to a Prompt
 
 > Before including user-controlled data in a prompt, validate the data. Ensure it meets
     criteria for an acceptable input based on your use case. If the criteria isn't met, don’t

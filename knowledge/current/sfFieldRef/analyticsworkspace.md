@@ -5,13 +5,11 @@ topic: analyticsworkspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.737Z
+lastCollected: 2026-04-07T18:39:25.701Z
 estimatedTokens: 319
 namespace: NamespacePrefix
-keywords: [AnalyticsWorkspace, Tableau, workspace, API, version, 54.0, later]
+keywords: [AnalyticsWorkspace, Tableau, workspace, API, 54.0]
 ---
-
-# AnalyticsWorkspace
 
 > Represents a Tableau Next workspace. This object is available in API version 54.0 and later.
 

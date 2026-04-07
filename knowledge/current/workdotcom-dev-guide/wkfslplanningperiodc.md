@@ -5,12 +5,10 @@ topic: wkfslplanningperiodc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.334Z
+lastCollected: 2026-04-07T18:40:14.345Z
 estimatedTokens: 490
-keywords: [wkfsl__PlanningPeriod__c, deprecated, Shift, Management, managed, package, version, 3.0, wkfsl__Facility_Plan__c, manage, requests, employee, availability, due, date]
+keywords: [wkfsl__PlanningPeriod__c, deprecated, Shift, Management, managed, package, 3.0, wkfsl__Facility_Plan__c, manage, requests, employee, availability, due, date, installed, part, API, 48.0, wkfsl, _PlanningPeriod]
 ---
-
-# wkfsl__PlanningPeriod__c
 
 > This object has been deprecated in Shift Management managed package version
       3.0. Use the wkfsl__Facility_Plan__c object to manage requests for employee availability and

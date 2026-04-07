@@ -5,12 +5,10 @@ topic: microbatching-errors-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.584Z
+lastCollected: 2026-04-07T18:37:14.593Z
 estimatedTokens: 1255
 keywords: [Microbatching, Errors, Resource]
 ---
-
-# Microbatching Errors Resource
 
 > Get and delete microbatching errors.
 

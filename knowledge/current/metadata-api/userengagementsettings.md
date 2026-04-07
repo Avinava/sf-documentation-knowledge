@@ -5,12 +5,10 @@ topic: userengagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:45.067Z
+lastCollected: 2026-04-07T18:36:30.442Z
 estimatedTokens: 2478
-keywords: [UserEngagementSettings, metadata, associated, various, feature, settings, around, Lightning, Experience, transition, adoption, user, engagement, assistance, apps]
+keywords: [UserEngagementSettings, metadata, various, feature, settings, around, Lightning, Experience, transition, adoption, user, engagement, assistance, apps, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# UserEngagementSettings
 
 > Represents the metadata associated with various
       feature settings around Lightning Experience transition and adoption, user engagement and

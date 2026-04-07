@@ -5,12 +5,10 @@ topic: metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:44.899Z
+lastCollected: 2026-04-07T18:36:30.276Z
 estimatedTokens: 26013
-keywords: [Metadata, API, access, entities, feature, settings, customize, user]
+keywords: [Metadata, API, entities, feature, settings, customize, user]
 ---
-
-# Metadata Types
 
 > Metadata API enables you to access some entities and feature settings that you can
     customize in the user interface.

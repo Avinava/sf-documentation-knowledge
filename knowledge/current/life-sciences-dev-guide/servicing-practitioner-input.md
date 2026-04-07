@@ -5,12 +5,10 @@ topic: servicing-practitioner-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.959Z
+lastCollected: 2026-04-07T18:37:55.336Z
 estimatedTokens: 114
-keywords: [Servicing, Practitioner, Input, administering, service]
+keywords: [Servicing, Practitioner, administering, service]
 ---
-
-# Servicing Practitioner Input
 
 > Practitioner administering the service.
 

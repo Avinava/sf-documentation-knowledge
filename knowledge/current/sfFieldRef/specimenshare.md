@@ -5,12 +5,10 @@ topic: specimenshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.900Z
+lastCollected: 2026-04-07T18:40:02.590Z
 estimatedTokens: 247
 keywords: [SpecimenShare, Sharing, Specimen]
 ---
-
-# SpecimenShare
 
 > Sharing for Specimen.
 

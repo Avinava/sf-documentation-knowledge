@@ -5,12 +5,10 @@ topic: cgcloudcontractc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.732Z
+lastCollected: 2026-04-07T18:39:13.146Z
 estimatedTokens: 1990
-keywords: [cgcloud__Contract__c, Stores, customer, contract, track, various, agreements, API, version, 54.0, later, cgcloud, _Contract, Calls, Associated]
+keywords: [cgcloud__Contract__c, Stores, customer, contract, track, various, agreements, API, 54.0, cgcloud, _Contract]
 ---
-
-# cgcloud__Contract__c
 
 > Stores the details of the customer contract object, which is used to
          track various types of customer agreements. This object is available in API version

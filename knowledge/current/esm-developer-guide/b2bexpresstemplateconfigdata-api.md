@@ -5,12 +5,10 @@ topic: b2bexpresstemplateconfigdata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.902Z
+lastCollected: 2026-04-07T18:37:32.070Z
 estimatedTokens: 48
 keywords: [b2bExpress_TemplateConfigData, API, Fetch, Vlocity, Document, Template, configuration, b2bExpress, _TemplateConfigData, URI, HTTP]
 ---
-
-# b2bExpress_TemplateConfigData API
 
 > Fetch Vlocity Document Template details for a given configuration.
 

@@ -5,12 +5,10 @@ topic: advanced-lookup-display-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.520Z
+lastCollected: 2026-04-07T18:40:11.513Z
 estimatedTokens: 79
 keywords: [Advanced, Lookup, Display, Info, Search, lookups]
 ---
-
-# Advanced Lookup Display Info
 
 > Search lookups advanced display information.
 

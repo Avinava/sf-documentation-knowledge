@@ -5,12 +5,10 @@ topic: design-attribute-considerations-for-flow-screen-components-and-local-acti
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:13.074Z
+lastCollected: 2026-04-07T18:38:03.043Z
 estimatedTokens: 426
-keywords: [Design, Attribute, Considerations, Flow, Screen, Components, Local, Actions, expose, Builder, define, corresponding, component, bundle's, resource]
+keywords: [Design, Attribute, Considerations, Flow, Screen, Local, Actions, expose, Builder, define, corresponding, bundle's, resource, Keep, guidelines, mind, defining, attributes, flows]
 ---
-
-# Design Attribute Considerations for Flow Screen Components and Local Actions
 
 > To expose an attribute in Flow Builder, define a corresponding design:attribute in the component bundle's design resource. Keep
   these guidelines in mind when defining design attributes for flows.

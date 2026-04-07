@@ -5,12 +5,10 @@ topic: currencyusecaseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.102Z
+lastCollected: 2026-04-07T18:39:36.656Z
 estimatedTokens: 252
 keywords: [CurrencyUsecase__Share, Sharing, CurrencyUsecase__, CurrencyUsecase, _Share]
 ---
-
-# CurrencyUsecase__Share
 
 > Sharing for CurrencyUsecase__.
 

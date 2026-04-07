@@ -5,12 +5,10 @@ topic: borrower-income-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.387Z
+lastCollected: 2026-04-07T18:37:34.984Z
 estimatedTokens: 478
-keywords: [Borrower, Income, Output, co-borrower, current, monthly]
+keywords: [Borrower, Income, co-borrower, current, monthly]
 ---
-
-# Borrower Income Output
 
 > Represents details about the borrower and co-borrower current
       monthly income.

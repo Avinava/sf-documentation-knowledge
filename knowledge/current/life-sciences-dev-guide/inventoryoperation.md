@@ -5,12 +5,10 @@ topic: inventoryoperation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.700Z
+lastCollected: 2026-04-07T18:38:00.462Z
 estimatedTokens: 1521
-keywords: [InventoryOperation, operations, performed, inventory, transfers, disbursements, adjustments, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [InventoryOperation, operations, performed, inventory, transfers, disbursements, adjustments, API, 65.0]
 ---
-
-# InventoryOperation
 
 > Represents operations performed on the inventory, such as transfers,
          disbursements, or adjustments. This object is available in API version 65.0 and

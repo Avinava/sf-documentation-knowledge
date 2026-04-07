@@ -5,12 +5,10 @@ topic: getalertsbywhatidandparentidvar1-var2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.865Z
+lastCollected: 2026-04-07T18:37:34.386Z
 estimatedTokens: 341
 keywords: [getAlertsByWhatIdAndParentId, var1, var2, Retrieve, record, alerts, Salesforce, parent]
 ---
-
-# getAlertsByWhatIdAndParentId(var1, var2)
 
 > Retrieve record alerts by both the Salesforce record ID and the
       related parent ID.

@@ -5,12 +5,10 @@ topic: connectapidatagraphfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.144Z
+lastCollected: 2026-04-07T18:36:08.552Z
 estimatedTokens: 253
-keywords: [ConnectApi.DataGraphField, data, graph]
+keywords: [ConnectApi.DataGraphField, graph]
 ---
-
-# ConnectApi.DataGraphField
 
 > Represents a field of a data graph.
 

@@ -5,12 +5,10 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.998Z
+lastCollected: 2026-04-07T18:37:44.165Z
 estimatedTokens: 1396
-keywords: [Location, FHIR, resource, maps, Healthcare​Facility, objects, Salesforce​, V4​.0, Clinical, Data, Model, Mapping, Sample, Record, Diagram]
+keywords: [Location, FHIR, resource, maps, Healthcare​Facility, Salesforce​, V4​.0, Clinical, Model, Mapping, Sample, Record, Diagram]
 ---
-
-# Location
 
 > The Location FHIR resource maps to the Healthcare​Facility and Location objects in Salesforce​.
 

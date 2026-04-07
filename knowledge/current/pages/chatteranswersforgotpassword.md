@@ -5,12 +5,10 @@ topic: chatteranswersforgotpassword
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.245Z
+lastCollected: 2026-04-07T18:38:49.301Z
 estimatedTokens: 209
-keywords: [chatteranswers, forgotpassword, Displays, Chatter, Answers, forgot, password, Ext, versions, less, included, pages, component, Attributes]
+keywords: [Attributes, chatteranswers, forgotpassword, Displays, Chatter, Answers, forgot, password, Ext, versions, less, included, pages]
 ---
-
-# chatteranswers:forgotpassword
 
 > Displays the Chatter Answers forgot password page.  Ext JS versions less than 3 should not be included on pages that use this component.
 

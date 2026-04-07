@@ -5,12 +5,10 @@ topic: trackedcommunicationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.486Z
+lastCollected: 2026-04-07T18:40:04.219Z
 estimatedTokens: 270
-keywords: [TrackedCommunicationHistory, History, tracked, TrackedCommunication]
+keywords: [TrackedCommunicationHistory, tracked, TrackedCommunication]
 ---
-
-# TrackedCommunicationHistory
 
 > History for tracked fields of TrackedCommunication.
 

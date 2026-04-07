@@ -5,12 +5,10 @@ topic: vehicle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.947Z
+lastCollected: 2026-04-07T18:36:53.299Z
 estimatedTokens: 3544
-keywords: [Vehicle, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [Vehicle, API, 56.0]
 ---
-
-# Vehicle
 
 > Represents information about a vehicle. This object is available in API
       version 56.0 and later.

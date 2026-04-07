@@ -5,12 +5,10 @@ topic: providers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.530Z
+lastCollected: 2026-04-07T18:37:42.681Z
 estimatedTokens: 230
 keywords: [Providers, resources, practitioner, facility, records, provider, insert, new]
 ---
-
-# Providers
 
 > Use these resources to create practitioner or facility records, or
    update existing fields in provider records and insert new fields.

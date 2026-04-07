@@ -5,12 +5,10 @@ topic: transaction-management-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.264Z
+lastCollected: 2026-04-07T18:35:47.295Z
 estimatedTokens: 162
 keywords: [Transaction, Management, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---
-
-# Transaction Management Metadata
 
 > This table provides the metadata deployment reference for Transaction Management in
     Revenue Cloud, including setup paths and configuration details.

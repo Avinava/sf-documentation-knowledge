@@ -5,12 +5,10 @@ topic: usecasemetershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.099Z
+lastCollected: 2026-04-07T18:40:04.914Z
 estimatedTokens: 251
 keywords: [UsecaseMeter__Share, Sharing, UsecaseMeter__, UsecaseMeter, _Share]
 ---
-
-# UsecaseMeter__Share
 
 > Sharing for UsecaseMeter__.
 

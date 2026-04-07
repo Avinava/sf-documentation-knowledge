@@ -5,12 +5,10 @@ topic: streaming-api-terms
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.274Z
+lastCollected: 2026-04-07T18:36:51.607Z
 estimatedTokens: 432
 keywords: [Streaming, API, Terms]
 ---
-
-# Streaming API Terms
 
 > Learn about terms used for Streaming API.
 

@@ -5,12 +5,10 @@ topic: relatedlistdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.860Z
+lastCollected: 2026-04-07T18:36:34.230Z
 estimatedTokens: 612
-keywords: [RelatedListDefinition, records, specific, criteria, API, version, 55.0, later, SOAP, Calls, REST, Special, Access, Rules, Usage]
+keywords: [RelatedListDefinition, records, specific, criteria, API, 55.0, SOAP, REST]
 ---
-
-# RelatedListDefinition
 
 > Represents information about a related list. A related list specifies a set
          of records for a related object, based on specific criteria. This object is available

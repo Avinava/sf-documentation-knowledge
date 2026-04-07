@@ -5,12 +5,10 @@ topic: emailtemplatemonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.274Z
+lastCollected: 2026-04-07T18:39:38.943Z
 estimatedTokens: 1220
 keywords: [EmailTemplateMonthlyMetric, monthly, engagement, metrics, email, template]
 ---
-
-# EmailTemplateMonthlyMetric
 
 > Represents the monthly engagement metrics for an email template.
 

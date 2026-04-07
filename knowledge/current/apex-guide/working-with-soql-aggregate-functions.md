@@ -5,12 +5,10 @@ topic: working-with-soql-aggregate-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.006Z
+lastCollected: 2026-04-07T18:36:19.229Z
 estimatedTokens: 641
-keywords: [Working, SOQL, Aggregate, Functions, SUM, MAX, allow, roll, summarize, data, query]
+keywords: [Working, SOQL, Aggregate, Functions, SUM, MAX, allow, roll, summarize, query]
 ---
-
-# Working with SOQL Aggregate Functions
 
 > Aggregate functions in SOQL, such as SUM() and MAX(), allow you to roll up and summarize your data in a query.
 

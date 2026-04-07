@@ -5,12 +5,10 @@ topic: jobpstnrecruitmentrqs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.897Z
+lastCollected: 2026-04-07T18:39:07.048Z
 estimatedTokens: 823
-keywords: [JobPstnRecruitmentRqs, junction, job, position, recruitment, requisition, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [JobPstnRecruitmentRqs, junction, job, position, recruitment, requisition, API, 62.0]
 ---
-
-# JobPstnRecruitmentRqs
 
 > Represents a junction between a job position and a recruitment
          requisition. This object is available in API version 62.0 and later.

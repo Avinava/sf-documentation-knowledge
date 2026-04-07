@@ -5,12 +5,10 @@ topic: attribute-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.206Z
+lastCollected: 2026-04-07T18:35:45.191Z
 estimatedTokens: 166
-keywords: [Attribute, Category, Output, representation]
+keywords: [Attribute, Category]
 ---
-
-# Attribute Category
 
 > Output representation of the attribute category.
 

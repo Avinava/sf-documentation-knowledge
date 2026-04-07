@@ -5,7 +5,7 @@ topic: ssjsfolderupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.760Z
+lastCollected: 2026-04-07T18:40:23.179Z
 estimatedTokens: 111
 keywords: [ssjs_folderUpdate, Function, Ordinal, Attributes, regarding, folder, change, **Overview**, **Syntax**]
 ---

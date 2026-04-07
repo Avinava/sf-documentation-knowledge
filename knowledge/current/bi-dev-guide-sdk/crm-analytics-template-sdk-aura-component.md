@@ -5,12 +5,10 @@ topic: crm-analytics-template-sdk-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.838Z
+lastCollected: 2026-04-07T18:37:01.436Z
 estimatedTokens: 1260
-keywords: [CRM, Analytics, Template, SDK, Aura, Component, Discover, templates, apps, created, Call]
+keywords: [CRM, Analytics, Template, SDK, Aura, Discover, templates, apps, created, Call]
 ---
-
-# CRM Analytics Template SDK Aura Component
 
 > Discover CRM Analytics templates and apps created from them. Create, update, and delete
   CRM Analytics apps created from templates.

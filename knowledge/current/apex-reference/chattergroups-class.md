@@ -5,13 +5,11 @@ topic: chattergroups-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:11.881Z
+lastCollected: 2026-04-07T18:35:57.138Z
 estimatedTokens: 20666
 namespace: ConnectApi
-keywords: [ChatterGroups, Associate, record, group, addMember, communityId, groupId, userId, API, Version, Requires, Chatter, Usage, addMemberWithRole, role]
+keywords: [ChatterGroups, Associate, record, group, addMember, communityId, groupId, userId, API, Requires, Chatter, addMemberWithRole, role, addRecord, recordId, createGroup, groupInput, deleteBannerPhoto, deleteGroup, deleteMember, membershipId, deletePhoto, getAnnouncements, pageParam, pageSize, getBannerPhoto, getGroup, Guest, Users, getGroupBatch, groupIds, getGroupMembershipRequest, requestId, getGroupMembershipRequests, status, getGroups, archiveStatus, getMember, getMembers, getMembershipBatch, membershipIds, getMyChatterSettings, getPhoto, getRecord, groupRecordId, getRecords, inviteUsers, invite, postAnnouncement, announcement, removeRecord, requestGroupMembership, Sample, Requesting, Join, searchGroups, setBannerPhoto, fileId, versionNumber, fileUpload, setBannerPhotoWithAttributes, bannerPhoto, setPhoto, Updating, Photo, File, Uploading, New, setPhotoWithAttributes, updateGroup, updateGroupMember, updateMyChatterSettings, emailFrequency, updateRequestStatus, Accepting, Declining, responseMessage, Test, setTestSearchGroups, result]
 ---
-
-# ChatterGroups Class
 
 > Associate a record with a group.
 

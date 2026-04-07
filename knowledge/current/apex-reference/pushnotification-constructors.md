@@ -5,12 +5,10 @@ topic: pushnotification-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.735Z
+lastCollected: 2026-04-07T18:35:59.011Z
 estimatedTokens: 147
 keywords: [PushNotification]
 ---
-
-# PushNotification Constructors
 
 > The following are the constructors for PushNotification.
 

@@ -5,12 +5,10 @@ topic: receiveddocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.785Z
+lastCollected: 2026-04-07T18:38:01.666Z
 estimatedTokens: 999
-keywords: [ReceivedDocument, operation, performed, document, rotating, splitting, text, extraction, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [ReceivedDocument, operation, performed, document, rotating, splitting, text, extraction, API, 50.0]
 ---
-
-# ReceivedDocument
 
 > Contains a request for an operation to be performed on a document, such as
       rotating, splitting, or text extraction. This object is available in API version 50.0 and

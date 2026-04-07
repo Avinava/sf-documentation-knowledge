@@ -5,12 +5,10 @@ topic: create-visualforce-dashboard-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.645Z
+lastCollected: 2026-04-07T18:38:51.949Z
 estimatedTokens: 795
-keywords: [Visualforce, Dashboard, Components, pages, data, source, reports, visual, charts, gauges, tables, metrics, provide, snapshot, key]
+keywords: [Visualforce, Dashboard, pages, source, reports, visual, charts, gauges, tables, metrics, provide, snapshot, key, performance, indicators]
 ---
-
-# Create Visualforce Dashboard Components
 
 > Use Visualforce pages as dashboard components. A dashboard shows data
         from source reports as visual components, such as charts, gauges, tables, metrics, or

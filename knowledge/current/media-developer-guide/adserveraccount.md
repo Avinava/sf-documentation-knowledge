@@ -5,12 +5,10 @@ topic: adserveraccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.047Z
+lastCollected: 2026-04-07T18:38:12.340Z
 estimatedTokens: 518
-keywords: [AdServerAccount, junction, account, server, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AdServerAccount, junction, account, server, API, 54.0]
 ---
-
-# AdServerAccount
 
 > Represents a junction between an account and an ad server. This object is available in API
       version 54.0 and later.

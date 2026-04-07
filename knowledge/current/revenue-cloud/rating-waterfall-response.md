@@ -5,12 +5,10 @@ topic: rating-waterfall-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:01.574Z
+lastCollected: 2026-04-07T18:35:46.546Z
 estimatedTokens: 184
-keywords: [Rating, Waterfall, Output, representation]
+keywords: [Rating, Waterfall]
 ---
-
-# Rating Waterfall Response
 
 > Output representation of a rating waterfall request.
 

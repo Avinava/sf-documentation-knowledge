@@ -5,12 +5,10 @@ topic: mktcalcinsightobjectdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.103Z
+lastCollected: 2026-04-07T18:36:27.626Z
 estimatedTokens: 643
-keywords: [MktCalcInsightObjectDef, Calculated, Insight, definition, expression, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
+keywords: [MktCalcInsightObjectDef, Calculated, Insight, definition, expression, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# MktCalcInsightObjectDef
 
 > Represents Calculated Insight definition such as
       expression.

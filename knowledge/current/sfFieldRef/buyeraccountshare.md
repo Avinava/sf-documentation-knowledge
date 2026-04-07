@@ -5,12 +5,10 @@ topic: buyeraccountshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.632Z
+lastCollected: 2026-04-07T18:39:30.854Z
 estimatedTokens: 158
 keywords: [BuyerAccountShare, Sharing, BuyerAccount]
 ---
-
-# BuyerAccountShare
 
 > Sharing for BuyerAccount.
 

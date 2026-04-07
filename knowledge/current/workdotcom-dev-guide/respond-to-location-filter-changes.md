@@ -5,12 +5,10 @@ topic: respond-to-location-filter-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.942Z
+lastCollected: 2026-04-07T18:40:13.912Z
 estimatedTokens: 303
-keywords: [Respond, Location, Filter, Changes, Custom, components, possible, provide, cohesive, Command, Center, user, experience]
+keywords: [Respond, Location, Filter, Changes, possible, provide, cohesive, Command, Center, user, experience]
 ---
-
-# Respond to Location Filter Changes
 
 > Custom components should respond to global filter changes if possible, to provide a
   cohesive Command Center user experience.

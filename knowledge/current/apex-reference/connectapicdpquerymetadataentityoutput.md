@@ -5,12 +5,10 @@ topic: connectapicdpquerymetadataentityoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.566Z
+lastCollected: 2026-04-07T18:36:07.948Z
 estimatedTokens: 146
 keywords: [ConnectApi.CdpQueryMetadataEntityOutput, metadata, entity]
 ---
-
-# ConnectApi.CdpQueryMetadataEntityOutput
 
 > Represents a metadata entity.
 

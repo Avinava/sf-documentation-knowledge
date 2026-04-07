@@ -5,12 +5,10 @@ topic: referral-advocate-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.102Z
+lastCollected: 2026-04-07T18:39:09.427Z
 estimatedTokens: 740
-keywords: [Referral, Advocate, Enrollment, Input, representation, enroll, promotion]
+keywords: [Referral, Advocate, Enrollment, enroll, promotion]
 ---
-
-# Referral Advocate Enrollment Input
 
 > Input representation of the request to enroll an advocate to a referral
     promotion.

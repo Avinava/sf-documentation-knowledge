@@ -5,12 +5,10 @@ topic: unfreeze-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.390Z
+lastCollected: 2026-04-07T18:35:40.175Z
 estimatedTokens: 464
-keywords: [Unfreeze, Sales, Transaction, Action, enable, modification, line, item, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Unfreeze, Sales, Transaction, Action, enable, modification, line, item, REST, HTTP]
 ---
-
-# Unfreeze Sales Transaction Action
 
 > Unfreeze a sales transaction to enable the modification of a line
             item.

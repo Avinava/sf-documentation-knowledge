@@ -5,13 +5,11 @@ topic: recordwithreferencerequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.630Z
+lastCollected: 2026-04-07T18:35:40.438Z
 estimatedTokens: 1214
 namespace: RevSalesTrxn
 keywords: [RecordWithReferenceRequest, associate, record, identifier, referenceId]
 ---
-
-# RecordWithReferenceRequest Class
 
 > Contains constructors and properties to associate a record object with a reference
     identifier.

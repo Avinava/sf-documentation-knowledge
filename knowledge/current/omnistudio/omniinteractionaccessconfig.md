@@ -5,12 +5,10 @@ topic: omniinteractionaccessconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:57.195Z
+lastCollected: 2026-04-07T18:36:42.881Z
 estimatedTokens: 747
-keywords: [OmniInteractionAccessConfig, configuration, settings, access, Omnistudio, FlexCard, caching, data, sources, Parent, File, Suffix, Directory, Location, Version, internal]
+keywords: [OmniInteractionAccessConfig, configuration, settings, Omnistudio, FlexCard, caching, sources, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, internal]
 ---
-
-# OmniInteractionAccessConfig
 
 > Represents configuration settings for access to Omnistudio
       FlexCard caching and data sources.

@@ -5,12 +5,10 @@ topic: worksteptemplatefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.287Z
+lastCollected: 2026-04-07T18:40:07.212Z
 estimatedTokens: 361
-keywords: [WorkStepTemplateFeed, Feed, tracking, WorkStepTemplate]
+keywords: [WorkStepTemplateFeed, WorkStepTemplate]
 ---
-
-# WorkStepTemplateFeed
 
 > Feed tracking for WorkStepTemplate.
 

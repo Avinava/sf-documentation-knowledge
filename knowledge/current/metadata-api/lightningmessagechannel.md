@@ -5,12 +5,10 @@ topic: lightningmessagechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.711Z
+lastCollected: 2026-04-07T18:36:27.192Z
 estimatedTokens: 1118
-keywords: [LightningMessageChannel, metadata, associated, Lightning, Message, Channel, secure, communicate, across, technologies, Web, Components, Aura, Visualforce, File]
+keywords: [LightningMessageChannel, LightningMessageField, metadata, Lightning, Message, Channel, secure, communicate, across, technologies, Web, Aura, Visualforce, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LightningMessageChannel
 
 > Represents the metadata
    associated with a Lightning Message Channel. A Lightning Message Channel

@@ -5,12 +5,10 @@ topic: context-aware-standalone-billing-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.142Z
+lastCollected: 2026-04-07T18:35:43.032Z
 estimatedTokens: 2167
-keywords: [Context-Aware, Standalone, Billing, Schedule, Input, representation, transaction, includes, context, service]
+keywords: [Context-Aware, Standalone, Billing, Schedule, transaction, includes, context, service]
 ---
-
-# Context-Aware Standalone Billing Schedule Input
 
 > Input representation of the request to create a billing schedule based on transaction
     details. This representation includes the transaction and context service details.

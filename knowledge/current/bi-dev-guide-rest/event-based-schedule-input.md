@@ -5,12 +5,10 @@ topic: event-based-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.404Z
+lastCollected: 2026-04-07T18:36:54.760Z
 estimatedTokens: 155
-keywords: [Event, Schedule, Input, Specify, event-driven, Analytics, asset]
+keywords: [Event, Schedule, Specify, event-driven, Analytics, asset]
 ---
-
-# Event Based Schedule Input
 
 > Specify an event-driven schedule for an Analytics asset.
 

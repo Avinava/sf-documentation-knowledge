@@ -5,12 +5,10 @@ topic: confirm-purchases-with-triggered-sends
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.804Z
+lastCollected: 2026-04-07T18:40:21.077Z
 estimatedTokens: 8214
-keywords: [Confirm, Purchases, Triggered, conceptual, scenario, online, document, model, own, SOAP, API, Confirmation, Email, Sample, Envelope]
+keywords: [Scenario, Confirm, Purchases, Triggered, conceptual, online, document, model, own, SOAP, API, Confirmation, Email, Sample, Envelope, Send, Axis2, Java, Code, Extension, Items]
 ---
-
-# Confirm Purchases with Triggered Sends
 
 > This page contains conceptual and scenario information about using triggered sends to confirm online purchases. You can use the information in this document as a model to create your own triggered sends using the SOAP API.
 

@@ -5,12 +5,10 @@ topic: rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.806Z
+lastCollected: 2026-04-07T18:36:29.282Z
 estimatedTokens: 1399
 keywords: [REST, Resources, resource, deployRequest, move, metadata, XML, files, Salesforce, organization, local, file, system, Working, Zip]
 ---
-
-# REST Resources
 
 > Use the REST resource deployRequest to move
     metadata (XML files) between a Salesforce organization and a local file system.

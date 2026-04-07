@@ -5,12 +5,10 @@ topic: write-efficient-getter-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.665Z
+lastCollected: 2026-04-07T18:38:48.613Z
 estimatedTokens: 308
-keywords: [Write, Efficient, Getter, Visualforce, requests, evaluate, expressions, action, attributes, calls, form, submission, call, multiple, times]
+keywords: [Write, Efficient, Getter, Visualforce, requests, evaluate, expressions, action, attributes, form, submission, call, multiple, times, prevent, unnecessary, lookups, record]
 ---
-
-# Write Efficient Getter Methods
 
 > Visualforce requests evaluate expressions, action attributes, and other method calls. A
     request such as a form submission can call the getter methods in a class multiple times. With

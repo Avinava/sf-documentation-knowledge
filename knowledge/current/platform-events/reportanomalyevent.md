@@ -5,12 +5,10 @@ topic: reportanomalyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.793Z
+lastCollected: 2026-04-07T18:38:59.737Z
 estimatedTokens: 1809
-keywords: [ReportAnomalyEvent, Tracks, anomalies, how, users, run, export, reports, including, unsaved, API, version, 49.0, later, Calls]
+keywords: [ReportAnomalyEvent, Tracks, anomalies, how, users, run, export, reports, including, unsaved, API, 49.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# ReportAnomalyEvent
 
 > Tracks anomalies in how users run or export reports, including
 			unsaved reports. This object is available in API version 49.0 and

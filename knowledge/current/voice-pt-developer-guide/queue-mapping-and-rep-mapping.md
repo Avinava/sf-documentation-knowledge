@@ -5,12 +5,10 @@ topic: queue-mapping-and-rep-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.643Z
+lastCollected: 2026-04-07T18:40:13.567Z
 estimatedTokens: 550
 keywords: [Queue, Mapping, Rep, topic, guidance, how, handle]
 ---
-
-# Queue Mapping and Rep Mapping
 
 > This topic provides guidance on how to handle queue mapping and rep
         mapping.

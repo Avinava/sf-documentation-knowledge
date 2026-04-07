@@ -5,12 +5,10 @@ topic: scenariosscenarioparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.187Z
+lastCollected: 2026-04-07T18:39:10.658Z
 estimatedTokens: 809
-keywords: [Scenarios.ScenarioParameter, APEX, programmatic, access, scenario, contained, TPM_Scenarios, instance, TPM, _Scenarios, isApplied, API, Version, Decimal, getValue]
+keywords: [Scenarios.ScenarioParameter, APEX, programmatic, scenario, contained, TPM_Scenarios, instance, TPM, _Scenarios, isApplied, API, Decimal, getValue, ScenarioParameter, setKPIName, setApplied, setValue, getKPIName]
 ---
-
-# Scenarios.ScenarioParameter Class
 
 > This APEX class provides programmatic access to a single scenario parameter information
   contained in a TPM_Scenarios instance.

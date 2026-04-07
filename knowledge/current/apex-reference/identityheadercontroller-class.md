@@ -5,13 +5,11 @@ topic: identityheadercontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.273Z
+lastCollected: 2026-04-07T18:36:01.525Z
 estimatedTokens: 82
 namespace: AppLauncher
 keywords: [IdentityHeaderController, internal]
 ---
-
-# IdentityHeaderController Class
 
 > This class and its methods are for internal use only.
 

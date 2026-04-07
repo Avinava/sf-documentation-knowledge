@@ -5,12 +5,10 @@ topic: hotelstayemssnfctrfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.434Z
+lastCollected: 2026-04-07T18:39:44.081Z
 estimatedTokens: 362
-keywords: [HotelStayEmssnFctrFeed, Feed, tracking, HotelStayEmssnFctr]
+keywords: [HotelStayEmssnFctrFeed, HotelStayEmssnFctr]
 ---
-
-# HotelStayEmssnFctrFeed
 
 > Feed tracking for HotelStayEmssnFctr.
 

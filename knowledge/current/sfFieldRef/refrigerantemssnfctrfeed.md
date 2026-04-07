@@ -5,12 +5,10 @@ topic: refrigerantemssnfctrfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.618Z
+lastCollected: 2026-04-07T18:39:59.281Z
 estimatedTokens: 363
-keywords: [RefrigerantEmssnFctrFeed, Feed, tracking, RefrigerantEmssnFctr]
+keywords: [RefrigerantEmssnFctrFeed, RefrigerantEmssnFctr]
 ---
-
-# RefrigerantEmssnFctrFeed
 
 > Feed tracking for RefrigerantEmssnFctr.
 

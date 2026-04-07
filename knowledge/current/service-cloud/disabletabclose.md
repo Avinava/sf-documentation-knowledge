@@ -5,12 +5,10 @@ topic: disabletabclose
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.849Z
+lastCollected: 2026-04-07T18:36:48.912Z
 estimatedTokens: 477
-keywords: [disableTabClose, Prevents, user, closing, tab, subtab, doesn’t, specify, enclosing, re-enable, disabled, API, version, 36.0, later]
+keywords: [Arguments, disableTabClose, Prevents, user, closing, tab, subtab, doesn’t, specify, enclosing, re-enable, disabled, API, 36.0, Sample, Code–Visualforce]
 ---
-
-# disableTabClose()
 
 > Prevents a user from closing a tab or a subtab.
             If the ID parameter doesn’t specify a tab, the enclosing tab is used. You can also use

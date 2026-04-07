@@ -5,12 +5,10 @@ topic: quick-start-metadata-api-context-mcp-tool
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.896Z
+lastCollected: 2026-04-07T18:36:29.375Z
 estimatedTokens: 768
 keywords: [Quick, Start, Metadata, API, Context, MCP, Tool, contextual, Salesforce, help, generate, accurate, files, working]
 ---
-
-# Quick Start: Metadata API Context MCP Tool
 
 > The Metadata API Context MCP tool provides contextual information about Salesforce
   metadata types to help generate accurate Salesforce metadata files when working with the Metadata

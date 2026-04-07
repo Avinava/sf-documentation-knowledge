@@ -5,12 +5,10 @@ topic: utility-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.114Z
+lastCollected: 2026-04-07T18:36:30.487Z
 estimatedTokens: 353
-keywords: [Utility, Calls, gather, useful, working, file-based, CRUD-based]
+keywords: [Utility, gather, useful, working, file-based, CRUD-based]
 ---
-
-# Utility Calls
 
 > Use utility calls to gather information that is useful for working with the
             file-based or CRUD-based calls.

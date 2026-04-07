@@ -5,12 +5,10 @@ topic: blngpaymentgatewayconfigc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.273Z
+lastCollected: 2026-04-07T18:37:03.828Z
 estimatedTokens: 301
-keywords: [blng__PaymentGatewayConfig__c, configuration, integrating, Salesforce, Billing, payment, gateway, blng, _PaymentGatewayConfig, Calls]
+keywords: [blng__PaymentGatewayConfig__c, configuration, integrating, Salesforce, Billing, payment, gateway, blng, _PaymentGatewayConfig]
 ---
-
-# blng__PaymentGatewayConfig__c
 
 > Represents the configuration for integrating Salesforce Billing with a
          payment gateway.

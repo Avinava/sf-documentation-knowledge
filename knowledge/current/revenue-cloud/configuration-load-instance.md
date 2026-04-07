@@ -5,12 +5,10 @@ topic: configuration-load-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.023Z
+lastCollected: 2026-04-07T18:35:45.987Z
 estimatedTokens: 329
-keywords: [Configuration, Load, Instance, Output, representation, context, session]
+keywords: [Configuration, Load, Instance, context, session]
 ---
-
-# Configuration Load Instance
 
 > Output representation of the details of the context or session that are returned with a
     load configuration request.

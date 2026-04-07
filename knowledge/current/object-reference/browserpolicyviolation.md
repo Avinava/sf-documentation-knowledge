@@ -5,12 +5,10 @@ topic: browserpolicyviolation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.941Z
+lastCollected: 2026-04-07T18:38:26.914Z
 estimatedTokens: 1460
-keywords: [BrowserPolicyViolation, violation, occurred, seven, days, Trusted, URLs, External, Redirects, allowlists, violations, include, blocked, resource, requests]
+keywords: [BrowserPolicyViolation, violation, occurred, seven, days, Trusted, URLs, External, Redirects, allowlists, violations, include, blocked, resource, requests, content, security, policy, CSP, redirections, API, 61.0]
 ---
-
-# BrowserPolicyViolation
 
 > Represents a violation that occurred within the last seven days
          related to the Trusted URLs and Trusted URLs for External Redirects allowlists. These

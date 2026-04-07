@@ -5,12 +5,10 @@ topic: pricing-versioned-revision-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.277Z
+lastCollected: 2026-04-07T18:35:46.212Z
 estimatedTokens: 106
-keywords: [Pricing, Versioned, Revision, Output, representation]
+keywords: [Pricing, Versioned, Revision]
 ---
-
-# Pricing Versioned Revision Details
 
 > Output representation of the versioned revision details.
 

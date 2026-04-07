@@ -5,12 +5,10 @@ topic: explainabilitymsgtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.164Z
+lastCollected: 2026-04-07T18:36:25.652Z
 estimatedTokens: 743
-keywords: [ExplainabilityMsgTemplate, template, decision, explanation, message, expression, step, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata]
+keywords: [ExplainabilityMsgTemplate, template, decision, explanation, message, expression, step, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ExplainabilityMsgTemplate
 
 > Represents information about the template
 			that contains the decision explanation message for a specified expression set step

@@ -5,12 +5,10 @@ topic: appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.026Z
+lastCollected: 2026-04-07T18:38:45.860Z
 estimatedTokens: 1460
-keywords: [AppExchange, Checkout, AppExchange’s, integrated, payment, platform, manage, online, payments, monitor, sales, solutions, customers, buy, solution]
+keywords: [AppExchange, Checkout, AppExchange’s, integrated, payment, platform, manage, online, payments, monitor, sales, solutions, customers, buy, solution, directly, listing, credit, card, bank, transfer, ready, License, Management, App, LMA, fully, automate, licensing, it’s, CMA, performance-tracking, email, notification, tool]
 ---
-
-# AppExchange Checkout
 
 > Checkout is AppExchange’s integrated payment platform. You can use it to manage online
     payments and monitor sales for your AppExchange solutions. With Checkout, customers can buy your

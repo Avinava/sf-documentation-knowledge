@@ -5,12 +5,10 @@ topic: composite-subrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.287Z
+lastCollected: 2026-04-07T18:36:20.502Z
 estimatedTokens: 1245
-keywords: [Composite, Subrequest, execute, Graph, resource, Examples, Usage, Results]
+keywords: [Examples, Results, Composite, Subrequest, execute, Graph, resource]
 ---
-
-# Composite Subrequest
 
 > The composite subrequest describes a subrequest to execute with the Composite Graph
 		resource.

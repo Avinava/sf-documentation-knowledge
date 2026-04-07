@@ -5,12 +5,10 @@ topic: caredeterminanttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.163Z
+lastCollected: 2026-04-07T18:37:45.633Z
 estimatedTokens: 798
-keywords: [CareDeterminantType, standard, defined, determinants, health, maintained, organization, including, domain, API, version, 45.0, later, Calls, Associated]
+keywords: [CareDeterminantType, standard, defined, determinants, health, maintained, organization, including, domain, API, 45.0]
 ---
-
-# CareDeterminantType
 
 > Represents the standard, defined list of determinants of health
 			maintained by an organization, including the domain and type. Available in API

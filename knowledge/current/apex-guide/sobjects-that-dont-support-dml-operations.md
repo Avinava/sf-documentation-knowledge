@@ -5,12 +5,10 @@ topic: sobjects-that-dont-support-dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.220Z
+lastCollected: 2026-04-07T18:36:17.449Z
 estimatedTokens: 521
-keywords: [sObjects, Don’t, Support, DML, Operations, organization, standard, objects, provided, Salesforce, custom, created, accessed, Apex, instances]
+keywords: [sObjects, Don’t, Support, DML, Operations, organization, standard, provided, Salesforce, created, accessed, Apex, instances, sObject, query, perform, However, objec]
 ---
-
-# sObjects That Don’t Support DML Operations
 
 > Your organization contains standard objects provided by Salesforce and custom objects that
          you created. These objects can be accessed in Apex as instances of the sObject data type.

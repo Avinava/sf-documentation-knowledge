@@ -5,12 +5,10 @@ topic: voidinvoiceprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.969Z
+lastCollected: 2026-04-07T18:35:50.835Z
 estimatedTokens: 659
-keywords: [VoidInvoiceProcessedEvent, notification, customers, process, started, commerce, invoicing, invoices, invoiceId, actions, attempts, invoice, crediting, changing, status]
+keywords: [VoidInvoiceProcessedEvent, notification, customers, process, started, commerce, invoicing, invoices, invoiceId, actions, attempts, invoice, crediting, changing, status, Voided, prevents, further, changes, API, 62.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# VoidInvoiceProcessedEvent
 
 > Represents the notification to the customers after the process
          started by the /commerce/invoicing/invoices/{invoiceId}/actions/void request is complete. The

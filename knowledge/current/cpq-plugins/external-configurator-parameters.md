@@ -5,12 +5,10 @@ topic: external-configurator-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.688Z
+lastCollected: 2026-04-07T18:37:27.692Z
 estimatedTokens: 756
-keywords: [External, Configurator, Salesforce, CPQ, passes, configuration, custom, JSON, Modify]
+keywords: [External, Configurator, Salesforce, CPQ, passes, configuration, JSON, Modify]
 ---
-
-# External Configurator Parameters
 
 > Salesforce CPQ passes configuration information to your custom configurator in JSON
   format. Modify the  and return the information to Salesforce CPQ.

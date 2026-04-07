@@ -5,12 +5,10 @@ topic: serviceappointmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.538Z
+lastCollected: 2026-04-07T18:40:01.300Z
 estimatedTokens: 362
-keywords: [ServiceAppointmentFeed, Feed, tracking, ServiceAppointment]
+keywords: [ServiceAppointmentFeed, ServiceAppointment]
 ---
-
-# ServiceAppointmentFeed
 
 > Feed tracking for ServiceAppointment.
 

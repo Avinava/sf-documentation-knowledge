@@ -5,12 +5,10 @@ topic: transaction-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.877Z
+lastCollected: 2026-04-07T18:38:20.620Z
 estimatedTokens: 338
-keywords: [Transaction, Input, representation]
+keywords: [Transaction]
 ---
-
-# Transaction Details Input
 
 > Input representation of the transaction details.
 

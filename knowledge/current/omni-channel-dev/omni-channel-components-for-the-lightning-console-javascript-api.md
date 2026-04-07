@@ -5,12 +5,10 @@ topic: omni-channel-components-for-the-lightning-console-javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.398Z
+lastCollected: 2026-04-07T18:38:45.220Z
 estimatedTokens: 360
-keywords: [Omni-Channel, Components, Lightning, Console, JavaScript, API, lets, call, center, route, any, incoming, work, item, qualified]
+keywords: [Omni-Channel, Lightning, Console, JavaScript, API, lets, call, center, route, any, incoming, work, item, qualified, agents, Experience, includes, several, events, let, control, how, works, Service, organization]
 ---
-
-# Omni-Channel Components for the Lightning Console JavaScript API
 
 > Omni-Channel lets your call center route any type of incoming work item to the most
     qualified, available agents. The Lightning Console JavaScript API for Lightning Experience

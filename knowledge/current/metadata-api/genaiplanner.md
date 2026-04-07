@@ -5,13 +5,11 @@ topic: genaiplanner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.001Z
+lastCollected: 2026-04-07T18:36:26.455Z
 estimatedTokens: 1954
 namespace: Namespace.TopicName.ActionName.AttributeName
-keywords: [GenAiPlanner, planner, agent, It’s, container, topics, actions, interact, large, language, model, LLM, Parent, File, Suffix]
+keywords: [GenAiPlanner, GenAiPlannerAttrMapping, GenAiPlannerFunctionDef, GenAiLocalPlugin, GenAiPlannerRuleExprAsgn, GenAiPlannerRuleExprDef, GenAiPlannerRuleExprCondition, planner, agent, It’s, container, topics, actions, interact, large, language, model, LLM, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# GenAiPlanner
 
 > Represents a planner for an agent. It’s a container for all the
 			topics and actions used to interact with a large language model (LLM).

@@ -5,12 +5,10 @@ topic: compact-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.244Z
+lastCollected: 2026-04-07T18:36:20.453Z
 estimatedTokens: 266
-keywords: [Compact, Layouts, multiple, objects, resource, REST, API, version, 31.0, later]
+keywords: [Compact, Layouts, multiple, resource, REST, API, 31.0]
 ---
-
-# Compact Layouts
 
 > Returns a list of compact layouts for
       multiple objects. This resource is available in REST API version 31.0 and

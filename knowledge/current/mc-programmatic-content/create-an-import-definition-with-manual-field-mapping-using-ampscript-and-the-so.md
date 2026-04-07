@@ -5,12 +5,10 @@ topic: create-an-import-definition-with-manual-field-mapping-using-ampscript-and
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.733Z
+lastCollected: 2026-04-07T18:40:22.095Z
 estimatedTokens: 667
-keywords: [Import, Definition, Manual, Mapping, AMPscript, SOAP, Web, Service, API, contained, email, message, landing, interact, sample]
+keywords: [Import, Definition, Manual, Mapping, AMPscript, SOAP, Web, Service, API, contained, email, message, landing, interact, sample, model, own, script]
 ---
-
-# Create an Import Definition with Manual Field Mapping Using AMPscript and the SOAP Web Service API
 
 > Use AMPscript contained in an email message or landing page to interact with the web service API to create an import definition with manual field mapping. Use this sample AMPscript as a model to create your own script:
 

@@ -5,12 +5,10 @@ topic: return-result-for-asynchronous-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.341Z
+lastCollected: 2026-04-07T18:38:04.502Z
 estimatedTokens: 1012
-keywords: [Result, Asynchronous, Code, aura, executes, synchronously, statement, synchronous, JavaScript, calls, server-side, action, continue, execute, can’t]
+keywords: [Result, Asynchronous, Code, aura, executes, synchronously, statement, synchronous, JavaScript, server-side, action, continue, execute, can’t, call, because, completes, callback, instead, Step, Define, Markup, Implement, Logic, Controller, Apex, Parent, Add, Button, Initiate]
 ---
-
-# Return Result for Asynchronous Code
 
 > aura:method executes synchronously. Use the return statement to return a value from synchronous
         JavaScript code. JavaScript code that calls a server-side action is asynchronous.

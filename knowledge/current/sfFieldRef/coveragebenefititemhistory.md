@@ -5,12 +5,10 @@ topic: coveragebenefititemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.611Z
+lastCollected: 2026-04-07T18:39:36.124Z
 estimatedTokens: 269
-keywords: [CoverageBenefitItemHistory, History, tracked, CoverageBenefitItem]
+keywords: [CoverageBenefitItemHistory, tracked, CoverageBenefitItem]
 ---
-
-# CoverageBenefitItemHistory
 
 > History for tracked fields of CoverageBenefitItem.
 

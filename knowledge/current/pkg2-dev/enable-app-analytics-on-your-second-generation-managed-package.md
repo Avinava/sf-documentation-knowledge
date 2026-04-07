@@ -5,12 +5,10 @@ topic: enable-app-analytics-on-your-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.430Z
+lastCollected: 2026-04-07T18:38:54.802Z
 estimatedTokens: 284
-keywords: [Enable, App, Analytics, Second-Generation, Managed, Package, Activate, AppExchange, 2GP, access, usage, logs, subscriber, snapshots, summaries]
+keywords: [Enable, App, Analytics, Second-Generation, Managed, Package, Activate, AppExchange, 2GP, logs, subscriber, snapshots, summaries]
 ---
-
-# Enable App Analytics on Your Second-Generation Managed Package
 
 > Activate AppExchange App Analytics on your second-generation (2GP) managed package to
   access AppExchange App Analytics package usage logs and subscriber snapshots. Package usage

@@ -5,12 +5,10 @@ topic: directory-item-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.714Z
+lastCollected: 2026-04-07T18:36:57.226Z
 estimatedTokens: 483
 keywords: [Directory, Item, Collection, items]
 ---
-
-# Directory Item Collection
 
 > A collection of directory items.
 

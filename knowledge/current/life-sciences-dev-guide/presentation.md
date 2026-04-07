@@ -5,12 +5,10 @@ topic: presentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.239Z
+lastCollected: 2026-04-07T18:38:01.022Z
 estimatedTokens: 1585
-keywords: [Presentation, collection, presentations, various, attributes, activation, dates, ability, sent, email, associated, tags, gestures, API, version]
+keywords: [Presentation, collection, presentations, various, attributes, activation, dates, ability, sent, email, tags, gestures, API, 65.0]
 ---
-
-# Presentation
 
 > Represents a collection of presentations, each with various attributes such
          as activation dates, the ability to be sent by email, associated tags, and gestures.

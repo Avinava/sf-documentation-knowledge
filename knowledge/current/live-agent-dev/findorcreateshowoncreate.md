@@ -5,12 +5,10 @@ topic: findorcreateshowoncreate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.820Z
+lastCollected: 2026-04-07T18:38:06.055Z
 estimatedTokens: 109
-keywords: [findOrCreate.showOnCreate, automatically, open, record, subtab, Salesforce, console, Usage]
+keywords: [findOrCreate.showOnCreate, automatically, open, record, subtab, Salesforce, console]
 ---
-
-# findOrCreate.showOnCreate
 
 > Use the findOrCreate.showOnCreate method to find
     or create a record and automatically open it in a subtab in the Salesforce console.

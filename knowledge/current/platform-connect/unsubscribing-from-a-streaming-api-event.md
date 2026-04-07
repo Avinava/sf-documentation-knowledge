@@ -5,12 +5,10 @@ topic: unsubscribing-from-a-streaming-api-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.249Z
+lastCollected: 2026-04-07T18:38:57.025Z
 estimatedTokens: 118
 keywords: [Unsubscribing, Streaming, API, Event, code, how, call, unsubscribe, canvas, app]
 ---
-
-# Unsubscribing from a Streaming API Event
 
 > This code example shows how to call the unsubscribe method so that a canvas app
 can unsubscribe from a Streaming API event.

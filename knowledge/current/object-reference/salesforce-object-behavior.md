@@ -5,12 +5,10 @@ topic: salesforce-object-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.197Z
+lastCollected: 2026-04-07T18:38:24.092Z
 estimatedTokens: 1126
-keywords: [Salesforce, Behavior, how, objects, choose, right, data, transactions, categorized, flow, storage, transaction, requiring, specific, licenses]
+keywords: [Salesforce, Behavior, how, choose, right, transactions, categorized, flow, storage, transaction, requiring, specific, licenses, managed, packages, Domain]
 ---
-
-# Salesforce Object Behavior
 
 > Learn how objects are related and how to choose the right Salesforce object for your
         data and transactions. Objects are categorized by data flow, storage, and transaction type,

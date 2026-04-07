@@ -5,12 +5,10 @@ topic: connectapidistinctvaluesearchfacet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.325Z
+lastCollected: 2026-04-07T18:36:08.749Z
 estimatedTokens: 119
 keywords: [ConnectApi.DistinctValueSearchFacet, Facet, distinct, product, search, results]
 ---
-
-# ConnectApi.DistinctValueSearchFacet
 
 > Facet with distinct values in product search results.
 

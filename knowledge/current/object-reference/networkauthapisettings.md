@@ -5,12 +5,10 @@ topic: networkauthapisettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.855Z
+lastCollected: 2026-04-07T18:38:36.057Z
 estimatedTokens: 2510
-keywords: [NetworkAuthApiSettings, settings, control, enablement, access, security, Headless, Registration, Flow, Forgot, Password, Passwordless, Login, their, associated]
+keywords: [NetworkAuthApiSettings, settings, control, enablement, security, Headless, Registration, Flow, Forgot, Password, Passwordless, Login, their, APIs, API, 58.0]
 ---
-
-# NetworkAuthApiSettings
 
 > Represents the settings that control enablement, access, and security for the
          Headless Registration Flow, Headless Forgot Password Flow, Headless Passwordless Login

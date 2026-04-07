@@ -5,12 +5,10 @@ topic: cgcloudwarehouseproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.141Z
+lastCollected: 2026-04-07T18:39:15.657Z
 estimatedTokens: 1002
-keywords: [cgcloud__Warehouse_Product__c, Stores, relationship, warehouse, product, API, version, 54.0, later, cgcloud, _Warehouse, _Product, Calls, Associated, Objects]
+keywords: [cgcloud__Warehouse_Product__c, Stores, relationship, warehouse, product, API, 54.0, cgcloud, _Warehouse, _Product]
 ---
-
-# cgcloud__Warehouse_Product__c
 
 > Stores the relationship between a warehouse and a product. This
       object is available in API version 54.0 and later.

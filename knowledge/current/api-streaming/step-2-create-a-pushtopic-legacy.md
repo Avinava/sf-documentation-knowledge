@@ -5,12 +5,10 @@ topic: step-2-create-a-pushtopic-legacy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.012Z
+lastCollected: 2026-04-07T18:36:51.324Z
 estimatedTokens: 757
 keywords: [Step, PushTopic, Legacy, Developer, Console, Event, notifications, generated, updates, match, query]
 ---
-
-# Step 2: Create a PushTopic (Legacy)
 
 > Create a PushTopic in the Developer Console. Event notifications are generated for
     updates that match the query.

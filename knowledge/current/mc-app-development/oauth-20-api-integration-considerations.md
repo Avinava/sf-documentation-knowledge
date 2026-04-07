@@ -5,12 +5,10 @@ topic: oauth-20-api-integration-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.145Z
+lastCollected: 2026-04-07T18:40:21.418Z
 estimatedTokens: 1903
-keywords: [OAuth, 2.0, API, Integration, Considerations, Keep, mind, integrations, Marketing, Cloud, Installed, Packages, enhanced, functionality, Uses]
+keywords: [OAuth, 2.0, API, Integration, Considerations, Keep, mind, integrations, Marketing, Cloud, Installed, Packages, enhanced, functionality, Uses, Different, Authentication, Endpoints, Updates, Take, Five, Minutes, Work, Redirect, URIs, Specific, Requirements, License, Users, Web, App, Enable, Server-to-Server, Can’t, Business, Units, Switch, User, Switches, Sessions, Revoked, Any, Time, Legacy, Userinfo, Route, Sub-objects, Flat, Map, AppExchange, Partners, Prepare, Customer, Allowlisting, Tokens, Customer’s, Behalf, Client, Secret]
 ---
-
-# OAuth 2.0 API Integration Considerations
 
 > Keep these considerations in mind when using OAuth 2.0 API integrations in Marketing Cloud Installed Packages with enhanced functionality.
 

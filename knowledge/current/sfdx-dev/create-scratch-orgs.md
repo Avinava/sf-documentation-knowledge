@@ -5,12 +5,10 @@ topic: create-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.272Z
+lastCollected: 2026-04-07T18:40:08.222Z
 estimatedTokens: 1775
-keywords: [Scratch, Orgs, Easily, spin, org, open, directly, command, line, Ways, View, Creation, Progress, Salesforce, Release]
+keywords: [Scratch, Orgs, Easily, spin, org, open, directly, command, line, Ways, View, Creation, Progress, Salesforce, Release, Transition, Periods, Troubleshooting, Tips]
 ---
-
-# Create Scratch Orgs
 
 > Easily spin up a scratch org and open it directly from the command line.
 

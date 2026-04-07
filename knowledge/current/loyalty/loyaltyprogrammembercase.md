@@ -5,12 +5,10 @@ topic: loyaltyprogrammembercase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.118Z
+lastCollected: 2026-04-07T18:38:10.381Z
 estimatedTokens: 818
-keywords: [LoyaltyProgramMemberCase, junction, loyalty, program, member, case, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyProgramMemberCase, junction, loyalty, program, member, case, API, 52.0]
 ---
-
-# LoyaltyProgramMemberCase
 
 > Represents a junction between a loyalty program member and a case. This
       object is available in API version 52.0 and later.

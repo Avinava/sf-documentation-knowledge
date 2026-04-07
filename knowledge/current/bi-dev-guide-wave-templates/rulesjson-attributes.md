@@ -5,12 +5,10 @@ topic: rulesjson-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.015Z
+lastCollected: 2026-04-07T18:37:02.561Z
 estimatedTokens: 544
 keywords: [rules.json, Attributes, file]
 ---
-
-# rules.json Attributes
 
 > The rules.json file attributes are:
 

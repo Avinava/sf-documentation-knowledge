@@ -5,12 +5,10 @@ topic: upsertdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.141Z
+lastCollected: 2026-04-07T18:40:23.581Z
 estimatedTokens: 289
-keywords: [UpsertData, Function, Ordinal, data, extension, array, containing, column, filter, **Overview**, **Syntax**, Examples, row, numeric, Number, columns, build, Usage]
+keywords: [UpsertData, Examples, Function, Ordinal, extension, array, containing, column, filter, **Overview**, **Syntax**, row, numeric, Number, columns, build]
 ---
-
-# UpsertData
 
 > UpsertData(1, 2, 3, 4, 5)
 

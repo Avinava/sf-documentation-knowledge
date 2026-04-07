@@ -5,12 +5,10 @@ topic: environment-hub-oauth-url-generator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.433Z
+lastCollected: 2026-04-07T18:37:13.385Z
 estimatedTokens: 139
 keywords: [Environment, Hub, OAuth, URL, Generator, Generates, initiate, workflow, connects, org]
 ---
-
-# Environment Hub OAuth URL Generator
 
 > Generates the URL used to initiate the OAuth workflow that connects
       an org to the Environment Hub.

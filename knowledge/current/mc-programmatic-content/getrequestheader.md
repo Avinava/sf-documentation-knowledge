@@ -5,12 +5,10 @@ topic: getrequestheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.208Z
+lastCollected: 2026-04-07T18:40:23.649Z
 estimatedTokens: 97
 keywords: [GetRequestHeader, Function, Ordinal, **Overview**, **Syntax**]
 ---
-
-# GetRequestHeader
 
 > GetRequestHeader(1)
 

@@ -5,12 +5,10 @@ topic: scoring-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.908Z
+lastCollected: 2026-04-07T18:36:43.636Z
 estimatedTokens: 302
-keywords: [Scoring, Framework, developer, resources, define, template, configurations, CRM, Analytics, apps, Generate, scores, predictive, cases, preconfigured]
+keywords: [Scoring, Framework, developer, resources, define, template, configurations, CRM, Analytics, apps, Generate, scores, predictive, cases, preconfigured, recipes, Einstein, Discovery, models, installed]
 ---
-
-# Scoring Framework
 
 > Use the Scoring Framework developer resources to define the template configurations
     that are used to create CRM Analytics apps. Generate scores for your predictive use cases using

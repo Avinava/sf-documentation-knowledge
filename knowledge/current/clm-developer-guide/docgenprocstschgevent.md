@@ -5,12 +5,10 @@ topic: docgenprocstschgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.617Z
+lastCollected: 2026-04-07T18:37:25.542Z
 estimatedTokens: 633
-keywords: [DocGenProcStsChgEvent, change, status, document, generation, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [DocGenProcStsChgEvent, change, status, document, generation, API, 62.0]
 ---
-
-# DocGenProcStsChgEvent
 
 > Represents the change in status of a document generation request. This
       object is available in API version 62.0 and later.

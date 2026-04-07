@@ -5,12 +5,10 @@ topic: headless-forgot-password-flow-send-a-password-reset-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.458Z
+lastCollected: 2026-04-07T18:37:39.390Z
 estimatedTokens: 411
 keywords: [Headless, Forgot, Password, Flow, Send, Reset, initialize, walks, sending, Postman]
 ---
-
-# Headless Forgot Password Flow: Send a Password Reset Request
 
 > To initialize the Headless Forgot Password Flow, send a password reset request. This
   example walks you through sending a request with Postman.

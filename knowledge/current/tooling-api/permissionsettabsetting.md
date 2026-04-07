@@ -5,12 +5,10 @@ topic: permissionsettabsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.571Z
+lastCollected: 2026-04-07T18:36:33.907Z
 estimatedTokens: 448
-keywords: [PermissionSetTabSetting, tab’s, settings, profile, permission, manipulating, tab, visibility, profiles, Tooling, API, version, 37.0, later, SOAP]
+keywords: [PermissionSetTabSetting, tab’s, settings, profile, permission, manipulating, tab, visibility, profiles, Tooling, API, 37.0, SOAP, REST, HTTP]
 ---
-
-# PermissionSetTabSetting
 
 > Represents a tab’s settings for a profile or permission set. Use
             PermissionSetTabSetting for manipulating tab visibility on profiles and permission

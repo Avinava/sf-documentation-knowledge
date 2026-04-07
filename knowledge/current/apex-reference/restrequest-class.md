@@ -5,13 +5,11 @@ topic: restrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.002Z
+lastCollected: 2026-04-07T18:36:14.344Z
 estimatedTokens: 2310
 namespace: System
-keywords: [RestRequest, System.RestRequest, access, pass, data, RESTful, Apex, Usage, REST, Annotated, httpMethod, params, remoteAddress, requestBody, requestURI]
+keywords: [RestRequest, System.RestRequest, pass, RESTful, Apex, REST, Annotated, httpMethod, params, remoteAddress, requestBody, requestURI, resourcePath, addHeader, addParameter]
 ---
-
-# RestRequest Class
 
 > Use the System.RestRequest class to access and pass request data in a RESTful Apex
             method.

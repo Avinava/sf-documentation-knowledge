@@ -5,12 +5,10 @@ topic: replicated-dataset-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.837Z
+lastCollected: 2026-04-07T18:36:56.383Z
 estimatedTokens: 452
-keywords: [Replicated, Dataset, Resources, Manage, Analytics, datasets, know, connected, objects, data, sync, loads, source, can’t, visualized]
+keywords: [Replicated, Dataset, Resources, Manage, Analytics, datasets, know, connected, sync, loads, source, can’t, visualized, directly, cache, speed, jobs, pull, load]
 ---
-
-# Replicated Dataset Resources
 
 > Manage Analytics replicated datasets, also know as connected objects. A data sync
   loads source object data as a connected object in Analytics. Connected objects can’t be

@@ -5,12 +5,10 @@ topic: inspolicycvrrelatedobj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.894Z
+lastCollected: 2026-04-07T18:37:37.704Z
 estimatedTokens: 748
-keywords: [InsPolicyCvrRelatedObj, relationship, Insurance, Policy, Coverage, attributes, referenced, relevant, product, API, version, 63.0, later, Calls, Associated]
+keywords: [InsPolicyCvrRelatedObj, relationship, Insurance, Policy, Coverage, attributes, referenced, relevant, product, API, 63.0]
 ---
-
-# InsPolicyCvrRelatedObj
 
 > Represents the relationship between an Insurance Policy Coverage and a
          related object. The values of the attributes from the related object are referenced by the

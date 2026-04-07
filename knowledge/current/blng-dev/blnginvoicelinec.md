@@ -5,12 +5,10 @@ topic: blnginvoicelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.101Z
+lastCollected: 2026-04-07T18:37:03.629Z
 estimatedTokens: 5137
-keywords: [blng__InvoiceLine__c, amount, buyer, pay, product, service, fee, Invoice, lines, created, order, line, blng, _InvoiceLine, Calls]
+keywords: [blng__InvoiceLine__c, amount, buyer, pay, product, service, fee, Invoice, lines, created, order, line, blng, _InvoiceLine]
 ---
-
-# blng__InvoiceLine__c
 
 > Represents the amount that a buyer must pay for a product, service, or fee. Invoice
       lines are created based on the amount of an order line.

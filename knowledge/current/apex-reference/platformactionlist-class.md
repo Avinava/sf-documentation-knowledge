@@ -5,13 +5,11 @@ topic: platformactionlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.174Z
+lastCollected: 2026-04-07T18:36:00.450Z
 estimatedTokens: 928
 namespace: Metadata
-keywords: [PlatformActionList, actions, their, order, display, Salesforce, mobile, action, bar, layout, Usage, actionListContext, platformActionListItems, relatedSourceEntity, clone]
+keywords: [PlatformActionList, actions, their, order, display, Salesforce, mobile, action, bar, layout, actionListContext, platformActionListItems, relatedSourceEntity, clone]
 ---
-
-# PlatformActionList Class
 
 > Represents the list of actions, and their order, that display in the
       Salesforce mobile action bar for the layout.

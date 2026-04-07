@@ -5,12 +5,10 @@ topic: real-time-event-monitoring-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.283Z
+lastCollected: 2026-04-07T18:38:58.096Z
 estimatedTokens: 666
-keywords: [Real-Time, Event, Monitoring, Objects, Check, standard, platform, pairs, events, corresponding, store, data, Salesforce, Help]
+keywords: [Real-Time, Event, Monitoring, Check, standard, platform, pairs, events, corresponding, store, Salesforce, Help]
 ---
-
-# Real-Time Event Monitoring Objects
 
 > Check out the standard platform event and object pairs for Real-Time Event Monitoring.
         For most platform events used in Real-Time Event Monitoring, corresponding objects store the

@@ -5,12 +5,10 @@ topic: getcallattacheddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.221Z
+lastCollected: 2026-04-07T18:36:49.292Z
 estimatedTokens: 316
-keywords: [getCallAttachedData, attached, data, call, represented, there, isn’t, active, JSON, computer-telephony, integration, CTI, it’s, API, version]
+keywords: [Arguments, getCallAttachedData, attached, call, represented, there, isn’t, active, JSON, computer-telephony, integration, CTI, it’s, API, 24.0, Sample, Code–Visualforce]
 ---
-
-# getCallAttachedData()
 
 > Returns the attached data of a call represented by the
       call object ID or null if there isn’t an active call. The data is returned in JSON

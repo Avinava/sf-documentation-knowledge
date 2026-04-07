@@ -5,12 +5,10 @@ topic: revenue-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.154Z
+lastCollected: 2026-04-07T18:35:48.194Z
 estimatedTokens: 847
-keywords: [Revenue, Cloud, Associated, Objects, standard, their]
+keywords: [Revenue, Cloud, standard, their]
 ---
-
-# Revenue Cloud Associated Objects
 
 > This section provides a list of objects associated to standard objects of Revenue Cloud
     with their standard fields.

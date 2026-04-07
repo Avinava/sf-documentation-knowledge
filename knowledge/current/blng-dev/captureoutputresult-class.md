@@ -5,12 +5,10 @@ topic: captureoutputresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.680Z
+lastCollected: 2026-04-07T18:37:03.244Z
 estimatedTokens: 909
 keywords: [CaptureOutputResult, Stores, results, payment, capture, setPaymentId, paymentId, getPaymentId, setPaymentTransactionId, paymentTransactionId, getPaymentTransactionId]
 ---
-
-# CaptureOutputResult Class
 
 > Stores the results of the payment capture request.
 

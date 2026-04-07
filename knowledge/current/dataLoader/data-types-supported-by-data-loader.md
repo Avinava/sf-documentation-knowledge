@@ -5,12 +5,10 @@ topic: data-types-supported-by-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.372Z
+lastCollected: 2026-04-07T18:37:28.408Z
 estimatedTokens: 848
-keywords: [Data, Loader, supports]
+keywords: [Loader, supports]
 ---
-
-# Data Types Supported by Data Loader
 
 > Data Loader supports these data types.
 

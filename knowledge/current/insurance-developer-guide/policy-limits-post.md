@@ -5,12 +5,10 @@ topic: policy-limits-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.559Z
+lastCollected: 2026-04-07T18:37:51.603Z
 estimatedTokens: 275
 keywords: [Policy, Limits, POST, insurance, limit, records, defined, product, attributes, coverages]
 ---
-
-# Policy Limits (POST)
 
 > Create insurance policy limit records for the specified policy based on its defined
   product attributes and coverages.

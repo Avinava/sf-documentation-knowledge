@@ -5,12 +5,10 @@ topic: worktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.175Z
+lastCollected: 2026-04-07T18:38:45.026Z
 estimatedTokens: 2093
-keywords: [WorkType, work, performed, Service, Lightning, Scheduler, templates, applied, order, line, items, API, version, 38.0, later]
+keywords: [WorkType, work, performed, Service, Lightning, Scheduler, templates, applied, order, line, items, API, 38.0]
 ---
-
-# WorkType
 
 > Represents a type of work to be performed in Field Service and
 			Lightning Scheduler. Work types are templates that can be applied to work order or work

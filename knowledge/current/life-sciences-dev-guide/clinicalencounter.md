@@ -5,12 +5,10 @@ topic: clinicalencounter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.018Z
+lastCollected: 2026-04-07T18:37:56.456Z
 estimatedTokens: 2296
-keywords: [ClinicalEncounter, healthcare, encounter, patient, care, provider, broad, covers, multiple, phases, patient’s, service, experience, way, pre-admission]
+keywords: [ClinicalEncounter, healthcare, encounter, patient, care, provider, broad, covers, multiple, phases, patient’s, service, experience, way, pre-admission, stay, discharge, everything, API, 51.0, Additional]
 ---
-
-# ClinicalEncounter
 
 > Represents a healthcare related encounter of a patient with a care provider. This is a broad object that covers multiple phases of a patient’s healthcare service experience,
 			all the way from pre-admission to stay to discharge, and everything in between. This object is available in API version 51.0 and later.

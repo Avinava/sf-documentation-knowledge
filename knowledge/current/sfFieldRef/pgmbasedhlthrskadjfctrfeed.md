@@ -5,12 +5,10 @@ topic: pgmbasedhlthrskadjfctrfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.550Z
+lastCollected: 2026-04-07T18:39:54.120Z
 estimatedTokens: 392
-keywords: [PgmBasedHlthRskAdjFctrFeed, Feed, tracking, PgmBasedHlthRskAdjFctr]
+keywords: [PgmBasedHlthRskAdjFctrFeed, PgmBasedHlthRskAdjFctr]
 ---
-
-# PgmBasedHlthRskAdjFctrFeed
 
 > Feed tracking for PgmBasedHlthRskAdjFctr.
 

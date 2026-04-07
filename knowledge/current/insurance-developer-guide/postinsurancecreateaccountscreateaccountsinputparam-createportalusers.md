@@ -5,12 +5,10 @@ topic: postinsurancecreateaccountscreateaccountsinputparam-createportalusers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.552Z
+lastCollected: 2026-04-07T18:37:49.402Z
 estimatedTokens: 336
-keywords: [postInsuranceCreateAccounts, createAccountsInputParam, createPortalUsers, person, accounts, portal, users, group, census, members, API, Version, Requires, Chatter]
+keywords: [postInsuranceCreateAccounts, createAccountsInputParam, createPortalUsers, person, accounts, portal, users, group, census, members, API, Requires, Chatter]
 ---
-
-# postInsuranceCreateAccounts(createAccountsInputParam, createPortalUsers)
 
 > Create person accounts and portal users for group census members.
 

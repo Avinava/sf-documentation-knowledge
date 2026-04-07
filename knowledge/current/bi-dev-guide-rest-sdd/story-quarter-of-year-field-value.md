@@ -5,12 +5,10 @@ topic: story-quarter-of-year-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.630Z
+lastCollected: 2026-04-07T18:37:00.134Z
 estimatedTokens: 175
-keywords: [Story, Quarter, Year, data]
+keywords: [Story, Quarter, Year]
 ---
-
-# Story Quarter of Year Field Value
 
 > The story data quarter of year property.
 

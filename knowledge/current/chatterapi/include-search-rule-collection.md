@@ -5,12 +5,10 @@ topic: include-search-rule-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.892Z
+lastCollected: 2026-04-07T18:37:23.011Z
 estimatedTokens: 73
-keywords: [Include, Search, Rule, Collection, rules]
+keywords: [Include, Search, Rule, Collection]
 ---
-
-# Include Search Rule Collection
 
 > Collection of include search rules.
 

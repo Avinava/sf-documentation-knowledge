@@ -5,12 +5,10 @@ topic: managed-content-provider-instance-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.170Z
+lastCollected: 2026-04-07T18:37:08.943Z
 estimatedTokens: 348
-keywords: [Managed, Content, Provider, Instance, Input]
+keywords: [Managed, Content, Provider, Instance]
 ---
-
-# Managed Content Provider Instance Input
 
 > Create or update a managed content provider instance.
 

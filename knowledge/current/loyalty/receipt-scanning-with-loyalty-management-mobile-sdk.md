@@ -5,12 +5,10 @@ topic: receipt-scanning-with-loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.698Z
+lastCollected: 2026-04-07T18:38:09.031Z
 estimatedTokens: 845
-keywords: [Receipt, Scanning, Loyalty, Management, Mobile, SDK, Members, program, scan, upload, purchase, receipts, third-party, store, site]
+keywords: [Receipt, Scanning, Loyalty, Management, Mobile, SDK, Members, program, scan, upload, purchase, receipts, third-party, store, site, transactions, iOS, Android, app, their, rewarded, eligible, purchases, they, view, accrued, points]
 ---
-
-# Receipt Scanning with Loyalty Management Mobile SDK
 
 > Members of your loyalty program can scan and upload the purchase receipts of third-party
   store or site transactions on the Loyalty Management iOS or Android mobile app. After members

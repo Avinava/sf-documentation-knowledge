@@ -5,12 +5,10 @@ topic: listmetadataquery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.742Z
+lastCollected: 2026-04-07T18:36:27.232Z
 estimatedTokens: 115
-keywords: [ListMetadataQuery, objects, specify, components, interested]
+keywords: [ListMetadataQuery, specify, interested]
 ---
-
-# ListMetadataQuery
 
 > The ListMetadataQuery parameter represents a list of objects that
   specify which components you are interested in.

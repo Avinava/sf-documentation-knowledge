@@ -5,12 +5,10 @@ topic: programcohortmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.748Z
+lastCollected: 2026-04-07T18:39:04.773Z
 estimatedTokens: 1090
-keywords: [ProgramCohortMember, program, enrollees, part, cohort, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ProgramCohortMember, program, enrollees, part, cohort, API, 61.0]
 ---
-
-# ProgramCohortMember
 
 > Represents program enrollees that are part of a given cohort. This
       object is available in API version 61.0 and later.

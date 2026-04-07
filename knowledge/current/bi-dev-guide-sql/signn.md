@@ -5,12 +5,10 @@ topic: signn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.308Z
+lastCollected: 2026-04-07T18:37:01.911Z
 estimatedTokens: 78
 keywords: [sign, numeric, positive, negative, any, real, number, range, -1e308, 1e308]
 ---
-
-# sign(n)
 
 > Returns 1 if the numeric value, n is positive. It returns -1 if the n is negative, and 0 if n is 0. n
   can be any real number in the range of -1e308 <= n <= 1e308.

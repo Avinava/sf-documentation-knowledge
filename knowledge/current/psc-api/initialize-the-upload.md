@@ -5,12 +5,10 @@ topic: initialize-the-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:11.967Z
+lastCollected: 2026-04-07T18:39:04.975Z
 estimatedTokens: 210
 keywords: [Initialize, Upload, user, selects, file, LWC, retrieves, Salesforce, Connect, API, Single-Part, Multi-Part]
 ---
-
-# Initialize the Upload
 
 > When a user selects a file, the LWC first retrieves the S3 upload parameters using the
   Salesforce Connect API.

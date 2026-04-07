@@ -5,13 +5,11 @@ topic: site-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.759Z
+lastCollected: 2026-04-07T18:36:03.992Z
 estimatedTokens: 13703
 namespace: System
-keywords: [Site, Creates, Salesforce, Experience, Cloud, user, account, associates, changePassword, newPassword, verifyNewPassword, oldPassword, Usage, createExternalUser, accountId]
+keywords: [Site, Creates, Salesforce, Experience, Cloud, user, account, associates, changePassword, newPassword, verifyNewPassword, oldPassword, createExternalUser, accountId, password, sendEmailConfirmation, createPersonAccountPortalUser, ownerId, recordTypeId, createPortalUser, forgotPassword, username, emailTemplateName, getAdminEmail, getAdminId, getAnalyticsTrackingCode, getCurrentSiteUrl, getBaseCustomUrl, getBaseInsecureUrl, getBaseRequestUrl, getBaseSecureUrl, getBaseUrl, getCustomWebAddress, getDomain, getErrorDescription, getErrorMessage, getExperienceId, getMasterLabel, getName, getOriginalUrl, getPasswordPolicyStatement, getPathPrefix, getPrefix, getSiteId, getTemplate, getSiteType, getSiteTypeLabel, isLoginEnabled, isPasswordExpired, isRegistrationEnabled, isValidUsername, login, startUrl, passwordlessLogin, userId, setExperienceId, expIdValue, setPortalUserAsAuthProvider, contactId, validatePassword, confirmPassword]
 ---
-
-# Site Class
 
 > Creates a Salesforce Site or Experience Cloud site user for the given
       account and associates it with the site.

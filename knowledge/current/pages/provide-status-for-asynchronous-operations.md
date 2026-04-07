@@ -5,12 +5,10 @@ topic: provide-status-for-asynchronous-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.620Z
+lastCollected: 2026-04-07T18:38:51.923Z
 estimatedTokens: 426
-keywords: [Provide, Status, Asynchronous, Operations, Ajax, behaviors, partial, updates, events, occur, background, user, continues, work, <apex]
+keywords: [Provide, Status, Asynchronous, Operations, Ajax, behaviors, partial, updates, events, occur, background, user, continues, work, <apex, actionStatus>, display, messages, alert, any, activity, currently, progress]
 ---
-
-# Provide Status for Asynchronous Operations
 
 > Ajax behaviors, such as partial page updates, are asynchronous
         events that occur in the background while a user continues to work. With

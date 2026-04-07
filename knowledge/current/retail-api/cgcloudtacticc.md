@@ -5,12 +5,10 @@ topic: cgcloudtacticc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:21.672Z
+lastCollected: 2026-04-07T18:39:15.132Z
 estimatedTokens: 3412
-keywords: [cgcloud__Tactic__c, Configures, relation, Promotion, Tactic, API, version, 54.0, later, cgcloud, _Tactic, Calls, Associated, Objects]
+keywords: [cgcloud__Tactic__c, Configures, relation, Promotion, Tactic, API, 54.0, cgcloud, _Tactic]
 ---
-
-# cgcloud__Tactic__c
 
 > Configures the relation between a Promotion and a Tactic. This
       object is available in API version 54.0 and later.

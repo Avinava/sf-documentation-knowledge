@@ -5,12 +5,10 @@ topic: modifying-components-outside-the-framework-lifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.287Z
+lastCollected: 2026-04-07T18:38:04.429Z
 estimatedTokens: 905
-keywords: [Modifying, Components, Outside, Framework, Lifecycle, $A.getCallback, wrap, any, code, modifies, component, normal, rerendering, setTimeout, call]
+keywords: [Modifying, Outside, Framework, Lifecycle, $A.getCallback, wrap, any, code, modifies, normal, rerendering, setTimeout, call, ensures, rerenders, modified, processes, enqueued, actions]
 ---
-
-# Modifying Components Outside the Framework Lifecycle
 
 > Use $A.getCallback() to wrap any code that
         modifies a component outside the normal rerendering lifecycle, such as in a setTimeout() call. The $A.getCallback() call ensures that the framework rerenders the modified

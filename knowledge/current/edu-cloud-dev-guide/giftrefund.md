@@ -5,12 +5,10 @@ topic: giftrefund
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.196Z
+lastCollected: 2026-04-07T18:37:30.259Z
 estimatedTokens: 1149
-keywords: [GiftRefund, refund, gift, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftRefund, refund, gift, API, 59.0]
 ---
-
-# GiftRefund
 
 > Represents a refund of a gift. This object is available in API
       version 59.0 and later.

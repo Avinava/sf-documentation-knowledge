@@ -5,12 +5,10 @@ topic: chat-rest-api-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.309Z
+lastCollected: 2026-04-07T18:38:06.527Z
 estimatedTokens: 2474
-keywords: [Chat, REST, API, Data, resource, code, successful, execution, JSON, bodies, contain, their, own, refer, entity]
+keywords: [Button, CustomDetail, Entity, EntityFieldsMaps, GeoLocation, Message, NounWrapper, Result, Rule, SensitiveDataRule, TranscriptEntry, Chat, REST, API, resource, code, successful, execution, JSON, bodies, contain, their, own, refer, case-sensitive]
 ---
-
-# Chat REST API Data Types
 
 > A request to a Chat REST API resource returns a response code. The successful
 execution of a resource request can also return a response body in JSON format. Some response bodies

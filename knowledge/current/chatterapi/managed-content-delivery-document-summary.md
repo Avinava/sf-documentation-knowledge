@@ -5,12 +5,10 @@ topic: managed-content-delivery-document-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.162Z
+lastCollected: 2026-04-07T18:37:20.349Z
 estimatedTokens: 307
 keywords: [Managed, Content, Delivery, Document, Summary]
 ---
-
-# Managed Content Delivery Document Summary
 
 > Managed content delivery document summary.
 

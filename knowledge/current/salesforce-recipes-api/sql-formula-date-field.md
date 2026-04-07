@@ -5,12 +5,10 @@ topic: sql-formula-date-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.928Z
+lastCollected: 2026-04-07T18:39:19.613Z
 estimatedTokens: 123
 keywords: [SQL, Formula, Date, recipe, node]
 ---
-
-# SQL Formula Date Field
 
 > The SQL formula date field for a recipe node.
 

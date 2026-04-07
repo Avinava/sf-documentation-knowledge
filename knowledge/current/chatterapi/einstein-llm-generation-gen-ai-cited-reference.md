@@ -5,12 +5,10 @@ topic: einstein-llm-generation-gen-ai-cited-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.398Z
+lastCollected: 2026-04-07T18:37:18.494Z
 estimatedTokens: 146
-keywords: [Einstein, LLM, Generation, Gen, Cited, Metadata, input, source, generated]
+keywords: [Einstein, LLM, Generation, Gen, Cited, Metadata, source, generated]
 ---
-
-# Einstein LLM Generation Gen AI Cited Reference
 
 > Metadata from an input source that is cited in a generated response.
 

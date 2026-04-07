@@ -5,12 +5,10 @@ topic: content-taxonomy-path-fragment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.882Z
+lastCollected: 2026-04-07T18:37:17.949Z
 estimatedTokens: 142
 keywords: [Content, Taxonomy, Path, Fragment, representing, term]
 ---
-
-# Content Taxonomy Path Fragment
 
 > Fragment of a path in a content taxonomy, representing information about a term or the
     taxonomy.

@@ -5,12 +5,10 @@ topic: cronjobdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.044Z
+lastCollected: 2026-04-07T18:39:36.590Z
 estimatedTokens: 190
-keywords: [CronJobDetail, associated, scheduled, job, job’s, API, version, 29.0, later]
+keywords: [CronJobDetail, scheduled, job, job’s, API, 29.0]
 ---
-
-# CronJobDetail
 
 > Contains details about the associated scheduled job, such as the
       job’s name and type.

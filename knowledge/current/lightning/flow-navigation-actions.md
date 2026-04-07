@@ -5,12 +5,10 @@ topic: flow-navigation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.030Z
+lastCollected: 2026-04-07T18:38:02.984Z
 estimatedTokens: 351
 keywords: [Flow, Navigation, Actions, availableActions, attribute, screen]
 ---
-
-# Flow Navigation Actions
 
 > The availableActions attribute lists the valid
       navigation actions for that screen.

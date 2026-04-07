@@ -5,12 +5,10 @@ topic: step-3-download-and-build-the-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.018Z
+lastCollected: 2026-04-07T18:36:51.331Z
 estimatedTokens: 898
 keywords: [Step, Download, Build, Project, run, connector, examples, Java, source, files]
 ---
-
-# Step 3:  Download and Build the Project
 
 > Before you can run the connector examples, download the Java source files and build the
     Java project.

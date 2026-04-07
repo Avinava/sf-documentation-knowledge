@@ -5,12 +5,10 @@ topic: fiscalquarterfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.036Z
+lastCollected: 2026-04-07T18:37:01.642Z
 estimatedTokens: 227
-keywords: [fiscal_quarter_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, fiscal, quarter, defined, February, March, April]
+keywords: [fiscal_quarter_first_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, fiscal, quarter, defined, February, March, April, second, May, June, July, third, August, September, October, fourth, November, December, January, _quarter, _first, _day]
 ---
-
-# fiscal_quarter_first_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date object as input. Returns an object of the same type that
   corresponds to the first day of the fiscal quarter that contains the specified date. By default,

@@ -6,13 +6,10 @@ topic: add-a-trace-flag-entry-for-the-default-automated-process-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.548Z
+lastCollected: 2026-04-07T18:38:58.414Z
 estimatedTokens: 197
 keywords: [Add, Trace, Flag, Entry, Automated, Process, User, collect, logs, event, subscription, entity, Setup]
 ---
-
-# Add a Trace Flag Entry for the Default Automated Process
-    User
 
 > To collect logs for an event subscription, add a trace flag entry for the Automated
     Process entity in Setup.

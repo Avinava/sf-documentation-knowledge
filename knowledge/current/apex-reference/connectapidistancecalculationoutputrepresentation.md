@@ -5,12 +5,10 @@ topic: connectapidistancecalculationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.305Z
+lastCollected: 2026-04-07T18:36:08.734Z
 estimatedTokens: 137
-keywords: [Shipping, distance, data, inventory, locations]
+keywords: [Shipping, distance, inventory, locations]
 ---
-
-# ConnectApi.DistanceCalculationOutputRepresentation
 
 > Shipping distance data for a set of inventory
     locations.

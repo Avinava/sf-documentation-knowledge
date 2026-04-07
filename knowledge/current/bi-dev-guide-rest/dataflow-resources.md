@@ -5,12 +5,10 @@ topic: dataflow-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.639Z
+lastCollected: 2026-04-07T18:36:56.160Z
 estimatedTokens: 204
-keywords: [Dataflow, Resources, Dataflows, prepare, data, Analytics, creating, datasets, transformations, manipulate]
+keywords: [Dataflow, Resources, Dataflows, prepare, Analytics, creating, datasets, transformations, manipulate]
 ---
-
-# Dataflow Resources
 
 > Dataflows are used to prepare data for Analytics, creating one or more datasets using transformations to manipulate the data.
 

@@ -5,12 +5,10 @@ topic: coaserviceordersubmitinput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.802Z
+lastCollected: 2026-04-07T18:38:45.610Z
 estimatedTokens: 78
 keywords: [COA_ServiceOrderSubmitInput, COA, _ServiceOrderSubmitInput]
 ---
-
-# COA_ServiceOrderSubmitInput Properties
 
 > The following are properties for COA_ServiceOrderSubmitInput.
 

@@ -5,12 +5,10 @@ topic: samlssoconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:43.916Z
+lastCollected: 2026-04-07T18:36:29.395Z
 estimatedTokens: 1862
-keywords: [SamlSsoConfig, SAML, Sign-On, configuration, extends, Metadata, inherits, fullName, SSO, authentication, users, access, multiple, applications, login]
+keywords: [SamlSsoConfig, SAML, Sign-On, configuration, extends, Metadata, inherits, fullName, SSO, authentication, users, multiple, applications, login, credentials, log, org, they, automatically, apps, App, Launcher, Salesforce, trust, third-party, identity, provider, authenticate, configure, rely, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SamlSsoConfig
 
 > Represents a SAML Single Sign-On configuration. This type extends the Metadata metadata
     type and inherits its fullName field. Single sign-on (SSO) is an

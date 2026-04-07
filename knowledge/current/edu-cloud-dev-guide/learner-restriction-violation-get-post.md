@@ -5,12 +5,10 @@ topic: learner-restriction-violation-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.288Z
+lastCollected: 2026-04-07T18:37:29.384Z
 estimatedTokens: 460
 keywords: [Learner, Restriction, Violation, POST, Retrieve, apply, new, hold, their, contact]
 ---
-
-# Learner Restriction Violation (GET, POST)
 
 > Retrieve and apply a new restriction (hold) to a learner by their contact
     ID.

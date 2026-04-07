@@ -5,12 +5,10 @@ topic: create-a-template-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.475Z
+lastCollected: 2026-04-07T18:40:25.849Z
 estimatedTokens: 612
 keywords: [Template, Project, sure, you’ve, installed, Salesforce, Mobile, SDK, NPM, installer, iOS, instructions, Preparation, Android]
 ---
-
-# Create a Template Project
 
 > First, make sure you’ve installed Salesforce Mobile SDK using the NPM installer. For iOS
                 instructions, see iOS Preparation. For Android instructions, see

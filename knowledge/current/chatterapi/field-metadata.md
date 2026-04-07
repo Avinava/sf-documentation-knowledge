@@ -5,12 +5,10 @@ topic: field-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:32.149Z
+lastCollected: 2026-04-07T18:37:19.271Z
 estimatedTokens: 406
 keywords: [Metadata, Search]
 ---
-
-# Field Metadata
 
 > Search metadata for the field of an object.
 

@@ -5,12 +5,10 @@ topic: story-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.657Z
+lastCollected: 2026-04-07T18:36:59.153Z
 estimatedTokens: 126
 keywords: [Story, Resource, Einstein, Discovery]
 ---
-
-# Story Resource
 
 > Returns an Einstein Discovery story.
 

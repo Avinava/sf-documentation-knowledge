@@ -5,12 +5,10 @@ topic: product-catalog-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.716Z
+lastCollected: 2026-04-07T18:35:47.744Z
 estimatedTokens: 803
 keywords: [Product, Catalog, Management, Business, APIs, primitive, serve, definitions, users, applications]
 ---
-
-# Product Catalog Management Business APIs
 
 > Use primitive APIs of Product Catalog Management that serve catalog definitions to
         users or applications.

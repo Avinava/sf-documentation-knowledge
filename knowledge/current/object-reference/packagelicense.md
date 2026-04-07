@@ -5,12 +5,10 @@ topic: packagelicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.074Z
+lastCollected: 2026-04-07T18:38:37.365Z
 estimatedTokens: 491
-keywords: [PackageLicense, license, installed, managed, package, API, version, 31.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [PackageLicense, license, installed, managed, package, API, 31.0]
 ---
-
-# PackageLicense
 
 > Represents a license for an installed managed
         package.

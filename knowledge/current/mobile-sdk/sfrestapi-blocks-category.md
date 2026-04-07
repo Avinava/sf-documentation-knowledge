@@ -5,12 +5,10 @@ topic: sfrestapi-blocks-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.137Z
+lastCollected: 2026-04-07T18:40:26.441Z
 estimatedTokens: 1061
-keywords: [SFRestAPI, Blocks, Category, receiving, handling, REST, API, responses, inline, code, instead, delegate, alternative, Objective-C, approach]
+keywords: [SFRestAPI, Blocks, Category, receiving, handling, REST, API, responses, inline, code, instead, delegate, alternative, Objective-C, approach, lets, send, handle, asynchronous, call]
 ---
-
-# SFRestAPI (Blocks) Category
 
 > For receiving and handling REST API responses, you can use inline code blocks instead
     of a delegate class. This alternative Objective-C approach lets you send a request and handle

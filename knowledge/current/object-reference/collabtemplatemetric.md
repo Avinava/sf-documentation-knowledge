@@ -5,12 +5,10 @@ topic: collabtemplatemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.060Z
+lastCollected: 2026-04-07T18:38:27.982Z
 estimatedTokens: 591
-keywords: [CollabTemplateMetric, engagement, metrics, Quip, template.This, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [CollabTemplateMetric, engagement, metrics, Quip, template.This, API, 50.0]
 ---
-
-# CollabTemplateMetric
 
 > Represents the engagement metrics for a Quip template.This
       object is available in API version 50.0 and later.

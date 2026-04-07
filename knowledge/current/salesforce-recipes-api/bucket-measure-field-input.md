@@ -5,12 +5,10 @@ topic: bucket-measure-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.473Z
+lastCollected: 2026-04-07T18:39:18.152Z
 estimatedTokens: 127
-keywords: [Bucket, Measure, Input, node, recipe]
+keywords: [Bucket, Measure, node, recipe]
 ---
-
-# Bucket Measure Field Input
 
 > A measure field for a bucket node in a recipe.
 

@@ -5,12 +5,10 @@ topic: connectapimanagedcontentvariant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.720Z
+lastCollected: 2026-04-07T18:36:10.035Z
 estimatedTokens: 492
 keywords: [ConnectApi.ManagedContentVariant, Managed, content, variant]
 ---
-
-# ConnectApi.ManagedContentVariant
 
 > Managed content variant.
 

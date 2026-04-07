@@ -5,13 +5,11 @@ topic: thresholdinformation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.869Z
+lastCollected: 2026-04-07T18:36:03.076Z
 estimatedTokens: 695
 namespace: Reports
 keywords: [ThresholdInformation, evaluated, conditions, report, notification, evaluatedConditions, getEvaluatedConditions]
 ---
-
-# ThresholdInformation Class
 
 > Contains a list of evaluated conditions for a report
       notification.

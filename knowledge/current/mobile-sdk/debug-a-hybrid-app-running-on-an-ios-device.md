@@ -5,12 +5,10 @@ topic: debug-a-hybrid-app-running-on-an-ios-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.713Z
+lastCollected: 2026-04-07T18:40:26.050Z
 estimatedTokens: 247
 keywords: [Debug, Hybrid, App, Running, iOS, Device, apps, real, simulated, devices, Safari, desktop]
 ---
-
-# Debug a Hybrid App Running on an iOS Device
 
 > To debug hybrid apps on real or simulated iOS devices,
             use Safari on the desktop and the device.

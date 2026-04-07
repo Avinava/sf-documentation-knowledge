@@ -5,12 +5,10 @@ topic: invokeaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.267Z
+lastCollected: 2026-04-07T18:37:04.993Z
 estimatedTokens: 118
-keywords: [invokeAction, custom, components, save, submit, quick, action, record, Arguments]
+keywords: [Arguments, invokeAction, save, submit, quick, action, record]
 ---
-
-# invokeAction
 
 > Allows custom components to save or submit the quick action on a record
   page.

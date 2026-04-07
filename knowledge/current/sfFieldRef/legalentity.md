@@ -5,12 +5,10 @@ topic: legalentity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.595Z
+lastCollected: 2026-04-07T18:39:46.141Z
 estimatedTokens: 531
-keywords: [LegalEntity, way, organization, structured, legal, entity, comprise, API, version, 48.0, later]
+keywords: [LegalEntity, way, organization, structured, legal, entity, comprise, API, 48.0]
 ---
-
-# LegalEntity
 
 > Represents the way an organization is structured. An organization can be a
       single legal entity or it can comprise more than one legal entity. This object is

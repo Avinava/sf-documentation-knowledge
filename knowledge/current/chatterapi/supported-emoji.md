@@ -5,12 +5,10 @@ topic: supported-emoji
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.156Z
+lastCollected: 2026-04-07T18:37:23.279Z
 estimatedTokens: 67
 keywords: [Emoji, collection]
 ---
-
-# Supported Emoji
 
 > A collection of supported emoji.
 

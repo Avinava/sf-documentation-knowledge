@@ -5,12 +5,10 @@ topic: cart-delivery-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:35.171Z
+lastCollected: 2026-04-07T18:37:22.278Z
 estimatedTokens: 115
 keywords: [Cart, Delivery, Group, promotion]
 ---
-
-# Cart Delivery Group
 
 > Cart delivery group for a promotion.
 

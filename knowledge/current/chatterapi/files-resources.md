@@ -5,12 +5,10 @@ topic: files-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.924Z
+lastCollected: 2026-04-07T18:37:13.888Z
 estimatedTokens: 550
-keywords: [Files, Resources, file, upload, config, including, content, rendered, version, sharing, asset, rendition]
+keywords: [Files, Resources, file, upload, config, including, content, rendered, sharing, asset, rendition]
 ---
-
-# Files Resources
 
 > Get the file upload config. Get information about files,
       including content, rendered version, and sharing. Get information about asset files, including

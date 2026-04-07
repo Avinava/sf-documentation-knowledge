@@ -5,12 +5,10 @@ topic: isphonenumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.190Z
+lastCollected: 2026-04-07T18:40:22.588Z
 estimatedTokens: 153
-keywords: [IsPhoneNumber, Function, Ordinal, Phone, number, evaluate, **Overview**, **Syntax**, Usage]
+keywords: [IsPhoneNumber, Function, Ordinal, Phone, number, evaluate, **Overview**, **Syntax**]
 ---
-
-# IsPhoneNumber
 
 > IsPhoneNumber(1)
 

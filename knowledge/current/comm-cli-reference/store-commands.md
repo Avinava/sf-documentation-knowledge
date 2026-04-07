@@ -5,12 +5,10 @@ topic: store-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.942Z
+lastCollected: 2026-04-07T18:37:25.859Z
 estimatedTokens: 2260
-keywords: [store, Commands, Comprehensive, community, push, sources, buyer, user, import, products, search, index, commerce, Examples, Command]
+keywords: [store, Commands, Comprehensive, community, push, sources, buyer, user, import, products, search, index, commerce, Examples, Command, display, open, quickstart, setup]
 ---
-
-# store Commands
 
 > Comprehensive create and set up a store.  This will create your community/store push store sources, create buyer user, import products, create search index.
 

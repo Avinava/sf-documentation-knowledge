@@ -5,12 +5,10 @@ topic: stockrotationexecution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.284Z
+lastCollected: 2026-04-07T18:38:14.698Z
 estimatedTokens: 506
-keywords: [StockRotationExecution, stock, rotation, rebate, activity, recording, affected, inventory, partner, claim, processing, API, version, 65.0, later]
+keywords: [StockRotationExecution, stock, rotation, rebate, activity, recording, affected, inventory, partner, claim, processing, API, 65.0]
 ---
-
-# StockRotationExecution
 
 > Represents a stock rotation rebate activity, recording affected inventory and
          partner information for rebate claim processing. This object is available in API

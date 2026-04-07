@@ -5,12 +5,10 @@ topic: disputeitemarbitration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.228Z
+lastCollected: 2026-04-07T18:37:37.005Z
 estimatedTokens: 1482
-keywords: [DisputeItemArbitration, arbitration, compliance, case, filed, transaction, that's, disputed, API, version, 62.0, later, Calls, Special, Access]
+keywords: [DisputeItemArbitration, arbitration, compliance, case, filed, transaction, that's, disputed, API, 62.0]
 ---
-
-# DisputeItemArbitration
 
 > Represents the details of the arbitration or compliance case filed for a transaction that's being disputed. This object is available in API version 62.0 and later.
 

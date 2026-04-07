@@ -5,12 +5,10 @@ topic: advanced-features-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.682Z
+lastCollected: 2026-04-07T18:38:56.239Z
 estimatedTokens: 1561
 keywords: [Advanced, Features, Second-Generation, Managed, Packages, you're, comfortable, creating, customize, package, development, processes]
 ---
-
-# Advanced Features for Second-Generation Managed Packages
 
 > After you're comfortable with creating second-generation managed packages, learn about
   these advanced features to customize your package development processes.

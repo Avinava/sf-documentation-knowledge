@@ -5,12 +5,10 @@ topic: sessionhijackingeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.051Z
+lastCollected: 2026-04-07T18:40:01.826Z
 estimatedTokens: 647
-keywords: [SessionHijackingEventStore, Tracks, unauthorized, users, gain, ownership, Salesforce, user’s, session, stolen, identifier, detect, event, evaluates, how]
+keywords: [SessionHijackingEventStore, Tracks, unauthorized, users, gain, ownership, Salesforce, user’s, session, stolen, identifier, detect, event, evaluates, how, significantly, current, browser, fingerprint, diverges, previously, known, probabilistically, inferred, significance, change, stores, SessionHijackingEvent, API, 49.0]
 ---
-
-# SessionHijackingEventStore
 
 > Tracks when unauthorized users gain ownership of a Salesforce user’s
 			session with a stolen session identifier. To detect such an event, Salesforce evaluates

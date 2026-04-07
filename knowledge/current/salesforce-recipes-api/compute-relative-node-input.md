@@ -5,12 +5,10 @@ topic: compute-relative-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.529Z
+lastCollected: 2026-04-07T18:39:18.216Z
 estimatedTokens: 122
-keywords: [Compute, Relative, Node, Input, recipe]
+keywords: [Compute, Relative, Node, recipe]
 ---
-
-# Compute Relative Node Input
 
 > A compute relative node in a recipe.
 

@@ -5,12 +5,10 @@ topic: assign-regular-shifts-to-actual-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.327Z
+lastCollected: 2026-04-07T18:39:21.137Z
 estimatedTokens: 244
-keywords: [Assign, Regular, Shifts, Actual, Resources, Service, their, frequently, changing, work, hours, different, territory, beyond, territory’s]
+keywords: [Assign, Regular, Shifts, Actual, Resources, Service, their, frequently, changing, work, hours, different, territory, beyond, territory’s, operating, multiple, territories, periods, follow, flexible, pattern, working, availability, resource]
 ---
-
-# Assign Regular Shifts to Actual Resources
 
 > Service resources can set up and update their frequently changing work hours by
       using shifts. Service resources can set up shifts for different work hours for the same

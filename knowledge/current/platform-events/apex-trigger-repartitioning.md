@@ -5,12 +5,10 @@ topic: apex-trigger-repartitioning
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.331Z
+lastCollected: 2026-04-07T18:38:58.187Z
 estimatedTokens: 526
 keywords: [Apex, Trigger, Repartitioning, repartition, already, configured, parallel, subscriptions, PlatformEventSubscriberConfig, Tooling, API, Metadata]
 ---
-
-# Apex Trigger Repartitioning
 
 > To repartition an Apex trigger that is already configured with parallel subscriptions,
   update the existing PlatformEventSubscriberConfig in Tooling API or Metadata API.

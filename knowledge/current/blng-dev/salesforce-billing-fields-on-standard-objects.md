@@ -5,12 +5,10 @@ topic: salesforce-billing-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.849Z
+lastCollected: 2026-04-07T18:37:04.479Z
 estimatedTokens: 845
-keywords: [Salesforce, Billing, Standard, Objects, added, custom, represent, specific, orgs, managed, package, installed]
+keywords: [Salesforce, Billing, Standard, added, represent, specific, orgs, managed, package, installed]
 ---
-
-# Salesforce Billing Fields on Standard Objects
 
 > Salesforce Billing has added custom fields to some standard Salesforce objects to
   represent information specific to billing. These fields are available only in orgs where the

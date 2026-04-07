@@ -5,12 +5,10 @@ topic: productspecificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.539Z
+lastCollected: 2026-04-07T18:35:47.576Z
 estimatedTokens: 490
-keywords: [ProductSpecificationType, specification, org, define, products, unique, terminology, specific, industry, Parent, File, Suffix, Directory, Location, Version, product, provided, user, associated, record]
+keywords: [ProductSpecificationType, specification, org, define, products, unique, terminology, specific, industry, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, product, provided, user, record, API, 60.0, SOAP, REST]
 ---
-
-# ProductSpecificationType
 
 > Represents the specification types in your org that define products with
          unique terminology specific to the industry. This object is available in API version

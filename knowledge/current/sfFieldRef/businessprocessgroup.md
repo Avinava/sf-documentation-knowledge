@@ -5,13 +5,11 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:36.541Z
+lastCollected: 2026-04-07T18:39:30.764Z
 estimatedTokens: 303
 namespace: NamespacePrefix
 keywords: [BusinessProcessGroup, Setup, stores, customer, lifecycle, maps, track, scores, provided, customers, across, their, Salesforce, Surveys]
 ---
-
-# BusinessProcessGroup
 
 > Setup object that stores information about customer lifecycle maps. Customer
       lifecycle maps are used to track the scores provided by customers across their lifecycle using

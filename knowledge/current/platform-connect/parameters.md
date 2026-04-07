@@ -5,12 +5,10 @@ topic: parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.654Z
+lastCollected: 2026-04-07T18:38:57.460Z
 estimatedTokens: 189
-keywords: [JSON-formatted, containing, context, developer, Visualforce, tag, apex, canvasApp, component, Chatter, canvas, feed, item, variable, cre]
+keywords: [JSON-formatted, containing, context, developer, Visualforce, tag, apex, canvasApp, Chatter, canvas, item, variable, cre]
 ---
-
-# Parameters
 
 > The Parameters object
 is a JSON-formatted object containing context information specified

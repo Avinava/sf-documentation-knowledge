@@ -5,12 +5,10 @@ topic: action-link-group-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.403Z
+lastCollected: 2026-04-07T18:37:07.116Z
 estimatedTokens: 1137
-keywords: [Action, Link, Group, Definition, Input, links, belong, mutually, exclusive, share, Define, standalone, actions, their, own]
+keywords: [Action, Link, Group, Definition, links, belong, mutually, exclusive, share, Define, standalone, actions, their, own]
 ---
-
-# Action Link Group Definition Input
 
 > The definition of an action link group. All action links must belong
       to a group. Action links in a group are mutually exclusive and share some properties. Define

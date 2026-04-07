@@ -5,12 +5,10 @@ topic: connectapiassociaterecordswithrecipientinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.217Z
+lastCollected: 2026-04-07T18:39:16.827Z
 estimatedTokens: 103
-keywords: [Records, associated, survey, invitation]
+keywords: [Records, survey, invitation]
 ---
-
-# ConnectApi.AssociateRecordsWithRecipientInput
 
 > Records associated with the survey invitation.
 

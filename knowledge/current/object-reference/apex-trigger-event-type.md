@@ -5,12 +5,10 @@ topic: apex-trigger-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.920Z
+lastCollected: 2026-04-07T18:38:30.736Z
 estimatedTokens: 1799
 keywords: [Apex, Trigger, Event, events, contain, triggers, fire, organization]
 ---
-
-# Apex Trigger Event Type
 
 > Apex Trigger events contain details about triggers that fire in an
          organization.

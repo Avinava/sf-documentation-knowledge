@@ -5,12 +5,10 @@ topic: vpl360csrgetpaymentmethodscsr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.259Z
+lastCollected: 2026-04-07T18:38:11.573Z
 estimatedTokens: 143
-keywords: [VPL360CSR_getPaymentMethodsCSR, Integration, Procedure, card, payment, VPL360CSR, _getPaymentMethodsCSR, Sample, Input, Output, Calls]
+keywords: [VPL360CSR_getPaymentMethodsCSR, Integration, Procedure, card, payment, VPL360CSR, _getPaymentMethodsCSR, Sample]
 ---
-
-# VPL360CSR_getPaymentMethodsCSR
 
 > This Integration Procedure gets card or payment
         details.

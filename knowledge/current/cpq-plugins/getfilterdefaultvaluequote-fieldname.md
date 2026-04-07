@@ -5,12 +5,10 @@ topic: getfilterdefaultvaluequote-fieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.649Z
+lastCollected: 2026-04-07T18:37:27.649Z
 estimatedTokens: 156
-keywords: [getFilterDefaultValue, quote, fieldName, Determines, initial, search, Salesforce, CPQ, calls, implemented, input]
+keywords: [getFilterDefaultValue, quote, fieldName, Determines, initial, search, Salesforce, CPQ, implemented]
 ---
-
-# getFilterDefaultValue(quote, fieldName)
 
 > Determines the value for the initial search. Salesforce CPQ calls
       this implemented method for each input field.

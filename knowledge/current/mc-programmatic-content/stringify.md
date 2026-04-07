@@ -5,12 +5,10 @@ topic: stringify
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.277Z
+lastCollected: 2026-04-07T18:40:23.716Z
 estimatedTokens: 120
 keywords: [Stringify, Function, Ordinal, JavaScript, convert, **Overview**, **Syntax**, transform]
 ---
-
-# Stringify
 
 > Stringify(1)
 

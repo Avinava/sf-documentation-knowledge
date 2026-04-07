@@ -5,12 +5,10 @@ topic: product-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.877Z
+lastCollected: 2026-04-07T18:37:21.990Z
 estimatedTokens: 182
 keywords: [Product, Category]
 ---
-
-# Product Category
 
 > Product category.
 

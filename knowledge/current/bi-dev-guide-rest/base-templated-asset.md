@@ -5,12 +5,10 @@ topic: base-templated-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.181Z
+lastCollected: 2026-04-07T18:36:56.753Z
 estimatedTokens: 314
 keywords: [Base, Templated, Asset, Analytics, created, template]
 ---
-
-# Base Templated Asset
 
 > A base Analytics asset created from a template.
 

@@ -5,12 +5,10 @@ topic: shipment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.264Z
+lastCollected: 2026-04-07T18:38:14.676Z
 estimatedTokens: 1678
-keywords: [Shipment, product, item, that’s, transit, two, inventory, locations, API, version, 60.0, later, Calls]
+keywords: [Shipment, product, item, that’s, transit, two, inventory, locations, API, 60.0]
 ---
-
-# Shipment
 
 > Represents a product item that’s in transit between two inventory
          locations. This object is available in API version 60.0 and later.

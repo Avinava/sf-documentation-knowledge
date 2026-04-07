@@ -5,12 +5,10 @@ topic: carbon-inventory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.733Z
+lastCollected: 2026-04-07T18:38:16.280Z
 estimatedTokens: 409
-keywords: [Carbon, Inventory, Capture, organization’s, footprint, source, certain, time, period, creating, annual, emissions, data, base, achieve]
+keywords: [Carbon, Inventory, Capture, organization’s, footprint, source, certain, time, period, creating, annual, emissions, base, achieve, reduction, targets, fulfill, Net, Zero, commitment]
 ---
-
-# Carbon Inventory
 
 > Capture your organization’s carbon footprint from a source for a
       certain time period by creating an annual emissions inventory. Using this data as the base,

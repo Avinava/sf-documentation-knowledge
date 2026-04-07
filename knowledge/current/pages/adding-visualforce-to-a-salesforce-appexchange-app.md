@@ -5,12 +5,10 @@ topic: adding-visualforce-to-a-salesforce-appexchange-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.589Z
+lastCollected: 2026-04-07T18:38:51.892Z
 estimatedTokens: 1003
-keywords: [Adding, Visualforce, Salesforce, AppExchange, App, include, pages, components, custom, controllers, creating]
+keywords: [Adding, Visualforce, Salesforce, AppExchange, App, include, pages, controllers, creating]
 ---
-
-# Adding Visualforce to a Salesforce AppExchange App
 
 > You can include Visualforce pages, components, or custom controllers in an app that you are
       creating for AppExchange.

@@ -5,12 +5,10 @@ topic: cgcloudaccountsalesdatac
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.341Z
+lastCollected: 2026-04-07T18:39:12.775Z
 estimatedTokens: 1025
-keywords: [cgcloud__Account_Sales_Data__c, sales, customer, two, consecutive, years, Access, provided, System, Admin, API, version, 54.0, later, cgcloud]
+keywords: [cgcloud__Account_Sales_Data__c, sales, customer, two, consecutive, years, provided, System, Admin, API, 54.0, cgcloud, _Account, _Sales, _Data]
 ---
-
-# cgcloud__Account_Sales_Data__c
 
 > Contains the information of the sales of a customer for two consecutive
          years. Access of the object provided to the System Admin. This object is available in

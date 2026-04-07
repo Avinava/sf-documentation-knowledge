@@ -5,12 +5,10 @@ topic: invoiceerrordetailevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.305Z
+lastCollected: 2026-04-07T18:38:59.196Z
 estimatedTokens: 277
-keywords: [InvoiceErrorDetailEvent, errors, occurred, processing, commerce, billing, invoices, included, InvoiceProcessedEvent, message, can't, subscribe, directly, API, version]
+keywords: [InvoiceErrorDetailEvent, errors, occurred, processing, commerce, billing, invoices, included, InvoiceProcessedEvent, message, can't, subscribe, directly, API, 55.0]
 ---
-
-# InvoiceErrorDetailEvent
 
 > Contains information about errors that occurred during the processing
 			of a /commerce/billing/invoices request. This

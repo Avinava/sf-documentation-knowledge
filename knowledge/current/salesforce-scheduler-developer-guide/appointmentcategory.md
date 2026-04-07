@@ -5,12 +5,10 @@ topic: appointmentcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.875Z
+lastCollected: 2026-04-07T18:39:20.641Z
 estimatedTokens: 635
-keywords: [AppointmentCategory, category, work, shifts, API, version, 58.0, later, Calls, Special, Access, Rules, Usage, Associated, Objects]
+keywords: [AppointmentCategory, category, work, shifts, API, 58.0]
 ---
-
-# AppointmentCategory
 
 > Represents the category of work types and shifts. This object is
       available in API version 58.0 and later.

@@ -5,12 +5,10 @@ topic: product-requirement-specification-version-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.440Z
+lastCollected: 2026-04-07T18:38:12.730Z
 estimatedTokens: 627
-keywords: [Product, Requirement, Specification, Version, Output, representation, versions]
+keywords: [Product, Requirement, Specification, versions]
 ---
-
-# Product Requirement Specification Version Output
 
 > Output representation of the list of versions for this specification.
 

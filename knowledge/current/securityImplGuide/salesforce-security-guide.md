@@ -5,12 +5,10 @@ topic: salesforce-security-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.935Z
+lastCollected: 2026-04-07T18:39:22.851Z
 estimatedTokens: 714
-keywords: [Salesforce, Security, built, protect, data, applications, implement, own, scheme, reflect, structure, needs, organization, Protecting, joint]
+keywords: [Salesforce, Security, built, protect, applications, implement, own, scheme, reflect, structure, needs, organization, Protecting, joint, responsibility, features, enable, empower, users, their, jobs, safely, efficiently]
 ---
-
-# Salesforce Security Guide
 
 > Salesforce is built with security to protect your data and applications. You can
         also implement your own security scheme to reflect the structure and needs of your organization. Protecting your data is a joint

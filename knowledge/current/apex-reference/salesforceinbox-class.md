@@ -5,13 +5,11 @@ topic: salesforceinbox-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.518Z
+lastCollected: 2026-04-07T18:35:58.788Z
 estimatedTokens: 518
 namespace: ConnectApi
-keywords: [SalesforceInbox, Share, emails, events, certain, groups, users, shareActivity, activityId, sharingInfo, API, Version, Requires, Chatter, Usage]
+keywords: [SalesforceInbox, Share, emails, events, certain, groups, users, shareActivity, activityId, sharingInfo, API, Requires, Chatter]
 ---
-
-# SalesforceInbox Class
 
 > Share emails or events with certain groups of users.
 

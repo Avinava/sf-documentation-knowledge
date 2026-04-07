@@ -5,12 +5,10 @@ topic: check-agent-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.948Z
+lastCollected: 2026-04-07T18:40:28.077Z
 estimatedTokens: 664
 keywords: [Check, Agent, Availability, starting, session, chat, agents, provide, users, accurate, expectations]
 ---
-
-# Check Agent Availability
 
 > Before starting a session, you can check the availability
             of your chat agents and then provide your users with more accurate

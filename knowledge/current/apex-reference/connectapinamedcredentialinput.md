@@ -5,12 +5,10 @@ topic: connectapinamedcredentialinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.515Z
+lastCollected: 2026-04-07T18:36:05.868Z
 estimatedTokens: 350
-keywords: [ConnectApi.NamedCredentialInput, Input, named, credential]
+keywords: [ConnectApi.NamedCredentialInput, named, credential]
 ---
-
-# ConnectApi.NamedCredentialInput
 
 > Input used to create or update a named credential.
 

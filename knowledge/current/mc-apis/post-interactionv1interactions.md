@@ -5,12 +5,10 @@ topic: post-interactionv1interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.996Z
+lastCollected: 2026-04-07T18:40:18.183Z
 estimatedTokens: 745
-keywords: [POST, interaction, interactions, Creates, saves, journey, new, provide, appropriate, Specification, Please, Spec, understand, via, API]
+keywords: [POST, interaction, interactions, Creates, saves, journey, new, provide, appropriate, Specification, Please, Spec, understand, via, API, key, createdDate, modifiedDate, status, definitionId, **Overview**]
 ---
-
-# POST /interaction/v1/interactions
 
 > Creates or saves a journey. To create a new journey provide the request body in the appropriate Journey Specification. Please read the Journey Spec page to understand which properties are required to create a journey via the API. The id, key, createdDate, modifiedDate, status and definitionId are as
 

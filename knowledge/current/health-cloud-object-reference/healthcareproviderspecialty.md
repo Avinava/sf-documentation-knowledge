@@ -5,12 +5,10 @@ topic: healthcareproviderspecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.334Z
+lastCollected: 2026-04-07T18:37:46.950Z
 estimatedTokens: 1437
-keywords: [HealthcareProviderSpecialty, specialties, practitioner, service, provider, organization, multiple, anesthesiology, cardiovascular, Calls, Associated, Objects]
+keywords: [HealthcareProviderSpecialty, specialties, practitioner, service, provider, organization, multiple, anesthesiology, cardiovascular]
 ---
-
-# HealthcareProviderSpecialty
 
 > Represents specialties for a practitioner or a service provider
 			organization. A provider can have multiple specialties such as

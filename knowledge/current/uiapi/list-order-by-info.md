@@ -5,12 +5,10 @@ topic: list-order-by-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.792Z
+lastCollected: 2026-04-07T18:40:11.806Z
 estimatedTokens: 289
 keywords: [Order, Info, Ordering]
 ---
-
-# List Order By Info
 
 > Ordering information for a list.
 

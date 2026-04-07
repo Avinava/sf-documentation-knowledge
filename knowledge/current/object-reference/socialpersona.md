@@ -5,12 +5,10 @@ topic: socialpersona
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.839Z
+lastCollected: 2026-04-07T18:38:41.578Z
 estimatedTokens: 1394
-keywords: [SocialPersona, snapshot, contact's, profile, social, network, Facebook, Twitter, API, version, 22.0, later, Calls, Usage, Associated]
+keywords: [SocialPersona, snapshot, contact's, profile, social, network, Facebook, Twitter, API, 22.0]
 ---
-
-# SocialPersona
 
 > Represents a snapshot of a contact's profile on a social network
 			such as Facebook or Twitter. This object is available in API version 22.0 and

@@ -5,12 +5,10 @@ topic: medication-statements-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.271Z
+lastCollected: 2026-04-07T18:37:41.334Z
 estimatedTokens: 191
 keywords: [Medication, Statements, POST, patient]
 ---
-
-# Medication Statements (POST)
 
 > Create medication statements for a patient.
 

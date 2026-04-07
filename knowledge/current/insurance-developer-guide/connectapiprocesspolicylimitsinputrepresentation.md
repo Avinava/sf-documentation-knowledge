@@ -5,12 +5,10 @@ topic: connectapiprocesspolicylimitsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.226Z
+lastCollected: 2026-04-07T18:37:50.067Z
 estimatedTokens: 152
-keywords: [Input, representation, processing, policy, limits, claim, loss, item]
+keywords: [processing, policy, limits, claim, loss, item]
 ---
-
-# ConnectApi.ProcessPolicyLimitsInputRepresentation
 
 > Input representation for processing policy limits for a claim loss item.
 

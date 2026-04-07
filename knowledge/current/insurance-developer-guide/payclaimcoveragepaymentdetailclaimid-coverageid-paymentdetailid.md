@@ -5,12 +5,10 @@ topic: payclaimcoveragepaymentdetailclaimid-coverageid-paymentdetailid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.443Z
+lastCollected: 2026-04-07T18:37:49.279Z
 estimatedTokens: 316
-keywords: [PayClaimCoveragePaymentDetail, claimId, coverageId, paymentDetailId, Process, payment, specific, claim, coverage, detail, record, API, Version, Requires, Chatter]
+keywords: [PayClaimCoveragePaymentDetail, claimId, coverageId, paymentDetailId, Process, payment, specific, claim, coverage, detail, record, API, Requires, Chatter]
 ---
-
-# PayClaimCoveragePaymentDetail(claimId, coverageId, paymentDetailId)
 
 > Process payment for a specific claim coverage payment detail record.
 

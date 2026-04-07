@@ -5,12 +5,10 @@ topic: servicechannelstatusfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.611Z
+lastCollected: 2026-04-07T18:40:01.376Z
 estimatedTokens: 246
 keywords: [ServiceChannelStatusField, indicate, completed, in-progress, work, item, status, Status-Based, Capacity, routing, model]
 ---
-
-# ServiceChannelStatusField
 
 > Represents the values that you use to indicate completed and
 			in-progress work item status for the status field in the Status-Based Capacity routing

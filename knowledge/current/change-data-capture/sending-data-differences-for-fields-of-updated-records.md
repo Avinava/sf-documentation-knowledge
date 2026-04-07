@@ -5,12 +5,10 @@ topic: sending-data-differences-for-fields-of-updated-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.428Z
+lastCollected: 2026-04-07T18:37:05.158Z
 estimatedTokens: 748
-keywords: [Sending, Data, Differences, Updated, Records, reduce, event, payload, size, improve, performance, Salesforce, sometimes, text, large]
+keywords: [Sending, Differences, Updated, Records, reduce, event, payload, size, improve, performance, Salesforce, sometimes, text, large, Long, Area, contain, least, characters, sent, unified, diff]
 ---
-
-# Sending Data Differences for Fields of Updated Records
 
 > To reduce the event payload size and improve performance, Salesforce sometimes sends
     data differences of updated text values. For large text fields, such as Description or Long Text

@@ -5,12 +5,10 @@ topic: account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:07.125Z
+lastCollected: 2026-04-07T18:35:51.947Z
 estimatedTokens: 3479
-keywords: [Account, DMO, Data, Cloud, model, how, party, wants, interact, company, Provided, Sales, Service, Kits, API]
+keywords: [Category, Relationships, Account, DMO, Cloud, model, how, party, wants, interact, company, Provided, Sales, Service, Kits, API, Primary, Subject, Area, Key]
 ---
-
-# Account DMO
 
 > The Account DMO is a Data Cloud data model object for how a party wants
 		to interact with your company. Provided in both the Sales and Service Data Kits.

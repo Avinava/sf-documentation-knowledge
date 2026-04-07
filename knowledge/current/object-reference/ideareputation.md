@@ -5,12 +5,10 @@ topic: ideareputation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.441Z
+lastCollected: 2026-04-07T18:38:33.600Z
 estimatedTokens: 553
-keywords: [IdeaReputation, collection, statistics, scores, derived, user’s, activity, Ideas, zone, internal, organization, API, version, 28.0, later]
+keywords: [IdeaReputation, collection, statistics, scores, derived, user’s, activity, Ideas, zone, internal, organization, API, 28.0]
 ---
-
-# IdeaReputation
 
 > Represents a collection of statistics and scores derived from a
       user’s activity within an Ideas zone or internal organization. This object is available

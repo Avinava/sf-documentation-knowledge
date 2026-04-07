@@ -5,12 +5,10 @@ topic: empbenefitsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.412Z
+lastCollected: 2026-04-07T18:39:39.069Z
 estimatedTokens: 444
-keywords: [EmpBenefitSummary, statistics, benefits, provided, employees, usage]
+keywords: [EmpBenefitSummary, statistics, benefits, provided, employees]
 ---
-
-# EmpBenefitSummary
 
 > Represents statistics about benefits provided to employees and the
          usage of benefits.

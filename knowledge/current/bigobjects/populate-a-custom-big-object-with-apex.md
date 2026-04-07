@@ -5,12 +5,10 @@ topic: populate-a-custom-big-object-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:16.383Z
+lastCollected: 2026-04-07T18:37:02.938Z
 estimatedTokens: 1151
-keywords: [Populate, Custom, Big, Apex, Considerations, Populating, Objects, Test]
+keywords: [Populate, Big, Apex, Considerations, Populating, Test]
 ---
-
-# Populate a Custom Big Object with Apex
 
 > Use Apex to populate a custom big object.
 

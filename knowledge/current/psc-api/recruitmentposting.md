@@ -5,12 +5,10 @@ topic: recruitmentposting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.345Z
+lastCollected: 2026-04-07T18:39:07.563Z
 estimatedTokens: 1385
-keywords: [RecruitmentPosting, advertisement, vacancy, you're, recruiting, posted, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [RecruitmentPosting, advertisement, vacancy, you're, recruiting, posted, API, 62.0]
 ---
-
-# RecruitmentPosting
 
 > Represents an advertisement of a vacancy that you're recruiting for and specifies
          when and where the advertisement is posted. This object is available in API version

@@ -5,12 +5,10 @@ topic: configuration-set-instance-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.943Z
+lastCollected: 2026-04-07T18:35:43.938Z
 estimatedTokens: 183
-keywords: [Configuration, Instance, Input, representation, product]
+keywords: [Configuration, Instance, product]
 ---
-
-# Configuration Set Instance Input
 
 > Input representation of the request to set a product configuration instance.
 

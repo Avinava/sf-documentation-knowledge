@@ -5,12 +5,10 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.336Z
+lastCollected: 2026-04-07T18:40:17.503Z
 estimatedTokens: 472
 keywords: [Group, subscribers, defined, Marketing, Cloud, Interact, groups, via, API, manner, Items, application, interact]
 ---
-
-# Group
 
 > The Group object is a group of subscribers defined in Marketing Cloud. Interact with groups via the API in the same manner as lists.
 

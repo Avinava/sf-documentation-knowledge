@@ -5,12 +5,10 @@ topic: accountcleaninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.496Z
+lastCollected: 2026-04-07T18:38:24.372Z
 estimatedTokens: 5808
 keywords: [AccountCleanInfo, Stores, metadata, Data.com, Clean, uses, determine, account, record’s, status, helps, automate, cleaning, processing, records]
 ---
-
-# AccountCleanInfo
 
 > Stores the metadata Data.com Clean uses to determine an account
             record’s clean status. AccountCleanInfo helps you automate the cleaning or

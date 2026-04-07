@@ -5,12 +5,10 @@ topic: journaltypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.361Z
+lastCollected: 2026-04-07T18:39:45.912Z
 estimatedTokens: 258
-keywords: [JournalTypeHistory, History, tracked, JournalType]
+keywords: [JournalTypeHistory, tracked, JournalType]
 ---
-
-# JournalTypeHistory
 
 > History for tracked fields of JournalType.
 

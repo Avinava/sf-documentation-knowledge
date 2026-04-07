@@ -5,12 +5,10 @@ topic: managed-content-provider-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.253Z
+lastCollected: 2026-04-07T18:37:20.439Z
 estimatedTokens: 229
 keywords: [Managed, Content, Provider, Collection, providers]
 ---
-
-# Managed Content Provider Collection
 
 > Collection of managed content providers.
 

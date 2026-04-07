@@ -5,12 +5,10 @@ topic: news-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.174Z
+lastCollected: 2026-04-07T18:37:10.856Z
 estimatedTokens: 2855
-keywords: [News, Feed, Resources, containing, elements, interest, context, user, post, items, URL, Is-Modified]
+keywords: [News, Resources, containing, interest, context, user, post, items, URL, Is-Modified]
 ---
-
-# News Feed Resources
 
 > A feed containing feed elements of interest to the context
          user. You can post feed items to the news feed.

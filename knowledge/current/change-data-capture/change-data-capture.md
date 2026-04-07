@@ -5,12 +5,10 @@ topic: change-data-capture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.608Z
+lastCollected: 2026-04-07T18:37:05.357Z
 estimatedTokens: 932
-keywords: [Change, Data, Capture, Receive, near-real-time, changes, Salesforce, records, synchronize, corresponding, external, store, publishes, events, represent]
+keywords: [Change, Capture, Receive, near-real-time, changes, Salesforce, records, synchronize, corresponding, external, store, publishes, events, represent, include, creation, new, record, updates, deletion, undeletion]
 ---
-
-# Change Data Capture
 
 > Receive near-real-time changes of Salesforce records, and
       synchronize corresponding records in an external data store. Change Data Capture publishes

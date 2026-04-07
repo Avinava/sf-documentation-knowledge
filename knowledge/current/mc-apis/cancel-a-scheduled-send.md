@@ -5,12 +5,10 @@ topic: cancel-a-scheduled-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.529Z
+lastCollected: 2026-04-07T18:40:15.628Z
 estimatedTokens: 670
 keywords: [Cancel, Scheduled, Send, canceling, Why, How, Sample, NET, Code, SOAP, Envelope]
 ---
-
-# Cancel a Scheduled Send
 
 > This page contains information  about canceling a scheduled send.
 

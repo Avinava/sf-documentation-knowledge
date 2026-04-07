@@ -5,12 +5,10 @@ topic: vpl360upsertpaymethodorderpayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.903Z
+lastCollected: 2026-04-07T18:38:11.167Z
 estimatedTokens: 185
-keywords: [VPL360_UpsertPayMethodOrderPayment, Integration, Procedure, saves, Order, Payment, objects, VPL360, _UpsertPayMethodOrderPayment, Sample, Input, Output, Calls]
+keywords: [VPL360_UpsertPayMethodOrderPayment, Integration, Procedure, saves, Order, Payment, VPL360, _UpsertPayMethodOrderPayment, Sample]
 ---
-
-# VPL360_UpsertPayMethodOrderPayment
 
 > This Integration Procedure saves the Order Payment and
 		Payment Method objects.

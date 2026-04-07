@@ -5,12 +5,10 @@ topic: apexinclude
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.579Z
+lastCollected: 2026-04-07T18:38:49.722Z
 estimatedTokens: 309
-keywords: [apex, include, component, inserts, second, Visualforce, current, entire, subtree, injected, DOM, point, scope, included, maintained]
+keywords: [Attributes, apex, include, inserts, second, Visualforce, current, entire, subtree, injected, DOM, point, scope, included, maintained]
 ---
-
-# apex:include
 
 > A component that inserts a second Visualforce page into the current page. The entire page subtree is injected into the Visualforce DOM at the point of reference and the scope of the included page is maintained.
 

@@ -5,12 +5,10 @@ topic: rateadjustmentbyattributehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.632Z
+lastCollected: 2026-04-07T18:39:58.292Z
 estimatedTokens: 277
-keywords: [RateAdjustmentByAttributeHistory, History, tracked, RateAdjustmentByAttribute]
+keywords: [RateAdjustmentByAttributeHistory, tracked, RateAdjustmentByAttribute]
 ---
-
-# RateAdjustmentByAttributeHistory
 
 > History for tracked fields of RateAdjustmentByAttribute.
 

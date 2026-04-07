@@ -5,12 +5,10 @@ topic: additional-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.758Z
+lastCollected: 2026-04-07T18:36:52.182Z
 estimatedTokens: 89
-keywords: [Additional, Criteria, Input, representation, event, generated, inbound, events]
+keywords: [Additional, Criteria, event, generated, inbound, events]
 ---
-
-# Additional Criteria Input
 
 > Input representation of the additional event criteria generated during inbound
     events.

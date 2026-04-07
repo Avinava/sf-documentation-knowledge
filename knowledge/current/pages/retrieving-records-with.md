@@ -5,12 +5,10 @@ topic: retrieving-records-with
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.933Z
+lastCollected: 2026-04-07T18:38:52.252Z
 estimatedTokens: 613
-keywords: [Retrieving, Records, Retrieve, calling, Remote, Objects, model, instance]
+keywords: [Retrieving, Records, Retrieve, calling, Remote, model, instance]
 ---
-
-# Retrieving Records with
 
 > Retrieve records by calling retrieve() on a
 		Remote Objects model instance.

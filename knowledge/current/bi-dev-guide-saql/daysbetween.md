@@ -5,12 +5,10 @@ topic: daysbetween
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.020Z
+lastCollected: 2026-04-07T18:37:00.542Z
 estimatedTokens: 317
-keywords: [daysBetween, number, days, two, dates, function, foreach, statement, Usage]
+keywords: [daysBetween, number, days, two, dates, function, foreach, statement]
 ---
-
-# daysBetween()
 
 > Returns the number of days between two dates. This function is only valid in a
             foreach statement.

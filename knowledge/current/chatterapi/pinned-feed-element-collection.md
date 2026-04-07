@@ -5,12 +5,10 @@ topic: pinned-feed-element-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.691Z
+lastCollected: 2026-04-07T18:37:21.803Z
 estimatedTokens: 137
-keywords: [Pinned, Feed, Element, Collection, elements]
+keywords: [Pinned, Collection]
 ---
-
-# Pinned Feed Element Collection
 
 > Collection of pinned feed elements.
 

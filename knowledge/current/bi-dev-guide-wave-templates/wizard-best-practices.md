@@ -5,12 +5,10 @@ topic: wizard-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:15.705Z
+lastCollected: 2026-04-07T18:37:02.274Z
 estimatedTokens: 463
 keywords: [Wizard, Best, Practices, deliver, optimal, user, experience, adopt, creating]
 ---
-
-# Wizard Best Practices
 
 > To deliver an optimal user experience, adopt these best practices when creating a
   wizard.

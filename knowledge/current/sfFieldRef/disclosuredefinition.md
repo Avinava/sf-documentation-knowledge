@@ -5,13 +5,11 @@ topic: disclosuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.350Z
+lastCollected: 2026-04-07T18:39:38.065Z
 estimatedTokens: 307
 namespace: NamespacePrefix
 keywords: [DisclosureDefinition, disclosure, publisher, vendor, created, implemented, report]
 ---
-
-# DisclosureDefinition
 
 > Represents information that defines a disclosure type, such as
          details of the publisher or vendor who created or implemented the report.

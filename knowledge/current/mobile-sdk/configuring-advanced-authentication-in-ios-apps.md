@@ -5,12 +5,10 @@ topic: configuring-advanced-authentication-in-ios-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.819Z
+lastCollected: 2026-04-07T18:40:25.204Z
 estimatedTokens: 667
-keywords: [Configuring, Advanced, Authentication, iOS, Apps, support, auth, require, custom, configuration, Standard, Versus, App]
+keywords: [Configuring, Advanced, Authentication, iOS, Apps, support, auth, require, configuration, Standard, Versus, App]
 ---
-
-# Configuring Advanced Authentication in iOS Apps
 
 > To support advanced auth, all iOS apps require some custom configuration.
 

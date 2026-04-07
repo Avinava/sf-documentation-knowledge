@@ -5,12 +5,10 @@ topic: exempt-users-from-transaction-security-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.358Z
+lastCollected: 2026-04-07T18:39:22.248Z
 estimatedTokens: 456
-keywords: [Exempt, Users, Transaction, Security, Policies, work, well, assign, specific, user, permission, policy, metering, regularly, blocks]
+keywords: [Exempt, Users, Transaction, Security, Policies, work, well, assign, specific, user, permission, policy, metering, regularly, blocks, business-critical, actions, bulk, automated, API, integration, admins, responsible, don't, want, blocked]
 ---
-
-# Exempt Users from Transaction Security Policies
 
 > If you have transaction security policies that work well for most users, but not all,
     you can assign specific users the Exempt from Transaction Security user permission. Assign this

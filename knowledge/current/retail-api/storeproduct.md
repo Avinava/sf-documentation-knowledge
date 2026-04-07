@@ -5,12 +5,10 @@ topic: storeproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.506Z
+lastCollected: 2026-04-07T18:39:16.044Z
 estimatedTokens: 911
-keywords: [StoreProduct, Associate, product, retail, store, specific, in-store, location, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [StoreProduct, Associate, product, retail, store, specific, in-store, location, API, 47.0]
 ---
-
-# StoreProduct
 
 > Associate a product to a retail store or to a specific in-store location.
     This object is available in API version 47.0 and later.

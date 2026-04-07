@@ -5,12 +5,10 @@ topic: visualizations-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.249Z
+lastCollected: 2026-04-07T18:38:47.222Z
 estimatedTokens: 729
 keywords: [Visualizations, AppExchange, Marketplace, Analytics, Explore, observe, trends, identify, opportunities, listing]
 ---
-
-# Visualizations in AppExchange Marketplace Analytics
 
 > Explore AppExchange Marketplace Analytics visualizations to observe trends and identify
   opportunities for your listing.

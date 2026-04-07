@@ -5,12 +5,10 @@ topic: configuration-management-database-graphql-api-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:09.822Z
+lastCollected: 2026-04-07T18:35:54.913Z
 estimatedTokens: 2418
-keywords: [Configuration, Management, Database, GraphQL, API, POST, Access, manage, items, Agentforce, Service, CMDB, Execute, operations, assets]
+keywords: [Authorization, Configuration, Management, Database, GraphQL, API, POST, manage, items, Agentforce, Service, CMDB, Execute, operations, assets, query, search, CIs, Endpoint, Attributes, Operation]
 ---
-
-# Configuration Management Database GraphQL API (POST)
 
 > Access and manage configuration items (CI) in the Agentforce IT
       Service Configuration Management Database (CMDB). Execute operations Create, Read, and Update

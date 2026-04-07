@@ -6,13 +6,10 @@ topic: use-aura-and-lightning-web-components-outside-of-salesforce-with-lightnin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.538Z
+lastCollected: 2026-04-07T18:38:04.694Z
 estimatedTokens: 487
-keywords: [Aura, Lightning, Web, Components, Outside, Salesforce, Beta, run, servers, special, standalone, app, Whether, it’s, Node.js]
+keywords: [Aura, Lightning, Web, Outside, Salesforce, Beta, run, servers, standalone, app, Whether, it’s, Node.js, running, Heroku, department, server, inside, firewall, add, dependencies, wherever, users]
 ---
-
-# Use Aura and Lightning Web Components Outside of Salesforce with Lightning Out
-  (Beta)
 
 > To run components outside of Salesforce servers, use Lightning Out,
   a special type of standalone Aura app. Whether it’s a Node.js app running on

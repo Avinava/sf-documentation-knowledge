@@ -5,12 +5,10 @@ topic: associated-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.310Z
+lastCollected: 2026-04-07T18:37:29.403Z
 estimatedTokens: 160
-keywords: [Associated, Rule, Output, representation, evaluated, determine, whether, hold, applied]
+keywords: [Rule, evaluated, determine, whether, hold, applied]
 ---
-
-# Associated Rule
 
 > Output representation of the rule evaluated to determine whether a hold is to be
     applied.

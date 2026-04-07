@@ -5,12 +5,10 @@ topic: vcs-synch-state-sfdevopsvcssynchstatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.668Z
+lastCollected: 2026-04-07T18:37:28.743Z
 estimatedTokens: 348
-keywords: [VCS, Synch, State, sf_devops__Vcs_Synch_State__c, synchronization, DevOps, Center, source, version, control, system, uses, track, events, ensure]
+keywords: [VCS, Synch, State, sf_devops__Vcs_Synch_State__c, synchronization, DevOps, Center, source, control, system, uses, track, events, ensure, working, latest, code, repository, orgs, package, 8.2, API, 62.0, _devops, _Vcs, _Synch, _State]
 ---
-
-# VCS Synch State (sf_devops__Vcs_Synch_State__c)
 
 > Represents the synchronization state between DevOps Center and the
          source (version) control system. DevOps Center uses this object to track all

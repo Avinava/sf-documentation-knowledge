@@ -5,12 +5,10 @@ topic: availability-records-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.915Z
+lastCollected: 2026-04-07T18:37:14.964Z
 estimatedTokens: 757
-keywords: [Availability, Records, Upload, Asynchronously, inventory, data, Omnichannel, check, status, jobs, either, NDJSON, CSV, file]
+keywords: [Availability, Records, Upload, Asynchronously, inventory, Omnichannel, check, status, jobs, either, NDJSON, CSV, file]
 ---
-
-# Availability Records, Upload
 
 > Asynchronously upload inventory data to Omnichannel Inventory and check the status of
     upload jobs. Upload inventory data using either a NDJSON or CSV file.

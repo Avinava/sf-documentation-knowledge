@@ -5,12 +5,10 @@ topic: resourcesevaluated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.480Z
+lastCollected: 2026-04-07T18:36:46.317Z
 estimatedTokens: 85
-keywords: [resourcesEvaluated, total, number, service, resources, loaded, fetch, data, evaluated, getAppointmentInsights]
+keywords: [resourcesEvaluated, total, number, service, resources, loaded, fetch, evaluated, getAppointmentInsights]
 ---
-
-# resourcesEvaluated
 
 > The total number of service resources loaded by fetch data and
       evaluated by the getAppointmentInsights

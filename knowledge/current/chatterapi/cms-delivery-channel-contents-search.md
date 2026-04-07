@@ -5,12 +5,10 @@ topic: cms-delivery-channel-contents-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.823Z
+lastCollected: 2026-04-07T18:37:11.622Z
 estimatedTokens: 300
 keywords: [CMS, Delivery, Channel, Contents, Search, content, Experience, Cloud, site]
 ---
-
-# CMS Delivery Channel Contents Search
 
 > Search for content in a channel or an Experience Cloud site.
 

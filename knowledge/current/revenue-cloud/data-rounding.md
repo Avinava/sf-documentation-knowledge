@@ -5,12 +5,10 @@ topic: data-rounding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.714Z
+lastCollected: 2026-04-07T18:35:45.714Z
 estimatedTokens: 194
-keywords: [Data, Rounding, Output, representation]
+keywords: [Rounding]
 ---
-
-# Data Rounding
 
 > Output representation of the data rounding response.
 

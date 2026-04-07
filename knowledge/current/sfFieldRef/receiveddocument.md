@@ -5,12 +5,10 @@ topic: receiveddocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.158Z
+lastCollected: 2026-04-07T18:39:58.809Z
 estimatedTokens: 404
 keywords: [ReceivedDocument, operation, performed, document, rotating, splitting, text, extraction]
 ---
-
-# ReceivedDocument
 
 > Contains a request for an operation to be performed on a document,
       such as rotating, splitting, or text extraction.

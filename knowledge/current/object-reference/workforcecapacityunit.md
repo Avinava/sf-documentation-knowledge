@@ -5,12 +5,10 @@ topic: workforcecapacityunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.876Z
+lastCollected: 2026-04-07T18:38:44.683Z
 estimatedTokens: 1331
-keywords: [WorkforceCapacityUnit, number, resources, allocated, needed, specific, work, items, timestamp, duration, API, version, 51.0, later, Calls]
+keywords: [WorkforceCapacityUnit, number, resources, allocated, needed, specific, work, items, timestamp, duration, API, 51.0]
 ---
-
-# WorkforceCapacityUnit
 
 > Represents the number of resources allocated or needed for a specific set of
          work items at a timestamp within a specific duration. This object is available in API

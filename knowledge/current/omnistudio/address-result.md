@@ -5,12 +5,10 @@ topic: address-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.008Z
+lastCollected: 2026-04-07T18:36:38.669Z
 estimatedTokens: 238
-keywords: [Address, Result, Output, representation]
+keywords: [Address, Result]
 ---
-
-# Address Result
 
 > Output representation of the address result.
 

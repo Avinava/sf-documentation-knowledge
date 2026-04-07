@@ -5,12 +5,10 @@ topic: duration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.892Z
+lastCollected: 2026-04-07T18:38:05.052Z
 estimatedTokens: 106
 keywords: [duration, representing, length, time, Sample, Code]
 ---
-
-# duration()
 
 > Returns an object representing a length of time.
 

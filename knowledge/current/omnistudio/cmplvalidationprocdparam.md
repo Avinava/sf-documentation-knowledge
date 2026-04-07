@@ -5,12 +5,10 @@ topic: cmplvalidationprocdparam
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:58.744Z
+lastCollected: 2026-04-07T18:36:44.474Z
 estimatedTokens: 588
-keywords: [CmplValidationProcdParam, input, passed, business, context, Compliance, API, invoked, output, expected, Validation, Procedure, check, version, 65.0]
+keywords: [CmplValidationProcdParam, passed, business, context, Compliance, API, invoked, expected, Validation, Procedure, check, 65.0]
 ---
-
-# CmplValidationProcdParam
 
 > Represents the input parameters passed in the business context when the
          Compliance API is invoked, and the output parameters expected by the Validation Procedure

@@ -5,12 +5,10 @@ topic: sellerproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.231Z
+lastCollected: 2026-04-07T18:38:14.641Z
 estimatedTokens: 626
-keywords: [SellerProduct, products, associated, seller, insight, product, availability, production, seller's, role, sales, service, API, version, 65.0]
+keywords: [SellerProduct, products, seller, insight, product, availability, production, seller's, role, sales, service, API, 65.0]
 ---
-
-# SellerProduct
 
 > Represents information about the products associated with a seller. Provides
          insight into product availability, production details, and the seller's role for the

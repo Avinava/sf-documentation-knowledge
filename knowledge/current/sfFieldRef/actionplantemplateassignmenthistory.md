@@ -5,12 +5,10 @@ topic: actionplantemplateassignmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.668Z
+lastCollected: 2026-04-07T18:39:24.585Z
 estimatedTokens: 281
-keywords: [ActionPlanTemplateAssignmentHistory, History, tracked, ActionPlanTemplateAssignment]
+keywords: [ActionPlanTemplateAssignmentHistory, tracked, ActionPlanTemplateAssignment]
 ---
-
-# ActionPlanTemplateAssignmentHistory
 
 > History for tracked fields of ActionPlanTemplateAssignment.
 

@@ -5,12 +5,10 @@ topic: group-merge-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.807Z
+lastCollected: 2026-04-07T18:38:20.545Z
 estimatedTokens: 319
-keywords: [Group, Merge, Input, representation, party, relationship]
+keywords: [Group, Merge, party, relationship]
 ---
-
-# Group Merge Input
 
 > Input representation of a merge party relationship group
       request.

@@ -5,12 +5,10 @@ topic: omniassessmenttaskshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.593Z
+lastCollected: 2026-04-07T18:39:50.041Z
 estimatedTokens: 161
 keywords: [OmniAssessmentTaskShare, Sharing, OmniAssessmentTask]
 ---
-
-# OmniAssessmentTaskShare
 
 > Sharing for OmniAssessmentTask.
 

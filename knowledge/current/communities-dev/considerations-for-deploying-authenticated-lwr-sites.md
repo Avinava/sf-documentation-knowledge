@@ -5,12 +5,10 @@ topic: considerations-for-deploying-authenticated-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:39.776Z
+lastCollected: 2026-04-07T18:37:26.729Z
 estimatedTokens: 614
-keywords: [Considerations, Deploying, Authenticated, LWR, Sites, Beginning, Winter, ’23, new, created, Experience, Builder, Connect, API, don’t]
+keywords: [Considerations, Deploying, Authenticated, LWR, Sites, Beginning, Winter, ’23, new, created, Experience, Builder, Connect, API, don’t, include, end, their, URLs, URL, structure, impacts, deployment, sandbox, production, match, scenarios, how, resolve, unsupported, errors, Metadata, Deployments, Change]
 ---
-
-# Considerations for Deploying Authenticated LWR Sites
 
 > Beginning in Winter ’23, new LWR sites created through Experience Builder or Connect API
   don’t include /s at the end of their URLs. URLs for authenticated LWR sites created before Winter

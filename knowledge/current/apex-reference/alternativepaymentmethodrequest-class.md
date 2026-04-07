@@ -5,13 +5,11 @@ topic: alternativepaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.487Z
+lastCollected: 2026-04-07T18:36:01.718Z
 estimatedTokens: 1858
 namespace: CommercePayments
 keywords: [AlternativePaymentMethodRequest, alternative, payment, gateway, process, gatewayToken, accountId, email, gatewayTokenDetails, equals, obj, hashCode, toString]
 ---
-
-# AlternativePaymentMethodRequest Class
 
 > The class contains information about the alternative payment method that are required for
     a gateway to process the request.

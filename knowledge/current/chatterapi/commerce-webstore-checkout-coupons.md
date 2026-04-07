@@ -5,12 +5,10 @@ topic: commerce-webstore-checkout-coupons
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.528Z
+lastCollected: 2026-04-07T18:37:12.412Z
 estimatedTokens: 495
 keywords: [Commerce, Webstore, Checkout, Coupons, Apply, coupon, code]
 ---
-
-# Commerce Webstore Checkout Coupons
 
 > Apply a coupon code to a checkout.
 

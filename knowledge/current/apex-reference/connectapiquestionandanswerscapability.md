@@ -5,12 +5,10 @@ topic: connectapiquestionandanswerscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.074Z
+lastCollected: 2026-04-07T18:36:11.355Z
 estimatedTokens: 339
-keywords: [ConnectApi.QuestionAndAnswersCapability, feed, element, capability, question, comments, answers]
+keywords: [ConnectApi.QuestionAndAnswersCapability, capability, question, comments, answers]
 ---
-
-# ConnectApi.QuestionAndAnswersCapability
 
 > If a feed element has this capability, it has a question and comments
       on the feed element are answers to the question.

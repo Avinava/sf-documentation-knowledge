@@ -5,12 +5,10 @@ topic: payments-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.910Z
+lastCollected: 2026-04-07T18:37:25.826Z
 estimatedTokens: 358
 keywords: [payments, Commands, new, Payment, Gateway, commerce, quickstart, setup, Examples, Command]
 ---
-
-# payments Commands
 
 > Set up a new Payment Gateway.
 

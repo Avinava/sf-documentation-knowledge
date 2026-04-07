@@ -5,12 +5,10 @@ topic: genericvisittaskcontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.632Z
+lastCollected: 2026-04-07T18:39:06.760Z
 estimatedTokens: 1656
-keywords: [GenericVisitTaskContext, context, purpose, generic, visit, task, Calls, Associated, Objects]
+keywords: [GenericVisitTaskContext, context, purpose, generic, visit, task]
 ---
-
-# GenericVisitTaskContext
 
 > Represents the context or purpose for a generic visit task.
 

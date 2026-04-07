@@ -5,12 +5,10 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.150Z
+lastCollected: 2026-04-07T18:36:26.595Z
 estimatedTokens: 579
-keywords: [Group, groups, users, roles, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Sample]
+keywords: [Group, groups, users, roles, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Group
 
 > Represents a set of public groups, which can have users,
             roles, and other groups.

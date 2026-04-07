@@ -5,13 +5,11 @@ topic: flatlistrowiterable-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.261Z
+lastCollected: 2026-04-07T18:39:10.738Z
 estimatedTokens: 494
 namespace: CGCloud
-keywords: [FlatListRowIterable, Real, Time, Reporting, RTR, report, Flatlist, component, rows, implements, Iterable, batch, processes, hasNext]
+keywords: [FlatListRowIterable, Real, Time, Reporting, RTR, report, Flatlist, rows, implements, Iterable, batch, processes, hasNext]
 ---
-
-# FlatListRowIterable Class
 
 > Represents a Real Time Reporting (RTR) report UI Flatlist component set
    of rows. This class implements the Iterable interface that

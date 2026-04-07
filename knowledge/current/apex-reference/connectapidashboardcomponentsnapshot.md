@@ -5,12 +5,10 @@ topic: connectapidashboardcomponentsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.122Z
+lastCollected: 2026-04-07T18:36:08.524Z
 estimatedTokens: 504
-keywords: [ConnectApi.DashboardComponentSnapshot, dashboard, component, snapshots, alerts, receive, crosses, threshold]
+keywords: [ConnectApi.DashboardComponentSnapshot, dashboard, snapshots, alerts, receive, crosses, threshold]
 ---
-
-# ConnectApi.DashboardComponentSnapshot
 
 > Represents both dashboard component snapshots and alerts you receive
       when a dashboard component value crosses a threshold.

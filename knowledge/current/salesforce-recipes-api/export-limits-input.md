@@ -5,12 +5,10 @@ topic: export-limits-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.576Z
+lastCollected: 2026-04-07T18:39:18.267Z
 estimatedTokens: 99
-keywords: [Export, Limits, Input, node, recipe]
+keywords: [Export, Limits, node, recipe]
 ---
-
-# Export Limits Input
 
 > The limits for an export node in a recipe.
 

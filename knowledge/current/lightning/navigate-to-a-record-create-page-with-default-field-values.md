@@ -5,12 +5,10 @@ topic: navigate-to-a-record-create-page-with-default-field-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.225Z
+lastCollected: 2026-04-07T18:38:03.230Z
 estimatedTokens: 743
-keywords: [Navigate, Record, lightning, pageReferenceUtils, component, utilities, encoding, Pass, pageReference.state.defaultFieldValues, attribute, standard__objectPage, Launch, Account, Standard, Action]
+keywords: [Navigate, Record, lightning, pageReferenceUtils, utilities, encoding, Pass, pageReference.state.defaultFieldValues, attribute, standard__objectPage, Launch, Account, Standard, Action, Handle, Override]
 ---
-
-# Navigate to a Record Create Page with Default Field Values
 
 > The lightning:pageReferenceUtils component
         provides utilities for encoding default field values into a string. Pass this string into

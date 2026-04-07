@@ -5,12 +5,10 @@ topic: create-an-html-content-block-with-server-side-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.536Z
+lastCollected: 2026-04-07T18:40:22.968Z
 estimatedTokens: 409
 keywords: [HTML, Content, Block, Server-Side, JavaScript, uses, Asset, include, email, message, process, requires, AssetType]
 ---
-
-# Create an HTML Content Block with Server-Side JavaScript
 
 > This example uses Server-Side JavaScript to create an Asset block with a type of HTML Content Block. You can include this content block in an email message. This process requires values for Name and AssetType.
 

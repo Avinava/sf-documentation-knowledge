@@ -5,12 +5,10 @@ topic: repository-sfdevopsrepositoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.640Z
+lastCollected: 2026-04-07T18:37:28.706Z
 estimatedTokens: 734
-keywords: [Repository, sf_devops__Repository__c, specific, location, source, control, system, metadata, project, stored, Multiple, projects, orgs, DevOps, Center]
+keywords: [Repository, sf_devops__Repository__c, specific, location, source, control, system, metadata, project, stored, Multiple, projects, orgs, DevOps, Center, installed, _devops, _Repository]
 ---
-
-# Repository (sf_devops__Repository__c)
 
 > Represents a specific location in a source control system where the
          metadata for a project is stored. Multiple projects can reference the same repository.

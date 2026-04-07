@@ -5,12 +5,10 @@ topic: trigger-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.579Z
+lastCollected: 2026-04-07T18:36:18.802Z
 estimatedTokens: 230
 keywords: [Trigger, trigger_events, comma-separated, events]
 ---
-
-# Trigger Syntax
 
 > where trigger_events can be a comma-separated list of one or more of
             the following events:

@@ -5,12 +5,10 @@ topic: saql-null-measures-and-dimensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.456Z
+lastCollected: 2026-04-07T18:37:01.040Z
 estimatedTokens: 428
-keywords: [SAQL, Measures, Dimensions, CRM, Analytics, measure, handling, add, numeric, columns, datasets, grouped, queries]
+keywords: [Measures, Dimensions, SAQL, CRM, Analytics, measure, handling, add, numeric, columns, datasets, grouped, queries]
 ---
-
-# SAQL Null Measures and Dimensions
 
 > With CRM Analytics, you can use null measure handling to add null as the default value
     for numeric columns in datasets. Use null dimensions to return grouped null values from your

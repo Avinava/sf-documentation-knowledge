@@ -5,12 +5,10 @@ topic: adjust-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.442Z
+lastCollected: 2026-04-07T18:37:07.151Z
 estimatedTokens: 602
-keywords: [Adjust, Item, Input, price, adjustment, OrderItemSummary, supports, discounts, increases]
+keywords: [Adjust, Item, price, adjustment, OrderItemSummary, supports, discounts, increases]
 ---
-
-# Adjust Item Input
 
 > A price adjustment to an OrderItemSummary. It only supports
       discounts, not increases.

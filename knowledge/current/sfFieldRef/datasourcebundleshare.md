@@ -5,12 +5,10 @@ topic: datasourcebundleshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.814Z
+lastCollected: 2026-04-07T18:39:37.454Z
 estimatedTokens: 251
 keywords: [DataSourceBundleShare, Sharing, DataSourceBundle]
 ---
-
-# DataSourceBundleShare
 
 > Sharing for DataSourceBundle.
 

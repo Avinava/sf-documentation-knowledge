@@ -5,12 +5,10 @@ topic: domainsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.095Z
+lastCollected: 2026-04-07T18:38:29.960Z
 estimatedTokens: 460
-keywords: [DomainSite, Read-only, junction, joins, Site, Domain, objects, API, version, 26.0, later, Calls, Special, Access, Rules]
+keywords: [DomainSite, Read-only, junction, joins, Site, Domain, API, 26.0]
 ---
-
-# DomainSite
 
 > Read-only junction object that joins the Site and Domain objects. This object is available in API version 26.0 and later.
 

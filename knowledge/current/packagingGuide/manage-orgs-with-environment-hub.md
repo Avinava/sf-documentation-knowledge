@@ -5,12 +5,10 @@ topic: manage-orgs-with-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.847Z
+lastCollected: 2026-04-07T18:38:46.829Z
 estimatedTokens: 933
-keywords: [Manage, Orgs, Environment, Hub, lets, connect, view, log, Salesforce, location, company, multiple, environments, development, testing]
+keywords: [Manage, Orgs, Environment, Hub, lets, connect, view, log, Salesforce, location, company, multiple, environments, development, testing, trials, streamline, approach, org, management]
 ---
-
-# Manage Orgs with Environment Hub
 
 > The Environment Hub lets you connect, create, view, and log in to Salesforce orgs from one location. If your
   company has multiple environments for development, testing, and trials, the Environment Hub lets

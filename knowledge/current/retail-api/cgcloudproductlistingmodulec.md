@@ -5,12 +5,10 @@ topic: cgcloudproductlistingmodulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.018Z
+lastCollected: 2026-04-07T18:39:14.409Z
 estimatedTokens: 1025
-keywords: [cgcloud__Product_Listing_Module__c, Add, products, Product, Assortment, listing, modules, API, version, 54.0, later, cgcloud, _Product, _Listing, _Module]
+keywords: [cgcloud__Product_Listing_Module__c, Add, products, Product, Assortment, listing, modules, API, 54.0, cgcloud, _Product, _Listing, _Module]
 ---
-
-# cgcloud__Product_Listing_Module__c
 
 > Add products to Product Assortment with listing modules. This
       object is available in API version 54.0 and later.

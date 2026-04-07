@@ -5,12 +5,10 @@ topic: actioninfolist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.804Z
+lastCollected: 2026-04-07T18:37:34.313Z
 estimatedTokens: 108
 keywords: [actionInfoList, action, taken, record, alert]
 ---
-
-# actionInfoList
 
 > Details of an action taken on a record alert.
 

@@ -5,12 +5,10 @@ topic: field-set-field-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.075Z
+lastCollected: 2026-04-07T18:37:52.210Z
 estimatedTokens: 98
-keywords: [Output, representation, that's, associated, specific]
+keywords: [that's, specific]
 ---
-
-# Field Set Field Details
 
 > Output representation of the field that's associated with a specific field
   set.

@@ -5,12 +5,10 @@ topic: salesforce-cli-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.402Z
+lastCollected: 2026-04-07T18:40:09.351Z
 estimatedTokens: 2018
-keywords: [Salesforce, CLI, Plugins, consists, npm, Node.js, package, manager, @salesforce, multiple, plugins—also, packages—that, contain, commands, JavaScript]
+keywords: [Salesforce, CLI, Plugins, consists, npm, Node.js, package, manager, @salesforce, multiple, plugins—also, packages—that, contain, commands, JavaScript, Typescript, runtime, environment, supports, execution, outside, browser, core, functionality, comes]
 ---
-
-# Salesforce CLI Plugins
 
 > Salesforce CLI consists of an npm (Node.js package manager) package called @salesforce/cli and multiple plugins—also npm
     packages—that contain commands. Node.js is a JavaScript (also Typescript) runtime

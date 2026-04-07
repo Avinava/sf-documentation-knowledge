@@ -5,12 +5,10 @@ topic: sobject-quick-action-default-values-by-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.118Z
+lastCollected: 2026-04-07T18:36:21.348Z
 estimatedTokens: 368
 keywords: [sObject, Quick, Action, Evaluates, specific, Responses, include]
 ---
-
-# sObject Quick Action Default Values by ID
 
 > Evaluates the default values for a specific action on an object. Responses include
   default field values.

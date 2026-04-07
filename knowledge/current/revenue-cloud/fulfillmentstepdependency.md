@@ -5,12 +5,10 @@ topic: fulfillmentstepdependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.268Z
+lastCollected: 2026-04-07T18:35:49.222Z
 estimatedTokens: 432
-keywords: [FulfillmentStepDependency, dependency, tasks, defining, order, task, depends, API, version, 61.0, later, Calls]
+keywords: [FulfillmentStepDependency, dependency, tasks, defining, order, task, depends, API, 61.0]
 ---
-
-# FulfillmentStepDependency
 
 > Represents a dependency between tasks by defining the order between a
          task and one that depends on it. This object is available in API version 61.0 and

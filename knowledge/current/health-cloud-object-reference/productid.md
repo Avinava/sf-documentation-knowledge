@@ -5,12 +5,10 @@ topic: productid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.083Z
+lastCollected: 2026-04-07T18:37:40.050Z
 estimatedTokens: 40
 keywords: [productId, unique, identifier, Product, product]
 ---
-
-# productId
 
 > Represents the unique identifier of the Product.
 

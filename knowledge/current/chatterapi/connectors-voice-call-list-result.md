@@ -5,12 +5,10 @@ topic: connectors-voice-call-list-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.784Z
+lastCollected: 2026-04-07T18:37:17.854Z
 estimatedTokens: 72
 keywords: [Connectors, Voice, Call, Result, results, posting]
 ---
-
-# Connectors Voice Call List Result
 
 > List results of posting a voice call.
 

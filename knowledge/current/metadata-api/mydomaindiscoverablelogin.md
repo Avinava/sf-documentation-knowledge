@@ -5,12 +5,10 @@ topic: mydomaindiscoverablelogin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.237Z
+lastCollected: 2026-04-07T18:36:27.776Z
 estimatedTokens: 570
-keywords: [MyDomainDiscoverableLogin, configuration, settings, Domain, login, Discovery, identity-first, experience, identifier, entered, handler, determines, how, authenticate, user]
+keywords: [MyDomainDiscoverableLogin, configuration, settings, Domain, login, Discovery, identity-first, experience, identifier, entered, handler, determines, how, authenticate, user, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MyDomainDiscoverableLogin
 
 > Represents the configuration settings when the My Domain
       login page type is Discovery. Login Discovery provides an identity-first login experience,

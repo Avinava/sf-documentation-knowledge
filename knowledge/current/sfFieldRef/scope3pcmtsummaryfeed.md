@@ -5,12 +5,10 @@ topic: scope3pcmtsummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.213Z
+lastCollected: 2026-04-07T18:40:00.966Z
 estimatedTokens: 361
-keywords: [Scope3PcmtSummaryFeed, Feed, tracking, Scope3PcmtSummary]
+keywords: [Scope3PcmtSummaryFeed, Scope3PcmtSummary]
 ---
-
-# Scope3PcmtSummaryFeed
 
 > Feed tracking for Scope3PcmtSummary.
 

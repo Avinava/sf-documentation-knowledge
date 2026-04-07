@@ -5,12 +5,10 @@ topic: promotionexecutionevalgrp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.518Z
+lastCollected: 2026-04-07T18:38:10.780Z
 estimatedTokens: 744
-keywords: [PromotionExecutionEvalGrp, collection, promotions, evaluated, execution, group, API, version, 65.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [PromotionExecutionEvalGrp, collection, promotions, evaluated, execution, group, API, 65.0]
 ---
-
-# PromotionExecutionEvalGrp
 
 > Represents a collection of promotions that are evaluated for
          execution as a group. This object is available in API version 65.0 and

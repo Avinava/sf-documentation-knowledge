@@ -5,12 +5,10 @@ topic: cross-domain-xhr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.330Z
+lastCollected: 2026-04-07T18:38:57.119Z
 estimatedTokens: 548
-keywords: [Cross-Domain, XHR, Canvas, apps, loaded, Salesforce, iFrame, app, own, domain, can't, XML, HTTP, calls, back]
+keywords: [Cross-Domain, XHR, Canvas, apps, loaded, Salesforce, iFrame, app, own, domain, can't, XML, HTTP, back, *.salesforce.com, develop, deploy, proxies, part, SDK, however, client-side, proxy, written, JavaScript]
 ---
-
-# Cross-Domain XHR
 
 > Canvas apps are loaded on a Salesforce page in an iFrame. The Canvas
   app has its own domain and can't make XML HTTP request (XHR) calls back to the

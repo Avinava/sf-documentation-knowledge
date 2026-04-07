@@ -5,12 +5,10 @@ topic: serviceresourceskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.081Z
+lastCollected: 2026-04-07T18:39:20.872Z
 estimatedTokens: 777
-keywords: [ServiceResourceSkill, skill, service, resource, possesses, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special, Access, Rules]
+keywords: [ServiceResourceSkill, skill, service, resource, possesses, Salesforce, Scheduler, API, 38.0]
 ---
-
-# ServiceResourceSkill
 
 > Represents a skill that a service resource possesses in Salesforce
 			Scheduler. This object is available in API version 38.0 and later.

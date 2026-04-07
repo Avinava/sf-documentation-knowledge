@@ -5,12 +5,10 @@ topic: connectapisocialpostcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.536Z
+lastCollected: 2026-04-07T18:36:11.825Z
 estimatedTokens: 569
-keywords: [ConnectApi.SocialPostCapability, feed, element, capability, interact, social, post, network]
+keywords: [ConnectApi.SocialPostCapability, capability, interact, social, post, network]
 ---
-
-# ConnectApi.SocialPostCapability
 
 > If a feed element has this capability, it can interact with a social
       post on a social network.

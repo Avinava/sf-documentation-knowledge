@@ -5,12 +5,10 @@ topic: view-checkout-management-app-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.491Z
+lastCollected: 2026-04-07T18:38:46.358Z
 estimatedTokens: 231
-keywords: [View, Checkout, Management, App, Logs, CMA, creates, connecting, Stripe, syncing, data, experience, issues, help, diagnose]
+keywords: [View, Checkout, Management, App, Logs, CMA, creates, connecting, Stripe, syncing, experience, issues, help, diagnose, their, cause]
 ---
-
-# View Checkout Management App Logs
 
 > The Checkout Management App (CMA) creates logs when connecting to Stripe or syncing your
         data. If you experience issues with the CMA, view logs to help diagnose their cause.

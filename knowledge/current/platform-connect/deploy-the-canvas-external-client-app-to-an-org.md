@@ -5,12 +5,10 @@ topic: deploy-the-canvas-external-client-app-to-an-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.707Z
+lastCollected: 2026-04-07T18:38:57.508Z
 estimatedTokens: 686
-keywords: [Deploy, Canvas, External, Client, App, Org, retrieve, integration, Metadata, API, plugin, own, settings, files, policies]
+keywords: [Deploy, Canvas, External, Client, App, Org, retrieve, integration, Metadata, API, plugin, own, settings, files, policies, file]
 ---
-
-# Deploy the Canvas External Client App to an Org
 
 > Deploy and retrieve your Canvas integration for the external client app with Metadata
     API. The Canvas plugin has its own settings files and policies file.

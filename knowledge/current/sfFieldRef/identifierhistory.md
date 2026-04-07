@@ -5,12 +5,10 @@ topic: identifierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.534Z
+lastCollected: 2026-04-07T18:39:44.187Z
 estimatedTokens: 257
-keywords: [IdentifierHistory, History, tracked, Identifier]
+keywords: [IdentifierHistory, tracked, Identifier]
 ---
-
-# IdentifierHistory
 
 > History for tracked fields of Identifier.
 

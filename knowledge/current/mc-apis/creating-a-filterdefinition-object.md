@@ -5,12 +5,10 @@ topic: creating-a-filterdefinition-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.001Z
+lastCollected: 2026-04-07T18:40:16.140Z
 estimatedTokens: 2733
-keywords: [Creating, FilterDefinition, separate, data, source, subscriber, extension, sample, code, below, model, own, API, call, DataFilter]
+keywords: [Creating, FilterDefinition, separate, source, subscriber, extension, sample, code, below, model, own, API, call, DataFilter, Specific, SimpleOperator, NET, toUpdate, SOAP, Envelope, Filter, Definition, Profile, Attributes]
 ---
-
-# Creating a FilterDefinition Object
 
 > Use the FilterDefinition object to separate out information for a data source, such as a subscriber list or a data extension. Use the sample code below as a model for creating your own API call.
 

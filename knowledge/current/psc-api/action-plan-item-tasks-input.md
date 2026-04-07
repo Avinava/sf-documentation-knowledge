@@ -5,12 +5,10 @@ topic: action-plan-item-tasks-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.686Z
+lastCollected: 2026-04-07T18:39:00.813Z
 estimatedTokens: 87
-keywords: [Action, Plan, Item, Tasks, Input, representation, assigned]
+keywords: [Action, Plan, Item, Tasks, assigned]
 ---
-
-# Action Plan Item Tasks Input
 
 > Input representation of the tasks assigned to an action plan
       item.

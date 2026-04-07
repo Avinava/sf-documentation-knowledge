@@ -5,12 +5,10 @@ topic: configure-a-connected-app-for-fcm-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.895Z
+lastCollected: 2026-04-07T18:40:27.116Z
 estimatedTokens: 523
 keywords: [Configure, Connected, App, FCM, Android, Salesforce, support, push, notifications]
 ---
-
-# Configure a Connected App For FCM (Android)
 
 > To configure your Salesforce connected app to support push notifications:
 

@@ -5,12 +5,10 @@ topic: caseprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.802Z
+lastCollected: 2026-04-07T18:38:22.776Z
 estimatedTokens: 387
-keywords: [CaseProgram, junction, Case, Program, objects, API, version, 57.0, later, Calls]
+keywords: [CaseProgram, junction, Case, Program, API, 57.0]
 ---
-
-# CaseProgram
 
 > Represents the junction between Case and Program objects. This
       object is available in API version 57.0 and later.

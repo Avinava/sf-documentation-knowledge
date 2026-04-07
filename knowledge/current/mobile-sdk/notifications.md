@@ -5,12 +5,10 @@ topic: notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.117Z
+lastCollected: 2026-04-07T18:40:27.336Z
 estimatedTokens: 200
-keywords: [Notifications, number, maximum, archived, Notification, Builder, “before”, “after”, date, iOS, Android]
+keywords: [Notifications, Android, number, maximum, archived, Notification, Builder, “before”, “after”, date, iOS]
 ---
-
-# Notifications
 
 > Gets the given number (maximum 20) of archived Notification Builder notifications
         based on the given “before” or “after” date.

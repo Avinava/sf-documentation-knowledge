@@ -5,12 +5,10 @@ topic: blngbalancesnapshotschedulerc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.951Z
+lastCollected: 2026-04-07T18:37:03.488Z
 estimatedTokens: 639
-keywords: [blng__BalanceSnapShotScheduler__c, Balance, Snapshot, Scheduler, creates, Run, regularly, analyze, account's, invoices, past-due, balances, blng, _BalanceSnapShotScheduler, Calls]
+keywords: [blng__BalanceSnapShotScheduler__c, Balance, Snapshot, Scheduler, creates, Run, regularly, analyze, account's, invoices, past-due, balances, blng, _BalanceSnapShotScheduler]
 ---
-
-# blng__BalanceSnapShotScheduler__c
 
 > Represents the Balance Snapshot Scheduler, which creates a Balance
          Snapshot Run to regularly analyze your account's invoices for past-due

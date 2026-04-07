@@ -5,12 +5,10 @@ topic: flowrecordhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.388Z
+lastCollected: 2026-04-07T18:39:41.039Z
 estimatedTokens: 255
-keywords: [FlowRecordHistory, History, tracked, FlowRecord]
+keywords: [FlowRecordHistory, tracked, FlowRecord]
 ---
-
-# FlowRecordHistory
 
 > History for tracked fields of FlowRecord.
 

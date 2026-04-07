@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-prediction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.776Z
+lastCollected: 2026-04-07T18:36:59.271Z
 estimatedTokens: 191
-keywords: [Abstract, Smart, Data, Discovery, Prediction, base, Einstein, result]
+keywords: [Abstract, Smart, Discovery, Prediction, base, Einstein, result]
 ---
-
-# Abstract Smart Data Discovery Prediction
 
 > The base Einstein Discovery prediction result.
 

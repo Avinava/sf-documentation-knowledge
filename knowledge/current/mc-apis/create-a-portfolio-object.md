@@ -5,12 +5,10 @@ topic: create-a-portfolio-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.020Z
+lastCollected: 2026-04-07T18:40:16.165Z
 estimatedTokens: 1968
-keywords: [Portfolio, creating, account's, via, SOAP, API, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP]
+keywords: [Portfolio, creating, account's, via, SOAP, API, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP, Envelope, Image, Enhanced, FTP, Items]
 ---
-
-# Create a Portfolio Object
 
 > This page contains information  for creating an object in your account's portfolio via the SOAP API.
 

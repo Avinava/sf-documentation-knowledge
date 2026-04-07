@@ -5,12 +5,10 @@ topic: claim-coverage-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.488Z
+lastCollected: 2026-04-07T18:37:51.524Z
 estimatedTokens: 484
 keywords: [Claim, Coverage, POST, record]
 ---
-
-# Claim Coverage (POST)
 
 > Create a claim coverage record for the specified claim.
 

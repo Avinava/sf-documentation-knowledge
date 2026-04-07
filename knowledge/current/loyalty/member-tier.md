@@ -5,12 +5,10 @@ topic: member-tier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.849Z
+lastCollected: 2026-04-07T18:38:08.095Z
 estimatedTokens: 388
-keywords: [Member, Tier, loyalty, program, member's, associated, tiers]
+keywords: [Member, Tier, loyalty, program, member's, tiers]
 ---
-
-# Member Tier
 
 > Represents the details of the loyalty program member's associated tiers.
 

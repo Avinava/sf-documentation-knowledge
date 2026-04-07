@@ -5,12 +5,10 @@ topic: budgetallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.769Z
+lastCollected: 2026-04-07T18:38:23.656Z
 estimatedTokens: 831
-keywords: [BudgetAllocation, subsection, Budget, allocated, resources, applied, API, version, 53.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [BudgetAllocation, subsection, Budget, allocated, resources, applied, API, 53.0]
 ---
-
-# BudgetAllocation
 
 > Represents a subsection of a Budget that shows where allocated
          resources are being applied. This object is available in API version 53.0 and later.

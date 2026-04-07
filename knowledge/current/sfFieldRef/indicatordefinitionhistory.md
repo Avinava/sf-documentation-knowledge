@@ -5,12 +5,10 @@ topic: indicatordefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.906Z
+lastCollected: 2026-04-07T18:39:44.504Z
 estimatedTokens: 268
-keywords: [IndicatorDefinitionHistory, History, tracked, IndicatorDefinition]
+keywords: [IndicatorDefinitionHistory, tracked, IndicatorDefinition]
 ---
-
-# IndicatorDefinitionHistory
 
 > History for tracked fields of IndicatorDefinition.
 

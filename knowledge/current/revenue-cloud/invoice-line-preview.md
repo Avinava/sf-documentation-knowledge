@@ -5,12 +5,10 @@ topic: invoice-line-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.171Z
+lastCollected: 2026-04-07T18:35:46.122Z
 estimatedTokens: 284
-keywords: [Invoice, Line, Preview, Output, representation, result]
+keywords: [Invoice, Line, Preview, result]
 ---
-
-# Invoice Line Preview
 
 > Output representation of the invoice line preview result.
 

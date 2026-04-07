@@ -5,12 +5,10 @@ topic: pay-claim-coverage-payment-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.506Z
+lastCollected: 2026-04-07T18:37:52.697Z
 estimatedTokens: 120
-keywords: [Pay, Claim, Coverage, Payment, Detail, Output, representation, paying]
+keywords: [Pay, Claim, Coverage, Payment, Detail, paying]
 ---
-
-# Pay Claim Coverage Payment Detail
 
 > Output representation for paying a claim coverage payment detail.
 

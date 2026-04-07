@@ -5,12 +5,10 @@ topic: wkdwticketcategorydefinitionmdt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.284Z
+lastCollected: 2026-04-07T18:40:14.292Z
 estimatedTokens: 614
-keywords: [wkdw__TicketCategoryDefinition__mdt, ticket, category, Employee, Concierge, custom, metadata, orgs, installed, API, version, 51.0, later, wkdw, _TicketCategoryDefinition]
+keywords: [wkdw__TicketCategoryDefinition__mdt, ticket, category, Employee, Concierge, metadata, orgs, installed, API, 51.0, wkdw, _TicketCategoryDefinition, _mdt]
 ---
-
-# wkdw__TicketCategoryDefinition__mdt
 
 > Defines the type of ticket category in Employee Concierge. This custom
     metadata type is available in orgs that have Employee Concierge installed in API version 51.0

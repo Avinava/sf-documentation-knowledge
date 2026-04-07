@@ -5,12 +5,10 @@ topic: step-three-walk-through-the-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.995Z
+lastCollected: 2026-04-07T18:36:20.214Z
 estimatedTokens: 1316
-keywords: [Step, Three, Walk, Sample, Code, access, different, resources, Salesforce, series, REST, requests, try, examples, sure]
+keywords: [Step, Three, Walk, Sample, Code, different, resources, Salesforce, series, REST, requests, try, examples, sure, prerequisites, obtain, token, Quick, Start, Basic, Execute, SOQL, Query, Record]
 ---
-
-# Step Three: Walk Through the Sample Code
 
 > To access different types of resources in Salesforce, make a series of REST requests.
         Before you try these examples, make sure to complete the prerequisites and obtain an access

@@ -5,12 +5,10 @@ topic: get-started-with-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.102Z
+lastCollected: 2026-04-07T18:38:45.943Z
 estimatedTokens: 665
-keywords: [Started, AppExchange, Checkout, customers, buy, solution, credit, card, bank, transfer, directly, listing, begin, accepting, payments]
+keywords: [Started, AppExchange, Checkout, customers, buy, solution, credit, card, bank, transfer, directly, listing, begin, accepting, payments, Stripe, account, connect, add, pricing, plans, listing—all, Partner, Console]
 ---
-
-# Get Started with AppExchange Checkout
 
 > With Checkout, your customers can buy your solution with a credit card or bank transfer
     directly from your AppExchange listing. To begin accepting payments with Checkout, create a

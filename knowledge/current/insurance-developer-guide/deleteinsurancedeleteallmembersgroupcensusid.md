@@ -5,12 +5,10 @@ topic: deleteinsurancedeleteallmembersgroupcensusid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.497Z
+lastCollected: 2026-04-07T18:37:49.340Z
 estimatedTokens: 153
-keywords: [deleteInsuranceDeleteAllMembers, groupCensusId, census, members, group, API, Version, Requires, Chatter]
+keywords: [deleteInsuranceDeleteAllMembers, groupCensusId, census, members, group, API, Requires, Chatter]
 ---
-
-# deleteInsuranceDeleteAllMembers(groupCensusId)
 
 > Delete all census members for the specified group census ID.
 

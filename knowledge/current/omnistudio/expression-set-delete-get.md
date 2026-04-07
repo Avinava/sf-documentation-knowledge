@@ -5,12 +5,10 @@ topic: expression-set-delete-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.097Z
+lastCollected: 2026-04-07T18:36:37.716Z
 estimatedTokens: 121
 keywords: [Expression]
 ---
-
-# Expression Set (DELETE, GET)
 
 > Read or delete expression set for a specified expression set
       ID.

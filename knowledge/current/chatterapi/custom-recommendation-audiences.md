@@ -5,12 +5,10 @@ topic: custom-recommendation-audiences
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.331Z
+lastCollected: 2026-04-07T18:37:15.387Z
 estimatedTokens: 857
-keywords: [Custom, Recommendation, Audiences, audience]
+keywords: [Recommendation, Audiences, audience]
 ---
-
-# Custom Recommendation Audiences
 
 > Get a list of custom recommendation audiences and create a custom
       recommendation audience.

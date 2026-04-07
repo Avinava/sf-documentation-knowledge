@@ -5,12 +5,10 @@ topic: forecastingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.717Z
+lastCollected: 2026-04-07T18:39:41.358Z
 estimatedTokens: 539
-keywords: [ForecastingType, identify, forecast, associated, ForecastingAdjustment, ForecastingOwnerAdjustment, ForecastingQuota, ForecastingFact, ForecastingItem, objects, API, version, 30.0, greater]
+keywords: [ForecastingType, identify, forecast, ForecastingAdjustment, ForecastingOwnerAdjustment, ForecastingQuota, ForecastingFact, ForecastingItem, API, 30.0, greater]
 ---
-
-# ForecastingType
 
 > Used to identify the forecast type associated with ForecastingAdjustment, ForecastingOwnerAdjustment,
 				ForecastingQuota, ForecastingFact, and ForecastingItem objects. Available in API version 30.0 and

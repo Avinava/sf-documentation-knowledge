@@ -5,12 +5,10 @@ topic: stddevp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.955Z
+lastCollected: 2026-04-07T18:37:00.476Z
 estimatedTokens: 157
-keywords: [stddevp, population, standard, deviation, Accepts, measure, input, expressions, Calculate, Amount]
+keywords: [stddevp, population, standard, deviation, Accepts, measure, expressions, Calculate, Amount]
 ---
-
-# stddevp()
 
 > Returns the population standard deviation of the values in a field. Accepts measure
             fields as input but not expressions.

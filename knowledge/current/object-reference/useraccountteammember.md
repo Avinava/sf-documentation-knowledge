@@ -5,12 +5,10 @@ topic: useraccountteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.675Z
+lastCollected: 2026-04-07T18:38:43.439Z
 estimatedTokens: 755
-keywords: [UserAccountTeamMember, User, account, team, another, Calls, Special, Access, Rules, Usage]
+keywords: [UserAccountTeamMember, User, account, team, another]
 ---
-
-# UserAccountTeamMember
 
 > Represents a User on the default account team of another
     User.

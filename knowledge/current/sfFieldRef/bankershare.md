@@ -5,12 +5,10 @@ topic: bankershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.779Z
+lastCollected: 2026-04-07T18:39:28.877Z
 estimatedTokens: 246
 keywords: [BankerShare, Sharing, Banker]
 ---
-
-# BankerShare
 
 > Sharing for Banker.
 

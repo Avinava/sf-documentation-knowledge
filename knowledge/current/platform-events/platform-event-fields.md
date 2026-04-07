@@ -5,12 +5,10 @@ topic: platform-event-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.013Z
+lastCollected: 2026-04-07T18:38:57.840Z
 estimatedTokens: 1643
-keywords: [Platform, Event, events, contain, standard, Add, custom, data, ReplayId, System, EventUuid, API, Suffix]
+keywords: [Platform, Event, events, contain, standard, Add, ReplayId, System, EventUuid, API, Suffix]
 ---
-
-# Platform Event Fields
 
 > Platform events contain standard fields. Add custom fields for your
     custom data.

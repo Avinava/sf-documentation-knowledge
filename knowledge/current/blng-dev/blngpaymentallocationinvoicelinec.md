@@ -5,12 +5,10 @@ topic: blngpaymentallocationinvoicelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.235Z
+lastCollected: 2026-04-07T18:37:03.747Z
 estimatedTokens: 1025
-keywords: [blng__PaymentAllocationInvoiceLine__c, allocation, payment, specific, invoice, line, helps, tracking, how, payments, distributed, across, different, lines, blng]
+keywords: [blng__PaymentAllocationInvoiceLine__c, allocation, payment, specific, invoice, line, helps, how, payments, distributed, across, different, lines, blng, _PaymentAllocationInvoiceLine]
 ---
-
-# blng__PaymentAllocationInvoiceLine__c
 
 > Represents the allocation of a payment to a specific invoice line. This object helps
       in tracking how payments are distributed across different invoice lines.

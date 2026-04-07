@@ -5,12 +5,10 @@ topic: careplandetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.787Z
+lastCollected: 2026-04-07T18:39:08.017Z
 estimatedTokens: 1124
-keywords: [CarePlanDetail, additional, associated, care, plan, record, may, things, addressed, contributors, supporting, API, version, 61.0, later]
+keywords: [CarePlanDetail, additional, care, plan, record, may, things, addressed, contributors, supporting, API, 61.0]
 ---
-
-# CarePlanDetail
 
 > Represents additional information associated with a care plan record. These
          details may be things addressed by the care plan, contributors in the care plan, supporting

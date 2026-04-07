@@ -5,12 +5,10 @@ topic: contactencounter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.499Z
+lastCollected: 2026-04-07T18:39:34.940Z
 estimatedTokens: 294
 keywords: [ContactEncounter, period, time, two, people, were, close, proximity]
 ---
-
-# ContactEncounter
 
 > Represents a period of time during which two or more people were in close
       proximity to each other.

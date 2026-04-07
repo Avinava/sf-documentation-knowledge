@@ -5,12 +5,10 @@ topic: asset-model-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.199Z
+lastCollected: 2026-04-07T18:40:15.230Z
 estimatedTokens: 339
 keywords: [Asset, Model, Examples, created, basic, HTML, paste, template-based, emails, Email, Simple, Template, Complex, Items]
 ---
-
-# Asset Model Examples
 
 > Use these examples to created basic HTML paste and template-based emails.
 

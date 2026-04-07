@@ -5,12 +5,10 @@ topic: create-a-chat-session
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.258Z
+lastCollected: 2026-04-07T18:38:06.495Z
 estimatedTokens: 79
 keywords: [Chat, Session, new, call, SessionId]
 ---
-
-# Create a Chat Session
 
 > To create a new Chat session, you must call the SessionId request.
 

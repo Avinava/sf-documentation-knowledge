@@ -5,12 +5,10 @@ topic: datasourcetypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.308Z
+lastCollected: 2026-04-07T18:40:16.448Z
 estimatedTokens: 208
-keywords: [DataSourceTypeEnum, data, source, originated]
+keywords: [DataSourceTypeEnum, source, originated]
 ---
-
-# DataSourceTypeEnum
 
 > The DataSourceTypeEnum object indicates the type of list from which the data source originated.
 

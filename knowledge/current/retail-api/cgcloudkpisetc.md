@@ -5,12 +5,10 @@ topic: cgcloudkpisetc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.463Z
+lastCollected: 2026-04-07T18:39:13.853Z
 estimatedTokens: 1380
-keywords: [cgcloud__KPI_Set__c, KPI, Configuration, API, version, 54.0, later, cgcloud, _KPI, _Set, Calls, Associated, Objects]
+keywords: [cgcloud__KPI_Set__c, KPI, Configuration, API, 54.0, cgcloud, _KPI, _Set]
 ---
-
-# cgcloud__KPI_Set__c
 
 > This table contains information about KPI Set Configuration.
       This object is available in API version 54.0 and later.

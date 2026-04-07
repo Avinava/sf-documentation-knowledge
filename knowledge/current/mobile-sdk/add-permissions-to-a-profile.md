@@ -5,12 +5,10 @@ topic: add-permissions-to-a-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.970Z
+lastCollected: 2026-04-07T18:40:25.338Z
 estimatedTokens: 253
 keywords: [Add, Permissions, Profile, API, Enabled, Enable, Chatter]
 ---
-
-# Add Permissions to a Profile
 
 > Create a profile that has API Enabled and Enable Chatter permissions.
 

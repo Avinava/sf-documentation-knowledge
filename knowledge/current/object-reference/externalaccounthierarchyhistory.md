@@ -5,13 +5,11 @@ topic: externalaccounthierarchyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.060Z
+lastCollected: 2026-04-07T18:38:32.014Z
 estimatedTokens: 480
 namespace: Percent
-keywords: [ExternalAccountHierarchyHistory, history, changes, external, account, hierarchy, API, version, 50.0, later, Calls, Special, Access, Rules]
+keywords: [ExternalAccountHierarchyHistory, changes, external, account, hierarchy, API, 50.0]
 ---
-
-# ExternalAccountHierarchyHistory
 
 > Represents the history of changes to values in the fields of an
          external account hierarchy. This object is available in API version 50.0 and

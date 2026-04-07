@@ -5,12 +5,10 @@ topic: vpl360ipextractpromo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.813Z
+lastCollected: 2026-04-07T18:38:11.077Z
 estimatedTokens: 129
-keywords: [VPL360_IPExtractPromo, Integration, Procedure, accepts, array, product, codes, promotions, corresponding, any, VPL360, _IPExtractPromo, Sample, Input, Output]
+keywords: [VPL360_IPExtractPromo, Integration, Procedure, accepts, array, product, codes, promotions, corresponding, any, VPL360, _IPExtractPromo, Sample]
 ---
-
-# VPL360_IPExtractPromo
 
 > This Integration Procedure accepts an array of product codes
     and returns an array of promotions corresponding to the product codes, if any.

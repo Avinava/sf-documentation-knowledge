@@ -5,12 +5,10 @@ topic: connection-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.324Z
+lastCollected: 2026-04-07T18:36:56.861Z
 estimatedTokens: 300
-keywords: [Connection, connect, Analytics, data, connector]
+keywords: [Connection, connect, Analytics, connector]
 ---
-
-# Connection Property
 
 > A property used to connect to an Analytics data connector.
 

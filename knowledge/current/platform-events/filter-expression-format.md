@@ -5,12 +5,10 @@ topic: filter-expression-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.088Z
+lastCollected: 2026-04-07T18:38:57.926Z
 estimatedTokens: 996
 keywords: [Filter, Expression, SOQL, supports, subset, operators, contain, expressions, joined, logical, operator, Comparison, Considerations, Allocations]
 ---
-
-# Filter Expression Format
 
 > The filter expression format is based on SOQL and supports a subset of SOQL operators
   and field types. The filter expression can contain one or more field expressions, joined by a

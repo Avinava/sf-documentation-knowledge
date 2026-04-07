@@ -5,12 +5,10 @@ topic: isinputhiddenquote-fieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.106Z
+lastCollected: 2026-04-07T18:37:27.078Z
 estimatedTokens: 159
-keywords: [isInputHidden, quote, fieldName, Determines, visibility, input, Guided, Selling, hide, let, users, Salesforce, CPQ, calls]
+keywords: [isInputHidden, quote, fieldName, Determines, visibility, Guided, Selling, hide, let, users, Salesforce, CPQ]
 ---
-
-# isInputHidden(quote, fieldName)
 
 > Determines the visibility of an input in the Guided Selling UI.
       Return True to hide the input and False to let users see the input. Salesforce CPQ calls this

@@ -5,12 +5,10 @@ topic: apexpanelgrid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.204Z
+lastCollected: 2026-04-07T18:38:50.472Z
 estimatedTokens: 2166
-keywords: [apex, panelGrid, Renders, HTML, element, component, found, <apex, panelGrid>, placed, corresponding, cell, row, until, number]
+keywords: [Attributes, Facets, apex, panelGrid, Renders, HTML, found, <apex, panelGrid>, placed, corresponding, cell, row, until, number, columns, reached, point, wraps]
 ---
-
-# apex:panelGrid
 
 > Renders an HTML table element in which each component found in the body of the <apex:panelGrid> is placed into a corresponding cell in the first row until the number of columns is reached. At that point, the next component wraps to the next row and is placed in the first cell.
 

@@ -5,12 +5,10 @@ topic: checkout-start-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.943Z
+lastCollected: 2026-04-07T18:37:07.671Z
 estimatedTokens: 445
-keywords: [Checkout, Start, Input, Commerce, store, cart]
+keywords: [Checkout, Start, Commerce, store, cart]
 ---
-
-# Checkout Start Input
 
 > Input to start a Commerce store checkout for a cart.
 

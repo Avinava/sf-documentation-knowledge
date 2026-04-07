@@ -5,12 +5,10 @@ topic: publish-callback-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.421Z
+lastCollected: 2026-04-07T18:38:58.273Z
 estimatedTokens: 795
-keywords: [Publish, Callback, Best, Practices, Keep, mind, callbacks, implementing, feature, Don’t, Republish, Event, Created, SObjectType.newSObject, Events]
+keywords: [Publish, Callback, Best, Practices, Keep, mind, callbacks, implementing, feature, Don’t, Republish, Event, Created, SObjectType.newSObject, Events, Instead, Individual, Platform, UUID, Map, Size, Small, Improved, Performance]
 ---
-
-# Publish Callback Best Practices
 
 > Keep in mind these best practices for publish callbacks when implementing this
         feature.

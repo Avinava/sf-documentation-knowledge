@@ -6,13 +6,10 @@ topic: querymore-with-the-apex-connector-framework-with-the-apex-connector-frame
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.936Z
+lastCollected: 2026-04-07T18:36:17.156Z
 estimatedTokens: 352
-keywords: [queryMore, Apex, Connector, Framework, Custom, adapters, Salesforce, Connect, don’t, automatically, support, API, queries, However, implementation]
+keywords: [queryMore, Apex, Connector, Framework, adapters, Salesforce, Connect, don’t, automatically, support, API, queries, However, implementation, able, break, large, result, batches, iterate, over, SOAP, batch, size, records, query, developer, adjust, programmatically, call]
 ---
-
-# queryMore with the Apex Connector Framework with the Apex
-            Connector Framework
 
 > Custom adapters for Salesforce Connect don’t automatically support the queryMore method in API queries. However, your
         implementation must be able to break up large result sets into batches and iterate over them

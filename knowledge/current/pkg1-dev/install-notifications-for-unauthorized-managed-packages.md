@@ -5,12 +5,10 @@ topic: install-notifications-for-unauthorized-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.833Z
+lastCollected: 2026-04-07T18:38:54.220Z
 estimatedTokens: 340
-keywords: [Install, Notifications, Unauthorized, Managed, Packages, distribute, package, AppExchange, Partner, Program, hasn’t, authorized, notify, customers, installation]
+keywords: [Install, Notifications, Unauthorized, Managed, Packages, distribute, package, AppExchange, Partner, Program, hasn’t, authorized, notify, customers, installation, process, notification, removed, approved]
 ---
-
-# Install Notifications for Unauthorized Managed Packages
 
 > When you distribute a managed package that AppExchange Partner Program hasn’t authorized,
     we notify customers during the installation process. The notification is removed after the

@@ -5,12 +5,10 @@ topic: encounter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.549Z
+lastCollected: 2026-04-07T18:37:58.077Z
 estimatedTokens: 2928
-keywords: [Encounter, F​HI​R, resource, maps, ​​Clinical​Encounter​, ​​Clinical​Encounter​​Diagnosis, ​​Clinical​Encounter​​Facility, ​​Clinical​Encounter​Identifier, ​​Clinical​Encounter​​Provider, ​​Clinical​Encounter​​Reason, ​​Clinical​Encounter​Svc​Request, objects, Salesforce​, V4​.0, ​Clinical]
+keywords: [Encounter, F​HI​R, resource, maps, ​​Clinical​Encounter​, ​​Clinical​Encounter​​Diagnosis, ​​Clinical​Encounter​​Facility, ​​Clinical​Encounter​Identifier, ​​Clinical​Encounter​​Provider, ​​Clinical​Encounter​​Reason, ​​Clinical​Encounter​Svc​Request, Salesforce​, V4​.0, ​Clinical, ​Data, ​Model, ​Mapping, Sample, Record, Diagram]
 ---
-
-# Encounter
 
 > The Encounter F​HI​R resource maps to the ​​Clinical​Encounter​, ​​Clinical​Encounter​​Diagnosis, ​​Clinical​Encounter​​Facility, ​​Clinical​Encounter​Identifier, ​​Clinical​Encounter​​Provider, ​​Clinical​Encounter​​Reason, and ​​Clinical​Encounter​Svc​Request objects in Salesforce​.
 

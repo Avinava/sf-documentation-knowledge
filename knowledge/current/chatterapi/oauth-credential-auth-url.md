@@ -5,12 +5,10 @@ topic: oauth-credential-auth-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.964Z
+lastCollected: 2026-04-07T18:37:21.133Z
 estimatedTokens: 194
 keywords: [OAuth, Credential, Auth, URL, authentication]
 ---
-
-# OAuth Credential Auth URL
 
 > OAuth authentication URL for a credential.
 

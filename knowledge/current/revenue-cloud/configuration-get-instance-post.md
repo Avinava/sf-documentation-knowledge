@@ -5,12 +5,10 @@ topic: configuration-get-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.510Z
+lastCollected: 2026-04-07T18:35:44.500Z
 estimatedTokens: 236
-keywords: [Configuration, Instance, POST, Fetch, JSON, representation, product, display, Salesforce, user, save, external, system]
+keywords: [Configuration, Instance, POST, Fetch, JSON, product, display, Salesforce, user, save, external, system]
 ---
-
-# Configuration Get Instance (POST)
 
 > Fetch the JSON representation of a product configuration. Use the
       response to display the details of the product configuration instance on the Salesforce user

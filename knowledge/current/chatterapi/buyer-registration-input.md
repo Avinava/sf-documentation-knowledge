@@ -5,12 +5,10 @@ topic: buyer-registration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.682Z
+lastCollected: 2026-04-07T18:37:07.401Z
 estimatedTokens: 181
-keywords: [Buyer, Registration, Input, customer’s, account, store]
+keywords: [Buyer, Registration, customer’s, account, store]
 ---
-
-# Buyer Registration Input
 
 > Provides a customer’s account registration information for your store.
 

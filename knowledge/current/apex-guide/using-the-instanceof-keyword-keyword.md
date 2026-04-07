@@ -5,12 +5,10 @@ topic: using-the-instanceof-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.292Z
+lastCollected: 2026-04-07T18:36:16.511Z
 estimatedTokens: 530
-keywords: [instanceof, Keyword, verify, run, time, whether, actually, instance, particular, target, expression, right, viable, Implementation, Considerations]
+keywords: [instanceof, Keyword, verify, run, time, whether, actually, instance, particular, target, expression, right, viable, Implementation, Considerations, Versioned, Behavior, Changes]
 ---
-
-# Using the  instanceof Keyword Keyword
 
 > If you need to verify at run time whether an object is actually an instance of a
             particular class, use the instanceof keyword.

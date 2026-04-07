@@ -5,12 +5,10 @@ topic: files-connect-repository-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.453Z
+lastCollected: 2026-04-07T18:37:16.526Z
 estimatedTokens: 162
 keywords: [Files, Connect, Repository, Features]
 ---
-
-# Files Connect Repository Features
 
 > Information about the features of a Files Connect
         repository.

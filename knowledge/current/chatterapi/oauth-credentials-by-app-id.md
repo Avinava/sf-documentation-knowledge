@@ -5,12 +5,10 @@ topic: oauth-credentials-by-app-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.201Z
+lastCollected: 2026-04-07T18:37:13.143Z
 estimatedTokens: 104
-keywords: [OAuth, Credentials, App, consumers, associated, providing]
+keywords: [OAuth, Credentials, App, consumers, providing]
 ---
-
-# OAuth Credentials by App ID
 
 > Get OAuth credentials for all OAuth consumers associated with a
       given app by providing the app ID.

@@ -5,12 +5,10 @@ topic: streams-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.327Z
+lastCollected: 2026-04-07T18:37:11.057Z
 estimatedTokens: 1060
-keywords: [Streams, Feed, Resources, stream, URL, Elements]
+keywords: [Streams, Resources, stream, URL]
 ---
-
-# Streams Feed Resources
 
 > The feed of a stream.
 

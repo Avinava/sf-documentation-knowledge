@@ -5,12 +5,10 @@ topic: ocrtargetobjfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.531Z
+lastCollected: 2026-04-07T18:39:49.987Z
 estimatedTokens: 256
 keywords: [OcrTargetObjFieldMapping, how, document, mapped]
 ---
-
-# OcrTargetObjFieldMapping
 
 > Represents the details of how information from a document field is
       mapped to fields in an object.

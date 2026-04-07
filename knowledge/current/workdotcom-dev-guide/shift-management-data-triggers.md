@@ -5,12 +5,10 @@ topic: shift-management-data-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.370Z
+lastCollected: 2026-04-07T18:40:14.384Z
 estimatedTokens: 1199
-keywords: [Shift, Management, Data, Triggers, Work.com, installs, uses, Employee, Location, Service, Appointment, Territory, Member, Adding, modifying]
+keywords: [ServiceAppointmentBeforeUpdate, Shift, Management, Triggers, Work.com, installs, uses, Employee, Location, Service, Appointment, Territory, Member, Adding, modifying, records, trigger, changes, It’s, possible, disable, loads, employeeServiceAppointmentUpdate, _AfterUpdate, LocationInsertBefore, LocationUpdateBefore, ServiceTerritoryMember, Enable]
 ---
-
-# Shift Management Data Triggers
 
 > Work.com installs and uses data triggers for Shift Management on Employee, Location,
     Service Appointment, and Service Territory Member. Adding or modifying records for these objects

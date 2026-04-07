@@ -5,12 +5,10 @@ topic: borrower-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.411Z
+lastCollected: 2026-04-07T18:37:35.013Z
 estimatedTokens: 182
 keywords: [Borrower, Result, POST, PATCH]
 ---
-
-# Borrower Result
 
 > Borrower result of the POST or PATCH request.
 

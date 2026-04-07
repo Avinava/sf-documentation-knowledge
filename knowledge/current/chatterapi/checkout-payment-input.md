@@ -5,12 +5,10 @@ topic: checkout-payment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.930Z
+lastCollected: 2026-04-07T18:37:07.657Z
 estimatedTokens: 415
-keywords: [Checkout, Payment, Input, Commerce, store]
+keywords: [Checkout, Payment, Commerce, store]
 ---
-
-# Checkout Payment Input
 
 > Payment input for a Commerce store checkout.
 

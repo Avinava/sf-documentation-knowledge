@@ -5,12 +5,10 @@ topic: post-contactsv1contactsactionsdeleteconfigsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.888Z
+lastCollected: 2026-04-07T18:40:14.907Z
 estimatedTokens: 306
-keywords: [POST, contacts, actions, configSettings, configuration, settings, Contact, framework, components, **Overview**, Usage]
+keywords: [POST, contacts, actions, configSettings, configuration, settings, Contact, framework, **Overview**]
 ---
-
-# POST /contacts/v1/contacts/actions/delete/configSettings
 
 > Sets the configuration settings for the Contact Delete framework and components.
 

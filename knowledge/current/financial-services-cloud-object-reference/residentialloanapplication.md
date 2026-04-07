@@ -5,12 +5,10 @@ topic: residentialloanapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.981Z
+lastCollected: 2026-04-07T18:37:38.872Z
 estimatedTokens: 3146
-keywords: [ResidentialLoanApplication, loan, application, lender, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [ResidentialLoanApplication, loan, application, lender, API, 47.0]
 ---
-
-# ResidentialLoanApplication
 
 > Represents details about a loan application from the lender. This
 		object is available in API version 47.0 and later.

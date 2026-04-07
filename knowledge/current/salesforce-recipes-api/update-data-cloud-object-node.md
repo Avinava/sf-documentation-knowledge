@@ -5,12 +5,10 @@ topic: update-data-cloud-object-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.028Z
+lastCollected: 2026-04-07T18:39:19.722Z
 estimatedTokens: 124
-keywords: [Data, Cloud, Node, recipe]
+keywords: [Cloud, Node, recipe]
 ---
-
-# Update Data Cloud Object Node
 
 > A Data 360 object update node in a recipe.
 

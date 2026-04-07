@@ -5,12 +5,10 @@ topic: caseepisode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.192Z
+lastCollected: 2026-04-07T18:39:06.242Z
 estimatedTokens: 863
-keywords: [CaseEpisode, episode, linked, case, proceeding, result, business, person, license, subject, API, version, 58.0, later]
+keywords: [CaseEpisode, episode, linked, case, proceeding, result, business, person, license, subject, API, 58.0]
 ---
-
-# CaseEpisode
 
 > Represents the episode linked to a case or a case proceeding result, where a
          business or person or license is the subject. This object is available in API version

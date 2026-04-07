@@ -5,12 +5,10 @@ topic: visualforce-charting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:56.723Z
+lastCollected: 2026-04-07T18:38:48.671Z
 estimatedTokens: 559
-keywords: [Visualforce, Charting, collection, components, provide, simple, intuitive, way, charts, pages, custom, Why, Alternatives]
+keywords: [Visualforce, Charting, collection, provide, simple, intuitive, way, charts, pages, Why, Alternatives]
 ---
-
-# Visualforce Charting
 
 > Visualforce charting is a collection of components that provide a simple and intuitive way to create
     charts in your Visualforce pages and

@@ -5,12 +5,10 @@ topic: adding-custom-automation-to-license-management-app-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.789Z
+lastCollected: 2026-04-07T18:38:55.234Z
 estimatedTokens: 326
-keywords: [Adding, Custom, Automation, License, Management, App, Objects, examples, how, LMA, grow, business, retain, customers, Alert]
+keywords: [Adding, Automation, License, Management, App, examples, how, LMA, grow, business, retain, customers, Alert, Sales, Reps, Expires, Notify, Customer-Retention, Specialists, Offering, Uninstalled]
 ---
-
-# Adding Custom Automation to License Management App Objects
 
 > Here are some examples of how you can use the License Management App (LMA) to grow your
     business and retain customers.

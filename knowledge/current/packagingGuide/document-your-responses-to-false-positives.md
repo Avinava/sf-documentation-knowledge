@@ -5,12 +5,10 @@ topic: document-your-responses-to-false-positives
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.553Z
+lastCollected: 2026-04-07T18:38:47.497Z
 estimatedTokens: 457
-keywords: [Document, Responses, Positives, often, appear, Source, Code, Scanner, Checkmarx, ZAP, Burp, Suite, results, occasionally, show]
+keywords: [Document, Responses, Positives, often, appear, Source, Code, Scanner, Checkmarx, ZAP, Burp, Suite, results, occasionally, show, Salesforce, security, review, failure, reports, either, case, improve, likelihood, passing, including, false-positive, explanatory, submit]
 ---
-
-# Document Your Responses to False Positives
 
 > Most often, false positives appear in Source Code Scanner (Checkmarx), ZAP, or Burp
     Suite scanner results. False positives occasionally show up in Salesforce security review

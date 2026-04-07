@@ -5,12 +5,10 @@ topic: streaming-api-calls-blocked-by-security-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.242Z
+lastCollected: 2026-04-07T18:36:51.567Z
 estimatedTokens: 197
-keywords: [Streaming, API, Calls, Blocked, Security, Settings, session, setting, locking, sessions, enabled]
+keywords: [Streaming, API, Blocked, Security, Settings, session, setting, locking, sessions, enabled]
 ---
-
-# Streaming API Calls Blocked by Security Settings
 
 > Streaming API calls can be blocked if the session setting for locking sessions is
   enabled.

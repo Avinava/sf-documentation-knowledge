@@ -5,12 +5,10 @@ topic: commerce-fulfillment-order-item-tax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.634Z
+lastCollected: 2026-04-07T18:35:52.518Z
 estimatedTokens: 311
-keywords: [Commerce, Fulfillment, Order, Item, Tax, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
+keywords: [Commerce, Fulfillment, Order, Item, Tax, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, calculated, base, price, product, DLO, Mapping]
 ---
-
-# Commerce: Fulfillment Order Item Tax
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Fulfillment Order Item Tax data is a tax that is

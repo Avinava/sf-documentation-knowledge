@@ -5,12 +5,10 @@ topic: comment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.983Z
+lastCollected: 2026-04-07T18:37:07.696Z
 estimatedTokens: 846
-keywords: [Comment, Input]
+keywords: [Comment]
 ---
-
-# Comment Input
 
 > A comment.
 

@@ -5,12 +5,10 @@ topic: ocrtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.922Z
+lastCollected: 2026-04-07T18:39:04.025Z
 estimatedTokens: 1638
-keywords: [OcrTemplate, mapping, form, Salesforce, Intelligent, Document, Reader.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, document, Reader, API, version, 55.0]
+keywords: [OcrTemplate, OcrTargetObject, OcrTargetObjFieldMapping, OcrSampleDocumentField, OcrSampleDocumentPageItem, OcrTemplateSampleDocument, mapping, form, Salesforce, Intelligent, Document, Reader.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest, document, Reader, API, 55.0, SOAP, REST]
 ---
-
-# OcrTemplate
 
 > Represents the details of the mapping between a form and a
       Salesforce object using Intelligent Document Reader.This type

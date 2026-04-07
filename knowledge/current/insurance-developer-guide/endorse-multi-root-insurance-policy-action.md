@@ -5,12 +5,10 @@ topic: endorse-multi-root-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.040Z
+lastCollected: 2026-04-07T18:37:48.762Z
 estimatedTokens: 287
-keywords: [Endorse, Multi-Root, Insurance, Policy, Action, endorsement, apply, updates, changes, associated, child, policies, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Endorse, Multi-Root, Insurance, Policy, Action, endorsement, apply, updates, changes, child, policies, REST, HTTP]
 ---
-
-# Endorse Multi-Root Insurance Policy Action
 
 > Create an endorsement for an existing multi-root insurance policy to
             apply updates or changes to the policy and its associated child

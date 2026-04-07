@@ -6,13 +6,10 @@ topic: authentication-security-and-identity-in-mobile-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.914Z
+lastCollected: 2026-04-07T18:40:26.227Z
 estimatedTokens: 290
-keywords: [Authentication, Security, Identity, Mobile, Apps, Secure, essential, enterprise, applications, running, devices, OAuth, 2.0, industry-standard, protocol]
+keywords: [Authentication, Security, Identity, Mobile, Apps, Secure, essential, enterprise, applications, running, devices, OAuth, 2.0, industry-standard, protocol, authorization, customer’s, handing, username, password, often, described, valet, key]
 ---
-
-# Authentication, Security, and Identity
-in Mobile Apps
 
 > Secure authentication is essential for enterprise applications running on mobile devices. OAuth
       2.0, the industry-standard protocol, enables secure authorization for access to a customer’s

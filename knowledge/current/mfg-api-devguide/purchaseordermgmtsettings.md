@@ -5,12 +5,10 @@ topic: purchaseordermgmtsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.813Z
+lastCollected: 2026-04-07T18:38:13.140Z
 estimatedTokens: 369
-keywords: [PurchaseOrderMgmtSettings, settings, enabling, Manufacturing, features, Purchase, Order, Management, Parent, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [PurchaseOrderMgmtSettings, settings, enabling, Manufacturing, features, Purchase, Order, Management, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PurchaseOrderMgmtSettings
 
 > Represents the settings for enabling Manufacturing
 			features like Purchase Order Management.

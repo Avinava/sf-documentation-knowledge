@@ -6,13 +6,10 @@ topic: managed-content-unpublish
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.415Z
+lastCollected: 2026-04-07T18:37:20.607Z
 estimatedTokens: 102
 keywords: [Managed, Content, Unpublish, action]
 ---
-
-# Managed Content
-    Unpublish
 
 > Managed content unpublish action.
 

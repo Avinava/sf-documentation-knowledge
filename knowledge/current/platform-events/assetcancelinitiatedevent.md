@@ -5,12 +5,10 @@ topic: assetcancelinitiatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.834Z
+lastCollected: 2026-04-07T18:38:58.688Z
 estimatedTokens: 686
-keywords: [AssetCancelInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-cancellation, successful, event, cancellation, order, created]
+keywords: [AssetCancelInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-cancellation, successful, event, cancellation, order, created, isn't, RevenueTransactionErrorLog, records, errors, how, fix, API, 55.0, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# AssetCancelInitiatedEvent
 
 > Notifies subscribers when the process started by the
             /asset-management/assets/collection/actions/initiate-cancellation process is

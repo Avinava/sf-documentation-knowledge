@@ -5,12 +5,10 @@ topic: reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.603Z
+lastCollected: 2026-04-07T18:36:20.836Z
 estimatedTokens: 5027
 keywords: [REST, resources, API, brief]
 ---
-
-# Reference
 
 > The following table lists supported REST resources in the API and provides a brief
 		description for each.

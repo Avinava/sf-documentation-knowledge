@@ -5,12 +5,10 @@ topic: group-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.555Z
+lastCollected: 2026-04-07T18:39:20.253Z
 estimatedTokens: 96
-keywords: [Group, Appointments, Output, representation, retrieved]
+keywords: [Group, Appointments, retrieved]
 ---
-
-# Group Appointments
 
 > Output representation of the response that contains the retrieved group
     appointments.

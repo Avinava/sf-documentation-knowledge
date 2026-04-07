@@ -5,12 +5,10 @@ topic: promotion-target-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.264Z
+lastCollected: 2026-04-07T18:37:22.370Z
 estimatedTokens: 67
-keywords: [Promotion, Target, Line, Item, cart, associated]
+keywords: [Promotion, Target, Line, Item, cart]
 ---
-
-# Promotion Target Line Item
 
 > Line item for a cart item associated with a
     promotion.

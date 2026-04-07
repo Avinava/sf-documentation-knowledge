@@ -5,12 +5,10 @@ topic: holiday
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.419Z
+lastCollected: 2026-04-07T18:39:44.064Z
 estimatedTokens: 534
-keywords: [Holiday, period, time, customer, support, team, unavailable, Business, hours, escalation, rules, associated, suspended, any, holidays]
+keywords: [Holiday, period, time, customer, support, team, unavailable, Business, hours, escalation, suspended, any, holidays, they, affiliated]
 ---
-
-# Holiday
 
 > Represents a period of time during which your customer support team is unavailable. Business hours and escalation rules associated with business hours are suspended
 			during any holidays with which they are affiliated.

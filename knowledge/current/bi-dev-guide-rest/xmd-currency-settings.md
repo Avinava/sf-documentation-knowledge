@@ -5,12 +5,10 @@ topic: xmd-currency-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.596Z
+lastCollected: 2026-04-07T18:36:58.155Z
 estimatedTokens: 115
 keywords: [Xmd, Currency, Settings, extended, metadata]
 ---
-
-# Xmd Currency Settings
 
 > The extended metadata (Xmd) for currency settings of a currency field.
 

@@ -5,12 +5,10 @@ topic: carepractnfacilityappt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.390Z
+lastCollected: 2026-04-07T18:37:43.554Z
 estimatedTokens: 512
-keywords: [CarePractnFacilityAppt, junction, HealthcarePractitionerFacility, practitioner, facility, ServiceAppointment, appointment, API, version, 52.0, later, Calls]
+keywords: [CarePractnFacilityAppt, junction, HealthcarePractitionerFacility, practitioner, facility, ServiceAppointment, appointment, API, 52.0]
 ---
-
-# CarePractnFacilityAppt
 
 > Represents a junction object between a HealthcarePractitionerFacility
          (practitioner at a facility) and a ServiceAppointment (appointment). This object is

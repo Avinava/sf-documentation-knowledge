@@ -5,12 +5,10 @@ topic: influence-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.285Z
+lastCollected: 2026-04-07T18:37:14.249Z
 estimatedTokens: 221
 keywords: [Influence, Resource, percentile, thresholds, categorize, organization’s, users, their, Chatter]
 ---
-
-# Influence Resource
 
 > List of the percentile thresholds
 used to categorize an organization’s users by their influence

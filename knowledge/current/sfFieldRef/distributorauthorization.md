@@ -5,12 +5,10 @@ topic: distributorauthorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.426Z
+lastCollected: 2026-04-07T18:39:38.154Z
 estimatedTokens: 421
-keywords: [DistributorAuthorization, official, authorization, insurance, company, granting, distributor, permission, act, agent, API, version, 48.0, later]
+keywords: [DistributorAuthorization, official, authorization, insurance, company, granting, distributor, permission, act, agent, API, 48.0]
 ---
-
-# DistributorAuthorization
 
 > Represents the official authorization from an insurance company granting a
       distributor the permission to act as its agent. This object is available in API version

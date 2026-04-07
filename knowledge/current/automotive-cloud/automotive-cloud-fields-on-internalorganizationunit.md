@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-internalorganizationunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.502Z
+lastCollected: 2026-04-07T18:36:52.913Z
 estimatedTokens: 243
-keywords: [Automotive, Cloud, InternalOrganizationUnit, Standard, extend, represent, account, structures, departments, company, API, version, 56.0, later, Calls]
+keywords: [Automotive, Cloud, InternalOrganizationUnit, Standard, extend, represent, account, structures, departments, company, API, 56.0]
 ---
-
-# Automotive Cloud Fields on InternalOrganizationUnit
 
 > Standard fields extend the InternalOrganizationUnit object for use in
          Automotive Cloud to represent account structures or departments within a company. This

@@ -5,12 +5,10 @@ topic: connectapicreateinvoicefromchangeordersinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.767Z
+lastCollected: 2026-04-07T18:36:05.143Z
 estimatedTokens: 283
-keywords: [OrderSummary, associated, change, orders, Invoices]
+keywords: [OrderSummary, change, orders, Invoices]
 ---
-
-# ConnectApi.CreateInvoiceFromChangeOrdersInputRepresentation
 
 > OrderSummary and associated change orders to create Invoices
       for.

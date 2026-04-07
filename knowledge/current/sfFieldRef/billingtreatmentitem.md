@@ -5,12 +5,10 @@ topic: billingtreatmentitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.559Z
+lastCollected: 2026-04-07T18:39:29.721Z
 estimatedTokens: 528
-keywords: [BillingTreatmentItem, billing, treatment, item, how, order, item's, total, amount, distributed, schedules, over, course, lifecycle, Subscription]
+keywords: [BillingTreatmentItem, billing, treatment, item, how, order, item's, total, amount, distributed, schedules, over, course, lifecycle, Subscription, Management, pilot, treatments, covers, 100%, API, 55.0]
 ---
-
-# BillingTreatmentItem
 
 > A billing treatment item defines how the order item's total amount is
          distributed into billing schedules over the course of the order item's lifecycle. In the

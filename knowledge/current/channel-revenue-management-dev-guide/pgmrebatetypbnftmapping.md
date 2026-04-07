@@ -5,12 +5,10 @@ topic: pgmrebatetypbnftmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.826Z
+lastCollected: 2026-04-07T18:37:06.525Z
 estimatedTokens: 505
-keywords: [PgmRebateTypBnftMapping, benefit, extended, mapping, aggregate, API, version, 51.0, later, Calls]
+keywords: [PgmRebateTypBnftMapping, benefit, extended, mapping, aggregate, API, 51.0]
 ---
-
-# PgmRebateTypBnftMapping
 
 > If benefit table is extended, defines mapping of benefit field to the aggregate
       object fields. This object is available in API version 51.0 and later.

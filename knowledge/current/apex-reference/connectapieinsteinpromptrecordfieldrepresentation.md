@@ -5,12 +5,10 @@ topic: connectapieinsteinpromptrecordfieldrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.429Z
+lastCollected: 2026-04-07T18:36:08.863Z
 estimatedTokens: 88
 keywords: [prompt, template, record]
 ---
-
-# ConnectApi.EinsteinPromptRecordFieldRepresentation
 
 > Field values for a prompt template record field.
 

@@ -5,12 +5,10 @@ topic: programproducthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.319Z
+lastCollected: 2026-04-07T18:39:56.870Z
 estimatedTokens: 262
-keywords: [ProgramProductHistory, History, tracked, ProgramProduct]
+keywords: [ProgramProductHistory, tracked, ProgramProduct]
 ---
-
-# ProgramProductHistory
 
 > History for tracked fields of ProgramProduct.
 

@@ -5,12 +5,10 @@ topic: updating-records-with
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.947Z
+lastCollected: 2026-04-07T18:38:52.266Z
 estimatedTokens: 512
-keywords: [Updating, Records, calling, Remote, Objects, model, instance]
+keywords: [Updating, Records, calling, Remote, model, instance]
 ---
-
-# Updating Records with
 
 > Update records by calling update() on a Remote
         Objects model instance.

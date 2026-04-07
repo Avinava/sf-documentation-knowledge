@@ -5,12 +5,10 @@ topic: chatter-likes-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.321Z
+lastCollected: 2026-04-07T18:37:17.393Z
 estimatedTokens: 246
-keywords: [Chatter, Likes, Capability, feed, element, context, user]
+keywords: [Chatter, Likes, Capability, context, user]
 ---
-
-# Chatter Likes Capability
 
 > If a feed element has this capability, the context user can like it.
       Exposes information about existing likes.

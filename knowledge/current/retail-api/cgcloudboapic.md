@@ -5,12 +5,10 @@ topic: cgcloudboapic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.565Z
+lastCollected: 2026-04-07T18:39:12.988Z
 estimatedTokens: 961
-keywords: [cgcloud__BO_API__c, stores, record, Business, APIs, API, version, 54.0, later, cgcloud, _BO, _API, Calls, Associated, Objects]
+keywords: [cgcloud__BO_API__c, stores, record, Business, APIs, API, 54.0, cgcloud, _BO, _API]
 ---
-
-# cgcloud__BO_API__c
 
 > This table stores the header record of Business Object APIs.
       This object is available in API version 54.0 and later.

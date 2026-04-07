@@ -5,12 +5,10 @@ topic: files-connect-repository-folder-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.067Z
+lastCollected: 2026-04-07T18:37:12.967Z
 estimatedTokens: 780
 keywords: [Files, Connect, Repository, Folder, Items, folders, file]
 ---
-
-# Files Connect Repository Folder Items
 
 > Get information about the files and folders in a repository folder.
       Create a file in a repository folder.

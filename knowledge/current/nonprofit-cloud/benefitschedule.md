@@ -5,12 +5,10 @@ topic: benefitschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.661Z
+lastCollected: 2026-04-07T18:38:22.644Z
 estimatedTokens: 752
-keywords: [BenefitSchedule, plan, delivering, benefit, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [BenefitSchedule, plan, delivering, benefit, API, 57.0]
 ---
-
-# BenefitSchedule
 
 > Represents information about the plan for delivering the
          benefit. This object is available in API version 57.0 and later.

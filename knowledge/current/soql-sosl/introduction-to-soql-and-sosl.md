@@ -5,12 +5,10 @@ topic: introduction-to-soql-and-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:15.251Z
+lastCollected: 2026-04-07T18:40:10.224Z
 estimatedTokens: 972
-keywords: [Introduction, SOQL, SOSL, you’ve, built, custom, Salesforce, Query, Language, Search, APIs, organization’s, data, Deciding, Performance]
+keywords: [Introduction, SOQL, SOSL, you’ve, built, Salesforce, Query, Language, Search, APIs, organization’s, Deciding, Performance, Considerations, Sending, Queries, Searches]
 ---
-
-# Introduction to SOQL and SOSL
 
 > If you’ve built a custom UI for Salesforce, you can use the Salesforce Object Query
   Language (SOQL) and Salesforce Object Search Language (SOSL) APIs to search your organization’s

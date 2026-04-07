@@ -5,12 +5,10 @@ topic: subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.251Z
+lastCollected: 2026-04-07T18:40:20.487Z
 estimatedTokens: 1357
-keywords: [Subscriber, instance, person, subscribed, receive, email, SMS, communication, Describe, ExtendedProperties, definitions, data, profile, preference, attributes]
+keywords: [Subscriber, instance, person, subscribed, receive, email, SMS, communication, Describe, ExtendedProperties, definitions, profile, preference, attributes, defined, client, Items]
 ---
-
-# Subscriber
 
 > The Subscriber object is a single instance of a person subscribed to receive email or SMS communication. When using the Describe method on a Subscriber object, the ExtendedProperties property contains the definitions for all of the data profile and preference attributes defined by a client.
 

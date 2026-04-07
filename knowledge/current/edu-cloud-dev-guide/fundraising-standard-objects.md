@@ -5,12 +5,10 @@ topic: fundraising-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.361Z
+lastCollected: 2026-04-07T18:37:30.421Z
 estimatedTokens: 2477
-keywords: [Fundraising, Standard, Objects, data, model, manage, gifts, donors, nonprofit, education, organization]
+keywords: [Fundraising, Standard, model, manage, gifts, donors, nonprofit, education, organization]
 ---
-
-# Fundraising Standard Objects
 
 > Fundraising data model provides objects and fields to manage gifts and donors for your
     nonprofit or education organization.

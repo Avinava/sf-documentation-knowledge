@@ -5,12 +5,10 @@ topic: businesstypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.590Z
+lastCollected: 2026-04-07T18:39:30.815Z
 estimatedTokens: 260
-keywords: [BusinessTypeHistory, History, tracked, BusinessType]
+keywords: [BusinessTypeHistory, tracked, BusinessType]
 ---
-
-# BusinessTypeHistory
 
 > History for tracked fields of BusinessType.
 

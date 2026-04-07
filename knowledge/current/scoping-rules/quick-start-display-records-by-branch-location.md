@@ -5,12 +5,10 @@ topic: quick-start-display-records-by-branch-location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.860Z
+lastCollected: 2026-04-07T18:39:21.727Z
 estimatedTokens: 665
-keywords: [Quick, Start, Display, Records, Branch, Location, scoping, rule, SOQL, operator, created, via, Tooling, API, banker]
+keywords: [Quick, Start, Display, Records, Branch, Location, scoping, rule, SOQL, operator, created, via, Tooling, API, banker, accounts, match, their, current, second, creates, Metadata]
 ---
-
-# Quick Start: Display Records by Branch Location
 
 > In this Quick Start, we create a scoping rule using the SOQL operator. In the first
   example, a scoping rule created via Tooling API shows a banker only the accounts that match their

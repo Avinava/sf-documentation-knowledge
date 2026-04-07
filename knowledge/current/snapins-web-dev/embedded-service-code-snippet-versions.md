@@ -5,12 +5,10 @@ topic: embedded-service-code-snippet-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.562Z
+lastCollected: 2026-04-07T18:40:09.509Z
 estimatedTokens: 401
-keywords: [Embedded, Service, Code, Snippet, Versions, features, previous, current, Feature, Availability, Version]
+keywords: [Embedded, Service, Code, Snippet, Versions, features, previous, current, Feature, Availability]
 ---
-
-# Embedded Service Code Snippet Versions
 
 > See what features are available in previous and current versions of the
    Embedded Service code snippet.

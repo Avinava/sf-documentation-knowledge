@@ -6,14 +6,11 @@ topic: common-visualforce-javascript-remoting-api-validation-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.353Z
+lastCollected: 2026-04-07T18:38:51.608Z
 estimatedTokens: 613
 namespace: CLASS
-keywords: [Common, Visualforce, JavaScript, Remoting, API, Validation, Errors, how, correct, invalid, calls, application, code]
+keywords: [Common, Visualforce, JavaScript, Remoting, API, Validation, Errors, how, correct, invalid, application, code]
 ---
-
-# Common Visualforce JavaScript Remoting API Validation
-                        Errors
 
 > Learn how to correct common invalid calls to the Visualforce JavaScript Remoting
                 API in your application code.

@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.680Z
+lastCollected: 2026-04-07T18:37:29.755Z
 estimatedTokens: 254
-keywords: [REST, access, Education, Cloud, Business, API, endpoint, follow, similar, conventions, Connect, APIs]
+keywords: [REST, Education, Cloud, Business, API, endpoint, follow, similar, conventions, Connect, APIs]
 ---
-
-# REST Reference
 
 > You can access Education Cloud Business API by using REST endpoint. This REST API
     follow similar conventions as Connect REST APIs.

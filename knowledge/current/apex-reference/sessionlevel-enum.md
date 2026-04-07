@@ -5,13 +5,11 @@ topic: sessionlevel-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.140Z
+lastCollected: 2026-04-07T18:36:12.429Z
 estimatedTokens: 380
 namespace: Auth
-keywords: [SessionLevel, Auth.SessionLevel, SessionManagement.setSessionLevel, Usage]
+keywords: [SessionLevel, Auth.SessionLevel, SessionManagement.setSessionLevel]
 ---
-
-# SessionLevel Enum
 
 > An Auth.SessionLevel enum value is used by the  SessionManagement.setSessionLevel method.
 

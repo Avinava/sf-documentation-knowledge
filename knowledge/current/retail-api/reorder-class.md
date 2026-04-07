@@ -5,12 +5,10 @@ topic: reorder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.042Z
+lastCollected: 2026-04-07T18:39:10.501Z
 estimatedTokens: 619
-keywords: [RE_Order, Apex, programmatic, access, retail, order, sObject, sObjects, _Order, Implementation, getOrder, getOrderItems, List<RE, _Order.Record>, append]
+keywords: [RE_Order, Apex, programmatic, retail, order, sObject, sObjects, _Order, Implementation, getOrder, getOrderItems, List<RE, _Order.Record>, append, record, addRelationship, _Order.Record, child, SObjectField, relationField, parent, registerWork, DoWork, work]
 ---
-
-# RE_Order Class
 
 > This Apex class provides programmatic access to the retail order sObject, and its
     related sObjects.

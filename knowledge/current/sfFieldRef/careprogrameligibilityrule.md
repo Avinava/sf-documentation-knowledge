@@ -5,12 +5,10 @@ topic: careprogrameligibilityrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.972Z
+lastCollected: 2026-04-07T18:39:32.373Z
 estimatedTokens: 413
 keywords: [CareProgramEligibilityRule, rule, defining, criteria, patient, care, program, enrollment, eligibility, entity, creates, association]
 ---
-
-# CareProgramEligibilityRule
 
 > Represents a rule defining the criteria for patient care program enrollment
       eligibility. This entity creates an association between Care Program and an Enrollment

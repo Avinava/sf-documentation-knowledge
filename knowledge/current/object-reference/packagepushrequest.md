@@ -5,12 +5,10 @@ topic: packagepushrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.104Z
+lastCollected: 2026-04-07T18:38:37.397Z
 estimatedTokens: 1201
-keywords: [PackagePushRequest, push, upgrading, package, orgs, version, another, Calls, Special, Access, Rules, Usage]
+keywords: [PackagePushRequest, push, upgrading, package, orgs, another]
 ---
-
-# PackagePushRequest
 
 > Represents the push request for upgrading a package in one or many
 			orgs from one version to another version.

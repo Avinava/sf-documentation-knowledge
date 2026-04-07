@@ -5,12 +5,10 @@ topic: format-and-options-for-query-criteria-query-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.940Z
+lastCollected: 2026-04-07T18:38:52.260Z
 estimatedTokens: 657
-keywords: [Options, Query, Criteria, Remote, Objects, uses, specify, retrieve, operations, limit, offset, conditions, queries, orderby]
+keywords: [Options, Query, Criteria, Remote, uses, specify, retrieve, operations, limit, offset, conditions, queries, orderby]
 ---
-
-# Format and Options for  Query Criteria Query Criteria
 
 > Remote Objects uses an object to specify criteria for retrieve() operations. Use this object to specify where, limit, and offset
         conditions for your queries.

@@ -5,12 +5,10 @@ topic: multi-root-policy-renewal-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.695Z
+lastCollected: 2026-04-07T18:37:51.754Z
 estimatedTokens: 453
-keywords: [Multi-Root, Policy, Renewal, POST, Asynchronously, renew, insurance, renewed, records, parent, associated, child, policies]
+keywords: [Multi-Root, Policy, Renewal, POST, Asynchronously, renew, insurance, renewed, records, parent, child, policies]
 ---
-
-# Multi-Root Policy Renewal (POST)
 
 > Asynchronously renew a multi-root insurance policy, create renewed
       records for the parent policy and the associated child policies.

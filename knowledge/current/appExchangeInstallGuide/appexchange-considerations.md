@@ -5,12 +5,10 @@ topic: appexchange-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:05.379Z
+lastCollected: 2026-04-07T18:36:51.719Z
 estimatedTokens: 93
 keywords: [AppExchange, Considerations, Keep, mind, working, solutions]
 ---
-
-# AppExchange Considerations
 
 > Keep these considerations in mind when working with the solutions available on
     AppExchange.

@@ -5,12 +5,10 @@ topic: waitlistworktypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.475Z
+lastCollected: 2026-04-07T18:40:06.371Z
 estimatedTokens: 265
-keywords: [WaitlistWorkTypeHistory, History, tracked, WaitlistWorkType]
+keywords: [WaitlistWorkTypeHistory, tracked, WaitlistWorkType]
 ---
-
-# WaitlistWorkTypeHistory
 
 > History for tracked fields of WaitlistWorkType.
 

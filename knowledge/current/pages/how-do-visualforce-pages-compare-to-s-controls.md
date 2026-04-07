@@ -5,12 +5,10 @@ topic: how-do-visualforce-pages-compare-to-s-controls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.317Z
+lastCollected: 2026-04-07T18:38:51.570Z
 estimatedTokens: 614
 keywords: [How, Visualforce, Pages, Compare, S-Controls, supersede, Organizations, haven't, previously, can’t, unaffected, edited]
 ---
-
-# How Do Visualforce Pages Compare to S-Controls?
 
 > Visualforce pages supersede s-controls. Organizations that haven't
                     previously used s-controls can’t create them. Existing s-controls are

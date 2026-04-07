@@ -5,12 +5,10 @@ topic: get-feedback-on-query-performance-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.719Z
+lastCollected: 2026-04-07T18:36:19.940Z
 estimatedTokens: 606
-keywords: [Feedback, Query, Performance, Beta, how, Salesforce, executes, report, view, resource, along, explain, analyzes, optimal, approach]
+keywords: [Feedback, Query, Performance, Beta, how, Salesforce, executes, report, view, resource, along, explain, analyzes, optimal, approach, obtain, results, Depending, filters, uses, index, internal, optimization, optimizes, actually, running, decide, whether, fine-tune, adding, selective]
 ---
-
-# Get Feedback on Query Performance (Beta)
 
 > To get feedback on how Salesforce executes your query, report, or list view, use
       the Query resource along with the

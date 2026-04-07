@@ -5,12 +5,10 @@ topic: tasktag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.349Z
+lastCollected: 2026-04-07T18:38:42.159Z
 estimatedTokens: 352
-keywords: [TaskTag, Associates, word, short, phrase, task, Calls, Usage]
+keywords: [TaskTag, Associates, word, short, phrase, task]
 ---
-
-# TaskTag
 
 > Associates a word or short phrase with a task .
 

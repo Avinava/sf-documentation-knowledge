@@ -5,12 +5,10 @@ topic: paymentlinkshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.500Z
+lastCollected: 2026-04-07T18:39:53.008Z
 estimatedTokens: 248
 keywords: [PaymentLinkShare, Sharing, PaymentLink]
 ---
-
-# PaymentLinkShare
 
 > Sharing for PaymentLink.
 

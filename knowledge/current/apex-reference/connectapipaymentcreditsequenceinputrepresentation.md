@@ -5,12 +5,10 @@ topic: connectapipaymentcreditsequenceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.679Z
+lastCollected: 2026-04-07T18:36:06.038Z
 estimatedTokens: 213
 keywords: [order, credit, amount, applied, payment, sequence, determines, processing, credited, determined, summary]
 ---
-
-# ConnectApi.PaymentCreditSequenceInputRepresentation
 
 > The order in which the credit amount is applied to specified payment methods. The
     sequence determines the order that the credit is applied to each payment during processing. The

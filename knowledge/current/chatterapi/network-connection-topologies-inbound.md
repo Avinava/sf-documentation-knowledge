@@ -5,12 +5,10 @@ topic: network-connection-topologies-inbound
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.774Z
+lastCollected: 2026-04-07T18:37:14.821Z
 estimatedTokens: 271
 keywords: [Network, Connection, Topologies, Inbound]
 ---
-
-# Network Connection Topologies, Inbound
 
 > Get the inbound network connection topologies for a connection
       type.

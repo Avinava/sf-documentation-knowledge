@@ -5,12 +5,10 @@ topic: shiftpattern
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.496Z
+lastCollected: 2026-04-07T18:38:41.144Z
 estimatedTokens: 989
-keywords: [ShiftPattern, pattern, templates, creating, shifts, API, version, 51.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ShiftPattern, pattern, templates, creating, shifts, API, 51.0]
 ---
-
-# ShiftPattern
 
 > Represents a pattern of templates for creating shifts. This object is
       available in API version 51.0 and later.

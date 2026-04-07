@@ -5,12 +5,10 @@ topic: variable-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.430Z
+lastCollected: 2026-04-07T18:36:57.987Z
 estimatedTokens: 442
 keywords: [Variable, abstract, Analytics, template]
 ---
-
-# Variable Type
 
 > The abstract type for an Analytics template variable.
 

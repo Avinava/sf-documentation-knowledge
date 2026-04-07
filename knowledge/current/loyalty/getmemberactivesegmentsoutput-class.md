@@ -5,13 +5,11 @@ topic: getmemberactivesegmentsoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.568Z
+lastCollected: 2026-04-07T18:38:06.779Z
 estimatedTokens: 675
 namespace: LoyaltyManagement
 keywords: [GetMemberActiveSegmentsOutput, ist, active, segment, IDs, loyalty, program, member, part, getErrors, getMemberSegmentIDs, isSuccess]
 ---
-
-# GetMemberActiveSegmentsOutput Class
 
 > Represents the ist of the active segment IDs that the specified
       loyalty program member is a part of.

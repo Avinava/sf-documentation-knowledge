@@ -5,12 +5,10 @@ topic: standard-data-model-objects-dmos
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:07.080Z
+lastCollected: 2026-04-07T18:35:51.906Z
 estimatedTokens: 10021
-keywords: [Standard, Data, Model, Objects, DMOs, groupings, created, streams, insights, sources, found, Cloud]
+keywords: [Standard, Model, DMOs, groupings, created, streams, insights, sources, found, Cloud]
 ---
-
-# Standard Data Model Objects (DMOs)
 
 > Data model objects (DMOs) are groupings of data created from data streams, insights, and
   other sources. Find reference information about the standard DMOs found in Data Cloud.

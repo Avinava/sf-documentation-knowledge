@@ -5,12 +5,10 @@ topic: define-custom-buttons-and-links-to-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.676Z
+lastCollected: 2026-04-07T18:38:50.909Z
 estimatedTokens: 1115
-keywords: [Define, Custom, Buttons, Links, Visualforce, Pages, button, link, opens]
+keywords: [Define, Buttons, Links, Visualforce, Pages, button, link, opens]
 ---
-
-# Define Custom Buttons and Links to Visualforce Pages
 
 > Create a custom button or link on an object that opens a Visualforce
         page.

@@ -5,12 +5,10 @@ topic: benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.713Z
+lastCollected: 2026-04-07T18:39:07.944Z
 estimatedTokens: 1594
 keywords: [Benefit, benefits, provided, sector, agencies, aim, support, citizens, their, businesses, stores, whether, financial, service-based, organizations]
 ---
-
-# Benefit
 
 > Represents the benefits provided by public sector agencies that aim to
          support citizens and their businesses. This object stores whether the benefit is for

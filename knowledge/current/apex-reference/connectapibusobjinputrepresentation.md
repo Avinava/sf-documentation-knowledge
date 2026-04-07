@@ -5,12 +5,10 @@ topic: connectapibusobjinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.360Z
+lastCollected: 2026-04-07T18:36:04.682Z
 estimatedTokens: 121
 keywords: [ConnectApi.BusObjInputRepresentation, business, objective, goal]
 ---
-
-# ConnectApi.BusObjInputRepresentation
 
 > A business objective, or goal.
 

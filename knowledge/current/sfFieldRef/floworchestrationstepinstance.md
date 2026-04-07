@@ -5,12 +5,10 @@ topic: floworchestrationstepinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.307Z
+lastCollected: 2026-04-07T18:39:40.949Z
 estimatedTokens: 483
-keywords: [FlowOrchestrationStepInstance, run-time, instance, step, stage, orchestration, read-only, API, version, 53.0, later]
+keywords: [FlowOrchestrationStepInstance, run-time, instance, step, stage, orchestration, read-only, API, 53.0]
 ---
-
-# FlowOrchestrationStepInstance
 
 > Represents a run-time instance of a step in a run-time instance of a
          stage of a run-time instance of an orchestration. This read-only object is available

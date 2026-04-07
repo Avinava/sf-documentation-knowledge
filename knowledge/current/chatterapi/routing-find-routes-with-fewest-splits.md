@@ -5,12 +5,10 @@ topic: routing-find-routes-with-fewest-splits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.741Z
+lastCollected: 2026-04-07T18:37:15.803Z
 estimatedTokens: 814
-keywords: [Routing, Routes, Fewest, Splits, combinations, inventory, locations, fulfill, order, limit, shipment, checks, potential, returning, maximum]
+keywords: [Routing, Routes, Fewest, Splits, combinations, inventory, locations, fulfill, order, limit, shipment, checks, potential, returning, maximum, results]
 ---
-
-# Routing, Find Routes with Fewest Splits
 
 > Returns combinations of inventory locations that can fulfill an
       order within a specified limit of shipment splits. By default, checks up to 1,000,000

@@ -5,12 +5,10 @@ topic: managed-content-space-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.341Z
+lastCollected: 2026-04-07T18:37:20.532Z
 estimatedTokens: 136
 keywords: [Managed, Content, Space, Collection, spaces]
 ---
-
-# Managed Content Space Collection
 
 > Collection of managed content spaces.
 

@@ -5,12 +5,10 @@ topic: ocrsampledocumentpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.983Z
+lastCollected: 2026-04-07T18:39:04.077Z
 estimatedTokens: 260
-keywords: [OcrSampleDocumentPage, define, OCR, sample, document, API, version, 55.0, later, Calls, collection, SOAP, REST, Special, Access]
+keywords: [OcrSampleDocumentPage, define, OCR, sample, document, API, 55.0, collection, SOAP, REST]
 ---
-
-# OcrSampleDocumentPage
 
 > Represents a collection of fields that define a page in the OCR sample
             document. This object is available in API version 55.0 and later.

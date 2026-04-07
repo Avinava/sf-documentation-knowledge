@@ -5,13 +5,11 @@ topic: customonetimepassworddeliveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.790Z
+lastCollected: 2026-04-07T18:36:13.077Z
 estimatedTokens: 1349
 namespace: Auth
-keywords: [CustomOneTimePasswordDeliveryHandler, custom, SMS, provider, send, one-time, passwords, OTPs, Experience, Cloud, identity, verification, implements, sendOneTimePassword, userId]
+keywords: [CustomOneTimePasswordDeliveryHandler, SMS, provider, send, one-time, passwords, OTPs, Experience, Cloud, identity, verification, implements, sendOneTimePassword, userId, phoneNumber, oneTimePassword, networkId, defaultText, expId, Implementation]
 ---
-
-# CustomOneTimePasswordDeliveryHandler Interface
 
 > To use a custom SMS provider to send one-time passwords (OTPs) for Experience Cloud
     identity verification, create a class that implements the Auth.CustomOneTimePasswordDeliveryHandler interface.

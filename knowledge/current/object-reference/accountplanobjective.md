@@ -5,12 +5,10 @@ topic: accountplanobjective
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.575Z
+lastCollected: 2026-04-07T18:38:24.452Z
 estimatedTokens: 1540
-keywords: [AccountPlanObjective, strategic, objectives, initiatives, pursued, relationship, team, customer, enhance, engagement, satisfaction, API, version, 62.0, later]
+keywords: [AccountPlanObjective, strategic, objectives, initiatives, pursued, relationship, team, customer, enhance, engagement, satisfaction, API, 62.0]
 ---
-
-# AccountPlanObjective
 
 > Represents strategic objectives or initiatives pursued by a relationship team
          with a customer to enhance customer engagement and satisfaction. This object is

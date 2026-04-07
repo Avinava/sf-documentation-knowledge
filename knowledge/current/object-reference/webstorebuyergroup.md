@@ -5,12 +5,10 @@ topic: webstorebuyergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.639Z
+lastCollected: 2026-04-07T18:38:44.452Z
 estimatedTokens: 1024
-keywords: [WebstoreBuyerGroup, Associates, webstore, buyer, group, Supports, dynamically, changing, locales, buyers, shop, orgs, enabled, multiple, languages]
+keywords: [WebstoreBuyerGroup, Associates, webstore, buyer, group, Supports, dynamically, changing, locales, buyers, shop, orgs, enabled, multiple, languages, currencies, API, 58.0]
 ---
-
-# WebstoreBuyerGroup
 
 > Associates a webstore with a buyer group. Supports dynamically changing
          locales when buyers shop in orgs that are enabled for multiple languages and

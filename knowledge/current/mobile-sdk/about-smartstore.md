@@ -5,12 +5,10 @@ topic: about-smartstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.551Z
+lastCollected: 2026-04-07T18:40:26.809Z
 estimatedTokens: 712
-keywords: [SmartStore, primary, features, non-relational, desktop, databases—data, segmentation, indexing, querying—along, caching, offline, storage, What’s, New, Data]
+keywords: [SmartStore, primary, features, non-relational, desktop, databases—data, segmentation, indexing, querying—along, caching, offline, storage, What’s, New, Sample, Code]
 ---
-
-# About SmartStore
 
 > SmartStore provides
         the primary features of non-relational desktop databases—data segmentation, indexing,

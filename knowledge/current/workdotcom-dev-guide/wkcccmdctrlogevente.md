@@ -5,12 +5,10 @@ topic: wkcccmdctrlogevente
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.982Z
+lastCollected: 2026-04-07T18:40:13.966Z
 estimatedTokens: 592
-keywords: [wkcc__CmdCtrLogEvent__e, log, messages, errors, exceptions, Workplace, Command, Center, Wellness, Check, insert, platform, event, Apex, trigger]
+keywords: [wkcc__CmdCtrLogEvent__e, log, messages, errors, exceptions, Workplace, Command, Center, Wellness, Check, insert, platform, event, Apex, trigger, LogEventTrigger, adds, corresponding, record, wkcc__CmdCtrLog__c, orgs, Work.com, installed, wkcc, _CmdCtrLogEvent]
 ---
-
-# wkcc__CmdCtrLogEvent__e
 
 > Contains log messages (errors and exceptions) from Workplace Command Center and
       Wellness Check. On insert into this platform event, an Apex trigger (LogEventTrigger)

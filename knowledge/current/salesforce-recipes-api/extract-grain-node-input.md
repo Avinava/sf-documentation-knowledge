@@ -5,12 +5,10 @@ topic: extract-grain-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.610Z
+lastCollected: 2026-04-07T18:39:18.296Z
 estimatedTokens: 120
-keywords: [Extract, Grain, Node, Input, recipe]
+keywords: [Extract, Grain, Node, recipe]
 ---
-
-# Extract Grain Node Input
 
 > An extract grain node in a recipe.
 

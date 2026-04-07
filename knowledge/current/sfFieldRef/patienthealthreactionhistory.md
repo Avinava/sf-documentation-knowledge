@@ -5,12 +5,10 @@ topic: patienthealthreactionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.141Z
+lastCollected: 2026-04-07T18:39:52.624Z
 estimatedTokens: 271
-keywords: [PatientHealthReactionHistory, History, tracked, PatientHealthReaction]
+keywords: [PatientHealthReactionHistory, tracked, PatientHealthReaction]
 ---
-
-# PatientHealthReactionHistory
 
 > History for tracked fields of PatientHealthReaction.
 

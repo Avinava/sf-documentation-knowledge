@@ -5,12 +5,10 @@ topic: connectapiinsurancememberratingplansinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.123Z
+lastCollected: 2026-04-07T18:37:49.968Z
 estimatedTokens: 94
-keywords: [Input, representation, plan, individual, rating]
+keywords: [plan, individual, rating]
 ---
-
-# ConnectApi.InsuranceMemberRatingPlansInputRepresentation
 
 > Input representation for plan details used in individual rating.
 

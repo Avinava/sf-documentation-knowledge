@@ -5,12 +5,10 @@ topic: create-order-payment-summary-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.192Z
+lastCollected: 2026-04-07T18:37:07.993Z
 estimatedTokens: 296
-keywords: [Order, Payment, Summary, Input, OrderSummary, OrderPaymentSummary, authorization, payments, include]
+keywords: [Order, Payment, Summary, OrderSummary, OrderPaymentSummary, authorization, payments, include]
 ---
-
-# Create Order Payment Summary Input
 
 > An OrderSummary for which to create an OrderPaymentSummary, with the
       payment authorization or payments to include in it.

@@ -5,12 +5,10 @@ topic: canceldeployresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.980Z
+lastCollected: 2026-04-07T18:36:23.267Z
 estimatedTokens: 228
-keywords: [CancelDeployResult, deployment, cancellation—whether, cancellation, completed, Version]
+keywords: [CancelDeployResult, deployment, cancellation—whether, cancellation, completed]
 ---
-
-# CancelDeployResult
 
 > Contains information about a deployment cancellation—whether
 the cancellation completed and the deployment ID.

@@ -5,12 +5,10 @@ topic: create-a-streaming-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.047Z
+lastCollected: 2026-04-07T18:36:51.360Z
 estimatedTokens: 554
 keywords: [Streaming, Channel, new, StreamingChannel, Salesforce]
 ---
-
-# Create a Streaming Channel
 
 > Create a new StreamingChannel object by using the Salesforce UI.
 

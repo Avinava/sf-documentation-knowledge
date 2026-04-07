@@ -5,12 +5,10 @@ topic: save-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.938Z
+lastCollected: 2026-04-07T18:39:18.663Z
 estimatedTokens: 115
-keywords: [Save, Node, Input, data, recipe]
+keywords: [Save, Node, recipe]
 ---
-
-# Save Node Input
 
 > A save data node in a recipe.
 

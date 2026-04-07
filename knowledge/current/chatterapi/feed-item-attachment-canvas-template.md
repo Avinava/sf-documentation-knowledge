@@ -5,12 +5,10 @@ topic: feed-item-attachment-canvas-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:32.011Z
+lastCollected: 2026-04-07T18:37:19.111Z
 estimatedTokens: 407
-keywords: [Feed, Item, Attachment, Canvas, Template]
+keywords: [Item, Attachment, Canvas, Template]
 ---
-
-# Feed Item Attachment: Canvas Template
 
 > Canvas template feed item attachment.
 

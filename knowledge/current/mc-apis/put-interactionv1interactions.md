@@ -5,12 +5,10 @@ topic: put-interactionv1interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.188Z
+lastCollected: 2026-04-07T18:40:18.391Z
 estimatedTokens: 1138
-keywords: [PUT, interaction, interactions, Updates, journey, version, call, resource, assign, API, Integration, Automation, scope, **Overview**, Usage]
+keywords: [PUT, interaction, interactions, Updates, journey, call, resource, assign, API, Integration, Automation, scope, **Overview**]
 ---
-
-# PUT /interaction/v1/interactions
 
 > Updates a journey version. To call this resource, assign your API Integration the Automation | Interactions | Read scope.
 

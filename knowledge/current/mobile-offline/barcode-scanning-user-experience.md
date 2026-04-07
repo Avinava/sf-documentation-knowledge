@@ -5,12 +5,10 @@ topic: barcode-scanning-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.106Z
+lastCollected: 2026-04-07T18:38:15.619Z
 estimatedTokens: 286
-keywords: [Barcode, Scanning, User, Experience, component, deliver, any, desire, there’s, common, flow, scan]
+keywords: [Barcode, Scanning, User, Experience, deliver, any, desire, there’s, common, flow, scan]
 ---
-
-# Barcode Scanning User Experience
 
 > Your component can deliver any user experience you desire, but there’s a common flow for
     any component that can scan a barcode.

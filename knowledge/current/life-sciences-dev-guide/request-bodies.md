@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.783Z
+lastCollected: 2026-04-07T18:37:57.311Z
 estimatedTokens: 4373
 keywords: [Bodies, Life, Sciences, Cloud, Business, APIs, query, endpoint, listed, along, resource]
 ---
-
-# Request Bodies
 
 > This section lists the request bodies for Life Sciences Cloud Business APIs. The query
   parameters for an endpoint are listed along with each resource.

@@ -5,12 +5,10 @@ topic: goods-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:08.781Z
+lastCollected: 2026-04-07T18:35:53.766Z
 estimatedTokens: 4017
-keywords: [Goods, Product, DMO, Data, Cloud, model, specific, carton, milk, towels, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Goods, Product, DMO, Cloud, model, specific, carton, milk, towels, API, Primary, Subject, Area, Key]
 ---
-
-# Goods Product DMO
 
 > The Goods Product DMO is a Data Cloud data model object (DMO) for a
       specific product, for example a carton of milk or a set of towels

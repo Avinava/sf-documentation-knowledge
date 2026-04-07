@@ -5,12 +5,10 @@ topic: configuring-a-javascript-remoting-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.368Z
+lastCollected: 2026-04-07T18:38:51.623Z
 estimatedTokens: 363
 keywords: [Configuring, JavaScript, Remoting, Configure, providing, configuration, settings, declare]
 ---
-
-# Configuring a JavaScript Remoting Request
 
 > Configure a remoting request by providing an object with configuration settings when you
   declare the remoting request.

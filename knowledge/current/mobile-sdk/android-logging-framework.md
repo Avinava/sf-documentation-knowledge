@@ -5,12 +5,10 @@ topic: android-logging-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.401Z
+lastCollected: 2026-04-07T18:40:24.837Z
 estimatedTokens: 1297
-keywords: [Android, Logging, Framework, Mobile, SDK, developers, easily, logs, app, components, Logger, Component, Customize, Output]
+keywords: [Android, Logging, Framework, Mobile, SDK, developers, easily, logs, app, Logger, Customize]
 ---
-
-# Android Logging Framework
 
 > Mobile SDK
   provides a logging framework that allows developers to easily create logs for app components.

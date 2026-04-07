@@ -5,12 +5,10 @@ topic: fill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.625Z
+lastCollected: 2026-04-07T18:37:01.225Z
 estimatedTokens: 806
-keywords: [fill, any, gaps, date, often, timeseries, statement, specifying, check, creates, row, missing, month, day, week]
+keywords: [fill, any, gaps, date, often, timeseries, statement, specifying, check, creates, row, missing, month, day, week, quarter, year, includes, include, outside, bounds, data’s, range, specify, start, end, override, limits, function, rows, Extended]
 ---
-
-# fill
 
 > Use fill() to fill in any gaps in date fields.
         You most often use fill() before using the timeseries statement. By specifying the date fields to

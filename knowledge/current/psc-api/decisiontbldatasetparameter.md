@@ -5,12 +5,10 @@ topic: decisiontbldatasetparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.448Z
+lastCollected: 2026-04-07T18:39:08.726Z
 estimatedTokens: 472
-keywords: [DecisionTblDatasetParameter, mapping, decision, selected, dataset, link, know, evaluated, input, API, version, 51.0, later, SOAP, Calls]
+keywords: [DecisionTblDatasetParameter, mapping, decision, selected, dataset, link, know, evaluated, API, 51.0, SOAP, REST]
 ---
-
-# DecisionTblDatasetParameter
 
 > Represents the mapping between a decision table parameter and a field of the
       object selected in the dataset link. This mapping allows the decision table to know which

@@ -5,12 +5,10 @@ topic: protect-your-application-from-crudfls-vulnerabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.952Z
+lastCollected: 2026-04-07T18:39:21.826Z
 estimatedTokens: 3003
-keywords: [Protect, Application, CRUD, FLS, Vulnerabilities, Implement, secure, coding, practices, Apex, Visualforce, enforcing, object-level, field-level, record-level]
+keywords: [Protect, Application, CRUD, FLS, Vulnerabilities, Implement, secure, coding, practices, Apex, Visualforce, enforcing, object-level, field-level, record-level, prevent, unauthorized, exposure, manipulation, Follow, organization's, security, policy, standard, ensuring, app, adapts, users, limited, User, Mode, Operations, Check, Enforce, Protection]
 ---
-
-# Protect Your Application from  CRUD/FLS Vulnerabilities
 
 > Implement secure coding practices in Apex and Visualforce by enforcing object-level,
   field-level, and record-level access controls to prevent unauthorized data exposure or

@@ -5,12 +5,10 @@ topic: product-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.951Z
+lastCollected: 2026-04-07T18:37:22.059Z
 estimatedTokens: 507
 keywords: [Product, Detail]
 ---
-
-# Product Detail
 
 > Details of a product.
 

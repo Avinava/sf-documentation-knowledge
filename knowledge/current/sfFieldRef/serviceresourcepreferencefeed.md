@@ -5,12 +5,10 @@ topic: serviceresourcepreferencefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.836Z
+lastCollected: 2026-04-07T18:40:01.601Z
 estimatedTokens: 365
-keywords: [ServiceResourcePreferenceFeed, Feed, tracking, ServiceResourcePreference]
+keywords: [ServiceResourcePreferenceFeed, ServiceResourcePreference]
 ---
-
-# ServiceResourcePreferenceFeed
 
 > Feed tracking for ServiceResourcePreference.
 

@@ -5,12 +5,10 @@ topic: varsamp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.939Z
+lastCollected: 2026-04-07T18:37:01.551Z
 estimatedTokens: 47
-keywords: [var_samp, sample, variance, Accepts, measure, input, function, accept, expressions, var, _samp]
+keywords: [var_samp, sample, variance, Accepts, measure, function, accept, expressions, var, _samp]
 ---
-
-# var_samp()
 
 > Returns the sample variance of the values in a field. Accepts measure fields as input.
   This function does not accept expressions.

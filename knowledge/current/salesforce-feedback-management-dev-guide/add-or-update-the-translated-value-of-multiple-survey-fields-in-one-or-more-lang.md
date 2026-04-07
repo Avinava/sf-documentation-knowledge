@@ -6,13 +6,10 @@ topic: add-or-update-the-translated-value-of-multiple-survey-fields-in-one-or-mo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.500Z
+lastCollected: 2026-04-07T18:39:17.136Z
 estimatedTokens: 347
-keywords: [Add, Translated, Multiple, Survey, Languages, already, resource, REST, API, version, 48.0, later]
+keywords: [Add, Translated, Multiple, Survey, Languages, already, resource, REST, API, 48.0]
 ---
-
-# Add or Update the Translated Value of Multiple Survey Fields in One or More
-		Languages
 
 > If one or more survey fields can be translated or are already translated, you can add or
 		update the translated values of the survey fields in the languages into which survey fields

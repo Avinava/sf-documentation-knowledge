@@ -5,12 +5,10 @@ topic: macro-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.466Z
+lastCollected: 2026-04-07T18:36:54.824Z
 estimatedTokens: 87
-keywords: [Macro, Input, JSON, transformation, rule]
+keywords: [Macro, JSON, transformation, rule]
 ---
-
-# Macro Input
 
 > A macro to use for a JSON transformation rule.
 

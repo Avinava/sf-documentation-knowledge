@@ -5,12 +5,10 @@ topic: development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.049Z
+lastCollected: 2026-04-07T18:40:08.000Z
 estimatedTokens: 1477
-keywords: [Development, import, test, data, you’ve, completed, process, setting, project, Now, you’re, ready, start, Source, Files]
+keywords: [Development, import, test, you’ve, completed, process, setting, project, Now, you’re, ready, start, Source, Files, CLI, Edit]
 ---
-
-# Development
 
 > After you import some test data, you’ve completed the process of setting up your project.
     Now, you’re ready to start the development process.

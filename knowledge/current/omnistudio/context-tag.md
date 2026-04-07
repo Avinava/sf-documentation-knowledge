@@ -5,12 +5,10 @@ topic: context-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.083Z
+lastCollected: 2026-04-07T18:36:40.782Z
 estimatedTokens: 127
 keywords: [Context, Tag, tags, attributes, nodes, retrieve, query, specific]
 ---
-
-# Context Tag
 
 > Create tags for attributes or nodes, update existing context tags, retrieve or query
         specific tags, list all context tags, and delete tags.

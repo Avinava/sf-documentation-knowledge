@@ -5,12 +5,10 @@ topic: managing-stores
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.714Z
+lastCollected: 2026-04-07T18:40:26.950Z
 estimatedTokens: 571
-keywords: [Managing, Stores, you’re, perform, cleanup, app, exits, multiple, user, longer, particular, SmartStore, deleting, named, hybrid]
+keywords: [Managing, Stores, you’re, perform, cleanup, app, exits, multiple, user, longer, particular, SmartStore, deleting, named, hybrid, apps, functions, getting, iOS, Native, Android, Removing, Runtime]
 ---
-
-# Managing Stores
 
 > If you create global stores, you’re required to perform cleanup when the app exits.
   Also, if you create multiple user stores, you can perform cleanup if you’re no longer using

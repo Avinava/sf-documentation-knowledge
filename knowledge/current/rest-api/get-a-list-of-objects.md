@@ -5,12 +5,10 @@ topic: get-a-list-of-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.600Z
+lastCollected: 2026-04-07T18:36:19.826Z
 estimatedTokens: 82
-keywords: [Objects, Describe, resource, org, logged-in, user, encoding, well, maximum, batch, size, permitted, queries]
+keywords: [Describe, resource, org, logged-in, user, encoding, well, maximum, batch, size, permitted, queries]
 ---
-
-# Get a List of Objects
 
 > Use the Describe Global resource to list the objects available in your org and
     available to the logged-in user. This resource also returns the org encoding, as well as maximum

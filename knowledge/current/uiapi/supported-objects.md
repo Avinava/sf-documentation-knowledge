@@ -5,12 +5,10 @@ topic: supported-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.609Z
+lastCollected: 2026-04-07T18:40:10.583Z
 estimatedTokens: 598
-keywords: [Objects, User, API, supports, custom, external, standard]
+keywords: [User, API, supports, external, standard]
 ---
-
-# Supported Objects
 
 > User Interface API supports all custom objects and external objects
       and many standard objects.

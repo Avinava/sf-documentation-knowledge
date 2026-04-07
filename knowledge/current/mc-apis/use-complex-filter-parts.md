@@ -5,12 +5,10 @@ topic: use-complex-filter-parts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.790Z
+lastCollected: 2026-04-07T18:40:21.060Z
 estimatedTokens: 1098
-keywords: [Complex, Filter, Parts, ComplexFilterParts, SimpleFilterParts, nested, together, produce, sophisticated, filtering, scenarios, Sample, NET, Code, SOAP]
+keywords: [Complex, Filter, Parts, ComplexFilterParts, SimpleFilterParts, nested, together, produce, sophisticated, filtering, scenarios, Sample, NET, Code, SOAP, Envelope]
 ---
-
-# Use Complex Filter Parts
 
 > ComplexFilterParts and SimpleFilterParts can be nested together to produce sophisticated filtering scenarios.
 

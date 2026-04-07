@@ -5,12 +5,10 @@ topic: einstein-discovery-rest-api-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:11.947Z
+lastCollected: 2026-04-07T18:36:58.473Z
 estimatedTokens: 436
-keywords: [Einstein, Discovery, REST, API, access, features, predictions, models, stories, programmatically]
+keywords: [Einstein, Discovery, REST, API, features, predictions, models, stories, programmatically]
 ---
-
-# Einstein Discovery REST API Overview
 
 > You can access Einstein Discovery features such as predictions, models, and stories
   programmatically using the Einstein Discovery REST API.

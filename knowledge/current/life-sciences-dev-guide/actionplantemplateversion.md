@@ -5,12 +5,10 @@ topic: actionplantemplateversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.108Z
+lastCollected: 2026-04-07T18:37:57.675Z
 estimatedTokens: 843
-keywords: [ActionPlanTemplateVersion, Life, Sciences, Cloud, extend, standard, represent, version, action, plan, template, Calls, Associated, Objects]
+keywords: [ActionPlanTemplateVersion, Life, Sciences, Cloud, extend, standard, represent, action, plan, template]
 ---
-
-# ActionPlanTemplateVersion
 
 > Life Sciences Cloud fields extend the standard ActionPlanTemplateVersion
          object to represent a version of an action plan template.

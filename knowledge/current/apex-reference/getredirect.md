@@ -5,12 +5,10 @@ topic: getredirect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.909Z
+lastCollected: 2026-04-07T18:35:59.178Z
 estimatedTokens: 134
-keywords: [getRedirect, current, PageReference, object's, redirect, attribute, Usage]
+keywords: [getRedirect, current, PageReference, object's, redirect, attribute]
 ---
-
-# getRedirect()
 
 > Returns the current value of the PageReference object's redirect attribute.
 

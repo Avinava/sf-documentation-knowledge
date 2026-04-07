@@ -5,12 +5,10 @@ topic: sobject-blob-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.009Z
+lastCollected: 2026-04-07T18:36:21.238Z
 estimatedTokens: 299
-keywords: [sObject, Blob, individual, record, binary, data, certain, standard, objects, Attachment, ContentNote, ContentVersion, Document, Folder]
+keywords: [sObject, Blob, individual, record, binary, certain, standard, Attachment, ContentNote, ContentVersion, Document, Folder]
 ---
-
-# sObject Blob Get
 
 > Gets the specified blob field from an individual record and returns it as binary data.
   Only certain standard objects have blob fields, such as Attachment, ContentNote, ContentVersion,

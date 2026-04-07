@@ -5,12 +5,10 @@ topic: schedule-rate-based-funding-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.607Z
+lastCollected: 2026-04-07T18:39:11.122Z
 estimatedTokens: 107
-keywords: [Schedule, Rate, Funding, Calculation, Schedules, collection, RBF, Objects]
+keywords: [Schedule, Rate, Funding, Calculation, Schedules, collection, RBF]
 ---
-
-# Schedule Rate Based Funding Calculation
 
 > Schedules a collection of Rate Based Funding (RBF) Objects for
       calculation.

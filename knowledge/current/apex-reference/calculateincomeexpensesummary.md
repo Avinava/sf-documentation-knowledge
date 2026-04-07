@@ -5,12 +5,10 @@ topic: calculateincomeexpensesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.651Z
+lastCollected: 2026-04-07T18:36:12.939Z
 estimatedTokens: 422
-keywords: [CalculateIncomeExpenseSummary, Calculates, monthly, income, total, average, expense, expenses, provided, Examples]
+keywords: [CalculateIncomeExpenseSummary, Examples, Calculates, monthly, income, total, average, expense, expenses, provided]
 ---
-
-# CalculateIncomeExpenseSummary
 
 > Calculates the monthly income, total income, average monthly
             income, monthly expense, total expense, average monthly expense from a list of income

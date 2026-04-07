@@ -5,12 +5,10 @@ topic: creating-documentation-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.858Z
+lastCollected: 2026-04-07T18:38:03.949Z
 estimatedTokens: 787
-keywords: [Creating, Documentation, Content, usage, guidelines, code, samples, component, event, Writing, Basic, Formatting, Blocks, Links, Tables]
+keywords: [Links, Tables, Creating, Documentation, Content, guidelines, code, samples, event, Writing, Basic, Formatting, Blocks]
 ---
-
-# Creating Documentation Content
 
 > Documentation provides usage guidelines and code samples about a component, event, or
     interface.

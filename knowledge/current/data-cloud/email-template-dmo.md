@@ -5,12 +5,10 @@ topic: email-template-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:08.570Z
+lastCollected: 2026-04-07T18:35:53.530Z
 estimatedTokens: 1226
-keywords: [Email, Template, DMO, Data, Cloud, model, standard, form, message, personalized, customized, campaign, API, Category, Primary]
+keywords: [Category, Relationships, Email, Template, DMO, Cloud, model, standard, form, message, personalized, customized, campaign, API, Primary, Subject, Area, Key]
 ---
-
-# Email Template DMO
 
 > The Email Template DMO is a Data Cloud data model object (DMO) for the
       standard form of an email message that can be personalized and customized based on a

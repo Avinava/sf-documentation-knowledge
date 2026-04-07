@@ -5,12 +5,10 @@ topic: story-potential-bias
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.620Z
+lastCollected: 2026-04-07T18:37:00.124Z
 estimatedTokens: 176
 keywords: [Story, Potential, Bias]
 ---
-
-# Story Potential Bias
 
 > The potential bias for a story.
 

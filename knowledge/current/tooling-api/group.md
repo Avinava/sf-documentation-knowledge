@@ -5,12 +5,10 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.782Z
+lastCollected: 2026-04-07T18:36:33.212Z
 estimatedTokens: 1166
-keywords: [Group, User, records, Groups, contain, individual, users, particular, role, territory, addition, below, hierarchy, Tooling, API]
+keywords: [Group, User, records, Groups, contain, individual, users, particular, role, territory, addition, below, hierarchy, Tooling, API, 38.0, SOAP, REST, HTTP]
 ---
-
-# Group
 
 > Represents a set of User records. Groups can contain individual
             users, other groups, or the users in a particular role or territory. In addition, groups

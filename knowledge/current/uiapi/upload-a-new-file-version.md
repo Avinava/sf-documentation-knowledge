@@ -5,12 +5,10 @@ topic: upload-a-new-file-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.367Z
+lastCollected: 2026-04-07T18:40:11.358Z
 estimatedTokens: 396
-keywords: [Upload, New, File, Version, document, image]
+keywords: [Upload, New, File, document, image]
 ---
-
-# Upload a New File Version
 
 > Upload a new document or image version.
 

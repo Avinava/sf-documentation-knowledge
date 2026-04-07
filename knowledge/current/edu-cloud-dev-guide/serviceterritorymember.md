@@ -5,12 +5,10 @@ topic: serviceterritorymember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.774Z
+lastCollected: 2026-04-07T18:37:31.928Z
 estimatedTokens: 244
-keywords: [ServiceTerritoryMember, service, resource, assigned, territory, Salesforce, Scheduler, Workforce, Engagement, Education, Cloud, API, version, 57.0, later]
+keywords: [ServiceTerritoryMember, service, resource, assigned, territory, Salesforce, Scheduler, Workforce, Engagement, Education, Cloud, API, 57.0]
 ---
-
-# ServiceTerritoryMember
 
 > Represents a service resource who can be assigned in a service territory in
          Field Service, Salesforce Scheduler, Workforce Engagement, or Education Cloud. This

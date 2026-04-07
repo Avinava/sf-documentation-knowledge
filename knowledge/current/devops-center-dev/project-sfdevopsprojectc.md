@@ -5,12 +5,10 @@ topic: project-sfdevopsprojectc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.623Z
+lastCollected: 2026-04-07T18:37:28.683Z
 estimatedTokens: 703
-keywords: [Project, sf_devops__Project__c, parent, DevOps, Center, custom, objects, Understand, Data, Model, orgs, installed, _devops, _Project, Calls]
+keywords: [Project, sf_devops__Project__c, parent, DevOps, Center, Understand, Model, orgs, installed, _devops, _Project]
 ---
-
-# Project (sf_devops__Project__c)
 
 > Represents the parent of all DevOps Center custom objects. See Understand the DevOps Center Data Model for more information. This object is available in
       all orgs that have DevOps Center installed.

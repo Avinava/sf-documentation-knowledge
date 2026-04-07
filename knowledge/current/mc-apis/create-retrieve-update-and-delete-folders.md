@@ -5,12 +5,10 @@ topic: create-retrieve-update-and-delete-folders
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.196Z
+lastCollected: 2026-04-07T18:40:16.334Z
 estimatedTokens: 6219
-keywords: [Retrieve, Folders, creating, retrieving, updating, deleting, account, via, SOAP, API, Why, How, Sample, NET, Code]
+keywords: [SOAPRequest, Retrieve, Folders, creating, retrieving, updating, deleting, account, via, SOAP, API, Why, How, Sample, NET, Code, Folder, Filter, PHP, Envelopes, Created]
 ---
-
-# Create, Retrieve, Update, and Delete Folders
 
 > This page contains information  about creating, retrieving, updating, and deleting folders in your account via the SOAP API.
 

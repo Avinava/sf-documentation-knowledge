@@ -5,12 +5,10 @@ topic: worktypecarespecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.631Z
+lastCollected: 2026-04-07T18:37:48.261Z
 estimatedTokens: 659
-keywords: [WorkTypeCareSpecialty, relationship, care, specialty, visit, Work, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [WorkTypeCareSpecialty, relationship, care, specialty, visit, Work, API, 52.0]
 ---
-
-# WorkTypeCareSpecialty
 
 > Represents a relationship between a care specialty and a visit type (Work
          Type). This object is available in API version 52.0 and later.

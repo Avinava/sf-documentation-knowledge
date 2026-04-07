@@ -5,13 +5,11 @@ topic: behavior-of-specific-metadata-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.895Z
+lastCollected: 2026-04-07T18:38:54.294Z
 estimatedTokens: 1432
 namespace: Metadata
 keywords: [Behavior, Specific, Metadata, First-Generation, Managed, Packages, how, profiles, handled]
 ---
-
-# Behavior of Specific Metadata in First-Generation Managed Packages
 
 > Learn how profiles and other metadata are handled for first-generation managed packages.
 

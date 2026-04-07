@@ -5,12 +5,10 @@ topic: variable-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.721Z
+lastCollected: 2026-04-07T18:35:42.608Z
 estimatedTokens: 501
-keywords: [Variable, Data, Variables, support, multiple, including, date, decimal, domain, definition, may, remain, unbound, leading, errors]
+keywords: [Variable, Variables, support, multiple, including, date, decimal, domain, definition, may, remain, unbound, leading, errors]
 ---
-
-# Variable Data Types
 
 > Variables support multiple data types including boolean, date, decimal, and so on.
     Variables without a domain definition may remain unbound, leading to errors.

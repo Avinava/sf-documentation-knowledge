@@ -5,12 +5,10 @@ topic: show-users-which-steps-to-complete-first-or-last
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.039Z
+lastCollected: 2026-04-07T18:39:17.707Z
 estimatedTokens: 324
-keywords: [Show, Users, Steps, Pin, actions, top, bottom, Recommendations, component, know]
+keywords: [Show, Users, Steps, Pin, actions, top, bottom, Recommendations, know]
 ---
-
-# Show Users Which Steps to Complete First or Last
 
 > Pin actions to the top or bottom of the Actions & Recommendations component so that
     users know to complete them first or last.

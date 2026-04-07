@@ -5,12 +5,10 @@ topic: flow-version-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.747Z
+lastCollected: 2026-04-07T18:35:53.723Z
 estimatedTokens: 251
-keywords: [Flow, Version, DMO, Data, Cloud, model, API, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Category, Relationships, Flow, DMO, Cloud, model, API, Primary, Subject, Area, Key]
 ---
-
-# Flow Version DMO
 
 > The Flow Version DMO is a Data Cloud 
       data model object (DMO) for details about a version of a flow.

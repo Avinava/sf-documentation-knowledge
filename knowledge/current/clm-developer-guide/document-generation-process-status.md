@@ -5,12 +5,10 @@ topic: document-generation-process-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.219Z
+lastCollected: 2026-04-07T18:37:25.152Z
 estimatedTokens: 194
 keywords: [Document, Generation, Process, Status]
 ---
-
-# Document Generation Process Status
 
 > Status of the document generation process.
 

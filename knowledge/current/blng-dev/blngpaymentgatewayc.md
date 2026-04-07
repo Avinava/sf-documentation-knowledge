@@ -5,12 +5,10 @@ topic: blngpaymentgatewayc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.267Z
+lastCollected: 2026-04-07T18:37:03.820Z
 estimatedTokens: 1559
-keywords: [blng__PaymentGateway__c, connection, external, payment, gateway, blng, _PaymentGateway, Calls]
+keywords: [blng__PaymentGateway__c, connection, external, payment, gateway, blng, _PaymentGateway]
 ---
-
-# blng__PaymentGateway__c
 
 > Represents the connection to an external payment
       gateway.

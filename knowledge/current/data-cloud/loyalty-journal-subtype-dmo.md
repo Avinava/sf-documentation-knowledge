@@ -5,12 +5,10 @@ topic: loyalty-journal-subtype-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.902Z
+lastCollected: 2026-04-07T18:35:53.918Z
 estimatedTokens: 578
-keywords: [Loyalty, Journal, Subtype, DMO, Data, Cloud, model, watched, video, product, review, API, Category, Primary, Subject]
+keywords: [Category, Relationships, Loyalty, Journal, Subtype, DMO, Cloud, model, watched, video, product, review, API, Primary, Subject, Area, Key]
 ---
-
-# Loyalty Journal Subtype DMO
 
 > The Loyalty Journal Subtype DMO is a Data Cloud data model object
       (DMO) for a subtype of a loyalty journal type, such as a watched video or product

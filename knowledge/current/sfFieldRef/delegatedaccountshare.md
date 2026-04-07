@@ -5,12 +5,10 @@ topic: delegatedaccountshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.085Z
+lastCollected: 2026-04-07T18:39:37.782Z
 estimatedTokens: 251
 keywords: [DelegatedAccountShare, Sharing, DelegatedAccount]
 ---
-
-# DelegatedAccountShare
 
 > Sharing for DelegatedAccount.
 

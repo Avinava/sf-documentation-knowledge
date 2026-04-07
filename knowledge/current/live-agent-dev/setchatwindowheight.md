@@ -5,12 +5,10 @@ topic: setchatwindowheight
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.893Z
+lastCollected: 2026-04-07T18:38:06.136Z
 estimatedTokens: 124
-keywords: [setChatWindowHeight, customize, height, chat, window, Usage]
+keywords: [setChatWindowHeight, customize, height, chat, window]
 ---
-
-# setChatWindowHeight
 
 > Use the setChatWindowHeight method to customize the height of your chat window.
 

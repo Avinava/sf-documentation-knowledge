@@ -5,12 +5,10 @@ topic: fulfillmentstepjeopardyrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.292Z
+lastCollected: 2026-04-07T18:35:49.244Z
 estimatedTokens: 654
-keywords: [FulfillmentStepJeopardyRule, duration, tolerance, step, fulfillment, process, allow, overall, tracking, rules, risks, API, version, 61.0, later]
+keywords: [FulfillmentStepJeopardyRule, duration, tolerance, step, fulfillment, process, allow, overall, risks, API, 61.0]
 ---
-
-# FulfillmentStepJeopardyRule
 
 > Represents the duration and tolerance for the step in the fulfillment
          process to allow the overall tracking of rules and risks. This object is available in

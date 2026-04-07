@@ -5,12 +5,10 @@ topic: livechatdeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.912Z
+lastCollected: 2026-04-07T18:39:46.473Z
 estimatedTokens: 458
-keywords: [LiveChatDeployment, general, settings, deploying, Live, Agent, website, API, version, 24.0, later]
+keywords: [LiveChatDeployment, general, settings, deploying, Live, Agent, website, API, 24.0]
 ---
-
-# LiveChatDeployment
 
 > Represents the general settings for deploying Live Agent on a
    website. This object is available in API version 24.0 and later.

@@ -5,12 +5,10 @@ topic: data-extension-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.569Z
+lastCollected: 2026-04-07T18:40:22.996Z
 estimatedTokens: 211
-keywords: [Data, Extension, Functions, allow, access, rows, contained, via, server-side, JavaScript, Load, Enterprise, 2.0, Account, Initialization, Function, associated, work, extensions, inside]
+keywords: [Load, Initialization, Extension, Functions, allow, rows, contained, via, server-side, JavaScript, Enterprise, 2.0, Account, Function, work, extensions, inside, Marketing, Cloud, account, add, edit, search, ZIP, code, pull, back, corresponding]
 ---
-
-# Data Extension Functions
 
 > These functions allow access to the fields and rows contained within a data extension via server-side JavaScript.
 

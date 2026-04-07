@@ -5,12 +5,10 @@ topic: financial-goals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.247Z
+lastCollected: 2026-04-07T18:37:34.819Z
 estimatedTokens: 192
 keywords: [Financial, Goals, goal, members, funding]
 ---
-
-# Financial Goals
 
 > Create financial goals, goal members, and goal funding.
 

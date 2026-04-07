@@ -5,12 +5,10 @@ topic: read-sales-transaction-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.889Z
+lastCollected: 2026-04-07T18:35:44.906Z
 estimatedTokens: 210
-keywords: [Sales, Transaction, POST, Retrieve, data, efficiently, initialized, hydrated, context]
+keywords: [Sales, Transaction, POST, Retrieve, efficiently, initialized, hydrated, context]
 ---
-
-# Read Sales Transaction (POST)
 
 > Retrieve sales transaction data efficiently from an initialized or a
       hydrated context.

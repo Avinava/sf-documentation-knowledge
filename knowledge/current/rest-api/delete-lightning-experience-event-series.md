@@ -5,12 +5,10 @@ topic: delete-lightning-experience-event-series
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:34.633Z
+lastCollected: 2026-04-07T18:36:19.855Z
 estimatedTokens: 571
-keywords: [Lightning, Experience, Event, Series, HTTP, remove, IsRecurrence2, events, including, specific, entire, Multiple, Considerations]
+keywords: [Considerations, Lightning, Experience, Event, Series, HTTP, remove, IsRecurrence2, events, including, specific, entire, Multiple]
 ---
-
-# Delete Lightning Experience Event Series
 
 > Use the HTTP DELETE method to remove one or more IsRecurrence2 events in a series. You
   can remove a single event, all events following and including a specific event, or an entire event

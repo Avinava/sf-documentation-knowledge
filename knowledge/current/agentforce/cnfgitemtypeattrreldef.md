@@ -5,12 +5,10 @@ topic: cnfgitemtypeattrreldef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.353Z
+lastCollected: 2026-04-07T18:35:55.467Z
 estimatedTokens: 1045
-keywords: [CnfgItemTypeAttrRelDef, definition, relationship, configuration, item, attribute, that's, applicable, exampe, server, attributes, manufacturer, address, API, version]
+keywords: [CnfgItemTypeAttrRelDef, definition, relationship, configuration, item, attribute, that's, applicable, exampe, server, attributes, manufacturer, address, API, 65.0, SOAP, REST]
 ---
-
-# CnfgItemTypeAttrRelDef
 
 > Represents the definition of a relationship between a configuration item type
          and an attribute that's applicable for the item type. For exampe, a server configuration

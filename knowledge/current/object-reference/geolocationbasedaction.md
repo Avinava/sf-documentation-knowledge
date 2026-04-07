@@ -5,12 +5,10 @@ topic: geolocationbasedaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.285Z
+lastCollected: 2026-04-07T18:38:33.411Z
 estimatedTokens: 667
-keywords: [GeolocationBasedAction, geolocation-based, action, that’s, triggered, user, enters, exits, area, associated, API, version, 61.0, later, Calls]
+keywords: [GeolocationBasedAction, geolocation-based, action, that’s, triggered, user, enters, exits, area, API, 61.0]
 ---
-
-# GeolocationBasedAction
 
 > Represents a geolocation-based action, which is an action that’s
          triggered when a user enters, exits, or is within the area of the associated object.

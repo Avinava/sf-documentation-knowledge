@@ -5,12 +5,10 @@ topic: waitlistworktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.461Z
+lastCollected: 2026-04-07T18:40:06.357Z
 estimatedTokens: 296
-keywords: [WaitlistWorkType, relationship, Waitlist, Work, Salesforce, Scheduler, API, version, 58.0, later]
+keywords: [WaitlistWorkType, relationship, Waitlist, Work, Salesforce, Scheduler, API, 58.0]
 ---
-
-# WaitlistWorkType
 
 > Represents the relationship between the Waitlist object and the Work
          Type object for Salesforce Scheduler. This object is available in API version 58.0 and

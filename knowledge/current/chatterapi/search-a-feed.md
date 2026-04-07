@@ -5,12 +5,10 @@ topic: search-a-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.362Z
+lastCollected: 2026-04-07T18:37:24.376Z
 estimatedTokens: 143
-keywords: [Search, Feed]
+keywords: [Search]
 ---
-
-# Search a Feed
 
 > Search a feed.
 

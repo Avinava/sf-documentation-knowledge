@@ -5,12 +5,10 @@ topic: agent-service-presence-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.152Z
+lastCollected: 2026-04-07T18:35:51.963Z
 estimatedTokens: 675
-keywords: [Agent, Service, Presence, DMO, Data, Cloud, model, user’s, real-time, status, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Agent, Service, Presence, DMO, Cloud, model, user’s, real-time, status, API, Primary, Subject, Area, Key]
 ---
-
-# Agent Service Presence DMO
 
 > The Agent Service Presence DMO is a Data Cloud data model object (DMO)
       for a presence user’s real-time presence status.

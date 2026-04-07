@@ -5,12 +5,10 @@ topic: slackchannelrelatedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.741Z
+lastCollected: 2026-04-07T18:40:02.426Z
 estimatedTokens: 339
-keywords: [SlackChannelRelatedRecord, record, mapping, Slack, channel, Salesforce, that’s, made, API, version, 65.0, later]
+keywords: [SlackChannelRelatedRecord, record, mapping, Slack, channel, Salesforce, that’s, made, API, 65.0]
 ---
-
-# SlackChannelRelatedRecord
 
 > Represents the related record mapping between a Slack channel and a
          Salesforce record that’s made when you create a Salesforce channel. This object is

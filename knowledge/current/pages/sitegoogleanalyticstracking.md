@@ -5,12 +5,10 @@ topic: sitegoogleanalyticstracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.449Z
+lastCollected: 2026-04-07T18:38:50.688Z
 estimatedTokens: 270
-keywords: [site, googleAnalyticsTracking, standard, component, integrate, Google, Analytics, Force.com, sites, track, analyze, usage, Add, once, either]
+keywords: [Attributes, site, googleAnalyticsTracking, standard, integrate, Google, Analytics, Force.com, sites, track, analyze, Add, once, either, template, pages, want, individual, themselves, Don't]
 ---
-
-# site:googleAnalyticsTracking
 
 > The standard component used to integrate Google Analytics with Force.com sites to track and analyze site usage. Add this component just once, either on the site template for the pages you want to track, or the individual pages themselves. Don't set the component for both the template and the page. A
 

@@ -5,12 +5,10 @@ topic: manage-prediction-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:11.926Z
+lastCollected: 2026-04-07T18:36:58.453Z
 estimatedTokens: 353
-keywords: [Manage, Prediction, Definitions, Einstein, Service, REST, API, endpoints, definition, model, trying, predict, Salesforce, entity, associated]
+keywords: [Manage, Prediction, Definitions, Einstein, Service, REST, API, endpoints, definition, model, trying, predict, Salesforce, entity, unique, certain, attributes, modified, Metadata]
 ---
-
-# Manage Prediction Definitions
 
 > The Einstein Prediction Service provides REST API endpoints to manage prediction
     definitions. A prediction definition specifies what the model is trying to predict and the

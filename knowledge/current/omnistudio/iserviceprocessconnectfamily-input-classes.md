@@ -5,12 +5,10 @@ topic: iserviceprocessconnectfamily-input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.860Z
+lastCollected: 2026-04-07T18:36:35.335Z
 estimatedTokens: 182
-keywords: [IServiceProcessConnectFamily, Input, Classes]
+keywords: [IServiceProcessConnectFamily, Classes]
 ---
-
-# IServiceProcessConnectFamily Input Classes
 
 > The following are input classes for IServiceProcessConnectFamily.
 

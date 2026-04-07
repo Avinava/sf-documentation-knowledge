@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.133Z
+lastCollected: 2026-04-07T18:37:32.305Z
 estimatedTokens: 68
 keywords: [Bodies, Here’s, E&U, Cloud]
 ---
-
-# Response Bodies
 
 > Here’s a list of E&U Cloud response bodies.
 

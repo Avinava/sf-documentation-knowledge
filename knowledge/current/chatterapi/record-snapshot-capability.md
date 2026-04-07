@@ -5,12 +5,10 @@ topic: record-snapshot-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.516Z
+lastCollected: 2026-04-07T18:37:22.628Z
 estimatedTokens: 158
-keywords: [Record, Snapshot, Capability, feed, element, snapshotted, event]
+keywords: [Record, Snapshot, Capability, snapshotted, event]
 ---
-
-# Record Snapshot Capability
 
 > If a feed element has this capability, it contains all the snapshotted fields of a record
     for a single create record event.

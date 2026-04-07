@@ -5,12 +5,10 @@ topic: view-or-modify-a-dashboard-json-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.685Z
+lastCollected: 2026-04-07T18:36:54.052Z
 estimatedTokens: 428
 keywords: [View, Modify, Dashboard, JSON, File, Editor, lens]
 ---
-
-# View or Modify a Dashboard JSON File
 
 > Use the JSON Editor to modify the JSON for a dashboard or lens.
 

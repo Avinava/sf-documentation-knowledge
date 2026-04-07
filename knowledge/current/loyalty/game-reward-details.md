@@ -5,12 +5,10 @@ topic: game-reward-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.680Z
+lastCollected: 2026-04-07T18:38:07.916Z
 estimatedTokens: 294
-keywords: [Game, Reward, Output, representation, participant, won]
+keywords: [Game, Reward, participant, won]
 ---
-
-# Game Reward Details
 
 > Output representation of the details of the game reward that a participant has
     won.

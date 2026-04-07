@@ -5,12 +5,10 @@ topic: configure-callout-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.325Z
+lastCollected: 2026-04-07T18:35:47.359Z
 estimatedTokens: 422
 keywords: [Configure, Callout, Settings, provider, include, creation, named, credential, external, integration, definition, configuration, fulfillment, step]
 ---
-
-# Configure Callout Settings
 
 > Before you set up a callout provider, configure the callout settings. The settings
   include the creation of a named credential and an external credential, the creation of an

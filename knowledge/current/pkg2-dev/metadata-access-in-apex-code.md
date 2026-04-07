@@ -5,13 +5,11 @@ topic: metadata-access-in-apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.918Z
+lastCollected: 2026-04-07T18:38:55.360Z
 estimatedTokens: 413
 namespace: Metadata
-keywords: [Metadata, Access, Apex, Code, package]
+keywords: [Metadata, Apex, Code, package]
 ---
-
-# Metadata Access in Apex Code
 
 > Use the Metadata namespace in Apex to access
     metadata in your package.

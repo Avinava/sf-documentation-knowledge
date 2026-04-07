@@ -5,12 +5,10 @@ topic: stage-management-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.678Z
+lastCollected: 2026-04-07T18:36:40.395Z
 estimatedTokens: 79
-keywords: [Stage, Management, Output, representation]
+keywords: [Stage, Management]
 ---
-
-# Stage Management Details
 
 > Output representation of the details of stage management.
 

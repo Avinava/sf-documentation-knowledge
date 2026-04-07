@@ -5,12 +5,10 @@ topic: saql-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.736Z
+lastCollected: 2026-04-07T18:37:01.340Z
 estimatedTokens: 986
-keywords: [SAQL, Statements, query, made, statement, input, stream, operation, output]
+keywords: [SAQL, Statements, query, made, statement, stream, operation]
 ---
-
-# SAQL Statements
 
 > A query is made up of statements. Each SAQL statement has an input stream, an operation,
   and an output stream.

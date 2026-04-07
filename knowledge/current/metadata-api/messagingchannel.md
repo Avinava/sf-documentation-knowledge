@@ -5,12 +5,10 @@ topic: messagingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:42.055Z
+lastCollected: 2026-04-07T18:36:27.578Z
 estimatedTokens: 3238
-keywords: [MessagingChannel, metadata, associated, Embedded, Service, Messaging, channel, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [MessagingChannel, EmbeddedConfig, MessagingAuthorization, MessagingAutoResponse, MessagingChannelCustomParameter, MessagingChannelActionParameterMapping, MessagingChannelStandardParameter, MessagingChannelUsage, MessagingKeyword, metadata, Embedded, Service, Messaging, channel, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MessagingChannel
 
 > Represents the metadata associated with an Embedded Service
 			Messaging channel.

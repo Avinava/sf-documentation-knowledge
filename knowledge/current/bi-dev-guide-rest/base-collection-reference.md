@@ -5,12 +5,10 @@ topic: base-collection-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.161Z
+lastCollected: 2026-04-07T18:36:56.731Z
 estimatedTokens: 153
 keywords: [Base, Collection, Analytics]
 ---
-
-# Base Collection Reference
 
 > The base Analytics collection.
 

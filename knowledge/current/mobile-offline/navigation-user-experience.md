@@ -5,12 +5,10 @@ topic: navigation-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.890Z
+lastCollected: 2026-04-07T18:38:15.386Z
 estimatedTokens: 252
-keywords: [Navigation, User, Experience, There, variety, base, components, design, visual, users, tap, click, move, around, app]
+keywords: [Navigation, User, Experience, There, variety, base, design, visual, users, tap, click, move, around, app]
 ---
-
-# Navigation User Experience
 
 > There are a variety of base components available to design the visual user interface
   that users tap or click to move around in your app.

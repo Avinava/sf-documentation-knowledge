@@ -5,12 +5,10 @@ topic: datediff
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.299Z
+lastCollected: 2026-04-07T18:40:21.583Z
 estimatedTokens: 145
-keywords: [DateDiff, Function, Ordinal, Date, Starting, comparison, either, yyyy, YYYY-MM-DD, subtract, **Overview**, **Syntax**, Usage]
+keywords: [DateDiff, Function, Ordinal, Date, Starting, comparison, either, yyyy, YYYY-MM-DD, subtract, **Overview**, **Syntax**]
 ---
-
-# DateDiff
 
 > DateDiff(1, 2, 3)
 

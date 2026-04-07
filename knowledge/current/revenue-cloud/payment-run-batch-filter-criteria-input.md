@@ -5,12 +5,10 @@ topic: payment-run-batch-filter-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.579Z
+lastCollected: 2026-04-07T18:35:43.459Z
 estimatedTokens: 256
-keywords: [Payment, Run, Batch, Filter, Criteria, Input, representation, invoice, covers, sequence, filtering, comparison, operations]
+keywords: [Payment, Run, Batch, Filter, Criteria, invoice, covers, sequence, filtering, comparison, operations]
 ---
-
-# Payment Run Batch Filter Criteria Input
 
 > Input representation of the filter criteria for an invoice batch run. This representation
     covers the criteria and sequence for filtering payment run details. It specifies the field and

@@ -5,13 +5,11 @@ topic: searchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.599Z
+lastCollected: 2026-04-07T18:36:00.875Z
 estimatedTokens: 950
 namespace: Search
 keywords: [SearchResult, wrapper, sObject, search, metadata, getSObject, getSnippet, fieldName]
 ---
-
-# SearchResult Class
 
 > A wrapper object that contains an sObject and search
     metadata.

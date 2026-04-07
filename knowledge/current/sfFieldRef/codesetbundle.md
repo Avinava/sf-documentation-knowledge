@@ -5,12 +5,10 @@ topic: codesetbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.956Z
+lastCollected: 2026-04-07T18:39:34.392Z
 estimatedTokens: 548
-keywords: [CodeSetBundle, group, code, across, multiple, systems, versions, refer, conceptual, entity, API, version, 59.0, later]
+keywords: [CodeSetBundle, group, code, across, multiple, systems, versions, refer, conceptual, entity, API, 59.0]
 ---
-
-# CodeSetBundle
 
 > Represents a group of code sets across multiple systems and versions. All of
       these code sets refer to the same conceptual entity. This object is available in API

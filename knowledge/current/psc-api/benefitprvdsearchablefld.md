@@ -5,12 +5,10 @@ topic: benefitprvdsearchablefld
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.914Z
+lastCollected: 2026-04-07T18:39:05.897Z
 estimatedTokens: 3614
-keywords: [BenefitPrvdSearchableFld, collection, denormalized, data, certain, Provider, Management, model, search, queries, instead, multiple, objects, improves, performance]
+keywords: [BenefitPrvdSearchableFld, collection, denormalized, certain, Provider, Management, model, search, queries, instead, multiple, improves, performance, API, 59.0]
 ---
-
-# BenefitPrvdSearchableFld
 
 > Represents a collection of denormalized data from certain fields in
          the Provider Management data model. Provider search queries this object instead of multiple

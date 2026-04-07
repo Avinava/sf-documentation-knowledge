@@ -5,12 +5,10 @@ topic: connectapiannouncement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.827Z
+lastCollected: 2026-04-07T18:36:07.169Z
 estimatedTokens: 333
 keywords: [ConnectApi.Announcement, announcement, displays, designated, location, Salesforce, until, p.m, expiration, date, unless, it’s, deleted, replaced, another]
 ---
-
-# ConnectApi.Announcement
 
 > An announcement displays in a designated location in the Salesforce UI until 11:59 p.m.
     on its expiration date, unless it’s deleted or replaced by another

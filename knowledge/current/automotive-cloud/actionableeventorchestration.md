@@ -5,12 +5,10 @@ topic: actionableeventorchestration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.890Z
+lastCollected: 2026-04-07T18:36:52.316Z
 estimatedTokens: 1519
-keywords: [ActionableEventOrchestration, actionable, event, how, orchestrate, processes, record, stores, subtype, category, expression, context, mappings, orchestration, API]
+keywords: [ActionableEventOrchestration, actionable, event, how, orchestrate, processes, record, stores, subtype, category, expression, context, mappings, orchestration, API, 63.0]
 ---
-
-# ActionableEventOrchestration
 
 > Represents the details of an actionable event and specifies how to orchestrate the
       processes. The record stores details such as the event type, subtype, and category, and the

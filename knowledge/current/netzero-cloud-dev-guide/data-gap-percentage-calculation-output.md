@@ -5,12 +5,10 @@ topic: data-gap-percentage-calculation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.621Z
+lastCollected: 2026-04-07T18:38:17.191Z
 estimatedTokens: 84
-keywords: [Data, Gap, Percentage, Calculation, Output, representation]
+keywords: [Gap, Percentage, Calculation]
 ---
-
-# Data Gap Percentage Calculation Output
 
 > Output representation of Data Gap Percentage Calculation.
 

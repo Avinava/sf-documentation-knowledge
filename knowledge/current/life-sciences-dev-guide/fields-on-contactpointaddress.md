@@ -5,12 +5,10 @@ topic: fields-on-contactpointaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.244Z
+lastCollected: 2026-04-07T18:37:57.781Z
 estimatedTokens: 1209
-keywords: [ContactPointAddress, Life, Sciences, Cloud, extend, standard, Contact, Point, Address, represent, contact’s, billing, shipping, associated, individual]
+keywords: [ContactPointAddress, Life, Sciences, Cloud, extend, standard, Contact, Point, Address, represent, contact’s, billing, shipping, individual, account, API, 65.0]
 ---
-
-# Fields on ContactPointAddress
 
 > Life Sciences Cloud fields extend the standard Contact Point Address object
          to represent a contact’s billing or shipping address associated with an individual or

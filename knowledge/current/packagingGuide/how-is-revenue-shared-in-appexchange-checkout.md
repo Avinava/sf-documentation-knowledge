@@ -5,12 +5,10 @@ topic: how-is-revenue-shared-in-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.051Z
+lastCollected: 2026-04-07T18:38:45.888Z
 estimatedTokens: 349
-keywords: [How, Revenue, Shared, AppExchange, Checkout, Salesforce, partner, agree, share, every, solution, sell, depends, payment, customer]
+keywords: [How, Revenue, Shared, AppExchange, Checkout, Salesforce, partner, agree, share, every, solution, sell, depends, payment, customer, pays, bank, transfer, 15%, credit, card, plus, $0.30, per, transaction, fee, charged, Stripe, Regardless, there’s, minimum, don’t, charge, setup, fees, monthly, service, charges, storage]
 ---
-
-# How Is Revenue Shared in AppExchange Checkout?
 
 > As a Salesforce partner, you agree to share revenue for every AppExchange solution that
     you sell. The revenue that you share with Salesforce depends on the payment type. If the

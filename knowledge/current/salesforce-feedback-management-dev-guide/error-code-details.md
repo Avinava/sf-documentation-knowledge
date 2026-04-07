@@ -5,12 +5,10 @@ topic: error-code-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.928Z
+lastCollected: 2026-04-07T18:39:17.587Z
 estimatedTokens: 290
 keywords: [Error, Code, know, codes, messages, Salesforce, Feedback, Management, SFM, unAuth, APIs]
 ---
-
-# Error Code Details
 
 > Get to know the error codes and messages for the Salesforce Feedback Management (SFM)
         unAuth Response APIs.

@@ -5,12 +5,10 @@ topic: refresh-token-by-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.006Z
+lastCollected: 2026-04-07T18:37:16.086Z
 estimatedTokens: 73
 keywords: [Refresh, Token, App, tokens]
 ---
-
-# Refresh Token by App
 
 > Delete the refresh tokens of a given app.
 

@@ -5,13 +5,11 @@ topic: industriesserviceprocess-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.606Z
+lastCollected: 2026-04-07T18:36:36.153Z
 estimatedTokens: 362
 namespace: The
-keywords: [industriesserviceprocess, preprocessor, transforms, validates, data, custom, attributes, Service, Catalog, Connect, REST, API]
+keywords: [industriesserviceprocess, preprocessor, transforms, validates, attributes, Service, Catalog, Connect, REST, API]
 ---
-
-# industriesserviceprocess Namespace
 
 > The industriesserviceprocess namespace provides
     an interface for a preprocessor class that transforms and validates data for custom attributes

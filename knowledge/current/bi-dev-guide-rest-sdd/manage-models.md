@@ -5,12 +5,10 @@ topic: manage-models
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.896Z
+lastCollected: 2026-04-07T18:36:58.430Z
 estimatedTokens: 173
-keywords: [Manage, Models, Einstein, Prediction, Service, REST, API, endpoints, model, unique, evaluate, predictors, predictions, improvements, allow]
+keywords: [Manage, Models, Einstein, Prediction, Service, REST, API, endpoints, model, unique, evaluate, predictors, predictions, improvements, allow, updates, metadata, actual, predictive]
 ---
-
-# Manage Models
 
 > The Einstein Prediction Service provides REST API endpoints to manage models. Each
     model has a unique id. A model is used to evaluate predictors and return predictions and

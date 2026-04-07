@@ -5,12 +5,10 @@ topic: forecastingfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.905Z
+lastCollected: 2026-04-07T18:38:32.954Z
 estimatedTokens: 1466
-keywords: [ForecastingFact, read-only, links, ForecastingItem, opportunities, share, owner, forecast, category, closing, date, period, forecasting, item, API]
+keywords: [ForecastingFact, read-only, links, ForecastingItem, opportunities, share, owner, forecast, category, closing, date, period, forecasting, item, API, versions, greater]
 ---
-
-# ForecastingFact
 
 > This object is read-only and links a ForecastingItem with its
    opportunities, such as opportunities that share the same owner or forecast category and have a

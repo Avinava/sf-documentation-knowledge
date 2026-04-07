@@ -5,12 +5,10 @@ topic: busregauthorizationtypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.360Z
+lastCollected: 2026-04-07T18:39:30.558Z
 estimatedTokens: 280
-keywords: [BusRegAuthorizationTypeHistory, History, tracked, BusRegAuthorizationType]
+keywords: [BusRegAuthorizationTypeHistory, tracked, BusRegAuthorizationType]
 ---
-
-# BusRegAuthorizationTypeHistory
 
 > History for tracked fields of BusRegAuthorizationType.
 

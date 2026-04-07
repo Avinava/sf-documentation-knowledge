@@ -5,12 +5,10 @@ topic: opportunityparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.437Z
+lastCollected: 2026-04-07T18:37:38.279Z
 estimatedTokens: 810
-keywords: [OpportunityParticipant, participant, context, opportunity, record, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [OpportunityParticipant, participant, context, opportunity, record, API, 50.0]
 ---
-
-# OpportunityParticipant
 
 > Represents information about a participant in the context of an opportunity
       record. This object is available in API version 50.0 and later.

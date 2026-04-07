@@ -5,12 +5,10 @@ topic: feed-elements-batch-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.575Z
+lastCollected: 2026-04-07T18:37:13.529Z
 estimatedTokens: 727
-keywords: [Feed, Elements, Batch, Post, binary, files, version, 35.0, earlier]
+keywords: [Batch, Post, binary, files, 35.0, earlier]
 ---
-
-# Feed Elements, Batch Post
 
 > Post a batch of up to 500 feed elements.
 

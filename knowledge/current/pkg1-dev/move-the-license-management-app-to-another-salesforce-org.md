@@ -5,12 +5,10 @@ topic: move-the-license-management-app-to-another-salesforce-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.561Z
+lastCollected: 2026-04-07T18:38:53.874Z
 estimatedTokens: 495
-keywords: [Move, License, Management, App, Another, Salesforce, Org, LMA, different, package, records, don’t, automatically, manually, relink]
+keywords: [Move, License, Management, App, Another, Salesforce, Org, LMA, different, package, records, don’t, automatically, manually, relink, packages, refresh, licenses]
 ---
-
-# Move the License Management App to Another Salesforce Org
 
 > You can move an LMA to a different org, but your package and license records don’t
     automatically move with it. You must manually relink your packages and refresh the licenses.

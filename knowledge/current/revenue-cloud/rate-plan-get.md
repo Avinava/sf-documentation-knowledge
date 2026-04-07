@@ -5,12 +5,10 @@ topic: rate-plan-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.587Z
+lastCollected: 2026-04-07T18:35:44.584Z
 estimatedTokens: 354
-keywords: [Rate, Plan, context, input, API, retrieve, cards, card, entries, adjustments, filter, criteria]
+keywords: [Rate, Plan, context, API, retrieve, cards, card, entries, adjustments, filter, criteria]
 ---
-
-# Rate Plan (GET)
 
 > Get a rate plan for a specified set of context input. Use this API to retrieve rate
     cards, rate card entries, and related adjustments based on the filter criteria for the context

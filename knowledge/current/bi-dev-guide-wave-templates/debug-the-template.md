@@ -5,12 +5,10 @@ topic: debug-the-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.766Z
+lastCollected: 2026-04-07T18:37:02.326Z
 estimatedTokens: 577
-keywords: [Debug, Template, CRM, Analytics, logs, templated, apps, inspect, app, creation, lifecycle, give, visibility, asset, processing]
+keywords: [Debug, Template, CRM, Analytics, logs, templated, apps, inspect, app, creation, lifecycle, give, visibility, asset, processing, any, Apex, configuration, modifier, classes, created, testing, isn’t, working, expected]
 ---
-
-# Debug the Template
 
 > CRM Analytics provides debug logs for templated apps to inspect the app creation
   lifecycle. These debug logs give you visibility into asset creation and the processing of any

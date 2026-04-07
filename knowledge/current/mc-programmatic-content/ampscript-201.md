@@ -5,12 +5,10 @@ topic: ampscript-201
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.240Z
+lastCollected: 2026-04-07T18:40:21.522Z
 estimatedTokens: 1230
 keywords: [AMPscript, scenario, aspects, Lookup, Function, Preferred, Else, Statement, Platinum, Status]
 ---
-
-# AMPscript 201
 
 > This scenario contains information on these aspects of using AMPscript:
 

@@ -5,12 +5,10 @@ topic: group-membership-and-households-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.562Z
+lastCollected: 2026-04-07T18:38:21.419Z
 estimatedTokens: 407
-keywords: [Group, Membership, Households, Standard, Objects, data, model, represent, relationships, memberships]
+keywords: [Group, Membership, Households, Standard, model, represent, relationships, memberships]
 ---
-
-# Group Membership and Households Standard Objects
 
 > The Group Membership and Households data model provides objects and fields to represent
     the relationships used for group memberships.

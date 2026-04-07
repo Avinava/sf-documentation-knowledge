@@ -5,13 +5,11 @@ topic: returnorder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.502Z
+lastCollected: 2026-04-07T18:35:58.772Z
 estimatedTokens: 1510
 namespace: ConnectApi
-keywords: [ReturnOrder, ReturnOrderLineItems, items, belonging, OrderSummary, createReturnOrder, returnOrderInput, API, Version, Requires, Chatter, returnItems, returnOrderId, returnItemsInput]
+keywords: [ReturnOrder, ReturnOrderLineItems, items, belonging, OrderSummary, createReturnOrder, returnOrderInput, API, Requires, Chatter, returnItems, returnOrderId, returnItemsInput]
 ---
-
-# ReturnOrder Class
 
 > Create a ReturnOrder and ReturnOrderLineItems for items belonging to
       an OrderSummary.

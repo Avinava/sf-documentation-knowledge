@@ -5,12 +5,10 @@ topic: cancelscheduledarchivingofarticlearticleid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.461Z
+lastCollected: 2026-04-07T18:37:53.746Z
 estimatedTokens: 70
 keywords: [cancelScheduledArchivingOfArticle, articleId, Cancels, scheduled, archiving, online, article]
 ---
-
-# cancelScheduledArchivingOfArticle(articleId)
 
 > Cancels the scheduled archiving of an online article.
 

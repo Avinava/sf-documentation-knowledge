@@ -5,12 +5,10 @@ topic: carepgmenrleestatusperiodhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.605Z
+lastCollected: 2026-04-07T18:39:31.966Z
 estimatedTokens: 279
-keywords: [CarePgmEnrleeStatusPeriodHistory, History, tracked, CarePgmEnrleeStatusPeriod]
+keywords: [CarePgmEnrleeStatusPeriodHistory, tracked, CarePgmEnrleeStatusPeriod]
 ---
-
-# CarePgmEnrleeStatusPeriodHistory
 
 > History for tracked fields of CarePgmEnrleeStatusPeriod.
 

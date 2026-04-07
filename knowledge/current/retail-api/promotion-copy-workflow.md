@@ -5,12 +5,10 @@ topic: promotion-copy-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.013Z
+lastCollected: 2026-04-07T18:39:11.566Z
 estimatedTokens: 174
-keywords: [Promotion, Copy, Workflow, step, rules, provided, core]
+keywords: [Promotion, Copy, Workflow, step, provided, core]
 ---
-
-# Promotion Copy Workflow
 
 > This section describes the list of workflow step rules that must be provided from
     core.

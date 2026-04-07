@@ -5,12 +5,10 @@ topic: api-query-cursor-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.960Z
+lastCollected: 2026-04-07T18:39:16.500Z
 estimatedTokens: 345
-keywords: [API, Query, Cursor, Limits, Cursors, their, results, days, including, nested, queries, There, isn't, limit, number]
+keywords: [API, Query, Cursor, Limits, Cursors, their, results, days, including, nested, queries, There, isn't, limit, number, open]
 ---
-
-# API Query Cursor Limits
 
 > Cursors and their related query results are available for 2 days, including results in
   nested queries. There isn't a limit on the number of open cursors.

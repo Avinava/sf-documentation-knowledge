@@ -5,12 +5,10 @@ topic: determine-the-day-in-the-week-month-quarter-or-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.318Z
+lastCollected: 2026-04-07T18:37:00.888Z
 estimatedTokens: 571
 keywords: [Determine, Day, Week, Month, Quarter, Year, functions, date, number, days]
 ---
-
-# Determine the Day in the Week, Month, Quarter, or Year
 
 > These functions return the day of the week, month, quarter, or year, the date of the
   last day of the week, month, quarter, or year, and the number of days in the quarter or

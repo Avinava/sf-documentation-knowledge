@@ -5,12 +5,10 @@ topic: producersplitarnglineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.854Z
+lastCollected: 2026-04-07T18:37:38.734Z
 estimatedTokens: 1468
-keywords: [ProducerSplitArngLineItem, compensation, producer, associated, service, item, API, version, later, Calls, Objects]
+keywords: [ProducerSplitArngLineItem, compensation, producer, service, item, API]
 ---
-
-# ProducerSplitArngLineItem
 
 > Represents compensation information for a producer associated with service or an
          item. This object is available in API version 61 and later.

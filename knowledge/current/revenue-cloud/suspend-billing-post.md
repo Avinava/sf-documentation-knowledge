@@ -5,12 +5,10 @@ topic: suspend-billing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:00.002Z
+lastCollected: 2026-04-07T18:35:45.026Z
 estimatedTokens: 218
 keywords: [Suspend, Billing, POST, schedule, groups, account, predefined, period]
 ---
-
-# Suspend Billing (POST)
 
 > Suspend billing for billing schedule groups or an account for a
       predefined period.

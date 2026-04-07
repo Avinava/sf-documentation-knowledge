@@ -5,12 +5,10 @@ topic: connectapi-input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.052Z
+lastCollected: 2026-04-07T18:35:41.894Z
 estimatedTokens: 1821
-keywords: [ConnectApi, Input, Classes, Billing, includes, Apex, Transaction, Management]
+keywords: [ConnectApi, Classes, Billing, includes, Apex, Transaction, Management]
 ---
-
-# ConnectApi Input Classes
 
 > Billing includes these Apex input classes.
 

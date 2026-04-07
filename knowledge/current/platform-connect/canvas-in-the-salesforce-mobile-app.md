@@ -5,12 +5,10 @@ topic: canvas-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.363Z
+lastCollected: 2026-04-07T18:38:57.154Z
 estimatedTokens: 1514
-keywords: [Canvas, Salesforce, Mobile, App, expose, apps, enterprise-class, gives, real-time, access, office, it’s, organized, getting, work]
+keywords: [Canvas, Salesforce, Mobile, App, expose, apps, enterprise-class, gives, real-time, office, it’s, organized, getting, work]
 ---
-
-# Canvas in the Salesforce Mobile App
 
 > Canvas enables you to expose your canvas apps in the Salesforce
         mobile app. The Salesforce mobile app is Salesforce on the go. This enterprise-class mobile

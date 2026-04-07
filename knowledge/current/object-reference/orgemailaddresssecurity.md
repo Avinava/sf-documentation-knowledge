@@ -5,12 +5,10 @@ topic: orgemailaddresssecurity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.968Z
+lastCollected: 2026-04-07T18:38:37.250Z
 estimatedTokens: 337
-keywords: [OrgEmailAddressSecurity, assignment, user, profile, org-wide, email, address, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [OrgEmailAddressSecurity, assignment, user, profile, org-wide, email, address, API, 58.0]
 ---
-
-# OrgEmailAddressSecurity
 
 > Defines the assignment of a user profile to an org-wide email address.
       This object is available in API version 58.0 and later.

@@ -5,12 +5,10 @@ topic: regulatorytrxnfeeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.494Z
+lastCollected: 2026-04-07T18:39:07.715Z
 estimatedTokens: 559
-keywords: [RegulatoryTrxnFeeItem, storage, specific, fee, items, associated, regulatory, transaction, fees, API, version, 51.0, later, Calls, Objects]
+keywords: [RegulatoryTrxnFeeItem, storage, specific, fee, items, regulatory, transaction, fees, API, 51.0]
 ---
-
-# RegulatoryTrxnFeeItem
 
 > Represents the storage of specific fee items associated with your regulatory
       transaction fees. This object is available in API version 51.0 and later.

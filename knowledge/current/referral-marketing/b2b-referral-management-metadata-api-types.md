@@ -5,12 +5,10 @@ topic: b2b-referral-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.048Z
+lastCollected: 2026-04-07T18:39:09.370Z
 estimatedTokens: 148
-keywords: [B2B, Referral, Management, Metadata, API, access, feature, settings, customize, user]
+keywords: [B2B, Referral, Management, Metadata, API, feature, settings, customize, user]
 ---
-
-# B2B Referral Management Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

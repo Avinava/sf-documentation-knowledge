@@ -5,12 +5,10 @@ topic: place-quote-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.120Z
+lastCollected: 2026-04-07T18:35:46.072Z
 estimatedTokens: 154
-keywords: [Place, Quote, Error, Output, representation, responses]
+keywords: [Place, Quote, Error, responses]
 ---
-
-# Place Quote Error Response
 
 > Output representation of the error responses of a place quote request.
 

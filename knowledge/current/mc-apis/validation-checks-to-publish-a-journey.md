@@ -5,12 +5,10 @@ topic: validation-checks-to-publish-a-journey
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.498Z
+lastCollected: 2026-04-07T18:40:17.677Z
 estimatedTokens: 724
-keywords: [Validation, Checks, Publish, Journey, cannot, become, active, receive, incoming, contacts, via, POST, events, resource, any]
+keywords: [Validation, Checks, Publish, Journey, cannot, become, active, receive, incoming, contacts, via, POST, events, resource, any, source, until, tests, completed, running, published, state, Operating, States, Activation, Causes, Failure, Phase]
 ---
-
-# Validation Checks to Publish a Journey
 
 > A journey cannot become active and receive incoming contacts via the POST /events resource or any other source until all validation tests are completed and the journey is in a running, published state.
 

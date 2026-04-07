@@ -5,12 +5,10 @@ topic: waitlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.201Z
+lastCollected: 2026-04-07T18:39:20.994Z
 estimatedTokens: 865
-keywords: [Waitlist, queue, drop, customers, visit, branch, already, scheduled, appointment, added, API, version, 58.0, later, Calls]
+keywords: [Waitlist, queue, drop, customers, visit, branch, already, scheduled, appointment, added, API, 58.0]
 ---
-
-# Waitlist
 
 > Represents a queue to which drop in customers who visit the branch
          without an already scheduled appointment are added. This object is available in API

@@ -5,12 +5,10 @@ topic: context-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.171Z
+lastCollected: 2026-04-07T18:35:43.053Z
 estimatedTokens: 118
-keywords: [Context, Node, Input, representation, nodes, ramp, segments]
+keywords: [Context, Node, nodes, ramp, segments]
 ---
-
-# Context Node Input
 
 > Input representation of the details of the context nodes for ramp segments.
 

@@ -5,12 +5,10 @@ topic: opportunitypartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.159Z
+lastCollected: 2026-04-07T18:39:50.580Z
 estimatedTokens: 355
 keywords: [OpportunityPartner, partner, relationship, Account, Opportunity, record, created, automatically]
 ---
-
-# OpportunityPartner
 
 > This object represents a partner relationship between an Account and an Opportunity. An OpportunityPartner record is created automatically when a Partner record is created for a partner relationship between an account and an opportunity.
 

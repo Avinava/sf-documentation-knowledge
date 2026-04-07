@@ -5,12 +5,10 @@ topic: getsecondsinduration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.003Z
+lastCollected: 2026-04-07T18:38:05.163Z
 estimatedTokens: 124
 keywords: [getSecondsInDuration, number, seconds, duration, Sample, Code]
 ---
-
-# getSecondsInDuration()
 
 > Returns the number of seconds in a duration.
 

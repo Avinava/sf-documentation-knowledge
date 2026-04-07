@@ -5,12 +5,10 @@ topic: loading-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.787Z
+lastCollected: 2026-04-07T18:38:03.879Z
 estimatedTokens: 1682
-keywords: [Loading, Record, accomplished, entirely, markup, lightning, recordForm, custom, layout, recordViewForm, customization, form-based, components, allow, viewing]
+keywords: [Loading, Record, accomplished, entirely, markup, lightning, recordForm, layout, recordViewForm, customization, form-based, allow, viewing, force, recordData, Display, User]
 ---
-
-# Loading a Record
 
 > Loading a record can be accomplished entirely in markup using lightning:recordForm. If you need a custom layout, use
             lightning:recordViewForm. If you need more

@@ -5,12 +5,10 @@ topic: connectapirequestheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.376Z
+lastCollected: 2026-04-07T18:36:11.660Z
 estimatedTokens: 200
 keywords: [ConnectApi.RequestHeader, HTTP, pair]
 ---
-
-# ConnectApi.RequestHeader
 
 > An HTTP request header name and value pair.
 

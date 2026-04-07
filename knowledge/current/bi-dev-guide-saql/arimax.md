@@ -5,12 +5,10 @@ topic: arimax
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.601Z
+lastCollected: 2026-04-07T18:37:01.204Z
 estimatedTokens: 2674
-keywords: [arimax, Uses, data, predict, future, points, statement, follow, projection, query, Perform, any, filtering, pre-projection, Usage]
+keywords: [arimax, Uses, predict, future, points, statement, follow, projection, query, Perform, any, filtering, pre-projection, Examples, Case, Seasonal, Multivariate, Prediction, Interval, What-If, Analysis]
 ---
-
-# arimax
 
 > Uses existing data to predict future data points. The arimax statement must follow a projection statement in your query. Perform any
   filtering pre-projection or after the arimax

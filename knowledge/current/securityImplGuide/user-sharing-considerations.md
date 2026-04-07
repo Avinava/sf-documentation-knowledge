@@ -5,12 +5,10 @@ topic: user-sharing-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:29.153Z
+lastCollected: 2026-04-07T18:39:23.089Z
 estimatedTokens: 1231
-keywords: [User, Sharing, Considerations, Review, implement, ”View, Users”, permission, Organization-wide, defaults, records, rules, Manual, external, users]
+keywords: [User, Sharing, Considerations, Review, implement, ”View, Users”, permission, Organization-wide, defaults, records, Manual, external, users, High-volume, Experience, Cloud, site, Chatter, Automated, Process, License, Manager, compatibility]
 ---
-
-# User Sharing Considerations
 
 > Review these considerations before you implement user sharing.
 

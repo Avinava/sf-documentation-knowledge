@@ -5,12 +5,10 @@ topic: creating-and-using-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:56.878Z
+lastCollected: 2026-04-07T18:38:48.827Z
 estimatedTokens: 239
-keywords: [Creating, Custom, Components]
+keywords: [Creating]
 ---
-
-# Creating and Using Custom Components
 
 # Creating and Using Custom Components
 

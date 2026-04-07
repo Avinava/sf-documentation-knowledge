@@ -5,12 +5,10 @@ topic: image
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.110Z
+lastCollected: 2026-04-07T18:40:22.505Z
 estimatedTokens: 251
-keywords: [Image, Function, Ordinal, External, key, Portfolio, **Overview**, **Syntax**, Usage]
+keywords: [Image, Function, Ordinal, External, key, Portfolio, **Overview**, **Syntax**]
 ---
-
-# Image
 
 > Image(1, 2)
 

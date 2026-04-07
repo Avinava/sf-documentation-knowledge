@@ -5,12 +5,10 @@ topic: oci-inventory-check-availability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.905Z
+lastCollected: 2026-04-07T18:37:08.715Z
 estimatedTokens: 285
-keywords: [OCI, Inventory, Check, Availability, Input, either, individual, location, group, fulfill, order, hand, quantity]
+keywords: [OCI, Inventory, Check, Availability, either, individual, location, group, fulfill, order, hand, quantity]
 ---
-
-# OCI Inventory Check Availability Input
 
 > Check inventory availability in either an individual location or group location. Check
       for available to fulfill, available to order, and on hand quantity information.

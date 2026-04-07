@@ -5,12 +5,10 @@ topic: add-a-filter-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.559Z
+lastCollected: 2026-04-07T18:37:05.294Z
 estimatedTokens: 1086
-keywords: [Add, Filter, Metadata, API, recommend, part, application, lifecycle, management, process, develop, test, deploy, release, apps]
+keywords: [Add, Filter, Metadata, API, recommend, part, application, lifecycle, management, process, develop, test, deploy, release, apps, production, want, channel, expression, Tooling, REST]
 ---
-
-# Add a Filter with Metadata API
 
 > We recommend using Metadata API as part of the application lifecycle management
         process to develop, test, deploy, and release your apps to production. If you want to create

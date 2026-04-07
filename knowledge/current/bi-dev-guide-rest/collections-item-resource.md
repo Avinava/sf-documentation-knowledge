@@ -5,12 +5,10 @@ topic: collections-item-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.044Z
+lastCollected: 2026-04-07T18:36:55.475Z
 estimatedTokens: 140
-keywords: [Collections, Item, Resource, Deletes, collection, URL, Formats, Version, HTTP]
+keywords: [Formats, Collections, Item, Resource, Deletes, collection, URL, HTTP]
 ---
-
-# Collections Item Resource
 
 > Deletes an item from the collection.
 

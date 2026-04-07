@@ -5,13 +5,11 @@ topic: registeredexternalservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.706Z
+lastCollected: 2026-04-07T18:39:59.369Z
 estimatedTokens: 437
 namespace: NamespacePrefix
-keywords: [RegisteredExternalService, registered, external, service, checkout, integrations, data, integrators]
+keywords: [RegisteredExternalService, registered, external, service, checkout, integrations, integrators]
 ---
-
-# RegisteredExternalService
 
 > Represents a registered external service used for checkout integrations by data
       integrators.

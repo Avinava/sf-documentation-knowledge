@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.948Z
+lastCollected: 2026-04-07T18:39:17.614Z
 estimatedTokens: 911
 keywords: [Bodies, know, Salesforce, Feedback, Management, SFM, unAuth, APIs]
 ---
-
-# Response Bodies
 
 > Get to know the response bodies for the Salesforce Feedback Management (SFM) unAuth
         Response APIs.

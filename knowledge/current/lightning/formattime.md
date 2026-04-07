@@ -5,12 +5,10 @@ topic: formattime
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.940Z
+lastCollected: 2026-04-07T18:38:05.103Z
 estimatedTokens: 308
 keywords: [formatTime, formatted, time, Sample, Code]
 ---
-
-# formatTime()
 
 > Returns a formatted time.
 

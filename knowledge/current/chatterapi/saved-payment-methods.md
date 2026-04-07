@@ -5,12 +5,10 @@ topic: saved-payment-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.112Z
+lastCollected: 2026-04-07T18:37:15.163Z
 estimatedTokens: 692
-keywords: [Saved, Payment, Retrieves, belong, particular, merchant, account, contact, creates, Special, Access, Rules]
+keywords: [Saved, Payment, Retrieves, belong, particular, merchant, account, contact, creates]
 ---
-
-# Saved Payment Methods
 
 > Retrieves all saved payment methods that belong to a particular
       merchant account or contact, or creates a saved payment method.

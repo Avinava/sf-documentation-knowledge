@@ -5,12 +5,10 @@ topic: shippingcarriermethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:07.475Z
+lastCollected: 2026-04-07T18:40:02.171Z
 estimatedTokens: 423
-keywords: [ShippingCarrierMethod, Shipping, service, provided, carrier, Examples, include, Ground, 2Day, NextDay, depends, range, transit, times, API]
+keywords: [ShippingCarrierMethod, Shipping, service, provided, carrier, Examples, include, Ground, 2Day, NextDay, depends, range, transit, times, API, 61.0]
 ---
-
-# ShippingCarrierMethod
 
 > Shipping service provided by a shipping carrier. Examples include
       Ground, 2Day, and NextDay. Service depends on the range of transit times available for each

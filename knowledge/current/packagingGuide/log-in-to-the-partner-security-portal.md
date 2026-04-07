@@ -5,12 +5,10 @@ topic: log-in-to-the-partner-security-portal
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.689Z
+lastCollected: 2026-04-07T18:38:47.640Z
 estimatedTokens: 526
-keywords: [Log, Partner, Security, Portal, access, Salesforce, ISV, Connect, DevHub, packaging, org, AppExchange, Console, credentials, Logged-in]
+keywords: [Log, Partner, Security, Portal, Salesforce, ISV, Connect, DevHub, packaging, org, AppExchange, Console, credentials, Logged-in, users, scanning, tools, schedule, office, hours, appointments]
 ---
-
-# Log In to the Partner Security Portal
 
 > To access the Partner Security Portal, you must be a Salesforce ISV partner. Connect
         your DevHub or packaging org to the AppExchange Partner Console. Then log in to the portal

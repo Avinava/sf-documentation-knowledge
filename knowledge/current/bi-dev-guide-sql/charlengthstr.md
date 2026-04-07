@@ -5,12 +5,10 @@ topic: charlengthstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.384Z
+lastCollected: 2026-04-07T18:37:01.991Z
 estimatedTokens: 78
 keywords: [char_length, str, number, characters, char, _length]
 ---
-
-# char_length(str)
 
 > Returns the number of characters in a given string.
 

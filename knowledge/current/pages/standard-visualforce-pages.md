@@ -5,12 +5,10 @@ topic: standard-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.511Z
+lastCollected: 2026-04-07T18:38:52.818Z
 estimatedTokens: 284
-keywords: [Standard, Visualforce, Pages, Normal, render, well, mobile, browsers, as-is, modest, reduction, user, experience, compared, mobile-optimized]
+keywords: [Limitations, Standard, Visualforce, Pages, Normal, render, well, mobile, browsers, as-is, modest, reduction, user, experience, compared, mobile-optimized, Web, display, they, full, Salesforce, site, won’t, visually, match, app, features]
 ---
-
-# Standard Visualforce Pages
 
 > Normal Visualforce pages render well on mobile browsers, and can be used as-is, with a
     modest reduction of the user experience compared to mobile-optimized Web pages. Pages display as

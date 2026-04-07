@@ -5,12 +5,10 @@ topic: commerce-order-item-summary-change-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.728Z
+lastCollected: 2026-04-07T18:35:52.624Z
 estimatedTokens: 246
-keywords: [Commerce, Order, Item, Summary, Change, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model]
+keywords: [Commerce, Order, Item, Summary, Change, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, log, sales, DLO]
 ---
-
-# Commerce: Order Item Summary Change Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Order Item Summary Change data is a change log for

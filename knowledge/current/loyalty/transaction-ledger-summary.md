@@ -5,12 +5,10 @@ topic: transaction-ledger-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.441Z
+lastCollected: 2026-04-07T18:38:07.673Z
 estimatedTokens: 387
 keywords: [Transaction, Ledger, Summary, Retrieve, aggregate, view, journal, loyalty, records]
 ---
-
-# Transaction Ledger Summary
 
 > Retrieve an aggregate view on the transaction journal and the
       loyalty ledger records.

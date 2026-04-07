@@ -5,12 +5,10 @@ topic: ai-accelerator-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:49.786Z
+lastCollected: 2026-04-07T18:36:35.257Z
 estimatedTokens: 372
 keywords: [Accelerator, Business, APIs, real-time, score, predictions, machine, learning, case, model]
 ---
-
-# AI Accelerator Business APIs
 
 > Use the AI Accelerator Business APIs to get real-time score predictions for a machine
     learning use case model.

@@ -5,12 +5,10 @@ topic: procedure-plan-section-evaluation-runtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.360Z
+lastCollected: 2026-04-07T18:35:46.295Z
 estimatedTokens: 343
-keywords: [Procedure, Plan, Evaluation, Runtime, Output, representation, results]
+keywords: [Procedure, Plan, Evaluation, Runtime, results]
 ---
-
-# Procedure Plan Section Evaluation Runtime
 
 > Output representation of the results from the procedure plan evaluation.
 

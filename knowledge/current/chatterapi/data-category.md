@@ -5,12 +5,10 @@ topic: data-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.140Z
+lastCollected: 2026-04-07T18:37:18.218Z
 estimatedTokens: 135
-keywords: [Data, Category]
+keywords: [Category]
 ---
-
-# Data Category
 
 > Data category.
 

@@ -5,12 +5,10 @@ topic: contentarea
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.737Z
+lastCollected: 2026-04-07T18:40:15.851Z
 estimatedTokens: 932
 keywords: [ContentArea, defined, reusable, content, ContentAreas, Email, always, acted, upon, context, Items]
 ---
-
-# ContentArea
 
 > The ContentArea object represents a defined section of reusable content. One or many ContentAreas can be defined for an Email object. A ContentArea is always acted upon in the context of an Email object.
 

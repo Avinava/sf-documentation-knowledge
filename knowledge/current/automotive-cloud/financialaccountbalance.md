@@ -5,12 +5,10 @@ topic: financialaccountbalance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.330Z
+lastCollected: 2026-04-07T18:36:52.748Z
 estimatedTokens: 852
-keywords: [FinancialAccountBalance, financial, account, balance, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [FinancialAccountBalance, financial, account, balance, API, 60.0]
 ---
-
-# FinancialAccountBalance
 
 > Represents the details about a financial account balance. This object is
       available in API version 60.0 and later.

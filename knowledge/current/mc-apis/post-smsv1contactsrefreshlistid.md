@@ -5,12 +5,10 @@ topic: post-smsv1contactsrefreshlistid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.103Z
+lastCollected: 2026-04-07T18:40:18.294Z
 estimatedTokens: 202
-keywords: [POST, sms, contacts, refreshList, **Overview**, Usage]
+keywords: [POST, sms, contacts, refreshList, **Overview**]
 ---
-
-# POST /sms/v1/contacts/refreshList/{id}
 
 # POST /sms/v1/contacts/refreshList/{id}
 

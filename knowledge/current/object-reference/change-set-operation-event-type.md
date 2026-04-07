@@ -5,12 +5,10 @@ topic: change-set-operation-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.052Z
+lastCollected: 2026-04-07T18:38:30.854Z
 estimatedTokens: 1037
 keywords: [Change, Operation, Event, events, contain, migrations]
 ---
-
-# Change Set Operation Event Type
 
 > Change Set Operation events contain information from change set
          migrations.

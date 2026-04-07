@@ -5,12 +5,10 @@ topic: businessunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.514Z
+lastCollected: 2026-04-07T18:40:15.611Z
 estimatedTokens: 1675
 keywords: [BusinessUnit, unit, larger, Enterprise, 2.0, account, Items]
 ---
-
-# BusinessUnit
 
 > The BusinessUnit object represents a unit within a larger Enterprise or Enterprise 2.0 account.
 

@@ -5,12 +5,10 @@ topic: recipe-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.216Z
+lastCollected: 2026-04-07T18:39:18.905Z
 estimatedTokens: 666
-keywords: [Recipe, Resources, Recipes, prepare, data, creating, dataset, updating, sObject, transformations, manipulate]
+keywords: [Recipe, Resources, Recipes, prepare, creating, dataset, updating, sObject, transformations, manipulate]
 ---
-
-# Recipe Resources
 
 > Recipes are used to prepare data, creating a dataset or updating an sObject using transformations to manipulate the data.
 

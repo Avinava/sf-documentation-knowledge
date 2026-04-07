@@ -5,13 +5,11 @@ topic: missions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.093Z
+lastCollected: 2026-04-07T18:35:58.359Z
 estimatedTokens: 2317
 namespace: ConnectApi
-keywords: [Missions, Export, mission, activity, user, exportUserMissionsActivities, communityId, userId, API, Version, Requires, Chatter, Usage, getUserMissionsProgress, purgeUserMissionsActivities]
+keywords: [Missions, Export, mission, activity, user, exportUserMissionsActivities, communityId, userId, API, Requires, Chatter, getUserMissionsProgress, purgeUserMissionsActivities, updateUserMissionActivityCount, activityType, activityCount]
 ---
-
-# Missions Class
 
 > Export mission activity for a user.
 

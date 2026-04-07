@@ -5,12 +5,10 @@ topic: entitymilestonefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.038Z
+lastCollected: 2026-04-07T18:39:39.719Z
 estimatedTokens: 360
-keywords: [EntityMilestoneFeed, Feed, tracking, EntityMilestone]
+keywords: [EntityMilestoneFeed, EntityMilestone]
 ---
-
-# EntityMilestoneFeed
 
 > Feed tracking for EntityMilestone.
 

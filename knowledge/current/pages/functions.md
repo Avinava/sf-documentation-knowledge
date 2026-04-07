@@ -5,12 +5,10 @@ topic: functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.232Z
+lastCollected: 2026-04-07T18:38:52.539Z
 estimatedTokens: 6684
-keywords: [Functions, transform, data, records, perform, calculations, provide, Visualforce, attributes, Date, Time, Logical, Math, Text, Advanced]
+keywords: [Functions, transform, records, perform, calculations, provide, Visualforce, attributes, Date, Time, Logical, Math, Text, Advanced]
 ---
-
-# Functions
 
 > Use functions to transform data from records, perform calculations, or to provide
     values for Visualforce attributes.

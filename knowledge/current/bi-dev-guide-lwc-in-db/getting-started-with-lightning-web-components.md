@@ -5,12 +5,10 @@ topic: getting-started-with-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.911Z
+lastCollected: 2026-04-07T18:36:54.288Z
 estimatedTokens: 470
-keywords: [Getting, Started, Lightning, Web, Components, continuing, recommend, familiarize, yourself]
+keywords: [Getting, Started, Lightning, Web, continuing, recommend, familiarize, yourself]
 ---
-
-# Getting Started with Lightning Web Components
 
 > Before continuing with this guide, we recommend you familiarize yourself with Lightning
     Web Components.

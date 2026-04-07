@@ -5,12 +5,10 @@ topic: tenantsecurityhealthchecktrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.692Z
+lastCollected: 2026-04-07T18:38:42.432Z
 estimatedTokens: 1154
-keywords: [TenantSecurityHealthCheckTrend, Stores, history, Security, Health, Check, scores, connected, tenant, Center, displays, average, risk, settings, tenants]
+keywords: [TenantSecurityHealthCheckTrend, Stores, Security, Health, Check, scores, connected, tenant, Center, displays, average, risk, settings, tenants, place, belongs, parent, pushed, child, subscribers, API, 53.0]
 ---
-
-# TenantSecurityHealthCheckTrend
 
 > Stores the history of Security Health Check scores for a connected
          tenant within Security Center. Health Check in Security Center displays Health Check scores

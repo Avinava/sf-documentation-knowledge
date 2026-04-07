@@ -5,12 +5,10 @@ topic: median
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.918Z
+lastCollected: 2026-04-07T18:37:00.432Z
 estimatedTokens: 97
 keywords: [median, measure, Time, Close, Case]
 ---
-
-# median()
 
 > Returns the median value of a measure field.
 

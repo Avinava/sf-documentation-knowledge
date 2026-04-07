@@ -5,12 +5,10 @@ topic: wkdwemployeetopersonaccountfldmapmdt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.277Z
+lastCollected: 2026-04-07T18:40:14.285Z
 estimatedTokens: 553
-keywords: [mapping, creating, person, account, records, employee, Concierge, custom, metadata, orgs, installed, API, version, 51.0, later]
+keywords: [mapping, creating, person, account, records, employee, Concierge, metadata, orgs, installed, API, 51.0, wkdw, _EmployeeToPersonAccountFldMap, _mdt]
 ---
-
-# wkdw__EmployeeToPersonAccountFldMap__mdt
 
 > Defines the field mapping when creating person account records from employee
       records in Employee Concierge. This custom metadata type is available in orgs that have

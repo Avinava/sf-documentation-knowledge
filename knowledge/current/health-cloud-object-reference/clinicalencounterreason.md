@@ -5,12 +5,10 @@ topic: clinicalencounterreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.705Z
+lastCollected: 2026-04-07T18:37:42.877Z
 estimatedTokens: 847
-keywords: [ClinicalEncounterReason, reasons, why, encounter, child, ClinicalEncounter, API, version, 51.0, later, Calls, Usage, Associated, Objects]
+keywords: [ClinicalEncounterReason, reasons, why, encounter, child, ClinicalEncounter, API, 51.0]
 ---
-
-# ClinicalEncounterReason
 
 > Represents the reasons for why the encounter was required. This object is a
       child object of ClinicalEncounter. This object is available in API version 51.0 and

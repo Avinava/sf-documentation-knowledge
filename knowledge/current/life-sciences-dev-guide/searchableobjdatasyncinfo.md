@@ -5,12 +5,10 @@ topic: searchableobjdatasyncinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.421Z
+lastCollected: 2026-04-07T18:38:02.343Z
 estimatedTokens: 713
-keywords: [SearchableObjDataSyncInfo, data, synchronization, search, frequency, status, date, time, API, version, 58.0, later, SOAP, Calls, REST]
+keywords: [SearchableObjDataSyncInfo, synchronization, search, frequency, status, date, time, API, 58.0, SOAP, REST]
 ---
-
-# SearchableObjDataSyncInfo
 
 > Represents information about the data synchronization for a search object,
          such as frequency of synchronization, status, and the date and time of the last

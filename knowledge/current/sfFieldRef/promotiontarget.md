@@ -5,12 +5,10 @@ topic: promotiontarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.751Z
+lastCollected: 2026-04-07T18:39:57.334Z
 estimatedTokens: 552
-keywords: [PromotionTarget, product, category, order, want, target, promotion, B2B, Store, D2C, API, version, 52.0, later]
+keywords: [PromotionTarget, product, category, order, want, target, promotion, B2B, Store, D2C, API, 52.0]
 ---
-
-# PromotionTarget
 
 > Represents the product, product category, or order that you want to target
 			with your promotion in a B2B Store or D2C store. This object is available in API

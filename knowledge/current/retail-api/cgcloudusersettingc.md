@@ -5,12 +5,10 @@ topic: cgcloudusersettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.014Z
+lastCollected: 2026-04-07T18:39:15.520Z
 estimatedTokens: 2461
-keywords: [cgcloud__User_Setting__c, that's, created, store, user, settings, API, version, 54.0, later, cgcloud, _User, _Setting, Calls, Associated]
+keywords: [cgcloud__User_Setting__c, that's, created, store, user, settings, API, 54.0, cgcloud, _User, _Setting]
 ---
-
-# cgcloud__User_Setting__c
 
 > Object that's created to store user settings. This object is
       available in API version 54.0 and later.

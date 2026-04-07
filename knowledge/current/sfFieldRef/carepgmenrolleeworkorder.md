@@ -5,12 +5,10 @@ topic: carepgmenrolleeworkorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.636Z
+lastCollected: 2026-04-07T18:39:31.999Z
 estimatedTokens: 421
-keywords: [CarePgmEnrolleeWorkOrder, work, order, that's, executed, care, program, enrollee, API, version, 58.0, later]
+keywords: [CarePgmEnrolleeWorkOrder, work, order, that's, executed, care, program, enrollee, API, 58.0]
 ---
-
-# CarePgmEnrolleeWorkOrder
 
 > Represents information about the work order that's executed for the care
          program enrollee. This object is available in API version 58.0 and later.

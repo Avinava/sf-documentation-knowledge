@@ -5,12 +5,10 @@ topic: visitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.110Z
+lastCollected: 2026-04-07T18:40:06.002Z
 estimatedTokens: 339
-keywords: [Visitor, inspectors, performing, inspection, visits, API, version, 56.0, later]
+keywords: [Visitor, inspectors, performing, inspection, visits, API, 56.0]
 ---
-
-# Visitor
 
 > Represents the inspectors performing inspection visits. This object is
       available in API version 56.0 and later.

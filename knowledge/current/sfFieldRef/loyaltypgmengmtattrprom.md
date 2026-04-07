@@ -5,12 +5,10 @@ topic: loyaltypgmengmtattrprom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.828Z
+lastCollected: 2026-04-07T18:39:47.307Z
 estimatedTokens: 344
 keywords: [LoyaltyPgmEngmtAttrProm, junction, Loyalty, Program, Engagement, Attribute, Promotion, Associate, want, track, period]
 ---
-
-# LoyaltyPgmEngmtAttrProm
 
 > Represents a junction between Loyalty Program Engagement Attribute and
          Promotion. Associate an engagement attribute with a promotion if you want to track the

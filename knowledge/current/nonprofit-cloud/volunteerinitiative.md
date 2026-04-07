@@ -5,12 +5,10 @@ topic: volunteerinitiative
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.463Z
+lastCollected: 2026-04-07T18:38:23.359Z
 estimatedTokens: 1132
-keywords: [VolunteerInitiative, volunteer, activities, volunteering, initiative, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [VolunteerInitiative, volunteer, activities, volunteering, initiative, API, 64.0]
 ---
-
-# VolunteerInitiative
 
 > Represents all volunteer activities within a single volunteering
          initiative. This object is available in API version 64.0 and later.

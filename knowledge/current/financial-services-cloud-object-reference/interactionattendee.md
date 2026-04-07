@@ -5,12 +5,10 @@ topic: interactionattendee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.214Z
+lastCollected: 2026-04-07T18:37:38.035Z
 estimatedTokens: 1042
-keywords: [InteractionAttendee, attendee, interaction, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [InteractionAttendee, attendee, interaction, API, 51.0]
 ---
-
-# InteractionAttendee
 
 > Represents an attendee of an interaction. This object is available in
 		API version 51.0 and later.

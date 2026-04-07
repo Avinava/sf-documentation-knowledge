@@ -5,12 +5,10 @@ topic: product-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.743Z
+lastCollected: 2026-04-07T18:37:57.266Z
 estimatedTokens: 438
-keywords: [Product, Management, centers, products, essential, business, activities, system, modeled, hierarchy, mirror, company's, SKU, structure, scenarios]
+keywords: [Product, Management, centers, products, essential, business, activities, system, modeled, hierarchy, mirror, company's, SKU, structure, scenarios, selling, pharmacies, delivering, messages, samples, healthcare, professionals, alignment, key, ensuring, users, perform, their, jobs, effectively, maintain, compliance, adherence, regulatory, standards, user, controlled, discuss, restricted, target, customer]
 ---
-
-# Product Management
 
 > Product Management centers on products, which are essential for business activities
   within the system. Products are modeled in a hierarchy that can mirror a company's SKU structure

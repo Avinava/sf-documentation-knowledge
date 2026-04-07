@@ -5,12 +5,10 @@ topic: rebatepaymentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.979Z
+lastCollected: 2026-04-07T18:39:58.638Z
 estimatedTokens: 159
 keywords: [RebatePaymentShare, Sharing, RebatePayment]
 ---
-
-# RebatePaymentShare
 
 > Sharing for RebatePayment.
 

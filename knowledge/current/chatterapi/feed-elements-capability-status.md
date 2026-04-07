@@ -5,12 +5,10 @@ topic: feed-elements-capability-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.820Z
+lastCollected: 2026-04-07T18:37:13.781Z
 estimatedTokens: 754
-keywords: [Feed, Elements, Capability, Status, Access, post]
+keywords: [Capability, Status, post]
 ---
-
-# Feed Elements Capability, Status
 
 > Access the status capability of a feed post or set the status of a
       feed post.

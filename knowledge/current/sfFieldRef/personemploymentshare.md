@@ -5,12 +5,10 @@ topic: personemploymentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.384Z
+lastCollected: 2026-04-07T18:39:53.923Z
 estimatedTokens: 251
 keywords: [PersonEmploymentShare, Sharing, PersonEmployment]
 ---
-
-# PersonEmploymentShare
 
 > Sharing for PersonEmployment.
 

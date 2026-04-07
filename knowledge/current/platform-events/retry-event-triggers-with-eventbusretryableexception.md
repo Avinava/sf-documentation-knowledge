@@ -5,12 +5,10 @@ topic: retry-event-triggers-with-eventbusretryableexception
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.509Z
+lastCollected: 2026-04-07T18:38:58.371Z
 estimatedTokens: 757
-keywords: [Retry, Event, Triggers, EventBus.RetryableException, another, chance, process, notifications, Retrying, trigger, helpful, transient, error, occurs, waiting]
+keywords: [Retry, Event, Triggers, EventBus.RetryableException, another, chance, process, notifications, Retrying, trigger, helpful, transient, error, occurs, waiting, condition, change, external, records, likely, away, Limit, Number, Attempts]
 ---
-
-# Retry Event Triggers with  EventBus.RetryableException
 
 > Get another chance to process event notifications. Retrying a
       trigger is helpful when a transient error occurs or when waiting for a condition to change.

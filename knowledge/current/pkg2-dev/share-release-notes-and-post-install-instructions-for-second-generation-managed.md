@@ -6,13 +6,10 @@ topic: share-release-notes-and-post-install-instructions-for-second-generation-m
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:03.967Z
+lastCollected: 2026-04-07T18:38:56.623Z
 estimatedTokens: 276
 keywords: [Share, Release, Notes, Post-Install, Instructions, Second-Generation, Managed, Packages, subscribers, what’s, new, changed, released, package]
 ---
-
-# Share Release Notes and Post-Install Instructions for Second-Generation Managed
-    Packages
 
 > Share details with your subscribers about what’s new and changed in a released
     second-generation managed package.

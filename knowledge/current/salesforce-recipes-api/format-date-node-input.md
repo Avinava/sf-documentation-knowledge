@@ -5,12 +5,10 @@ topic: format-date-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.649Z
+lastCollected: 2026-04-07T18:39:18.344Z
 estimatedTokens: 121
-keywords: [Date, Node, Input, conversion, recipe]
+keywords: [Date, Node, conversion, recipe]
 ---
-
-# Format Date Node Input
 
 > A date format conversion node in a recipe.
 

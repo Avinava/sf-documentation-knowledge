@@ -5,12 +5,10 @@ topic: smsaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.103Z
+lastCollected: 2026-04-07T18:40:20.332Z
 estimatedTokens: 101
 keywords: [SMSAddress, SMS, address, communicate, Person]
 ---
-
-# SMSAddress
 
 > Defines an SMS address that is used to communicate with a Person.
 

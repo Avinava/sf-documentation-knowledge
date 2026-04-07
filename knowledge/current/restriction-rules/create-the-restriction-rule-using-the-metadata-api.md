@@ -5,12 +5,10 @@ topic: create-the-restriction-rule-using-the-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.943Z
+lastCollected: 2026-04-07T18:39:10.398Z
 estimatedTokens: 504
-keywords: [Restriction, Rule, Metadata, API, tasks, members, Sales, Team, access, RestrictionRule]
+keywords: [Restriction, Rule, Metadata, API, tasks, members, Sales, Team, RestrictionRule]
 ---
-
-# Create the Restriction Rule Using the Metadata API
 
 > Create a restriction rule that controls which tasks members of the Sales Team can access
     using the RestrictionRule Metadata API type.

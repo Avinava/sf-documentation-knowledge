@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileapplogc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.049Z
+lastCollected: 2026-04-07T18:39:12.523Z
 estimatedTokens: 875
-keywords: [cgc_sync__Sync_Mobile_App_Log__c, Stores, error, messages, warnings, occurred, mobile, app, uploaded, every, time, user, runs, upload, Salesforce]
+keywords: [cgc_sync__Sync_Mobile_App_Log__c, Stores, error, messages, warnings, occurred, mobile, app, uploaded, every, time, user, runs, upload, Salesforce, action, API, 53.0, cgc, _sync, _Mobile, _App, _Log]
 ---
-
-# cgc_sync__Sync_Mobile_App_Log__c
 
 > Stores the error messages and warnings that occurred in the mobile app.
          Such

@@ -6,13 +6,10 @@ topic: using-the-processplugindescriberesult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.982Z
+lastCollected: 2026-04-07T18:36:18.212Z
 estimatedTokens: 701
-keywords: [Process.PluginDescribeResult, Process.Plugin, describe, dynamically, provide, input, output, flow, Subclass]
+keywords: [Process.PluginDescribeResult, Process.Plugin, describe, dynamically, provide, flow, Subclass]
 ---
-
-# Using the Process.PluginDescribeResult
-        Class
 
 > Use the Process.Plugin interface describe method to dynamically provide both input and
         output parameters for the flow. This method returns the Process.PluginDescribeResult class.

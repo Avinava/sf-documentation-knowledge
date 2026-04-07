@@ -5,12 +5,10 @@ topic: connectapiactivationexternalplatformattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.741Z
+lastCollected: 2026-04-07T18:36:07.082Z
 estimatedTokens: 109
 keywords: [attribute, activation, external, platform]
 ---
-
-# ConnectApi.ActivationExternalPlatformAttribute
 
 > Represents an attribute for an activation external platform.
 

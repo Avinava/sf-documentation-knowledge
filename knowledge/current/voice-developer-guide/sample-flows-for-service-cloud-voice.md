@@ -5,12 +5,10 @@ topic: sample-flows-for-service-cloud-voice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.623Z
+lastCollected: 2026-04-07T18:40:12.602Z
 estimatedTokens: 3260
-keywords: [Sample, Flows, Service, Cloud, Voice, Salesforce, several, out-of-the, box, Amazon, Connect, inbound, outbound, transfer, contact]
+keywords: [Subflows, Sample, Flows, Service, Cloud, Voice, Salesforce, several, out-of-the, box, Amazon, Connect, inbound, outbound, transfer, contact, center, environment, Rep, Whisper]
 ---
-
-# Sample Flows for Service Cloud Voice
 
 > Salesforce provides several out-of-the box sample flows for Amazon
       Connect you can use to create inbound, outbound, and transfer flows for your Service Cloud

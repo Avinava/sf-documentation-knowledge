@@ -5,12 +5,10 @@ topic: creating-and-accessing-user-based-stores
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.558Z
+lastCollected: 2026-04-07T18:40:26.815Z
 estimatedTokens: 832
-keywords: [Creating, Accessing, User-based, Stores, app, initializes, SmartStore, creates, instance, store, uses, register, populate, soups, manipulate]
+keywords: [Creating, Accessing, User-based, Stores, app, initializes, SmartStore, creates, instance, store, uses, register, populate, soups, manipulate, soup, manages, store’s, life, cycle—you, don’t, think, cleaning, user’s, session, ends, though, responsible, deleting, terminates, Android, Native, Apps, iOS, Hybrid]
 ---
-
-# Creating and Accessing User-based Stores
 
 > When an app initializes SmartStore, it creates an instance of a
   store. It then uses the store to register and populate soups and manipulate soup data. For a

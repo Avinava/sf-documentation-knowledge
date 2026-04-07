@@ -5,12 +5,10 @@ topic: groups-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.127Z
+lastCollected: 2026-04-07T18:37:10.805Z
 estimatedTokens: 1220
-keywords: [Groups, Feed, Items, context, user, either, owns, member, Flat]
+keywords: [Groups, Items, context, user, either, owns, member, Flat]
 ---
-
-# Groups Feed Items
 
 > Get feed items for the groups the context user either owns or is a
       member of.

@@ -5,12 +5,10 @@ topic: create-a-color-palette-for-page-sections-and-columns
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.910Z
+lastCollected: 2026-04-07T18:37:33.204Z
 estimatedTokens: 587
-keywords: [Color, Palette, Sections, Columns, websites, it’s, common, footer, banners, different, colors, overall, site, perhaps, want]
+keywords: [Color, Palette, Sections, Columns, websites, it’s, common, footer, banners, different, colors, overall, site, perhaps, want, dark, background, light, foreground, whereas, rest, opposite, achieve, separate, palettes, apply, areas]
 ---
-
-# Create a Color Palette for Page Sections and Columns
 
 > On many websites, it’s common to have sections of a page, such as the header, footer,
     or columns and banners, that use different colors from the overall site. For example, perhaps

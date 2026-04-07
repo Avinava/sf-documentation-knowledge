@@ -5,12 +5,10 @@ topic: dtrmetricdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.220Z
+lastCollected: 2026-04-07T18:37:44.480Z
 estimatedTokens: 772
-keywords: [DTRMetricData, FHIR, resource, maps, ServiceInformationRequest, ServiceInfoRequestDetail, ServiceInfoRequestOperation, andServiceInfoResponseCoverageobjects, V4.0, Documentation, Templates, Rules, Data, Model, Mapping]
+keywords: [DTRMetricData, FHIR, resource, maps, ServiceInformationRequest, ServiceInfoRequestDetail, ServiceInfoRequestOperation, andServiceInfoResponseCoverageobjects, V4.0, Documentation, Templates, Model, Mapping]
 ---
-
-# DTRMetricData
 
 > The DTRMetricData FHIR resource maps to the
    ServiceInformationRequest, ServiceInfoRequestDetail,

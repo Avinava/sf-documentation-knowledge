@@ -5,12 +5,10 @@ topic: barcodescanner-examplecontinuous-scanning-legacy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.065Z
+lastCollected: 2026-04-07T18:38:15.584Z
 estimatedTokens: 916
-keywords: [BarcodeScanner, Example—Continuous, Scanning, Legacy, Here’s, minimal, Lightning, web, component, uses, scan, recognize, multiple, barcodes, continuous]
+keywords: [BarcodeScanner, Example—Continuous, Scanning, Legacy, Here’s, minimal, Lightning, web, uses, scan, recognize, multiple, barcodes, continuous, cycle]
 ---
-
-# BarcodeScanner Example—Continuous Scanning (Legacy)
 
 > Here’s a minimal but complete example of a Lightning web component that uses
         BarcodeScanner to scan for and recognize multiple barcodes in a continuous

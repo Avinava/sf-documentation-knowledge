@@ -5,12 +5,10 @@ topic: introducing-canvas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.477Z
+lastCollected: 2026-04-07T18:38:57.270Z
 estimatedTokens: 1678
-keywords: [Introducing, Canvas, easily, integrate, third-party, application, Salesforce, tools, JavaScript, APIs, expose, app, take, new, applications]
+keywords: [Introducing, Canvas, easily, integrate, third-party, application, Salesforce, tools, JavaScript, APIs, expose, app, take, new, applications, users, part, their, experience, Integration, Options]
 ---
-
-# Introducing Canvas
 
 > Canvas enables you to easily integrate a third-party application in
     Salesforce. Canvas is a set of tools and JavaScript APIs that you can use to

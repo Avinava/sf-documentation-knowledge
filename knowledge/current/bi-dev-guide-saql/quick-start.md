@@ -5,12 +5,10 @@ topic: quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.568Z
+lastCollected: 2026-04-07T18:37:01.168Z
 estimatedTokens: 169
 keywords: [Quick, Start, speed, quickly, easy, SAQL, examples]
 ---
-
-# Quick Start
 
 > Get up to speed quickly with these easy SAQL examples.
 

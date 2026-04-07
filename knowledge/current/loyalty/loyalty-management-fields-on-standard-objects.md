@@ -5,12 +5,10 @@ topic: loyalty-management-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.768Z
+lastCollected: 2026-04-07T18:38:09.065Z
 estimatedTokens: 278
-keywords: [Loyalty, Management, Standard, Objects, added, Salesforce, represent, specific, promotion, orgs, Promotions, enabled]
+keywords: [Loyalty, Management, Standard, added, Salesforce, represent, specific, promotion, orgs, Promotions, enabled]
 ---
-
-# Loyalty Management Fields on Standard Objects
 
 > Loyalty Management has added standard fields to some standard Salesforce objects to
     represent information specific to a promotion. These fields are available only in orgs where

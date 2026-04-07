@@ -5,13 +5,11 @@ topic: filter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.594Z
+lastCollected: 2026-04-07T18:35:59.871Z
 estimatedTokens: 854
 namespace: DataSource
-keywords: [Filter, Usage, columnName, columnValue, subfilters, tableName]
+keywords: [Filter, columnName, columnValue, subfilters, tableName]
 ---
-
-# Filter Class
 
 > Represents a WHERE
 

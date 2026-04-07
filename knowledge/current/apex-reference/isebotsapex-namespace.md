@@ -5,13 +5,11 @@ topic: isebotsapex-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.954Z
+lastCollected: 2026-04-07T18:36:15.264Z
 estimatedTokens: 199
 namespace: The
-keywords: [ise_bots_apex, classes, facilitate, dynamic, content, generation, data, handling, menu-driven, bot, interactions, manage, menu, items, adapt]
+keywords: [ise_bots_apex, classes, facilitate, dynamic, content, generation, handling, menu-driven, bot, interactions, manage, menu, items, adapt, user, inputs, context, underlying, ise, _bots, _apex]
 ---
-
-# ise_bots_apex Namespace
 
 > The ise_bots_apex namespace provides classes and properties to facilitate dynamic content
     generation and data handling for menu-driven bot interactions. Create and manage dynamic menu

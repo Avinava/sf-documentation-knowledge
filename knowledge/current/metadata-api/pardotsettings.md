@@ -5,12 +5,10 @@ topic: pardotsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.751Z
+lastCollected: 2026-04-07T18:36:28.292Z
 estimatedTokens: 1215
-keywords: [PardotSettings, Marketing, Cloud, Account, Engagement, settings, Salesforce, org, formerly, known, Pardot, B2B, automation, solution, helps]
+keywords: [PardotSettings, Marketing, Cloud, Account, Engagement, settings, Salesforce, org, formerly, known, Pardot, B2B, automation, solution, helps, meaningful, connections, generate, pipeline, close, deals, configure, how, collects, displays, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PardotSettings
 
 > Represents Marketing Cloud Account Engagement settings in your Salesforce org. Account
     Engagement, formerly known as Pardot, is a B2B marketing automation solution that helps you

@@ -5,12 +5,10 @@ topic: compliance-job-results-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.144Z
+lastCollected: 2026-04-07T18:36:37.772Z
 estimatedTokens: 230
 keywords: [Compliance, Job, Results]
 ---
-
-# Compliance Job Results (GET)
 
 > Get the compliance job results.
 

@@ -5,12 +5,10 @@ topic: apply-filter-to-subscriber-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.166Z
+lastCollected: 2026-04-07T18:40:15.191Z
 estimatedTokens: 568
-keywords: [Apply, Filter, Subscriber, FilterActivity, associate, data, activity, automation, logic, select, group, subscribers, satisfy, criteria, Sample]
+keywords: [Apply, Filter, Subscriber, FilterActivity, associate, activity, automation, logic, select, group, subscribers, satisfy, criteria, Sample, SOAP, Envelope, Items]
 ---
-
-# Apply Filter to Subscriber List
 
 > Use the FilterActivity object to associate a data filter to a filter activity to be used in an automation. A FilterActivity applies the logic of a data filter to a subscriber list you select to create a group of subscribers who satisfy the filter criteria.
 

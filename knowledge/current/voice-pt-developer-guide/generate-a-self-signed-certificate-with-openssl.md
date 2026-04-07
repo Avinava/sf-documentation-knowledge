@@ -5,12 +5,10 @@ topic: generate-a-self-signed-certificate-with-openssl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.544Z
+lastCollected: 2026-04-07T18:40:13.475Z
 estimatedTokens: 528
 keywords: [Generate, Self-Signed, Certificate, OpenSSL, RSA, key]
 ---
-
-# Generate a Self-Signed Certificate with OpenSSL
 
 > Use OpenSSL to generate an RSA private key and certificate.
 

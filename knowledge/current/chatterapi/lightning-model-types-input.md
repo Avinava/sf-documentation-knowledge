@@ -5,12 +5,10 @@ topic: lightning-model-types-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.000Z
+lastCollected: 2026-04-07T18:37:08.816Z
 estimatedTokens: 196
-keywords: [Lightning, Model, Input]
+keywords: [Lightning, Model]
 ---
-
-# Lightning Model Types Input
 
 > Input for lightning model types.
 

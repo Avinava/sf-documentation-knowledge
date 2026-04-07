@@ -5,12 +5,10 @@ topic: contractstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.960Z
+lastCollected: 2026-04-07T18:38:28.868Z
 estimatedTokens: 614
-keywords: [ContractStatus, status, Contract, Draft, InApproval, Activated, Terminated, Expired, Calls, Usage]
+keywords: [ContractStatus, status, Contract, Draft, InApproval, Activated, Terminated, Expired]
 ---
-
-# ContractStatus
 
 > Represents the status of a Contract, such as Draft, InApproval,
    Activated, Terminated, or Expired.

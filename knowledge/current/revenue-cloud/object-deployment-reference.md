@@ -5,12 +5,10 @@ topic: object-deployment-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.006Z
+lastCollected: 2026-04-07T18:35:47.023Z
 estimatedTokens: 686
-keywords: [Deployment, know, sequence, associated]
+keywords: [Deployment, know, sequence]
 ---
-
-# Object Deployment Reference
 
 > Get to know the object deployment sequence and associated properties.
 

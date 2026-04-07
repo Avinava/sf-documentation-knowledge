@@ -5,12 +5,10 @@ topic: lightningomnichannelloginsuccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.952Z
+lastCollected: 2026-04-07T18:36:49.016Z
 estimatedTokens: 109
 keywords: [lightning, omniChannelLoginSuccess, agent, logged, Omni-Channel, successfully]
 ---
-
-# lightning:omniChannelLoginSuccess
 
 > Indicates that an agent has been logged into
             Omni-Channel successfully.

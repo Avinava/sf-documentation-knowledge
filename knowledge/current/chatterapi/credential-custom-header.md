@@ -5,12 +5,10 @@ topic: credential-custom-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.047Z
+lastCollected: 2026-04-07T18:37:18.124Z
 estimatedTokens: 239
-keywords: [Credential, Custom]
+keywords: [Credential]
 ---
-
-# Credential Custom Header
 
 > Credential custom header.
 

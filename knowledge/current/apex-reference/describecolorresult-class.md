@@ -5,13 +5,11 @@ topic: describecolorresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.095Z
+lastCollected: 2026-04-07T18:36:03.308Z
 estimatedTokens: 689
 namespace: Schema
-keywords: [DescribeColorResult, color, metadata, tab, Usage, getColor, getContext, getTheme]
+keywords: [DescribeColorResult, color, metadata, tab, getColor, getContext, getTheme]
 ---
-
-# DescribeColorResult Class
 
 > Contains color metadata information for
 a tab.

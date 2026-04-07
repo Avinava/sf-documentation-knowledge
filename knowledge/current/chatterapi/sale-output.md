@@ -5,12 +5,10 @@ topic: sale-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:35.780Z
+lastCollected: 2026-04-07T18:37:22.890Z
 estimatedTokens: 275
-keywords: [Sale, Output, Payment]
+keywords: [Sale, Payment]
 ---
-
-# Sale Output
 
 > Payment sale output.
 

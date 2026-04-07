@@ -5,12 +5,10 @@ topic: auditing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.988Z
+lastCollected: 2026-04-07T18:39:22.916Z
 estimatedTokens: 274
-keywords: [Auditing, system, critical, diagnosing, potential, real, security, issues, Salesforce, features, don't, secure, organization, themselves, someone]
+keywords: [Auditing, system, critical, diagnosing, potential, real, security, issues, Salesforce, features, don't, secure, organization, themselves, someone, perform, regular, audits, detect, abuse]
 ---
-
-# Auditing
 
 > Auditing provides information about use of the system, which can be critical in
         diagnosing potential or real security issues. Salesforce auditing features don't secure your

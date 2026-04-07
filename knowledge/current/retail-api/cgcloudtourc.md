@@ -5,12 +5,10 @@ topic: cgcloudtourc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.798Z
+lastCollected: 2026-04-07T18:39:15.284Z
 estimatedTokens: 3798
-keywords: [cgcloud__Tour__c, Stores, tour, API, version, 54.0, later, cgcloud, _Tour, Calls, Associated, Objects]
+keywords: [cgcloud__Tour__c, Stores, tour, API, 54.0, cgcloud, _Tour]
 ---
-
-# cgcloud__Tour__c
 
 > Stores the details of the tour object. This object is available
       in API version 54.0 and later.

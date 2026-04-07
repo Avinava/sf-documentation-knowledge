@@ -5,12 +5,10 @@ topic: configuration-override-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.079Z
+lastCollected: 2026-04-07T18:35:42.966Z
 estimatedTokens: 406
-keywords: [Configuration, Override, Input, representation, Pricing, API]
+keywords: [Configuration, Override, Pricing, API]
 ---
-
-# Configuration Override Input
 
 > Input representation of the details to override for a Pricing API
     configuration.

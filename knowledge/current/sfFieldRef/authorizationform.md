@@ -5,12 +5,10 @@ topic: authorizationform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.556Z
+lastCollected: 2026-04-07T18:39:28.637Z
 estimatedTokens: 454
-keywords: [AuthorizationForm, specific, version, effective, dates, form, associated, consent, privacy, policy, terms, conditions, API, 46.0, later]
+keywords: [AuthorizationForm, specific, effective, dates, form, consent, privacy, policy, terms, conditions, API, 46.0]
 ---
-
-# AuthorizationForm
 
 > Represents the specific version and effective dates of a form that is
 			associated with consent, such as a privacy policy or terms and conditions. This

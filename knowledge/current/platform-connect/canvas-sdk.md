@@ -5,12 +5,10 @@ topic: canvas-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.518Z
+lastCollected: 2026-04-07T18:38:57.315Z
 estimatedTokens: 1480
-keywords: [Canvas, SDK, tools, enable, integrate, apps, Salesforce, framework, includes, authenticate, app, retrieve, data]
+keywords: [Canvas, SDK, tools, enable, integrate, apps, Salesforce, framework, includes, authenticate, app, retrieve]
 ---
-
-# Canvas SDK
 
 > Canvas is a set of tools that enable you to integrate your apps
   within Salesforce. This framework includes an SDK that you can use to

@@ -5,12 +5,10 @@ topic: connectapipurchasequantityrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.015Z
+lastCollected: 2026-04-07T18:36:11.290Z
 estimatedTokens: 211
 keywords: [ConnectApi.PurchaseQuantityRule, Rule, restricts, quantity, product, purchased]
 ---
-
-# ConnectApi.PurchaseQuantityRule
 
 > Rule that restricts the quantity of a product that can be
       purchased.

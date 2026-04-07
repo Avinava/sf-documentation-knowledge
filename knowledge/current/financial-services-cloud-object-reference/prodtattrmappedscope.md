@@ -5,12 +5,10 @@ topic: prodtattrmappedscope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.790Z
+lastCollected: 2026-04-07T18:37:38.665Z
 estimatedTokens: 711
-keywords: [ProdtAttrMappedScope, junction, product, attribute, scope, classification, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ProdtAttrMappedScope, junction, product, attribute, scope, classification, API, 65.0]
 ---
-
-# ProdtAttrMappedScope
 
 > Represents a junction between the product attribute scope and the product
          classification attribute. This object is available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: flowrecordrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:41.700Z
+lastCollected: 2026-04-07T18:38:32.695Z
 estimatedTokens: 1710
-keywords: [FlowRecordRelation, relationship, record, flow, interview, paused, Salesforce, uses, $Flow.CurrentRecord, variable, associate, API, version, 42.0, later]
+keywords: [FlowRecordRelation, relationship, record, flow, interview, paused, Salesforce, uses, $Flow.CurrentRecord, variable, associate, API, 42.0]
 ---
-
-# FlowRecordRelation
 
 > Represents a relationship between a record and a flow interview.
 			When a flow interview is paused, Salesforce uses the $Flow.CurrentRecord global variable

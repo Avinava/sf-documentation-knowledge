@@ -5,12 +5,10 @@ topic: index-configuration-collection-get-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.634Z
+lastCollected: 2026-04-07T18:35:44.634Z
 estimatedTokens: 527
 keywords: [Index, Configuration, Collection, PUT, Retrieve, saved, configurations, Additionally, persist]
 ---
-
-# Index Configuration Collection (GET, PUT)
 
 > Retrieve the saved index configurations. Additionally, you can persist
       the index configuration.

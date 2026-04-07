@@ -5,13 +5,11 @@ topic: component-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.039Z
+lastCollected: 2026-04-07T18:36:15.362Z
 estimatedTokens: 604
 namespace: ApexPages
-keywords: [Component, dynamic, Visualforce, Apex, childComponents, expressions, facets, Usage]
+keywords: [dynamic, Visualforce, Apex, childComponents, expressions, facets]
 ---
-
-# Component Class
 
 > Represents a dynamic Visualforce component in
   Apex.

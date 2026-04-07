@@ -5,12 +5,10 @@ topic: stnryassetwaterftprnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.296Z
+lastCollected: 2026-04-07T18:40:02.980Z
 estimatedTokens: 1057
 keywords: [StnryAssetWaterFtprnt, total, volume, water, activities, withdrawal, consumption, discharge, stationary, assets]
 ---
-
-# StnryAssetWaterFtprnt
 
 > Represents information about the total volume of water from the water
          activities, such as withdrawal, consumption, or discharge that are related to the

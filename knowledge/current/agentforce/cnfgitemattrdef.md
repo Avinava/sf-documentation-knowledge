@@ -5,12 +5,10 @@ topic: cnfgitemattrdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.313Z
+lastCollected: 2026-04-07T18:35:55.426Z
 estimatedTokens: 978
-keywords: [CnfgItemAttrDef, definition, attribute, configuration, item, owner, Status, API, version, 65.0, later, SOAP, Calls, REST]
+keywords: [CnfgItemAttrDef, definition, attribute, configuration, item, owner, Status, API, 65.0, SOAP, REST]
 ---
-
-# CnfgItemAttrDef
 
 > Represents the definition of an attribute or a property for a configuration
          item. For example, CI name, CI owner, Status, and so on. This object is available in

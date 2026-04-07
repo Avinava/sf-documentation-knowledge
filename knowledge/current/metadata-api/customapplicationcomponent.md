@@ -5,12 +5,10 @@ topic: customapplicationcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.749Z
+lastCollected: 2026-04-07T18:36:24.089Z
 estimatedTokens: 589
-keywords: [CustomApplicationComponent, custom, console, component, Visualforce, assigned, CustomApplication, marked, Salesforce, components, extend, capabilities, apps, Customize, Classic]
+keywords: [CustomApplicationComponent, console, Visualforce, assigned, CustomApplication, marked, Salesforce, extend, capabilities, apps, Customize, Classic, Help, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomApplicationComponent
 
 > Represents a custom console component
             (Visualforce page) assigned to a CustomApplication that is marked as a Salesforce

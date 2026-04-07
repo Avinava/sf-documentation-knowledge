@@ -5,12 +5,10 @@ topic: borrower-address-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.345Z
+lastCollected: 2026-04-07T18:37:34.935Z
 estimatedTokens: 98
 keywords: [Borrower, Address, Result, POST, PATCH]
 ---
-
-# Borrower Address Result
 
 > Borrower address result of the POST or PATCH
     request.

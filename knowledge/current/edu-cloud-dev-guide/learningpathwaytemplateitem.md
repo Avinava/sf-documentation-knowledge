@@ -5,12 +5,10 @@ topic: learningpathwaytemplateitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.370Z
+lastCollected: 2026-04-07T18:37:31.504Z
 estimatedTokens: 1034
-keywords: [LearningPathwayTemplateItem, requirement, completion, Learning, Pathway, Template, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [LearningPathwayTemplateItem, requirement, completion, Learning, Pathway, Template, API, 61.0]
 ---
-
-# LearningPathwayTemplateItem
 
 > Represents a requirement with completion details in the Learning Pathway
          Template. This object is available in API version 61.0 and later.

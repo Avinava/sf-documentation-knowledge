@@ -5,12 +5,10 @@ topic: set-up-an-external-client-app-for-headless-identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.322Z
+lastCollected: 2026-04-07T18:37:39.249Z
 estimatedTokens: 569
-keywords: [External, Client, App, Headless, Identity, apps, framework, off-platform, data, Salesforce, APIs, integrate, single-page, configure, settings]
+keywords: [External, Client, App, Headless, Identity, apps, framework, off-platform, Salesforce, APIs, integrate, single-page, configure, settings, policies]
 ---
-
-# Set Up an External Client App for Headless Identity
 
 > The external client apps framework enables your off-platform app to request data from
     Salesforce APIs. To integrate your single-page app with Headless Identity APIs, create an

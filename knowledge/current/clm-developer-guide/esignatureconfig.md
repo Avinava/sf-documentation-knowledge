@@ -5,12 +5,10 @@ topic: esignatureconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:38.472Z
+lastCollected: 2026-04-07T18:37:25.396Z
 estimatedTokens: 537
-keywords: [ESignatureConfig, settings, integrating, external, eSignature, providers, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, API, version, 56.0, later, Calls]
+keywords: [ESignatureConfig, settings, integrating, external, eSignature, providers, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 56.0]
 ---
-
-# ESignatureConfig
 
 > Represents the settings for integrating with external eSignature
 			providers.

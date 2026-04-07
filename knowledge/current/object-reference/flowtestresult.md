@@ -5,12 +5,10 @@ topic: flowtestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.769Z
+lastCollected: 2026-04-07T18:38:32.753Z
 estimatedTokens: 710
-keywords: [FlowTestResult, results, flow, test, associated, version, API, 55.0, later, Calls, Special, Access, Rules, Objects]
+keywords: [FlowTestResult, results, flow, test, API, 55.0]
 ---
-
-# FlowTestResult
 
 > Represents the results for a flow test associated with a flow version.
       This object is available in API version 55.0 and later.

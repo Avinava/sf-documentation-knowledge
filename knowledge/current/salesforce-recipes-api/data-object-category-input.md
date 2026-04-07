@@ -5,12 +5,10 @@ topic: data-object-category-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.547Z
+lastCollected: 2026-04-07T18:39:18.231Z
 estimatedTokens: 92
-keywords: [Data, Category, Input, Output, Cloud, node]
+keywords: [Category, Cloud, node]
 ---
-
-# Data Object Category Input
 
 > The data object category for an Output Data Cloud node.
 

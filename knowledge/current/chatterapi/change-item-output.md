@@ -5,12 +5,10 @@ topic: change-item-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.303Z
+lastCollected: 2026-04-07T18:37:17.375Z
 estimatedTokens: 1040
-keywords: [Change, Item, Output, financial, changes, resulting, OrderItemSummaries, represent, deltas, associated, OrderSummary, sign, opposite, corresponding, order]
+keywords: [Change, Item, financial, changes, resulting, OrderItemSummaries, represent, deltas, OrderSummary, sign, opposite, corresponding, order, record, discount, positive, negative]
 ---
-
-# Change Item Output
 
 > The financial changes resulting from a change to one or more
       OrderItemSummaries. Most of the values represent the deltas of the values on the associated

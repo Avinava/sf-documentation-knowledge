@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.321Z
+lastCollected: 2026-04-07T18:36:58.820Z
 estimatedTokens: 226
-keywords: [Smart, Data, Discovery, Predict, Settings, Input, Einstein]
+keywords: [Smart, Discovery, Predict, Settings, Einstein]
 ---
-
-# Smart Data Discovery Predict Settings Input
 
 > The predict settings input for Einstein Discovery.
 

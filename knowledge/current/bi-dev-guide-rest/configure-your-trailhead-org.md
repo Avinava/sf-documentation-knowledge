@@ -5,12 +5,10 @@ topic: configure-your-trailhead-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:08.018Z
+lastCollected: 2026-04-07T18:36:54.387Z
 estimatedTokens: 460
 keywords: [Configure, Trailhead, Org, Cross-Origin, Resource, Sharing, CORS, connected, app]
 ---
-
-# Configure Your Trailhead Org
 
 > To configure your Trailhead org, set up Cross-Origin Resource Sharing (CORS) and a
   connected app.

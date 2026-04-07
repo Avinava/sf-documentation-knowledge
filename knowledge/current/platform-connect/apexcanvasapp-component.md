@@ -6,13 +6,10 @@ topic: apexcanvasapp-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.294Z
+lastCollected: 2026-04-07T18:38:57.072Z
 estimatedTokens: 1460
-keywords: [apex, canvasApp, Component, display, canvas, app, Visualforce, below, attributes]
+keywords: [apex, canvasApp, display, canvas, app, Visualforce, below, attributes]
 ---
-
-# apex:canvasApp
-        Component
 
 > Use this component to display a canvas app on a Visualforce page. The table below
         lists the component attributes.

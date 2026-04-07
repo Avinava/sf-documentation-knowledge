@@ -5,12 +5,10 @@ topic: medicationtherapyreview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.074Z
+lastCollected: 2026-04-07T18:39:48.526Z
 estimatedTokens: 541
 keywords: [MedicationTherapyReview, Stores, medication, therapy, review, conducted, patient]
 ---
-
-# MedicationTherapyReview
 
 > Stores information about a medication therapy review conducted for a
          patient.

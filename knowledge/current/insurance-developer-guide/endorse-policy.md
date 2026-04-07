@@ -5,12 +5,10 @@ topic: endorse-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.625Z
+lastCollected: 2026-04-07T18:37:52.823Z
 estimatedTokens: 1197
-keywords: [Endorse, Policy, endorsement, known, Mid-Term, Adjustment, MTA, process, making, modifications, active, insurance, term, Common, include, change, changes, version, premiums, user]
+keywords: [Endorse, Policy, endorsement, known, Mid-Term, Adjustment, MTA, process, making, modifications, active, insurance, term, Common, include, adding, removing, coverage, updating, attributes, limits, deductibles, Endorsements, usually, affect, price, new, instead, record, includes, applied, changes, along, recalculated, standard, premium, prorated, that’s, calculated, effective, date, change, premiums, user, journey, how, Salesforce's, quoting, capabilities, aren't]
 ---
-
-# Endorse Policy
 
 > Policy endorsement, also known as Mid-Term Adjustment (MTA), is the process of making
     modifications to an active insurance policy during its term. Common modifications include adding

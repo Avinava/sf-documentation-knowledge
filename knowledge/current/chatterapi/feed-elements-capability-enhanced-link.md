@@ -5,12 +5,10 @@ topic: feed-elements-capability-enhanced-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.717Z
+lastCollected: 2026-04-07T18:37:13.680Z
 estimatedTokens: 224
-keywords: [Feed, Elements, Capability, Enhanced, Link, Access, element]
+keywords: [Capability, Enhanced, Link]
 ---
-
-# Feed Elements Capability, Enhanced Link
 
 > Access the enhanced link capability of a feed
     element.

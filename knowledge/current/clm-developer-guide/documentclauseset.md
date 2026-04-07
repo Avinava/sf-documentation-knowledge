@@ -5,12 +5,10 @@ topic: documentclauseset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.655Z
+lastCollected: 2026-04-07T18:37:25.579Z
 estimatedTokens: 613
-keywords: [DocumentClauseSet, grouping, clauses, hold, multiple, variations, clause, main, alternate, pre-approved, language, Calls, Special, Access, Rules]
+keywords: [DocumentClauseSet, grouping, clauses, hold, multiple, variations, clause, main, alternate, pre-approved, language]
 ---
-
-# DocumentClauseSet
 
 > Represents a grouping for clauses, which can hold multiple variations of the same
       clause such as main clause and alternate pre-approved clauses based on language.

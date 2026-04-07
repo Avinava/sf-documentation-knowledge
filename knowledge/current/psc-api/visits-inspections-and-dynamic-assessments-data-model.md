@@ -5,12 +5,10 @@ topic: visits-inspections-and-dynamic-assessments-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.021Z
+lastCollected: 2026-04-07T18:39:05.033Z
 estimatedTokens: 180
-keywords: [Visits, Inspections, Dynamic, Assessments, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Visits, Inspections, Dynamic, Assessments, Model, relationships, Sector, Solutions]
 ---
-
-# Visits, Inspections, and Dynamic Assessments Data Model
 
 > Learn about the objects and relationships used for visits, inspections, and dynamic assessments in Public Sector Solutions.
 

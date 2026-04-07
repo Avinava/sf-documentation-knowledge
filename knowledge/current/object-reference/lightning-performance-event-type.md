@@ -5,12 +5,10 @@ topic: lightning-performance-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.462Z
+lastCollected: 2026-04-07T18:38:31.321Z
 estimatedTokens: 1757
-keywords: [Lightning, Performance, Event, events, track, trends, Experience, Salesforce, mobile, app, EventLogFile, API, version, 39.0, later]
+keywords: [Lightning, Performance, Event, events, track, trends, Experience, Salesforce, mobile, app, EventLogFile, API, 39.0]
 ---
-
-# Lightning Performance Event Type
 
 > Lightning Performance events track trends in Lightning Experience
 			and Salesforce mobile app performance. This event type is available in the

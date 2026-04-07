@@ -5,12 +5,10 @@ topic: pcmtemssnfctrsetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.554Z
+lastCollected: 2026-04-07T18:38:19.230Z
 estimatedTokens: 1101
-keywords: [PcmtEmssnFctrSetItem, individual, emissions, factors, scope, procurement, analysis, environmentally, extended, input-output, EEIO, model, outputs, emission, units]
+keywords: [PcmtEmssnFctrSetItem, individual, emissions, factors, scope, procurement, analysis, environmentally, extended, input-output, EEIO, model, outputs, emission, units, tCO₂e, per, million, spent, currency, API, 54.0]
 ---
-
-# PcmtEmssnFctrSetItem
 
 > Represents the individual emissions factors for scope 3 procurement analysis.
          Here, the environmentally extended input-output (EEIO) model outputs are used as the

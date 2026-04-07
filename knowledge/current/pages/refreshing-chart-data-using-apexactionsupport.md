@@ -5,12 +5,10 @@ topic: refreshing-chart-data-using-apexactionsupport
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.862Z
+lastCollected: 2026-04-07T18:38:48.805Z
 estimatedTokens: 801
-keywords: [Refreshing, Chart, Data, <apex, actionSupport>, Visualforce, user’s, actions, adding, component, user, elements, affect, chart’s, PieChartRemoteController]
+keywords: [PieChartRemoteController, Refreshing, Chart, <apex, actionSupport>, Visualforce, user’s, actions, adding, user, affect, chart’s]
 ---
-
-# Refreshing Chart Data Using  <apex:actionSupport>
 
 > Update a Visualforce chart in
         response to a user’s actions by adding the <apex:actionSupport> component to Visualforce user interface elements

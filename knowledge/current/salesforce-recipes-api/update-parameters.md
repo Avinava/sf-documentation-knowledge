@@ -5,12 +5,10 @@ topic: update-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.046Z
+lastCollected: 2026-04-07T18:39:19.739Z
 estimatedTokens: 111
 keywords: [node, recipe]
 ---
-
-# Update Parameters
 
 > The parameters for an update node in a recipe.
 

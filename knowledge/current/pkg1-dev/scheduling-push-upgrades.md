@@ -5,12 +5,10 @@ topic: scheduling-push-upgrades
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.997Z
+lastCollected: 2026-04-07T18:38:54.407Z
 estimatedTokens: 1706
-keywords: [Scheduling, Push, Upgrades, you’ve, created, updated, version, package, automatically, deploy, customers, upgrade, Schedule, Enterprise, API]
+keywords: [Scheduling, Push, Upgrades, you’ve, created, updated, package, automatically, deploy, customers, upgrade, Schedule, Enterprise, API]
 ---
-
-# Scheduling Push Upgrades
 
 > After you’ve created an updated version of your package, you can automatically deploy
     it to customers using a push upgrade.

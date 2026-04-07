@@ -5,12 +5,10 @@ topic: plugin-methods-plugin-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.315Z
+lastCollected: 2026-04-07T18:40:25.688Z
 estimatedTokens: 1799
-keywords: [Plugin, Downloads, sObjects, target, SmartStore, soup, soupName, objects, Mobile, Sync, overwrites, duplicate, syncDown, syncUp]
+keywords: [Plugin, Downloads, sObjects, target, SmartStore, soup, soupName, Mobile, Sync, overwrites, duplicate, syncDown, syncUp]
 ---
-
-# Plugin Methods Plugin Methods
 
 > Downloads the sObjects specified by target into the
           SmartStore soup specified by

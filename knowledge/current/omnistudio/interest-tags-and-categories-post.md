@@ -5,12 +5,10 @@ topic: interest-tags-and-categories-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.744Z
+lastCollected: 2026-04-07T18:36:38.395Z
 estimatedTokens: 223
 keywords: [Interest, Tags, Categories, POST, simultaneously, Associate, specific, records]
 ---
-
-# Interest Tags and Categories (POST)
 
 > Create interest tags and categories simultaneously. Associate existing categories and
     tags with specific records.

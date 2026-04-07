@@ -5,12 +5,10 @@ topic: getdefaultpercentformat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.967Z
+lastCollected: 2026-04-07T18:38:05.131Z
 estimatedTokens: 106
 keywords: [getDefaultPercentFormat, percentage, Sample, Code]
 ---
-
-# getDefaultPercentFormat()
 
 > Returns the default percentage format.
 

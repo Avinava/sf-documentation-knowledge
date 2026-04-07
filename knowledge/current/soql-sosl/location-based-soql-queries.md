@@ -5,12 +5,10 @@ topic: location-based-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.833Z
+lastCollected: 2026-04-07T18:40:09.777Z
 estimatedTokens: 2337
-keywords: [Location-Based, SOQL, Queries, let, compare, query, location, stored, Salesforce, calculate, distance, two, warehouse, store, fixed]
+keywords: [Location-Based, SOQL, Queries, let, compare, query, location, stored, Salesforce, calculate, distance, two, warehouse, store, fixed, latitude-longitude, coordinates, 37.775°, -122.418°—also, known, San, Francisco, Support, SELECT, Clause, ORDER, How, Treats, Calculates, Compares, Distances, Considerations]
 ---
-
-# Location-Based SOQL Queries
 
 > Location-based SOQL queries let you compare and query location values stored in
     Salesforce. You can calculate the distance between two location values, such as between a

@@ -5,12 +5,10 @@ topic: carefeescheduleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.387Z
+lastCollected: 2026-04-07T18:39:31.754Z
 estimatedTokens: 331
 keywords: [CareFeeScheduleItem, Stores, procedure, level, fees, fee, schedule, definition]
 ---
-
-# CareFeeScheduleItem
 
 > Stores procedure level fees for a fee schedule definition.
 

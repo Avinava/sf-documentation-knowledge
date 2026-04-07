@@ -5,12 +5,10 @@ topic: locationtrustmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.586Z
+lastCollected: 2026-04-07T18:39:47.062Z
 estimatedTokens: 460
-keywords: [LocationTrustMeasure, COVID, safety, protocols, business, follows, enforcement, masks, social, distancing, cleanliness, capacity, limits, API, version]
+keywords: [LocationTrustMeasure, COVID, safety, protocols, business, follows, enforcement, masks, social, distancing, cleanliness, capacity, limits, API, 50.0]
 ---
-
-# LocationTrustMeasure
 
 > Represents the COVID safety protocols that your business follows. For example,
       enforcement of masks, social distancing, cleanliness, and capacity limits. This object is

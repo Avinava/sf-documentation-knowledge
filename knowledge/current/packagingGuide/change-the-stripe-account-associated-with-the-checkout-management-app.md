@@ -5,12 +5,10 @@ topic: change-the-stripe-account-associated-with-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.393Z
+lastCollected: 2026-04-07T18:38:46.253Z
 estimatedTokens: 220
-keywords: [Change, Stripe, Account, Associated, Checkout, Management, App, start, managing, subscriptions, another, settings, CMA, keep, data]
+keywords: [Change, Stripe, Account, Checkout, Management, App, start, managing, subscriptions, another, settings, CMA, keep, sync]
 ---
-
-# Change the Stripe Account Associated with the Checkout Management App
 
 > If you start managing subscriptions from another Stripe account, update your account
         settings in the Checkout Management App (CMA) to keep Stripe data in sync.

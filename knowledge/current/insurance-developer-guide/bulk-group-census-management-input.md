@@ -5,12 +5,10 @@ topic: bulk-group-census-management-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.031Z
+lastCollected: 2026-04-07T18:37:50.972Z
 estimatedTokens: 338
-keywords: [Bulk, Group, Census, Management, Input, representation, bulk-process, data, CSV, file]
+keywords: [Bulk, Group, Census, Management, bulk-process, CSV, file]
 ---
-
-# Bulk Group Census Management Input
 
 > Input representation to bulk-process group census data from a CSV file.
 

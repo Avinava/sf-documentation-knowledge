@@ -5,12 +5,10 @@ topic: common-promotion-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.441Z
+lastCollected: 2026-04-07T18:37:28.458Z
 estimatedTokens: 518
-keywords: [Common, Promotion, Custom, Objects, drill, down, promotions, let’s, review, unbundled, bundled, share, Deployment, Result, Merge]
+keywords: [Common, Promotion, drill, down, promotions, let’s, review, unbundled, bundled, share, Deployment, Result, Merge]
 ---
-
-# Common Promotion Custom Objects
 
 > Before we drill down into the details of promotions, let’s first review the common custom objects that both unbundled and bundled promotions share.
 

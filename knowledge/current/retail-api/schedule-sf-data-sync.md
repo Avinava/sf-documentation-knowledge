@@ -5,12 +5,10 @@ topic: schedule-sf-data-sync
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:17.617Z
+lastCollected: 2026-04-07T18:39:11.133Z
 estimatedTokens: 134
-keywords: [Schedule, Data, Sync, Schedules, Salesforce, off-platform, database]
+keywords: [Schedule, Sync, Schedules, Salesforce, off-platform, database]
 ---
-
-# Schedule SF Data Sync
 
 > Schedules a data sync from Salesforce to the off-platform
       database.

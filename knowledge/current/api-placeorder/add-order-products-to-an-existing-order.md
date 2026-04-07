@@ -5,12 +5,10 @@ topic: add-order-products-to-an-existing-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.737Z
+lastCollected: 2026-04-07T18:36:51.020Z
 estimatedTokens: 121
 keywords: [Add, Order, Products, Here’s, PATCH, resource]
 ---
-
-# Add Order Products to an Existing Order
 
 > Here’s an example of a PATCH request using the Order resource to add order products to an existing order.
 

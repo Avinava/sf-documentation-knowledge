@@ -5,12 +5,10 @@ topic: usagegrantrenewalpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.835Z
+lastCollected: 2026-04-07T18:35:50.715Z
 estimatedTokens: 647
-keywords: [UsageGrantRenewalPolicy, policy, rollover, usage, grant, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [UsageGrantRenewalPolicy, policy, rollover, grant, API, 62.0]
 ---
-
-# UsageGrantRenewalPolicy
 
 > Represents a policy about the rollover of a usage grant. This
       object is available in API version 62.0 and later.

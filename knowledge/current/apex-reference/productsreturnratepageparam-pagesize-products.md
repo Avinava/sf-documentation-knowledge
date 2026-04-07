@@ -5,12 +5,10 @@ topic: productsreturnratepageparam-pagesize-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.187Z
+lastCollected: 2026-04-07T18:35:58.452Z
 estimatedTokens: 365
-keywords: [productsReturnRate, pageParam, pageSize, products, their, rates, product, IDs, API, Version, Requires, Chatter]
+keywords: [productsReturnRate, pageParam, pageSize, products, their, rates, product, IDs, API, Requires, Chatter]
 ---
-
-# productsReturnRate(pageParam, pageSize, products)
 
 > Get a page of products and their return rates for a list of product IDs.
 

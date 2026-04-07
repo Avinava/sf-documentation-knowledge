@@ -5,12 +5,10 @@ topic: loyaltyprogramwidget
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:53.261Z
+lastCollected: 2026-04-07T18:39:47.676Z
 estimatedTokens: 356
-keywords: [LoyaltyProgramWidget, configuration, widget, user, apply, out-of-the-box, templates, FlexCards, provided, Omnistudio, helps, implement, custom, changes, promotion]
+keywords: [LoyaltyProgramWidget, configuration, widget, user, apply, out-of-the-box, templates, FlexCards, provided, Omnistudio, helps, implement, changes, promotion, tag, line]
 ---
-
-# LoyaltyProgramWidget
 
 > Represents the configuration of a widget that a user can apply to the
          out-of-the-box templates and FlexCards provided by Omnistudio. The configuration helps

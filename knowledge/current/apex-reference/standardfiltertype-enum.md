@@ -5,13 +5,11 @@ topic: standardfiltertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.590Z
+lastCollected: 2026-04-07T18:36:12.880Z
 estimatedTokens: 151
 namespace: Reports
 keywords: [StandardFilterType, standard, filters, report, getType, Reports.StandardFilterType]
 ---
-
-# StandardFilterType Enum
 
 > The StandardFilterType enum describes the type of
     standard filters in a report. The getType() method returns

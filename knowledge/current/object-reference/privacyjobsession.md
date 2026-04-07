@@ -5,12 +5,10 @@ topic: privacyjobsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.013Z
+lastCollected: 2026-04-07T18:38:38.383Z
 estimatedTokens: 1239
-keywords: [PrivacyJobSession, status, past, ongoing, scheduled, policy, jobs, Privacy, Center, API, version, 59.0, later, Calls, Special]
+keywords: [PrivacyJobSession, status, past, ongoing, scheduled, policy, jobs, Privacy, Center, API, 59.0]
 ---
-
-# PrivacyJobSession
 
 > Represents the status of past, ongoing, and scheduled policy jobs in Privacy
          Center. This object is available in API version 59.0 and later.

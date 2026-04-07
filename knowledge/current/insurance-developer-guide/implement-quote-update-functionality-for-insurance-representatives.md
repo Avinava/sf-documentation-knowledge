@@ -5,12 +5,10 @@ topic: implement-quote-update-functionality-for-insurance-representatives
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.109Z
+lastCollected: 2026-04-07T18:37:53.386Z
 estimatedTokens: 177
 keywords: [Implement, Quote, Functionality, Insurance, Representatives, user, journey, policyholder, wants, adding, deleting, editing, line, items]
 ---
-
-# Implement Quote Update Functionality for Insurance Representatives
 
 > This user journey applies when a policyholder wants to update an existing quote, such
     as adding, deleting, or editing quote line items.

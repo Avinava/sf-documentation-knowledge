@@ -6,13 +6,10 @@ topic: updating-apps-50-and-later-apps-50-and-later
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.573Z
+lastCollected: 2026-04-07T18:40:25.950Z
 estimatedTokens: 1093
-keywords: [Updating, Apps, 5.0, Later, Native, React, easier, path, future, Mobile, SDK, upgrades, Instead, creating, app]
+keywords: [Updating, Apps, 5.0, Native, React, easier, path, future, Mobile, SDK, upgrades, Instead, creating, app, porting, app’s, resources, now, simple, configuration, file, run, script, regenerates, new, libraries, Hybrid]
 ---
-
-# Updating  Apps (5.0 and Later) Apps (5.0 and
-   Later)
 
 > Native and React native apps get an easier path to future Mobile SDK upgrades. Instead
   of creating an app and porting your app’s resources to it, you now update a simple configuration

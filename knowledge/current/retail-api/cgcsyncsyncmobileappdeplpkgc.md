@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappdeplpkgc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.935Z
+lastCollected: 2026-04-07T18:39:12.449Z
 estimatedTokens: 1210
-keywords: [cgc_sync__Sync_Mobile_App_Depl_Pkg__c, Deployment, packages, contain, application, runtime, artifacts, mobile, app, API, version, 53.0, later, cgc, _sync]
+keywords: [cgc_sync__Sync_Mobile_App_Depl_Pkg__c, Deployment, packages, contain, application, runtime, artifacts, mobile, app, API, 53.0, cgc, _sync, _Mobile, _App, _Depl, _Pkg]
 ---
-
-# cgc_sync__Sync_Mobile_App_Depl_Pkg__c
 
 > Deployment packages that contain application runtime artifacts of the mobile
          app. This object is available in API version 53.0 and later.

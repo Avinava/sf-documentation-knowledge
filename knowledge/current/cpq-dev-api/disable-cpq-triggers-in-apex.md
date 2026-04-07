@@ -5,12 +5,10 @@ topic: disable-cpq-triggers-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.265Z
+lastCollected: 2026-04-07T18:37:27.274Z
 estimatedTokens: 343
-keywords: [Disable, CPQ, Triggers, Apex, manually, Salesforce, Billing, application, logic, records, process, helpful, you’re, updating, own]
+keywords: [Disable, CPQ, Triggers, Apex, manually, Salesforce, Billing, application, logic, records, process, helpful, you’re, updating, own, It’s, record, several, times, transaction, want, run, iteration]
 ---
-
-# Disable CPQ Triggers in Apex
 
 > You can manually disable Salesforce CPQ and Salesforce Billing application logic when
   you update records. This process is helpful when you’re updating your own custom field. It’s also

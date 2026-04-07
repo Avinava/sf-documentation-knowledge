@@ -5,12 +5,10 @@ topic: digitalsignature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.272Z
+lastCollected: 2026-04-07T18:37:57.808Z
 estimatedTokens: 477
-keywords: [DigitalSignature, Life, Sciences, Cloud, extend, standard, represent, API, version, 65.0, later, Calls]
+keywords: [DigitalSignature, Life, Sciences, Cloud, extend, standard, represent, API, 65.0]
 ---
-
-# DigitalSignature
 
 > Life Sciences Cloud fields extend the standard DigitalSignature object to
          represent a signature. This object is available in API version 65.0 and

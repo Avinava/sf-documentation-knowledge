@@ -5,12 +5,10 @@ topic: feed-element-capabilities-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.554Z
+lastCollected: 2026-04-07T18:37:08.385Z
 estimatedTokens: 834
-keywords: [Feed, Element, Capabilities, Input, container, included, creating]
+keywords: [Capabilities, container, included, creating]
 ---
-
-# Feed Element Capabilities Input
 
 > A container for all capabilities that can be included when creating a
          feed element.

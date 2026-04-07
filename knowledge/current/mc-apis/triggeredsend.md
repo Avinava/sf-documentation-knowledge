@@ -5,12 +5,10 @@ topic: triggeredsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.508Z
+lastCollected: 2026-04-07T18:40:20.759Z
 estimatedTokens: 621
 keywords: [TriggeredSend, specific, instance, triggered, email, send, Items]
 ---
-
-# TriggeredSend
 
 > The TriggeredSend object represents a specific instance of a triggered email send.
 

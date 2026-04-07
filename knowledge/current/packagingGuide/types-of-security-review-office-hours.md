@@ -5,12 +5,10 @@ topic: types-of-security-review-office-hours
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.677Z
+lastCollected: 2026-04-07T18:38:47.629Z
 estimatedTokens: 704
-keywords: [Security, Review, Office, Hours, Salesforce, teams, host, two, AppExchange, partners, direct, scheduled, web, conference, access]
+keywords: [Security, Review, Office, Hours, Salesforce, teams, host, two, AppExchange, partners, direct, scheduled, web, conference, team, members, answers, submission, process, attend, operations, help, troubleshooting, vulnerabilities, technical, Product]
 ---
-
-# Types of Security Review Office Hours
 
 > Salesforce security review teams host two types of office hours for AppExchange
   partners. During office hours, you have direct, scheduled, web conference access to security

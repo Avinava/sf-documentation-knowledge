@@ -5,12 +5,10 @@ topic: ideastandardcontroller-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.959Z
+lastCollected: 2026-04-07T18:38:47.914Z
 estimatedTokens: 70
 keywords: [IdeaStandardController, instance]
 ---
-
-# IdeaStandardController Methods
 
 > The following are instance methods for IdeaStandardController.
 

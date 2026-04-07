@@ -5,12 +5,10 @@ topic: standard-list-controller-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.795Z
+lastCollected: 2026-04-07T18:38:51.032Z
 estimatedTokens: 1004
-keywords: [Standard, Controller, Actions, controllers, support, action, perform, logic, navigation, event, occurs, user, clicks, button, hovers]
+keywords: [Standard, Controller, Actions, controllers, support, action, perform, logic, navigation, event, occurs, user, clicks, button, hovers, over, area]
 ---
-
-# Standard List Controller Actions
 
 > Standard list controllers support action methods. Action methods
         perform logic or navigation when a page event occurs, such as when a

@@ -5,12 +5,10 @@ topic: assignedresource-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.710Z
+lastCollected: 2026-04-07T18:36:46.561Z
 estimatedTokens: 1027
-keywords: [AssignedResource, Custom, associated, service, resource, assigned, appointment, resources, appear, appointments, API, version, 38.0, later, Calls]
+keywords: [AssignedResource, service, resource, assigned, appointment, resources, appear, appointments, API, 38.0, Internal]
 ---
-
-# AssignedResource Custom Fields
 
 > Custom fields associated with a service resource who is assigned to a service
          appointment in Field Service. Assigned resources appear in the Assigned Resources related

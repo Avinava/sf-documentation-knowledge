@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.849Z
+lastCollected: 2026-04-07T18:36:52.273Z
 estimatedTokens: 846
-keywords: [Automotive, Cloud, Standard, Objects, adds, Salesforce, represent, specific, vehicles, business, partners, orgs, enabled]
+keywords: [Automotive, Cloud, Standard, adds, Salesforce, represent, specific, vehicles, business, partners, orgs, enabled]
 ---
-
-# Automotive Cloud Fields on Standard Objects
 
 > Automotive Cloud adds standard fields to some standard Salesforce objects to represent
     information specific to vehicles and business partners. These fields are available only in orgs

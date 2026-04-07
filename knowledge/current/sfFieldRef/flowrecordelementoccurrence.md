@@ -5,12 +5,10 @@ topic: flowrecordelementoccurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.381Z
+lastCollected: 2026-04-07T18:39:41.032Z
 estimatedTokens: 473
-keywords: [FlowRecordElementOccurrence, execution, metrics, element, flow, version, API, 62.0, later]
+keywords: [FlowRecordElementOccurrence, execution, metrics, flow, API, 62.0]
 ---
-
-# FlowRecordElementOccurrence
 
 > Represents the execution metrics for a single element within a flow
          version. This object is available in API version 62.0 and later.

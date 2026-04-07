@@ -5,12 +5,10 @@ topic: promotion-evaluation-and-execution-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.388Z
+lastCollected: 2026-04-07T18:38:07.619Z
 estimatedTokens: 488
 keywords: [Promotion, Evaluation, Execution, POST, Evaluate, cart, adjusted, price, line, items, applying, eligible, promotions, selected]
 ---
-
-# Promotion Evaluation and Execution (POST)
 
 > Evaluate cart details and return the adjusted price of cart and line items after
     applying eligible promotions based on the selected promotion evaluation and execution

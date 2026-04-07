@@ -5,12 +5,10 @@ topic: price-protection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.302Z
+lastCollected: 2026-04-07T18:37:05.993Z
 estimatedTokens: 131
 keywords: [Price, Protection, Manage, programs, partners, distributors, ensure, margin, stability, amid, fluctuations]
 ---
-
-# Price Protection
 
 > Manage Price Protection programs for partners and distributors to ensure margin
   stability amid price fluctuations.

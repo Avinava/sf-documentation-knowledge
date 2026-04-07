@@ -5,12 +5,10 @@ topic: locationshippingcarriermethodshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:52.576Z
+lastCollected: 2026-04-07T18:39:47.053Z
 estimatedTokens: 257
 keywords: [LocationShippingCarrierMethodShare, Sharing, LocationShippingCarrierMethod]
 ---
-
-# LocationShippingCarrierMethodShare
 
 > Sharing for LocationShippingCarrierMethod.
 

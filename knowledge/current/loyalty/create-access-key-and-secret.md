@@ -5,12 +5,10 @@ topic: create-access-key-and-secret
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.779Z
+lastCollected: 2026-04-07T18:38:09.075Z
 estimatedTokens: 259
-keywords: [Access, Key, Secret, IAM, user, download, keys, secrets, authenticate, authorize, programmatic, AWS, resources]
+keywords: [Key, Secret, IAM, user, download, keys, secrets, authenticate, authorize, programmatic, AWS, resources]
 ---
-
-# Create Access Key and Secret
 
 > After you create an IAM user, create an access key for the user and download the access
   key and secret. Use the access keys and secrets to authenticate and authorize programmatic access

@@ -5,12 +5,10 @@ topic: healthscoreactionlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.953Z
+lastCollected: 2026-04-07T18:39:43.564Z
 estimatedTokens: 431
-keywords: [HealthScoreActionLog, log, actions, triggered, Dynamic, Unified, Health, Scoring, component, feature]
+keywords: [HealthScoreActionLog, log, actions, triggered, Dynamic, Unified, Health, Scoring, feature]
 ---
-
-# HealthScoreActionLog
 
 > Represents the log of actions triggered from the Dynamic Actions for Unified
          Health Scoring component in the Unified Health Scoring feature.

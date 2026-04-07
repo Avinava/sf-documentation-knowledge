@@ -5,12 +5,10 @@ topic: researchstudycandidatefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.317Z
+lastCollected: 2026-04-07T18:40:00.017Z
 estimatedTokens: 392
-keywords: [ResearchStudyCandidateFeed, Feed, tracking, ResearchStudyCandidate]
+keywords: [ResearchStudyCandidateFeed, ResearchStudyCandidate]
 ---
-
-# ResearchStudyCandidateFeed
 
 > Feed tracking for ResearchStudyCandidate.
 

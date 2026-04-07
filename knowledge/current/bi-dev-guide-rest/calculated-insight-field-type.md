@@ -5,12 +5,10 @@ topic: calculated-insight-field-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.205Z
+lastCollected: 2026-04-07T18:36:56.789Z
 estimatedTokens: 187
 keywords: [Calculated, Insight, Analytics, template, variable]
 ---
-
-# Calculated Insight Field Type
 
 > The calculated insight field type of an Analytics template variable.
 

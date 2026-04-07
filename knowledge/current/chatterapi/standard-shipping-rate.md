@@ -5,12 +5,10 @@ topic: standard-shipping-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.068Z
+lastCollected: 2026-04-07T18:37:23.185Z
 estimatedTokens: 395
-keywords: [Standard, Shipping, Rate, Output, representation]
+keywords: [Standard, Shipping, Rate]
 ---
-
-# Standard Shipping Rate
 
 > Output representation of the standard shipping rate.
 

@@ -5,12 +5,10 @@ topic: performexpensevalidation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.704Z
+lastCollected: 2026-04-07T18:36:12.990Z
 estimatedTokens: 94
-keywords: [PerformExpenseValidation, Performs, validations, Party, Income, records, Examples]
+keywords: [PerformExpenseValidation, Examples, Performs, validations, Party, Income, records]
 ---
-
-# PerformExpenseValidation
 
 > Performs validations on Party Income records.
 

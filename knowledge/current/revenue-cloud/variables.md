@@ -5,12 +5,10 @@ topic: variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.730Z
+lastCollected: 2026-04-07T18:35:42.617Z
 estimatedTokens: 519
-keywords: [Variables, characteristics, defined, hold, different, data, calculated]
+keywords: [Variables, characteristics, defined, hold, different, calculated]
 ---
-
-# Variables
 
 > Variables are the properties or characteristics defined within a type. Variables can hold
     different types of data and can be calculated from other values.

@@ -5,12 +5,10 @@ topic: identityverificationprocfld
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.632Z
+lastCollected: 2026-04-07T18:37:45.014Z
 estimatedTokens: 961
-keywords: [IdentityVerificationProcFld, search, verification, identity, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, Access, configure, questions, criteria, verifying, caller]
+keywords: [IdentityVerificationProcFld, search, verification, identity, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest, configure, questions, criteria, verifying, caller, API, 54.0, SOAP, REST]
 ---
-
-# IdentityVerificationProcFld
 
 > Used to configure the questions or criteria for verifying the identity of a
          caller. This object is available in API version 54.0 and later.

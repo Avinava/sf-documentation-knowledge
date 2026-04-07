@@ -5,12 +5,10 @@ topic: sharingrecalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.279Z
+lastCollected: 2026-04-07T18:36:22.536Z
 estimatedTokens: 325
-keywords: [SharingRecalculation, Apex, classes, recalculate, managed, sharing, specific, custom, Version, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [SharingRecalculation, Apex, classes, recalculate, managed, sharing, specific, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# SharingRecalculation
 
 > Represents Apex classes that recalculate the
             Apex managed sharing for a specific custom object.

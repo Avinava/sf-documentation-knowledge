@@ -5,12 +5,10 @@ topic: visit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.056Z
+lastCollected: 2026-04-07T18:40:05.943Z
 estimatedTokens: 643
-keywords: [Visit, inspect, assess, compliance, applicant’s, ability, license, permit, API, version, 47.0, later]
+keywords: [Visit, inspect, assess, compliance, applicant’s, ability, license, permit, API, 47.0]
 ---
-
-# Visit
 
 > Represents a visit to inspect, assess compliance, or assess an applicant’s
       ability to get a license or permit or inspect. This object is available in API version

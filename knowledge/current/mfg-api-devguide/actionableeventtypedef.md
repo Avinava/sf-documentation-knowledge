@@ -5,12 +5,10 @@ topic: actionableeventtypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.654Z
+lastCollected: 2026-04-07T18:38:12.982Z
 estimatedTokens: 441
-keywords: [ActionableEventTypeDef, definition, actionable, event, records, migrated, org, another, Parent, File, Suffix, Directory, Location, Version, EventSubtype]
+keywords: [ActionableEventTypeDef, EventSubtype, definition, actionable, event, records, migrated, org, another, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# ActionableEventTypeDef
 
 > Represents the definition of an actionable event type so
 			that the records can be migrated from one org to another.

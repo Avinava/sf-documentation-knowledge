@@ -5,12 +5,10 @@ topic: soql-for-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.416Z
+lastCollected: 2026-04-07T18:36:19.629Z
 estimatedTokens: 1233
 keywords: [SOQL, Loops, iterate, over, sObject, records, query, Versus, Standard, Queries, Loop, Formats]
 ---
-
-# SOQL For Loops
 
 > SOQL for loops iterate over all of the
         sObject records returned by a SOQL query.

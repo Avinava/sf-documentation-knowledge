@@ -5,12 +5,10 @@ topic: migrate-platform-event-definitions-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.220Z
+lastCollected: 2026-04-07T18:38:58.033Z
 estimatedTokens: 346
-keywords: [Migrate, Platform, Event, Definitions, Metadata, API, Deploy, retrieve, sandbox, production, org, part, app’s, development, life]
+keywords: [Migrate, Platform, Event, Definitions, Metadata, API, Deploy, retrieve, sandbox, production, org, part, app’s, development, life, cycle, Events]
 ---
-
-# Migrate Platform Event Definitions with Metadata API
 
 > Deploy and retrieve platform event definitions from your sandbox and production org
         as part of your app’s development life cycle.

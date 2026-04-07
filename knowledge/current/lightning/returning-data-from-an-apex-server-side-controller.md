@@ -5,12 +5,10 @@ topic: returning-data-from-an-apex-server-side-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.658Z
+lastCollected: 2026-04-07T18:38:03.713Z
 estimatedTokens: 978
-keywords: [Returning, Data, Apex, Server-Side, Controller, results, client-side, statement, serializable, JSON, Objects]
+keywords: [Returning, Apex, Server-Side, Controller, results, client-side, statement, serializable, JSON]
 ---
-
-# Returning Data from an Apex Server-Side Controller
 
 > Return results from a server-side controller to a client-side controller using the
       return statement. Results data must be serializable

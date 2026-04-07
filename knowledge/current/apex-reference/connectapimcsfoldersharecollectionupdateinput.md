@@ -5,12 +5,10 @@ topic: connectapimcsfoldersharecollectionupdateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.339Z
+lastCollected: 2026-04-07T18:36:05.682Z
 estimatedTokens: 244
 keywords: [targets, managed, content, space, folder, shared]
 ---
-
-# ConnectApi.MCSFolderShareCollectionUpdateInput
 
 > Update the targets that a managed content space folder is shared with.
 

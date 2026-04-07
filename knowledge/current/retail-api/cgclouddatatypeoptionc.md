@@ -5,12 +5,10 @@ topic: cgclouddatatypeoptionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.022Z
+lastCollected: 2026-04-07T18:39:13.431Z
 estimatedTokens: 1757
-keywords: [cgcloud__Data_Type_Option__c, Stores, item, picklist, flexible, data, API, version, 54.0, later, cgcloud, _Data, _Type, _Option, Calls]
+keywords: [cgcloud__Data_Type_Option__c, Stores, item, picklist, flexible, API, 54.0, cgcloud, _Data, _Type, _Option]
 ---
-
-# cgcloud__Data_Type_Option__c
 
 > Stores the item (picklist item) of a flexible data type. This
       object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: last-day-in-the-week-month-quarter-or-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.073Z
+lastCollected: 2026-04-07T18:37:00.620Z
 estimatedTokens: 620
-keywords: [Day, Week, Month, Quarter, Year, date, Usage, _last, _day, fiscal, _week, _month, _quarter, _year]
+keywords: [Day, Week, Month, Quarter, Year, date, _last, _day, fiscal, _week, _month, _quarter, _year]
 ---
-
-# Last Day in the Week, Month, Quarter, or Year
 
 > Returns the date of the last day in the specified week, month, quarter, or
         year.

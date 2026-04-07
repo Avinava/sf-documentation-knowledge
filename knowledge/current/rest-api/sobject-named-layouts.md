@@ -5,12 +5,10 @@ topic: sobject-named-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.086Z
+lastCollected: 2026-04-07T18:36:21.315Z
 estimatedTokens: 279
-keywords: [sObject, Named, Layouts, Retrieves, alternate, resource, REST, API, version, 31.0, later]
+keywords: [sObject, Named, Layouts, Retrieves, alternate, resource, REST, API, 31.0]
 ---
-
-# sObject Named Layouts
 
 > Retrieves information about alternate named layouts for a given
 			object. This resource is available in REST API version 31.0 and later.

@@ -5,12 +5,10 @@ topic: loanapplicant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.043Z
+lastCollected: 2026-04-07T18:39:46.599Z
 estimatedTokens: 745
-keywords: [LoanApplicant, borrower, co-borrower, loan, application, API, version, 47.0, later]
+keywords: [LoanApplicant, borrower, co-borrower, loan, application, API, 47.0]
 ---
-
-# LoanApplicant
 
 > Represents details of the borrower or co-borrower for the loan
 			application. This object is available in API version 47.0 and later.

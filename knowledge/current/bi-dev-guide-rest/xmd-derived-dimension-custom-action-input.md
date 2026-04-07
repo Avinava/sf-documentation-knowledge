@@ -5,12 +5,10 @@ topic: xmd-derived-dimension-custom-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.811Z
+lastCollected: 2026-04-07T18:36:55.223Z
 estimatedTokens: 94
-keywords: [Xmd, Derived, Dimension, Custom, Action, Input]
+keywords: [Xmd, Derived, Dimension, Action]
 ---
-
-# Xmd Derived Dimension Custom Action Input
 
 > A custom action for an Xmd derived dimension.
 

@@ -5,12 +5,10 @@ topic: static-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.910Z
+lastCollected: 2026-04-07T18:37:02.459Z
 estimatedTokens: 516
-keywords: [Functions, specialized, template, rules, Function, math, pow, min, max>, round, sfdc, _fma, checkInteger, checkBoolean, checkDate]
+keywords: [Functions, specialized, template, Function, math, pow, min, max>, round, sfdc, _fma, checkInteger, checkBoolean, checkDate]
 ---
-
-# Static Functions
 
 > Static functions have specialized use in template rules.
 

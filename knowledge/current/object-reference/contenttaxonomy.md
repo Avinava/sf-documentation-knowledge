@@ -5,12 +5,10 @@ topic: contenttaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.728Z
+lastCollected: 2026-04-07T18:38:28.639Z
 estimatedTokens: 620
-keywords: [ContentTaxonomy, content, taxonomy, classify, organize, Salesforce, CMS, hierarchy, terms, addition, ContentTaxonomyTerm, ContentTaxonomyRelatedTerm, ContentTaxonomyTermRelatedTerm, objects, API]
+keywords: [ContentTaxonomy, content, taxonomy, classify, organize, Salesforce, CMS, hierarchy, terms, addition, ContentTaxonomyTerm, ContentTaxonomyRelatedTerm, ContentTaxonomyTermRelatedTerm, API, 63.0]
 ---
-
-# ContentTaxonomy
 
 > Represents a content taxonomy, which is used to classify and organize
          Salesforce CMS content. To create a hierarchy of terms in a content taxonomy, use this

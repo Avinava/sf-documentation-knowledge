@@ -5,12 +5,10 @@ topic: topics-opt-out-from-knowledgeable-people-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.951Z
+lastCollected: 2026-04-07T18:37:16.025Z
 estimatedTokens: 280
 keywords: [Topics, Opt, Knowledgeable, People, Topic, hiding, yourself, show, again]
 ---
-
-# Topics, Opt Out from Knowledgeable People List
 
 > Topic opt
 out. After hiding yourself from the Knowledgeable People list, show

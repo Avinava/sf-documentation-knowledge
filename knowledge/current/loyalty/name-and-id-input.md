@@ -5,12 +5,10 @@ topic: name-and-id-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.098Z
+lastCollected: 2026-04-07T18:38:07.312Z
 estimatedTokens: 86
-keywords: [Input, representation, object’s]
+keywords: [object’s]
 ---
-
-# Name and ID Input
 
 > Input representation of an object’s name and ID.
 

@@ -5,12 +5,10 @@ topic: platformcachepartition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.901Z
+lastCollected: 2026-04-07T18:36:28.440Z
 estimatedTokens: 881
-keywords: [PlatformCachePartition, partition, Platform, Cache, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [PlatformCachePartition, PlatformCachePartitionType, partition, Platform, Cache, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PlatformCachePartition
 
 > Represents a partition in the Platform Cache. This type extends 
     the Metadata metadata type and inherits its fullName field.

@@ -5,12 +5,10 @@ topic: useraccountmanager-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.345Z
+lastCollected: 2026-04-07T18:40:26.650Z
 estimatedTokens: 286
-keywords: [UserAccountManager, access, authenticated, accounts, add, new, log, switch]
+keywords: [UserAccountManager, authenticated, accounts, add, new, log, switch]
 ---
-
-# UserAccountManager Class
 
 > The UserAccountManager class provides methods to access authenticated accounts, add new
 accounts, log out existing accounts, and switch between existing accounts.

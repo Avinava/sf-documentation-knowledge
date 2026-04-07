@@ -5,12 +5,10 @@ topic: core-concept-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:01:57.538Z
+lastCollected: 2026-04-07T18:35:42.417Z
 estimatedTokens: 1624
-keywords: [Core, Concept, Examples, illustrate, Constraint, Modeling, Language, CML, concepts, including, relationships, constraints, Regex, Variable, Key]
+keywords: [Core, Concept, Examples, illustrate, Constraint, Modeling, Language, CML, concepts, including, relationships, constraints, Regex, Variable, Key, Technical, Groupby, Annotation, Virtual, Group, Sharingcount, Reuse, Accessory, Instances, contextPath, tagName, Annotations, Specifiers, Dates, Arithmetic, Calculations, Functions, Considerations, Aggregations]
 ---
-
-# Core Concept Examples
 
 > These examples illustrate core Constraint Modeling Language (CML) concepts including
     type, relationships, constraints, and so on.

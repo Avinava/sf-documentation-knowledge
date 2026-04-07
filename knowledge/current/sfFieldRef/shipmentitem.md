@@ -5,12 +5,10 @@ topic: shipmentitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.415Z
+lastCollected: 2026-04-07T18:40:02.118Z
 estimatedTokens: 391
-keywords: [ShipmentItem, order, item, included, shipment, API, version, 51.0, later]
+keywords: [ShipmentItem, order, item, included, shipment, API, 51.0]
 ---
-
-# ShipmentItem
 
 > Represents an order item included in a shipment. This object is available
     in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: prediction-definition-model-cards-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.577Z
+lastCollected: 2026-04-07T18:36:59.073Z
 estimatedTokens: 176
 keywords: [Prediction, Definition, Model, Cards, Resource, card, Einstein, Discovery]
 ---
-
-# Prediction Definition Model Cards Resource
 
 > Returns a model card for an Einstein Discovery prediction definition.
 

@@ -5,12 +5,10 @@ topic: cgcloudconditionsearchrulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.698Z
+lastCollected: 2026-04-07T18:39:13.109Z
 estimatedTokens: 916
-keywords: [cgcloud__Condition_Search_Rule__c, Holds, attributes, Condition, Search, Rule, API, version, 55.0, later, cgcloud, _Condition, _Search, _Rule, Calls]
+keywords: [cgcloud__Condition_Search_Rule__c, Holds, attributes, Condition, Search, Rule, API, 55.0, cgcloud, _Condition, _Search, _Rule]
 ---
-
-# cgcloud__Condition_Search_Rule__c
 
 > Holds the attributes of Condition Search Rule. This object is available
       in API version 55.0 and later.

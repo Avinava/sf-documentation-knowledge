@@ -5,12 +5,10 @@ topic: lightningusagebyflexipagemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.239Z
+lastCollected: 2026-04-07T18:38:34.441Z
 estimatedTokens: 200
-keywords: [LightningUsageByFlexiPageMetrics, custom, pages, users, viewed, frequently, Lightning, Experience, API, version, 43.0, later, Calls, Special, Access]
+keywords: [LightningUsageByFlexiPageMetrics, pages, users, viewed, frequently, Lightning, Experience, API, 43.0]
 ---
-
-# LightningUsageByFlexiPageMetrics
 
 > Represents custom pages users viewed most frequently in Lightning
 			Experience. This object is available in API version 43.0 and later.

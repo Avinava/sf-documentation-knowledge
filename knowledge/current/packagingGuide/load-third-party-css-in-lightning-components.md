@@ -5,12 +5,10 @@ topic: load-third-party-css-in-lightning-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.505Z
+lastCollected: 2026-04-07T18:38:47.455Z
 estimatedTokens: 402
-keywords: [Load, Third-Party, CSS, Lightning, Components, Include, cascading, style, sheets, resources, rather, loading, third, party, Aura]
+keywords: [Load, Third-Party, CSS, Lightning, Include, cascading, style, sheets, resources, rather, loading, third, party, Aura]
 ---
-
-# Load Third-Party CSS in Lightning Components
 
 > Include cascading style sheets (CSS) and other resources in static resources rather
     than loading from a third party.

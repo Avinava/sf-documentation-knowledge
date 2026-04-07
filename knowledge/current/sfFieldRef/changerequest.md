@@ -5,12 +5,10 @@ topic: changerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.186Z
+lastCollected: 2026-04-07T18:39:33.590Z
 estimatedTokens: 592
-keywords: [ChangeRequest, decision, implement, formal, change, RFC, API, version, 53.0, later]
+keywords: [ChangeRequest, decision, implement, formal, change, RFC, API, 53.0]
 ---
-
-# ChangeRequest
 
 > Represents a decision to implement a formal request for a change (RFC).
       This object is available in API version 53.0 and later.

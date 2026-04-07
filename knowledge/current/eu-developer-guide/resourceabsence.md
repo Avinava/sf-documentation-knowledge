@@ -5,12 +5,10 @@ topic: resourceabsence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.571Z
+lastCollected: 2026-04-07T18:37:32.813Z
 estimatedTokens: 232
-keywords: [ResourceAbsence, associated, time, period, service, resource, unavailable, work, API, version, 64.0, later, Calls]
+keywords: [ResourceAbsence, time, period, service, resource, unavailable, work, API, 64.0]
 ---
-
-# ResourceAbsence
 
 > Fields associated with a time period in which a service resource is
          unavailable to work in Field Service. This object is available in API version 64.0 and

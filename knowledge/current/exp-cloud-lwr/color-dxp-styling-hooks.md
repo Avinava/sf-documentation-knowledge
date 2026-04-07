@@ -5,12 +5,10 @@ topic: color---dxp-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:45.848Z
+lastCollected: 2026-04-07T18:37:33.137Z
 estimatedTokens: 1345
-keywords: [Color, --dxp, Styling, Hooks, Experience, Builder, Colors, tab, divided, families, specific, case, along, scale, possible]
+keywords: [Root, Brand, Success, Destructive, Info, Neutral, Color, --dxp, Styling, Hooks, Experience, Builder, Colors, tab, divided, families, specific, case, along, scale, possible, adjust, entire, any, defined, subsequently, derived, mapped, individual, base, Considerations]
 ---
-
-# Color --dxp Styling Hooks
 
 > In Experience Builder, the Colors tab is divided into families of colors that each have
     a specific use case along with a scale of possible values. With these properties, you can adjust

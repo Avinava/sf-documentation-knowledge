@@ -6,13 +6,10 @@ topic: obtain-processes-that-subscribe-to-a-platform-event-in-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.185Z
+lastCollected: 2026-04-07T18:38:57.994Z
 estimatedTokens: 120
 keywords: [Obtain, Processes, Subscribe, Platform, Event, Metadata, API, retrieve, subscribed]
 ---
-
-# Obtain Processes That Subscribe to a Platform Event in Metadata
-      API
 
 > Use Metadata API to retrieve all processes subscribed to a platform
       event.

@@ -5,12 +5,10 @@ topic: commerce-search-index-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.566Z
+lastCollected: 2026-04-07T18:37:17.641Z
 estimatedTokens: 98
 keywords: [Commerce, Search, Index, Collection, indexes]
 ---
-
-# Commerce Search Index Collection
 
 > Collection of indexes.
 

@@ -5,12 +5,10 @@ topic: mobsecuritycertpinevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.618Z
+lastCollected: 2026-04-07T18:38:35.885Z
 estimatedTokens: 485
-keywords: [MobSecurityCertPinEvent, event, mobile, security, certificate, pinning, Salesforce, app, Enhanced, API, version, 53.0, later, Calls, Special]
+keywords: [MobSecurityCertPinEvent, event, mobile, security, certificate, pinning, Salesforce, app, Enhanced, API, 53.0]
 ---
-
-# MobSecurityCertPinEvent
 
 > The event of mobile security certificate pinning on the Salesforce
          mobile app with Enhanced Mobile Security. This object is available in API version 53.0

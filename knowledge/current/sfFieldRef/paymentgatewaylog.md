@@ -5,12 +5,10 @@ topic: paymentgatewaylog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.400Z
+lastCollected: 2026-04-07T18:39:52.905Z
 estimatedTokens: 642
-keywords: [PaymentGatewayLog, Stores, exchanged, Salesforce, payments, platform, external, payment, gateways, Gateway, logs, record, payloads, entities, API]
+keywords: [PaymentGatewayLog, Stores, exchanged, Salesforce, payments, platform, external, payment, gateways, Gateway, logs, record, payloads, entities, API, 48.0]
 ---
-
-# PaymentGatewayLog
 
 > Stores information exchanged between the Salesforce payments platform and
       external payment gateways. Gateway logs can also record payloads from external payment

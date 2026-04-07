@@ -5,13 +5,11 @@ topic: serviceresourceschedulehandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.312Z
+lastCollected: 2026-04-07T18:39:20.010Z
 estimatedTokens: 649
 namespace: LxScheduler
-keywords: [ServiceResourceScheduleHandler, implementing, check, external, calendar, events, already, booked, time, slots, requested, service, resources, part, Salesforce]
+keywords: [ServiceResourceScheduleHandler, implementing, check, external, calendar, events, already, booked, time, slots, requested, service, resources, part, Salesforce, Scheduler, getUnavailableTimeslots, var1, Implementation]
 ---
-
-# ServiceResourceScheduleHandler Interface
 
 > Allows an implementing class to check external calendar events to find
       already booked time slots for the requested service resources. This interface is part of

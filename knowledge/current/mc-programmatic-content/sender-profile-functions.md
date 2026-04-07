@@ -5,12 +5,10 @@ topic: sender-profile-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.490Z
+lastCollected: 2026-04-07T18:40:23.928Z
 estimatedTokens: 198
-keywords: [Sender, Profile, Functions, allow, access, control, profiles, Marketing, Cloud, account, work, landing, pages, cannot, function]
+keywords: [Load, Initialization, Sender, Profile, Functions, allow, control, profiles, Marketing, Cloud, account, work, landing, pages, cannot, function, email, messages, send, time]
 ---
-
-# Sender Profile Functions
 
 > These functions allow you to access and control sender profiles within your Marketing Cloud account. These functions work only with landing pages and cannot function in email messages at send time.
 

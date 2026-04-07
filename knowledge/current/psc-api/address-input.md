@@ -5,12 +5,10 @@ topic: address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.704Z
+lastCollected: 2026-04-07T18:39:00.834Z
 estimatedTokens: 180
-keywords: [Address, Input, representation, account, party, relationship, group]
+keywords: [Address, account, party, relationship, group]
 ---
-
-# Address Input
 
 > Input representation of an account address or a party relationship
       group address.

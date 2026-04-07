@@ -5,12 +5,10 @@ topic: publish-event-messages-with-salesforce-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.374Z
+lastCollected: 2026-04-07T18:38:58.226Z
 estimatedTokens: 1010
-keywords: [Publish, Event, Messages, Salesforce, APIs, External, apps, API, platform, Status, Code, Asynchronous, Publishing, REST, Composite]
+keywords: [Publish, Event, Messages, Salesforce, APIs, External, apps, API, platform, Status, Code, Asynchronous, Publishing, REST, Composite, Resource, SOAP]
 ---
-
-# Publish Event Messages with Salesforce APIs
 
 > External apps use an API to publish platform event
         messages.

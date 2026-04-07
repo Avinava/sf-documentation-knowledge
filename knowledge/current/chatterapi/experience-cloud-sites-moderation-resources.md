@@ -5,12 +5,10 @@ topic: experience-cloud-sites-moderation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.939Z
+lastCollected: 2026-04-07T18:37:12.839Z
 estimatedTokens: 1412
-keywords: [Experience, Cloud, Sites, Moderation, Resources, whether, user, flagged, file, inappropriate, flags, files, audit, statistics, site]
+keywords: [Experience, Cloud, Sites, Moderation, Resources, whether, user, flagged, file, inappropriate, flags, files, audit, statistics, site, Flags​]
 ---
-
-# Experience Cloud Sites Moderation Resources
 
 > Get information about whether a user has flagged a file as inappropriate. Delete flags on
         files. Get audit statistics for a user in an Experience Cloud site.

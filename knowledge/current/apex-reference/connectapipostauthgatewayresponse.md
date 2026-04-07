@@ -5,12 +5,10 @@ topic: connectapipostauthgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.584Z
+lastCollected: 2026-04-07T18:36:10.862Z
 estimatedTokens: 176
 keywords: [ConnectApi.PostAuthGatewayResponse, Gateway, confirmation, merchant, ready, capture, payment, pre-authorized, transaction]
 ---
-
-# ConnectApi.PostAuthGatewayResponse
 
 > Gateway response after confirmation that the merchant is ready to capture
       payment of an existing pre-authorized transaction.

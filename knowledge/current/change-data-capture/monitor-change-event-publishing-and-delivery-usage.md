@@ -5,12 +5,10 @@ topic: monitor-change-event-publishing-and-delivery-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:18.625Z
+lastCollected: 2026-04-07T18:37:05.374Z
 estimatedTokens: 1825
-keywords: [Monitor, Change, Event, Publishing, Delivery, Usage, data, CometD, Pub, Sub, API, clients, empApi, Lightning, components]
+keywords: [Monitor, Change, Event, Publishing, Delivery, CometD, Pub, Sub, API, clients, empApi, Lightning, relays, query, PlatformEventUsageMetric, 58.0, enable, Enhanced, Metrics, granular, various, time, segments, isn’t, enabled, hours, ending, hour, historical, daily, 50.0, Obtain, General, Considerations]
 ---
-
-# Monitor Change Event Publishing and Delivery Usage
 
 > To get usage data for event publishing and delivery to CometD and Pub/Sub API clients,
    empApi Lightning components, and event relays, query the

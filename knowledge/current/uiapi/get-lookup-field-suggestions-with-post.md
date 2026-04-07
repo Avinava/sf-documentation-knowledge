@@ -5,12 +5,10 @@ topic: get-lookup-field-suggestions-with-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.162Z
+lastCollected: 2026-04-07T18:40:11.153Z
 estimatedTokens: 1916
-keywords: [Lookup, Suggestions, POST, user, edits, resource, search, display, recently, matches, matching, any, match, searchable, specify]
+keywords: [Lookup, Suggestions, POST, user, edits, resource, search, display, recently, matches, matching, any, match, searchable, specify, dependent, filters, `sourceRecord`]
 ---
-
-# Get Lookup Field Suggestions With POST
 
 > When a user edits a lookup field, use this resource to search for
       and display suggestions. You can search for most recently used matches, for matching names, or

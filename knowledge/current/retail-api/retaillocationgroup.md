@@ -5,12 +5,10 @@ topic: retaillocationgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.380Z
+lastCollected: 2026-04-07T18:39:15.913Z
 estimatedTokens: 545
-keywords: [RetailLocationGroup, Group, retail, stores, shared, features, size, location, part, chain, API, version, 47.0, later, Calls]
+keywords: [RetailLocationGroup, Group, retail, stores, shared, features, size, location, part, chain, API, 47.0]
 ---
-
-# RetailLocationGroup
 
 > Group retail stores based on shared features, such as size, location, part of a
       retail chain. This object is available in API version 47.0 and later.

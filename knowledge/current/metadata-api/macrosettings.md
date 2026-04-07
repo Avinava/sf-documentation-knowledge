@@ -5,12 +5,10 @@ topic: macrosettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.870Z
+lastCollected: 2026-04-07T18:36:27.408Z
 estimatedTokens: 573
-keywords: [MacroSettings, organization’s, Macro, settings, whether, folders, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [MacroSettings, organization’s, Macro, settings, whether, folders, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MacroSettings
 
 > Represents an organization’s Macro settings, such as whether or not
             folders is enabled.

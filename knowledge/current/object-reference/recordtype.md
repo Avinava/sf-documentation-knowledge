@@ -5,12 +5,10 @@ topic: recordtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.217Z
+lastCollected: 2026-04-07T18:38:39.795Z
 estimatedTokens: 1176
-keywords: [RecordType, record, Calls, Usage]
+keywords: [RecordType, record]
 ---
-
-# RecordType
 
 > Represents a record type.
 

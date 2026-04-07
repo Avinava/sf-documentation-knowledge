@@ -5,12 +5,10 @@ topic: userlocationassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.866Z
+lastCollected: 2026-04-07T18:38:43.635Z
 estimatedTokens: 344
-keywords: [UserLocationAssignment, assignment, location, user, API, version, 57.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [UserLocationAssignment, assignment, location, user, API, 57.0]
 ---
-
-# UserLocationAssignment
 
 > Represents the assignment between a location and a user. This object
 		is available in API version 57.0 and later.

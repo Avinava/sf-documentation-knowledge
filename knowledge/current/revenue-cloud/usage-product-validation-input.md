@@ -5,12 +5,10 @@ topic: usage-product-validation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.095Z
+lastCollected: 2026-04-07T18:35:44.050Z
 estimatedTokens: 148
-keywords: [Usage, Product, Validation, Input, representation]
+keywords: [Product, Validation]
 ---
-
-# Usage Product Validation Input
 
 > Input representation of the usage product validation request.
 

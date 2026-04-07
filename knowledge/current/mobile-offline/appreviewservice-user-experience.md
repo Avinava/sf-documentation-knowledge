@@ -5,12 +5,10 @@ topic: appreviewservice-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.018Z
+lastCollected: 2026-04-07T18:38:15.533Z
 estimatedTokens: 178
-keywords: [AppReviewService, User, Experience, component, deliver, any, desire]
+keywords: [AppReviewService, User, Experience, deliver, any, desire]
 ---
-
-# AppReviewService User Experience
 
 > Your component can deliver any user experience you desire.
 

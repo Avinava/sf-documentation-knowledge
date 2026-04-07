@@ -5,12 +5,10 @@ topic: original-denial-medical-director-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.922Z
+lastCollected: 2026-04-07T18:37:40.914Z
 estimatedTokens: 86
-keywords: [Original, Denial, Medical, Director, Input, denied]
+keywords: [Original, Denial, Medical, Director, denied]
 ---
-
-# Original Denial Medical Director Input
 
 > The name of the medical director who denied the original
       request.

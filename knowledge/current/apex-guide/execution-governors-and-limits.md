@@ -5,13 +5,11 @@ topic: execution-governors-and-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.559Z
+lastCollected: 2026-04-07T18:36:17.792Z
 estimatedTokens: 6608
 namespace: ConnectApi
-keywords: [Execution, Governors, Limits, Because, Apex, runs, multitenant, environment, runtime, engine, strictly, enforces, runaway, code, processes]
+keywords: [Execution, Governors, Limits, Because, Apex, runs, multitenant, environment, runtime, engine, strictly, enforces, runaway, code, processes, don’t, monopolize, shared, resources, exceeds, limit, governor, issues, exception, can’t, handled, Per-Transaction, Certified, Managed, Package, Lightning, Platform, Size-Specific, Miscellaneous, Email, Push, Notification]
 ---
-
-# Execution Governors and Limits
 
 > Because
       Apex runs in a multitenant environment, the Apex runtime engine strictly enforces limits so

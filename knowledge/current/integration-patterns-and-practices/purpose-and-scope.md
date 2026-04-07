@@ -5,12 +5,10 @@ topic: purpose-and-scope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.277Z
+lastCollected: 2026-04-07T18:37:53.574Z
 estimatedTokens: 339
-keywords: [Purpose, Scope, document, designers, architects, integrate, Lightning, Platform, applications, their, enterprise, content, distillation, successful, implementations]
+keywords: [Purpose, Scope, document, designers, architects, integrate, Lightning, Platform, applications, their, enterprise, content, distillation, successful, implementations, Salesforce, partners]
 ---
-
-# Purpose and Scope
 
 > This document is for designers and architects who need to
     integrate the Lightning Platform with other applications in their enterprise. This content is a

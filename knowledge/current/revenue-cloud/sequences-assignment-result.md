@@ -5,12 +5,10 @@ topic: sequences-assignment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.754Z
+lastCollected: 2026-04-07T18:35:46.718Z
 estimatedTokens: 218
-keywords: [Sequences, Assignment, Result, Output, representation, assigned, sequence, target, objects]
+keywords: [Sequences, Assignment, Result, assigned, sequence, target]
 ---
-
-# Sequences Assignment Result
 
 > Output representation of the details of the assigned sequence values to target
     objects.

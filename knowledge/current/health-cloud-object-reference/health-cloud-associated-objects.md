@@ -5,12 +5,10 @@ topic: health-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.831Z
+lastCollected: 2026-04-07T18:37:45.219Z
 estimatedTokens: 158
-keywords: [Health, Cloud, Associated, Objects, standard, their]
+keywords: [Health, Cloud, standard, their]
 ---
-
-# Health Cloud Associated Objects
 
 > This section provides a list of objects associated to Health Cloud standard objects
         with their standard fields.

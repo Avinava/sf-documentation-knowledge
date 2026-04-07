@@ -5,12 +5,10 @@ topic: test-harness-sobjects-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.627Z
+lastCollected: 2026-04-07T18:38:15.111Z
 estimatedTokens: 489
 keywords: [Test, Harness, SObjects, Tab, app, developer-centric, tool, examining, Salesforce, records, actions]
 ---
-
-# Test Harness SObjects Tab
 
 > The SObjects tab of the Test Harness app is a developer-centric tool for examining
   Salesforce records, and the actions available on them.

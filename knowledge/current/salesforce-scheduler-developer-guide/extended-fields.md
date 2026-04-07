@@ -5,12 +5,10 @@ topic: extended-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.571Z
+lastCollected: 2026-04-07T18:39:20.265Z
 estimatedTokens: 93
-keywords: [Extended, Output, representation, Salesforce, Scheduler]
+keywords: [Extended, Salesforce, Scheduler]
 ---
-
-# Extended Fields
 
 > Output representation of the extended fields for Salesforce
       Scheduler.

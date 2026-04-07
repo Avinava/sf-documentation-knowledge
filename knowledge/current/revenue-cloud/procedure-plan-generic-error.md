@@ -5,12 +5,10 @@ topic: procedure-plan-generic-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.340Z
+lastCollected: 2026-04-07T18:35:46.269Z
 estimatedTokens: 103
-keywords: [Procedure, Plan, Generic, Error, Output, representation, definitions]
+keywords: [Procedure, Plan, Generic, Error, definitions]
 ---
-
-# Procedure Plan Generic Error
 
 > Output representation of the error details related to the procedure plan
     definitions.

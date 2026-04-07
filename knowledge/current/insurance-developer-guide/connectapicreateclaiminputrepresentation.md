@@ -5,12 +5,10 @@ topic: connectapicreateclaiminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.840Z
+lastCollected: 2026-04-07T18:37:49.711Z
 estimatedTokens: 421
-keywords: [Input, representation, Claim, action]
+keywords: [Claim, action]
 ---
-
-# ConnectApi.CreateClaimInputRepresentation
 
 > Input representation for the Create Claim action.
 

@@ -5,12 +5,10 @@ topic: create-a-sender-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.052Z
+lastCollected: 2026-04-07T18:40:16.197Z
 estimatedTokens: 1051
-keywords: [Sender, Profile, specify, email, message, fallback, address, reused, over, several, having, individual, elements, again, verified]
+keywords: [Sender, Profile, specify, email, message, fallback, address, reused, over, several, having, individual, again, verified, verify, Sample, NET, Code, SOAP, Envelope, Items]
 ---
-
-# Create a Sender Profile
 
 > You can use a sender profile to specify the From information of an email message and a fallback address. This From information can then be reused over several email sends without having to specify the individual elements again. The fallback address must be a verified email address. To verify email a
 

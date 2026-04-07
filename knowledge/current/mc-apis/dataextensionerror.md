@@ -5,12 +5,10 @@ topic: dataextensionerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.252Z
+lastCollected: 2026-04-07T18:40:16.392Z
 estimatedTokens: 139
-keywords: [DataExtensionError, error, messages, creating, updating, data, extensions]
+keywords: [DataExtensionError, error, messages, creating, updating, extensions]
 ---
-
-# DataExtensionError
 
 > The DataExtensionError object specifies error messages related to creating or updating data extensions and related fields.
 

@@ -5,12 +5,10 @@ topic: conversation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.000Z
+lastCollected: 2026-04-07T18:38:28.909Z
 estimatedTokens: 395
-keywords: [Conversation, end, user, agent, API, version, 49.0, later, Calls]
+keywords: [Conversation, end, user, agent, API, 49.0]
 ---
-
-# Conversation
 
 > Represents a conversation between an end user and an agent.
       Available in API version 49.0 and later.

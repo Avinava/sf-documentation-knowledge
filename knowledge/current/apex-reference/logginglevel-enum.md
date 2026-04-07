@@ -5,12 +5,10 @@ topic: logginglevel-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.412Z
+lastCollected: 2026-04-07T18:36:12.710Z
 estimatedTokens: 324
-keywords: [LoggingLevel, logging, level, System.debug, Usage]
+keywords: [LoggingLevel, logging, level, System.debug]
 ---
-
-# LoggingLevel Enum
 
 > Specifies the logging level for the System.debug method.
 

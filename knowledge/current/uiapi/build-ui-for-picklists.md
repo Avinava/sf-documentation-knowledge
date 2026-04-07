@@ -5,12 +5,10 @@ topic: build-ui-for-picklists
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.574Z
+lastCollected: 2026-04-07T18:40:10.547Z
 estimatedTokens: 2235
 keywords: [Build, Picklists, User, API, resources, easy, client, dependent, Check, Picklist, Record, Viewer, Sample, App]
 ---
-
-# Build UI for Picklists
 
 > User Interface API exposes properties and resources that make it
       easy for a client to build picklists and dependent picklists.

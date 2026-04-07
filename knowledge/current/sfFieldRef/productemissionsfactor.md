@@ -5,12 +5,10 @@ topic: productemissionsfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.151Z
+lastCollected: 2026-04-07T18:39:55.724Z
 estimatedTokens: 437
 keywords: [ProductEmissionsFactor, emissions, factors, quantifying, product, supply-chain]
 ---
-
-# ProductEmissionsFactor
 
 > Represents information about the emissions factors used in quantifying the
          emissions by a product in the supply-chain.

@@ -5,12 +5,10 @@ topic: gift-transaction-designations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.026Z
+lastCollected: 2026-04-07T18:38:20.770Z
 estimatedTokens: 183
-keywords: [Gift, Transaction, Designations, associated, campaign, commitment, opportunity]
+keywords: [Gift, Transaction, Designations, campaign, commitment, opportunity]
 ---
-
-# Gift Transaction Designations
 
 > Get designations associated with a gift transaction, campaign, commitment, or
     opportunity.

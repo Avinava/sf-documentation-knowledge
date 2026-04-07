@@ -5,12 +5,10 @@ topic: memberplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.182Z
+lastCollected: 2026-04-07T18:39:48.640Z
 estimatedTokens: 613
 keywords: [MemberPlan, insurance, coverage, member, subscriber]
 ---
-
-# MemberPlan
 
 > Represents details about the insurance coverage for a member or
 			subscriber.

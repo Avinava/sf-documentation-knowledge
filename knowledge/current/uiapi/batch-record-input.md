@@ -5,12 +5,10 @@ topic: batch-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.694Z
+lastCollected: 2026-04-07T18:40:10.672Z
 estimatedTokens: 139
-keywords: [Batch, Record, Input, multiple, operations, records]
+keywords: [Batch, Record, multiple, operations, records]
 ---
-
-# Batch Record Input
 
 > A description of multiple operations for a request to create, update, or delete a batch
     of records.

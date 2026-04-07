@@ -5,12 +5,10 @@ topic: ai-accelerator-predictions-api-using-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.813Z
+lastCollected: 2026-04-07T18:36:35.284Z
 estimatedTokens: 136
-keywords: [Accelerator, Predictions, API, Apex, exposed, access, invoke, realtime, prediction, results]
+keywords: [Accelerator, Predictions, API, Apex, exposed, invoke, realtime, prediction, results]
 ---
-
-# AI Accelerator Predictions API Using Apex
 
 > This AI Accelerator Predictions API is also exposed to Apex. You can
             access/invoke this API from within your Apex class to get realtime prediction

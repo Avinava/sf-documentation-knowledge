@@ -8,15 +8,10 @@ topic: batch-invoices-draft-to-posted-status-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.187Z
+lastCollected: 2026-04-07T18:35:44.137Z
 estimatedTokens: 244
 keywords: [Batch, Invoices, Draft, Posted, Status, POST, credit, memo, application]
 ---
-
-# Batch
-    Invoices
-    Draft to
-    Posted Status (POST)
 
 > Update a batch of invoices from Draft to Posted status for a credit memo
       application.

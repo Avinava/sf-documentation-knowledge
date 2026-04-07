@@ -5,12 +5,10 @@ topic: refund-instructions-hint-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.276Z
+lastCollected: 2026-04-07T18:37:09.998Z
 estimatedTokens: 213
-keywords: [Refund, Instructions, Hint, Input, payment, credit, sequence, provide, optimal, processing]
+keywords: [Refund, Instructions, Hint, payment, credit, sequence, provide, optimal, processing]
 ---
-
-# Refund Instructions Hint Input
 
 > The payment credit sequence, credit types, and refund sequence that provide information
     for optimal refund processing.

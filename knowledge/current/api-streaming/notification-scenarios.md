@@ -5,12 +5,10 @@ topic: notification-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.140Z
+lastCollected: 2026-04-07T18:36:51.464Z
 estimatedTokens: 421
 keywords: [Notification, Scenarios, PushTopic, record, generate, notifications]
 ---
-
-# Notification Scenarios
 
 > Following is a list of example scenarios and the field values you
 need in a PushTopic record to generate notifications.

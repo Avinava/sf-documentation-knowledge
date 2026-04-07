@@ -5,12 +5,10 @@ topic: discovery-framework-api-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.261Z
+lastCollected: 2026-04-07T18:39:03.448Z
 estimatedTokens: 360
 keywords: [Discovery, Framework, API, Requests, Here’s, Document, Decision, bodies]
 ---
-
-# Discovery Framework API Requests
 
 > Here’s the list of the Discovery Framework Document Decision API request
     bodies.

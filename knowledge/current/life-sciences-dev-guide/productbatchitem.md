@@ -5,12 +5,10 @@ topic: productbatchitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.323Z
+lastCollected: 2026-04-07T18:38:01.113Z
 estimatedTokens: 854
-keywords: [ProductBatchItem, product, items, batch, API, version, 65.0, later, Calls]
+keywords: [ProductBatchItem, product, items, batch, API, 65.0]
 ---
-
-# ProductBatchItem
 
 > Represents the details about the product items in each batch. This
       object is available in API version 65.0 and later.

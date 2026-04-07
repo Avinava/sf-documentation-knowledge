@@ -5,12 +5,10 @@ topic: actionerror-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.222Z
+lastCollected: 2026-04-07T18:36:12.506Z
 estimatedTokens: 166
 keywords: [ActionError, error, occurred, execution, actionable, notification]
 ---
-
-# ActionError Enum
 
 > Specifies the error that occurred during the execution of an actionable notification.
 

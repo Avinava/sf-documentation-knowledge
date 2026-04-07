@@ -5,12 +5,10 @@ topic: standard-design-tokens-for-experience-builder-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.600Z
+lastCollected: 2026-04-07T18:38:05.819Z
 estimatedTokens: 1211
-keywords: [Standard, Design, Tokens, Experience, Builder, Sites, subset, components, compatible, Theme, panel, administrators, quickly, style, entire]
+keywords: [Standard, Design, Tokens, Experience, Builder, Sites, subset, compatible, Theme, panel, administrators, quickly, style, entire, site, maps, administrator, updates, system, automatically, any, Lightning, branding]
 ---
-
-# Standard Design Tokens for Experience Builder Sites
 
 > Use a subset of the standard design tokens to make your components compatible with the
   Theme panel in Experience Builder. The Theme panel enables administrators to quickly style an

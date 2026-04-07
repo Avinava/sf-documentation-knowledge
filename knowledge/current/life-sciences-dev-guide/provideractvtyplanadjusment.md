@@ -5,12 +5,10 @@ topic: provideractvtyplanadjusment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:11.525Z
+lastCollected: 2026-04-07T18:38:01.382Z
 estimatedTokens: 1363
-keywords: [ProviderActvtyPlanAdjusment, adjustment, requests, activity, plan, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ProviderActvtyPlanAdjusment, adjustment, requests, activity, plan, API, 65.0]
 ---
-
-# ProviderActvtyPlanAdjusment
 
 > Represents the details of the adjustment requests for an activity
          plan. This object is available in API version 65.0 and later.

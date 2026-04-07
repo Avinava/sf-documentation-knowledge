@@ -5,12 +5,10 @@ topic: asyncapexjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:34.000Z
+lastCollected: 2026-04-07T18:39:27.987Z
 estimatedTokens: 407
 keywords: [AsyncApexJob, individual, Apex, sharing, recalculation, job, batch, future, annotation, implements, Queueable, Schedulable, query, jobs, organization]
 ---
-
-# AsyncApexJob
 
 > Represents an individual Apex sharing
     recalculation job, a batch Apex job, a method with the future annotation, or a job that implements Queueable or Schedulable. Use this

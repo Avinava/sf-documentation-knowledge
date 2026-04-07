@@ -5,12 +5,10 @@ topic: generate-policy-limits-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.009Z
+lastCollected: 2026-04-07T18:37:52.134Z
 estimatedTokens: 124
-keywords: [Generate, Policy, Limits, Output, representation, created, insurance, limit, records]
+keywords: [Generate, Policy, Limits, created, insurance, limit, records]
 ---
-
-# Generate Policy Limits Response
 
 > Output representation for the created insurance policy limit records.
 

@@ -5,12 +5,10 @@ topic: download-and-install-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.586Z
+lastCollected: 2026-04-07T18:38:15.063Z
 estimatedTokens: 463
 keywords: [Download, Install, iOS, mobile, development, tools, running, getting, started, Test, Harness, virtual, devices, breeze]
 ---
-
-# Download and Install — iOS
 
 > After your mobile development tools are up and running, getting started with Test
         Harness on iOS virtual devices is a breeze.

@@ -5,12 +5,10 @@ topic: advacctforecastsetuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.248Z
+lastCollected: 2026-04-07T18:38:13.496Z
 estimatedTokens: 458
-keywords: [AdvAcctForecastSetUse, junction, advanced, account, forecast, another, whose, record, serves, context, generating, forecasts, manufacturing, program, Sustainability]
+keywords: [AdvAcctForecastSetUse, junction, advanced, account, forecast, another, whose, record, serves, context, generating, forecasts, manufacturing, program, Sustainability, Cloud, object’s, API, 55.0]
 ---
-
-# AdvAcctForecastSetUse
 
 > Represents a junction between an advanced account forecast set and another object whose record serves as the context for generating forecasts. For example, a
 			manufacturing program or a Sustainability Cloud object’s record can be the context for generating forecasts. This object is available in API version 55.0 and later.

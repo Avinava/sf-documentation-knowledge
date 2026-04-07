@@ -5,12 +5,10 @@ topic: which-package-types-can-your-package-depend-on
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.814Z
+lastCollected: 2026-04-07T18:38:56.399Z
 estimatedTokens: 531
-keywords: [Package, Depend, second-generation, managed, packaging, 2GP, unlocked, let, easily, develop, small, interdependent, packages, share, logic]
+keywords: [Package, Depend, second-generation, managed, packaging, 2GP, unlocked, let, easily, develop, small, interdependent, packages, share, logic, design, app, rely, modular, creation, installation, faster, you’re, less, likely, hit, limits]
 ---
-
-# Which Package Types Can Your Package Depend On?
 
 > Both second-generation managed packaging (managed 2GP) and unlocked packaging let you
   easily develop small interdependent packages and share logic between them. If you design your app

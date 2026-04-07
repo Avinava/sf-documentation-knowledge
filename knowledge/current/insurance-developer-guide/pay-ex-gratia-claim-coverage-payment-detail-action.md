@@ -5,12 +5,10 @@ topic: pay-ex-gratia-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.162Z
+lastCollected: 2026-04-07T18:37:48.895Z
 estimatedTokens: 279
-keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail, Action, Process, payments, record, adjusted, amount, greater, policy, limit]
+keywords: [Inputs, Outputs, Pay, Gratia, Claim, Coverage, Payment, Detail, Action, Process, payments, record, adjusted, amount, greater, policy, limit, count, REST, HTTP]
 ---
-
-# Pay Ex Gratia Claim Coverage Payment Detail Action
 
 > Process ex gratia payments for the claim coverage payment detail record when the
         adjusted amount is greater than the policy limit amount or count or both.

@@ -5,12 +5,10 @@ topic: remind-users-to-complete-mandatory-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.021Z
+lastCollected: 2026-04-07T18:39:17.691Z
 estimatedTokens: 539
 keywords: [Remind, Users, Mandatory, Steps, Highlight, configuring, actions, agents, try, close, flow, that’s, they, reminder, step]
 ---
-
-# Remind Users to Complete Mandatory Steps
 
 > Highlight required steps by configuring them as mandatory actions. When agents try to
     close a  flow that’s mandatory, they see a reminder that the step is required.

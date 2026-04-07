@@ -5,12 +5,10 @@ topic: user-mission-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.534Z
+lastCollected: 2026-04-07T18:37:23.605Z
 estimatedTokens: 285
-keywords: [User, Mission, Activity, associated, missions]
+keywords: [User, Mission, Activity, missions]
 ---
-
-# User Mission Activity
 
 > User activity associated with missions.
 

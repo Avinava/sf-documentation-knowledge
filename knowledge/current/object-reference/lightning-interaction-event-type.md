@@ -5,12 +5,10 @@ topic: lightning-interaction-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.398Z
+lastCollected: 2026-04-07T18:38:31.248Z
 estimatedTokens: 2433
-keywords: [Lightning, Interaction, Event, events, track, user, actions, Experience, Salesforce, mobile, app, clicking, tapping, scrolling, EventLogFile]
+keywords: [Lightning, Interaction, Event, events, track, user, actions, Experience, Salesforce, mobile, app, clicking, tapping, scrolling, EventLogFile, API, 39.0]
 ---
-
-# Lightning Interaction Event Type
 
 > Lightning Interaction events track user actions in Lightning
 			Experience and the Salesforce mobile app, such as the user clicking, tapping, or

@@ -5,12 +5,10 @@ topic: digitalverfsetupdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.244Z
+lastCollected: 2026-04-07T18:39:37.955Z
 estimatedTokens: 385
-keywords: [DigitalVerfSetupDetail, Stores, contextual, digital, verification, setup, user, messages, display, time, API, version, 60.0, later]
+keywords: [DigitalVerfSetupDetail, Stores, contextual, digital, verification, setup, user, messages, display, time, API, 60.0]
 ---
-
-# DigitalVerfSetupDetail
 
 > Stores contextual details of a digital verification setup, such as the user who does
       the verification, and the messages that display at the time of verification. This object is

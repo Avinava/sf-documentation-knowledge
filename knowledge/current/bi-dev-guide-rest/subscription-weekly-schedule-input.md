@@ -5,12 +5,10 @@ topic: subscription-weekly-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.619Z
+lastCollected: 2026-04-07T18:36:54.985Z
 estimatedTokens: 189
-keywords: [Subscription, Weekly, Schedule, Input, execute, Analytics]
+keywords: [Subscription, Weekly, Schedule, execute, Analytics]
 ---
-
-# Subscription Weekly Schedule Input
 
 > The weekly schedule on which to execute an Analytics subscription.
 

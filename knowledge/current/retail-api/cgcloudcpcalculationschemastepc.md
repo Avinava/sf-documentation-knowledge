@@ -5,12 +5,10 @@ topic: cgcloudcpcalculationschemastepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.845Z
+lastCollected: 2026-04-07T18:39:13.259Z
 estimatedTokens: 2215
-keywords: [cgcloud__CP_Calculation_Schema_Step__c, stores, relationship, calculation, schema, pricing, condition, template, that's, steps, belong, API, version, 54.0, later]
+keywords: [cgcloud__CP_Calculation_Schema_Step__c, stores, relationship, calculation, schema, pricing, condition, template, that's, steps, belong, API, 54.0, cgcloud, _CP, _Calculation, _Schema, _Step]
 ---
-
-# cgcloud__CP_Calculation_Schema_Step__c
 
 > This object stores the details of the relationship between
          calculation schema and pricing condition template that's used for the calculation steps

@@ -5,12 +5,10 @@ topic: budgetperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.212Z
+lastCollected: 2026-04-07T18:39:30.397Z
 estimatedTokens: 356
-keywords: [BudgetPeriod, distinct, time, interval, estimate, API, version, 57.0, later]
+keywords: [BudgetPeriod, distinct, time, interval, estimate, API, 57.0]
 ---
-
-# BudgetPeriod
 
 > Defines a distinct time interval in which the estimate applies. This object is available in API version 57.0 and later.
 

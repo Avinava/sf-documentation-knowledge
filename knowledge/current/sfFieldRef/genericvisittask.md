@@ -5,12 +5,10 @@ topic: genericvisittask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.767Z
+lastCollected: 2026-04-07T18:39:42.405Z
 estimatedTokens: 413
 keywords: [GenericVisitTask, task, performed, visit]
 ---
-
-# GenericVisitTask
 
 > Represents information about a task that can be performed during a
          visit.

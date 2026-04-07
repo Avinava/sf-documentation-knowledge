@@ -5,12 +5,10 @@ topic: monthly-specific-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.491Z
+lastCollected: 2026-04-07T18:36:54.851Z
 estimatedTokens: 153
-keywords: [Monthly, Specific, Schedule, Input, Specify, Analytics, asset, days, fixed, numerical, date]
+keywords: [Monthly, Specific, Schedule, Specify, Analytics, asset, days, fixed, numerical, date]
 ---
-
-# Monthly Specific Schedule Input
 
 > Specify a monthly schedule for an Analytics asset where the days are fixed by numerical
   date.

@@ -5,12 +5,10 @@ topic: instant-pricing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.272Z
+lastCollected: 2026-04-07T18:35:44.238Z
 estimatedTokens: 467
-keywords: [Instant, Pricing, POST, Fetch, data, quote, order, line, grid, associated, summary, component, API, offers, capabilities]
+keywords: [Instant, Pricing, POST, Fetch, quote, order, line, grid, summary, API, offers, capabilities, either, context, provided]
 ---
-
-# Instant Pricing (POST)
 
 > Fetch instant pricing data on the quote or order line data grid and
       associated summary component. This API offers capabilities to either create a context or

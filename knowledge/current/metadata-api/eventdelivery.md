@@ -5,12 +5,10 @@ topic: eventdelivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:40.044Z
+lastCollected: 2026-04-07T18:36:25.528Z
 estimatedTokens: 630
-keywords: [EventDelivery, how, event, instance, maps, target, payload, Removed, API, version, 46.0, extends, Metadata, inherits, fullName]
+keywords: [EventDelivery, Limits, EventParameterMap, how, event, instance, maps, target, payload, Removed, API, 46.0, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EventDelivery
 
 > Represents how an event instance maps to a target payload.
     Removed in API version 46.0. This type extends the Metadata metadata type and inherits its 

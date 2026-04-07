@@ -5,12 +5,10 @@ topic: advanced-therapy-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:06.791Z
+lastCollected: 2026-04-07T18:37:56.234Z
 estimatedTokens: 531
-keywords: [Advanced, Therapy, Management, helps, streamline, complex, procedures, involve, multiple, appointments, across, different, locations, Management’s, Multi-Step]
+keywords: [Advanced, Therapy, Management, helps, streamline, complex, procedures, involve, multiple, appointments, across, different, locations, Management’s, Multi-Step, Scheduling, solution, easy, program, participants, Configure, procedure, steps, lead, times, affiliated, service, territories, establish, work, sequentially, performed]
 ---
-
-# Advanced Therapy Management
 
 > Advanced Therapy Management helps streamline complex procedures that involve multiple
   appointments across different locations. Use Advanced Therapy Management’s Multi-Step Scheduling

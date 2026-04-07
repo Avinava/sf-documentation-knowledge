@@ -5,12 +5,10 @@ topic: einstein-visit-recommendation-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.879Z
+lastCollected: 2026-04-07T18:39:11.416Z
 estimatedTokens: 204
-keywords: [Einstein, Visit, Recommendation, Standard, Objects, data, model, contain, requests, recommendations, supports, sales, managers, reps, scheduling]
+keywords: [Einstein, Visit, Recommendation, Standard, model, contain, requests, recommendations, supports, sales, managers, reps, scheduling, visits, right, stores, time]
 ---
-
-# Einstein Visit Recommendation Standard Objects
 
 > Einstein Visit Recommendation data model provides you objects and fields to contain data
   about visit recommendation requests and visit recommendations. Einstein Visit Recommendation

@@ -5,12 +5,10 @@ topic: promotionsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.649Z
+lastCollected: 2026-04-07T18:38:39.140Z
 estimatedTokens: 1194
-keywords: [PromotionSegment, promotion, segment, assign, different, stores, buyer, groups, allowing, access, API, version, 52.0, later, Calls]
+keywords: [PromotionSegment, promotion, segment, assign, different, stores, buyer, groups, allowing, API, 52.0]
 ---
-
-# PromotionSegment
 
 > Represents a promotion segment, which you can assign to different stores or
          buyer groups, allowing them to access the promotion. This object is available in API

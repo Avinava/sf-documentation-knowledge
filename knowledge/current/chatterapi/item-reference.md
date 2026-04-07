@@ -5,12 +5,10 @@ topic: item-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.783Z
+lastCollected: 2026-04-07T18:37:19.935Z
 estimatedTokens: 220
-keywords: [Item, Output, representation, Products, categories, promotion]
+keywords: [Item, Products, categories, promotion]
 ---
-
-# Item Reference
 
 > Output representation of the item reference. Products and categories are supported for
     item reference by a promotion.

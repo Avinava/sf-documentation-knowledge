@@ -5,12 +5,10 @@ topic: oci-release-reservation-single-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.083Z
+lastCollected: 2026-04-07T18:37:21.235Z
 estimatedTokens: 211
-keywords: [OCI, Release, Reservation, Output, released]
+keywords: [OCI, Release, Reservation, released]
 ---
-
-# OCI Release Reservation Single Output
 
 > Details of a single released reservation.
 

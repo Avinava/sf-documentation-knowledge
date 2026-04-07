@@ -5,12 +5,10 @@ topic: commerce-webstore-checkout-place-order-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.502Z
+lastCollected: 2026-04-07T18:37:12.385Z
 estimatedTokens: 331
 keywords: [Commerce, Webstore, Checkout, Place, Order, Action, store]
 ---
-
-# Commerce Webstore Checkout, Place Order Action
 
 > Place an order for a Commerce store checkout.
 

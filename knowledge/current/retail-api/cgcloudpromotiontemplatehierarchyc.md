@@ -5,12 +5,10 @@ topic: cgcloudpromotiontemplatehierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:21.280Z
+lastCollected: 2026-04-07T18:39:14.682Z
 estimatedTokens: 1422
-keywords: [helps, promotion, hierarchies, API, version, 54.0, later, cgcloud, _Promotion, _Template, _Hierarchy, Calls, Associated, Objects]
+keywords: [helps, promotion, hierarchies, API, 54.0, cgcloud, _Promotion, _Template, _Hierarchy]
 ---
-
-# cgcloud__Promotion_Template_Hierarchy__c
 
 > Object that helps create promotion hierarchies. This object is
       available in API version 54.0 and later.

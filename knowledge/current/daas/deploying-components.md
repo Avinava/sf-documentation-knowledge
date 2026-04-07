@@ -5,12 +5,10 @@ topic: deploying-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.963Z
+lastCollected: 2026-04-07T18:37:28.004Z
 estimatedTokens: 162
-keywords: [Deploying, Components, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated]
+keywords: [Deploying, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated, new, functionality, manage, metadata, changes, switch, Salesforce, CLI, modern, developer, experience]
 ---
-
-# Deploying Components
 
 > The Ant Migration Tool is retired with Spring ’24. The tool continues to
     function for future API versions but isn’t updated with new functionality and isn’t supported.

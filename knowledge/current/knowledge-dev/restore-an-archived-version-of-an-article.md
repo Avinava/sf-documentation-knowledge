@@ -5,12 +5,10 @@ topic: restore-an-archived-version-of-an-article
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.592Z
+lastCollected: 2026-04-07T18:37:53.880Z
 estimatedTokens: 208
-keywords: [Restore, Archived, Version, Article, Restores, versionNumber, isn’t, latest]
+keywords: [Restore, Archived, Article, Restores, versionNumber, isn’t, latest]
 ---
-
-# Restore an Archived Version of an Article
 
 > Restores an archived version of the article. If versionNumber
   isn’t specified, restores the latest version of the archived article.

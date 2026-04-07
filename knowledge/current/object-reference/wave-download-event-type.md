@@ -5,12 +5,10 @@ topic: wave-download-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.893Z
+lastCollected: 2026-04-07T18:38:31.774Z
 estimatedTokens: 1036
-keywords: [Wave, Download, Event, events, represent, downloads, made, lens, explorations, dashboard, widgets, CRM, Analytics, user, captured]
+keywords: [Wave, Download, Event, events, represent, downloads, made, lens, explorations, dashboard, widgets, CRM, Analytics, user, captured, images, png, Microsoft®, Excel®, xls, comma-separated, csv, files]
 ---
-
-# Wave Download Event Type
 
 > Wave Download events represent downloads made from lens explorations
          and dashboard widgets in the CRM Analytics user interface. A Wave Download event type is

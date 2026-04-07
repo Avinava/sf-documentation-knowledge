@@ -5,12 +5,10 @@ topic: blngusagesummaryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.624Z
+lastCollected: 2026-04-07T18:37:04.245Z
 estimatedTokens: 3093
-keywords: [blng__UsageSummary__c, total, quantity, usages, date, ranges, including, usage, records, blng, _UsageSummary, Calls]
+keywords: [blng__UsageSummary__c, total, quantity, usages, date, ranges, including, records, blng, _UsageSummary]
 ---
-
-# blng__UsageSummary__c
 
 > Represents the total quantity and value of related usages, and the date
          ranges for including usage records.

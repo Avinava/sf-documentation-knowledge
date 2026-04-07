@@ -5,12 +5,10 @@ topic: content-areas-within-template-and-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.953Z
+lastCollected: 2026-04-07T18:40:22.338Z
 estimatedTokens: 122
 keywords: [Content, Areas, Template, Layout, Language, uses, slots, blocks, containers, templates, layouts, Review, markup, Sample]
 ---
-
-# Content Areas Within Template and Layout
 
 > Guide Template Language uses slots and blocks as containers for content areas within templates and layouts. Review this information to use these containers within your markup.
 

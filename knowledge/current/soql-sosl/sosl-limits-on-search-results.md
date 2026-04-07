@@ -5,12 +5,10 @@ topic: sosl-limits-on-search-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.308Z
+lastCollected: 2026-04-07T18:40:10.284Z
 estimatedTokens: 753
-keywords: [SOSL, Limits, Search, Results, engine, number, records, analyzed, stage, process, Sometimes, cause, matching, record, excluded]
+keywords: [SOSL, Limits, Search, Results, engine, number, records, analyzed, stage, process, Sometimes, cause, matching, record, excluded, user’s]
 ---
-
-# SOSL Limits on Search Results
 
 > The search engine limits the number of records analyzed at each stage of the search
 		process. Sometimes, these limits cause a matching record to be excluded from a user’s

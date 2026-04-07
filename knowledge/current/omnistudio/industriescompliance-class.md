@@ -5,13 +5,11 @@ topic: industriescompliance-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.912Z
+lastCollected: 2026-04-07T18:36:35.390Z
 estimatedTokens: 166
 namespace: ConnectApi
 keywords: [IndustriesCompliance, Evaluate, compliance, procedure, business, context]
 ---
-
-# IndustriesCompliance Class
 
 > Evaluate a compliance procedure with a business context by using the
   IndustriesCompliance class.

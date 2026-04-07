@@ -5,12 +5,10 @@ topic: report-source-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.081Z
+lastCollected: 2026-04-07T18:36:57.601Z
 estimatedTokens: 68
-keywords: [Report, Source, Asset, contextual, representation]
+keywords: [Report, Source, Asset, contextual]
 ---
-
-# Report Source Asset
 
 > A contextual representation of a report asset.
 

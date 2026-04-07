@@ -5,12 +5,10 @@ topic: industriesusagesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.453Z
+lastCollected: 2026-04-07T18:35:47.489Z
 estimatedTokens: 513
-keywords: [IndustriesUsageSettings, settings, Usage, Management, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
+keywords: [IndustriesUsageSettings, settings, Management, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# IndustriesUsageSettings
 
 > Represents the settings for Usage Management.
 

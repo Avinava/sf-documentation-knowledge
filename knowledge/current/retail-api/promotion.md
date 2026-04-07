@@ -5,12 +5,10 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.996Z
+lastCollected: 2026-04-07T18:39:11.548Z
 estimatedTokens: 892
-keywords: [Promotion, loadPromotionDefaults2, **setPromotionAnchor2**, **setPromotionDates2**, **applyPromotionDateHandling2**, **setPromotionCategories2**, **setPromotionSubAccounts2**, **setPromotionParticipatingCustomers2**, promotional, activities, either, part, campaign, isolated, targeted, promotions, run, retail, stores, API]
+keywords: [Promotion, loadPromotionDefaults2, **setPromotionAnchor2**, **setPromotionDates2**, **applyPromotionDateHandling2**, **setPromotionCategories2**, **setPromotionSubAccounts2**, **setPromotionParticipatingCustomers2**, promotional, activities, either, part, campaign, isolated, targeted, promotions, run, retail, stores, API, 47.0, document, Workflow, Step, provided, core, mapValues, loadPromotionBOForCopy2, loadTacticsLOForCopy2, loadCategoryShareLO2, loadPromotionAttachmentsForCopy2]
 ---
-
-# Promotion
 
 > Create promotional activities that are either part of a campaign or isolated
       targeted promotions to run at retail stores. This object is available in API version 47.0

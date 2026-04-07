@@ -5,12 +5,10 @@ topic: chatter-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.648Z
+lastCollected: 2026-04-07T18:37:11.438Z
 estimatedTokens: 216
 keywords: [Chatter, Extensions]
 ---
-
-# Chatter Extensions
 
 > Get extensions.
 

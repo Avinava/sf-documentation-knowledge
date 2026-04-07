@@ -5,12 +5,10 @@ topic: workplantemplateentryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.072Z
+lastCollected: 2026-04-07T18:40:06.984Z
 estimatedTokens: 272
-keywords: [WorkPlanTemplateEntryHistory, History, tracked, WorkPlanTemplateEntry]
+keywords: [WorkPlanTemplateEntryHistory, tracked, WorkPlanTemplateEntry]
 ---
-
-# WorkPlanTemplateEntryHistory
 
 > History for tracked fields of WorkPlanTemplateEntry.
 

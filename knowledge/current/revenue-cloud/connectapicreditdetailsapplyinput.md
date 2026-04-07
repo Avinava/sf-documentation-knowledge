@@ -5,12 +5,10 @@ topic: connectapicreditdetailsapplyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.576Z
+lastCollected: 2026-04-07T18:35:41.437Z
 estimatedTokens: 173
-keywords: [ConnectApi.CreditDetailsApplyInput, Input, representation, specify, applications, apply, credit, memo, line, application, representing, invoice]
+keywords: [ConnectApi.CreditDetailsApplyInput, specify, applications, apply, credit, memo, line, application, representing, invoice]
 ---
-
-# ConnectApi.CreditDetailsApplyInput
 
 > Input representation of the request to specify one or more applications to apply a credit
     memo line for, with each application representing an invoice line.

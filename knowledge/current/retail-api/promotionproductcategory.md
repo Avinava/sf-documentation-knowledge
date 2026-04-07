@@ -5,12 +5,10 @@ topic: promotionproductcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.331Z
+lastCollected: 2026-04-07T18:39:15.863Z
 estimatedTokens: 482
-keywords: [PromotionProductCategory, Associate, promotional, activity, product, category, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [PromotionProductCategory, Associate, promotional, activity, product, category, API, 47.0]
 ---
-
-# PromotionProductCategory
 
 > Associate a promotional activity with a product category. This object is
     available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: modify-appointments-to-reassign-to-actual-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.392Z
+lastCollected: 2026-04-07T18:39:21.204Z
 estimatedTokens: 460
-keywords: [Modify, Appointments, Reassign, Actual, Resources, Retrieve, show, service, scheduled, against, dummy, resource, Branch, managers, administrators]
+keywords: [Modify, Appointments, Reassign, Actual, Resources, Retrieve, show, service, scheduled, against, dummy, resource, Branch, managers, administrators, retrieved]
 ---
-
-# Modify Appointments to Reassign to Actual Resources
 
 > Retrieve and show the service appointments scheduled against the dummy
       resource. Branch managers or administrators can reassign the retrieved appointments to the

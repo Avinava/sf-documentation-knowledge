@@ -5,12 +5,10 @@ topic: loginevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:06.506Z
+lastCollected: 2026-04-07T18:38:59.394Z
 estimatedTokens: 5104
-keywords: [LoginEvent, tracks, login, activity, users, log, Salesforce, transaction, security, policy, big, stores, event, data, LoginEventStream]
+keywords: [LoginEvent, tracks, login, activity, users, log, Salesforce, transaction, security, policy, big, stores, event, LoginEventStream, API, 36.0, Working, AdditionalInfo, How, Pass, Additional, HTTP, cURL, Java, Standard, SOQL]
 ---
-
-# LoginEvent
 
 > LoginEvent tracks the login activity of users who log in to
 			Salesforce. You can use LoginEvent in a transaction security policy. LoginEvent is

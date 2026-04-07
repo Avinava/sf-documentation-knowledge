@@ -5,12 +5,10 @@ topic: moderation-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.597Z
+lastCollected: 2026-04-07T18:37:20.779Z
 estimatedTokens: 172
-keywords: [Moderation, Capability, feed, element, users, Experience, Cloud, site, flag, includes, flagged, content]
+keywords: [Moderation, Capability, users, Experience, Cloud, site, flag, includes, flagged, content]
 ---
-
-# Moderation Capability
 
 > If a feed element has this capability, users in the Experience Cloud
       site can flag the feed element for moderation. This response body also includes information

@@ -5,12 +5,10 @@ topic: schedule-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.550Z
+lastCollected: 2026-04-07T18:36:54.914Z
 estimatedTokens: 175
-keywords: [Schedule, Input, base, Analytics]
+keywords: [Schedule, base, Analytics]
 ---
-
-# Schedule Details Input
 
 > The base Analytics schedule details.
 

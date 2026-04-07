@@ -5,12 +5,10 @@ topic: medicationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.920Z
+lastCollected: 2026-04-07T18:39:48.372Z
 estimatedTokens: 257
-keywords: [MedicationHistory, History, tracked, Medication]
+keywords: [MedicationHistory, tracked, Medication]
 ---
-
-# MedicationHistory
 
 > History for tracked fields of Medication.
 

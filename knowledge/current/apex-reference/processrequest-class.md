@@ -5,13 +5,11 @@ topic: processrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.773Z
+lastCollected: 2026-04-07T18:35:59.044Z
 estimatedTokens: 818
 namespace: Approval
-keywords: [ProcessRequest, parent, ProcessSubmitRequest, ProcessWorkitemRequest, classes, write, generic, Apex, process, objects, either, Usage, getComments, getNextApproverIds, setComments]
+keywords: [ProcessRequest, parent, ProcessSubmitRequest, ProcessWorkitemRequest, classes, write, generic, Apex, process, either, getComments, getNextApproverIds, setComments, comments, setNextApproverIds, nextApproverIds]
 ---
-
-# ProcessRequest Class
 
 > The ProcessRequest class is the parent class
         for the ProcessSubmitRequest and ProcessWorkitemRequest classes. Use the ProcessRequest class to write generic Apex that can

@@ -5,12 +5,10 @@ topic: filterpart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.892Z
+lastCollected: 2026-04-07T18:40:17.042Z
 estimatedTokens: 108
-keywords: [FilterPart, abstract, base, filters, including, objects]
+keywords: [FilterPart, abstract, base, filters, including]
 ---
-
-# FilterPart
 
 > The FilterPart object is an abstract base class for filters, including objects such as the following:
 

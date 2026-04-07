@@ -5,12 +5,10 @@ topic: invoice-ingestion-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.459Z
+lastCollected: 2026-04-07T18:35:43.361Z
 estimatedTokens: 348
-keywords: [Invoice, Ingestion, Input, representation, processed, include, tax, processing, status, user, preferences, callouts, associated, graph]
+keywords: [Invoice, Ingestion, processed, include, tax, processing, status, user, preferences, callouts, graph]
 ---
-
-# Invoice Ingestion Input
 
 > Input representation of the details of the invoice to be processed. The details include
     the tax processing status, user preferences for tax callouts, and associated object graph

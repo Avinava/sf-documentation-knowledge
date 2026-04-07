@@ -5,12 +5,10 @@ topic: getcompleteresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.124Z
+lastCollected: 2026-04-07T18:38:48.073Z
 estimatedTokens: 80
 keywords: [getCompleteResult, whether, there, records, maximum, record, limit, process, controller]
 ---
-
-# getCompleteResult()
 
 > Indicates whether there are more records in the set than
 the maximum record limit. If this is false, there are more records

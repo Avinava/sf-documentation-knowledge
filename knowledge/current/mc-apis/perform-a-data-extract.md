@@ -5,12 +5,10 @@ topic: perform-a-data-extract
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.989Z
+lastCollected: 2026-04-07T18:40:16.132Z
 estimatedTokens: 5496
-keywords: [Perform, Data, Extract, performing, SOAP, API, Why, How, Tracking, Activity, Sample, NET, Code, PHP, Java]
+keywords: [Perform, Extract, performing, SOAP, API, Why, How, Activity, Sample, NET, Code, PHP, Java, Axis, 1.4, Envelope, Extension, Items]
 ---
-
-# Perform a Data Extract
 
 > This page contains information  about performing a data extract using the SOAP API.
 

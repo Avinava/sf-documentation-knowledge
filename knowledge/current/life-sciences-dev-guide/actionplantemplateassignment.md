@@ -5,12 +5,10 @@ topic: actionplantemplateassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.354Z
+lastCollected: 2026-04-07T18:37:58.902Z
 estimatedTokens: 722
-keywords: [ActionPlanTemplateAssignment, association, action, plan, template, care, goal, problem, definition, instantiated, generates, corresponding, intervention, tasks, links]
+keywords: [ActionPlanTemplateAssignment, association, action, plan, template, care, goal, problem, definition, instantiated, generates, corresponding, intervention, tasks, links, appropriate, record, condition]
 ---
-
-# ActionPlanTemplateAssignment
 
 > Represents the association of an action plan template with its related care plan
     template, goal, or problem definition. When instantiated, the action plan generates the

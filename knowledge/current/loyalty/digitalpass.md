@@ -5,12 +5,10 @@ topic: digitalpass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.634Z
+lastCollected: 2026-04-07T18:38:09.952Z
 estimatedTokens: 1507
-keywords: [DigitalPass, user-facing, representation, generated, digital, pass, template, specific, relevant, data, membership, number, voucher, making, unique]
+keywords: [DigitalPass, user-facing, generated, digital, pass, template, specific, relevant, membership, number, voucher, making, unique, user, optionally, stored, mobile, wallet, API, 66.0]
 ---
-
-# DigitalPass
 
 > Represents a user-facing representation generated from a digital pass
          template. It contains specific, relevant data, such as a membership number or voucher

@@ -5,12 +5,10 @@ topic: clone-mobile-sdk-for-ios-github-repository
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.371Z
+lastCollected: 2026-04-07T18:38:09.662Z
 estimatedTokens: 244
-keywords: [Clone, Mobile, SDK, iOS, GitHub, Repository, copy, code, base, revision, history, local, computer]
+keywords: [Clone, Mobile, SDK, iOS, GitHub, Repository, copy, code, base, revision, local, computer]
 ---
-
-# Clone Mobile SDK for iOS GitHub Repository
 
 > Clone the GitHub repository to copy the code base and revision history of the repository
   to your local computer.

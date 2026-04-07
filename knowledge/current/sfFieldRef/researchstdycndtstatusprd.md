@@ -5,12 +5,10 @@ topic: researchstdycndtstatusprd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.184Z
+lastCollected: 2026-04-07T18:39:59.872Z
 estimatedTokens: 358
-keywords: [ResearchStdyCndtStatusPrd, time, duration, research, study, candidate, assigned, specific, status, API, version, 61.0, later]
+keywords: [ResearchStdyCndtStatusPrd, time, duration, research, study, candidate, assigned, specific, status, API, 61.0]
 ---
-
-# ResearchStdyCndtStatusPrd
 
 > Represents the time duration during which a research study candidate is
          assigned a specific status. This object is available in API version 61.0 and

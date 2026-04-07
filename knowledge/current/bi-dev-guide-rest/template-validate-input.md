@@ -5,12 +5,10 @@ topic: template-validate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.640Z
+lastCollected: 2026-04-07T18:36:55.006Z
 estimatedTokens: 137
-keywords: [Template, Validate, Input, Analytics]
+keywords: [Template, Validate, Analytics]
 ---
-
-# Template Validate Input
 
 > The input to validate an Analytics template.
 

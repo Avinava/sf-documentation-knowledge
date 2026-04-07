@@ -5,12 +5,10 @@ topic: manage-schedule-and-run-recipes-with-rest-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.311Z
+lastCollected: 2026-04-07T18:39:17.988Z
 estimatedTokens: 1863
-keywords: [Manage, Schedule, Run, Recipes, REST, APIs, Salesforce, Connect, API, work, automate, Discover, revert, recipe, versions]
+keywords: [Manage, Schedule, Run, Recipes, REST, APIs, Salesforce, Connect, API, work, automate, Discover, revert, recipe, versions, Describe, Inspect, Nodes, Histories, Notifications]
 ---
-
-# Manage, Schedule, and Run Recipes with REST APIs
 
 > Use the Salesforce Connect REST API to work with and automate recipes. Discover your
         existing recipes, revert recipe versions, and schedule and run

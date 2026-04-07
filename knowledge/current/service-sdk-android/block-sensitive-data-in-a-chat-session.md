@@ -5,12 +5,10 @@ topic: block-sensitive-data-in-a-chat-session
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.684Z
+lastCollected: 2026-04-07T18:40:27.829Z
 estimatedTokens: 338
-keywords: [Block, Sensitive, Data, Chat, Session, sending, agents, specify, regular, expression, org's, setup, matches, text, user's]
+keywords: [Block, Sensitive, Chat, Session, sending, agents, specify, regular, expression, org's, setup, matches, text, user's, message, matched, replaced, customizable, leaves, device]
 ---
-
-# Block Sensitive Data in a Chat Session
 
 > To block sending sensitive data to agents, specify a regular expression in your org's
         setup. When the regular expression matches text in the user's message, the matched text is

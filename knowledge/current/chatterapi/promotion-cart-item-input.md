@@ -5,12 +5,10 @@ topic: promotion-cart-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.115Z
+lastCollected: 2026-04-07T18:37:09.830Z
 estimatedTokens: 710
-keywords: [Promotion, Cart, Item, Input, evaluation]
+keywords: [Promotion, Cart, Item, evaluation]
 ---
-
-# Promotion Cart Item Input
 
 > Item in a cart during promotion evaluation.
 

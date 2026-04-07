@@ -5,12 +5,10 @@ topic: load-connected-dataset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.700Z
+lastCollected: 2026-04-07T18:39:18.402Z
 estimatedTokens: 192
-keywords: [Load, Connected, Dataset, Input]
+keywords: [Load, Connected, Dataset]
 ---
-
-# Load Connected Dataset Input
 
 > A connected dataset to load.
 

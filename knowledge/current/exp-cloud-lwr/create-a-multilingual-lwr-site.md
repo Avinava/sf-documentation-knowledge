@@ -5,12 +5,10 @@ topic: create-a-multilingual-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.155Z
+lastCollected: 2026-04-07T18:37:33.523Z
 estimatedTokens: 2231
-keywords: [Multilingual, LWR, Site, Deliver, content, visitors, languages, they, prefer, reach, new, audiences, translate, Salesforce, supports]
+keywords: [Multilingual, LWR, Site, Deliver, content, visitors, languages, they, prefer, reach, new, audiences, translate, Salesforce, supports, offer, Limitations, Sites]
 ---
-
-# Create a Multilingual LWR Site
 
 > Deliver content to your site visitors in the languages that they prefer, and reach new
   audiences in new languages. You can translate your LWR site into languages that Salesforce

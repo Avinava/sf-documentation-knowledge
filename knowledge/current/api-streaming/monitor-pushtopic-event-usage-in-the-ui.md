@@ -5,12 +5,10 @@ topic: monitor-pushtopic-event-usage-in-the-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.334Z
+lastCollected: 2026-04-07T18:36:51.675Z
 estimatedTokens: 195
-keywords: [Monitor, PushTopic, Event, Usage, API, version, 36.0, earlier, Streaming, daily, events, Company, Setup]
+keywords: [Monitor, PushTopic, Event, API, 36.0, earlier, Streaming, daily, events, Company, Setup]
 ---
-
-# Monitor PushTopic Event Usage in the UI
 
 > When using API version 36.0 and earlier, you can monitor Streaming API daily event
         usage for PushTopic events on the Company Information page in Setup.

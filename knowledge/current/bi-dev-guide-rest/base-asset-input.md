@@ -5,12 +5,10 @@ topic: base-asset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.230Z
+lastCollected: 2026-04-07T18:36:54.590Z
 estimatedTokens: 259
-keywords: [Base, Asset, Input, Analytics]
+keywords: [Base, Asset, Analytics]
 ---
-
-# Base Asset Input
 
 > The base Analytics asset input.
 

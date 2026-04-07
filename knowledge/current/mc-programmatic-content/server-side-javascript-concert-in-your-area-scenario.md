@@ -5,12 +5,10 @@ topic: server-side-javascript-concert-in-your-area-scenario
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.494Z
+lastCollected: 2026-04-07T18:40:22.921Z
 estimatedTokens: 316
-keywords: [Server-Side, JavaScript, Concert, Area, Scenario, demonstrates, how, conjunction, data, extensions, send, email, message, subscribers, concerts]
+keywords: [Server-Side, JavaScript, Concert, Area, Scenario, demonstrates, how, conjunction, extensions, send, email, message, subscribers, concerts, occurring, their, contents, depend, subscriber's, stated, genre, performances, Download, file, containing, sample, Relationships]
 ---
-
-# Server-Side JavaScript Concert in Your Area Scenario
 
 > This information demonstrates how to use server-side JavaScript in conjunction with data extensions to send an email message to subscribers about concerts occurring in their area. The contents of the email depend on the subscriber's stated genre performances. Download a file containing the sample co
 

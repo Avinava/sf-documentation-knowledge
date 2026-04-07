@@ -5,12 +5,10 @@ topic: assessmenthelperfunction-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.377Z
+lastCollected: 2026-04-07T18:37:33.807Z
 estimatedTokens: 182
-keywords: [AssessmentHelperFunction, callable, provide, helper, functions, assessment, data, complaint, management]
+keywords: [AssessmentHelperFunction, callable, provide, helper, functions, assessment, complaint, management]
 ---
-
-# AssessmentHelperFunction Class
 
 > Use the callable AssessmentHelperFunction class to provide helper
       functions for assessment data to use in complaint management.

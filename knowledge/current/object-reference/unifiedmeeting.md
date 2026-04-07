@@ -5,12 +5,10 @@ topic: unifiedmeeting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.392Z
+lastCollected: 2026-04-07T18:38:43.137Z
 estimatedTokens: 604
-keywords: [UnifiedMeeting, meeting, captured, synced, Event, record, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access]
+keywords: [UnifiedMeeting, meeting, captured, synced, Event, record, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedMeeting
 
 > Represents a meeting that was captured or synced from an Event record.
       This object is available for reports and dashboards in the Winter ’24 release and

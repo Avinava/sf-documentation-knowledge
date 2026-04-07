@@ -5,12 +5,10 @@ topic: filesearchactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.434Z
+lastCollected: 2026-04-07T18:38:32.416Z
 estimatedTokens: 457
-keywords: [FileSearchActivity, search, activity, file, API, version, 38.0, later, Calls]
+keywords: [FileSearchActivity, search, activity, file, API, 38.0]
 ---
-
-# FileSearchActivity
 
 > Represents search activity on a file. This object is available in API
       version 38.0 and later.

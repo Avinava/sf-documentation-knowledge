@@ -5,12 +5,10 @@ topic: productavailabilityprojectionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.763Z
+lastCollected: 2026-04-07T18:39:55.329Z
 estimatedTokens: 281
-keywords: [ProductAvailabilityProjectionHistory, History, tracked, ProductAvailabilityProjection]
+keywords: [ProductAvailabilityProjectionHistory, tracked, ProductAvailabilityProjection]
 ---
-
-# ProductAvailabilityProjectionHistory
 
 > History for tracked fields of ProductAvailabilityProjection.
 

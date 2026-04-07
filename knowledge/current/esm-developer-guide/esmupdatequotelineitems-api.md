@@ -5,12 +5,10 @@ topic: esmupdatequotelineitems-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.994Z
+lastCollected: 2026-04-07T18:37:32.168Z
 estimatedTokens: 53
 keywords: [ESM_UpdateQuoteLineItems, API, quote, line, item, child, items, ESM, _UpdateQuoteLineItems, URI, HTTP]
 ---
-
-# ESM_UpdateQuoteLineItems API
 
 > Update a quote line item and its related child items with the given set of fields and values.
 

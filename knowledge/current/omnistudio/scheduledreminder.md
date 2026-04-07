@@ -5,12 +5,10 @@ topic: scheduledreminder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.503Z
+lastCollected: 2026-04-07T18:36:45.260Z
 estimatedTokens: 220
-keywords: [ScheduledReminder, reminder, schedule, API, version, 60.0, later, Calls]
+keywords: [ScheduledReminder, reminder, schedule, API, 60.0]
 ---
-
-# ScheduledReminder
 
 > Represents information about the reminder schedule. This object is
       available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: researchstudyrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.908Z
+lastCollected: 2026-04-07T18:38:01.797Z
 estimatedTokens: 782
-keywords: [ResearchStudyRelation, different, research, studies, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [ResearchStudyRelation, different, research, studies, API, 61.0]
 ---
-
-# ResearchStudyRelation
 
 > Represents different related research studies. This object is available
       in API version 61.0 and later.

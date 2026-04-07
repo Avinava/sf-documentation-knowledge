@@ -5,12 +5,10 @@ topic: response-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.252Z
+lastCollected: 2026-04-07T18:40:15.311Z
 estimatedTokens: 1271
-keywords: [Options, allow, response’s, raw, XML, process, object-oriented, environment, deserialize, web, server, capacity, handle, expected, call]
+keywords: [Retrieve, ResultMessage, ResultItem, Email, Options, allow, response’s, raw, XML, process, object-oriented, environment, deserialize, web, server, capacity, handle, expected, call, volume, attempt, sending, notification, URL, HTTP, Post, Sample, PHP, Result, SOAP, Results]
 ---
-
-# Response Options
 
 > All response options allow you to get your response’s raw XML. To process the XML in an object-oriented environment, deserialize it. Your web server must have the capacity to handle the expected call volume. We make only one attempt at sending the notification to each URL.
 

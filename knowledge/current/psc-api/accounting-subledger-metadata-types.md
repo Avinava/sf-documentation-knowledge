@@ -5,12 +5,10 @@ topic: accounting-subledger-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.014Z
+lastCollected: 2026-04-07T18:38:59.968Z
 estimatedTokens: 308
-keywords: [Accounting, Subledger, Metadata, API, access, feature, settings, customize, user]
+keywords: [Accounting, Subledger, Metadata, API, feature, settings, customize, user]
 ---
-
-# Accounting Subledger Metadata Types
 
 > This section lists metadata types available for use with Accounting
    Subledger. Metadata API enables you to access some types and feature settings that you can

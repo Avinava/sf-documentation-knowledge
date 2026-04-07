@@ -5,12 +5,10 @@ topic: base-subscription-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.251Z
+lastCollected: 2026-04-07T18:36:54.616Z
 estimatedTokens: 238
-keywords: [Base, Subscription, Input]
+keywords: [Base, Subscription]
 ---
-
-# Base Subscription Input
 
 > The base subscription request input.
 

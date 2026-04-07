@@ -5,13 +5,11 @@ topic: consolecomponent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.960Z
+lastCollected: 2026-04-07T18:36:00.245Z
 estimatedTokens: 902
 namespace: Metadata
-keywords: [ConsoleComponent, custom, console, component, layout, Usage, height, location, visualforcePage, width, clone]
+keywords: [ConsoleComponent, console, layout, height, location, visualforcePage, width, clone]
 ---
-
-# ConsoleComponent Class
 
 > Represents a custom console component on a section of a page
       layout.

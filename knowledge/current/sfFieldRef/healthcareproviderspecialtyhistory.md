@@ -5,12 +5,10 @@ topic: healthcareproviderspecialtyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.241Z
+lastCollected: 2026-04-07T18:39:43.871Z
 estimatedTokens: 279
-keywords: [HealthcareProviderSpecialtyHistory, History, tracked, HealthcareProviderSpecialty]
+keywords: [HealthcareProviderSpecialtyHistory, tracked, HealthcareProviderSpecialty]
 ---
-
-# HealthcareProviderSpecialtyHistory
 
 > History for tracked fields of HealthcareProviderSpecialty.
 

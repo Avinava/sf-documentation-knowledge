@@ -5,12 +5,10 @@ topic: connectapirecordalertactioninfocollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.432Z
+lastCollected: 2026-04-07T18:36:35.958Z
 estimatedTokens: 80
-keywords: [Representation, action, record, alert]
+keywords: [action, record, alert]
 ---
-
-# ConnectApi.RecordAlertActionInfoCollection
 
 > Representation of the details of an action on the record
     alert.

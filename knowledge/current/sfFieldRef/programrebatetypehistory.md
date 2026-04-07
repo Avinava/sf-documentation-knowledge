@@ -5,12 +5,10 @@ topic: programrebatetypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.430Z
+lastCollected: 2026-04-07T18:39:56.990Z
 estimatedTokens: 175
-keywords: [ProgramRebateTypeHistory, History, tracked, ProgramRebateType]
+keywords: [ProgramRebateTypeHistory, tracked, ProgramRebateType]
 ---
-
-# ProgramRebateTypeHistory
 
 > History for tracked fields of ProgramRebateType.
 

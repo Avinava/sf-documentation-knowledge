@@ -5,12 +5,10 @@ topic: extended-metadata-xmd-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:16.242Z
+lastCollected: 2026-04-07T18:37:02.808Z
 estimatedTokens: 311
-keywords: [Extended, Metadata, XMD, customize, formatting, dataset, their, CRM, Analytics, dashboards, lenses, modify, every, visualization, uses]
+keywords: [Extended, Metadata, XMD, customize, formatting, dataset, their, CRM, Analytics, dashboards, lenses, modify, every, visualization, uses, modified]
 ---
-
-# Extended Metadata (XMD) Overview
 
 > Extended metadata (XMD) enables you to customize the formatting of dataset fields and
         their values in CRM Analytics dashboards and lenses. If you modify the XMD for a dataset,

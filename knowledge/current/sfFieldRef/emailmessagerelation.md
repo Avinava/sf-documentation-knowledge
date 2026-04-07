@@ -5,12 +5,10 @@ topic: emailmessagerelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.199Z
+lastCollected: 2026-04-07T18:39:38.870Z
 estimatedTokens: 307
-keywords: [EmailMessageRelation, relationship, email, contacts, leads, users, API, version, 37.0, later]
+keywords: [EmailMessageRelation, relationship, email, contacts, leads, users, API, 37.0]
 ---
-
-# EmailMessageRelation
 
 > Represents the relationship
 				between an email and contacts, leads, and users.

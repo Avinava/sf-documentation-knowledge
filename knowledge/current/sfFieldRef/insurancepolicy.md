@@ -5,12 +5,10 @@ topic: insurancepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:50.588Z
+lastCollected: 2026-04-07T18:39:45.148Z
 estimatedTokens: 1831
-keywords: [InsurancePolicy, insurance, policy, API, version, 59.0, later]
+keywords: [InsurancePolicy, insurance, policy, API, 59.0]
 ---
-
-# InsurancePolicy
 
 > Represents a type of insurance policy. This object is available in API
       version 59.0 and later.

@@ -5,12 +5,10 @@ topic: plan-benefit-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.294Z
+lastCollected: 2026-04-07T18:37:51.293Z
 estimatedTokens: 246
-keywords: [Plan, Benefit, Input, benefits, Insurance, Policy, Coverage]
+keywords: [Plan, Benefit, benefits, Insurance, Policy, Coverage]
 ---
-
-# Plan Benefit Update Input
 
 > Represents details of the plan benefits for an Insurance Policy Coverage.
 

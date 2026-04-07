@@ -5,12 +5,10 @@ topic: decision-model-notation-export-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.459Z
+lastCollected: 2026-04-07T18:39:01.611Z
 estimatedTokens: 265
-keywords: [Decision, Model, Notation, Export, POST, matrix, data, file, DMN, easily, readable, business, rules, designed, Management]
+keywords: [Decision, Model, Notation, Export, POST, matrix, file, DMN, easily, readable, business, designed, Management, Group]
 ---
-
-# Decision Model Notation Export (POST)
 
 > Export decision matrix data to a file in the DMN (Decision Model
       Notation) format, an easily readable format for business rules designed by Object Management

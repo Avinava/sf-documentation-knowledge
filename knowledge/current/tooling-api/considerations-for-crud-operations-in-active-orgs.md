@@ -5,12 +5,10 @@ topic: considerations-for-crud-operations-in-active-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:45.851Z
+lastCollected: 2026-04-07T18:36:31.248Z
 estimatedTokens: 137
-keywords: [Considerations, CRUD, Operations, Active, Orgs, Tooling, API, objects, allowed, version, 41.0, later, they, kinds, However]
+keywords: [Considerations, CRUD, Operations, Active, Orgs, Tooling, API, allowed, 41.0, they, kinds, However, performance, reasons, can’t, perform, org]
 ---
-
-# Considerations for CRUD Operations in Active Orgs
 
 > CRUD operations on most Tooling API objects are allowed in active orgs in API version
   41.0 and later, just as they are in other kinds of orgs. However, for performance reasons you

@@ -5,12 +5,10 @@ topic: insurance-policy-limit-current-standings-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.436Z
+lastCollected: 2026-04-07T18:37:51.455Z
 estimatedTokens: 478
-keywords: [Insurance, Policy, Limit, Current, Standings, POST, calculated, consumption, status, applicable, limits, API, retrieves, claim, coverage]
+keywords: [Insurance, Policy, Limit, Current, Standings, POST, calculated, consumption, status, applicable, limits, API, retrieves, claim, coverage, well, participant, asset]
 ---
-
-# Insurance Policy Limit Current Standings (POST)
 
 > Get the calculated current standings (consumption status) for all applicable insurance
   policy limits. This API retrieves standings based on the policy, claim, claim coverage as well as

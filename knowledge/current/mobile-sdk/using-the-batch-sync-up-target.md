@@ -5,12 +5,10 @@ topic: using-the-batch-sync-up-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.176Z
+lastCollected: 2026-04-07T18:40:25.540Z
 estimatedTokens: 332
-keywords: [Batch, Sync, Target, enhance, performance, large, operations, Mobile, SDK, 7.1, introduces, iOS, Native, Android, Hybrid]
+keywords: [Batch, Sync, Target, enhance, performance, large, operations, Mobile, SDK, 7.1, introduces, iOS, Native, Android, Hybrid, React, Config, Files]
 ---
-
-# Using the Batch Sync Up Target
 
 > To enhance performance in large sync up operations, Mobile SDK 7.1 introduces a
   batch sync up target.

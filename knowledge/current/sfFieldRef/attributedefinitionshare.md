@@ -5,12 +5,10 @@ topic: attributedefinitionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.260Z
+lastCollected: 2026-04-07T18:39:28.309Z
 estimatedTokens: 252
 keywords: [AttributeDefinitionShare, Sharing, AttributeDefinition]
 ---
-
-# AttributeDefinitionShare
 
 > Sharing for AttributeDefinition.
 

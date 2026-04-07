@@ -5,12 +5,10 @@ topic: build-a-custom-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.643Z
+lastCollected: 2026-04-07T18:38:50.875Z
 estimatedTokens: 731
-keywords: [Build, Custom, Controller, Apex, uses, no-argument, outer, top-level]
+keywords: [Build, Controller, Apex, uses, no-argument, outer, top-level]
 ---
-
-# Build a Custom Controller
 
 > A custom controller is an Apex class that uses the default,
         no-argument constructor for the outer, top-level class.

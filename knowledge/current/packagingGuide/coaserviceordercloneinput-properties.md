@@ -5,12 +5,10 @@ topic: coaserviceordercloneinput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.693Z
+lastCollected: 2026-04-07T18:38:45.485Z
 estimatedTokens: 138
 keywords: [COA_ServiceOrderCloneInput, COA, _ServiceOrderCloneInput]
 ---
-
-# COA_ServiceOrderCloneInput Properties
 
 > The following are properties for COA_ServiceOrderCloneInput.
 

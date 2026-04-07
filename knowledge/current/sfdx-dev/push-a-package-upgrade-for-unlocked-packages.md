@@ -5,12 +5,10 @@ topic: push-a-package-upgrade-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:13.919Z
+lastCollected: 2026-04-07T18:40:08.904Z
 estimatedTokens: 395
-keywords: [Push, Package, Upgrade, Unlocked, Packages, upgrades, enable, installed, orgs, asking, org, admins, install, themselves, choose]
+keywords: [Push, Package, Upgrade, Unlocked, Packages, upgrades, enable, installed, orgs, asking, org, admins, install, themselves, choose, receive, upgraded, want, occur, particularly, helpful, change, hot, bug, fix, Considerations]
 ---
-
-# Push a Package Upgrade for Unlocked Packages
 
 > Push upgrades enable you to upgrade packages installed in orgs, without asking org
   admins to install the upgrade themselves. You can choose which orgs receive a push upgrade, what

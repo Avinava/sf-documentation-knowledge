@@ -5,12 +5,10 @@ topic: working-with-data-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.072Z
+lastCollected: 2026-04-07T18:36:17.300Z
 estimatedTokens: 569
-keywords: [Working, Data, Apex, add, interact, Lightning, Platform, persistence, layer, sObject, main, holds, objects, You’ll, Manipulation]
+keywords: [Working, Apex, add, interact, Lightning, Platform, persistence, layer, sObject, main, holds, You’ll, Manipulation, Language, DML, work, query, languages, retrieve, among, things]
 ---
-
-# Working with Data in Apex
 
 > You can add and interact with data in the Lightning Platform persistence layer. The
         sObject data type is the main data type that holds data objects. You’ll use Data

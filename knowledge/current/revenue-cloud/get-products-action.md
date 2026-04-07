@@ -5,12 +5,10 @@ topic: get-products-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.128Z
+lastCollected: 2026-04-07T18:35:39.895Z
 estimatedTokens: 1839
-keywords: [Products, Action, catalog, category, subcategory, including, product, qualification, pricing, Special, Access, Rules, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Products, Action, catalog, category, subcategory, including, product, qualification, pricing, REST, HTTP, Apex-Defined, Flow]
 ---
-
-# Get Products Action
 
 > Get products from the specified catalog, category, or subcategory,
 			including product qualification and pricing details.

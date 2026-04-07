@@ -5,12 +5,10 @@ topic: partyphilanthropicassessmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.862Z
+lastCollected: 2026-04-07T18:39:52.283Z
 estimatedTokens: 395
-keywords: [PartyPhilanthropicAssessmentFeed, Feed, tracking, PartyPhilanthropicAssessment]
+keywords: [PartyPhilanthropicAssessmentFeed, PartyPhilanthropicAssessment]
 ---
-
-# PartyPhilanthropicAssessmentFeed
 
 > Feed tracking for PartyPhilanthropicAssessment.
 

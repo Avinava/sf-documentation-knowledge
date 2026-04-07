@@ -5,12 +5,10 @@ topic: bulk-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.480Z
+lastCollected: 2026-04-07T18:36:18.704Z
 estimatedTokens: 185
 keywords: [Bulk, Triggers, process, multiple, records, time, always, plan, processing, record]
 ---
-
-# Bulk Triggers
 
 > All triggers are bulk triggers by default, and can process multiple records at a
    time. You should always plan on processing more than one record at a time.

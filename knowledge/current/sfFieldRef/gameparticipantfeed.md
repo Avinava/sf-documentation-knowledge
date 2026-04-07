@@ -5,12 +5,10 @@ topic: gameparticipantfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.536Z
+lastCollected: 2026-04-07T18:39:42.180Z
 estimatedTokens: 360
-keywords: [GameParticipantFeed, Feed, tracking, GameParticipant]
+keywords: [GameParticipantFeed, GameParticipant]
 ---
-
-# GameParticipantFeed
 
 > Feed tracking for GameParticipant.
 

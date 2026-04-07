@@ -5,12 +5,10 @@ topic: realtimealertevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.770Z
+lastCollected: 2026-04-07T18:38:59.708Z
 estimatedTokens: 461
-keywords: [RealtimeAlertEvent, Notifies, subscribers, Amazon, CloudWatch, alarm, events, Service, Cloud, Voice, Connect, instance, API, version, 54.0]
+keywords: [RealtimeAlertEvent, Notifies, subscribers, Amazon, CloudWatch, alarm, events, Service, Cloud, Voice, Connect, instance, API, 54.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# RealtimeAlertEvent
 
 > Notifies subscribers of Amazon CloudWatch alarm events from your
          Service Cloud Voice Amazon Connect instance. This object is available in API version

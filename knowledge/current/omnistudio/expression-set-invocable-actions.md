@@ -5,12 +5,10 @@ topic: expression-set-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:55.491Z
+lastCollected: 2026-04-07T18:36:41.184Z
 estimatedTokens: 197
 keywords: [Expression, Invocable, Actions, invoke, flow]
 ---
-
-# Expression Set Invocable Actions
 
 > Use actions to invoke Expression Set actions in a flow.
 

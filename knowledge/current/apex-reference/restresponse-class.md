@@ -5,13 +5,11 @@ topic: restresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.014Z
+lastCollected: 2026-04-07T18:36:14.363Z
 estimatedTokens: 1640
 namespace: System
-keywords: [RestResponse, pass, data, Apex, RESTful, Web, service, HTTP, Usage, responseBody, statusCode, Status, Codes, addHeader]
+keywords: [RestResponse, pass, Apex, RESTful, Web, service, HTTP, responseBody, statusCode, Status, Codes, addHeader]
 ---
-
-# RestResponse Class
 
 > Represents an object used to pass data from an Apex
             RESTful Web service method to an HTTP response.

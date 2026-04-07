@@ -5,12 +5,10 @@ topic: products-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.259Z
+lastCollected: 2026-04-07T18:37:26.173Z
 estimatedTokens: 1411
 keywords: [Products, POST, catalog, category, subcategory, API, composite, Product, Discovery]
 ---
-
-# Products List (POST)
 
 > Get a list of products for a specified catalog, category, or
       subcategory. This API is a composite API for Product Discovery.

@@ -5,12 +5,10 @@ topic: cart-to-wishlist-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.830Z
+lastCollected: 2026-04-07T18:37:07.548Z
 estimatedTokens: 83
-keywords: [Cart, Wishlist, Input, Copy, products]
+keywords: [Cart, Wishlist, Copy, products]
 ---
-
-# Cart to Wishlist Input
 
 > Copy products from a cart to a wishlist.
 

@@ -5,13 +5,11 @@ topic: employeeloginlinkcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.265Z
+lastCollected: 2026-04-07T18:36:01.518Z
 estimatedTokens: 83
 namespace: AppLauncher
 keywords: [EmployeeLoginLinkController, internal]
 ---
-
-# EmployeeLoginLinkController Class
 
 > This class and its methods are for internal use
     only.

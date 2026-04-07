@@ -5,12 +5,10 @@ topic: set-up-and-publish-your-partner-telephony-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.699Z
+lastCollected: 2026-04-07T18:40:13.625Z
 estimatedTokens: 681
-keywords: [Publish, Partner, Telephony, Package, started, Service, Cloud, Voice, managed, lets, develop, distribute, resources, needed, integrate]
+keywords: [Publish, Partner, Telephony, Package, started, Service, Cloud, Voice, managed, lets, develop, distribute, resources, needed, integrate, system, enable, org]
 ---
-
-# Set Up and Publish Your Partner Telephony Package
 
 > To get started with Service Cloud Voice for Partner Telephony, set up and publish a
   managed package. This package lets you develop and distribute resources that are needed to

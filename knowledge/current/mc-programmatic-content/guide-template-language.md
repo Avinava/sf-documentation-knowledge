@@ -5,12 +5,10 @@ topic: guide-template-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.077Z
+lastCollected: 2026-04-07T18:40:22.463Z
 estimatedTokens: 257
-keywords: [Template, Language, GTL, declarative, creating, personalized, dynamic, data-driven, messages, Construct, templates, across, channels, layouts, leverages]
+keywords: [Template, Language, GTL, declarative, creating, personalized, dynamic, data-driven, messages, Construct, templates, across, channels, layouts, leverages, widely, adopted, Handlebars, Mustache, languages]
 ---
-
-# Guide Template Language
 
 > Guide Template Language (Guide or GTL) provides a declarative syntax used for creating personalized, dynamic, data-driven messages. Construct templates for use across channels and layouts. Guide Template Language leverages the widely adopted Handlebars and Mustache template languages and provides ad
 

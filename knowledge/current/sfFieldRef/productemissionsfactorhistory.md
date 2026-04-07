@@ -5,12 +5,10 @@ topic: productemissionsfactorhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.170Z
+lastCollected: 2026-04-07T18:39:55.738Z
 estimatedTokens: 273
-keywords: [ProductEmissionsFactorHistory, History, tracked, ProductEmissionsFactor]
+keywords: [ProductEmissionsFactorHistory, tracked, ProductEmissionsFactor]
 ---
-
-# ProductEmissionsFactorHistory
 
 > History for tracked fields of ProductEmissionsFactor.
 

@@ -5,12 +5,10 @@ topic: referral-advocate-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.163Z
+lastCollected: 2026-04-07T18:39:09.483Z
 estimatedTokens: 183
-keywords: [Referral, Advocate, Profile, output, API]
+keywords: [Referral, Advocate, Profile, API]
 ---
-
-# Referral Advocate Profile
 
 > Represents the output for Referral Advocate Profile API.
 

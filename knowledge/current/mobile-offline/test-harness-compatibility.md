@@ -5,12 +5,10 @@ topic: test-harness-compatibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.548Z
+lastCollected: 2026-04-07T18:38:15.029Z
 estimatedTokens: 367
 keywords: [Test, Harness, Compatibility, compatible, multiple, versions, Salesforce, service, features, latest, release, older, Mobile, Device, Platform]
 ---
-
-# Test Harness Compatibility
 
 > Test Harness is compatible with multiple versions of the Salesforce service. Some
     features of Test Harness can only be used with the latest release of Salesforce. Update older

@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.832Z
+lastCollected: 2026-04-07T18:39:17.493Z
 estimatedTokens: 245
 keywords: [Resources, developer, Salesforce, Feedback, Management, SFM, unAuth, APIs, survey, invitation, enable, responses, gather, unauthenticated, participants]
 ---
-
-# Resources
 
 > Use the developer resources for the Salesforce Feedback
       Management (SFM) unAuth Response APIs to create survey invitation, enable survey responses,

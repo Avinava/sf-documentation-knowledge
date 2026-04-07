@@ -5,12 +5,10 @@ topic: retrieve-data-extension-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.111Z
+lastCollected: 2026-04-07T18:40:24.585Z
 estimatedTokens: 909
-keywords: [Retrieve, Data, Extension, Rows, Specify, Ruby, PHP, Python, CSharp, Java, Filtering, Requests]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Extension, Rows, Specify, PHP, Filtering, Requests]
 ---
-
-# Retrieve Data Extension Rows
 
 > Use the Get method to return data from existing data extension rows.
 

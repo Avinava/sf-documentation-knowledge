@@ -5,12 +5,10 @@ topic: customindex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.785Z
+lastCollected: 2026-04-07T18:36:24.130Z
 estimatedTokens: 533
-keywords: [CustomIndex, index, increase, speed, queries.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
+keywords: [CustomIndex, index, increase, speed, queries.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomIndex
 
 > Represents an index used to increase the speed of queries.This type extends the Metadata metadata type and inherits its fullName field.
 

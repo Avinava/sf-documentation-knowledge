@@ -5,12 +5,10 @@ topic: brief
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.840Z
+lastCollected: 2026-04-07T18:38:26.821Z
 estimatedTokens: 814
-keywords: [Brief, marketing, that’s, positioning, grounding, campaign, Agentforce, help, best, fits, goals, requirements, API, version, 61.0]
+keywords: [Brief, marketing, that’s, positioning, grounding, campaign, Agentforce, help, best, fits, goals, requirements, API, 61.0]
 ---
-
-# Brief
 
 > Represents a marketing brief. A brief contains information that’s used for
          positioning and grounding a marketing campaign. Agentforce can help you create a campaign

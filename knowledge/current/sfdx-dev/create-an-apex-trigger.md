@@ -5,12 +5,10 @@ topic: create-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.100Z
+lastCollected: 2026-04-07T18:40:08.053Z
 estimatedTokens: 474
-keywords: [Apex, Trigger, triggers, perform, custom, actions, change, Salesforce, record, insertion, deletion, CLI, local, project, generated]
+keywords: [Apex, Trigger, triggers, perform, actions, change, Salesforce, record, insertion, deletion, CLI, local, project, generated, files, live, directory, package]
 ---
-
-# Create an Apex Trigger
 
 > Use Apex triggers to perform custom actions before or after a change to a Salesforce
   record, such as an insertion, update, or deletion. You can use Salesforce CLI to create Apex

@@ -5,12 +5,10 @@ topic: decision-table-invocation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.404Z
+lastCollected: 2026-04-07T18:36:38.013Z
 estimatedTokens: 232
-keywords: [Decision, Invocation, POST, Invoke, passing, multiple, input, conditions]
+keywords: [Decision, Invocation, POST, Invoke, passing, multiple, conditions]
 ---
-
-# Decision Table Invocation (POST)
 
 > Invoke a decision table by passing multiple input conditions within
       the same request.

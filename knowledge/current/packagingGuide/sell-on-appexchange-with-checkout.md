@@ -5,12 +5,10 @@ topic: sell-on-appexchange-with-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.093Z
+lastCollected: 2026-04-07T18:38:45.933Z
 estimatedTokens: 313
-keywords: [Sell, AppExchange, Checkout, Accept, credit, card, payments, bank, transfers, directly, listing, Transform, sales, revenue, data]
+keywords: [Sell, AppExchange, Checkout, Accept, credit, card, payments, bank, transfers, directly, listing, Transform, sales, revenue, insights, actions, Management, App]
 ---
-
-# Sell on AppExchange with Checkout
 
 > Accept credit card payments and bank transfers directly from your listing with
     AppExchange Checkout. Transform your sales and revenue data into insights and actions with the

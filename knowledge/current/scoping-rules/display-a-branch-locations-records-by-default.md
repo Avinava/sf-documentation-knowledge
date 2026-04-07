@@ -5,12 +5,10 @@ topic: display-a-branch-locations-records-by-default
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.836Z
+lastCollected: 2026-04-07T18:39:21.708Z
 estimatedTokens: 94
-keywords: [Display, Branch, Location’s, Records, scoping, rule, displays, task, associated, particular, bank, location, custom, Branch__c, stores]
+keywords: [Display, Branch, Location’s, Records, scoping, rule, displays, task, particular, bank, location, Branch__c, stores, bank’s, locations, Tooling, API, Metadata]
 ---
-
-# Display a Branch Location’s Records by Default
 
 > This scoping rule displays task records associated with a particular bank branch location
     by default. A custom field called Branch__c stores the bank’s branch locations.

@@ -5,12 +5,10 @@ topic: userconfigtransferskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.202Z
+lastCollected: 2026-04-07T18:40:05.034Z
 estimatedTokens: 312
-keywords: [UserConfigTransferSkill, association, Chat, configuration, skill, users, associated, specific, transfer, chats, agents]
+keywords: [UserConfigTransferSkill, association, Chat, configuration, skill, users, specific, transfer, chats, agents]
 ---
-
-# UserConfigTransferSkill
 
 > Represents the association between a Chat configuration and a skill.
       This association allows users associated with a specific configuration to transfer chats to

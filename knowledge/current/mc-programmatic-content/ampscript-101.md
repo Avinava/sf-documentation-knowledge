@@ -5,12 +5,10 @@ topic: ampscript-101
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.235Z
+lastCollected: 2026-04-07T18:40:21.516Z
 estimatedTokens: 926
 keywords: [AMPscript, scenario, includes, aspects]
 ---
-
-# AMPscript 101
 
 > This scenario includes information on these aspects of using AMPscript:
 

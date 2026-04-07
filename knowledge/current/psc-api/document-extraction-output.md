@@ -5,12 +5,10 @@ topic: document-extraction-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.746Z
+lastCollected: 2026-04-07T18:39:03.873Z
 estimatedTokens: 135
-keywords: [Document, Extraction, Output, representation, status, OCR, scan, result]
+keywords: [Document, Extraction, status, OCR, scan, result]
 ---
-
-# Document Extraction Output
 
 > Output representation of the status and details of the OCR document
    scan result.

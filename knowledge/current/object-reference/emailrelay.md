@@ -5,12 +5,10 @@ topic: emailrelay
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.341Z
+lastCollected: 2026-04-07T18:38:30.171Z
 estimatedTokens: 1206
-keywords: [EmailRelay, configuration, sending, email, relay, routes, sent, Salesforce, company’s, servers, API, version, 43.0, later, Calls]
+keywords: [EmailRelay, configuration, sending, email, relay, routes, sent, Salesforce, company’s, servers, API, 43.0]
 ---
-
-# EmailRelay
 
 > Represents the configuration for sending an email relay. An email
 			relay routes email sent from Salesforce through your company’s email servers. This

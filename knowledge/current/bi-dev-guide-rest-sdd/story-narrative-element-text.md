@@ -5,12 +5,10 @@ topic: story-narrative-element-text
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.611Z
+lastCollected: 2026-04-07T18:37:00.114Z
 estimatedTokens: 230
-keywords: [Story, Narrative, Element, Text]
+keywords: [Story, Narrative, Text]
 ---
-
-# Story Narrative Element Text
 
 > The text element for a story narrative.
 

@@ -5,12 +5,10 @@ topic: carebarrierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.214Z
+lastCollected: 2026-04-07T18:39:31.556Z
 estimatedTokens: 258
-keywords: [CareBarrierHistory, History, tracked, CareBarrier]
+keywords: [CareBarrierHistory, tracked, CareBarrier]
 ---
-
-# CareBarrierHistory
 
 > History for tracked fields of CareBarrier.
 

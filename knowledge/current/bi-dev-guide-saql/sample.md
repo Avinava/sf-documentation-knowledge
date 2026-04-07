@@ -5,12 +5,10 @@ topic: sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.702Z
+lastCollected: 2026-04-07T18:37:01.310Z
 estimatedTokens: 571
-keywords: [sample, random, large, dataset, data, point, equal, probability, selected, keyword, uses, Bernoulli, distribution, Usage, group-by]
+keywords: [sample, random, large, dataset, point, equal, probability, selected, keyword, uses, Bernoulli, distribution, group-by, filter]
 ---
-
-# sample
 
 > Returns a random sample from a large dataset, where each data point has an equal
   probability of being selected. This keyword uses the Bernoulli distribution.

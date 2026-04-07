@@ -5,12 +5,10 @@ topic: deploy-apex-using-devops-center
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.182Z
+lastCollected: 2026-04-07T18:36:17.410Z
 estimatedTokens: 164
-keywords: [Deploy, Apex, DevOps, Center, Salesforce, improved, experience, around, change, release, management, Build, pipeline, configure, promote]
+keywords: [Deploy, Apex, DevOps, Center, Salesforce, improved, experience, around, change, release, management, Build, pipeline, configure, promote, work, items, lifecycle, development, production]
 ---
-
-# Deploy Apex Using DevOps Center
 
 > Salesforce DevOps Center provides an improved experience around change and release
   management. Build a pipeline when you configure DevOps Center and use the pipeline to promote work

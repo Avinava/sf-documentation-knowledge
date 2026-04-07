@@ -5,12 +5,10 @@ topic: queueable-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.109Z
+lastCollected: 2026-04-07T18:36:18.338Z
 estimatedTokens: 3018
-keywords: [Queueable, Apex, Take, control, asynchronous, processes, Salesforce, recommends, instead, future, Queueables, cases, offer, extra, benefits]
+keywords: [Queueable, Apex, Take, control, asynchronous, processes, Salesforce, recommends, instead, future, Queueables, cases, offer, extra, benefits, including, job, IDs, support, non-primitive, chaining, Adding, Execution, Queue, Minimum, Delay, Stack, Depth, Testing, Jobs, Limits]
 ---
-
-# Queueable Apex
 
 > Take control of your asynchronous Apex processes by using the
             Queueable interface. Salesforce recommends that

@@ -5,12 +5,10 @@ topic: events-detail-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.023Z
+lastCollected: 2026-04-07T18:38:07.237Z
 estimatedTokens: 150
-keywords: [Events, Detail, Input, representation, customer, event, eligible, promotion]
+keywords: [Events, Detail, customer, event, eligible, promotion]
 ---
-
-# Events Detail Input
 
 > Input representation details of the customer event that is eligible for the
     promotion.

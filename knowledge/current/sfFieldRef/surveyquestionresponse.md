@@ -5,12 +5,10 @@ topic: surveyquestionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.577Z
+lastCollected: 2026-04-07T18:40:03.266Z
 estimatedTokens: 382
 keywords: [SurveyQuestionResponse, participant’s, answer, specific, question]
 ---
-
-# SurveyQuestionResponse
 
 > Represents a participant’s answer to a specific question.
 

@@ -5,12 +5,10 @@ topic: federated-search-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.557Z
+lastCollected: 2026-04-07T18:40:14.580Z
 estimatedTokens: 786
-keywords: [Federated, Search, Developer, API, connects, Salesforce, connector, external, provider, data, repositories, searched, providers, partnered, provide]
+keywords: [Federated, Search, Developer, API, connects, Salesforce, connector, external, provider, repositories, searched, providers, partnered, provide, service, conforms, Resources]
 ---
-
-# Federated Search Developer Guide
 
 > The Federated Search API connects the Salesforce federated search connector to the
         external search provider. The API enables data from external repositories be searched and

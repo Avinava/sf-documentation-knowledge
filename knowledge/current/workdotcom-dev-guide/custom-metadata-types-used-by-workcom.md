@@ -5,12 +5,10 @@ topic: custom-metadata-types-used-by-workcom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.898Z
+lastCollected: 2026-04-07T18:40:13.876Z
 estimatedTokens: 190
-keywords: [Custom, Metadata, Work.com, data, model, includes]
+keywords: [Metadata, Work.com, model, includes]
 ---
-
-# Custom Metadata Types Used by Work.com
 
 > The Work.com data model includes these custom metadata types.
 

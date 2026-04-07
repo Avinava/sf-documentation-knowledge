@@ -5,12 +5,10 @@ topic: cryptoprodcatgwalletgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.280Z
+lastCollected: 2026-04-07T18:38:29.167Z
 estimatedTokens: 534
-keywords: [CryptoProdCatgWalletGroup, CryptoWalletGroup, allowlist, airdrop, ProductCategory, custom, adding, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [CryptoProdCatgWalletGroup, CryptoWalletGroup, allowlist, airdrop, ProductCategory, adding, API, 58.0]
 ---
-
-# CryptoProdCatgWalletGroup
 
 > Specifies if CryptoWalletGroup is in the allowlist or airdrop for the
          ProductCategory. A custom object between ProductCategory and CryptoWalletGroup adding the

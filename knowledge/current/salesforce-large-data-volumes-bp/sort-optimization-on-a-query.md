@@ -5,12 +5,10 @@ topic: sort-optimization-on-a-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.190Z
+lastCollected: 2026-04-07T18:39:17.865Z
 estimatedTokens: 258
-keywords: [Sort, Optimization, Query, looking, records, created, three, days, amount, data, exceeded, threshold, standard, indexes, 30%]
+keywords: [Situation, Solution, Sort, Optimization, Query, looking, records, created, three, days, amount, exceeded, threshold, standard, indexes, 30%, total, million, performed, poorly]
 ---
-
-# Sort Optimization on a Query
 
 > The query was
 looking for all the records created in the last three days, but the

@@ -5,12 +5,10 @@ topic: ocrsampledocumentpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.524Z
+lastCollected: 2026-04-07T18:39:49.980Z
 estimatedTokens: 231
 keywords: [OcrSampleDocumentPage, define, OCR, sample, document]
 ---
-
-# OcrSampleDocumentPage
 
 > Represents the details of the fields that define a page in the OCR sample
          document.

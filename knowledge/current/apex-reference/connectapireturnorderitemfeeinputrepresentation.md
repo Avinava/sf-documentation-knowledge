@@ -5,12 +5,10 @@ topic: connectapireturnorderitemfeeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.991Z
+lastCollected: 2026-04-07T18:36:06.339Z
 estimatedTokens: 647
 keywords: [ReturnOrderLineItem, representing, fee, instructions, updating, read-only, Any, remaining, quantity, processed, added, new]
 ---
-
-# ConnectApi.ReturnOrderItemFeeInputRepresentation
 
 > ID of a ReturnOrderLineItem representing a return fee, and
       instructions for updating it. After the update, the ReturnOrderLineItem is read-only. Any

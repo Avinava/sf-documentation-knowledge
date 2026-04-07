@@ -5,12 +5,10 @@ topic: commerce-subscription-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.128Z
+lastCollected: 2026-04-07T18:37:23.245Z
 estimatedTokens: 194
-keywords: [Commerce, Subscription, Action, Output, representation, recent, performed]
+keywords: [Commerce, Subscription, Action, recent, performed]
 ---
-
-# Commerce Subscription Action
 
 > Output representation of the most recent action performed on the
     subscription.

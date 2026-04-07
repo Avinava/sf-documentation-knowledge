@@ -5,12 +5,10 @@ topic: partnerfundrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.162Z
+lastCollected: 2026-04-07T18:38:37.458Z
 estimatedTokens: 1084
-keywords: [PartnerFundRequest, funds, partner, marketing, budget, channel, API, version, 41.0, later, Calls, Associated, Objects]
+keywords: [PartnerFundRequest, funds, partner, marketing, budget, channel, API, 41.0]
 ---
-
-# PartnerFundRequest
 
 > Represents a request for funds from the partner marketing budget by a channel
 		partner. This object is available in API version 41.0 and later.

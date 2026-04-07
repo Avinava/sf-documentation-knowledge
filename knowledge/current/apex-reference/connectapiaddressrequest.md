@@ -5,12 +5,10 @@ topic: connectapiaddressrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.183Z
+lastCollected: 2026-04-07T18:36:04.468Z
 estimatedTokens: 151
-keywords: [ConnectApi.AddressRequest, Address, input, representation, payment, card]
+keywords: [ConnectApi.AddressRequest, Address, payment, card]
 ---
-
-# ConnectApi.AddressRequest
 
 > Address input representation for a payment method or card payment
       method.

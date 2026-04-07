@@ -5,12 +5,10 @@ topic: create-custom-content-layout-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.949Z
+lastCollected: 2026-04-07T18:38:02.878Z
 estimatedTokens: 750
-keywords: [Custom, Content, Layout, Components, Experience, Builder, includes, several, ready-to-use, layouts, define, regions, two-column, ratio, However]
+keywords: [Content, Layout, Experience, Builder, includes, several, ready-to-use, layouts, define, regions, two-column, ratio, However, that’s, customized, site, building, new, pages, come, template, Add, CSS, Resource, Bundle, SVG]
 ---
-
-# Create Custom Content Layout Components for Experience Builder
 
 > Experience Builder includes several ready-to-use layouts that define the content
     regions of your page, such as a two-column layout with a 2:1 ratio. However, if you need a

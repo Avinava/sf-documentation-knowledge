@@ -5,12 +5,10 @@ topic: messagingvendorkind
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.735Z
+lastCollected: 2026-04-07T18:40:17.918Z
 estimatedTokens: 436
 keywords: [MessagingVendorKind, deprecated, Items]
 ---
-
-# MessagingVendorKind
 
 > The MessagingVendorKind object is deprecated.
 

@@ -5,12 +5,10 @@ topic: network-data-category-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.831Z
+lastCollected: 2026-04-07T18:37:21.022Z
 estimatedTokens: 129
-keywords: [Network, Data, Category, Group]
+keywords: [Network, Category, Group]
 ---
-
-# Network Data Category Group
 
 > Network data category group.
 

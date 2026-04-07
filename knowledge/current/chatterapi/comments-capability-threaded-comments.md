@@ -5,12 +5,10 @@ topic: comments-capability-threaded-comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.876Z
+lastCollected: 2026-04-07T18:37:11.683Z
 estimatedTokens: 288
-keywords: [Comments, Capability, Threaded, Access, comment]
+keywords: [Comments, Capability, Threaded, comment]
 ---
-
-# Comments Capability, Threaded Comments
 
 > Access the comments capability for a comment.
 

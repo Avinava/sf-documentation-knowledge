@@ -5,12 +5,10 @@ topic: requirement-update-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.087Z
+lastCollected: 2026-04-07T18:37:29.205Z
 estimatedTokens: 151
-keywords: [Requirement, Item, Input, representation, learning, requirements, prerequisites, corequisites, recommendations]
+keywords: [Requirement, Item, learning, requirements, prerequisites, corequisites, recommendations]
 ---
-
-# Requirement Update Item Input
 
 > Input representation of the learning requirements, such as prerequisites, corequisites,
     and recommendations during the update.

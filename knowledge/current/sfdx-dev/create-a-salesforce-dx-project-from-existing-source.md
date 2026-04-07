@@ -5,12 +5,10 @@ topic: create-a-salesforce-dx-project-from-existing-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.007Z
+lastCollected: 2026-04-07T18:40:08.989Z
 estimatedTokens: 1433
-keywords: [Salesforce, Project, Source, you’re, developer, partner, ISV, likely, managed, package, packaging, org, application, sandbox, production]
+keywords: [Salesforce, Project, Source, you’re, developer, partner, ISV, likely, managed, package, packaging, org, application, sandbox, production, begin, retrieve]
 ---
-
-# Create a Salesforce DX Project from Existing Source
 
 > If you’re a Salesforce developer, partner, or ISV, you likely have existing source in a
   managed package in your packaging org or application source in your sandbox or production org.

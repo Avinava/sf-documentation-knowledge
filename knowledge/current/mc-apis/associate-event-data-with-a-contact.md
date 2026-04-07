@@ -5,12 +5,10 @@ topic: associate-event-data-with-a-contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.230Z
+lastCollected: 2026-04-07T18:40:15.258Z
 estimatedTokens: 1056
-keywords: [Associate, Event, Data, Contact, collection, behavioral, either, action, customer, taken, something, happened, Examples, actions, opening]
+keywords: [Associate, Event, Contact, collection, behavioral, either, action, customer, taken, something, happened, Examples, actions, opening, email, subscribing, newsletter, participating, survey, making, purchase, calling, Sample, SOAP, Envelope, Items]
 ---
-
-# Associate Event Data with a Contact
 
 > An event is the collection of behavioral data that describes either an action a customer has taken or something that has happened to the customer. Examples of actions a
 customer has taken are opening an email, subscribing to a newsletter, participating in a survey, making a purchase, or calling in t

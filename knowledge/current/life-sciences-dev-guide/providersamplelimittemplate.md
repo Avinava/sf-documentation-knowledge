@@ -5,12 +5,10 @@ topic: providersamplelimittemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:11.570Z
+lastCollected: 2026-04-07T18:38:01.435Z
 estimatedTokens: 955
-keywords: [ProviderSampleLimitTemplate, Setup, definition, rules, sample, limits, templates, API, version, 65.0, later, Calls, SOAP, REST]
+keywords: [ProviderSampleLimitTemplate, Setup, definition, sample, limits, templates, API, 65.0, SOAP, REST]
 ---
-
-# ProviderSampleLimitTemplate
 
 > Setup object that represents the definition and rules of sample limits
          templates. This object is available in API version 65.0 and later.

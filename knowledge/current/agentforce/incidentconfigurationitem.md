@@ -5,12 +5,10 @@ topic: incidentconfigurationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.207Z
+lastCollected: 2026-04-07T18:35:55.314Z
 estimatedTokens: 407
-keywords: [IncidentConfigurationItem, relationship, incident, configuration, item, API, version, 65.0, later, Calls]
+keywords: [IncidentConfigurationItem, relationship, incident, configuration, item, API, 65.0]
 ---
-
-# IncidentConfigurationItem
 
 > Represents the relationship between an incident and a configuration item
          reference. This object is available in API version 65.0 and later.

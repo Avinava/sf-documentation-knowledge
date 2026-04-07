@@ -5,12 +5,10 @@ topic: update-a-template-with-the-theme-panel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.681Z
+lastCollected: 2026-04-07T18:37:26.614Z
 estimatedTokens: 288
-keywords: [Template, Theme, Panel, Experience, Builder, simplest, way, change, look, Administrators, quickly, style, entire, sites, panels]
+keywords: [Template, Theme, Panel, Experience, Builder, simplest, way, change, look, Administrators, quickly, style, entire, sites, panels, apply, colors, specify, fonts, add, logo, adjust, general, structure, defaults]
 ---
-
-# Update a Template with the Theme Panel
 
 > Within Experience Builder, the simplest way to change the look of a template is with
     the Theme panel. Administrators can quickly style an entire sites using the theme panels to

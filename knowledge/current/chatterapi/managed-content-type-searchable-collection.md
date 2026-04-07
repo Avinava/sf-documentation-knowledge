@@ -5,12 +5,10 @@ topic: managed-content-type-searchable-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.405Z
+lastCollected: 2026-04-07T18:37:20.597Z
 estimatedTokens: 172
 keywords: [Managed, Content, Searchable, Collection, statuses]
 ---
-
-# Managed Content Type Searchable Collection
 
 > Collection of searchable statuses for managed content
     types.

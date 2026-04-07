@@ -5,12 +5,10 @@ topic: postverifypolicycoveragepolicyid-coverageid-verifypolicycoverageinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.489Z
+lastCollected: 2026-04-07T18:37:49.329Z
 estimatedTokens: 434
-keywords: [postVerifyPolicyCoverage, policyId, coverageId, verifyPolicyCoverageInput, Verify, applicability, policy, coverage, loss, date, under, insurance, eligible, coverages, processed]
+keywords: [postVerifyPolicyCoverage, policyId, coverageId, verifyPolicyCoverageInput, Verify, applicability, policy, coverage, loss, date, under, insurance, eligible, coverages, processed, claims, API, Requires, Chatter]
 ---
-
-# postVerifyPolicyCoverage(policyId, coverageId, verifyPolicyCoverageInput)
 
 > Verify the applicability of a policy coverage for a specified loss date under an
     insurance policy, so that only eligible coverages are processed for claims.

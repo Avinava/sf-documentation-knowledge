@@ -5,12 +5,10 @@ topic: template-folder-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.882Z
+lastCollected: 2026-04-07T18:37:02.437Z
 estimatedTokens: 1348
 keywords: [Template, Folder, Structure, Decompressing, exported, file]
 ---
-
-# Template Folder Structure
 
 > Decompressing the exported template file exposes the following folder
         structure.

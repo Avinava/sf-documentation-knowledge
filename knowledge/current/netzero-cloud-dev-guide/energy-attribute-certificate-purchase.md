@@ -5,12 +5,10 @@ topic: energy-attribute-certificate-purchase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.634Z
+lastCollected: 2026-04-07T18:38:17.204Z
 estimatedTokens: 168
 keywords: [Energy, Attribute, Certificate, Purchase, certificates, clean, project, supplier]
 ---
-
-# Energy Attribute Certificate Purchase
 
 > The Energy Attribute Certificate Purchase object represents information about the
     purchase of energy attribute certificates from the clean energy project supplier.

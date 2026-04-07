@@ -5,13 +5,11 @@ topic: jsonparser-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.934Z
+lastCollected: 2026-04-07T18:36:01.144Z
 estimatedTokens: 4189
 namespace: System
-keywords: [JSONParser, parser, JSON-encoded, content, Usage, clearCurrentToken, getBlobValue, getBooleanValue, getCurrentName, getCurrentToken, getDatetimeValue, getDateValue, getDecimalValue, getDoubleValue, getIdValue]
+keywords: [JSONParser, parser, JSON-encoded, content, clearCurrentToken, getBlobValue, getBooleanValue, getCurrentName, getCurrentToken, getDatetimeValue, getDateValue, getDecimalValue, getDoubleValue, getIdValue, getIntegerValue, getLastClearedToken, getLongValue, getText, getTimeValue, hasCurrentToken, nextToken, nextValue, readValueAs, apexType, readValueAsStrict, skipChildren]
 ---
-
-# JSONParser Class
 
 > Represents a parser for JSON-encoded
 content.

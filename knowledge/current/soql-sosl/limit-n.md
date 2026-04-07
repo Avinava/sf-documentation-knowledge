@@ -5,12 +5,10 @@ topic: limit-n
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.304Z
+lastCollected: 2026-04-07T18:40:10.279Z
 estimatedTokens: 352
 keywords: [LIMIT, clause, added, SOSL, query, specify, maximum, number, rows, text, results, unspecified]
 ---
-
-# LIMIT  n
 
 > LIMIT is an optional clause that can be added to a
   SOSL query to specify the maximum number of rows that are returned in the text query, which can be

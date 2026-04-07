@@ -5,13 +5,11 @@ topic: authprovidertokenresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.187Z
+lastCollected: 2026-04-07T18:35:59.466Z
 estimatedTokens: 1763
 namespace: Auth
 keywords: [AuthProviderTokenResponse, Stores, AuthProviderPlugin.handleCallback, provider, oauthToken, oauthSecretOrRefreshToken, state, idToken]
 ---
-
-# AuthProviderTokenResponse Class
 
 > Stores the response from the
         AuthProviderPlugin.handleCallback

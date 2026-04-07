@@ -5,12 +5,10 @@ topic: gnrcvsttaskcontextrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.927Z
+lastCollected: 2026-04-07T18:38:13.220Z
 estimatedTokens: 735
-keywords: [GnrcVstTaskContextRelation, common, attributes, visit, task, context, Manufacturing, Cloud, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [GnrcVstTaskContextRelation, common, attributes, visit, task, context, Manufacturing, Cloud, API, 56.0]
 ---
-
-# GnrcVstTaskContextRelation
 
 > Represents common attributes used for a visit task and a visit task
          context. This object is available in Manufacturing Cloud in API version 56.0 and

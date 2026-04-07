@@ -5,12 +5,10 @@ topic: compactlayoutiteminfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.648Z
+lastCollected: 2026-04-07T18:36:32.089Z
 estimatedTokens: 423
-keywords: [CompactLayoutItemInfo, selected, compact, layout, order, SOAP, Calls, REST, HTTP, Limitations]
+keywords: [CompactLayoutItemInfo, Limitations, selected, compact, layout, order, SOAP, REST, HTTP]
 ---
-
-# CompactLayoutItemInfo
 
 > Represents a field selected for
             a compact layout, and the order of that field in the compact layout.

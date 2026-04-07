@@ -5,12 +5,10 @@ topic: addcustomdetaildoknowledgesearch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.992Z
+lastCollected: 2026-04-07T18:38:06.236Z
 estimatedTokens: 168
-keywords: [addCustomDetail.doKnowledgeSearch, knowledgeSearch, automatically, search, Knowledge, articles, criteria, pre-chat, form, Usage]
+keywords: [addCustomDetail.doKnowledgeSearch, knowledgeSearch, automatically, search, Knowledge, articles, criteria, pre-chat, form]
 ---
-
-# addCustomDetail.doKnowledgeSearch
 
 > Use the knowledgeSearch method to automatically
   search for Knowledge articles based on criteria in a pre-chat form.

@@ -6,13 +6,10 @@ topic: sample-code-without-sharing-give-guest-users-access-to-create-and-read-re
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.922Z
+lastCollected: 2026-04-07T18:37:26.876Z
 estimatedTokens: 639
-keywords: [Sample, Code, Sharing, Give, Guest, Users, Access, Records, Transaction, collection, samples, user, enters, report, support]
+keywords: [Sample, Code, Sharing, Give, Guest, Users, Records, Transaction, collection, samples, user, enters, report, support, issue, Apex, creates, case, retrieves, new, record, Aura, display, parts, creation, runs, because, aren’t, relying, permissions, platform, allow, CreateCase.cmp, Controller, CreateCaseController.js, JavaScript, Helper, DisplayCaseHelper.js, GuestUserCreateCase.apxc]
 ---
-
-# Sample Code Without Sharing: Give Guest Users Access to Create and Read Records in the
-        Same Transaction
 
 > In this collection of code samples, the guest user enters details to report a support
         issue and Apex code creates a case. An Apex method retrieves the new record and Aura

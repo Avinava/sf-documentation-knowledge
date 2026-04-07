@@ -5,12 +5,10 @@ topic: achievement-contributor-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.884Z
+lastCollected: 2026-04-07T18:37:28.979Z
 estimatedTokens: 177
-keywords: [Achievement, Contributor, Input, representation, group, mapping]
+keywords: [Achievement, Contributor, group, mapping]
 ---
-
-# Achievement Contributor Input
 
 > Input representation of contributor for a group achievement mapping.
 

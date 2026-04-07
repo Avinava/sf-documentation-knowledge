@@ -5,12 +5,10 @@ topic: fundingoppparticipantfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.426Z
+lastCollected: 2026-04-07T18:39:42.080Z
 estimatedTokens: 391
-keywords: [FundingOppParticipantFeed, Feed, tracking, FundingOppParticipant]
+keywords: [FundingOppParticipantFeed, FundingOppParticipant]
 ---
-
-# FundingOppParticipantFeed
 
 > Feed tracking for FundingOppParticipant.
 

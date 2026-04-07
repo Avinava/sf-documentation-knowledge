@@ -5,12 +5,10 @@ topic: pricebookentryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.078Z
+lastCollected: 2026-04-07T18:39:54.633Z
 estimatedTokens: 263
-keywords: [PricebookEntryHistory, History, tracked, PricebookEntry]
+keywords: [PricebookEntryHistory, tracked, PricebookEntry]
 ---
-
-# PricebookEntryHistory
 
 > History for tracked fields of PricebookEntry.
 

@@ -5,12 +5,10 @@ topic: selectedsearchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.969Z
+lastCollected: 2026-04-07T18:37:39.927Z
 estimatedTokens: 1270
 keywords: [SelectedSearchResult, record, selected, verification, selectedRecordId, objectName, selectedRecordObject]
 ---
-
-# SelectedSearchResult Class
 
 > Contains the details of the record that has been selected for
       verification.

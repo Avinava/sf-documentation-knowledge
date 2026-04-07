@@ -5,12 +5,10 @@ topic: encoded-jwt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.032Z
+lastCollected: 2026-04-07T18:40:21.313Z
 estimatedTokens: 361
 keywords: [Encoded, JWT, application, login, endpoint, receive, consisting, three, parts, Items]
 ---
-
-# Encoded JWT
 
 > Your application login endpoint will receive a parameter called JWT, which is a string consisting of three parts:
 

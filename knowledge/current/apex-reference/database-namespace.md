@@ -5,13 +5,11 @@ topic: database-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.705Z
+lastCollected: 2026-04-07T18:36:15.017Z
 estimatedTokens: 1524
 namespace: Database
 keywords: [Database, classes, DML, operations]
 ---
-
-# Database Namespace
 
 > The Database namespace
 provides classes used with DML operations.

@@ -5,12 +5,10 @@ topic: connectapifieldmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.897Z
+lastCollected: 2026-04-07T18:36:09.278Z
 estimatedTokens: 317
 keywords: [ConnectApi.FieldMetadata, Search, metadata]
 ---
-
-# ConnectApi.FieldMetadata
 
 > Search metadata for the field of an object.
 

@@ -5,12 +5,10 @@ topic: setting-dml-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.182Z
+lastCollected: 2026-04-07T18:36:19.411Z
 estimatedTokens: 2070
-keywords: [Setting, DML, Options, specify, insert, operations, desired, Database.DMLOptions, operation, calling, setOptions, sObject, passing, Database.insert, Database.update]
+keywords: [Setting, DML, Options, specify, insert, operations, desired, Database.DMLOptions, operation, calling, setOptions, sObject, passing, Database.insert, Database.update, allowFieldTruncation, assignmentRuleHeader, duplicateRuleHeader, emailHeader, localeOptions, optAllOrNone]
 ---
-
-# Setting DML Options
 
 > You can specify DML options for insert and update operations by setting the desired
     options in the Database.DMLOptions object. You can set

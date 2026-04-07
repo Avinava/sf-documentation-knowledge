@@ -5,12 +5,10 @@ topic: connectapiabstractusermissionactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.607Z
+lastCollected: 2026-04-07T18:36:06.962Z
 estimatedTokens: 360
-keywords: [ConnectApi.AbstractUserMissionActivity, User, activity, associated, missions]
+keywords: [ConnectApi.AbstractUserMissionActivity, User, activity, missions]
 ---
-
-# ConnectApi.AbstractUserMissionActivity
 
 > User activity associated with missions.
 

@@ -5,12 +5,10 @@ topic: service-cloud-voice-for-partner-telephony-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.407Z
+lastCollected: 2026-04-07T18:40:13.335Z
 estimatedTokens: 3052
-keywords: [Service, Cloud, Voice, Partner, Telephony, Apex, uses, several, classes, _cloud, _voice.ContactCenterInfo, _voice.IntelligenceServiceProvider, _voice.IntelligenceServiceRequest, _voice.IntelligenceServiceResponse, _voice.IntelligenceSignalType]
+keywords: [Service, Cloud, Voice, Partner, Telephony, Apex, uses, several, classes, _cloud, _voice.ContactCenterInfo, _voice.IntelligenceServiceProvider, _voice.IntelligenceServiceRequest, _voice.IntelligenceServiceResponse, _voice.IntelligenceSignalType, _voice.GroupSetup, _voice.KeyProvider, _voice.PartnerConnector, _voice.PartnerSSO, _voice.PhoneNumberProvider, _voice.QueueManager, _voice.QueueSetup, _voice.RecordingMediaProvider, _voice.TransferDestinationProvider, _voice.UserSyncing, _voice.UpdateOrgDomainProvider, _voice.VendorConfigProvider]
 ---
-
-# Service Cloud Voice for Partner Telephony Apex Reference
 
 > Service Cloud Voice for Partner Telephony uses several Apex classes.
 

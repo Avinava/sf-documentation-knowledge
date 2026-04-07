@@ -5,13 +5,11 @@ topic: domainparser-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.728Z
+lastCollected: 2026-04-07T18:36:01.016Z
 estimatedTokens: 1217
 namespace: System
-keywords: [DomainParser, parse, domain, Salesforce, hosts, org, extract, Examples, hostname, url]
+keywords: [Examples, DomainParser, parse, domain, Salesforce, hosts, org, extract, hostname, url]
 ---
-
-# DomainParser Class
 
 > Use the DomainParser class to parse a domain that Salesforce hosts for
       the org and extract information about the domain.

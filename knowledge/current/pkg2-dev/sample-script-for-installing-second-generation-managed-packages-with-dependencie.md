@@ -5,12 +5,10 @@ topic: sample-script-for-installing-second-generation-managed-packages-with-depe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.851Z
+lastCollected: 2026-04-07T18:38:56.468Z
 estimatedTokens: 137
-keywords: [Sample, Script, Installing, Second-Generation, Managed, Packages, Dependencies, basis, own, install, query, finds, dependent, installs, correct]
+keywords: [Sample, Script, Installing, Second-Generation, Managed, Packages, Dependencies, basis, own, install, query, finds, dependent, installs, correct, dependency, order]
 ---
-
-# Sample Script for Installing Second-Generation Managed Packages with Dependencies
 
 > Use this sample script as a basis to create your own script to install second-generation
         managed packages with dependencies. This script contains a query that finds dependent

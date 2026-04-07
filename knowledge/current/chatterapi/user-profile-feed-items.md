@@ -5,12 +5,10 @@ topic: user-profile-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.423Z
+lastCollected: 2026-04-07T18:37:11.181Z
 estimatedTokens: 4671
-keywords: [User, Profile, Feed, Items, records, tracked, Post, item, User-Profile, Flat]
+keywords: [User, Profile, Items, records, tracked, Post, item, User-Profile, Flat]
 ---
-
-# User Profile Feed Items
 
 > Get the feed items on records that can be tracked in a feed. Post a
       feed item.

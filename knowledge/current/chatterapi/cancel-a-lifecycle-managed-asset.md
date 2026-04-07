@@ -5,12 +5,10 @@ topic: cancel-a-lifecycle-managed-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.846Z
+lastCollected: 2026-04-07T18:37:23.890Z
 estimatedTokens: 377
 keywords: [Cancel, Lifecycle-Managed, Asset, Review, Connect, REST, API, reflect, early, cancellation]
 ---
-
-# Cancel a Lifecycle-Managed Asset
 
 > Review an example of using Connect REST API to cancel an asset to reflect an early
   cancellation.

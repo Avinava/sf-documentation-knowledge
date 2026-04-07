@@ -5,12 +5,10 @@ topic: corresponding-calls-for-chat-buttons
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.048Z
+lastCollected: 2026-04-07T18:38:06.295Z
 estimatedTokens: 287
-keywords: [Corresponding, Calls, Chat, Buttons, sure, chats, start, correctly, aligning, direct-to-agent, agent, fallback-to-button]
+keywords: [Corresponding, Chat, Buttons, sure, chats, start, correctly, aligning, direct-to-agent, agent, fallback-to-button]
 ---
-
-# Corresponding Calls for Chat Buttons
 
 > Make sure your chats start correctly by aligning your calls when using buttons,
     direct-to-agent, and agent with fallback-to-button.

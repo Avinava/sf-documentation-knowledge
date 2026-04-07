@@ -5,12 +5,10 @@ topic: health-insurance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.707Z
+lastCollected: 2026-04-07T18:37:57.228Z
 estimatedTokens: 296
-keywords: [Health, Insurance, data, model, objects, managing, ways, care, paid, participants, employment, coverage, dependents, manage, benefits]
+keywords: [Health, Insurance, model, managing, ways, care, paid, participants, employment, coverage, dependents, manage, benefits, provided, plans, members, treatment, preauthorization, requests, made, providers]
 ---
-
-# Health Insurance
 
 > The health insurance data model provides objects for managing the ways care is paid for.
   It represents information about participants such as employment, insurance coverage, and

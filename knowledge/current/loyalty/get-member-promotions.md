@@ -5,12 +5,10 @@ topic: get-member-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.309Z
+lastCollected: 2026-04-07T18:38:07.534Z
 estimatedTokens: 375
-keywords: [Member, Promotions, View, eligible, loyalty, URL, Sample, JSON, Requests, Retrieve, asynchronously, requesting, data, program, process, API, Resource, Input, Output]
+keywords: [Member, Promotions, View, eligible, loyalty, URL, Sample, JSON, Requests, Resource, Retrieve, asynchronously, requesting, program, process, API]
 ---
-
-# Get Member Promotions
 
 > Retrieve a list of promotions that the member is eligible for, while asynchronously
   requesting data from the Get Member Promotions loyalty program process API.

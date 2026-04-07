@@ -5,12 +5,10 @@ topic: customize-the-tpm-ui-earights
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.862Z
+lastCollected: 2026-04-07T18:39:16.408Z
 estimatedTokens: 693
 keywords: [Customize, TPM, EARights, Enable, editability, visibility, promotion, tactic, modifying]
 ---
-
-# Customize the TPM UI EARights
 
 > Enable the global editability and visibility of a promotion or tactic by modifying its
     EARights.

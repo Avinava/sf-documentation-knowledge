@@ -5,12 +5,10 @@ topic: profileskillendorsementhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.129Z
+lastCollected: 2026-04-07T18:39:56.675Z
 estimatedTokens: 267
-keywords: [ProfileSkillEndorsementHistory, History, tracked, ProfileSkillEndorsement]
+keywords: [ProfileSkillEndorsementHistory, tracked, ProfileSkillEndorsement]
 ---
-
-# ProfileSkillEndorsementHistory
 
 > History for tracked fields of ProfileSkillEndorsement.
 

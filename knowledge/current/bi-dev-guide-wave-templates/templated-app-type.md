@@ -5,12 +5,10 @@ topic: templated-app-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:15.663Z
+lastCollected: 2026-04-07T18:37:02.243Z
 estimatedTokens: 1041
-keywords: [Templated, App, you’re, creating, template, standard, users, install, configuration, wizard, CRM, Analytics, Studio, embedded, automatically]
+keywords: [Templated, App, you’re, creating, template, standard, users, install, configuration, wizard, CRM, Analytics, Studio, embedded, automatically, installed, doesn’t, require, customization, templates, Manager, assets, Considerations]
 ---
-
-# Templated App Type
 
 > The app you’re creating a template for can be a standard app that users install using the
     configuration wizard in CRM Analytics Studio. Or it can be an embedded app that is automatically

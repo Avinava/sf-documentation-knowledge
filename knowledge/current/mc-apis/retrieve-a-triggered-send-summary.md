@@ -5,12 +5,10 @@ topic: retrieve-a-triggered-send-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.579Z
+lastCollected: 2026-04-07T18:40:18.778Z
 estimatedTokens: 1248
-keywords: [Retrieve, Triggered, Send, Summary, retrieving, associated, via, SOAP, API, Why, How, Sample, NET, Code, PHP]
+keywords: [Retrieve, Triggered, Send, Summary, retrieving, via, SOAP, API, Why, How, Sample, NET, Code, PHP, Envelope]
 ---
-
-# Retrieve a Triggered Send Summary
 
 > This page contains information  about retrieving a summary of information associated with a triggered send via the SOAP API.
 

@@ -5,12 +5,10 @@ topic: set-user-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.048Z
+lastCollected: 2026-04-07T18:40:20.273Z
 estimatedTokens: 707
-keywords: [User, Permissions, setting, access, users, account, via, SOAP, API, Why, How, Sample, Code, Envelope]
+keywords: [User, Permissions, setting, users, account, via, SOAP, API, Why, How, Sample, Code, Envelope]
 ---
-
-# Set User Permissions
 
 > This page contains information  about setting access permissions for users within your account via the SOAP API.
 

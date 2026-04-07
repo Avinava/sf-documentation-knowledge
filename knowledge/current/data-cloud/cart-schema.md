@@ -5,12 +5,10 @@ topic: cart-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.383Z
+lastCollected: 2026-04-07T18:35:51.237Z
 estimatedTokens: 1193
 keywords: [Cart, Schema, Map, Engagement, Mobile, SDK, event]
 ---
-
-# Cart Schema
 
 > Map an Engagement Mobile SDK cart event to the cart schema.
 

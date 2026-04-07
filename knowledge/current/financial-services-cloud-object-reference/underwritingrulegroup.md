@@ -5,12 +5,10 @@ topic: underwritingrulegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.128Z
+lastCollected: 2026-04-07T18:37:39.039Z
 estimatedTokens: 907
-keywords: [UnderwritingRuleGroup, underwriting, rule, that's, associated, product, API, version, 63.0, later, Calls, Objects]
+keywords: [UnderwritingRuleGroup, underwriting, rule, that's, product, API, 63.0]
 ---
-
-# UnderwritingRuleGroup
 
 > Represents the underwriting rule that's associated with a product. This
       object is available in API version 63.0 and later.

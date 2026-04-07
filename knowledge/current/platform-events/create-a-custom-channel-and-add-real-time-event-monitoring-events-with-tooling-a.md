@@ -5,12 +5,10 @@ topic: create-a-custom-channel-and-add-real-time-event-monitoring-events-with-to
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.999Z
+lastCollected: 2026-04-07T18:38:57.825Z
 estimatedTokens: 1146
-keywords: [Custom, Channel, Add, Real-Time, Event, Monitoring, Events, Tooling, API, named, Event_Monitoring_Channel__chn, eventType, PlatformEventChannel, two, members]
+keywords: [Channel, Add, Real-Time, Event, Monitoring, Events, Tooling, API, named, Event_Monitoring_Channel__chn, eventType, PlatformEventChannel, two, members, ApiAnomalyEvent, FileEvent]
 ---
-
-# Create a Custom Channel and Add Real-Time Event Monitoring Events with Tooling API
 
 > Create a channel for Real-Time Event Monitoring events named Event_Monitoring_Channel__chn by using the eventType field in PlatformEventChannel. Also, add two Real-Time
     Event Monitoring events as members: ApiAnomalyEvent and FileEvent.

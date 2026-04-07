@@ -5,12 +5,10 @@ topic: attrpicklistexcludedvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.062Z
+lastCollected: 2026-04-07T18:39:28.082Z
 estimatedTokens: 325
-keywords: [AttrPicklistExcludedValue, excluded, picklist, product, classification, attribute, definition, API, version, 61.0, later]
+keywords: [AttrPicklistExcludedValue, excluded, picklist, product, classification, attribute, definition, API, 61.0]
 ---
-
-# AttrPicklistExcludedValue
 
 > Represents the excluded picklist values for a product classification
          attribute or a product attribute definition. This object is available in API version

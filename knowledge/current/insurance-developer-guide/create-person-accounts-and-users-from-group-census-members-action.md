@@ -5,12 +5,10 @@ topic: create-person-accounts-and-users-from-group-census-members-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.987Z
+lastCollected: 2026-04-07T18:37:48.701Z
 estimatedTokens: 732
-keywords: [Person, Accounts, Users, Group, Census, Members, Action, portal, supports, bulk, processing, custom, mapping, duplicate, detection]
+keywords: [Inputs, Outputs, Person, Accounts, Users, Group, Census, Members, Action, portal, supports, bulk, processing, mapping, duplicate, detection, REST, HTTP]
 ---
-
-# Create Person Accounts and Users from Group Census Members Action
 
 > Create person accounts and portal users for group census or group census members. This
     action supports bulk processing, custom field mapping, and duplicate detection.

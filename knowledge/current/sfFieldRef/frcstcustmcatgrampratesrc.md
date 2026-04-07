@@ -5,12 +5,10 @@ topic: frcstcustmcatgrampratesrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.769Z
+lastCollected: 2026-04-07T18:39:41.405Z
 estimatedTokens: 355
-keywords: [FrcstCustmCatgRampRateSrc, total, contract, custom, bulk, adjustments, API, version, 63.0, later]
+keywords: [FrcstCustmCatgRampRateSrc, total, contract, bulk, adjustments, API, 63.0]
 ---
-
-# FrcstCustmCatgRampRateSrc
 
 > Represents the total contract value used for custom bulk adjustments. 
       This object is available in API version 63.0 and later.

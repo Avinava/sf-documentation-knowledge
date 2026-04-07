@@ -5,13 +5,11 @@ topic: aggregatecolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.884Z
+lastCollected: 2026-04-07T18:36:03.092Z
 estimatedTokens: 833
 namespace: Reports
-keywords: [AggregateColumn, describing, summary, Record, Count, Sum, Average, Max, Min, custom, formulas, Includes, label, data, grouping]
+keywords: [AggregateColumn, describing, summary, Record, Count, Sum, Average, Max, Min, formulas, Includes, label, grouping, context, getName, getLabel, getDataType, getAcrossGroupingContext, getDownGroupingContext]
 ---
-
-# AggregateColumn Class
 
 > Contains methods for describing summary fields such as
 Record Count, Sum, Average, Max, Min, and custom summary formulas.

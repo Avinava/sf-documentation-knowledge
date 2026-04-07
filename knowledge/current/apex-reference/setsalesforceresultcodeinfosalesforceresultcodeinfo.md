@@ -5,12 +5,10 @@ topic: setsalesforceresultcodeinfosalesforceresultcodeinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.021Z
+lastCollected: 2026-04-07T18:36:04.242Z
 estimatedTokens: 204
-keywords: [setSalesforceResultCodeInfo, salesforceResultCodeInfo, Salesforce-specific, result, code, Payment, gateways, codes, calls, Salesforce, uses, map, gateway, predefined, standard]
+keywords: [setSalesforceResultCodeInfo, salesforceResultCodeInfo, Salesforce-specific, result, code, Payment, gateways, codes, Salesforce, uses, map, gateway, predefined, standard]
 ---
-
-# setSalesforceResultCodeInfo(salesforceResultCodeInfo)
 
 > Sets the Salesforce-specific result code information. Payment gateways have many response
     codes for payment calls. Salesforce uses the result code information to map payment gateway

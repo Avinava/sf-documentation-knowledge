@@ -5,12 +5,10 @@ topic: metadata-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.949Z
+lastCollected: 2026-04-07T18:39:11.498Z
 estimatedTokens: 5206
-keywords: [Metadata, Components, topic, metadata-driven, wizards, Text, Number, Label, Empty, Date, Duration, Checkbox, Picklist, ListController]
+keywords: [Text, Number, Label, Empty, Date, Duration, Checkbox, Picklist, ListController, Metadata, topic, metadata-driven, wizards]
 ---
-
-# Metadata Components
 
 > This topic describes the list of available components that can be
       used on metadata-driven wizards.

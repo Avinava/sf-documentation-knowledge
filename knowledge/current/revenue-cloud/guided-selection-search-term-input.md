@@ -5,12 +5,10 @@ topic: guided-selection-search-term-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.411Z
+lastCollected: 2026-04-07T18:35:43.305Z
 estimatedTokens: 105
-keywords: [Guided, Selection, Search, Term, Input, representation, terms]
+keywords: [Guided, Selection, Search, Term, terms]
 ---
-
-# Guided Selection Search Term Input
 
 > Input representation of the search terms of a guided selection.
 

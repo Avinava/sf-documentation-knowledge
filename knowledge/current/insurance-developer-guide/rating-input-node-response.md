@@ -5,12 +5,10 @@ topic: rating-input-node-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.580Z
+lastCollected: 2026-04-07T18:37:52.777Z
 estimatedTokens: 177
-keywords: [Rating, Input, Node, Output, representation, hierarchy]
+keywords: [Rating, Node, hierarchy]
 ---
-
-# Rating Input Node Response
 
 > Output representation of a single node in the rating input hierarchy.
 

@@ -5,12 +5,10 @@ topic: apextoolbar
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.574Z
+lastCollected: 2026-04-07T18:38:50.810Z
 estimatedTokens: 1422
-keywords: [apex, toolbar, stylized, horizontal, contain, any, number, child, components, aligned, left, side, <apex, toolbarGroup>, component]
+keywords: [Attributes, apex, toolbar, stylized, horizontal, contain, any, number, child, aligned, left, side, <apex, toolbarGroup>, align, right]
 ---
-
-# apex:toolbar
 
 > A stylized, horizontal toolbar that can contain any number of child components. By default, all child components are aligned to the left side of the toolbar. Use an <apex:toolbarGroup> component to align one or more child components to the right.
 

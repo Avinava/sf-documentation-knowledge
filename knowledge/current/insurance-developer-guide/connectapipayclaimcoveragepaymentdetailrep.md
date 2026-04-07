@@ -5,12 +5,10 @@ topic: connectapipayclaimcoveragepaymentdetailrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.739Z
+lastCollected: 2026-04-07T18:37:50.636Z
 estimatedTokens: 106
-keywords: [Output, representation, claim, coverage, payment, detail, operation]
+keywords: [claim, coverage, payment, detail, operation]
 ---
-
-# ConnectApi.PayClaimCoveragePaymentDetailRep
 
 > Output representation for a claim coverage payment detail operation.
 

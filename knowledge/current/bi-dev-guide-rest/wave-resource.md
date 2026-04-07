@@ -5,12 +5,10 @@ topic: wave-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.977Z
+lastCollected: 2026-04-07T18:36:56.535Z
 estimatedTokens: 85
 keywords: [Wave, Resource, top-level, resources, Analytics]
 ---
-
-# Wave Resource
 
 > Lists the top-level resources available for
     Analytics.

@@ -5,12 +5,10 @@ topic: servicepointshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.742Z
+lastCollected: 2026-04-07T18:40:01.507Z
 estimatedTokens: 249
 keywords: [ServicePointShare, Sharing, ServicePoint]
 ---
-
-# ServicePointShare
 
 > Sharing for ServicePoint.
 

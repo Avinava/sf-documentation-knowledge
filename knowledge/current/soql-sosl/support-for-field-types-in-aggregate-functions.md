@@ -5,12 +5,10 @@ topic: support-for-field-types-in-aggregate-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.983Z
+lastCollected: 2026-04-07T18:40:09.935Z
 estimatedTokens: 804
-keywords: [Support, Aggregate, Functions, SOQL, queries, powerful, way, analyze, records, aren’t, relevant, base64, don’t, because, they]
+keywords: [Support, Aggregate, Functions, SOQL, queries, powerful, way, analyze, records, aren’t, relevant, base64, don’t, because, they, wouldn’t, generate, any, meaningful]
 ---
-
-# Support for Field Types in Aggregate Functions
 
 > Using aggregate functions in SOQL queries is a powerful way to analyze records, but the
   functions aren’t relevant for all field types. For example, base64 fields don’t support aggregate

@@ -5,12 +5,10 @@ topic: warrantytermfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.494Z
+lastCollected: 2026-04-07T18:40:06.398Z
 estimatedTokens: 359
-keywords: [WarrantyTermFeed, Feed, tracking, WarrantyTerm]
+keywords: [WarrantyTermFeed, WarrantyTerm]
 ---
-
-# WarrantyTermFeed
 
 > Feed tracking for WarrantyTerm.
 

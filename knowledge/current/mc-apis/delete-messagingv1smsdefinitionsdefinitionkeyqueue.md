@@ -5,12 +5,10 @@ topic: delete-messagingv1smsdefinitionsdefinitionkeyqueue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.426Z
+lastCollected: 2026-04-07T18:40:16.567Z
 estimatedTokens: 224
-keywords: [messaging, sms, definitions, definitionKey, queue, Deletes, send, definition, inactive, status, **Overview**, Usage, Error]
+keywords: [messaging, sms, definitions, definitionKey, queue, Deletes, send, definition, inactive, status, **Overview**, Error]
 ---
-
-# DELETE /messaging/v1/sms/definitions/{definitionKey}/queue
 
 > Deletes the queue for a send definition. The send definition must be in inactive status.
 

@@ -5,12 +5,10 @@ topic: blngtaxrulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.574Z
+lastCollected: 2026-04-07T18:37:04.189Z
 estimatedTokens: 571
-keywords: [blng__TaxRule__c, how, Salesforce, Billing, processes, tax, transactions, products, billed, require, lookup, rule, blng, _TaxRule, Calls]
+keywords: [blng__TaxRule__c, how, Salesforce, Billing, processes, tax, transactions, products, billed, require, lookup, rule, blng, _TaxRule]
 ---
-
-# blng__TaxRule__c
 
 > Represents how Salesforce Billing processes tax for the transactions.
          All products that must be billed require a lookup to a tax rule.

@@ -5,12 +5,10 @@ topic: call-scenario-diagrams
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.312Z
+lastCollected: 2026-04-07T18:40:13.245Z
 estimatedTokens: 404
-keywords: [Call, Scenario, Diagrams, Understand, different, scenarios, rep, receiving, declining, inbound, multiparty, consult, calls, Accepts, Declines]
+keywords: [Call, Scenario, Diagrams, Understand, different, scenarios, rep, receiving, declining, inbound, multiparty, consult, Accepts, Declines, Outbound, Transfers, Manages]
 ---
-
-# Call Scenario Diagrams
 
 > Understand different call scenarios, such as a rep receiving or declining an inbound
     call or multiparty and consult calls.

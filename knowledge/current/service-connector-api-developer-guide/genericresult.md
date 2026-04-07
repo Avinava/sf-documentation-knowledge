@@ -5,12 +5,10 @@ topic: genericresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.674Z
+lastCollected: 2026-04-07T18:39:23.606Z
 estimatedTokens: 465
 keywords: [GenericResult, generic, result, Connector, API, function, Functions]
 ---
-
-# GenericResult
 
 > Represents a generic result type for a Connector API
         function.

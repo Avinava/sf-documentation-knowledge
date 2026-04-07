@@ -5,12 +5,10 @@ topic: setselectedselectedrecords
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.200Z
+lastCollected: 2026-04-07T18:38:48.157Z
 estimatedTokens: 237
-keywords: [setSelected, selectedRecords, selected, records, argument, Usage]
+keywords: [setSelected, selectedRecords, selected, records, argument]
 ---
-
-# setSelected(selectedRecords)
 
 > Set the selected records to the records specified in the
       selectedRecords argument.

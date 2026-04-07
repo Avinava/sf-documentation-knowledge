@@ -5,12 +5,10 @@ topic: privateip
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.131Z
+lastCollected: 2026-04-07T18:40:18.333Z
 estimatedTokens: 452
 keywords: [PrivateIP, address, part, messages, Items]
 ---
-
-# PrivateIP
 
 > The PrivateIP object contains information on private IP address to be used as part of messages sends.
 

@@ -5,12 +5,10 @@ topic: taxes-info-container
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.643Z
+lastCollected: 2026-04-07T18:37:17.718Z
 estimatedTokens: 89
-keywords: [Taxes, Info, Container, Outut, representation, tax, product]
+keywords: [Taxes, Info, Container, Outut, tax, product]
 ---
-
-# Taxes Info Container
 
 > Outut representation of the list of tax details about a
       product.

@@ -5,12 +5,10 @@ topic: updateclonemodifysalesqliswqpr-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.068Z
+lastCollected: 2026-04-07T18:37:32.241Z
 estimatedTokens: 81
 keywords: [UpdateCloneModify_SalesQLIsWQPR, API, Updates, clones, modifies, quote, line, items, cart, group, member, UpdateCloneModify, _SalesQLIsWQPR, URI, HTTP]
 ---
-
-# UpdateCloneModify_SalesQLIsWQPR API
 
 > Updates, clones, or modifies the quote line items for a given cart ID, group ID, quote member ID, or quote ID.
 

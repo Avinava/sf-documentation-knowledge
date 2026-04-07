@@ -5,12 +5,10 @@ topic: image-upload-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.375Z
+lastCollected: 2026-04-07T18:38:15.904Z
 estimatedTokens: 111
-keywords: [Image, Upload, Basics, Uploading, LWC, features, offline, two-step, process, createContentDocumentAndVersion, file, adapter, creates, ContentDocument, ContentVersion]
+keywords: [Image, Upload, Basics, Uploading, LWC, features, offline, two-step, process, createContentDocumentAndVersion, file, adapter, creates, ContentDocument, ContentVersion, records, exist, createRecord, ContentDocumentLink, record, relates, want, attach]
 ---
-
-# Image Upload Basics
 
 > Uploading an image from an LWC using features supported offline is a two-step process.
   First, use createContentDocumentAndVersion to upload the

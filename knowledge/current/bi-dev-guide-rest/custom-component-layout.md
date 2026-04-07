@@ -5,12 +5,10 @@ topic: custom-component-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.361Z
+lastCollected: 2026-04-07T18:36:56.896Z
 estimatedTokens: 176
-keywords: [Custom, Component, Layout, Analytics, template, wizard]
+keywords: [Layout, Analytics, template, wizard]
 ---
-
-# Custom Component Layout
 
 > A custom component layout for an Analytics template wizard page.
 

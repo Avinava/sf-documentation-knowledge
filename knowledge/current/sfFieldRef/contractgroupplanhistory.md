@@ -5,12 +5,10 @@ topic: contractgroupplanhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.147Z
+lastCollected: 2026-04-07T18:39:35.605Z
 estimatedTokens: 266
-keywords: [ContractGroupPlanHistory, History, tracked, ContractGroupPlan]
+keywords: [ContractGroupPlanHistory, tracked, ContractGroupPlan]
 ---
-
-# ContractGroupPlanHistory
 
 > History for tracked fields of ContractGroupPlan.
 

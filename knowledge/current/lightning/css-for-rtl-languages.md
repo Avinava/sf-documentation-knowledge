@@ -5,12 +5,10 @@ topic: css-for-rtl-languages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.697Z
+lastCollected: 2026-04-07T18:38:02.626Z
 estimatedTokens: 783
-keywords: [CSS, RTL, Languages, Language, setting, Salesforce, right-to-left, framework, automatically, flips, left, border-left, right, border-right, respectively]
+keywords: [CSS, RTL, Languages, Language, setting, Salesforce, right-to-left, framework, automatically, flips, left, border-left, right, border-right, respectively, rearranges, certain, padding, margin, border-radius, units, swapped, Flipped, Keywords, Percentage, Arguments, Override, Flipping, @noflip, Conditional]
 ---
-
-# CSS for RTL Languages
 
 > When your Language setting in Salesforce is set to a right-to-left (RTL) language, the
   framework automatically flips property names, such as left and

@@ -5,12 +5,10 @@ topic: product-details-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.958Z
+lastCollected: 2026-04-07T18:37:22.067Z
 estimatedTokens: 441
-keywords: [Product, Output]
+keywords: [Product]
 ---
-
-# Product Details Output
 
 > Details about a product.
 

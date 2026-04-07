@@ -5,12 +5,10 @@ topic: get-started-with-the-publisher-and-quick-action-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.178Z
+lastCollected: 2026-04-07T18:37:04.891Z
 estimatedTokens: 970
-keywords: [Started, Publisher, Quick, Action, APIs, custom, components, interact, actions, pages, Salesforce, Classic, Lightning, Experience, apps]
+keywords: [Started, Publisher, Quick, Action, APIs, interact, actions, pages, Salesforce, Classic, Lightning, Experience, apps, Aura, Visualforce, Apex, customize, app’s, including, case, let, users, send, email, Knowledge, article]
 ---
-
-# Get Started with the Publisher and Quick Action APIs
 
 > Create custom components to interact with the actions on pages in Salesforce Classic and
   Lightning Experience apps. Using Aura components, Visualforce, and Apex, you can customize your

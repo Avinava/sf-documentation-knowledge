@@ -5,12 +5,10 @@ topic: approvalworkitemcondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.910Z
+lastCollected: 2026-04-07T18:38:25.856Z
 estimatedTokens: 795
-keywords: [ApprovalWorkItemCondition, condition, starting, concluding, approval, step, that's, evaluated, part, smart, process, API, version, 64.0, later]
+keywords: [ApprovalWorkItemCondition, condition, starting, concluding, approval, step, that's, evaluated, part, smart, process, API, 64.0]
 ---
-
-# ApprovalWorkItemCondition
 
 > Represents a condition for starting and concluding an approval step that's
          evaluated as part of the smart approval process. This object is available in API

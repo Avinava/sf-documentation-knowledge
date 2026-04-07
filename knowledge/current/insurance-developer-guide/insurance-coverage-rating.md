@@ -5,12 +5,10 @@ topic: insurance-coverage-rating
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.224Z
+lastCollected: 2026-04-07T18:37:52.377Z
 estimatedTokens: 164
-keywords: [Insurance, Coverage, Rating, Output, representation, individual, coverage's, pricing, result]
+keywords: [Insurance, Coverage, Rating, individual, coverage's, pricing, result]
 ---
-
-# Insurance Coverage Rating
 
 > Output representation of an individual coverage's pricing result.
 

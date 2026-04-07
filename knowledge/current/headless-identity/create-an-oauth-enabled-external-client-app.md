@@ -5,12 +5,10 @@ topic: create-an-oauth-enabled-external-client-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.343Z
+lastCollected: 2026-04-07T18:37:39.275Z
 estimatedTokens: 502
 keywords: [OAuth-Enabled, External, Client, App, headless, identity, add, scopes, enable, Authorization, Code, Credentials, flow, level]
 ---
-
-# Create an OAuth-Enabled External Client App
 
 > Create your external client app for headless identity, add the required scopes, and
     enable the Authorization Code and Credentials flow at the app level.

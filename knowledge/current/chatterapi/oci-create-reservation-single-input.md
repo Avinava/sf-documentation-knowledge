@@ -5,12 +5,10 @@ topic: oci-create-reservation-single-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.491Z
+lastCollected: 2026-04-07T18:37:09.260Z
 estimatedTokens: 211
-keywords: [OCI, Reservation, Input, quantity, product, Omnichannel, Inventory, location, group, reserve]
+keywords: [OCI, Reservation, quantity, product, Omnichannel, Inventory, location, group, reserve]
 ---
-
-# OCI Create Reservation Single Input
 
 > A quantity of a product and an Omnichannel Inventory location or
       location group at which to reserve it.

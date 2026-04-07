@@ -5,12 +5,10 @@ topic: credentialstuffingeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.033Z
+lastCollected: 2026-04-07T18:38:58.905Z
 estimatedTokens: 1495
-keywords: [CredentialStuffingEventStore, Tracks, user, successfully, logs, Salesforce, identified, credential, stuffing, attack, refers, large-scale, automated, login, requests]
+keywords: [CredentialStuffingEventStore, Tracks, user, successfully, logs, Salesforce, identified, credential, stuffing, attack, refers, large-scale, automated, login, requests, stolen, credentials, stores, event, CredentialStuffingEvent, API, 49.0]
 ---
-
-# CredentialStuffingEventStore
 
 > Tracks when a user successfully logs into Salesforce during an
 			identified credential stuffing attack. Credential stuffing refers to large-scale

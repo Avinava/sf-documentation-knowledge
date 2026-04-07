@@ -5,12 +5,10 @@ topic: embeddedservicemenusettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.894Z
+lastCollected: 2026-04-07T18:36:25.361Z
 estimatedTokens: 1576
-keywords: [EmbeddedServiceMenuSettings, setup, node, creating, channel, menu, deployment, menus, ways, customers, contact, business, extends, Metadata, inherits]
+keywords: [EmbeddedServiceMenuSettings, EmbeddedServiceCustomLabel, EmbeddedServiceCustomization, EmbeddedServiceResource, EmbeddedServiceMenuItem, setup, node, creating, channel, menu, deployment, menus, ways, customers, contact, business, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EmbeddedServiceMenuSettings
 
 > Represents a setup node for creating a
       channel menu deployment. Channel menus list the ways in which customers can contact your

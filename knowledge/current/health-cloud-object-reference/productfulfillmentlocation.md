@@ -5,12 +5,10 @@ topic: productfulfillmentlocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.196Z
+lastCollected: 2026-04-07T18:37:46.807Z
 estimatedTokens: 759
-keywords: [ProductFulfillmentLocation, Associates, business, account, product, inventory, responsible, rep, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [ProductFulfillmentLocation, Associates, business, account, product, inventory, responsible, rep, API, 49.0]
 ---
-
-# ProductFulfillmentLocation
 
 > Associates a business account and a product inventory with the responsible
       field rep. This object is available in API version 49.0 and later.

@@ -5,12 +5,10 @@ topic: predict-values-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.829Z
+lastCollected: 2026-04-07T18:39:18.552Z
 estimatedTokens: 108
-keywords: [Predict, Input, node, recipe]
+keywords: [Predict, node, recipe]
 ---
-
-# Predict Values Field Input
 
 > A field for a predict values node in a recipe.
 

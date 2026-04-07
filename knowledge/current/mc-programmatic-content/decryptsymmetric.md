@@ -5,12 +5,10 @@ topic: decryptsymmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.316Z
+lastCollected: 2026-04-07T18:40:21.600Z
 estimatedTokens: 784
-keywords: [DecryptSymmetric, Function, Ordinal, Encrypted, data, passed, Algorithm, encrypt, **Overview**, **Syntax**, Usage, Mode, Padding]
+keywords: [DecryptSymmetric, Mode, Padding, Function, Ordinal, Encrypted, passed, Algorithm, encrypt, **Overview**, **Syntax**]
 ---
-
-# DecryptSymmetric
 
 > DecryptSymmetric(1, 2, 3, 4, 5, 6, 7, 8)
 

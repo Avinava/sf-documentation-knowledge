@@ -5,12 +5,10 @@ topic: duplicatejobmatchingruledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.143Z
+lastCollected: 2026-04-07T18:38:30.011Z
 estimatedTokens: 273
-keywords: [DuplicateJobMatchingRuleDefinition, Setup, specifying, MatchingRule, DuplicateJob, instances, share, DuplicateJobDefinition, Calls, Special, Access, Rules]
+keywords: [DuplicateJobMatchingRuleDefinition, Setup, specifying, MatchingRule, DuplicateJob, instances, share, DuplicateJobDefinition]
 ---
-
-# DuplicateJobMatchingRuleDefinition
 
 > Setup object specifying a MatchingRule to use with DuplicateJob
    instances that share a DuplicateJobDefinition.

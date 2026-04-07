@@ -5,12 +5,10 @@ topic: notification-setting-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.455Z
+lastCollected: 2026-04-07T18:37:09.220Z
 estimatedTokens: 219
-keywords: [Notification, Setting, Input]
+keywords: [Notification, Setting]
 ---
-
-# Notification Setting Input
 
 > Notification setting input.
 

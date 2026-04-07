@@ -5,12 +5,10 @@ topic: providersearchsynclog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.176Z
+lastCollected: 2026-04-07T18:37:47.796Z
 estimatedTokens: 1180
-keywords: [ProviderSearchSyncLog, log, provider, search, data, sync, status, healthcare, record, API, version, 49.0, later, Calls, Associated]
+keywords: [ProviderSearchSyncLog, log, provider, search, sync, status, healthcare, record, API, 49.0]
 ---
-
-# ProviderSearchSyncLog
 
 > Represents a log with information about the provider search data sync status
          of a healthcare provider record. This object is available in API version 49.0 and

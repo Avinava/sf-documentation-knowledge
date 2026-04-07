@@ -5,12 +5,10 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.745Z
+lastCollected: 2026-04-07T18:38:41.469Z
 estimatedTokens: 851
-keywords: [Skill, category, group, Chat, users, service, resources, Workforce, Engagement, API, version, 24.0, later, Calls, Usage]
+keywords: [Skill, category, group, Chat, users, service, resources, Workforce, Engagement, API, 24.0]
 ---
-
-# Skill
 
 > Represents a category or group of Chat users or  service resources in
    Field Service or Workforce Engagement. This object is available in API version 24.0 and

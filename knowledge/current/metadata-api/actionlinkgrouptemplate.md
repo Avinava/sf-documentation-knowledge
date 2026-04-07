@@ -5,12 +5,10 @@ topic: actionlinkgrouptemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.859Z
+lastCollected: 2026-04-07T18:36:22.064Z
 estimatedTokens: 2027
-keywords: [ActionLinkGroupTemplate, action, link, group, template, templates, let, reuse, definitions, package, distribute, links, button, feed, element]
+keywords: [ActionLinkGroupTemplate, ActionLinkTemplate, action, link, group, template, templates, let, reuse, definitions, package, distribute, links, button, Clicking, take, user, another, Web, initiate, file, download, invoke, API, call, external, server, Salesforce, integrate, third-party, services, Every, belongs, mutually, exclusive, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ActionLinkGroupTemplate
 
 > Represents the action link group template.
       Action link templates let you reuse action link definitions and package and distribute action

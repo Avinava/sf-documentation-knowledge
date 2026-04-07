@@ -5,12 +5,10 @@ topic: fulfillmentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.122Z
+lastCollected: 2026-04-07T18:35:49.091Z
 estimatedTokens: 807
-keywords: [FulfillmentAsset, instance, technical, product, provide, customer, asset, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [FulfillmentAsset, instance, technical, product, provide, customer, asset, API, 61.0]
 ---
-
-# FulfillmentAsset
 
 > Represents an instance of a technical product used to provide a
          customer asset. This object is available in API version 61.0 and later.

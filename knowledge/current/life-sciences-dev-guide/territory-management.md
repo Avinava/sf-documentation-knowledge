@@ -5,12 +5,10 @@ topic: territory-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.891Z
+lastCollected: 2026-04-07T18:37:57.435Z
 estimatedTokens: 945
-keywords: [Territory, Management, supports, strategically, organizing, territories, aligning, healthcare, providers, HCPs, organizations, HCOs, optimize, resource, allocation]
+keywords: [Territory, Management, supports, strategically, organizing, territories, aligning, healthcare, providers, HCPs, organizations, HCOs, optimize, resource, allocation, improve, engagement, Life, Sciences, Cloud, industry-specific, features, integrated, Salesforce, Enterprise, Alignment, Content, Template, Assignment, User, Downtime]
 ---
-
-# Territory Management
 
 > Territory Management supports strategically organizing territories and aligning
   healthcare providers (HCPs) and healthcare organizations (HCOs) to territories. Use Territory

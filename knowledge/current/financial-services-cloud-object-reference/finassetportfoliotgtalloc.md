@@ -5,12 +5,10 @@ topic: finassetportfoliotgtalloc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.560Z
+lastCollected: 2026-04-07T18:37:37.343Z
 estimatedTokens: 1301
-keywords: [FinAssetPortfolioTgtAlloc, Stores, target, asset, allocation, financial, account, person, household, API, version, 62.0, later, Calls, Associated]
+keywords: [FinAssetPortfolioTgtAlloc, Stores, target, asset, allocation, financial, account, person, household, API, 62.0]
 ---
-
-# FinAssetPortfolioTgtAlloc
 
 > Stores target asset allocation for a financial account, person account, or
          household. This object is available in API version 62.0 and later.

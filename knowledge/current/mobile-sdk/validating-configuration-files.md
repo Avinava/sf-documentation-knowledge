@@ -5,12 +5,10 @@ topic: validating-configuration-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.602Z
+lastCollected: 2026-04-07T18:40:26.847Z
 estimatedTokens: 702
-keywords: [Validating, Configuration, Files, you’re, writing, formally, structured, text, schema, validation, useful, any, level, SmartStore, Mobile]
+keywords: [Validating, Configuration, Files, you’re, writing, formally, structured, text, schema, validation, useful, any, level, SmartStore, Mobile, Sync, especially, welcome, complex, configurations, handle, records, SDK, Utilities, Salesforce, CLI, Command, Line, Validators, Change]
 ---
-
-# Validating Configuration Files
 
 > When you’re writing formally structured text files, schema validation is useful at any
   level. For SmartStore and Mobile

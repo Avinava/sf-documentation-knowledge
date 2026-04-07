@@ -5,12 +5,10 @@ topic: recipe-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.888Z
+lastCollected: 2026-04-07T18:39:18.609Z
 estimatedTokens: 526
-keywords: [Recipe, Input, data, prep]
+keywords: [Recipe, prep]
 ---
-
-# Recipe Input
 
 > A data prep recipe.
 

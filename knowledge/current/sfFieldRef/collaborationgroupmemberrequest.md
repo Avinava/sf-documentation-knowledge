@@ -5,12 +5,10 @@ topic: collaborationgroupmemberrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.028Z
+lastCollected: 2026-04-07T18:39:34.462Z
 estimatedTokens: 313
-keywords: [CollaborationGroupMemberRequest, join, Chatter, group, API, version, 21.0, later]
+keywords: [CollaborationGroupMemberRequest, join, Chatter, group, API, 21.0]
 ---
-
-# CollaborationGroupMemberRequest
 
 > Represents a request to join a
         private Chatter group.

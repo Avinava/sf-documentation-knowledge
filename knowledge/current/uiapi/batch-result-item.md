@@ -5,12 +5,10 @@ topic: batch-result-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.552Z
+lastCollected: 2026-04-07T18:40:11.546Z
 estimatedTokens: 191
 keywords: [Batch, Result, Item, results, subrequest]
 ---
-
-# Batch Result Item
 
 > The results of one subrequest in a batch request.
 

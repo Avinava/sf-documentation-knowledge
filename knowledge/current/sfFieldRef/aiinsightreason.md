@@ -5,12 +5,10 @@ topic: aiinsightreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.905Z
+lastCollected: 2026-04-07T18:39:23.841Z
 estimatedTokens: 430
-keywords: [AIInsightReason, Einstein, prediction, insight, reason, API, version, 47.0, later]
+keywords: [AIInsightReason, Einstein, prediction, insight, reason, API, 47.0]
 ---
-
-# AIInsightReason
 
 > Represents an Einstein prediction insight reason. This object is available
     in API version 47.0 and later.

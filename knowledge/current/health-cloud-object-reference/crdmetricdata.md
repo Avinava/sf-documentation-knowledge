@@ -5,12 +5,10 @@ topic: crdmetricdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.163Z
+lastCollected: 2026-04-07T18:37:44.412Z
 estimatedTokens: 1182
-keywords: [CRDMetricData, FHIR, resource, maps, ServiceInformationRequest, ServiceInfoRequestDetail, ServiceInfoResponseCoverage, SvcInfoRespCoverageDetail, ServiceInfoResponseAction, ServiceInfoRespSuggestion, ServiceInfoRespOvrideOptobjects, V4.0, Coverage, Requirement, Discovery]
+keywords: [CRDMetricData, FHIR, resource, maps, ServiceInformationRequest, ServiceInfoRequestDetail, ServiceInfoResponseCoverage, SvcInfoRespCoverageDetail, ServiceInfoResponseAction, ServiceInfoRespSuggestion, ServiceInfoRespOvrideOptobjects, V4.0, Coverage, Requirement, Discovery, Model, Mapping]
 ---
-
-# CRDMetricData
 
 > The CRDMetricData FHIR resource maps to the
    ServiceInformationRequest, ServiceInfoRequestDetail,

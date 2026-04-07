@@ -5,12 +5,10 @@ topic: vpl360csr-drfetchstripecustid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.248Z
+lastCollected: 2026-04-07T18:38:11.567Z
 estimatedTokens: 343
-keywords: [VPL360csr-DRFetchStripeCustId, Omnistudio, Data, Mapper, agent, console, fetch, payment, customer, email, address, account, Sample, Input, Output]
+keywords: [VPL360csr-DRFetchStripeCustId, Omnistudio, Mapper, agent, console, fetch, payment, customer, email, address, account, Sample]
 ---
-
-# VPL360csr-DRFetchStripeCustId
 
 > This Omnistudio Data Mapper is used in the agent console to
     fetch the payment customer ID and email address for an account.

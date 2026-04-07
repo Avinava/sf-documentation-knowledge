@@ -5,12 +5,10 @@ topic: range-search-facet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.351Z
+lastCollected: 2026-04-07T18:37:22.457Z
 estimatedTokens: 278
 keywords: [Range, Search, Facet, minimum, maximum, product, results]
 ---
-
-# Range Search Facet
 
 > Range facet with minimum and maximum values in product search results.
 

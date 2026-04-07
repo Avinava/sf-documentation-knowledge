@@ -5,12 +5,10 @@ topic: shifty-the-bot---manage-your-workforce-through-sms-bot-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.472Z
+lastCollected: 2026-04-07T18:40:14.483Z
 estimatedTokens: 637
-keywords: [Shifty, Bot, Manage, Workforce, SMS, Interactions, agents, aren't, work, they, don't, always, access, their, schedule]
+keywords: [Prerequisites, Shifty, Bot, Manage, Workforce, SMS, Interactions, agents, aren't, work, they, don't, always, their, schedule, Salesforce, bots, needing, Step, Turn, Einstein, Install, Package, Deploy, Channel, Test]
 ---
-
-# Shifty the Bot - Manage Your Workforce Through SMS Bot Interactions
 
 > When your agents aren't at work, they don't always have access to
       their schedule in Salesforce. With SMS bots you can update a schedule without needing to

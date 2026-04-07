@@ -5,12 +5,10 @@ topic: record-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.507Z
+lastCollected: 2026-04-07T18:37:22.613Z
 estimatedTokens: 81
 keywords: [Record, Capability, comment, attachment]
 ---
-
-# Record Capability
 
 > If a comment has this capability, it has a record attachment.
 

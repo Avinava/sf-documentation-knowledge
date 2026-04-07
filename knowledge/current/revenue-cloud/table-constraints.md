@@ -5,12 +5,10 @@ topic: table-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.667Z
+lastCollected: 2026-04-07T18:35:42.553Z
 estimatedTokens: 724
-keywords: [Constraints, constraint, Modeling, Language, CML, define, combinations, two, attributes, rows, definition, Import, Data, Salesforce, Populate]
+keywords: [Constraints, constraint, Modeling, Language, CML, define, combinations, two, attributes, rows, definition, Import, Salesforce, Populate, Imported, Explanation]
 ---
-
-# Table Constraints
 
 > The table constraint in Constraint Modeling Language (CML) is used to define a set of
     valid combinations of values for two or more attributes. These combinations are specified in

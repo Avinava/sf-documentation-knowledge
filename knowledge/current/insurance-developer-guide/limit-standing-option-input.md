@@ -5,12 +5,10 @@ topic: limit-standing-option-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.259Z
+lastCollected: 2026-04-07T18:37:51.246Z
 estimatedTokens: 386
-keywords: [Limit, Standing, Option, Input, representation, options]
+keywords: [Limit, Standing, Option, options]
 ---
-
-# Limit Standing Option Input
 
 > Input representation for limit standing options.
 

@@ -5,12 +5,10 @@ topic: frcstcustmzadjustmentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.787Z
+lastCollected: 2026-04-07T18:39:41.420Z
 estimatedTokens: 253
 keywords: [FrcstCustmzAdjustmentShare, Sharing, FrcstCustmzAdjustment]
 ---
-
-# FrcstCustmzAdjustmentShare
 
 > Sharing for FrcstCustmzAdjustment.
 

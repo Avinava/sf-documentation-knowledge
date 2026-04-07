@@ -5,12 +5,10 @@ topic: store-hl7-v23-messages-in-salesforce-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.523Z
+lastCollected: 2026-04-07T18:37:44.867Z
 estimatedTokens: 366
-keywords: [Store, HL7, v2.3, Messages, Salesforce, Standard, Objects, Fast, Health, Interoperability, Resources, FHIR, defined, Level, Seven]
+keywords: [Store, HL7, v2.3, Messages, Salesforce, Standard, Fast, Health, Interoperability, Resources, FHIR, defined, Level, Seven, database, framework, facilitate, electronic, healthcare, systems, Because, Clinical, Model, built, align, v4.0, compatible, predecessor, However, way, platform, works, implementation, varies, recommendations, certain, cases]
 ---
-
-# Store HL7 v2.3 Messages in Salesforce Standard Objects
 
 > Like the Fast Health Interoperability Resources (FHIR) standard defined by Health Level
     Seven (HL7), HL7 v2.3 is also a database framework defined by HL7 to facilitate interoperability

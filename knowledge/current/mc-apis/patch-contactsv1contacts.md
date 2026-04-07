@@ -5,12 +5,10 @@ topic: patch-contactsv1contacts
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.611Z
+lastCollected: 2026-04-07T18:40:20.867Z
 estimatedTokens: 1056
-keywords: [PATCH, contacts, Updates, attribute, groups, **Overview**, Usage]
+keywords: [PATCH, contacts, Updates, attribute, groups, **Overview**]
 ---
-
-# PATCH /contacts/v1/contacts
 
 > Updates contacts with the specified information in the specified attribute groups.
 

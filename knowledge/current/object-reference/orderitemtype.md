@@ -5,12 +5,10 @@ topic: orderitemtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.792Z
+lastCollected: 2026-04-07T18:38:37.059Z
 estimatedTokens: 321
-keywords: [OrderItemType, whether, order, product, line, charge, API, version, 48.0, later, Calls]
+keywords: [OrderItemType, whether, order, product, line, charge, API, 48.0]
 ---
-
-# OrderItemType
 
 > Shows whether the order product is a product line or charge line. This
     object is available in API version 48.0 and later.

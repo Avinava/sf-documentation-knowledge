@@ -5,12 +5,10 @@ topic: extdatashare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.479Z
+lastCollected: 2026-04-07T18:39:40.073Z
 estimatedTokens: 496
-keywords: [ExtDataShare, data, share, collection, Cloud, objects, shared, orgs, third-party, partners, API, version, 56.0, later]
+keywords: [ExtDataShare, share, collection, Cloud, shared, orgs, third-party, partners, API, 56.0]
 ---
-
-# ExtDataShare
 
 > Represents a data share, which is a collection of Data Cloud objects that can
          be shared with other Data Cloud orgs or third-party partners. This object is available

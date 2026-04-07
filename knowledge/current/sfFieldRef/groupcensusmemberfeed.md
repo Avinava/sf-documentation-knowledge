@@ -5,12 +5,10 @@ topic: groupcensusmemberfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.557Z
+lastCollected: 2026-04-07T18:39:43.112Z
 estimatedTokens: 361
-keywords: [GroupCensusMemberFeed, Feed, tracking, GroupCensusMember]
+keywords: [GroupCensusMemberFeed, GroupCensusMember]
 ---
-
-# GroupCensusMemberFeed
 
 > Feed tracking for GroupCensusMember.
 

@@ -6,13 +6,10 @@ topic: manage-appexchange-checkout-subscription-payments-that-require-customer-a
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.075Z
+lastCollected: 2026-04-07T18:38:45.914Z
 estimatedTokens: 362
-keywords: [Manage, AppExchange, Checkout, Subscription, Payments, Require, Customer, Authorization, payment, fails, because, requires, determine, how, Stripe]
+keywords: [Manage, AppExchange, Checkout, Subscription, Payments, Require, Customer, Authorization, payment, fails, because, requires, determine, how, Stripe, handles, configure, cancel, mark, unpaid, take, action]
 ---
-
-# Manage AppExchange Checkout Subscription Payments That Require Customer
-  Authorization
 
 > If a Checkout subscription payment fails because it requires customer authorization,
   determine how Stripe handles the related subscription. For example, you can configure Stripe to

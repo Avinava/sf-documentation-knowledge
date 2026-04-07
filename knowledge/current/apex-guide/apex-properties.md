@@ -5,12 +5,10 @@ topic: apex-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.416Z
+lastCollected: 2026-04-07T18:36:16.634Z
 estimatedTokens: 1286
-keywords: [Apex, similar, variable, however, additional, things, code, it’s, accessed, validate, data, change, made, prompt, action]
+keywords: [Apex, similar, variable, however, additional, things, code, it’s, accessed, validate, change, made, prompt, action, Automatic, Modifiers, Accessors]
 ---
-
-# Apex Properties
 
 > An Apex property is similar to a variable;
                 however, you can do additional things in your code to a property value before it’s

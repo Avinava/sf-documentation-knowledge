@@ -5,12 +5,10 @@ topic: secure-your-agentforce-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.315Z
+lastCollected: 2026-04-07T18:38:47.290Z
 estimatedTokens: 225
 keywords: [Secure, Agentforce, Solution, solutions, listed, AppExchange, adhere, requirements]
 ---
-
-# Secure Your Agentforce Solution
 
 > All Agentforce solutions listed on AppExchange must adhere to these
     requirements.

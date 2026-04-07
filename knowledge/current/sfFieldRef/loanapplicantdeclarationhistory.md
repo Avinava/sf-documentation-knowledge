@@ -5,12 +5,10 @@ topic: loanapplicantdeclarationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.111Z
+lastCollected: 2026-04-07T18:39:46.672Z
 estimatedTokens: 275
-keywords: [LoanApplicantDeclarationHistory, History, tracked, LoanApplicantDeclaration]
+keywords: [LoanApplicantDeclarationHistory, tracked, LoanApplicantDeclaration]
 ---
-
-# LoanApplicantDeclarationHistory
 
 > History for tracked fields of LoanApplicantDeclaration.
 

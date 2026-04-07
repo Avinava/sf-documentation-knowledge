@@ -5,12 +5,10 @@ topic: external-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.565Z
+lastCollected: 2026-04-07T18:36:53.936Z
 estimatedTokens: 407
-keywords: [External, Data, integrate, CRM, Analytics, queries, lenses, designer]
+keywords: [External, integrate, CRM, Analytics, queries, lenses, designer]
 ---
-
-# External Data
 
 > You can integrate external data into CRM Analytics to make the data available for
     queries from lenses and designer.

@@ -5,12 +5,10 @@ topic: care-plans-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.543Z
+lastCollected: 2026-04-07T18:39:01.687Z
 estimatedTokens: 484
 keywords: [Care, Plans, POST, plan, records]
 ---
-
-# Care Plans (POST)
 
 > Create care plan records.
 

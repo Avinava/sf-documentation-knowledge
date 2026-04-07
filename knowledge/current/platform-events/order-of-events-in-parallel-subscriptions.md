@@ -5,12 +5,10 @@ topic: order-of-events-in-parallel-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.327Z
+lastCollected: 2026-04-07T18:38:58.182Z
 estimatedTokens: 329
 keywords: [Order, Events, Parallel, Subscriptions, distributed, doesn't, always, match, event, bus]
 ---
-
-# Order of Events in Parallel Subscriptions
 
 > The order of events that get distributed to the parallel subscriptions doesn't always
     match the order of events in the event bus.

@@ -5,12 +5,10 @@ topic: initiate-rollback-on-last-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.144Z
+lastCollected: 2026-04-07T18:35:39.920Z
 estimatedTokens: 396
-keywords: [Initiate, Rollback, Action, reversal, asset, rectify, any, transactional, errors, meet, changing, business, requirements, REST, HTTP]
+keywords: [Inputs, Outputs, Initiate, Rollback, Action, reversal, asset, rectify, any, transactional, errors, meet, changing, business, requirements, REST, HTTP]
 ---
-
-# Initiate Rollback on Last Action
 
 > Initiate the reversal of the last action on an asset to rectify any
             transactional errors or to meet changing business requirements.

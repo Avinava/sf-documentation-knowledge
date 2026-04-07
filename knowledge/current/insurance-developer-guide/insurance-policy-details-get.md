@@ -5,12 +5,10 @@ topic: insurance-policy-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.572Z
+lastCollected: 2026-04-07T18:37:51.618Z
 estimatedTokens: 218
 keywords: [Insurance, Policy, context, includes, assets, participants, coverages, query, additional]
 ---
-
-# Insurance Policy Details (GET)
 
 > Get the context ID and the insurance policy details. This includes related assets,
     participants, and coverages. Use query parameters to request additional information.

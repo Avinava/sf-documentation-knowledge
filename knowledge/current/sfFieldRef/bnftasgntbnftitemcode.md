@@ -5,12 +5,10 @@ topic: bnftasgntbnftitemcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.807Z
+lastCollected: 2026-04-07T18:39:29.932Z
 estimatedTokens: 334
-keywords: [BnftAsgntBnftItemCode, junction, benefit, assignment, item, code, assigned, beneficiary, API, version, 66.0, later]
+keywords: [BnftAsgntBnftItemCode, junction, benefit, assignment, item, code, assigned, beneficiary, API, 66.0]
 ---
-
-# BnftAsgntBnftItemCode
 
 > Represents a junction between a benefit assignment and a benefit item code.
          Indicates the benefit item assigned to the beneficiary. This object is available in

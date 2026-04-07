@@ -5,12 +5,10 @@ topic: durable-pushtopic-streaming-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.904Z
+lastCollected: 2026-04-07T18:36:51.207Z
 estimatedTokens: 900
 keywords: [Durable, PushTopic, Streaming, Sample, Visualforce, how, replay, options, subscribe, receive, event, notifications, Generate, Events]
 ---
-
-# Durable PushTopic Streaming Sample
 
 > The Durable PushTopic Streaming Visualforce sample shows you how to use replay
   options to subscribe and receive durable PushTopic event notifications.

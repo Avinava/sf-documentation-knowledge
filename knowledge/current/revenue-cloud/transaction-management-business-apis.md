@@ -5,12 +5,10 @@ topic: transaction-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.898Z
+lastCollected: 2026-04-07T18:35:47.932Z
 estimatedTokens: 1314
-keywords: [Transaction, Management, Business, APIs, fetch, instant, pricing, data, quote, order]
+keywords: [Transaction, Management, Business, APIs, fetch, instant, pricing, quote, order]
 ---
-
-# Transaction Management Business APIs
 
 > Use the Transaction Management Business APIs to fetch instant pricing data on a quote
     or an order, to create a quote, or to create an order.

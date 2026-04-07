@@ -5,12 +5,10 @@ topic: create-a-batch-of-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.353Z
+lastCollected: 2026-04-07T18:40:11.345Z
 estimatedTokens: 577
 keywords: [Batch, Records, multiple]
 ---
-
-# Create a Batch of Records
 
 > Create multiple records. You can create, update, and delete up to 200 records in a
     single request.

@@ -5,12 +5,10 @@ topic: recurring-activities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.800Z
+lastCollected: 2026-04-07T18:37:05.514Z
 estimatedTokens: 980
 keywords: [Recurring, Activities, activity, series, record, tracked, change, event, occurrence, individual]
 ---
-
-# Recurring Activities
 
 > The activity series record is tracked in a single change event. Each occurrence in the
     series is tracked by an individual change event.

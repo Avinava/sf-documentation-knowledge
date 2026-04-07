@@ -5,12 +5,10 @@ topic: convertcurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.866Z
+lastCollected: 2026-04-07T18:40:09.805Z
 estimatedTokens: 668
-keywords: [convertCurrency, SELECT, statement, SOQL, query, convert, currency, user’s, action, requires, org, multiple, currencies, enabled, Considerations, SOSL, organization, multi-currency]
+keywords: [convertCurrency, SELECT, statement, SOQL, query, convert, currency, user’s, action, requires, org, multiple, currencies, enabled, Considerations, Workarounds, SOSL, organization, multi-currency]
 ---
-
-# convertCurrency()
 
 > Use convertCurrency() in the SELECT statement of a SOQL query to convert currency fields
 		to the user’s currency. This action requires that the org has multiple currencies

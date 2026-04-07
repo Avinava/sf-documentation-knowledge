@@ -5,12 +5,10 @@ topic: benefit-disbursements-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.910Z
+lastCollected: 2026-04-07T18:38:20.656Z
 estimatedTokens: 264
 keywords: [Benefit, Disbursements, POST, hoc, walk-in, participants]
 ---
-
-# Benefit Disbursements (POST)
 
 > Create benefit disbursements for ad hoc walk-in
     participants.

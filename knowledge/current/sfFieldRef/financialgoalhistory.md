@@ -5,12 +5,10 @@ topic: financialgoalhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.092Z
+lastCollected: 2026-04-07T18:39:40.695Z
 estimatedTokens: 259
-keywords: [FinancialGoalHistory, History, tracked, FinancialGoal]
+keywords: [FinancialGoalHistory, tracked, FinancialGoal]
 ---
-
-# FinancialGoalHistory
 
 > History for tracked fields of FinancialGoal.
 

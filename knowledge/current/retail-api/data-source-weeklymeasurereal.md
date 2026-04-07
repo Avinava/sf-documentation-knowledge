@@ -5,12 +5,10 @@ topic: data-source-weeklymeasurereal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.395Z
+lastCollected: 2026-04-07T18:39:11.925Z
 estimatedTokens: 58
-keywords: [Data, Source, WeeklyMeasureReal, sample, code, snippets, integration, metadata, JSON, datasources, configuration, payload]
+keywords: [Source, WeeklyMeasureReal, sample, code, snippets, integration, metadata, JSON, datasources, configuration, payload]
 ---
-
-# Data Source: WeeklyMeasureReal
 
 > This section provides sample code snippets for the integration metadata JSON with the
   data source. The following example shows the datasources configuration payload for

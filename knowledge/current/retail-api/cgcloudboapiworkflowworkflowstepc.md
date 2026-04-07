@@ -5,12 +5,10 @@ topic: cgcloudboapiworkflowworkflowstepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.641Z
+lastCollected: 2026-04-07T18:39:13.061Z
 estimatedTokens: 1085
-keywords: [stores, junction, identify, workflow, steps, apply, API, version, 54.0, later, cgcloud, _BO, _API, _Workflow, _Step]
+keywords: [stores, junction, identify, workflow, steps, apply, API, 54.0, cgcloud, _BO, _API, _Workflow, _Step]
 ---
-
-# cgcloud__BO_API_Workflow_Workflow_Step__c
 
 > This table stores the junction object to identify the workflow steps
          that apply for each workflow. This object is available in API version 54.0 and later.

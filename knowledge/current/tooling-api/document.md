@@ -5,12 +5,10 @@ topic: document
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.985Z
+lastCollected: 2026-04-07T18:36:32.463Z
 estimatedTokens: 1527
-keywords: [Document, file, user, uploaded, Unlike, Attachment, records, documents, attached, parent, Tooling, API, version, 38.0, later]
+keywords: [Document, Limitations, file, user, uploaded, Unlike, Attachment, records, documents, attached, parent, Tooling, API, 38.0, SOAP, REST, HTTP]
 ---
-
-# Document
 
 > Represents a file that a user has uploaded. Unlike Attachment
             records, documents are not attached to a parent object. Available in Tooling API

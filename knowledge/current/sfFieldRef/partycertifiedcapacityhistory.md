@@ -5,12 +5,10 @@ topic: partycertifiedcapacityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.449Z
+lastCollected: 2026-04-07T18:39:51.863Z
 estimatedTokens: 273
-keywords: [PartyCertifiedCapacityHistory, History, tracked, PartyCertifiedCapacity]
+keywords: [PartyCertifiedCapacityHistory, tracked, PartyCertifiedCapacity]
 ---
-
-# PartyCertifiedCapacityHistory
 
 > History for tracked fields of PartyCertifiedCapacity.
 

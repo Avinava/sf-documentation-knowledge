@@ -5,12 +5,10 @@ topic: uitelemetryrsrctmeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.311Z
+lastCollected: 2026-04-07T18:38:43.046Z
 estimatedTokens: 2794
-keywords: [UiTelemetryRsrcTmEventLog, Telemetry, Resource, Timing, events, capture, network, performance, metrics, loading, application’s, resources, event, includes, requests]
+keywords: [UiTelemetryRsrcTmEventLog, Telemetry, Resource, Timing, events, capture, network, performance, metrics, loading, application’s, resources, event, includes, requests, initiated, either, Fetch, API, XMLHttpRequest, 64.0]
 ---
-
-# UiTelemetryRsrcTmEventLog
 
 > UI Telemetry Resource Timing events capture network performance
          metrics related to loading an application’s resources. The event includes requests

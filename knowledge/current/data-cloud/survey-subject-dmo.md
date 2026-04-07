@@ -5,12 +5,10 @@ topic: survey-subject-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.666Z
+lastCollected: 2026-04-07T18:35:54.735Z
 estimatedTokens: 554
-keywords: [Survey, Subject, DMO, Data, Cloud, model, relationship, another, account, case, API, Category, Primary, Area, Key]
+keywords: [Category, Relationships, Survey, Subject, DMO, Cloud, model, relationship, another, account, case, API, Primary, Area, Key]
 ---
-
-# Survey Subject DMO
 
 > The Survey Subject DMO is a Data Cloud data model object (DMO) for a
       relationship between a survey and another object, such as an account or a case.

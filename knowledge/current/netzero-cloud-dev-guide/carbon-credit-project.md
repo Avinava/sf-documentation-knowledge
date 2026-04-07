@@ -5,12 +5,10 @@ topic: carbon-credit-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.413Z
+lastCollected: 2026-04-07T18:38:17.008Z
 estimatedTokens: 384
 keywords: [Carbon, Credit, Project, environmental, generates, credits, removing, greenhouse, gases, preventing, certain, quantity, released]
 ---
-
-# Carbon Credit Project
 
 > The Carbon Credit Project object represents information about the environmental project
     that generates carbon credits by removing greenhouse gases or preventing a certain quantity of

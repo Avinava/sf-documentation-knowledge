@@ -5,12 +5,10 @@ topic: rank-average-distance-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.227Z
+lastCollected: 2026-04-07T18:37:09.947Z
 estimatedTokens: 236
-keywords: [Rank, Average, Distance, Input, order, recipient’s, geographic, location, inventory, locations, fulfill]
+keywords: [Rank, Average, Distance, order, recipient’s, geographic, location, inventory, locations, fulfill]
 ---
-
-# Rank Average Distance Input
 
 > An order recipient’s geographic location and information about sets
       of inventory locations that can fulfill the order.

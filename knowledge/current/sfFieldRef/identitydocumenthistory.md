@@ -5,12 +5,10 @@ topic: identitydocumenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.549Z
+lastCollected: 2026-04-07T18:39:44.202Z
 estimatedTokens: 265
-keywords: [IdentityDocumentHistory, History, tracked, IdentityDocument]
+keywords: [IdentityDocumentHistory, tracked, IdentityDocument]
 ---
-
-# IdentityDocumentHistory
 
 > History for tracked fields of IdentityDocument.
 

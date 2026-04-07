@@ -5,12 +5,10 @@ topic: sync-sustainability-carbon-credit-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.663Z
+lastCollected: 2026-04-07T18:38:16.208Z
 estimatedTokens: 224
-keywords: [Sync, Sustainability, Carbon, Credit, Input, representation, footprint, credits]
+keywords: [Sync, Sustainability, Carbon, Credit, footprint, credits]
 ---
-
-# Sync Sustainability Carbon Credit Input
 
 > Input representation of the carbon footprint sustainability
       credits.

@@ -5,12 +5,10 @@ topic: recordalertdatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.658Z
+lastCollected: 2026-04-07T18:39:04.693Z
 estimatedTokens: 520
-keywords: [RecordAlertDataSource, internal, external, source, record, alert, data, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, API, version, 54.0, later, Calls]
+keywords: [RecordAlertDataSource, internal, external, source, record, alert, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 54.0, SOAP, REST]
 ---
-
-# RecordAlertDataSource
 
 > Represents an internal or external source for record alert data. This
       object is available in API version 54.0 and later.

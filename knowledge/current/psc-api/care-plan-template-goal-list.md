@@ -5,12 +5,10 @@ topic: care-plan-template-goal-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.179Z
+lastCollected: 2026-04-07T18:39:02.386Z
 estimatedTokens: 79
-keywords: [Care, Plan, Template, Goal, Output, representation, goals]
+keywords: [Care, Plan, Template, Goal, goals]
 ---
-
-# Care Plan Template Goal List
 
 > Output representation of the care plan template
     goals.

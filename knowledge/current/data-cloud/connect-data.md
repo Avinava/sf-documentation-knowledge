@@ -5,12 +5,10 @@ topic: connect-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.265Z
+lastCollected: 2026-04-07T18:35:51.122Z
 estimatedTokens: 383
-keywords: [Connect, Data, external, sources, transmit, Cloud]
+keywords: [Connect, external, sources, transmit, Cloud]
 ---
-
-# Connect Data
 
 > Connect external sources to transmit data into Data Cloud.
 

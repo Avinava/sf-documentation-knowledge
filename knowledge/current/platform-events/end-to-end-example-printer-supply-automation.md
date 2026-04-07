@@ -5,12 +5,10 @@ topic: end-to-end-example-printer-supply-automation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.056Z
+lastCollected: 2026-04-07T18:38:57.899Z
 estimatedTokens: 2081
-keywords: [End-to-End, Printer, Supply, Automation, demonstrates, how, sure, office, printers, always, enough, paper, ink, two, platform]
+keywords: [End-to-End, Printer, Supply, Automation, demonstrates, how, sure, office, printers, always, enough, paper, ink, two, platform, events, flows, Status, Vendor, Flow, Order]
 ---
-
-# End-to-End Example: Printer Supply Automation
 
 > This example demonstrates how to make sure that your office printers always have enough
     paper and ink by using two platform events and two flows.

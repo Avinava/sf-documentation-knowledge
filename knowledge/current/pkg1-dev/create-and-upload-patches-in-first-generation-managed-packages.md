@@ -5,12 +5,10 @@ topic: create-and-upload-patches-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.946Z
+lastCollected: 2026-04-07T18:38:54.351Z
 estimatedTokens: 1387
 keywords: [Upload, Patches, First-Generation, Managed, Packages, Patch, versions, developed, maintained, development, org]
 ---
-
-# Create and Upload Patches in First-Generation Managed Packages
 
 > Patch versions are developed and maintained in a patch development org.
 

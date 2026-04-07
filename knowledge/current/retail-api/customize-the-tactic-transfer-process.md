@@ -5,12 +5,10 @@ topic: customize-the-tactic-transfer-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.713Z
+lastCollected: 2026-04-07T18:39:16.253Z
 estimatedTokens: 608
 keywords: [Customize, Tactic, Transfer, Process, modify, promotion, transferred, callable, Apex, customization, hook]
 ---
-
-# Customize the Tactic Transfer Process
 
 > To modify the tactic details related to the promotion being transferred, create a
     callable Apex class as a customization hook.

@@ -5,12 +5,10 @@ topic: prospect
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.800Z
+lastCollected: 2026-04-07T18:38:39.322Z
 estimatedTokens: 1588
-keywords: [Prospect, individual, shared, contact, isn't, yet, qualified, API, version, 63.0, later, Calls]
+keywords: [Prospect, individual, shared, contact, isn't, yet, qualified, API, 63.0]
 ---
-
-# Prospect
 
 > Represents a prospect. A prospect is an individual who has shared contact
       information, but isn't yet qualified. This object is available in API version 63.0 and later.

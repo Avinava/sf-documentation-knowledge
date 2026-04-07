@@ -5,12 +5,10 @@ topic: connectapirecordsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.133Z
+lastCollected: 2026-04-07T18:36:11.418Z
 estimatedTokens: 305
 keywords: [ConnectApi.RecordSummary, Record, summary]
 ---
-
-# ConnectApi.RecordSummary
 
 > Record summary.
 

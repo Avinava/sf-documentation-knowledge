@@ -5,12 +5,10 @@ topic: liveagentclientchatstatusmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.879Z
+lastCollected: 2026-04-07T18:38:50.108Z
 estimatedTokens: 264
-keywords: [liveAgent, clientChatStatusMessage, area, chat, window, displays, system, status, messages, reconnected, Attributes]
+keywords: [Attributes, liveAgent, clientChatStatusMessage, area, chat, window, displays, system, status, messages, reconnected]
 ---
-
-# liveAgent:clientChatStatusMessage
 
 > The area in a chat window that displays system status messages (such as "You are being
 			reconnected").

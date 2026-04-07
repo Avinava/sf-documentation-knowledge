@@ -5,12 +5,10 @@ topic: survey-url-buttons-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.243Z
+lastCollected: 2026-04-07T18:37:23.358Z
 estimatedTokens: 108
-keywords: [Survey, URL, Buttons, Output, representation, Thank]
+keywords: [Survey, URL, Buttons, Thank]
 ---
-
-# Survey URL Buttons Output
 
 > Output representation of the details of the URL buttons on the Thank
       You page in the survey.

@@ -5,12 +5,10 @@ topic: simulation-version-info-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.996Z
+lastCollected: 2026-04-07T18:36:37.593Z
 estimatedTokens: 231
-keywords: [Simulation, Version, Info, Input, run]
+keywords: [Simulation, Info, run]
 ---
-
-# Simulation Version Info Input
 
 > Input information of the version details to run
     simulation.

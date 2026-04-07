@@ -5,12 +5,10 @@ topic: get-started-with-the-soap-web-services-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.295Z
+lastCollected: 2026-04-07T18:40:17.457Z
 estimatedTokens: 271
 keywords: [Started, SOAP, Web, Services, API, topics, connect, development, environment, Marketing, Cloud, sample, code, common, scenarios]
 ---
-
-# Get Started with the SOAP Web Services API
 
 > Use these topics to connect your development environment to the Marketing Cloud SOAP API and get sample code for common API scenarios.
 

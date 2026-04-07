@@ -5,12 +5,10 @@ topic: sql-formula-date-only-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.001Z
+lastCollected: 2026-04-07T18:39:18.729Z
 estimatedTokens: 149
-keywords: [SQL, Formula, Date, Input, recipe, node]
+keywords: [SQL, Formula, Date, recipe, node]
 ---
-
-# SQL Formula Date Only Field Input
 
 > The SQL formula date only field for a recipe node.
 

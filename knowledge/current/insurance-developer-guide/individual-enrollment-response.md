@@ -5,12 +5,10 @@ topic: individual-enrollment-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.303Z
+lastCollected: 2026-04-07T18:37:52.472Z
 estimatedTokens: 153
-keywords: [Individual, Enrollment, Output, representation, API]
+keywords: [Individual, Enrollment, API]
 ---
-
-# Individual Enrollment Response
 
 > Output representation for the Individual Enrollment API.
 

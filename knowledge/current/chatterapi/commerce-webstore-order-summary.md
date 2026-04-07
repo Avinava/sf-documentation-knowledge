@@ -5,12 +5,10 @@ topic: commerce-webstore-order-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.627Z
+lastCollected: 2026-04-07T18:37:12.512Z
 estimatedTokens: 392
 keywords: [Commerce, Webstore, Order, Summary]
 ---
-
-# Commerce Webstore Order Summary
 
 > Get an order summary.
 

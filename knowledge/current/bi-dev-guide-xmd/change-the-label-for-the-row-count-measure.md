@@ -5,12 +5,10 @@ topic: change-the-label-for-the-row-count-measure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.206Z
+lastCollected: 2026-04-07T18:37:02.747Z
 estimatedTokens: 270
 keywords: [Change, Label, Row, Count, Measure, add, appears, “Count, Rows”, whatever, want]
 ---
-
-# Change the Label for the Row Count Measure
 
 > When you add a row count measure, it appears as “Count of Rows” by default. You can
   change this label to whatever you want.

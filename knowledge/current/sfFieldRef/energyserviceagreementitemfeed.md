@@ -5,12 +5,10 @@ topic: energyserviceagreementitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.757Z
+lastCollected: 2026-04-07T18:39:39.420Z
 estimatedTokens: 366
-keywords: [EnergyServiceAgreementItemFeed, Feed, tracking, EnergyServiceAgreementItem]
+keywords: [EnergyServiceAgreementItemFeed, EnergyServiceAgreementItem]
 ---
-
-# EnergyServiceAgreementItemFeed
 
 > Feed tracking for EnergyServiceAgreementItem.
 

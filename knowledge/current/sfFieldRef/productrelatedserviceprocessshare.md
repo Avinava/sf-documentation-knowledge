@@ -5,12 +5,10 @@ topic: productrelatedserviceprocessshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.503Z
+lastCollected: 2026-04-07T18:39:56.075Z
 estimatedTokens: 257
 keywords: [ProductRelatedServiceProcessShare, Sharing, ProductRelatedServiceProcess]
 ---
-
-# ProductRelatedServiceProcessShare
 
 > Sharing for ProductRelatedServiceProcess.
 

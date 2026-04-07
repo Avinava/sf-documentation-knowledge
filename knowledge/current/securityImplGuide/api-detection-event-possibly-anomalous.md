@@ -5,12 +5,10 @@ topic: api-detection-event-possibly-anomalous
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.794Z
+lastCollected: 2026-04-07T18:39:22.688Z
 estimatedTokens: 582
-keywords: [API, Detection, Event, Possibly, Anomalous, Rob, relatively, new, Sales, Operation, Lead, uses, query, Opportunity, extracts]
+keywords: [API, Detection, Event, Possibly, Anomalous, Rob, relatively, new, Sales, Operation, Lead, uses, query, Opportunity, extracts, million, records, previously, queried, different, browser, address]
 ---
-
-# API Detection Event Possibly Anomalous
 
 > Rob, a relatively new Sales Operation Lead, uses an API to query the Opportunity object
     and extracts 10 million records. He previously queried the same object using a different browser

@@ -5,12 +5,10 @@ topic: issue-multi-root-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.005Z
+lastCollected: 2026-04-07T18:37:53.272Z
 estimatedTokens: 1029
-keywords: [Issue, Multi-Root, Policy, issuance, process, begins, policyholder, accepts, quote, provided, insurance, company, creates, parent–child, structure, Creates, new, quoting, managed, outside]
+keywords: [Issue, Multi-Root, Policy, issuance, process, begins, policyholder, accepts, quote, provided, insurance, company, creates, parent–child, structure, parent, serves, lifecycle, container, insured, child, policies, Creates, new, quoting, managed, outside, Salesforce, third-party, system, uses, Rating, API, generate, priced, context, persisting, record]
 ---
-
-# Issue Multi-Root Policy
 
 > The policy issuance process begins after the policyholder accepts the quote provided by
     the insurance company. This process creates a parent–child insurance policy structure in which a

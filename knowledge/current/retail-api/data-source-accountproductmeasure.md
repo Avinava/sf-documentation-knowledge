@@ -5,12 +5,10 @@ topic: data-source-accountproductmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.123Z
+lastCollected: 2026-04-07T18:39:11.725Z
 estimatedTokens: 57
-keywords: [Data, Source, AccountProductMeasure, integration, metadata, JSON, datasources, configuration, payload]
+keywords: [Source, AccountProductMeasure, integration, metadata, JSON, datasources, configuration, payload]
 ---
-
-# Data Source: AccountProductMeasure
 
 > This example provides details on the integration metadata JSON with the data source.
     The following example shows the datasources configuration payload for

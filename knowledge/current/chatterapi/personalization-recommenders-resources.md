@@ -5,12 +5,10 @@ topic: personalization-recommenders-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.234Z
+lastCollected: 2026-04-07T18:37:15.281Z
 estimatedTokens: 212
 keywords: [Personalization, Recommenders, Resources, manage, retrieve]
 ---
-
-# Personalization Recommenders Resources
 
 > Create, manage, and retrieve personalization recommenders.
 

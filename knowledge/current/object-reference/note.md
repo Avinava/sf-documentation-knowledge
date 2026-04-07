@@ -5,12 +5,10 @@ topic: note
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.963Z
+lastCollected: 2026-04-07T18:38:36.149Z
 estimatedTokens: 932
-keywords: [text, associated, custom, standard, Contact, Contract, Opportunity, Calls, Usage]
+keywords: [text, standard, Contact, Contract, Opportunity]
 ---
-
-# Note
 
 > Represents a note, which is text associated with a custom object or a
    standard object, such as a Contact, Contract,

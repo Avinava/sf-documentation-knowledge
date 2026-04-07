@@ -5,12 +5,10 @@ topic: cms-delivery-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.798Z
+lastCollected: 2026-04-07T18:37:11.599Z
 estimatedTokens: 302
 keywords: [CMS, Delivery, Collection, items, channel, Experience, Cloud, site]
 ---
-
-# CMS Delivery Collection
 
 > Get collection items for a channel or Experience Cloud
     site.

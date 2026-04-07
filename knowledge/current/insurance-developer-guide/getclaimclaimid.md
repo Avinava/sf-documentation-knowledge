@@ -5,12 +5,10 @@ topic: getclaimclaimid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.318Z
+lastCollected: 2026-04-07T18:37:49.137Z
 estimatedTokens: 251
-keywords: [GetClaim, claimId, specific, claim, API, Version, Requires, Chatter]
+keywords: [GetClaim, claimId, specific, claim, API, Requires, Chatter]
 ---
-
-# GetClaim(claimId)
 
 > Get the details of a specific claim.
 

@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-override
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.394Z
+lastCollected: 2026-04-07T18:36:59.888Z
 estimatedTokens: 267
-keywords: [Smart, Data, Discovery, Projected, Predictions, Override, settings, Einstein]
+keywords: [Smart, Discovery, Projected, Predictions, Override, settings, Einstein]
 ---
-
-# Smart Data Discovery Projected Predictions Override
 
 > The settings for an Einstein Discovery projected predictions override.
 

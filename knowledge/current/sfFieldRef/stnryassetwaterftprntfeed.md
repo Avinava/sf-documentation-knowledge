@@ -5,12 +5,10 @@ topic: stnryassetwaterftprntfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.304Z
+lastCollected: 2026-04-07T18:40:02.994Z
 estimatedTokens: 363
-keywords: [StnryAssetWaterFtprntFeed, Feed, tracking, StnryAssetWaterFtprnt]
+keywords: [StnryAssetWaterFtprntFeed, StnryAssetWaterFtprnt]
 ---
-
-# StnryAssetWaterFtprntFeed
 
 > Feed tracking for StnryAssetWaterFtprnt.
 

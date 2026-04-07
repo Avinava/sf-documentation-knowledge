@@ -5,12 +5,10 @@ topic: programenrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.558Z
+lastCollected: 2026-04-07T18:37:32.797Z
 estimatedTokens: 240
-keywords: [ProgramEnrollment, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [ProgramEnrollment, API, 59.0]
 ---
-
-# ProgramEnrollment
 
 > This object is available in API version 59.0 and later.
 

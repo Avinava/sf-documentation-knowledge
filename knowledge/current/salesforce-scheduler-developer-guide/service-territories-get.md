@@ -5,12 +5,10 @@ topic: service-territories-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.851Z
+lastCollected: 2026-04-07T18:39:20.609Z
 estimatedTokens: 98
 keywords: [Service, Territories, error, codes, code, messages, Salesforce, Scheduler, API, service-territories, resource]
 ---
-
-# Service Territories (GET)
 
 > Contains the error codes and error code messages related with Salesforce Scheduler
       API for the service-territories (GET)

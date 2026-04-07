@@ -5,12 +5,10 @@ topic: fieldsecurityclassification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.764Z
+lastCollected: 2026-04-07T18:39:40.425Z
 estimatedTokens: 329
-keywords: [FieldSecurityClassification, field’s, data, sensitivity, selected, SecurityClassification, picklist, API, version, 46.0, later]
+keywords: [FieldSecurityClassification, field’s, sensitivity, selected, SecurityClassification, picklist, API, 46.0]
 ---
-
-# FieldSecurityClassification
 
 > Represents a field’s data sensitivity value selected from the
 			SecurityClassification picklist. This object is available in API version 46.0 and

@@ -5,12 +5,10 @@ topic: getreturnvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.104Z
+lastCollected: 2026-04-07T18:38:05.295Z
 estimatedTokens: 153
-keywords: [getReturnValue, Apex, action, any, containing, serializable, JSON, data]
+keywords: [getReturnValue, Apex, action, any, containing, serializable, JSON]
 ---
-
-# getReturnValue()
 
 > Gets the return value of an Apex action. An Apex action can return
    any object containing serializable JSON data.

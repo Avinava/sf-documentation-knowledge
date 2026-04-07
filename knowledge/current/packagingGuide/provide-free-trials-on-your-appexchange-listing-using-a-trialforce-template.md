@@ -5,12 +5,10 @@ topic: provide-free-trials-on-your-appexchange-listing-using-a-trialforce-templa
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.944Z
+lastCollected: 2026-04-07T18:38:46.900Z
 estimatedTokens: 229
-keywords: [Provide, Free, Trials, AppExchange, Listing, Trialforce, Template, enable, add, templates, connected, Partner, Console, Optionally, lead]
+keywords: [Provide, Free, Trials, AppExchange, Listing, Trialforce, Template, enable, add, templates, connected, Partner, Console, Optionally, lead, collection, receive, leads, customers, start]
 ---
-
-# Provide Free Trials on Your AppExchange Listing Using a Trialforce Template
 
 > To enable free trials on your AppExchange listing, add one of the Trialforce templates
     that you connected to the AppExchange Partner Console. Optionally, enable lead collection to

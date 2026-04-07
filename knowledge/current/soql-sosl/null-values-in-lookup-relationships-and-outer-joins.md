@@ -6,13 +6,10 @@ topic: null-values-in-lookup-relationships-and-outer-joins
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.901Z
+lastCollected: 2026-04-07T18:40:09.846Z
 estimatedTokens: 378
 keywords: [Lookup, Relationships, Outer, Joins, Relationship, SOQL, queries, records, relevant, foreign, key, join]
 ---
-
-# null Values in Lookup Relationships and Outer
-			Joins
 
 > Relationship SOQL queries return records, even if the
 			relevant foreign key field has a null value, as with an outer join.

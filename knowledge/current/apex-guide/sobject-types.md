@@ -5,12 +5,10 @@ topic: sobject-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:34.049Z
+lastCollected: 2026-04-07T18:36:19.276Z
 estimatedTokens: 510
-keywords: [sObject, variable, row, data, declared, Apex, SOAP, API, Custom, Labels]
+keywords: [sObject, variable, row, declared, Apex, SOAP, API, Labels]
 ---
-
-# sObject Types
 
 > An sObject variable represents a row of data and can only be declared in Apex using
         SOAP API name of the object.

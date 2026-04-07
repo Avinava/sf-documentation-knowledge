@@ -5,13 +5,11 @@ topic: jsontoken-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.406Z
+lastCollected: 2026-04-07T18:36:12.703Z
 estimatedTokens: 316
 namespace: System
 keywords: [JSONToken, token, parsing, JSON, content]
 ---
-
-# JSONToken Enum
 
 > Contains all token values used for parsing JSON content.
 

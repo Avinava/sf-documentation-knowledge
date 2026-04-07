@@ -5,12 +5,10 @@ topic: manage-sends-to-publication-lists-using-email-send-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.675Z
+lastCollected: 2026-04-07T18:40:17.855Z
 estimatedTokens: 606
-keywords: [Manage, Publication, Email, Send, Definitions, managing, subscriptions, unsubscriptions, via, Why, Subscribed, Unsubscribed, Recipients, How, Sample]
+keywords: [Manage, Publication, Email, Send, Definitions, managing, subscriptions, unsubscriptions, via, Why, Subscribed, Unsubscribed, Recipients, How, Sample, NET, Code, Items]
 ---
-
-# Manage Sends to Publication Lists using Email Send Definitions
 
 > This page contains information about managing subscriptions to and unsubscriptions from publication lists via email send definitions.
 

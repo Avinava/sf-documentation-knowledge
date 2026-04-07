@@ -5,12 +5,10 @@ topic: setcallobjectids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.576Z
+lastCollected: 2026-04-07T18:36:50.844Z
 estimatedTokens: 178
-keywords: [setCallObjectIds, call, IDs, ascending, order, arrival, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, setCallObjectIds, call, IDs, ascending, order, arrival, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# setCallObjectIds()
 
 > Sets call object IDs, in ascending order of arrival.
                 This method is only available in API version 31.0 or

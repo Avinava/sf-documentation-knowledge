@@ -5,12 +5,10 @@ topic: alternative-payment-method-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.459Z
+lastCollected: 2026-04-07T18:37:07.173Z
 estimatedTokens: 274
-keywords: [Alternative, Payment, Input]
+keywords: [Alternative, Payment]
 ---
-
-# Alternative Payment Method Input
 
 > Alternative payment method input.
 

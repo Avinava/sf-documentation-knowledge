@@ -5,12 +5,10 @@ topic: serviceterritoryworktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.015Z
+lastCollected: 2026-04-07T18:40:01.792Z
 estimatedTokens: 384
-keywords: [ServiceTerritoryWorkType, relationship, ServiceTerritory, WorkType, Salesforce, Scheduler, appointments, API, version, 45.0, later]
+keywords: [ServiceTerritoryWorkType, relationship, ServiceTerritory, WorkType, Salesforce, Scheduler, appointments, API, 45.0]
 ---
-
-# ServiceTerritoryWorkType
 
 > Represents the relationship between a ServiceTerritory object and a
 			WorkType object for Salesforce Scheduler appointments. This object is available in

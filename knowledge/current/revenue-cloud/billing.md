@@ -5,13 +5,11 @@ topic: billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.175Z
+lastCollected: 2026-04-07T18:35:42.029Z
 estimatedTokens: 902
 namespace: ConnectApi
 keywords: [Billing, Automate, processes, credit, application, invoice, generation, Generate, schedules, context, service, invoices, schedule]
 ---
-
-# Billing
 
 > Automate processes related to billing, credit application, and invoice generation.
   Generate billing schedules by using context service, and create invoices from a billing

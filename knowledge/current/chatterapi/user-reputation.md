@@ -5,12 +5,10 @@ topic: user-reputation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.354Z
+lastCollected: 2026-04-07T18:37:16.419Z
 estimatedTokens: 73
 keywords: [User, Reputation, user's, Experience, Cloud, site]
 ---
-
-# User Reputation
 
 > Get a user's reputation in an Experience Cloud
     site.

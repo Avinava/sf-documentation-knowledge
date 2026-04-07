@@ -5,12 +5,10 @@ topic: data-manipulation-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.165Z
+lastCollected: 2026-04-07T18:36:19.390Z
 estimatedTokens: 561
-keywords: [Data, Manipulation, Language, Apex, insert, restore, database, DML, operations, allow, modify, records, time, batches]
+keywords: [Manipulation, Language, Apex, insert, restore, database, DML, operations, allow, modify, records, time, batches]
 ---
-
-# Data Manipulation Language
 
 > Apex enables you to insert, update, delete or restore data in the database. DML
         operations allow you to modify records one at a time or in batches.

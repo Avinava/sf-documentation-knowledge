@@ -5,12 +5,10 @@ topic: financialdealasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.905Z
+lastCollected: 2026-04-07T18:39:40.530Z
 estimatedTokens: 398
 keywords: [FinancialDealAsset, assets, included, financial, deal]
 ---
-
-# FinancialDealAsset
 
 > Represents the assets included in the financial deal.
 

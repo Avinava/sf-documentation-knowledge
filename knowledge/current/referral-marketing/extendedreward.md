@@ -5,12 +5,10 @@ topic: extendedreward
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.573Z
+lastCollected: 2026-04-07T18:39:09.946Z
 estimatedTokens: 1223
-keywords: [ExtendedReward, instance, extended, reward, that's, issued, customer, partner, member, API, version, 64.0, later, Calls, Associated]
+keywords: [ExtendedReward, instance, extended, reward, that's, issued, customer, partner, member, API, 64.0]
 ---
-
-# ExtendedReward
 
 > Represents the instance of an extended reward that's issued to a customer, a
          partner, or a member. This object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: inventoryallocationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.769Z
+lastCollected: 2026-04-07T18:38:13.094Z
 estimatedTokens: 408
-keywords: [InventoryAllocationSettings, settings, enabling, Manufacturing, Cloud, features, Inventory, Allocation, Parent, Manifest, Access, File, Suffix, Directory, Location]
+keywords: [InventoryAllocationSettings, settings, enabling, Manufacturing, Cloud, features, Inventory, Allocation, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# InventoryAllocationSettings
 
 > Represents the settings for enabling Manufacturing
 			Cloud features like Inventory Allocation.

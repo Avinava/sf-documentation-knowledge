@@ -5,12 +5,10 @@ topic: user-interface-api-nested-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.933Z
+lastCollected: 2026-04-07T18:40:11.939Z
 estimatedTokens: 3519
 keywords: [User, API, Nested, Bodies, top-level]
 ---
-
-# User Interface API Nested Response Bodies
 
 > These response bodies are nested in top-level response bodies.
 

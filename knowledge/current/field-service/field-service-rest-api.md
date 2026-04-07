@@ -5,12 +5,10 @@ topic: field-service-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.011Z
+lastCollected: 2026-04-07T18:36:46.878Z
 estimatedTokens: 310
 keywords: [Service, REST, API, endpoints, manage, implementation]
 ---
-
-# Field Service REST API
 
 > The following endpoints can be used to manage your field service
   implementation.

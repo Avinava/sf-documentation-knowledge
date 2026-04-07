@@ -5,12 +5,10 @@ topic: vpl360updateaccountdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.271Z
+lastCollected: 2026-04-07T18:38:11.586Z
 estimatedTokens: 169
-keywords: [VPL360UpdateAccountData, Omnistudio, Data, Mapper, loads, updates, account, contact, IDs, updated, records, Sample, Input, Output]
+keywords: [VPL360UpdateAccountData, Omnistudio, Mapper, loads, updates, account, contact, IDs, updated, records, Sample]
 ---
-
-# VPL360UpdateAccountData
 
 > This Omnistudio Data Mapper loads or updates the account and
     contact details, and returns the IDs of the updated records.

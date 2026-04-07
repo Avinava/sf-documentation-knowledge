@@ -5,12 +5,10 @@ topic: configure-the-offline-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.750Z
+lastCollected: 2026-04-07T18:38:15.235Z
 estimatedTokens: 522
 keywords: [Configure, Offline, Experience, provide, supplemental, configuring]
 ---
-
-# Configure the Offline Experience
 
 > In this section, we provide supplemental information on configuring your offline
     experience.

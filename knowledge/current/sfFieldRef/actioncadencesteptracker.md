@@ -5,12 +5,10 @@ topic: actioncadencesteptracker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.513Z
+lastCollected: 2026-04-07T18:39:24.465Z
 estimatedTokens: 539
 keywords: [ActionCadenceStepTracker, step, active, cadence, specific, target]
 ---
-
-# ActionCadenceStepTracker
 
 > Represents a step in an active cadence for a specific cadence
       target.

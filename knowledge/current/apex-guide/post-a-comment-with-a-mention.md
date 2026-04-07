@@ -5,12 +5,10 @@ topic: post-a-comment-with-a-mention
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.820Z
+lastCollected: 2026-04-07T18:36:19.044Z
 estimatedTokens: 156
 keywords: [Post, Comment, Mention, call, ConnectApiHelper, repository]
 ---
-
-# Post a Comment with a Mention
 
 > Make call or use the ConnectApiHelper repository to post a comment with a
     mention.

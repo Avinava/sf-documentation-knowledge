@@ -5,12 +5,10 @@ topic: considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.003Z
+lastCollected: 2026-04-07T18:38:15.516Z
 estimatedTokens: 768
 keywords: [Considerations, Limitations, Consider, guidelines, developing, features, AppReviewService, API, Keep, mind, BarcodeScanner, BiometricsService, CalendarService, ContactsService, DocumentScanner, GeofencingService, LocationService, NFCService, PaymentsService]
 ---
-
-# Considerations and Limitations
 
 > Keep the following in mind when developing features that use the BarcodeScanner
   API.

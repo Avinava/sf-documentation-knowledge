@@ -5,12 +5,10 @@ topic: payment-activity-timeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.109Z
+lastCollected: 2026-04-07T18:37:14.075Z
 estimatedTokens: 129
 keywords: [Payment, Activity, Timeline, Retrieve, intent, chronologically, key, events, relating, place, users, source, truth]
 ---
-
-# Payment Activity Timeline
 
 > Retrieve the payment activity timeline for a payment intent. The timeline
     chronologically shows key events relating to a payment intent in one place, so your users can

@@ -5,12 +5,10 @@ topic: create-gift-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.965Z
+lastCollected: 2026-04-07T18:37:29.076Z
 estimatedTokens: 123
-keywords: [Gift, Input, representation, gifts, including, donor, amount, payment]
+keywords: [Gift, gifts, including, donor, amount, payment]
 ---
-
-# Create Gift Input
 
 > Input representation of the request to create gifts, including donor details, amount, and
     payment method.

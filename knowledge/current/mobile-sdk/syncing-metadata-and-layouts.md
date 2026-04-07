@@ -5,12 +5,10 @@ topic: syncing-metadata-and-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.216Z
+lastCollected: 2026-04-07T18:40:25.578Z
 estimatedTokens: 942
-keywords: [Syncing, Metadata, Layouts, Mobile, SDK, 6.2, introduces, new, API, features, simplify, discovery, presentation, harness, power]
+keywords: [Syncing, Metadata, Layouts, Mobile, SDK, 6.2, introduces, new, API, features, simplify, discovery, presentation, harness, power, Sync, Salesforce, automatically, stores, predefined, soups, offline, structured, models, easy, querying, Implementation]
 ---
-
-# Syncing Metadata and Layouts
 
 > Mobile SDK 6.2
   introduces new API features that simplify object discovery and presentation. These features

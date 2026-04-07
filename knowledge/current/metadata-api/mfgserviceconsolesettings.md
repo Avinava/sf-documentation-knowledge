@@ -5,12 +5,10 @@ topic: mfgserviceconsolesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.625Z
+lastCollected: 2026-04-07T18:36:31.014Z
 estimatedTokens: 535
-keywords: [MfgServiceConsoleSettings, settings, access, Service, Console, Manufacturing.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [MfgServiceConsoleSettings, settings, Service, Console, Manufacturing.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MfgServiceConsoleSettings
 
 > Represents the settings to access the Service Console for
       Manufacturing.This type extends the Metadata metadata type and inherits its

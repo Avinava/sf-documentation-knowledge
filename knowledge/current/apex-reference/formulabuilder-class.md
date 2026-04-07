@@ -5,13 +5,11 @@ topic: formulabuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.369Z
+lastCollected: 2026-04-07T18:36:02.579Z
 estimatedTokens: 2473
 namespace: FormulaEval
-keywords: [FormulaBuilder, build, validate, user-defined, formulas, Usage, parseAsTemplate, templateMode, treatNumericNullAsZero, isNumericNullZero, withFormula, formulaText, withGlobalVariables, formulaGlobals, withReturnType]
+keywords: [FormulaBuilder, build, validate, user-defined, formulas, parseAsTemplate, templateMode, treatNumericNullAsZero, isNumericNullZero, withFormula, formulaText, withGlobalVariables, formulaGlobals, withReturnType, returnType, withType, contextType]
 ---
-
-# FormulaBuilder Class
 
 > Contains methods to build and validate user-defined formulas.
 

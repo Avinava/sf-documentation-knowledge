@@ -5,12 +5,10 @@ topic: lightningexperiencetheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.699Z
+lastCollected: 2026-04-07T18:36:27.182Z
 estimatedTokens: 1038
-keywords: [LightningExperienceTheme, custom, theme, including, BrandingSet, Themes, enable, admins, specify, configurable, attributes, three, colors, five, images]
+keywords: [LightningExperienceTheme, theme, including, BrandingSet, Themes, enable, admins, specify, configurable, attributes, three, colors, five, images, override, SLDS, token, influence, generation, app.css, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LightningExperienceTheme
 
 > Represents the details of a
       custom theme, including the BrandingSet. Themes

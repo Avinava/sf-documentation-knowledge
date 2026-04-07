@@ -5,12 +5,10 @@ topic: delete-a-draft-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.517Z
+lastCollected: 2026-04-07T18:38:46.385Z
 estimatedTokens: 180
 keywords: [Draft, Order, orders, don’t, want, submit, duplicate, can’t, recover]
 ---
-
-# Delete a Draft Order
 
 > You can delete draft orders that you don’t want to submit, like duplicate orders. After
     you delete a draft order, you can’t recover it.

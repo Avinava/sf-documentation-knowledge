@@ -5,12 +5,10 @@ topic: clinicalencounterdiagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.671Z
+lastCollected: 2026-04-07T18:37:42.836Z
 estimatedTokens: 881
-keywords: [ClinicalEncounterDiagnosis, diagnosis, clinical, encounter, child, ClinicalEncounter, API, version, 51.0, later, Calls, Usage, Associated, Objects]
+keywords: [ClinicalEncounterDiagnosis, diagnosis, clinical, encounter, child, ClinicalEncounter, API, 51.0]
 ---
-
-# ClinicalEncounterDiagnosis
 
 > Represents a diagnosis related to a clinical encounter. This object is a child
       object of ClinicalEncounter. This object is available in API version 51.0 and later.

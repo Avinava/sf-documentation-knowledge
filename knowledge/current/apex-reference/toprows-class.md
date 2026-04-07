@@ -5,13 +5,11 @@ topic: toprows-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.878Z
+lastCollected: 2026-04-07T18:36:03.086Z
 estimatedTokens: 1359
 namespace: Reports
 keywords: [TopRows, working, row, limit, filter, rowLimit, direction, getDirection, getRowLimit, setDirection, setRowLimit, toString]
 ---
-
-# TopRows Class
 
 > Contains methods and constructors for working with information about a
       row limit filter.

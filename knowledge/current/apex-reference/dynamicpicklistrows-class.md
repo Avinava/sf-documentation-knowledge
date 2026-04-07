@@ -5,13 +5,11 @@ topic: dynamicpicklistrows-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.223Z
+lastCollected: 2026-04-07T18:36:01.475Z
 estimatedTokens: 2611
 namespace: VisualEditor
-keywords: [DynamicPickListRows, picklist, items, Lightning, component, rows, containsAllRows, addAllRows, addRow, row, clone, getDataRows, setContainsAllRows, size, sort]
+keywords: [DynamicPickListRows, picklist, items, Lightning, rows, containsAllRows, addAllRows, addRow, row, clone, getDataRows, setContainsAllRows, size, sort]
 ---
-
-# DynamicPickListRows Class
 
 > Contains a list of picklist items in a Lightning component on a Lightning page.
 

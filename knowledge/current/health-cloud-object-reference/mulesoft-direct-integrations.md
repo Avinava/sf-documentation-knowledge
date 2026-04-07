@@ -5,12 +5,10 @@ topic: mulesoft-direct-integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.480Z
+lastCollected: 2026-04-07T18:37:42.629Z
 estimatedTokens: 110
-keywords: [MuleSoft, Direct, Integrations, Salesforce, integration, apps, out-of-the-box, templates, pre-built, transformations, integrate, Health, Cloud, external, systems]
+keywords: [MuleSoft, Direct, Integrations, Salesforce, integration, apps, out-of-the-box, templates, pre-built, transformations, integrate, Health, Cloud, external, systems, Exchange]
 ---
-
-# MuleSoft Direct Integrations
 
 > Use the Salesforce integration apps that are out-of-the-box integration templates with
     pre-built transformations that can be used to integrate Health Cloud with external systems.

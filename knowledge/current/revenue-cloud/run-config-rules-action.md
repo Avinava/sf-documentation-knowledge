@@ -5,12 +5,10 @@ topic: run-config-rules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.296Z
+lastCollected: 2026-04-07T18:35:40.074Z
 estimatedTokens: 383
-keywords: [Run, Config, Rules, Action, specific, quote, order, context, transaction, process, steps, part, configuration, directly, Flow]
+keywords: [Inputs, Outputs, Run, Config, Action, specific, quote, order, context, transaction, process, steps, part, configuration, directly, Flow, decouples, rule, execution, configurations, enable, independent, easier, retrieval, responses, REST, HTTP]
 ---
-
-# Run Config Rules Action
 
 > Run rules for a specific quote or order based on a context ID or
             transaction ID, and process other steps that are part of the configuration directly

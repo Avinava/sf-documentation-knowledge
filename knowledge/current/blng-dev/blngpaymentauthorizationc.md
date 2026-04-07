@@ -5,12 +5,10 @@ topic: blngpaymentauthorizationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.247Z
+lastCollected: 2026-04-07T18:37:03.797Z
 estimatedTokens: 1228
-keywords: [blng__PaymentAuthorization__c, process, securing, authorization, customer's, bank, credit, card, issuer, charge, specific, amount, their, account, verifying]
+keywords: [blng__PaymentAuthorization__c, process, securing, authorization, customer's, bank, credit, card, issuer, charge, specific, amount, their, account, verifying, availability, sufficient, funds, blng, _PaymentAuthorization]
 ---
-
-# blng__PaymentAuthorization__c
 
 > Represents the process of securing authorization from a customer's bank or
          credit card issuer to charge a specific amount to their account, verifying the availability

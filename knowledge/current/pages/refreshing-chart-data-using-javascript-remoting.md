@@ -5,12 +5,10 @@ topic: refreshing-chart-data-using-javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.874Z
+lastCollected: 2026-04-07T18:38:48.817Z
 estimatedTokens: 1539
-keywords: [Refreshing, Chart, Data, JavaScript, Remoting, Visualforce, periodically, user’s, actions, custom, code, respond, complex, user, activity]
+keywords: [PieChartRemoteController, Refreshing, Chart, JavaScript, Remoting, Visualforce, periodically, user’s, actions, code, respond, complex, user, activity, timer, events, retrieve, new, whenever]
 ---
-
-# Refreshing Chart Data Using JavaScript Remoting
 
 > Update a Visualforce chart periodically, or in response to a user’s actions, using
 custom JavaScript. JavaScript code can respond to complex user activity

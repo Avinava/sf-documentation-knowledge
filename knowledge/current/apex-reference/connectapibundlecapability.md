@@ -5,12 +5,10 @@ topic: connectapibundlecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.464Z
+lastCollected: 2026-04-07T18:36:06.818Z
 estimatedTokens: 411
-keywords: [ConnectApi.BundleCapability, feed, element, capability, container, elements, bundle]
+keywords: [ConnectApi.BundleCapability, capability, container, bundle]
 ---
-
-# ConnectApi.BundleCapability
 
 > If a feed element has this capability, it has a container of feed
    elements called a bundle.

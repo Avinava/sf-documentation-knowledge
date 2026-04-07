@@ -5,12 +5,10 @@ topic: event-log-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.763Z
+lastCollected: 2026-04-07T18:36:38.414Z
 estimatedTokens: 190
-keywords: [Event, Log, POST, compliance, check, events, control, API, supports, maximum, number, logs, per, audit, calls]
+keywords: [Event, Log, POST, compliance, check, events, control, API, supports, maximum, number, logs, per, audit, year]
 ---
-
-# Event Log (POST)
 
 > Log compliance check events for control. This API supports a maximum number of 25 logs
     per request. You can make up to 200,000 audit log API calls per year.

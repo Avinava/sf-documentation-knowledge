@@ -5,12 +5,10 @@ topic: availability-records-get-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.907Z
+lastCollected: 2026-04-07T18:37:14.957Z
 estimatedTokens: 281
-keywords: [Availability, Records, Retrieve, inventory, data, products, locations, location, groups]
+keywords: [Availability, Records, Retrieve, inventory, products, locations, location, groups]
 ---
-
-# Availability Records, Get Availability
 
 > Retrieve inventory availability data for one or more products at one
       or more inventory locations or location groups.

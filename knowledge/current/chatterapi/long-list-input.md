@@ -5,12 +5,10 @@ topic: long-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.087Z
+lastCollected: 2026-04-07T18:37:08.865Z
 estimatedTokens: 94
-keywords: [Long, Input]
+keywords: [Long]
 ---
-
-# Long List Input
 
 > List of Long values.
 

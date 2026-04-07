@@ -5,12 +5,10 @@ topic: rebate-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.343Z
+lastCollected: 2026-04-07T18:37:06.032Z
 estimatedTokens: 876
-keywords: [Rebate, Management, Standard, Invocable, Actions, Add, members, program, calculate, amounts, upsert, payouts, generate, payout, periods]
+keywords: [Rebate, Management, Standard, Invocable, Actions, Add, members, program, calculate, amounts, upsert, payouts, generate, payout, periods, process, calculation, batch, jobs, CSV, file, REST, API, Developer]
 ---
-
-# Rebate Management Standard Invocable Actions
 
 > Add members to a rebate program, calculate rebate amounts and
       upsert payouts, generate rebate payout periods, process rebate calculation batch jobs, and

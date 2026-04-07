@@ -5,12 +5,10 @@ topic: apexmapinfowindow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.911Z
+lastCollected: 2026-04-07T18:38:50.143Z
 estimatedTokens: 407
-keywords: [apex, mapInfoWindow, info, window, marker, location, <apex, map>, mapInfoWindow>, component, users, click, tap, Visualforce, markup]
+keywords: [Attributes, apex, mapInfoWindow, info, window, marker, location, <apex, map>, mapInfoWindow>, users, click, tap, Visualforce, markup, HTML, CSS, plain, text, Map, Contacts, Account]
 ---
-
-# apex:mapInfoWindow
 
 > Defines an info window for the marker displayed at a location on an <apex:map>. The body of the <apex:mapInfoWindow> component is displayed in the info window when users click or tap the marker. The body of the <apex:mapInfoWindow> can be Visualforce markup, HTML and CSS, or even plain text.
 

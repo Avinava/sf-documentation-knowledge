@@ -5,12 +5,10 @@ topic: smart-data-discovery-numerical-projected-prediction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.238Z
+lastCollected: 2026-04-07T18:36:59.729Z
 estimatedTokens: 146
-keywords: [Smart, Data, Discovery, Numerical, Projected, Prediction, Einstein]
+keywords: [Smart, Discovery, Numerical, Projected, Prediction, Einstein]
 ---
-
-# Smart Data Discovery Numerical Projected Prediction
 
 > An Einstein Discovery numerical projected prediction.
 

@@ -5,12 +5,10 @@ topic: guardrail-current-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.063Z
+lastCollected: 2026-04-07T18:36:39.750Z
 estimatedTokens: 118
-keywords: [Guardrail, Current, Output, representation, guardrails, along, resource]
+keywords: [Guardrail, Current, guardrails, along, resource]
 ---
-
-# Guardrail Current Value
 
 > Output representation of the current values of the guardrails along with the resource
     type.

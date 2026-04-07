@@ -5,12 +5,10 @@ topic: get-messagingv1emaildefinitionsdefinitionkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.227Z
+lastCollected: 2026-04-07T18:40:17.385Z
 estimatedTokens: 427
-keywords: [messaging, email, definitions, definitionKey, send, definition, configuration, key, retrieve, activated, Transactional, Journeys, created, Journey, Builder]
+keywords: [messaging, email, definitions, definitionKey, send, definition, configuration, key, retrieve, activated, Transactional, Journeys, created, Journey, Builder, **Overview**, HTTP, Responses]
 ---
-
-# GET /messaging/v1/email/definitions/{definitionKey}
 
 > Gets send definition configuration details for a definition key. You can only retrieve activated Transactional Send Journeys created in Journey Builder.
 

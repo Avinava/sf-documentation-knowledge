@@ -5,12 +5,10 @@ topic: test-harness-home-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.618Z
+lastCollected: 2026-04-07T18:38:15.102Z
 estimatedTokens: 721
-keywords: [Test, Harness, Home, Tab, app, base, tool, daily, development, activities, screen, start, log, Salesforce, direct]
+keywords: [Test, Harness, Home, Tab, app, base, tool, daily, development, activities, screen, start, log, Salesforce, direct, essential, tools, Offline, Records, Actions, Recently, Viewed]
 ---
-
-# Test Harness Home Tab
 
 > The Home tab of the Test Harness app is your home base for using the tool in your daily
     development activities. This screen is where you start from after you log into Salesforce with

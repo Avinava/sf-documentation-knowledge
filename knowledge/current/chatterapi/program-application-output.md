@@ -5,12 +5,10 @@ topic: program-application-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.127Z
+lastCollected: 2026-04-07T18:37:22.235Z
 estimatedTokens: 126
-keywords: [Program, Application, Output, representation]
+keywords: [Program, Application]
 ---
-
-# Program Application Output
 
 > Output representation of an application request to a
     Program.

@@ -5,12 +5,10 @@ topic: monitoring-event-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.324Z
+lastCollected: 2026-04-07T18:36:51.658Z
 estimatedTokens: 254
-keywords: [Monitoring, Event, Usage, Obtain, basic, daily, PushTopic, events, full, generic, API]
+keywords: [Monitoring, Event, Obtain, basic, daily, PushTopic, events, full, generic, API]
 ---
-
-# Monitoring Event Usage
 
 > Obtain basic daily event usage for PushTopic events through the UI, or full usage
   information for PushTopic and generic events through the API.

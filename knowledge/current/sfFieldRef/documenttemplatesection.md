@@ -5,12 +5,10 @@ topic: documenttemplatesection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.869Z
+lastCollected: 2026-04-07T18:39:38.541Z
 estimatedTokens: 704
-keywords: [DocumentTemplateSection, document, template, clause, image, context, embedded, API, version, 52.0, later]
+keywords: [DocumentTemplateSection, document, template, clause, image, context, embedded, API, 52.0]
 ---
-
-# DocumentTemplateSection
 
 > Represents a section in a document template. A document template section can
          be a clause, image, context, embedded template, or signature. This object is available

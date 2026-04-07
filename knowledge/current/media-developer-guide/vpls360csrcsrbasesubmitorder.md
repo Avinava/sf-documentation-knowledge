@@ -5,12 +5,10 @@ topic: vpls360csrcsrbasesubmitorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.424Z
+lastCollected: 2026-04-07T18:38:11.738Z
 estimatedTokens: 130
 keywords: [vpls360csr_CsrBaseSubmitOrder, Integration, Procedure, changes, order, created, agent, console, changing, base, package, subscriber, vpls360csr, _CsrBaseSubmitOrder, Sample]
 ---
-
-# vpls360csr_CsrBaseSubmitOrder
 
 > This Integration Procedure changes an order created in the
     agent console while changing the base package for a subscriber.

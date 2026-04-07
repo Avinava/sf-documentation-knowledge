@@ -5,12 +5,10 @@ topic: documentation-templates-and-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.364Z
+lastCollected: 2026-04-07T18:37:42.507Z
 estimatedTokens: 450
-keywords: [Documentation, Templates, Rules, Vinci, DTR, framework, under, HL7, FHIR, standards, facilitates, exchange, requirements, healthcare, industry]
+keywords: [Documentation, Templates, Vinci, DTR, framework, under, HL7, FHIR, standards, facilitates, exchange, requirements, healthcare, industry, standardized, critical, ensuring, compliance, reducing, administrative, burden]
 ---
-
-# Documentation Templates and Rules
 
 > Da Vinci Documentation Templates and Rules (DTR) is a framework under the HL7 FHIR
     standards that facilitates the exchange of documentation requirements in the healthcare

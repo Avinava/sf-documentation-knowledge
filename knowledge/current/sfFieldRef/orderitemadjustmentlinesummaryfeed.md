@@ -5,12 +5,10 @@ topic: orderitemadjustmentlinesummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.484Z
+lastCollected: 2026-04-07T18:39:50.889Z
 estimatedTokens: 396
-keywords: [OrderItemAdjustmentLineSummaryFeed, Feed, tracking, OrderItemAdjustmentLineSummary]
+keywords: [OrderItemAdjustmentLineSummaryFeed, OrderItemAdjustmentLineSummary]
 ---
-
-# OrderItemAdjustmentLineSummaryFeed
 
 > Feed tracking for OrderItemAdjustmentLineSummary.
 

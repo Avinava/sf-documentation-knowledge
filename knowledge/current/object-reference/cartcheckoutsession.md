@@ -5,12 +5,10 @@ topic: cartcheckoutsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.418Z
+lastCollected: 2026-04-07T18:38:27.416Z
 estimatedTokens: 662
-keywords: [CartCheckoutSession, checkout, session, Lightning, B2B, Commerce, API, version, 48.0, later, Calls, Special, Access, Rules]
+keywords: [CartCheckoutSession, checkout, session, Lightning, B2B, Commerce, API, 48.0]
 ---
-
-# CartCheckoutSession
 
 > Represents a checkout session used in Lightning B2B Commerce checkout.
     This object is available in API version 48.0 and later.

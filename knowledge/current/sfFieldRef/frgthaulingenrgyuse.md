@@ -5,12 +5,10 @@ topic: frgthaulingenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.857Z
+lastCollected: 2026-04-07T18:39:41.485Z
 estimatedTokens: 563
 keywords: [FrgtHaulingEnrgyUse, energy, consumption, freight, hauling]
 ---
-
-# FrgtHaulingEnrgyUse
 
 > Represents the energy consumption related to freight hauling.
 

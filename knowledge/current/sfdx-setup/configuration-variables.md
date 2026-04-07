@@ -5,12 +5,10 @@ topic: configuration-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.188Z
+lastCollected: 2026-04-07T18:40:09.139Z
 estimatedTokens: 1653
-keywords: [Configuration, Variables, config, current, project, projects, two, kinds, local, apply, computer, specific, override, ones, commands]
+keywords: [Configuration, Variables, config, current, project, projects, two, kinds, local, apply, computer, specific, override, ones, commands, run, Salesforce, directory, org-api-version, org-capitalize-record-types, org-custom-metadata-templates, target-org, target-dev-hub, target-devops-center, DevOps, Center, disable-telemetry, org-instance-url, org-max-query-limit, org-metadata-rest-deploy]
 ---
-
-# Configuration Variables
 
 > You can set configuration (config) variables for your current project or for all
     projects. You can set two kinds of config variables: global and local. Global config variables

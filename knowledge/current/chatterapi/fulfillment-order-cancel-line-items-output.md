@@ -5,12 +5,10 @@ topic: fulfillment-order-cancel-line-items-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.479Z
+lastCollected: 2026-04-07T18:37:19.626Z
 estimatedTokens: 93
-keywords: [Fulfillment, Order, Cancel, Line, Items, Output, Wraps, base]
+keywords: [Fulfillment, Order, Cancel, Line, Items, Wraps, base]
 ---
-
-# Fulfillment Order Cancel Line Items Output
 
 > Wraps the base output.
 

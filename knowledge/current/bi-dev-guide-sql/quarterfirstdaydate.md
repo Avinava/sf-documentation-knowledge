@@ -5,12 +5,10 @@ topic: quarterfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.106Z
+lastCollected: 2026-04-07T18:37:01.715Z
 estimatedTokens: 172
-keywords: [quarter_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, quarter, _first, _day]
+keywords: [quarter_first_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, quarter, _first, _day]
 ---
-
-# quarter_first_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date  object as input. Returns an object of the same type that
   corresponds to the first day of the quarter that contains the specified date.

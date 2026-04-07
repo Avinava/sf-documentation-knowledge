@@ -5,12 +5,10 @@ topic: automationinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.407Z
+lastCollected: 2026-04-07T18:40:15.492Z
 estimatedTokens: 765
 keywords: [AutomationInstance, automation, Studio, account, Items]
 ---
-
-# AutomationInstance
 
 > The AutomationInstance object defines an automation in Automation Studio for an account.
 

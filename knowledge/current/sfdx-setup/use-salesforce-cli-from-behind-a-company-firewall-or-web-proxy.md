@@ -5,12 +5,10 @@ topic: use-salesforce-cli-from-behind-a-company-firewall-or-web-proxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.331Z
+lastCollected: 2026-04-07T18:40:09.273Z
 estimatedTokens: 561
-keywords: [Salesforce, CLI, Behind, Company, Firewall, Web, Proxy, install, computer, that’s, sometimes, receive, error, messages, case]
+keywords: [Salesforce, CLI, Behind, Company, Firewall, Web, Proxy, install, computer, that’s, sometimes, receive, error, messages, case, further, configure, system]
 ---
-
-# Use Salesforce CLI from Behind a Company Firewall or Web Proxy
 
 > If you install or update Salesforce CLI on a computer that’s behind a company firewall or
     web proxy, you sometimes receive error messages. In this case, you must further configure your

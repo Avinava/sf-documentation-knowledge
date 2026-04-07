@@ -5,12 +5,10 @@ topic: flow-for-net-zero-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.479Z
+lastCollected: 2026-04-07T18:38:17.102Z
 estimatedTokens: 255
-keywords: [Flow, Net, Zero, Cloud, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
+keywords: [FlowActionCall, Flow, Net, Zero, Cloud, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Net Zero Cloud
 
 > Represents the metadata associated with a flow. With Flow, you can create an application
   that navigates users through a series of screens to query and update records in the database. You

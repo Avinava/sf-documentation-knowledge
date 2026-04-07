@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-the-embedded-service-sidebar-header-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.048Z
+lastCollected: 2026-04-07T18:37:27.018Z
 estimatedTokens: 205
-keywords: [CSS, Overrides, Migration, Embedded, Service, Sidebar, Component, plan, continue, custom, migrate, forward, template, Background, Color]
+keywords: [CSS, Overrides, Migration, Embedded, Service, Sidebar, plan, continue, migrate, forward, template, Background, Color]
 ---
-
-# CSS Overrides Migration for the Embedded Service Sidebar Header Component
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

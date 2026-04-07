@@ -5,12 +5,10 @@ topic: transactionsecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.715Z
+lastCollected: 2026-04-07T18:36:30.125Z
 estimatedTokens: 2754
-keywords: [TransactionSecurityPolicy, transaction, security, policy, definition, policies, give, way, look, events, organization, specify, actions, take, certain]
+keywords: [TransactionSecurityPolicy, TransactionSecurityAction, TransactionSecurityNotification, transaction, security, policy, definition, policies, give, way, look, events, organization, specify, actions, take, certain, combinations, occur, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# TransactionSecurityPolicy
 
 > Represents a transaction security policy definition.
       Transaction security policies give you a way to look through events in your organization and

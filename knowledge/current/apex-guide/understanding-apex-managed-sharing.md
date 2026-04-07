@@ -5,12 +5,10 @@ topic: understanding-apex-managed-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:30.771Z
+lastCollected: 2026-04-07T18:36:16.005Z
 estimatedTokens: 299
-keywords: [Understanding, Apex, Managed, Sharing, act, granting, user, group, users, permission, perform, actions, record, records, access]
+keywords: [Understanding, Apex, Managed, Sharing, act, granting, user, group, users, permission, perform, actions, record, records, granted, Salesforce, Lightning, Platform, programmatically]
 ---
-
-# Understanding Apex Managed Sharing
 
 > Sharing is the act of granting a user or group of users permission to
         perform a set of actions on a record or set of records. Sharing access can be granted using

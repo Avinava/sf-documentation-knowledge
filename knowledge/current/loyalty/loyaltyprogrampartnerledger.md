@@ -5,12 +5,10 @@ topic: loyaltyprogrampartnerledger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.165Z
+lastCollected: 2026-04-07T18:38:10.424Z
 estimatedTokens: 791
-keywords: [LoyaltyProgramPartnerLedger, ledger, loyalty, program, credit, points, debit, prepaid, partner's, pack, postpaid, partner’s, point, balance, add]
+keywords: [LoyaltyProgramPartnerLedger, ledger, loyalty, program, credit, points, debit, prepaid, partner's, pack, postpaid, partner’s, point, balance, add, deduct, monetary, bill, API, 55.0]
 ---
-
-# LoyaltyProgramPartnerLedger
 
 > Represents the ledger used by a loyalty program to credit points to or debit
          points from a prepaid partner's points pack or from a postpaid partner’s point balance.

@@ -5,12 +5,10 @@ topic: investigative-case-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.994Z
+lastCollected: 2026-04-07T18:39:05.007Z
 estimatedTokens: 477
-keywords: [Investigative, Case, Management, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Investigative, Case, Management, Model, relationships, Sector, Solutions]
 ---
-
-# Investigative Case Management Data Model
 
 > Learn about the objects and relationships used for investigative case management in
   Public Sector Solutions.

@@ -5,12 +5,10 @@ topic: get-started-with-the-python-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.218Z
+lastCollected: 2026-04-07T18:40:24.671Z
 estimatedTokens: 359
-keywords: [Started, Python, SDK, Download, GitHub, sure, install, dependencies, described, SDK’s, README, Installation]
+keywords: [Installation, Started, Python, SDK, Download, GitHub, sure, install, dependencies, described, SDK’s, README]
 ---
-
-# Get Started with the Python SDK
 
 > Download the Python SDK from GitHub. Make sure you install all dependencies as described in the SDK’s README.
 

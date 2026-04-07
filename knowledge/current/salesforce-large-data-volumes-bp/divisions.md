@@ -5,12 +5,10 @@ topic: divisions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.208Z
+lastCollected: 2026-04-07T18:39:17.888Z
 estimatedTokens: 167
-keywords: [Divisions, means, partitioning, data, large, deployments, reduce, number, records, queries, reports, deployment, customer, EMEA, APAC]
+keywords: [Divisions, means, partitioning, large, deployments, reduce, number, records, queries, reports, deployment, customer, EMEA, APAC, separate, customers, smaller, groups]
 ---
-
-# Divisions
 
 > Divisions are a means of partitioning the data of large deployments to reduce the number
    of records returned by queries and reports. For example, a deployment with many customer records

@@ -5,12 +5,10 @@ topic: product-rating-details-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.106Z
+lastCollected: 2026-04-07T18:37:52.252Z
 estimatedTokens: 325
-keywords: [Product, Rating, Output, representation, constructed, payload]
+keywords: [Product, Rating, constructed, payload]
 ---
-
-# Product Rating Details Response
 
 > Output representation that contains the constructed rating request payload.
 

@@ -5,12 +5,10 @@ topic: field-service-inventory-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:01.045Z
+lastCollected: 2026-04-07T18:36:46.908Z
 estimatedTokens: 1172
-keywords: [Service, Inventory, Management, Data, Model, Service’s, objects, track, storage, consumption, retirement, items]
+keywords: [Service, Inventory, Management, Model, Service’s, track, storage, consumption, retirement, items]
 ---
-
-# Field Service Inventory Management Data Model
 
 > Use Field Service’s inventory objects to track the storage, request, consumption,
   return, and retirement of items in your inventory.

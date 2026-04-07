@@ -5,12 +5,10 @@ topic: considerations-for-promoting-packages-with-dependencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:02.630Z
+lastCollected: 2026-04-07T18:38:55.039Z
 estimatedTokens: 1003
-keywords: [Considerations, Promoting, Packages, Dependencies, company, developing, package, dependency, ask, yourself, questions, releasing, new, version, Specifying]
+keywords: [Considerations, Promoting, Packages, Dependencies, company, developing, package, dependency, ask, yourself, questions, releasing, new, Specifying, Skip, Validation, Keyword, LATEST, RELEASED]
 ---
-
-# Considerations for Promoting Packages with Dependencies
 
 > If your company is developing a package that has a package dependency, ask yourself
   these questions before promoting  (releasing) a new package version.

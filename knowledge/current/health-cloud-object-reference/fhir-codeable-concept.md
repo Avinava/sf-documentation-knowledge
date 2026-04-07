@@ -5,12 +5,10 @@ topic: fhir-codeable-concept
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.659Z
+lastCollected: 2026-04-07T18:37:41.781Z
 estimatedTokens: 277
-keywords: [FHIR, Codeable, Concept, output, representation, Code, Bundle, records, created, represent, codeableConcept]
+keywords: [FHIR, Codeable, Concept, Code, Bundle, records, created, represent, codeableConcept]
 ---
-
-# FHIR Codeable Concept
 
 > The output representation of the Code Set Bundle records created to
       represent a codeableConcept value.

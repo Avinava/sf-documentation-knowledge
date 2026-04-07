@@ -5,12 +5,10 @@ topic: sfrestapi-files-category-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.147Z
+lastCollected: 2026-04-07T18:40:26.446Z
 estimatedTokens: 237
 keywords: [SFRestAPI, Files, Category, generate, file, operation, requests, new, RestRequest, SFRestRequest, Applications, send, Salesforce, service, process]
 ---
-
-# SFRestAPI (Files) Category Category
 
 > The SFRestAPI (Files) category provides methods that
     generate file operation requests. Each method returns a new RestRequest or SFRestRequest object.

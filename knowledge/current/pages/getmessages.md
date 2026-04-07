@@ -5,12 +5,10 @@ topic: getmessages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.226Z
+lastCollected: 2026-04-07T18:38:48.185Z
 estimatedTokens: 87
-keywords: [getMessages, messages, associated, current, context]
+keywords: [getMessages, messages, current, context]
 ---
-
-# getMessages()
 
 > Returns a list of the messages associated with the current
 context.

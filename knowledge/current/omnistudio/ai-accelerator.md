@@ -5,12 +5,10 @@ topic: ai-accelerator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.777Z
+lastCollected: 2026-04-07T18:36:35.243Z
 estimatedTokens: 673
-keywords: [Accelerator, Building, machine, learning, cases, becomes, quick, easy, maintainable, Customize, configuration, updating, models, feature, extractors]
+keywords: [Accelerator, Building, machine, learning, cases, becomes, quick, easy, maintainable, Customize, configuration, updating, models, feature, extractors, suit, requirements, Save, extracted, features, scoring, responses, Connect, API, generate, predictions, real, time]
 ---
-
-# AI Accelerator
 
 > Building machine learning use cases becomes quick, easy, and more maintainable with AI
   Accelerator. Customize the default configuration of your use cases by updating the machine

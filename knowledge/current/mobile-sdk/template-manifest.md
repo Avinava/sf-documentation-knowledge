@@ -5,12 +5,10 @@ topic: template-manifest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.688Z
+lastCollected: 2026-04-07T18:40:25.084Z
 estimatedTokens: 156
-keywords: [Template, Manifest, look, AndroidManifest.xml, file, project, reveals, components, Mobile, SDK, native, Android, apps, component, activity]
+keywords: [Template, Manifest, look, AndroidManifest.xml, file, project, reveals, Mobile, SDK, native, Android, apps, activity, named, “.MainActivity”, login]
 ---
-
-# Template Manifest
 
 > A look at the AndroidManifest.xml file in
       the template project reveals the components required for Mobile SDK native Android apps. The

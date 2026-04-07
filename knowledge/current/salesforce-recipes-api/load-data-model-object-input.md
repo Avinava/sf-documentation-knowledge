@@ -5,12 +5,10 @@ topic: load-data-model-object-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.708Z
+lastCollected: 2026-04-07T18:39:18.413Z
 estimatedTokens: 117
-keywords: [Load, Data, Model, Input]
+keywords: [Load, Model]
 ---
-
-# Load Data Model Object Input
 
 > A data model object to load.
 

@@ -5,12 +5,10 @@ topic: alternativepaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.280Z
+lastCollected: 2026-04-07T18:38:25.227Z
 estimatedTokens: 2706
-keywords: [AlternativePaymentMethod, payment, isn’t, cash, debit, card, credit, aren’t, defined, CardPaymentMethod, DigitalWallet, objects, Examples, alternative, include]
+keywords: [AlternativePaymentMethod, payment, isn’t, cash, debit, card, credit, aren’t, defined, CardPaymentMethod, DigitalWallet, Examples, alternative, include, CashOnDeliver, Klarna, Direct, functions, any, processing, transactions, gateway, API, 51.0]
 ---
-
-# AlternativePaymentMethod
 
 > Represents a payment method that isn’t cash, a debit card, or a credit
 			card. This object defines methods that aren’t defined by the CardPaymentMethod or DigitalWallet objects. Examples of alternative payment

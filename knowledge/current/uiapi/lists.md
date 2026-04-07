@@ -5,12 +5,10 @@ topic: lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.052Z
+lastCollected: 2026-04-07T18:40:11.041Z
 estimatedTokens: 1116
-keywords: [resources, data, metadata, views, Salesforce]
+keywords: [resources, metadata, views, Salesforce]
 ---
-
-# Lists
 
 > Use these resources to get data and metadata about list views and related lists
     displayed in the Salesforce UI.

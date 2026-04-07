@@ -5,12 +5,10 @@ topic: insurance-census-summary-sync-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.187Z
+lastCollected: 2026-04-07T18:37:52.330Z
 estimatedTokens: 150
-keywords: [Insurance, Census, Summary, Sync, Output, representation, employee, synchronization]
+keywords: [Insurance, Census, Summary, Sync, employee, synchronization]
 ---
-
-# Insurance Census Summary Sync Details
 
 > Output representation of an employee census summary synchronization.
 

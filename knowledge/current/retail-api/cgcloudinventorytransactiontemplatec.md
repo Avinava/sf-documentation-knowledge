@@ -5,12 +5,10 @@ topic: cgcloudinventorytransactiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.242Z
+lastCollected: 2026-04-07T18:39:13.651Z
 estimatedTokens: 1717
-keywords: [Stores, inventory, control, template, that's, transactions, API, version, 54.0, later, cgcloud, _Inventory, _Transaction, _Template, Calls]
+keywords: [Stores, inventory, control, template, that's, transactions, API, 54.0, cgcloud, _Inventory, _Transaction, _Template]
 ---
-
-# cgcloud__Inventory_Transaction_Template__c
 
 > Stores the details of the inventory control template that's to be
          used for inventory control transactions. This object is available in API version 54.0

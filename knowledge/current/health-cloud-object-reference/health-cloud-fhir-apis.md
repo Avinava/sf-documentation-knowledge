@@ -5,12 +5,10 @@ topic: health-cloud-fhir-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.437Z
+lastCollected: 2026-04-07T18:37:42.586Z
 estimatedTokens: 156
 keywords: [Health, Cloud, FHIR, APIs, Salesforce, Healthcare, API, securely, connect, interact, system, uses, Fast, Interoperability, Resources]
 ---
-
-# Health Cloud FHIR APIs
 
 > Use Salesforce Healthcare API to securely connect and interact with a system that
         uses Fast Health Interoperability Resources (FHIR) APIs.

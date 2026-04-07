@@ -5,12 +5,10 @@ topic: topic-images
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.321Z
+lastCollected: 2026-04-07T18:37:23.432Z
 estimatedTokens: 157
-keywords: [Topic, Images, associated]
+keywords: [Topic, Images]
 ---
-
-# Topic Images
 
 > Images associated with a topic.
 

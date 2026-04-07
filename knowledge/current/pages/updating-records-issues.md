@@ -5,12 +5,10 @@ topic: updating-records-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.594Z
+lastCollected: 2026-04-07T18:38:52.893Z
 estimatedTokens: 351
 keywords: [Updating, Records, Issues, affect, users, trying, Salesforce, mobile, app]
 ---
-
-# Updating Records Issues
 
 > These issues affect users trying to update records in the Salesforce mobile
   app.

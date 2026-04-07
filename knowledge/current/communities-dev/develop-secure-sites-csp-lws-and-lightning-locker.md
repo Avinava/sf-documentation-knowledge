@@ -8,15 +8,10 @@ topic: develop-secure-sites-csp-lws-and-lightning-locker
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.031Z
+lastCollected: 2026-04-07T18:37:27.000Z
 estimatedTokens: 1513
-keywords: [Develop, Secure, Sites, CSP, LWS, Lightning, Locker, Aura, LWR, Experience, Cloud, Content, Security, Policy, either]
+keywords: [Develop, Secure, Sites, CSP, LWS, Lightning, Locker, Aura, LWR, Experience, Cloud, Content, Security, Policy, either, Web, site, malicious, attacks, code, vulnerabilities, Factor, potential, impact, features, own, third-party, add, head, markup, How, Org, Levels]
 ---
-
-# Develop Secure Sites:
-    CSP, LWS, and
-    Lightning
-    Locker
 
 > Aura
     and LWR sites

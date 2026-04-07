@@ -5,12 +5,10 @@ topic: internalorgunitcommchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.599Z
+lastCollected: 2026-04-07T18:39:09.973Z
 estimatedTokens: 461
-keywords: [InternalOrgUnitCommChannel, communication, channel, internal, organization, unit, API, version, 63.0, later, B2C, referral, programs, Calls, Special]
+keywords: [InternalOrgUnitCommChannel, communication, channel, internal, organization, unit, API, 63.0, B2C, referral, programs]
 ---
-
-# InternalOrgUnitCommChannel
 
 > Represents the communication channel for the internal organization unit.
       This object is available in API version 63.0 and later. This object is available only for B2C

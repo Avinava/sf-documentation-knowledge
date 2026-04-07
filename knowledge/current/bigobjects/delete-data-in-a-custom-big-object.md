@@ -5,12 +5,10 @@ topic: delete-data-in-a-custom-big-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.361Z
+lastCollected: 2026-04-07T18:37:02.913Z
 estimatedTokens: 701
-keywords: [Data, Custom, Big, Apex, SOAP]
+keywords: [Big, Apex, SOAP]
 ---
-
-# Delete Data in a Custom Big Object
 
 > Use Apex or SOAP to delete data in a custom big object.
 

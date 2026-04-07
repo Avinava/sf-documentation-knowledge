@@ -5,12 +5,10 @@ topic: insurance-underwriting-rules-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.474Z
+lastCollected: 2026-04-07T18:37:52.662Z
 estimatedTokens: 82
-keywords: [Insurance, Underwriting, Rules, Error]
+keywords: [Insurance, Underwriting, Error]
 ---
-
-# Insurance Underwriting Rules Error
 
 > Details of the error response.
 

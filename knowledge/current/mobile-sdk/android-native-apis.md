@@ -5,12 +5,10 @@ topic: android-native-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.332Z
+lastCollected: 2026-04-07T18:40:26.638Z
 estimatedTokens: 663
-keywords: [Android, Native, APIs, classes, Mobile, SDK, work, multi-user, support, app, few, simple, calls, handles, any]
+keywords: [Android, Native, APIs, classes, Mobile, SDK, work, multi-user, support, app, few, simple, handles, any, cached, memory, option, customizing, user, switching, activity, Flow]
 ---
-
-# Android Native APIs
 
 > Native classes in Mobile SDK for Android do most of the work for multi-user support. Your
 app makes a few simple calls and handles any data cached in memory.

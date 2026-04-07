@@ -5,12 +5,10 @@ topic: apexmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.898Z
+lastCollected: 2026-04-07T18:38:50.133Z
 estimatedTokens: 1022
-keywords: [apex, map, Display, interactive, JavaScript-based, zooming, panning, markers, Salesforce, data, Street, Showing, Account, Location, Attributes]
+keywords: [Attributes, apex, map, Display, interactive, JavaScript-based, zooming, panning, markers, Salesforce, Street, Showing, Account, Location]
 ---
-
-# apex:map
 
 > Display an interactive, JavaScript-based map, complete with zooming, panning, and markers based on your Salesforce or other data.
 

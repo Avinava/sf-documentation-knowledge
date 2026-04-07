@@ -5,12 +5,10 @@ topic: salesforce-crm-segment-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.409Z
+lastCollected: 2026-04-07T18:35:53.360Z
 estimatedTokens: 286
-keywords: [Salesforce, CRM, Segment, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, Segments, determine]
+keywords: [Salesforce, CRM, Segment, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, Segments, determine, target, audience, promotions, rewards, provided, members, DMO]
 ---
-
-# Salesforce CRM: Segment Mapping
 
 > These data mappings are for the Segment DLO found in the Loyalty Management bundle of
   the Salesforce CRM Connector for Data Cloud. Segments in Data Cloud are used to determine the

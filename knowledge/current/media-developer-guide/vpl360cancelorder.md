@@ -5,12 +5,10 @@ topic: vpl360cancelorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.157Z
+lastCollected: 2026-04-07T18:38:11.457Z
 estimatedTokens: 207
-keywords: [VPL360_CancelOrder, Integration, Procedure, cancels, item, order, progress, reached, point, PONR, VPL360, _CancelOrder, Sample, Input, Output]
+keywords: [VPL360_CancelOrder, Integration, Procedure, cancels, item, order, progress, reached, point, PONR, VPL360, _CancelOrder, Sample]
 ---
-
-# VPL360_CancelOrder
 
 > This Integration Procedure cancels an item in an order which
     is in progress and has not reached the point of no return (PONR).

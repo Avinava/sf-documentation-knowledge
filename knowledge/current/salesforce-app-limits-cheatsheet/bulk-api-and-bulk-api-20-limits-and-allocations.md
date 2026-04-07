@@ -5,12 +5,10 @@ topic: bulk-api-and-bulk-api-20-limits-and-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.971Z
+lastCollected: 2026-04-07T18:39:16.511Z
 estimatedTokens: 1625
-keywords: [Bulk, API, 2.0, Limits, Allocations, Any, data, operation, includes, records, good, candidate, successfully, prepare, execute]
+keywords: [Bulk, API, 2.0, Limits, Allocations, Any, operation, includes, records, good, candidate, successfully, prepare, execute, manage, asynchronous, workflow, framework, Jobs, fewer, involve, “bulkified”, synchronous, REST, Composite, SOAP, Batch, General, Specific, Ingest, Query]
 ---
-
-# Bulk API and Bulk API 2.0 Limits and Allocations
 
 > Any data operation that includes more than 2,000 records is a good candidate for Bulk API
 			2.0 to successfully prepare, execute, and manage an asynchronous workflow that

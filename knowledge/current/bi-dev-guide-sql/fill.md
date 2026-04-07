@@ -5,12 +5,10 @@ topic: fill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.146Z
+lastCollected: 2026-04-07T18:37:01.759Z
 estimatedTokens: 569
-keywords: [FILL, function, any, gaps, date, specifying, check, creates, rows, contain, missing, month, day, week, quarter]
+keywords: [FILL, function, any, gaps, date, specifying, check, creates, rows, contain, missing, month, day, week, quarter, year, TIMESERIES, forecast, future, results, there]
 ---
-
-# FILL
 
 > Use the FILL() table function to fill in any gaps
   in date fields. By specifying the date fields to check, FILL() creates rows that contain the missing month, day, week, quarter, or year and

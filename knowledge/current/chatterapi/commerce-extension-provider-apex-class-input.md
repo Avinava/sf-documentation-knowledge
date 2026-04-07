@@ -5,12 +5,10 @@ topic: commerce-extension-provider-apex-class-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.002Z
+lastCollected: 2026-04-07T18:37:07.750Z
 estimatedTokens: 129
-keywords: [Commerce, Extension, Provider, Apex, Input, extending, base, point]
+keywords: [Commerce, Extension, Provider, Apex, extending, base, point]
 ---
-
-# Commerce Extension Provider Apex Class Input
 
 > Apex extension provider class extending an Apex base class for an extension
       point.

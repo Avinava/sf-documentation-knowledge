@@ -5,12 +5,10 @@ topic: apexflash
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.481Z
+lastCollected: 2026-04-07T18:38:49.610Z
 estimatedTokens: 535
-keywords: [apex, flash, movie, rendered, HTML, embed, tags, Attributes]
+keywords: [Attributes, apex, flash, movie, rendered, HTML, embed, tags]
 ---
-
-# apex:flash
 
 > A Flash movie, rendered with the HTML object and embed tags.
 

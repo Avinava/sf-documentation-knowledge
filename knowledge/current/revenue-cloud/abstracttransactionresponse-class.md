@@ -5,13 +5,11 @@ topic: abstracttransactionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.750Z
+lastCollected: 2026-04-07T18:35:40.564Z
 estimatedTokens: 3044
 namespace: CommerceTax
-keywords: [AbstractTransactionResponse, Abstract, setting, tax, external, provider's, classes, extend, inherit, setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode, currencyIsoCode]
+keywords: [AbstractTransactionResponse, Abstract, setting, tax, external, provider's, classes, extend, inherit, setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode, currencyIsoCode, setCustomTaxAttributes, customTaxAttributes, setDescription, dscptn, setDocumentCode, documentCode, setEffectiveDate, effectiveDate, setLineItems, lineItems, setReferenceDocumentCode, referenceDocumentCode, setReferenceEntityId, referenceEntityId, setTaxTransactionId, taxTrxnId, setTransactionDate, transactionDate]
 ---
-
-# AbstractTransactionResponse Class
 
 > Abstract class that contains methods for setting tax fields based on
       the external tax provider's response. Response classes that extend AbstractTransactionResponse inherit these methods.

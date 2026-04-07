@@ -5,12 +5,10 @@ topic: why-switch-to-second-generation-managed-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.072Z
+lastCollected: 2026-04-07T18:38:56.760Z
 estimatedTokens: 1124
-keywords: [Why, Switch, Second-Generation, Managed, Packaging, You’ve, first-generation, packages, develop, apps, you’re, probably, pretty, familiar, works]
+keywords: [Why, Switch, Second-Generation, Managed, Packaging, You’ve, first-generation, packages, develop, apps, you’re, probably, pretty, familiar, works, well, what’s, bit, painful, you’d, doubt, aware, newer, technology, maybe, aren’t, sure, switching, 2GP, improve, package, development, experience, let’s, talk, Source-Driven, Minimal, Interaction, Salesforce, Orgs, API-, CLI-first, Model, Flexible, Versioning, Shared, Across, Multiple, Declarative, Dependencies, Simplified, Patch, Avoid, Having, Migrate, Customers, Future]
 ---
-
-# Why Switch to Second-Generation Managed Packaging?
 
 > You’ve been using first-generation managed packages to develop your apps, so you’re
     probably pretty familiar with what works well, and what’s a bit more painful than you’d like.

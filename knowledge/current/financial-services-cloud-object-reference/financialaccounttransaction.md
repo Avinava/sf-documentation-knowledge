@@ -5,12 +5,10 @@ topic: financialaccounttransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.053Z
+lastCollected: 2026-04-07T18:37:35.727Z
 estimatedTokens: 1459
-keywords: [FinancialAccountTransaction, transactions, associated, financial, account, API, version, 61.0, later, Calls, Special, Access, Rules, Objects]
+keywords: [FinancialAccountTransaction, transactions, financial, account, API, 61.0]
 ---
-
-# FinancialAccountTransaction
 
 > Represents information about the transactions associated with a financial
          account. This object is available in API version 61.0 and later.

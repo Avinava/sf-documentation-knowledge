@@ -5,12 +5,10 @@ topic: post-multiple-mentions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.255Z
+lastCollected: 2026-04-07T18:37:24.300Z
 estimatedTokens: 628
-keywords: [Post, Multiple, @Mentions, mentions, Chatter, feed, item, comment]
+keywords: [Post, Multiple, @Mentions, mentions, Chatter, item, comment]
 ---
-
-# Post Multiple @Mentions
 
 > Post up to 25 mentions in a Chatter feed item or comment.
 

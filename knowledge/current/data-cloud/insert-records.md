@@ -5,12 +5,10 @@ topic: insert-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.632Z
+lastCollected: 2026-04-07T18:35:51.487Z
 estimatedTokens: 381
-keywords: [Insert, Records, Load, new, objects, Data, Cloud, lake]
+keywords: [Insert, Records, Load, new, Cloud, lake]
 ---
-
-# Insert Records
 
 > Load new objects and update existing objects into your Data Cloud data lake
   table.

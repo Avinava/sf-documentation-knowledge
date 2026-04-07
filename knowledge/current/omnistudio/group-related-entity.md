@@ -5,12 +5,10 @@ topic: group-related-entity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.058Z
+lastCollected: 2026-04-07T18:36:39.740Z
 estimatedTokens: 115
-keywords: [Group, Entity, Output, representation, fetch, records, party, relationship]
+keywords: [Group, Entity, fetch, records, party, relationship]
 ---
-
-# Group Related Entity
 
 > Output representation of the request to fetch the related records of a
          party relationship group.

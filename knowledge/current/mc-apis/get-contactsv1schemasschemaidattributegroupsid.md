@@ -5,12 +5,10 @@ topic: get-contactsv1schemasschemaidattributegroupsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.474Z
+lastCollected: 2026-04-07T18:40:18.675Z
 estimatedTokens: 1070
-keywords: [contacts, schemas, schemaId, attributeGroups, Retrieves, attribute, group, key, associated, contact, data, schema, **Overview**, Usage]
+keywords: [contacts, schemas, schemaId, attributeGroups, Retrieves, attribute, group, key, contact, schema, **Overview**]
 ---
-
-# GET /contacts/v1/schemas/{schemaId}/attributeGroups/{id}
 
 > Retrieves a specified attribute group (by ID, key, or name) associated with a specified contact data schema.
 

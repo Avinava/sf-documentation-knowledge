@@ -5,12 +5,10 @@ topic: chatteruserphotoupload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.198Z
+lastCollected: 2026-04-07T18:38:49.205Z
 estimatedTokens: 205
-keywords: [chatter, userPhotoUpload, Uploads, user’s, photo, their, profile, component, enable, org, Users, belong, either, Standard, User]
+keywords: [Attributes, chatter, userPhotoUpload, Uploads, user’s, photo, their, profile, enable, org, Users, belong, either, Standard, User, Portal, High, Volume, External, profiles]
 ---
-
-# chatter:userPhotoUpload
 
 > Uploads a user’s photo to their Chatter profile page. To use this component, you must enable Chatter in the org. Users must belong to either Standard User, Portal User, High Volume Portal User, or Chatter External User profiles.
 

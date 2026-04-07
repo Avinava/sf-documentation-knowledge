@@ -5,12 +5,10 @@ topic: licensedefinitioncustompermission-developer-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:43.115Z
+lastCollected: 2026-04-07T18:38:34.312Z
 estimatedTokens: 574
-keywords: [LicenseDefinitionCustomPermission, Developer, Preview, licensed, custom, permission, access, license's, features, included, license, definition, API, version, 54.0]
+keywords: [LicenseDefinitionCustomPermission, Developer, Preview, licensed, permission, license's, features, included, license, definition, API, 54.0]
 ---
-
-# LicenseDefinitionCustomPermission (Developer Preview)
 
 > Represents a licensed custom permission that controls access to a license's
          features when included in a custom permission set license definition. This object is

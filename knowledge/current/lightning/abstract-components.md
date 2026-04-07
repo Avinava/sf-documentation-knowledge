@@ -5,12 +5,10 @@ topic: abstract-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.656Z
+lastCollected: 2026-04-07T18:38:04.800Z
 estimatedTokens: 271
-keywords: [Abstract, Components, Object-oriented, languages, Java, support, concept, partial, implementation, leaves, remaining, concrete, sub-classes, can't, instantiated]
+keywords: [Abstract, Object-oriented, languages, Java, support, concept, partial, implementation, leaves, remaining, concrete, sub-classes, can't, instantiated, directly, non-abstract, subclass]
 ---
-
-# Abstract Components
 
 > Object-oriented languages, such as Java, support the concept of
 an abstract class that provides a partial implementation for an object

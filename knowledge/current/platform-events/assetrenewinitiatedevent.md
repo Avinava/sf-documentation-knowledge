@@ -5,12 +5,10 @@ topic: assetrenewinitiatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.847Z
+lastCollected: 2026-04-07T18:38:58.707Z
 estimatedTokens: 693
-keywords: [AssetRenewInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-renew, REST, successful, event, renewal, order]
+keywords: [AssetRenewInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-renew, REST, successful, event, renewal, order, created, isn't, RevenueTransactionErrorLog, records, errors, how, fix, API, 55.0, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# AssetRenewInitiatedEvent
 
 > Notifies subscribers when the process started by the
             /asset-management/assets/collection/actions/initiate-renew REST request is

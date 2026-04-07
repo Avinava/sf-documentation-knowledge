@@ -6,13 +6,10 @@ topic: how-manageability-rules-and-ancestry-impact-upgrades-for-second-generatio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.669Z
+lastCollected: 2026-04-07T18:38:56.223Z
 estimatedTokens: 980
-keywords: [How, Manageability, Rules, Ancestry, Impact, Upgrades, Second-Generation, Managed, Packages, dive, package, 2GP, it’s, understand, concepts]
+keywords: [How, Manageability, Ancestry, Impact, Upgrades, Second-Generation, Managed, Packages, dive, package, 2GP, it’s, understand, concepts, they, affect]
 ---
-
-# How Manageability Rules and Ancestry Impact Upgrades for Second-Generation Managed
-  Packages
 
 > Before you dive in and create your first second-generation managed package (managed
   2GP), it’s important to understand these concepts, and how they affect each other.

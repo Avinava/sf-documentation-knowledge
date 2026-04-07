@@ -5,12 +5,10 @@ topic: wastefootprintitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.543Z
+lastCollected: 2026-04-07T18:40:06.454Z
 estimatedTokens: 372
 keywords: [WasteFootprintItem, volume, waste, disposal, aggregated, generated, either, part, operations, end-, of-, life, product]
 ---
-
-# WasteFootprintItem
 
 > Represents the volume by waste type and disposal type of aggregated waste
          generated either as part of operations or during the end- of- life of a product.

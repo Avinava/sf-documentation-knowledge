@@ -5,12 +5,10 @@ topic: create-insurance-quote-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.011Z
+lastCollected: 2026-04-07T18:37:48.733Z
 estimatedTokens: 635
-keywords: [Insurance, Quote, Action, context, user, inputs, represent, REST, HTTP, Outputs]
+keywords: [Inputs, Outputs, Insurance, Quote, Action, context, user, represent, REST, HTTP]
 ---
-
-# Create Insurance Quote Action
 
 > Create an Insurance quote by using a context ID or a set of user inputs that represent
   quote details.

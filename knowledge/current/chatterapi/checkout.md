@@ -5,12 +5,10 @@ topic: checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:30.328Z
+lastCollected: 2026-04-07T18:37:17.400Z
 estimatedTokens: 385
 keywords: [Checkout, Commerce, store]
 ---
-
-# Checkout
 
 > Checkout for a Commerce store.
 

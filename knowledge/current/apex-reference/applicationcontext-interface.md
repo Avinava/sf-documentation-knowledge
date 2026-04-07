@@ -5,13 +5,11 @@ topic: applicationcontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.998Z
+lastCollected: 2026-04-07T18:36:13.305Z
 estimatedTokens: 180
 namespace: Canvas
-keywords: [ApplicationContext, retrieve, application, context, version, URL, Usage]
+keywords: [ApplicationContext, retrieve, application, context, URL]
 ---
-
-# ApplicationContext Interface
 
 > Use this interface to retrieve application
 context information, such as the application version or URL.

@@ -5,12 +5,10 @@ topic: location-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.083Z
+lastCollected: 2026-04-07T18:37:08.860Z
 estimatedTokens: 117
-keywords: [Location, Input, Inventory, data, calculate, shipping, distance]
+keywords: [Location, Inventory, calculate, shipping, distance]
 ---
-
-# Location Input
 
 > Inventory location data used to calculate shipping
     distance.

@@ -5,12 +5,10 @@ topic: cgcloudboapistepinputstructurec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.590Z
+lastCollected: 2026-04-07T18:39:13.013Z
 estimatedTokens: 1394
-keywords: [cgcloud__BO_API_Step_Input_Structure__c, stores, input, structure, configuration, business, API, workflow, step, expects, version, 54.0, later, cgcloud, _BO]
+keywords: [cgcloud__BO_API_Step_Input_Structure__c, stores, structure, configuration, business, API, workflow, step, expects, 54.0, cgcloud, _BO, _API, _Step, _Input, _Structure]
 ---
-
-# cgcloud__BO_API_Step_Input_Structure__c
 
 > This table stores the input structure configuration that the business
          object API workflow step expects. This object is available in API version 54.0 and

@@ -5,12 +5,10 @@ topic: getsystemstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.279Z
+lastCollected: 2026-04-07T18:40:17.441Z
 estimatedTokens: 541
-keywords: [GetSystemStatus, retrieve, status, Marketing, Cloud, account, exception, handling, SOAP, API, call, Output]
+keywords: [GetSystemStatus, retrieve, status, Marketing, Cloud, account, exception, handling, SOAP, API, call]
 ---
-
-# GetSystemStatus
 
 > Use the GetSystemStatus method to retrieve the status of your Marketing Cloud account. Use this method only during exception handling or as the first Marketing Cloud SOAP API call.
 

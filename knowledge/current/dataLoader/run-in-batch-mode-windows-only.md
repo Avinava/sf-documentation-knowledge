@@ -5,12 +5,10 @@ topic: run-in-batch-mode-windows-only
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.195Z
+lastCollected: 2026-04-07T18:37:28.233Z
 estimatedTokens: 258
-keywords: [Run, Batch, Mode, Windows, Data, Loader, command, line, runs, series, processes, certain, order, file, rerun]
+keywords: [Run, Batch, Mode, Windows, Loader, command, line, runs, series, processes, certain, order, file, rerun, sequence, executable, bat]
 ---
-
-# Run in Batch Mode (Windows Only)
 
 > You can run Data Loader in batch mode from the Windows command line. Batch mode runs a
     series of Data Loader processes in a certain order using a batch file. You can rerun the same

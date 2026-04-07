@@ -6,13 +6,10 @@ topic: get-a-list-of-salesforce-site-and-experience-cloud-site-urls-for-an-onlin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.632Z
+lastCollected: 2026-04-07T18:37:53.922Z
 estimatedTokens: 252
-keywords: [Salesforce, Site, Experience, Cloud, URLs, Online, Article, Sites, visible, knowledge, base, partners, customers, API, creates]
+keywords: [Salesforce, Site, Experience, Cloud, URLs, Online, Article, Sites, visible, knowledge, base, partners, customers, API, creates, Insert, URL, Email, Lightning, action]
 ---
-
-# Get a List of Salesforce Site and Experience Cloud Site URLs for an
-   Online Article
 
 > Returns a list of article URLs in Salesforce Sites, Experience Cloud sites, or both.
   Article URLs from Salesforce Sites are returned if the article is visible in a public knowledge

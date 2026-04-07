@@ -5,12 +5,10 @@ topic: remoteproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.914Z
+lastCollected: 2026-04-07T18:36:34.295Z
 estimatedTokens: 977
-keywords: [RemoteProxy, remote, site, settings, access, external, Salesforce, accessing, sites, Visualforce, pages, Apex, callouts, JavaScript, codes]
+keywords: [RemoteProxy, remote, site, settings, external, Salesforce, accessing, sites, Visualforce, pages, Apex, callouts, JavaScript, codes, XmlHttpRequest, s-control, button, accessible, defined, registered, Tooling, API, 37.0, SOAP, REST, HTTP]
 ---
-
-# RemoteProxy
 
 > Represents a set of remote site settings that allows you to
             access an external site from Salesforce. Use RemoteProxy

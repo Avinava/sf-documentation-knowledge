@@ -5,12 +5,10 @@ topic: dashboard-subscription-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.351Z
+lastCollected: 2026-04-07T18:36:54.708Z
 estimatedTokens: 192
-keywords: [Dashboard, Subscription, Source, Input]
+keywords: [Dashboard, Subscription, Source]
 ---
-
-# Dashboard Subscription Source Input
 
 > The dashboard subscription source.
 

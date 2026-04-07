@@ -5,12 +5,10 @@ topic: ai-accelerator-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.808Z
+lastCollected: 2026-04-07T18:36:35.279Z
 estimatedTokens: 191
 keywords: [Accelerator, Platform, Event, AIScoringStatusEvent, notify, subscribers, scoring, job, processed]
 ---
-
-# AI Accelerator Platform Event
 
 > Use the AIScoringStatusEvent event to notify subscribers after a scoring job is
   processed.

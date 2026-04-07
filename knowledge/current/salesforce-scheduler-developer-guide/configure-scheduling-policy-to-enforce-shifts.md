@@ -5,12 +5,10 @@ topic: configure-scheduling-policy-to-enforce-shifts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.313Z
+lastCollected: 2026-04-07T18:39:21.128Z
 estimatedTokens: 270
-keywords: [Configure, Scheduling, Policy, Enforce, Shifts, rules, best, service, resources, appointments, Apply, process, ensure, appointment, meets]
+keywords: [Configure, Scheduling, Policy, Enforce, Shifts, best, service, resources, appointments, Apply, process, ensure, appointment, meets, criteria, define, actual, created, working, hours, present, reassignment]
 ---
-
-# Configure Scheduling Policy to Enforce Shifts
 
 > Use a scheduling policy to enforce one or more rules to find the best service
       resources for appointments. Apply a scheduling policy to your scheduling process to ensure

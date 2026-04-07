@@ -5,12 +5,10 @@ topic: loyaltytierbenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.289Z
+lastCollected: 2026-04-07T18:39:47.698Z
 estimatedTokens: 295
 keywords: [LoyaltyTierBenefit, junction, associates, loyalty, benefits, program, tiers]
 ---
-
-# LoyaltyTierBenefit
 
 > A junction object that associates the loyalty benefits with the loyalty program
       tiers.

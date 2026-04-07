@@ -5,12 +5,10 @@ topic: recordaggregationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.302Z
+lastCollected: 2026-04-07T18:36:42.986Z
 estimatedTokens: 1664
-keywords: [RecordAggregationDefinition, data, aggregation, another, connected, objects, model, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 59.0, later, SOAP]
+keywords: [RecordAggregationDefinition, RecordAggregationObject, RecordAggregationJoinCondition, RecordAggregationObjectFilter, aggregation, another, connected, model, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 59.0, SOAP, REST]
 ---
-
-# RecordAggregationDefinition
 
 > Represents a data aggregation from one object to
 			another object to which it is connected by other objects in the data

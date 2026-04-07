@@ -5,13 +5,11 @@ topic: describeiconresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.104Z
+lastCollected: 2026-04-07T18:36:03.317Z
 estimatedTokens: 993
 namespace: Schema
-keywords: [DescribeIconResult, icon, metadata, tab, Usage, getContentType, getHeight, getTheme, getUrl, getWidth]
+keywords: [DescribeIconResult, icon, metadata, tab, getContentType, getHeight, getTheme, getUrl, getWidth]
 ---
-
-# DescribeIconResult Class
 
 > Contains icon metadata information for
 a tab.

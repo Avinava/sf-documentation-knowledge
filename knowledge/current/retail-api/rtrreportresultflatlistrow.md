@@ -5,13 +5,11 @@ topic: rtrreportresultflatlistrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.989Z
+lastCollected: 2026-04-07T18:39:10.444Z
 estimatedTokens: 202
 namespace: The
-keywords: [RTRReportResult.FlatlistRow, row, RTR, Report, Flatlist, component, Implementation]
+keywords: [RTRReportResult.FlatlistRow, row, RTR, Report, Flatlist, Implementation]
 ---
-
-# RTRReportResult.FlatlistRow
 
 > This class represents a single row in an RTR Report UI Flatlist component.
 

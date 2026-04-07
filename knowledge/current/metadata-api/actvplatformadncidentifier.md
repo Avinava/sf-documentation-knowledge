@@ -5,12 +5,10 @@ topic: actvplatformadncidentifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.950Z
+lastCollected: 2026-04-07T18:36:22.158Z
 estimatedTokens: 650
-keywords: [ActvPlatformAdncIdentifier, identifiers, activated, Email, Phone, Mobile, Advertiser, MAID, Over-the-top, OTT, Parent, File, Suffix, Directory, Location]
+keywords: [ActvPlatformAdncIdentifier, identifiers, activated, Email, Phone, Mobile, Advertiser, MAID, Over-the-top, OTT, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ActvPlatformAdncIdentifier
 
 > Represents the information about the identifiers to be
 			activated, such as Email, Phone, Mobile Advertiser (MAID) ID, and Over-the-top (OTT)

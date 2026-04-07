@@ -5,12 +5,10 @@ topic: connectapiinsurancegroupcensusoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.607Z
+lastCollected: 2026-04-07T18:37:50.481Z
 estimatedTokens: 409
-keywords: [Output, representation, group, census, summary]
+keywords: [group, census, summary]
 ---
-
-# ConnectApi.InsuranceGroupCensusOutputRepresentation
 
 > Output representation of a group census summary.
 

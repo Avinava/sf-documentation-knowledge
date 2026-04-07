@@ -5,12 +5,10 @@ topic: flowdebugrefreshevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.173Z
+lastCollected: 2026-04-07T18:38:59.054Z
 estimatedTokens: 348
-keywords: [FlowDebugRefreshEvent, Notifies, subscribers, flow, debug, run, pauses, completes, output, panel, Builder, refreshed, API, version, 65.0]
+keywords: [FlowDebugRefreshEvent, Notifies, subscribers, flow, debug, run, pauses, completes, panel, Builder, refreshed, API, 65.0, Event, Delivery, Allocation, Enforced]
 ---
-
-# FlowDebugRefreshEvent
 
 > Notifies subscribers when a flow debug run pauses or completes and
          its debug output panel in Flow Builder can be refreshed. This object is available in

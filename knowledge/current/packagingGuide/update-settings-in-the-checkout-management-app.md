@@ -5,12 +5,10 @@ topic: update-settings-in-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.486Z
+lastCollected: 2026-04-07T18:38:46.353Z
 estimatedTokens: 362
-keywords: [Settings, Checkout, Management, App, Control, customers, team, members, receive, emails, CMA, change, Stripe, account, associated]
+keywords: [Settings, Checkout, Management, App, Control, customers, team, members, receive, emails, CMA, change, Stripe, account, manually, reimport, Salesforce, org, admin, users]
 ---
-
-# Update Settings in the Checkout Management App
 
 > Control when customers and team members receive emails from the Checkout Management App
     (CMA). You can also change the Stripe account associated with the CMA and manually reimport your

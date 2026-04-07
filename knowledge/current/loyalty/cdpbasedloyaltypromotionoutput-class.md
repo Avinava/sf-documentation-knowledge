@@ -5,13 +5,11 @@ topic: cdpbasedloyaltypromotionoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.504Z
+lastCollected: 2026-04-07T18:38:06.721Z
 estimatedTokens: 612
 namespace: LoyaltyManagement
-keywords: [CdpBasedLoyaltyPromotionOutput, promotion, records, member, eligible, member's, Data, Cloud, market, segment, getErrors, getPromotions, isSuccess]
+keywords: [CdpBasedLoyaltyPromotionOutput, promotion, records, member, eligible, member's, Cloud, market, segment, getErrors, getPromotions, isSuccess]
 ---
-
-# CdpBasedLoyaltyPromotionOutput Class
 
 > Represents the promotion records that the member is eligible for based
       on the member's Data Cloud market segment.

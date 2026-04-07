@@ -5,12 +5,10 @@ topic: partyexpensehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.611Z
+lastCollected: 2026-04-07T18:39:52.026Z
 estimatedTokens: 260
-keywords: [PartyExpenseHistory, History, tracked, PartyExpense]
+keywords: [PartyExpenseHistory, tracked, PartyExpense]
 ---
-
-# PartyExpenseHistory
 
 > History for tracked fields of PartyExpense.
 

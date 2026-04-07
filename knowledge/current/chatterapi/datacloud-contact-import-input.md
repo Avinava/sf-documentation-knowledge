@@ -5,12 +5,10 @@ topic: datacloud-contact-import-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.260Z
+lastCollected: 2026-04-07T18:37:08.064Z
 estimatedTokens: 197
-keywords: [Datacloud, Contact, Import, Input, representation, criteria, importing, records, contacts, leads]
+keywords: [Datacloud, Contact, Import, criteria, importing, records, contacts, leads]
 ---
-
-# Datacloud Contact Import Input
 
 > Input representation of the criteria for importing records as contacts
       or leads.

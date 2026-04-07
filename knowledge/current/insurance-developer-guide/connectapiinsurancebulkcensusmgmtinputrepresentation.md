@@ -5,12 +5,10 @@ topic: connectapiinsurancebulkcensusmgmtinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.053Z
+lastCollected: 2026-04-07T18:37:49.884Z
 estimatedTokens: 294
-keywords: [Input, representation, managing, employee, census, data, bulk]
+keywords: [managing, employee, census, bulk]
 ---
-
-# ConnectApi.InsuranceBulkCensusMgmtInputRepresentation
 
 > Input representation for managing employee census data in bulk.
 

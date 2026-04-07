@@ -5,12 +5,10 @@ topic: energyattrcertcredit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.632Z
+lastCollected: 2026-04-07T18:39:39.282Z
 estimatedTokens: 318
 keywords: [EnergyAttrCertCredit, energy, attribute, certificate, credits, purchase]
 ---
-
-# EnergyAttrCertCredit
 
 > Represents information about the energy attribute certificate credits
          related to energy attribute certificate purchase.

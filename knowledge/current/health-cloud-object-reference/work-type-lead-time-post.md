@@ -5,12 +5,10 @@ topic: work-type-lead-time-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.343Z
+lastCollected: 2026-04-07T18:37:41.425Z
 estimatedTokens: 409
-keywords: [Work, Lead, Time, POST, their, associated, times, optimized, across, regions, specific, advanced, therapy]
+keywords: [Work, Lead, Time, POST, their, times, optimized, across, regions, specific, advanced, therapy]
 ---
-
-# Work Type Lead Time (POST)
 
 > Get a list of work types and their associated lead times that are optimized across
     regions for a specific advanced therapy.

@@ -5,12 +5,10 @@ topic: bulk-ingestion-walkthrough
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.234Z
+lastCollected: 2026-04-07T18:35:51.092Z
 estimatedTokens: 844
 keywords: [Bulk, Ingestion, Walkthrough, guides, steps, loading, records]
 ---
-
-# Bulk Ingestion Walkthrough
 
 > This walkthrough guides you through the steps for loading records using bulk
   ingestion.

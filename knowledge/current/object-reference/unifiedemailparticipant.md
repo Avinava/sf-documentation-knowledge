@@ -5,12 +5,10 @@ topic: unifiedemailparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.379Z
+lastCollected: 2026-04-07T18:38:43.127Z
 estimatedTokens: 484
-keywords: [UnifiedEmailParticipant, participant, email, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access, Rules]
+keywords: [UnifiedEmailParticipant, participant, email, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedEmailParticipant
 
 > Represents a participant in an email. This object is available
       for reports and dashboards in the Winter ’24 release and later.

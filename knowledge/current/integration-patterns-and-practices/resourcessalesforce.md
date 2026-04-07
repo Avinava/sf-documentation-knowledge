@@ -5,12 +5,10 @@ topic: resourcessalesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.353Z
+lastCollected: 2026-04-07T18:37:53.656Z
 estimatedTokens: 616
-keywords: [Resources—Salesforce, Developer, Documentation, Trailhead]
+keywords: [Trailhead, Resources—Salesforce, Developer, Documentation]
 ---
-
-# Resources—Salesforce
 
 # Resources—Salesforce
 

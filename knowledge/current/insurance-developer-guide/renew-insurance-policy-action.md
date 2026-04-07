@@ -5,12 +5,10 @@ topic: renew-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.210Z
+lastCollected: 2026-04-07T18:37:48.942Z
 estimatedTokens: 189
-keywords: [Renew, Insurance, Policy, Action, user, inputs, represent, REST, HTTP, Outputs]
+keywords: [Inputs, Outputs, Renew, Insurance, Policy, Action, user, represent, REST, HTTP]
 ---
-
-# Renew Insurance Policy Action
 
 > Renew an insurance policy by using a set of user inputs that represent policy
     details.

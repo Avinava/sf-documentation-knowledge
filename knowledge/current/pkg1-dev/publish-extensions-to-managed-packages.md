@@ -5,12 +5,10 @@ topic: publish-extensions-to-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.952Z
+lastCollected: 2026-04-07T18:38:54.358Z
 estimatedTokens: 743
-keywords: [Publish, Extensions, Managed, Packages, extension, any, package, component, components, adds, functionality, requires, base, installed, org]
+keywords: [Publish, Extensions, Managed, Packages, extension, any, package, adds, functionality, requires, base, installed, org, built, recruiting, app, include, performing, background, checks, candidates]
 ---
-
-# Publish Extensions to Managed Packages
 
 > An extension is any package, component, or set of
       components that adds to the functionality of a managed package. An extension requires

@@ -5,12 +5,10 @@ topic: users-files-general
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.300Z
+lastCollected: 2026-04-07T18:37:16.365Z
 estimatedTokens: 2192
-keywords: [Users, Files, General, Upload, file, including, references, external, home, user, owns, don’t, include, shared, follows]
+keywords: [Users, Files, General, Upload, file, including, references, external, home, user, owns, don’t, include, shared, follows, organization]
 ---
-
-# Users Files, General
 
 > Upload a file, including references to external files,
          to the Files home or get information about files a user owns. These files don’t

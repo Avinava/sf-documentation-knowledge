@@ -5,12 +5,10 @@ topic: usageimpactgroupversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.531Z
+lastCollected: 2026-04-07T18:38:43.291Z
 estimatedTokens: 871
-keywords: [UsageImpactGroupVersion, collection, versions, Usage, Impact, Groups, API, version, 58.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [UsageImpactGroupVersion, collection, versions, Impact, Groups, API, 58.0]
 ---
-
-# UsageImpactGroupVersion
 
 > Represents a collection of fields to set up the versions of Usage Impact Groups. This object is available in API version 58.0 and later.
 

@@ -5,12 +5,10 @@ topic: crm-analytics-assets-sdk-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.787Z
+lastCollected: 2026-04-07T18:37:01.397Z
 estimatedTokens: 1548
-keywords: [CRM, Analytics, Assets, SDK, Aura, Component, Discover, dashboards, lenses, datasets, their, dig, dataset, dashboard, saved]
+keywords: [CRM, Analytics, Assets, SDK, Aura, Discover, dashboards, lenses, datasets, their, dig, dataset, dashboard, saved, views, explore, state, execute, queries, directly, Call]
 ---
-
-# CRM Analytics Assets SDK Aura Component
 
 > Discover CRM Analytics dashboards, lenses and datasets, get their details, and dig into
   dataset fields. Discover dashboard saved views and explore dashboard state. Create and execute

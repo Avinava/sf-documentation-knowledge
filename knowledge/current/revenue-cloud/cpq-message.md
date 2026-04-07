@@ -5,12 +5,10 @@ topic: cpq-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.662Z
+lastCollected: 2026-04-07T18:35:45.658Z
 estimatedTokens: 139
-keywords: [CPQ, Message, Output, representation, API, messages]
+keywords: [CPQ, Message, API, messages]
 ---
-
-# CPQ Message
 
 > Output representation of the API messages.
 

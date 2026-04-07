@@ -5,12 +5,10 @@ topic: subscribe-to-change-data-capture-event-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.364Z
+lastCollected: 2026-04-07T18:38:45.189Z
 estimatedTokens: 1189
-keywords: [Subscribe, Change, Data, Capture, Event, Notifications, Select, subscription, track, CDC, listener, real-time, routing, provide, updates]
+keywords: [Subscribe, Change, Capture, Event, Notifications, Select, subscription, track, CDC, listener, real-time, routing, provide, updates, partner, application, synchronization, decisions, Pub, Sub, API, Apex, Triggers]
 ---
-
-# Subscribe to Change Data Capture Event Notifications
 
 > Select a subscription method to track Change Data Capture (CDC) event notifications and
   set up a listener for real-time routing data. Event notifications provide real-time updates to the

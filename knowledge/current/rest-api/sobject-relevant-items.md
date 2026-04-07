@@ -5,12 +5,10 @@ topic: sobject-relevant-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.870Z
+lastCollected: 2026-04-07T18:36:21.105Z
 estimatedTokens: 812
-keywords: [sObject, Relevant, Items, current, user’s, include, records, objects, search, scope, recently, MRU]
+keywords: [sObject, Relevant, Items, current, user’s, include, records, search, scope, recently, MRU]
 ---
-
-# sObject Relevant Items
 
 > Gets the current user’s most relevant items. Relevant items
    include records for objects in the user’s global search scope and also most recently used (MRU)

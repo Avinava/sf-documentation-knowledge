@@ -5,12 +5,10 @@ topic: buyer-payment-method-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.946Z
+lastCollected: 2026-04-07T18:37:17.006Z
 estimatedTokens: 90
 keywords: [Buyer, Payment, Summary]
 ---
-
-# Buyer Payment Method Summary
 
 > Summary details for a buyer payment method.
 

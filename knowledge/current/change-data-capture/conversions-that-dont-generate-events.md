@@ -5,12 +5,10 @@ topic: conversions-that-dont-generate-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.504Z
+lastCollected: 2026-04-07T18:37:05.241Z
 estimatedTokens: 249
-keywords: [Conversions, Don’t, Generate, Events, change, gap, generated, custom, preserve, truncate, data, Picklist, Text, Compatible]
+keywords: [Conversions, Don’t, Generate, Events, change, gap, generated, preserve, truncate, Picklist, Text, Compatible]
 ---
-
-# Conversions That Don’t Generate Events
 
 > No change or gap events are generated for custom field type conversions that preserve or
   truncate field data, and for conversions between Picklist and Text fields.

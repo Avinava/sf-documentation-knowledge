@@ -5,12 +5,10 @@ topic: group-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.247Z
+lastCollected: 2026-04-07T18:37:14.208Z
 estimatedTokens: 350
-keywords: [Group, Records, associated, Associate, record]
+keywords: [Group, Records, Associate, record]
 ---
-
-# Group Records
 
 > Get the list of records associated with a group.
       Associate a record with a group.

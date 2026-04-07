@@ -5,12 +5,10 @@ topic: typed-asset-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.658Z
+lastCollected: 2026-04-07T18:36:55.023Z
 estimatedTokens: 175
-keywords: [Typed, Asset, Input, Analytics]
+keywords: [Typed, Asset, Analytics]
 ---
-
-# Typed Asset Reference Input
 
 > A typed Analytics asset reference.
 

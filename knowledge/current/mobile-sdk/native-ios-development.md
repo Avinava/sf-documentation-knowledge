@@ -5,12 +5,10 @@ topic: native-ios-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.946Z
+lastCollected: 2026-04-07T18:40:26.253Z
 estimatedTokens: 144
-keywords: [Native, iOS, Development, Salesforce, Mobile, SDK, delivers, libraries, sample, Xcode, projects, developing, apps, writing, code]
+keywords: [Native, iOS, Development, Salesforce, Mobile, SDK, delivers, libraries, sample, Xcode, projects, developing, apps, writing, code, supports, Swift, Objective-C, recommended, new, future]
 ---
-
-# Native iOS Development
 
 > Salesforce Mobile SDK delivers libraries
          and sample Xcode projects for developing native mobile apps on iOS. For writing native iOS

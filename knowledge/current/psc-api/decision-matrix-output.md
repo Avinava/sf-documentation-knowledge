@@ -5,12 +5,10 @@ topic: decision-matrix-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.267Z
+lastCollected: 2026-04-07T18:39:02.478Z
 estimatedTokens: 139
-keywords: [Decision, Matrix, Output, representation, action, performed, version]
+keywords: [Decision, Matrix, action, performed]
 ---
-
-# Decision Matrix Output
 
 > Output representation the action performed on a decision matrix
       version.

@@ -5,12 +5,10 @@ topic: promotion-eligible-channel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.118Z
+lastCollected: 2026-04-07T18:38:07.331Z
 estimatedTokens: 261
-keywords: [Promotion, Eligible, Channel, Input, representation]
+keywords: [Promotion, Eligible, Channel]
 ---
-
-# Promotion Eligible Channel Input
 
 > Input representation details of the channel eligible for the promotion.
 

@@ -5,12 +5,10 @@ topic: preview-cart-to-exchange-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.978Z
+lastCollected: 2026-04-07T18:37:09.699Z
 estimatedTokens: 131
-keywords: [Preview, Cart, Exchange, Order, Input]
+keywords: [Preview, Cart, Exchange, Order]
 ---
-
-# Preview Cart to Exchange Order Input
 
 > Information required to preview a cart to exchange order.
 

@@ -5,12 +5,10 @@ topic: skillrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.693Z
+lastCollected: 2026-04-07T18:40:02.379Z
 estimatedTokens: 535
-keywords: [SkillRequirement, skill, particular, task, Service, Omni-Channel, Salesforce, Scheduler, Workforce, Engagement, requirements, added, pending, routing, objects]
+keywords: [SkillRequirement, skill, particular, task, Service, Omni-Channel, Salesforce, Scheduler, Workforce, Engagement, requirements, added, pending, routing, They, work, orders, order, line, items, Lightning, job, profiles, API, 38.0, add, skills-based, 42.0]
 ---
-
-# SkillRequirement
 
 > Represents a skill that is required to complete a particular task in
 			Field Service, Omni-Channel, Salesforce Scheduler, or Workforce Engagement. Skill

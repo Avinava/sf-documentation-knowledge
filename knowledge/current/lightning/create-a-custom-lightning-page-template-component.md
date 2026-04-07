@@ -5,12 +5,10 @@ topic: create-a-custom-lightning-page-template-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.910Z
+lastCollected: 2026-04-07T18:38:02.837Z
 estimatedTokens: 2061
-keywords: [Custom, Lightning, Template, Component, Every, standard, associated, page’s, regions, components, includes, let, templates, fit, business]
+keywords: [Lightning, Template, Every, standard, page’s, regions, includes, let, templates, fit, business, needs, structure, define, Once, implemented, App, Builder’s, new, wizard, creators, Build, Configure, Design, Resource, Add, Image]
 ---
-
-# Create a Custom Lightning Page Template Component
 
 > Every standard Lightning page is associated with a default template component, which
     defines the page’s regions and what components the page includes. Custom Lightning page template

@@ -5,12 +5,10 @@ topic: fetchapifromvplmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.083Z
+lastCollected: 2026-04-07T18:38:11.349Z
 estimatedTokens: 127
-keywords: [FetchAPIFromVPLMetadata, Omnistudio, Data, Mapper, fetches, Google, API, key, validating, address, Sample, Input, Output]
+keywords: [FetchAPIFromVPLMetadata, Omnistudio, Mapper, fetches, Google, API, key, validating, address, Sample]
 ---
-
-# FetchAPIFromVPLMetadata
 
 > This Omnistudio Data Mapper fetches the Google API key value
     for validating an address.

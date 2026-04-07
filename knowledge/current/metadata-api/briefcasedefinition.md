@@ -5,12 +5,10 @@ topic: briefcasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.867Z
+lastCollected: 2026-04-07T18:36:23.140Z
 estimatedTokens: 2255
-keywords: [BriefcaseDefinition, briefcase, definition, selected, records, specific, users, groups, view, they’re, offline, Salesforce, Service, mobile, app]
+keywords: [BriefcaseDefinition, BriefcaseRule, BriefcaseRuleFilter, briefcase, definition, selected, records, specific, users, groups, view, they’re, offline, Salesforce, Service, mobile, app, iOS, Android, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---
-
-# BriefcaseDefinition
 
 > Represents a briefcase definition. A briefcase makes
       selected records available for specific users and groups to view when they’re offline in the

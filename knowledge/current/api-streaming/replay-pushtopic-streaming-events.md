@@ -5,12 +5,10 @@ topic: replay-pushtopic-streaming-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.213Z
+lastCollected: 2026-04-07T18:36:51.540Z
 estimatedTokens: 260
-keywords: [Replay, PushTopic, Streaming, Events, Salesforce, stores, PushTopic-based, hours, retrieve, stored, new, Subscribers, choose, receive, options]
+keywords: [Replay, PushTopic, Streaming, Events, Salesforce, stores, PushTopic-based, hours, retrieve, stored, new, Subscribers, choose, receive, options, Code, Samples]
 ---
-
-# Replay PushTopic Streaming Events
 
 > Salesforce
       stores PushTopic-based events for 24 hours and allows you to retrieve stored and new events.

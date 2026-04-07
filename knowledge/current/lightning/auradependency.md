@@ -5,12 +5,10 @@ topic: auradependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.498Z
+lastCollected: 2026-04-07T18:38:05.709Z
 estimatedTokens: 820
 keywords: [aura, dependency, <aura, dependency>, tag, declare, dependencies, improves, their, discoverability, framework]
 ---
-
-# aura:dependency
 
 > The <aura:dependency> tag enables you to declare
   dependencies, which improves their discoverability by the framework.

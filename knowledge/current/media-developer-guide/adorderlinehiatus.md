@@ -5,12 +5,10 @@ topic: adorderlinehiatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.812Z
+lastCollected: 2026-04-07T18:38:12.094Z
 estimatedTokens: 613
-keywords: [AdOrderLineHiatus, hiatus, media, placement, order, line, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [AdOrderLineHiatus, hiatus, media, placement, order, line, API, 60.0]
 ---
-
-# AdOrderLineHiatus
 
 > Represents the hiatus details of the media placement in a order
          line. This object is available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: listemailrecipientsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.703Z
+lastCollected: 2026-04-07T18:38:34.939Z
 estimatedTokens: 388
-keywords: [ListEmailRecipientSource, email, Salesforce, dynamically, defined, sources, recipient, addresses, record, link, view, campaign, examined, sent, one-to-many]
+keywords: [ListEmailRecipientSource, email, Salesforce, dynamically, defined, sources, recipient, addresses, record, link, view, campaign, examined, sent, one-to-many, relationship, ListEmail, API, 41.0]
 ---
-
-# ListEmailRecipientSource
 
 > For a list email in Salesforce, represents the dynamically defined
          sources of recipient email addresses. Each record represents a link to a single list view

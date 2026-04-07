@@ -5,12 +5,10 @@ topic: workforceengagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.594Z
+lastCollected: 2026-04-07T18:36:30.987Z
 estimatedTokens: 611
-keywords: [WorkforceEngagementSettings, settings, Workforce, Engagement, Management, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata]
+keywords: [WorkforceEngagementSettings, settings, Workforce, Engagement, Management, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# WorkforceEngagementSettings
 
 > Represents settings for Workforce
       Engagement Management.

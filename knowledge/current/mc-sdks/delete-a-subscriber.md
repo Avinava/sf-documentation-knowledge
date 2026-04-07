@@ -5,12 +5,10 @@ topic: delete-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.306Z
+lastCollected: 2026-04-07T18:40:24.756Z
 estimatedTokens: 388
-keywords: [Subscriber, Specify, unique, identifier, needs, props, order, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Subscriber, Specify, unique, identifier, needs, props, order, identify, PHP]
 ---
-
-# Delete a Subscriber
 
 > Use the Delete method to delete a subscriber. Specify a unique identifier needs to be specified in the props properties in order to identify which subscriber to update:
 

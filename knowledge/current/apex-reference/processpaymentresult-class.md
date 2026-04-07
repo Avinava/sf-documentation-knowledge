@@ -5,13 +5,11 @@ topic: processpaymentresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.444Z
+lastCollected: 2026-04-07T18:36:00.717Z
 estimatedTokens: 935
 namespace: RichMessaging
 keywords: [ProcessPaymentResult, result, payment, processing, operation, resultStatus, errorMessage]
 ---
-
-# ProcessPaymentResult Class
 
 > Represents the result of a payment processing operation.
 

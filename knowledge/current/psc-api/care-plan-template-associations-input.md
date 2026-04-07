@@ -5,12 +5,10 @@ topic: care-plan-template-associations-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.821Z
+lastCollected: 2026-04-07T18:39:00.946Z
 estimatedTokens: 202
-keywords: [Care, Plan, Template, Associations, Input, representation, association, benefit, goal, records]
+keywords: [Care, Plan, Template, Associations, association, benefit, goal, records]
 ---
-
-# Care Plan Template Associations Input
 
 > Input representation of the association of the care plan template
       benefit and care plan template goal records with the care plan template.

@@ -5,12 +5,10 @@ topic: orderitemratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.590Z
+lastCollected: 2026-04-07T18:39:50.996Z
 estimatedTokens: 371
-keywords: [OrderItemRateCardEntry, catalog, negotiated, rates, usage, metric, associated, order, item, that's, charge, overage, consumption, API, version]
+keywords: [OrderItemRateCardEntry, catalog, negotiated, rates, metric, order, item, that's, charge, overage, consumption, API, 62.0]
 ---
-
-# OrderItemRateCardEntry
 
 > Represents the catalog and negotiated rates of a usage metric associated with
          an order item that's used to charge overage consumption. This object is available in

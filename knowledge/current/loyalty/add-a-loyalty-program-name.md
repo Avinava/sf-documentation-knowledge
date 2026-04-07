@@ -5,12 +5,10 @@ topic: add-a-loyalty-program-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.791Z
+lastCollected: 2026-04-07T18:38:09.086Z
 estimatedTokens: 260
-keywords: [Add, Loyalty, Program, Management, Receipt, Scanner, Kit, unlocked, package, custom, label, store]
+keywords: [Add, Loyalty, Program, Management, Receipt, Scanner, Kit, unlocked, package, label, store]
 ---
-
-# Add a Loyalty Program Name
 
 > The Loyalty Management Receipt Scanner Kit unlocked package has a custom label to store
   the name of your loyalty program.

@@ -5,12 +5,10 @@ topic: wkcctriggersettingsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.108Z
+lastCollected: 2026-04-07T18:40:14.138Z
 estimatedTokens: 707
-keywords: [wkcc__TriggerSettings__c, current, state, data, triggers, Employee, Location, Work.com, objects, orgs, installed, wkcc, _TriggerSettings, Calls]
+keywords: [wkcc__TriggerSettings__c, current, state, triggers, Employee, Location, Work.com, orgs, installed, wkcc, _TriggerSettings]
 ---
-
-# wkcc__TriggerSettings__c
 
 > Represents the current state of data triggers for Employee, Location, and other
       Work.com related objects. This object is available in orgs that have Work.com installed.

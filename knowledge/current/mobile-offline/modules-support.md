@@ -5,12 +5,10 @@ topic: modules-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.493Z
+lastCollected: 2026-04-07T18:38:14.971Z
 estimatedTokens: 1219
-keywords: [Modules, Support, Lightning, web, component, described, Components, Developer, scoped, @salesforce, reviewed, correct, behavior, LWC, Offline-enabled]
+keywords: [Modules, Support, Lightning, web, described, Developer, scoped, @salesforce, reviewed, correct, behavior, LWC, Offline-enabled, mobile, apps]
 ---
-
-# Modules Support
 
 > Lightning web component modules in the lightning namespace are described in the Component Reference in the Lightning Web
     Components Developer Guide. Modules scoped with @salesforce are described in @salesforce

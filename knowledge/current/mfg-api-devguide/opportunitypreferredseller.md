@@ -5,12 +5,10 @@ topic: opportunitypreferredseller
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.694Z
+lastCollected: 2026-04-07T18:38:14.027Z
 estimatedTokens: 700
-keywords: [OpportunityPreferredSeller, relationship, opportunity, dealer, account, provided, lead, created, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [OpportunityPreferredSeller, relationship, opportunity, dealer, account, provided, lead, created, API, 65.0]
 ---
-
-# OpportunityPreferredSeller
 
 > Represents the relationship between an opportunity and a dealer account, or
          the relationship between an opportunity and the account that provided the lead from which

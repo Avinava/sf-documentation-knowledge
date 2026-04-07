@@ -5,12 +5,10 @@ topic: carepgmprovhealthcareproviderfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.672Z
+lastCollected: 2026-04-07T18:39:32.035Z
 estimatedTokens: 367
-keywords: [CarePgmProvHealthcareProviderFeed, Feed, tracking, CarePgmProvHealthcareProvider]
+keywords: [CarePgmProvHealthcareProviderFeed, CarePgmProvHealthcareProvider]
 ---
-
-# CarePgmProvHealthcareProviderFeed
 
 > Feed tracking for CarePgmProvHealthcareProvider.
 

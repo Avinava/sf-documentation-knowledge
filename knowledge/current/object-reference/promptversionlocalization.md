@@ -5,12 +5,10 @@ topic: promptversionlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.772Z
+lastCollected: 2026-04-07T18:38:39.294Z
 estimatedTokens: 807
-keywords: [PromptVersionLocalization, translated, label, for-app, guidance, Translation, Workbench, enabled, org, API, version, 48.0, later, Calls, Special]
+keywords: [PromptVersionLocalization, translated, label, for-app, guidance, Translation, Workbench, enabled, org, API, 48.0, Prompts, Walkthroughs, Managed, Packages]
 ---
-
-# PromptVersionLocalization
 
 > Represents the translated value of a label for-app guidance when the
          Translation Workbench is enabled for your org. Available in API version 48.0 and

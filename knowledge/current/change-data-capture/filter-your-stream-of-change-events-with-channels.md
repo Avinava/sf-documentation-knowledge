@@ -5,12 +5,10 @@ topic: filter-your-stream-of-change-events-with-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.564Z
+lastCollected: 2026-04-07T18:37:05.299Z
 estimatedTokens: 765
-keywords: [Filter, Stream, Change, Events, Channels, Receive, event, messages, match, predefined, channel, subscribers, fewer, delivered, processing]
+keywords: [Filter, Stream, Change, Events, Channels, Receive, event, messages, match, predefined, channel, subscribers, fewer, delivered, processing, optimized, efficient, delivery, allocation, feature, supports, Pub, Sub, API, CometD, Streaming, relays, Apex, triggers]
 ---
-
-# Filter Your Stream of Change Events with Channels
 
 > Receive only the change event messages that match a predefined filter on a channel in
     subscribers. With fewer events delivered to subscribers, event processing is optimized. Also,

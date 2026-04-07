@@ -5,12 +5,10 @@ topic: display-customers-in-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.679Z
+lastCollected: 2026-04-07T18:38:46.540Z
 estimatedTokens: 265
-keywords: [Display, Customers, Channel, Order, App, COA, custom, tab, customer, you’re, upgrading, later]
+keywords: [Display, Customers, Channel, Order, App, COA, tab, customer, you’re, upgrading]
 ---
-
-# Display Customers in the Channel Order App
 
 > If you’re upgrading to Channel Order App (COA) v2 and later, create a custom tab to
   display customer information in the app.

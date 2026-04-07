@@ -5,12 +5,10 @@ topic: campaigninfluencemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.333Z
+lastCollected: 2026-04-07T18:38:27.324Z
 estimatedTokens: 1199
-keywords: [CampaignInfluenceModel, read-only, campaign, influence, model, Customizable, models, group, CampaignInfluence, records, created, specific, triggers, workflows, define]
+keywords: [CampaignInfluenceModel, read-only, campaign, influence, model, Customizable, models, group, CampaignInfluence, records, created, specific, triggers, workflows, define, Primary, Source, API, 37.0]
 ---
-
-# CampaignInfluenceModel
 
 > This read-only object represents a campaign influence model in
 			Customizable Campaign Influence. Use campaign influence models to group CampaignInfluence records created by a specific set of

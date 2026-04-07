@@ -5,12 +5,10 @@ topic: objectdataimportreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.263Z
+lastCollected: 2026-04-07T18:39:49.754Z
 estimatedTokens: 330
-keywords: [ObjectDataImportReference, relationships, associated, objects, showing, source, data, imported, API, version, 57.0, later]
+keywords: [ObjectDataImportReference, relationships, showing, source, imported, API, 57.0]
 ---
-
-# ObjectDataImportReference
 
 > Represents the relationships to the associated reference objects showing the
          source from which the data is imported. This object is available in API version 57.0

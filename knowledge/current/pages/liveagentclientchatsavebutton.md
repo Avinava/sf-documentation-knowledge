@@ -5,12 +5,10 @@ topic: liveagentclientchatsavebutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.868Z
+lastCollected: 2026-04-07T18:38:50.091Z
 estimatedTokens: 225
-keywords: [liveAgent, clientChatSaveButton, button, chat, window, visitor, clicks, save, transcript, local, file, Attributes]
+keywords: [Attributes, liveAgent, clientChatSaveButton, button, chat, window, visitor, clicks, save, transcript, local, file]
 ---
-
-# liveAgent:clientChatSaveButton
 
 > The button in a chat window a visitor clicks to save the chat transcript as a local
 			file.

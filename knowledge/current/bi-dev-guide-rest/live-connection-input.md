@@ -5,12 +5,10 @@ topic: live-connection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.461Z
+lastCollected: 2026-04-07T18:36:54.819Z
 estimatedTokens: 99
-keywords: [Live, Connection, Input, Analytics, dataset]
+keywords: [Live, Connection, Analytics, dataset]
 ---
-
-# Live Connection Input
 
 > The connection details of an Analytics live dataset.
 

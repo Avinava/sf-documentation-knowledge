@@ -5,12 +5,10 @@ topic: envelope-documents-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.686Z
+lastCollected: 2026-04-07T18:37:24.668Z
 estimatedTokens: 131
-keywords: [Envelope, Documents, Input, document, e-signature]
+keywords: [Envelope, Documents, document, e-signature]
 ---
-
-# Envelope Documents Input
 
 > Input to get document details for e-signature.
 

@@ -5,12 +5,10 @@ topic: healthcareprocedureshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.774Z
+lastCollected: 2026-04-07T18:39:43.377Z
 estimatedTokens: 252
 keywords: [HealthCareProcedureShare, Sharing, HealthCareProcedure]
 ---
-
-# HealthCareProcedureShare
 
 > Sharing for HealthCareProcedure.
 

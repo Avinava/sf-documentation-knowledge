@@ -5,12 +5,10 @@ topic: group-announcements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.190Z
+lastCollected: 2026-04-07T18:37:14.152Z
 estimatedTokens: 925
 keywords: [Group, Announcements, posted, post, announcement]
 ---
-
-# Group Announcements
 
 > Information about the announcements posted to the
    specified group. Get information or post an announcement to a group.

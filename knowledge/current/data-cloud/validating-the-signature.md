@@ -5,12 +5,10 @@ topic: validating-the-signature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.982Z
+lastCollected: 2026-04-07T18:35:51.819Z
 estimatedTokens: 67
 keywords: [Validating, validate, sample, Java, code, something, similar, includes, payload, received, secret, key]
 ---
-
-# Validating the Signature
 
 > To validate the signature, you can use this sample Java code or something similar. This
                 code includes the payload, signature received, and secret key.

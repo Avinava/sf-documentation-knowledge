@@ -5,12 +5,10 @@ topic: loyaltyprogrammembercase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.108Z
+lastCollected: 2026-04-07T18:39:47.537Z
 estimatedTokens: 310
 keywords: [LoyaltyProgramMemberCase, junction, loyalty, program, member, case]
 ---
-
-# LoyaltyProgramMemberCase
 
 > Represents a junction between a loyalty program member and a case.
 

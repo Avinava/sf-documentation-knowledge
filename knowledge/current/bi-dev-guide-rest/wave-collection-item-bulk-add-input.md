@@ -5,12 +5,10 @@ topic: wave-collection-item-bulk-add-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.707Z
+lastCollected: 2026-04-07T18:36:55.098Z
 estimatedTokens: 130
-keywords: [Wave, Collection, Item, Bulk, Add, Input, items, Analytics, resources]
+keywords: [Wave, Collection, Item, Bulk, Add, items, Analytics, resources]
 ---
-
-# Wave Collection Item Bulk Add Input
 
 > Bulk items to add to a collection of Analytics resources.
 

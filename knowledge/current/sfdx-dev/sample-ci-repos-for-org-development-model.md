@@ -5,12 +5,10 @@ topic: sample-ci-repos-for-org-development-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.970Z
+lastCollected: 2026-04-07T18:40:07.909Z
 estimatedTokens: 275
-keywords: [Sample, Repos, Org, Development, Model, started, quickly, cloning, repository, vendor, choice, repo, configuration, file, comprehensive]
+keywords: [Sample, Repos, Org, Development, Model, started, quickly, cloning, repository, vendor, choice, repo, configuration, file, comprehensive, README.md, step-by-step]
 ---
-
-# Sample CI Repos for Org Development Model
 
 > Get started quickly with CI by cloning a sample repository from your vendor of choice.
   Each repo has a sample configuration file and a comprehensive README.md with

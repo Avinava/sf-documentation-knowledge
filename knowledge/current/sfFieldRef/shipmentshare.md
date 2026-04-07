@@ -5,12 +5,10 @@ topic: shipmentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.439Z
+lastCollected: 2026-04-07T18:40:02.138Z
 estimatedTokens: 247
 keywords: [ShipmentShare, Sharing, Shipment]
 ---
-
-# ShipmentShare
 
 > Sharing for Shipment.
 

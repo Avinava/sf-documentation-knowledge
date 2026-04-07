@@ -5,12 +5,10 @@ topic: add-a-component-to-workplace-command-center
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.886Z
+lastCollected: 2026-04-07T18:40:13.858Z
 estimatedTokens: 235
-keywords: [Add, Component, Workplace, Command, Center, Users, custom, components]
+keywords: [Add, Workplace, Command, Center, Users]
 ---
-
-# Add a Component to Workplace Command Center
 
 > Users will need to add custom components to the Workplace Command Center.
 

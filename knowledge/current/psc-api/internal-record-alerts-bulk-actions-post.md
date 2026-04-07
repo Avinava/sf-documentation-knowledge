@@ -5,12 +5,10 @@ topic: internal-record-alerts-bulk-actions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.841Z
+lastCollected: 2026-04-07T18:39:01.992Z
 estimatedTokens: 236
 keywords: [Internal, Record, Alerts, Bulk, Actions, POST, Snooze, time, period, dismiss]
 ---
-
-# Internal Record Alerts Bulk Actions (POST)
 
 > Snooze bulk internal record alerts for a specified time period or
       dismiss them.

@@ -5,12 +5,10 @@ topic: get-smsv1automationimportsendtokenidstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.400Z
+lastCollected: 2026-04-07T18:40:17.578Z
 estimatedTokens: 282
-keywords: [sms, automation, importSend, tokenid, status, Retrieves, **Overview**, Usage]
+keywords: [sms, automation, importSend, tokenid, status, Retrieves, **Overview**]
 ---
-
-# GET /sms/v1/automation/importSend/{tokenid}/status
 
 > Retrieves the status of a ImportSend automation.
 

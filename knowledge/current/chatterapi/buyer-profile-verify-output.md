@@ -5,12 +5,10 @@ topic: buyer-profile-verify-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.987Z
+lastCollected: 2026-04-07T18:37:17.050Z
 estimatedTokens: 231
-keywords: [Buyer, Profile, Verify, Output]
+keywords: [Buyer, Profile, Verify]
 ---
-
-# Buyer Profile Verify Output
 
 > Output details for the buyer profile verify request.
 

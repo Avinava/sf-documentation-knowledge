@@ -5,12 +5,10 @@ topic: violationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.626Z
+lastCollected: 2026-04-07T18:39:07.841Z
 estimatedTokens: 876
-keywords: [ViolationType, violations, licenses, permits, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [ViolationType, violations, licenses, permits, API, 49.0]
 ---
-
-# ViolationType
 
 > Represents violations types for licenses and permits. This object is available in API version 49.0 and later.
 

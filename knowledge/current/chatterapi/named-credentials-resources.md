@@ -5,12 +5,10 @@ topic: named-credentials-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:27.711Z
+lastCollected: 2026-04-07T18:37:14.754Z
 estimatedTokens: 725
 keywords: [Named, Credentials, Resources, refresh, replace, credential, URL, OAuth, token, flow, external, auth, identity, providers]
 ---
-
-# Named Credentials Resources
 
 > Get, create, refresh, replace, update, and delete a credential. Get the URL for the
       OAuth token flow for an external credential. Get, create, update, and delete external

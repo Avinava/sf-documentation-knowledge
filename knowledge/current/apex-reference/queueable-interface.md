@@ -5,13 +5,11 @@ topic: queueable-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.984Z
+lastCollected: 2026-04-07T18:36:01.192Z
 estimatedTokens: 957
 namespace: System
-keywords: [Queueable, asynchronous, execution, Apex, jobs, monitored, Usage, execute, context, Implementation, Testing]
+keywords: [Queueable, asynchronous, execution, Apex, jobs, monitored, execute, context, Implementation, Testing]
 ---
-
-# Queueable Interface
 
 > Enables the asynchronous execution of Apex jobs that can be
             monitored.

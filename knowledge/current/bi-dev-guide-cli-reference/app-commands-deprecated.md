@@ -5,12 +5,10 @@ topic: app-commands-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:07.140Z
+lastCollected: 2026-04-07T18:36:53.496Z
 estimatedTokens: 4775
 keywords: [app, Commands, Deprecated, manage, Analytics, apps, Examples, Command, decouple, display]
 ---
-
-# app Commands (Deprecated)
 
 > Create and manage Analytics apps.
 

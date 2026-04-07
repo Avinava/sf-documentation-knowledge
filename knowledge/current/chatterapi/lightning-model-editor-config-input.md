@@ -5,12 +5,10 @@ topic: lightning-model-editor-config-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.976Z
+lastCollected: 2026-04-07T18:37:08.788Z
 estimatedTokens: 136
-keywords: [Lightning, Model, Editor, Config, Input, configuration]
+keywords: [Lightning, Model, Editor, Config, configuration]
 ---
-
-# Lightning Model Editor Config Input
 
 > Input for lightning model type editor configuration.
 

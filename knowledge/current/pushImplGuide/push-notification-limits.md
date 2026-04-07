@@ -5,12 +5,10 @@ topic: push-notification-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:15.979Z
+lastCollected: 2026-04-07T18:39:09.301Z
 estimatedTokens: 496
 keywords: [Push, Notification, Limits, apply, test, notifications, well, production]
 ---
-
-# Push Notification Limits
 
 > Push notification limits apply to test push notifications as well as to production
     notifications.

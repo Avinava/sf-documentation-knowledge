@@ -5,12 +5,10 @@ topic: translations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:56.741Z
+lastCollected: 2026-04-07T18:37:45.136Z
 estimatedTokens: 10860
-keywords: [Translations, Metadata, work, various, languages, ability, translate, component, labels, part, Translation, Workbench, Language, Declarative, File]
+keywords: [Translations, Language, AiCoachAgentScnrDefTranslation, BotBlockTranslation, BotBlockVersionTranslation, BotTemplateTranslation, BotTranslation, BotVersionTranslation, BotDialogTranslation, BotStepTranslation, BotMessageTranslation, BotVariableOperationTranslation, BotQuickReplyOptionTranslation, CustomApplicationTranslation, CustomLabelTranslation, CustomPageWebLinkTranslation, CustomTabTranslation, ExplainabilityMsgTemplateFieldTranslation, FlowDefinitionTranslation, FlowTranslation, FlowChoiceTranslation, FlowChoiceUserInputTranslation, FlowInputValidationRuleTranslation, FlowOrchestrationStageTranslation, FlowOrchestrationStepTranslation, FlowScreenTranslation, FlowScreenFieldTranslation, FlowInputParameterTranslation, FlowFerovTranslation, FlowComplexLiteralTranslation, FlowStageTranslation, FlowTextTemplateTranslation, IdentityVerificationFieldTranslation, TimelineObjectDefinitionTranslation, GlobalPicklistTranslation, GlobalQuickActionTranslation, PipelineInspMetricConfigTranslation, ProductSpecificationTypeTranslation, PromptTranslation, PromptVersionTranslation, ReportTypeTranslation, ReportTypeSectionTranslation, ReportTypeColumnTranslation, ScontrolTranslation, ConversationMessageDefinitionTranslation, ConversationMessageConstantValueTranslation, DataConnectorTranslation, DataConnectorAttributeTranslation, DataConnectorAttributeOptTranslation, DataConnectorErrorTranslation, RecordAlertCategoryTranslation, RecordAlertTemplateTranslation, ServiceProcessAttributeTranslation, ServiceProcessItemGroupTranslation, Metadata, work, various, languages, ability, translate, labels, part, Translation, Workbench, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Translations
 
 > Metadata type that enables work with translations for
             various supported languages. The ability to translate component labels is part of

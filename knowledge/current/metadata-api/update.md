@@ -5,12 +5,10 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.958Z
+lastCollected: 2026-04-07T18:36:30.332Z
 estimatedTokens: 1832
-keywords: [Deprecated, Updates, components, organization, asynchronously, call, removed, API, version, 31.0, earlier, versions, updateMetadata, renameMetadata, instead]
+keywords: [Permissions, Arguments, UpdateMetadata, Deprecated, Updates, organization, asynchronously, call, removed, API, 31.0, earlier, versions, renameMetadata, instead, Basic, Steps, Updating, Metadata, Sample, Code—Java]
 ---
-
-# update()
 
 > Deprecated. Updates one or more components in your organization asynchronously. This
     call is removed as of API version 31.0 and is available in earlier versions only. Use updateMetadata()  or renameMetadata()  instead.

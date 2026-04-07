@@ -5,13 +5,11 @@ topic: creditlinerequestinputrepresentations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.541Z
+lastCollected: 2026-04-07T18:35:40.333Z
 estimatedTokens: 1072
 namespace: IssueCreditMemo
 keywords: [CreditLineRequestInputRepresentations, line-level, credit, invoice, line, amount, apply, invoiceLineId, creditLineAmount]
 ---
-
-# CreditLineRequestInputRepresentations Class
 
 > Represents a single line-level credit request. Specifies the invoice line to credit, the amount to apply, and an optional description.
 

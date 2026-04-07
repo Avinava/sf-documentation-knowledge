@@ -5,12 +5,10 @@ topic: approvalalertcontentdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.860Z
+lastCollected: 2026-04-07T18:38:25.801Z
 estimatedTokens: 616
-keywords: [ApprovalAlertContentDef, mapping, links, specific, user-created, email, templates, different, notification, events, initial, assignment, reassignment, Advanced, Approvals]
+keywords: [ApprovalAlertContentDef, mapping, links, specific, user-created, email, templates, different, notification, events, initial, assignment, reassignment, Advanced, Approvals, flow, API, 66.0]
 ---
-
-# ApprovalAlertContentDef
 
 > Represents the mapping that links specific user-created email
          templates to different notification events such as initial assignment or reassignment

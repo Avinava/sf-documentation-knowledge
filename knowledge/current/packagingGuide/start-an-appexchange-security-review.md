@@ -5,12 +5,10 @@ topic: start-an-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.762Z
+lastCollected: 2026-04-07T18:38:47.710Z
 estimatedTokens: 322
-keywords: [Start, AppExchange, Security, Review, launch, wizard, Solutions, Partner, Console, enter, partial, save, finish, later]
+keywords: [Start, AppExchange, Security, Review, launch, wizard, Solutions, Partner, Console, enter, partial, save, finish]
 ---
-
-# Start an AppExchange Security Review
 
 > To start a security review, launch the security review wizard from the Solutions page
         in the AppExchange Partner Console. You can enter partial information, then save and finish

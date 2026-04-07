@@ -5,12 +5,10 @@ topic: platform-event-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.911Z
+lastCollected: 2026-04-07T18:38:57.735Z
 estimatedTokens: 8646
-keywords: [Platform, Event, Allocations, definitions, publishing, subscribing, events, delivery, Pub, Sub, API, clients, CometD, empApi, Lightning]
+keywords: [Platform, Event, Allocations, definitions, publishing, subscribing, events, delivery, Pub, Sub, API, clients, CometD, empApi, Lightning, relays, Apply, Common, Combined, Subscribers, How, Calculated, Why, Allocation, Higher, Avoid, Exceeding, Exceed, Increased, Increase, Add-On, License, Monitor, Against, Hourly, REST, SOQL, Queries, PlatformEventUsageMetric, Standard-Volume]
 ---
-
-# Platform Event Allocations
 
 > Learn about the allocations available for platform event definitions, publishing and
     subscribing to platform events, and event delivery in Pub/Sub API clients, CometD clients,

@@ -5,12 +5,10 @@ topic: guestbuyerprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:42.358Z
+lastCollected: 2026-04-07T18:38:33.499Z
 estimatedTokens: 315
-keywords: [GuestBuyerProfile, store's, guest, buyer, profile, unauthenticated, buyers, browse, store, API, version, 51.0, later, Calls]
+keywords: [GuestBuyerProfile, store's, guest, buyer, profile, unauthenticated, buyers, browse, store, API, 51.0]
 ---
-
-# GuestBuyerProfile
 
 > Represents a store's guest buyer profile, which allows unauthenticated buyers
       to browse the store. This object is available in API version 51.0 and later.

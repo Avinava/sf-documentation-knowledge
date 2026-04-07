@@ -5,12 +5,10 @@ topic: datacontentlenssourcehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.533Z
+lastCollected: 2026-04-07T18:39:37.142Z
 estimatedTokens: 282
-keywords: [DataContentLensSourceHistory, History, tracked, DataContentLensSource]
+keywords: [DataContentLensSourceHistory, tracked, DataContentLensSource]
 ---
-
-# DataContentLensSourceHistory
 
 > History for tracked fields of DataContentLensSource.
 

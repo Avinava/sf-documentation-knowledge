@@ -5,12 +5,10 @@ topic: financialaccountparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.033Z
+lastCollected: 2026-04-07T18:37:35.705Z
 estimatedTokens: 1368
-keywords: [FinancialAccountParty, role, played, person, organization, involved, financial, account, beneficiary, owner, trustee, API, version, 61.0, later]
+keywords: [FinancialAccountParty, role, played, person, organization, involved, financial, account, beneficiary, owner, trustee, API, 61.0]
 ---
-
-# FinancialAccountParty
 
 > Represents the role played by a person or organization involved with a
          financial account, such as a beneficiary, owner, and a trustee. This object is

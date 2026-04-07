@@ -5,12 +5,10 @@ topic: decision-table-lookup-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.086Z
+lastCollected: 2026-04-07T18:36:37.702Z
 estimatedTokens: 216
 keywords: [Decision, Lookup, POST, Performs]
 ---
-
-# Decision Table Lookup (POST)
 
 > Performs a lookup on a decision table.
 

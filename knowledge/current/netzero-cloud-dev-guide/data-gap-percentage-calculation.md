@@ -5,12 +5,10 @@ topic: data-gap-percentage-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.609Z
+lastCollected: 2026-04-07T18:38:17.181Z
 estimatedTokens: 322
-keywords: [Data, Gap, Percentage, Calculation, Calculate, record, whenever, emission, factors]
+keywords: [Gap, Percentage, Calculation, Calculate, record, whenever, emission, factors]
 ---
-
-# Data Gap Percentage Calculation
 
 > Calculate a record whenever you update data, such as emission factors.
 

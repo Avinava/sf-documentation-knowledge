@@ -5,12 +5,10 @@ topic: careprogramenrollee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.861Z
+lastCollected: 2026-04-07T18:37:45.255Z
 estimatedTokens: 2281
-keywords: [CareProgramEnrollee, participant, enrolled, care, program, Calls, Associated, Objects]
+keywords: [CareProgramEnrollee, participant, enrolled, care, program]
 ---
-
-# CareProgramEnrollee
 
 > Represents a participant enrolled in a care program.
 

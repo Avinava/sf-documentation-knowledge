@@ -5,12 +5,10 @@ topic: analytics-sdk-developer-guide-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:14.821Z
+lastCollected: 2026-04-07T18:37:01.420Z
 estimatedTokens: 1280
-keywords: [Analytics, SDK, Developer, features, embed, CRM, functionality, directly, users, work, everyday, having, transition, Lightning, Experience]
+keywords: [Analytics, SDK, Developer, features, embed, CRM, functionality, directly, users, work, everyday, having, transition, Lightning, Experience, Studio, lets, communicate, interact, assets, Apps, Web, Apex, Visualforce, cohesive, powered, Salesforce, pages, Aura, Templates, Events]
 ---
-
-# Analytics SDK Developer Guide Overview
 
 > Use the Analytics SDK features to embed CRM Analytics functionality directly where your
     users work everyday, without having to transition between Lightning Experience and CRM Analytics

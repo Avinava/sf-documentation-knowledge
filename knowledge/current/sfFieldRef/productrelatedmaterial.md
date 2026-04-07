@@ -5,12 +5,10 @@ topic: productrelatedmaterial
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.456Z
+lastCollected: 2026-04-07T18:39:56.028Z
 estimatedTokens: 464
-keywords: [ProductRelatedMaterial, components, product]
+keywords: [ProductRelatedMaterial, product]
 ---
-
-# ProductRelatedMaterial
 
 > Represents information about the components of a product.
 

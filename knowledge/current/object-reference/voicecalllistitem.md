@@ -5,12 +5,10 @@ topic: voicecalllistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.360Z
+lastCollected: 2026-04-07T18:38:44.182Z
 estimatedTokens: 229
-keywords: [VoiceCallListItem, phone, number, prioritized, call, Calls, Special, Access, Rules]
+keywords: [VoiceCallListItem, phone, number, prioritized, call]
 ---
-
-# VoiceCallListItem
 
 > Represents a single phone number in a prioritized call
 		list.

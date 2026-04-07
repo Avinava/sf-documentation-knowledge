@@ -5,12 +5,10 @@ topic: adorderitemunitssplit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.794Z
+lastCollected: 2026-04-07T18:38:12.071Z
 estimatedTokens: 634
-keywords: [AdOrderItemUnitsSplit, split, interval, units, order, line, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [AdOrderItemUnitsSplit, split, interval, units, order, line, API, 56.0]
 ---
-
-# AdOrderItemUnitsSplit
 
 > Represents the split interval of the required units for an ad order
          line. This object is available in API version 56.0 and later.

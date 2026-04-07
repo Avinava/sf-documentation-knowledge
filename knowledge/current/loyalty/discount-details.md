@@ -5,12 +5,10 @@ topic: discount-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.635Z
+lastCollected: 2026-04-07T18:38:07.866Z
 estimatedTokens: 111
 keywords: [Discount, applied, customer's, cart]
 ---
-
-# Discount Details
 
 > The details of the discount applied to a customer's cart.
 

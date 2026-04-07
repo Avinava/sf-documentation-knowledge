@@ -5,12 +5,10 @@ topic: bulkupdateclauseversionsbulkupdateinputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.876Z
+lastCollected: 2026-04-07T18:36:35.353Z
 estimatedTokens: 281
-keywords: [bulkUpdateClauseVersions, bulkUpdateInputs, Asynchronously, bulk, status, clause, versions, regulation, version, policy, API, Requires, Chatter, Usage]
+keywords: [bulkUpdateClauseVersions, bulkUpdateInputs, Asynchronously, bulk, status, clause, versions, regulation, policy, API, Requires, Chatter]
 ---
-
-# bulkUpdateClauseVersions(bulkUpdateInputs)
 
 > Asynchronously bulk update the status of all clause versions for the specified
     regulation version or policy version.

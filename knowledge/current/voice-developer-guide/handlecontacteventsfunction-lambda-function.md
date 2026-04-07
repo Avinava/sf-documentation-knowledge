@@ -5,12 +5,10 @@ topic: handlecontacteventsfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.928Z
+lastCollected: 2026-04-07T18:40:12.874Z
 estimatedTokens: 538
-keywords: [HandleContactEventsFunction, Lambda, Function, handles, disconnect, event, missed, abandoned, call, ensures, PendingServiceRouting, PSR, record, cleaned, Salesforce]
+keywords: [HandleContactEventsFunction, Lambda, Function, handles, disconnect, event, missed, abandoned, call, ensures, PendingServiceRouting, PSR, record, cleaned, Salesforce, automatically, invoked, Amazon, EventBridge, rule, don’t, manually]
 ---
-
-# HandleContactEventsFunction Lambda Function
 
 > This Lambda function handles the disconnect event for a missed or
       abandoned call and ensures that the PendingServiceRouting (PSR) record is cleaned up in

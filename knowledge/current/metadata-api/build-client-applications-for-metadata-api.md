@@ -5,12 +5,10 @@ topic: build-client-applications-for-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.323Z
+lastCollected: 2026-04-07T18:36:28.811Z
 estimatedTokens: 235
-keywords: [Build, Client, Applications, Metadata, API, retrieve, deploy, customizations, org, common, migrate, changes, sandbox, testing, production]
+keywords: [Build, Client, Applications, Metadata, API, retrieve, deploy, customizations, org, common, migrate, changes, sandbox, testing, production, environment, intended, managing, building, tools, manage, model, itself]
 ---
-
-# Build Client Applications for Metadata API
 
 > Use Metadata API to retrieve, deploy, create, update, or delete customizations for your
     org. The most common use is to migrate changes from a sandbox or testing org to your production

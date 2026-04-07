@@ -5,12 +5,10 @@ topic: cgcloudboapientityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.573Z
+lastCollected: 2026-04-07T18:39:12.996Z
 estimatedTokens: 997
-keywords: [cgcloud__BO_API_Entity__c, stores, entity, definitions, Business, APIs, API, version, 54.0, later, cgcloud, _BO, _API, _Entity, Calls]
+keywords: [cgcloud__BO_API_Entity__c, stores, entity, definitions, Business, APIs, API, 54.0, cgcloud, _BO, _API, _Entity]
 ---
-
-# cgcloud__BO_API_Entity__c
 
 > This table stores the entity definitions of Business Object
          APIs. This object is available in API version 54.0 and later.

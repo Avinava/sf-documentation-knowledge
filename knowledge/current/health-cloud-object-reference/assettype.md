@@ -5,12 +5,10 @@ topic: assettype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.024Z
+lastCollected: 2026-04-07T18:37:45.428Z
 estimatedTokens: 967
-keywords: [AssetType, asset, item, physical, space, service, offering, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [AssetType, asset, item, physical, space, service, offering, API, 62.0]
 ---
-
-# AssetType
 
 > Represents a type of asset, such as a type of item, physical space, or
          service offering. This object is available in API version 62.0 and later.

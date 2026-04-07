@@ -5,12 +5,10 @@ topic: contentdistributioneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.574Z
+lastCollected: 2026-04-07T18:38:28.479Z
 estimatedTokens: 411
-keywords: [ContentDistributionEventLog, Content, Distribution, events, contain, distributions, deliveries, users, API, version, 65.0, later, Calls, Special, Access]
+keywords: [ContentDistributionEventLog, Content, Distribution, events, contain, distributions, deliveries, users, API, 65.0]
 ---
-
-# ContentDistributionEventLog
 
 > Content Distribution events contain information about content distributions
          and deliveries to users. This object is available in API version 65.0 and later.

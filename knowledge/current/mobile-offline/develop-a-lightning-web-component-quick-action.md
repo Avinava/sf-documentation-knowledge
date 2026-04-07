@@ -5,12 +5,10 @@ topic: develop-a-lightning-web-component-quick-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.921Z
+lastCollected: 2026-04-07T18:38:15.422Z
 estimatedTokens: 636
-keywords: [Develop, Lightning, Web, Component, Quick, Action, Welcome, developing, actions, components, LWCs, Salesforce, Service, SFS, mobile]
+keywords: [Develop, Lightning, Web, Quick, Action, Welcome, developing, actions, LWCs, Salesforce, Service, SFS, mobile, app, tailor, users’, experience, easier, viewing, updating, relevant]
 ---
-
-# Develop a Lightning Web Component Quick Action
 
 > Welcome to developing quick actions using Lightning web components (LWCs) in the
   Salesforce Field Service (SFS) mobile app. With custom quick actions, you can tailor your Field

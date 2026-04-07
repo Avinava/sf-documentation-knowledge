@@ -5,13 +5,11 @@ topic: saveresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.607Z
+lastCollected: 2026-04-07T18:36:13.912Z
 estimatedTokens: 1230
 namespace: Database
-keywords: [SaveResult, result, insert, DML, operation, Database, Usage, getErrors, getId, Versioned, Behavior, Changes, isSuccess]
+keywords: [SaveResult, result, insert, DML, operation, Database, getErrors, getId, Versioned, Behavior, Changes, isSuccess]
 ---
-
-# SaveResult Class
 
 > The result of an insert or update DML operation returned
 by a Database method.

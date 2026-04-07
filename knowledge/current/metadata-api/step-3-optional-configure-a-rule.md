@@ -5,12 +5,10 @@ topic: step-3-optional-configure-a-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.992Z
+lastCollected: 2026-04-07T18:36:27.512Z
 estimatedTokens: 224
-keywords: [Step, Configure, Rule, ​​To, help, MCP, server, function, optimally, guides, assistant, Agentforce, Vibes, Cursor, Agent]
+keywords: [Step, Configure, Rule, ​​To, help, MCP, server, function, optimally, guides, assistant, Agentforce, Vibes, Cursor, Agent, call, Metadata, API, Context, tool, plain-text, file, Markdown, specific, instructions, constraints]
 ---
-
-# Step 3 [Optional]: Configure a Rule
 
 > ​​To help the MCP server function optimally, you can create a rule that guides your AI
   assistant, such as Agentforce Vibes or Cursor Agent, to call the Metadata API Context MCP tool. An

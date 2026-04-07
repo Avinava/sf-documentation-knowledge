@@ -5,12 +5,10 @@ topic: problemincidentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.399Z
+lastCollected: 2026-04-07T18:39:54.961Z
 estimatedTokens: 360
-keywords: [ProblemIncidentFeed, Feed, tracking, ProblemIncident]
+keywords: [ProblemIncidentFeed, ProblemIncident]
 ---
-
-# ProblemIncidentFeed
 
 > Feed tracking for ProblemIncident.
 

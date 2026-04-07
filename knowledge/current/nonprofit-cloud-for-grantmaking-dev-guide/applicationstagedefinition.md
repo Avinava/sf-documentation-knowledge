@@ -5,12 +5,10 @@ topic: applicationstagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:32.579Z
+lastCollected: 2026-04-07T18:38:23.469Z
 estimatedTokens: 877
-keywords: [ApplicationStageDefinition, stage, application, Grantmaking, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ApplicationStageDefinition, stage, application, Grantmaking, API, 61.0]
 ---
-
-# ApplicationStageDefinition
 
 > Represents a stage of an application. This object is available in
       Grantmaking API version 61.0 and later.

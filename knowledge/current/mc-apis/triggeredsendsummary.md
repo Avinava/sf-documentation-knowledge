@@ -5,12 +5,10 @@ topic: triggeredsendsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.544Z
+lastCollected: 2026-04-07T18:40:20.794Z
 estimatedTokens: 885
 keywords: [TriggeredSendSummary, summary, results, specific, triggered, send, Items]
 ---
-
-# TriggeredSendSummary
 
 > The TriggeredSendSummary object is a summary of results for a specific triggered send.
 

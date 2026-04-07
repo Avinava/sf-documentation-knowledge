@@ -5,13 +5,11 @@ topic: capturerequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.659Z
+lastCollected: 2026-04-07T18:36:01.885Z
 estimatedTokens: 845
 namespace: CommercePayments
-keywords: [CaptureRequest, capture, extends, BaseRequest, inherits, Usage, amount, authorizationId, accountId, paymentAuthorizationId]
+keywords: [CaptureRequest, capture, extends, BaseRequest, inherits, amount, authorizationId, accountId, paymentAuthorizationId]
 ---
-
-# CaptureRequest Class
 
 > Represents a capture request. This class extends the BaseRequest class and inherits all its
     methods.

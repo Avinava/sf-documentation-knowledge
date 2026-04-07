@@ -5,12 +5,10 @@ topic: enable-bulk-api-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.220Z
+lastCollected: 2026-04-07T18:37:28.254Z
 estimatedTokens: 277
-keywords: [Enable, Bulk, API, 2.0, Select, option, insert, upsert, hard-delete, records, optimized, load, asynchronously, Supports, OAuth]
+keywords: [Enable, Bulk, API, 2.0, Select, option, insert, upsert, hard-delete, records, optimized, load, asynchronously, Supports, OAuth, flows, Salesforce, REST, APIs, 2.0's, design, consistent, better, integrated, advantage, future, innovation, Loader, uses, SOAP-based, process]
 ---
-
-# Enable Bulk API 2.0
 
 > Select this option to use Bulk API 2.0 to insert, update, upsert, delete, and
   hard-delete records. Bulk API 2.0 is optimized to load or delete many records asynchronously.

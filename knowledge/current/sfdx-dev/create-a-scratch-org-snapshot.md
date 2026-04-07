@@ -5,12 +5,10 @@ topic: create-a-scratch-org-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.557Z
+lastCollected: 2026-04-07T18:40:08.509Z
 estimatedTokens: 559
 keywords: [Scratch, Org, Snapshot, source, wasn’t, created]
 ---
-
-# Create a Scratch Org Snapshot
 
 > You can create a snapshot if the source scratch org wasn’t created using a snapshot or
         with a namespace.

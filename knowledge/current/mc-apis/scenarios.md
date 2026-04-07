@@ -5,12 +5,10 @@ topic: scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.828Z
+lastCollected: 2026-04-07T18:40:20.050Z
 estimatedTokens: 857
-keywords: [Scenarios, sample, code, Marketing, Cloud, AppExchange, API, Calls, Call, Re-subscribe, SOAP]
+keywords: [Scenarios, sample, code, Marketing, Cloud, AppExchange, API, Call, Re-subscribe, SOAP]
 ---
-
-# Scenarios
 
 > This section provides sample code related to Marketing Cloud for AppExchange API.
 

@@ -5,12 +5,10 @@ topic: producerrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.843Z
+lastCollected: 2026-04-07T18:37:38.722Z
 estimatedTokens: 1324
-keywords: [ProducerRelationship, relationship, producer, team, associated, producers, API, version, later, Calls, Objects]
+keywords: [ProducerRelationship, relationship, producer, team, producers, API]
 ---
-
-# ProducerRelationship
 
 > Represents the relationship between producer team and associated producers.
       This object is available in API version 62 and later.

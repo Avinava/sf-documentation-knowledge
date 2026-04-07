@@ -5,12 +5,10 @@ topic: getversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.994Z
+lastCollected: 2026-04-07T18:35:59.270Z
 estimatedTokens: 136
-keywords: [getVersion, Retrieves, current, version, canvas, app, Usage]
+keywords: [getVersion, Retrieves, current, canvas, app]
 ---
-
-# getVersion()
 
 > Retrieves the current version of the
 canvas app.

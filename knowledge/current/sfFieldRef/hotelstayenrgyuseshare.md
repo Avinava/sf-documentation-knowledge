@@ -5,12 +5,10 @@ topic: hotelstayenrgyuseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.482Z
+lastCollected: 2026-04-07T18:39:44.131Z
 estimatedTokens: 251
 keywords: [HotelStayEnrgyUseShare, Sharing, HotelStayEnrgyUse]
 ---
-
-# HotelStayEnrgyUseShare
 
 > Sharing for HotelStayEnrgyUse.
 

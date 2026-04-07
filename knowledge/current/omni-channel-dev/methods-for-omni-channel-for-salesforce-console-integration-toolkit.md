@@ -6,13 +6,10 @@ topic: methods-for-omni-channel-for-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.385Z
+lastCollected: 2026-04-07T18:38:45.208Z
 estimatedTokens: 520
 keywords: [Omni-Channel, Salesforce, Console, Integration, Toolkit, API, Classic]
 ---
-
-# Methods for Omni-Channel for Salesforce Console Integration
-      Toolkit
 
 > Use these Salesforce Console Integration Toolkit API methods for Omni-Channel in
     Salesforce Classic.

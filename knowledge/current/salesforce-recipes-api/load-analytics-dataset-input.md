@@ -5,12 +5,10 @@ topic: load-analytics-dataset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.694Z
+lastCollected: 2026-04-07T18:39:18.396Z
 estimatedTokens: 116
-keywords: [Load, Analytics, Dataset, Input, CRM]
+keywords: [Load, Analytics, Dataset, CRM]
 ---
-
-# Load Analytics Dataset Input
 
 > A CRM Analytics dataset to load.
 

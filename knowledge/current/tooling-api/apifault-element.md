@@ -5,12 +5,10 @@ topic: apifault-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:46.132Z
+lastCollected: 2026-04-07T18:36:31.507Z
 estimatedTokens: 529
-keywords: [ApiFault, Element, fault, occurs, processing, service, Tooling, API, Faults]
+keywords: [ApiFault, fault, occurs, processing, service, Tooling, API, Faults]
 ---
-
-# ApiFault Element
 
 > An ApiFault element
         contains information about a fault that occurs when processing a service

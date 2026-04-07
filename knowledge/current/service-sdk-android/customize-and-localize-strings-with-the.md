@@ -5,12 +5,10 @@ topic: customize-and-localize-strings-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.645Z
+lastCollected: 2026-04-07T18:40:27.793Z
 estimatedTokens: 993
-keywords: [Customize, Localize, Strings, change, text, throughout, user, resource, XML, files, named, strings.xml, project's, values-, locale]
+keywords: [Customize, Localize, Strings, change, text, throughout, user, resource, XML, files, named, strings.xml, project's, values-, locale, folder, language, want]
 ---
-
-# Customize and Localize Strings with the
 
 > You can change the text throughout the user interface. To customize text, create string
   resource XML files (named strings.xml) in your project's

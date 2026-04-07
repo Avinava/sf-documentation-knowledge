@@ -5,12 +5,10 @@ topic: holiday
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.985Z
+lastCollected: 2026-04-07T18:39:20.770Z
 estimatedTokens: 391
-keywords: [Holiday, Salesforce, Scheduler, period, service, resource, unavailable, appointment, scheduling, Calls]
+keywords: [Holiday, Salesforce, Scheduler, period, service, resource, unavailable, appointment, scheduling]
 ---
-
-# Holiday
 
 > Represents the fields in the Holiday
         object that are used by Salesforce Scheduler. A holiday is a period during which your

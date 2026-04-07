@@ -5,12 +5,10 @@ topic: test-custom-integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.605Z
+lastCollected: 2026-04-07T18:38:55.015Z
 estimatedTokens: 745
-keywords: [Test, Custom, Integrations, nonproduction, environment, AppExchange, App, Analytics, Simulation, Mode, Submit, query, receive, sample, usage]
+keywords: [Test, Integrations, nonproduction, environment, AppExchange, App, Analytics, Simulation, Mode, Submit, query, receive, sample]
 ---
-
-# Test Custom Integrations
 
 > To test your custom integrations in a nonproduction environment, use AppExchange App
         Analytics Simulation Mode. Submit an App Analytics query request and receive sample usage

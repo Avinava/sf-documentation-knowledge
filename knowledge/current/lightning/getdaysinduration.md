@@ -5,12 +5,10 @@ topic: getdaysinduration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.954Z
+lastCollected: 2026-04-07T18:38:05.118Z
 estimatedTokens: 121
 keywords: [getDaysInDuration, number, days, duration, Sample, Code]
 ---
-
-# getDaysInDuration()
 
 > Returns the number of days in a duration.
 

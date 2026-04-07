@@ -5,12 +5,10 @@ topic: configure-external-client-app-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.327Z
+lastCollected: 2026-04-07T18:37:39.258Z
 estimatedTokens: 308
-keywords: [Configure, External, Client, App, Policies, standard, OAuth, flow, users, often, approval, they, confirm, allowed, access]
+keywords: [Configure, External, Client, App, Policies, standard, OAuth, flow, users, often, approval, they, confirm, allowed, their, Salesforce, headless, identity, flows, don’t, want, show, preapprove]
 ---
-
-# Configure External Client App Policies
 
 > In a standard OAuth flow, users often see an approval page where they confirm that an
   external client app is allowed to access their Salesforce data. With headless identity flows, you

@@ -5,12 +5,10 @@ topic: which-custom-lightning-component-attribute-types-are-supported-in-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.086Z
+lastCollected: 2026-04-07T18:38:03.059Z
 estimatedTokens: 636
-keywords: [Custom, Lightning, Component, Attribute, Flows, data, map, their, associated, collection, components]
+keywords: [Lightning, Attribute, Flows, map, their, collection]
 ---
-
-# Which Custom Lightning Component Attribute Types Are Supported in Flows?
 
 > Not all custom Lightning component data types are supported in flows. You can map only
   these types and their associated collection types between flows and custom Lightning

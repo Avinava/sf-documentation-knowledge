@@ -5,12 +5,10 @@ topic: expensereportentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.315Z
+lastCollected: 2026-04-07T18:39:39.921Z
 estimatedTokens: 411
-keywords: [ExpenseReportEntry, entry, expense, report, API, version, 50.0, later]
+keywords: [ExpenseReportEntry, entry, expense, report, API, 50.0]
 ---
-
-# ExpenseReportEntry
 
 > Represents an entry in an expense report. This object is available in API
     version 50.0 and later.

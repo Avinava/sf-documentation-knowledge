@@ -5,12 +5,10 @@ topic: retrieveoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.550Z
+lastCollected: 2026-04-07T18:40:18.754Z
 estimatedTokens: 456
 keywords: [RetrieveOptions, conjunction, Retrieve, call, working, ClientID]
 ---
-
-# RetrieveOptions
 
 > Use the RetrieveOptions object in conjunction with a Retrieve call to set the working ClientID for the call.
 

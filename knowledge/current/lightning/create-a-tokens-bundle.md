@@ -5,12 +5,10 @@ topic: create-a-tokens-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.564Z
+lastCollected: 2026-04-07T18:38:05.781Z
 estimatedTokens: 457
 keywords: [Tokens, Bundle, org, Developer, Console]
 ---
-
-# Create a Tokens Bundle
 
 > Create a tokens bundle in your org using the Developer Console.
 

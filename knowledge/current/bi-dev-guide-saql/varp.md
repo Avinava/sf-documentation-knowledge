@@ -5,12 +5,10 @@ topic: varp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.971Z
+lastCollected: 2026-04-07T18:37:00.492Z
 estimatedTokens: 98
-keywords: [varp, variance, Accepts, measure, input, expressions, Calculate, Population, Deal, Amount]
+keywords: [varp, variance, Accepts, measure, expressions, Calculate, Population, Deal, Amount]
 ---
-
-# varp()
 
 > Returns the variance of the values in a field. Accepts measure fields as input but
             not expressions.

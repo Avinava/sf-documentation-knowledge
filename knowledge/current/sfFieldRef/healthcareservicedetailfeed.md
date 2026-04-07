@@ -5,12 +5,10 @@ topic: healthcareservicedetailfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.297Z
+lastCollected: 2026-04-07T18:39:43.929Z
 estimatedTokens: 392
-keywords: [HealthcareServiceDetailFeed, Feed, tracking, HealthcareServiceDetail]
+keywords: [HealthcareServiceDetailFeed, HealthcareServiceDetail]
 ---
-
-# HealthcareServiceDetailFeed
 
 > Feed tracking for HealthcareServiceDetail.
 

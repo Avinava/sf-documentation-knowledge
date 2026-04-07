@@ -5,12 +5,10 @@ topic: videocallrecordingstructure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.262Z
+lastCollected: 2026-04-07T18:38:44.077Z
 estimatedTokens: 692
-keywords: [VideoCallRecordingStructure, structure, video, call, recording, having, relation, participant, speaking, order, start, offset, end, API, version]
+keywords: [VideoCallRecordingStructure, structure, video, call, recording, having, relation, participant, speaking, order, start, offset, end, API, 65.0]
 ---
-
-# VideoCallRecordingStructure
 
 > Represents the structure of a video call recording, having relation to a
          video call participant, speaking order, start offset, and end offset. This object is

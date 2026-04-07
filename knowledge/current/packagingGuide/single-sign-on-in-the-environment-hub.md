@@ -5,12 +5,10 @@ topic: single-sign-on-in-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.896Z
+lastCollected: 2026-04-07T18:38:46.863Z
 estimatedTokens: 747
-keywords: [Sign-on, Environment, Hub, Developing, testing, deploying, apps, means, switching, multiple, Salesforce, environments, providing, login, credentials]
+keywords: [Sign-on, Environment, Hub, Developing, testing, deploying, apps, means, switching, multiple, Salesforce, environments, providing, login, credentials, time, SSO, simplifies, process, letting, user, log, member, orgs, reauthenticating, defining, mappings, manually, Federation, IDs, creating, formula]
 ---
-
-# Single Sign-on in the Environment Hub
 
 > Developing, testing, and deploying apps means switching between multiple Salesforce
     environments and providing login credentials each time. Single sign-on (SSO) simplifies this

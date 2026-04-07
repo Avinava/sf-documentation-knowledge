@@ -5,12 +5,10 @@ topic: android-current-deprecations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.265Z
+lastCollected: 2026-04-07T18:40:27.451Z
 estimatedTokens: 209
-keywords: [Android, Current, Deprecations, show, currently, deprecated, Mobile, SDK, objects, artifacts, annotated, source, files, prepare, removal]
+keywords: [Android, Current, Deprecations, show, currently, deprecated, Mobile, SDK, artifacts, annotated, source, files, prepare, removal, release, indicated, Upgrade, Gradle, Firebase, Cloud, Messaging, Beyond, 20.1.0]
 ---
-
-# Android Current Deprecations
 
 > These lists show currently deprecated Mobile SDK objects and
   artifacts for Android, as annotated in the source files. Use this information to prepare for the

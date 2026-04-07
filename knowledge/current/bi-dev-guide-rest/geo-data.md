@@ -5,12 +5,10 @@ topic: geo-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.739Z
+lastCollected: 2026-04-07T18:36:57.256Z
 estimatedTokens: 264
-keywords: [Geo, Data, map]
+keywords: [Geo, map]
 ---
-
-# Geo Data
 
 > The geo data used by a map.
 

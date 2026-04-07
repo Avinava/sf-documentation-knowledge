@@ -5,12 +5,10 @@ topic: grantmaking-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.515Z
+lastCollected: 2026-04-07T18:38:23.406Z
 estimatedTokens: 143
-keywords: [Grantmaking, Metadata, API, access, feature, settings, customize, user]
+keywords: [Grantmaking, Metadata, API, feature, settings, customize, user]
 ---
-
-# Grantmaking Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can customize
   in the user interface. For more information about Metadata API.

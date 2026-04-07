@@ -5,12 +5,10 @@ topic: workloadunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.949Z
+lastCollected: 2026-04-07T18:38:44.757Z
 estimatedTokens: 708
-keywords: [WorkloadUnit, number, work, items, average, handle, time, specific, interval, API, version, 49.0, later, Calls, Special]
+keywords: [WorkloadUnit, number, work, items, average, handle, time, specific, interval, API, 49.0]
 ---
-
-# WorkloadUnit
 
 > Represents the number of work items and average handle time in a specific
          time interval. This object is available in API version 49.0 and later.

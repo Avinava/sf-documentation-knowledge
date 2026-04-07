@@ -5,12 +5,10 @@ topic: contentworkspacemember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.010Z
+lastCollected: 2026-04-07T18:39:35.474Z
 estimatedTokens: 257
-keywords: [ContentWorkspaceMember, member, content, library, API, version, 40.0, later]
+keywords: [ContentWorkspaceMember, member, content, library, API, 40.0]
 ---
-
-# ContentWorkspaceMember
 
 > Represents a member of a content library. This object is
       available in API version 40.0 and later.

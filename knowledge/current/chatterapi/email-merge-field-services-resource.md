@@ -5,12 +5,10 @@ topic: email-merge-field-services-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.379Z
+lastCollected: 2026-04-07T18:37:13.330Z
 estimatedTokens: 178
-keywords: [Email, Merge, Services, Resource, specific, put, template, mail, custom, link, formula, incorporate, record]
+keywords: [Email, Merge, Services, Resource, specific, put, template, mail, link, formula, incorporate, record]
 ---
-
-# Email Merge Field Services Resource
 
 > See a list of merge fields for a specific object. A merge field is a
       field you can put in an email template, mail merge template, custom link, or formula to

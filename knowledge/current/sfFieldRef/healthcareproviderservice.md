@@ -5,12 +5,10 @@ topic: healthcareproviderservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.186Z
+lastCollected: 2026-04-07T18:39:43.813Z
 estimatedTokens: 361
-keywords: [HealthcareProviderService, junction, HealthcareService, HealthcareProvider, HealthcareFacility, HealthcarePractitionerFacility, API, version, 59.0, later]
+keywords: [HealthcareProviderService, junction, HealthcareService, HealthcareProvider, HealthcareFacility, HealthcarePractitionerFacility, API, 59.0]
 ---
-
-# HealthcareProviderService
 
 > Represents a
          junction

@@ -5,12 +5,10 @@ topic: rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.886Z
+lastCollected: 2026-04-07T18:36:31.279Z
 estimatedTokens: 1406
-keywords: [REST, Resources, give, access, Tooling, API, objects, querying, keep, mind, user, permissions, needed, vary, endpoint]
+keywords: [REST, Resources, give, Tooling, API, querying, keep, mind, user, permissions, needed, vary, endpoint, Check, want, determine, permission, requirements]
 ---
-
-# REST Resources
 
 > REST resources give you access to Tooling API objects. When querying
       Tooling API objects using REST resources, keep in mind that the user permissions needed for

@@ -5,12 +5,10 @@ topic: apextestresultlimits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.394Z
+lastCollected: 2026-04-07T18:36:31.802Z
 estimatedTokens: 684
-keywords: [ApexTestResultLimits, Captures, Apex, test, limits, particular, execution, instance, associated, ApexTestResult, API, version, 37.0, later, SOAP]
+keywords: [ApexTestResultLimits, Captures, Apex, test, limits, particular, execution, instance, ApexTestResult, API, 37.0, SOAP, REST, HTTP]
 ---
-
-# ApexTestResultLimits
 
 > Captures the Apex test limits used for a particular test method
    execution. An instance of this object is associated with each ApexTestResult object.

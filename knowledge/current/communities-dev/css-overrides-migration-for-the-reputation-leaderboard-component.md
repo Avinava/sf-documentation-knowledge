@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-the-reputation-leaderboard-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.899Z
+lastCollected: 2026-04-07T18:37:26.853Z
 estimatedTokens: 655
-keywords: [CSS, Overrides, Migration, Reputation, Leaderboard, Component, plan, continue, custom, migrate, forward, template, Full, Row, User]
+keywords: [Title, CSS, Overrides, Migration, Reputation, Leaderboard, plan, continue, migrate, forward, template, Full, Row, User, Info, Column, Points, Level, Image, Username, Photo, Levels, Word]
 ---
-
-# CSS Overrides Migration for the Reputation Leaderboard Component
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

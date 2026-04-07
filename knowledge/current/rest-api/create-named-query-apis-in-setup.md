@@ -5,12 +5,10 @@ topic: create-named-query-apis-in-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.666Z
+lastCollected: 2026-04-07T18:36:20.902Z
 estimatedTokens: 824
 keywords: [Named, Query, APIs, Setup, API, validate, Salesforce, Language, SOQL, resulting, endpoint]
 ---
-
-# Create Named Query APIs in Setup
 
 > In Setup, you can create a Named Query API, validate its Salesforce Object Query Language (SOQL) query, and get the resulting API endpoint.
 

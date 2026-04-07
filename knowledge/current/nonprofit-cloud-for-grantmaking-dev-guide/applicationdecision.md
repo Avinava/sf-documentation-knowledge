@@ -5,12 +5,10 @@ topic: applicationdecision
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.720Z
+lastCollected: 2026-04-07T18:38:23.608Z
 estimatedTokens: 589
-keywords: [ApplicationDecision, final, decision, performed, Application, API, version, 56.0, later, Calls, Special, Access, Rules]
+keywords: [ApplicationDecision, final, decision, performed, Application, API, 56.0]
 ---
-
-# ApplicationDecision
 
 > Represents a final decision performed for the specified Application. This object is
       available in API version

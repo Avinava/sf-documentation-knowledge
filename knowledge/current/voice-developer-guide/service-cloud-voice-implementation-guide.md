@@ -5,12 +5,10 @@ topic: service-cloud-voice-implementation-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.861Z
+lastCollected: 2026-04-07T18:40:12.813Z
 estimatedTokens: 390
-keywords: [Service, Cloud, Voice, Implementation, how, technical, admin, developer, fine-tune, their, includes, examples, implementing, common, cases]
+keywords: [Service, Cloud, Voice, Implementation, how, technical, admin, developer, fine-tune, their, includes, examples, implementing, common, cases, explains, contact, flows, Lambda, functions, Telephony, Integration, REST, API, Connect, Toolkit, extend, functionality, scales, periods, high, call, volumes]
 ---
-
-# Service Cloud Voice Implementation Guide
 
 > This guide describes how a technical admin or a developer can fine-tune their Service
   Cloud Voice implementation after it is set up. It includes examples for implementing common use

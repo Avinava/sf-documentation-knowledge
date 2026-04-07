@@ -5,12 +5,10 @@ topic: verifying-and-decoding-a-signed-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.269Z
+lastCollected: 2026-04-07T18:38:57.048Z
 estimatedTokens: 920
-keywords: [Verifying, Decoding, Signed, two, know, consumer, secret, trusted, there, Base64, decode, encoded, context, parse, any]
+keywords: [Verifying, Decoding, Signed, two, know, consumer, secret, trusted, there, Base64, decode, encoded, context, parse, any, Functions, Calling, verifyAndDecode, Function, verifyAndDecodeAsJson]
 ---
-
-# Verifying and Decoding a Signed Request
 
 > If the two values are the same, then you know that the signed request was signed
                 using your consumer secret and can be trusted. From there, you can Base64 decode the

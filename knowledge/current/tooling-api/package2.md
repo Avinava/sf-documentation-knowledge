@@ -5,12 +5,10 @@ topic: package2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.338Z
+lastCollected: 2026-04-07T18:36:33.717Z
 estimatedTokens: 1194
-keywords: [Package2, second-generation, managed, package, unlocked, Dev, Hub, org, visible, subscriber, API, version, 41.0, later, SOAP]
+keywords: [Package2, second-generation, managed, package, unlocked, Dev, Hub, org, visible, subscriber, API, 41.0, SOAP, REST, HTTP]
 ---
-
-# Package2
 
 > Represents a second-generation
             managed package or an unlocked package in a Dev Hub org. Values for all fields are

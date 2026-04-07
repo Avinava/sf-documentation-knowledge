@@ -5,12 +5,10 @@ topic: isarray
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.447Z
+lastCollected: 2026-04-07T18:38:05.650Z
 estimatedTokens: 60
 keywords: [isArray, Checks, whether, array]
 ---
-
-# isArray()
 
 > Checks whether the specified object is an array.
 

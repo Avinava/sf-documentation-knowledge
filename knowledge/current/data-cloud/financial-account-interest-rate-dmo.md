@@ -5,12 +5,10 @@ topic: financial-account-interest-rate-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.636Z
+lastCollected: 2026-04-07T18:35:53.597Z
 estimatedTokens: 424
-keywords: [Financial, Account, Interest, Rate, DMO, associated, Provided, Services, Cloud, Data, Kit, API, version, later, Category]
+keywords: [Category, Relationships, Financial, Account, Interest, Rate, DMO, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Financial Account Interest Rate DMO
 
 > Represents the interest rate associated with a financial account. Provided in the
       Financial Services Cloud Data Kit. This DMO is available in API version 58 and

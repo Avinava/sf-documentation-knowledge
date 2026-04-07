@@ -6,13 +6,10 @@ topic: single-achievement-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.915Z
+lastCollected: 2026-04-07T18:37:29.020Z
 estimatedTokens: 314
-keywords: [Achievement, Mapping, Input, representation, that’s, associated, learning, record]
+keywords: [Achievement, Mapping, that’s, learning, record]
 ---
-
-# Single
-    Achievement Mapping Input
 
 > Input representation of a mapping that’s associated with an existing learning achievement
     record.

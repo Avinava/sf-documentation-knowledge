@@ -6,13 +6,10 @@ topic: postauthorizationrequest-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.948Z
+lastCollected: 2026-04-07T18:36:04.164Z
 estimatedTokens: 277
 keywords: [PostAuthorizationRequest, postauthorizaiton]
 ---
-
-# PostAuthorizationRequest
-      Properties
 
 > Lists properties for a postauthorizaiton request.
 

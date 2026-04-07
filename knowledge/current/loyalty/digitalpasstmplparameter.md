@@ -5,12 +5,10 @@ topic: digitalpasstmplparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.657Z
+lastCollected: 2026-04-07T18:38:09.970Z
 estimatedTokens: 824
-keywords: [DigitalPassTmplParameter, specific, configurable, data, digital, pass, template, content, text, date, image, label, visibility, particular, API]
+keywords: [DigitalPassTmplParameter, specific, configurable, digital, pass, template, content, text, date, image, label, visibility, particular, API, 66.0]
 ---
-
-# DigitalPassTmplParameter
 
 > Represents a specific, configurable data field within a digital pass
          template. It defines the content type such as text, date, or image, and properties such as

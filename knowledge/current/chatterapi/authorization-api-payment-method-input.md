@@ -5,12 +5,10 @@ topic: authorization-api-payment-method-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.546Z
+lastCollected: 2026-04-07T18:37:07.264Z
 estimatedTokens: 366
-keywords: [Authorization, API, Payment, Input, representation]
+keywords: [Authorization, API, Payment]
 ---
-
-# Authorization API Payment Method Input
 
 > Payment method input representation for authorization.
 

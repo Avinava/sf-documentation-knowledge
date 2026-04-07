@@ -5,12 +5,10 @@ topic: connectapigroupcensusmemberinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.953Z
+lastCollected: 2026-04-07T18:37:49.820Z
 estimatedTokens: 1016
-keywords: [Input, representation, group, census, member]
+keywords: [group, census, member]
 ---
-
-# ConnectApi.GroupCensusMemberInputRepresentation
 
 > Input representation for a group census member.
 

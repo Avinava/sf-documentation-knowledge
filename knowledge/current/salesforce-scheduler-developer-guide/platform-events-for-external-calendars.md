@@ -5,12 +5,10 @@ topic: platform-events-for-external-calendars
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.811Z
+lastCollected: 2026-04-07T18:39:20.570Z
 estimatedTokens: 201
 keywords: [Platform, Events, External, Calendars, AppointmentSchedulingEvent, notify, subscribers, appointment, schedule, added, updated, deleted]
 ---
-
-# Platform Events for External Calendars
 
 > Use the AppointmentSchedulingEvent to notify subscribers when an appointment schedule is added, updated, or deleted.
 

@@ -5,12 +5,10 @@ topic: post-a-comment-with-an-inline-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.244Z
+lastCollected: 2026-04-07T18:37:24.289Z
 estimatedTokens: 446
 keywords: [Post, Comment, Inline, Image, Chatter]
 ---
-
-# Post a Comment with an Inline Image
 
 > Post a Chatter comment with an inline image.
 

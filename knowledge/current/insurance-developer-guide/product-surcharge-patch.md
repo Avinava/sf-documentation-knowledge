@@ -5,12 +5,10 @@ topic: product-surcharge-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.562Z
+lastCollected: 2026-04-07T18:37:52.757Z
 estimatedTokens: 148
-keywords: [Product, Surcharge, Patch, Output, representation]
+keywords: [Product, Surcharge, Patch]
 ---
-
-# Product Surcharge Patch
 
 > Output representation of product surcharge update.
 

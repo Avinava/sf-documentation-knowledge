@@ -5,12 +5,10 @@ topic: connectapicontenthubiteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.747Z
+lastCollected: 2026-04-07T18:36:05.117Z
 estimatedTokens: 172
 keywords: [ConnectApi.ContentHubItemInput, Item]
 ---
-
-# ConnectApi.ContentHubItemInput
 
 > Item type ID and fields of the item type.
 

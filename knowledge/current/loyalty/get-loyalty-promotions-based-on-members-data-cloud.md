@@ -5,12 +5,10 @@ topic: get-loyalty-promotions-based-on-members-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.437Z
+lastCollected: 2026-04-07T18:38:08.742Z
 estimatedTokens: 413
-keywords: [Loyalty, Promotions, Member's, Data, Cloud, Retrieve, eligible, member, their, market, segment, Special, Access, Rules, REST]
+keywords: [Inputs, Outputs, Loyalty, Promotions, Member's, Cloud, Retrieve, eligible, member, their, market, segment, REST, HTTP]
 ---
-
-# Get Loyalty Promotions Based on Member's Data Cloud
 
 > Retrieve the promotions that are eligible for a member based on their
    market segment.

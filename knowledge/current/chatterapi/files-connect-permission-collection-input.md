@@ -5,12 +5,10 @@ topic: files-connect-permission-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.136Z
+lastCollected: 2026-04-07T18:37:07.937Z
 estimatedTokens: 150
-keywords: [Files, Connect, Permission, Collection, Input, permissions, apply, remove]
+keywords: [Files, Connect, Permission, Collection, permissions, apply, remove]
 ---
-
-# Files Connect Permission Collection Input
 
 > A collection of permissions to apply or remove.
 

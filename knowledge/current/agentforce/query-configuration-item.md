@@ -5,12 +5,10 @@ topic: query-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.955Z
+lastCollected: 2026-04-07T18:35:55.057Z
 estimatedTokens: 939
-keywords: [Query, Configuration, Item, unique, identifier, operation, detailed, CnfgItemTypeDef, DiscoveryInformation, LastDiscoveredBySource]
+keywords: [CnfgItemTypeDef, DiscoveryInformation, LastDiscoveredBySource, Query, Configuration, Item, unique, identifier, operation, detailed]
 ---
-
-# Query Configuration Item
 
 > Query a configuration item by its unique identifier. This operation
       returns detailed information for a single configuration item.

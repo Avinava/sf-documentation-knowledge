@@ -5,13 +5,11 @@ topic: recurringpattern-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.634Z
+lastCollected: 2026-04-07T18:36:46.481Z
 estimatedTokens: 1150
 namespace: FSL
-keywords: [RecurringPattern, sharing, RecurringAppointmentsManager, pattern, appointments, recur, weekly, Usage, Recurring, DaysOfWeek, Frequency, FrequencyType, NumberOfVisits]
+keywords: [DaysOfWeek, Frequency, FrequencyType, NumberOfVisits, RecurringPattern, sharing, RecurringAppointmentsManager, pattern, appointments, recur, weekly, Recurring]
 ---
-
-# RecurringPattern Class
 
 > Represents a global sharing class that is a required parameter for
         RecurringAppointmentsManager to

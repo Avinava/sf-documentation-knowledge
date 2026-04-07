@@ -5,12 +5,10 @@ topic: practitionerrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.347Z
+lastCollected: 2026-04-07T18:37:44.663Z
 estimatedTokens: 1008
-keywords: [PractitionerRole, FHIR, resource, maps, HealthcarePractitionerFacility, CareProviderFacilitySpecialty, objects, Salesforce​, V4​.0, Clinical, ​Data, Model, Mapping, Sample, Record]
+keywords: [PractitionerRole, FHIR, resource, maps, HealthcarePractitionerFacility, CareProviderFacilitySpecialty, Salesforce​, V4​.0, Clinical, ​Data, Model, Mapping, Sample, Record, Diagram]
 ---
-
-# PractitionerRole
 
 > The practitionerRole FHIR resource maps to the
       HealthcarePractitionerFacility and CareProviderFacilitySpecialty objects in Salesforce​.

@@ -5,12 +5,10 @@ topic: understand-location-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.129Z
+lastCollected: 2026-04-07T18:40:14.160Z
 estimatedTokens: 647
-keywords: [Understand, Location, Data, Work.com, uses, associate, Employees, physical, abstract, locations, solutions, may, already, alternate, model]
+keywords: [Understand, Location, Work.com, uses, associate, Employees, physical, abstract, locations, solutions, may, already, alternate, model, tracks, employee, apply, full, power, correlate, synchronize, their, Querying, Hierarchy]
 ---
-
-# Understand Location Data
 
 > Work.com uses Location to associate Employees to physical and abstract locations.
     Existing solutions may already have an alternate data model that tracks employee locations. To

@@ -5,12 +5,10 @@ topic: feed-elements-capability-direct-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.687Z
+lastCollected: 2026-04-07T18:37:13.650Z
 estimatedTokens: 394
-keywords: [Feed, Elements, Capability, Direct, Message, Access, element, members]
+keywords: [Capability, Direct, Message, members]
 ---
-
-# Feed Elements Capability, Direct Message
 
 > Access the direct message capability of a feed element. Update the
       members of a direct message.

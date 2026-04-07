@@ -5,12 +5,10 @@ topic: post-call-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.638Z
+lastCollected: 2026-04-07T18:40:13.562Z
 estimatedTokens: 527
 keywords: [Post-Call, Actions, guidelines, how, fine-tune]
 ---
-
-# Post-Call Actions
 
 > This section provides guidelines about how to fine-tune post-call actions.
 

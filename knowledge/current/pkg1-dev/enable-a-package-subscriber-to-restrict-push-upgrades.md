@@ -5,12 +5,10 @@ topic: enable-a-package-subscriber-to-restrict-push-upgrades
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.974Z
+lastCollected: 2026-04-07T18:38:54.382Z
 estimatedTokens: 791
-keywords: [Enable, Package, Subscriber, Restrict, Push, Upgrades, certain, scenarios, Salesforce, customer, may, require, ability, block, managed]
+keywords: [Enable, Package, Subscriber, Restrict, Push, Upgrades, certain, scenarios, Salesforce, customer, may, require, ability, block, managed, packages, they, installed, their, org, Customized, let, Partners, give, customers, specific]
 ---
-
-# Enable a Package Subscriber to Restrict Push Upgrades
 
 > In certain scenarios, a Salesforce customer may require the ability to block push
     upgrades of managed packages that they have installed in their org. Customized push upgrades let

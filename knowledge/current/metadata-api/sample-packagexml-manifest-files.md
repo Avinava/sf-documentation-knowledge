@@ -5,12 +5,10 @@ topic: sample-packagexml-manifest-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:36.701Z
+lastCollected: 2026-04-07T18:36:21.937Z
 estimatedTokens: 2875
-keywords: [Sample, package.xml, Manifest, Files, includes, show, how, work, different, subsets, metadata, file, include, multiple, <types>]
+keywords: [Packages, Sample, package.xml, Manifest, Files, includes, show, how, work, different, subsets, metadata, file, include, multiple, <types>, combine, individual, samples, want, batch, Standard, Picklist, Views, Security, Settings, Assignment, Auto-Response, Escalation, Sharing, Managed]
 ---
-
-# Sample package.xml Manifest Files
 
 > This section includes sample package.xml manifest files that show you how to work
         with different subsets of metadata. A manifest file can include multiple <types> elements

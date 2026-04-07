@@ -5,12 +5,10 @@ topic: detect-sentiment-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.557Z
+lastCollected: 2026-04-07T18:39:18.241Z
 estimatedTokens: 190
-keywords: [Detect, Sentiment, Input, node, recipe]
+keywords: [Detect, Sentiment, node, recipe]
 ---
-
-# Detect Sentiment Parameters Input
 
 > The parameters for a detect sentiment node in a recipe.
 

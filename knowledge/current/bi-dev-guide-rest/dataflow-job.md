@@ -5,12 +5,10 @@ topic: dataflow-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.575Z
+lastCollected: 2026-04-07T18:36:57.089Z
 estimatedTokens: 681
 keywords: [Dataflow, Job, Analytics]
 ---
-
-# Dataflow Job
 
 > An Analytics dataflow job.
 

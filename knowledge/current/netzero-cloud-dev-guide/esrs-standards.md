@@ -5,12 +5,10 @@ topic: esrs-standards
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.834Z
+lastCollected: 2026-04-07T18:38:17.377Z
 estimatedTokens: 44140
-keywords: [ESRS, Standards, European, Sustainability, Reporting, provide, investors, understand, impact, companies, they, invest, includes, environmental, social]
+keywords: [ESRS, Standards, European, Sustainability, Reporting, provide, investors, understand, impact, companies, they, invest, includes, environmental, social, governance, issues, including, climate, change, biodiversity, human, rights, General, Disclosures, Pollution, Water, marine, resources, ecosystems, Resource, circular, economy, Own, workforce, Business, conduct]
 ---
-
-# ESRS Standards
 
 > The European Sustainability Reporting Standards (ESRS) provide information for
                 investors to understand the sustainability impact of the companies in which they

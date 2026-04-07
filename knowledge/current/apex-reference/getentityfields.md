@@ -5,12 +5,10 @@ topic: getentityfields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.042Z
+lastCollected: 2026-04-07T18:35:59.313Z
 estimatedTokens: 508
-keywords: [getEntityFields, Retrieves, signed, Record, component, appears, Visualforce, that’s, placed, Usage]
+keywords: [getEntityFields, Retrieves, signed, Record, appears, Visualforce, that’s, placed]
 ---
-
-# getEntityFields()
 
 > Retrieves the list of object fields that are returned in the signed request Record
         object when the component appears on a Visualforce page that’s placed on an

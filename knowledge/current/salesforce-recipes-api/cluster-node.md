@@ -5,12 +5,10 @@ topic: cluster-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.344Z
+lastCollected: 2026-04-07T18:39:19.030Z
 estimatedTokens: 112
 keywords: [Cluster, Node, recipe]
 ---
-
-# Cluster Node
 
 > A cluster node in a recipe.
 

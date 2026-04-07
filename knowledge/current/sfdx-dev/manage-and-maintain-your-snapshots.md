@@ -5,12 +5,10 @@ topic: manage-and-maintain-your-snapshots
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.589Z
+lastCollected: 2026-04-07T18:40:08.538Z
 estimatedTokens: 327
 keywords: [Manage, Maintain, Snapshots, check, status, snapshot, creation, Scratch, Org]
 ---
-
-# Manage and Maintain Your Snapshots
 
 > You can check the status of snapshot creation, list all snapshots, and delete a
         snapshot.

@@ -5,12 +5,10 @@ topic: verification-context-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.980Z
+lastCollected: 2026-04-07T18:37:42.139Z
 estimatedTokens: 200
-keywords: [Verification, Context, Output, resource]
+keywords: [Verification, Context, resource]
 ---
-
-# Verification Context Output
 
 > Represents the Verification Context resource output.
 

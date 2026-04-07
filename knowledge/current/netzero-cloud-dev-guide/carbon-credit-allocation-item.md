@@ -5,12 +5,10 @@ topic: carbon-credit-allocation-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.404Z
+lastCollected: 2026-04-07T18:38:16.998Z
 estimatedTokens: 291
 keywords: [Carbon, Credit, Allocation, Item, emissions, activity]
 ---
-
-# Carbon Credit Allocation Item
 
 > The Carbon Credit Allocation Item object represents information about carbon credit
     allocation and emissions related to each emissions activity.

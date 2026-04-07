@@ -5,12 +5,10 @@ topic: consentunsubscribeallevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.983Z
+lastCollected: 2026-04-07T18:38:58.844Z
 estimatedTokens: 353
-keywords: [ConsentUnsubscribeAllEvent, Notifies, subscribers, user, unsubscribes, communications, preference, form, created, Manager, API, version, 60.0, later, Calls]
+keywords: [ConsentUnsubscribeAllEvent, Notifies, subscribers, user, unsubscribes, communications, preference, form, created, Manager, API, 60.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# ConsentUnsubscribeAllEvent
 
 > Notifies subscribers when a user unsubscribes from all communications on a
          preference form created in Preference Manager. This object is available in API version

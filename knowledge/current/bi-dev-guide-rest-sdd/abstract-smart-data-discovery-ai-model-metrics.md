@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-ai-model-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.738Z
+lastCollected: 2026-04-07T18:36:59.238Z
 estimatedTokens: 373
-keywords: [Abstract, Smart, Data, Discovery, Model, Metrics, base, Einstein, metric]
+keywords: [Abstract, Smart, Discovery, Model, Metrics, base, Einstein, metric]
 ---
-
-# Abstract Smart Data Discovery AI Model Metrics
 
 > The base Einstein Discovery AI model metric.
 

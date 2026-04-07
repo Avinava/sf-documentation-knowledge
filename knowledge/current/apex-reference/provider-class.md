@@ -5,13 +5,11 @@ topic: provider-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.608Z
+lastCollected: 2026-04-07T18:35:59.890Z
 estimatedTokens: 1423
 namespace: DataSource
-keywords: [Provider, authentication, access, external, system, Usage, getAuthenticationCapabilities, getCapabilities, getConnection, connectionParams]
+keywords: [Provider, authentication, external, system, getAuthenticationCapabilities, getCapabilities, getConnection, connectionParams]
 ---
-
-# Provider Class
 
 > Returns the types of authentication that can be used to access the
       external system.

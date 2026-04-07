@@ -5,12 +5,10 @@ topic: step-two-set-up-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:35.006Z
+lastCollected: 2026-04-07T18:36:20.225Z
 estimatedTokens: 1108
-keywords: [Step, Two, Authentication, successfully, send, requests, REST, API, requires, access, token, obtained, Although, authenticate, against]
+keywords: [Step, Two, Authentication, successfully, send, requests, REST, API, requires, token, obtained, Although, authenticate, against, own, connected, app, Quick, Start, examples, Salesforce, CLI, convenience, work, configure, Shortcuts]
 ---
-
-# Step Two: Set Up Authentication
 
 > To successfully send requests, REST API requires an access token obtained by
         authentication. Although you can create and authenticate against your own connected app,

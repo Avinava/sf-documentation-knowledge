@@ -5,12 +5,10 @@ topic: connectapisequenceorderpaymentsummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.048Z
+lastCollected: 2026-04-07T18:36:06.398Z
 estimatedTokens: 358
 keywords: [Amount, apply, OrderPaymentSummary, part, payment, refund]
 ---
-
-# ConnectApi.SequenceOrderPaymentSummaryInputRepresentation
 
 > Amount to apply to specified OrderPaymentSummary as part of a payment
       or refund.

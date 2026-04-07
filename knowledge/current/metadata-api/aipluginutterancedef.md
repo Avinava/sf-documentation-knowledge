@@ -5,12 +5,10 @@ topic: aipluginutterancedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.063Z
+lastCollected: 2026-04-07T18:36:22.320Z
 estimatedTokens: 384
-keywords: [AiPluginUtteranceDef, utterance, pick, topic, runtime, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
+keywords: [AiPluginUtteranceDef, utterance, pick, topic, runtime, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# AiPluginUtteranceDef
 
 > Represents an utterance that can be used to pick a topic
 			during runtime.

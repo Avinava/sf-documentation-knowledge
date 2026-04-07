@@ -5,12 +5,10 @@ topic: marketing-cloud-engagement-engagement-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.169Z
+lastCollected: 2026-04-07T18:35:54.211Z
 estimatedTokens: 4689
-keywords: [Marketing, Cloud, Engagement, Mappings, data, stream, deployed, starter, bundle, automatically, maps, model, objects, DMO, includes]
+keywords: [Marketing, Cloud, Engagement, Mappings, stream, deployed, starter, bundle, automatically, maps, model, DMO, includes, system-generated, DLOS, streams, SFMC, EES, Email, Snapshot, Push, Einstein, Scores, Complaint, Bounce, Click, Open, Send, Unsubscribe, Msg, Event, Undeliver, WhatsApp, DLO, Mapping]
 ---
-
-# Marketing Cloud Engagement: Engagement Mappings
 
 > After a data stream is deployed, the Marketing Cloud Engagement
          starter data bundle automatically maps data from Marketing Cloud Engagement to data model

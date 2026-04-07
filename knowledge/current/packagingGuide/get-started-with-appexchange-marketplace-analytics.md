@@ -5,12 +5,10 @@ topic: get-started-with-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.145Z
+lastCollected: 2026-04-07T18:38:47.114Z
 estimatedTokens: 433
-keywords: [Started, AppExchange, Marketplace, Analytics, how, navigate, Assign, access, team, members, view, visualizations, data, Export, analyze]
+keywords: [Started, AppExchange, Marketplace, Analytics, how, navigate, Assign, team, members, view, visualizations, Export, analyze, Salesforce, another, tool]
 ---
-
-# Get Started with AppExchange Marketplace Analytics
 
 > Learn how to navigate to AppExchange Marketplace Analytics. Assign access to Marketplace
   Analytics so that team members can view visualizations and data. Export your Marketplace Analytics

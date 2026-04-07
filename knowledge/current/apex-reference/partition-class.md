@@ -5,13 +5,11 @@ topic: partition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.382Z
+lastCollected: 2026-04-07T18:36:01.625Z
 estimatedTokens: 7878
 namespace: Cache.OrgPartition
-keywords: [Partition, Base, Cache.OrgPartition, Cache.SessionPartition, subclasses, manage, cache, org, caches, session, Key, setOfKeys, Usage, createFullyQualifiedKey, createFullyQualifiedPartition]
+keywords: [Examples, Partition, Base, Cache.OrgPartition, Cache.SessionPartition, subclasses, manage, cache, org, caches, session, Key, setOfKeys, createFullyQualifiedKey, createFullyQualifiedPartition, keys, cacheBuilder, getAvgGetSize, getAvgGetTime, getAvgValueSize, getCapacity, getKeys, getMaxGetSize, getMaxGetTime, getMaxValueSize, getMissRate, getName, getNumKeys, isAvailable, put, visibility, ttlSecs, immutable, remove, validateCacheBuilder, validateKey, isDefault, validateKeyValue, validateKeys, validatePartitionName]
 ---
-
-# Partition Class
 
 > Base class of Cache.OrgPartition and Cache.SessionPartition. Use the subclasses to manage the cache partition for org
       caches and session caches.

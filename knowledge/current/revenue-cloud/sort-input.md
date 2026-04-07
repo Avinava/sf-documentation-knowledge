@@ -5,12 +5,10 @@ topic: sort-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.966Z
+lastCollected: 2026-04-07T18:35:43.963Z
 estimatedTokens: 75
-keywords: [Sort, Input, representation]
+keywords: [Sort]
 ---
-
-# Sort Input
 
 > Input representation of the sort request.
 

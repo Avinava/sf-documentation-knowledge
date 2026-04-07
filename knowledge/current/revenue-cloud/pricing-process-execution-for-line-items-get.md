@@ -5,12 +5,10 @@ topic: pricing-process-execution-for-line-items-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.821Z
+lastCollected: 2026-04-07T18:35:44.835Z
 estimatedTokens: 260
 keywords: [Pricing, Process, Execution, Line, Items]
 ---
-
-# Pricing Process Execution for Line Items (GET)
 
 > Get the pricing execution details for the line items of a pricing
       process by using the execution ID and execution type.

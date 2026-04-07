@@ -5,12 +5,10 @@ topic: frgthaulingemssnfctrshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.844Z
+lastCollected: 2026-04-07T18:39:41.474Z
 estimatedTokens: 253
 keywords: [FrgtHaulingEmssnFctrShare, Sharing, FrgtHaulingEmssnFctr]
 ---
-
-# FrgtHaulingEmssnFctrShare
 
 > Sharing for FrgtHaulingEmssnFctr.
 

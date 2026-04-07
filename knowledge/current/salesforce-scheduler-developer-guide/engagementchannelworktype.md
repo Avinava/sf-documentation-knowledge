@@ -5,12 +5,10 @@ topic: engagementchannelworktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.978Z
+lastCollected: 2026-04-07T18:39:20.762Z
 estimatedTokens: 614
-keywords: [EngagementChannelWorkType, relationship, Engagement, Channel, Work, Salesforce, Scheduler, API, version, 56.0, later, Calls, Special, Access, Rules]
+keywords: [EngagementChannelWorkType, relationship, Engagement, Channel, Work, Salesforce, Scheduler, API, 56.0]
 ---
-
-# EngagementChannelWorkType
 
 > Represents the relationship between an Engagement Channel Type object and a
          Work Type object for Salesforce Scheduler. This object is available in API version

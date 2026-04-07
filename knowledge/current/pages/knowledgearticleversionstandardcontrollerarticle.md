@@ -5,12 +5,10 @@ topic: knowledgearticleversionstandardcontrollerarticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.977Z
+lastCollected: 2026-04-07T18:38:47.931Z
 estimatedTokens: 86
 keywords: [article, Creates, new, instance, knowledge]
 ---
-
-# KnowledgeArticleVersionStandardController(article)
 
 > Creates a new instance of the ApexPages.KnowledgeArticleVersionStandardController class
 using the specified knowledge article.

@@ -5,12 +5,10 @@ topic: financialgoalfunding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.523Z
+lastCollected: 2026-04-07T18:37:37.305Z
 estimatedTokens: 468
-keywords: [FinancialGoalFunding, financial, goal, individual, person, account, requires, funding, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [FinancialGoalFunding, financial, goal, individual, person, account, requires, funding, API, 59.0]
 ---
-
-# FinancialGoalFunding
 
 > The financial goal of an individual or person account that requires
          funding. This object is available in API version 59.0 and later.

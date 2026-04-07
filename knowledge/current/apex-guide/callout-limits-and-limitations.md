@@ -5,12 +5,10 @@ topic: callout-limits-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.904Z
+lastCollected: 2026-04-07T18:36:16.129Z
 estimatedTokens: 1323
-keywords: [Callout, Limits, Limitations, apply, Apex, code, HTTP, web, services, call, SOAP, API, any, external, Callouts]
+keywords: [Callout, Limits, Limitations, apply, Apex, code, HTTP, web, services, call, SOAP, API, any, external, Callouts, Read-Only, Mode, Setting, Timeouts]
 ---
-
-# Callout Limits and Limitations
 
 > The following limits and limitations apply when Apex code makes a callout to an HTTP request
       or a web services call. The web services call can be a SOAP API call or any external web

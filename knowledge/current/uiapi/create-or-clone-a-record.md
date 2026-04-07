@@ -5,12 +5,10 @@ topic: create-or-clone-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.385Z
+lastCollected: 2026-04-07T18:40:11.377Z
 estimatedTokens: 2242
-keywords: [Clone, Record, Usage]
+keywords: [Clone, Record]
 ---
-
-# Create or Clone a Record
 
 > Create or clone a record.
 

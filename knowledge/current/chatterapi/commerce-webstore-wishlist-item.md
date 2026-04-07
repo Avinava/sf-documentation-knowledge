@@ -5,12 +5,10 @@ topic: commerce-webstore-wishlist-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.882Z
+lastCollected: 2026-04-07T18:37:12.782Z
 estimatedTokens: 193
 keywords: [Commerce, Webstore, Wishlist, Item]
 ---
-
-# Commerce Webstore Wishlist Item
 
 > Delete a wishlist item.
 

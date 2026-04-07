@@ -5,12 +5,10 @@ topic: get-process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.759Z
+lastCollected: 2026-04-07T18:36:20.998Z
 estimatedTokens: 115
-keywords: [Process, Rules, active, workflow, resource, REST, API, version, 30.0, later]
+keywords: [Process, active, workflow, resource, REST, API, 30.0]
 ---
-
-# Get Process Rules
 
 > Gets all active workflow rules. This resource is available in REST API version 30.0
         and later.

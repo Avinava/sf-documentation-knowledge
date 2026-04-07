@@ -5,12 +5,10 @@ topic: trended-report-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.333Z
+lastCollected: 2026-04-07T18:36:57.888Z
 estimatedTokens: 144
 keywords: [Trended, Report, Collection, Analytics, reports]
 ---
-
-# Trended Report Collection
 
 > A collection of Analytics trended reports.
 

@@ -5,12 +5,10 @@ topic: channel-partner-inventory-tracking-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.040Z
+lastCollected: 2026-04-07T18:37:05.742Z
 estimatedTokens: 906
-keywords: [Channel, Partner, Inventory, Tracking, Standard, Objects, data, model, monitor, levels, manage, stock, movements, track, product]
+keywords: [Channel, Partner, Inventory, Standard, model, monitor, levels, manage, stock, movements, track, product, consumption, improve, supply, chain, visibility, reduce, revenue, leakage, optimizing]
 ---
-
-# Channel Partner Inventory Tracking Standard Objects
 
 > Channel Partner Inventory Tracking data model provides objects and fields to monitor
     partner inventory levels, manage stock movements, and track product consumption. Use these

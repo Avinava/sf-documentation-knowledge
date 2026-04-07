@@ -5,12 +5,10 @@ topic: xmd-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.986Z
+lastCollected: 2026-04-07T18:36:56.545Z
 estimatedTokens: 358
-keywords: [Xmd, Resource, extended, metadata, version, dataset, updates, user, file, URL, Formats, Components, HTTP, PUT]
+keywords: [Formats, Xmd, Resource, extended, metadata, dataset, updates, user, file, URL, HTTP, PUT]
 ---
-
-# Xmd Resource
 
 > Returns the extended metadata (Xmd) for a version of a dataset and
       updates the user Xmd file.

@@ -5,12 +5,10 @@ topic: content-link-data-sync-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.628Z
+lastCollected: 2026-04-07T18:37:24.621Z
 estimatedTokens: 249
-keywords: [Content, Link, Data, Sync, Input, representation, entire, synchronize, token, document, sObjects]
+keywords: [Content, Link, Sync, entire, synchronize, token, document, sObjects]
 ---
-
-# Content Link Data Sync Input
 
 > Input representation of the entire request to synchronize token data from a document to
     sObjects.

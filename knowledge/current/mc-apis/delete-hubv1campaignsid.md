@@ -5,12 +5,10 @@ topic: delete-hubv1campaignsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.354Z
+lastCollected: 2026-04-07T18:40:16.494Z
 estimatedTokens: 113
-keywords: [hub, campaigns, **Overview**, Usage]
+keywords: [hub, campaigns, **Overview**]
 ---
-
-# DELETE /hub/v1/campaigns/{id}
 
 # DELETE /hub/v1/campaigns/{id}
 

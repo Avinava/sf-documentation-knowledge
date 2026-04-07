@@ -5,12 +5,10 @@ topic: billing-address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.616Z
+lastCollected: 2026-04-07T18:38:16.156Z
 estimatedTokens: 199
-keywords: [Billing, Address, Input, representation, sustainability, purchase]
+keywords: [Billing, Address, sustainability, purchase]
 ---
-
-# Billing Address Input
 
 > Input representation of the sustainability purchase billing
       address.

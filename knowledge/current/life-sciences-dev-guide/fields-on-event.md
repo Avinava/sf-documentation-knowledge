@@ -5,12 +5,10 @@ topic: fields-on-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.289Z
+lastCollected: 2026-04-07T18:37:57.824Z
 estimatedTokens: 1005
-keywords: [Event, Life, Sciences, Cloud, extend, standard, represent, calendar, user, task, records, collectively, referred, activities, Calls]
+keywords: [Event, Life, Sciences, Cloud, extend, standard, represent, calendar, user, task, records, collectively, referred, activities]
 ---
-
-# Fields on Event
 
 > Life Sciences Cloud fields extend the standard Event object to
          represent an event in the calendar. In the user interface, event and task records are

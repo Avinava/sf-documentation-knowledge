@@ -5,12 +5,10 @@ topic: quip-linked-entity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.336Z
+lastCollected: 2026-04-07T18:37:22.442Z
 estimatedTokens: 213
 keywords: [Quip, Linked, Entity, Shared, document]
 ---
-
-# Quip Linked Entity
 
 > Shared entity related to a Quip document.
 

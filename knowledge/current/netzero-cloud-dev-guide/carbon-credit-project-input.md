@@ -5,12 +5,10 @@ topic: carbon-credit-project-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.624Z
+lastCollected: 2026-04-07T18:38:16.165Z
 estimatedTokens: 606
-keywords: [Carbon, Credit, Project, Input, representation]
+keywords: [Carbon, Credit, Project]
 ---
-
-# Carbon Credit Project Input
 
 > Input representation of the carbon credit project.
 

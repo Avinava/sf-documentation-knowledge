@@ -5,12 +5,10 @@ topic: case-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.441Z
+lastCollected: 2026-04-07T18:35:52.288Z
 estimatedTokens: 1547
-keywords: [Case, DMO, Data, Cloud, model, support, cases, recorded, issues, laptop, connectivity, problem, Provided, Sales, Service]
+keywords: [Category, Relationships, Case, DMO, Cloud, model, support, cases, recorded, issues, laptop, connectivity, problem, Provided, Sales, Service, Kits, API, Primary, Subject, Area, Key]
 ---
-
-# Case DMO
 
 > The Case DMO is a Data Cloud data model object (DMO) for support cases
       based on recorded issues, for example, a laptop connectivity problem. Provided in both the

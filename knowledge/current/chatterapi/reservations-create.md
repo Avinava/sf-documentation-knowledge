@@ -5,12 +5,10 @@ topic: reservations-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.928Z
+lastCollected: 2026-04-07T18:37:14.976Z
 estimatedTokens: 466
 keywords: [Reservations, inventory, reservation, Omnichannel]
 ---
-
-# Reservations, Create
 
 > Create an inventory reservation in Omnichannel
     Inventory.

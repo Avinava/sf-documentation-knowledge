@@ -5,12 +5,10 @@ topic: connectapidirectmessagememberactivitypage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.301Z
+lastCollected: 2026-04-07T18:36:08.728Z
 estimatedTokens: 223
 keywords: [direct, message, member, activities]
 ---
-
-# ConnectApi.DirectMessageMemberActivityPage
 
 > A page of direct message member activities.
 

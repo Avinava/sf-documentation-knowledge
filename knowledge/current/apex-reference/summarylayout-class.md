@@ -5,13 +5,11 @@ topic: summarylayout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.270Z
+lastCollected: 2026-04-07T18:36:00.542Z
 estimatedTokens: 1352
 namespace: Metadata
-keywords: [SummaryLayout, appearance, highlights, panel, summarizes, key, grid, top, layout, Case, Feed, enabled, Usage, masterLabel, sizeX]
+keywords: [SummaryLayout, appearance, highlights, panel, summarizes, key, grid, top, layout, Case, enabled, masterLabel, sizeX, sizeY, sizeZ, summaryLayoutItems, summaryLayoutStyle, clone]
 ---
-
-# SummaryLayout Class
 
 > Controls the appearance of the highlights panel, which summarizes key
       fields in a grid at the top of a page layout, when Case Feed is enabled.

@@ -5,12 +5,10 @@ topic: product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.931Z
+lastCollected: 2026-04-07T18:37:22.040Z
 estimatedTokens: 95
-keywords: [Product, Component, Group, Representation, associated, child]
+keywords: [Product, Group, child]
 ---
-
-# Product Component Group
 
 > Representation for a product component group associated with the child
     product.

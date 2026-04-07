@@ -5,12 +5,10 @@ topic: userrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.633Z
+lastCollected: 2026-04-07T18:38:40.213Z
 estimatedTokens: 1343
-keywords: [UserRole, user, role, organization, Calls, Special, Access, Rules, Usage]
+keywords: [UserRole, user, role, organization]
 ---
-
-# UserRole
 
 > Represents a user role in your organization.
 

@@ -5,12 +5,10 @@ topic: serializedproductshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.432Z
+lastCollected: 2026-04-07T18:40:01.192Z
 estimatedTokens: 251
 keywords: [SerializedProductShare, Sharing, SerializedProduct]
 ---
-
-# SerializedProductShare
 
 > Sharing for SerializedProduct.
 

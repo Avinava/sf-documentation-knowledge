@@ -5,12 +5,10 @@ topic: refreshsubtabbyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.452Z
+lastCollected: 2026-04-07T18:36:50.702Z
 estimatedTokens: 346
-keywords: [refreshSubtabById, Refreshes, subtab, known, URL, can't, refresh, external, Visualforce, API, version, 22.0, later, Arguments, Sample]
+keywords: [Arguments, refreshSubtabById, Refreshes, subtab, known, URL, can't, refresh, external, Visualforce, API, 22.0, Sample, Code–Visualforce]
 ---
-
-# refreshSubtabById()
 
 > Refreshes a subtab with the last known URL with a
             specified ID. This method can't refresh a subtab if the last known URL is an external

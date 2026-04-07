@@ -5,12 +5,10 @@ topic: sessionheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.210Z
+lastCollected: 2026-04-07T18:36:29.623Z
 estimatedTokens: 127
-keywords: [SessionHeader, session, login, call, authenticate, subsequent, Metadata, API, calls, Version, Sample, Code—Java]
+keywords: [SessionHeader, session, login, call, authenticate, subsequent, Metadata, API, Sample, Code—Java]
 ---
-
-# SessionHeader
 
 > Specifies the session ID that the login call returns. This session ID is used to
         authenticate all subsequent Metadata API

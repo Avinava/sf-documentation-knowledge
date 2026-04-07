@@ -5,12 +5,10 @@ topic: salesforceresultcode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.496Z
+lastCollected: 2026-04-07T18:36:12.790Z
 estimatedTokens: 558
-keywords: [SalesforceResultCode, gateway, call, status, Salesforce, payment, Usage]
+keywords: [SalesforceResultCode, gateway, call, status, Salesforce, payment]
 ---
-
-# SalesforceResultCode Enum
 
 > Defines the gateway call status values in Salesforce based on the call
       status values that the payment gateway returned.

@@ -5,12 +5,10 @@ topic: objectstatetransitionaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.829Z
+lastCollected: 2026-04-07T18:37:25.726Z
 estimatedTokens: 720
-keywords: [ObjectStateTransitionAction, junction, state, transition, action, definition, determines, another, triggers, Calls, Associated, Objects]
+keywords: [ObjectStateTransitionAction, junction, state, transition, action, definition, determines, another, triggers]
 ---
-
-# ObjectStateTransitionAction
 
 > Represents a junction between object state transition and object state action
       definition. State transition determines the valid transition of an object from one state to

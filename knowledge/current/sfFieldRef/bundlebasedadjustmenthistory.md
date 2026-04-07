@@ -5,12 +5,10 @@ topic: bundlebasedadjustmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.284Z
+lastCollected: 2026-04-07T18:39:30.474Z
 estimatedTokens: 271
-keywords: [BundleBasedAdjustmentHistory, History, tracked, BundleBasedAdjustment]
+keywords: [BundleBasedAdjustmentHistory, tracked, BundleBasedAdjustment]
 ---
-
-# BundleBasedAdjustmentHistory
 
 > History for tracked fields of BundleBasedAdjustment.
 

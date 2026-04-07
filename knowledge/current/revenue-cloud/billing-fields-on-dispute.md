@@ -5,12 +5,10 @@ topic: billing-fields-on-dispute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.209Z
+lastCollected: 2026-04-07T18:35:42.062Z
 estimatedTokens: 656
-keywords: [Billing, Dispute, involves, invoice, disputed, lines, include, amount, approved, subtype, status, API, version, 66.0, later]
+keywords: [Billing, Dispute, involves, invoice, disputed, lines, include, amount, approved, subtype, status, API, 66.0]
 ---
-
-# Billing Fields on Dispute
 
 > Represents the details of a billing dispute that involves one invoice and one
          or more disputed invoice lines. The details include the disputed amount, the approved

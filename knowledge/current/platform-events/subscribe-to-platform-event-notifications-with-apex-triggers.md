@@ -6,13 +6,10 @@ topic: subscribe-to-platform-event-notifications-with-apex-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.493Z
+lastCollected: 2026-04-07T18:38:58.354Z
 estimatedTokens: 3101
-keywords: [Subscribe, Platform, Event, Notifications, Apex, Triggers, events, receive, regardless, how, they, were, published—through, APIs, provide]
+keywords: [Subscribe, Platform, Event, Notifications, Apex, Triggers, events, receive, regardless, how, they, were, published—through, APIs, provide, autosubscription, mechanism, explicitly, listen, channel, Uncaught, Exceptions, Governor, Limits]
 ---
-
-# Subscribe to Platform Event Notifications with Apex
-    Triggers
 
 > Use Apex triggers to subscribe to events. You can receive event
       notifications in triggers regardless of how they were published—through Apex or APIs. Triggers

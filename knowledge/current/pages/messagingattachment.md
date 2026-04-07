@@ -5,12 +5,10 @@ topic: messagingattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.946Z
+lastCollected: 2026-04-07T18:38:50.189Z
 estimatedTokens: 480
-keywords: [messaging, attachment, Compose, append, email, Attributes]
+keywords: [Attributes, messaging, attachment, Compose, append, email]
 ---
-
-# messaging:attachment
 
 > Compose an attachment and append it to the email.
 

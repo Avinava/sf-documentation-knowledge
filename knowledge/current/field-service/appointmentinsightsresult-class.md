@@ -5,13 +5,11 @@ topic: appointmentinsightsresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.548Z
+lastCollected: 2026-04-07T18:36:46.394Z
 estimatedTokens: 370
 namespace: FSL
-keywords: [AppointmentInsightsResult, getAppointmentInsights, includes, why, service, appointment, can’t, added, Gantt, including, resource, availability, blocked, slots, applicable]
+keywords: [AppointmentInsightsResult, getAppointmentInsights, includes, why, service, appointment, can’t, added, Gantt, including, resource, availability, blocked, slots, applicable, blocking]
 ---
-
-# AppointmentInsightsResult Class
 
 > Represents the response returned by the getAppointmentInsights
 			method. AppointmentInsightsResult includes details about why a service appointment can’t

@@ -5,12 +5,10 @@ topic: financial-security-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.710Z
+lastCollected: 2026-04-07T18:35:53.681Z
 estimatedTokens: 405
-keywords: [Financial, Security, DMO, holding, securities, bonds, mutual, funds, forth, relation, either, account, investment, Provided, Services]
+keywords: [Category, Relationships, Financial, Security, DMO, holding, securities, bonds, mutual, funds, forth, relation, either, account, investment, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Financial Security DMO
 
 > Represents a financial holding such as securities, bonds, mutual funds, and so forth
       in relation to either an account or a financial account (investment account). Provided in the

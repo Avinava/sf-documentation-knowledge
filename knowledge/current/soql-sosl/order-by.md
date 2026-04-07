@@ -5,12 +5,10 @@ topic: order-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.179Z
+lastCollected: 2026-04-07T18:40:10.151Z
 estimatedTokens: 850
 keywords: [ORDER, clause, SELECT, statement, SOQL, query, control, results, alphabetically, beginning, records, display, empty]
 ---
-
-# ORDER BY
 
 > Use the optional ORDER BY clause in the SELECT statement of a SOQL query to control the order of the
 		query results, such as alphabetically beginning with z. If records are null, you can use

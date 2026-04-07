@@ -5,12 +5,10 @@ topic: setcallback
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.124Z
+lastCollected: 2026-04-07T18:38:05.317Z
 estimatedTokens: 275
 keywords: [setCallback, callback, function, executed, Apex, action]
 ---
-
-# setCallback()
 
 > Sets the callback function that is executed after an Apex action
       returns.

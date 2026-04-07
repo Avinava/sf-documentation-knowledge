@@ -5,12 +5,10 @@ topic: alternatives-to-cookies-for-user-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.161Z
+lastCollected: 2026-04-07T18:38:56.879Z
 estimatedTokens: 1370
-keywords: [Alternatives, Cookies, User, Tracking, creating, websites, applications, HTML, <iframe>, element, lets, display, third-party, content, current]
+keywords: [Alternatives, Cookies, User, creating, websites, applications, HTML, <iframe>, lets, display, third-party, content, current, window, modern, browsers, increased, privacy, end, users, iframe, structure, becoming, scrutinized, restricted, exposed, Canvas, apps, surfaced, Salesforce, via, avoid, problems, loading, design, don’t, rely, session, storage, local, track, Signed, Authentication, Stay, Up-to-Date, Browser, Changes]
 ---
-
-# Alternatives to Cookies for User Tracking
 
 > When creating websites and applications, the HTML <iframe> element lets you display third-party content within the current
         page window. As modern browsers have increased privacy for end users, the iframe structure

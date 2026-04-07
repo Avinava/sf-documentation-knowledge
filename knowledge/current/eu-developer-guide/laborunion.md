@@ -5,12 +5,10 @@ topic: laborunion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.456Z
+lastCollected: 2026-04-07T18:37:32.676Z
 estimatedTokens: 279
-keywords: [LaborUnion, labor, union, organization, technician, associated, association, decides, wage, classification, pay, overtime, code, supplemental, compensation]
+keywords: [LaborUnion, labor, union, organization, technician, association, decides, wage, classification, pay, overtime, code, supplemental, compensation, calculation, API, 62.0]
 ---
-
-# LaborUnion
 
 > Represents the labor union organization that field technician is associated
          with. This association decides the wage classification, pay type, overtime code,

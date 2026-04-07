@@ -5,12 +5,10 @@ topic: duplicaterecorditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.149Z
+lastCollected: 2026-04-07T18:38:30.018Z
 estimatedTokens: 343
-keywords: [DuplicateRecordItem, record, that’s, identified, duplicate, DuplicateRecordItems, included, DuplicateRecordSet, processed, jobs, custom, report, duplicates, Calls, Special]
+keywords: [DuplicateRecordItem, record, that’s, identified, duplicate, DuplicateRecordItems, included, DuplicateRecordSet, processed, jobs, report, duplicates]
 ---
-
-# DuplicateRecordItem
 
 > Represents a record that’s been identified as a duplicate.
 			DuplicateRecordItems are included in a DuplicateRecordSet, which are processed in

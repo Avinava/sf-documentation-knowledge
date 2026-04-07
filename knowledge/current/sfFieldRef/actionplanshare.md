@@ -5,12 +5,10 @@ topic: actionplanshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.623Z
+lastCollected: 2026-04-07T18:39:24.554Z
 estimatedTokens: 248
 keywords: [ActionPlanShare, Sharing, ActionPlan]
 ---
-
-# ActionPlanShare
 
 > Sharing for ActionPlan.
 

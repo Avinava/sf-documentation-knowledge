@@ -5,12 +5,10 @@ topic: promotion-cart-delivery-method-adjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:35.186Z
+lastCollected: 2026-04-07T18:37:22.295Z
 estimatedTokens: 194
 keywords: [Promotion, Cart, Delivery, Adjustment]
 ---
-
-# Promotion Cart Delivery Method Adjustment
 
 > Adjustment for a cart delivery method in a promotion.
 

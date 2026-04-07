@@ -5,12 +5,10 @@ topic: personlanguage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.426Z
+lastCollected: 2026-04-07T18:39:53.966Z
 estimatedTokens: 399
-keywords: [PersonLanguage, preference, person’s, language, API, version, 51.0, later]
+keywords: [PersonLanguage, preference, person’s, language, API, 51.0]
 ---
-
-# PersonLanguage
 
 > Represents the use and preference information about a person’s language.
     This object is available in API version 51.0 and later.

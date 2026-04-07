@@ -5,12 +5,10 @@ topic: context-service-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:55.026Z
+lastCollected: 2026-04-07T18:36:40.731Z
 estimatedTokens: 99
 keywords: [Context, Service, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Context Service Business APIs
 
 > Context Service Business APIs are RESTful APIs that are sometimes
          available as Apex classes and methods.

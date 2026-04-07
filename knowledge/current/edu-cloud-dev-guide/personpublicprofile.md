@@ -5,12 +5,10 @@ topic: personpublicprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.642Z
+lastCollected: 2026-04-07T18:37:31.789Z
 estimatedTokens: 727
-keywords: [PersonPublicProfile, user, that’s, shown, their, profile, API, version, 59.0, later, Calls]
+keywords: [PersonPublicProfile, user, that’s, shown, their, profile, API, 59.0]
 ---
-
-# PersonPublicProfile
 
 > Represents information about a user that’s shown on their public
          profile. This object is available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: fixing-performance-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.723Z
+lastCollected: 2026-04-07T18:38:04.871Z
 estimatedTokens: 273
 keywords: [Fixing, Performance, Warnings, few, common, anti-patterns, code, prompt, framework, log, messages, browser, console, Fix, speed]
 ---
-
-# Fixing Performance Warnings
 
 > A few common performance anti-patterns in code prompt the framework
       to log warning messages to the browser console. Fix the warning messages to speed up your

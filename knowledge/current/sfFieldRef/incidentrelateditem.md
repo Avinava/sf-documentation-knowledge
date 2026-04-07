@@ -5,12 +5,10 @@ topic: incidentrelateditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.769Z
+lastCollected: 2026-04-07T18:39:44.394Z
 estimatedTokens: 358
-keywords: [IncidentRelatedItem, junction, relates, Incident, Asset, Product, API, version, 53.0, later]
+keywords: [IncidentRelatedItem, junction, relates, Incident, Asset, Product, API, 53.0]
 ---
-
-# IncidentRelatedItem
 
 > Represents a junction object that relates an Incident to an Asset or
          Product. This object is available in API version 53.0 and later.

@@ -5,12 +5,10 @@ topic: regulationparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.415Z
+lastCollected: 2026-04-07T18:36:45.187Z
 estimatedTokens: 754
-keywords: [RegulationParticipant, Compliant, Data, Sharing, participant, user, group, whom, regulation, shared, API, version, 66.0, later, Calls]
+keywords: [RegulationParticipant, Compliant, Sharing, participant, user, group, whom, regulation, shared, API, 66.0]
 ---
-
-# RegulationParticipant
 
 > Represents a Compliant Data Sharing participant user or group with whom a
          regulation is shared. This object is available in API version 66.0 and later.

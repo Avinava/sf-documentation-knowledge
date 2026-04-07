@@ -5,12 +5,10 @@ topic: offline-caching
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.046Z
+lastCollected: 2026-04-07T18:40:25.413Z
 estimatedTokens: 794
-keywords: [Offline, Caching, provide, support, app, able, cache, models, collections, Mobile, Sync, configurable, mechanism, gives, full]
+keywords: [Offline, Caching, provide, support, app, able, cache, models, collections, Mobile, Sync, configurable, mechanism, gives, full, control, over, operations, Implementations, Workflow, Modes]
 ---
-
-# Offline Caching
 
 > To provide offline support, your app must be able to cache its
  models and collections. Mobile Sync provides a configurable mechanism that gives you full control over

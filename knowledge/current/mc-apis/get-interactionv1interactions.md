@@ -5,12 +5,10 @@ topic: get-interactionv1interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.049Z
+lastCollected: 2026-04-07T18:40:17.197Z
 estimatedTokens: 2742
-keywords: [interaction, interactions, Retrieves, collection, journeys, journey, resources, embedded, items, sort, order, paging, minimize, size, time]
+keywords: [interaction, interactions, Retrieves, collection, journeys, journey, resources, embedded, items, sort, order, paging, minimize, size, time, call, resource, assign, API, Integration, Automation, **Overview**]
 ---
-
-# GET /interaction/v1/interactions
 
 > Retrieves a collection of all journeys. The journey collection resources are embedded in the items property of the response body. Use both a sort order and paging to minimize the response size and response time. To call this resource, assign your API Integration the Automation | Interactions | Read 
 

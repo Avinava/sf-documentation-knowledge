@@ -5,12 +5,10 @@ topic: cgcloudcontractpaymenttacticc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.758Z
+lastCollected: 2026-04-07T18:39:13.170Z
 estimatedTokens: 1436
-keywords: [cgcloud__Contract_Payment_Tactic__c, Stores, relationship, contract, payment, tactics, check, applicable, customer, fulfilled, agreement, API, version, 54.0, later]
+keywords: [cgcloud__Contract_Payment_Tactic__c, Stores, relationship, contract, payment, tactics, check, applicable, customer, fulfilled, agreement, API, 54.0, cgcloud, _Contract, _Payment, _Tactic]
 ---
-
-# cgcloud__Contract_Payment_Tactic__c
 
 > Stores the details of the relationship between a contract payment and
          contract tactics. By using this object, you can check the contract tactics for which the

@@ -5,12 +5,10 @@ topic: learning
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.574Z
+lastCollected: 2026-04-07T18:37:29.656Z
 estimatedTokens: 428
-keywords: [Learning, Output, representation, instructional, made, course, program, on-site, experience, contact, training, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [Learning, instructional, made, course, program, on-site, experience, contact, training, API, 57.0]
 ---
-
-# Learning
 
 > Represents information that defines a training that can be made available as
          a course, program, or on-site experience, for a contact.  This object is available in

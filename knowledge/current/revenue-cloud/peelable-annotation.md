@@ -5,12 +5,10 @@ topic: peelable-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.403Z
+lastCollected: 2026-04-07T18:35:42.275Z
 estimatedTokens: 1975
-keywords: [peelable, Annotation, soft, selection, allow, engine, modify, selections, satisfy, constraint, Hard, Configurator, Result, System-Driven, configurable]
+keywords: [peelable, Annotation, soft, selection, allow, engine, modify, selections, satisfy, constraint, Hard, Configurator, Result, System-Driven, configurable, Auto-Correcting, User, `configurable, `peelable, Upstream, Correction, `sequence, Guided, Fallback, ‘strategy]
 ---
-
-# peelable Annotation
 
 > The peelable annotation is used to create soft
     selection values and allow the engine to modify these selections to satisfy a

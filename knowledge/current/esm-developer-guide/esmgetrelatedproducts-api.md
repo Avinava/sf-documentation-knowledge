@@ -5,12 +5,10 @@ topic: esmgetrelatedproducts-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.986Z
+lastCollected: 2026-04-07T18:37:32.159Z
 estimatedTokens: 50
 keywords: [ESM_getRelatedProducts, API, Fetches, Products, QLI, quote, particular, product, relationship, ESM, _getRelatedProducts, URI, HTTP]
 ---
-
-# ESM_getRelatedProducts API
 
 > Fetches the related Products QLI from a quote for a particular product relationship.
 

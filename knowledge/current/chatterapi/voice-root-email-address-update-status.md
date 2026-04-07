@@ -5,12 +5,10 @@ topic: voice-root-email-address-update-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:36.625Z
+lastCollected: 2026-04-07T18:37:23.695Z
 estimatedTokens: 164
 keywords: [Voice, Root, Email, Address, Status, AWS, user]
 ---
-
-# Voice Root Email Address Update Status
 
 > AWS root user email address update.
 

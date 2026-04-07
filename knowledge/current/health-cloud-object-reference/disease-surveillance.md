@@ -5,12 +5,10 @@ topic: disease-surveillance
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.359Z
+lastCollected: 2026-04-07T18:37:42.501Z
 estimatedTokens: 782
-keywords: [Disease, Surveillance, tracks, manages, data, health, activities, model, centralize, patient, including, demographics, disability, status, medications]
+keywords: [Disease, Surveillance, tracks, manages, health, activities, model, centralize, patient, including, demographics, disability, status, medications, specimens, Streamline, monitoring, enable, timely, informed, decision, making, gaining, comprehensive, view, disease-related, definitions, investigations, outbreaks]
 ---
-
-# Disease Surveillance
 
 > Disease Surveillance tracks and manages disease data and public health activities. Use
                 the Disease Surveillance data model to centralize patient information, including

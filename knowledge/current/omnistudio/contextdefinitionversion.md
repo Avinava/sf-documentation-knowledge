@@ -5,12 +5,10 @@ topic: contextdefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:59.876Z
+lastCollected: 2026-04-07T18:36:45.644Z
 estimatedTokens: 451
-keywords: [ContextDefinitionVersion, context, definition, version, active, time, API, 59.0, later, SOAP, Calls, REST]
+keywords: [ContextDefinitionVersion, context, definition, active, time, API, 59.0, SOAP, REST]
 ---
-
-# ContextDefinitionVersion
 
 > Represents information about the context definition version. Only one version
          can be active at a time. This object is available in API version 59.0 and later.

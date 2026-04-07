@@ -5,12 +5,10 @@ topic: sending-feedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.875Z
+lastCollected: 2026-04-07T18:40:27.092Z
 estimatedTokens: 375
 keywords: [Sending, Feedback, Mobile, SDK, open-source, product, Salesforce, Support]
 ---
-
-# Sending Feedback
 
 > Mobile SDK is an open-source product and is not supported by Salesforce
             Support.

@@ -5,12 +5,10 @@ topic: connectapiextendedfieldinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.274Z
+lastCollected: 2026-04-07T18:39:19.974Z
 estimatedTokens: 85
 keywords: [ConnectApi.ExtendedFieldInput, extended]
 ---
-
-# ConnectApi.ExtendedFieldInput
 
 > Contains information about the extended field.
 

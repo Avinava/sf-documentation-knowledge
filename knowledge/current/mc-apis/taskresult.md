@@ -5,12 +5,10 @@ topic: taskresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.395Z
+lastCollected: 2026-04-07T18:40:20.645Z
 estimatedTokens: 188
 keywords: [TaskResult, result, task]
 ---
-
-# TaskResult
 
 > The TaskResult object contains the result information of a task from the Returns object.
 

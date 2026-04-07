@@ -5,12 +5,10 @@ topic: commerce-product-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.552Z
+lastCollected: 2026-04-07T18:37:17.632Z
 estimatedTokens: 407
-keywords: [Commerce, Product, Summary, representation, search, results]
+keywords: [Commerce, Product, Summary, search, results]
 ---
-
-# Commerce Product Summary
 
 > Summary representation of a product in product search results.
 

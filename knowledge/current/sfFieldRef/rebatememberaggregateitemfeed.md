@@ -5,12 +5,10 @@ topic: rebatememberaggregateitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.887Z
+lastCollected: 2026-04-07T18:39:58.545Z
 estimatedTokens: 303
-keywords: [RebateMemberAggregateItemFeed, Feed, tracking, RebateMemberAggregateItem]
+keywords: [RebateMemberAggregateItemFeed, RebateMemberAggregateItem]
 ---
-
-# RebateMemberAggregateItemFeed
 
 > Feed tracking for RebateMemberAggregateItem.
 

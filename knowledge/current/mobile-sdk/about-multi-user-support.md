@@ -5,12 +5,10 @@ topic: about-multi-user-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.318Z
+lastCollected: 2026-04-07T18:40:26.629Z
 estimatedTokens: 329
-keywords: [Multi-User, Support, Beginning, version, 2.2, Mobile, SDK, supports, simultaneous, logins, multiple, user, accounts, represent, different]
+keywords: [Multi-User, Support, Beginning, 2.2, Mobile, SDK, supports, simultaneous, logins, multiple, user, accounts, represent, different, users, organization, organizations, production, sandbox, instance]
 ---
-
-# About Multi-User Support
 
 > Beginning in version 2.2, Mobile SDK supports simultaneous logins from multiple user accounts. These
 accounts can represent different users from the same organization,

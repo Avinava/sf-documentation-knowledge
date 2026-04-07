@@ -5,12 +5,10 @@ topic: query-unified-record-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.923Z
+lastCollected: 2026-04-07T18:35:51.774Z
 estimatedTokens: 205
-keywords: [Query, Unified, Record, Universal, Lookup, API, retrieve, individual, records, associated, source, IDs, data, sources]
+keywords: [Query, Unified, Record, Universal, Lookup, API, retrieve, individual, records, source, IDs, sources]
 ---
-
-# Query Unified Record ID
 
 > Use the Universal ID Lookup API to retrieve all individual records
    associated with a unified record. You can query on an Individual ID from one source and get all

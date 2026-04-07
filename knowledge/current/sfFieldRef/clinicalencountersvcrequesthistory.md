@@ -5,12 +5,10 @@ topic: clinicalencountersvcrequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.883Z
+lastCollected: 2026-04-07T18:39:34.313Z
 estimatedTokens: 279
-keywords: [ClinicalEncounterSvcRequestHistory, History, tracked, ClinicalEncounterSvcRequest]
+keywords: [ClinicalEncounterSvcRequestHistory, tracked, ClinicalEncounterSvcRequest]
 ---
-
-# ClinicalEncounterSvcRequestHistory
 
 > History for tracked fields of ClinicalEncounterSvcRequest.
 

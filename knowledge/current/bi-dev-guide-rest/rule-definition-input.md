@@ -5,12 +5,10 @@ topic: rule-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.535Z
+lastCollected: 2026-04-07T18:36:54.898Z
 estimatedTokens: 104
-keywords: [Rule, Definition, Input, JSON, transformation]
+keywords: [Rule, Definition, JSON, transformation]
 ---
-
-# Rule Definition Input
 
 > A rule definition to use for a JSON transformation.
 

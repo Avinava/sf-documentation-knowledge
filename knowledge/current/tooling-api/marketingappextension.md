@@ -5,12 +5,10 @@ topic: marketingappextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.062Z
+lastCollected: 2026-04-07T18:36:33.465Z
 estimatedTokens: 902
-keywords: [MarketingAppExtension, integration, third-party, app, service, generates, prospect, external, activity, API, version, 53.0, later, SOAP, Calls]
+keywords: [MarketingAppExtension, integration, third-party, app, service, generates, prospect, external, activity, API, 53.0, SOAP, REST, HTTP]
 ---
-
-# MarketingAppExtension
 
 > Represents an integration with a
             third-party app or service that generates prospect external activity. Available in API

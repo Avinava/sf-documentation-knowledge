@@ -5,12 +5,10 @@ topic: gtwyprovpaymentmethodtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:42.352Z
+lastCollected: 2026-04-07T18:38:33.492Z
 estimatedTokens: 1177
-keywords: [GtwyProvPaymentMethodType, gateway, provider, payment, integrators, providers, choose, active, receive, order's, data, rather, allowing, Salesforce, Order]
+keywords: [GtwyProvPaymentMethodType, gateway, provider, payment, integrators, providers, choose, active, receive, order's, rather, allowing, Salesforce, Order, Management, platform, select, API, 50.0]
 ---
-
-# GtwyProvPaymentMethodType
 
 > The gateway provider payment method type allows integrators and payment
       providers to choose an active payment to receive an order's payment data rather than allowing

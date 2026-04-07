@@ -5,12 +5,10 @@ topic: datacloud-contact-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.203Z
+lastCollected: 2026-04-07T18:37:18.288Z
 estimatedTokens: 231
 keywords: [Datacloud, Contact, Collection, Purchase, contacts, were, purchased, specific, order]
 ---
-
-# Datacloud Contact Collection
 
 > Purchase details for all contacts that were purchased for a specific
       order.

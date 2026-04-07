@@ -5,12 +5,10 @@ topic: insurance-claims-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.766Z
+lastCollected: 2026-04-07T18:37:52.984Z
 estimatedTokens: 146
-keywords: [Insurance, Claims, Metadata, API, access, feature, settings, customize, user]
+keywords: [Insurance, Claims, Metadata, API, feature, settings, customize, user]
 ---
-
-# Insurance Claims Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

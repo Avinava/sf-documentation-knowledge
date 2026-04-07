@@ -5,12 +5,10 @@ topic: calculationmatrixcolumnfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.791Z
+lastCollected: 2026-04-07T18:39:31.074Z
 estimatedTokens: 364
-keywords: [CalculationMatrixColumnFeed, Feed, tracking, CalculationMatrixColumn]
+keywords: [CalculationMatrixColumnFeed, CalculationMatrixColumn]
 ---
-
-# CalculationMatrixColumnFeed
 
 > Feed tracking for CalculationMatrixColumn.
 

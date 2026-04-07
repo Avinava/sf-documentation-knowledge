@@ -5,12 +5,10 @@ topic: serviceappointmentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.314Z
+lastCollected: 2026-04-07T18:37:47.926Z
 estimatedTokens: 887
-keywords: [ServiceAppointmentAsset, junction, Service, Appointment, Asset, admins, associate, patient, piece, medical, equipment, API, version, 62.0, later]
+keywords: [ServiceAppointmentAsset, junction, Service, Appointment, Asset, admins, associate, patient, piece, medical, equipment, API, 62.0]
 ---
-
-# ServiceAppointmentAsset
 
 > Represents a junction between Service Appointment and Asset. This junction
          object enables admins to associate a patient appointment to an asset such as a piece of

@@ -5,12 +5,10 @@ topic: consumer-sales
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.414Z
+lastCollected: 2026-04-07T18:37:26.325Z
 estimatedTokens: 388
-keywords: [Consumer, Sales, business-to-consumer, B2C, comprehensive, solution, residential, small, business, users, Built, Salesforce, Platform, setup, helps]
+keywords: [Consumer, Sales, business-to-consumer, B2C, comprehensive, solution, residential, small, business, users, Built, Salesforce, Platform, setup, helps, admins, developers, capitalize, growing, subscription, market, enhanced, cart-based, journey]
 ---
-
-# Consumer Sales
 
 > Consumer Sales for business-to-consumer (B2C) provides a comprehensive solution for
     residential and small business users. Built on the Salesforce Platform, this setup helps admins

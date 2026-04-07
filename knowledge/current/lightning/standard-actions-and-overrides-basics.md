@@ -5,12 +5,10 @@ topic: standard-actions-and-overrides-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.366Z
+lastCollected: 2026-04-07T18:38:03.384Z
 estimatedTokens: 497
-keywords: [Standard, Actions, Overrides, Basics, There, six, custom, objects, Tab, View, Edit, New, Salesforce, Classic, distinct]
+keywords: [Standard, Actions, Overrides, Basics, There, six, Tab, View, Edit, New, Salesforce, Classic, distinct, How, Action]
 ---
-
-# Standard Actions and Overrides Basics
 
 > There are six standard actions available on most standard and all
    custom objects: Tab, List, View, Edit, New, and Delete. In Salesforce Classic, these are all

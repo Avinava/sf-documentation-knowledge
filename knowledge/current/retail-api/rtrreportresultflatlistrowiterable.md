@@ -5,13 +5,11 @@ topic: rtrreportresultflatlistrowiterable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.984Z
+lastCollected: 2026-04-07T18:39:10.438Z
 estimatedTokens: 163
 namespace: The
-keywords: [RTRReportResult.FlatlistRowIterable, rows, RTR, Report, Flatlist, component, Implementation]
+keywords: [RTRReportResult.FlatlistRowIterable, rows, RTR, Report, Flatlist, Implementation]
 ---
-
-# RTRReportResult.FlatlistRowIterable
 
 > This class represents a set of rows in an RTR Report UI Flatlist component.
 

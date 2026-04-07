@@ -5,12 +5,10 @@ topic: productrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.576Z
+lastCollected: 2026-04-07T18:37:43.742Z
 estimatedTokens: 1263
-keywords: [ProductRequest, device, made, part, care, program, Calls, Special, Access, Rules]
+keywords: [ProductRequest, device, made, part, care, program]
 ---
-
-# ProductRequest
 
 > Represents a device request made as part of a care
     program.

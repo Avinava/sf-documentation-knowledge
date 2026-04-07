@@ -5,12 +5,10 @@ topic: getagentworks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.213Z
+lastCollected: 2026-04-07T18:36:49.281Z
 estimatedTokens: 350
-keywords: [getAgentWorks, work, items, currently, assigned, agent, open, agent’s, workspace, API, versions, 32.0, later, Arguments, Sample]
+keywords: [Arguments, getAgentWorks, work, items, currently, assigned, agent, open, agent’s, workspace, API, versions, 32.0, Sample, Code–Visualforce]
 ---
-
-# getAgentWorks
 
 > Returns a list of work items that are currently assigned to an agent and open in the
         agent’s workspace. Available in API versions 32.0 and later.

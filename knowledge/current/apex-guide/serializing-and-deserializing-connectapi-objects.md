@@ -6,13 +6,10 @@ topic: serializing-and-deserializing-connectapi-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.734Z
+lastCollected: 2026-04-07T18:36:16.926Z
 estimatedTokens: 265
-keywords: [Serializing, Deserializing, ConnectApi, Objects, output, serialized, JSON, structure, similar, Connect, REST, API, input, deserialized]
+keywords: [Serializing, Deserializing, ConnectApi, serialized, JSON, structure, similar, Connect, REST, API, deserialized]
 ---
-
-# Serializing and Deserializing ConnectApi
-        Objects
 
 > When ConnectApi output objects are serialized
         into JSON, the structure is similar to the JSON returned from Connect REST API. When ConnectApi input objects are deserialized from JSON, the

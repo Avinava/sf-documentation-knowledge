@@ -5,12 +5,10 @@ topic: choose-a-development-environment-for-writing-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.641Z
+lastCollected: 2026-04-07T18:36:17.868Z
 estimatedTokens: 1363
-keywords: [Choose, Development, Environment, Writing, Apex, There, several, environments, developing, code, meets, needs, Agentforce, Developers, Salesforce]
+keywords: [Choose, Development, Environment, Writing, Apex, There, several, environments, developing, code, meets, needs, Agentforce, Developers, Salesforce, Extensions, Visual, Studio, Builder, Developer, Console, Setup, Editors, Additional]
 ---
-
-# Choose a Development Environment for Writing Apex
 
 > There are several development environments for developing Apex code. Choose the
         environment that meets your needs.

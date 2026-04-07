@@ -5,12 +5,10 @@ topic: asyncresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.301Z
+lastCollected: 2026-04-07T18:40:15.372Z
 estimatedTokens: 877
-keywords: [AsyncResponse, modify, data, sent, asynchronous, API, days, initial, interested, Result, want, reduce, size, message, IncludeObjects, Items]
+keywords: [AsyncResponse, modify, sent, asynchronous, API, days, initial, interested, Result, want, reduce, size, message, IncludeObjects, Sample, Respond, SOAP, Items]
 ---
-
-# AsyncResponse
 
 > Use the AsyncResponse object to modify return of data sent in response to asynchronous API request. The object is available for 30 days after initial response. If you are interested in only the Result object and want to reduce the size of the response message, set the IncludeObjects property value t
 

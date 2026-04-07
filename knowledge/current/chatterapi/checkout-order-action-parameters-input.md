@@ -5,12 +5,10 @@ topic: checkout-order-action-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.923Z
+lastCollected: 2026-04-07T18:37:07.650Z
 estimatedTokens: 94
-keywords: [Checkout, Order, Action, Input, representation]
+keywords: [Checkout, Order, Action]
 ---
-
-# Checkout Order Action Parameters Input
 
 > Input representation of the Checkout order action parameters request.
 

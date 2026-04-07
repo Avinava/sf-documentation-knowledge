@@ -5,12 +5,10 @@ topic: outcome-management-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.936Z
+lastCollected: 2026-04-07T18:39:04.951Z
 estimatedTokens: 342
-keywords: [Outcome, Management, Developer, define, measure, evaluate, organization’s, strategy, time-bound, targets, baseline, track, results, Consistently, indicators]
+keywords: [Outcome, Management, Developer, define, measure, evaluate, organization’s, strategy, time-bound, targets, baseline, track, results, Consistently, indicators, across, different, outcomes, programs, Organize, groups, reflect, organizational, logic, model, external, stakeholders, care]
 ---
-
-# Outcome Management Developer Guide
 
 > Use Outcome Management to define, measure, and evaluate an organization’s outcome
   strategy. Set time-bound targets and baseline values and track results. Consistently measure the

@@ -5,12 +5,10 @@ topic: financial-goal-patch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.125Z
+lastCollected: 2026-04-07T18:37:34.682Z
 estimatedTokens: 237
-keywords: [Financial, Goal, Patch, Input, updating]
+keywords: [Financial, Goal, Patch, updating]
 ---
-
-# Financial Goal Patch Input
 
 > Input for updating a financial goal.
 

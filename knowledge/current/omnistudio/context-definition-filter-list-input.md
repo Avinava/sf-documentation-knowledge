@@ -5,12 +5,10 @@ topic: context-definition-filter-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.049Z
+lastCollected: 2026-04-07T18:36:36.581Z
 estimatedTokens: 89
-keywords: [Context, Definition, Filter, Input, representation, Filters]
+keywords: [Context, Definition, Filter, Filters]
 ---
-
-# Context Definition Filter List Input
 
 > Input representation for a list of Context Definition Filters
 

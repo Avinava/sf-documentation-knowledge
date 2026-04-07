@@ -5,12 +5,10 @@ topic: personalization-recommender-abstract-field-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.605Z
+lastCollected: 2026-04-07T18:37:21.715Z
 estimatedTokens: 177
 keywords: [Personalization, Recommender, Abstract, Rule]
 ---
-
-# Personalization Recommender Abstract Field Rule
 
 > Represents an abstract rule based on a field.
 

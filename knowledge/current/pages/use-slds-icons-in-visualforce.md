@@ -5,12 +5,10 @@ topic: use-slds-icons-in-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.657Z
+lastCollected: 2026-04-07T18:38:52.950Z
 estimatedTokens: 415
-keywords: [SLDS, Icons, Visualforce, Lightning, Design, System, includes, PNG, SVG, individual, spritemap, versions, action, custom, doctype]
+keywords: [SLDS, Icons, Visualforce, Lightning, Design, System, includes, PNG, SVG, individual, spritemap, versions, action, doctype, standard, utility]
 ---
-
-# Use SLDS Icons in Visualforce
 
 > The Lightning Design System (SLDS) includes PNG and SVG (both individual and spritemap)
     versions of our action, custom, doctype, standard, and utility icons.

@@ -5,12 +5,10 @@ topic: workstepstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.272Z
+lastCollected: 2026-04-07T18:40:07.191Z
 estimatedTokens: 314
-keywords: [WorkStepStatus, picklist, status, category, work, step, API, version, 52.0, later]
+keywords: [WorkStepStatus, picklist, status, category, work, step, API, 52.0]
 ---
-
-# WorkStepStatus
 
 > Represents a picklist for a status category on a work step. This object is
     available in API version 52.0 and later.

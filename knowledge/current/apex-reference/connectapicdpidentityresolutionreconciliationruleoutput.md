@@ -5,12 +5,10 @@ topic: connectapicdpidentityresolutionreconciliationruleoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.490Z
+lastCollected: 2026-04-07T18:36:07.868Z
 estimatedTokens: 356
 keywords: [Identity, resolution, ruleset’s, reconciliation, rule]
 ---
-
-# ConnectApi.CdpIdentityResolutionReconciliationRuleOutput
 
 > Identity resolution ruleset’s reconciliation rule for an
     object.

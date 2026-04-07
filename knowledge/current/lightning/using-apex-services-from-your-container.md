@@ -5,12 +5,10 @@ topic: using-apex-services-from-your-container
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.440Z
+lastCollected: 2026-04-07T18:38:03.460Z
 estimatedTokens: 215
-keywords: [Apex, Services, Container, lightning-container, NPM, module, call, Lightning, component]
+keywords: [Apex, Services, Container, lightning-container, NPM, module, call, Lightning]
 ---
-
-# Using Apex Services from Your Container
 
 > Use the lightning-container NPM module to call
     Apex methods from your Lightning container component.

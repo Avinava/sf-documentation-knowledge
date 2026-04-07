@@ -5,12 +5,10 @@ topic: datepart
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.309Z
+lastCollected: 2026-04-07T18:40:21.593Z
 estimatedTokens: 120
-keywords: [DatePart, Function, Ordinal, Date, retrieve, part, either, yyyy, YYYY-MM-DD, **Overview**, **Syntax**, Usage]
+keywords: [DatePart, Function, Ordinal, Date, retrieve, part, either, yyyy, YYYY-MM-DD, **Overview**, **Syntax**]
 ---
-
-# DatePart
 
 > DatePart(1, 2)
 

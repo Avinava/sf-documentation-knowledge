@@ -5,12 +5,10 @@ topic: ramp-deal-service-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.508Z
+lastCollected: 2026-04-07T18:35:46.479Z
 estimatedTokens: 112
-keywords: [Ramp, Deal, Service, Error, Output, representation, errors, encountered, processing, API]
+keywords: [Ramp, Deal, Service, Error, errors, encountered, processing, API]
 ---
-
-# Ramp Deal Service Error Response
 
 > Output representation of the details of errors encountered during the processing of the
     API request.

@@ -5,12 +5,10 @@ topic: engagement-topic-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.043Z
+lastCollected: 2026-04-07T18:39:01.189Z
 estimatedTokens: 447
-keywords: [Engagement, Topic, Input, representation, record]
+keywords: [Engagement, Topic, record]
 ---
-
-# Engagement Topic Create Input
 
 > Input representation to create an engagement topic
     record.

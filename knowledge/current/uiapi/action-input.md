@@ -5,12 +5,10 @@ topic: action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.676Z
+lastCollected: 2026-04-07T18:40:10.653Z
 estimatedTokens: 499
-keywords: [Action, Input, actions, record, detail]
+keywords: [Action, actions, record, detail]
 ---
-
-# Action Input
 
 > Get the actions on related lists on a record detail page.
 

@@ -5,12 +5,10 @@ topic: invoking-http-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.871Z
+lastCollected: 2026-04-07T18:36:16.090Z
 estimatedTokens: 302
 keywords: [Invoking, HTTP, Callouts, Apex, several, built-in, classes, work, services, requests, POST, PUT]
 ---
-
-# Invoking HTTP Callouts
 
 > Apex provides several built-in classes to work with HTTP services and create HTTP requests like
    GET, POST, PUT, and DELETE.

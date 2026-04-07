@@ -5,12 +5,10 @@ topic: materialitytopicqstn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.381Z
+lastCollected: 2026-04-07T18:38:19.033Z
 estimatedTokens: 691
-keywords: [MaterialityTopicQstn, mapping, materiality, assessment, topics, survey, questions, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [MaterialityTopicQstn, mapping, materiality, assessment, topics, survey, questions, API, 59.0]
 ---
-
-# MaterialityTopicQstn
 
 > Represents the mapping between the materiality assessment topics and
          the materiality assessment survey questions. This object is available in API version

@@ -5,12 +5,10 @@ topic: einstein-visit-and-activity-recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.357Z
+lastCollected: 2026-04-07T18:39:10.842Z
 estimatedTokens: 470
-keywords: [Einstein, Visit, Activity, Recommendation, objects]
+keywords: [Einstein, Visit, Activity, Recommendation]
 ---
-
-# Einstein Visit and Activity Recommendation
 
 > This section provides a list of objects and fields that are related to Einstein Visit
         and Activity Recommendation.

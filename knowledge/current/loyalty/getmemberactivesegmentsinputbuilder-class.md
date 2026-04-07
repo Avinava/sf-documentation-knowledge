@@ -5,13 +5,11 @@ topic: getmemberactivesegmentsinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.561Z
+lastCollected: 2026-04-07T18:38:06.772Z
 estimatedTokens: 860
 namespace: LoyaltyManagement
 keywords: [GetMemberActiveSegmentsInputBuilder, build, instance, setLoyaltyProgramMemberID, loyaltyProgramMemberID, setSegmentIds, segmentIds]
 ---
-
-# GetMemberActiveSegmentsInputBuilder Class
 
 > Contains methods to build an instance of the LoyaltyManagement.GetMemberActiveSegmentsInput
     class.

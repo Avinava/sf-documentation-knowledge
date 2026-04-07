@@ -5,12 +5,10 @@ topic: suggested-car-listings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.807Z
+lastCollected: 2026-04-07T18:40:24.291Z
 estimatedTokens: 674
-keywords: [Suggested, Car, Listings, broker, wants, send, subscriber, email, includes, models, cars, subscriber's, stated, preference, Data]
+keywords: [AMPscript, Suggested, Car, Listings, broker, wants, send, subscriber, email, includes, models, cars, subscriber's, stated, preference, Extensions, Relationships, Angel, Ruiz, John, Doe, Jane]
 ---
-
-# Suggested Car Listings
 
 > In this example, a car broker wants to send a subscriber an email that includes a list of makes and models of cars that the subscriber might like based on the subscriber's stated preference.
 

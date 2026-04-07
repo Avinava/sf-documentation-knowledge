@@ -5,12 +5,10 @@ topic: campaignmemberstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.111Z
+lastCollected: 2026-04-07T18:39:31.443Z
 estimatedTokens: 307
 keywords: [CampaignMemberStatus, member, status, defined, campaign]
 ---
-
-# CampaignMemberStatus
 
 > One or more member status values defined for a
   campaign.

@@ -5,12 +5,10 @@ topic: workplanfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.998Z
+lastCollected: 2026-04-07T18:40:06.897Z
 estimatedTokens: 357
-keywords: [WorkPlanFeed, Feed, tracking, WorkPlan]
+keywords: [WorkPlanFeed, WorkPlan]
 ---
-
-# WorkPlanFeed
 
 > Feed tracking for WorkPlan.
 

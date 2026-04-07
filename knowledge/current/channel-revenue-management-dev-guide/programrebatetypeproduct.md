@@ -5,12 +5,10 @@ topic: programrebatetypeproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.957Z
+lastCollected: 2026-04-07T18:37:06.659Z
 estimatedTokens: 209
-keywords: [ProgramRebateTypeProduct, junction, program, rebate, product, API, version, 53.0, later, Calls]
+keywords: [ProgramRebateTypeProduct, junction, program, rebate, product, API, 53.0]
 ---
-
-# ProgramRebateTypeProduct
 
 > Represents a junction between a program rebate type and a product. This
       object is available in API version 53.0 and later.

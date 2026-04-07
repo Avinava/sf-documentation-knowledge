@@ -5,12 +5,10 @@ topic: extlrecshrobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.189Z
+lastCollected: 2026-04-07T18:38:32.151Z
 estimatedTokens: 487
-keywords: [ExtlRecShrObject, shared, Partner, Connect, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [ExtlRecShrObject, shared, Partner, Connect, API, 62.0]
 ---
-
-# ExtlRecShrObject
 
 > Represents a shared object for Partner Connect. This object is
       available in API version 62.0 and later.

@@ -5,12 +5,10 @@ topic: clausecatgconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.217Z
+lastCollected: 2026-04-07T18:36:23.515Z
 estimatedTokens: 524
-keywords: [ClauseCatgConfiguration, configuration, clause, category, categorize, disclosure, compliance, reports, standardized, templates, document, Parent, File, Suffix, Directory]
+keywords: [ClauseCatgConfiguration, configuration, clause, category, categorize, disclosure, compliance, reports, standardized, templates, document, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ClauseCatgConfiguration
 
 > Represents the configuration about the clause category
 			that can be used to categorize your disclosure and compliance reports from standardized

@@ -5,12 +5,10 @@ topic: quote-calculator-plugin-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:40.416Z
+lastCollected: 2026-04-07T18:37:27.425Z
 estimatedTokens: 940
-keywords: [Quote, Calculator, Plugin, Guidelines, Consider, key, planning, scripts, Javascript, Promises, QuoteModel, QuoteLineModel, Salesforce, JSForce, Availability]
+keywords: [Promises, JSForce, Quote, Calculator, Plugin, Guidelines, Consider, key, planning, scripts, Javascript, QuoteModel, QuoteLineModel, Salesforce, Availability, Character, Limits]
 ---
-
-# Quote Calculator Plugin Guidelines
 
 > Consider these key guidelines when planning scripts for the Javascript Quote
     Calculator Plugin.

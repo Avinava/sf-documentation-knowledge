@@ -5,12 +5,10 @@ topic: setting-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.779Z
+lastCollected: 2026-04-07T18:35:46.765Z
 estimatedTokens: 80
-keywords: [Setting, Metadata, Output, representation, associated]
+keywords: [Setting, Metadata]
 ---
-
-# Setting Metadata
 
 > Output representation of the metadata associated with a setting.
 

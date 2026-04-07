@@ -5,12 +5,10 @@ topic: permission-sets-and-profile-settings-in-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:02.707Z
+lastCollected: 2026-04-07T18:38:55.125Z
 estimatedTokens: 1673
-keywords: [Permission, Profile, Settings, Packages, groups, ways, grant, permissions, access, package, setting, don’t, support, specific, instances]
+keywords: [Permission, Profile, Settings, Packages, groups, ways, grant, permissions, package, setting, don’t, support, specific, instances, Best, Practices]
 ---
-
-# Permission Sets and Profile Settings in Packages
 
 > Permission sets, permission set groups, and profile settings are all ways to grant
     permissions and other access settings to a package. Only use a profile setting if permission

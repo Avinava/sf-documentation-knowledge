@@ -5,12 +5,10 @@ topic: purchaserplanassn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.206Z
+lastCollected: 2026-04-07T18:37:47.833Z
 estimatedTokens: 1138
-keywords: [PurchaserPlanAssn, junction, associates, purchaser, plans, they, offer, members, Calls, Associated, Objects]
+keywords: [PurchaserPlanAssn, junction, associates, purchaser, plans, they, offer, members]
 ---
-
-# PurchaserPlanAssn
 
 > Represents a junction object that associates the purchaser to the plans they offer to members.
 

@@ -5,12 +5,10 @@ topic: using-the-runas-method-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.390Z
+lastCollected: 2026-04-07T18:36:18.623Z
 estimatedTokens: 1149
-keywords: [runAs, Generally, Apex, code, runs, system, mode, object-level, field-level, permissions, current, user, aren’t, taken, account]
+keywords: [runAs, Generally, Apex, code, runs, system, mode, object-level, field-level, permissions, current, user, aren’t, taken, account, write, test, change, context, new, user’s, sharing, enforced, Uses]
 ---
-
-# Using the  runAs Method Method
 
 > Generally, all Apex code runs in system mode, where the object-level and field-level
       permissions of the current user aren’t taken into account. With the System method runAs, you can write test methods that change the user

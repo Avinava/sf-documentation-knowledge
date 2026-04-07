@@ -5,13 +5,11 @@ topic: emailmessages-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.217Z
+lastCollected: 2026-04-07T18:36:03.433Z
 estimatedTokens: 69
 namespace: System
 keywords: [EmailMessages, interact, emails, email, threading]
 ---
-
-# EmailMessages Class
 
 > Use the methods in the EmailMessages class to
         interact with emails and email threading.

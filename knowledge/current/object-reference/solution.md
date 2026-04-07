@@ -5,12 +5,10 @@ topic: solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.882Z
+lastCollected: 2026-04-07T18:38:41.625Z
 estimatedTokens: 1461
-keywords: [Solution, detailed, customer, issue, resolution, Calls, Usage, Associated, Objects]
+keywords: [Solution, detailed, customer, issue, resolution]
 ---
-
-# Solution
 
 > Represents a detailed description of a customer issue and the
    resolution of that issue.

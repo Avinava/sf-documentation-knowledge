@@ -5,12 +5,10 @@ topic: servicemanagementprivilege
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.269Z
+lastCollected: 2026-04-07T18:35:55.380Z
 estimatedTokens: 569
-keywords: [ServiceManagementPrivilege, individual, service, management, privilege, system, including, scope, permitted, level, access, API, version, 66.0, later]
+keywords: [ServiceManagementPrivilege, individual, service, management, privilege, system, including, scope, permitted, level, API, 66.0]
 ---
-
-# ServiceManagementPrivilege
 
 > Represents an individual service management privilege available in the
          system, including its type, scope, and permitted level of access. This object is

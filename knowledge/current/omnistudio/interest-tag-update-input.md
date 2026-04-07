@@ -5,12 +5,10 @@ topic: interest-tag-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.623Z
+lastCollected: 2026-04-07T18:36:37.155Z
 estimatedTokens: 144
-keywords: [Interest, Tag, Input, representation]
+keywords: [Interest, Tag]
 ---
-
-# Interest Tag Update Input
 
 > Input representation of an Interest Tag update
       request.

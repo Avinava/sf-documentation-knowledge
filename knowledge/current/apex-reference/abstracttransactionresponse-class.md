@@ -5,13 +5,11 @@ topic: abstracttransactionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.460Z
+lastCollected: 2026-04-07T18:36:01.698Z
 estimatedTokens: 2199
 namespace: CommercePayments
-keywords: [AbstractTransactionResponse, Abstract, storing, normalized, sent, payment, gateways, transaction, Holds, common, authorization, sale, capture, refund, transactions, setting, tax, external, provider's, classes]
+keywords: [AbstractTransactionResponse, Abstract, storing, normalized, sent, payment, gateways, transaction, Holds, common, authorization, sale, capture, refund, transactions, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setSalesforceResultCodeInfo, salesforceResultCodeInfo, setting, tax, external, provider's, classes, extend, inherit, setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode, currencyIsoCode, setCustomTaxAttributes, customTaxAttributes, setDescription, dscptn, setDocumentCode, documentCode, setEffectiveDate, effectiveDate, setLineItems, lineItems, setReferenceDocumentCode, referenceDocumentCode, setReferenceEntityId, referenceEntityId, setTaxTransactionId, taxTrxnId, setTransactionDate, transactionDate]
 ---
-
-# AbstractTransactionResponse Class
 
 > Abstract class that contains methods for setting tax fields based on
       the external tax provider's response. Response classes that extend AbstractTransactionResponse inherit these methods.

@@ -5,12 +5,10 @@ topic: triggered-email-scenario-guide-for-developers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.498Z
+lastCollected: 2026-04-07T18:40:20.752Z
 estimatedTokens: 9380
-keywords: [Triggered, Email, Scenario, Developers, documentation, managed, Studio, transactional, messaging, REST, API, review, Send, Process, Triggering]
+keywords: [Content, HTMLAttributes, Scenarios, Results, Triggered, Email, Scenario, Developers, documentation, managed, Studio, transactional, messaging, REST, API, review, Send, Process, Triggering, Events, Interaction, Classification, Destination, Management, Options, Test, Reports, Detective, Processing, Priority, Asynchronous, Retention, Policy, Support, Obscuring, Why, Tools, Prerequisites, Owner, Restriction, Cases, SOAP, Sample, Determining, Time, invalid, address, passed, Creating, Pausing, Updating, Publishing, Changes, Starting, Examples, Retrieving, Appendix, TriggeredSend, Error, Codes, TriggeredSendDefinitionCanNotBeCanceled, TriggeredSendDefinitionCanNotBeUpdated, TriggeredSendDefinitionCanNotBeDeleted, TriggeredSendTypeNotFound, TriggeredSendDefinitionObjectIDFound, TriggeredSendDefinitionNotFound, TriggeredSendDefinitionEmailNotFound, TriggeredSendDefinitionListNotFound, TriggeredSendDefinitionFromNameNotFound, TriggeredSendDefinitionListRequired, TriggeredSendDefinitionNameInvalid, TriggeredSendDefinitionFromNameInvalid, TriggeredSendDefinitionKeywordInvalid, TriggeredSendDefinitionBccEmailInvalid, TriggeredSendDefinitionEmailInvalid, InvalidPersonalizationString, SendSpeedGovernorNotEnabled, BCCEmailNotEnabled, MultiPartMimeNotEnabled, DynamicContentNotEnabled, AllSubscribersAccessNotEnabled, TriggeredSendObjectNotFound, TriggeredSendUnableToCreateRequest, TriggeredSendSubscribersNotQueuedForOMM, TriggeredSendErrorNotifyingOMM, TriggeredSendSubscriberProcessingError, TriggeredSendSubscribersNotFound, TriggeredSendNoValidSubscriberToProcess, Zone, Strings, Items]
 ---
-
-# Triggered Email Scenario Guide For Developers
 
 > This documentation applies only to triggered sends that are managed in Email Studio. To use the transactional messaging REST API, review Transactional Messaging API.
 

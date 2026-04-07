@@ -5,12 +5,10 @@ topic: environment-hub-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:54.778Z
+lastCollected: 2026-04-07T18:38:46.686Z
 estimatedTokens: 337
 keywords: [Environment, Hub, Best, Practices, Follow, guidelines]
 ---
-
-# Environment Hub Best Practices
 
 > Follow these guidelines and best practices when you use the Environment Hub.
 

@@ -5,12 +5,10 @@ topic: get-field-and-other-metadata-for-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.776Z
+lastCollected: 2026-04-07T18:36:19.998Z
 estimatedTokens: 205
 keywords: [Metadata, sObject, Describe, resource, retrieve, including, URLs, child, relationships]
 ---
-
-# Get Field and Other Metadata for an Object
 
 > Use the sObject Describe resource to retrieve all the metadata for an object, including
             information about each field, URLs, and child relationships.

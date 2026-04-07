@@ -5,12 +5,10 @@ topic: canvas-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:30.060Z
+lastCollected: 2026-04-07T18:37:17.128Z
 estimatedTokens: 296
-keywords: [Canvas, Capability, feed, element, renders, app]
+keywords: [Canvas, Capability, renders, app]
 ---
-
-# Canvas Capability
 
 > If a feed element has this capability, it renders a canvas app.
 

@@ -5,12 +5,10 @@ topic: full-text-query-specs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.638Z
+lastCollected: 2026-04-07T18:40:26.884Z
 estimatedTokens: 84
 keywords: [Full-Text, Query, Specs, perform, SmartStore, match, spec, platform’s, matchKey, argument, provide, search]
 ---
-
-# Full-Text Query Specs
 
 > To perform a full-text query, you create a SmartStore "match" query spec using your
   platform’s match query method. For the matchKey argument, you

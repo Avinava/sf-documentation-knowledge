@@ -5,12 +5,10 @@ topic: load-data-lake-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.588Z
+lastCollected: 2026-04-07T18:39:19.264Z
 estimatedTokens: 119
-keywords: [Load, Data, Lake, node, recipe]
+keywords: [Load, Lake, node, recipe]
 ---
-
-# Load Data Lake Object
 
 > A data lake object for a load node in a recipe.
 

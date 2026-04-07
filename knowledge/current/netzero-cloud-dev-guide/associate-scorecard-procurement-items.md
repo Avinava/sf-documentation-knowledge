@@ -5,12 +5,10 @@ topic: associate-scorecard-procurement-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.726Z
+lastCollected: 2026-04-07T18:38:16.274Z
 estimatedTokens: 227
-keywords: [Associate, Scorecard, Procurement, Items, supplier, management, active, Special, Access, Rules]
+keywords: [Associate, Scorecard, Procurement, Items, supplier, management, active]
 ---
-
-# Associate Scorecard Procurement Items
 
 > Associate procurement items from supplier management to the active
       scorecard.

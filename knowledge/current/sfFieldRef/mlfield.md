@@ -5,12 +5,10 @@ topic: mlfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.313Z
+lastCollected: 2026-04-07T18:39:47.724Z
 estimatedTokens: 200
-keywords: [MLField, data, definition]
+keywords: [MLField, definition]
 ---
-
-# MLField
 
 > Represents a single field in a data definition.
 

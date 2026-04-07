@@ -5,12 +5,10 @@ topic: install-the-komaci-static-analyzer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.774Z
+lastCollected: 2026-04-07T18:38:15.258Z
 estimatedTokens: 478
 keywords: [Install, Komaci, Analyzer, analyser, ESLint, plugin, package, manager, NPM, Yarn]
 ---
-
-# Install the Komaci Static Analyzer
 
 > The Komaci static analyser is an ESLint plugin that you install using a package manager,
   such as NPM or Yarn.

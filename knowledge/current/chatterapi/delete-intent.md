@@ -5,12 +5,10 @@ topic: delete-intent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.241Z
+lastCollected: 2026-04-07T18:37:18.327Z
 estimatedTokens: 118
 keywords: [Intent, social, post]
 ---
-
-# Delete Intent
 
 > Delete intent for a social post.
 

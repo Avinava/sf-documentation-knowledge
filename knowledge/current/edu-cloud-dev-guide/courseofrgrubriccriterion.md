@@ -5,12 +5,10 @@ topic: courseofrgrubriccriterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.907Z
+lastCollected: 2026-04-07T18:37:30.986Z
 estimatedTokens: 930
-keywords: [CourseOfrgRubricCriterion, activity, rubric, criterion, course, offering, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [CourseOfrgRubricCriterion, activity, rubric, criterion, course, offering, API, 65.0]
 ---
-
-# CourseOfrgRubricCriterion
 
 > Represents an activity rubric criterion for a course offering. This
       object is available in API version 65.0 and later.

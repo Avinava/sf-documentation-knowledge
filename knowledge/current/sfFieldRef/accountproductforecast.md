@@ -5,12 +5,10 @@ topic: accountproductforecast
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.304Z
+lastCollected: 2026-04-07T18:39:24.226Z
 estimatedTokens: 603
 keywords: [AccountProductForecast, cumulative, planned, quantities, opportunities, orders, sales, agreement, product, across, periods, rolling, time, period]
 ---
-
-# AccountProductForecast
 
 > Represents the cumulative values for planned quantities, opportunities, and
       orders of a sales agreement for a given product across all periods in that rolling time

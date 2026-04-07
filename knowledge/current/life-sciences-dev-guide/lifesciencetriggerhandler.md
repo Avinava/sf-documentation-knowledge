@@ -5,12 +5,10 @@ topic: lifesciencetriggerhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.923Z
+lastCollected: 2026-04-07T18:38:00.705Z
 estimatedTokens: 568
-keywords: [LifeScienceTriggerHandler, collection, trigger, handlers, run, Life, Sciences, API, version, 65.0, later, Calls]
+keywords: [LifeScienceTriggerHandler, collection, trigger, handlers, run, Life, Sciences, API, 65.0]
 ---
-
-# LifeScienceTriggerHandler
 
 > Represents a collection of fields to set up the trigger handlers to
          run for each Life Sciences object.  This object is available in API version 65.0 and

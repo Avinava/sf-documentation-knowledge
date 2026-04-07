@@ -5,12 +5,10 @@ topic: create-a-custom-channel-for-custom-platform-events-using-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.940Z
+lastCollected: 2026-04-07T18:38:57.762Z
 estimatedTokens: 423
-keywords: [Custom, Channel, Platform, Events, API, Let’s, walk, steps, add, two, via, members, subscribe, validate, receiving]
+keywords: [Channel, Platform, Events, API, Let’s, walk, steps, add, two, via, members, subscribe, validate, receiving, event, messages]
 ---
-
-# Create a Custom Channel for Custom Platform Events Using the API
 
 > Let’s walk through the steps to create a channel and add two platform events via channel
   members. Then, you can subscribe to the channel to validate receiving event messages for platform

@@ -5,12 +5,10 @@ topic: cgcloudrouteaccountc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.374Z
+lastCollected: 2026-04-07T18:39:14.769Z
 estimatedTokens: 1092
-keywords: [cgcloud__Route_Account__c, Stores, relationship, routes, customers, API, version, 54.0, later, cgcloud, _Route, _Account, Calls, Associated, Objects]
+keywords: [cgcloud__Route_Account__c, Stores, relationship, routes, customers, API, 54.0, cgcloud, _Route, _Account]
 ---
-
-# cgcloud__Route_Account__c
 
 > Stores the details of the relationship between routes and
          customers. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: campaignmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.351Z
+lastCollected: 2026-04-07T18:38:27.344Z
 estimatedTokens: 3149
-keywords: [CampaignMember, relationship, campaign, either, lead, contact, Accounts, Members, setting, enabled, org, represent, account, Calls, Special]
+keywords: [CampaignMember, relationship, campaign, either, lead, contact, Accounts, Members, setting, enabled, org, represent, account]
 ---
-
-# CampaignMember
 
 > The CampaignMember object represents the relationship between a
    campaign and either a lead or a contact. If the Accounts as Campaign Members setting is enabled

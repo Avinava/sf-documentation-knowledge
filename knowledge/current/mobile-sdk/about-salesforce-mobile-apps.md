@@ -5,12 +5,10 @@ topic: about-salesforce-mobile-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.870Z
+lastCollected: 2026-04-07T18:40:27.087Z
 estimatedTokens: 677
 keywords: [Salesforce, Mobile, Apps, Platform, offers, two, ways, build, deploy, enterprise-ready, applications]
 ---
-
-# About Salesforce Mobile Apps
 
 > The Salesforce Platform offers two ways to build and deploy enterprise-ready mobile
   applications.

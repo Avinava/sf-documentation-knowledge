@@ -6,13 +6,10 @@ topic: deploy-apex-using-salesforce-extensions-for-visual-studio-code-and-code-b
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.191Z
+lastCollected: 2026-04-07T18:36:17.419Z
 estimatedTokens: 569
 keywords: [Deploy, Apex, Salesforce, Extensions, Visual, Studio, Code, Builder, powered, CLI, APIs]
 ---
-
-# Deploy Apex Using Salesforce Extensions for Visual Studio Code and
-      Code Builder
 
 > Salesforce Extensions for VS Code and Code Builder are powered by Salesforce CLI and
     the Salesforce APIs.

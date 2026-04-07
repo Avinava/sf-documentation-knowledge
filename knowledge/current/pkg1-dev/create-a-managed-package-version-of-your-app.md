@@ -5,12 +5,10 @@ topic: create-a-managed-package-version-of-your-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:02.020Z
+lastCollected: 2026-04-07T18:38:54.433Z
 estimatedTokens: 462
-keywords: [Managed, Package, Version, App, testing, almost, ready, published, enterprise, AppExchange, Generate, new, Dev, Hub, org]
+keywords: [Managed, Package, App, testing, almost, ready, published, enterprise, AppExchange, Generate, new, Dev, Hub, org]
 ---
-
-# Create a Managed Package Version of Your App
 
 > After your testing is done, your app is almost ready to be published in your enterprise
   or on AppExchange. Generate a new managed package version in your Dev Hub org.

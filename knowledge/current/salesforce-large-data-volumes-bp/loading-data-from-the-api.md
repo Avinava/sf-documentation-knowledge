@@ -5,12 +5,10 @@ topic: loading-data-from-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.122Z
+lastCollected: 2026-04-07T18:39:17.795Z
 estimatedTokens: 783
-keywords: [Loading, Data, API]
+keywords: [Loading, API]
 ---
-
-# Loading Data from the API
 
 # Loading Data from the API
 

@@ -5,12 +5,10 @@ topic: property-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.577Z
+lastCollected: 2026-04-07T18:37:35.195Z
 estimatedTokens: 94
 keywords: [Result, POST, PATCH]
 ---
-
-# Property Result
 
 > Property result of the POST or PATCH request.
 

@@ -5,12 +5,10 @@ topic: troubleshoot-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.870Z
+lastCollected: 2026-04-07T18:38:55.323Z
 estimatedTokens: 256
 keywords: [Troubleshoot, License, Management, App, you’re, experiencing, issues, review, troubleshooting, tips]
 ---
-
-# Troubleshoot the License Management App
 
 > If you’re experiencing issues with the License Management App, review these
     troubleshooting tips.

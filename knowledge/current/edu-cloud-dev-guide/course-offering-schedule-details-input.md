@@ -5,12 +5,10 @@ topic: course-offering-schedule-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.940Z
+lastCollected: 2026-04-07T18:37:29.043Z
 estimatedTokens: 376
-keywords: [Course, Offering, Schedule, Input, representation, modify]
+keywords: [Course, Offering, Schedule, modify]
 ---
-
-# Course Offering Schedule Details Input
 
 > Input representation of a single course offering schedule to create and modify within the
     list of course offering request.

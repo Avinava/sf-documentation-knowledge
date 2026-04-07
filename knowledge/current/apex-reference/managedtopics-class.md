@@ -5,13 +5,11 @@ topic: managedtopics-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.048Z
+lastCollected: 2026-04-07T18:35:58.320Z
 estimatedTokens: 7511
 namespace: ConnectApi
-keywords: [ManagedTopics, managed, topic, specific, Experience, Cloud, site, createManagedTopic, communityId, recordId, managedTopicType, API, Version, Requires, Chatter]
+keywords: [ManagedTopics, managed, topic, specific, Experience, Cloud, site, createManagedTopic, communityId, recordId, managedTopicType, API, Requires, Chatter, parentId, createManagedTopicByName, deleteManagedTopic, managedTopicId, getManagedTopic, Guest, Users, depth, getManagedTopics, recordIds, pageParam, pageSize, reorderManagedTopics, managedTopicPositionCollection, Retired]
 ---
-
-# ManagedTopics Class
 
 > Create a managed topic of a specific type for an Experience Cloud
       site.

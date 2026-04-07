@@ -5,12 +5,10 @@ topic: cgcsyncsyncmetadatachangesc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.916Z
+lastCollected: 2026-04-07T18:39:12.429Z
 estimatedTokens: 647
-keywords: [cgc_sync__Sync_Metadata_Changes__c, Stores, timestamps, changes, made, metadata, API, version, 53.0, later, cgc, _sync, _Metadata, _Changes, Calls]
+keywords: [cgc_sync__Sync_Metadata_Changes__c, Stores, timestamps, changes, made, metadata, API, 53.0, cgc, _sync, _Metadata, _Changes]
 ---
-
-# cgc_sync__Sync_Metadata_Changes__c
 
 > Stores the timestamps for the changes that are made in the metadata.
       This object is available in API version 53.0 and later.

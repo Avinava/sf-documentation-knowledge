@@ -5,12 +5,10 @@ topic: connectapiactivationadditionalattributesconfiginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.135Z
+lastCollected: 2026-04-07T18:36:04.355Z
 estimatedTokens: 338
-keywords: [additional, attributes, configuration, market, segment, activation, input]
+keywords: [additional, attributes, configuration, market, segment, activation]
 ---
-
-# ConnectApi.ActivationAdditionalAttributesConfigInput
 
 > Represents the additional attributes configuration for the market segment activation
   input.

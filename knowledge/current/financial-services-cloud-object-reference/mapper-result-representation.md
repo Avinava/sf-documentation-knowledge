@@ -5,12 +5,10 @@ topic: mapper-result-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.426Z
+lastCollected: 2026-04-07T18:37:35.039Z
 estimatedTokens: 92
-keywords: [Mapper, Result, Representation, POST]
+keywords: [Mapper, Result, POST]
 ---
-
-# Mapper Result Representation
 
 > Represents the result representation of the POST
     method.

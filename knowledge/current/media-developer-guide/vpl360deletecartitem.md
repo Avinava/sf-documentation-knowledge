@@ -5,12 +5,10 @@ topic: vpl360deletecartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.770Z
+lastCollected: 2026-04-07T18:38:11.038Z
 estimatedTokens: 113
-keywords: [VPL360_DeleteCartItem, Integration, Procedure, item, cart, VPL360, _DeleteCartItem, Sample, Input, Output, Calls, deletes]
+keywords: [VPL360_DeleteCartItem, Integration, Procedure, item, cart, VPL360, _DeleteCartItem, Sample, deletes]
 ---
-
-# VPL360_DeleteCartItem
 
 > This Integration Procedure is used to delete an item from
         the cart.

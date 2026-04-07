@@ -5,13 +5,11 @@ topic: soaptype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.367Z
+lastCollected: 2026-04-07T18:36:12.663Z
 estimatedTokens: 401
 namespace: Schema
-keywords: [SOAPType, Schema.SOAPType, describe, result, getSoapType, Usage]
+keywords: [SOAPType, Schema.SOAPType, describe, result, getSoapType]
 ---
-
-# SOAPType Enum
 
 > A Schema.SOAPType enum value is returned by the
   field describe result getSoapType method.

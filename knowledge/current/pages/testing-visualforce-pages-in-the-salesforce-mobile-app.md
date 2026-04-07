@@ -5,12 +5,10 @@ topic: testing-visualforce-pages-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.521Z
+lastCollected: 2026-04-07T18:38:51.787Z
 estimatedTokens: 369
-keywords: [Testing, Visualforce, Pages, Salesforce, Mobile, App, you’re, creating, Lightning, Experience, Classic, review, environments, working, test]
+keywords: [Testing, Visualforce, Pages, Salesforce, Mobile, App, you’re, creating, Lightning, Experience, Classic, review, environments, working, test, thoroughly, multiple, browsers, devices, view, You’ll, want, least, additional, user, well, Main, Development, Environment]
 ---
-
-# Testing Visualforce Pages in the Salesforce Mobile App
 
 > If you’re creating pages that will be used in Lightning Experience, Salesforce Classic,
   and the Salesforce mobile app, review your pages in all environments while you’re working on them.

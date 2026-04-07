@@ -5,12 +5,10 @@ topic: stnryassetcrbnftprnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.112Z
+lastCollected: 2026-04-07T18:40:02.794Z
 estimatedTokens: 2543
-keywords: [StnryAssetCrbnFtprnt, total, carbon, emissions, environmental, attributes, stationary, assets, footprint, quantifies, effect, atmospheric, warming, represented, metric]
+keywords: [StnryAssetCrbnFtprnt, total, carbon, emissions, environmental, attributes, stationary, assets, footprint, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent, tCO₂e, Additionally, various, aspects, energy, performance, asset]
 ---
-
-# StnryAssetCrbnFtprnt
 
 > Represents the total carbon emissions and other environmental attributes from
          stationary assets. Carbon footprint quantifies the effect of atmospheric warming, which is

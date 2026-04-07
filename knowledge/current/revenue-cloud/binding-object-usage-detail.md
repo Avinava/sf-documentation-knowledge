@@ -5,12 +5,10 @@ topic: binding-object-usage-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.921Z
+lastCollected: 2026-04-07T18:35:46.925Z
 estimatedTokens: 136
-keywords: [Binding, Usage, Detail, Output, representation]
+keywords: [Binding, Detail]
 ---
-
-# Binding Object Usage Detail
 
 > Output representation of the usage details of a binding object.
 

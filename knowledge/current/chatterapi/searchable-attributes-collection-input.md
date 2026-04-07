@@ -5,12 +5,10 @@ topic: searchable-attributes-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.484Z
+lastCollected: 2026-04-07T18:37:10.180Z
 estimatedTokens: 88
-keywords: [Searchable, Attributes, Collection, Input]
+keywords: [Searchable, Attributes, Collection]
 ---
-
-# Searchable Attributes Collection Input
 
 > Collection of searchable attributes.
 

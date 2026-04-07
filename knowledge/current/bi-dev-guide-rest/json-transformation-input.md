@@ -5,12 +5,10 @@ topic: json-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.425Z
+lastCollected: 2026-04-07T18:36:54.781Z
 estimatedTokens: 261
-keywords: [Json, Transformation, Input, perform, rules]
+keywords: [Json, Transformation, perform]
 ---
-
-# Json Transformation Input
 
 > The JSON request to perform transformation rules on.
 

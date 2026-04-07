@@ -5,13 +5,11 @@ topic: loyaltypromotionoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.628Z
+lastCollected: 2026-04-07T18:38:06.839Z
 estimatedTokens: 593
 namespace: LoyaltyManagement
 keywords: [LoyaltyPromotionOutput, active, promotions, transaction, journal, getErrors, getPromotions, isSuccess]
 ---
-
-# LoyaltyPromotionOutput Class
 
 > Represents the active promotions based on the specified transaction
       journal.

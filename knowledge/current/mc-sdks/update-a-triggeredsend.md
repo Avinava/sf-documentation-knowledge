@@ -5,12 +5,10 @@ topic: update-a-triggeredsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.364Z
+lastCollected: 2026-04-07T18:40:24.808Z
 estimatedTokens: 438
-keywords: [TriggeredSend, Patch, Specify, unique, identifier, props, order, identify, updated, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, TriggeredSend, Patch, Specify, unique, identifier, props, order, identify, updated, PHP]
 ---
-
-# Update a TriggeredSend
 
 > Use the Patch method to update an existing triggeredsend. Specify a unique identifier in the props property in order to identify which triggeredsend will be updated:
 

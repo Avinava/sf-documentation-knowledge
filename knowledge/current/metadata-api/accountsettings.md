@@ -5,12 +5,10 @@ topic: accountsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:36.800Z
+lastCollected: 2026-04-07T18:36:22.030Z
 estimatedTokens: 1284
-keywords: [AccountSettings, org’s, account, settings, teams, owner, report, View, Hierarchy, link, File, Suffix, Directory, Location, Version]
+keywords: [AccountSettings, org’s, account, settings, teams, owner, report, View, Hierarchy, link, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# AccountSettings
 
 > Represents an org’s account settings for account
 			teams, account owner report, and the View Hierarchy link.

@@ -5,12 +5,10 @@ topic: accountcontactrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.515Z
+lastCollected: 2026-04-07T18:38:24.393Z
 estimatedTokens: 795
-keywords: [AccountContactRole, role, Contact, plays, Account, Calls, Special, Access, Rules, Usage, Associated, Objects]
+keywords: [AccountContactRole, role, Contact, plays, Account]
 ---
-
-# AccountContactRole
 
 > Represents the role that a Contact plays on an
   Account.

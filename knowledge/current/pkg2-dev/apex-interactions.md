@@ -5,12 +5,10 @@ topic: apex-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.478Z
+lastCollected: 2026-04-07T18:38:54.866Z
 estimatedTokens: 600
-keywords: [Apex, Interactions, record, package, usage, log, custom_entity_type, ApexClass, ApexTrigger, interaction, packaged, trigger, Execution, Unexpected, Exception]
+keywords: [Apex, Interactions, record, package, log, custom_entity_type, ApexClass, ApexTrigger, interaction, packaged, trigger, Execution, Unexpected, Exception]
 ---
-
-# Apex Interactions
 
 > Each record in your package usage log that has a custom_entity_type of ApexClass or ApexTrigger describes an interaction with your packaged Apex class
   or trigger.

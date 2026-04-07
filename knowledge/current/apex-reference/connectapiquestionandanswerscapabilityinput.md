@@ -5,12 +5,10 @@ topic: connectapiquestionandanswerscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.863Z
+lastCollected: 2026-04-07T18:36:06.217Z
 estimatedTokens: 376
-keywords: [edit, question, feed, element, best, answer]
+keywords: [edit, question, best, answer]
 ---
-
-# ConnectApi.QuestionAndAnswersCapabilityInput
 
 > Create or edit a question feed element or set the best answer of the
             existing question feed element.

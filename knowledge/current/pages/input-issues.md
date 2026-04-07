@@ -5,12 +5,10 @@ topic: input-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.548Z
+lastCollected: 2026-04-07T18:38:52.855Z
 estimatedTokens: 319
-keywords: [Input, Issues, affect, how, users, enter, selectors, Salesforce, mobile, app]
+keywords: [Issues, affect, how, users, enter, selectors, Salesforce, mobile, app]
 ---
-
-# Input Issues
 
 > Input issues affect how users enter information using input fields and selectors in the
   Salesforce mobile app.

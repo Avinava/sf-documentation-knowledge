@@ -5,12 +5,10 @@ topic: data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.152Z
+lastCollected: 2026-04-07T18:36:19.376Z
 estimatedTokens: 871
-keywords: [Data, Apex, variables, expressions, sObject, primitive]
+keywords: [Apex, variables, expressions, sObject, primitive]
 ---
-
-# Data Types
 
 > In Apex, all variables and expressions have a data type, such as sObject, primitive,
         or enum.

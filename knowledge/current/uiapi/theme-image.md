@@ -5,12 +5,10 @@ topic: theme-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.214Z
+lastCollected: 2026-04-07T18:40:12.221Z
 estimatedTokens: 171
 keywords: [Theme, Image, three, sizes, small, medium, large, Specific, may, change, slightly, code, accordingly]
 ---
-
-# Theme Image
 
 > A theme image at three sizes: small, medium, and large. Specific sizes may change
     slightly, so code accordingly.

@@ -5,12 +5,10 @@ topic: permissionsettabsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:59.275Z
+lastCollected: 2026-04-07T18:39:53.820Z
 estimatedTokens: 247
-keywords: [PermissionSetTabSetting, permission, tab, setting, Requires, View, Setup, query, settings, API, version, 45.0, later]
+keywords: [PermissionSetTabSetting, permission, tab, setting, Requires, View, Setup, query, settings, API, 45.0]
 ---
-
-# PermissionSetTabSetting
 
 > Represents a permission set tab setting. Requires the View Setup
       permission. Use this object to query all tab settings of the permission set. This object

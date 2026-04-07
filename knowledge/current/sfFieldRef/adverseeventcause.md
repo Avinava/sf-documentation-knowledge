@@ -5,12 +5,10 @@ topic: adverseeventcause
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:31.267Z
+lastCollected: 2026-04-07T18:39:25.168Z
 estimatedTokens: 354
-keywords: [AdverseEventCause, entity, suspected, caused, adverse, event, API, version, 61.0, later]
+keywords: [AdverseEventCause, entity, suspected, caused, adverse, event, API, 61.0]
 ---
-
-# AdverseEventCause
 
 > Describes the entity that is suspected to have caused the adverse event.
       This object is available in API version 61.0 and later.

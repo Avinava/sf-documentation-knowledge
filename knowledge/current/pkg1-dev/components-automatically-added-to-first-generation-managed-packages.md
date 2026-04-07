@@ -5,12 +5,10 @@ topic: components-automatically-added-to-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.797Z
+lastCollected: 2026-04-07T18:38:54.175Z
 estimatedTokens: 1845
-keywords: [Components, Automatically, Added, First-Generation, Managed, Packages, adding, package, add, Visualforce, references, custom, controller, Apex]
+keywords: [Automatically, Added, First-Generation, Managed, Packages, adding, package, add, Visualforce, references, controller, Apex]
 ---
-
-# Components Automatically Added to First-Generation Managed Packages
 
 > When adding components to your first-generation managed package, related components are
     automatically added. For example, if you add a Visualforce page to a package that references a

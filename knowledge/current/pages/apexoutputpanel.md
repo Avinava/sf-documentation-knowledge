@@ -5,12 +5,10 @@ topic: apexoutputpanel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.036Z
+lastCollected: 2026-04-07T18:38:50.290Z
 estimatedTokens: 1089
-keywords: [apex, outputPanel, content, grouped, together, rendered, HTML, <span>, tag, <div>, neither, <apex, outputPanel>, group, components]
+keywords: [Attributes, apex, outputPanel, content, grouped, together, rendered, HTML, <span>, tag, <div>, neither, <apex, outputPanel>, group, AJAX, refreshes, Span, Div]
 ---
-
-# apex:outputPanel
 
 > A set of content that is grouped together, rendered with an HTML <span> tag, <div> tag, or neither. Use an <apex:outputPanel> to group components together for AJAX refreshes.
 

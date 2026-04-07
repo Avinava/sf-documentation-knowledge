@@ -5,13 +5,11 @@ topic: summarylayoutitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.287Z
+lastCollected: 2026-04-07T18:36:00.555Z
 estimatedTokens: 1096
 namespace: Metadata
-keywords: [SummaryLayoutItem, appearance, individual, column, row, position, highlights, panel, grid, Case, Feed, enabled, two, per, Usage]
+keywords: [SummaryLayoutItem, appearance, individual, column, row, position, highlights, panel, grid, Case, enabled, two, per, customLink, posX, posY, posZ, clone]
 ---
-
-# SummaryLayoutItem Class
 
 > Controls the appearance of an individual field and its column and row
       position within the highlights panel grid, when Case Feed is enabled. You can have two fields

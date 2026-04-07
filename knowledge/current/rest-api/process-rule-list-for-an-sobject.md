@@ -5,12 +5,10 @@ topic: process-rule-list-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.768Z
+lastCollected: 2026-04-07T18:36:21.006Z
 estimatedTokens: 484
-keywords: [Process, Rule, sObject, Accesses, active, workflow, rules, retrieve, records, HEAD, HTTP]
+keywords: [Process, Rule, sObject, Accesses, active, workflow, retrieve, records, HEAD, HTTP]
 ---
-
-# Process Rule List for an sObject
 
 > Accesses a list of all active workflow rules for an sObject. Use the GET method to
         retrieve records or fields. Use the HEAD method to retrieve information in HTTP

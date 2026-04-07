@@ -5,12 +5,10 @@ topic: giftdesignation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.145Z
+lastCollected: 2026-04-07T18:37:30.209Z
 estimatedTokens: 2140
-keywords: [GiftDesignation, designation, assigned, gift, transaction, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftDesignation, designation, assigned, gift, transaction, API, 59.0]
 ---
-
-# GiftDesignation
 
 > Represents a designation that can be assigned to a gift transaction.
       This object is available in API version 59.0 and later.

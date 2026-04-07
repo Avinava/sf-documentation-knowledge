@@ -5,12 +5,10 @@ topic: lightningomnichannelstatuschanged
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.965Z
+lastCollected: 2026-04-07T18:36:49.036Z
 estimatedTokens: 303
 keywords: [lightning, omniChannelStatusChanged, agent, changed, presence, status, Omni-Channel, channel]
 ---
-
-# lightning:omniChannelStatusChanged
 
 > Indicates that an agent has changed his or her
             presence status in Omni-Channel.

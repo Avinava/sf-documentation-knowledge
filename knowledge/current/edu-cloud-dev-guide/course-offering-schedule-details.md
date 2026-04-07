@@ -5,12 +5,10 @@ topic: course-offering-schedule-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.360Z
+lastCollected: 2026-04-07T18:37:29.450Z
 estimatedTokens: 189
-keywords: [Course, Offering, Schedule, Output, representation, includes, unique, success, status, any, errors, encountered]
+keywords: [Course, Offering, Schedule, includes, unique, success, status, any, errors, encountered]
 ---
-
-# Course Offering Schedule Details
 
 > Output representation that contains details about each course offering schedule. It
     includes the unique ID of the schedule, its success status, and any errors

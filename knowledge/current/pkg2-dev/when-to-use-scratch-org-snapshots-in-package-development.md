@@ -5,12 +5,10 @@ topic: when-to-use-scratch-org-snapshots-in-package-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.681Z
+lastCollected: 2026-04-07T18:38:55.101Z
 estimatedTokens: 788
-keywords: [Scratch, Org, Snapshots, Package, Development, managed, 2GP, unlocked, you’re, building, depends, large, packages, take, long]
+keywords: [Scratch, Org, Snapshots, Package, Development, managed, 2GP, unlocked, you’re, building, depends, large, packages, take, long, time, creation, CLI, command, Let’s, talk, why, occurs, how, dramatically, reduce, new]
 ---
-
-# When to Use Scratch Org Snapshots in Package Development
 
 > If the managed 2GP or unlocked package that you’re building depends on one or more large
   packages, it can take a long time for the package version creation CLI command to complete. Let’s

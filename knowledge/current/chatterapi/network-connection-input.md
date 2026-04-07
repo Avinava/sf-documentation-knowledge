@@ -5,12 +5,10 @@ topic: network-connection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.406Z
+lastCollected: 2026-04-07T18:37:09.175Z
 estimatedTokens: 137
-keywords: [Network, Connection, Input]
+keywords: [Network, Connection]
 ---
-
-# Network Connection Input
 
 > Network connection input.
 

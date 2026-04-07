@@ -5,12 +5,10 @@ topic: introduction-to-programmatic-marketing-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.122Z
+lastCollected: 2026-04-07T18:40:22.518Z
 estimatedTokens: 1067
-keywords: [Introduction, Programmatic, Marketing, Content, Cloud, scripting, languages, allow, personalize, landing, pages, applications, construct, cross-channel, templates]
+keywords: [Introduction, Programmatic, Marketing, Content, Cloud, scripting, languages, allow, personalize, landing, pages, applications, construct, cross-channel, templates, layouts, work, messaging, functions, platform, AMPscript, Server-Side, JavaScript, SSJS, Template, Language, GTL, Items]
 ---
-
-# Introduction to Programmatic Marketing Content
 
 > Marketing Cloud scripting languages allow you to personalize landing pages, create applications, construct cross-channel templates/layouts, and work with messaging functions on the Marketing Cloud platform.
 

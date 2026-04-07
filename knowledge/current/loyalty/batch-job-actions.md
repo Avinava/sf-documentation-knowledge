@@ -5,12 +5,10 @@ topic: batch-job-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.931Z
+lastCollected: 2026-04-07T18:38:07.142Z
 estimatedTokens: 343
-keywords: [Batch, Job, Actions, Run, active, Management, definition, action, executes, defined, asynchronously, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Batch, Job, Actions, Run, active, Management, definition, action, executes, defined, asynchronously, REST, HTTP]
 ---
-
-# Batch Job Actions
 
 > Run an active Batch Management job definition. This action executes a
    defined Batch Management job asynchronously.

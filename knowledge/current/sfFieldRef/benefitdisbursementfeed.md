@@ -5,12 +5,10 @@ topic: benefitdisbursementfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.057Z
+lastCollected: 2026-04-07T18:39:29.168Z
 estimatedTokens: 362
-keywords: [BenefitDisbursementFeed, Feed, tracking, BenefitDisbursement]
+keywords: [BenefitDisbursementFeed, BenefitDisbursement]
 ---
-
-# BenefitDisbursementFeed
 
 > Feed tracking for BenefitDisbursement.
 

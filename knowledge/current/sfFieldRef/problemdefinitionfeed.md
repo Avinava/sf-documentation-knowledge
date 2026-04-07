@@ -5,12 +5,10 @@ topic: problemdefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.354Z
+lastCollected: 2026-04-07T18:39:54.918Z
 estimatedTokens: 361
-keywords: [ProblemDefinitionFeed, Feed, tracking, ProblemDefinition]
+keywords: [ProblemDefinitionFeed, ProblemDefinition]
 ---
-
-# ProblemDefinitionFeed
 
 > Feed tracking for ProblemDefinition.
 

@@ -5,12 +5,10 @@ topic: referencing-the-canvas-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.495Z
+lastCollected: 2026-04-07T18:38:57.286Z
 estimatedTokens: 307
 keywords: [Referencing, Canvas, SDK, ability, Salesforce, server, useful, want, include, files, Web, app, Visualforce]
 ---
-
-# Referencing the Canvas SDK
 
 > The ability to reference the SDK on the Salesforce server is useful when you want to
          include one of the SDK files in a Web app or from a Visualforce page.

@@ -5,12 +5,10 @@ topic: cgcloudworkflowc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.180Z
+lastCollected: 2026-04-07T18:39:15.691Z
 estimatedTokens: 1356
-keywords: [cgcloud__Workflow__c, Stores, attributes, workflow, API, version, 54.0, later, cgcloud, _Workflow, Calls, Associated, Objects]
+keywords: [cgcloud__Workflow__c, Stores, attributes, workflow, API, 54.0, cgcloud, _Workflow]
 ---
-
-# cgcloud__Workflow__c
 
 > Stores the attributes of the workflow. This object is available
       in API version 54.0 and later.

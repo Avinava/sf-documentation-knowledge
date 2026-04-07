@@ -5,12 +5,10 @@ topic: warrantytermcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.362Z
+lastCollected: 2026-04-07T18:38:14.770Z
 estimatedTokens: 524
-keywords: [WarrantyTermCoverage, junction, warranty, term, coverage, product, codeset, repair, code, labor, API, version, 58.0, later, Calls]
+keywords: [WarrantyTermCoverage, junction, warranty, term, coverage, product, codeset, repair, code, labor, API, 58.0]
 ---
-
-# WarrantyTermCoverage
 
 > Represents a junction between the warranty term coverage and a
          product or codeset, such as the repair code or labor code. This object is available in

@@ -5,12 +5,10 @@ topic: system-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.537Z
+lastCollected: 2026-04-07T18:36:35.004Z
 estimatedTokens: 475
-keywords: [System, system-generated, They, Tooling, API, objects, read-only]
+keywords: [System, system-generated, They, Tooling, API, read-only]
 ---
-
-# System Fields
 
 > Some fields are system-generated. They are on most Tooling API objects, and are
     read-only.

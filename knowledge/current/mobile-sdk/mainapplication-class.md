@@ -5,12 +5,10 @@ topic: mainapplication-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.683Z
+lastCollected: 2026-04-07T18:40:25.080Z
 estimatedTokens: 264
 keywords: [MainApplication, Every, native, Android, app, requires, instance, android.app.Application, accomplishes, basic, tasks]
 ---
-
-# MainApplication Class
 
 > Every native Android app requires an instance of android.app.Application. The MainApplication class accomplishes these basic
 			tasks:

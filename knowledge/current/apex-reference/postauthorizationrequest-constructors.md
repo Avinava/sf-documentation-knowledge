@@ -6,13 +6,10 @@ topic: postauthorizationrequest-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:18.932Z
+lastCollected: 2026-04-07T18:36:04.147Z
 estimatedTokens: 119
 keywords: [PostAuthorizationRequest, postauthorization, requests]
 ---
-
-# PostAuthorizationRequest
-      Constructors
 
 > Lists the constructors for postauthorization requests.
 

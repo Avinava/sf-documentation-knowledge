@@ -5,12 +5,10 @@ topic: clinicalencounterfacilityfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.766Z
+lastCollected: 2026-04-07T18:39:34.193Z
 estimatedTokens: 365
-keywords: [ClinicalEncounterFacilityFeed, Feed, tracking, ClinicalEncounterFacility]
+keywords: [ClinicalEncounterFacilityFeed, ClinicalEncounterFacility]
 ---
-
-# ClinicalEncounterFacilityFeed
 
 > Feed tracking for ClinicalEncounterFacility.
 

@@ -5,12 +5,10 @@ topic: content-taxonomy-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.102Z
+lastCollected: 2026-04-07T18:37:13.032Z
 estimatedTokens: 128
 keywords: [Content, Taxonomy, Resources, search, terms]
 ---
-
-# Content Taxonomy Resources
 
 > Create, get, update, delete, and search content taxonomy terms.
 

@@ -5,12 +5,10 @@ topic: loyaltymembercurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.751Z
+lastCollected: 2026-04-07T18:39:47.221Z
 estimatedTokens: 606
 keywords: [LoyaltyMemberCurrency, point, balance, member, particular, currency]
 ---
-
-# LoyaltyMemberCurrency
 
 > Represents the information about point balance for a member and a particular
       currency.

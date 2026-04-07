@@ -5,12 +5,10 @@ topic: creating-a-canvas-app-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.124Z
+lastCollected: 2026-04-07T18:38:56.837Z
 estimatedTokens: 126
 keywords: [Creating, Canvas, App, Event, code, how, call, publish, you’re, prefaced, namespace.eventName]
 ---
-
-# Creating a Canvas App Event
 
 > The following code example shows how to call the publish method to create a canvas app
 event. If you’re using a namespace, the event name must be

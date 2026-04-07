@@ -5,12 +5,10 @@ topic: templates-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.895Z
+lastCollected: 2026-04-07T18:36:56.446Z
 estimatedTokens: 573
-keywords: [Templates, Resource, Analytics, creates, template, URL, Formats, Version, Postman, Components, HTTP, POST]
+keywords: [Formats, Templates, Resource, Analytics, creates, template, URL, Postman, HTTP, POST]
 ---
-
-# Templates List Resource
 
 > Returns a list of Analytics templates, or creates a
     template.

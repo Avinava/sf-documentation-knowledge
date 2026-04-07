@@ -5,12 +5,10 @@ topic: submit-cancel-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.105Z
+lastCollected: 2026-04-07T18:37:23.221Z
 estimatedTokens: 219
-keywords: [Submit, Cancel, Output, change, order, created, action, financial]
+keywords: [Submit, Cancel, change, order, created, action, financial]
 ---
-
-# Submit Cancel Output
 
 > ID of the change order created for a cancel action, and a set of its
       financial values.

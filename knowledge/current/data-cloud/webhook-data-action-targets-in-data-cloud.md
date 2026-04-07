@@ -5,12 +5,10 @@ topic: webhook-data-action-targets-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.988Z
+lastCollected: 2026-04-07T18:35:51.824Z
 estimatedTokens: 608
-keywords: [Webhook, Data, Action, Targets, Cloud, Send, event, target, protect, message, integrity, Salesforce-generated, secret, key, HTTP]
+keywords: [Webhook, Action, Targets, Cloud, Send, event, target, protect, message, integrity, Salesforce-generated, secret, key, HTTP, that’s, triggered, source, system, sent, destination, payload, event-driven, rather, request-driven, Webhooks, automatically, validates, requests, Salesforce]
 ---
-
-# Webhook Data Action Targets in Data Cloud
 
 > Send a Data Cloud data action event to a webhook target and protect the
     message integrity with a Salesforce-generated secret key. A webhook is a type of HTTP request

@@ -5,13 +5,11 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:59.042Z
+lastCollected: 2026-04-07T18:39:53.578Z
 estimatedTokens: 19019
 namespace: NamespacePrefix
-keywords: [PermissionSet, permissions, that’s, grant, access, users, changing, their, profile, reassigning, profiles, API, version, 22.0, later]
+keywords: [PermissionSet, permissions, that’s, grant, users, changing, their, profile, reassigning, profiles, API, 22.0]
 ---
-
-# PermissionSet
 
 > Represents a set of permissions that’s used to grant more
       access to one or more users without changing their profile or reassigning profiles. This object is available in API version 22.0 and later.

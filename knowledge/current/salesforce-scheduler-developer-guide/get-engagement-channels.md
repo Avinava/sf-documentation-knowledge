@@ -5,12 +5,10 @@ topic: get-engagement-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.419Z
+lastCollected: 2026-04-07T18:39:21.233Z
 estimatedTokens: 649
 keywords: [Engagement, Channels, channel, medium, Phone, Video, Person, service, resources, meet, customers]
 ---
-
-# Get Engagement Channels
 
 > An engagement channel is a medium, such as Phone, Video, and In Person that service
       resources use to meet customers.

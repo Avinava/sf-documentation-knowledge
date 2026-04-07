@@ -5,12 +5,10 @@ topic: detecting-data-changes-with-change-handlers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.240Z
+lastCollected: 2026-04-07T18:38:04.374Z
 estimatedTokens: 317
-keywords: [Detecting, Data, Changes, Change, Handlers, Configure, component, automatically, invoke, handler, client-side, controller, action, component's, attributes]
+keywords: [Detecting, Changes, Change, Handlers, Configure, automatically, invoke, handler, client-side, controller, action, component's, attributes]
 ---
-
-# Detecting Data Changes with Change Handlers
 
 > Configure a component to automatically invoke a change handler, which is a
         client-side controller action, when a value in one of the component's attributes changes.

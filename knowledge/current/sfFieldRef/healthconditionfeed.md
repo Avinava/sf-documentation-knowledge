@@ -5,12 +5,10 @@ topic: healthconditionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.817Z
+lastCollected: 2026-04-07T18:39:43.429Z
 estimatedTokens: 360
-keywords: [HealthConditionFeed, Feed, tracking, HealthCondition]
+keywords: [HealthConditionFeed, HealthCondition]
 ---
-
-# HealthConditionFeed
 
 > Feed tracking for HealthCondition.
 

@@ -5,12 +5,10 @@ topic: group-chatter-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.584Z
+lastCollected: 2026-04-07T18:37:19.733Z
 estimatedTokens: 172
 keywords: [Group, Chatter, Settings, user’s, specific]
 ---
-
-# Group Chatter Settings
 
 > A user’s Chatter settings for a specific group.
 

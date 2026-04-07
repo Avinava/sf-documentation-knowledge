@@ -5,12 +5,10 @@ topic: apexpages-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.239Z
+lastCollected: 2026-04-07T18:38:48.198Z
 estimatedTokens: 273
 keywords: [ApexPages, instance]
 ---
-
-# ApexPages Methods
 
 > The following are methods for ApexPages. All are instance methods.
 

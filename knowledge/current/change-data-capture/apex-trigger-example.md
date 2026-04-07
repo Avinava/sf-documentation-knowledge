@@ -5,12 +5,10 @@ topic: apex-trigger-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.877Z
+lastCollected: 2026-04-07T18:37:05.583Z
 estimatedTokens: 427
 keywords: [Apex, Trigger, sample, demonstrates, common, change, event, triggers, complex, quick, start, Predict, Account, Status]
 ---
-
-# Apex Trigger Example
 
 > This sample trigger demonstrates a common use for change event triggers and provides
         a more complex trigger example than the quick start.

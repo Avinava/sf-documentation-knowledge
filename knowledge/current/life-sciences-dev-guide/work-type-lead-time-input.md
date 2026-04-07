@@ -5,12 +5,10 @@ topic: work-type-lead-time-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.005Z
+lastCollected: 2026-04-07T18:37:55.415Z
 estimatedTokens: 170
-keywords: [Work, Lead, Time, Input, representation, their, associated, times]
+keywords: [Work, Lead, Time, their, times]
 ---
-
-# Work Type Lead Time Input
 
 > Input representation of the request to get a list of work types and their associated lead
     times.

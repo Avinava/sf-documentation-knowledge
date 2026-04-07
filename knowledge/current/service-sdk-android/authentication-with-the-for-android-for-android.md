@@ -6,13 +6,10 @@ topic: authentication-with-the-for-android-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.454Z
+lastCollected: 2026-04-07T18:40:27.618Z
 estimatedTokens: 737
-keywords: [Authentication, Android, Service, Chat, SDK, mechanism, users, access, user-specific, Cloud, authenticate, implement, two, interfaces, provide]
+keywords: [Authentication, Android, Service, Chat, SDK, mechanism, users, user-specific, Cloud, authenticate, implement, two, interfaces, provide, token]
 ---
-
-# Authentication with the  for Android for
-      Android
 
 > The Service Chat SDK provides an authentication mechanism that allows your users
     to access user-specific information in Service Cloud.  To authenticate, implement two interfaces

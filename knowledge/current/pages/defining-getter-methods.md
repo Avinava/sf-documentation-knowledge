@@ -5,13 +5,11 @@ topic: defining-getter-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.670Z
+lastCollected: 2026-04-07T18:38:51.974Z
 estimatedTokens: 717
 namespace: ApexPages
-keywords: [Defining, Getter, primary, tasks, Visualforce, controller, give, developers, way, displaying, database, computed, markup, enable, functionality]
+keywords: [Defining, Getter, primary, tasks, Visualforce, controller, give, developers, way, displaying, database, computed, markup, enable, functionality, typically, named, getIdentifier, Identifier]
 ---
-
-# Defining Getter Methods
 
 > One of the primary tasks for a Visualforce controller class is to give developers a way of displaying database
 and other computed values in page markup. Methods that enable this

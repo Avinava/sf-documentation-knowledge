@@ -5,12 +5,10 @@ topic: amazon-connect-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.608Z
+lastCollected: 2026-04-07T18:40:12.590Z
 estimatedTokens: 1427
-keywords: [Amazon, Connect, Flows, flow, depicts, customer’s, voice, call, journey, beginning, end, Configure, Service, Cloud, contact]
+keywords: [Amazon, Connect, Flows, flow, depicts, customer’s, voice, call, journey, beginning, end, Configure, Service, Cloud, contact, center, determine, how, Salesforce, handles, inbound, outbound, transfers]
 ---
-
-# Amazon Connect Flows
 
 > An Amazon Connect flow depicts a customer’s voice call journey from beginning to end.
     Configure Service Cloud Voice flows for your contact center to determine how Salesforce handles

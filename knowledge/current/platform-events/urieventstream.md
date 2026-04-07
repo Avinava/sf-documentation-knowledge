@@ -5,12 +5,10 @@ topic: urieventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.968Z
+lastCollected: 2026-04-07T18:38:59.913Z
 estimatedTokens: 1833
-keywords: [UriEventStream, Detects, user, creates, accesses, updates, deletes, record, Salesforce, Classic, Doesn't, detect, operations, Visualforce, views]
+keywords: [UriEventStream, Detects, user, creates, accesses, updates, deletes, record, Salesforce, Classic, Doesn't, detect, operations, Visualforce, views, API, 46.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# UriEventStream
 
 > Detects when a user creates, accesses, updates, or deletes a record in
 			Salesforce Classic only. Doesn't detect record operations done through a Visualforce

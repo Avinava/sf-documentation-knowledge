@@ -5,12 +5,10 @@ topic: create-a-beta-version-of-your-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.015Z
+lastCollected: 2026-04-07T18:38:54.428Z
 estimatedTokens: 638
-keywords: [Beta, Version, App, Test, scratch, org, share, evaluation, creating]
+keywords: [Beta, App, Test, scratch, org, share, evaluation, creating]
 ---
-
-# Create a Beta Version of Your App
 
 > Test your app in a scratch org, or share the app for evaluation by creating a beta
   version.

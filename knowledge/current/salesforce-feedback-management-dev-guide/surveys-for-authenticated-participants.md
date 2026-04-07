@@ -5,12 +5,10 @@ topic: surveys-for-authenticated-participants
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.559Z
+lastCollected: 2026-04-07T18:39:17.197Z
 estimatedTokens: 321
 keywords: [Surveys, Authenticated, Participants, Salesforce, Feedback, Management, SFM, APIs, survey, invitations, enable, responses]
 ---
-
-# Surveys for Authenticated Participants
 
 > Use Salesforce Feedback Management (SFM) Response APIs to create survey invitations and
     to enable survey responses from authenticated participants.

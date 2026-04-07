@@ -5,12 +5,10 @@ topic: commerceentitlementpolicyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.218Z
+lastCollected: 2026-04-07T18:39:34.670Z
 estimatedTokens: 303
-keywords: [CommerceEntitlementPolicyFeed, Feed, tracking, CommerceEntitlementPolicy]
+keywords: [CommerceEntitlementPolicyFeed, CommerceEntitlementPolicy]
 ---
-
-# CommerceEntitlementPolicyFeed
 
 > Feed tracking for CommerceEntitlementPolicy.
 

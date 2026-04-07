@@ -5,12 +5,10 @@ topic: education-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.720Z
+lastCollected: 2026-04-07T18:37:29.798Z
 estimatedTokens: 6101
-keywords: [Education, Cloud, Standard, Objects]
+keywords: [Education, Cloud, Standard]
 ---
-
-# Education Cloud Standard Objects
 
 > This section lists standard objects available for use with Education Cloud.
 

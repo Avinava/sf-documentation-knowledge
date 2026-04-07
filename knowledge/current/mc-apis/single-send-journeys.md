@@ -5,12 +5,10 @@ topic: single-send-journeys
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.089Z
+lastCollected: 2026-04-07T18:40:20.317Z
 estimatedTokens: 507
 keywords: [Single-Send, Journeys, There, two, Journey, Builder, Specification]
 ---
-
-# Single-Send Journeys
 
 > There are two types of Journey Builder sends:
 

@@ -5,12 +5,10 @@ topic: blocks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.485Z
+lastCollected: 2026-04-07T18:40:15.581Z
 estimatedTokens: 681
-keywords: [Blocks, simplest, form, sub-content, asset, their, own, nested, inside, content, design, They, saved, loaded, independently]
+keywords: [Blocks, simplest, form, sub-content, asset, their, own, nested, inside, content, design, They, saved, loaded, independently, Builder, block's, assetType, matches, individual, block, editing, experience, Min, max, allowed, Sample, Items]
 ---
-
-# Blocks
 
 > Blocks are the simplest form of sub-content in an asset. Blocks have their own asset type, can be nested inside an asset, and have their own content and design. They can also be saved or loaded independently in Content Builder. Each block's assetType matches the individual block editing experience.
 

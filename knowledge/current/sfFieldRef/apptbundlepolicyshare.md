@@ -5,12 +5,10 @@ topic: apptbundlepolicyshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.002Z
+lastCollected: 2026-04-07T18:39:26.966Z
 estimatedTokens: 251
 keywords: [ApptBundlePolicyShare, Sharing, ApptBundlePolicy]
 ---
-
-# ApptBundlePolicyShare
 
 > Sharing for ApptBundlePolicy.
 

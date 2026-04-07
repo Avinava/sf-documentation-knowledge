@@ -5,12 +5,10 @@ topic: giftdesignationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.017Z
+lastCollected: 2026-04-07T18:39:42.653Z
 estimatedTokens: 388
-keywords: [GiftDesignationFeed, Feed, tracking, GiftDesignation]
+keywords: [GiftDesignationFeed, GiftDesignation]
 ---
-
-# GiftDesignationFeed
 
 > Feed tracking for GiftDesignation.
 

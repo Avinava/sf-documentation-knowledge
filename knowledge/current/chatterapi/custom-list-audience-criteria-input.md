@@ -5,12 +5,10 @@ topic: custom-list-audience-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.232Z
+lastCollected: 2026-04-07T18:37:08.034Z
 estimatedTokens: 296
-keywords: [Custom, Audience, Criteria, Input, recommendation]
+keywords: [Audience, Criteria, recommendation]
 ---
-
-# Custom List Audience Criteria Input
 
 > Criteria for the custom list type of custom recommendation
       audience.

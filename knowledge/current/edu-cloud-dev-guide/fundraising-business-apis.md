@@ -5,12 +5,10 @@ topic: fundraising-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:43.339Z
+lastCollected: 2026-04-07T18:37:30.403Z
 estimatedTokens: 868
-keywords: [Fundraising, Business, APIs, access, Salesforce, REST, endpoints, follow, similar, conventions, Connect]
+keywords: [Fundraising, Business, APIs, Salesforce, REST, endpoints, follow, similar, conventions, Connect]
 ---
-
-# Fundraising Business APIs
 
 > You can access Salesforce Fundraising APIs using REST endpoints. These REST APIs follow
     similar conventions as Connect REST APIs.

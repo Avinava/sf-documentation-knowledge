@@ -5,12 +5,10 @@ topic: care-request-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.637Z
+lastCollected: 2026-04-07T18:37:54.952Z
 estimatedTokens: 2481
-keywords: [Care, Item, Input, service, including, modifiers, effective, date, requests, associated]
+keywords: [Care, Item, service, including, modifiers, effective, date, requests]
 ---
-
-# Care Request Item Input
 
 > The details of a care service request, including name, modifiers,
       and the effective date. One or more care service requests can be associated with a care

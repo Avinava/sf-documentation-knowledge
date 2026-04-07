@@ -5,12 +5,10 @@ topic: session-hijacking
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.835Z
+lastCollected: 2026-04-07T18:39:22.741Z
 estimatedTokens: 941
-keywords: [Session, Hijacking, customer-focused, attack, attackers, try, steal, client’s, access, web, application, case, Salesforce, client, successfully]
+keywords: [Session, Hijacking, customer-focused, attack, attackers, try, steal, client’s, web, application, case, Salesforce, client, successfully, authenticates, they, receive, token, attacker, tries, hijack, obtaining, their, How, Detects]
 ---
-
-# Session Hijacking
 
 > Session Hijacking is a customer-focused attack where attackers try to steal information
     from using a client’s access to a web application. In our case, this application is Salesforce.

@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.964Z
+lastCollected: 2026-04-07T18:38:16.521Z
 estimatedTokens: 220
-keywords: [REST, access, Net, Zero, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, Net, Zero, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access Net Zero Cloud Business APIs using REST endpoints. These REST APIs
     follow similar conventions as Connect REST APIs.

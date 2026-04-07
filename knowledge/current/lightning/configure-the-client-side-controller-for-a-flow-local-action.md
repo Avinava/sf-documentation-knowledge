@@ -5,12 +5,10 @@ topic: configure-the-client-side-controller-for-a-flow-local-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.980Z
+lastCollected: 2026-04-07T18:38:02.939Z
 estimatedTokens: 553
-keywords: [Configure, Client-Side, Controller, Flow, Local, Action, component, executed, calls, invoke, run, code, asynchronously, you're, making]
+keywords: [Configure, Client-Side, Controller, Flow, Local, Action, executed, invoke, run, code, asynchronously, you're, making, XML, HTTP, XHR, Promise, finishes, fulfilled, control, back, Asynchronous, Synchronous]
 ---
-
-# Configure the Client-Side Controller for a Flow Local Action
 
 > When a component is executed as a flow local action, the flow calls the invoke method in the client-side controller. To run the code
       asynchronously in your client-side controller, such as when you're making an XML HTTP request

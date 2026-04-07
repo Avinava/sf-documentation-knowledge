@@ -5,12 +5,10 @@ topic: identity-verification-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.500Z
+lastCollected: 2026-04-07T18:39:03.685Z
 estimatedTokens: 244
-keywords: [Identity, Verification, Data, Model, configuring, process, verify, caller, their, requests, processed, call, center, agent]
+keywords: [Identity, Verification, Model, configuring, process, verify, caller, their, requests, processed, call, center, agent]
 ---
-
-# Identity Verification Data Model
 
 > The Identity Verification data model is used in configuring the process to verify the
     identity of a caller before their requests are processed by a call center agent.

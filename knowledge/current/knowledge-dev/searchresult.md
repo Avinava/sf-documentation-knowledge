@@ -5,12 +5,10 @@ topic: searchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.034Z
+lastCollected: 2026-04-07T18:37:54.335Z
 estimatedTokens: 966
-keywords: [SearchResult, search, call, SearchRecord, SearchRecordMetadata, SearchSnippet, WholeFields, SearchResultsMetadata, EntitySearchMetadata, FieldLevelSearchMetadata, EntitySearchPromotionMetadata, EntitySpellCorrectionMetadata]
+keywords: [SearchResult, SearchRecord, SearchRecordMetadata, SearchSnippet, WholeFields, SearchResultsMetadata, EntitySearchMetadata, FieldLevelSearchMetadata, EntitySearchPromotionMetadata, EntitySpellCorrectionMetadata, search, call]
 ---
-
-# SearchResult
 
 > The search() call returns a SearchResult
   object.

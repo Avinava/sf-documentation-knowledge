@@ -5,12 +5,10 @@ topic: getmaxcapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.205Z
+lastCollected: 2026-04-07T18:36:49.273Z
 estimatedTokens: 197
-keywords: [getMaxCapacity, maximum, chat, capacity, current, agent, agent's, assigned, configuration, API, version, 29.0, later, Arguments, Sample]
+keywords: [Arguments, getMaxCapacity, maximum, chat, capacity, current, agent, agent's, assigned, configuration, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# getMaxCapacity()
 
 > Returns the maximum chat capacity for the current agent, as specified in the agent's
         assigned agent configuration. Available in API version 29.0 or

@@ -5,12 +5,10 @@ topic: connect-your-solution-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.137Z
+lastCollected: 2026-04-07T18:38:45.990Z
 estimatedTokens: 463
-keywords: [Connect, Solution, AppExchange, Partner, Console, add, listing, you're, prompted, enter, depends, Salesforce, managed, package, provide]
+keywords: [Connect, Solution, AppExchange, Partner, Console, add, listing, you're, prompted, enter, depends, Salesforce, managed, package, provide, login, credentials, Dev, Hub, packaging, org, API, Tableau, Accelerators, URL]
 ---
-
-# Connect Your Solution to the AppExchange Partner Console
 
 > To add a solution to an AppExchange listing, first connect the solution to the Partner
     Console. When you connect a solution, the information you're prompted to enter depends on the

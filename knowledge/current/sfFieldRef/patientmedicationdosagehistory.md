@@ -5,12 +5,10 @@ topic: patientmedicationdosagehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.280Z
+lastCollected: 2026-04-07T18:39:52.775Z
 estimatedTokens: 274
-keywords: [PatientMedicationDosageHistory, History, tracked, PatientMedicationDosage]
+keywords: [PatientMedicationDosageHistory, tracked, PatientMedicationDosage]
 ---
-
-# PatientMedicationDosageHistory
 
 > History for tracked fields of PatientMedicationDosage.
 

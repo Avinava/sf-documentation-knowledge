@@ -5,12 +5,10 @@ topic: ocrsampledocumentfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.977Z
+lastCollected: 2026-04-07T18:39:04.071Z
 estimatedTokens: 954
-keywords: [OcrSampleDocumentField, document, whose, extracted, mapped, Salesforce, API, version, 55.0, later, Calls, SOAP, REST, Special, Access]
+keywords: [OcrSampleDocumentField, document, whose, extracted, mapped, Salesforce, API, 55.0, SOAP, REST]
 ---
-
-# OcrSampleDocumentField
 
 > Represents the details of the field in a document whose value is
             extracted and mapped to a Salesforce object field. This object is available in API

@@ -5,12 +5,10 @@ topic: user-id-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.784Z
+lastCollected: 2026-04-07T18:37:10.478Z
 estimatedTokens: 128
-keywords: [User, Collection, Input, IDs]
+keywords: [User, Collection, IDs]
 ---
-
-# User ID Collection Input
 
 > A collection of user IDs.
 

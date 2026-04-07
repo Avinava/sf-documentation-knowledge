@@ -5,12 +5,10 @@ topic: blngbillingschedulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.865Z
+lastCollected: 2026-04-07T18:37:04.491Z
 estimatedTokens: 1105
-keywords: [blng__BillingSchedule__c, order, product, that's, invoiced, invoice, plan, billing, frequency, blng, _BillingSchedule, Calls]
+keywords: [blng__BillingSchedule__c, order, product, that's, invoiced, invoice, plan, billing, frequency, blng, _BillingSchedule]
 ---
-
-# blng__BillingSchedule__c
 
 > Represents information about the order product that's invoiced based on the
          invoice plan billing frequency.

@@ -5,12 +5,10 @@ topic: delete-pushv1applicationappidkeykey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.431Z
+lastCollected: 2026-04-07T18:40:16.572Z
 estimatedTokens: 217
-keywords: [push, application, appId, key, Deletes, custom, associated, app, **Overview**, Usage]
+keywords: [push, application, appId, key, Deletes, app, **Overview**]
 ---
-
-# DELETE /push/v1/application/{appId}/key/{key}
 
 > Deletes a single custom key value associated with an app.
 

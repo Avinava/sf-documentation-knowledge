@@ -5,12 +5,10 @@ topic: fields-on-actionplantemplateitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.590Z
+lastCollected: 2026-04-07T18:37:57.089Z
 estimatedTokens: 145
 keywords: [ActionPlanTemplateItem, Life, Sciences, Cloud, extend, standard, support, integration, external, systems, commonly, Key, Account, Management]
 ---
-
-# Fields on ActionPlanTemplateItem
 
 > Life Sciences Cloud fields extend the standard ActionPlanTemplateItem object to support
     integration with external systems, commonly used for Key Account Management.

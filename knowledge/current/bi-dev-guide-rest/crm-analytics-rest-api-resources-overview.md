@@ -5,12 +5,10 @@ topic: crm-analytics-rest-api-resources-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:11.727Z
+lastCollected: 2026-04-07T18:36:58.286Z
 estimatedTokens: 743
-keywords: [CRM, Analytics, REST, API, Resources, access, data, Org, Identifiers, General, Filtering, Responses]
+keywords: [CRM, Analytics, REST, API, Resources, Org, Identifiers, General, Filtering, Responses]
 ---
-
-# CRM Analytics REST API Resources Overview
 
 > The CRM Analytics REST API provides resources so you can access your CRM Analytics
     data.

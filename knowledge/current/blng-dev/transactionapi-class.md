@@ -5,12 +5,10 @@ topic: transactionapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.766Z
+lastCollected: 2026-04-07T18:37:03.333Z
 estimatedTokens: 3119
-keywords: [TransactionAPI, includes, several, payment, features, generateToken, mapOfTransactionParameterById, authorizeTransaction, captureTransaction, captureInputParameters, chargeTransaction, getPaymentStatus, voidTransaction, refundTransaction, nonReferredRefund]
+keywords: [TransactionAPI, includes, several, payment, features, generateToken, mapOfTransactionParameterById, authorizeTransaction, captureTransaction, captureInputParameters, chargeTransaction, getPaymentStatus, voidTransaction, refundTransaction, nonReferredRefund, voidRefundTransaction, getRefundStatus, voidTokenTransaction, refundPayment, listofRefundParameters, resetInvoiceCorrectiveAction, invoices, validateRefundTransactionId, transactionId, invoiceID]
 ---
-
-# TransactionAPI Class
 
 > The TransactionAPI class includes global methods for several payment
       features.

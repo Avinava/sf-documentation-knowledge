@@ -5,12 +5,10 @@ topic: automationactivityinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.400Z
+lastCollected: 2026-04-07T18:40:15.483Z
 estimatedTokens: 773
 keywords: [AutomationActivityInstance, specific, instance, activity, automation, Studio, account]
 ---
-
-# AutomationActivityInstance
 
 > The AutomationActivityInstance object defines the specific instance of an activity using an automation in Automation Studio for an account.
 

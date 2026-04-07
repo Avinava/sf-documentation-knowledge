@@ -5,12 +5,10 @@ topic: managed-social-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.457Z
+lastCollected: 2026-04-07T18:37:14.418Z
 estimatedTokens: 99
 keywords: [Managed, Social, Account, org, assigned, user, describing, fan, network]
 ---
-
-# Managed Social Account
 
 > Information describing the managed social account or fan page of a
       social network.

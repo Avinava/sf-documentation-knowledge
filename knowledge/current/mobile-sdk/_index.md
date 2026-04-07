@@ -2,7 +2,7 @@
 domain: mobile-sdk
 name: Mobile SDK Development Guide
 documentCount: 409
-lastGenerated: 2026-04-07T09:06:39.574Z
+lastGenerated: 2026-04-07T18:40:44.776Z
 ---
 
 # Mobile SDK Development Guide — Knowledge Index
@@ -175,7 +175,7 @@ data loss  |
   iOS provides extensive options for customizing the style and be |
 | [dark-mode-and-dark-theme-settings.md](./dark-mode-and-dark-theme-settings.md) | Dark Mode and Dark Theme Settings | api-reference | Dark color schemes have recently become popular in user interfaces because they
  |
-| [date-representation.md](./date-representation.md) | Date Representation | developer-guide | Date, Representation |
+| [date-representation.md](./date-representation.md) | Date Representation | developer-guide | Date |
 | [debug-a-hybrid-app-running-on-an-ios-device.md](./debug-a-hybrid-app-running-on-an-ios-device.md) | Debug a Hybrid App Running on an iOS Device | developer-guide | To debug hybrid apps on real or simulated iOS devices,
             use Safari on |
 | [debugging-a-hybrid-app-on-an-android-device.md](./debugging-a-hybrid-app-on-an-android-device.md) | Debugging a Hybrid App On an Android Device | developer-guide | To debug hybrid apps on Android devices, use Google
@@ -283,7 +283,7 @@ own implemen |
   |
 | [invoking-the-sync-down-method-with-a-custom-target.md](./invoking-the-sync-down-method-with-a-custom-target.md) | Invoking the Sync Down Method with a Custom Target | api-reference | The following example supports both iOS and
               Android: |
-| [invoking-the-sync-up-method-with-a-custom-target.md](./invoking-the-sync-up-method-with-a-custom-target.md) | Invoking the Sync Up Method with a Custom Target | api-reference | Invoking, Sync, Custom |
+| [invoking-the-sync-up-method-with-a-custom-target.md](./invoking-the-sync-up-method-with-a-custom-target.md) | Invoking the Sync Up Method with a Custom Target | api-reference | Invoking, Sync, Target |
 | [ios-apis-removed-in-mobile-sdk-110.md](./ios-apis-removed-in-mobile-sdk-110.md) | iOS APIs Removed in Mobile SDK 11.0 | api-reference | These lists show Mobile SDK objects and
     artifacts for iOS that were removed  |
 | [ios-architecture.md](./ios-architecture.md) | iOS Architecture | developer-guide | If you use forceios to create native apps, CocoaPods incorporates the required m |
@@ -499,7 +499,7 @@ represents a single user account that’s currently authen |
             support the standard object operations offered  |
 | [supported-salesforce-apis.md](./supported-salesforce-apis.md) | Supported Salesforce APIs | api-reference | The RestRequest class provides factory and
         extension methods that wrap S |
-| [supported-versions-of-tools-and-components-for.md](./supported-versions-of-tools-and-components-for.md) | Supported Versions of Tools and Components for | developer-guide | Versions, Tools, Components |
+| [supported-versions-of-tools-and-components-for.md](./supported-versions-of-tools-and-components-for.md) | Supported Versions of Tools and Components for | developer-guide | Android, Hybrid, Versions |
 | [supporting-catalyst-in-mobile-sdk-apps.md](./supporting-catalyst-in-mobile-sdk-apps.md) | Supporting Catalyst in Mobile SDK Apps | concept | Beginning in version 9.1, Mobile SDK adds Catalyst support to its native framewo |
 | [supporting-ipados-in-apps-apps.md](./supporting-ipados-in-apps-apps.md) | Supporting iPadOS in  Apps Apps | api-reference | Mobile SDK 9.0
         enhances the iPad customer experience. Landscape mode now |

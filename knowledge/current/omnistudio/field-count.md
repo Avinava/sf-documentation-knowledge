@@ -5,12 +5,10 @@ topic: field-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.980Z
+lastCollected: 2026-04-07T18:36:39.664Z
 estimatedTokens: 98
-keywords: [Count, whose, fall, outside, expected, trained, data, range, prediction, model]
+keywords: [Count, whose, fall, outside, expected, trained, range, prediction, model]
 ---
-
-# Field Count
 
 > Details of fields whose values fall outside the expected or trained data range for the
     prediction model.

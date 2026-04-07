@@ -5,12 +5,10 @@ topic: integrationproviderdcsnrqmtfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.935Z
+lastCollected: 2026-04-07T18:39:45.495Z
 estimatedTokens: 366
-keywords: [IntegrationProviderDcsnRqmtFeed, Feed, tracking, IntegrationProviderDcsnRqmt]
+keywords: [IntegrationProviderDcsnRqmtFeed, IntegrationProviderDcsnRqmt]
 ---
-
-# IntegrationProviderDcsnRqmtFeed
 
 > Feed tracking for IntegrationProviderDcsnRqmt.
 

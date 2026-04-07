@@ -5,12 +5,10 @@ topic: serviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.274Z
+lastCollected: 2026-04-07T18:38:40.875Z
 estimatedTokens: 1806
-keywords: [ServiceResource, service, technician, crew, Salesforce, Scheduler, agent, Workforce, Engagement, API, version, 38.0, later, Calls, Special]
+keywords: [ServiceResource, service, technician, crew, Salesforce, Scheduler, agent, Workforce, Engagement, API, 38.0]
 ---
-
-# ServiceResource
 
 > Represents a service technician or service crew in Field Service and
 			Salesforce Scheduler, or an agent in Workforce Engagement. This object is available

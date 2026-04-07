@@ -5,12 +5,10 @@ topic: invoicelinehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.195Z
+lastCollected: 2026-04-07T18:39:45.766Z
 estimatedTokens: 258
-keywords: [InvoiceLineHistory, History, tracked, InvoiceLine]
+keywords: [InvoiceLineHistory, tracked, InvoiceLine]
 ---
-
-# InvoiceLineHistory
 
 > History for tracked fields of InvoiceLine.
 

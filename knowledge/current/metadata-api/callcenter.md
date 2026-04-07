@@ -5,12 +5,10 @@ topic: callcenter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.916Z
+lastCollected: 2026-04-07T18:36:23.196Z
 estimatedTokens: 1279
-keywords: [CallCenter, Call, Center, definition, integrate, Salesforce, third-party, computer-telephony, integration, CTI, system, partner, telephony, Contact, Service]
+keywords: [CallCenter, CallCenterSection, CallCenterItem, ContactCenterChannel, Call, Center, definition, integrate, Salesforce, third-party, computer-telephony, integration, CTI, system, partner, telephony, Contact, Service, CCaaS, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample]
 ---
-
-# CallCenter
 
 > Represents the Call Center definition used to integrate Salesforce with
             a third-party computer-telephony integration (CTI) system, a partner telephony system, or partner Contact Center as a Service (CCaaS) system.

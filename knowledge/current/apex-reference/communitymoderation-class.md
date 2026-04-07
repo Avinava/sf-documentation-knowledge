@@ -5,13 +5,11 @@ topic: communitymoderation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.511Z
+lastCollected: 2026-04-07T18:35:57.841Z
 estimatedTokens: 15323
 namespace: ConnectApi
-keywords: [CommunityModeration, Add, moderation, flag, comment, addFlagToComment, communityId, commentId, API, Version, Requires, Chatter, Usage, visibility, addFlagToFeedElement]
+keywords: [CommunityModeration, Add, moderation, flag, comment, addFlagToComment, communityId, commentId, API, Requires, Chatter, visibility, addFlagToFeedElement, feedElementId, getFlagsOnComment, pageSize, pageParam, getFlagsOnFeedElement, removeFlagFromComment, userId, removeFlagFromFeedElement, Retired, addFlagToFeedItem, feedItemId, getFlagsOnFeedItem, removeFlagsOnFeedItem]
 ---
-
-# CommunityModeration Class
 
 > Add a moderation flag of the specified type to a
     comment.

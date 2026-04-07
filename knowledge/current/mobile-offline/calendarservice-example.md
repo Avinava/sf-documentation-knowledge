@@ -5,12 +5,10 @@ topic: calendarservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.202Z
+lastCollected: 2026-04-07T18:38:15.720Z
 estimatedTokens: 262
-keywords: [CalendarService, Here’s, basic, Lightning, web, component, displays, calendar, events, user, perform, calendar-related, functions]
+keywords: [CalendarService, Here’s, basic, Lightning, web, displays, calendar, events, user, perform, calendar-related, functions]
 ---
-
-# CalendarService Example
 
 > Here’s a basic example of a Lightning web component that displays calendar events and
   allows the user to perform basic calendar-related functions.

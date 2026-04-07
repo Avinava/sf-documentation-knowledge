@@ -5,12 +5,10 @@ topic: introduction-to-apex-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.168Z
+lastCollected: 2026-04-07T18:36:18.401Z
 estimatedTokens: 500
-keywords: [Introduction, Apex, REST, expose, external, applications, access, code, application, architecture, defining, @RestResource, annotation, resource, Similarly]
+keywords: [Authentication, Introduction, Apex, REST, expose, external, applications, code, application, architecture, defining, @RestResource, annotation, resource, Similarly, add, annotations, Governor, Limits]
 ---
-
-# Introduction to Apex REST
 
 > You can expose your Apex class and methods so that external applications can access your code
       and your application through the REST architecture. This is done by defining your Apex class

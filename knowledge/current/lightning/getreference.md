@@ -5,12 +5,10 @@ topic: getreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.224Z
+lastCollected: 2026-04-07T18:38:05.420Z
 estimatedTokens: 86
-keywords: [getReference, live, indicated, useful, dynamically, component, requested]
+keywords: [getReference, live, indicated, useful, dynamically, requested]
 ---
-
-# getReference()
 
 > Returns a live reference to the value indicated using property
    syntax. This method is useful when you dynamically create a component.

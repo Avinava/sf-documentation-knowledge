@@ -5,12 +5,10 @@ topic: about-native-html-and-hybrid-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.903Z
+lastCollected: 2026-04-07T18:40:26.218Z
 estimatedTokens: 2026
-keywords: [Native, HTML, Hybrid, Development, Salesforce, Mobile, SDK, gives, options, developing, app, choose, fit, skills, device]
+keywords: [Native, HTML, Hybrid, Development, Salesforce, Mobile, SDK, gives, options, developing, app, choose, fit, skills, device, technology, requirements, goals, schedule, Apps, React, Architecture, Comparison]
 ---
-
-# About Native, HTML, and Hybrid Development
 
 > Salesforce Mobile SDK gives you
   options for developing your app. You can choose the options that fit your development skills,

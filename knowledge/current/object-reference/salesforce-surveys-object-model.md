@@ -5,12 +5,10 @@ topic: salesforce-surveys-object-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.722Z
+lastCollected: 2026-04-07T18:38:40.307Z
 estimatedTokens: 139
-keywords: [Salesforce, Surveys, Model, how, objects, relate, another]
+keywords: [Salesforce, Surveys, Model, how, relate, another]
 ---
-
-# Salesforce Surveys Object Model
 
 > Learn about how Salesforce Surveys objects relate to one another in
    Salesforce.

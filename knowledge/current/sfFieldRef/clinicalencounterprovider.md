@@ -5,12 +5,10 @@ topic: clinicalencounterprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.817Z
+lastCollected: 2026-04-07T18:39:34.247Z
 estimatedTokens: 310
-keywords: [ClinicalEncounterProvider, providers, involved, encounter, child, ClinicalEncounter, API, version, 51.0, later]
+keywords: [ClinicalEncounterProvider, providers, involved, encounter, child, ClinicalEncounter, API, 51.0]
 ---
-
-# ClinicalEncounterProvider
 
 > Represents the providers involved in an encounter. This object is a child
       object of ClinicalEncounter. This object is available in API version 51.0 and later.

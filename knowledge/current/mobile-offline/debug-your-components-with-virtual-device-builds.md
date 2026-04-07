@@ -5,12 +5,10 @@ topic: debug-your-components-with-virtual-device-builds
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.527Z
+lastCollected: 2026-04-07T18:38:15.001Z
 estimatedTokens: 1101
-keywords: [Debug, Components, Virtual, Device, Builds, connect, desktop, browsers, Salesforce, mobile, app, running, devices, Safari, iOS]
+keywords: [Debug, Virtual, Device, Builds, connect, desktop, browsers, Salesforce, mobile, app, running, devices, Safari, iOS, Chrome, Android, developer, tools, view, interact, HTML, markup, step, JavaScript, code, console, logging, error, messages, DevTools]
 ---
-
-# Debug Your Components with Virtual Device Builds
 
 > To debug your components, connect your desktop browsers to the Salesforce mobile app
     running on your virtual devices. Then use Safari (iOS) or Chrome (Android) developer tools to

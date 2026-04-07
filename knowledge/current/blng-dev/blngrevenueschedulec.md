@@ -5,12 +5,10 @@ topic: blngrevenueschedulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.508Z
+lastCollected: 2026-04-07T18:37:04.112Z
 estimatedTokens: 2799
-keywords: [blng__RevenueSchedule__c, review, amount, revenue, already, distributed, remaining, allocated, schedule, associated, transaction, blng, _RevenueSchedule, Calls]
+keywords: [blng__RevenueSchedule__c, review, amount, revenue, already, distributed, remaining, allocated, schedule, transaction, blng, _RevenueSchedule]
 ---
-
-# blng__RevenueSchedule__c
 
 > Represents the fields that you can use to review the amount of
          revenue already distributed and remaining to be allocated. A revenue schedule is associated

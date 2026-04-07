@@ -5,12 +5,10 @@ topic: mfgprogramtemplateitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.675Z
+lastCollected: 2026-04-07T18:38:14.001Z
 estimatedTokens: 566
-keywords: [MfgProgramTemplateItem, transformation, associated, manufacturing, program, template, API, version, 55.0, later, Calls]
+keywords: [MfgProgramTemplateItem, transformation, manufacturing, program, template, API, 55.0]
 ---
-
-# MfgProgramTemplateItem
 
 > Represents information about the transformation type associated with a
          manufacturing program template. This object is available in API version 55.0 and

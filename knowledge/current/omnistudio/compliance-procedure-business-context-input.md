@@ -5,12 +5,10 @@ topic: compliance-procedure-business-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.000Z
+lastCollected: 2026-04-07T18:36:36.521Z
 estimatedTokens: 117
-keywords: [Compliance, Procedure, Business, Context, Input, representation]
+keywords: [Compliance, Procedure, Business, Context]
 ---
-
-# Compliance Procedure Business Context Input
 
 > Input representation of a business context with the parameter name and value.
 

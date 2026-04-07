@@ -5,12 +5,10 @@ topic: organizations-in-xmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.297Z
+lastCollected: 2026-04-07T18:37:02.857Z
 estimatedTokens: 309
-keywords: [Organizations, XMD, datasets, combine, records, multiple, Salesforce, orgs, map, their, URLs, Analytics, uses, mappings, locate]
+keywords: [Organizations, XMD, datasets, combine, records, multiple, Salesforce, orgs, map, their, URLs, Analytics, uses, mappings, locate, record, multi-org, environment, opening, links, performing, actions]
 ---
-
-# Organizations in XMD
 
 > If your datasets combine records from multiple Salesforce orgs, map Salesforce orgs to
     their URLs. Analytics uses these mappings to locate a record in a multi-org environment. The

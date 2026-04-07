@@ -5,12 +5,10 @@ topic: getprimarytabids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.299Z
+lastCollected: 2026-04-07T18:36:49.393Z
 estimatedTokens: 195
-keywords: [getPrimaryTabIds, IDs, open, primary, tabs, API, version, 26.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getPrimaryTabIds, IDs, open, primary, tabs, API, 26.0, Sample, Code–Visualforce]
 ---
-
-# getPrimaryTabIds()
 
 > Returns all of the IDs of open primary tabs. This method is only available in
                 API version 26.0 or later.

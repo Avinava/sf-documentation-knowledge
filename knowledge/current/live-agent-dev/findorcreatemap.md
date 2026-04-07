@@ -5,12 +5,10 @@ topic: findorcreatemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.811Z
+lastCollected: 2026-04-07T18:38:06.046Z
 estimatedTokens: 584
-keywords: [findOrCreate.map, search, records, contain, specific, customer, Usage]
+keywords: [findOrCreate.map, search, records, contain, specific, customer]
 ---
-
-# findOrCreate.map
 
 > Use the findOrCreate.map method to search for or
     create records that contain specific customer details.

@@ -5,12 +5,10 @@ topic: user-recommendations-for-a-specific-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.194Z
+lastCollected: 2026-04-07T18:37:16.248Z
 estimatedTokens: 910
-keywords: [User, Recommendations, Specific, Action, Chatter, custom, context]
+keywords: [User, Recommendations, Specific, Action, Chatter, context]
 ---
-
-# User Recommendations for a Specific Action
 
 > Get the Chatter, custom, and static recommendations
       for the specified action for the context user.

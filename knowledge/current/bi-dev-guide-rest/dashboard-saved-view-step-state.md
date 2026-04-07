@@ -5,12 +5,10 @@ topic: dashboard-saved-view-step-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.453Z
+lastCollected: 2026-04-07T18:36:56.978Z
 estimatedTokens: 98
 keywords: [Dashboard, Saved, View, Step, State, Analytics]
 ---
-
-# Dashboard Saved View Step State
 
 > A step state for the saved view of an Analytics dashboard.
 

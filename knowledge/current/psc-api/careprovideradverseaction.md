@@ -5,12 +5,10 @@ topic: careprovideradverseaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.799Z
+lastCollected: 2026-04-07T18:39:08.033Z
 estimatedTokens: 1637
-keywords: [CareProviderAdverseAction, Captures, adverse, actions, against, provider, malpractice, lawsuits, revoked, licenses, Calls, Special, Access, Rules, Associated]
+keywords: [CareProviderAdverseAction, Captures, adverse, actions, against, provider, malpractice, lawsuits, revoked, licenses]
 ---
-
-# CareProviderAdverseAction
 
 > Captures adverse actions against the provider, such as malpractice
       lawsuits or revoked licenses.

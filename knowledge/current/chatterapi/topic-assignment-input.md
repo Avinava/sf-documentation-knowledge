@@ -5,12 +5,10 @@ topic: topic-assignment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.728Z
+lastCollected: 2026-04-07T18:37:10.423Z
 estimatedTokens: 172
-keywords: [Topic, Assignment, Input, assign, feed, item, record, Administrators, enable, topics, objects, users, add, records]
+keywords: [Topic, Assignment, assign, item, record, Administrators, enable, topics, users, add, records]
 ---
-
-# Topic Assignment Input
 
 > Represents a topic to assign to a feed item or record. Administrators must enable topics
     for objects before users can add topics to records of that object type.

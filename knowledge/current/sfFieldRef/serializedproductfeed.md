@@ -5,12 +5,10 @@ topic: serializedproductfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.419Z
+lastCollected: 2026-04-07T18:40:01.180Z
 estimatedTokens: 361
-keywords: [SerializedProductFeed, Feed, tracking, SerializedProduct]
+keywords: [SerializedProductFeed, SerializedProduct]
 ---
-
-# SerializedProductFeed
 
 > Feed tracking for SerializedProduct.
 

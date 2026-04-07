@@ -5,12 +5,10 @@ topic: add-custom-fonts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.834Z
+lastCollected: 2026-04-07T18:37:33.115Z
 estimatedTokens: 853
-keywords: [Add, Custom, Fonts, uploading, font, file, resource, Alternatively, that’s, hosted, externally, Upload]
+keywords: [Add, Fonts, uploading, font, file, resource, Alternatively, that’s, hosted, externally, Upload]
 ---
-
-# Add Custom Fonts
 
 > You can add custom fonts by uploading the font file as a static resource.
     Alternatively, you can reference a file that’s hosted externally.

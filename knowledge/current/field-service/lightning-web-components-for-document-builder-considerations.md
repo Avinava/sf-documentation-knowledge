@@ -5,12 +5,10 @@ topic: lightning-web-components-for-document-builder-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:00.923Z
+lastCollected: 2026-04-07T18:36:46.777Z
 estimatedTokens: 1707
-keywords: [Lightning, Web, Components, Document, Builder, Considerations, limitations, building, LWCs, feature, including, unsupported, utilities, HTML, APIs]
+keywords: [Lightning, Web, Document, Builder, Considerations, limitations, building, LWCs, feature, including, unsupported, utilities, HTML, APIs, Base, Salesforce, Concepts, Pagination]
 ---
-
-# Lightning Web Components for Document Builder: Considerations
 
 > Considerations and limitations for building Lightning web components (LWCs) for the
         Document Builder feature, including a list of supported and unsupported utilities, HTML

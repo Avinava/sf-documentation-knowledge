@@ -5,12 +5,10 @@ topic: opportunitylineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.144Z
+lastCollected: 2026-04-07T18:39:50.561Z
 estimatedTokens: 476
-keywords: [OpportunityLineItem, opportunity, line, item, member, Product2, products, associated]
+keywords: [OpportunityLineItem, opportunity, line, item, member, Product2, products]
 ---
-
-# OpportunityLineItem
 
 > Represents an opportunity line item, which is a member of the list
 			of Product2 products associated with an Opportunity.

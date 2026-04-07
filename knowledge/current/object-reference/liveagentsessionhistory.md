@@ -5,12 +5,10 @@ topic: liveagentsessionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.762Z
+lastCollected: 2026-04-07T18:38:34.998Z
 estimatedTokens: 379
-keywords: [LiveAgentSessionHistory, automatically, created, Chat, session, stores, changes, made, API, versions, 28.0, later, Calls, Usage]
+keywords: [LiveAgentSessionHistory, automatically, created, Chat, session, stores, changes, made, API, versions, 28.0]
 ---
-
-# LiveAgentSessionHistory
 
 > This object is automatically created for each Chat session and stores
       information about changes made to the session. This object is available in API versions

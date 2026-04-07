@@ -5,12 +5,10 @@ topic: qocqualificationoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.440Z
+lastCollected: 2026-04-07T18:35:41.297Z
 estimatedTokens: 830
-keywords: [QocQualificationOutputRepresentation, quote, order, contract, qualification, determines, whether, product, sold, specific, business, rules, conditions, productId, qualificationContext]
+keywords: [QocQualificationOutputRepresentation, quote, order, contract, qualification, determines, whether, product, sold, specific, business, conditions, productId, qualificationContext]
 ---
-
-# QocQualificationOutputRepresentation Class
 
 > Represents a quote, order, or contract qualification that determines whether a product
     can be sold based on specific business rules and conditions.

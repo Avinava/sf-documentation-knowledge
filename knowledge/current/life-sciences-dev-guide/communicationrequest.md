@@ -5,12 +5,10 @@ topic: communicationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.751Z
+lastCollected: 2026-04-07T18:37:58.273Z
 estimatedTokens: 830
-keywords: [CommunicationRequest, FHIR, resource, maps, TrackedCommunication, TrackedCommunicationDetail, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [CommunicationRequest, FHIR, resource, maps, TrackedCommunication, TrackedCommunicationDetail, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# CommunicationRequest
 
 > The CommunicationRequest FHIR resource maps to the
    TrackedCommunication and TrackedCommunicationDetail objects

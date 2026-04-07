@@ -5,12 +5,10 @@ topic: using-relationship-queries-with-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.930Z
+lastCollected: 2026-04-07T18:40:09.875Z
 estimatedTokens: 209
-keywords: [Relationship, Queries, Partner, WSDL, doesn’t, contain, detailed, that’s, enterprise, SOQL, query, execute, describeSObjects, call, results]
+keywords: [Relationship, Queries, Partner, WSDL, doesn’t, contain, detailed, that’s, enterprise, SOQL, query, execute, describeSObjects, call, results, gather]
 ---
-
-# Using Relationship Queries with the Partner WSDL
 
 > The partner WSDL doesn’t contain the detailed type information that’s available in the
     enterprise WSDL which you need for a relationship SOQL query. You must first execute a describeSObjects() call, and from the results, gather the

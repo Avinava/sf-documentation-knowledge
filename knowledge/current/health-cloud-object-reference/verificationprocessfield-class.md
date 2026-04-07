@@ -5,12 +5,10 @@ topic: verificationprocessfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.996Z
+lastCollected: 2026-04-07T18:37:39.956Z
 estimatedTokens: 1912
 keywords: [VerificationProcessField, search, verification, process, developerName, dataSourceType, fieldType, label, fieldName, dataType, fieldValueFormula, isManualInput]
 ---
-
-# VerificationProcessField Class
 
 > Contains details of the fields used for both search and the
       verification process.

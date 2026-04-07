@@ -5,12 +5,10 @@ topic: apexcanvasapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.128Z
+lastCollected: 2026-04-07T18:38:49.123Z
 estimatedTokens: 1386
-keywords: [apex, canvasApp, Renders, canvas, app, identified, developerName, namespacePrefix, applicationName, pair, attribute, precedence, developer, organization, doesn't]
+keywords: [Attributes, apex, canvasApp, Renders, canvas, app, identified, developerName, namespacePrefix, applicationName, pair, attribute, precedence, developer, organization, doesn't, prefix, shouldn't, application, created, specific, panel]
 ---
-
-# apex:canvasApp
 
 > Renders a canvas app identified by the given developerName/namespacePrefix or applicationName/namespacePrefix value pair. The developerName attribute takes precedence if both developerName and applicationName are set.
 

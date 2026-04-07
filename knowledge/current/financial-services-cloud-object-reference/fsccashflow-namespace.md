@@ -5,13 +5,11 @@ topic: fsccashflow-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.937Z
+lastCollected: 2026-04-07T18:37:34.462Z
 estimatedTokens: 152
 namespace: The
 keywords: [fsccashflow, classes, Flexcards, child]
 ---
-
-# fsccashflow Namespace
 
 > The fsccashflow namespace
             provides classes used in the FSCCashFlow Flexcards and its child

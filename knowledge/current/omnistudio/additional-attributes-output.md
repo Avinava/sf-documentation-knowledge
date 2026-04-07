@@ -5,12 +5,10 @@ topic: additional-attributes-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:52.997Z
+lastCollected: 2026-04-07T18:36:38.662Z
 estimatedTokens: 291
-keywords: [Additional, Attributes, Output, representation]
+keywords: [Additional, Attributes]
 ---
-
-# Additional Attributes Output
 
 > Output representation of the Additional Attributes.
 

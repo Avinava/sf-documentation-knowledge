@@ -5,12 +5,10 @@ topic: enable-256-bit-encryption-of-local-authorization-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.284Z
+lastCollected: 2026-04-07T18:40:09.228Z
 estimatedTokens: 1504
-keywords: [Enable, 256-Bit, Encryption, Local, Authorization, Files, Salesforce, CLI, uses, 128-bit, encrypt, internal, auth, associated, orgs]
+keywords: [Prerequisites, Enable, 256-Bit, Encryption, Local, Authorization, Files, Salesforce, CLI, uses, 128-bit, encrypt, internal, auth, orgs, you’ve, logged, increased, security, Crypto, Back]
 ---
-
-# Enable 256-Bit Encryption of Local Authorization Files
 
 > Salesforce CLI uses 128-bit encryption to encrypt its local internal files, such as the
   authorization (auth) files associated with the orgs you’ve logged into.  For increased security,

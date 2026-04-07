@@ -5,12 +5,10 @@ topic: built-in-exceptions-and-common-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.382Z
+lastCollected: 2026-04-07T18:36:17.610Z
 estimatedTokens: 1919
-keywords: [Built-In, Exceptions, Common, Apex, number, exception, runtime, engine, throws, errors, encountered, execution, You've, seen, DmlException]
+keywords: [Built-In, Exceptions, Common, Apex, number, exception, runtime, engine, throws, errors, encountered, execution, You've, seen, DmlException, previous, sample]
 ---
-
-# Built-In Exceptions and Common Methods
 
 > Apex provides a number of built-in exception types that the runtime engine throws if
             errors are encountered during execution. You've seen the DmlException in the previous

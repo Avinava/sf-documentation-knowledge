@@ -5,12 +5,10 @@ topic: unifiedactivityinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.334Z
+lastCollected: 2026-04-07T18:38:43.079Z
 estimatedTokens: 503
-keywords: [UnifiedActivityInsight, insight, unified, activity, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access, Rules]
+keywords: [UnifiedActivityInsight, insight, unified, activity, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedActivityInsight
 
 > Represents an insight related to a unified activity. This object
       is available for reports and dashboards in the Winter ’24 release and later.

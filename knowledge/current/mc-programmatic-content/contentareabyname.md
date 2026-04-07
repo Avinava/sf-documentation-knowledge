@@ -5,12 +5,10 @@ topic: contentareabyname
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.687Z
+lastCollected: 2026-04-07T18:40:22.040Z
 estimatedTokens: 473
-keywords: [ContentAreaByName, Function, Ordinal, content, area, including, path, contents, folder, necessary, **Overview**, **Syntax**, Usage, Impression, region, whether, any, impression, contained]
+keywords: [ContentAreaByName, Function, Ordinal, content, area, including, path, contents, folder, necessary, **Overview**, **Syntax**, Impression, region, whether, any, impression, contained]
 ---
-
-# ContentAreaByName
 
 > ContentAreaByName(1, 2, 3, 4, 5)
 

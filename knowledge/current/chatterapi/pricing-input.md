@@ -5,12 +5,10 @@ topic: pricing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.989Z
+lastCollected: 2026-04-07T18:37:09.710Z
 estimatedTokens: 81
-keywords: [Pricing, Input, multiple, products]
+keywords: [Pricing, multiple, products]
 ---
-
-# Pricing Input
 
 > Pricing for multiple products.
 

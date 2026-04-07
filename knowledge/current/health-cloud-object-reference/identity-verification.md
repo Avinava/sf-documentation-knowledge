@@ -5,12 +5,10 @@ topic: identity-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.257Z
+lastCollected: 2026-04-07T18:37:41.315Z
 estimatedTokens: 259
-keywords: [Identity, Verification, Verify, caller's, resources, verify, call, center, agent, ask, person, confirm, their, social, security, number]
+keywords: [Identity, Verification, Verify, caller's, resources, verify, call, center, agent, ask, person, confirm, their, social, security, number, birth, date, insurance, driver’s, license]
 ---
-
-# Identity Verification
 
 > Use these resources to verify the caller's identity. For example,
   the call center agent can ask the person to confirm their social security number, birth date,

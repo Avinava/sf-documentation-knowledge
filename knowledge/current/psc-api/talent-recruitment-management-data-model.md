@@ -5,12 +5,10 @@ topic: talent-recruitment-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.016Z
+lastCollected: 2026-04-07T18:39:05.028Z
 estimatedTokens: 160
-keywords: [Talent, Recruitment, Management, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Talent, Recruitment, Management, Model, relationships, Sector, Solutions]
 ---
-
-# Talent Recruitment Management Data Model
 
 > Learn about the objects and relationships used for talent recruitment management in
   Public Sector Solutions.

@@ -5,12 +5,10 @@ topic: cartdeliverygroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:38.817Z
+lastCollected: 2026-04-07T18:39:33.231Z
 estimatedTokens: 813
-keywords: [CartDeliveryGroup, shipping, delivery, items, order, against, store, built, B2B, Commerce, D2C, API, version, 49.0, later]
+keywords: [CartDeliveryGroup, shipping, delivery, items, order, against, store, built, B2B, Commerce, D2C, API, 49.0]
 ---
-
-# CartDeliveryGroup
 
 > Represents shipping information for the delivery of items in an order
 			against a store built with B2B Commerce or D2C Commerce. This object is available

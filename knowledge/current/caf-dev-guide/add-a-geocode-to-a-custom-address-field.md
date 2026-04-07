@@ -5,12 +5,10 @@ topic: add-a-geocode-to-a-custom-address-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.027Z
+lastCollected: 2026-04-07T18:37:04.726Z
 estimatedTokens: 408
-keywords: [Add, Geocode, Custom, Address, geocodes, differs, standard, give, users, precise, geographical, Apex, Visualforce, map, API]
+keywords: [Add, Geocode, Address, geocodes, differs, standard, give, users, precise, geographical, Apex, Visualforce, map, API]
 ---
-
-# Add a Geocode to a Custom Address Field
 
 > The method to get geocodes differs between standard and custom address fields. To give
     your users precise geographical information, add geocode information to a custom address field

@@ -5,12 +5,10 @@ topic: conversationvendorinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.715Z
+lastCollected: 2026-04-07T18:36:32.162Z
 estimatedTokens: 3595
-keywords: [ConversationVendorInfo, setup, connects, partner, vendor, system, Service, Cloud, feature, Voice, telephony, Contact, Center, CCaaS, Bring]
+keywords: [ConversationVendorInfo, setup, connects, partner, vendor, system, Service, Cloud, feature, Voice, telephony, Contact, Center, CCaaS, Bring, Own, Channel, Messaging, API, 52.0, SOAP, REST]
 ---
-
-# ConversationVendorInfo
 
 > This setup object connects the partner vendor system to the Service Cloud
          feature. For example, for Service Cloud Voice, this object contains information about

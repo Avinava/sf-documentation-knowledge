@@ -5,12 +5,10 @@ topic: budgetcategoryvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.341Z
+lastCollected: 2026-04-07T18:37:32.496Z
 estimatedTokens: 882
-keywords: [BudgetCategoryValue, Captures, budget, category, time, period, API, version, 57.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [BudgetCategoryValue, Captures, budget, category, time, period, API, 57.0]
 ---
-
-# BudgetCategoryValue
 
 > Captures budget values for category and time period. This object
       is available in API version 57.0 and later.

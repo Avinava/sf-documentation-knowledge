@@ -5,12 +5,10 @@ topic: request-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.377Z
+lastCollected: 2026-04-07T18:38:06.589Z
 estimatedTokens: 469
 keywords: [Chat, REST, API, resource, requires]
 ---
-
-# Request Headers
 
 > Each Chat REST API resource requires one or more headers to make a request.
 

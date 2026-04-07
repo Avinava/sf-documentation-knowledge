@@ -5,12 +5,10 @@ topic: creating-a-namespace-in-your-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.640Z
+lastCollected: 2026-04-07T18:38:04.783Z
 estimatedTokens: 286
 keywords: [Creating, Organization, registering, prefix]
 ---
-
-# Creating a Namespace in Your Organization
 
 > Create a namespace for your organization by registering a namespace prefix.
 

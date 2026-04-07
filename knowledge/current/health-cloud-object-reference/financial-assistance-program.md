@@ -5,12 +5,10 @@ topic: financial-assistance-program
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.448Z
+lastCollected: 2026-04-07T18:37:42.597Z
 estimatedTokens: 739
-keywords: [Financial, Assistance, Program, data, model, helps, health, life, sciences, organizations, implement, several, programs, eligible, patients]
+keywords: [Financial, Assistance, Program, model, helps, health, life, sciences, organizations, implement, several, programs, eligible, patients, receive, their, pocket, medical, expenses]
 ---
-
-# Financial Assistance Program
 
 > The financial assistance program data model helps health and life sciences organizations
   implement several financial assistance programs for eligible patients to receive assistance with

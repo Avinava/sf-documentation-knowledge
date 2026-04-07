@@ -5,12 +5,10 @@ topic: usage-management-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.276Z
+lastCollected: 2026-04-07T18:35:47.307Z
 estimatedTokens: 868
-keywords: [Usage, Management, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
+keywords: [Management, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---
-
-# Usage Management Additional Information
 
 > Get to know additional deployment information for Usage Management in Revenue Cloud,
     including active or inactive states, object information, and migration

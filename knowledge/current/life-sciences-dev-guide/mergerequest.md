@@ -5,12 +5,10 @@ topic: mergerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.128Z
+lastCollected: 2026-04-07T18:38:00.923Z
 estimatedTokens: 1546
-keywords: [MergeRequest, tracking, merge, history, records, maps, losing, record, deleted, result, winning, remains, API, version, 65.0]
+keywords: [MergeRequest, merge, records, maps, losing, record, deleted, result, winning, remains, API, 65.0]
 ---
-
-# MergeRequest
 
 > Represents the details related to tracking the merge history of records. It
          maps the losing record (deleted as result of merge) to the winning records (remains after

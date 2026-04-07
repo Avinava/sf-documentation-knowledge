@@ -5,12 +5,10 @@ topic: connectapisequencegapreconciliationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.630Z
+lastCollected: 2026-04-07T18:35:41.505Z
 estimatedTokens: 167
-keywords: [input, identify, reconcile, gaps, sequence, policy, target]
+keywords: [identify, reconcile, gaps, sequence, policy, target]
 ---
-
-# ConnectApi.SequenceGapReconciliationInputRepresentation
 
 > The details of the input used to identify and reconcile gaps in sequence values based on the sequence policy or target object.
 

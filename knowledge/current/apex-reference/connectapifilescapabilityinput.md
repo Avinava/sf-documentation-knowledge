@@ -5,12 +5,10 @@ topic: connectapifilescapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.470Z
+lastCollected: 2026-04-07T18:36:05.821Z
 estimatedTokens: 210
-keywords: [ConnectApi.FilesCapabilityInput, Attach, files, already, uploaded, remove, feed, element]
+keywords: [ConnectApi.FilesCapabilityInput, Attach, files, already, uploaded, remove]
 ---
-
-# ConnectApi.FilesCapabilityInput
 
 > Attach up to 10 files that have already been uploaded or remove one or
       more files from a feed element.

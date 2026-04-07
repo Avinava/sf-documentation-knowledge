@@ -5,12 +5,10 @@ topic: checkdeploystatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.163Z
+lastCollected: 2026-04-07T18:36:23.463Z
 estimatedTokens: 751
-keywords: [checkDeployStatus, Checks, status, declarative, metadata, call, deploy, Usage, Sample, Code—Java, Arguments]
+keywords: [Arguments, checkDeployStatus, Checks, status, declarative, metadata, call, deploy, Sample, Code—Java]
 ---
-
-# checkDeployStatus()
 
 > Checks the status of declarative metadata call deploy().
 

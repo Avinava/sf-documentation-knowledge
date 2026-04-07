@@ -5,12 +5,10 @@ topic: share-objects-and-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.970Z
+lastCollected: 2026-04-07T18:39:22.889Z
 estimatedTokens: 598
-keywords: [Share, Objects, Give, specific, access, selected, groups, profiles]
+keywords: [Share, Give, specific, selected, groups, profiles]
 ---
-
-# Share Objects and Fields
 
 > Give specific object or field access to selected groups or profiles.
 

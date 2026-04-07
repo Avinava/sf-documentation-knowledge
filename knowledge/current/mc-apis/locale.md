@@ -5,12 +5,10 @@ topic: locale
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.624Z
+lastCollected: 2026-04-07T18:40:17.809Z
 estimatedTokens: 536
 keywords: [Locale, specific, application, gives, location, subscriber, precedence, Items]
 ---
-
-# Locale
 
 > The Locale object represents a specific locale in the application and gives the location of a subscriber. If both a locale ID and a locale name are given, the ID takes precedence.
 

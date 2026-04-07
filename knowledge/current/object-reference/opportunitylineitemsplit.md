@@ -5,12 +5,10 @@ topic: opportunitylineitemsplit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.339Z
+lastCollected: 2026-04-07T18:38:36.513Z
 estimatedTokens: 994
-keywords: [OpportunityLineItemSplit, opportunity, product, split, including, percentages, amounts, owner, API, version, 58.0, later, Calls, Special, Access]
+keywords: [OpportunityLineItemSplit, opportunity, product, split, including, percentages, amounts, owner, API, 58.0]
 ---
-
-# OpportunityLineItemSplit
 
 > Represents information about an opportunity product split, including percentages,
       amounts, and owner. This object is available in API version 58.0 and later.

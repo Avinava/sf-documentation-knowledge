@@ -5,12 +5,10 @@ topic: charts-maps-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.710Z
+lastCollected: 2026-04-07T18:36:56.241Z
 estimatedTokens: 293
 keywords: [Charts, Maps, Resource, creates, map]
 ---
-
-# Charts Maps List Resource
 
 > Returns a list of maps or creates a map.
 

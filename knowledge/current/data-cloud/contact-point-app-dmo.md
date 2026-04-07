@@ -5,12 +5,10 @@ topic: contact-point-app-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.907Z
+lastCollected: 2026-04-07T18:35:52.819Z
 estimatedTokens: 1188
-keywords: [Contact, Point, App, DMO, Data, Cloud, model, software, application, party, specific, device, API, Category, Primary]
+keywords: [Category, Relationships, Contact, Point, App, DMO, Cloud, model, software, application, party, specific, device, API, Primary, Subject, Area, Key]
 ---
-
-# Contact Point App DMO
 
 > The Contact Point App DMO is a Data Cloud data model object for the software
 		application of a party on a specific device.

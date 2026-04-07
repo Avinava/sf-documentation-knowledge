@@ -5,12 +5,10 @@ topic: eligible-loyalty-tiers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.639Z
+lastCollected: 2026-04-07T18:38:07.871Z
 estimatedTokens: 109
-keywords: [Eligible, Loyalty, Tiers, Output, representation, tier, groups, promotion]
+keywords: [Eligible, Loyalty, Tiers, tier, groups, promotion]
 ---
-
-# Eligible Loyalty Tiers
 
 > Output representation of the eligible loyalty tiers and tier groups of a
     promotion.

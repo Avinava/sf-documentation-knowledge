@@ -5,12 +5,10 @@ topic: threaded-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.938Z
+lastCollected: 2026-04-07T18:37:11.750Z
 estimatedTokens: 271
 keywords: [Threaded, Comment, context, parent, comments, post]
 ---
-
-# Threaded Comment
 
 > Get a threaded comment in context of its parent comments and
       post.

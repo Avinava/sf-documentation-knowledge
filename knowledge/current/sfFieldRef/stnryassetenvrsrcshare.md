@@ -5,12 +5,10 @@ topic: stnryassetenvrsrcshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.244Z
+lastCollected: 2026-04-07T18:40:02.932Z
 estimatedTokens: 251
 keywords: [StnryAssetEnvrSrcShare, Sharing, StnryAssetEnvrSrc]
 ---
-
-# StnryAssetEnvrSrcShare
 
 > Sharing for StnryAssetEnvrSrc.
 

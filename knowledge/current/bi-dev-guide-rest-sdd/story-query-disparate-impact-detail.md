@@ -5,12 +5,10 @@ topic: story-query-disparate-impact-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.657Z
+lastCollected: 2026-04-07T18:37:00.158Z
 estimatedTokens: 98
 keywords: [Story, Query, Disparate, Impact, Detail]
 ---
-
-# Story Query Disparate Impact Detail
 
 > The detail for a story query disparate impact.
 

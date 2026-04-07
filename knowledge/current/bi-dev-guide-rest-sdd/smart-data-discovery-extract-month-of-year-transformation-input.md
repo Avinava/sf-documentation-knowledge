@@ -5,12 +5,10 @@ topic: smart-data-discovery-extract-month-of-year-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.165Z
+lastCollected: 2026-04-07T18:36:58.669Z
 estimatedTokens: 108
-keywords: [Smart, Data, Discovery, Extract, Month, Year, Transformation, Input]
+keywords: [Smart, Discovery, Extract, Month, Year, Transformation]
 ---
-
-# Smart Data Discovery Extract Month of Year Transformation Input
 
 > The input for an extract month of year transformation.
 

@@ -5,13 +5,11 @@ topic: authconfiguration-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.147Z
+lastCollected: 2026-04-07T18:35:59.423Z
 estimatedTokens: 6294
 namespace: Auth
-keywords: [AuthConfiguration, whether, Experience, Cloud, site, internal, users, log, login, enable, admins, configure, setting, Allow, directly]
+keywords: [AuthConfiguration, whether, Experience, Cloud, site, internal, users, log, login, enable, admins, configure, setting, Allow, directly, Registration, Workspaces, It’s, disabled, communityOrCustomUrl, startUrl, getAllowInternalUserLoginEnabled, getAuthConfig, getAuthConfigProviders, getAuthProviders, getAuthProviderSsoDomainUrl, communityUrl, developerName, getAuthProviderSsoUrl, getBackgroundColor, getCertificateLoginEnabled, domainUrl, getCertificateLoginUrl, getDefaultProfileForRegistration, getFooterText, getForgotPasswordUrl, getHeadlessForgotPasswordEnabled, getHeadlessFrgtPswEnabled, getHeadlessPasswordlessLoginEnabled, getHeadlessRegistrationEnabled, getLogoUrl, getRightFrameUrl, getSamlProviders, getSamlSsoUrl, samlId, getSelfRegistrationEnabled, getSelfRegistrationUrl, getStartUrl, getUsernamePasswordEnabled, isCommunityUsingSiteAsContainer]
 ---
-
-# AuthConfiguration Class
 
 > Indicates whether the Experience Cloud site allows internal users to
       log in using the Experience Cloud site login page. To enable, admins configure the setting

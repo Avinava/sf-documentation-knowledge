@@ -5,13 +5,11 @@ topic: exception-class-and-built-in-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.484Z
+lastCollected: 2026-04-07T18:36:03.712Z
 estimatedTokens: 2923
 namespace: System
-keywords: [Exception, Built-In, Exceptions, denotes, error, disrupts, normal, flow, code, execution, Apex, custom, common, DMLException, EmailException]
+keywords: [Exception, Built-In, Exceptions, denotes, error, disrupts, normal, flow, code, execution, Apex, common, DMLException, EmailException, QueryException]
 ---
-
-# Exception Class and Built-In Exceptions
 
 > An exception denotes an error that disrupts the normal flow of code execution. You
         can use Apex built-in exceptions or create custom exceptions. All exceptions have common

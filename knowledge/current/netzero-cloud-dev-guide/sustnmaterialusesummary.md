@@ -5,12 +5,10 @@ topic: sustnmaterialusesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.215Z
+lastCollected: 2026-04-07T18:38:19.897Z
 estimatedTokens: 1391
-keywords: [SustnMaterialUseSummary, circular, economy, company, discloses, part, ESRS, Resource, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [SustnMaterialUseSummary, circular, economy, company, discloses, part, ESRS, Resource, API, 65.0]
 ---
-
-# SustnMaterialUseSummary
 
 > Represents the circular economy information that a company discloses as part
          of ESRS E5 - Resource use and circular economy. This object is available in API

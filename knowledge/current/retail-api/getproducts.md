@@ -5,12 +5,10 @@ topic: getproducts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.810Z
+lastCollected: 2026-04-07T18:39:11.343Z
 estimatedTokens: 167
-keywords: [getProducts, tactic, templates, input, promotion, template, Sample]
+keywords: [getProducts, tactic, templates, promotion, template, Sample]
 ---
-
-# getProducts
 
 > This method returns the list of tactic templates related to the
       input promotion template.

@@ -5,12 +5,10 @@ topic: future-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.661Z
+lastCollected: 2026-04-07T18:36:17.892Z
 estimatedTokens: 2047
-keywords: [Future, runs, asynchronously, call, run, long-running, operations, callouts, external, web, services, any, operation, want, own]
+keywords: [Future, runs, asynchronously, call, run, long-running, operations, callouts, external, web, services, any, operation, want, own, thread, isolate, Manipulation, Language, DML, different, sObject, prevent, mixed, error, queued, system, resources, become, way, execution, code, doesn’t, wait, completion, benefit, governor, limits, higher, SOQL, query, heap, size, Testing, Performance, Best, Practices]
 ---
-
-# Future Methods
 
 > A future method runs asynchronously. You can call a future method to run long-running
         operations, such as callouts to external web services or any operation that you want to run

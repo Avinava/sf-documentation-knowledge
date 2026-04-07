@@ -5,12 +5,10 @@ topic: overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:16.416Z
+lastCollected: 2026-04-07T18:38:06.626Z
 estimatedTokens: 578
-keywords: [Take, Chat, native, mobile, app, custom, client, REST, API]
+keywords: [Take, Chat, native, mobile, app, client, REST, API]
 ---
-
-# Overview
 
 > Take Chat to a native mobile app or a custom client using the Chat REST API.
 

@@ -5,12 +5,10 @@ topic: crisis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.837Z
+lastCollected: 2026-04-07T18:40:13.790Z
 estimatedTokens: 622
-keywords: [Crisis, major, event, affects, Employee, InternalOrganizationUnit, API, version, 48.0, later, 49.0, supports, reports, criteria-based, sharing]
+keywords: [Crisis, major, event, affects, Employee, InternalOrganizationUnit, API, 48.0, 49.0, supports, reports, criteria-based, sharing, plus, exclude, individual, layouts]
 ---
-
-# Crisis
 
 > Represents a major crisis event that affects an Employee in an
       InternalOrganizationUnit. This object is available in API version 48.0 and later. In API

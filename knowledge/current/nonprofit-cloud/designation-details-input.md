@@ -5,12 +5,10 @@ topic: designation-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.760Z
+lastCollected: 2026-04-07T18:38:20.494Z
 estimatedTokens: 197
-keywords: [Designation, Input, representation, designations, associated]
+keywords: [Designation, designations]
 ---
-
-# Designation Details Input
 
 > Input representation of the designations that are associated with the
     request.

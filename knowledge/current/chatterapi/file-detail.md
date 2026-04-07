@@ -5,12 +5,10 @@ topic: file-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.193Z
+lastCollected: 2026-04-07T18:37:19.324Z
 estimatedTokens: 216
 keywords: [File, Detail, Includes, Summary, additional, items]
 ---
-
-# File Detail
 
 > Includes all the File Summary response body with these additional items.
 

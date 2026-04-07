@@ -5,12 +5,10 @@ topic: partyprofilehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.052Z
+lastCollected: 2026-04-07T18:39:52.519Z
 estimatedTokens: 260
-keywords: [PartyProfileHistory, History, tracked, PartyProfile]
+keywords: [PartyProfileHistory, tracked, PartyProfile]
 ---
-
-# PartyProfileHistory
 
 > History for tracked fields of PartyProfile.
 

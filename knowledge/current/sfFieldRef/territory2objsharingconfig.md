@@ -5,12 +5,10 @@ topic: territory2objsharingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.217Z
+lastCollected: 2026-04-07T18:40:03.946Z
 estimatedTokens: 329
-keywords: [Territory2ObjSharingConfig, sharing, access, level, objects, assigned, particular, territory, API, version, 56.0, later]
+keywords: [Territory2ObjSharingConfig, sharing, level, assigned, particular, territory, API, 56.0]
 ---
-
-# Territory2ObjSharingConfig
 
 > Represents the sharing access level of objects assigned to a particular
          territory. This object is available in API version 56.0 and later.

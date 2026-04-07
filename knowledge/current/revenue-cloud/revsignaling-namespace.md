@@ -5,13 +5,11 @@ topic: revsignaling-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.010Z
+lastCollected: 2026-04-07T18:35:41.853Z
 estimatedTokens: 478
 namespace: RevSignaling
-keywords: [RevSignaling, includes, extend, standard, procedure, plan, implementation, custom, logic, extension, support, tailor, implementations, unique, requirements]
+keywords: [RevSignaling, includes, extend, standard, procedure, plan, implementation, logic, extension, support, tailor, implementations, unique, requirements]
 ---
-
-# RevSignaling Namespace
 
 > The RevSignaling Namespace includes properties and methods to extend the standard
     procedure plan implementation through custom logic. Using this extension support, you can tailor

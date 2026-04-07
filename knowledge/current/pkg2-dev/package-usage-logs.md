@@ -5,12 +5,10 @@ topic: package-usage-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.441Z
+lastCollected: 2026-04-07T18:38:54.818Z
 estimatedTokens: 461
-keywords: [Package, Usage, Logs, Analyze, adoption, user, behavior, informed, feature, development, decisions, data, AppExchange, App, Analytics]
+keywords: [Package, Logs, Analyze, adoption, user, behavior, informed, feature, development, decisions, AppExchange, App, Analytics, tracks, API-based, Lightning-based, Apex, operations, CRUD, operation, packages, Events, sandbox, trial, orgs, tracked, scratch, aren’t]
 ---
-
-# Package Usage Logs
 
 > Analyze adoption and user behavior, then make informed feature development decisions
   based on data from package usage logs. AppExchange App Analytics tracks UI, API-based,

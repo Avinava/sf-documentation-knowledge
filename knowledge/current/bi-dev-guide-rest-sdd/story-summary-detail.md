@@ -5,12 +5,10 @@ topic: story-summary-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.678Z
+lastCollected: 2026-04-07T18:37:00.185Z
 estimatedTokens: 239
 keywords: [Story, Summary, Detail]
 ---
-
-# Story Summary Detail
 
 > The summary detail for a story.
 

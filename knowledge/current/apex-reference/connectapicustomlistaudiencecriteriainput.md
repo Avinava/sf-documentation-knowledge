@@ -5,12 +5,10 @@ topic: connectapicustomlistaudiencecriteriainput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.824Z
+lastCollected: 2026-04-07T18:36:05.207Z
 estimatedTokens: 274
-keywords: [Criteria, custom, recommendation, audience]
+keywords: [Criteria, recommendation, audience]
 ---
-
-# ConnectApi.CustomListAudienceCriteriaInput
 
 > Criteria for the custom list type of custom recommendation
       audience.

@@ -5,12 +5,10 @@ topic: financialplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.115Z
+lastCollected: 2026-04-07T18:39:40.723Z
 estimatedTokens: 339
-keywords: [FinancialPlan, financial, plan, person, account, API, version, 59.0, later]
+keywords: [FinancialPlan, financial, plan, person, account, API, 59.0]
 ---
-
-# FinancialPlan
 
 > Represents a financial plan for a person account. This object is
       available in API version 59.0 and later.

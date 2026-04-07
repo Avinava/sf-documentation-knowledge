@@ -5,12 +5,10 @@ topic: gamification-mobile-sdk-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.294Z
+lastCollected: 2026-04-07T18:38:08.556Z
 estimatedTokens: 445
 keywords: [Gamification, Mobile, SDK, iOS, Clone, import, integrate, feature, app]
 ---
-
-# Gamification Mobile SDK for iOS
 
 > Clone and import the Gamification Mobile iOS SDK to integrate the gamification feature
     in a mobile app.

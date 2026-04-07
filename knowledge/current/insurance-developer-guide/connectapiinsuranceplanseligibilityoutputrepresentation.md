@@ -5,12 +5,10 @@ topic: connectapiinsuranceplanseligibilityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.710Z
+lastCollected: 2026-04-07T18:37:50.593Z
 estimatedTokens: 180
-keywords: [Output, representation, employee, plan, eligibility, check]
+keywords: [employee, plan, eligibility, check]
 ---
-
-# ConnectApi.InsurancePlansEligibilityOutputRepresentation
 
 > Output representation for the employee plan eligibility check.
 

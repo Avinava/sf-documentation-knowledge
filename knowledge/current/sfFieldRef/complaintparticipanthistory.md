@@ -5,12 +5,10 @@ topic: complaintparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.297Z
+lastCollected: 2026-04-07T18:39:34.752Z
 estimatedTokens: 270
-keywords: [ComplaintParticipantHistory, History, tracked, ComplaintParticipant]
+keywords: [ComplaintParticipantHistory, tracked, ComplaintParticipant]
 ---
-
-# ComplaintParticipantHistory
 
 > History for tracked fields of ComplaintParticipant.
 

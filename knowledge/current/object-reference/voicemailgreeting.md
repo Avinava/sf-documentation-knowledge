@@ -5,12 +5,10 @@ topic: voicemailgreeting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.429Z
+lastCollected: 2026-04-07T18:38:44.242Z
 estimatedTokens: 515
-keywords: [VoiceMailGreeting, custom, greeting, message, plays, upon, reaching, user’s, voicemail, API, version, 41.0, later, Calls, Special]
+keywords: [VoiceMailGreeting, greeting, message, plays, upon, reaching, user’s, voicemail, API, 41.0]
 ---
-
-# VoiceMailGreeting
 
 > Represents a custom greeting message that plays upon reaching a user’s
 			voicemail. This object is available in API version 41.0 and later.

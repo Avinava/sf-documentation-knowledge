@@ -5,12 +5,10 @@ topic: example-subscribe-to-and-replay-events-using-a-lightning-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.039Z
+lastCollected: 2026-04-07T18:36:51.350Z
 estimatedTokens: 695
-keywords: [Subscribe, Replay, Events, Lightning, Component, event, streaming, channels, empApi, web, Aura, access, subscribing, channel, listening]
+keywords: [Subscribe, Replay, Events, Lightning, event, streaming, channels, empApi, web, Aura, subscribing, channel, listening, messages]
 ---
-
-# Example: Subscribe to and Replay Events Using a Lightning Component
 
 > Subscribe to event streaming channels with the empApi component in your Lightning web component or Aura component. The
             empApi component provides access to methods for

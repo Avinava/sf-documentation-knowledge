@@ -5,12 +5,10 @@ topic: promotionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.546Z
+lastCollected: 2026-04-07T18:39:57.109Z
 estimatedTokens: 357
-keywords: [PromotionFeed, Feed, tracking, Promotion]
+keywords: [PromotionFeed, Promotion]
 ---
-
-# PromotionFeed
 
 > Feed tracking for Promotion.
 

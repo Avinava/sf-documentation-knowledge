@@ -5,12 +5,10 @@ topic: knowledgeable-people-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.380Z
+lastCollected: 2026-04-07T18:37:23.491Z
 estimatedTokens: 176
 keywords: [Knowledgeable, People, Collection, bodies]
 ---
-
-# Knowledgeable People Collection
 
 > A collection of knowledgeable people response bodies.
 

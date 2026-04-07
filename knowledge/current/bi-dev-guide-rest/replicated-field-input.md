@@ -5,12 +5,10 @@ topic: replicated-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.520Z
+lastCollected: 2026-04-07T18:36:54.882Z
 estimatedTokens: 507
-keywords: [Replicated, Input, Analytics, dataset, known, connected]
+keywords: [Replicated, Analytics, dataset, known, connected]
 ---
-
-# Replicated Field Input
 
 > A field for an Analytics replicated dataset, also known as a connected
   object.

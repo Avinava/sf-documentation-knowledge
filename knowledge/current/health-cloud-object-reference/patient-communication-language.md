@@ -5,12 +5,10 @@ topic: patient-communication-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.824Z
+lastCollected: 2026-04-07T18:37:41.960Z
 estimatedTokens: 230
-keywords: [Patient, Communication, Language, output, representation, PersonLanguage, records, represent, preferences, person]
+keywords: [Patient, Communication, Language, PersonLanguage, records, represent, preferences, person]
 ---
-
-# Patient Communication Language
 
 > The output representation of the PersonLanguage records that represent
       the communication preferences of a person.

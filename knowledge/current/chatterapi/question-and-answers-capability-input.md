@@ -5,12 +5,10 @@ topic: question-and-answers-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.210Z
+lastCollected: 2026-04-07T18:37:09.935Z
 estimatedTokens: 303
-keywords: [Question, Answers, Capability, Input, edit, feed, element, best, answer]
+keywords: [Question, Answers, Capability, edit, best, answer]
 ---
-
-# Question and Answers Capability Input
 
 > Create or edit a question feed element or set the best answer of the existing question
     feed element.

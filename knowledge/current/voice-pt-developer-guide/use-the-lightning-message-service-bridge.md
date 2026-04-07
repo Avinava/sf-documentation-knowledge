@@ -5,12 +5,10 @@ topic: use-the-lightning-message-service-bridge
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.374Z
+lastCollected: 2026-04-07T18:40:13.304Z
 estimatedTokens: 954
-keywords: [Lightning, Message, Service, Bridge, component, enable, communication, telephony, system, components, Aura, Web, LWC, Configure, Contact]
+keywords: [Limitations, Lightning, Message, Service, Bridge, enable, communication, telephony, system, Aura, Web, LWC, Configure, Contact, Center, Test]
 ---
-
-# Use the Lightning  Message Service Bridge
 
 > Use the Lightning Message Service Bridge component to enable communication between the
     telephony system and other Lightning components.

@@ -5,12 +5,10 @@ topic: worktypegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.251Z
+lastCollected: 2026-04-07T18:39:21.062Z
 estimatedTokens: 697
-keywords: [WorkTypeGroup, grouping, work, categorize, appointments, Salesforce, Scheduler, API, version, 45.0, later, Calls, Special, Access, Rules]
+keywords: [WorkTypeGroup, grouping, work, categorize, appointments, Salesforce, Scheduler, API, 45.0]
 ---
-
-# WorkTypeGroup
 
 > Represents a grouping of work types used to categorize types of
 			appointments available in Salesforce Scheduler. This object is available in API

@@ -5,12 +5,10 @@ topic: fundingopportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:32.885Z
+lastCollected: 2026-04-07T18:38:23.759Z
 estimatedTokens: 1245
-keywords: [FundingOpportunity, pool, money, distribution, specific, purpose, API, version, 57.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [FundingOpportunity, pool, money, distribution, specific, purpose, API, 57.0]
 ---
-
-# FundingOpportunity
 
 > The pool of money available for distribution for a specific purpose. This object is
       available in API version 57.0 and later.

@@ -5,12 +5,10 @@ topic: workplanselectionrulehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.027Z
+lastCollected: 2026-04-07T18:40:06.935Z
 estimatedTokens: 272
-keywords: [WorkPlanSelectionRuleHistory, History, tracked, WorkPlanSelectionRule]
+keywords: [WorkPlanSelectionRuleHistory, tracked, WorkPlanSelectionRule]
 ---
-
-# WorkPlanSelectionRuleHistory
 
 > History for tracked fields of WorkPlanSelectionRule.
 

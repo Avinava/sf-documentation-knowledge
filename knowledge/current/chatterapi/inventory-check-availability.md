@@ -5,12 +5,10 @@ topic: inventory-check-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.303Z
+lastCollected: 2026-04-07T18:37:14.268Z
 estimatedTokens: 533
 keywords: [Inventory, Check, Availability, products, locations, location, groups, commerce, system, fulfill, order, hand, quantity]
 ---
-
-# Inventory Check Availability
 
 > Get information about inventory availability for
          products in locations or location groups in your commerce inventory system. Provides

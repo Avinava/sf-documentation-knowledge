@@ -5,12 +5,10 @@ topic: story-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.554Z
+lastCollected: 2026-04-07T18:37:00.053Z
 estimatedTokens: 218
 keywords: [Story, combination, contributed, outcome, result]
 ---
-
-# Story Field
 
 > The field value combination that contributed to the story outcome result.
 

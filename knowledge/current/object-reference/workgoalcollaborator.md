@@ -5,12 +5,10 @@ topic: workgoalcollaborator
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.904Z
+lastCollected: 2026-04-07T18:38:44.709Z
 estimatedTokens: 597
-keywords: [WorkGoalCollaborator, collaborators, WorkGoal, doesn’t, include, followers, handled, Chatter, Feed, Follow, functionality, deprecated, API, version, 35.0]
+keywords: [WorkGoalCollaborator, collaborators, WorkGoal, doesn’t, include, followers, handled, Chatter, Follow, functionality, deprecated, API, 35.0, Goal, query, WDC, goals]
 ---
-
-# WorkGoalCollaborator
 
 > Represents collaborators on a WorkGoal
 			object. This doesn’t include WorkGoal

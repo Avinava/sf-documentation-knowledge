@@ -5,12 +5,10 @@ topic: variable-annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.715Z
+lastCollected: 2026-04-07T18:35:42.597Z
 estimatedTokens: 1342
 keywords: [Variable, Annotations, annotate, variables, configurable, defaultValue, domainComputation, relatedAttributes]
 ---
-
-# Variable Annotations
 
 > You can annotate variables with properties such as configurable, defaultValue,
     domainComputation, and relatedAttributes.

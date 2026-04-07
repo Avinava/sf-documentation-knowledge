@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-make-primary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.399Z
+lastCollected: 2026-04-07T18:37:12.270Z
 estimatedTokens: 222
 keywords: [Commerce, Webstore, Cart, Primary, secondary]
 ---
-
-# Commerce Webstore Cart, Make Primary
 
 > Make a secondary cart a primary cart.
 

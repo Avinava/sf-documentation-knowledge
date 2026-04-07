@@ -5,12 +5,10 @@ topic: step-2-retrieve-export-the-wavetemplate-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.998Z
+lastCollected: 2026-04-07T18:37:02.545Z
 estimatedTokens: 482
-keywords: [Step, Retrieve, Export, WaveTemplate, CRM, Analytics, templates, different, any, metadata, Visualforce, pages, Apex, classes, JSON]
+keywords: [Step, Retrieve, Export, WaveTemplate, CRM, Analytics, templates, different, any, metadata, Visualforce, pages, Apex, classes, JSON, files, editing, CLI, Microsoft, Visual, Studio, Code, store, source, management, system, work, development, environment, choice]
 ---
-
-# Step 2: Retrieve (Export) the WaveTemplate Object
 
 > CRM Analytics templates are no different than any other metadata (such as Visualforce
   pages and Apex classes). You can retrieve the WaveTemplate

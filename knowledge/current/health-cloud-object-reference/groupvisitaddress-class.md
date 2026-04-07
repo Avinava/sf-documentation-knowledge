@@ -5,12 +5,10 @@ topic: groupvisitaddress-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.327Z
+lastCollected: 2026-04-07T18:37:40.303Z
 estimatedTokens: 534
 keywords: [GroupVisitAddress, group, visit, address]
 ---
-
-# GroupVisitAddress Class
 
 > Represents the details of the group visit address.
 

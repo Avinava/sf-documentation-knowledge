@@ -5,12 +5,10 @@ topic: cgcloudboapioutputentityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.580Z
+lastCollected: 2026-04-07T18:39:13.003Z
 estimatedTokens: 898
-keywords: [cgcloud__BO_API_Output_Entity__c, stores, output, entities, Business, API, version, 54.0, later, cgcloud, _BO, _API, _Output, _Entity, Calls]
+keywords: [cgcloud__BO_API_Output_Entity__c, stores, entities, Business, API, 54.0, cgcloud, _BO, _API, _Output, _Entity]
 ---
-
-# cgcloud__BO_API_Output_Entity__c
 
 > This table stores the output entities of the Business Object
          API. This object is available in API version 54.0 and later.

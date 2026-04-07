@@ -5,12 +5,10 @@ topic: adlinearavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.668Z
+lastCollected: 2026-04-07T18:38:11.948Z
 estimatedTokens: 932
-keywords: [AdLinearAvailability, daily, weekly, monthly, view, offered, booked, forecasted, units, Linear, media, calendar, API, version, 59.0]
+keywords: [AdLinearAvailability, daily, weekly, monthly, view, offered, booked, forecasted, units, Linear, media, calendar, API, 59.0]
 ---
-
-# AdLinearAvailability
 
 > Represents the daily, weekly, or monthly view of offered, available,
          booked, and forecasted units for the Linear media type calendar view. This object is

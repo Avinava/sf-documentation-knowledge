@@ -5,12 +5,10 @@ topic: create-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.090Z
+lastCollected: 2026-04-07T18:40:08.041Z
 estimatedTokens: 539
-keywords: [Lightning, Web, Components, Salesforce, CLI, local, project, generated, files, live, lwc, directory, package]
+keywords: [Lightning, Web, Salesforce, CLI, local, project, generated, files, live, lwc, directory, package]
 ---
-
-# Create Lightning Web Components
 
 > You can use Salesforce CLI to create Lightning web components in your local
         Salesforce DX project. The generated files live in a lwc directory in a package directory of your project.

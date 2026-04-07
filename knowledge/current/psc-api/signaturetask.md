@@ -5,12 +5,10 @@ topic: signaturetask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.500Z
+lastCollected: 2026-04-07T18:39:07.721Z
 estimatedTokens: 268
-keywords: [SignatureTask, signature-related, visitor, captures, part, visit, API, version, 50.0, later, Calls]
+keywords: [SignatureTask, signature-related, visitor, captures, part, visit, API, 50.0]
 ---
-
-# SignatureTask
 
 > Represents the signature-related information that a visitor captures as part of
       a visit. This object is available in API version 50.0 and later.

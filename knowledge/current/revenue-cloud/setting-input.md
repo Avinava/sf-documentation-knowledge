@@ -5,12 +5,10 @@ topic: setting-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.955Z
+lastCollected: 2026-04-07T18:35:43.951Z
 estimatedTokens: 100
-keywords: [Setting, Input, representation, index]
+keywords: [Setting, index]
 ---
-
-# Setting Input
 
 > Input representation of the details of the index setting.
 

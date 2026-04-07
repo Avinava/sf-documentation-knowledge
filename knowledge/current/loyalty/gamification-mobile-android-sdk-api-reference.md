@@ -5,12 +5,10 @@ topic: gamification-mobile-android-sdk-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.263Z
+lastCollected: 2026-04-07T18:38:08.531Z
 estimatedTokens: 158
-keywords: [Gamification, Mobile, Android, SDK, API, interacts, Salesforce, APIs, retrieves, games, assigned, loyalty, member, rewards, won]
+keywords: [Gamification, Mobile, Android, SDK, API, interacts, Salesforce, APIs, retrieves, games, assigned, loyalty, member, rewards, won, playing, game]
 ---
-
-# Gamification Mobile Android SDK API Reference
 
 > The Gamification Mobile Android SDK interacts with the Salesforce Gamification APIs,
     and retrieves games assigned to a loyalty member, and the rewards won by the member after

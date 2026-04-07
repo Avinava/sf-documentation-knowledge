@@ -5,12 +5,10 @@ topic: build-context-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.635Z
+lastCollected: 2026-04-07T18:36:35.102Z
 estimatedTokens: 523
-keywords: [Build, Context, Action, cache, data, associated, definition, Special, Access, Rules, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Build, Context, Action, cache, definition, REST, HTTP]
 ---
-
-# Build Context Action
 
 > Build and cache context data associated with a context definition.
 

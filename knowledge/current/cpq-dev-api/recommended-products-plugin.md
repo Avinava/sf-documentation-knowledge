@@ -5,12 +5,10 @@ topic: recommended-products-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.561Z
+lastCollected: 2026-04-07T18:37:27.570Z
 estimatedTokens: 1204
-keywords: [Recommended, Products, Plugin, recommend, quote, Walkthrough, Error, Scenarios, Sample, Implementation]
+keywords: [Walkthrough, Recommended, Products, Plugin, recommend, quote, Error, Scenarios, Sample, Implementation]
 ---
-
-# Recommended Products Plugin
 
 > Use the Recommended Products plugin to recommend related products based on the existing
   products on a quote.

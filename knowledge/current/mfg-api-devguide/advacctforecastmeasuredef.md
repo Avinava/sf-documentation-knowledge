@@ -5,12 +5,10 @@ topic: advacctforecastmeasuredef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:23.219Z
+lastCollected: 2026-04-07T18:38:13.474Z
 estimatedTokens: 569
-keywords: [AdvAcctForecastMeasureDef, measures, advanced, account, forecasts, grid, forecast, API, version, 53.0, later, Calls]
+keywords: [AdvAcctForecastMeasureDef, measures, advanced, account, forecasts, grid, forecast, API, 53.0]
 ---
-
-# AdvAcctForecastMeasureDef
 
 > Represents information about the measures to be displayed in the advanced
          account forecasts grid for the forecast set. This object is available in API version

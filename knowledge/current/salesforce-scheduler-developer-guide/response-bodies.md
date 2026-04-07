@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.732Z
+lastCollected: 2026-04-07T18:39:20.485Z
 estimatedTokens: 175
-keywords: [Bodies, Successful, execution, Salesforce, Scheduler, resource, either, JSON, XML, appointment, time, slots, selection, work, group]
+keywords: [Bodies, Successful, execution, Salesforce, Scheduler, resource, either, JSON, XML, appointment, time, slots, selection, work, group, territories]
 ---
-
-# Response Bodies
 
 > Successful execution of a request to a Salesforce Scheduler resource can return a response body
    either in JSON or XML format. For example, the request to get appointment time slots returns a

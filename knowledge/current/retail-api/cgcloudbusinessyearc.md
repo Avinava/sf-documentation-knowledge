@@ -5,12 +5,10 @@ topic: cgcloudbusinessyearc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.651Z
+lastCollected: 2026-04-07T18:39:13.071Z
 estimatedTokens: 1315
-keywords: [cgcloud__Business_Year__c, stores, attributes, Business, Year, API, version, 54.0, later, cgcloud, _Business, _Year, Calls, Associated, Objects]
+keywords: [cgcloud__Business_Year__c, stores, attributes, Business, Year, API, 54.0, cgcloud, _Business, _Year]
 ---
-
-# cgcloud__Business_Year__c
 
 > This object stores the attributes of the Business Year. This
       object is available in API version 54.0 and later.

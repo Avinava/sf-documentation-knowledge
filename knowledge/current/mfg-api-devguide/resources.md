@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.473Z
+lastCollected: 2026-04-07T18:38:12.772Z
 estimatedTokens: 321
 keywords: [Resources, Here’s, Manufacturing, Cloud, Business, API]
 ---
-
-# Resources
 
 > Here’s a list of Manufacturing Cloud Business API resources.
 

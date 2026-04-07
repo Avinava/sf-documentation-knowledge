@@ -5,12 +5,10 @@ topic: copy-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.766Z
+lastCollected: 2026-04-07T18:40:15.888Z
 estimatedTokens: 674
-keywords: [Copy, Data, Extension, SOAP, API, Why, How, Sample, PHP, Code]
+keywords: [Copy, Extension, SOAP, API, Why, How, Sample, PHP, Code]
 ---
-
-# Copy a Data Extension
 
 > This page contains information  about using the SOAP API to copy an existing data extension.
 

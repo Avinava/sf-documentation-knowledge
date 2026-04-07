@@ -5,12 +5,10 @@ topic: apextabpanel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.557Z
+lastCollected: 2026-04-07T18:38:50.795Z
 estimatedTokens: 1839
-keywords: [apex, tabPanel, area, displays, tabs, user, clicks, tab, tab's, associated, content, hiding, Simple, Advanced, Attributes]
+keywords: [Attributes, apex, tabPanel, area, displays, tabs, user, clicks, tab, tab's, content, hiding, Simple, Advanced]
 ---
-
-# apex:tabPanel
 
 > A page area that displays as a set of tabs. When a user clicks a
 		tab header, the tab's associated content displays, hiding the content of

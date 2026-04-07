@@ -5,12 +5,10 @@ topic: retrieve-and-recreate-an-email-message-in-an-html-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.615Z
+lastCollected: 2026-04-07T18:40:18.818Z
 estimatedTokens: 1013
-keywords: [Retrieve, Recreate, Email, Message, HTML, retrieving, content, structure, Marketing, Cloud, account, rendering, Why, How, Sample]
+keywords: [Retrieve, Recreate, Email, Message, HTML, retrieving, content, structure, Marketing, Cloud, account, rendering, Why, How, Sample, PHP, Code, Items]
 ---
-
-# Retrieve and Recreate an Email Message in an HTML Page
 
 > This page contains information  about retrieving the content and structure of an email message from a Marketing Cloud account and rendering that content within an HTML page.
 

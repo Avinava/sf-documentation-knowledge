@@ -5,12 +5,10 @@ topic: get-interactionv1interactionsidauditaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.034Z
+lastCollected: 2026-04-07T18:40:17.183Z
 estimatedTokens: 1491
-keywords: [interaction, interactions, audit, action, Retrieves, log, journey, versions, key, Pass, different, actions, history, creating, modifying]
+keywords: [interaction, interactions, audit, action, Retrieves, log, journey, versions, key, Pass, different, actions, creating, modifying, activating, deactivating, stopping, deleting, **Overview**]
 ---
-
-# GET /interaction/v1/interactions/{id}/audit/{action}
 
 > Retrieves an audit log of a journey and its versions by ID or key. Pass in different actions to see history about creating, modifying, activating, deactivating, stopping, and deleting a journey.
 

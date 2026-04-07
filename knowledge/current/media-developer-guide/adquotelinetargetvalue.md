@@ -5,12 +5,10 @@ topic: adquotelinetargetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.018Z
+lastCollected: 2026-04-07T18:38:12.315Z
 estimatedTokens: 1066
-keywords: [AdQuoteLineTargetValue, target, part, targeting, criteria, order, line, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [AdQuoteLineTargetValue, target, part, targeting, criteria, order, line, API, 63.0]
 ---
-
-# AdQuoteLineTargetValue
 
 > Represents the target values that are part of the targeting criteria
          of the ad order line. This object is available in API version 63.0 and later.

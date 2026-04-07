@@ -5,12 +5,10 @@ topic: promotionsegmentbuyergroupfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.682Z
+lastCollected: 2026-04-07T18:39:57.262Z
 estimatedTokens: 366
-keywords: [PromotionSegmentBuyerGroupFeed, Feed, tracking, PromotionSegmentBuyerGroup]
+keywords: [PromotionSegmentBuyerGroupFeed, PromotionSegmentBuyerGroup]
 ---
-
-# PromotionSegmentBuyerGroupFeed
 
 > Feed tracking for PromotionSegmentBuyerGroup.
 

@@ -6,13 +6,10 @@ topic: widgetstyle-json-and-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.891Z
+lastCollected: 2026-04-07T18:36:54.271Z
 estimatedTokens: 459
 keywords: [widgetStyle, JSON, key, widget, applied]
 ---
-
-# widgetStyle JSON and
-            Properties
 
 > The widgetStyle key contains the default widget
         properties that can be applied to each widget.

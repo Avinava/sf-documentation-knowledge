@@ -5,12 +5,10 @@ topic: serviceappointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.290Z
+lastCollected: 2026-04-07T18:40:14.303Z
 estimatedTokens: 544
-keywords: [ServiceAppointment, shifts, workplace, confirmed, service, resources, appointments, linked, planned, occupancy, resource, person, API, version, 38.0]
+keywords: [ServiceAppointment, shifts, workplace, confirmed, service, resources, appointments, linked, planned, occupancy, resource, person, API, 38.0]
 ---
-
-# ServiceAppointment
 
 > Represents available shifts for a workplace and confirmed shifts for service
       resources. Service appointments are linked to planned occupancy and, when confirmed, to a

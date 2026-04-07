@@ -5,12 +5,10 @@ topic: debug-in-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:02.643Z
+lastCollected: 2026-04-07T18:36:48.682Z
 estimatedTokens: 329
 keywords: [Debug, iOS, Connect, Safari, Web, Inspector, desktop, WebView, Service, mobile, app, LWC, running]
 ---
-
-# Debug in iOS
 
 > Connect Safari Web Inspector on your desktop to the WebView in the Field Service mobile
     app where your LWC is running.

@@ -5,12 +5,10 @@ topic: create-items-in-and-move-items-to-a-folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.174Z
+lastCollected: 2026-04-07T18:40:16.312Z
 estimatedTokens: 457
 keywords: [Items, Move, Folder, creating, new, moving, Marketing, Cloud, account, Why, How]
 ---
-
-# Create Items in and Move Items to a Folder
 
 > This page contains information  about creating new items in and moving existing items to a folder within your Marketing Cloud account.
 

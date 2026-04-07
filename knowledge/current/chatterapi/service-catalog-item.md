@@ -5,12 +5,10 @@ topic: service-catalog-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.926Z
+lastCollected: 2026-04-07T18:37:23.041Z
 estimatedTokens: 193
 keywords: [Service, Catalog, Item]
 ---
-
-# Service Catalog Item
 
 > Service catalog item.
 

@@ -5,12 +5,10 @@ topic: financial-customer-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.665Z
+lastCollected: 2026-04-07T18:35:53.635Z
 estimatedTokens: 441
-keywords: [Financial, Customer, DMO, extension, account, capture, services, attributes, Provided, Cloud, Data, Kit, API, version, later]
+keywords: [Category, Relationships, Financial, Customer, DMO, extension, account, capture, services, attributes, Provided, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Financial Customer DMO
 
 > Represents an extension of an account to capture financial services attributes.
       Provided in the Financial Services Cloud Data Kit. This DMO is available in API version 58 and

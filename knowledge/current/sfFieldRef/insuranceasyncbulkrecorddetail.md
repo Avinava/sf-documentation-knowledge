@@ -5,12 +5,10 @@ topic: insuranceasyncbulkrecorddetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.487Z
+lastCollected: 2026-04-07T18:39:45.056Z
 estimatedTokens: 329
-keywords: [InsuranceAsyncBulkRecordDetail, API, version, 64.0, later]
+keywords: [InsuranceAsyncBulkRecordDetail, API, 64.0]
 ---
-
-# InsuranceAsyncBulkRecordDetail
 
 > This object is available in API version 64.0 and later.
 

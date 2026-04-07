@@ -5,12 +5,10 @@ topic: odsr-detailed-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.846Z
+lastCollected: 2026-04-07T18:39:03.960Z
 estimatedTokens: 221
-keywords: [ODSR, Detailed, Output, representation, OCR, document, scan, result]
+keywords: [ODSR, Detailed, OCR, document, scan, result]
 ---
-
-# ODSR Detailed Output
 
 > Output representation of the OCR document scan
   result.

@@ -5,12 +5,10 @@ topic: conversationentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.048Z
+lastCollected: 2026-04-07T18:38:28.961Z
 estimatedTokens: 1861
-keywords: [ConversationEntry, message, event, voice, call, messaging, session, schema, conversation, entries, legacy, chat, Refer, Off-Core, Model]
+keywords: [ConversationEntry, message, event, voice, call, messaging, session, schema, conversation, entries, legacy, chat, Refer, Off-Core, Model, Enhanced, Channels, API, 43.0]
 ---
-
-# ConversationEntry
 
 > Represents a message or event in a voice call or messaging session.
          The schema on this page only applies to conversation entries for legacy chat. Refer to the

@@ -5,12 +5,10 @@ topic: asset-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.219Z
+lastCollected: 2026-04-07T18:40:15.246Z
 estimatedTokens: 238
-keywords: [Asset, Every, email, template, block, cloud, jpg, image, pdf, document, model, parses, stores, searches, assets]
+keywords: [Asset, Every, email, template, block, cloud, jpg, image, pdf, document, model, parses, stores, searches, assets, way, regardless, distinguish, queries, Content, Builder, Sample, Empty, Items]
 ---
-
-# Asset Type
 
 > Every asset has a type, such as email, template, block, cloud page, jpg image, or pdf document. The asset model parses, stores, and searches all assets in the same way, regardless of type, but the type is important to distinguish assets in queries and in the Content Builder UI.
 

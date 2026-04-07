@@ -5,12 +5,10 @@ topic: trim
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.517Z
+lastCollected: 2026-04-07T18:40:21.809Z
 estimatedTokens: 87
-keywords: [Trim, Function, Ordinal, **Overview**, **Syntax**, Usage]
+keywords: [Trim, Function, Ordinal, **Overview**, **Syntax**]
 ---
-
-# Trim
 
 > Trim(1)
 

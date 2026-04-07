@@ -5,12 +5,10 @@ topic: programrebatetyppayoutsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.975Z
+lastCollected: 2026-04-07T18:37:06.677Z
 estimatedTokens: 506
-keywords: [ProgramRebateTypPayoutSrc, rebate, amount, tier, applied, calculated, row, aggregate, There, relation, payout, source, API, version, 51.0]
+keywords: [ProgramRebateTypPayoutSrc, rebate, amount, tier, applied, calculated, row, aggregate, There, relation, payout, source, API, 51.0]
 ---
-
-# ProgramRebateTypPayoutSrc
 
 > The rebate amount and the tier applied calculated for each row in the
       aggregate. There is a 1 to 1 relation between payout source and aggregate. This object is

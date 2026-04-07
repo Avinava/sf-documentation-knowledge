@@ -5,12 +5,10 @@ topic: associate-actions-with-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.048Z
+lastCollected: 2026-04-07T18:39:17.717Z
 estimatedTokens: 652
-keywords: [Associate, Actions, Records, declaratively, configure, channel-specific, defaults, Recommendations, deployment, Process, Builder, flows, programmatically, SOAP, Apex]
+keywords: [Associate, Actions, Records, declaratively, configure, channel-specific, defaults, Recommendations, deployment, Process, Builder, flows, programmatically, SOAP, Apex, add, Lightning, pages, display, RecordActions, you’ve, configured]
 ---
-
-# Associate Actions with Records
 
 > To associate actions to records declaratively, configure channel-specific defaults in an
   Actions & Recommendations deployment or use Process Builder. To associate flows to records

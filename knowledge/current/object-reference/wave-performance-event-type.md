@@ -5,12 +5,10 @@ topic: wave-performance-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.916Z
+lastCollected: 2026-04-07T18:38:31.811Z
 estimatedTokens: 1268
 keywords: [Wave, Performance, Event, events, help, track, trends, Analytics]
 ---
-
-# Wave Performance Event Type
 
 > Wave Performance events help you track trends in your Analytics
          performance.

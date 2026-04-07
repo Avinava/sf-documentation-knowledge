@@ -5,12 +5,10 @@ topic: dashboard-snapshot-item-source-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.483Z
+lastCollected: 2026-04-07T18:36:57.005Z
 estimatedTokens: 77
 keywords: [Dashboard, Snapshot, Item, Source]
 ---
-
-# Dashboard Snapshot Item Source Dashboard
 
 > The dashboard source for a dashboard snapshot item.
 

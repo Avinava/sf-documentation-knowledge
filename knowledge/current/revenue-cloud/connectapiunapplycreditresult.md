@@ -5,12 +5,10 @@ topic: connectapiunapplycreditresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.719Z
+lastCollected: 2026-04-07T18:35:41.588Z
 estimatedTokens: 137
-keywords: [ConnectApi.UnapplyCreditResult, Output, representation, credit, memo, invoice, application, record, status]
+keywords: [ConnectApi.UnapplyCreditResult, credit, memo, invoice, application, record, status]
 ---
-
-# ConnectApi.UnapplyCreditResult
 
 > Output representation of the details of the credit memo invoice application record with
     the status of the request.

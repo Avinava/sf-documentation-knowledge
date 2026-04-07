@@ -5,12 +5,10 @@ topic: connectapileadstatuspicklistvalueattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.245Z
+lastCollected: 2026-04-07T18:36:09.630Z
 estimatedTokens: 165
 keywords: [Lead, status, picklist, attributes]
 ---
-
-# ConnectApi.LeadStatusPicklistValueAttributes
 
 > Lead status picklist value attributes.
 

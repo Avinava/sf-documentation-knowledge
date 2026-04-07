@@ -5,12 +5,10 @@ topic: filter-expressions-in-channel-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.070Z
+lastCollected: 2026-04-07T18:38:57.909Z
 estimatedTokens: 377
-keywords: [Filter, Expressions, Channel, Members, Add, expression, member, that’s, associated, custom, associates, platform, event, holds, filtered]
+keywords: [Filter, Expressions, Channel, Members, Add, expression, member, that’s, associates, platform, event, holds, filtered, stream, messages, match]
 ---
-
-# Filter Expressions in Channel Members
 
 > Add a filter expression in a channel member that’s associated with a custom channel. The
     channel member associates a custom platform event with the channel and specifies the filter

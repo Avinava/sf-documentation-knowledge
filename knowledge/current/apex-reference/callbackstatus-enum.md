@@ -5,12 +5,10 @@ topic: callbackstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.394Z
+lastCollected: 2026-04-07T18:36:12.690Z
 estimatedTokens: 113
 keywords: [CallbackStatus, status, asynchronous, requests, external, system]
 ---
-
-# CallbackStatus Enum
 
 > Specifies the status of asynchronous requests to an external system.
 

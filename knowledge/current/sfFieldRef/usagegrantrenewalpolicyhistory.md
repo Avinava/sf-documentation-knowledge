@@ -5,12 +5,10 @@ topic: usagegrantrenewalpolicyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.835Z
+lastCollected: 2026-04-07T18:40:04.624Z
 estimatedTokens: 274
-keywords: [UsageGrantRenewalPolicyHistory, History, tracked, UsageGrantRenewalPolicy]
+keywords: [UsageGrantRenewalPolicyHistory, tracked, UsageGrantRenewalPolicy]
 ---
-
-# UsageGrantRenewalPolicyHistory
 
 > History for tracked fields of UsageGrantRenewalPolicy.
 

@@ -5,12 +5,10 @@ topic: borrower-address-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.340Z
+lastCollected: 2026-04-07T18:37:34.930Z
 estimatedTokens: 548
-keywords: [Borrower, Address, Output, addresses]
+keywords: [Borrower, Address, addresses]
 ---
-
-# Borrower Address Output
 
 > Represents Borrower addresses.
 

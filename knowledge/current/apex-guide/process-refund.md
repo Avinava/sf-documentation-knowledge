@@ -5,12 +5,10 @@ topic: process-refund
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.593Z
+lastCollected: 2026-04-07T18:36:16.807Z
 estimatedTokens: 350
 keywords: [Process, Refund, payment, gateway]
 ---
-
-# Process Refund
 
 > Process a refund in the payment gateway.
 

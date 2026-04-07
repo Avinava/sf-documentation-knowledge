@@ -5,12 +5,10 @@ topic: using-styles-from-salesforce-stylesheets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.131Z
+lastCollected: 2026-04-07T18:38:52.437Z
 estimatedTokens: 541
-keywords: [Styles, Salesforce, Stylesheets, uses, different, css, files, throughout, application, ensure, every, tab, conforms, look, feel]
+keywords: [Styles, Salesforce, Stylesheets, uses, different, css, files, throughout, application, ensure, every, tab, conforms, look, feel, automatically, included, Visualforce, unless, specify, showHeader, attribute, <apex, page>, tag]
 ---
-
-# Using Styles from Salesforce Stylesheets
 
 > Salesforce uses different stylesheets (.css files) throughout the application to ensure
     that every tab conforms to the Salesforce look and feel. These stylesheets are automatically

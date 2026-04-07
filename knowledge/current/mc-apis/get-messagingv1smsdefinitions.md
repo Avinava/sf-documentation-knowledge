@@ -5,12 +5,10 @@ topic: get-messagingv1smsdefinitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.185Z
+lastCollected: 2026-04-07T18:40:17.341Z
 estimatedTokens: 379
-keywords: [messaging, sms, definitions, send, **Overview**, Usage, HTTP, Responses]
+keywords: [messaging, sms, definitions, send, **Overview**, HTTP, Responses]
 ---
-
-# GET /messaging/v1/sms/definitions
 
 > Gets a list of send definitions.
 

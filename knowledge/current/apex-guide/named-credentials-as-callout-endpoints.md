@@ -5,12 +5,10 @@ topic: named-credentials-as-callout-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.878Z
+lastCollected: 2026-04-07T18:36:16.097Z
 estimatedTokens: 1275
-keywords: [Named, Credentials, Callout, Endpoints, credential, URL, endpoint, authentication, definition, Salesforce, manages, Apex, callouts, specify, code]
+keywords: [Named, Credentials, Callout, Endpoints, credential, URL, endpoint, authentication, definition, Salesforce, manages, Apex, callouts, specify, code, doesn’t, skip, remote, site, settings, otherwise, external, sites, defined]
 ---
-
-# Named Credentials as Callout Endpoints
 
 > A named credential specifies the URL of a callout endpoint and its required
   authentication parameters in one definition. Salesforce manages all authentication for Apex

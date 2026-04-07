@@ -5,12 +5,10 @@ topic: retrieving-data-from-a-soup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.762Z
+lastCollected: 2026-04-07T18:40:26.992Z
 estimatedTokens: 3087
-keywords: [Retrieving, Data, Soup, SmartStore, helper, build, query, strings, Everything, Smart, SQL, SELECT, Statement, Exact, Match]
+keywords: [Retrieving, Soup, SmartStore, helper, build, query, strings, Everything, Smart, SQL, SELECT, Statement, Exact, Match, Range, Executing, Narrowing, Subset, Individual, Entries, Primary, Key]
 ---
-
-# Retrieving Data from a Soup
 
 > SmartStore provides a set of helper methods that build query strings for you.
 

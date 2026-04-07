@@ -5,12 +5,10 @@ topic: test-your-new-experience-cloud-site-login
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.976Z
+lastCollected: 2026-04-07T18:40:25.349Z
 estimatedTokens: 514
 keywords: [Test, New, Experience, Cloud, Site, Login, setup, logging, Mobile, SDK, native, hybrid, local, app, contact]
 ---
-
-# Test Your New Experience Cloud Site Login
 
 > Test your Experience Cloud site setup by logging in to your Mobile SDK
 		native or hybrid local app as your new contact.

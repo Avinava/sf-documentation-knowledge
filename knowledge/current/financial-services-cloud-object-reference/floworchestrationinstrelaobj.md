@@ -5,12 +5,10 @@ topic: floworchestrationinstrelaobj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.608Z
+lastCollected: 2026-04-07T18:37:37.394Z
 estimatedTokens: 1272
-keywords: [FlowOrchestrationInstRelaObj, junction, flow, orchestration, instance, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [FlowOrchestrationInstRelaObj, junction, flow, orchestration, instance, API, 59.0]
 ---
-
-# FlowOrchestrationInstRelaObj
 
 > Represents a junction between a flow orchestration instance and a related
          object.  This object is available in API version 59.0 and later.

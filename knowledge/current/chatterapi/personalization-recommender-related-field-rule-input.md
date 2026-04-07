@@ -5,12 +5,10 @@ topic: personalization-recommender-related-field-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.905Z
+lastCollected: 2026-04-07T18:37:09.629Z
 estimatedTokens: 207
-keywords: [Personalization, Recommender, Rule, Input]
+keywords: [Personalization, Recommender, Rule]
 ---
-
-# Personalization Recommender Related Field Rule Input
 
 > Represents a rule based on a related field.
 

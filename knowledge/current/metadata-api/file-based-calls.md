@@ -5,12 +5,10 @@ topic: file-based-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.607Z
+lastCollected: 2026-04-07T18:36:26.092Z
 estimatedTokens: 148
-keywords: [File-Based, Calls, deploy, retrieve, XML, components]
+keywords: [File-Based, deploy, retrieve, XML]
 ---
-
-# File-Based Calls
 
 > Use file-based calls to deploy or retrieve XML components.
 

@@ -5,13 +5,11 @@ topic: action-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.464Z
+lastCollected: 2026-04-07T18:38:48.415Z
 estimatedTokens: 156
 namespace: ApexPages
-keywords: [Action, ApexPages.Action, Visualforce, custom, controller, extension, Usage, Instantiation]
+keywords: [Instantiation, Action, ApexPages.Action, Visualforce, controller, extension]
 ---
-
-# Action Class
 
 > You can use ApexPages.Action to create an
         action method that you can use in a Visualforce custom controller or controller

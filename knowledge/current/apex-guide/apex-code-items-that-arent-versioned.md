@@ -5,12 +5,10 @@ topic: apex-code-items-that-arent-versioned
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.766Z
+lastCollected: 2026-04-07T18:36:17.987Z
 estimatedTokens: 491
-keywords: [Apex, Code, Items, Aren’t, Versioned, managed, packages, can’t, changes, reflected, across, package, versions, Additionally, there]
+keywords: [Apex, Code, Items, Aren’t, Versioned, managed, packages, can’t, changes, reflected, across, package, versions, Additionally, there, limitations, they]
 ---
-
-# Apex Code Items That Aren’t Versioned
 
 > Some Apex items in managed packages can’t be versioned. The changes that you make to
     these items are reflected across all package versions. Additionally, there are limitations to

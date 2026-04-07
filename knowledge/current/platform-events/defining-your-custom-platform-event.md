@@ -5,12 +5,10 @@ topic: defining-your-custom-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.005Z
+lastCollected: 2026-04-07T18:38:57.831Z
 estimatedTokens: 275
-keywords: [Defining, Custom, Platform, Event, Define, add]
+keywords: [Defining, Platform, Event, Define, add]
 ---
-
-# Defining Your Custom Platform Event
 
 > Define a platform event and add custom fields.
 

@@ -5,12 +5,10 @@ topic: metadata-api-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.047Z
+lastCollected: 2026-04-07T18:37:04.745Z
 estimatedTokens: 199
-keywords: [Metadata, API, custom, address]
+keywords: [Metadata, API, address]
 ---
-
-# Metadata API Example
 
 > To create a custom address field on an object, use Metadata API.
 

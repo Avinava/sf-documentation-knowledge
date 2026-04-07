@@ -5,12 +5,10 @@ topic: literal-json
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.883Z
+lastCollected: 2026-04-07T18:36:57.403Z
 estimatedTokens: 125
 keywords: [Literal, Json, content, results, usually, query]
 ---
-
-# Literal Json
 
 > A string of JSON content results, usually for a query response.
 

@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.679Z
+lastCollected: 2026-04-07T18:37:52.892Z
 estimatedTokens: 690
 keywords: [Resources, Insurance, Brokerage, API, Claims, insurance, group, benefits, Policy, Product, Administration, Quoting]
 ---
-
-# Resources
 
 > Learn more about the available insurance group benefits API resources.
 

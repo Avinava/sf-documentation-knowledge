@@ -5,12 +5,10 @@ topic: data-source-account-and-promotion-measures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.127Z
+lastCollected: 2026-04-07T18:39:11.734Z
 estimatedTokens: 151
-keywords: [Data, Source, Account, Promotion, Measures, sample, code, snippets, different, sources]
+keywords: [Source, Account, Promotion, Measures, sample, code, snippets, different, sources]
 ---
-
-# Data Source: Account and Promotion Measures
 
 > This section provides sample code snippets for different data sources.
 

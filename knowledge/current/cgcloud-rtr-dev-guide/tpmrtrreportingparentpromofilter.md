@@ -5,12 +5,10 @@ topic: tpmrtrreportingparentpromofilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.323Z
+lastCollected: 2026-04-07T18:37:05.046Z
 estimatedTokens: 121
 keywords: [TPM_RTRReportingParentPromoFilter, Sample, TPM, _RTRReportingParentPromoFilter]
 ---
-
-# TPM_RTRReportingParentPromoFilter
 
 > Sample of the TPM_RTRReportingParentPromoFilter class.
 

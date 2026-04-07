@@ -5,12 +5,10 @@ topic: socialpersonahistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.794Z
+lastCollected: 2026-04-07T18:40:02.478Z
 estimatedTokens: 261
-keywords: [SocialPersonaHistory, History, tracked, SocialPersona]
+keywords: [SocialPersonaHistory, tracked, SocialPersona]
 ---
-
-# SocialPersonaHistory
 
 > History for tracked fields of SocialPersona.
 

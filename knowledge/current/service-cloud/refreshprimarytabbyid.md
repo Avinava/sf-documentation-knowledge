@@ -5,12 +5,10 @@ topic: refreshprimarytabbyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.434Z
+lastCollected: 2026-04-07T18:36:50.687Z
 estimatedTokens: 349
-keywords: [refreshPrimaryTabById, Refreshes, primary, tab, including, subtabs, can't, refresh, URLs, external, pages, Visualforce, API, version, 22.0]
+keywords: [Arguments, refreshPrimaryTabById, Refreshes, primary, tab, including, subtabs, can't, refresh, URLs, external, pages, Visualforce, API, 22.0, Sample, Code–Visualforce]
 ---
-
-# refreshPrimaryTabById()
 
 > Refreshes a primary tab specified by ID, including
             its subtabs. This method can't refresh subtabs with URLs to external pages or

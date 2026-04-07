@@ -5,13 +5,11 @@ topic: digital-lending-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.274Z
+lastCollected: 2026-04-07T18:36:40.979Z
 estimatedTokens: 93
 namespace: The
 keywords: [Digital, Lending, Apex, built-in]
 ---
-
-# Digital Lending Apex Reference
 
 > Use the built-in Apex class for Digital Lending.
 

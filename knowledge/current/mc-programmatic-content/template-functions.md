@@ -5,12 +5,10 @@ topic: template-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.573Z
+lastCollected: 2026-04-07T18:40:24.010Z
 estimatedTokens: 117
-keywords: [Template, Functions, interact, templates, Marketing, Cloud, account, Load, Initialization]
+keywords: [Load, Initialization, Template, Functions, interact, templates, Marketing, Cloud, account]
 ---
-
-# Template Functions
 
 > Use these functions to interact with templates within a Marketing Cloud account.
 

@@ -5,12 +5,10 @@ topic: individualapplicationitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.045Z
+lastCollected: 2026-04-07T18:39:44.623Z
 estimatedTokens: 276
-keywords: [IndividualApplicationItemHistory, History, tracked, IndividualApplicationItem]
+keywords: [IndividualApplicationItemHistory, tracked, IndividualApplicationItem]
 ---
-
-# IndividualApplicationItemHistory
 
 > History for tracked fields of IndividualApplicationItem.
 

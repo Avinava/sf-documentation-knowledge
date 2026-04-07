@@ -5,12 +5,10 @@ topic: custom-url-paths-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.231Z
+lastCollected: 2026-04-07T18:37:33.619Z
 estimatedTokens: 571
-keywords: [Custom, URL, Paths, LWR, Sites, Unlike, Aura, Experience, Cloud, support, meaning, cluttering, site’s, URL—for, https]
+keywords: [URL, Paths, LWR, Sites, Unlike, Aura, Experience, Cloud, support, meaning, cluttering, site’s, URL—for, https, mycustomdomain.com, mypage]
 ---
-
-# Custom URL Paths in LWR Sites
 
 > Unlike Aura sites, LWR sites in Experience Cloud support custom URL paths, meaning no
   more /s cluttering up your site’s URL—for example,

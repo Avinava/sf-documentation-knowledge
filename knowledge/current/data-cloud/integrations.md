@@ -5,12 +5,10 @@ topic: integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.652Z
+lastCollected: 2026-04-07T18:35:51.511Z
 estimatedTokens: 672
-keywords: [Integrations, Salesforce, Interactions, SDK, features, built-in, CustomEvents, bind, listeners, events, specific, Web, Data, pass, detail]
+keywords: [Integrations, Salesforce, Interactions, SDK, features, built-in, CustomEvents, bind, listeners, events, specific, Web, pass, detail, event, passed, listener’s, callback, function]
 ---
-
-# Integrations
 
 > The Salesforce Interactions SDK features built-in CustomEvents that you can use to bind
     listeners to events that are specific to the Web SDK. Data that these events pass are in the

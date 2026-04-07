@@ -5,12 +5,10 @@ topic: data-import-dates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.137Z
+lastCollected: 2026-04-07T18:37:28.171Z
 estimatedTokens: 162
-keywords: [Data, Import, Dates, Limits, importing, Loader]
+keywords: [Import, Dates, Limits, importing, Loader]
 ---
-
-# Data Import Dates
 
 > Limits for importing data with Data Loader.
 

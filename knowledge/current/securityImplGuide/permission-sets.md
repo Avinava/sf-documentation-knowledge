@@ -5,12 +5,10 @@ topic: permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.582Z
+lastCollected: 2026-04-07T18:39:22.469Z
 estimatedTokens: 863
-keywords: [Permission, collection, settings, permissions, give, users, access, various, tools, functions, extend, users’, functional, changing, their]
+keywords: [Permission, collection, settings, permissions, give, users, various, tools, functions, extend, users’, functional, changing, their, profiles, recommended, way, manage]
 ---
-
-# Permission Sets
 
 > A permission set is a collection of settings and permissions that give users access
         to various tools and functions. Permission sets extend users’ functional access without

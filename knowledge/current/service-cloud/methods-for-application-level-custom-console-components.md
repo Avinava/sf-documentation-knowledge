@@ -6,13 +6,10 @@ topic: methods-for-application-level-custom-console-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.142Z
+lastCollected: 2026-04-07T18:36:50.341Z
 estimatedTokens: 1710
-keywords: [Application-Level, Custom, Console, Components, let, customize, extend, integrate, footer, sidebars, highlights, panels, interaction, logs, Salesforce]
+keywords: [Application-Level, Console, let, customize, extend, integrate, footer, sidebars, highlights, panels, interaction, logs, Salesforce, Visualforce, canvas, apps, lookup, Administrators, add, either]
 ---
-
-# Methods for Application-Level Custom Console
-Components
 
 > Custom console components let you customize, extend, or integrate the footer, sidebars,
       highlights panels, and interaction logs of a Salesforce console using Visualforce, canvas

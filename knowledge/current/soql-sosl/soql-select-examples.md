@@ -5,12 +5,10 @@ topic: soql-select-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.053Z
+lastCollected: 2026-04-07T18:40:10.011Z
 estimatedTokens: 833
 keywords: [SOQL, SELECT, Examples, text, searches]
 ---
-
-# SOQL SELECT Examples
 
 > The following are examples of text searches that use SOQL.
 

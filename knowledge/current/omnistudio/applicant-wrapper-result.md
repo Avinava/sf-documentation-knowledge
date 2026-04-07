@@ -5,12 +5,10 @@ topic: applicant-wrapper-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.023Z
+lastCollected: 2026-04-07T18:36:38.685Z
 estimatedTokens: 311
-keywords: [Applicant, Wrapper, Result, Output, representation]
+keywords: [Applicant, Wrapper, Result]
 ---
-
-# Applicant Wrapper Result
 
 > Output representation of the applicant wrapper result.
 

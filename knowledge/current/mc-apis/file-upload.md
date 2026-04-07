@@ -5,12 +5,10 @@ topic: file-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.829Z
+lastCollected: 2026-04-07T18:40:16.991Z
 estimatedTokens: 193
 keywords: [File, Upload, asset, files, gif, pdf, png, created, model, named, extension, they, support, Sample, Items]
 ---
-
-# File Upload
 
 > Some asset types are files, such as gif, pdf, and png, and can be created using the asset model. Types are named based on the file extension they support.
 

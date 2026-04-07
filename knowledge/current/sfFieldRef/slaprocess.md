@@ -5,12 +5,10 @@ topic: slaprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.734Z
+lastCollected: 2026-04-07T18:40:02.419Z
 estimatedTokens: 370
-keywords: [SlaProcess, entitlement, process, associated, API, version, 19.0, later]
+keywords: [SlaProcess, entitlement, process, API, 19.0]
 ---
-
-# SlaProcess
 
 > Represents an entitlement process associated
     with an Entitlement.

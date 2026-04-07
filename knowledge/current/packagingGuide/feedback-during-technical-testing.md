@@ -5,12 +5,10 @@ topic: feedback-during-technical-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.606Z
+lastCollected: 2026-04-07T18:38:47.548Z
 estimatedTokens: 148
 keywords: [Feedback, Technical, Testing, verify, submission, everything, evaluate, security, solution, Product, team, starts]
 ---
-
-# Feedback During Technical Testing
 
 > After we verify that your submission contains everything required to evaluate the
   security of your solution, the Product Security team starts the technical testing.

@@ -5,12 +5,10 @@ topic: environment-hub-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.419Z
+lastCollected: 2026-04-07T18:37:13.370Z
 estimatedTokens: 259
 keywords: [Environment, Hub, Resources, new, orgs, connect]
 ---
-
-# Environment Hub Resources
 
 > Use Environment Hub resources to create new orgs and connect existing orgs to the
     hub.

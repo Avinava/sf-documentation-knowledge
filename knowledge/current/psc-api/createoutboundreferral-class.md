@@ -5,13 +5,11 @@ topic: createoutboundreferral-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.340Z
+lastCollected: 2026-04-07T18:39:00.410Z
 estimatedTokens: 1650
 namespace: PublicSectrSltn
-keywords: [CreateOutboundReferral, outbound, referral, record, Special, Access, Rules, Usage]
+keywords: [CreateOutboundReferral, outbound, referral, record]
 ---
-
-# CreateOutboundReferral Class
 
 > Use this class to create an outbound referral record.
 

@@ -5,12 +5,10 @@ topic: credit-memo-unapply
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.707Z
+lastCollected: 2026-04-07T18:35:45.708Z
 estimatedTokens: 154
-keywords: [Credit, Memo, Unapply, Output, representation, invoice, application, record, status]
+keywords: [Credit, Memo, Unapply, invoice, application, record, status]
 ---
-
-# Credit Memo Unapply
 
 > Output representation of the details of the credit memo invoice application record with
     the status of the request.

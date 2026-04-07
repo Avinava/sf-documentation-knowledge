@@ -5,12 +5,10 @@ topic: update-product-assortment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.628Z
+lastCollected: 2026-04-07T18:39:11.145Z
 estimatedTokens: 210
 keywords: [Product, Assortment, Receives, products, time-dependent, account, updates]
 ---
-
-# Update Product Assortment
 
 > Receives a list of products within the time-dependent account
       product list and updates it.

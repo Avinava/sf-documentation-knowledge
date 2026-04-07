@@ -5,13 +5,11 @@ topic: jws-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.275Z
+lastCollected: 2026-04-07T18:35:59.555Z
 estimatedTokens: 1222
 namespace: Auth
-keywords: [JWS, apply, digital, JSON, Web, Token, JWT, data, structure, creates, signed, bearer, OAuth, access, 2.0]
+keywords: [JWS, apply, digital, JSON, Web, Token, JWT, structure, creates, signed, bearer, OAuth, 2.0, flow, certDevName, payload, clone, getCompactSerialization]
 ---
-
-# JWS Class
 
 > Contains methods that apply a digital signature to a JSON Web Token
       (JWT), using a JSON Web Signature (JWS) data structure. This class creates the signed JWT

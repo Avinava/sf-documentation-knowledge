@@ -5,12 +5,10 @@ topic: assetamendinitiatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.820Z
+lastCollected: 2026-04-07T18:38:58.675Z
 estimatedTokens: 692
-keywords: [AssetAmendInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-amend-quantity, REST, successful, event, amendment, order]
+keywords: [AssetAmendInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-amend-quantity, REST, successful, event, amendment, order, created, isn't, RevenueTransactionErrorLog, records, errors, how, fix, API, 56.0, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# AssetAmendInitiatedEvent
 
 > Notifies subscribers when the process started by the
             /asset-management/assets/collection/actions/initiate-amend-quantity REST

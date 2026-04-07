@@ -5,12 +5,10 @@ topic: asynchronous-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.712Z
+lastCollected: 2026-04-07T18:36:15.948Z
 estimatedTokens: 641
 keywords: [Asynchronous, Apex, offers, multiple, ways, running, code, asynchronously, Choose, feature, best, suits, needs]
 ---
-
-# Asynchronous Apex
 
 > Apex offers multiple ways for running your Apex code asynchronously. Choose the
   asynchronous Apex feature that best suits your needs.

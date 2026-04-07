@@ -5,12 +5,10 @@ topic: dealerprodtsearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:23.623Z
+lastCollected: 2026-04-07T18:38:13.947Z
 estimatedTokens: 1599
-keywords: [DealerProdtSearchableField, dealers, selling, servicing, products, location-based, searches, Helps, customers, nearby, dealer, locations, product, purchases, services]
+keywords: [DealerProdtSearchableField, dealers, selling, servicing, products, location-based, searches, Helps, customers, nearby, dealer, locations, product, purchases, services, API, 65.0]
 ---
-
-# DealerProdtSearchableField
 
 > Represents information about dealers selling and, or, servicing products for
          location-based searches. Helps customers find nearby dealer locations for product purchases

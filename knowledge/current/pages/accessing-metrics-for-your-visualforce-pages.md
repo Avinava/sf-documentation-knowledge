@@ -5,12 +5,10 @@ topic: accessing-metrics-for-your-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.191Z
+lastCollected: 2026-04-07T18:38:52.498Z
 estimatedTokens: 471
 keywords: [Accessing, Metrics, Visualforce, Pages, query, org, VisualforceAccessMetrics, Salesforce, SOAP, API]
 ---
-
-# Accessing Metrics for Your Visualforce Pages
 
 > To query metrics on the Visualforce pages in your org, use the VisualforceAccessMetrics object in the Salesforce SOAP
     API.

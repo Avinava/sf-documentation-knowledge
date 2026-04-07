@@ -5,12 +5,10 @@ topic: salesforce-scheduler-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:26.784Z
+lastCollected: 2026-04-07T18:39:20.535Z
 estimatedTokens: 186
-keywords: [Salesforce, Scheduler, Data, Model, objects, relationships, represent, appointments, employees, scheduled, attend]
+keywords: [Salesforce, Scheduler, Model, relationships, represent, appointments, employees, scheduled, attend]
 ---
-
-# Salesforce Scheduler Data Model Overview
 
 > Learn about the objects and relationships within the Salesforce Scheduler data model
     that represent appointments and employees who can be scheduled to attend

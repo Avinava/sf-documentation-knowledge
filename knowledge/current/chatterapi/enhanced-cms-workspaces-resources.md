@@ -5,12 +5,10 @@ topic: enhanced-cms-workspaces-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.441Z
+lastCollected: 2026-04-07T18:37:14.399Z
 estimatedTokens: 1381
-keywords: [Enhanced, CMS, Workspaces, Resources, managed, content, channels, channel, delivery, collection, items, Experience, Cloud, site, published]
+keywords: [Enhanced, CMS, Workspaces, Resources, managed, content, channels, channel, delivery, collection, items, Experience, Cloud, site, published, contents, piece, Search, binary, stream, media, node, searchable, status, indexes, trigger, indexing, Clone, add, remove, taxonomy, term, associations, digital, asset, management, DAM, providers, provider, instance, Publish, unpublish, variant, folder, targets, space, shared, including, variants, folders, spaces]
 ---
-
-# Enhanced CMS Workspaces Resources
 
 > Get managed content channels. Create a managed content channel. Get, update, or delete
     a managed content channel. Get managed content delivery channels. Get collection items for a

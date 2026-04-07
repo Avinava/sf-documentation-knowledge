@@ -5,12 +5,10 @@ topic: releaserelatedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.262Z
+lastCollected: 2026-04-07T18:35:55.373Z
 estimatedTokens: 394
-keywords: [ReleaseRelatedRecord, relationship, release, record, incident, problem, change, API, version, 65.0, later, Calls]
+keywords: [ReleaseRelatedRecord, relationship, release, record, incident, problem, change, API, 65.0]
 ---
-
-# ReleaseRelatedRecord
 
 > Represents the relationship between a release and a record, such as incident,
          problem, or change request. This object is available in API version 65.0 and later.

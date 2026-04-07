@@ -5,12 +5,10 @@ topic: retrieve-an-item-from-your-portfolio
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.630Z
+lastCollected: 2026-04-07T18:40:18.828Z
 estimatedTokens: 1939
-keywords: [Retrieve, Item, Portfolio, regarding, retrieving, account's, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP]
+keywords: [Retrieve, Item, Portfolio, regarding, retrieving, account's, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP, SOAP, Envelope, Items]
 ---
-
-# Retrieve an Item from Your Portfolio
 
 > This page contains information  regarding retrieving an object from your account's Portfolio.
 

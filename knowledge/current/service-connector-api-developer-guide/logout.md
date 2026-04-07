@@ -5,12 +5,10 @@ topic: logout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.492Z
+lastCollected: 2026-04-07T18:39:23.432Z
 estimatedTokens: 191
 keywords: [logout, Log, telephony, system, implement, rep, logs, phone, Omni-Channel]
 ---
-
-# logout
 
 > Log out from the telephony system. You must implement this
         method, which is called when a rep logs out of the phone system from

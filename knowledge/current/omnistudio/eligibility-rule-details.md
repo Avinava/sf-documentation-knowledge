@@ -5,12 +5,10 @@ topic: eligibility-rule-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:53.721Z
+lastCollected: 2026-04-07T18:36:39.434Z
 estimatedTokens: 707
-keywords: [Eligibility, Rule, Output, representation, qualification, disqualification, decision, tables]
+keywords: [Eligibility, Rule, qualification, disqualification, decision, tables]
 ---
-
-# Eligibility Rule Details
 
 > Output representation of eligibility rule details for qualification or disqualification
     decision tables.

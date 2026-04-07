@@ -5,12 +5,10 @@ topic: connectapihidesocialpostintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.156Z
+lastCollected: 2026-04-07T18:36:09.540Z
 estimatedTokens: 143
 keywords: [ConnectApi.HideSocialPostIntent, Hide, intent, social, post]
 ---
-
-# ConnectApi.HideSocialPostIntent
 
 > Hide intent for a social post.
 

@@ -6,13 +6,10 @@ topic: push-notifications-with-the-for-android-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.619Z
+lastCollected: 2026-04-07T18:40:27.771Z
 estimatedTokens: 1097
-keywords: [Push, Notifications, Android, take, advantage, org, app, Apex, trigger, configure, Pass, relevant, notification, case, feed]
+keywords: [Push, Notifications, Android, take, advantage, org, app, Apex, trigger, configure, Pass, relevant, notification, case, activity, Service, Chat, SDK, PushNotificationListener, implementation]
 ---
-
-# Push Notifications with the  for Android for
-      Android
 
 > To take advantage of push notifications from your org to your app, set up an Apex
     trigger and configure your app for notifications. Pass relevant notification information, such

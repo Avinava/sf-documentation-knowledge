@@ -5,12 +5,10 @@ topic: capture-externally-authorized-payments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.433Z
+lastCollected: 2026-04-07T18:37:02.982Z
 estimatedTokens: 1455
-keywords: [Capture, Externally, Authorized, Payments, Authorize, external, system, payment, Salesforce, Billing, Transaction, API, manage, lifecycle, settle]
+keywords: [Permissions, Capture, Externally, Authorized, Payments, Authorize, external, system, payment, Salesforce, Billing, Transaction, API, manage, lifecycle, settle, invoices, Managing, Authorizations, Calling, Referenced, Classes]
 ---
-
-# Capture Externally Authorized Payments
 
 > Authorize payments in an external system,  then capture the payment in Salesforce
   Billing using our Capture Transaction API methods. You can then use Salesforce Billing to manage

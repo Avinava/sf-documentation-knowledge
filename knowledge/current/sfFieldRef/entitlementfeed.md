@@ -5,12 +5,10 @@ topic: entitlementfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.005Z
+lastCollected: 2026-04-07T18:39:39.678Z
 estimatedTokens: 358
-keywords: [EntitlementFeed, Feed, tracking, Entitlement]
+keywords: [EntitlementFeed, Entitlement]
 ---
-
-# EntitlementFeed
 
 > Feed tracking for Entitlement.
 

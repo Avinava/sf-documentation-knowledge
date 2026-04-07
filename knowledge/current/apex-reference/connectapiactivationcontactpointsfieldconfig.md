@@ -5,12 +5,10 @@ topic: connectapiactivationcontactpointsfieldconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.707Z
+lastCollected: 2026-04-07T18:36:07.050Z
 estimatedTokens: 80
-keywords: [activation, contact, points, configuration, output]
+keywords: [activation, contact, points, configuration]
 ---
-
-# ConnectApi.ActivationContactPointsFieldConfig
 
 > Represents the activation contact points field configuration output.
 

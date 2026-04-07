@@ -5,12 +5,10 @@ topic: service-appointment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.386Z
+lastCollected: 2026-04-07T18:39:20.097Z
 estimatedTokens: 730
-keywords: [Service, Appointment, Input, representation]
+keywords: [Service, Appointment]
 ---
-
-# Service Appointment Input
 
 > Input representation of the service appointment
     details.

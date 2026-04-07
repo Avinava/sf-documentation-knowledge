@@ -5,12 +5,10 @@ topic: recurrenceschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.511Z
+lastCollected: 2026-04-07T18:39:59.172Z
 estimatedTokens: 428
-keywords: [RecurrenceSchedule, recurrence, schedule, benefit, Program, Management, API, version, 57.0, later]
+keywords: [RecurrenceSchedule, recurrence, schedule, benefit, Program, Management, API, 57.0]
 ---
-
-# RecurrenceSchedule
 
 > Represents the recurrence schedule for a benefit schedule. This
       object is available with Program Management in API version 57.0 and later.

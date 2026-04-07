@@ -5,12 +5,10 @@ topic: disputereason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.287Z
+lastCollected: 2026-04-07T18:37:37.061Z
 estimatedTokens: 1333
-keywords: [DisputeReason, reason, transaction, dispute, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [DisputeReason, reason, transaction, dispute, API, 61.0]
 ---
-
-# DisputeReason
 
 > Represents the reason for the transaction dispute. This object is
       available in API version 61.0 and later.

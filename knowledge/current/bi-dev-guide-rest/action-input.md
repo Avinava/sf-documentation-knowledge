@@ -5,12 +5,10 @@ topic: action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.147Z
+lastCollected: 2026-04-07T18:36:54.513Z
 estimatedTokens: 300
-keywords: [Action, Input, rule, macro, perform, JSON, transformation]
+keywords: [Action, rule, macro, perform, JSON, transformation]
 ---
-
-# Action Input
 
 > The action for a rule or macro to perform during a JSON transformation.
 

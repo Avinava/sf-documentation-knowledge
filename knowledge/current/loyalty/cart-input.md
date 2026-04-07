@@ -5,12 +5,10 @@ topic: cart-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.947Z
+lastCollected: 2026-04-07T18:38:07.164Z
 estimatedTokens: 247
-keywords: [Cart, Input, line, items, that's, evaluate, execute, promotions]
+keywords: [Cart, line, items, that's, evaluate, execute, promotions]
 ---
-
-# Cart Input
 
 > The details of a cart and its line items that's used to evaluate and execute
     promotions.

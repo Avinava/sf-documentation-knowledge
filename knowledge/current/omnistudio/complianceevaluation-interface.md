@@ -5,13 +5,11 @@ topic: complianceevaluation-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.526Z
+lastCollected: 2026-04-07T18:36:36.061Z
 estimatedTokens: 777
 namespace: ComplianceMgmt
-keywords: [ComplianceEvaluation, evaluate, compliance, control, Add, logic, compute, var1, data, ControlEvaluationInput, Usage, Implementation]
+keywords: [ComplianceEvaluation, evaluate, compliance, control, Add, logic, compute, var1, ControlEvaluationInput, Implementation]
 ---
-
-# ComplianceEvaluation Interface
 
 > Contains a method to evaluate compliance control. Add logic to compute compliance in the
     evaluate(var1) method by using the data from ControlEvaluationInput class.

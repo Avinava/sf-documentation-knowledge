@@ -6,13 +6,10 @@ topic: saql-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.776Z
+lastCollected: 2026-04-07T18:36:54.147Z
 estimatedTokens: 1082
-keywords: [saql, Step, special, cases, querying, Analytics, dataset, write, custom, query, derived, specify, dimensions, groupings, bind]
+keywords: [saql, Step, cases, querying, Analytics, dataset, write, query, derived, specify, dimensions, groupings, bind, entire, different, queries, datasets, selection, Bound]
 ---
-
-# saql Step Type
-        Properties
 
 > Use the saql step type for special cases when
         querying a Analytics dataset. With this step type, you can write a custom SAQL query to

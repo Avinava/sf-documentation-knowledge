@@ -5,12 +5,10 @@ topic: networkdiscoverablelogin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.870Z
+lastCollected: 2026-04-07T18:38:36.071Z
 estimatedTokens: 549
-keywords: [NetworkDiscoverableLogin, Login, Discoverable, customers, partners, log, Experience, Cloud, site, users, External, Identity, license, any, communities]
+keywords: [NetworkDiscoverableLogin, Login, Discoverable, customers, partners, log, Experience, Cloud, site, users, External, Identity, license, any, communities, API, 44.0]
 ---
-
-# NetworkDiscoverableLogin
 
 > Represents the Login Discoverable page from where customers and partners log in to an Experience Cloud site. Customers and partners are users with an External Identity
 			license or any communities license for Experience Cloud. This object is available in API version 44.0 and later.

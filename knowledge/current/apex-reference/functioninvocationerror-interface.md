@@ -5,12 +5,10 @@ topic: functioninvocationerror-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.158Z
+lastCollected: 2026-04-07T18:36:13.468Z
 estimatedTokens: 545
-keywords: [FunctionInvocationError, detailed, error, failed, Function, invocation, Usage, getMessage, getType, Implementation]
+keywords: [FunctionInvocationError, detailed, error, failed, Function, invocation, getMessage, getType, Implementation]
 ---
-
-# FunctionInvocationError Interface
 
 > Use FunctionInvocationError to get detailed error information about a
       failed Function invocation.

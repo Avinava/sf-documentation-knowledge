@@ -5,12 +5,10 @@ topic: opportunityrelateddeletelog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.167Z
+lastCollected: 2026-04-07T18:39:50.588Z
 estimatedTokens: 401
-keywords: [OpportunityRelatedDeleteLog, audit, log, deletion, opportunity-related, child, records, opportunity, team, members, product, splits, API, version, 59.0]
+keywords: [OpportunityRelatedDeleteLog, audit, log, deletion, opportunity-related, child, records, opportunity, team, members, product, splits, API, 59.0]
 ---
-
-# OpportunityRelatedDeleteLog
 
 > Represents an audit log of the deletion of opportunity-related child
          records, such as opportunity team members, product splits, or opportunity splits. This

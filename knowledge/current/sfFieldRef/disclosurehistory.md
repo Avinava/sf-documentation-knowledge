@@ -5,12 +5,10 @@ topic: disclosurehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.372Z
+lastCollected: 2026-04-07T18:39:38.094Z
 estimatedTokens: 257
-keywords: [DisclosureHistory, History, tracked, Disclosure]
+keywords: [DisclosureHistory, tracked, Disclosure]
 ---
-
-# DisclosureHistory
 
 > History for tracked fields of Disclosure.
 

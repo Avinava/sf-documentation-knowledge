@@ -5,12 +5,10 @@ topic: subscribe-and-unsubscribe-from-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.572Z
+lastCollected: 2026-04-07T18:38:48.519Z
 estimatedTokens: 657
 keywords: [Subscribe, Unsubscribe, Message, Channel, sforce.one.subscribe, sforce.one.unsubscribe]
 ---
-
-# Subscribe and Unsubscribe from a Message Channel
 
 > To subscribe and unsubscribe from a message channel, use the sforce.one.subscribe() and sforce.one.unsubscribe() methods.
 

@@ -5,12 +5,10 @@ topic: connectapirepositoryfolderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.340Z
+lastCollected: 2026-04-07T18:36:11.624Z
 estimatedTokens: 181
 keywords: [ConnectApi.RepositoryFolderItem, folder, item]
 ---
-
-# ConnectApi.RepositoryFolderItem
 
 > A folder item.
 

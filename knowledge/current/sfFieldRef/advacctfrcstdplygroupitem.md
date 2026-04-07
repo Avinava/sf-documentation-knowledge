@@ -5,12 +5,10 @@ topic: advacctfrcstdplygroupitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.204Z
+lastCollected: 2026-04-07T18:39:25.107Z
 estimatedTokens: 279
-keywords: [AdvAcctFrcstDplyGroupItem, items, associated, display, group, advanced, account, forecast]
+keywords: [AdvAcctFrcstDplyGroupItem, items, display, group, advanced, account, forecast]
 ---
-
-# AdvAcctFrcstDplyGroupItem
 
 > Represents information about the items associated with a display group for an
          advanced account forecast set.

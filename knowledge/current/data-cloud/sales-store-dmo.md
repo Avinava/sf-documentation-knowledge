@@ -5,12 +5,10 @@ topic: sales-store-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.531Z
+lastCollected: 2026-04-07T18:35:54.590Z
 estimatedTokens: 439
-keywords: [Sales, Store, DMO, Data, Cloud, model, regarding, retail, establishment, selling, items, API, Category, Primary, Subject]
+keywords: [Category, Relationships, Sales, Store, DMO, Cloud, model, regarding, retail, establishment, selling, items, API, Primary, Subject, Area, Key]
 ---
-
-# Sales Store DMO
 
 > The Sales Store DMO is a Data Cloud data model object (DMO) that provides
       information regarding a retail establishment selling items to the public.

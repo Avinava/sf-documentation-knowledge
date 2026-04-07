@@ -5,13 +5,11 @@ topic: describequickactionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.679Z
+lastCollected: 2026-04-07T18:36:02.885Z
 estimatedTokens: 9755
 namespace: QuickAction
-keywords: [DescribeQuickActionResult, Canvas, application, invoked, custom, action, Usage, canvasapplicationname, colors, contextsobjecttype, defaultvalues, flowdevname, flowrecordidvar, height, iconname]
+keywords: [DescribeQuickActionResult, Canvas, application, invoked, action, canvasapplicationname, colors, contextsobjecttype, defaultvalues, flowdevname, flowrecordidvar, height, iconname, icons, iconurl, layout, lightningcomponentbundleid, lightningcomponentbundlename, lightningcomponentqualifiedname, lightningwebcomponentbundleid, lightningwebcomponentbundlename, lightningwebcomponentqualifiedname, miniiconurl, showquickactionlcheader, showquickactionvfheader, targetparentfield, targetrecordtypeid, targetsobjecttype, visualforcepagename, visualforcepageurl, width, getActionEnumOrId, getCanvasApplicationName, getColors, getContextSobjectType, getDefaultValues, getFlowDevName, getFlowRecordIdVar, getHeight, getIconName, getIconUrl, getIcons, getLabel, getLayout, getLightningComponentBundleId, getLightningComponentBundleName, getLightningComponentQualifiedName, getLightningWebComponentBundleId, getLightningWebComponentBundleName, getLightningWebComponentQualifiedName, getMiniIconUrl, getName, getShowQuickActionLcHeader, getShowQuickActionVfHeader, getSourceSobjectType, getTargetParentField, getTargetRecordTypeId, getTargetSobjectType, getType, getVisualforcePageName, getVisualforcePageUrl, getWidth]
 ---
-
-# DescribeQuickActionResult Class
 
 > The name of the Canvas application invoked by the custom
       action.

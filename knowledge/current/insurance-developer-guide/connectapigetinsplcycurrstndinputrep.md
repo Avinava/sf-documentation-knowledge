@@ -5,12 +5,10 @@ topic: connectapigetinsplcycurrstndinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.933Z
+lastCollected: 2026-04-07T18:37:49.805Z
 estimatedTokens: 264
 keywords: [ConnectApi.GetInsPlcyCurrStndInputRep, Apex, record, needed, retrieve, consumed, limits, policy, claim]
 ---
-
-# ConnectApi.GetInsPlcyCurrStndInputRep
 
 > An Apex ConnectApi.GetInsPlcyLmtCurrStndInputRep record that contains the details needed to retrieve the consumed and available limits for the policy or claim.
 

@@ -5,12 +5,10 @@ topic: suggestedassessmentdefhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.392Z
+lastCollected: 2026-04-07T18:40:03.082Z
 estimatedTokens: 276
-keywords: [SuggestedAssessmentDefHistory, History, tracked, SuggestedAssessmentDef]
+keywords: [SuggestedAssessmentDefHistory, tracked, SuggestedAssessmentDef]
 ---
-
-# SuggestedAssessmentDefHistory
 
 > History for tracked fields of SuggestedAssessmentDef.
 

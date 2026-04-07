@@ -5,12 +5,10 @@ topic: reputationlevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.418Z
+lastCollected: 2026-04-07T18:38:40.025Z
 estimatedTokens: 261
-keywords: [ReputationLevel, reputation, level, defined, Experience, Cloud, site, API, version, 32.0, later, Calls, Special, Access, Rules]
+keywords: [ReputationLevel, reputation, level, defined, Experience, Cloud, site, API, 32.0]
 ---
-
-# ReputationLevel
 
 > Represents a
 					reputation level defined for an Experience Cloud site.

@@ -5,12 +5,10 @@ topic: casesubjectparticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.094Z
+lastCollected: 2026-04-07T18:39:33.503Z
 estimatedTokens: 346
-keywords: [CaseSubjectParticle, Social, Business, Rules, custom, Case, Subject, cases, created, inbound, posts, API, version, 41.0, later]
+keywords: [CaseSubjectParticle, Social, Business, Case, Subject, cases, created, inbound, posts, API, 41.0]
 ---
-
-# CaseSubjectParticle
 
 > Represents the Social Business Rules custom format for the Case
         Subject field on cases created from inbound social posts. This object is

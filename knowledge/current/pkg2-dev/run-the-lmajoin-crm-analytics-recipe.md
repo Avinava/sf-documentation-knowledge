@@ -5,12 +5,10 @@ topic: run-the-lmajoin-crm-analytics-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.343Z
+lastCollected: 2026-04-07T18:38:54.735Z
 estimatedTokens: 183
 keywords: [Run, LMAJoin, CRM, Analytics, Recipe, reusable, dataset, schedule, regular, basis, recommend, daily, midnight]
 ---
-
-# Run the LMAJoin CRM Analytics Recipe
 
 > To create a reusable dataset, schedule your LMAJoin CRM Analytics recipe to run on a
   regular basis. We recommend daily at midnight.

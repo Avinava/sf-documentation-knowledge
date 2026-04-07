@@ -5,12 +5,10 @@ topic: patientimmunizationprotocolhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.189Z
+lastCollected: 2026-04-07T18:39:52.674Z
 estimatedTokens: 279
-keywords: [PatientImmunizationProtocolHistory, History, tracked, PatientImmunizationProtocol]
+keywords: [PatientImmunizationProtocolHistory, tracked, PatientImmunizationProtocol]
 ---
-
-# PatientImmunizationProtocolHistory
 
 > History for tracked fields of PatientImmunizationProtocol.
 

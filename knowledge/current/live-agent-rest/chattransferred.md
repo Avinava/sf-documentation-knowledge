@@ -5,12 +5,10 @@ topic: chattransferred
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.144Z
+lastCollected: 2026-04-07T18:38:06.415Z
 estimatedTokens: 55
 keywords: [ChatTransferred, chat, transferred, agent, another]
 ---
-
-# ChatTransferred
 
 > Indicates the chat was transferred from one agent to another.
 

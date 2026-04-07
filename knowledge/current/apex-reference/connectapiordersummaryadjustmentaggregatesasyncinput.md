@@ -5,12 +5,10 @@ topic: connectapiordersummaryadjustmentaggregatesasyncinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.659Z
+lastCollected: 2026-04-07T18:36:06.017Z
 estimatedTokens: 77
 keywords: [Order, summary, IDs, calculating, adjustment, aggregates]
 ---
-
-# ConnectApi.OrderSummaryAdjustmentAggregatesAsyncInput
 
 > Order summary IDs for calculating adjustment
       aggregates.

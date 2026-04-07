@@ -5,12 +5,10 @@ topic: trackingevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.427Z
+lastCollected: 2026-04-07T18:40:20.673Z
 estimatedTokens: 572
-keywords: [TrackingEvent, tracking, regarding, specific, send, parent, derive, Developers, cannot, interact, directly, Items]
+keywords: [TrackingEvent, regarding, specific, send, parent, derive, Developers, cannot, interact, directly, Items]
 ---
-
-# TrackingEvent
 
 > The TrackingEvent object contains tracking information regarding a specific send. This parent object allows other object to derive information from it. Developers cannot interact directly with this object.
 

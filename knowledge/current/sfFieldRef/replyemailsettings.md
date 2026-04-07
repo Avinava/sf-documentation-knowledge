@@ -5,12 +5,10 @@ topic: replyemailsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.045Z
+lastCollected: 2026-04-07T18:39:59.715Z
 estimatedTokens: 472
-keywords: [ReplyEmailSettings, reply, mail, management, configuration, configure, emails, received, email, sending, domain, API, version, 62.0, later]
+keywords: [ReplyEmailSettings, reply, mail, management, configuration, configure, emails, received, email, sending, domain, API, 62.0]
 ---
-
-# ReplyEmailSettings
 
 > Represents a reply mail management configuration, which is used to configure
          emails that are received by an email sending domain. This object is available in API

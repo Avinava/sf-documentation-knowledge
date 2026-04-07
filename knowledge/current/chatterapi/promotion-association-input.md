@@ -5,12 +5,10 @@ topic: promotion-association-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.073Z
+lastCollected: 2026-04-07T18:37:09.794Z
 estimatedTokens: 310
-keywords: [Promotion, Association, Input, Cart, items, any, discounts, associated]
+keywords: [Promotion, Association, Cart, items, any, discounts]
 ---
-
-# Promotion Association Input
 
 > Cart and its cart items before any promotion discounts are
 			associated with them.

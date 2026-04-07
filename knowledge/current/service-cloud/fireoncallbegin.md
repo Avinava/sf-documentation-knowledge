@@ -5,12 +5,10 @@ topic: fireoncallbegin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.041Z
+lastCollected: 2026-04-07T18:36:49.121Z
 estimatedTokens: 260
-keywords: [fireOnCallBegin, Fires, event, notifies, call, begun, send, interaction, log, custom, console, component, API, version, 31.0]
+keywords: [Arguments, fireOnCallBegin, Fires, event, notifies, call, begun, send, interaction, log, console, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# fireOnCallBegin()
 
 > Fires an event that notifies a call has begun. Use to get information or send information between an interaction
                 log and a custom console component.

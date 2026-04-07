@@ -5,13 +5,11 @@ topic: genaiplannerbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.035Z
+lastCollected: 2026-04-07T18:36:26.481Z
 estimatedTokens: 2407
 namespace: Namespace.TopicName.ActionName.AttributeName
-keywords: [GenAiPlannerBundle, planner, agent, template, It’s, container, topics, actions, interact, large, language, model, LLM, Parent, File]
+keywords: [GenAiPlannerBundle, GenAiPlannerAttrMapping, GenAiPlannerFunctionDef, GenAiLocalPlugin, GenAiPlannerRuleExprAsgn, GenAiPlannerRuleExprDef, GenAiPlannerRuleExprCondition, planner, agent, template, It’s, container, topics, actions, interact, large, language, model, LLM, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# GenAiPlannerBundle
 
 > Represents a planner for an agent or agent template. It’s a
 			container for all the topics and actions used to interact with a large language model

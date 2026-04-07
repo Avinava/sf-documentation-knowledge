@@ -5,12 +5,10 @@ topic: setasyncasync
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.966Z
+lastCollected: 2026-04-07T18:36:04.189Z
 estimatedTokens: 119
 keywords: [setAsync, async, whether, payment, capture, authorization, asynchronous, synchronous, record, created, status, Pending]
 ---
-
-# setAsync(async)
 
 > Sets whether the payment capture or authorization is asynchronous
         (True) or synchronous (False). If True, then the payment or payment

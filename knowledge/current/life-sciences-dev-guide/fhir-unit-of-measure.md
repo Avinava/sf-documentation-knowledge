@@ -5,12 +5,10 @@ topic: fhir-unit-of-measure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.842Z
+lastCollected: 2026-04-07T18:37:55.205Z
 estimatedTokens: 142
-keywords: [FHIR, Unit, Measure, Input, representation]
+keywords: [FHIR, Unit, Measure]
 ---
-
-# FHIR Unit Of Measure
 
 > Input representation for Unit of Measure.
 

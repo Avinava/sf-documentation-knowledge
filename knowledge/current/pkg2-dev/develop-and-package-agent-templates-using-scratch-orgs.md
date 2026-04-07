@@ -5,12 +5,10 @@ topic: develop-and-package-agent-templates-using-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.640Z
+lastCollected: 2026-04-07T18:38:55.049Z
 estimatedTokens: 1926
-keywords: [Develop, Package, Agent, Templates, Scratch, Orgs, high-level, agents, distributed, ISVs, template, test, namespaced, org, retrieve]
+keywords: [Develop, Package, Agent, Templates, Scratch, Orgs, high-level, agents, distributed, ISVs, template, test, namespaced, org, retrieve, Salesforce, project, generate, CLI, finally, Metadata, Agentforce]
 ---
-
-# Develop and Package Agent Templates Using Scratch Orgs
 
 > At a high-level, agents are distributed by ISVs as agent templates. To package an agent
     template, you first create and test an agent in a namespaced scratch org. Then retrieve the

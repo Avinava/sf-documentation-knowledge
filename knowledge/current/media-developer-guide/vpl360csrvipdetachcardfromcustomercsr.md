@@ -5,12 +5,10 @@ topic: vpl360csrvipdetachcardfromcustomercsr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.264Z
+lastCollected: 2026-04-07T18:38:11.579Z
 estimatedTokens: 148
-keywords: [VPL360CSR_VIP_DetachcardFromCustomerCSR, Integration, Procedure, detaches, payment, card, customer's, account, enabling, customer, VPL360CSR, _VIP, _DetachcardFromCustomerCSR, Sample, Input]
+keywords: [VPL360CSR_VIP_DetachcardFromCustomerCSR, Integration, Procedure, detaches, payment, card, customer's, account, enabling, customer, VPL360CSR, _VIP, _DetachcardFromCustomerCSR, Sample]
 ---
-
-# VPL360CSR_VIP_DetachcardFromCustomerCSR
 
 > This Integration Procedure detaches a payment card from the
     customer's account, enabling the customer to update the card details.

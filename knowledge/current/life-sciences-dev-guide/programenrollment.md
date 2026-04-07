@@ -5,12 +5,10 @@ topic: programenrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:08.356Z
+lastCollected: 2026-04-07T18:37:57.887Z
 estimatedTokens: 1025
-keywords: [ProgramEnrollment, enrollment, benefits, program, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [ProgramEnrollment, enrollment, benefits, program, API, 57.0]
 ---
-
-# ProgramEnrollment
 
 > Represents details of enrollment for benefits in a program. This
       object is available in API version 57.0 and later.

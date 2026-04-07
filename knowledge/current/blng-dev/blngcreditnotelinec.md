@@ -5,12 +5,10 @@ topic: blngcreditnotelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.956Z
+lastCollected: 2026-04-07T18:37:04.628Z
 estimatedTokens: 3661
-keywords: [blng__CreditNoteLine__c, product, service, adjustment, tax, line, items, were, included, credit, blng, _CreditNoteLine, Calls]
+keywords: [blng__CreditNoteLine__c, product, service, adjustment, tax, line, items, were, included, credit, blng, _CreditNoteLine]
 ---
-
-# blng__CreditNoteLine__c
 
 > Represents product, service, adjustment, or tax line items that were included
          in a credit note.

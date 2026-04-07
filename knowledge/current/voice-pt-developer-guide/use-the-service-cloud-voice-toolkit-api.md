@@ -5,12 +5,10 @@ topic: use-the-service-cloud-voice-toolkit-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.379Z
+lastCollected: 2026-04-07T18:40:13.308Z
 estimatedTokens: 409
 keywords: [Service, Cloud, Voice, Toolkit, API, Configure, APIs, listen, telephony, events, perform, actions]
 ---
-
-# Use the Service Cloud Voice Toolkit API
 
 > Configure the Service Cloud Voice Toolkit APIs to listen to telephony events and
     perform telephony actions.

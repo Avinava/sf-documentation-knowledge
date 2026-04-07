@@ -6,13 +6,10 @@ topic: step-1-developer-registration-with-mobile-os-vendors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:15.961Z
+lastCollected: 2026-04-07T18:39:09.283Z
 estimatedTokens: 1007
-keywords: [Step, Developer, Registration, Mobile, Vendors, asks, vendor, prepared, handle, Salesforce, push, notifications, sent, app, you’ll]
+keywords: [Step, Developer, Registration, Mobile, Vendors, asks, vendor, prepared, handle, Salesforce, push, notifications, sent, app, you’ll, finish, configuring, external, client, Android, iOS]
 ---
-
-# Step 1. Developer Registration with Mobile
-OS Vendors
 
 > This step asks the OS vendor to be prepared to handle Salesforce push notifications sent
     to your app. Developer registration also provides some information you’ll need to finish

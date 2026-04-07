@@ -5,12 +5,10 @@ topic: businessalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.982Z
+lastCollected: 2026-04-07T18:38:26.959Z
 estimatedTokens: 809
-keywords: [BusinessAlert, insight, notifications, Einstein, Relationship, Insights, explores, news, mentions, job, updates, relationships, API, version, 57.0]
+keywords: [BusinessAlert, insight, notifications, Einstein, Relationship, Insights, explores, news, mentions, job, updates, relationships, API, 57.0]
 ---
-
-# BusinessAlert
 
 > Represents information about insight notifications that Einstein Relationship Insights
       explores, such as news mentions, job updates, and relationships. This object is available in

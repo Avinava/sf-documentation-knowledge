@@ -5,12 +5,10 @@ topic: broadcasttopicnetwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.931Z
+lastCollected: 2026-04-07T18:38:26.904Z
 estimatedTokens: 528
-keywords: [BroadcastTopicNetwork, link, broadcast, topic, Experience, Cloud, network, site, Service, API, version, 56.0, later, Calls, Special]
+keywords: [BroadcastTopicNetwork, link, broadcast, topic, Experience, Cloud, network, site, Service, API, 56.0]
 ---
-
-# BroadcastTopicNetwork
 
 > Represents a link between a broadcast topic and the Experience Cloud network
          site for Service Cloud. This object is available in API version 56.0 and later.

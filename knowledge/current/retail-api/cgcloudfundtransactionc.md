@@ -5,12 +5,10 @@ topic: cgcloudfundtransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.136Z
+lastCollected: 2026-04-07T18:39:13.546Z
 estimatedTokens: 1642
-keywords: [cgcloud__Fund_Transaction__c, Holds, fund, transaction, API, version, 54.0, later, cgcloud, _Fund, _Transaction, Calls, Associated, Objects]
+keywords: [cgcloud__Fund_Transaction__c, Holds, fund, transaction, API, 54.0, cgcloud, _Fund, _Transaction]
 ---
-
-# cgcloud__Fund_Transaction__c
 
 > Holds the fund
          transaction

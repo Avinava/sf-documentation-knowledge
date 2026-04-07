@@ -5,12 +5,10 @@ topic: loyalty-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.685Z
+lastCollected: 2026-04-07T18:38:09.019Z
 estimatedTokens: 1575
-keywords: [Loyalty, Management, Standard, Invocable, Actions, manage, programs, organization, tier, groups, group, members, change, member, their]
+keywords: [Loyalty, Management, Standard, Invocable, Actions, manage, programs, organization, tier, groups, group, members, change, member, their, points, assign, process, benefits, issue, voucher, cancel, redemption, transactions, REST, API, Developer]
 ---
-
-# Loyalty Management Standard Invocable Actions
 
 > Create and manage loyalty programs for your organization using
       invocable actions. Use tier groups to group members and change member tier based on their

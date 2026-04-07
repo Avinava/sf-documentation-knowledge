@@ -5,12 +5,10 @@ topic: record-rollup-result-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.672Z
+lastCollected: 2026-04-07T18:36:40.385Z
 estimatedTokens: 100
-keywords: [Record, Rollup, Result, Row, Output, representation, consolidated, view, data]
+keywords: [Record, Rollup, Result, Row, consolidated, view]
 ---
-
-# Record Rollup Result Row
 
 > Output representation of the consolidated view of the table row data.
 

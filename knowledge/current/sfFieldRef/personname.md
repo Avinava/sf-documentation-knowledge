@@ -5,12 +5,10 @@ topic: personname
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.492Z
+lastCollected: 2026-04-07T18:39:54.032Z
 estimatedTokens: 439
-keywords: [PersonName, detailed, person’s, API, version, 51.0, later]
+keywords: [PersonName, detailed, person’s, API, 51.0]
 ---
-
-# PersonName
 
 > Represents detailed information about a person’s name. This object is
     available in API version 51.0 and later.

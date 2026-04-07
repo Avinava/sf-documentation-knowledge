@@ -5,12 +5,10 @@ topic: error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.012Z
+lastCollected: 2026-04-07T18:36:25.496Z
 estimatedTokens: 214
-keywords: [Error, occurred, synchronous, CRUD, createMetadata, updateMetadata, deleteMetadata, operation, Version]
+keywords: [Error, occurred, synchronous, CRUD, createMetadata, updateMetadata, deleteMetadata, operation]
 ---
-
-# Error
 
 > Represents an error that occurred during
 a synchronous CRUD (createMetadata(), updateMetadata(), or deleteMetadata()) operation.

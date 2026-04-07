@@ -5,12 +5,10 @@ topic: create-social-named-credential-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.025Z
+lastCollected: 2026-04-07T18:37:18.100Z
 estimatedTokens: 173
 keywords: [Social, Named, Credential, Result, creating, external, channel]
 ---
-
-# Create Social Named Credential Result
 
 > Result of a creating a named credential for a social external channel.
 

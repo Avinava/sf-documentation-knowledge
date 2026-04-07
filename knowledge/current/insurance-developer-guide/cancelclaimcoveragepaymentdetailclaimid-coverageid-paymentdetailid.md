@@ -5,12 +5,10 @@ topic: cancelclaimcoveragepaymentdetailclaimid-coverageid-paymentdetailid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.395Z
+lastCollected: 2026-04-07T18:37:49.226Z
 estimatedTokens: 362
-keywords: [CancelClaimCoveragePaymentDetail, claimId, coverageId, paymentDetailId, Cancel, payment, claim, coverage, detail, record, API, Version, Requires, Chatter]
+keywords: [CancelClaimCoveragePaymentDetail, claimId, coverageId, paymentDetailId, Cancel, payment, claim, coverage, detail, record, API, Requires, Chatter]
 ---
-
-# CancelClaimCoveragePaymentDetail(claimId, coverageId, paymentDetailId)
 
 > Cancel payment for a claim coverage payment detail record.
 

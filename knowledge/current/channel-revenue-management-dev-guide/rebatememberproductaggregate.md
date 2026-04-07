@@ -5,12 +5,10 @@ topic: rebatememberproductaggregate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.061Z
+lastCollected: 2026-04-07T18:37:06.767Z
 estimatedTokens: 1238
-keywords: [RebateMemberProductAggregate, Stores, post, calculation, summary, journal, transactions, member, period, rebate, ABC, enterprises, May, against, Vol]
+keywords: [RebateMemberProductAggregate, Stores, post, calculation, summary, journal, transactions, member, period, rebate, ABC, enterprises, May, against, Vol, Radius, category, did, total, quantity, units, transaction, amount, $80, API, 65.0]
 ---
-
-# RebateMemberProductAggregate
 
 > Stores the post calculation summary of journal transactions by member, period,
       and rebate type. For example, ABC enterprises for May 2021 against Vol Rebate on Radius

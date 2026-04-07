@@ -5,13 +5,11 @@ topic: harmonizebilling-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.479Z
+lastCollected: 2026-04-07T18:35:40.269Z
 estimatedTokens: 437
 namespace: ConnectApi
-keywords: [HarmonizeBilling, status, invoice, Draft, Posted, postDraftInvoices, inputRequest, API, Version, Requires, Chatter, Usage]
+keywords: [HarmonizeBilling, status, invoice, Draft, Posted, postDraftInvoices, inputRequest, API, Requires, Chatter]
 ---
-
-# HarmonizeBilling Class
 
 > Update the status of the invoice from Draft to Posted by using the HarmonizeBilling
   class.

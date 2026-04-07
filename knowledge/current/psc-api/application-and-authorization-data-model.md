@@ -5,12 +5,10 @@ topic: application-and-authorization-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.980Z
+lastCollected: 2026-04-07T18:39:04.993Z
 estimatedTokens: 168
-keywords: [Application, Authorization, Data, Model, objects, relationships, applications, authorizations, Sector, Solutions]
+keywords: [Application, Authorization, Model, relationships, applications, authorizations, Sector, Solutions]
 ---
-
-# Application and Authorization Data Model
 
 > Learn about the objects and relationships used for applications and authorizations in Public Sector Solutions.
 

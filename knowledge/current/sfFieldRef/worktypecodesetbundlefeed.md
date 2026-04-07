@@ -5,12 +5,10 @@ topic: worktypecodesetbundlefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.372Z
+lastCollected: 2026-04-07T18:40:07.295Z
 estimatedTokens: 301
-keywords: [WorkTypeCodeSetBundleFeed, Feed, tracking, WorkTypeCodeSetBundle]
+keywords: [WorkTypeCodeSetBundleFeed, WorkTypeCodeSetBundle]
 ---
-
-# WorkTypeCodeSetBundleFeed
 
 > Feed tracking for WorkTypeCodeSetBundle.
 

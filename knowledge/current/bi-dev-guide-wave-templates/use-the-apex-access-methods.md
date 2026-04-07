@@ -6,13 +6,10 @@ topic: use-the-apex-access-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.549Z
+lastCollected: 2026-04-07T18:37:02.157Z
 estimatedTokens: 406
-keywords: [Apex, Access, utility, check, Integration, User, sObjects, sObjectFields, WaveTemplateConfigurationModifier, implementation]
+keywords: [Apex, utility, check, Integration, User, sObjects, sObjectFields, WaveTemplateConfigurationModifier, implementation]
 ---
-
-# Use the Apex Access
-  Methods
 
 > The Access class provides utility methods to check
   Integration User access to sObjects and sObjectFields. Use these methods in your WaveTemplateConfigurationModifier implementation.

@@ -5,12 +5,10 @@ topic: geofencingservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.305Z
+lastCollected: 2026-04-07T18:38:15.828Z
 estimatedTokens: 153
-keywords: [GeofencingService, Here’s, basic, Lightning, web, component, uses, device’s, biometrics, capabilities, verify, device, ownership]
+keywords: [GeofencingService, Here’s, basic, Lightning, web, uses, device’s, biometrics, capabilities, verify, device, ownership]
 ---
-
-# GeofencingService Example
 
 > Here’s a basic example of a Lightning web component that uses a device’s biometrics
     capabilities to verify device ownership.

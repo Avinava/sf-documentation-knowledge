@@ -5,12 +5,10 @@ topic: get-contactsv1schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:24.872Z
+lastCollected: 2026-04-07T18:40:20.098Z
 estimatedTokens: 332
-keywords: [contacts, schema, Retrieves, collection, contact, data, schemas, contained, current, account, **Overview**, Usage]
+keywords: [contacts, schema, Retrieves, collection, contact, schemas, contained, current, account, **Overview**]
 ---
-
-# GET /contacts/v1/schema
 
 > Retrieves the collection of all contact data schemas contained in the current account.
 

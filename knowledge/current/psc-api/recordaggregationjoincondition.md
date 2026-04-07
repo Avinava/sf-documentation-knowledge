@@ -5,12 +5,10 @@ topic: recordaggregationjoincondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.604Z
+lastCollected: 2026-04-07T18:39:08.905Z
 estimatedTokens: 550
-keywords: [RecordAggregationJoinCondition, condition, join, two, record, aggregation, objects, API, version, 59.0, later, SOAP, Calls, REST, Special]
+keywords: [RecordAggregationJoinCondition, condition, join, two, record, aggregation, API, 59.0, SOAP, REST]
 ---
-
-# RecordAggregationJoinCondition
 
 > Represents a condition in a join between two record aggregation
          objects. This object is available in API version 59.0 and later.

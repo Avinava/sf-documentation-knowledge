@@ -5,12 +5,10 @@ topic: measure-to-currency-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.726Z
+lastCollected: 2026-04-07T18:39:18.442Z
 estimatedTokens: 93
-keywords: [Measure, Currency, Input, conversion]
+keywords: [Measure, Currency, conversion]
 ---
-
-# Measure To Currency Input
 
 > The conversion information for currency measure field.
 

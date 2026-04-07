@@ -5,12 +5,10 @@ topic: push-notification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.198Z
+lastCollected: 2026-04-07T18:37:09.924Z
 estimatedTokens: 161
-keywords: [Push, Notification, Input]
+keywords: [Push, Notification]
 ---
-
-# Push Notification Input
 
 > A push notification.
 

@@ -5,12 +5,10 @@ topic: action-link-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.493Z
+lastCollected: 2026-04-07T18:37:16.571Z
 estimatedTokens: 1248
 keywords: [Action, Link, Definition, client, app]
 ---
-
-# Action Link Definition
 
 > The definition of an action link. To read this information, a request
          must use the same client app that was used to create the action link

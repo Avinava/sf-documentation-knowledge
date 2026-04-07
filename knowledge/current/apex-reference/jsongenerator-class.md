@@ -5,13 +5,11 @@ topic: jsongenerator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.833Z
+lastCollected: 2026-04-07T18:36:01.122Z
 estimatedTokens: 5411
 namespace: System
-keywords: [JSONGenerator, serialize, objects, JSON, content, standard, encoding, Usage, close, getAsString, isClosed, writeBlob, blobValue, writeBlobField, fieldName]
+keywords: [JSONGenerator, serialize, JSON, content, standard, encoding, close, getAsString, isClosed, writeBlob, blobValue, writeBlobField, fieldName, writeBoolean, writeBooleanField, booleanValue, writeDate, dateValue, writeDateField, writeDateTime, datetimeValue, writeDateTimeField, writeEndArray, writeEndObject, writeFieldName, writeId, identifier, writeIdField, writeNull, writeNullField, writeNumber, number, writeNumberField, writeObject, anyObject, writeObjectField, writeStartArray, writeStartObject, writeString, stringValue, writeStringField, writeTime, timeValue, writeTimeField]
 ---
-
-# JSONGenerator Class
 
 > Contains methods used to
 serialize objects into JSON content using the standard JSON encoding.

@@ -5,12 +5,10 @@ topic: expression-set-condition-expression-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.403Z
+lastCollected: 2026-04-07T18:36:36.948Z
 estimatedTokens: 127
-keywords: [Expression, Condition, Step, Input, representation, Output]
+keywords: [Expression, Condition, Step]
 ---
-
-# Expression Set Condition Expression Step
 
 > Input representation of an expression set condition
     step.

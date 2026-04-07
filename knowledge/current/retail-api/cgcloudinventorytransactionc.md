@@ -5,12 +5,10 @@ topic: cgcloudinventorytransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:20.230Z
+lastCollected: 2026-04-07T18:39:13.638Z
 estimatedTokens: 1608
-keywords: [cgcloud__Inventory_Transaction__c, Captures, Inventory, Transaction, records, API, version, 54.0, later, cgcloud, _Inventory, _Transaction, Calls, Associated, Objects]
+keywords: [cgcloud__Inventory_Transaction__c, Captures, Inventory, Transaction, records, API, 54.0, cgcloud, _Inventory, _Transaction]
 ---
-
-# cgcloud__Inventory_Transaction__c
 
 > Captures Inventory Transaction records. This object is available
       in API version 54.0 and later.

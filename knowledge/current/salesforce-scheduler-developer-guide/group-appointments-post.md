@@ -5,12 +5,10 @@ topic: group-appointments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.451Z
+lastCollected: 2026-04-07T18:39:20.163Z
 estimatedTokens: 546
 keywords: [Group, Appointments, POST, along, remaining, attendee, limit]
 ---
-
-# Group Appointments (POST)
 
 > Get a list of group appointments along with the remaining attendee
       limit.

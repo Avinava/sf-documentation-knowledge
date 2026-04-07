@@ -5,12 +5,10 @@ topic: micrositeurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.424Z
+lastCollected: 2026-04-07T18:40:21.712Z
 estimatedTokens: 496
-keywords: [MicrositeURL, Function, Ordinal, int, landing, referenced, URL, additional, included, encrypted, query, **Overview**, **Syntax**, Usage]
+keywords: [MicrositeURL, Function, Ordinal, int, landing, referenced, URL, additional, included, encrypted, query, **Overview**, **Syntax**]
 ---
-
-# MicrositeURL
 
 > MicrositeURL(1, 2, 3)
 

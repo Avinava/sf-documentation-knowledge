@@ -5,12 +5,10 @@ topic: manage-subscriber-status-for-one-or-all-lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.679Z
+lastCollected: 2026-04-07T18:40:17.859Z
 estimatedTokens: 505
 keywords: [Manage, Subscriber, Status, managing, subscribers, either, resides, Why, How, Sample, PHP, Code, Unsubscribe, Account]
 ---
-
-# Manage Subscriber Status for One or All Lists
 
 > This page contains information about managing the status of a single subscribers on either a specified list or all lists on which the subscriber resides.
 

@@ -5,12 +5,10 @@ topic: salesforce-data-cloud-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.177Z
+lastCollected: 2026-04-07T18:38:24.063Z
 estimatedTokens: 2281
-keywords: [Salesforce, Data, Cloud, Objects, high-scale, store, large, amounts, over, time, DMO, Creation, UDMO, Zero, Copy]
+keywords: [Salesforce, Cloud, high-scale, store, large, amounts, over, time, DMO, Creation, UDMO, Zero, Copy, Calculated, Insight, CIO, Lake, DLO, Model, Graphs, Unified, Unstructured, UDLO]
 ---
-
-# Salesforce Data Cloud Objects
 
 > Data Cloud objects are high-scale objects that are used to store large amounts of
         data over time.

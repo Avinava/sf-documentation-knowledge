@@ -5,12 +5,10 @@ topic: use-images-uploaded-as-asset-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.354Z
+lastCollected: 2026-04-07T18:38:15.880Z
 estimatedTokens: 769
-keywords: [Images, Uploaded, Asset, Files, modern, alternative, resources, ideal, throughout, components, apps—for, user, elements, icons—or, otherwise]
+keywords: [Images, Uploaded, Asset, Files, modern, alternative, resources, ideal, throughout, apps—for, user, icons—or, otherwise, aren’t, specific, record]
 ---
-
-# Use Images Uploaded as Asset Files
 
 > Asset files are the modern alternative to static resources. Asset files are ideal for
   images that are used throughout your components and apps—for example, user interface elements like

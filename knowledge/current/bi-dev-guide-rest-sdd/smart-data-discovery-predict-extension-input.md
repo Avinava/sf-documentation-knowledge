@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-extension-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.277Z
+lastCollected: 2026-04-07T18:36:58.775Z
 estimatedTokens: 92
-keywords: [Smart, Data, Discovery, Predict, Extension, Input, record, Einstein]
+keywords: [Smart, Discovery, Predict, Extension, record, Einstein]
 ---
-
-# Smart Data Discovery Predict Extension Input
 
 > The predict record extension input for Einstein Discovery.
 

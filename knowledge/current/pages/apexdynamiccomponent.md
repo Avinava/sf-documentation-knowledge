@@ -5,12 +5,10 @@ topic: apexdynamiccomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.434Z
+lastCollected: 2026-04-07T18:38:49.565Z
 estimatedTokens: 361
-keywords: [apex, dynamicComponent, tag, acts, placeholder, dynamic, components, parameter—componentValue—which, accepts, component, Attributes]
+keywords: [Attributes, apex, dynamicComponent, tag, acts, placeholder, dynamic, parameter—componentValue—which, accepts]
 ---
-
-# apex:dynamicComponent
 
 > This tag acts as a placeholder for your dynamic Apex components. It has one required parameter—componentValue—which accepts the name of an Apex method that returns a dynamic component.
 

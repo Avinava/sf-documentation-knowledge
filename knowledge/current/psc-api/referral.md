@@ -5,12 +5,10 @@ topic: referral
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.419Z
+lastCollected: 2026-04-07T18:39:07.640Z
 estimatedTokens: 2322
-keywords: [Referral, client, referrals, organization, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [Referral, client, referrals, organization, API, 56.0]
 ---
-
-# Referral
 
 > Represents the information on client referrals in an
          organization. This object is available in API version 56.0 and later.

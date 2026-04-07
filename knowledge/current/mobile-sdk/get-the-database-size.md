@@ -5,12 +5,10 @@ topic: get-the-database-size
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.830Z
+lastCollected: 2026-04-07T18:40:27.056Z
 estimatedTokens: 99
 keywords: [Database, Size, query, amount, disk, space, consumed, call, Hybrid, Apps, Android, Native, iOS]
 ---
-
-# Get the Database Size
 
 > To query the amount of disk space consumed by the database, call the
   database size method.

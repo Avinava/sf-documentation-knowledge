@@ -5,12 +5,10 @@ topic: recipe-notification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.826Z
+lastCollected: 2026-04-07T18:39:19.508Z
 estimatedTokens: 149
-keywords: [Recipe, Notification, data, prep]
+keywords: [Recipe, Notification, prep]
 ---
-
-# Recipe Notification
 
 > A notification for a data prep recipe.
 

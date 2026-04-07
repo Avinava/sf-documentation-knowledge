@@ -5,12 +5,10 @@ topic: identifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.241Z
+lastCollected: 2026-04-07T18:37:56.669Z
 estimatedTokens: 1272
-keywords: [Identifier, multiple, objects, API, version, 51.0, later, Calls, Usage, Associated, FHIR, resource, maps, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Identifier, multiple, API, 51.0, FHIR, resource, maps, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Identifier
 
 > Represents identifier information for multiple objects. This
     object is available in API version 51.0 and later.

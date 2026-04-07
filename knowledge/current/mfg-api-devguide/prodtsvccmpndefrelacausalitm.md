@@ -5,12 +5,10 @@ topic: prodtsvccmpndefrelacausalitm
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:23.711Z
+lastCollected: 2026-04-07T18:38:14.043Z
 estimatedTokens: 791
-keywords: [ProdtSvcCmpnDefRelaCausalItm, cause, associated, product, service, campaign, definition, Helps, efficiently, identify, map, faulty, parts, products, repaired]
+keywords: [ProdtSvcCmpnDefRelaCausalItm, cause, product, service, campaign, definition, Helps, efficiently, identify, map, faulty, parts, products, repaired, replaced, API, 65.0]
 ---
-
-# ProdtSvcCmpnDefRelaCausalItm
 
 > Represents information about the cause associated with a product service
          campaign definition. Helps to efficiently identify and map faulty parts to the products

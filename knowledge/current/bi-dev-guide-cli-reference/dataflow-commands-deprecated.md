@@ -5,12 +5,10 @@ topic: dataflow-commands-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:07.303Z
+lastCollected: 2026-04-07T18:36:53.658Z
 estimatedTokens: 6036
-keywords: [dataflow, Commands, Deprecated, Manage, Analytics, dataflows, jobs, history, Examples, Command, revert, job, display, stop, start]
+keywords: [dataflow, Commands, Deprecated, Manage, Analytics, dataflows, jobs, Examples, Command, revert, job, display, stop, start]
 ---
-
-# dataflow Commands (Deprecated)
 
 > Manage Analytics dataflows and dataflow jobs.
 

@@ -5,12 +5,10 @@ topic: invoicelinetaxfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.243Z
+lastCollected: 2026-04-07T18:39:45.814Z
 estimatedTokens: 388
-keywords: [InvoiceLineTaxFeed, Feed, tracking, InvoiceLineTax]
+keywords: [InvoiceLineTaxFeed, InvoiceLineTax]
 ---
-
-# InvoiceLineTaxFeed
 
 > Feed tracking for InvoiceLineTax.
 

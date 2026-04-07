@@ -5,12 +5,10 @@ topic: post-hubv1nestedtags
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.849Z
+lastCollected: 2026-04-07T18:40:15.973Z
 estimatedTokens: 852
-keywords: [POST, hub, nestedtags, Creates, tag, associated, any, Marketing, Cloud, accepts, tagging, contain, unique, nested, tags]
+keywords: [POST, hub, nestedtags, Creates, tag, any, Marketing, Cloud, accepts, tagging, contain, unique, nested, tags, **Overview**]
 ---
-
-# POST /hub/v1/nestedtags
 
 > Creates a tag that can be associated with any Marketing Cloud object that accepts tagging. The tag must contain a unique name. The tag can contain a description and a list of one or more nested tags.
 

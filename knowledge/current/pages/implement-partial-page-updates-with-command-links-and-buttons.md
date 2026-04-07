@@ -5,12 +5,10 @@ topic: implement-partial-page-updates-with-command-links-and-buttons
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.637Z
+lastCollected: 2026-04-07T18:38:51.941Z
 estimatedTokens: 466
-keywords: [Implement, Partial, Updates, Command, Links, Buttons, widely, Ajax, behaviors, specific, portion, user, action, rather, reload]
+keywords: [Implement, Partial, Updates, Command, Links, Buttons, widely, Ajax, behaviors, specific, portion, user, action, rather, reload, entire, simplest, way, reRender, attribute, <apex, commandLink>, commandButton>, tag, clicks, button, link, identified, child, refresh]
 ---
-
-# Implement Partial Page Updates with Command Links and Buttons
 
 > One of the most widely used Ajax behaviors is a partial page
         update, in which only a specific portion of a page updates following

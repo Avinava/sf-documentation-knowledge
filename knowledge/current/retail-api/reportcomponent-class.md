@@ -5,13 +5,11 @@ topic: reportcomponent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.265Z
+lastCollected: 2026-04-07T18:39:10.742Z
 estimatedTokens: 88
 namespace: CGCloud
-keywords: [ReportComponent, Real, Time, Reporting, RTR, report, component, abstract, can’t, instantiated]
+keywords: [ReportComponent, Real, Time, Reporting, RTR, report, abstract, can’t, instantiated]
 ---
-
-# ReportComponent Class
 
 > Represents a Real Time Reporting (RTR) report UI component. This
   is an abstract class and can’t be instantiated.

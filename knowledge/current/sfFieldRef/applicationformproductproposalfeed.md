@@ -5,12 +5,10 @@ topic: applicationformproductproposalfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.405Z
+lastCollected: 2026-04-07T18:39:26.347Z
 estimatedTokens: 368
-keywords: [ApplicationFormProductProposalFeed, Feed, tracking, ApplicationFormProductProposal]
+keywords: [ApplicationFormProductProposalFeed, ApplicationFormProductProposal]
 ---
-
-# ApplicationFormProductProposalFeed
 
 > Feed tracking for ApplicationFormProductProposal.
 

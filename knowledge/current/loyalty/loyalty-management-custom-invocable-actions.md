@@ -5,12 +5,10 @@ topic: loyalty-management-custom-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.690Z
+lastCollected: 2026-04-07T18:38:09.023Z
 estimatedTokens: 295
-keywords: [Loyalty, Management, Custom, Invocable, Actions, manage, programs, organization]
+keywords: [Loyalty, Management, Invocable, Actions, manage, programs, organization]
 ---
-
-# Loyalty Management Custom Invocable Actions
 
 > Create and manage loyalty programs for your organization using
       custom invocable actions.

@@ -5,12 +5,10 @@ topic: assign-page-layouts-in-the-original-profile-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.270Z
+lastCollected: 2026-04-07T18:39:23.204Z
 estimatedTokens: 220
-keywords: [Assign, Layouts, Original, Profile, User, access, view, edit, layout, assignments, easily, location]
+keywords: [Assign, Layouts, Original, Profile, User, view, edit, layout, assignments, easily, location]
 ---
-
-# Assign Page Layouts in the Original Profile User Interface
 
 > In the original profile user interface, you can access, view, and edit all page layout
   assignments easily in one location.

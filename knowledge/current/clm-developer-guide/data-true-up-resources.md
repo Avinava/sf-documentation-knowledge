@@ -6,13 +6,10 @@ topic: data-true-up-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.905Z
+lastCollected: 2026-04-07T18:37:24.870Z
 estimatedTokens: 301
-keywords: [Data, True-Up, Resources, Keep, contract, documents, Salesforce, records, perfectly, aligned, synchronizing, token, Microsoft, add-in, pull]
+keywords: [True-Up, Resources, Keep, contract, documents, Salesforce, records, perfectly, aligned, synchronizing, token, Microsoft, add-in, pull, latest, document, push, changes, back, record, simple, two-way, process, ensures, always, consistent, across, locations, preventing, mismatches]
 ---
-
-# Data
-      True-Up Resources
 
 > Keep contract documents and Salesforce records perfectly aligned by synchronizing
       token values between them. From the Microsoft 365 add-in, you can pull the latest data from

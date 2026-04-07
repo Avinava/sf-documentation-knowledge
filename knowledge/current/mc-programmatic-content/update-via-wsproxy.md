@@ -5,12 +5,10 @@ topic: update-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.429Z
+lastCollected: 2026-04-07T18:40:22.850Z
 estimatedTokens: 405
-keywords: [via, WSProxy, item, several, items, call, updateItem, updateBatch, functions, Data, Extension, Upsert]
+keywords: [via, WSProxy, item, several, items, call, updateItem, updateBatch, functions, Extension, Upsert]
 ---
-
-# Update via WSProxy
 
 > To update a single item or several items of the same type in a single call, use the updateItem and updateBatch functions.
 

@@ -5,12 +5,10 @@ topic: schema-field-properties-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.956Z
+lastCollected: 2026-04-07T18:39:18.681Z
 estimatedTokens: 121
-keywords: [Schema, Input, node, recipe]
+keywords: [Schema, node, recipe]
 ---
-
-# Schema Field Properties Input
 
 > The field properties for a schema node in a recipe.
 

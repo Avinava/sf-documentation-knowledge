@@ -5,12 +5,10 @@ topic: connectapimemberaccountoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.791Z
+lastCollected: 2026-04-07T18:38:07.005Z
 estimatedTokens: 88
-keywords: [ConnectApi.MemberAccountOutput, Output, representation, loyalty, program, member's, associated, account, record]
+keywords: [ConnectApi.MemberAccountOutput, loyalty, program, member's, account, record]
 ---
-
-# ConnectApi.MemberAccountOutput
 
 > Output representation of the details of a loyalty program member's
       associated account record.

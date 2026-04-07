@@ -5,12 +5,10 @@ topic: fieldsretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.560Z
+lastCollected: 2026-04-07T18:40:22.987Z
 estimatedTokens: 301
 keywords: [Fields.Retrieve, **Overview**, **Syntax**]
 ---
-
-# Fields.Retrieve
 
 # Fields.Retrieve
 

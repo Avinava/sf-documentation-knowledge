@@ -5,12 +5,10 @@ topic: route-chats-based-on-pre-chat-responses-with-direct-to-button-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.609Z
+lastCollected: 2026-04-07T18:40:09.558Z
 estimatedTokens: 483
-keywords: [Route, Chats, Pre-Chat, Responses, Direct-to-Button, Routing, chat, window, different, buttons, customer’s, any, upgrade, code, snippet]
+keywords: [Route, Chats, Pre-Chat, Responses, Direct-to-Button, Routing, chat, window, different, buttons, customer’s, any, upgrade, code, snippet, 4.0]
 ---
-
-# Route Chats Based on Pre-Chat Responses with Direct-to-Button Routing
 
 > Set your chat window to route chats to different chat buttons based on the customer’s
         pre-chat response on any and all of your pre-chat fields. Available when you upgrade your

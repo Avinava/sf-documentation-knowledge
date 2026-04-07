@@ -5,12 +5,10 @@ topic: calculatedinsightrangebound
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.120Z
+lastCollected: 2026-04-07T18:38:27.105Z
 estimatedTokens: 805
-keywords: [CalculatedInsightRangeBound, Stores, calculate, range-bound, data, insight, API, version, 59.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [CalculatedInsightRangeBound, Stores, calculate, range-bound, insight, API, 59.0]
 ---
-
-# CalculatedInsightRangeBound
 
 > Stores the information required to calculate a range-bound
          data

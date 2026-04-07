@@ -5,12 +5,10 @@ topic: sms-status-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.099Z
+lastCollected: 2026-04-07T18:40:20.328Z
 estimatedTokens: 445
-keywords: [SMS, Status, Codes, includes, MobileConnect, API, calls, locations, evaluate, troubleshoot]
+keywords: [SMS, Status, Codes, includes, MobileConnect, API, locations, evaluate, troubleshoot]
 ---
-
-# SMS Status Codes
 
 > This table includes status codes returned from MobileConnect API calls for all locations. Use these codes to evaluate and troubleshoot your SMS sends.
 

@@ -6,13 +6,10 @@ topic: support-querymore-by-using-client-driven-paging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.940Z
+lastCollected: 2026-04-07T18:36:17.160Z
 estimatedTokens: 512
 keywords: [Support, queryMore, Client-Driven, Paging, LIMIT, OFFSET, clauses, result]
 ---
-
-# Support queryMore by Using Client-Driven
-        Paging
 
 > With client-driven paging, you use LIMIT and
             OFFSET clauses to page through result

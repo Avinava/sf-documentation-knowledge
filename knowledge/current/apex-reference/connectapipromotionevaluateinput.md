@@ -5,12 +5,10 @@ topic: connectapipromotionevaluateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.819Z
+lastCollected: 2026-04-07T18:36:06.169Z
 estimatedTokens: 647
 keywords: [ConnectApi.PromotionEvaluateInput, promotions, customer, eligible, compute, their, discounts]
 ---
-
-# ConnectApi.PromotionEvaluateInput
 
 > Find promotions that the customer is eligible for and compute their discounts.
 

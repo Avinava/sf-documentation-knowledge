@@ -5,12 +5,10 @@ topic: connectapientityrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.579Z
+lastCollected: 2026-04-07T18:36:08.990Z
 estimatedTokens: 263
-keywords: [ConnectApi.EntityRecommendation, Chatter, custom, recommendation]
+keywords: [ConnectApi.EntityRecommendation, Chatter, recommendation]
 ---
-
-# ConnectApi.EntityRecommendation
 
 > A Chatter, custom, or static recommendation.
 

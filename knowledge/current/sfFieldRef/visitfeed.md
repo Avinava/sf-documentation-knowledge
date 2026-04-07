@@ -5,12 +5,10 @@ topic: visitfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.069Z
+lastCollected: 2026-04-07T18:40:05.952Z
 estimatedTokens: 355
-keywords: [VisitFeed, Feed, tracking, Visit]
+keywords: [VisitFeed, Visit]
 ---
-
-# VisitFeed
 
 > Feed tracking for Visit.
 

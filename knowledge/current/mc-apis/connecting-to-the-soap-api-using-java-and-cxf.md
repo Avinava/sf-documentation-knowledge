@@ -5,12 +5,10 @@ topic: connecting-to-the-soap-api-using-java-and-cxf
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.654Z
+lastCollected: 2026-04-07T18:40:15.762Z
 estimatedTokens: 796
-keywords: [Connecting, SOAP, API, Java, CXF, development, environment, systems, Marketing, Cloud, via, client, users, Prerequisites, Why]
+keywords: [Prerequisites, Connecting, SOAP, API, Java, CXF, development, environment, systems, Marketing, Cloud, via, client, users, Why, Connect, How, Sample, Authentication, Code]
 ---
-
-# Connecting to the SOAP API Using Java and CXF
 
 > This page contains information on connecting your development environment or other systems to the Marketing Cloud SOAP API using Java via the CXF SOAP client. CXF is a SOAP client used by many Java users.
 

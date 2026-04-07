@@ -5,12 +5,10 @@ topic: introduction-to-automotive-cloud-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.826Z
+lastCollected: 2026-04-07T18:36:52.246Z
 estimatedTokens: 421
-keywords: [Introduction, Automotive, Cloud, Developer, objects, APIs, resources, features, extend]
+keywords: [Introduction, Automotive, Cloud, Developer, APIs, resources, features, extend]
 ---
-
-# Introduction to Automotive Cloud Developer Guide
 
 > This guide provides information on the objects and APIs used by Automotive Cloud. You
     can also find developer resources for features that can be used to extend Automotive

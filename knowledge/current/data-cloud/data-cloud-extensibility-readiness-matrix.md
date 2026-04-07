@@ -5,12 +5,10 @@ topic: data-cloud-extensibility-readiness-matrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.666Z
+lastCollected: 2026-04-07T18:35:51.525Z
 estimatedTokens: 651
-keywords: [Data, Cloud, Extensibility, Readiness, Matrix, configuration, elements, deploy, features, add, kit, package]
+keywords: [Cloud, Extensibility, Readiness, Matrix, configuration, deploy, features, add, kit, package]
 ---
-
-# Data Cloud Extensibility Readiness Matrix
 
 > The table lists the Data Cloud configuration elements that you can
   deploy. To deploy Data Cloud features, first add them to a data kit, and then add that data kit to

@@ -5,12 +5,10 @@ topic: bankerhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.773Z
+lastCollected: 2026-04-07T18:39:28.871Z
 estimatedTokens: 252
-keywords: [BankerHistory, History, tracked, Banker]
+keywords: [BankerHistory, tracked, Banker]
 ---
-
-# BankerHistory
 
 > History for tracked fields of Banker.
 

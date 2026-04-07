@@ -5,12 +5,10 @@ topic: template-detail-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.858Z
+lastCollected: 2026-04-07T18:39:03.970Z
 estimatedTokens: 117
-keywords: [Template, Detail, Output, representation, OCR]
+keywords: [Template, Detail, OCR]
 ---
-
-# Template Detail Output
 
 > Output representation of the OCR template.
 

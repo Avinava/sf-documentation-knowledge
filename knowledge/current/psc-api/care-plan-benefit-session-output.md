@@ -5,12 +5,10 @@ topic: care-plan-benefit-session-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.109Z
+lastCollected: 2026-04-07T18:39:02.324Z
 estimatedTokens: 136
-keywords: [Care, Plan, Benefit, Session, Output, representation, benefits, their, associated, sessions, JSON]
+keywords: [Care, Plan, Benefit, Session, benefits, their, sessions, JSON]
 ---
-
-# Care Plan Benefit Session Output
 
 > Output representation of benefits and their associated benefit
          sessions in a care plan.

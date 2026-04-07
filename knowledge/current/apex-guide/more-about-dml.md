@@ -5,12 +5,10 @@ topic: more-about-dml
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.196Z
+lastCollected: 2026-04-07T18:36:19.421Z
 estimatedTokens: 423
-keywords: [DML, things, may, want, know, Data, Manipulation, Language]
+keywords: [DML, things, may, want, know, Manipulation, Language]
 ---
-
-# More About DML
 
 > Here are some things you may want to know about using Data Manipulation Language.
 

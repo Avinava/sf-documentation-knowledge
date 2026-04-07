@@ -5,12 +5,10 @@ topic: omniglobalautonumberfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.722Z
+lastCollected: 2026-04-07T18:39:50.156Z
 estimatedTokens: 363
-keywords: [OmniGlobalAutoNumberFeed, Feed, tracking, OmniGlobalAutoNumber]
+keywords: [OmniGlobalAutoNumberFeed, OmniGlobalAutoNumber]
 ---
-
-# OmniGlobalAutoNumberFeed
 
 > Feed tracking for OmniGlobalAutoNumber.
 

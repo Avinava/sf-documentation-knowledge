@@ -5,12 +5,10 @@ topic: connectapiinsurancegetmembersplans
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.599Z
+lastCollected: 2026-04-07T18:37:50.471Z
 estimatedTokens: 103
-keywords: [ConnectApi.InsuranceGetMembersPlans, Output, representation, member's, eligible, plans]
+keywords: [ConnectApi.InsuranceGetMembersPlans, member's, eligible, plans]
 ---
-
-# ConnectApi.InsuranceGetMembersPlans
 
 > Output representation for a member's eligible plans.
 

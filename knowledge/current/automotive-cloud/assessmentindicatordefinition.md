@@ -5,12 +5,10 @@ topic: assessmentindicatordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:06.034Z
+lastCollected: 2026-04-07T18:36:52.465Z
 estimatedTokens: 684
-keywords: [AssessmentIndicatorDefinition, Define, metrics, act, markers, compliance, partner, visit, tasks, Automotive, Cloud, API, version, 56.0, later]
+keywords: [AssessmentIndicatorDefinition, Define, metrics, act, markers, compliance, partner, visit, tasks, Automotive, Cloud, API, 56.0]
 ---
-
-# AssessmentIndicatorDefinition
 
 > Define parameters or metrics that act as markers of compliance for partner
          visit tasks. This object is available in Automotive Cloud in API version 56.0 and

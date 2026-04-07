@@ -5,12 +5,10 @@ topic: capturing-changes-and-encrypting-the-event-payload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.729Z
+lastCollected: 2026-04-07T18:37:05.448Z
 estimatedTokens: 432
-keywords: [Capturing, Changes, Encrypting, Event, Payload, record, Change, Data, Capture, creates, stores, bus, Because, captured, internally]
+keywords: [Capturing, Changes, Encrypting, Event, Payload, record, Change, Capture, creates, stores, bus, Because, captured, internally, application, servers, decrypted, form, they, encrypted, storing, corresponding, entire, encryption, key, tenant, secret, Delivering, Events]
 ---
-
-# Capturing Changes and Encrypting the Event Payload
 
 > After capturing record changes, Change Data Capture creates a change event and stores
     it in the event bus. Because data changes are captured internally on the application servers in

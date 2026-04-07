@@ -5,12 +5,10 @@ topic: moderation-flag-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.310Z
+lastCollected: 2026-04-07T18:37:09.077Z
 estimatedTokens: 211
-keywords: [Moderation, Flag, Input]
+keywords: [Moderation, Flag]
 ---
-
-# Moderation Flag Input
 
 > Moderation flag input.
 

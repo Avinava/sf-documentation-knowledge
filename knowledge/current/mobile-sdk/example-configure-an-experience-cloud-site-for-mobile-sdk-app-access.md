@@ -6,13 +6,10 @@ topic: example-configure-an-experience-cloud-site-for-mobile-sdk-app-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.950Z
+lastCollected: 2026-04-07T18:40:25.318Z
 estimatedTokens: 789
-keywords: [Configure, Experience, Cloud, Site, Mobile, SDK, App, Access, Configuring, support, logins, apps, tricky, tutorial, helps]
+keywords: [Configure, Experience, Cloud, Site, Mobile, SDK, App, Configuring, support, logins, apps, tricky, tutorial, helps, correct, sequence, first-hand]
 ---
-
-# Example: Configure an Experience Cloud Site For Mobile SDK App
-   Access
 
 > Configuring your Experience Cloud site to support logins from Mobile SDK apps can be
   tricky. This tutorial helps you see the details and correct sequence first-hand.

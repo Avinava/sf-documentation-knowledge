@@ -5,12 +5,10 @@ topic: get-hubv1nestedtags
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.139Z
+lastCollected: 2026-04-07T18:40:17.297Z
 estimatedTokens: 720
-keywords: [hub, nestedtags, array, tags, owned, requesting, client, **Overview**, Usage]
+keywords: [hub, nestedtags, array, tags, owned, requesting, client, **Overview**]
 ---
-
-# GET /hub/v1/nestedtags
 
 > Returns an array of tags owned by the requesting client.
 

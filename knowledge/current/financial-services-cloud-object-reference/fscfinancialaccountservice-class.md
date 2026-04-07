@@ -5,12 +5,10 @@ topic: fscfinancialaccountservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.385Z
+lastCollected: 2026-04-07T18:37:33.816Z
 estimatedTokens: 217
-keywords: [FSCFinancialAccountService, callable, FinancialAccountMgmtPref, permission, enabled, org, Usage]
+keywords: [FSCFinancialAccountService, callable, FinancialAccountMgmtPref, permission, enabled, org]
 ---
-
-# FSCFinancialAccountService Class
 
 > Use the callable FSCFinancialAccountService class to return true if the FinancialAccountMgmtPref permission is enabled in the org.
 

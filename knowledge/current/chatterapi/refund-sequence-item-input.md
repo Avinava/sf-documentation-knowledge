@@ -5,12 +5,10 @@ topic: refund-sequence-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.281Z
+lastCollected: 2026-04-07T18:37:10.004Z
 estimatedTokens: 118
-keywords: [Refund, Sequence, Item, Input, Order, Payment, Summary, amount, individual, items, processed]
+keywords: [Refund, Sequence, Item, Order, Payment, Summary, amount, individual, items, processed]
 ---
-
-# Refund Sequence Item Input
 
 > The Order Payment Summary ID and amount for the individual refund items in a sequence.
     Each item has a payment method and refund amount to be processed for that method.

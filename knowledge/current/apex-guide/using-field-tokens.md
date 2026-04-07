@@ -5,12 +5,10 @@ topic: using-field-tokens
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.337Z
+lastCollected: 2026-04-07T18:36:17.565Z
 estimatedTokens: 1242
-keywords: [Tokens, access, token, Describe, Results, Accessing, sObject, Considerations, Versioned, Behavior, Changes]
+keywords: [Tokens, token, Describe, Results, Accessing, sObject, Considerations, Versioned, Behavior, Changes]
 ---
-
-# Using Field Tokens
 
 > To access the token for a field, use one of the following methods:
 

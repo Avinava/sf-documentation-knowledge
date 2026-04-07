@@ -5,12 +5,10 @@ topic: batch-group-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.182Z
+lastCollected: 2026-04-07T18:37:14.143Z
 estimatedTokens: 98
 keywords: [Batch, Group, time]
 ---
-
-# Batch Group Information
 
 > Get information about more than one group at the
                      same time.

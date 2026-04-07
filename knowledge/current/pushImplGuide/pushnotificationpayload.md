@@ -5,12 +5,10 @@ topic: pushnotificationpayload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.753Z
+lastCollected: 2026-04-07T18:39:09.066Z
 estimatedTokens: 91
 keywords: [PushNotification, payload, Creates, new, instance, Messaging.PushNotification, key-value, pairs, don’t, call, setPayload]
 ---
-
-# PushNotification(payload)
 
 > Creates a new instance of the Messaging.PushNotification class using
 the specified payload parameters as key-value pairs. When you use

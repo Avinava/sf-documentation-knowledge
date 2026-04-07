@@ -5,12 +5,10 @@ topic: template-dependency-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.779Z
+lastCollected: 2026-04-07T18:37:02.344Z
 estimatedTokens: 238
 keywords: [Template, Dependency, specify, dependencies, template-info.json, file, templateVersion, flexible, take, any]
 ---
-
-# Template Dependency Syntax
 
 > The syntax you use to specify dependencies in the template-info.json file for templateVersion is
   flexible. The value can take on any of the following.

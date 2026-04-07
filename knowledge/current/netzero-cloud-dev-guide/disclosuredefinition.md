@@ -5,12 +5,10 @@ topic: disclosuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.875Z
+lastCollected: 2026-04-07T18:38:16.428Z
 estimatedTokens: 569
-keywords: [DisclosureDefinition, disclosure, publisher, vendor, created, implemented, report, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 57.0, later, Calls]
+keywords: [DisclosureDefinition, disclosure, publisher, vendor, created, implemented, report, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 57.0, report.This, SOAP, REST]
 ---
-
-# DisclosureDefinition
 
 > Represents information that defines a disclosure type,
 			such as details of the publisher or vendor who created or implemented the

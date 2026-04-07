@@ -7,14 +7,10 @@ topic: render-a-visualforce-page-as-a-pdf-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.562Z
+lastCollected: 2026-04-07T18:38:51.868Z
 estimatedTokens: 643
 keywords: [Render, Visualforce, PDF, File, generate, downloadable, printable, rendering, service]
 ---
-
-# Render
-            a Visualforce Page as a  PDF
-            File
 
 > You can generate a downloadable, printable PDF file of a Visualforce page using the PDF
         rendering service.

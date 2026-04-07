@@ -5,12 +5,10 @@ topic: statsinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.794Z
+lastCollected: 2026-04-07T18:39:23.724Z
 estimatedTokens: 233
-keywords: [StatsInfo, Representing, stats, either, audio, input, channel, output, calculate, MOS, Mean, Opinion, Score, Objects]
+keywords: [StatsInfo, Representing, stats, either, audio, channel, calculate, MOS, Mean, Opinion, Score]
 ---
-
-# StatsInfo
 
 > Representing stats for either an audio input channel or an
         audio output channel. This object is used to calculate the MOS (Mean Opinion

@@ -5,12 +5,10 @@ topic: commerceentitlementpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.113Z
+lastCollected: 2026-04-07T18:38:28.036Z
 estimatedTokens: 1049
-keywords: [CommerceEntitlementPolicy, entitlement, policy, determines, products, prices, user, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [CommerceEntitlementPolicy, entitlement, policy, determines, products, prices, user, API, 49.0]
 ---
-
-# CommerceEntitlementPolicy
 
 > Represents an entitlement policy, which determines what products and prices a
       user can see. This object is available in API version 49.0 and later.

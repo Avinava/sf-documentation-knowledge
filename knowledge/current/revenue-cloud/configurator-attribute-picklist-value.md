@@ -5,12 +5,10 @@ topic: configurator-attribute-picklist-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.454Z
+lastCollected: 2026-04-07T18:35:45.428Z
 estimatedTokens: 266
-keywords: [Configurator, Attribute, Picklist, Output, representation, product, configuration]
+keywords: [Configurator, Attribute, Picklist, product, configuration]
 ---
-
-# Configurator Attribute Picklist Value
 
 > Output representation of the values of an attribute picklist in a product
     configuration.

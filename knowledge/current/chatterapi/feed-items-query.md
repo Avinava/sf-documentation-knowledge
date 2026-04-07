@@ -5,12 +5,10 @@ topic: feed-items-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.530Z
+lastCollected: 2026-04-07T18:37:13.487Z
 estimatedTokens: 514
-keywords: [Feed-Items, Query, Search, feed, items]
+keywords: [Feed-Items, Query, Search, items]
 ---
-
-# Feed-Items Query
 
 > Search for feed items.
 

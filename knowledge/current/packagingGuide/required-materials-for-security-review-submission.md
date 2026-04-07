@@ -5,12 +5,10 @@ topic: required-materials-for-security-review-submission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.721Z
+lastCollected: 2026-04-07T18:38:47.674Z
 estimatedTokens: 1581
-keywords: [Materials, Security, Review, Submission, provide, test, environments, documentation, submitting, solution, AppExchange, Mobile, apps, platform-specific, requirements]
+keywords: [Materials, Security, Review, Submission, provide, test, environments, documentation, submitting, solution, AppExchange, Mobile, apps, platform-specific, requirements, Extension, packages, undergo, Salesforce, requires, standalone]
 ---
-
-# Required Materials for Security Review Submission
 
 > Learn about the materials that you must provide, such as test environments and
   documentation, when submitting your solution for an AppExchange security review. Mobile apps have

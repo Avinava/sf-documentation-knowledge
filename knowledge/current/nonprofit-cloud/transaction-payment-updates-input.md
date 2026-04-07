@@ -6,13 +6,10 @@ topic: transaction-payment-updates-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.889Z
+lastCollected: 2026-04-07T18:38:20.632Z
 estimatedTokens: 136
-keywords: [Transaction, Payment, Updates, Input, representation, gateway, processor, metadata, include, any, standard, custom, beyond, error, shown]
+keywords: [Transaction, Payment, Updates, gateway, processor, metadata, include, any, standard, beyond, error, shown]
 ---
-
-# Transaction Payment Updates
-    Input
 
 > Input representation of the gateway and processor metadata to update the transaction
     payment. If you include any other standard or custom fields in the request body beyond the

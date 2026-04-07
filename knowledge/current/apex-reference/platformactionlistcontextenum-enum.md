@@ -5,12 +5,10 @@ topic: platformactionlistcontextenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.287Z
+lastCollected: 2026-04-07T18:36:12.574Z
 estimatedTokens: 245
 keywords: [PlatformActionListContextEnum, different, contexts, action]
 ---
-
-# PlatformActionListContextEnum Enum
 
 > Describes the different contexts of action lists.
 

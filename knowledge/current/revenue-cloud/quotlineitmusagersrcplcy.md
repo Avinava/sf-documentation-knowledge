@@ -5,12 +5,10 @@ topic: quotlineitmusagersrcplcy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.431Z
+lastCollected: 2026-04-07T18:35:50.320Z
 estimatedTokens: 918
-keywords: [QuotLineItmUsageRsrcPlcy, policies, usage, resource, that's, associated, product, added, quote, line, item, API, version, 65.0, later]
+keywords: [QuotLineItmUsageRsrcPlcy, policies, resource, that's, product, added, quote, line, item, API, 65.0]
 ---
-
-# QuotLineItmUsageRsrcPlcy
 
 > Represents the policies that are used for the usage resource that's
          associated with the usage product added in the quote line item. This object is

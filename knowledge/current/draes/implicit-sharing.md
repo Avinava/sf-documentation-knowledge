@@ -5,12 +5,10 @@ topic: implicit-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.771Z
+lastCollected: 2026-04-07T18:37:28.860Z
 estimatedTokens: 994
-keywords: [Implicit, Sharing, capabilities, Salesforce, Platform, include, wide, variety, features, explicitly, grant, access, data, individuals, groups]
+keywords: [Implicit, Sharing, capabilities, Salesforce, Platform, include, wide, variety, features, explicitly, grant, individuals, groups, addition, familiar, there, number, behaviors, built, kind, because, it’s, defined, maintained, system, support, collaboration, among, members, sales, teams, customer, service, representatives, clients, customers]
 ---
-
-# Implicit Sharing
 
 > The sharing capabilities of the Salesforce Platform include a wide variety of
         features that you can use to explicitly grant access to data for individuals and groups. In

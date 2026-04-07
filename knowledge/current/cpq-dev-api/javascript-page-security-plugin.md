@@ -5,12 +5,10 @@ topic: javascript-page-security-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.492Z
+lastCollected: 2026-04-07T18:37:27.500Z
 estimatedTokens: 1408
 keywords: [Javascript, Security, Plugin, functions, control, visibility, editability, CPQ, quotes]
 ---
-
-# Javascript Page Security Plugin
 
 > Use Javascript functions to control field visibility and editability on your CPQ
   quotes.

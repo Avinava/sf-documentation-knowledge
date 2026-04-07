@@ -5,13 +5,11 @@ topic: asyncinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.672Z
+lastCollected: 2026-04-07T18:36:00.957Z
 estimatedTokens: 735
 namespace: System
 keywords: [AsyncInfo, current, stack, depth, maximum, minimum, queueable, delay, transactions, determine, getCurrentQueueableStackDepth, getMaximumQueueableStackDepth, getMinimumQueueableDelayInMinutes, hasMaxStackDepth]
 ---
-
-# AsyncInfo Class
 
 > Provides methods to get the current stack depth, maximum stack depth, and the minimum
     queueable delay for Queueable transactions, and to determine if maximum stack depth is

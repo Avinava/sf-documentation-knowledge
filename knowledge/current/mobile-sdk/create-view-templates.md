@@ -5,12 +5,10 @@ topic: create-view-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.482Z
+lastCollected: 2026-04-07T18:40:25.856Z
 estimatedTokens: 399
-keywords: [View, Templates, let, describe, HTML, layout, container, define, inline, template, <script>, tag, “text, template”, JavaScript]
+keywords: [View, Templates, let, describe, HTML, layout, container, define, inline, template, <script>, tag, “text, template”, JavaScript, code, apply, design, instantiates, new, runtime]
 ---
-
-# Create View Templates
 
 > Templates let you describe an HTML layout within a container HTML page. To define an inline
         template in your HTML page, you use a <script> tag

@@ -5,12 +5,10 @@ topic: promotiontemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.768Z
+lastCollected: 2026-04-07T18:39:10.202Z
 estimatedTokens: 1028
-keywords: [PromotionTemplate, JSON, configuration, referral, promotion, template, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [PromotionTemplate, JSON, configuration, referral, promotion, template, API, 61.0]
 ---
-
-# PromotionTemplate
 
 > Represents the JSON configuration and details of a referral promotion
          template. This object is available in API version 61.0 and later.

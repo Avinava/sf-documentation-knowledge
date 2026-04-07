@@ -6,13 +6,10 @@ topic: adding-smartstore-to-existing-android-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.569Z
+lastCollected: 2026-04-07T18:40:26.825Z
 estimatedTokens: 396
-keywords: [Adding, SmartStore, Android, Apps, Hybrid, projects, created, Mobile, SDK, 4.0, later, automatically, include, 4.0+, native]
+keywords: [Adding, SmartStore, Android, Apps, Hybrid, projects, created, Mobile, SDK, 4.0, automatically, include, 4.0+, native, project, easily, add]
 ---
-
-# Adding SmartStore to Existing
-  Android Apps
 
 > Hybrid projects created with Mobile SDK 4.0 or later
     automatically include SmartStore. If

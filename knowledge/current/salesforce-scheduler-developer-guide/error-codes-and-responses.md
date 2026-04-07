@@ -5,12 +5,10 @@ topic: error-codes-and-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.788Z
+lastCollected: 2026-04-07T18:39:20.540Z
 estimatedTokens: 537
-keywords: [Error, Codes, Responses, APIs, Salesforce, Scheduler, may, encounter, messages, under, certain, conditions, API, potential, associated]
+keywords: [Error, Codes, Responses, APIs, Salesforce, Scheduler, may, encounter, messages, under, certain, conditions, API, potential, causes, occur]
 ---
-
-# Error Codes and Responses
 
 > When using the APIs in Salesforce Scheduler, you may encounter error codes and messages
     under certain conditions. For each Scheduler API, it lists the potential error codes, the

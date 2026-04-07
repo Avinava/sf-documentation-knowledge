@@ -5,12 +5,10 @@ topic: cli-parameter-resolution-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.238Z
+lastCollected: 2026-04-07T18:40:09.185Z
 estimatedTokens: 610
 keywords: [CLI, Resolution, Order, Because, specify, Salesforce, command, several, ways, it’s, know]
 ---
-
-# CLI Parameter Resolution Order
 
 > Because you can specify parameters for a given Salesforce CLI command in several ways,
         it’s important to know the order of resolution.

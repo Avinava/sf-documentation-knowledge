@@ -5,12 +5,10 @@ topic: rate-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.575Z
+lastCollected: 2026-04-07T18:37:52.771Z
 estimatedTokens: 255
-keywords: [Rate, Plan, Output, representation, plans, associated, directly, policy, coverages]
+keywords: [Rate, Plan, plans, directly, policy, coverages]
 ---
-
-# Rate Plan
 
 > Output representation of the details of the rate plans associated
     directly

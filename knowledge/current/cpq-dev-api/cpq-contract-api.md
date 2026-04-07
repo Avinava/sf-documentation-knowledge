@@ -5,12 +5,10 @@ topic: cpq-contract-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.252Z
+lastCollected: 2026-04-07T18:37:27.255Z
 estimatedTokens: 133
 keywords: [CPQ, Contract, API, amend, renew, quotes]
 ---
-
-# CPQ Contract API
 
 > Use CPQ Contract API to amend and renew CPQ quotes.
 

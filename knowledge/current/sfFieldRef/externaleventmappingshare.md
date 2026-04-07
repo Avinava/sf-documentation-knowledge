@@ -5,12 +5,10 @@ topic: externaleventmappingshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.637Z
+lastCollected: 2026-04-07T18:39:40.273Z
 estimatedTokens: 253
 keywords: [ExternalEventMappingShare, Sharing, ExternalEventMapping]
 ---
-
-# ExternalEventMappingShare
 
 > Sharing for ExternalEventMapping.
 

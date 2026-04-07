@@ -5,12 +5,10 @@ topic: fulfillmentworkspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.317Z
+lastCollected: 2026-04-07T18:35:49.268Z
 estimatedTokens: 555
-keywords: [FulfillmentWorkspace, visual, designer, fulfillment, plans, multiple, step, groups, their, dependencies, API, version, 61.0, later, Calls]
+keywords: [FulfillmentWorkspace, visual, designer, fulfillment, plans, multiple, step, groups, their, dependencies, API, 61.0]
 ---
-
-# FulfillmentWorkspace
 
 > Represents a visual designer for fulfillment plans that can have
          multiple step groups and their dependencies. This object is available in API version

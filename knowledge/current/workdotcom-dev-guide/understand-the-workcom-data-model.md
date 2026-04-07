@@ -5,12 +5,10 @@ topic: understand-the-workcom-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.909Z
+lastCollected: 2026-04-07T18:40:13.891Z
 estimatedTokens: 1253
-keywords: [Understand, Work.com, Data, Model, Workplace, Command, Center, uses, mix, standard, Salesforce, objects, custom, Metadata, represent]
+keywords: [Understand, Work.com, Model, Workplace, Command, Center, uses, mix, standard, Salesforce, Metadata, represent, workspace, employee, status, health, assessments, consent, authorization, survey]
 ---
-
-# Understand the Work.com Data Model
 
 > The Workplace Command Center uses a mix of standard Salesforce objects, custom objects,
   and Metadata types to represent workspace information, employee status and health assessments,

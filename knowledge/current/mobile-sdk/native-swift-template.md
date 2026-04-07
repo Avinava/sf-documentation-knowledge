@@ -5,12 +5,10 @@ topic: native-swift-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.016Z
+lastCollected: 2026-04-07T18:40:26.322Z
 estimatedTokens: 1013
-keywords: [Native, Swift, Template, two, initialization, classes, AppDelegate, SceneDelegate, interact, enable, dynamic, arrangement, multiple, windows, Model]
+keywords: [AppDelegate, SceneDelegate, Native, Swift, Template, two, initialization, classes, interact, enable, dynamic, arrangement, multiple, windows, Model, View]
 ---
-
-# Native Swift Template
 
 > This template defines two initialization classes: AppDelegate and SceneDelegate. These classes
       interact to enable a dynamic arrangement of multiple windows.

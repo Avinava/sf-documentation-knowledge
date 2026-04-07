@@ -5,12 +5,10 @@ topic: cancelpolicycancelpolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.600Z
+lastCollected: 2026-04-07T18:37:49.446Z
 estimatedTokens: 312
-keywords: [CancelPolicy, CancelPolicyInput, policyId, Cancel, insurance, policy, version, API, effective, date, cancellation, input, JSON, advance, term]
+keywords: [CancelPolicy, CancelPolicyInput, policyId, Cancel, insurance, policy, API, effective, date, cancellation, JSON, advance, term, can’t, postpone, Requires, Chatter]
 ---
-
-# CancelPolicy(CancelPolicyInput, policyId)
 
 > Cancel an insurance policy version. The API takes the effective date of cancellation from
     the input JSON. You can advance the cancellation date within the policy term, but you can’t

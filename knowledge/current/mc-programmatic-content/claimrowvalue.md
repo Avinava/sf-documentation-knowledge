@@ -5,12 +5,10 @@ topic: claimrowvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.641Z
+lastCollected: 2026-04-07T18:40:21.983Z
 estimatedTokens: 922
-keywords: [ClaimRowValue, Function, Ordinal, data, extension, claim, retrieve, action, column, **Overview**, **Syntax**, Usage]
+keywords: [ClaimRowValue, Function, Ordinal, extension, claim, retrieve, action, column, **Overview**, **Syntax**]
 ---
-
-# ClaimRowValue
 
 > ClaimRowValue(1, 2, 3, 4, 5, 6)
 

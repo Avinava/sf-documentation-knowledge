@@ -5,12 +5,10 @@ topic: cgclouduserdocumenttemplateactivityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.996Z
+lastCollected: 2026-04-07T18:39:15.495Z
 estimatedTokens: 1046
-keywords: [Stores, relationship, daily, report, template, user, activity, API, version, 54.0, later, cgcloud, _User, _Document, _Template]
+keywords: [Stores, relationship, daily, report, template, user, activity, API, 54.0, cgcloud, _User, _Document, _Template, _Activity]
 ---
-
-# cgcloud__User_Document_Template_Activity__c
 
 > Stores the details of the relationship between the daily report
          template and user activity. This object is available in API version 54.0 and later.

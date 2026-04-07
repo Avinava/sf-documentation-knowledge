@@ -5,12 +5,10 @@ topic: assignment-rule-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.879Z
+lastCollected: 2026-04-07T18:36:20.100Z
 estimatedTokens: 338
-keywords: [Assignment, Rule, applied, creating, updating, Accounts, Cases, Leads, enabled, active, rules, disabled, AssignmentRule, provided, REST]
+keywords: [Assignment, Rule, applied, creating, updating, Accounts, Cases, Leads, enabled, active, disabled, AssignmentRule, provided, REST, API, defaults]
 ---
-
-# Assignment Rule Header
 
 > The Assignment Rule header is a request header applied when creating or updating
     Accounts, Cases, or Leads. If enabled, the active assignment rules are used. If disabled, the

@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-residual
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.014Z
+lastCollected: 2026-04-07T18:36:59.505Z
 estimatedTokens: 85
-keywords: [Smart, Data, Discovery, Model, Residual, AnEinstein]
+keywords: [Smart, Discovery, Model, Residual, AnEinstein]
 ---
-
-# Smart Data Discovery AI Model Residual
 
 > AnEinstein Discovery AI model residual.
 

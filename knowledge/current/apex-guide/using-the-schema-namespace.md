@@ -5,13 +5,11 @@ topic: using-the-schema-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.466Z
+lastCollected: 2026-04-07T18:36:16.683Z
 estimatedTokens: 328
 namespace: Schema
-keywords: [Schema, classes, working, metadata, implicitly, import, Schema.*, fully, qualify, uses, elements, they, naming, conflicts, items]
+keywords: [Schema, classes, working, metadata, implicitly, import, Schema.*, fully, qualify, uses, they, naming, conflicts, items, unmanaged, code, org, Apex, sObject, add, prefix, Disambiguation]
 ---
-
-# Using the Schema Namespace
 
 > The Schema namespace provides classes and
       methods for working with schema metadata information. We implicitly import Schema.*, but you must fully qualify your uses of Schema namespace elements when they have naming conflicts

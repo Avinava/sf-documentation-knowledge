@@ -5,12 +5,10 @@ topic: field-service-pricing-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:01.072Z
+lastCollected: 2026-04-07T18:36:46.937Z
 estimatedTokens: 602
-keywords: [Service, Pricing, Data, Model, Link, work, orders, products, assets, org, track, product, performed, customers’, installed]
+keywords: [Service, Pricing, Model, Link, work, orders, products, assets, org, track, product, performed, customers’, installed]
 ---
-
-# Field Service Pricing Data Model
 
 > Link work orders to products or assets in your org to track product pricing and work
   being performed on your customers’ installed products.

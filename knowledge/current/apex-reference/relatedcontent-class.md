@@ -5,13 +5,11 @@ topic: relatedcontent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.206Z
+lastCollected: 2026-04-07T18:36:00.481Z
 estimatedTokens: 562
 namespace: Metadata
-keywords: [RelatedContent, Mobile, Cards, layout, Usage, relatedContentItems, clone]
+keywords: [RelatedContent, Mobile, Cards, layout, relatedContentItems, clone]
 ---
-
-# RelatedContent Class
 
 > Represents the Mobile Cards section of the page
     layout.

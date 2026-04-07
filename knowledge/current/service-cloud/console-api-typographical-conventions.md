@@ -5,12 +5,10 @@ topic: console-api-typographical-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.704Z
+lastCollected: 2026-04-07T18:36:50.989Z
 estimatedTokens: 457
 keywords: [Console, API, Typographical, Conventions, code, examples, Courier, font, italics, brackets, mean]
 ---
-
-# Console API Typographical Conventions
 
 > Typographical conventions are used in our code examples. Learn what Courier font,
     italics, and brackets mean.

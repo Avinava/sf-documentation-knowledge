@@ -5,12 +5,10 @@ topic: appraisalitemproviderval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.026Z
+lastCollected: 2026-04-07T18:36:52.457Z
 estimatedTokens: 584
-keywords: [AppraisalItemProviderVal, valuation, item, appraised, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [AppraisalItemProviderVal, valuation, item, appraised, API, 63.0]
 ---
-
-# AppraisalItemProviderVal
 
 > Represents a valuation of the item that is appraised. This object is available in API
       version 63.0 and later.

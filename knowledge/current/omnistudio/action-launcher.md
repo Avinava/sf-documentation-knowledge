@@ -5,12 +5,10 @@ topic: action-launcher
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:49.564Z
+lastCollected: 2026-04-07T18:36:35.032Z
 estimatedTokens: 271
-keywords: [Action, Launcher, Add, actions, Lightning, web, component, users, search, launch, easily, now, resolve, customer, requests]
+keywords: [Action, Launcher, Add, actions, Lightning, web, users, search, launch, easily, now, resolve, customer, requests, issues, quickly, deliver, better, service, initiate, fee-reversal, flow, service-order]
 ---
-
-# Action Launcher
 
 > Add actions in the Action Launcher Lightning web component
     so that your users can search for and launch an action easily.

@@ -5,12 +5,10 @@ topic: cms-contents-variant
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.769Z
+lastCollected: 2026-04-07T18:37:11.563Z
 estimatedTokens: 422
 keywords: [CMS, Contents, Variant, managed, content]
 ---
-
-# CMS Contents Variant
 
 > Get, update, or delete a managed content variant.
 

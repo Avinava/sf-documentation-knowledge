@@ -5,13 +5,11 @@ topic: cacheorg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.285Z
+lastCollected: 2026-04-07T18:38:52.594Z
 estimatedTokens: 392
 namespace: CacheBuilder
-keywords: [$Cache.Org, merge, access, org, cache, Visualforce, Retrieve, cached, partition’s, referenced, Usage, Examples]
+keywords: [Examples, $Cache.Org, merge, org, cache, Visualforce, Retrieve, cached, partition’s, referenced]
 ---
-
-# $Cache.Org
 
 > A global merge field to access an org cache from a Visualforce page. Retrieve cached
   values from a specified partition’s org cache in the referenced org.

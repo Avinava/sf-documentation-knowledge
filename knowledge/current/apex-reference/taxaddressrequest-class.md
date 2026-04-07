@@ -5,13 +5,11 @@ topic: taxaddressrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.097Z
+lastCollected: 2026-04-07T18:36:02.312Z
 estimatedTokens: 2889
 namespace: CommerceTax
-keywords: [TaxAddressRequest, address, tax, calculation, city, country, latitude, longitude, postalCode, state, street, locationCode, countryCode, stateCode, equals]
+keywords: [TaxAddressRequest, address, tax, calculation, city, country, latitude, longitude, postalCode, state, street, locationCode, countryCode, stateCode, equals, obj, hashCode, toString]
 ---
-
-# TaxAddressRequest Class
 
 > Contains address details used for tax calculation.
 

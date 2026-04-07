@@ -5,13 +5,11 @@ topic: loyaltymanagement-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.871Z
+lastCollected: 2026-04-07T18:38:07.074Z
 estimatedTokens: 2723
 namespace: LoyaltyManagement
 keywords: [LoyaltyManagement, Apex, classes, run, Loyalty, Management, actions]
 ---
-
-# LoyaltyManagement Namespace
 
 > The LoyaltyManagement
       namespace provides Apex classes and methods to run the Loyalty Management

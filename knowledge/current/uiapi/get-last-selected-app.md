@@ -5,12 +5,10 @@ topic: get-last-selected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.923Z
+lastCollected: 2026-04-07T18:40:10.901Z
 estimatedTokens: 241
 keywords: [Selected, App, Retrieves, current, user, sees]
 ---
-
-# Get Last Selected App
 
 > Retrieves the app the current user last selected or the app the user
       sees by default.

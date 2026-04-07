@@ -5,12 +5,10 @@ topic: genaiplannerfunctiondef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.242Z
+lastCollected: 2026-04-07T18:38:33.360Z
 estimatedTokens: 190
-keywords: [GenAiPlannerFunctionDef, relationship, agent, planner, service, actions, API, version, 60.0, later, Calls, Special, Access, Rules]
+keywords: [GenAiPlannerFunctionDef, relationship, agent, planner, service, actions, API, 60.0]
 ---
-
-# GenAiPlannerFunctionDef
 
 > Represents a relationship between the agent planner service and agent
          actions. This object is available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: emssnreductiontargetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.612Z
+lastCollected: 2026-04-07T18:39:39.257Z
 estimatedTokens: 363
-keywords: [EmssnReductionTargetFeed, Feed, tracking, EmssnReductionTarget]
+keywords: [EmssnReductionTargetFeed, EmssnReductionTarget]
 ---
-
-# EmssnReductionTargetFeed
 
 > Feed tracking for EmssnReductionTarget.
 

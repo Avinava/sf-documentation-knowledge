@@ -5,12 +5,10 @@ topic: connectapiverifypolicycoverageinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.296Z
+lastCollected: 2026-04-07T18:37:50.132Z
 estimatedTokens: 154
-keywords: [ConnectApi.VerifyPolicyCoverageInputRep, Invocable, action, input, representation, verify, coverage, specific, insurance, policy]
+keywords: [ConnectApi.VerifyPolicyCoverageInputRep, Invocable, action, verify, coverage, specific, insurance, policy]
 ---
-
-# ConnectApi.VerifyPolicyCoverageInputRep
 
 > Invocable action input representation details to verify the coverage of a specific
     insurance policy.

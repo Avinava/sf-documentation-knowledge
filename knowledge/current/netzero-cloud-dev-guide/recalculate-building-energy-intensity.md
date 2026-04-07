@@ -5,12 +5,10 @@ topic: recalculate-building-energy-intensity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.673Z
+lastCollected: 2026-04-07T18:38:16.218Z
 estimatedTokens: 132
 keywords: [Recalculate, Building, Energy, Intensity, BEI, filters, fuel, geolocation]
 ---
-
-# Recalculate Building Energy Intensity
 
 > Recalculate the building energy intensity (BEI) based on filters such
       as fuel type, building type, and geolocation.

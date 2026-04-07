@@ -5,12 +5,10 @@ topic: use-branches-in-second-generation-managed-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.002Z
+lastCollected: 2026-04-07T18:38:56.664Z
 estimatedTokens: 567
-keywords: [Branches, Second-Generation, Managed, Packaging, Development, teams, their, source, control, system, SCS, often, build, package, versions]
+keywords: [Branches, Second-Generation, Managed, Packaging, Development, teams, their, source, control, system, SCS, often, build, package, versions, metadata, particular, branch, code, Dependencies]
 ---
-
-# Use Branches in Second-Generation Managed Packaging
 
 > Development teams who use branches in their source control system (SCS), often
   build package versions based on the metadata in a particular branch of code.

@@ -5,12 +5,10 @@ topic: getformattedthreadingtokenrecordid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.841Z
+lastCollected: 2026-04-07T18:35:59.111Z
 estimatedTokens: 699
-keywords: [getFormattedThreadingToken, recordId, email, threading, token, that’s, formatted, correct, prefix, suffix, embedded, outbound, subject, users, reply]
+keywords: [getFormattedThreadingToken, recordId, email, threading, token, that’s, formatted, correct, prefix, suffix, embedded, outbound, subject, users, reply, tokens, attach, responses, record, Case, Email-to-Case]
 ---
-
-# getFormattedThreadingToken(recordId)
 
 > Returns an email threading token that’s formatted with the correct
       prefix and suffix. This token can be embedded in an outbound email body, email subject, or

@@ -5,12 +5,10 @@ topic: blngcreditnoteallocationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.925Z
+lastCollected: 2026-04-07T18:37:04.584Z
 estimatedTokens: 1497
-keywords: [blng__CreditNoteAllocation__c, allocation, credit, line, that's, allocated, invoice, blng, _CreditNoteAllocation, Calls]
+keywords: [blng__CreditNoteAllocation__c, allocation, credit, line, that's, allocated, invoice, blng, _CreditNoteAllocation]
 ---
-
-# blng__CreditNoteAllocation__c
 
 > Represents allocation information about a credit note line that's been
          allocated to an invoice line.

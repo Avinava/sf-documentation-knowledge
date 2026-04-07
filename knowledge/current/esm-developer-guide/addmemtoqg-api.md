@@ -5,12 +5,10 @@ topic: addmemtoqg-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.829Z
+lastCollected: 2026-04-07T18:37:31.984Z
 estimatedTokens: 70
 keywords: [AddMem_ToQG, API, Add, members, quote, group, AddMem, _ToQG, URI, HTTP]
 ---
-
-# AddMem_ToQG API
 
 > Add members to a quote group.
 

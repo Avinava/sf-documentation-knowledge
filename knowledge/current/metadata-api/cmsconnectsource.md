@@ -5,12 +5,10 @@ topic: cmsconnectsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.257Z
+lastCollected: 2026-04-07T18:36:23.558Z
 estimatedTokens: 3139
-keywords: [CMSConnectSource, connection, external, content, management, systems, feed, Experience, Builder, sites, extends, Metadata, inherits, fullName, File]
+keywords: [CMSConnectSource, CMSConnectAsset, CMSConnectLanguage, CMSConnectPersonalization, CMSConnectResourceType, CMSConnectResourceDefinition, connection, external, content, management, systems, Experience, Builder, sites, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CMSConnectSource
 
 > Represents the connection information for external content
     management systems that feed content to Experience Builder sites. This type 

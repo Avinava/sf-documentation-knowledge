@@ -5,12 +5,10 @@ topic: add-feature-parameters-to-your-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.460Z
+lastCollected: 2026-04-07T18:38:53.781Z
 estimatedTokens: 189
-keywords: [Add, Feature, Managed, Package, you’ve, created, components, code, aren’t, unmanaged, packages]
+keywords: [Add, Feature, Managed, Package, you’ve, created, code, aren’t, unmanaged, packages]
 ---
-
-# Add Feature Parameters to Your Managed Package
 
 > After you’ve created some feature parameters, you can add them to a managed package
         as components and reference them in your code. Feature parameters aren’t available in

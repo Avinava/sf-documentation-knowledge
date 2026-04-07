@@ -5,12 +5,10 @@ topic: connectapiinsuranceerrorrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.589Z
+lastCollected: 2026-04-07T18:37:50.458Z
 estimatedTokens: 112
-keywords: [ConnectApi.InsuranceErrorRepresentation, Output, representation, error, occurred, insurance, process]
+keywords: [ConnectApi.InsuranceErrorRepresentation, error, occurred, insurance, process]
 ---
-
-# ConnectApi.InsuranceErrorRepresentation
 
 > Output representation for an error that occurred during an insurance process.
 

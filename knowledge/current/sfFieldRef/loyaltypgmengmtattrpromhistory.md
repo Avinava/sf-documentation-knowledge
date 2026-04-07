@@ -5,12 +5,10 @@ topic: loyaltypgmengmtattrpromhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.834Z
+lastCollected: 2026-04-07T18:39:47.314Z
 estimatedTokens: 284
-keywords: [LoyaltyPgmEngmtAttrPromHistory, History, tracked, LoyaltyPgmEngmtAttrProm]
+keywords: [LoyaltyPgmEngmtAttrPromHistory, tracked, LoyaltyPgmEngmtAttrProm]
 ---
-
-# LoyaltyPgmEngmtAttrPromHistory
 
 > History for tracked fields of LoyaltyPgmEngmtAttrProm.
 

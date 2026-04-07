@@ -5,12 +5,10 @@ topic: get-pushv1message
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.452Z
+lastCollected: 2026-04-07T18:40:18.655Z
 estimatedTokens: 1096
-keywords: [push, message, Retrieves, messages, currently, defined, account, **Overview**, Sort, Filter, Operators, Usage]
+keywords: [push, message, Retrieves, messages, currently, defined, account, **Overview**, Sort, Filter, Operators]
 ---
-
-# GET /push/v1/message
 
 > Retrieves all messages currently defined within an account.
 

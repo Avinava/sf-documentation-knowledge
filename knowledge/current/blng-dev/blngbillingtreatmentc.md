@@ -5,12 +5,10 @@ topic: blngbillingtreatmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.893Z
+lastCollected: 2026-04-07T18:37:04.514Z
 estimatedTokens: 1158
-keywords: [blng__BillingTreatment__c, how, Salesforce, Billing, records, rule, actions, finance, books, general, ledgers, treatments, specify, invoice, plan]
+keywords: [blng__BillingTreatment__c, how, Salesforce, Billing, records, rule, actions, finance, books, general, ledgers, treatments, specify, invoice, plan, cancellation, dynamic, plans, amendment, orders, override, package, setting, cancel, order, blng, _BillingTreatment]
 ---
-
-# blng__BillingTreatment__c
 
 > Represents information about how Salesforce Billing records billing rule
          actions in your finance books and general ledgers. Use billing treatments to specify an

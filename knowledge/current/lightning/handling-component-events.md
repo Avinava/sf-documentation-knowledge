@@ -5,12 +5,10 @@ topic: handling-component-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.996Z
+lastCollected: 2026-04-07T18:38:04.097Z
 estimatedTokens: 694
-keywords: [Handling, Component, Events, event, handled, fired, containment, hierarchy, receives, Phases, Source]
+keywords: [Handling, Events, event, handled, fired, containment, hierarchy, receives, Phases, Source]
 ---
-
-# Handling Component Events
 
 > A component event can be handled by the component that fired the event or by a
     component in the containment hierarchy that receives the event.

@@ -5,12 +5,10 @@ topic: stnryassetwateractvty
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:08.256Z
+lastCollected: 2026-04-07T18:40:02.943Z
 estimatedTokens: 638
 keywords: [StnryAssetWaterActvty, water, activities, withdrawal, consumption, discharge, stationary, assets]
 ---
-
-# StnryAssetWaterActvty
 
 > Represents information about the water activities, such as withdrawal,
          consumption, or discharge that are related to the stationary assets.

@@ -5,12 +5,10 @@ topic: configurator-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.283Z
+lastCollected: 2026-04-07T18:37:26.195Z
 estimatedTokens: 193
-keywords: [Configurator, Message, Output, representation, messages, product]
+keywords: [Configurator, Message, messages, product]
 ---
-
-# Configurator Message
 
 > Output representation of the messages of a product configurator.
 

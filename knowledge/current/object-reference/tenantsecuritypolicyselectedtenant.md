@@ -5,12 +5,10 @@ topic: tenantsecuritypolicyselectedtenant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.814Z
+lastCollected: 2026-04-07T18:38:42.544Z
 estimatedTokens: 850
-keywords: [TenantSecurityPolicySelectedTenant, Stores, tenants, selected, Security, Center, policy, Define, Deploy, Policies, subscribers, API, version, 54.0, later]
+keywords: [TenantSecurityPolicySelectedTenant, Stores, tenants, selected, Security, Center, policy, Define, Deploy, Policies, subscribers, API, 54.0]
 ---
-
-# TenantSecurityPolicySelectedTenant
 
 > Stores the list of tenants selected for a Security Center policy. For more
          information, see Define and Deploy Security Policies. This object

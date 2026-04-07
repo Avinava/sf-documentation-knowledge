@@ -5,12 +5,10 @@ topic: format-date-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.654Z
+lastCollected: 2026-04-07T18:39:18.350Z
 estimatedTokens: 140
-keywords: [Date, Input, conversion, node, recipe]
+keywords: [Date, conversion, node, recipe]
 ---
-
-# Format Date Parameters Input
 
 > The parameters for a date format conversion node in a recipe.
 

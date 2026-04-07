@@ -5,12 +5,10 @@ topic: test-and-troubleshoot
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:24.643Z
+lastCollected: 2026-04-07T18:38:15.127Z
 estimatedTokens: 321
 keywords: [Test, Troubleshoot, MAGE, app, action, virtual, device, simulator, emulator, Validate, Best, Practices]
 ---
-
-# Test and Troubleshoot
 
 > MAGE allows you to see and test your app in action through a virtual device simulator
     or emulator.

@@ -5,12 +5,10 @@ topic: wave-change-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.879Z
+lastCollected: 2026-04-07T18:38:31.760Z
 estimatedTokens: 1655
-keywords: [Wave, Change, Event, events, represent, route, changes, made, CRM, Analytics, user, captured, every, time, opens]
+keywords: [Wave, Change, Event, events, represent, route, changes, made, CRM, Analytics, user, captured, every, time, opens, new, asset, tab, switches, tabs, dashboard, pages, logged, opening, switching, back, previously, opened]
 ---
-
-# Wave Change Event Type
 
 > Wave Change events represent route or page changes made in the CRM
          Analytics user interface. A Wave Change event type is captured every time the user opens a

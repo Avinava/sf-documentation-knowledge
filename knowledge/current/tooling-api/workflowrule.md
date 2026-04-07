@@ -5,12 +5,10 @@ topic: workflowrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.474Z
+lastCollected: 2026-04-07T18:36:34.930Z
 estimatedTokens: 471
-keywords: [WorkflowRule, workflow, rule, fire, off, specific, action, criteria, met, Includes, access, associated, Salesforce, Metadata, API]
+keywords: [WorkflowRule, workflow, rule, fire, off, specific, action, criteria, met, Includes, Salesforce, Metadata, API, SOAP, REST, HTTP]
 ---
-
-# WorkflowRule
 
 > Represents a workflow rule that is used to fire off a specific workflow
    action when the specified criteria is met. Includes access to the associated WorkflowRule object

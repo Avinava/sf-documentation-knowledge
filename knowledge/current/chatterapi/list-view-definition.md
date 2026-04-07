@@ -5,12 +5,10 @@ topic: list-view-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.586Z
+lastCollected: 2026-04-07T18:37:22.703Z
 estimatedTokens: 367
-keywords: [View, Definition, structure, search, record, There’s, data]
+keywords: [View, Definition, structure, search, record, There’s]
 ---
-
-# List View Definition
 
 > Related list structure or a search list structure on a record view. There’s no data in
     the list.

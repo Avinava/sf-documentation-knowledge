@@ -5,12 +5,10 @@ topic: record-template-clone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.112Z
+lastCollected: 2026-04-07T18:40:12.118Z
 estimatedTokens: 281
-keywords: [Record, Template, Clone, containing, data, needed, POST, ui-api, records]
+keywords: [Record, Template, Clone, containing, needed, POST, ui-api, records]
 ---
-
-# Record Template Clone
 
 > A record template containing the default information and data needed
       to clone a record. Use these values in a request to POST

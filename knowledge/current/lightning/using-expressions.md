@@ -5,12 +5,10 @@ topic: using-expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.169Z
+lastCollected: 2026-04-07T18:38:04.298Z
 estimatedTokens: 1110
-keywords: [Expressions, allow, calculations, access, data, component, markup, dynamic, output, passing, components, assigning, attributes]
+keywords: [Expressions, allow, calculations, markup, dynamic, passing, assigning, attributes]
 ---
-
-# Using Expressions
 
 > Expressions allow you to make calculations and access property values and other data
       within component markup. Use expressions for dynamic output or passing values into components

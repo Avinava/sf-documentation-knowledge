@@ -5,12 +5,10 @@ topic: custom-component-layout-variable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.366Z
+lastCollected: 2026-04-07T18:36:56.900Z
 estimatedTokens: 100
-keywords: [Custom, Component, Layout, Variable, pass, LWC]
+keywords: [Layout, Variable, pass, LWC]
 ---
-
-# Custom Component Layout Variable
 
 > A variable for the custom component layout to pass to the LWC.
 

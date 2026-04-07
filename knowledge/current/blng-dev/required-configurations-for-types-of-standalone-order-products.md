@@ -5,12 +5,10 @@ topic: required-configurations-for-types-of-standalone-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.711Z
+lastCollected: 2026-04-07T18:37:04.331Z
 estimatedTokens: 681
-keywords: [Configurations, Standalone, Order, Products, orders, require, provide, otherwise, come, CPQ, quote, collection, topics, showing, their]
+keywords: [Configurations, Standalone, Order, Products, orders, require, provide, otherwise, come, CPQ, quote, collection, topics, showing, their, different, billing, features, Certain, specific, vary, configuration]
 ---
-
-# Required Configurations for Types of Standalone Order Products
 
 > Standalone orders require you to provide all the fields that would otherwise come from a
   CPQ quote. We provide a collection of topics showing all the required fields and their values for

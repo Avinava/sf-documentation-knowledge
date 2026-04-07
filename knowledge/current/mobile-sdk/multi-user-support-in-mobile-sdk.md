@@ -5,12 +5,10 @@ topic: multi-user-support-in-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.361Z
+lastCollected: 2026-04-07T18:40:26.665Z
 estimatedTokens: 248
 keywords: [Multi-User, Support, Mobile, SDK, enable, simultaneous, logins, multiple, users, basic, implementation, APIs, user, switching]
 ---
-
-# Multi-User Support in Mobile SDK
 
 > If you need to enable simultaneous logins for multiple users, Mobile SDK provides a basic
   implementation and APIs for user switching.

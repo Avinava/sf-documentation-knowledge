@@ -5,12 +5,10 @@ topic: calltemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.284Z
+lastCollected: 2026-04-07T18:38:27.273Z
 estimatedTokens: 812
-keywords: [CallTemplate, call, script, users, making, calls, Associated, Objects]
+keywords: [CallTemplate, call, script, users, making]
 ---
-
-# CallTemplate
 
 > Represents a call script for users to read when making calls.
 

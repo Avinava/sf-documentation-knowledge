@@ -5,12 +5,10 @@ topic: user-interface-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.029Z
+lastCollected: 2026-04-07T18:37:33.366Z
 estimatedTokens: 355
-keywords: [User, API, Salesforce, record, data, Lightning, web, component, LWR, sites, don’t, require, anything, special, developing]
+keywords: [User, API, Salesforce, record, Lightning, web, LWR, sites, don’t, require, anything, developing]
 ---
-
-# User Interface API
 
 > User Interface API allows you to get Salesforce record data into your Lightning web
     component. LWR sites don’t require anything special when developing your Lightning web

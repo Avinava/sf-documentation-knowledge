@@ -5,12 +5,10 @@ topic: referral-marketing-fields-on-internalorganizationunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.593Z
+lastCollected: 2026-04-07T18:39:09.965Z
 estimatedTokens: 353
-keywords: [Referral, Marketing, InternalOrganizationUnit, Standard, extend, represent, Marketing’s, connection, Cloud, business, unit, API, version, 60.0, later]
+keywords: [Referral, Marketing, InternalOrganizationUnit, Standard, extend, represent, Marketing’s, connection, Cloud, business, unit, API, 60.0, B2C, programs]
 ---
-
-# Referral Marketing Fields on InternalOrganizationUnit
 
 > Standard fields extend the InternalOrganizationUnit object for use in
          Referral Marketing to represent to information about Referral Marketing’s connection with a

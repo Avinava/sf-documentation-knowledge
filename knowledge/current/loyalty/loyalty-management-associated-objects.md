@@ -5,12 +5,10 @@ topic: loyalty-management-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.508Z
+lastCollected: 2026-04-07T18:38:09.819Z
 estimatedTokens: 618
-keywords: [Loyalty, Management, Associated, Objects, standard, their]
+keywords: [Loyalty, Management, standard, their]
 ---
-
-# Loyalty Management Associated Objects
 
 > This section provides a list of objects associated to standard objects and their standard fields.
 

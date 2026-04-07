@@ -5,12 +5,10 @@ topic: calculationprocedurehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.894Z
+lastCollected: 2026-04-07T18:39:31.197Z
 estimatedTokens: 270
-keywords: [CalculationProcedureHistory, History, tracked, CalculationProcedure]
+keywords: [CalculationProcedureHistory, tracked, CalculationProcedure]
 ---
-
-# CalculationProcedureHistory
 
 > History for tracked fields of CalculationProcedure.
 

@@ -5,12 +5,10 @@ topic: actionable-segmentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:49.622Z
+lastCollected: 2026-04-07T18:36:35.089Z
 estimatedTokens: 381
-keywords: [Actionable, Segmentation, data, model, helps, segment, similar, client, profiles, curate, design, timely, personalized, outreach, programs]
+keywords: [Actionable, Segmentation, model, helps, segment, similar, client, profiles, curate, design, timely, personalized, outreach, programs, definitions]
 ---
-
-# Actionable Segmentation
 
 > The Actionable Segmentation data model helps segment similar client profiles and curate
     them to design timely and personalized client outreach programs. By using this data model, you

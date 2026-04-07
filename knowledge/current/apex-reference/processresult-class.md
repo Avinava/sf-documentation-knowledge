@@ -5,13 +5,11 @@ topic: processresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.780Z
+lastCollected: 2026-04-07T18:35:59.051Z
 estimatedTokens: 1005
 namespace: Approval
-keywords: [ProcessResult, submit, record, approval, process, results, Usage, getEntityId, getErrors, getInstanceId, getInstanceStatus, getNewWorkitemIds, isSuccess]
+keywords: [ProcessResult, submit, record, approval, process, results, getEntityId, getErrors, getInstanceId, getInstanceStatus, getNewWorkitemIds, isSuccess]
 ---
-
-# ProcessResult Class
 
 > After you submit a record for approval, use the ProcessResult class to process the
 results of an approval process.

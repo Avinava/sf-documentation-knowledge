@@ -5,12 +5,10 @@ topic: error-no-default-dev-hub-found
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.707Z
+lastCollected: 2026-04-07T18:40:08.663Z
 estimatedTokens: 497
 keywords: [Error, dev, hub, found, try, scratch, org, due, authorization, issue]
 ---
-
-# Error: No default dev hub found
 
 > You see this error when you try to create a scratch org due to an authorization issue.
 

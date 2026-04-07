@@ -5,12 +5,10 @@ topic: addeligibleinsuranceclausesoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.684Z
+lastCollected: 2026-04-07T18:37:49.531Z
 estimatedTokens: 1193
-keywords: [AddEligibleInsuranceClausesOptions, options, adding, eligible, product, clauses, insurance, configuring, exclusions, coverage, terms, selection, Usage, saveContext]
+keywords: [AddEligibleInsuranceClausesOptions, options, adding, eligible, product, clauses, insurance, configuring, exclusions, coverage, terms, selection, saveContext]
 ---
-
-# AddEligibleInsuranceClausesOptions Class
 
 > Contains options for adding eligible product clauses to an insurance product. Use this
     class when configuring which clauses, such as exclusions or coverage terms, are available for

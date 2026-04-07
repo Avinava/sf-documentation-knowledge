@@ -5,12 +5,10 @@ topic: standalone-credit-memo-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.028Z
+lastCollected: 2026-04-07T18:35:43.981Z
 estimatedTokens: 488
-keywords: [Standalone, Credit, Memo, Input, representation]
+keywords: [Standalone, Credit, Memo]
 ---
-
-# Standalone Credit Memo Input
 
 > Input representation of the details required to create a standalone credit
     memo.

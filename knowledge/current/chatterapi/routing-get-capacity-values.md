@@ -5,12 +5,10 @@ topic: routing-get-capacity-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.753Z
+lastCollected: 2026-04-07T18:37:15.815Z
 estimatedTokens: 243
 keywords: [Routing, Capacity, current, fulfillment, order, locations]
 ---
-
-# Routing, Get Capacity Values
 
 > Get information about the current fulfillment order capacity of one
       or more locations.

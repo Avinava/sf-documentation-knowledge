@@ -5,12 +5,10 @@ topic: connectapicontractitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.832Z
+lastCollected: 2026-04-07T18:37:49.700Z
 estimatedTokens: 138
 keywords: [ConnectApi.ContractItem, Addition, added, contract, items]
 ---
-
-# ConnectApi.ContractItem
 
 > Addition fields to be added to the contract items.
 

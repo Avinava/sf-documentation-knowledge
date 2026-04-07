@@ -5,12 +5,10 @@ topic: sample-case-management-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.315Z
+lastCollected: 2026-04-07T18:40:12.335Z
 estimatedTokens: 506
-keywords: [Sample, Case, Management, Formulas, manage, Autodial, Categorization, Data, Completeness, Tracking, Suggested, Agent, Prompts, Offers]
+keywords: [Autodial, Sample, Case, Management, Formulas, manage, Categorization, Completeness, Suggested, Agent, Prompts, Offers]
 ---
-
-# Sample Case Management Formulas
 
 > Use these formulas to manage case details.
 

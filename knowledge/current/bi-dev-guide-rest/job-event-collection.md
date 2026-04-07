@@ -5,12 +5,10 @@ topic: job-event-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.791Z
+lastCollected: 2026-04-07T18:36:57.303Z
 estimatedTokens: 81
 keywords: [Job, Event, Collection, audit, events, jobs, recipe, start, dataflow, cancelled]
 ---
-
-# Job Event Collection
 
 > A collection of audit events for jobs, like recipe start or dataflow cancelled.
 

@@ -5,12 +5,10 @@ topic: commerce-return-order-line-item-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:07.809Z
+lastCollected: 2026-04-07T18:35:52.708Z
 estimatedTokens: 476
-keywords: [Commerce, Order, Line, Item, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
+keywords: [Commerce, Order, Line, Item, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, product, customer, seller, DLO]
 ---
-
-# Commerce: Return Order Line Item Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Return Order Line Item data is information about a

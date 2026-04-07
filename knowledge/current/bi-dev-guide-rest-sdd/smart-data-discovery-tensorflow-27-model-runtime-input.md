@@ -5,12 +5,10 @@ topic: smart-data-discovery-tensorflow-27-model-runtime-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.385Z
+lastCollected: 2026-04-07T18:36:58.882Z
 estimatedTokens: 100
-keywords: [Smart, Data, Discovery, TensorFlow, Model, Runtime, Input, identify, v2.7.0]
+keywords: [Smart, Discovery, TensorFlow, Model, Runtime, identify, v2.7.0]
 ---
-
-# Smart Data Discovery TensorFlow 27 Model Runtime Input
 
 > The input to identify the model runtime type as TensorFlow v2.7.0.
 

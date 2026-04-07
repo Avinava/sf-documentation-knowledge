@@ -5,12 +5,10 @@ topic: create-your-app-analytics-dataset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.291Z
+lastCollected: 2026-04-07T18:38:54.683Z
 estimatedTokens: 309
 keywords: [App, Analytics, Dataset, RawPackageLogFile, RawPackageLogFile.csv, file]
 ---
-
-# Create Your App Analytics Dataset
 
 > Create a RawPackageLogFile App Analytics dataset using your
    RawPackageLogFile.csv file.

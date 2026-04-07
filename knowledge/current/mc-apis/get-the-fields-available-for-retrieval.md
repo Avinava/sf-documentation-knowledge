@@ -5,12 +5,10 @@ topic: get-the-fields-available-for-retrieval
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.299Z
+lastCollected: 2026-04-07T18:40:17.462Z
 estimatedTokens: 1146
-keywords: [Retrieval, getting, identify, kind, Retrieve, call, Why, How, Sample, NET, Code, Output, PHP, Items]
+keywords: [Retrieval, getting, identify, kind, Retrieve, call, Why, How, Sample, NET, Code, PHP, Items]
 ---
-
-# Get the Fields Available for Retrieval
 
 > By getting the fields available for retrieval, you can identify what kind of information is returned on a Retrieve call.
 

@@ -5,12 +5,10 @@ topic: fieldsrctrgtrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.603Z
+lastCollected: 2026-04-07T18:36:26.087Z
 estimatedTokens: 724
-keywords: [FieldSrcTrgtRelationship, Stores, relationships, data, model, DMO, Individual.Id, one-to-many, relationship, ContactPointEmail.PartyId, Parent, File, Suffix, Directory, Location]
+keywords: [FieldSrcTrgtRelationship, Stores, relationships, model, DMO, Individual.Id, one-to-many, relationship, ContactPointEmail.PartyId, Parent, File, Suffix, Directory, Location]
 ---
-
-# FieldSrcTrgtRelationship
 
 > Stores the relationships between a data model object (DMO) and its fields. For example,
   the Individual.Id field has a one-to-many relationship (1:M) with the

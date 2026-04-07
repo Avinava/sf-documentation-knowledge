@@ -5,12 +5,10 @@ topic: record-rollup-result-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.870Z
+lastCollected: 2026-04-07T18:38:20.606Z
 estimatedTokens: 128
-keywords: [Record, Rollup, Result, Input, representation, sort, fetch, results]
+keywords: [Record, Rollup, Result, sort, fetch, results]
 ---
-
-# Record Rollup Result Input
 
 > Input representation to sort and fetch the record rollup results.
 

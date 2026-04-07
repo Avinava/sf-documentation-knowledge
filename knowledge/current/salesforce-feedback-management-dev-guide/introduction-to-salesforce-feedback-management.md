@@ -5,12 +5,10 @@ topic: introduction-to-salesforce-feedback-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.537Z
+lastCollected: 2026-04-07T18:39:17.180Z
 estimatedTokens: 257
-keywords: [Introduction, Salesforce, Feedback, Management, Gather, customer, gain, deeper, insights, products, services, Surveys, SFM, gives, tools]
+keywords: [Introduction, Salesforce, Feedback, Management, Gather, customer, gain, deeper, insights, products, services, Surveys, SFM, gives, tools, developer, resources, engaging, personalized]
 ---
-
-# Introduction to Salesforce Feedback Management
 
 > Gather customer feedback and gain deeper insights about your products or services
     through Surveys. Salesforce Feedback Management (SFM) gives you the tools and developer

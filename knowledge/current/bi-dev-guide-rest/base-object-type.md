@@ -5,12 +5,10 @@ topic: base-object-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.176Z
+lastCollected: 2026-04-07T18:36:56.747Z
 estimatedTokens: 801
 keywords: [Base, Analytics, template, variable]
 ---
-
-# Base Object Type
 
 > The base type for an Analytics template object variable.
 

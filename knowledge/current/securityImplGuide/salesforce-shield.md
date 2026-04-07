@@ -5,12 +5,10 @@ topic: salesforce-shield
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:28.940Z
+lastCollected: 2026-04-07T18:39:22.856Z
 estimatedTokens: 925
-keywords: [Salesforce, Shield, trio, security, tools, helps, build, extra, levels, trust, compliance, governance, right, business-critical, apps]
+keywords: [Salesforce, Shield, trio, security, tools, helps, build, extra, levels, trust, compliance, governance, right, business-critical, apps, includes, Platform, Encryption, Event, Monitoring, Audit, Trail, Ask, administrator, org, Real-Time, Detect, Learning, Map, Resources, Documentation]
 ---
-
-# Salesforce Shield
 
 > Salesforce Shield is a trio of security tools that helps you build extra levels of
         trust, compliance, and governance right into your business-critical apps. It includes Shield

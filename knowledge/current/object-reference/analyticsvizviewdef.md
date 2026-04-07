@@ -5,12 +5,10 @@ topic: analyticsvizviewdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.421Z
+lastCollected: 2026-04-07T18:38:25.331Z
 estimatedTokens: 510
-keywords: [AnalyticsVizViewDef, Tableau, viusalization, view, definition, API, version, 64.0, later, Calls, Special, Access, Rules]
+keywords: [AnalyticsVizViewDef, Tableau, viusalization, view, definition, API, 64.0]
 ---
-
-# AnalyticsVizViewDef
 
 > Represents a Tableau Next viusalization view definition. This object is available in API version 64.0 and later.
 

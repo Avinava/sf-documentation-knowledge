@@ -5,12 +5,10 @@ topic: avoid-namespace-collisions-in-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.893Z
+lastCollected: 2026-04-07T18:38:56.529Z
 estimatedTokens: 1191
 keywords: [Avoid, Collisions, Second-Generation, Managed, Packages, Namespaces, impact, combination, package, install, org]
 ---
-
-# Avoid Namespace Collisions in Second-Generation Managed Packages
 
 > Namespaces impact the combination of package types that you can install in an
     org.

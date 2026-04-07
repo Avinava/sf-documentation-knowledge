@@ -5,12 +5,10 @@ topic: field-service-custom-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.089Z
+lastCollected: 2026-04-07T18:36:46.951Z
 estimatedTokens: 751
-keywords: [Service, Custom, Standard, Objects, Salesforce, installed, managed, package]
+keywords: [Service, Standard, Salesforce, installed, managed, package]
 ---
-
-# Field Service Custom Fields on Standard Objects
 
 > A list of custom fields on standard Salesforce objects installed with the Field Service
   managed package.

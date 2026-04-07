@@ -5,12 +5,10 @@ topic: returnorderitemadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.622Z
+lastCollected: 2026-04-07T18:40:00.359Z
 estimatedTokens: 381
-keywords: [ReturnOrderItemAdjustment, price, adjustment, order, line, item, API, version, 50.0, later]
+keywords: [ReturnOrderItemAdjustment, price, adjustment, order, line, item, API, 50.0]
 ---
-
-# ReturnOrderItemAdjustment
 
 > Represents a price adjustment on a return order line item. This object is
     available in API version 50.0 and later.

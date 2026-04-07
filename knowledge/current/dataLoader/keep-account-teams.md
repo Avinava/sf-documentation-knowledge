@@ -5,12 +5,10 @@ topic: keep-account-teams
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.273Z
+lastCollected: 2026-04-07T18:37:28.304Z
 estimatedTokens: 405
-keywords: [Keep, Account, Teams, Configure, Data, Loader, mass, updating, Owners]
+keywords: [Keep, Account, Teams, Configure, Loader, mass, updating, Owners]
 ---
-
-# Keep Account Teams
 
 > Configure Data Loader to keep Account Teams when mass updating Account
   Owners.

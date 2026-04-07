@@ -5,12 +5,10 @@ topic: productclassificationattrfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.933Z
+lastCollected: 2026-04-07T18:39:55.501Z
 estimatedTokens: 365
-keywords: [ProductClassificationAttrFeed, Feed, tracking, ProductClassificationAttr]
+keywords: [ProductClassificationAttrFeed, ProductClassificationAttr]
 ---
-
-# ProductClassificationAttrFeed
 
 > Feed tracking for ProductClassificationAttr.
 

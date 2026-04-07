@@ -5,12 +5,10 @@ topic: allocate-scorecard-emissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.716Z
+lastCollected: 2026-04-07T18:38:16.269Z
 estimatedTokens: 269
-keywords: [Allocate, Scorecard, Emissions, final, procurement, items, AllocationStatus, successful, allocation, API, allocates, calculated, FinalScorecardEmissions, Special, Access]
+keywords: [Allocate, Scorecard, Emissions, final, procurement, items, AllocationStatus, successful, allocation, API, allocates, calculated, FinalScorecardEmissions]
 ---
-
-# Allocate Scorecard Emissions
 
 > Allocate final emissions to procurement items. Update the
       AllocationStatus field on the scorecard on a successful allocation. The API allocates final

@@ -5,12 +5,10 @@ topic: download-and-install
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.731Z
+lastCollected: 2026-04-07T18:38:15.216Z
 estimatedTokens: 265
 keywords: [Download, Install, you’ve, gotten, development, tools, running, getting, started, Offline, App, Onboarding, Wizard, breeze]
 ---
-
-# Download and Install
 
 > After you’ve gotten your development tools up and running, getting started with the
   Offline App Onboarding Wizard is a breeze.

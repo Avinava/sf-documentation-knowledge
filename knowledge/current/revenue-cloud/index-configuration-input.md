@@ -5,12 +5,10 @@ topic: index-configuration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.426Z
+lastCollected: 2026-04-07T18:35:43.320Z
 estimatedTokens: 251
-keywords: [Index, Configuration, Input, representation, persist]
+keywords: [Index, Configuration, persist]
 ---
-
-# Index Configuration Input
 
 > Input representation of the request to persist the index configuration.
 

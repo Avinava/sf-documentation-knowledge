@@ -5,12 +5,10 @@ topic: commerce-webstore-product-children
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.693Z
+lastCollected: 2026-04-07T18:37:12.584Z
 estimatedTokens: 787
 keywords: [Commerce, Webstore, Product, Children, collection, child, products, parent]
 ---
-
-# Commerce Webstore Product Children
 
 > Get a collection of child products related to a parent
     product.

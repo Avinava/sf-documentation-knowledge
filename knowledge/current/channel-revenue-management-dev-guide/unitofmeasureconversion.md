@@ -5,12 +5,10 @@ topic: unitofmeasureconversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.181Z
+lastCollected: 2026-04-07T18:37:06.879Z
 estimatedTokens: 388
-keywords: [UnitOfMeasureConversion, convert, measurement, unit, measure, another, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [UnitOfMeasureConversion, convert, measurement, unit, measure, another, API, 52.0]
 ---
-
-# UnitOfMeasureConversion
 
 > Represents the information used to convert a measurement value from a unit of
          measure to another. This object is available in API version 52.0 and

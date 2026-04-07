@@ -5,12 +5,10 @@ topic: promotionstage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.737Z
+lastCollected: 2026-04-07T18:39:10.166Z
 estimatedTokens: 1000
-keywords: [PromotionStage, stage, referral, promotion, API, version, 59.0, later, Calls]
+keywords: [PromotionStage, stage, referral, promotion, API, 59.0]
 ---
-
-# PromotionStage
 
 > Represents a stage in a referral promotion. This object is
       available in API version 59.0 and later.

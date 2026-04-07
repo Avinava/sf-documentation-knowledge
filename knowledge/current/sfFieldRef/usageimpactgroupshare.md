@@ -5,12 +5,10 @@ topic: usageimpactgroupshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.981Z
+lastCollected: 2026-04-07T18:40:04.784Z
 estimatedTokens: 251
 keywords: [UsageImpactGroupShare, Sharing, UsageImpactGroup]
 ---
-
-# UsageImpactGroupShare
 
 > Sharing for UsageImpactGroup.
 

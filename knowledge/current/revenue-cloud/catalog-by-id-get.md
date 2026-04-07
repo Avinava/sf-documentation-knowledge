@@ -5,12 +5,10 @@ topic: catalog-by-id-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.493Z
+lastCollected: 2026-04-07T18:35:44.476Z
 estimatedTokens: 273
 keywords: [Catalog, Retrieve, records]
 ---
-
-# Catalog By ID (GET)
 
 > Retrieve details of catalog records based on a catalog
       ID.

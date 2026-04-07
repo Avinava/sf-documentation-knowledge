@@ -5,12 +5,10 @@ topic: closeagentwork-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.537Z
+lastCollected: 2026-04-07T18:36:49.680Z
 estimatedTokens: 116
-keywords: [closeAgentWork, Lightning, Experience, Changes, status, work, item, Closed, removes, items, Omni-Channel, utility, Arguments, Sample, Code]
+keywords: [Arguments, closeAgentWork, Lightning, Experience, Changes, status, work, item, Closed, removes, items, Omni-Channel, utility, Sample, Code]
 ---
-
-# closeAgentWork for Lightning Experience
 
 > Changes the status of a work item to Closed and removes it from the list of
         work items in the Omni-Channel utility.

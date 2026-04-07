@@ -5,12 +5,10 @@ topic: worktypestepldtimeovridefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.522Z
+lastCollected: 2026-04-07T18:40:07.460Z
 estimatedTokens: 393
-keywords: [WorkTypeStepLdTimeOvrideFeed, Feed, tracking, WorkTypeStepLdTimeOvride]
+keywords: [WorkTypeStepLdTimeOvrideFeed, WorkTypeStepLdTimeOvride]
 ---
-
-# WorkTypeStepLdTimeOvrideFeed
 
 > Feed tracking for WorkTypeStepLdTimeOvride.
 

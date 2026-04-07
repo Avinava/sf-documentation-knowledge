@@ -5,12 +5,10 @@ topic: experience-cloud-site-moderation-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.941Z
+lastCollected: 2026-04-07T18:37:10.633Z
 estimatedTokens: 576
-keywords: [Experience, Cloud, Site, Moderation, Feed, Items, flagged, members]
+keywords: [Experience, Cloud, Site, Moderation, Items, flagged, members]
 ---
-
-# Experience Cloud Site Moderation Feed Items
 
 > Get feed items that have been flagged by Experience Cloud site
       members.

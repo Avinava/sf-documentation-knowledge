@@ -5,12 +5,10 @@ topic: available-territory-slots-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.806Z
+lastCollected: 2026-04-07T18:37:16.873Z
 estimatedTokens: 72
 keywords: [Territory, Slots]
 ---
-
-# Available Territory Slots List
 
 > Available territory slots.
 

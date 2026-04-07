@@ -5,13 +5,11 @@ topic: routing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.513Z
+lastCollected: 2026-04-07T18:35:58.783Z
 estimatedTokens: 3234
 namespace: ConnectApi
-keywords: [Routing, Confirm, held, fulfillment, order, capacity, locations, call, decreases, location’s, increases, assigned, count, assign, location]
+keywords: [Routing, Confirm, held, fulfillment, order, capacity, locations, call, decreases, location’s, increases, assigned, count, assign, location, confirmHeldFOCapacity, confirmHeldFOCapacityInput, API, Requires, Chatter, findRoutesWithFewestSplits, findRoutesWithFewestSplitsUsingOCI, findRoutesWithFewestSplitsUsingOCIInput, getFOCapacityValues, getFOCapacityValuesInput, holdFOCapacity, holdFOCapacityInput, rankAverageDistance, rankAverageDistanceInputRepresentation, releaseHeldFOCapacity, releaseHeldFOCapacityInput]
 ---
-
-# Routing Class
 
 > Confirm held fulfillment order capacity at one or more locations.
       This call decreases a location’s held capacity and increases its assigned fulfillment order

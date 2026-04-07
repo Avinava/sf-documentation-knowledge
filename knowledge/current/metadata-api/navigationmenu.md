@@ -5,12 +5,10 @@ topic: navigationmenu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.341Z
+lastCollected: 2026-04-07T18:36:27.848Z
 estimatedTokens: 1291
-keywords: [NavigationMenu, navigation, menu, Experience, Builder, site, consists, items, users, click, parts, replaces, NavigationLinkSet, subtype, Network]
+keywords: [NavigationMenu, NavigationMenuItem, NavigationMenuItemBranding, NavigationSubMenu, navigation, menu, Experience, Builder, site, consists, items, users, click, parts, replaces, NavigationLinkSet, subtype, Network, API, 47.0, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# NavigationMenu
 
 > Represents the navigation menu in an Experience Builder site. A navigation menu
     consists of items that users can click to go to other parts of the site. This type replaces the

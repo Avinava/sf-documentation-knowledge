@@ -5,12 +5,10 @@ topic: perform-mass-deletes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.355Z
+lastCollected: 2026-04-07T18:37:28.387Z
 estimatedTokens: 175
-keywords: [Perform, Mass, Deletes, Data, Loader, large, number, records, time, total, depends, API, you've, configured]
+keywords: [Perform, Mass, Deletes, Loader, large, number, records, time, total, depends, API, you've, configured]
 ---
-
-# Perform Mass Deletes
 
 > Use Data Loader to delete a large number of records at one time. The total number
                 of records you can delete depends on which API you've configured Data Loader to

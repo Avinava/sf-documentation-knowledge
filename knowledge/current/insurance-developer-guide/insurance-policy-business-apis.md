@@ -5,12 +5,10 @@ topic: insurance-policy-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.897Z
+lastCollected: 2026-04-07T18:37:53.152Z
 estimatedTokens: 661
 keywords: [Insurance, Policy, Business, APIs, Manage, transactions, issuance, endorsement, renewal, cancellation, Calculate, term, taxes, transaction, durations]
 ---
-
-# Insurance Policy Business APIs
 
 > Manage policy transactions such as issuance, endorsement, renewal, and cancellation.
     Calculate term taxes based on transaction types and policy durations.

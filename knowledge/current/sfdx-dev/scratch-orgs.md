@@ -5,12 +5,10 @@ topic: scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.260Z
+lastCollected: 2026-04-07T18:40:08.215Z
 estimatedTokens: 2560
-keywords: [Scratch, Orgs, org, source-driven, disposable, deployment, Salesforce, code, metadata, fully, configurable, allowing, developers, emulate, different]
+keywords: [Scratch, Orgs, org, source-driven, disposable, deployment, Salesforce, code, metadata, fully, configurable, allowing, developers, emulate, different, editions, features, settings, share, configuration, file, team, members, basic, development, addition, install, packages, deploy, synthetic, dummy, testing, Don’t, add, personal, Source, Creation, Instances, Created, Expiration, Policy]
 ---
-
-# Scratch Orgs
 
 > The scratch org is a source-driven and disposable deployment of Salesforce code and
         metadata. A scratch org is fully configurable, allowing developers to emulate different

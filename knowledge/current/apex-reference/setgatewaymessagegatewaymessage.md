@@ -5,12 +5,10 @@ topic: setgatewaymessagegatewaymessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.993Z
+lastCollected: 2026-04-07T18:36:04.212Z
 estimatedTokens: 110
 keywords: [setGatewayMessage, gatewayMessage, error, messages, gateway, tokenization, Maximum, length, characters]
 ---
-
-# setGatewayMessage(gatewayMessage)
 
 > Sets error messages that the gateway returned for the tokenization request. Maximum
     length of 255 characters.

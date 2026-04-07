@@ -5,12 +5,10 @@ topic: otheremssnfctrsetitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.067Z
+lastCollected: 2026-04-07T18:39:51.481Z
 estimatedTokens: 363
-keywords: [OtherEmssnFctrSetItemFeed, Feed, tracking, OtherEmssnFctrSetItem]
+keywords: [OtherEmssnFctrSetItemFeed, OtherEmssnFctrSetItem]
 ---
-
-# OtherEmssnFctrSetItemFeed
 
 > Feed tracking for OtherEmssnFctrSetItem.
 

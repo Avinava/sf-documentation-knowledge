@@ -5,12 +5,10 @@ topic: term
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.097Z
+lastCollected: 2026-04-07T18:37:39.005Z
 estimatedTokens: 466
-keywords: [Term, condition, applied, loan, application, collateral, API, version, 62.0, later, Digital, Lending, permission, Calls]
+keywords: [Term, condition, applied, loan, application, collateral, API, 62.0, Digital, Lending, permission]
 ---
-
-# Term
 
 > Represents a term or condition applied for a loan application or a
          collateral. This object is available in API version 62.0 and later. Available with

@@ -5,12 +5,10 @@ topic: filter-reports
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.643Z
+lastCollected: 2026-04-07T18:36:15.879Z
 estimatedTokens: 396
 keywords: [Filter, Reports, specific, results, fly, API]
 ---
-
-# Filter Reports
 
 > To get specific results on the fly, you can filter reports through the
         API.

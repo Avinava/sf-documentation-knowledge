@@ -5,12 +5,10 @@ topic: electronicmediause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.228Z
+lastCollected: 2026-04-07T18:38:30.065Z
 estimatedTokens: 264
-keywords: [ElectronicMediaUse, usage, media, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [ElectronicMediaUse, media, API, 49.0]
 ---
-
-# ElectronicMediaUse
 
 > Represents the usage of media. This object is available in API
       version 49.0 and later.

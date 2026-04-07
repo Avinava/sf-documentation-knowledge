@@ -5,12 +5,10 @@ topic: basic-retrieves-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.392Z
+lastCollected: 2026-04-07T18:40:22.816Z
 estimatedTokens: 730
-keywords: [Basic, Retrieves, via, WSProxy, offers, several, retrieve, options, depending, level, complexity, simplest, option, array, DataExtensions]
+keywords: [Basic, Retrieves, via, WSProxy, offers, several, retrieve, options, depending, level, complexity, simplest, option, array, DataExtensions, Filter, Accounts]
 ---
-
-# Basic Retrieves via WSProxy
 
 > The WSProxy() object offers several retrieve options, depending on the level of complexity you need. The simplest option takes the type of object as the first parameter, and an array of object property names to retrieve.
 

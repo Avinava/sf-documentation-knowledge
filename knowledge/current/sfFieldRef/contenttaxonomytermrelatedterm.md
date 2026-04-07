@@ -5,12 +5,10 @@ topic: contenttaxonomytermrelatedterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.944Z
+lastCollected: 2026-04-07T18:39:35.407Z
 estimatedTokens: 357
-keywords: [ContentTaxonomyTermRelatedTerm, relationship, two, terms, content, taxonomy, API, version, 63.0, later]
+keywords: [ContentTaxonomyTermRelatedTerm, relationship, two, terms, content, taxonomy, API, 63.0]
 ---
-
-# ContentTaxonomyTermRelatedTerm
 
 > Represents the relationship between two terms in a content
          taxonomy. This object is available in API version 63.0 and later.

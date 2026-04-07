@@ -5,12 +5,10 @@ topic: subscribing-to-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.313Z
+lastCollected: 2026-04-07T18:38:57.098Z
 estimatedTokens: 225
 keywords: [Subscribing, Events, code, how, call, subscribe, Visualforce, published, canvas, app]
 ---
-
-# Subscribing to Events
 
 > The following code example shows how to call the subscribe method within a Visualforce page to subscribe to specified events published from a canvas app.
 

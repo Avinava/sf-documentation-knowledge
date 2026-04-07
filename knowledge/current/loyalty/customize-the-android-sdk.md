@@ -5,12 +5,10 @@ topic: customize-the-android-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.727Z
+lastCollected: 2026-04-07T18:38:09.043Z
 estimatedTokens: 638
 keywords: [Customize, Android, SDK, build, Loyalty, Management, Mobile, colors, fonts, strings]
 ---
-
-# Customize the Android SDK
 
 > After you build the Loyalty Management Mobile SDK for Android, you can customize the
   colors, fonts, and strings.

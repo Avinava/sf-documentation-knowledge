@@ -5,12 +5,10 @@ topic: learningitemprogress
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.071Z
+lastCollected: 2026-04-07T18:38:34.267Z
 estimatedTokens: 1114
-keywords: [LearningItemProgress, progress, user, made, towards, completing, assigned, learning, item, Paths, entry, Enablement, program, API, version]
+keywords: [LearningItemProgress, progress, user, made, towards, completing, assigned, learning, item, Paths, entry, Enablement, program, API, 60.0]
 ---
-
-# LearningItemProgress
 
 > Represents the progress that a user has made towards completing an
          assigned learning item, such as a Learning Paths entry or Enablement program. This

@@ -5,12 +5,10 @@ topic: triggeredsendstatusenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.537Z
+lastCollected: 2026-04-07T18:40:20.787Z
 estimatedTokens: 284
 keywords: [TriggeredSendStatusEnum, status, triggered, send]
 ---
-
-# TriggeredSendStatusEnum
 
 > The TriggeredSendStatusEnum object defines the status of a triggered send.
 

@@ -5,12 +5,10 @@ topic: understand-salesforce-graphql-implementations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.330Z
+lastCollected: 2026-04-07T18:38:15.860Z
 estimatedTokens: 1091
-keywords: [Understand, Salesforce, GraphQL, Implementations, offers, three, different, ways, LWC, developers, their, components, select, depend, specific]
+keywords: [Understand, Salesforce, GraphQL, Implementations, offers, three, different, ways, LWC, developers, their, select, depend, specific, needs, application, How, Choose, Implementation]
 ---
-
-# Understand Salesforce GraphQL Implementations
 
 > Salesforce offers three different ways for LWC developers to use GraphQL in their
   components. Which one you select for your components will depend on the specific needs of your

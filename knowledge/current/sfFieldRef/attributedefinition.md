@@ -5,12 +5,10 @@ topic: attributedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:34.240Z
+lastCollected: 2026-04-07T18:39:28.287Z
 estimatedTokens: 538
-keywords: [AttributeDefinition, product, asset, attribute, hardward, specification, software, detail, API, version, 57.0, later]
+keywords: [AttributeDefinition, product, asset, attribute, hardward, specification, software, detail, API, 57.0]
 ---
-
-# AttributeDefinition
 
 > Represents a product, asset, or object attribute, for example, a hardward
          specification or software detail. This object is available in API version 57.0 and

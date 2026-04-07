@@ -5,12 +5,10 @@ topic: benefittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.708Z
+lastCollected: 2026-04-07T18:37:30.769Z
 estimatedTokens: 223
-keywords: [BenefitType, benefits, applied, individual, group, API, version, 60.0, later, Calls]
+keywords: [BenefitType, benefits, applied, individual, group, API, 60.0]
 ---
-
-# BenefitType
 
 > Represents information about the type of benefits that can be applied to an
          individual or a group. This object is available in API version 60.0 and later.

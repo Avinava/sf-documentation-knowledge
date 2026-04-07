@@ -5,12 +5,10 @@ topic: duplicaterule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.686Z
+lastCollected: 2026-04-07T18:36:25.141Z
 estimatedTokens: 2598
-keywords: [DuplicateRule, rule, how, duplicate, records, detected, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [DuplicateRule, DuplicateRuleMatchRule, DuplicateRuleFilter, DuplicateRuleFilterItem, ObjectMapping, ObjectMappingField, rule, how, duplicate, records, detected, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DuplicateRule
 
 > Represents a rule that specifies how duplicate records in
       an object are detected. This type extends the Metadata metadata type and inherits its

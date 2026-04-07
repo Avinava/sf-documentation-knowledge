@@ -5,12 +5,10 @@ topic: get-datav1auditauditevents
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.939Z
+lastCollected: 2026-04-07T18:40:17.093Z
 estimatedTokens: 665
-keywords: [data, audit, auditEvents, Retrieves, logged, Trail, events, current, account, children, Logins, audited, enterprise, level, **Overview**]
+keywords: [audit, auditEvents, Retrieves, logged, Trail, events, current, account, children, Logins, audited, enterprise, level, **Overview**, Marketing, Cloud, Permissions, Items]
 ---
-
-# GET /data/v1/audit/auditEvents
 
 > Retrieves logged Audit Trail audit events for the current account and its children. Logins are audited at the enterprise level.
 

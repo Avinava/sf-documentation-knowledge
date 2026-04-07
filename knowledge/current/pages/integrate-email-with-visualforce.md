@@ -5,12 +5,10 @@ topic: integrate-email-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.048Z
+lastCollected: 2026-04-07T18:38:51.288Z
 estimatedTokens: 186
-keywords: [Integrate, Email, Visualforce, send, any, contacts, leads, recipients, possible, reusable, templates, take, advantage, Visualforce's, ability]
+keywords: [Integrate, Email, Visualforce, send, any, contacts, leads, recipients, possible, reusable, templates, take, advantage, Visualforce's, ability, iterate, over, Salesforce, records]
 ---
-
-# Integrate Email with Visualforce
 
 > Visualforce can be used to send email to any of your contacts, leads, or other
   recipients. It is also possible to create reusable email templates that take advantage of

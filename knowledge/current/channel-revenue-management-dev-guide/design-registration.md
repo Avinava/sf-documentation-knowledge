@@ -5,12 +5,10 @@ topic: design-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.163Z
+lastCollected: 2026-04-07T18:37:05.858Z
 estimatedTokens: 181
-keywords: [Design, Registration, Enable, partners, register, designs, capture, key, vendor, portal, improved, sales, visibility, Allow, channel]
+keywords: [Design, Registration, Enable, partners, register, designs, capture, key, vendor, portal, improved, sales, visibility, Allow, channel, managers, review, approve, submissions, track, partner, contributions, increase, accountability]
 ---
-
-# Design Registration
 
 > Enable partners to register designs and capture key details through the vendor portal
   for improved sales visibility. Allow channel managers to review and approve submissions to track

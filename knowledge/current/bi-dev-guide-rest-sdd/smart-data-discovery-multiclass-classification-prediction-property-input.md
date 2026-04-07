@@ -5,12 +5,10 @@ topic: smart-data-discovery-multiclass-classification-prediction-property-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.230Z
+lastCollected: 2026-04-07T18:36:58.729Z
 estimatedTokens: 201
-keywords: [Smart, Data, Discovery, Multiclass, Classification, Prediction, Input, identify]
+keywords: [Smart, Discovery, Multiclass, Classification, Prediction, identify]
 ---
-
-# Smart Data Discovery Multiclass Classification Prediction Property Input
 
 > The input to identify the prediction type as Multiclass Classification.
 

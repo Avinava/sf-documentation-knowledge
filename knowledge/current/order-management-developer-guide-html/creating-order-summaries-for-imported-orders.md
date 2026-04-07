@@ -5,12 +5,10 @@ topic: creating-order-summaries-for-imported-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.540Z
+lastCollected: 2026-04-07T18:38:45.344Z
 estimatedTokens: 518
 keywords: [Creating, Order, Summaries, Imported, Orders, few, ways]
 ---
-
-# Creating Order Summaries for Imported Orders
 
 > You can create order summaries for imported orders in a few
       ways.

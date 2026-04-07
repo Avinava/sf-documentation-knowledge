@@ -5,12 +5,10 @@ topic: business-rules-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.122Z
+lastCollected: 2026-04-07T18:36:38.783Z
 estimatedTokens: 117
-keywords: [Business, Rules, Results, Output, representation, executing, expression]
+keywords: [Business, Results, executing, expression]
 ---
-
-# Business Rules Results
 
 > Output representation of executing an expression set.
 

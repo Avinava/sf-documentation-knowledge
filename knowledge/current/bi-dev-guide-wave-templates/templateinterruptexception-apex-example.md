@@ -5,12 +5,10 @@ topic: templateinterruptexception-apex-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.594Z
+lastCollected: 2026-04-07T18:37:02.180Z
 estimatedTokens: 106
 keywords: [TemplateInterruptException, Apex, handle, template, runtime, errors, cleanly, provide, clear, users, Report, error, user]
 ---
-
-# TemplateInterruptException Apex Example
 
 > Use the TemplateInterruptException class to handle
   template runtime errors cleanly and provide clear information to template users.

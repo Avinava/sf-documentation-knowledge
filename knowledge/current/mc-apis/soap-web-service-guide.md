@@ -5,12 +5,10 @@ topic: soap-web-service-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.853Z
+lastCollected: 2026-04-07T18:40:21.129Z
 estimatedTokens: 498
-keywords: [SOAP, Web, Service, Getting, Started, Planning, Application, Troubleshooting, Items]
+keywords: [Troubleshooting, SOAP, Web, Service, Getting, Started, Planning, Application, Items]
 ---
-
-# SOAP Web Service Guide
 
 # SOAP Web Service Guide
 

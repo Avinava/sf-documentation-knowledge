@@ -5,12 +5,10 @@ topic: contract-document-version-for-customer-community-user-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.809Z
+lastCollected: 2026-04-07T18:37:24.785Z
 estimatedTokens: 219
-keywords: [Contract, Document, Version, Customer, Community, User, latest]
+keywords: [Contract, Document, Customer, Community, User, latest]
 ---
-
-# Contract Document Version for Customer Community User (GET)
 
 > Get latest details of a contract document version based on a
       contract ID.

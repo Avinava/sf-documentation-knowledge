@@ -5,12 +5,10 @@ topic: connectapiadjustorderitemsummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.201Z
+lastCollected: 2026-04-07T18:36:04.495Z
 estimatedTokens: 356
 keywords: [Price, adjustments, order, item, summaries, together, adjustment, options, adjusting, items, process, fulfilled]
 ---
-
-# ConnectApi.AdjustOrderItemSummaryInputRepresentation
 
 > Price adjustments to order item summaries that together make up a
       price adjustment to an order, with options for adjusting items in the process of being

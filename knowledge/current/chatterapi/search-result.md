@@ -5,12 +5,10 @@ topic: search-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.872Z
+lastCollected: 2026-04-07T18:37:22.986Z
 estimatedTokens: 240
 keywords: [Search, Result, Record, results, keyword]
 ---
-
-# Search Result
 
 > Record results from a keyword search.
 

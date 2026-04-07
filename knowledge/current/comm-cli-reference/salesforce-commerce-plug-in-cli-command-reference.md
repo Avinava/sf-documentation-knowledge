@@ -5,13 +5,11 @@ topic: salesforce-commerce-plug-in-cli-command-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:38.885Z
+lastCollected: 2026-04-07T18:37:25.801Z
 estimatedTokens: 397
 namespace: Commands
 keywords: [Salesforce, Commerce, Plug-In, CLI, Command, commands, their]
 ---
-
-# Salesforce Commerce Plug-In CLI Command Reference
 
 > The command reference contains information about the Salesforce CLI commands for the
         Commerce plug-in and their parameters.

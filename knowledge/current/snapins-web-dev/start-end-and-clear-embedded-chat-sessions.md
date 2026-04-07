@@ -5,12 +5,10 @@ topic: start-end-and-clear-embedded-chat-sessions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.515Z
+lastCollected: 2026-04-07T18:40:09.460Z
 estimatedTokens: 1182
-keywords: [Start, End, Clear, Embedded, Chat, Sessions, Three, APIs, allow, Service, code, snippet, version, 5.0, later]
+keywords: [Start, End, Clear, Embedded, Chat, Sessions, Three, APIs, allow, Service, code, snippet, 5.0, Experience, sites, Lightning, Locker, enabled, _svc.liveAgentAPI.startChat, attributes, _svc.liveAgentAPI.endChat, _svc.liveAgentAPI.clearSession]
 ---
-
-# Start, End, and Clear Embedded Chat Sessions
 
 > Three APIs allow you to start, end, and clear sessions for Embedded Chat. Use the
     Embedded Service code snippet version 5.0 and later. The APIs are not available for Experience

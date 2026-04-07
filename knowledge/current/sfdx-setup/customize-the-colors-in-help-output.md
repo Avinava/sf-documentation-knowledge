@@ -5,12 +5,10 @@ topic: customize-the-colors-in-help-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.298Z
+lastCollected: 2026-04-07T18:40:09.241Z
 estimatedTokens: 680
-keywords: [Customize, Colors, Help, Output, run, command, --help, flag, uses, highlight, certain, parts, descriptions, executable, don’t]
+keywords: [Customize, Colors, Help, run, command, --help, flag, uses, highlight, certain, parts, descriptions, executable, don’t]
 ---
-
-# Customize the Colors in Help Output
 
 > When you run a command with the --help or -h flag, the help output uses colors to highlight certain parts,
   such as command and flag descriptions, executable name, and more. If you don’t like the default

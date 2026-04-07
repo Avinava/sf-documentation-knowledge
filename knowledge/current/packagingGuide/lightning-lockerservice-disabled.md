@@ -5,12 +5,10 @@ topic: lightning-lockerservice-disabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:55.448Z
+lastCollected: 2026-04-07T18:38:47.406Z
 estimatedTokens: 413
-keywords: [Lightning, LockerService, Disabled, critical, security, feature, code, component, isolation, sources, execute, interact, safe, standard, APIs]
+keywords: [Lightning, LockerService, Disabled, critical, security, feature, code, isolation, sources, execute, interact, safe, standard, APIs, event, mechanisms, Enable, Locker, AppExchange, packages, contain, applications, Metadata]
 ---
-
-# Lightning LockerService Disabled
 
 > Lightning LockerService is a critical security feature for Lightning code. It provides
     component isolation that allows code from many sources to execute and interact using safe,

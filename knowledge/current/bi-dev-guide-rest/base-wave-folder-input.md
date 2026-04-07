@@ -5,12 +5,10 @@ topic: base-wave-folder-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.262Z
+lastCollected: 2026-04-07T18:36:54.621Z
 estimatedTokens: 251
-keywords: [Base, Wave, Folder, Input, Analytics, asset]
+keywords: [Base, Wave, Folder, Analytics, asset]
 ---
-
-# Base Wave Folder Input
 
 > The base Analytics folder asset.
 

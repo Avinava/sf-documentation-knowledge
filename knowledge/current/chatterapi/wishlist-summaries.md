@@ -5,12 +5,10 @@ topic: wishlist-summaries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.743Z
+lastCollected: 2026-04-07T18:37:23.800Z
 estimatedTokens: 133
 keywords: [Wishlist, Summaries, context, user]
 ---
-
-# Wishlist Summaries
 
 > List of wishlist summaries and the displayed list for the context
       user.

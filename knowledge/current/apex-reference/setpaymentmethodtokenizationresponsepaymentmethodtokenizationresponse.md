@@ -5,12 +5,10 @@ topic: setpaymentmethodtokenizationresponsepaymentmethodtokenizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.017Z
+lastCollected: 2026-04-07T18:36:04.237Z
 estimatedTokens: 206
 keywords: [setPaymentMethodTokenizationResponse, paymentMethodTokenizationResponse, gateway, tokenized, payment]
 ---
-
-# setPaymentMethodTokenizationResponse(paymentMethodTokenizationResponse)
 
 > Sets information from the gateway about the tokenized payment
       method.

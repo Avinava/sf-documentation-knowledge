@@ -5,12 +5,10 @@ topic: mobile-app-development-with-lightning-web-components-and-lwc-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.796Z
+lastCollected: 2026-04-07T18:38:15.282Z
 estimatedTokens: 581
-keywords: [Mobile, App, Development, Lightning, Web, Components, LWC, Offline, Customize, Salesforce, apps, features, built, deploy, customizations]
+keywords: [Mobile, App, Development, Lightning, Web, LWC, Offline, Customize, Salesforce, apps, features, built, deploy, customizations, users, work, devices, Optimize, handle, low-, no-network, connectivity, situations, grace]
 ---
-
-# Mobile App Development with Lightning Web Components and LWC Offline
 
 > Customize Salesforce mobile apps with features built with Lightning web components, and
   deploy your customizations to mobile users. Create components and apps that work even when mobile

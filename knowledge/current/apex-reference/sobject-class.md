@@ -5,13 +5,11 @@ topic: sobject-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.131Z
+lastCollected: 2026-04-07T18:36:14.504Z
 estimatedTokens: 13489
 namespace: System
-keywords: [SObject, Dynamically, add, errors, associated, Usage, addError, errorMsg, escape, exceptionError, fieldName, fieldToken, clear, clone, preserveId]
+keywords: [SObject, Dynamically, add, errors, addError, errorMsg, escape, exceptionError, fieldName, fieldToken, clear, clone, preserveId, isDeepClone, preserveReadonlyTimestamps, preserveAutonumber, Versioned, Behavior, Changes, getCloneSourceId, getErrors, getOptions, getPopulatedFieldsAsMap, getSObject, getSObjects, getSObjectType, getQuickActionName, hasErrors, isClone, isSet, put, putSObject, recalculateFormulas, setOptions, DMLOptions]
 ---
-
-# SObject Class
 
 > Dynamically add errors to fields of an SObject associated with the
       specified field name.

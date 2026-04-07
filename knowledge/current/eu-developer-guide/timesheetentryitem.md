@@ -5,12 +5,10 @@ topic: timesheetentryitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.648Z
+lastCollected: 2026-04-07T18:37:32.905Z
 estimatedTokens: 898
-keywords: [TimeSheetEntryItem, time, sheet, entry, Enterprise, Asset, Management, system, pay, service, worker, accroding, labor, laws, company]
+keywords: [TimeSheetEntryItem, time, sheet, entry, Enterprise, Asset, Management, system, pay, service, worker, accroding, labor, laws, company, policy, API, 62.0]
 ---
-
-# TimeSheetEntryItem
 
 > Represents the details of the time sheet entry that is used by an Enterprise
          Asset Management system to pay the field service worker accroding to labor laws and company

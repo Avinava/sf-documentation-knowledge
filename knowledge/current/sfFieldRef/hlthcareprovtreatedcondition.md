@@ -5,12 +5,10 @@ topic: hlthcareprovtreatedcondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.385Z
+lastCollected: 2026-04-07T18:39:44.017Z
 estimatedTokens: 420
-keywords: [HlthCareProvTreatedCondition, junction, healthcare, provider, facility, practitioner, problem, definition, that's, health, condition, disease, illness, links, doctor]
+keywords: [HlthCareProvTreatedCondition, junction, healthcare, provider, facility, practitioner, problem, definition, that's, health, condition, disease, illness, links, doctor, treatment, diabetes, spinal, injuries, API, 59.0]
 ---
-
-# HlthCareProvTreatedCondition
 
 > Represents a junction object between a healthcare provider, facility, or
          practitioner and a problem definition that's related to a health condition, such as disease

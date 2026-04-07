@@ -5,12 +5,10 @@ topic: assessmentindvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.688Z
+lastCollected: 2026-04-07T18:39:12.210Z
 estimatedTokens: 422
-keywords: [AssessmentIndValue, Stores, target, captured, defined, part, assessment, indicator, definition, multi, select, question, API, version, 49.0]
+keywords: [AssessmentIndValue, Stores, target, captured, defined, part, assessment, indicator, definition, multi, select, question, API, 49.0]
 ---
-
-# AssessmentIndValue
 
 > Stores the list of target or captured values which are defined as part of
       assessment indicator definition for a single and multi select question.  This object is

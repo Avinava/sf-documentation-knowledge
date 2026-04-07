@@ -5,12 +5,10 @@ topic: userappmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:10.189Z
+lastCollected: 2026-04-07T18:40:05.020Z
 estimatedTokens: 379
-keywords: [UserAppMenuItem, organization-wide, settings, items, app, menu, Launcher, requesting, user, access, Setup, API, version, 35.0, later]
+keywords: [UserAppMenuItem, organization-wide, settings, items, app, menu, Launcher, requesting, user, Setup, API, 35.0]
 ---
-
-# UserAppMenuItem
 
 > Represents the organization-wide settings for items in the app menu or
 			App Launcher that the requesting user has access to in Setup. This

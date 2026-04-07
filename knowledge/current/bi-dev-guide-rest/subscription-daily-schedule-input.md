@@ -5,12 +5,10 @@ topic: subscription-daily-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.597Z
+lastCollected: 2026-04-07T18:36:54.963Z
 estimatedTokens: 85
-keywords: [Subscription, Daily, Schedule, Input, execute, Analytics]
+keywords: [Subscription, Daily, Schedule, execute, Analytics]
 ---
-
-# Subscription Daily Schedule Input
 
 > The daily schedule on which to execute an Analytics subscription.
 

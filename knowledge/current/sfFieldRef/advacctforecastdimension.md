@@ -5,12 +5,10 @@ topic: advacctforecastdimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.095Z
+lastCollected: 2026-04-07T18:39:25.000Z
 estimatedTokens: 291
 keywords: [AdvAcctForecastDimension, dimensions, selected, advanced, account, forecast]
 ---
-
-# AdvAcctForecastDimension
 
 > Represents information about the dimensions selected for an advanced account
          forecast set.

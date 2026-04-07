@@ -5,12 +5,10 @@ topic: time-series-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.984Z
+lastCollected: 2026-04-07T18:39:19.667Z
 estimatedTokens: 395
 keywords: [Time, Series, node, recipe]
 ---
-
-# Time Series Parameters
 
 > The parameters for a time series node in a recipe.
 

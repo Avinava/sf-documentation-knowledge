@@ -5,12 +5,10 @@ topic: datadetplcysstvdatacatg
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.807Z
+lastCollected: 2026-04-07T18:38:29.687Z
 estimatedTokens: 270
-keywords: [DataDetPlcySstvDataCatg, sensitive, data, categories, DataDetect, scan, policy, API, version, 64.0, later, Calls]
+keywords: [DataDetPlcySstvDataCatg, sensitive, categories, DataDetect, scan, policy, API, 64.0]
 ---
-
-# DataDetPlcySstvDataCatg
 
 > Represents the sensitive data categories that the DataDetect scan policy is
          required to scan. This object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: costcenter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.368Z
+lastCollected: 2026-04-07T18:37:32.558Z
 estimatedTokens: 300
-keywords: [CostCenter, actual, expenses, compared, budget, API, version, 61.0, later, Calls]
+keywords: [CostCenter, actual, expenses, compared, budget, API, 61.0]
 ---
-
-# CostCenter
 
 > Represents the actual expenses that are compared to the budget. This object is available in API version 61.0 and later.
 

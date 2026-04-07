@@ -5,12 +5,10 @@ topic: livechatbuttonskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.817Z
+lastCollected: 2026-04-07T18:38:35.057Z
 estimatedTokens: 171
-keywords: [LiveChatButtonSkill, skills, LiveChatButton, except, currently, assigned, retrieve, skill, query, API, version, 25.0, later, Calls, Usage]
+keywords: [LiveChatButtonSkill, skills, LiveChatButton, except, currently, assigned, retrieve, skill, query, API, 25.0]
 ---
-
-# LiveChatButtonSkill
 
 > Represents all the skills available to a LiveChatButton  except the one
    currently assigned. To retrieve the skill currently assigned, query LiveChatButton. This

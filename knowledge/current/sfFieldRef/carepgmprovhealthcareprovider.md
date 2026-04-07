@@ -5,12 +5,10 @@ topic: carepgmprovhealthcareprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.664Z
+lastCollected: 2026-04-07T18:39:32.027Z
 estimatedTokens: 419
-keywords: [CarePgmProvHealthcareProvider, junction, identifying, primary, healthcare, professional, associated, care, program, provider, look, professionals, providers, API, version]
+keywords: [CarePgmProvHealthcareProvider, junction, identifying, primary, healthcare, professional, care, program, provider, look, professionals, providers, API, 49.0]
 ---
-
-# CarePgmProvHealthcareProvider
 
 > Represents a junction object identifying the primary healthcare professional
       associated with a care program provider and to look up all healthcare professionals for care

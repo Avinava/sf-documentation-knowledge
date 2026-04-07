@@ -5,12 +5,10 @@ topic: record-pinned-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.316Z
+lastCollected: 2026-04-07T18:37:11.042Z
 estimatedTokens: 394
-keywords: [Record, Pinned, Feed, Elements, group, Pin, unpin, element]
+keywords: [Record, Pinned, group, Pin, unpin]
 ---
-
-# Record Pinned Feed Elements
 
 > Get pinned feed elements from a group feed. Pin or unpin a feed
       element to a group feed.

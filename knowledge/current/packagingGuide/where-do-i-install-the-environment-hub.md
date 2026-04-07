@@ -5,12 +5,10 @@ topic: where-do-i-install-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.829Z
+lastCollected: 2026-04-07T18:38:46.791Z
 estimatedTokens: 110
 keywords: [install, Environment, Hub, you’re, ISV, partner, already, installed, Business, Org]
 ---
-
-# Where do I install the Environment Hub?
 
 > If you’re an ISV partner, the Environment Hub is already installed in your Partner Business
    Org.

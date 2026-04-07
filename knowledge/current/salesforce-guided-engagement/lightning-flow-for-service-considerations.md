@@ -5,12 +5,10 @@ topic: lightning-flow-for-service-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:23.964Z
+lastCollected: 2026-04-07T18:39:17.628Z
 estimatedTokens: 773
 keywords: [Lightning, Flow, Service, Considerations, how, packaging, change, sharing, model, impact, implementation]
 ---
-
-# Lightning Flow for Service Considerations
 
 > Learn about how packaging, change sets, and the sharing model can impact your Lightning
   Flow for Service implementation.

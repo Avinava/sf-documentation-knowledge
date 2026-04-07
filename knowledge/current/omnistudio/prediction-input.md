@@ -5,12 +5,10 @@ topic: prediction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:51.791Z
+lastCollected: 2026-04-07T18:36:37.318Z
 estimatedTokens: 1758
-keywords: [Prediction, Input, representation, features, predictions, fetched]
+keywords: [Prediction, features, predictions, fetched]
 ---
-
-# Prediction Input
 
 > Input representation of the features for which predictions are to be
       fetched.

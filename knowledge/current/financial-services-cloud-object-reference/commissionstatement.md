@@ -5,12 +5,10 @@ topic: commissionstatement
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:49.045Z
+lastCollected: 2026-04-07T18:37:36.822Z
 estimatedTokens: 1454
-keywords: [CommissionStatement, commission, summary, associated, party, Statement, Line, Item, API, version, later, Calls, Objects]
+keywords: [CommissionStatement, commission, summary, party, Statement, Line, Item, API]
 ---
-
-# CommissionStatement
 
 > Represents commission summary associated with a party or Commission Statement Line
          Item. This object is available in API version 61 and later.

@@ -5,12 +5,10 @@ topic: components-available-in-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:03.543Z
+lastCollected: 2026-04-07T18:38:56.077Z
 estimatedTokens: 158250
-keywords: [Components, Second-Generation, Managed, Packages, metadata, component, include, package, certain, rules, determine, behavior, subscriber, org, Manageability]
+keywords: [AffinityScoreDefinition, AIUsecaseDefinition, Analytics, AssessmentConfiguration, AssessmentQuestion, AssessmentQuestionSet, CommunicationChannelType, Dashboard, DataCalcInsightTemplate, DataObjectBuildOrgTemplate, DataWeaveResource, Document, FieldMappingConfig, Flow, Folder, IndustriesEinsteinFeatureSettings, IntegrationProviderDef, LearningAchievementConfig, Letterhead, MktCalculatedInsightsObjectDef, MktDataConnection, MktDataTranObject, OcrSampleDocument, OcrTemplate, Process, RedirectWhitelistUrl, RelationshipGraphDefinition, Report, ServiceProcess, Translation, Second-Generation, Managed, Packages, metadata, include, package, certain, determine, behavior, subscriber, org, Manageability, whether, edit, remove, created, installed, Editable, Promotion, Installation, Account, Plan, Objective, Measure, Calculation, Definition, Relationship, Share, Rule, Action, Link, Group, Template, Actionable, Key, Performance, Indicator, Activation, Platform, Agent, Topic, Application, Config, Visualization, Workspace, Apex, Sharing, Reason, Trigger, App, Framework, Bundle, Subtype, Aura, Batch, Calc, Job, Benefit, Bot, Branding, Briefcase, Building, Energy, Intensity, Record, Configuration, Business, Care, Verify, Settings]
 ---
-
-# Components Available in Second-Generation Managed Packages
 
 > Each metadata component that you include in a second-generation managed
     package has certain rules that determine its behavior in a subscriber org. Manageability rules

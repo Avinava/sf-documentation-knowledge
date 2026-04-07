@@ -5,12 +5,10 @@ topic: import-translated-content-to-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.182Z
+lastCollected: 2026-04-07T18:37:33.564Z
 estimatedTokens: 970
-keywords: [Import, Translated, Content, LWR, Site, add, language, enter, translations, directly, component, editor, panels, Experience, Builder]
+keywords: [Import, Translated, Content, LWR, Site, add, language, enter, translations, directly, editor, panels, Experience, Builder, Alternatively, upload, entire, translation, once, export, xlf, file]
 ---
-
-# Import Translated Content to Your LWR Site
 
 > After you add a language to your site, you can enter translations for that language
   directly into the component property editor panels in Experience Builder. Alternatively, to upload

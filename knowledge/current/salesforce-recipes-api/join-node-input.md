@@ -5,12 +5,10 @@ topic: join-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.676Z
+lastCollected: 2026-04-07T18:39:18.371Z
 estimatedTokens: 113
-keywords: [Join, Node, Input, recipe]
+keywords: [Join, Node, recipe]
 ---
-
-# Join Node Input
 
 > A join node in a recipe.
 

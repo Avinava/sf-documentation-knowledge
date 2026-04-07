@@ -5,12 +5,10 @@ topic: personnamehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.506Z
+lastCollected: 2026-04-07T18:39:54.057Z
 estimatedTokens: 257
-keywords: [PersonNameHistory, History, tracked, PersonName]
+keywords: [PersonNameHistory, tracked, PersonName]
 ---
-
-# PersonNameHistory
 
 > History for tracked fields of PersonName.
 

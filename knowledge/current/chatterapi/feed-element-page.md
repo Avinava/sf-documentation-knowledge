@@ -5,12 +5,10 @@ topic: feed-element-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.935Z
+lastCollected: 2026-04-07T18:37:19.036Z
 estimatedTokens: 648
-keywords: [Feed, Element, Container, elements, paginated, results]
+keywords: [Container, paginated, results]
 ---
-
-# Feed Element Page
 
 > Container of feed elements with paginated
 results.

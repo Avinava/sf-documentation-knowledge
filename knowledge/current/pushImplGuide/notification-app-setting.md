@@ -5,13 +5,11 @@ topic: notification-app-setting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.806Z
+lastCollected: 2026-04-07T18:39:09.119Z
 estimatedTokens: 836
 namespace: String
 keywords: [Notification, App, Setting, reset, org]
 ---
-
-# Notification App Setting
 
 > Get, set, and reset a notification app setting for the
     org.

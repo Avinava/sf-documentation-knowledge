@@ -5,12 +5,10 @@ topic: differentialshift
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.375Z
+lastCollected: 2026-04-07T18:37:32.573Z
 estimatedTokens: 379
-keywords: [DifferentialShift, collection, store, shifts, different, normal, resource, marked, against, timesheet, entries, API, version, 65.0, later]
+keywords: [DifferentialShift, collection, store, shifts, different, normal, resource, marked, against, timesheet, entries, API, 65.0]
 ---
-
-# DifferentialShift
 
 > Represents a collection of fields to store the information about shifts different from the normal shifts of a resource. 
         These shifts are marked against the timesheet entries. This object is available in API version 65.0 and

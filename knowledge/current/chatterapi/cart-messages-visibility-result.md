@@ -5,12 +5,10 @@ topic: cart-messages-visibility-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.209Z
+lastCollected: 2026-04-07T18:37:17.279Z
 estimatedTokens: 82
 keywords: [Cart, Messages, Visibility, Result, setting]
 ---
-
-# Cart Messages Visibility Result
 
 > Result of setting the visibility for cart messages.
 

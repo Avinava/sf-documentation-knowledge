@@ -5,12 +5,10 @@ topic: productmedia
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.363Z
+lastCollected: 2026-04-07T18:38:38.772Z
 estimatedTokens: 983
-keywords: [ProductMedia, rich, media, including, images, attachments, added, products.This, API, version, 49.0, later, Calls, Special, Access]
+keywords: [ProductMedia, rich, media, including, images, attachments, added, products.This, API, 49.0]
 ---
-
-# ProductMedia
 
 > Represents the rich media, including images and attachments, that can
          be added to products.This object is available in API version 49.0 and

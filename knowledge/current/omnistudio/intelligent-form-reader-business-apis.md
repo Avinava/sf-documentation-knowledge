@@ -5,12 +5,10 @@ topic: intelligent-form-reader-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.562Z
+lastCollected: 2026-04-07T18:36:41.257Z
 estimatedTokens: 598
-keywords: [Intelligent, Form, Reader, Business, APIs, mapping, extracted, text, stored, Salesforce, uses, optical, character, recognition, automatically]
+keywords: [Intelligent, Form, Reader, Business, APIs, mapping, extracted, text, stored, Salesforce, uses, optical, character, recognition, automatically, extract, documents, specify, kind, getting, map, appropriate, Salesfore, Resources]
 ---
-
-# Intelligent Form Reader Business APIs
 
 > Use the Intelligent Form Reader Business APIs to read the mapping
       details of the extracted text that is stored in a Salesforce object. Intelligent Form

@@ -5,12 +5,10 @@ topic: acadrgstrapplnevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.626Z
+lastCollected: 2026-04-07T18:38:58.507Z
 estimatedTokens: 240
-keywords: [AcadRgstrApplnEvent, resources, apply, academic, term, registration, timeline, enrollment, API, version, 65.0, later, Calls]
+keywords: [AcadRgstrApplnEvent, resources, apply, academic, term, registration, timeline, enrollment, API, 65.0]
 ---
-
-# AcadRgstrApplnEvent
 
 > Represents the resources required to apply an academic term registration
          timeline on an academic term enrollment. This object is available in API version 65.0

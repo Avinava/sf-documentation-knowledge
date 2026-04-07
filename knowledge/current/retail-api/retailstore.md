@@ -5,12 +5,10 @@ topic: retailstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.395Z
+lastCollected: 2026-04-07T18:39:15.929Z
 estimatedTokens: 1761
-keywords: [RetailStore, records, physical, retail, stores, associated, business, accounts, API, version, 47.0, later, Calls, Objects]
+keywords: [RetailStore, records, physical, retail, stores, business, accounts, API, 47.0]
 ---
-
-# RetailStore
 
 > Create records for physical retail stores associated to business accounts.
     This object is available in API version 47.0 and later.

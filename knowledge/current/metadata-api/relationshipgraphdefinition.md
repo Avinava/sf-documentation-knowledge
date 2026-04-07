@@ -5,12 +5,10 @@ topic: relationshipgraphdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.628Z
+lastCollected: 2026-04-07T18:36:29.108Z
 estimatedTokens: 827
-keywords: [RelationshipGraphDefinition, definition, graph, configure, organization, traverse, hierarchies, record, giving, glimpse, how, business, works, Parent, File]
+keywords: [RelationshipGraphDefinition, RelationshipGraphDefVersion, definition, graph, configure, organization, traverse, hierarchies, record, giving, glimpse, how, business, works, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# RelationshipGraphDefinition
 
 > Represents a definition of a graph that you can
             configure in your organization to traverse object hierarchies and record details, giving

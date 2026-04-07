@@ -5,12 +5,10 @@ topic: allow-users-to-see-an-external-objects-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.888Z
+lastCollected: 2026-04-07T18:39:10.331Z
 estimatedTokens: 339
-keywords: [Allow, Users, External, Object's, Records, restriction, rule, active, Salesforce, Purchase, Order, uses, IsClosed, record, criteria]
+keywords: [Allow, Users, External, Object's, Records, restriction, rule, active, Salesforce, Purchase, Order, uses, IsClosed, record, criteria, Tooling, API, Metadata]
 ---
-
-# Allow Users to See an External Object's Records
 
 > This restriction rule allows active Salesforce users to see the records of an external
     object called Purchase Order. The rule uses a field called IsClosed on Purchase Order records in

@@ -5,12 +5,10 @@ topic: install-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.572Z
+lastCollected: 2026-04-07T18:38:46.441Z
 estimatedTokens: 416
-keywords: [Install, Channel, Order, App, COA, preinstalled, Partner, Business, Org, PBO, However, want, manage, different, Salesforce]
+keywords: [Install, Channel, Order, App, COA, preinstalled, Partner, Business, Org, PBO, However, want, manage, different, Salesforce, manually, AppExchange]
 ---
-
-# Install the Channel Order App
 
 > The Channel Order App (COA) is preinstalled in your Partner Business Org (PBO).
         However, if you want to manage your partner business using a different Salesforce org,

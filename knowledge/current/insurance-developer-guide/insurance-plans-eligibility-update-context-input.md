@@ -5,12 +5,10 @@ topic: insurance-plans-eligibility-update-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.139Z
+lastCollected: 2026-04-07T18:37:51.082Z
 estimatedTokens: 158
-keywords: [Insurance, Plans, Eligibility, Context, Input, representation, checking, plan, updating]
+keywords: [Insurance, Plans, Eligibility, Context, checking, plan, updating]
 ---
-
-# Insurance Plans Eligibility Update Context Input
 
 > Input representation for checking plan eligibility by updating an existing
   context.

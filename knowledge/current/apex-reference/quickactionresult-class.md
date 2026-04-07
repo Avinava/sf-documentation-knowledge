@@ -5,13 +5,11 @@ topic: quickactionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.701Z
+lastCollected: 2026-04-07T18:36:02.907Z
 estimatedTokens: 951
 namespace: QuickAction
-keywords: [QuickActionResult, success, message, associated, quick, action, getErrors, getIds, getSuccessMessage, isCreated, isSuccess]
+keywords: [QuickActionResult, success, message, quick, action, getErrors, getIds, getSuccessMessage, isCreated, isSuccess]
 ---
-
-# QuickActionResult Class
 
 > Returns the success message associated with the quick
     action.

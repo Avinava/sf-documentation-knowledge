@@ -5,12 +5,10 @@ topic: capturing-engagement-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.354Z
+lastCollected: 2026-04-07T18:35:51.210Z
 estimatedTokens: 526
-keywords: [Capturing, Engagement, Data, Cloud, Module, Mobile, SDK, collection, granular, customer’s, app, interactions, event, tracking, iOS]
+keywords: [Capturing, Engagement, Cloud, Module, Mobile, SDK, collection, granular, customer’s, app, interactions, event, iOS, Android]
 ---
-
-# Capturing Engagement Data
 
 > The Data Cloud Module for the Engagement Mobile SDK enables collection of granular
         data about the customer’s mobile app interactions through event tracking.

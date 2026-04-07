@@ -5,12 +5,10 @@ topic: adverseeventpartyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.397Z
+lastCollected: 2026-04-07T18:39:25.321Z
 estimatedTokens: 266
-keywords: [AdverseEventPartyHistory, History, tracked, AdverseEventParty]
+keywords: [AdverseEventPartyHistory, tracked, AdverseEventParty]
 ---
-
-# AdverseEventPartyHistory
 
 > History for tracked fields of AdverseEventParty.
 

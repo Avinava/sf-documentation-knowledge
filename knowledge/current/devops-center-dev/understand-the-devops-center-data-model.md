@@ -5,12 +5,10 @@ topic: understand-the-devops-center-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.419Z
+lastCollected: 2026-04-07T18:37:28.438Z
 estimatedTokens: 1035
-keywords: [Understand, DevOps, Center, Data, Model, consists, custom, objects, created, install, managed, package, org, top, Project]
+keywords: [Understand, DevOps, Center, Model, consists, created, install, managed, package, org, top, Project, direct, indirect, parent, almost, exception, Repository, projects]
 ---
-
-# Understand the DevOps Center Data Model
 
 > The DevOps Center object model consists of custom objects that are created when you install the DevOps Center managed package in an org. The top object is Project, which is the direct or indirect parent of almost all other objects. The only exception is Repository, which one or more projects reference.
 

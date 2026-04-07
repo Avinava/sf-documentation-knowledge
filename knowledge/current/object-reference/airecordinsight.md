@@ -5,12 +5,10 @@ topic: airecordinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:34.244Z
+lastCollected: 2026-04-07T18:38:25.191Z
 estimatedTokens: 2813
-keywords: [AIRecordInsight, Einstein, prediction, insight, API, version, 47.0, later, Calls, Special, Access, Rules, Usage, Considerations, Case]
+keywords: [AIRecordInsight, Einstein, prediction, insight, API, 47.0, Considerations, Case, Classification]
 ---
-
-# AIRecordInsight
 
 > Represents an Einstein prediction insight. This object is available in API
     version 47.0 and later.

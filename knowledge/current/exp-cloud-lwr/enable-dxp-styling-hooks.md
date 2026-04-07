@@ -6,13 +6,10 @@ topic: enable---dxp-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.915Z
+lastCollected: 2026-04-07T18:37:33.209Z
 estimatedTokens: 183
 keywords: [Enable, --dxp, Styling, Hooks, created, LWR, site, Summer, ’21, adding, DXP, branding, style, sheets]
 ---
-
-# Enable
-    --dxp Styling Hooks
 
 > If you created your LWR site before Summer ’21, enable --dxp styling hooks by adding the DXP branding style sheets to your
     site.

@@ -5,12 +5,10 @@ topic: api-integration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.940Z
+lastCollected: 2026-04-07T18:40:21.215Z
 estimatedTokens: 424
-keywords: [API, Integration, obtain, credentials, authentication, add, installed, package, Marketing, Cloud, Under, component, locate, client, secret]
+keywords: [API, Integration, obtain, credentials, authentication, add, installed, package, Marketing, Cloud, Under, locate, client, secret, applicable, Base, URI, token, authenticate, Items]
 ---
-
-# API Integration
 
 > To obtain credentials for authentication, add an API integration to your installed package in Marketing Cloud. Under the component details, locate the client ID and client secret, if applicable. Use these credentials with your Authentication Base URI to get an access token to authenticate your API r
 

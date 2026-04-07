@@ -5,12 +5,10 @@ topic: dtrquestionnaireresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.226Z
+lastCollected: 2026-04-07T18:37:44.488Z
 estimatedTokens: 364
-keywords: [DTRQuestionnaireResponse, FHIR, resource, maps, Assessment, AssessmentReason, V4.0, Discovery, Framework, Data, Model, Mapping]
+keywords: [DTRQuestionnaireResponse, FHIR, resource, maps, Assessment, AssessmentReason, V4.0, Discovery, Framework, Model, Mapping]
 ---
-
-# DTRQuestionnaireResponse
 
 > The DTRQuestionnaireResponse FHIR resource maps to the
    Assessment and AssessmentReason object.

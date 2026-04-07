@@ -5,12 +5,10 @@ topic: retailstoregroupassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.402Z
+lastCollected: 2026-04-07T18:39:15.937Z
 estimatedTokens: 651
-keywords: [RetailStoreGroupAssignment, junction, retail, store, group, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [RetailStoreGroupAssignment, junction, retail, store, group, API, 52.0]
 ---
-
-# RetailStoreGroupAssignment
 
 > Represents a junction between a retail store and a retail store group.
       This object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: auraenabled-annotations-for-continuations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:12.612Z
+lastCollected: 2026-04-07T18:38:02.537Z
 estimatedTokens: 622
-keywords: [@AuraEnabled, Annotations, Continuations, annotation, Apex, code, rules, usage, Caching, Considerations]
+keywords: [@AuraEnabled, Annotations, Continuations, annotation, Apex, code, Caching, Considerations]
 ---
-
-# @AuraEnabled Annotations for Continuations
 
 > Continuations use the @AuraEnabled annotation
   for Apex code. Here are the rules for usage.

@@ -5,12 +5,10 @@ topic: humanname
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.565Z
+lastCollected: 2026-04-07T18:37:58.093Z
 estimatedTokens: 420
 keywords: [Human​Name, FHIR, resource, maps, Person​Name, Salesforce​, V4​.0, Clinical, ​Data, Model, Mapping]
 ---
-
-# Human​Name
 
 > The Human​Name FHIR resource maps to the Person​Name object in Salesforce​.
 

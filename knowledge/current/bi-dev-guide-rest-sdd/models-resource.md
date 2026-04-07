@@ -5,12 +5,10 @@ topic: models-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.472Z
+lastCollected: 2026-04-07T18:36:58.970Z
 estimatedTokens: 637
 keywords: [Models, Resource, collection, Einstein, Discovery, creates, model]
 ---
-
-# Models Resource
 
 > Returns a collection of Einstein Discovery models and creates a model.
 

@@ -5,12 +5,10 @@ topic: salesperson-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.020Z
+lastCollected: 2026-04-07T18:39:16.565Z
 estimatedTokens: 288
 keywords: [Salesperson, Dashboard, Salespeople, track, their, sales, against, quota, Highlights, Tips]
 ---
-
-# Salesperson Dashboard
 
 > Salespeople can use this dashboard to track their sales against
 quota.

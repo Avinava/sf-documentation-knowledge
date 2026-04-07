@@ -5,12 +5,10 @@ topic: userpermissionaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:10.619Z
+lastCollected: 2026-04-07T18:40:05.471Z
 estimatedTokens: 18770
-keywords: [UserPermissionAccess, permissions, accessibility, current, user, API, version, 41.0, later]
+keywords: [UserPermissionAccess, permissions, accessibility, current, user, API, 41.0]
 ---
-
-# UserPermissionAccess
 
 > Represents the permissions accessibility for a current user.
   Available in API version 41.0 and later.

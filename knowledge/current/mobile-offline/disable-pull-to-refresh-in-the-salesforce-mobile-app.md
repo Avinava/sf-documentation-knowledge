@@ -5,12 +5,10 @@ topic: disable-pull-to-refresh-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.543Z
+lastCollected: 2026-04-07T18:38:16.077Z
 estimatedTokens: 795
-keywords: [Disable, Pull-to-Refresh, Salesforce, Mobile, App, pages, accidentally, triggering, cause, loss, data, Disabling, simple, firing, CustomEvent]
+keywords: [Disable, Pull-to-Refresh, Salesforce, Mobile, App, pages, accidentally, triggering, cause, loss, Disabling, simple, firing, CustomEvent, Fire, event, own, throughout, org, Faceless, DisablePullToRefresh]
 ---
-
-# Disable Pull-to-Refresh in the Salesforce Mobile App
 
 > Disable pull-to-refresh on pages where accidentally triggering it can cause loss of
         data in the Salesforce mobile app. Disabling pull-to-refresh is as simple as firing a

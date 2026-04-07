@@ -5,12 +5,10 @@ topic: service-cloud-voice-aura-toolkit-next-best-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.106Z
+lastCollected: 2026-04-07T18:40:13.040Z
 estimatedTokens: 610
 keywords: [Service, Cloud, Voice, Aura, Toolkit, Best, Action, Give, reps, recommendations, real, time]
 ---
-
-# Service Cloud Voice Aura Toolkit Next Best Action
 
 > Give your reps recommendations in real time with Next Best Action.
 

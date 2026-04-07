@@ -5,12 +5,10 @@ topic: rotation-of-s3-credentials-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:07.020Z
+lastCollected: 2026-04-07T18:35:51.858Z
 estimatedTokens: 954
-keywords: [Rotation, Credentials, Metadata, API, rotate, enable, access, AWS, retrieve, connectors, modify, deploy, Familiarize, Yourself, Salesforce]
+keywords: [Rotation, Credentials, Metadata, API, rotate, enable, AWS, retrieve, connectors, modify, deploy, Familiarize, Yourself, Salesforce, CLI, Define, Connector, Key, Secret, Package, Deployment, DataConnectorS3, Verify]
 ---
-
-# Rotation of S3 Credentials with Metadata API
 
 > Use the Metadata API to rotate the S3 credentials and enable access to AWS. To update
     the S3 credentials you must retrieve the metadata of S3 connectors, modify the S3 credentials,

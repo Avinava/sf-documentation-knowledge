@@ -6,13 +6,10 @@ topic: iunifiedhealthscore-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.360Z
+lastCollected: 2026-04-07T18:37:40.338Z
 estimatedTokens: 712
-keywords: [IUnifiedHealthScore, Stores, additional, action, logs, Usage, saveActionDetail, var1, Implementation]
+keywords: [IUnifiedHealthScore, Stores, additional, action, logs, saveActionDetail, var1, Implementation]
 ---
-
-# IUnifiedHealthScore
-    Interface
 
 > Stores additional information in the action logs.
 

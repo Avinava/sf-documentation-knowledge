@@ -5,12 +5,10 @@ topic: retrieve-the-geographical-data-of-polygons
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.705Z
+lastCollected: 2026-04-07T18:38:10.969Z
 estimatedTokens: 472
-keywords: [Retrieve, Geographical, Data, Polygons, getPolygonGeometry, Apex, geometric, area, perimeter, requested, shape, custom, polygon, Sample, Code]
+keywords: [Retrieve, Geographical, Polygons, getPolygonGeometry, Apex, geometric, area, perimeter, requested, shape, polygon, Sample, Code, Circle, Rectangle]
 ---
-
-# Retrieve the Geographical Data of Polygons
 
 > The getPolygonGeometry() Apex
       method returns the geometric data, such as the area and perimeter, for the requested

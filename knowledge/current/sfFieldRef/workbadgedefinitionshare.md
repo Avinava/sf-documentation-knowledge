@@ -5,12 +5,10 @@ topic: workbadgedefinitionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.799Z
+lastCollected: 2026-04-07T18:40:06.696Z
 estimatedTokens: 252
 keywords: [WorkBadgeDefinitionShare, Sharing, WorkBadgeDefinition]
 ---
-
-# WorkBadgeDefinitionShare
 
 > Sharing for WorkBadgeDefinition.
 

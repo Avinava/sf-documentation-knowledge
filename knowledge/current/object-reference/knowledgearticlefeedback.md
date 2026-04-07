@@ -5,12 +5,10 @@ topic: knowledgearticlefeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.813Z
+lastCollected: 2026-04-07T18:38:33.998Z
 estimatedTokens: 1268
-keywords: [KnowledgeArticleFeedback, feedback, users, Knowledge, articles, assignment, article, owner, team, take, action, API, version, 64.0, later]
+keywords: [KnowledgeArticleFeedback, feedback, users, Knowledge, articles, assignment, article, owner, team, take, action, API, 64.0, SOQL, Samples]
 ---
-
-# KnowledgeArticleFeedback
 
 > Represents information about feedback from users on Knowledge articles
 			and details about assignment of feedback to the article owner or team to take

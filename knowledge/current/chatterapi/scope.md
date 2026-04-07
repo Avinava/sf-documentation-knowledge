@@ -5,12 +5,10 @@ topic: scope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.801Z
+lastCollected: 2026-04-07T18:37:22.912Z
 estimatedTokens: 115
 keywords: [Scope, target]
 ---
-
-# Scope
 
 > Scope information for a target.
 

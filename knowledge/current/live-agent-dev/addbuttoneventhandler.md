@@ -5,12 +5,10 @@ topic: addbuttoneventhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.737Z
+lastCollected: 2026-04-07T18:38:05.969Z
 estimatedTokens: 731
-keywords: [addButtonEventHandler, define, automated, invitation’s, behavior, certain, events, occur, Usage, Event, chat, button’s, API, versions, 28.0, later]
+keywords: [addButtonEventHandler, define, automated, invitation’s, behavior, certain, events, occur, Event, chat, button’s, API, versions, 28.0]
 ---
-
-# addButtonEventHandler
 
 > Use the addButtonEventHandler method to define an automated invitation’s behavior when
 certain events occur.

@@ -5,12 +5,10 @@ topic: styling-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.672Z
+lastCollected: 2026-04-07T18:38:02.602Z
 estimatedTokens: 726
-keywords: [Styling, Apps, app, special, top-level, component, whose, markup, resource, any, put, CSS, bundle, <appName>.css]
+keywords: [Styling, Apps, app, top-level, whose, markup, resource, any, put, CSS, bundle, <appName>.css]
 ---
-
-# Styling Apps
 
 > An app is a special top-level component whose markup is in a .app
   resource. Just like any other component, you can put CSS in its bundle in a resource called

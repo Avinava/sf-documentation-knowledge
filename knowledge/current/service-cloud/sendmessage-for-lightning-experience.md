@@ -5,12 +5,10 @@ topic: sendmessage-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.876Z
+lastCollected: 2026-04-07T18:36:50.052Z
 estimatedTokens: 225
-keywords: [sendMessage, Lightning, Experience, new, chat, message, agent, specific, key, works, console, apps, Arguments, argumentObj, Sample]
+keywords: [Arguments, sendMessage, Lightning, Experience, new, chat, message, agent, specific, key, works, console, apps, argumentObj, Sample, Code]
 ---
-
-# sendMessage() for Lightning Experience
 
 > Sends a new chat message from the agent to a chat with a specific chat key. This method works only in
    Lightning console apps.

@@ -5,12 +5,10 @@ topic: site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.638Z
+lastCollected: 2026-04-07T18:40:02.325Z
 estimatedTokens: 1094
-keywords: [Site, website, integrated, org, API, version, 16.0, later]
+keywords: [Site, website, integrated, org, API, 16.0]
 ---
-
-# Site
 
 > Represents a public website that is integrated with an org. This object is available in API version 16.0 and later.
 

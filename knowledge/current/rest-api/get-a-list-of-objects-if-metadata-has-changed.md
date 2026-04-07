@@ -5,12 +5,10 @@ topic: get-a-list-of-objects-if-metadata-has-changed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.564Z
+lastCollected: 2026-04-07T18:36:19.780Z
 estimatedTokens: 380
-keywords: [Objects, Metadata, Changed, Describe, resource, If-Modified-Since, HTTP, determine, object’s]
+keywords: [Metadata, Changed, Describe, resource, If-Modified-Since, HTTP, determine, object’s]
 ---
-
-# Get a List of Objects If Metadata Has Changed
 
 > Use the Describe Global resource and the If-Modified-Since HTTP header to determine if an object’s metadata has
   changed.

@@ -5,12 +5,10 @@ topic: sharing-javascript-code-in-a-component-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.383Z
+lastCollected: 2026-04-07T18:38:04.539Z
 estimatedTokens: 915
-keywords: [Sharing, JavaScript, Code, Component, Bundle, Put, functions, want, reuse, component’s, helper, enable, specialization, tasks, processing]
+keywords: [Sharing, JavaScript, Code, Bundle, Put, functions, want, reuse, component’s, helper, enable, specialization, tasks, processing, queueing, server-side, actions, local, improve, move, heavy, lifting, logic, away, client-side, controller, possible, Creating, Renderer]
 ---
-
-# Sharing JavaScript Code in a Component Bundle
 
 > Put functions that you want to reuse in the component’s helper. Helper functions also
         enable specialization of tasks, such as processing data and queueing server-side actions.

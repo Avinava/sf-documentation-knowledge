@@ -5,12 +5,10 @@ topic: partyfinancialassetlienhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.670Z
+lastCollected: 2026-04-07T18:39:52.085Z
 estimatedTokens: 274
-keywords: [PartyFinancialAssetLienHistory, History, tracked, PartyFinancialAssetLien]
+keywords: [PartyFinancialAssetLienHistory, tracked, PartyFinancialAssetLien]
 ---
-
-# PartyFinancialAssetLienHistory
 
 > History for tracked fields of PartyFinancialAssetLien.
 

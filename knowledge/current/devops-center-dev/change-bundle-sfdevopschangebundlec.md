@@ -5,12 +5,10 @@ topic: change-bundle-sfdevopschangebundlec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.507Z
+lastCollected: 2026-04-07T18:37:28.529Z
 estimatedTokens: 360
-keywords: [Change, Bundle, sf_devops__Change_Bundle__c, collection, Work, Item, records, promoted, unit, pipeline, stage, helps, ensure, consistent, merge]
+keywords: [Change, Bundle, sf_devops__Change_Bundle__c, collection, Work, Item, records, promoted, unit, pipeline, stage, helps, ensure, consistent, merge, deployment, metadata, moves, release, orgs, DevOps, Center, installed, _devops, _Change, _Bundle]
 ---
-
-# Change Bundle (sf_devops__Change_Bundle__c)
 
 > A collection of Work Item records that are promoted as a single unit to the
          next pipeline stage. This collection helps ensure a consistent merge and deployment of the

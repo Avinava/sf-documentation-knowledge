@@ -5,12 +5,10 @@ topic: standalone-credit-memo-charge-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.975Z
+lastCollected: 2026-04-07T18:35:43.972Z
 estimatedTokens: 449
-keywords: [Standalone, Credit, Memo, Charge, Input, representation, lines]
+keywords: [Standalone, Credit, Memo, Charge, lines]
 ---
-
-# Standalone Credit Memo Charge Input
 
 > Input representation of the details of the charge lines of a credit memo.
 

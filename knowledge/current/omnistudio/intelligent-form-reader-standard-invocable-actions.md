@@ -5,12 +5,10 @@ topic: intelligent-form-reader-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.594Z
+lastCollected: 2026-04-07T18:36:41.286Z
 estimatedTokens: 336
-keywords: [Intelligent, Form, Reader, Standard, Invocable, Actions, detects, extracts, text, document, Amazon, Textract, API, optical, character]
+keywords: [Intelligent, Form, Reader, Standard, Invocable, Actions, detects, extracts, text, document, Amazon, Textract, API, optical, character, recognition, automate, extraction, process, includes, detecting, extracting, fetching, extracted, selecting, OCR, template]
 ---
-
-# Intelligent Form Reader Standard Invocable Actions
 
 > Intelligent Form Reader detects and extracts
       text from a document using the Amazon Textract API, which is based on optical character

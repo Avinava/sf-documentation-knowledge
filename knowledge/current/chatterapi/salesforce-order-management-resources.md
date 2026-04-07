@@ -5,12 +5,10 @@ topic: salesforce-order-management-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.980Z
+lastCollected: 2026-04-07T18:37:15.027Z
 estimatedTokens: 2606
 keywords: [Salesforce, Order, Management, Resources, Manage, orders, fulfillment, process, orgs]
 ---
-
-# Salesforce Order Management Resources
 
 > Manage orders and the order fulfillment process. Available in Salesforce Order
       Management orgs.

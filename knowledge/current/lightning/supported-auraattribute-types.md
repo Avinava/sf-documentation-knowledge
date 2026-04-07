@@ -5,12 +5,10 @@ topic: supported-auraattribute-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.818Z
+lastCollected: 2026-04-07T18:38:04.972Z
 estimatedTokens: 479
-keywords: [aura, attribute, app, component, event]
+keywords: [aura, attribute, app, event]
 ---
-
-# Supported aura:attribute Types
 
 > aura:attribute describes an attribute available on
   an app, interface, component, or event.

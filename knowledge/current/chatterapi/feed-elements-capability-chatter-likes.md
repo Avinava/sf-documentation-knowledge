@@ -5,12 +5,10 @@ topic: feed-elements-capability-chatter-likes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.637Z
+lastCollected: 2026-04-07T18:37:13.586Z
 estimatedTokens: 217
-keywords: [Feed, Elements, Capability, Chatter, Likes, Access, element]
+keywords: [Capability, Chatter, Likes]
 ---
-
-# Feed Elements Capability, Chatter Likes
 
 > Access information about the chatter likes capability for a feed
       element.

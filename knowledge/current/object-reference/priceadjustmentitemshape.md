@@ -5,12 +5,10 @@ topic: priceadjustmentitemshape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.893Z
+lastCollected: 2026-04-07T18:38:38.249Z
 estimatedTokens: 1506
-keywords: [PriceAdjustmentItemShape, business, logic, item-level, price, adjustment, discount, order, item, API, version, 57.0, later, Calls, Special]
+keywords: [PriceAdjustmentItemShape, business, logic, item-level, price, adjustment, discount, order, item, API, 57.0]
 ---
-
-# PriceAdjustmentItemShape
 
 > Defines the business logic for an item-level price adjustment, for example, a
          discount on an order item. This object is available in API version 57.0 and later.

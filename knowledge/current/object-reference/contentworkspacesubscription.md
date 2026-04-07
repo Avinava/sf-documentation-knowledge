@@ -5,12 +5,10 @@ topic: contentworkspacesubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.872Z
+lastCollected: 2026-04-07T18:38:28.779Z
 estimatedTokens: 189
-keywords: [ContentWorkspaceSubscription, subscription, user, library, API, version, 42.0, later, Calls, Special, Access, Rules]
+keywords: [ContentWorkspaceSubscription, subscription, user, library, API, 42.0]
 ---
-
-# ContentWorkspaceSubscription
 
 > Represents a subscription for a user following a library. This
     object is available in API version 42.0 and later.

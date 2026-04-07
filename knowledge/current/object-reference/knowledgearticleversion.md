@@ -5,12 +5,10 @@ topic: knowledgearticleversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.844Z
+lastCollected: 2026-04-07T18:38:34.025Z
 estimatedTokens: 4060
-keywords: [KnowledgeArticleVersion, view, standard, article, across, articles, depending, their, version, API, 18.0, later, Calls, Special, Access]
+keywords: [KnowledgeArticleVersion, view, standard, article, across, articles, depending, their, API, 18.0, SOQL, Samples, SOSL]
 ---
-
-# KnowledgeArticleVersion
 
 > Provides a global view of standard article fields across all types
 			of articles depending on their version. This object is available in API version

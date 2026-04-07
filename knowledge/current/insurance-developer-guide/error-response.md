@@ -5,12 +5,10 @@ topic: error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.043Z
+lastCollected: 2026-04-07T18:37:52.180Z
 estimatedTokens: 129
-keywords: [Error, Output, representation]
+keywords: [Error]
 ---
-
-# Error Response
 
 > Output representation of the error details.
 

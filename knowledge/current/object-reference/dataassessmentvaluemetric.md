@@ -5,12 +5,10 @@ topic: dataassessmentvaluemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.608Z
+lastCollected: 2026-04-07T18:38:29.501Z
 estimatedTokens: 502
-keywords: [DataAssessmentValueMetric, Summarizes, number, matched, account, records, Data.com, records.This, API, version, 37.0, later, Calls]
+keywords: [DataAssessmentValueMetric, Summarizes, number, matched, account, records, Data.com, records.This, API, 37.0]
 ---
-
-# DataAssessmentValueMetric
 
 > Summarizes the number of fields matched for your account records
 			with Data.com account records.This object is available in API version 37.0 and

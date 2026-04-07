@@ -5,12 +5,10 @@ topic: giftcommitmentschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.827Z
+lastCollected: 2026-04-07T18:38:21.702Z
 estimatedTokens: 2092
-keywords: [GiftCommitmentSchedule, schedule, fulfilling, commitment, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftCommitmentSchedule, schedule, fulfilling, commitment, API, 59.0]
 ---
-
-# GiftCommitmentSchedule
 
 > Represents the schedule for fulfilling the commitment. This
       object is available in API version 59.0 and later.

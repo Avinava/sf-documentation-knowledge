@@ -5,12 +5,10 @@ topic: group-membership-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.268Z
+lastCollected: 2026-04-07T18:38:31.067Z
 estimatedTokens: 1132
 keywords: [Group, Membership, Event, events, capture, changes, queue, members, added, removed]
 ---
-
-# Group Membership Event Type
 
 > Group Membership events capture details about changes to public group and queue
       membership, such as when members are added to or removed from the public group or

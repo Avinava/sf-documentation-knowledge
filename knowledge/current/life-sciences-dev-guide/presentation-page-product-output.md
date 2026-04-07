@@ -5,12 +5,10 @@ topic: presentation-page-product-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.713Z
+lastCollected: 2026-04-07T18:37:56.154Z
 estimatedTokens: 143
-keywords: [Presentation, Product, Output, Products, API]
+keywords: [Presentation, Product, Products, API]
 ---
-
-# Presentation Page Product Output
 
 > Represents the output for Presentation Page Products API.
 

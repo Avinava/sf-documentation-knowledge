@@ -5,12 +5,10 @@ topic: articles-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.500Z
+lastCollected: 2026-04-07T18:36:20.732Z
 estimatedTokens: 1558
-keywords: [Articles, online, language, category, either, search, query, resource, REST, API, version, 38.0, later, Usage, channel]
+keywords: [Articles, online, language, category, either, search, query, resource, REST, API, 38.0, channel]
 ---
-
-# Articles List
 
 > Get a page of online articles for the given language and category through either search
     or query. This resource is available in REST API version 38.0 and later.

@@ -5,12 +5,10 @@ topic: promotionproductcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.375Z
+lastCollected: 2026-04-07T18:38:10.648Z
 estimatedTokens: 542
-keywords: [PromotionProductCategory, junction, promotion, product, category, that’s, eligible, API, version, 60.0, later, Calls, Special, Access, Rules]
+keywords: [PromotionProductCategory, junction, promotion, product, category, that’s, eligible, API, 60.0]
 ---
-
-# PromotionProductCategory
 
 > Represents a junction between a promotion and an product category
          that’s eligible for the promotion. This object is available in API version 60.0 and

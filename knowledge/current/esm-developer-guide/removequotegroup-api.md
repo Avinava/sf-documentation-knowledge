@@ -5,12 +5,10 @@ topic: removequotegroup-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.046Z
+lastCollected: 2026-04-07T18:37:32.222Z
 estimatedTokens: 77
 keywords: [Remove_QuoteGroup, API, Remove, quote, group, enterprise, _QuoteGroup, URI, HTTP]
 ---
-
-# Remove_QuoteGroup API
 
 > Remove the quote group from the enterprise quote.
 

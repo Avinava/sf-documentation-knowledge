@@ -5,12 +5,10 @@ topic: teammemberhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.125Z
+lastCollected: 2026-04-07T18:40:03.849Z
 estimatedTokens: 257
-keywords: [TeamMemberHistory, History, tracked, TeamMember]
+keywords: [TeamMemberHistory, tracked, TeamMember]
 ---
-
-# TeamMemberHistory
 
 > History for tracked fields of TeamMember.
 

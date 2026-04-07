@@ -5,12 +5,10 @@ topic: relatedrecordassoccriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.614Z
+lastCollected: 2026-04-07T18:36:29.098Z
 estimatedTokens: 961
-keywords: [RelatedRecordAssocCriteria, criteria, automatically, linking, records, accounts, leads, opportunities, cases, branches, work, Parent, File, Suffix, Directory]
+keywords: [RelatedRecordAssocCriteria, criteria, automatically, linking, records, accounts, leads, opportunities, cases, branches, work, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# RelatedRecordAssocCriteria
 
 > Represents criteria for automatically linking
 			records like accounts, leads, opportunities, and cases with the branches that work with

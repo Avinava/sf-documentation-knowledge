@@ -5,12 +5,10 @@ topic: subscription-weekly-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.232Z
+lastCollected: 2026-04-07T18:36:57.782Z
 estimatedTokens: 200
 keywords: [Subscription, Weekly, Schedule, execute, Analytics]
 ---
-
-# Subscription Weekly Schedule
 
 > The weekly schedule on which to execute an Analytics subscription.
 

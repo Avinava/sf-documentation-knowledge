@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.044Z
+lastCollected: 2026-04-07T18:35:48.083Z
 estimatedTokens: 1191
-keywords: [Transaction, Management, Standard, Objects, adds, custom, Salesforce, orgs, enabled]
+keywords: [Transaction, Management, Standard, adds, Salesforce, orgs, enabled]
 ---
-
-# Transaction Management Fields on Standard Objects
 
 > Transaction Management adds standard and custom fields to some standard
       Salesforce objects. These fields are available only in orgs where Transaction Management is

@@ -5,12 +5,10 @@ topic: wave-folder-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.554Z
+lastCollected: 2026-04-07T18:36:58.114Z
 estimatedTokens: 157
 keywords: [Wave, Folder, Schedule, Analytics]
 ---
-
-# Wave Folder Schedule
 
 > An Analytics folder schedule.
 

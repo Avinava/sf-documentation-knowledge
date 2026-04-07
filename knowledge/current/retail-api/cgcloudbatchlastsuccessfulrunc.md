@@ -5,12 +5,10 @@ topic: cgcloudbatchlastsuccessfulrunc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.520Z
+lastCollected: 2026-04-07T18:39:12.944Z
 estimatedTokens: 453
-keywords: [cgcloud__Batch_Last_Successful_Run__c, Keeps, track, successful, runs, API, version, 55.0, later, cgcloud, _Batch, _Last, _Successful, _Run, Calls]
+keywords: [cgcloud__Batch_Last_Successful_Run__c, Keeps, track, successful, runs, API, 55.0, cgcloud, _Batch, _Last, _Successful, _Run]
 ---
-
-# cgcloud__Batch_Last_Successful_Run__c
 
 > Keeps track of the last successful runs. This object is available in API
       version 55.0 and later.

@@ -5,12 +5,10 @@ topic: einstein-llm-generation-gen-ai-source-reference-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.407Z
+lastCollected: 2026-04-07T18:37:18.504Z
 estimatedTokens: 119
-keywords: [Einstein, LLM, Generation, Gen, Source, Info, Metadata, data, provider]
+keywords: [Einstein, LLM, Generation, Gen, Source, Info, Metadata, provider]
 ---
-
-# Einstein LLM Generation Gen AI Source Reference Info
 
 > Metadata from a source from a data provider.
 

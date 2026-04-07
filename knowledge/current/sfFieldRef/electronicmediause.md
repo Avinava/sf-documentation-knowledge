@@ -5,12 +5,10 @@ topic: electronicmediause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.136Z
+lastCollected: 2026-04-07T18:39:38.809Z
 estimatedTokens: 229
-keywords: [ElectronicMediaUse, usage, media]
+keywords: [ElectronicMediaUse, media]
 ---
-
-# ElectronicMediaUse
 
 > Represents the usage of media.
 

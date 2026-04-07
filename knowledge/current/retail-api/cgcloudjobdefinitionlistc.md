@@ -5,12 +5,10 @@ topic: cgcloudjobdefinitionlistc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.261Z
+lastCollected: 2026-04-07T18:39:13.675Z
 estimatedTokens: 2738
-keywords: [cgcloud__Job_Definition_List__c, Stores, questions, surveys, carried, respective, call, further, relevant, configurations, API, version, 54.0, later, cgcloud]
+keywords: [cgcloud__Job_Definition_List__c, Stores, questions, surveys, carried, respective, call, further, relevant, configurations, API, 54.0, cgcloud, _Job, _Definition, _List]
 ---
-
-# cgcloud__Job_Definition_List__c
 
 > Stores the set of questions or surveys that are to be carried out in
          the respective call and contains further relevant configurations. This object is

@@ -5,12 +5,10 @@ topic: loanapplicationproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.411Z
+lastCollected: 2026-04-07T18:39:46.901Z
 estimatedTokens: 617
-keywords: [LoanApplicationProperty, loan, application, finances, API, version, 47.0, later]
+keywords: [LoanApplicationProperty, loan, application, finances, API, 47.0]
 ---
-
-# LoanApplicationProperty
 
 > Represents details of the property the loan application finances. This
 		object is available in API version 47.0 and later.

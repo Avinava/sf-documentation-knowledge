@@ -5,12 +5,10 @@ topic: voicecallinsightaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.341Z
+lastCollected: 2026-04-07T18:38:44.163Z
 estimatedTokens: 780
-keywords: [VoiceCallInsightAction, suggested, follow-up, action, derived, voice, call, insight, manages, recommended, steps—such, sending, email, creating, task]
+keywords: [VoiceCallInsightAction, suggested, follow-up, action, derived, voice, call, insight, manages, recommended, steps—such, sending, email, creating, task, scheduling, meeting—that, address, specific, moments, including, competitor, mentions, pricing, discussions, objections, API, 66.0]
 ---
-
-# VoiceCallInsightAction
 
 > Represents a suggested follow-up action derived from a voice call insight.
       VoiceCallInsightAction manages recommended steps—such as sending an email, creating a task, or

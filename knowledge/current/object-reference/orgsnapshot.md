@@ -5,12 +5,10 @@ topic: orgsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.004Z
+lastCollected: 2026-04-07T18:38:37.287Z
 estimatedTokens: 1057
-keywords: [OrgSnapshot, snapshot, scratch, org, Snapshots, capture, state, quickly, spin, new, orgs, configuration, API, version, 61.0]
+keywords: [OrgSnapshot, snapshot, scratch, org, Snapshots, capture, state, quickly, spin, new, orgs, configuration, API, 61.0]
 ---
-
-# OrgSnapshot
 
 > Represents a snapshot of a scratch org. Snapshots capture the state of a
          scratch org so that you can use it to quickly spin up new scratch orgs using its

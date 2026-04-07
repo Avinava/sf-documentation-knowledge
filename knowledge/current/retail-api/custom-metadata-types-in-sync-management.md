@@ -5,12 +5,10 @@ topic: custom-metadata-types-in-sync-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:17.332Z
+lastCollected: 2026-04-07T18:39:10.815Z
 estimatedTokens: 206
-keywords: [Custom, Metadata, Sync, Management, help, deliver, additional, features, Consumer, Goods, Cloud]
+keywords: [Metadata, Sync, Management, help, deliver, additional, features, Consumer, Goods, Cloud]
 ---
-
-# Custom Metadata Types in Sync Management
 
 > Use custom metadata types and fields that help deliver additional features for Consumer
     Goods Cloud.

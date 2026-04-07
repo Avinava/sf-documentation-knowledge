@@ -5,12 +5,10 @@ topic: wkfslshiftmanagementmetricc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.342Z
+lastCollected: 2026-04-07T18:40:14.354Z
 estimatedTokens: 678
-keywords: [wkfsl__Shift_Management_Metric__c, Stores, metrics, summarize, shift, data, employees, planned, occupancy, record, calculated, associated, location, scoped, current]
+keywords: [wkfsl__Shift_Management_Metric__c, Stores, metrics, summarize, shift, employees, planned, occupancy, record, calculated, location, scoped, current, day, installed, part, Management, managed, package, API, 48.0, wkfsl, _Shift, _Management, _Metric]
 ---
-
-# wkfsl__Shift_Management_Metric__c
 
 > Stores metrics that summarize shift data such as available employees and
       planned occupancy. Each record stores calculated shift data associated with a location and

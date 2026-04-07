@@ -5,12 +5,10 @@ topic: promotionruletemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.654Z
+lastCollected: 2026-04-07T18:39:57.239Z
 estimatedTokens: 242
 keywords: [PromotionRuleTemplate, configuration, promotion, rule, template]
 ---
-
-# PromotionRuleTemplate
 
 > Represents the configuration of a promotion rule template.
 

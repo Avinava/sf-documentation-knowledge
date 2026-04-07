@@ -5,12 +5,10 @@ topic: clone-and-import-referral-mobile-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.409Z
+lastCollected: 2026-04-07T18:39:09.724Z
 estimatedTokens: 439
-keywords: [Clone, Import, Referral, Mobile, SDK, Android, GitHub, repository, copy, code, base, revision, history, local, computer]
+keywords: [Clone, Import, Referral, Mobile, SDK, Android, GitHub, repository, copy, code, base, revision, local, computer, Studio, automatically, download, manage, external, dependencies]
 ---
-
-# Clone and Import Referral Mobile SDK for Android
 
 > Clone the GitHub repository for the Referral Mobile Android SDK to copy the code base
   and revision history of the repository to your local computer. After you clone the repository,

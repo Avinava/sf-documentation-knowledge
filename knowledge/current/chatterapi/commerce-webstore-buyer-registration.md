@@ -5,12 +5,10 @@ topic: commerce-webstore-buyer-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.264Z
+lastCollected: 2026-04-07T18:37:12.109Z
 estimatedTokens: 375
-keywords: [Commerce, Webstore, Buyer, Registration, Lets, guest, shopper, register, account, merchant, resource, one-click, checkout, Salesforce, Payments]
+keywords: [Commerce, Webstore, Buyer, Registration, Lets, guest, shopper, register, account, merchant, resource, one-click, checkout, Salesforce, Payments, completes, their, order, they, choose, save, payment, shipping, future, creates, Person, user, record, contact, point, address, saving]
 ---
-
-# Commerce Webstore Buyer Registration
 
 > Lets a guest shopper register an account with a merchant. This resource is for use with
     one-click checkout with Salesforce Payments and

@@ -5,12 +5,10 @@ topic: rebateprogrammemberpayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.115Z
+lastCollected: 2026-04-07T18:37:06.824Z
 estimatedTokens: 398
-keywords: [RebateProgramMemberPayout, payout, calculated, member, period, $1000, Jan'21, ABC, enterprises, API, version, 51.0, later, Calls]
+keywords: [RebateProgramMemberPayout, payout, calculated, member, period, $1000, Jan'21, ABC, enterprises, API, 51.0]
 ---
-
-# RebateProgramMemberPayout
 
 > The payout calculated for a member for the period. For example, $1000 Jan'21
       payout for ABC enterprises. This object is available in API version 51.0 and

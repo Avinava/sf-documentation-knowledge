@@ -5,12 +5,10 @@ topic: benefit-disbursements-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.674Z
+lastCollected: 2026-04-07T18:38:20.391Z
 estimatedTokens: 181
-keywords: [Benefit, Disbursements, Input, representation]
+keywords: [Benefit, Disbursements]
 ---
-
-# Benefit Disbursements Input
 
 > Input representation of the request to create benefit
       disbursements.

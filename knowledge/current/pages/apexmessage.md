@@ -5,12 +5,10 @@ topic: apexmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.929Z
+lastCollected: 2026-04-07T18:38:50.164Z
 estimatedTokens: 424
-keywords: [apex, message, specific, component, error, <apex, message>, messages>, included, messages, shown, debug, log, Attributes]
+keywords: [Attributes, apex, message, specific, error, <apex, message>, messages>, included, messages, shown, debug, log]
 ---
-
-# apex:message
 
 > A message for a specific component, such as a warning or error. If an <apex:message> or <apex:messages> component is not included in a page, most warning and error messages are only shown in the debug log.
 

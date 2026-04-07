@@ -5,12 +5,10 @@ topic: escalationrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.036Z
+lastCollected: 2026-04-07T18:36:25.517Z
 estimatedTokens: 1162
-keywords: [EscalationRules, case, escalation, rules, escalate, cases, automatically, they, aren’t, resolved, certain, time, access, metadata, applicable]
+keywords: [EscalationRules, EscalationRule, RuleEntry, EscalationAction, case, escalation, escalate, cases, automatically, they, aren’t, resolved, certain, time, metadata, applicable, specific, rule, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EscalationRules
 
 > Represents case escalation rules to escalate cases
             automatically if they aren’t resolved within a certain time. You can access rules

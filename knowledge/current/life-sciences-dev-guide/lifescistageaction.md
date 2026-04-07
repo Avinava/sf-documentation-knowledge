@@ -5,12 +5,10 @@ topic: lifescistageaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:11.015Z
+lastCollected: 2026-04-07T18:38:00.803Z
 estimatedTokens: 670
-keywords: [LifeSciStageAction, configuration, action, performed, part, workflow, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [LifeSciStageAction, configuration, action, performed, part, workflow, API, 65.0]
 ---
-
-# LifeSciStageAction
 
 > Represents the configuration of an action performed as part of a
          workflow. This object is available in API version 65.0 and later.

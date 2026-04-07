@@ -5,12 +5,10 @@ topic: customer-engagement-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.657Z
+lastCollected: 2026-04-07T18:37:57.171Z
 estimatedTokens: 356
-keywords: [Customer, Engagement, Tooling, API, Objects, Life, Sciences, Cloud]
+keywords: [Customer, Engagement, Tooling, API, Life, Sciences, Cloud]
 ---
-
-# Customer Engagement Tooling API Objects
 
 > These Tooling API objects are available for Customer Engagement for Life Sciences
   Cloud.

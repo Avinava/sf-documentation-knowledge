@@ -5,12 +5,10 @@ topic: dynamic-references-to-schema-details-using-objecttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.979Z
+lastCollected: 2026-04-07T18:38:51.221Z
 estimatedTokens: 916
-keywords: [Dynamic, References, Schema, $ObjectType, variable, access, variety, objects, organization, labels, data]
+keywords: [Dynamic, References, Schema, $ObjectType, variable, variety, organization, labels]
 ---
-
-# Dynamic References to Schema Details Using  $ObjectType
 
 > The $ObjectType global variable provides access to a variety of schema information
 about the objects in your organization. Use it to reference names,

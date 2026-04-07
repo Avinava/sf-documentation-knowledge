@@ -5,12 +5,10 @@ topic: add-contact-center-channels-to-enable-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.418Z
+lastCollected: 2026-04-07T18:40:13.349Z
 estimatedTokens: 421
-keywords: [Add, Contact, Center, Channels, Enable, Routing, let, customers, configure, call, voice, calls, determine, End, User]
+keywords: [Add, Contact, Center, Channels, Enable, Routing, let, customers, configure, call, voice, determine, End, User, record, phone, channel, creating, caller, tool, reuse, choose, whether, associate, number, dialed]
 ---
-
-# Add Contact Center Channels to Enable Routing
 
 > To let customers configure call routing for voice calls and to determine when to create
         an

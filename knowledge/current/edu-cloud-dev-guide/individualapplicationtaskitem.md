@@ -5,12 +5,10 @@ topic: individualapplicationtaskitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.138Z
+lastCollected: 2026-04-07T18:37:31.266Z
 estimatedTokens: 607
-keywords: [IndividualApplicationTaskItem, junction, Application, Item, Individual, Task, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [IndividualApplicationTaskItem, junction, Application, Item, Individual, Task, API, 62.0]
 ---
-
-# IndividualApplicationTaskItem
 
 > Represents a junction between an Application Item and an Individual Application Task.
       This object is available in API version 62.0 and later.

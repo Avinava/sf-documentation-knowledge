@@ -5,12 +5,10 @@ topic: component-facets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.145Z
+lastCollected: 2026-04-07T18:38:03.142Z
 estimatedTokens: 348
-keywords: [Component, Facets, facet, any, attribute, Aura.Component, placeholder, block, markup]
+keywords: [Facets, facet, any, attribute, Aura.Component, placeholder, block, markup]
 ---
-
-# Component Facets
 
 > A facet is any attribute of type Aura.Component[]. Use this type as a placeholder for a block of markup. The
             body attribute is an example of a facet.

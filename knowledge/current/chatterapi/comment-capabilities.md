@@ -5,12 +5,10 @@ topic: comment-capabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.462Z
+lastCollected: 2026-04-07T18:37:17.535Z
 estimatedTokens: 376
 keywords: [Comment, Capabilities, container, included]
 ---
-
-# Comment Capabilities
 
 > A container for all capabilities that can be included with a
    comment.

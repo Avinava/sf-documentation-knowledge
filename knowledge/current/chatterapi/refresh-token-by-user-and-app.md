@@ -5,12 +5,10 @@ topic: refresh-token-by-user-and-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.010Z
+lastCollected: 2026-04-07T18:37:16.091Z
 estimatedTokens: 126
 keywords: [Refresh, Token, User, App, tokens]
 ---
-
-# Refresh Token by User and App
 
 > Get and delete the refresh tokens of the given user and
     app.

@@ -5,12 +5,10 @@ topic: club-member-enrollment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.493Z
+lastCollected: 2026-04-07T18:38:07.723Z
 estimatedTokens: 133
-keywords: [Club, Member, Enrollment, output, API]
+keywords: [Club, Member, Enrollment, API]
 ---
-
-# Club Member Enrollment Details
 
 > Represents the output for Club Member Enrollment API.
 

@@ -5,12 +5,10 @@ topic: connectapiinsuranceindividualenrollmentinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.108Z
+lastCollected: 2026-04-07T18:37:49.947Z
 estimatedTokens: 114
-keywords: [Input, representation, enrolling, individual, member]
+keywords: [enrolling, individual, member]
 ---
-
-# ConnectApi.InsuranceIndividualEnrollmentInputRepresentation
 
 > Input representation for enrolling an individual member.
 

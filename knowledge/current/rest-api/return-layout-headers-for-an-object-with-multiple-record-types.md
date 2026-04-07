@@ -6,13 +6,10 @@ topic: return-layout-headers-for-an-object-with-multiple-record-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.082Z
+lastCollected: 2026-04-07T18:36:21.310Z
 estimatedTokens: 124
 keywords: [Layout, Multiple, Record, sObject, Layouts, resources, gives, chance, ahead, time, retrieving, content, resource]
 ---
-
-# Return Layout Headers for an Object With Multiple Record
-		Types
 
 > Returns only the headers that are returned by a GET request to sObject Layouts
 		resources. This gives you a chance to see header values ahead of time before retrieving the

@@ -5,12 +5,10 @@ topic: recommendation-strategy-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.540Z
+lastCollected: 2026-04-07T18:36:40.291Z
 estimatedTokens: 251
 keywords: [Recommendation, Strategy, Result, containing, fetched, record]
 ---
-
-# Recommendation Strategy Result
 
 > Specifies the strategy result containing the fetched recommendation
       details for each record.

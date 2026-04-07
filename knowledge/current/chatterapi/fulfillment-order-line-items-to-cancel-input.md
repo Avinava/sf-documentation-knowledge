@@ -5,12 +5,10 @@ topic: fulfillment-order-line-items-to-cancel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.771Z
+lastCollected: 2026-04-07T18:37:08.593Z
 estimatedTokens: 199
-keywords: [Fulfillment, Order, Line, Items, Cancel, Input, FulfillmentOrderLineItems, quantities]
+keywords: [Fulfillment, Order, Line, Items, Cancel, FulfillmentOrderLineItems, quantities]
 ---
-
-# Fulfillment Order Line Items To Cancel Input
 
 > A list of FulfillmentOrderLineItems and quantities to
     cancel.

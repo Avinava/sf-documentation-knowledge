@@ -5,12 +5,10 @@ topic: classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.336Z
+lastCollected: 2026-04-07T18:37:05.065Z
 estimatedTokens: 172
 keywords: [Classes, Detailed, samples, report, configurations]
 ---
-
-# Classes
 
 > Detailed samples of the classes that are used in report configurations.
 

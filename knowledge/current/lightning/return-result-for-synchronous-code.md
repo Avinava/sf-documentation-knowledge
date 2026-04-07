@@ -5,12 +5,10 @@ topic: return-result-for-synchronous-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.353Z
+lastCollected: 2026-04-07T18:38:04.510Z
 estimatedTokens: 1163
-keywords: [Result, Synchronous, Code, aura, executes, synchronously, finishes, executing, statement, JavaScript, Step, Define, Markup, Implement, Logic]
+keywords: [Result, Synchronous, Code, aura, executes, synchronously, finishes, executing, statement, JavaScript, Step, Define, Markup, Implement, Logic, Controller, Call, Parent, Add, Button, Initiate]
 ---
-
-# Return Result for Synchronous Code
 
 > aura:method executes synchronously. A synchronous
     method finishes executing before it returns. Use the return statement to return a value from synchronous JavaScript code.

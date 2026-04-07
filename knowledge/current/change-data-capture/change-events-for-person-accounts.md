@@ -5,12 +5,10 @@ topic: change-events-for-person-accounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.760Z
+lastCollected: 2026-04-07T18:37:05.472Z
 estimatedTokens: 981
-keywords: [Change, Events, Person, Accounts, Because, account, record, combines, contact, changing, results, two, provided, objects, selected]
+keywords: [Change, Events, Person, Accounts, Because, account, record, combines, contact, changing, results, two, provided, selected, capture, generated, changes, including, undelete, operations]
 ---
-
-# Change Events for Person Accounts
 
 > Because a person account record combines fields from an account and a contact, changing
     a person account results in two change events: one for the account and one for the contact,

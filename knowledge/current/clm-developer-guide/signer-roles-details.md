@@ -5,12 +5,10 @@ topic: signer-roles-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.398Z
+lastCollected: 2026-04-07T18:37:25.332Z
 estimatedTokens: 80
 keywords: [Signer, Roles, e-signature]
 ---
-
-# Signer Roles Details
 
 > Details of the e-signature signer roles.
 

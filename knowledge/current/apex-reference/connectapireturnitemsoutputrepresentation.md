@@ -5,12 +5,10 @@ topic: connectapireturnitemsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:26.392Z
+lastCollected: 2026-04-07T18:36:11.682Z
 estimatedTokens: 574
-keywords: [Output, Items, Includes, generated, change, order, delivery, charges, well, any, charged, fees, ReturnOrderLineItems, were, created]
+keywords: [Items, Includes, generated, change, order, delivery, charges, well, any, charged, fees, ReturnOrderLineItems, were, created, represent, remaining, quantities]
 ---
-
-# ConnectApi.ReturnItemsOutputRepresentation
 
 > Output of Return Items. Includes the ID of the generated change
       order for items and delivery charges being returned, as well as the ID of the generated change

@@ -5,12 +5,10 @@ topic: remote-process-invocationrequest-and-reply
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.342Z
+lastCollected: 2026-04-07T18:37:53.644Z
 estimatedTokens: 4018
-keywords: [Remote, Process, Invocation—Request, Reply, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, system]
+keywords: [Context, Problem, Forces, Solution, Sketch, Results, Sidebars, Remote, Process, Invocation—Request, Reply, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, system, doesn’t, contain, orders, captured, created]
 ---
-
-# Remote Process Invocation—Request and Reply
 
 > You use Salesforce to track leads, manage your pipeline, create opportunities, and capture
     order details that convert leads to customers. But, the Salesforce system doesn’t contain or

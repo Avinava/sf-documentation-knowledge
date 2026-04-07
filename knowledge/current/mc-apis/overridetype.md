@@ -5,12 +5,10 @@ topic: overridetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.857Z
+lastCollected: 2026-04-07T18:40:18.042Z
 estimatedTokens: 77
 keywords: [OverrideType]
 ---
-
-# OverrideType
 
 # OverrideType
 

@@ -5,12 +5,10 @@ topic: livechatbuttondeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.897Z
+lastCollected: 2026-04-07T18:39:46.458Z
 estimatedTokens: 295
-keywords: [LiveChatButtonDeployment, Associates, automated, chat, invitation, specific, deployment, API, versions, 28.0, later]
+keywords: [LiveChatButtonDeployment, Associates, automated, chat, invitation, specific, deployment, API, versions, 28.0]
 ---
-
-# LiveChatButtonDeployment
 
 > Associates an automated chat invitation with a specific
 		deployment. This object is available in API versions 28.0 and

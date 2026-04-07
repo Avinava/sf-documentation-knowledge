@@ -5,12 +5,10 @@ topic: get-yoursubdomainauthmarketingcloudapiscomv2userinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.254Z
+lastCollected: 2026-04-07T18:40:17.415Z
 estimatedTokens: 624
-keywords: [userinfo, account, user, associated, access, token, Supply, authorization, includes, email, member, MID, enterprise, EID, Application]
+keywords: [userinfo, account, user, token, Supply, authorization, includes, email, member, MID, enterprise, EID, Application, inclu, _SUBDOMAIN.auth.marketingcloudapis.com, **Overview**]
 ---
-
-# GET YOUR_SUBDOMAIN.auth.marketingcloudapis.com/v2/userinfo
 
 > Gets information for the account and user that are associated with the access token. Supply the access token in the authorization header. User information includes the account name, email, and ID. Account information includes the member ID (MID) and enterprise ID (EID). Application information inclu
 

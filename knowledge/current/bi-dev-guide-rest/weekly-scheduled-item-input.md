@@ -5,12 +5,10 @@ topic: weekly-scheduled-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.756Z
+lastCollected: 2026-04-07T18:36:55.159Z
 estimatedTokens: 142
-keywords: [Weekly, Scheduled, Item, Input, schedule, data, refresh]
+keywords: [Weekly, Scheduled, Item, schedule, refresh]
 ---
-
-# Weekly Scheduled Item Input
 
 > The weekly schedule for a data refresh.
 

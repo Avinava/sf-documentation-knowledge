@@ -5,13 +5,11 @@ topic: namespaceregistry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.743Z
+lastCollected: 2026-04-07T18:38:35.960Z
 estimatedTokens: 596
 namespace: NamespaceRegistry
-keywords: [NamespaceRegistry, link, scratch, orgs, were, created, org’s, Dev, Hub, developing, packaging, releasing, app, can’t, API]
+keywords: [NamespaceRegistry, link, scratch, orgs, were, created, org’s, Dev, Hub, developing, packaging, releasing, app, can’t, API, action, graphical, insert, record, 41.0]
 ---
-
-# NamespaceRegistry
 
 > Represents a namespace that you can link to scratch orgs that were
 			created from your org’s Dev Hub. You use the namespace when developing, packaging, and

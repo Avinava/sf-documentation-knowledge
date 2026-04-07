@@ -5,12 +5,10 @@ topic: like-a-feed-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.206Z
+lastCollected: 2026-04-07T18:37:24.254Z
 estimatedTokens: 165
-keywords: [Feed, Item]
+keywords: [Item]
 ---
-
-# Like a Feed Item
 
 > Like a feed item.
 

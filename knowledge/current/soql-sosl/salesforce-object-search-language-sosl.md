@@ -5,12 +5,10 @@ topic: salesforce-object-search-language-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:15.263Z
+lastCollected: 2026-04-07T18:40:10.236Z
 estimatedTokens: 1004
 keywords: [Salesforce, Search, Language, SOSL, construct, text-based, queries, against, index, Performance, Considerations, Navigating, Document]
 ---
-
-# Salesforce Object Search Language (SOSL)
 
 > Use the Salesforce Object Search Language (SOSL) to construct text-based search queries
     against the search index.

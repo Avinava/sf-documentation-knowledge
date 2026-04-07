@@ -5,12 +5,10 @@ topic: benefitdisbursement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.702Z
+lastCollected: 2026-04-07T18:37:30.763Z
 estimatedTokens: 237
-keywords: [BenefitDisbursement, allocation, enrollee's, benefit, made, monetary, non-monetary, different, frequencies, API, version, 57.0, later, Calls]
+keywords: [BenefitDisbursement, allocation, enrollee's, benefit, made, monetary, non-monetary, different, frequencies, API, 57.0]
 ---
-
-# BenefitDisbursement
 
 > Represents the allocation of an enrollee's benefit that can be made as
          monetary or non-monetary with different frequencies. This object is available in API

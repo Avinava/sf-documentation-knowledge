@@ -5,12 +5,10 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.484Z
+lastCollected: 2026-04-07T18:36:53.847Z
 estimatedTokens: 2300
 keywords: [template, Commands, manage, Analytics, templates, Examples, Command, display, lint, validate]
 ---
-
-# template Commands
 
 > Create and manage Analytics templates.
 

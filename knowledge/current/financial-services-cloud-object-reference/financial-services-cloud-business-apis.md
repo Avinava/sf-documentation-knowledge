@@ -5,12 +5,10 @@ topic: financial-services-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.905Z
+lastCollected: 2026-04-07T18:37:35.557Z
 estimatedTokens: 117
 keywords: [Financial, Services, Cloud, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Financial Services Cloud Business APIs
 
 > Financial Services Cloud Business APIs are RESTful APIs that are sometimes available as
     Apex classes and methods.

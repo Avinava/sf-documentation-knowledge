@@ -5,12 +5,10 @@ topic: setredirectcoderedirectcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.944Z
+lastCollected: 2026-04-07T18:35:59.219Z
 estimatedTokens: 643
 keywords: [setRedirectCode, redirectCode, HTTP, redirect, code, PageReference, setRedirect]
 ---
-
-# setRedirectCode(redirectCode)
 
 > Sets the HTTP redirect code to use for the PageReference object when
         setRedirect(redirect) is set to true.

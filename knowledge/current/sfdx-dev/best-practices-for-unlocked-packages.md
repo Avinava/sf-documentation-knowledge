@@ -5,12 +5,10 @@ topic: best-practices-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:13.739Z
+lastCollected: 2026-04-07T18:40:08.700Z
 estimatedTokens: 493
 keywords: [Best, Practices, Unlocked, Packages, suggest, follow, working]
 ---
-
-# Best Practices for Unlocked Packages
 
 > We suggest that you follow these best practices when working with unlocked packages.
 

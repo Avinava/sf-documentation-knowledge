@@ -5,12 +5,10 @@ topic: charts-geodata-file-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.703Z
+lastCollected: 2026-04-07T18:36:56.234Z
 estimatedTokens: 72
-keywords: [Charts, Geodata, File, Resource, binary, associated, definition]
+keywords: [Charts, Geodata, File, Resource, binary, definition]
 ---
-
-# Charts Geodata File List Resource
 
 > Return the binary file associated with a geodata
     definition.

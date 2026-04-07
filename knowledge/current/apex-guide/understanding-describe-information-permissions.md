@@ -5,12 +5,10 @@ topic: understanding-describe-information-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.347Z
+lastCollected: 2026-04-07T18:36:17.579Z
 estimatedTokens: 391
-keywords: [Understanding, Describe, Permissions, Apex, classes, triggers, run, system, mode, restrictions, dynamically, looking, any, sObject, org]
+keywords: [Understanding, Describe, Permissions, Apex, classes, triggers, run, system, mode, restrictions, dynamically, looking, any, sObject, org, generate, map, sObjects, regardless, current, user’s, permission, unless, executing, anonymous]
 ---
-
-# Understanding Describe Information Permissions
 
 > Apex classes and triggers run in system mode. Classes and triggers have no restrictions on
    dynamically looking up any sObject that is available in the org. You can generate a map of all

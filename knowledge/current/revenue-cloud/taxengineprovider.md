@@ -5,12 +5,10 @@ topic: taxengineprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.683Z
+lastCollected: 2026-04-07T18:35:50.564Z
 estimatedTokens: 530
-keywords: [TaxEngineProvider, general, service, manages, tax, engine, providers, one-to-many, relationship, engines, record, specific, configuration, assigned, multiple]
+keywords: [TaxEngineProvider, general, service, manages, tax, engine, providers, one-to-many, relationship, engines, record, specific, configuration, assigned, multiple, order, items, API, 62.0]
 ---
-
-# TaxEngineProvider
 
 > Represents general information about a service that manages a tax
          engine. Tax engine providers have a one-to-many relationship with tax engines, where the

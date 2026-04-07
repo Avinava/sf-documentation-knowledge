@@ -5,12 +5,10 @@ topic: versioninforesponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.837Z
+lastCollected: 2026-04-07T18:40:21.107Z
 estimatedTokens: 100
 keywords: [VersionInfoResponse]
 ---
-
-# VersionInfoResponse
 
 # VersionInfoResponse
 

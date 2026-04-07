@@ -5,12 +5,10 @@ topic: usercustombadgelocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.739Z
+lastCollected: 2026-04-07T18:38:43.506Z
 estimatedTokens: 581
-keywords: [UserCustomBadgeLocalization, translated, version, custom, badge, user, API, 38.0, later, Calls, Special, Access, Rules]
+keywords: [UserCustomBadgeLocalization, translated, badge, user, API, 38.0]
 ---
-
-# UserCustomBadgeLocalization
 
 > Represents the translated version of a custom badge for a user.
 		This object is available in API version 38.0 and later.

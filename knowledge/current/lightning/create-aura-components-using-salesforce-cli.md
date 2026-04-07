@@ -5,12 +5,10 @@ topic: create-aura-components-using-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.101Z
+lastCollected: 2026-04-07T18:38:03.086Z
 estimatedTokens: 1759
-keywords: [Aura, Components, Salesforce, CLI, develop, synchronize, source, code, orgs, version, control, system, Alternatively, Developer, Console]
+keywords: [Aura, Salesforce, CLI, develop, synchronize, source, code, orgs, control, system, Alternatively, Developer, Console]
 ---
-
-# Create Aura Components Using Salesforce CLI
 
 > To develop Aura components, use Salesforce CLI to synchronize source code between
         your Salesforce orgs and version control system. Alternatively, you can use the Developer

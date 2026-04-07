@@ -5,12 +5,10 @@ topic: commerce-webstore-search-sort-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.836Z
+lastCollected: 2026-04-07T18:37:12.715Z
 estimatedTokens: 77
-keywords: [Commerce, Webstore, Search, Sort, Rules, live, index]
+keywords: [Commerce, Webstore, Search, Sort, live, index]
 ---
-
-# Commerce Webstore Search, Sort Rules
 
 > Get sort rules for the live index.
 

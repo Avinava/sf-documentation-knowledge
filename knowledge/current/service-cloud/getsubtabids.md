@@ -5,12 +5,10 @@ topic: getsubtabids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.330Z
+lastCollected: 2026-04-07T18:36:49.428Z
 estimatedTokens: 260
-keywords: [getSubtabIds, IDs, subtabs, primary, tab, current, custom, console, component, detail, overwritten, Visualforce, API, version, 26.0]
+keywords: [Arguments, getSubtabIds, IDs, subtabs, primary, tab, current, console, detail, overwritten, Visualforce, API, 26.0, Sample, Code–Visualforce]
 ---
-
-# getSubtabIds()
 
 > Returns all of the IDs of the subtabs on the primary tab
             specified by a primary tab ID. If the primary tab ID is null, it returns the IDs of the

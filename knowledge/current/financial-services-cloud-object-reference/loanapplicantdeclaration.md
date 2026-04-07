@@ -5,12 +5,10 @@ topic: loanapplicantdeclaration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.319Z
+lastCollected: 2026-04-07T18:37:38.149Z
 estimatedTokens: 1911
-keywords: [LoanApplicantDeclaration, financial, issues, foreclosure, lawsuits, defaults, applicant, co-applicant, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [LoanApplicantDeclaration, financial, issues, foreclosure, lawsuits, defaults, applicant, co-applicant, API, 47.0]
 ---
-
-# LoanApplicantDeclaration
 
 > Represents financial issues like foreclosure, lawsuits, or defaults of the
 			applicant or co-applicant.  This object is available in API version 47.0 and later.

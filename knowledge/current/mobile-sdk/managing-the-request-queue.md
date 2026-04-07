@@ -5,12 +5,10 @@ topic: managing-the-request-queue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.524Z
+lastCollected: 2026-04-07T18:40:25.906Z
 estimatedTokens: 375
-keywords: [Managing, Queue, RestClient, internally, uses, instance, OkHttpClient, manage, REST, API, requests, access, underlying, OkHttp, objects]
+keywords: [Managing, Queue, RestClient, internally, uses, instance, OkHttpClient, manage, REST, API, requests, underlying, OkHttp, directly, cancel, pending, specific, Call, RestClient.sendAsync, Mobile, SDK]
 ---
-
-# Managing the Request Queue
 
 > The RestClient class internally uses an instance
         of the OkHttpClient class to manage REST API requests.

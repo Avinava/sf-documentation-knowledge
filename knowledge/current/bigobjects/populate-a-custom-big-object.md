@@ -5,12 +5,10 @@ topic: populate-a-custom-big-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.376Z
+lastCollected: 2026-04-07T18:37:02.926Z
 estimatedTokens: 229
-keywords: [Populate, Custom, Big, Salesforce, APIs]
+keywords: [Populate, Big, Salesforce, APIs]
 ---
-
-# Populate a Custom Big Object
 
 > Use Salesforce APIs to populate a custom big object.
 

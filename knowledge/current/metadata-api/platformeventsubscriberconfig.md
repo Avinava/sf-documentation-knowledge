@@ -5,12 +5,10 @@ topic: platformeventsubscriberconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.953Z
+lastCollected: 2026-04-07T18:36:28.493Z
 estimatedTokens: 1412
-keywords: [PlatformEventSubscriberConfig, configuration, settings, platform, event, Apex, trigger, including, batch, size, trigger’s, running, user, File, Suffix]
+keywords: [PlatformEventSubscriberConfig, configuration, settings, platform, event, Apex, trigger, including, batch, size, trigger’s, running, user, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PlatformEventSubscriberConfig
 
 > Represents configuration settings for a platform event Apex
       trigger, including the batch size and the trigger’s running user.

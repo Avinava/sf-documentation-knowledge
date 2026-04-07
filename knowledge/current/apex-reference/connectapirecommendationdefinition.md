@@ -5,12 +5,10 @@ topic: connectapirecommendationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:26.172Z
+lastCollected: 2026-04-07T18:36:11.459Z
 estimatedTokens: 317
-keywords: [ConnectApi.RecommendationDefinition, custom, recommendation, definition]
+keywords: [ConnectApi.RecommendationDefinition, recommendation, definition]
 ---
-
-# ConnectApi.RecommendationDefinition
 
 > Represents a custom recommendation definition.
 

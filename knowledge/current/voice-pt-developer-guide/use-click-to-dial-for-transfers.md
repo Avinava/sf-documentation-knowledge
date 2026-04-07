@@ -5,12 +5,10 @@ topic: use-click-to-dial-for-transfers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.449Z
+lastCollected: 2026-04-07T18:40:13.375Z
 estimatedTokens: 329
 keywords: [Click-to-Dial, Transfers, Enable, phone, numbers, rep, call, transfer, number]
 ---
-
-# Use Click-to-Dial for Transfers
 
 > Enable click-to-dial for phone numbers so that a rep can call or transfer to that
     number.

@@ -5,12 +5,10 @@ topic: business-object-api-workflow-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.472Z
+lastCollected: 2026-04-07T18:39:10.971Z
 estimatedTokens: 3430
 keywords: [Business, API, Workflow, Steps]
 ---
-
-# Business Object API Workflow Steps
 
 > The following table provides information about the BO API Workflow Steps.
 

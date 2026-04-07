@@ -5,12 +5,10 @@ topic: can-i-disable-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.786Z
+lastCollected: 2026-04-07T18:38:46.721Z
 estimatedTokens: 82
-keywords: [disable, Environment, Hub, install, org, can’t, However, hide, users, Setup, enter, App, Menu, Quick, box]
+keywords: [disable, Environment, Hub, install, org, can’t, However, hide, users, Setup, enter, App, Menu, Quick, box, select, choose, whether, visible]
 ---
-
-# Can I disable the Environment Hub?
 
 > After you install the Environment Hub in an org, you can’t disable it. However, you can hide the
    Environment Hub from users. Go to Setup and enter App Menu in to the Quick

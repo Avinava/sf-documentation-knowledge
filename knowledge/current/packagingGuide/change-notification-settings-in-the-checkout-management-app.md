@@ -5,12 +5,10 @@ topic: change-notification-settings-in-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.437Z
+lastCollected: 2026-04-07T18:38:46.302Z
 estimatedTokens: 234
-keywords: [Change, Notification, Settings, Checkout, Management, App, enable, disable, individual, CMA, email, notifications, depending, customers’, team]
+keywords: [Change, Notification, Settings, Checkout, Management, App, enable, disable, individual, CMA, email, notifications, depending, customers’, team, members’, needs]
 ---
-
-# Change Notification Settings in the Checkout Management App
 
 > You can enable or disable individual Checkout Management App (CMA) email notifications
         depending on your customers’ and team members’ needs.

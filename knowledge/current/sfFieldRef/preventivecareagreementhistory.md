@@ -5,12 +5,10 @@ topic: preventivecareagreementhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.928Z
+lastCollected: 2026-04-07T18:39:54.480Z
 estimatedTokens: 182
-keywords: [PreventiveCareAgreementHistory, History, tracked, PreventiveCareAgreement]
+keywords: [PreventiveCareAgreementHistory, tracked, PreventiveCareAgreement]
 ---
-
-# PreventiveCareAgreementHistory
 
 > History for tracked fields of PreventiveCareAgreement.
 

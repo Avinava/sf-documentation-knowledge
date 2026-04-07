@@ -5,12 +5,10 @@ topic: contenthubitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:37.688Z
+lastCollected: 2026-04-07T18:38:28.597Z
 estimatedTokens: 1118
-keywords: [ContentHubItem, file, folder, Files, Connect, external, data, source, Microsoft, SharePoint, OneDrive, Business, API, version, 33.0]
+keywords: [ContentHubItem, file, folder, Files, Connect, external, source, Microsoft, SharePoint, OneDrive, Business, API, 33.0]
 ---
-
-# ContentHubItem
 
 > Represents a file or folder in a Files Connect external data source,
 			such as Microsoft SharePoint or OneDrive for Business. This object is available in

@@ -5,12 +5,10 @@ topic: suggestedresponseassessmentservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.718Z
+lastCollected: 2026-04-07T18:37:39.667Z
 estimatedTokens: 157
 keywords: [SuggestedResponseAssessmentService, suggestion, assessment, question, previous, responses, Einstein]
 ---
-
-# SuggestedResponseAssessmentService Class
 
 > Represents the suggestion for assessment question from previous
       responses and Einstein AI.

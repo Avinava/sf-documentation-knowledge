@@ -5,12 +5,10 @@ topic: wastefootprinthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.535Z
+lastCollected: 2026-04-07T18:40:06.446Z
 estimatedTokens: 262
-keywords: [WasteFootprintHistory, History, tracked, WasteFootprint]
+keywords: [WasteFootprintHistory, tracked, WasteFootprint]
 ---
-
-# WasteFootprintHistory
 
 > History for tracked fields of WasteFootprint.
 

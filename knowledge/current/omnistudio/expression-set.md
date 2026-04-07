@@ -5,12 +5,10 @@ topic: expression-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:55.500Z
+lastCollected: 2026-04-07T18:36:41.193Z
 estimatedTokens: 413
-keywords: [Expression, consist, series, steps, connected, logical, flow, built, variables, constants, conditions, calculations, lookups, aggregations, allow, complex, math, configured, OmniStudio, known]
+keywords: [Expression, consist, series, steps, connected, logical, flow, built, variables, constants, conditions, calculations, lookups, aggregations, allow, complex, math, configured, OmniStudio, known, calculation, Procedure, evaluation, service]
 ---
-
-# Expression Set
 
 > An expression set allow complex math to be configured within
       OmniStudio. Expression set is also known as calculation Procedure or evaluation

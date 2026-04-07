@@ -5,12 +5,10 @@ topic: business-objective-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.636Z
+lastCollected: 2026-04-07T18:37:07.349Z
 estimatedTokens: 132
-keywords: [Business, Objective, Input, goal]
+keywords: [Business, Objective, goal]
 ---
-
-# Business Objective Input
 
 > A business objective, or goal.
 

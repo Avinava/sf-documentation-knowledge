@@ -5,12 +5,10 @@ topic: schedulingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:43.953Z
+lastCollected: 2026-04-07T18:36:29.431Z
 estimatedTokens: 858
-keywords: [SchedulingRule, scheduling, rule, Workforce, Engagement, Management, rules, determine, agents, assigned, shifts, Parent, File, Suffix, Directory]
+keywords: [SchedulingRule, SchedulingRuleParameter, scheduling, rule, Workforce, Engagement, Management, determine, agents, assigned, shifts, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SchedulingRule
 
 > Represents a scheduling rule in Workforce Engagement
       Management. Scheduling rules determine when agents are assigned to shifts.

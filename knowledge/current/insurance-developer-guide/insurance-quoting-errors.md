@@ -5,12 +5,10 @@ topic: insurance-quoting-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.990Z
+lastCollected: 2026-04-07T18:37:53.255Z
 estimatedTokens: 433
 keywords: [Insurance, Quoting, Errors, error, codes, code, messages, applicable, APIs]
 ---
-
-# Insurance Quoting Errors
 
 > Contains the error codes and error code messages that are applicable to the
       Insurance Quoting APIs.

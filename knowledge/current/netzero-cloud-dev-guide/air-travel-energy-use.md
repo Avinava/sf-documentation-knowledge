@@ -5,12 +5,10 @@ topic: air-travel-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.147Z
+lastCollected: 2026-04-07T18:38:16.724Z
 estimatedTokens: 1473
 keywords: [Air, Travel, Energy, consumption]
 ---
-
-# Air Travel Energy Use
 
 > The Air Travel Energy Use object represents the energy consumption related to air
     travel.

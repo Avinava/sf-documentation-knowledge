@@ -5,12 +5,10 @@ topic: sales-transaction-async-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.133Z
+lastCollected: 2026-04-07T18:35:46.084Z
 estimatedTokens: 301
-keywords: [Sales, Transaction, Async, Error, Output, representation, errors, encountered, processing, Place, API]
+keywords: [Sales, Transaction, Async, Error, errors, encountered, processing, Place, API]
 ---
-
-# Sales Transaction Async Error
 
 > Output representation of the details of errors encountered during the async processing of
     the Place Sales Transaction API request.

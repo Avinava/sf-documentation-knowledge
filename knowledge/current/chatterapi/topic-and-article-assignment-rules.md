@@ -5,12 +5,10 @@ topic: topic-and-article-assignment-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.909Z
+lastCollected: 2026-04-07T18:37:15.977Z
 estimatedTokens: 254
-keywords: [Topic, Article, Assignment, Rules, reassign, data, category]
+keywords: [Topic, Article, Assignment, reassign, category]
 ---
-
-# Topic and Article Assignment Rules
 
 > Get, create, and reassign topic and article assignment rules by data
       category.

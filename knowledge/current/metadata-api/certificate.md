@@ -5,12 +5,10 @@ topic: certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.115Z
+lastCollected: 2026-04-07T18:36:23.417Z
 estimatedTokens: 1173
-keywords: [Certificate, digital, signatures, verify, requests, coming, org, Certificates, either, authenticated, sign-on, external, website, identity, provider]
+keywords: [Certificate, digital, signatures, verify, requests, coming, org, Certificates, either, authenticated, sign-on, external, website, identity, provider, extends, Metadata, Content, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Certificate
 
 > Represents a certificate used for digital signatures
       that verify that requests are coming from your org. Certificates are used for either

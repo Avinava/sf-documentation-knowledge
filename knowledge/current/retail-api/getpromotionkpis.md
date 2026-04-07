@@ -5,12 +5,10 @@ topic: getpromotionkpis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.815Z
+lastCollected: 2026-04-07T18:39:11.349Z
 estimatedTokens: 167
-keywords: [getPromotionKPIs, editable, calculated, KPIs, promotion, level, input, template, Sample]
+keywords: [getPromotionKPIs, editable, calculated, KPIs, promotion, level, template, Sample]
 ---
-
-# getPromotionKPIs
 
 > This method returns the list of editable and editable calculated
       KPIs on promotion level for the input promotion template

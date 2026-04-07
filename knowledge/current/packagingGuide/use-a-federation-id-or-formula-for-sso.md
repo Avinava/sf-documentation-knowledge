@@ -5,12 +5,10 @@ topic: use-a-federation-id-or-formula-for-sso
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.934Z
+lastCollected: 2026-04-07T18:38:46.887Z
 estimatedTokens: 269
 keywords: [Federation, Formula, SSO, match, Environment, Hub, user, member, org, either, enable]
 ---
-
-# Use a Federation ID or Formula for SSO
 
 > You can match an Environment Hub user with a user in a member org using a Federation ID
     or a user name formula. For either method, enable SSO in the hub member org first.

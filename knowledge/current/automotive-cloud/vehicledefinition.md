@@ -5,12 +5,10 @@ topic: vehicledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.977Z
+lastCollected: 2026-04-07T18:36:53.324Z
 estimatedTokens: 2071
-keywords: [VehicleDefinition, typical, vehicle, model, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [VehicleDefinition, typical, vehicle, model, API, 56.0]
 ---
-
-# VehicleDefinition
 
 > Represents information about a typical vehicle model. This object is
       available in API version 56.0 and later.

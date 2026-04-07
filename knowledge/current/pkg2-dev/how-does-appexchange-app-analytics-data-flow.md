@@ -5,12 +5,10 @@ topic: how-does-appexchange-app-analytics-data-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.411Z
+lastCollected: 2026-04-07T18:38:54.789Z
 estimatedTokens: 778
-keywords: [How, AppExchange, App, Analytics, Data, Flow, customers, managed, packages, they, produce, Their, usage, collected, daily]
+keywords: [How, AppExchange, App, Analytics, Flow, customers, managed, packages, they, produce, Their, collected, daily, lake, Salesforce, instance, arrives, throughout, day, time, there, arrival, delays, builds, timestamps, vary, reasons, optimize, retrieval, plan, query, strategy]
 ---
-
-# How Does AppExchange App Analytics Data Flow?
 
 > As your customers use your managed packages, they produce data. Their usage data is
     collected daily in our data lake from each Salesforce instance. Usage data arrives to our data

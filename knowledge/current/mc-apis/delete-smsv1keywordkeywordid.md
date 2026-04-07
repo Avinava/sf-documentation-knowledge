@@ -5,12 +5,10 @@ topic: delete-smsv1keywordkeywordid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.375Z
+lastCollected: 2026-04-07T18:40:16.515Z
 estimatedTokens: 168
-keywords: [sms, keyword, keywordId, Deletes, account, **Overview**, Usage]
+keywords: [sms, keyword, keywordId, Deletes, account, **Overview**]
 ---
-
-# DELETE /sms/v1/keyword/{keywordId}
 
 > Deletes a keyword on an account given a keyword Id.
 

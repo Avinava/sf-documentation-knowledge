@@ -5,12 +5,10 @@ topic: create-or-update-asset-from-order-item-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.940Z
+lastCollected: 2026-04-07T18:35:39.724Z
 estimatedTokens: 283
-keywords: [Asset, Order, Item, Action, assets, individual, items, Track, line, reach, certain, stage, their, lifecycle, submitted]
+keywords: [Inputs, Outputs, Asset, Order, Item, Action, assets, individual, items, Track, line, reach, certain, stage, their, lifecycle, submitted, fulfilled, provisioned, part, renewal, amendment, cancellation, changed, REST, HTTP]
 ---
-
-# Create or Update Asset From Order Item Action
 
 > Create assets from individual order items within an order. Track
 			assets after the individual line items of an order reach a certain stage in their

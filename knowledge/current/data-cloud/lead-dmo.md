@@ -5,12 +5,10 @@ topic: lead-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.868Z
+lastCollected: 2026-04-07T18:35:53.882Z
 estimatedTokens: 1426
-keywords: [Lead, DMO, data, model, Cloud, person, company, interest, company’s, products, services, API, Category, Primary, Subject]
+keywords: [Category, Relationships, Lead, DMO, model, Cloud, person, company, interest, company’s, products, services, API, Primary, Subject, Area, Key]
 ---
-
-# Lead DMO
 
 > The Lead data model object (DMO) is a Data Cloud DMO for a person or
 		company that shows interest in a company’s products or services.

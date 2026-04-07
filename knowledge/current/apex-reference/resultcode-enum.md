@@ -5,12 +5,10 @@ topic: resultcode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.515Z
+lastCollected: 2026-04-07T18:36:12.809Z
 estimatedTokens: 202
-keywords: [ResultCode, Code, results, tax, made, engine, Usage]
+keywords: [ResultCode, Code, results, tax, made, engine]
 ---
-
-# ResultCode Enum
 
 > Code that represents the results of a tax request made to the tax
       engine.

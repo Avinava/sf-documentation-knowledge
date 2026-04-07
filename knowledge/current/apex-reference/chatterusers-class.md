@@ -5,13 +5,11 @@ topic: chatterusers-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.005Z
+lastCollected: 2026-04-07T18:35:57.274Z
 estimatedTokens: 18105
 namespace: ConnectApi
-keywords: [ChatterUsers, Export, Chatter-related, user, activity, bookmarks, topic, endorsements, votes, exportUserActivities, communityId, userId, API, Version, Requires]
+keywords: [ChatterUsers, Export, Chatter-related, user, activity, bookmarks, topic, endorsements, votes, exportUserActivities, communityId, userId, API, Requires, Chatter, follow, subjectId, getChatterSettings, getFollowers, Guest, Users, pageParam, pageSize, getFollowings, filterType, getReputation, getUser, getUserBatch, userIds, getUserGroups, getUsers, purgeUserActivities, searchUserGroupDetails, searchUsers, searchContextId, updateChatterSettings, defaultGroupEmailFrequency, updateUser, userInput, Test, setTestSearchUsers, result, Retired, deletePhoto, getGroups, getPhoto, searchUserGroups, setPhoto, fileId, versionNumber, fileUpload, setPhotoWithAttributes, photo]
 ---
-
-# ChatterUsers Class
 
 > Export Chatter-related user activity, such as bookmarks, topic
       endorsements, and votes.

@@ -5,12 +5,10 @@ topic: importing-data-into-order-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.621Z
+lastCollected: 2026-04-07T18:38:45.419Z
 estimatedTokens: 1415
-keywords: [Importing, Data, Order, Management, represented, OrderSummary, record, supporting, records, OrderItemSummaries, OrderDeliveryGroupSummaries, import, including, OrderItems, OrderDeliveryGroups]
+keywords: [Importing, Order, Management, represented, OrderSummary, record, supporting, records, OrderItemSummaries, OrderDeliveryGroupSummaries, import, including, OrderItems, OrderDeliveryGroups, process, Summary, flow, core, action, API, Managed, Orders, Unmanaged, Requirements]
 ---
-
-# Importing Data into Order Management
 
 > In Order Management, each order is represented by an OrderSummary
       record and a set of supporting records, such as OrderItemSummaries and

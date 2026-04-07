@@ -5,12 +5,10 @@ topic: cgcloudpaymenttacticproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.877Z
+lastCollected: 2026-04-07T18:39:14.274Z
 estimatedTokens: 1212
-keywords: [cgcloud__Payment_Tactic_Product__c, payment, tactic, products, assigned, LDP, level, project, product, API, version, 54.0, later, cgcloud, _Payment]
+keywords: [cgcloud__Payment_Tactic_Product__c, payment, tactic, products, assigned, LDP, level, project, product, API, 54.0, cgcloud, _Payment, _Tactic, _Product]
 ---
-
-# cgcloud__Payment_Tactic_Product__c
 
 > This object contains payment tactic products and assigned values at
          the LDP level or at the level that the project defines as payment product level. This

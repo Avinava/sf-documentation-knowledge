@@ -5,12 +5,10 @@ topic: lightning-action-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.762Z
+lastCollected: 2026-04-07T18:38:03.836Z
 estimatedTokens: 1347
-keywords: [Lightning, Action, Examples, base, components, Quick, Contact, panel, recordViewForm, recordEditForm, force, recordData, Usage, Differences]
+keywords: [Lightning, Action, Examples, base, Quick, Contact, panel, recordViewForm, recordEditForm, force, recordData, Differences]
 ---
-
-# Lightning Action Examples
 
 > Here are some examples that use the base components to create a Quick Contact action
         panel.

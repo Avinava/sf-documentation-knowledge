@@ -5,12 +5,10 @@ topic: reference-to-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.133Z
+lastCollected: 2026-04-07T18:40:12.144Z
 estimatedTokens: 196
 keywords: [Info, field's, referenced]
 ---
-
-# Reference To Info
 
 > Information about a reference field's referenced types and the name field names of those types.
 

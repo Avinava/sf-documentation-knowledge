@@ -5,12 +5,10 @@ topic: infoauthorizationrequestfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.228Z
+lastCollected: 2026-04-07T18:39:44.792Z
 estimatedTokens: 365
-keywords: [InfoAuthorizationRequestFeed, Feed, tracking, InfoAuthorizationRequest]
+keywords: [InfoAuthorizationRequestFeed, InfoAuthorizationRequest]
 ---
-
-# InfoAuthorizationRequestFeed
 
 > Feed tracking for InfoAuthorizationRequest.
 

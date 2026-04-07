@@ -5,12 +5,10 @@ topic: analytics-asset-collection-query-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.173Z
+lastCollected: 2026-04-07T18:36:54.541Z
 estimatedTokens: 582
-keywords: [Analytics, Asset, Collection, Query, Input, assets]
+keywords: [Analytics, Asset, Collection, Query, assets]
 ---
-
-# Analytics Asset Collection Query Input
 
 > The query parameters used to request a collection of Analytics assets.
 

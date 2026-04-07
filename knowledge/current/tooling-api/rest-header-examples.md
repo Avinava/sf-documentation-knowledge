@@ -5,12 +5,10 @@ topic: rest-header-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:45.856Z
+lastCollected: 2026-04-07T18:36:31.253Z
 estimatedTokens: 283
-keywords: [REST, Examples, understand]
+keywords: [Examples, REST, understand]
 ---
-
-# REST Header Examples
 
 > Use these examples to understand REST headers.
 

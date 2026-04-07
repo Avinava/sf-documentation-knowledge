@@ -5,12 +5,10 @@ topic: connectapicdpcalculatedinsightinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.529Z
+lastCollected: 2026-04-07T18:36:04.872Z
 estimatedTokens: 373
-keywords: [ConnectApi.CdpCalculatedInsightInput, Input, representation, calculated, insight]
+keywords: [ConnectApi.CdpCalculatedInsightInput, calculated, insight]
 ---
-
-# ConnectApi.CdpCalculatedInsightInput
 
 > Input representation for a calculated insight.
 

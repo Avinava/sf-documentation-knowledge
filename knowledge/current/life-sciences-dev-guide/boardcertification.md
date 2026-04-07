@@ -5,12 +5,10 @@ topic: boardcertification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.576Z
+lastCollected: 2026-04-07T18:37:59.134Z
 estimatedTokens: 1303
-keywords: [BoardCertification, practitioner's, board, certifications, board-certified, cardiology, cardiovascular, disease, Calls, Associated, Objects]
+keywords: [BoardCertification, practitioner's, board, certifications, board-certified, cardiology, cardiovascular, disease]
 ---
-
-# BoardCertification
 
 > Represents the practitioner's board certifications such as being
       board-certified in cardiology and cardiovascular disease.

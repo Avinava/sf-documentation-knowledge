@@ -5,12 +5,10 @@ topic: event-log-file-browser
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.641Z
+lastCollected: 2026-04-07T18:39:22.529Z
 estimatedTokens: 371
-keywords: [Event, Log, File, Browser, ELF, Setup, gives, quick, access, files, explore, download, data]
+keywords: [Event, Log, File, Browser, ELF, Setup, gives, quick, files, explore, download]
 ---
-
-# Event Log File Browser
 
 > Event Log File (ELF) Browser in Setup gives you quick access to event log files so you
     can explore and download all of your event log file data.

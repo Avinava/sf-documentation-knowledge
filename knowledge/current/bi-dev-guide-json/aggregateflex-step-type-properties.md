@@ -6,13 +6,10 @@ topic: aggregateflex-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.747Z
+lastCollected: 2026-04-07T18:36:54.114Z
 estimatedTokens: 2656
-keywords: [aggregateflex, Step, perform, aggregate, queries, Analytics, dataset, query, summarizes, rows, returning, row, per, grouping, total]
+keywords: [aggregateflex, Step, perform, aggregate, queries, Analytics, dataset, query, summarizes, rows, returning, row, per, grouping, total, amount, sales, rep]
 ---
-
-# aggregateflex Step Type
-            Properties
 
 > Use the aggregateflex step type to perform
         aggregate queries on a Analytics dataset. An aggregate query summarizes rows, like

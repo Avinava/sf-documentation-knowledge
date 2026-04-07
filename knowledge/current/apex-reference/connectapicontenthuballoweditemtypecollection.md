@@ -5,12 +5,10 @@ topic: connectapicontenthuballoweditemtypecollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.972Z
+lastCollected: 2026-04-07T18:36:08.328Z
 estimatedTokens: 97
 keywords: [item, context, user, allowed, repository, folder]
 ---
-
-# ConnectApi.ContentHubAllowedItemTypeCollection
 
 > The item types that the context user is allowed to create in a
       repository folder.

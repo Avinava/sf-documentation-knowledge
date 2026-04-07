@@ -5,12 +5,10 @@ topic: troubleshoot-installation-problems
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.783Z
+lastCollected: 2026-04-07T18:38:15.263Z
 estimatedTokens: 643
-keywords: [Troubleshoot, Installation, Problems, Komaci, Analyzer, implemented, plugin, ESLint, well-known, JavaScript, validation, tool, plugins, finicky, their]
+keywords: [Troubleshoot, Installation, Problems, Komaci, Analyzer, implemented, plugin, ESLint, well-known, JavaScript, validation, tool, plugins, finicky, their, configuration, requiring, pieces, perfectly, aligned, success]
 ---
-
-# Troubleshoot Installation Problems
 
 > The Komaci Static Analyzer is implemented as a plugin for ESLint, a well-known
   JavaScript validation tool. ESLint plugins can be finicky in their installation and configuration,

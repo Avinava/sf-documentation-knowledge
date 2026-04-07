@@ -5,12 +5,10 @@ topic: securityobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:24.883Z
+lastCollected: 2026-04-07T18:40:20.109Z
 estimatedTokens: 339
 keywords: [SecurityObject, base, Certificate]
 ---
-
-# SecurityObject
 
 > The SecurityObject object provides the base object for the Certificate object.
 

@@ -5,12 +5,10 @@ topic: product-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.165Z
+lastCollected: 2026-04-07T18:37:26.081Z
 estimatedTokens: 1307
-keywords: [Product, Input, representation, retrieve, products]
+keywords: [Product, retrieve, products]
 ---
-
-# Product List Input
 
 > Input representation of the request to retrieve a list of products.
 

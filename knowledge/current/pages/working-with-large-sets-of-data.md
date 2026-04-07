@@ -5,12 +5,10 @@ topic: working-with-large-sets-of-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.748Z
+lastCollected: 2026-04-07T18:38:50.983Z
 estimatedTokens: 418
-keywords: [Working, Large, Data, Visualforce, custom, controllers, controller, extensions, subject, Apex, governor, limits, Additionally, iteration, components]
+keywords: [Working, Large, Visualforce, controllers, controller, extensions, subject, Apex, governor, limits, Additionally, iteration, <apex, pageBlockTable>, repeat>, limited, maximum, items, collectio]
 ---
-
-# Working with Large Sets of Data
 
 > Visualforce custom controllers and controller extensions are subject to Apex governor limits.
    For more information about governor limits. Additionally, Visualforce iteration components, such

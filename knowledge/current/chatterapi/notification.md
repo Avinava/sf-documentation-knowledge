@@ -5,12 +5,10 @@ topic: notification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.436Z
+lastCollected: 2026-04-07T18:37:11.192Z
 estimatedTokens: 459
 keywords: [Notification, context, user, Mark, unread, seen, unseen]
 ---
-
-# Notification
 
 > Notification.
 

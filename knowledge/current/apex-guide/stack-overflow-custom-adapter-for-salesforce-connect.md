@@ -5,12 +5,10 @@ topic: stack-overflow-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:31.858Z
+lastCollected: 2026-04-07T18:36:17.042Z
 estimatedTokens: 151
-keywords: [Stack, Overflow, Custom, Adapter, Salesforce, Connect, illustrates, how, support, external, lookup, relationships, multiple, tables, relationship]
+keywords: [Stack, Overflow, Adapter, Salesforce, Connect, illustrates, how, support, external, lookup, relationships, multiple, tables, relationship, links, child, standard, parent, become, org, StackOverflowDataSourceConnection, StackOverflowPostDataSourceProvider]
 ---
-
-# Stack Overflow Custom Adapter for Salesforce Connect
 
 > This example illustrates how to support external lookup relationships and multiple
         tables. An external lookup relationship links a child standard, custom, or external object

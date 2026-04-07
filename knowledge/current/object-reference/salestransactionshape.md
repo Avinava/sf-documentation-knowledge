@@ -5,12 +5,10 @@ topic: salestransactionshape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.810Z
+lastCollected: 2026-04-07T18:38:40.390Z
 estimatedTokens: 738
-keywords: [SalesTransactionShape, business, logic, sales, transaction, order, quote, cart, API, version, 57.0, later, Calls, Special, Access]
+keywords: [SalesTransactionShape, business, logic, sales, transaction, order, quote, cart, API, 57.0]
 ---
-
-# SalesTransactionShape
 
 > Defines the business logic for a sales transaction; for example, an order, a
          quote, or a cart. This object is available in API version 57.0 and later.

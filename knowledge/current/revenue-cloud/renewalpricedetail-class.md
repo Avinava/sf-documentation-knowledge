@@ -5,12 +5,10 @@ topic: renewalpricedetail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.086Z
+lastCollected: 2026-04-07T18:35:40.956Z
 estimatedTokens: 746
 keywords: [RenewalPriceDetail, net, unit, price, quantity, asset, sales, renewal, opportunities, netUnitPrice]
 ---
-
-# RenewalPriceDetail Class
 
 > Contains net unit price and quantity details for an asset to set as sales price for renewal opportunities.
 

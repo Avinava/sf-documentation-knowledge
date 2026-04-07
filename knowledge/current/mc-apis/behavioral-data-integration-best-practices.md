@@ -5,12 +5,10 @@ topic: behavioral-data-integration-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.477Z
+lastCollected: 2026-04-07T18:40:15.573Z
 estimatedTokens: 1024
-keywords: [Behavioral, Data, Integration, Best, Practices, regarding, implementing, Marketing, Cloud, external, system, via, extract, SOAP, API]
+keywords: [Prerequisites, Scenario, Behavioral, Integration, Best, Practices, regarding, implementing, Marketing, Cloud, external, system, via, extract, SOAP, API, retrieve, call, How, Implement, Extracts, Choosing, Items]
 ---
-
-# Behavioral Data Integration Best Practices
 
 > This page contains information  regarding implementing best practices for the integration of behavioral data from Marketing Cloud into your external system. You can get data out of Marketing Cloud via data extract or a SOAP API tracking data retrieve call.
 

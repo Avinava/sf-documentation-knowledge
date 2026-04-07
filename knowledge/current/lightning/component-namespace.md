@@ -5,13 +5,11 @@ topic: component-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.644Z
+lastCollected: 2026-04-07T18:38:04.787Z
 estimatedTokens: 321
 namespace: Every
-keywords: [Component, Every, part, group, components, together, organization, prefix, access, Otherwise, Namespaces, Code, Samples]
+keywords: [Every, part, group, together, organization, prefix, Otherwise, Namespaces, Code, Samples]
 ---
-
-# Component Namespace
 
 > Every component is part of a namespace, which is used to group related components
     together. If your organization has a namespace prefix set, use that namespace to access your

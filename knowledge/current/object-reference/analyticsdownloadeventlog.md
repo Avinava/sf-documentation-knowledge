@@ -5,12 +5,10 @@ topic: analyticsdownloadeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.317Z
+lastCollected: 2026-04-07T18:38:25.267Z
 estimatedTokens: 1160
-keywords: [AnalyticsDownloadEventLog, represent, downloads, made, lens, dashboard, CRM, Analytics, API, version, 61.0, later, Calls, Special, Access]
+keywords: [AnalyticsDownloadEventLog, represent, downloads, made, lens, dashboard, CRM, Analytics, API, 61.0]
 ---
-
-# AnalyticsDownloadEventLog
 
 > AnalyticsDownloadEventLog represent downloads made from lens and dashboard in
          the CRM Analytics. This object is available in API version 61.0 and later.

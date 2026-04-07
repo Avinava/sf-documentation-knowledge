@@ -5,12 +5,10 @@ topic: create-perform-and-delete-email-send-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.184Z
+lastCollected: 2026-04-07T18:40:16.326Z
 estimatedTokens: 11196
-keywords: [Perform, Email, Send, Definitions, creating, performing, deleting, Why, How, Sample, NET, Code, Definition, Start, API]
+keywords: [Perform, Email, Send, Definitions, creating, performing, deleting, Why, How, Sample, NET, Code, Definition, Start, API, PHP, Ruby, Rails, Java, Axis, 1.4, Retrieve, Classifications, SOAP, Envelope, Profile, Attributes, Filter, Audience, Starting, New, Subject, Items]
 ---
-
-# Create, Perform, and Delete Email Send Definitions
 
 > This page contains information  about creating, performing, and deleting email send definitions.
 

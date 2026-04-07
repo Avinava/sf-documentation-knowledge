@@ -5,12 +5,10 @@ topic: get-platformv1ens-subscriptions-by-cbcallbackid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.931Z
+lastCollected: 2026-04-07T18:40:17.081Z
 estimatedTokens: 454
-keywords: [platform, ens-subscriptions-by-cb, callbackId, Retrieves, subscriptions, associated, callback, **Overview**, Usage, HTTP, Responses]
+keywords: [platform, ens-subscriptions-by-cb, callbackId, Retrieves, subscriptions, callback, **Overview**, HTTP, Responses]
 ---
-
-# GET /platform/v1/ens-subscriptions-by-cb/{callbackId}
 
 > Retrieves details for all subscriptions associated with a callback.
 

@@ -5,13 +5,11 @@ topic: oauth2tokenexchangehandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.340Z
+lastCollected: 2026-04-07T18:35:59.621Z
 estimatedTokens: 1552
 namespace: Auth
-keywords: [Oauth2TokenExchangeHandler, token, exchange, handler, validates, tokens, external, identity, provider, maps, token’s, subject, Salesforce, user, OAuth]
+keywords: [Oauth2TokenExchangeHandler, token, exchange, handler, validates, tokens, external, identity, provider, maps, token’s, subject, Salesforce, user, OAuth, 2.0, flow, users, setting, new, returning, automatic, insertion, getUserForTokenSubject, networkId, result, canCreateUser, appDeveloperName, appType, validateIncomingToken, incomingToken, tokenType]
 ---
-
-# Oauth2TokenExchangeHandler Class
 
 > Use this class to create a token exchange handler that validates tokens from an external
     identity provider and maps the token’s subject to a Salesforce user during the OAuth 2.0 token

@@ -5,12 +5,10 @@ topic: catalogs-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.378Z
+lastCollected: 2026-04-07T18:35:45.352Z
 estimatedTokens: 200
-keywords: [Catalogs, Output, representation, retrieved, catalog, result]
+keywords: [Catalogs, retrieved, catalog, result]
 ---
-
-# Catalogs Output
 
 > Output representation of the retrieved catalog result.
 

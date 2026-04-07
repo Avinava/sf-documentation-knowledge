@@ -5,12 +5,10 @@ topic: order-of-execution-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.717Z
+lastCollected: 2026-04-07T18:38:50.951Z
 estimatedTokens: 1774
 keywords: [Order, Execution, Follow, lifecycle, Visualforce, how, differs, user, retrieves, instead, postback]
 ---
-
-# Order of Execution Example
 
 > Follow the lifecycle of a Visualforce page. Learn how the order
         of execution differs when the user retrieves the page with a get request

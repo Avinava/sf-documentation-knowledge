@@ -5,12 +5,10 @@ topic: invocablemethod-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.014Z
+lastCollected: 2026-04-07T18:36:16.234Z
 estimatedTokens: 2226
 keywords: [InvocableMethod, Annotation, identify, run, invocable, actions, Modifiers, Considerations]
 ---
-
-# InvocableMethod Annotation
 
 > Use the InvocableMethod annotation to identify methods that can be run as invocable
       actions.

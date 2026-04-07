@@ -5,12 +5,10 @@ topic: schedule-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.099Z
+lastCollected: 2026-04-07T18:36:57.619Z
 estimatedTokens: 85
 keywords: [Schedule, base, Analytics, inherited, SubscriptionDailySchedule, SubscriptionWeeklySchedule]
 ---
-
-# Schedule Details
 
 > The base Analytics schedule details, inherited by SubscriptionDailySchedule and SubscriptionWeeklySchedule.
 

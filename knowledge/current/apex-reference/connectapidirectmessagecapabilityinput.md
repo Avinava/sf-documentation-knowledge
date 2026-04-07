@@ -5,12 +5,10 @@ topic: connectapidirectmessagecapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.909Z
+lastCollected: 2026-04-07T18:36:05.263Z
 estimatedTokens: 252
 keywords: [ConnectApi.DirectMessageCapabilityInput, members, direct, message]
 ---
-
-# ConnectApi.DirectMessageCapabilityInput
 
 > Create or update the members of a direct message.
 

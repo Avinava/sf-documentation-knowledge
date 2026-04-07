@@ -5,12 +5,10 @@ topic: returnorderitemtax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.559Z
+lastCollected: 2026-04-07T18:38:40.142Z
 estimatedTokens: 930
-keywords: [ReturnOrderItemTax, tax, order, line, item, adjustment, API, version, 50.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ReturnOrderItemTax, tax, order, line, item, adjustment, API, 50.0]
 ---
-
-# ReturnOrderItemTax
 
 > Represents the tax on a return order line item or return order item
       adjustment. This object is available in API version 50.0 and later.

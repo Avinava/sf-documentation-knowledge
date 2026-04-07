@@ -5,12 +5,10 @@ topic: appointmenttopictimeslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.943Z
+lastCollected: 2026-04-07T18:39:20.722Z
 estimatedTokens: 586
-keywords: [AppointmentTopicTimeSlot, lookup, work, group, time, slot, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [AppointmentTopicTimeSlot, lookup, work, group, time, slot, API, 52.0]
 ---
-
-# AppointmentTopicTimeSlot
 
 > Represents a lookup to a work type or a work type group for a time
          slot This object is available in API version 52.0 and later.

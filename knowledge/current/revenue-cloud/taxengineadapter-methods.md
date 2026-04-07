@@ -5,12 +5,10 @@ topic: taxengineadapter-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.508Z
+lastCollected: 2026-04-07T18:35:41.362Z
 estimatedTokens: 140
 keywords: [TaxEngineAdapter]
 ---
-
-# TaxEngineAdapter Methods
 
 > Learn more about the available methods with the TaxEngineAdapter class.
 

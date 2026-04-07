@@ -5,12 +5,10 @@ topic: datasourceobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.126Z
+lastCollected: 2026-04-07T18:36:24.464Z
 estimatedTokens: 743
-keywords: [DataSourceObject, data, sourced, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [DataSourceObject, sourced, Parent, File, Suffix, Directory, Location]
 ---
-
-# DataSourceObject
 
 > Represents the object from where the data
       was sourced.

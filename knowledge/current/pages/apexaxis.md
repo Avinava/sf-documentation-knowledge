@@ -5,12 +5,10 @@ topic: apexaxis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.100Z
+lastCollected: 2026-04-07T18:38:49.089Z
 estimatedTokens: 851
-keywords: [apex, axis, chart, units, scale, labeling, visual, options, define, four, axes, edge, Attributes]
+keywords: [Attributes, apex, axis, chart, units, scale, labeling, visual, options, define, four, axes, edge]
 ---
-
-# apex:axis
 
 > Defines an axis for a chart. Use this to set the units, scale, labeling, and other visual options for the axis. You can define up to four axes for a single chart, one for each edge.
 

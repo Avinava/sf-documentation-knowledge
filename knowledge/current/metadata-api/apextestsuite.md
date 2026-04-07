@@ -5,12 +5,10 @@ topic: apextestsuite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.285Z
+lastCollected: 2026-04-07T18:36:22.542Z
 estimatedTokens: 364
-keywords: [ApexTestSuite, suite, Apex, test, classes, include, run, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
+keywords: [ApexTestSuite, suite, Apex, test, classes, include, run, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ApexTestSuite
 
 > Represents a suite of Apex test classes to include in a test
          run.

@@ -5,12 +5,10 @@ topic: personemployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.183Z
+lastCollected: 2026-04-07T18:38:00.979Z
 estimatedTokens: 1916
-keywords: [PersonEmployment, person’s, employment, Calls, Associated, Objects]
+keywords: [PersonEmployment, person’s, employment]
 ---
-
-# PersonEmployment
 
 > Represents information about a person’s employment.
 

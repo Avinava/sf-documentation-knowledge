@@ -5,12 +5,10 @@ topic: create-an-lwr-site-in-experience-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.080Z
+lastCollected: 2026-04-07T18:37:33.425Z
 estimatedTokens: 702
 keywords: [LWR, Site, Experience, Cloud, Select, Build, Own, Microsite, template]
 ---
-
-# Create an LWR Site in Experience Cloud
 
 > Select the Build Your Own (LWR) or the Microsite (LWR) template to create an LWR site
     in Experience Cloud.

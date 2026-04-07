@@ -5,12 +5,10 @@ topic: dataobjectsearchindexconf
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.071Z
+lastCollected: 2026-04-07T18:36:24.411Z
 estimatedTokens: 693
-keywords: [DataObjectSearchIndexConf, source, Data, model, DMO, Search, Answers, holds, index, uses, searching, records, Parent, File, Suffix]
+keywords: [DataObjectSearchIndexConf, source, model, DMO, Search, Answers, holds, index, uses, searching, records, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataObjectSearchIndexConf
 
 > Represents the source Data 360 data model object (DMO)
 			for Search Answers and holds the search index that Search Answers uses when searching

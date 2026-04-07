@@ -5,12 +5,10 @@ topic: insurance-quote-patch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.187Z
+lastCollected: 2026-04-07T18:37:51.140Z
 estimatedTokens: 216
-keywords: [Insurance, Quote, Patch, Input, representation, operation]
+keywords: [Insurance, Quote, Patch, operation]
 ---
-
-# Insurance Quote Patch Input
 
 > Input representation for insurance quote patch operation.
 

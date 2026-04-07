@@ -5,12 +5,10 @@ topic: app-rollout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.415Z
+lastCollected: 2026-04-07T18:36:51.777Z
 estimatedTokens: 264
 keywords: [App, Rollout, deploy, solution, users, notify, new, functionality, educate, how, appropriate, permissions]
 ---
-
-# App Rollout
 
 > Before you deploy the solution to your users, notify them of the new functionality, and
   educate them on how to use it. Then make it available to the users who have appropriate

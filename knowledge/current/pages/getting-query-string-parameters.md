@@ -5,12 +5,10 @@ topic: getting-query-string-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.801Z
+lastCollected: 2026-04-07T18:38:52.107Z
 estimatedTokens: 362
-keywords: [Getting, Query, Visualforce, markup, $CurrentPage, variable, access, specifying, attribute, individual]
+keywords: [Getting, Query, Visualforce, markup, $CurrentPage, variable, specifying, attribute, individual]
 ---
-
-# Getting Query String Parameters
 
 > You can reference query string parameters in Visualforce markup by using the $CurrentPage global variable. Using $CurrentPage, you can access the query string parameters for the page by specifying
 the parameters attribute,

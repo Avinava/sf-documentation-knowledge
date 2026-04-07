@@ -5,12 +5,10 @@ topic: orderstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.783Z
+lastCollected: 2026-04-07T18:39:51.197Z
 estimatedTokens: 298
-keywords: [OrderStatus, status, order, entity, API, version, 48.0, later]
+keywords: [OrderStatus, status, order, entity, API, 48.0]
 ---
-
-# OrderStatus
 
 > Represents the status of the order entity. This object is available in API
     version 48.0 and later.

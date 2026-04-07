@@ -5,12 +5,10 @@ topic: gnrcvsttaskcontextrelationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.256Z
+lastCollected: 2026-04-07T18:39:42.848Z
 estimatedTokens: 281
-keywords: [GnrcVstTaskContextRelationHistory, History, tracked, GnrcVstTaskContextRelation]
+keywords: [GnrcVstTaskContextRelationHistory, tracked, GnrcVstTaskContextRelation]
 ---
-
-# GnrcVstTaskContextRelationHistory
 
 > History for tracked fields of GnrcVstTaskContextRelation.
 

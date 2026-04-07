@@ -5,12 +5,10 @@ topic: apexrepeat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.321Z
+lastCollected: 2026-04-07T18:38:50.562Z
 estimatedTokens: 527
-keywords: [apex, repeat, iteration, component, output, contents, collection, according, structure, specify, include, items, Standard, Attributes]
+keywords: [Attributes, apex, repeat, iteration, contents, collection, according, structure, specify, include, items, Standard]
 ---
-
-# apex:repeat
 
 > An iteration component that allows you to output the contents of a collection according to a structure that you specify. The collection can include up to 1,000 items.
 

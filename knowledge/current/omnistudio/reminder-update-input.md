@@ -5,12 +5,10 @@ topic: reminder-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.929Z
+lastCollected: 2026-04-07T18:36:37.454Z
 estimatedTokens: 106
-keywords: [Reminder, Input, representation, definition]
+keywords: [Reminder, definition]
 ---
-
-# Reminder Update Input
 
 > Input representation of a reminder definition to update the reminder based on the ID of
     the reminder definition.

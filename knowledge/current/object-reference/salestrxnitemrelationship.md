@@ -5,12 +5,10 @@ topic: salestrxnitemrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:48.834Z
+lastCollected: 2026-04-07T18:38:40.416Z
 estimatedTokens: 1158
-keywords: [SalesTrxnItemRelationship, relationship, sales, transaction, items, bundle, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [SalesTrxnItemRelationship, relationship, sales, transaction, items, bundle, API, 58.0]
 ---
-
-# SalesTrxnItemRelationship
 
 > Describes the relationship between sales transaction items; for example, a
 			bundle or set. This object interface is available in API version 58.0 and later.

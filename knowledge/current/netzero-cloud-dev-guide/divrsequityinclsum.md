@@ -5,12 +5,10 @@ topic: divrsequityinclsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.639Z
+lastCollected: 2026-04-07T18:38:18.149Z
 estimatedTokens: 1599
-keywords: [DivrsEquityInclSum, quantitative, view, organization, employee, gender, age, group, fairness, indicators, API, version, 57.0, later, Calls]
+keywords: [DivrsEquityInclSum, quantitative, view, organization, employee, gender, age, group, fairness, indicators, API, 57.0]
 ---
-
-# DivrsEquityInclSum
 
 > Represents information that indicates the quantitative view of the
          organization based on the employee gender, age group, and other fairness indicators.

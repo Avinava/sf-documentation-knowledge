@@ -5,12 +5,10 @@ topic: use-case-fixed-funds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.359Z
+lastCollected: 2026-04-07T18:37:05.085Z
 estimatedTokens: 1367
-keywords: [Case, Fixed, Funds, custom, datasource, include, fund, KPI, Real, Time, Report, RTR, result, aggregated, category]
+keywords: [Prerequisites, Case, Fixed, Funds, datasource, include, fund, KPI, Real, Time, Report, RTR, result, aggregated, category, brand, levels, visualization, option, However, summed, level, calculation, that's, stored, Salesforce, Processing, Services, Apex, Classes]
 ---
-
-# Use Case: Fixed Funds
 
 > In this use case, the custom datasource is used to include a fixed fund KPI in Real
     Time Report (RTR). As a result, the fixed funds are aggregated on both category and brand

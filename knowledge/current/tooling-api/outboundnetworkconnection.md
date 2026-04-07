@@ -5,12 +5,10 @@ topic: outboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.308Z
+lastCollected: 2026-04-07T18:36:33.692Z
 estimatedTokens: 711
-keywords: [OutboundNetworkConnection, connection, Salesforce, org, third-party, data, service, outbound, because, callouts, going, Salesforce.Available, API, version, 49.0]
+keywords: [OutboundNetworkConnection, connection, Salesforce, org, third-party, service, outbound, because, callouts, going, Salesforce.Available, API, 49.0, SOAP, REST, HTTP]
 ---
-
-# OutboundNetworkConnection
 
 > Represents a
             private connection between a Salesforce org and a third-party data service. The

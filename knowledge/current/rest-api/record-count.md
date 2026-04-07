@@ -5,12 +5,10 @@ topic: record-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.862Z
+lastCollected: 2026-04-07T18:36:21.097Z
 estimatedTokens: 396
 keywords: [Record, Count, counts, organization]
 ---
-
-# Record Count
 
 > Lists information about object record counts in your
    organization.

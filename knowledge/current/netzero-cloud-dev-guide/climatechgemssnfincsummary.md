@@ -5,12 +5,10 @@ topic: climatechgemssnfincsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.430Z
+lastCollected: 2026-04-07T18:38:17.941Z
 estimatedTokens: 2620
-keywords: [ClimateChgEmssnFincSummary, emissions, financial, company, discloses, part, ESRS, Climate, change, API, version, 65.0, later, Calls, Associated]
+keywords: [ClimateChgEmssnFincSummary, emissions, financial, company, discloses, part, ESRS, Climate, change, API, 65.0]
 ---
-
-# ClimateChgEmssnFincSummary
 
 > Represents the emissions and financial information that a company discloses
          as part of ESRS E1 - Climate change. This object is available in API version 65.0 and

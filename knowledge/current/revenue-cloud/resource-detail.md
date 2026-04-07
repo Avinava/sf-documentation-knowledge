@@ -5,12 +5,10 @@ topic: resource-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.634Z
+lastCollected: 2026-04-07T18:35:46.601Z
 estimatedTokens: 300
-keywords: [Resource, Detail, Output, representation, specific, usage]
+keywords: [Resource, Detail, specific]
 ---
-
-# Resource Detail
 
 > Output representation of the details of a specific usage resource.
 

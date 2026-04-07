@@ -5,12 +5,10 @@ topic: updateemailtemplateemailtemplateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.333Z
+lastCollected: 2026-04-07T18:37:54.664Z
 estimatedTokens: 584
-keywords: [updateEmailTemplate, emailTemplateInput, email, template, provided, metadata, API, Version, Requires, Chatter]
+keywords: [updateEmailTemplate, emailTemplateInput, email, template, provided, metadata, API, Requires, Chatter]
 ---
-
-# updateEmailTemplate(emailTemplateInput)
 
 > Update an existing email template with the provided
         metadata.

@@ -5,12 +5,10 @@ topic: action-link-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.462Z
+lastCollected: 2026-04-07T18:37:11.231Z
 estimatedTokens: 280
 keywords: [Action, Link, Group, including, state, context, user]
 ---
-
-# Action Link Group
 
 > Get information about an action link group including state
    for the context user.

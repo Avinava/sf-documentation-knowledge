@@ -5,12 +5,10 @@ topic: worktypeassettype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.623Z
+lastCollected: 2026-04-07T18:37:48.254Z
 estimatedTokens: 822
-keywords: [WorkTypeAssetType, junction, Work, Asset, admins, associate, visit, PRP, Hair, Restoration, Room, API, version, 62.0, later]
+keywords: [WorkTypeAssetType, junction, Work, Asset, admins, associate, visit, PRP, Hair, Restoration, Room, API, 62.0]
 ---
-
-# WorkTypeAssetType
 
 > Represents a junction between Work Type and Asset Type. This junction object
          enables admins to associate a visit type such as PRP Hair Restoration to an asset type such

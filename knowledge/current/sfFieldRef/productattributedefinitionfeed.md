@@ -5,12 +5,10 @@ topic: productattributedefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.701Z
+lastCollected: 2026-04-07T18:39:55.268Z
 estimatedTokens: 366
-keywords: [ProductAttributeDefinitionFeed, Feed, tracking, ProductAttributeDefinition]
+keywords: [ProductAttributeDefinitionFeed, ProductAttributeDefinition]
 ---
-
-# ProductAttributeDefinitionFeed
 
 > Feed tracking for ProductAttributeDefinition.
 

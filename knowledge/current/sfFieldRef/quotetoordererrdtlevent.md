@@ -5,12 +5,10 @@ topic: quotetoordererrdtlevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.600Z
+lastCollected: 2026-04-07T18:39:58.263Z
 estimatedTokens: 318
-keywords: [QuoteToOrderErrDtlEvent, any, errors, occurred, processing, actions, standard, createOrderFromQuote, REST, record, created, error, included, QuoteToOrderCompletedEvent, message]
+keywords: [QuoteToOrderErrDtlEvent, any, errors, occurred, processing, actions, standard, createOrderFromQuote, REST, record, created, error, included, QuoteToOrderCompletedEvent, message, can't, subscribe, directly, API, 56.0]
 ---
-
-# QuoteToOrderErrDtlEvent
 
 > Contains information about any errors that occurred while processing
 			the /actions/standard/createOrderFromQuote REST

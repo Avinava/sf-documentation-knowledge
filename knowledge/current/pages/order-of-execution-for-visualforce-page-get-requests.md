@@ -5,12 +5,10 @@ topic: order-of-execution-for-visualforce-page-get-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.699Z
+lastCollected: 2026-04-07T18:38:50.933Z
 estimatedTokens: 800
-keywords: [Order, Execution, Visualforce, Requests, initial, either, made, user, enters, URL, link, button, clicked, new, diagram]
+keywords: [Order, Execution, Visualforce, Requests, initial, either, made, user, enters, URL, link, button, clicked, new, diagram, how, interacts, controller, extension, req]
 ---
-
-# Order of Execution for Visualforce Page Get Requests
 
 > A get request is an initial request for a page either
      made when a user enters an URL or when a link or button is clicked that takes the user to a new

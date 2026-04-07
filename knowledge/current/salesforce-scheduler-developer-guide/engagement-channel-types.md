@@ -5,12 +5,10 @@ topic: engagement-channel-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.443Z
+lastCollected: 2026-04-07T18:39:20.155Z
 estimatedTokens: 555
 keywords: [Engagement, Channel, Retrieve, Salesforce, org]
 ---
-
-# Engagement Channel Types
 
 > Retrieve a list of the engagement channel types from your Salesforce
       org.

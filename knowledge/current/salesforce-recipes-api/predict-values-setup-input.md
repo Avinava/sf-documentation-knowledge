@@ -5,12 +5,10 @@ topic: predict-values-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.846Z
+lastCollected: 2026-04-07T18:39:18.570Z
 estimatedTokens: 103
-keywords: [Predict, Setup, Input, node]
+keywords: [Predict, Setup, node]
 ---
-
-# Predict Values Setup Input
 
 > The setup for a predict values node field.
 

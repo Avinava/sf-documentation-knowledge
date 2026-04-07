@@ -5,12 +5,10 @@ topic: permanently-delete-datasets-and-alignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.655Z
+lastCollected: 2026-04-07T18:38:10.913Z
 estimatedTokens: 654
-keywords: [Permanently, Datasets, Alignments, DoCleanup, Apex, removes, cleans, user, already, deleted, Territory, Planning, Data, reduce, size]
+keywords: [Permanently, Datasets, Alignments, DoCleanup, Apex, removes, cleans, user, already, deleted, Territory, Planning, reduce, size, improve, load, time, performance, Sample, Code]
 ---
-
-# Permanently Delete Datasets and Alignments
 
 > The DoCleanup() Apex method
             permanently removes, or cleans up, datasets and related alignments that a user already

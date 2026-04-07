@@ -5,12 +5,10 @@ topic: files-connect-provider-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.434Z
+lastCollected: 2026-04-07T18:37:16.511Z
 estimatedTokens: 160
 keywords: [Files, Connect, Provider]
 ---
-
-# Files Connect Provider Type
 
 > Information about the Files Connect
                         provider.

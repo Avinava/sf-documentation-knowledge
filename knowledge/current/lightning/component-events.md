@@ -5,12 +5,10 @@ topic: component-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.947Z
+lastCollected: 2026-04-07T18:38:04.046Z
 estimatedTokens: 657
-keywords: [Component, Events, event, fired, instance, handled, containment, hierarchy, receives]
+keywords: [Events, event, fired, instance, handled, containment, hierarchy, receives]
 ---
-
-# Component Events
 
 > A component event is fired from an instance of a component. A component event can be
     handled by the component that fired the event or by a component in the containment hierarchy

@@ -5,13 +5,11 @@ topic: date-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.645Z
+lastCollected: 2026-04-07T18:36:13.950Z
 estimatedTokens: 3769
 namespace: System
-keywords: [Date, primitive, data, Usage, addDays, additionalDays, addMonths, additionalMonths, addYears, additionalYears, day, dayOfYear, daysBetween, secondDate, daysInMonth]
+keywords: [Date, primitive, addDays, additionalDays, addMonths, additionalMonths, addYears, additionalYears, day, dayOfYear, daysBetween, secondDate, daysInMonth, year, month, isLeapYear, isSameDay, dateToCompare, monthsBetween, newInstance, parse, stringDate, today, toStartOfMonth, toStartOfWeek, valueOf, fieldValue, Versioned, Behavior, Changes]
 ---
-
-# Date Class
 
 > Contains methods for the Date primitive data type.
 

@@ -5,12 +5,10 @@ topic: careservicevisitplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.773Z
+lastCollected: 2026-04-07T18:37:46.337Z
 estimatedTokens: 1378
-keywords: [CareServiceVisitPlan, Associates, service, series, visits, planned, part, visit, represented, MaintenancePlan, API, version, 58.0, later, Calls]
+keywords: [CareServiceVisitPlan, Associates, service, series, visits, planned, part, visit, represented, MaintenancePlan, API, 58.0]
 ---
-
-# CareServiceVisitPlan
 
 > Associates a service request with the series of visits that are planned as
          part of that visit. The series of visits is represented using MaintenancePlan. This

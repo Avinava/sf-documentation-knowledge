@@ -5,12 +5,10 @@ topic: get-members-active-segments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.443Z
+lastCollected: 2026-04-07T18:38:08.748Z
 estimatedTokens: 384
-keywords: [Member's, Active, Segments, Retrieve, Data, Cloud, market, loyalty, program, member, part, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Member's, Active, Segments, Retrieve, Cloud, market, loyalty, program, member, part, REST, HTTP]
 ---
-
-# Get Member's Active Segments
 
 > Retrieve active Data Cloud market segments that a loyalty program
    member is a part of.

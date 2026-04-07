@@ -5,12 +5,10 @@ topic: plannedgiftannuityrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.505Z
+lastCollected: 2026-04-07T18:38:21.355Z
 estimatedTokens: 882
-keywords: [PlannedGiftAnnuityRate, rate, calculate, payments, charitable, gift, annuity, API, version, 64.0, later, Calls, Special, Access, Rules]
+keywords: [PlannedGiftAnnuityRate, rate, calculate, payments, charitable, gift, annuity, API, 64.0]
 ---
-
-# PlannedGiftAnnuityRate
 
 > The rate used to calculate payments for a charitable gift annuity. This
       object is available in API version 64.0 and later.

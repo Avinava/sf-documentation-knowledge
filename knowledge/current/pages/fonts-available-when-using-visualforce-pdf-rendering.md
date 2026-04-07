@@ -5,12 +5,10 @@ topic: fonts-available-when-using-visualforce-pdf-rendering
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.577Z
+lastCollected: 2026-04-07T18:38:51.879Z
 estimatedTokens: 394
-keywords: [Fonts, Visualforce, PDF, Rendering, supports, limited, ensure, output, renders, expect, font, sans-serif, Testing]
+keywords: [Fonts, Visualforce, PDF, Rendering, supports, limited, ensure, renders, expect, font, sans-serif, Testing]
 ---
-
-# Fonts Available When Using Visualforce PDF Rendering
 
 > Visualforce PDF rendering supports a limited set of fonts. To ensure that PDF output
         renders as you expect, use the supported font names. The default font is sans-serif.

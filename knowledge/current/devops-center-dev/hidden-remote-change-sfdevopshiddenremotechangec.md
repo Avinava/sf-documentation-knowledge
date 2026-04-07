@@ -5,12 +5,10 @@ topic: hidden-remote-change-sfdevopshiddenremotechangec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.576Z
+lastCollected: 2026-04-07T18:37:28.619Z
 estimatedTokens: 796
-keywords: [Hidden, Remote, Change, sf_devops__Hidden_Remote_Change__c, hide, record, work, item, sample, case, feature, branch, associated, forceignore, file]
+keywords: [Hidden, Remote, Change, sf_devops__Hidden_Remote_Change__c, hide, record, work, item, sample, case, feature, branch, forceignore, file, excludes, metadata, represented, How, DevOps, Center, Keeps, Track, User, Changes, orgs, installed, _devops, _Hidden, _Remote, _Change]
 ---
-
-# Hidden Remote Change (sf_devops__Hidden_Remote_Change__c)
 
 > Used to hide a Remote Change record from a work item. A sample use case is
          when a feature branch associated with the work item has a .forceignore file that excludes the metadata represented by the Remote Change

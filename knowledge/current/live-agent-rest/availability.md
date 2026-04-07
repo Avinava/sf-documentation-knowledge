@@ -5,12 +5,10 @@ topic: availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.077Z
+lastCollected: 2026-04-07T18:38:06.333Z
 estimatedTokens: 213
 keywords: [Availability, whether, chat, button, receive, new, requests]
 ---
-
-# Availability
 
 > Indicates whether a chat button is available
 to receive new chat requests.

@@ -5,12 +5,10 @@ topic: healthcareprovidertaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.344Z
+lastCollected: 2026-04-07T18:37:46.961Z
 estimatedTokens: 1404
-keywords: [HealthcareProviderTaxonomy, taxonomy, subspecialty, codes, practitioner, facility, provider, multiple, taxonomies, Calls, Associated, Objects]
+keywords: [HealthcareProviderTaxonomy, taxonomy, subspecialty, codes, practitioner, facility, provider, multiple, taxonomies]
 ---
-
-# HealthcareProviderTaxonomy
 
 > Represents taxonomy or subspecialty codes for a practitioner or
       facility. A provider or facility can have multiple taxonomies.

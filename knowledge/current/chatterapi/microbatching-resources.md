@@ -5,12 +5,10 @@ topic: microbatching-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.596Z
+lastCollected: 2026-04-07T18:37:14.613Z
 estimatedTokens: 124
 keywords: [Microbatching, Resources, Ingest, records, errors, resubmit, error]
 ---
-
-# Microbatching Resources
 
 > Ingest microbatching records. Get and delete microbatching errors and resubmit
       microbatching error records.

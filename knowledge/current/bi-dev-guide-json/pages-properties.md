@@ -5,12 +5,10 @@ topic: pages-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.636Z
+lastCollected: 2026-04-07T18:36:54.008Z
 estimatedTokens: 286
 keywords: [pages, key, determine, placement, widget, dashboard, layout, Currently, designer, supports]
 ---
-
-# pages Properties
 
 > The pages key contains properties that determine
     the placement of each widget in the dashboard layout. Currently, dashboard designer supports

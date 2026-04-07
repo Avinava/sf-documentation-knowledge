@@ -5,12 +5,10 @@ topic: commerce-b2b-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.971Z
+lastCollected: 2026-04-07T18:37:11.786Z
 estimatedTokens: 4929
-keywords: [Commerce, B2B, Resources, Look, order, summary, including, line, items, relevant, amount, Address, Management, Cart, Checkout]
+keywords: [Cart, Checkout, Context, Extensions, Import, Taxes, Wishlists, Commerce, B2B, Resources, Look, order, summary, including, line, items, relevant, amount, Address, Management, Analytics, Subscriptions, Externally, Managed, Accounts, Goals, Actions, Profile, Composite, Products, Product, Categories, Searches, Prices, Promotions, Search, Settings]
 ---
-
-# Commerce B2B Resources
 
 > Look up details about an order summary, including its line items and
       relevant order amount fields.

@@ -5,13 +5,11 @@ topic: reports-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.761Z
+lastCollected: 2026-04-07T18:36:15.073Z
 estimatedTokens: 3464
 namespace: Reports
-keywords: [Reports, classes, accessing, data, Salesforce, Dashboards, REST, API]
+keywords: [Reports, classes, accessing, Salesforce, Dashboards, REST, API]
 ---
-
-# Reports Namespace
 
 > The Reports namespace provides classes for
         accessing the same data as is available in the Salesforce Reports and Dashboards REST

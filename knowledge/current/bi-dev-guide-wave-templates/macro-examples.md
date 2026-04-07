@@ -5,12 +5,10 @@ topic: macro-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.514Z
+lastCollected: 2026-04-07T18:37:02.122Z
 estimatedTokens: 175
-keywords: [Macro, Examples, show, structure, macros, rules]
+keywords: [Macro, Examples, show, structure, macros]
 ---
-
-# Macro Examples
 
 > The following examples show the structure and syntax of macros in rules.
 

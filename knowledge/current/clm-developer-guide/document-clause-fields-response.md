@@ -5,12 +5,10 @@ topic: document-clause-fields-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.180Z
+lastCollected: 2026-04-07T18:37:25.132Z
 estimatedTokens: 99
-keywords: [Document, Clause, Output, representation]
+keywords: [Document, Clause]
 ---
-
-# Document Clause Fields Response
 
 > Output representation for the list of document clause
     fields.

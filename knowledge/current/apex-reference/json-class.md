@@ -5,13 +5,11 @@ topic: json-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.801Z
+lastCollected: 2026-04-07T18:36:01.090Z
 estimatedTokens: 2681
 namespace: System
-keywords: [JSON, Suppresses, serializing, Apex, objects, content, Usage, createGenerator, prettyPrint, createParser, jsonString, deserialize, apexType, deserializeStrict, deserializeUntyped]
+keywords: [JSON, Suppresses, serializing, Apex, content, createGenerator, prettyPrint, createParser, jsonString, deserialize, apexType, deserializeStrict, deserializeUntyped, serialize, objectToSerialize, suppressApexObjectNulls, serializePretty]
 ---
-
-# JSON Class
 
 > Suppresses null values when
          serializing Apex objects into JSON content.

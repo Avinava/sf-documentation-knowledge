@@ -5,12 +5,10 @@ topic: carepreauthhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.842Z
+lastCollected: 2026-04-07T18:39:32.211Z
 estimatedTokens: 258
-keywords: [CarePreauthHistory, History, tracked, CarePreauth]
+keywords: [CarePreauthHistory, tracked, CarePreauth]
 ---
-
-# CarePreauthHistory
 
 > History for tracked fields of CarePreauth.
 

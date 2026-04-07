@@ -5,12 +5,10 @@ topic: smart-data-discovery-model-field-text-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.216Z
+lastCollected: 2026-04-07T18:36:58.716Z
 estimatedTokens: 145
-keywords: [Smart, Data, Discovery, Model, Text, Input, Einstein]
+keywords: [Smart, Discovery, Model, Text, Einstein]
 ---
-
-# Smart Data Discovery Model Field Text Input
 
 > The Einstein Discovery text model field create or update.
 

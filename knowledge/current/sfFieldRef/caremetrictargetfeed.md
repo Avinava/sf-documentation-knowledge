@@ -5,12 +5,10 @@ topic: caremetrictargetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.460Z
+lastCollected: 2026-04-07T18:39:31.830Z
 estimatedTokens: 389
-keywords: [CareMetricTargetFeed, Feed, tracking, CareMetricTarget]
+keywords: [CareMetricTargetFeed, CareMetricTarget]
 ---
-
-# CareMetricTargetFeed
 
 > Feed tracking for CareMetricTarget.
 

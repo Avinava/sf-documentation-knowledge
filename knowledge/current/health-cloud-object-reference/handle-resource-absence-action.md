@@ -5,12 +5,10 @@ topic: handle-resource-absence-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.638Z
+lastCollected: 2026-04-07T18:37:39.585Z
 estimatedTokens: 340
-keywords: [Handle, Resource, Absence, Action, Remove, service, resource’s, visit, assignments, period, optionally, status, affected, visits, Special]
+keywords: [Inputs, Outputs, Handle, Resource, Absence, Action, Remove, service, resource’s, visit, assignments, period, optionally, status, affected, visits, REST, HTTP]
 ---
-
-# Handle Resource Absence Action
 
 > Remove a service resource’s visit assignments for a specified period
 			and optionally update the status of the affected visits to a specified

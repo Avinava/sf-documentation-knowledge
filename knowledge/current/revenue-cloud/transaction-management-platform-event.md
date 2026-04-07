@@ -5,12 +5,10 @@ topic: transaction-management-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:03.049Z
+lastCollected: 2026-04-07T18:35:48.092Z
 estimatedTokens: 587
 keywords: [Transaction, Management, Platform, Event, QuoteSaveEvent, notify, subscribers, saving, quote, processed]
 ---
-
-# Transaction Management Platform Event
 
 > Use the QuoteSaveEvent event to notify subscribers after saving of a quote is
   processed.

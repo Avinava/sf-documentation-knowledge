@@ -5,12 +5,10 @@ topic: connectapi-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.654Z
+lastCollected: 2026-04-07T18:37:52.855Z
 estimatedTokens: 492
-keywords: [ConnectApi, Output, Classes, instances]
+keywords: [ConnectApi, Classes, instances]
 ---
-
-# ConnectApi Output Classes
 
 > Most ConnectApi methods return instances of
       ConnectApi output classes.

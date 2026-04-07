@@ -5,12 +5,10 @@ topic: variablesjson-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.152Z
+lastCollected: 2026-04-07T18:37:02.692Z
 estimatedTokens: 772
 keywords: [variables.json, Attributes, Named, nodes, representing, variable, node, variableType]
 ---
-
-# variables.json Attributes
 
 > Named nodes, each representing a single variable. Each node contains the following
     attributes:

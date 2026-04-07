@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-lead
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.508Z
+lastCollected: 2026-04-07T18:36:52.918Z
 estimatedTokens: 231
 keywords: [Automotive, Cloud, Lead, Standard, extend, represent, time, frame, interested, transaction]
 ---
-
-# Automotive Cloud Fields on Lead
 
 > Standard fields extend the Lead object for use in Automotive Cloud to
          represent information about the time frame during which a lead is interested in a

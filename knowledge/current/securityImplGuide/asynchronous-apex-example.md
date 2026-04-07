@@ -5,12 +5,10 @@ topic: asynchronous-apex-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.369Z
+lastCollected: 2026-04-07T18:39:22.259Z
 estimatedTokens: 606
 keywords: [Asynchronous, Apex, executing, transaction, security, policy, process, offload, time-consuming, operations, sending, notification, email, external, recipient]
 ---
-
-# Asynchronous Apex  Example
 
 > When
     executing a transaction security policy, use an asynchronous Apex process to offload

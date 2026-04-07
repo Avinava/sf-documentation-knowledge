@@ -5,12 +5,9 @@ topic: custom-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.582Z
+lastCollected: 2026-04-07T18:37:41.698Z
 estimatedTokens: 156
-keywords: [Custom, output, representation]
 ---
-
-# Custom Field Value
 
 > The output representation of the custom field values.
 

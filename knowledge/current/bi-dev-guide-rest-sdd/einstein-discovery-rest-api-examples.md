@@ -5,12 +5,10 @@ topic: einstein-discovery-rest-api-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:11.842Z
+lastCollected: 2026-04-07T18:36:58.372Z
 estimatedTokens: 733
-keywords: [Einstein, Discovery, REST, API, Examples, perform, tasks, Considerations]
+keywords: [Considerations, Einstein, Discovery, REST, API, Examples, perform, tasks]
 ---
-
-# Einstein Discovery REST API Examples
 
 > Use Einstein Discovery REST API examples to perform tasks.
 

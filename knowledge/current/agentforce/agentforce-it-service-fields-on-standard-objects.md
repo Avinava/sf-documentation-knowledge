@@ -5,12 +5,10 @@ topic: agentforce-it-service-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.945Z
+lastCollected: 2026-04-07T18:35:55.046Z
 estimatedTokens: 319
-keywords: [Agentforce, Service, Standard, Objects, adds, Salesforce, represent, specific, issues, requests, orgs, enabled]
+keywords: [Agentforce, Service, Standard, adds, Salesforce, represent, specific, issues, requests, orgs, enabled]
 ---
-
-# Agentforce IT Service Fields on Standard Objects
 
 > Agentforce IT Service adds standard fields to some standard Salesforce objects to
     represent information specific to IT issues and service requests. These fields are available

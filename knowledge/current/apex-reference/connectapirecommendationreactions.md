@@ -5,12 +5,10 @@ topic: connectapirecommendationreactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.960Z
+lastCollected: 2026-04-07T18:36:10.252Z
 estimatedTokens: 112
 keywords: [ConnectApi.RecommendationReactions, recommendation, reactions]
 ---
-
-# ConnectApi.RecommendationReactions
 
 > A list of recommendation reactions.
 

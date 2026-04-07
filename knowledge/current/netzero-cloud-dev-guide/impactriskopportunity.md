@@ -5,12 +5,10 @@ topic: impactriskopportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.243Z
+lastCollected: 2026-04-07T18:38:18.855Z
 estimatedTokens: 2015
-keywords: [ImpactRiskOpportunity, impact, risk, opportunity, evaluated, scored, part, organization's, double-materiality, assessment, known, IRO, API, version, 63.0]
+keywords: [ImpactRiskOpportunity, impact, risk, opportunity, evaluated, scored, part, organization's, double-materiality, assessment, known, IRO, API, 63.0]
 ---
-
-# ImpactRiskOpportunity
 
 > Represents an impact, risk, or opportunity that can be evaluated and scored
          as a part of an organization's double-materiality assessment. Also known as an IRO.

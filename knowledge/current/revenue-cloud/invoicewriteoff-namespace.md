@@ -5,13 +5,11 @@ topic: invoicewriteoff-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.978Z
+lastCollected: 2026-04-07T18:35:41.839Z
 estimatedTokens: 505
 namespace: InvoiceWriteOff
-keywords: [InvoiceWriteOff, credit, memos, total, charge, amount, invoice, write-off, close, Usage]
+keywords: [InvoiceWriteOff, credit, memos, total, charge, amount, invoice, write-off, close]
 ---
-
-# InvoiceWriteOff Namespace
 
 > Create credit memos with the total charge amount on the invoice as the write-off amount
     and close the invoice.

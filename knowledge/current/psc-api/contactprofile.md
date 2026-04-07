@@ -5,12 +5,10 @@ topic: contactprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.915Z
+lastCollected: 2026-04-07T18:39:08.168Z
 estimatedTokens: 1075
-keywords: [ContactProfile, individual, their, ethnicity, citizenship, birth, place, race, Calls, Associated, Objects]
+keywords: [ContactProfile, individual, their, ethnicity, citizenship, birth, place, race]
 ---
-
-# ContactProfile
 
 > Represents information about an individual, such as their ethnicity,
          citizenship, birth place, race, and so on.

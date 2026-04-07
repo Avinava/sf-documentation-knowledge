@@ -5,12 +5,10 @@ topic: clinicalmeasurecriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:57.905Z
+lastCollected: 2026-04-07T18:37:46.484Z
 estimatedTokens: 1008
-keywords: [ClinicalMeasureCriteria, computable, criteria, health-related, measure, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [ClinicalMeasureCriteria, computable, criteria, health-related, measure, API, 59.0]
 ---
-
-# ClinicalMeasureCriteria
 
 > Represents a computable criteria of a health-related measure. This object is
          available in API version 59.0 and later.

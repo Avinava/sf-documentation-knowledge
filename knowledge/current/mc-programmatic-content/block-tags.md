@@ -5,12 +5,10 @@ topic: block-tags
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.942Z
+lastCollected: 2026-04-07T18:40:22.321Z
 estimatedTokens: 57
 keywords: [Block, Tags, contain, several, lines, shown]
 ---
-
-# Block Tags
 
 > Block tags contain several lines between the tags, as shown in this example:
 

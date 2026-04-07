@@ -5,12 +5,10 @@ topic: search-for-metadata-elements-of-a-primary-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.607Z
+lastCollected: 2026-04-07T18:37:53.894Z
 estimatedTokens: 89
-keywords: [Search, Metadata, Elements, Primary, Version, Searches, online, article]
+keywords: [Search, Metadata, Primary, Searches, online, article]
 ---
-
-# Search for Metadata Elements of a Primary Version
 
 > Searches for metadata elements of the online primary version of an article.
 

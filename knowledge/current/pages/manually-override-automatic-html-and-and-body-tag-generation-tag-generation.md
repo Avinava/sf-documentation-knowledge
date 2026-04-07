@@ -6,13 +6,10 @@ topic: manually-override-automatic-html-and-and-body-tag-generation-tag-generati
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.259Z
+lastCollected: 2026-04-07T18:38:51.514Z
 estimatedTokens: 732
-keywords: [Manually, Override, Automatic, <html>, <body>, Tag, Generation, applyHtmlTag, applyBodyTag, attributes, <apex, page>, suppress, tags, favor]
+keywords: [Manually, Override, Automatic, <html>, <body>, Tag, Generation, applyHtmlTag, applyBodyTag, attributes, <apex, page>, suppress, tags, favor, markup, add, yourself]
 ---
-
-# Manually Override Automatic  <html> and and <body> Tag Generation Tag
-            Generation
 
 > Use the applyHtmlTag and applyBodyTag attributes of the <apex:page> tag to suppress the automatic generation
         of <html> and <body> tags, in favor of static markup you add to the page

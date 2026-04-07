@@ -5,12 +5,10 @@ topic: submit-your-solution-for-a-follow-up-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.767Z
+lastCollected: 2026-04-07T18:38:47.721Z
 estimatedTokens: 1491
-keywords: [Submit, Solution, Follow-Up, AppExchange, Security, Review, team, found, vulnerabilities, isn’t, approved, distribution, It’s, result, hoped]
+keywords: [Submit, Solution, Follow-Up, AppExchange, Security, Review, team, found, vulnerabilities, isn’t, approved, distribution, It’s, result, hoped, you’re, good, company, solutions, don’t, pass, try, Fix]
 ---
-
-# Submit Your Solution for a Follow-Up AppExchange Security Review
 
 > The security review of your solution is complete, but our security team found security
   vulnerabilities. Your solution isn’t approved for distribution on AppExchange. It’s not the result

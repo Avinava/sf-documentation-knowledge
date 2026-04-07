@@ -5,12 +5,10 @@ topic: apexscontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.343Z
+lastCollected: 2026-04-07T18:38:50.580Z
 estimatedTokens: 466
-keywords: [apex, scontrol, inline, frame, displays, s-control, Attributes]
+keywords: [Attributes, apex, scontrol, inline, frame, displays, s-control]
 ---
-
-# apex:scontrol
 
 > An inline frame that displays an s-control.
 

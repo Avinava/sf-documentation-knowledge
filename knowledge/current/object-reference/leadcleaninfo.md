@@ -5,12 +5,10 @@ topic: leadcleaninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:42.964Z
+lastCollected: 2026-04-07T18:38:34.159Z
 estimatedTokens: 3647
 keywords: [LeadCleanInfo, Stores, metadata, Data.com, Clean, uses, determine, lead, record’s, status, Helps, automate, cleaning, processing, records]
 ---
-
-# LeadCleanInfo
 
 > Stores the metadata Data.com Clean uses to determine a lead
       record’s clean status. Helps you automate the cleaning or related processing of lead

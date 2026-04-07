@@ -5,12 +5,10 @@ topic: retrievalsummarydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.831Z
+lastCollected: 2026-04-07T18:36:29.311Z
 estimatedTokens: 1373
-keywords: [RetrievalSummaryDefinition, metadata, stores, retrieval, definition, configuration, data, patterns, summarizing, records, across, relationships, Parent, File, Suffix]
+keywords: [RetrievalSummaryDefinition, RetrievalSummaryDefField, RetrievalSummaryDefObject, metadata, stores, retrieval, definition, configuration, patterns, summarizing, records, across, relationships, Parent, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---
-
-# RetrievalSummaryDefinition
 
 > Represents a metadata type that stores the header information of a retrieval definition.
 		It enables the configuration of data retrieval patterns for summarizing related records

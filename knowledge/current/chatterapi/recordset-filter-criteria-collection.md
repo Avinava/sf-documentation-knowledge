@@ -5,12 +5,10 @@ topic: recordset-filter-criteria-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.541Z
+lastCollected: 2026-04-07T18:37:22.650Z
 estimatedTokens: 86
 keywords: [Recordset, Filter, Criteria, Collection, record, IDs, filtered]
 ---
-
-# Recordset Filter Criteria Collection
 
 > List of record IDs of the filtered object.
 

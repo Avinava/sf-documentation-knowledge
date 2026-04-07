@@ -5,12 +5,10 @@ topic: privacyobjectsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.250Z
+lastCollected: 2026-04-07T18:39:54.809Z
 estimatedTokens: 571
-keywords: [PrivacyObjectSession, status, processed, past, ongoing, scheduled, policy, jobs, Privacy, Center, API, version, 59.0, later]
+keywords: [PrivacyObjectSession, status, processed, past, ongoing, scheduled, policy, jobs, Privacy, Center, API, 59.0]
 ---
-
-# PrivacyObjectSession
 
 > Represents the status of each object being processed in past, ongoing, and
          scheduled policy jobs in Privacy Center. This object is available in API version 59.0

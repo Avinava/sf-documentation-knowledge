@@ -5,12 +5,10 @@ topic: recordsetfiltercriteriafeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.439Z
+lastCollected: 2026-04-07T18:39:59.100Z
 estimatedTokens: 364
-keywords: [RecordsetFilterCriteriaFeed, Feed, tracking, RecordsetFilterCriteria]
+keywords: [RecordsetFilterCriteriaFeed, RecordsetFilterCriteria]
 ---
-
-# RecordsetFilterCriteriaFeed
 
 > Feed tracking for RecordsetFilterCriteria.
 

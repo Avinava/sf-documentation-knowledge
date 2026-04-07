@@ -5,12 +5,10 @@ topic: learningpractice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.096Z
+lastCollected: 2026-04-07T18:38:34.298Z
 estimatedTokens: 894
-keywords: [LearningPractice, Feedback, exercise, Enablement, program, Users, submit, sample, their, work, peers, managers, video, call, Einstein]
+keywords: [LearningPractice, Feedback, exercise, Enablement, program, Users, submit, sample, their, work, peers, managers, video, call, Einstein, Coach, generates, call’s, transcription, API, 59.0, 61.0]
 ---
-
-# LearningPractice
 
 > Represents a Feedback Request exercise in an Enablement program.
          Users can submit a sample of their work and request feedback from their peers and managers.

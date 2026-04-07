@@ -5,12 +5,10 @@ topic: yeardaysdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.392Z
+lastCollected: 2026-04-07T18:37:00.963Z
 estimatedTokens: 23
 keywords: [year_days, date, number, days, year, specific, _days]
 ---
-
-# year_days(date)
 
 > Returns the number of days in the year for a specific date.
 

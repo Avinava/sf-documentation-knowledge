@@ -5,12 +5,10 @@ topic: access-external-data-with-data-access-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.184Z
+lastCollected: 2026-04-07T18:37:28.223Z
 estimatedTokens: 306
-keywords: [Access, External, Data, Objects, running, Loader, batch, mode, command, line, several, source, outside, Salesforce, implement]
+keywords: [External, running, Loader, batch, mode, command, line, several, source, outside, Salesforce, implement, DataReader, write, DataWriter]
 ---
-
-# Access External Data with Data Access Objects
 
 > When running Data Loader in batch mode from the command line, several data access
     objects are supported.  allows access to an external data source outside of Salesforce. A data

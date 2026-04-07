@@ -5,12 +5,10 @@ topic: implementing-mobile-identity-provider-apps-without-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.762Z
+lastCollected: 2026-04-07T18:40:25.154Z
 estimatedTokens: 1603
-keywords: [Implementing, Mobile, Identity, Provider, Apps, SDK, own, website, hosts, connect, Salesforce, configure, provide, services, Users]
+keywords: [Implementing, Mobile, Identity, Provider, Apps, SDK, own, website, hosts, connect, Salesforce, configure, provide, services, Users, hosted, enjoy, sign-on, ease, their, host, adopt, service, native, take, answers, yes, it's, difficult, define, providers, either, two, ways, article, gives, instructions, creating, clients, Configuration, Authentication, Flow, Handle, Authorization, App, Send, Code, IdP, Calling, Error, Handling]
 ---
-
-# Implementing Mobile Identity Provider Apps Without Mobile SDK
 
 > If you own a website that hosts apps that connect to Salesforce, you can configure Salesforce to provide identity
     services for those apps. Users of the hosted apps can then enjoy single sign-on ease through

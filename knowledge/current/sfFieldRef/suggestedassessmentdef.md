@@ -5,12 +5,10 @@ topic: suggestedassessmentdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.377Z
+lastCollected: 2026-04-07T18:40:03.067Z
 estimatedTokens: 337
-keywords: [SuggestedAssessmentDef, Stores, suggested, assessments, API, version, 60.0, later]
+keywords: [SuggestedAssessmentDef, Stores, suggested, assessments, API, 60.0]
 ---
-
-# SuggestedAssessmentDef
 
 > Stores information about suggested assessments. This object is available
       in API version 60.0 and later.

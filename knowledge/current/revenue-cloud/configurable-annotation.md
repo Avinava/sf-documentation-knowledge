@@ -5,12 +5,10 @@ topic: configurable-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.370Z
+lastCollected: 2026-04-07T18:35:42.236Z
 estimatedTokens: 1152
-keywords: [configurable, Annotation, CML, whether, model, element, configured, Configurator, Result]
+keywords: [configurable, Annotation, CML, whether, model, configured, Configurator, Result]
 ---
-
-# configurable Annotation
 
 > configurable is a CML annotation that controls whether
     a model element can be configured.

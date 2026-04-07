@@ -5,12 +5,10 @@ topic: vpl360ordercancellationnonsignature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.834Z
+lastCollected: 2026-04-07T18:38:11.104Z
 estimatedTokens: 133
-keywords: [VPL360_OrderCancellationNonSignature, Integration, Procedure, removes, non, assets, applied, promotions, VPL360, _OrderCancellationNonSignature, Sample, Input, Output, Calls]
+keywords: [VPL360_OrderCancellationNonSignature, Integration, Procedure, removes, non, assets, applied, promotions, VPL360, _OrderCancellationNonSignature, Sample]
 ---
-
-# VPL360_OrderCancellationNonSignature
 
 > This Integration Procedure removes non signature assets
       with applied promotions.

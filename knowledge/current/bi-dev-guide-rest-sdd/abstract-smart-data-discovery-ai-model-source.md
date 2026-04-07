@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-ai-model-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.743Z
+lastCollected: 2026-04-07T18:36:59.244Z
 estimatedTokens: 213
-keywords: [Abstract, Smart, Data, Discovery, Model, Source, base, Einstein, prediction]
+keywords: [Abstract, Smart, Discovery, Model, Source, base, Einstein, prediction]
 ---
-
-# Abstract Smart Data Discovery AI Model Source
 
 > The base Einstein Discovery AI model prediction property.
 

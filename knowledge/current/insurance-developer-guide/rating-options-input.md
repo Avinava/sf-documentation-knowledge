@@ -5,12 +5,10 @@ topic: rating-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.354Z
+lastCollected: 2026-04-07T18:37:51.370Z
 estimatedTokens: 249
-keywords: [Rating, Options, Input, representation, service]
+keywords: [Rating, Options, service]
 ---
-
-# Rating Options Input
 
 > Input representation details of rating service options.
 

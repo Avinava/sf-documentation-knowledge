@@ -5,12 +5,10 @@ topic: conversation-bulk-upload-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.920Z
+lastCollected: 2026-04-07T18:37:17.989Z
 estimatedTokens: 295
 keywords: [Conversation, Bulk, Upload, Status]
 ---
-
-# Conversation Bulk Upload Status
 
 > Status of the bulk upload of a conversation.
 

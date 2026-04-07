@@ -5,12 +5,10 @@ topic: get-contactsv1contactsanalyticsdeleterequestssummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.908Z
+lastCollected: 2026-04-07T18:40:14.928Z
 estimatedTokens: 675
-keywords: [contacts, analytics, deleterequests, summary, Retrieves, contact, requests, date, range, **Overview**, Usage]
+keywords: [contacts, analytics, deleterequests, summary, Retrieves, contact, requests, date, range, **Overview**]
 ---
-
-# GET /contacts/v1/contacts/analytics/deleterequests/summary
 
 > Retrieves a summary of contact delete requests for a date range.
 

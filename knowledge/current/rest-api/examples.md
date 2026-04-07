@@ -5,12 +5,10 @@ topic: examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.827Z
+lastCollected: 2026-04-07T18:36:20.046Z
 estimatedTokens: 1184
-keywords: [Examples, REST, API, resources, variety, different, tasks, including, working, objects, organization, queries]
+keywords: [Examples, REST, API, resources, variety, different, tasks, including, working, organization, queries]
 ---
-
-# Examples
 
 > This section provides examples of using REST API resources to do a variety of different tasks,
    including working with objects, organization information, and queries.

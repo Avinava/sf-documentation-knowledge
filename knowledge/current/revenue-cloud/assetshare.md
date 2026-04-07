@@ -5,12 +5,10 @@ topic: assetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.357Z
+lastCollected: 2026-04-07T18:35:48.402Z
 estimatedTokens: 853
-keywords: [AssetShare, sharing, entry, Asset, API, version, 33.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [AssetShare, sharing, entry, Asset, API, 33.0]
 ---
-
-# AssetShare
 
 > Represents a sharing entry on an Asset. This object is available
       in API version 33.0 and later.

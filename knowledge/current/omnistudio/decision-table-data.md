@@ -5,12 +5,10 @@ topic: decision-table-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.593Z
+lastCollected: 2026-04-07T18:36:39.286Z
 estimatedTokens: 108
-keywords: [Decision, Data, Output, representation, status, action, performed]
+keywords: [Decision, status, action, performed]
 ---
-
-# Decision Table Data
 
 > Output representation of the status of an action performed.
 

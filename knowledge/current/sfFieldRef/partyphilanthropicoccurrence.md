@@ -5,12 +5,10 @@ topic: partyphilanthropicoccurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.951Z
+lastCollected: 2026-04-07T18:39:52.374Z
 estimatedTokens: 499
-keywords: [PartyPhilanthropicOccurrence, xxx, API, version, XX.0, later]
+keywords: [PartyPhilanthropicOccurrence, xxx, API, XX.0]
 ---
-
-# PartyPhilanthropicOccurrence
 
 > xxx This object is available in API version XX.0 and later.
 

@@ -5,12 +5,10 @@ topic: envelope-recipient-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.722Z
+lastCollected: 2026-04-07T18:37:24.706Z
 estimatedTokens: 373
-keywords: [Envelope, Recipient, Input]
+keywords: [Envelope, Recipient]
 ---
-
-# Envelope Recipient Details Input
 
 > Input to get recipient details.
 

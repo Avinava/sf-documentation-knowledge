@@ -5,12 +5,10 @@ topic: include-an-rss-feed-in-an-email-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.358Z
+lastCollected: 2026-04-07T18:40:22.773Z
 estimatedTokens: 1055
-keywords: [Include, RSS, Feed, Email, Message, AMPscript, pull, content, put, presents, XML-based, showcases, latest, articles, published]
+keywords: [Prerequisites, Scenario, Include, RSS, Email, Message, AMPscript, pull, content, put, presents, XML-based, showcases, latest, articles, published, website, RSS-enabled, source, take, send, sure, Sample]
 ---
-
-# Include an RSS Feed in an Email Message
 
 > Use AMPscript to pull content from an RSS feed and put that content into an email message. RSS presents an XML-based list that showcases the latest articles published on a website or other RSS-enabled content source. Use AMPscript to take the information from an RSS feed during the send to make sure
 

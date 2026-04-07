@@ -5,12 +5,10 @@ topic: rendercontext-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.078Z
+lastCollected: 2026-04-07T18:35:59.356Z
 estimatedTokens: 103
 keywords: [RenderContext]
 ---
-
-# RenderContext Methods
 
 > The following are methods for RenderContext.
 

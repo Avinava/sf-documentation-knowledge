@@ -5,12 +5,10 @@ topic: embeddedserviceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:39.850Z
+lastCollected: 2026-04-07T18:36:25.317Z
 estimatedTokens: 3851
-keywords: [EmbeddedServiceConfig, setup, node, creating, Embedded, Service, Web, deployment, extends, Metadata, inherits, fullName, Parent, File, Suffix]
+keywords: [EmbeddedServiceConfig, EmbeddedServiceAppointmentSettings, EmbeddedServiceCustomComponent, EmbeddedServiceCustomLabel, EmbeddedServiceCustomization, EmbeddedServiceForm, EmbeddedServiceFormField, EmbeddedServiceResource, EmbeddedServiceFlow, EmbeddedServiceFlowConfig, EmbeddedServiceLayout, EmbeddedServiceLayoutRule, setup, node, creating, Embedded, Service, Web, deployment, extends, Metadata, inherits, fullName, Parent, File, Suffix, Directory, Location, embeddedServiceMessagingChannel, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EmbeddedServiceConfig
 
 > Represents a setup node for creating an Embedded
     Service for Web deployment. This type extends the Metadata metadata type and inherits its 

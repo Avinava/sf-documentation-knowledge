@@ -5,12 +5,10 @@ topic: processdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.089Z
+lastCollected: 2026-04-07T18:38:38.468Z
 estimatedTokens: 468
-keywords: [ProcessDefinition, definition, approval, process, Calls, Usage]
+keywords: [ProcessDefinition, definition, approval, process]
 ---
-
-# ProcessDefinition
 
 > Represents the definition of a single approval process.
 

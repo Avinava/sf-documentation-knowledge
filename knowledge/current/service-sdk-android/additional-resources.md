@@ -5,12 +5,10 @@ topic: additional-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:32.694Z
+lastCollected: 2026-04-07T18:40:27.839Z
 estimatedTokens: 592
 keywords: [Additional, Resources, you’re, looking, check, links, documentation]
 ---
-
-# Additional Resources
 
 > If you’re looking for other resources, check out this list of
             links to related documentation.

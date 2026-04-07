@@ -5,12 +5,10 @@ topic: create-the-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.768Z
+lastCollected: 2026-04-07T18:38:57.575Z
 estimatedTokens: 1039
-keywords: [App, Heroku, “hello, world”, associated, canvas, Salesforce]
+keywords: [App, Heroku, “hello, world”, canvas, Salesforce]
 ---
-
-# Create the App
 
 > Create the Heroku “hello world” app and the
     associated canvas app in Salesforce.

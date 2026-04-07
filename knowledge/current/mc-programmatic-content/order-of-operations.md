@@ -5,12 +5,10 @@ topic: order-of-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.248Z
+lastCollected: 2026-04-07T18:40:22.662Z
 estimatedTokens: 49
 keywords: [Order, Operations, AMPscript, processes, functions]
 ---
-
-# Order of Operations
 
 > AMPscript processes functions in this order:
 

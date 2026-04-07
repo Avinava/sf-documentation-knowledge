@@ -5,12 +5,10 @@ topic: assign-channel-order-app-permission-sets-and-accept-the-email-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.533Z
+lastCollected: 2026-04-07T18:38:46.396Z
 estimatedTokens: 453
-keywords: [Assign, Channel, Order, App, Permission, Accept, Email, Service, give, team, members, access, COA, org, ready]
+keywords: [Assign, Channel, Order, App, Permission, Accept, Email, Service, give, team, members, COA, org, ready, sync, product, catalog, tasks, COA’s, guided, onboarding, experience]
 ---
-
-# Assign Channel Order App Permission Sets and Accept the Email Service
 
 > Assign a permission set to give team members access to the Channel Order App (COA).
         Accept an email service to get your org ready to sync your product catalog. Complete these

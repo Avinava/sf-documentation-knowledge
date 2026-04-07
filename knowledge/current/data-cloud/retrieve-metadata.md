@@ -5,12 +5,10 @@ topic: retrieve-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.689Z
+lastCollected: 2026-04-07T18:35:51.542Z
 estimatedTokens: 423
-keywords: [Retrieve, Metadata, Data, Cloud, API, includes, entities, including, Calculated, Insights, Engagement, Profile, their, relationships, objects]
+keywords: [Examples, Retrieve, Metadata, Cloud, API, includes, entities, including, Calculated, Insights, Engagement, Profile, their, relationships, Lake, DLOs, Model, DMOs, key, qualifier, DLO, DMO, HTTP, Responses]
 ---
-
-# Retrieve Metadata
 
 > Data Cloud Metadata API response includes metadata about all entities,
     including Calculated Insights, Engagement, Profile, and other entities, and their relationships

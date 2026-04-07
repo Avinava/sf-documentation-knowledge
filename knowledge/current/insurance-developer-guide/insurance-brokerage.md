@@ -5,12 +5,10 @@ topic: insurance-brokerage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.708Z
+lastCollected: 2026-04-07T18:37:52.923Z
 estimatedTokens: 428
-keywords: [Insurance, Brokerage, Brokerages, developer, resources, automate, processes, Policy, Commissions, Management, Invoke, lifecycle, services, Renew, Repurpose]
+keywords: [Insurance, Brokerage, Brokerages, developer, resources, automate, processes, Policy, Commissions, Management, Invoke, lifecycle, services, Renew, Repurpose, Cancel, context, service, Manage, plan, benefits, flexible, layer, Product, Catalog]
 ---
-
-# Insurance Brokerage
 
 > Use the Insurance Brokerages developer resources to automate processes related to Policy
   and Commissions Management. Invoke policy lifecycle services such as Renew, Repurpose, and Cancel

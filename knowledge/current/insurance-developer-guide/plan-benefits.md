@@ -5,12 +5,10 @@ topic: plan-benefits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.004Z
+lastCollected: 2026-04-07T18:37:52.128Z
 estimatedTokens: 90
-keywords: [Plan, Benefits, Output, representation]
+keywords: [Plan, Benefits]
 ---
-
-# Plan Benefits
 
 > Output representation details of the create and update plan benefits
         request.

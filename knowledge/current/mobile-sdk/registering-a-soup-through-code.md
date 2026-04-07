@@ -5,12 +5,10 @@ topic: registering-a-soup-through-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.812Z
+lastCollected: 2026-04-07T18:40:27.039Z
 estimatedTokens: 1479
-keywords: [Registering, Soup, Code, try, access, you’re, register, Hybrid, Apps, Android, Native, iOS]
+keywords: [Registering, Soup, Code, try, you’re, register, Hybrid, Apps, Android, Native, iOS]
 ---
-
-# Registering a Soup through Code
 
 > Before you try to access a soup, you’re required to
             register it.

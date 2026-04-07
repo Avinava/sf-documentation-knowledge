@@ -5,12 +5,10 @@ topic: get-the-event-schema-with-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.037Z
+lastCollected: 2026-04-07T18:38:57.877Z
 estimatedTokens: 320
 keywords: [Event, Schema, REST, API, eventschema, resource, retrieve]
 ---
-
-# Get the Event Schema with REST API
 
 > Use REST API eventschema resource to retrieve the
   event schema by using the event name or the schema ID.

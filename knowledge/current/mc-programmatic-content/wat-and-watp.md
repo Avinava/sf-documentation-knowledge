@@ -5,12 +5,10 @@ topic: wat-and-watp
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.907Z
+lastCollected: 2026-04-07T18:40:24.405Z
 estimatedTokens: 352
-keywords: [WAT, WATP, Function, Ordinal, perform, match, against, replace, tracking, **Overview**, **Syntax**, Usage]
+keywords: [WAT, WATP, Function, Ordinal, perform, match, against, replace, **Overview**, **Syntax**]
 ---
-
-# WAT and WATP
 
 > WAT and WATP(1, 2)
 

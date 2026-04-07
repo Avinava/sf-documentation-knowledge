@@ -5,12 +5,10 @@ topic: connectapinbarecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.967Z
+lastCollected: 2026-04-07T18:36:10.268Z
 estimatedTokens: 303
 keywords: [ConnectApi.NBARecommendation, recommendation, strategy]
 ---
-
-# ConnectApi.NBARecommendation
 
 > A recommendation returned by a recommendation
     strategy.

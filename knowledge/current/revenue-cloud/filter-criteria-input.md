@@ -5,12 +5,10 @@ topic: filter-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.330Z
+lastCollected: 2026-04-07T18:35:43.224Z
 estimatedTokens: 336
-keywords: [Filter, Criteria, Input, representation, records]
+keywords: [Filter, Criteria, records]
 ---
-
-# Filter Criteria Input
 
 > Input representation of the criteria to filter records based on supported
     properties.

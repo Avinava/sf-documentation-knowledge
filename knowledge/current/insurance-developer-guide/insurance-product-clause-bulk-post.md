@@ -5,12 +5,10 @@ topic: insurance-product-clause-bulk-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.715Z
+lastCollected: 2026-04-07T18:37:51.781Z
 estimatedTokens: 177
 keywords: [Insurance, Product, Clause, Bulk, POST, multiple, clauses, once]
 ---
-
-# Insurance Product Clause Bulk (POST)
 
 > Create one or multiple product clauses at once.
 

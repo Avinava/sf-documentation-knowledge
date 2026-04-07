@@ -5,12 +5,10 @@ topic: invocationcontext-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:27.110Z
+lastCollected: 2026-04-07T18:36:12.403Z
 estimatedTokens: 478
 keywords: [InvocationContext, context, connected, app, invoked, protocol, flow, token, issued, any, Developers, write, code, unique, invocation]
 ---
-
-# InvocationContext Enum
 
 > The context in which the connected app is invoked, such as the
       protocol flow used and the token type issued, if any. Developers can use the context

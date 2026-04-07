@@ -5,12 +5,10 @@ topic: public-sector-solutions-data-models
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:12.031Z
+lastCollected: 2026-04-07T18:39:05.038Z
 estimatedTokens: 871
-keywords: [Sector, Solutions, Data, Models, uses, suite, standard, Salesforce, objects, structure, store, licensing, permitting, inspections, assessments]
+keywords: [Sector, Solutions, Models, uses, suite, standard, Salesforce, structure, store, licensing, permitting, inspections, assessments, case, program, management, benefit, grantmaking, features, better, understand, how, work, helps, look, graphical, representations, collections, their, relationships]
 ---
-
-# Public Sector Solutions Data Models
 
 > Public Sector Solutions uses a suite of standard Salesforce objects to structure and
   store data related to licensing and permitting, inspections and assessments, case and program

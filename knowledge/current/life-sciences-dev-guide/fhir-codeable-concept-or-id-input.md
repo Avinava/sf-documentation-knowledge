@@ -5,12 +5,10 @@ topic: fhir-codeable-concept-or-id-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.733Z
+lastCollected: 2026-04-07T18:37:55.062Z
 estimatedTokens: 138
-keywords: [FHIR, Codeable, Concept, Input, representation]
+keywords: [FHIR, Codeable, Concept]
 ---
-
-# FHIR Codeable Concept Or ID Input
 
 > Input representation for FHIR Codeable Concept or ID.
 

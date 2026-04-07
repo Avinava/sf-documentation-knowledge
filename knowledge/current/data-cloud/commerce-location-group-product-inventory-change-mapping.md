@@ -5,12 +5,10 @@ topic: commerce-location-group-product-inventory-change-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.231Z
+lastCollected: 2026-04-07T18:35:54.263Z
 estimatedTokens: 472
-keywords: [Commerce, Location, Group, Product, Inventory, Change, Mapping, Omnichannel, connector, Data, Cloud, automatically, maps, source, objects]
+keywords: [Commerce, Location, Group, Product, Inventory, Change, Mapping, Omnichannel, connector, Cloud, automatically, maps, source, model, DMO, establishes, relationships, Bundle, DLO]
 ---
-
-# Commerce: Location Group Product Inventory Change Mapping
 
 > The Omnichannel Inventory connector for Data Cloud automatically maps the data source
   objects to the data model objects (DMO) and establishes DMO relationships. The Location Group

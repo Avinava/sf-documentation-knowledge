@@ -5,12 +5,10 @@ topic: register-guest-buyer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.511Z
+lastCollected: 2026-04-07T18:37:15.568Z
 estimatedTokens: 106
 keywords: [Register, Guest, Buyer, webstore, account, action, order, behalf, another, success, failure]
 ---
-
-# Register Guest Buyer
 
 > Register a guest buyer for a webstore using an account ID. This action enables a guest
       buyer to order on behalf of another buyer.

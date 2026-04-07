@@ -5,12 +5,10 @@ topic: recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.145Z
+lastCollected: 2026-04-07T18:38:39.718Z
 estimatedTokens: 907
-keywords: [Recommendation, recommendations, surfaced, offers, actions, Einstein, Best, Action, API, version, 45.0, later, Calls, Special, Access]
+keywords: [Recommendation, recommendations, surfaced, offers, actions, Einstein, Best, Action, API, 45.0]
 ---
-
-# Recommendation
 
 > Represents the recommendations surfaced as offers and actions for
          Einstein Next Best Action. This object is available in API version 45.0 and

@@ -5,12 +5,10 @@ topic: inheritance-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.675Z
+lastCollected: 2026-04-07T18:38:04.821Z
 estimatedTokens: 182
-keywords: [Inheritance, Rules, various, elements]
+keywords: [Inheritance, various]
 ---
-
-# Inheritance Rules
 
 > This table describes the inheritance rules for various elements.
 

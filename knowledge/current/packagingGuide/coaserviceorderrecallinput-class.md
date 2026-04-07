@@ -5,12 +5,10 @@ topic: coaserviceorderrecallinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.874Z
+lastCollected: 2026-04-07T18:38:45.699Z
 estimatedTokens: 158
-keywords: [COA_ServiceOrderRecallInput, Wrapper, input, passed, recall, operation, COA, _ServiceOrderRecallInput]
+keywords: [COA_ServiceOrderRecallInput, Wrapper, passed, recall, operation, COA, _ServiceOrderRecallInput]
 ---
-
-# COA_ServiceOrderRecallInput Class
 
 > Wrapper class for input parameters passed to the recall operation.
 

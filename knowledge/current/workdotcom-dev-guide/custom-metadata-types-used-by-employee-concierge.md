@@ -5,12 +5,10 @@ topic: custom-metadata-types-used-by-employee-concierge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.252Z
+lastCollected: 2026-04-07T18:40:14.259Z
 estimatedTokens: 218
-keywords: [Custom, Metadata, Employee, Concierge, package, includes]
+keywords: [Metadata, Employee, Concierge, package, includes]
 ---
-
-# Custom Metadata Types Used by Employee Concierge
 
 > The Employee Concierge package includes custom metadata types.
 

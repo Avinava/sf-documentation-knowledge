@@ -5,12 +5,10 @@ topic: applicationcase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.251Z
+lastCollected: 2026-04-07T18:39:26.198Z
 estimatedTokens: 257
 keywords: [ApplicationCase, junction, stores, relationship, Case, IndividualApplication]
 ---
-
-# ApplicationCase
 
 > This junction object stores a relationship between Case and
          IndividualApplication.

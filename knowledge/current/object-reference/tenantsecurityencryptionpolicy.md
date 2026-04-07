@@ -5,12 +5,10 @@ topic: tenantsecurityencryptionpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.634Z
+lastCollected: 2026-04-07T18:38:42.381Z
 estimatedTokens: 462
-keywords: [TenantSecurityEncryptionPolicy, Stores, tenant, encryption, policy, status, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [TenantSecurityEncryptionPolicy, Stores, tenant, encryption, policy, status, API, 58.0]
 ---
-
-# TenantSecurityEncryptionPolicy
 
 > Stores tenant encryption policy status. This object is available in API
       version 58.0 and later.

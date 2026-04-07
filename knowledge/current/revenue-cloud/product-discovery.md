@@ -5,12 +5,10 @@ topic: product-discovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.866Z
+lastCollected: 2026-04-07T18:35:47.902Z
 estimatedTokens: 549
 keywords: [Product, Discovery, hierarchical, catalog, browsing, experience, identify, suitable, products, text-based, faceted, search]
 ---
-
-# Product Discovery
 
 > Product Discovery provides a hierarchical catalog browsing experience to identify
   suitable products with text-based and faceted search.

@@ -5,12 +5,10 @@ topic: points-change
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.868Z
+lastCollected: 2026-04-07T18:38:08.110Z
 estimatedTokens: 145
-keywords: [Points, Change, Output, representation, debited, credited, member's, balance, transaction, journal]
+keywords: [Points, Change, debited, credited, member's, balance, transaction, journal]
 ---
-
-# Points Change
 
 > Output representation of the points debited from or credited to the
       member's points balance by the transaction journal.

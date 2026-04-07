@@ -5,12 +5,10 @@ topic: run-salesforce-cli-using-a-docker-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.274Z
+lastCollected: 2026-04-07T18:40:09.219Z
 estimatedTokens: 446
-keywords: [Run, Salesforce, CLI, Docker, Image, publishes, container, images, Hub, follow, release, process, installers, npm, packages]
+keywords: [Run, Salesforce, CLI, Docker, Image, publishes, container, images, Hub, follow, release, process, installers, npm, packages, week, publish, week’s, candidate, latest-rc, retag, latest, versions, specific, numbered]
 ---
-
-# Run Salesforce CLI Using a Docker Image
 
 > Salesforce publishes Docker container images for Salesforce CLI on Docker Hub. We
   	follow the same release process as our installers and npm packages. Each week we publish a

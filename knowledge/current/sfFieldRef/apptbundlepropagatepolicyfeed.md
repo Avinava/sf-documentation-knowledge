@@ -5,12 +5,10 @@ topic: apptbundlepropagatepolicyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.032Z
+lastCollected: 2026-04-07T18:39:26.997Z
 estimatedTokens: 365
-keywords: [ApptBundlePropagatePolicyFeed, Feed, tracking, ApptBundlePropagatePolicy]
+keywords: [ApptBundlePropagatePolicyFeed, ApptBundlePropagatePolicy]
 ---
-
-# ApptBundlePropagatePolicyFeed
 
 > Feed tracking for ApptBundlePropagatePolicy.
 

@@ -5,12 +5,10 @@ topic: view-a-profiles-assigned-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.220Z
+lastCollected: 2026-04-07T18:39:23.155Z
 estimatedTokens: 197
 keywords: [View, Profile's, Assigned, Users, manage, profile, profile’s]
 ---
-
-# View a Profile's Assigned Users
 
 > View and manage all users assigned to a profile from the profile’s overview
         page.

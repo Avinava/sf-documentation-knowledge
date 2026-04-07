@@ -5,12 +5,10 @@ topic: decision-matrix-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.910Z
+lastCollected: 2026-04-07T18:39:01.041Z
 estimatedTokens: 137
-keywords: [Decision, Matrix, Options, Input, representation, look]
+keywords: [Decision, Matrix, Options, look]
 ---
-
-# Decision Matrix Options Input
 
 > Input representation of the options used to look up a decision
       matrix.

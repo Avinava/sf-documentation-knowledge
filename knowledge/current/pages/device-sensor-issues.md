@@ -5,12 +5,10 @@ topic: device-sensor-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.543Z
+lastCollected: 2026-04-07T18:38:52.851Z
 estimatedTokens: 150
 keywords: [Device, Sensor, Issues, include, problems, mobile, device’s, camera, microphone, geolocation]
 ---
-
-# Device Sensor Issues
 
 > Device sensor issues include problems with the mobile device’s camera, microphone, and
   geolocation.

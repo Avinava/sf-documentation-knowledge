@@ -5,12 +5,10 @@ topic: supported-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.433Z
+lastCollected: 2026-04-07T18:38:04.587Z
 estimatedTokens: 236
-keywords: [JavaScript, Aura, Components, programming, model, supports, ES5, ES6, Promises]
+keywords: [JavaScript, Aura, programming, model, supports, ES5, ES6, Promises]
 ---
-
-# Supported JavaScript
 
 > The Aura Components programming model supports ES5 syntax and ES6 Promises.
 

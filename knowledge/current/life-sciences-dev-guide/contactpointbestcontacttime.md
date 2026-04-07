@@ -5,12 +5,10 @@ topic: contactpointbestcontacttime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.094Z
+lastCollected: 2026-04-07T18:37:59.755Z
 estimatedTokens: 1495
-keywords: [ContactPointBestContactTime, optimal, time, visit, associated, contact, point, addresses, API, version, 65.0, later, Calls, Objects]
+keywords: [ContactPointBestContactTime, optimal, time, visit, contact, point, addresses, API, 65.0]
 ---
-
-# ContactPointBestContactTime
 
 > Represents the optimal time to visit associated contact point
          addresses. This object is available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: forecasting-user-access-by-forecasting-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.105Z
+lastCollected: 2026-04-07T18:37:14.070Z
 estimatedTokens: 265
-keywords: [Forecasting, User, Access, context, user’s]
+keywords: [Forecasting, User, context, user’s]
 ---
-
-# Forecasting User Access by Forecasting Type
 
 > Get information about the context user’s access to the user to which
       you need access.

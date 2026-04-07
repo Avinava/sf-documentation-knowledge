@@ -5,12 +5,10 @@ topic: links
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.640Z
+lastCollected: 2026-04-07T18:38:57.441Z
 estimatedTokens: 715
-keywords: [Links, JSON-formatted, containing, URLs, helpful, integrating, canvas, app, enterpriseUrl, calls, Salesforce, enterprise, WSDL, OAuth, Scopes]
+keywords: [Links, JSON-formatted, containing, URLs, helpful, integrating, canvas, app, enterpriseUrl, Salesforce, enterprise, WSDL, OAuth, Scopes]
 ---
-
-# Links
 
 > The Links object is a JSON-formatted object containing URLs that can be helpful when
                 integrating your canvas app. For example, use the enterpriseUrl

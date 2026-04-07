@@ -5,12 +5,10 @@ topic: visitorfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.218Z
+lastCollected: 2026-04-07T18:38:02.127Z
 estimatedTokens: 1309
-keywords: [VisitorFeed, posts, feed-tracked, changes, Visitor, API, version, 49.0, later, Calls, Usage]
+keywords: [VisitorFeed, posts, feed-tracked, changes, Visitor, API, 49.0]
 ---
-
-# VisitorFeed
 
 > This object represents the posts and feed-tracked changes of the Visitor object.  This object is available in API version
     49.0 and later.

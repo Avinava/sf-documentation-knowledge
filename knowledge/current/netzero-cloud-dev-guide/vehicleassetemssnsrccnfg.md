@@ -5,12 +5,10 @@ topic: vehicleassetemssnsrccnfg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.538Z
+lastCollected: 2026-04-07T18:38:20.214Z
 estimatedTokens: 735
-keywords: [VehicleAssetEmssnSrcCnfg, setup, mapping, Vehicle, Asset, Emissions, Source, record, internal, enums, primarily, calculations, across, different, API]
+keywords: [VehicleAssetEmssnSrcCnfg, setup, mapping, Vehicle, Asset, Emissions, Source, record, internal, enums, primarily, calculations, across, different, API, 54.0, SOAP, REST]
 ---
-
-# VehicleAssetEmssnSrcCnfg
 
 > Represents the setup object that contains the mapping between the Vehicle
          Asset Emissions Source record type and internal enums. You can primarily use this object

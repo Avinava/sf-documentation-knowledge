@@ -5,12 +5,10 @@ topic: account
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.042Z
+lastCollected: 2026-04-07T18:40:15.060Z
 estimatedTokens: 1741
-keywords: [Account, Marketing, Cloud, Retrieving, Embedded, Partner, Usage, Items]
+keywords: [Account, Marketing, Cloud, Retrieving, Embedded, Partner, Items]
 ---
-
-# Account
 
 > The Account object represents a Marketing Cloud account.
 

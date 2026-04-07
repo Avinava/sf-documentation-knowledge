@@ -5,12 +5,10 @@ topic: clinicalencounteridentifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.793Z
+lastCollected: 2026-04-07T18:39:34.226Z
 estimatedTokens: 309
-keywords: [ClinicalEncounterIdentifier, identifier, clinical, encounter, child, ClinicalEncounter, API, version, 51.0, later]
+keywords: [ClinicalEncounterIdentifier, identifier, clinical, encounter, child, ClinicalEncounter, API, 51.0]
 ---
-
-# ClinicalEncounterIdentifier
 
 > Represents the identifier information for a clinical encounter. This object is
       a child object of ClinicalEncounter. This object is available in API version 51.0 and

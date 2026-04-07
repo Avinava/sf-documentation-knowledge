@@ -5,13 +5,11 @@ topic: nextbestaction-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.153Z
+lastCollected: 2026-04-07T18:35:58.419Z
 estimatedTokens: 3003
 namespace: ConnectApi
-keywords: [NextBestAction, recommendation, reaction, Usage, deleteRecommendationReaction, reactionId, API, Version, Requires, Chatter, executeStrategy, strategyName, maxResults, contextRecordId, Guest]
+keywords: [NextBestAction, recommendation, reaction, deleteRecommendationReaction, reactionId, API, Requires, Chatter, executeStrategy, strategyName, maxResults, contextRecordId, Guest, Users, debugTrace, strategyInput, getRecommendation, recommendationId, getRecommendationReaction, getRecommendationReactions, onBehalfOfId, createdById, targetId, pageParam, pageSize, setRecommendationReaction]
 ---
-
-# NextBestAction Class
 
 > Delete a recommendation reaction.
 

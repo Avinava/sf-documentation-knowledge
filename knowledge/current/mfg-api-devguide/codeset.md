@@ -5,12 +5,10 @@ topic: codeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.383Z
+lastCollected: 2026-04-07T18:38:13.667Z
 estimatedTokens: 810
-keywords: [CodeSet, various, industry, defined, codes, context, their, systems, versions, Manufacturing, Cloud, API, version, 58.0, later]
+keywords: [CodeSet, various, industry, defined, codes, context, their, systems, versions, Manufacturing, Cloud, API, 58.0]
 ---
-
-# CodeSet
 
 > Represents various industry defined codes in the context of their
          systems and versions of those systems. This object is available in Manufacturing Cloud

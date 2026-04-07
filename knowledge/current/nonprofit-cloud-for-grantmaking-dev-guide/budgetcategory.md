@@ -5,12 +5,10 @@ topic: budgetcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.777Z
+lastCollected: 2026-04-07T18:38:23.664Z
 estimatedTokens: 585
-keywords: [BudgetCategory, purpose, budget, line, item, API, version, 57.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [BudgetCategory, purpose, budget, line, item, API, 57.0]
 ---
-
-# BudgetCategory
 
 > Represents the purpose of the budget line item. This object is
 		available in API version 57.0 and later.

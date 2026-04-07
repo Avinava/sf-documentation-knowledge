@@ -5,12 +5,10 @@ topic: contactprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.698Z
+lastCollected: 2026-04-07T18:38:21.557Z
 estimatedTokens: 619
-keywords: [ContactProfile, individual, their, ethnicity, citizenship, birth, place, race, Fundraising, API, version, 59.0, later, Calls]
+keywords: [ContactProfile, individual, their, ethnicity, citizenship, birth, place, race, Fundraising, API, 59.0]
 ---
-
-# ContactProfile
 
 > Represents information about an individual, such as their ethnicity,
          citizenship, birth place, race, and so on. The Fundraising fields on this object are

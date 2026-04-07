@@ -6,13 +6,10 @@ topic: orchestration-inbound-events-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.791Z
+lastCollected: 2026-04-07T18:36:52.210Z
 estimatedTokens: 369
 keywords: [Orchestration, Inbound, Events, POST, Orchestrate, process, external, sources]
 ---
-
-# Orchestration
-    Inbound Events (POST)
 
 > Orchestrate and process inbound events from external sources.
 

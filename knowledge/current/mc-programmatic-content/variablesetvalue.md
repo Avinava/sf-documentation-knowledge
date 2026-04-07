@@ -5,12 +5,10 @@ topic: variablesetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.790Z
+lastCollected: 2026-04-07T18:40:24.273Z
 estimatedTokens: 108
 keywords: [Variable.SetValue, Function, Ordinal, variable, Vaue, assign, **Overview**, **Syntax**]
 ---
-
-# Variable.SetValue
 
 > Variable.SetValue(1, 2)
 

@@ -5,12 +5,10 @@ topic: datauselegalbasis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.892Z
+lastCollected: 2026-04-07T18:38:29.770Z
 estimatedTokens: 894
-keywords: [DataUseLegalBasis, legal, basis, contacting, customer, billing, contract, API, version, 45.0, later, Calls, Special, Access, Rules]
+keywords: [DataUseLegalBasis, legal, basis, contacting, customer, billing, contract, API, 45.0]
 ---
-
-# DataUseLegalBasis
 
 > Represents the legal basis for contacting a customer, such as billing
 			or contract. This object is available in API version 45.0 and later.

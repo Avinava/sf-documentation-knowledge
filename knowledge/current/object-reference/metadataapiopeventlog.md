@@ -5,12 +5,10 @@ topic: metadataapiopeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.435Z
+lastCollected: 2026-04-07T18:38:35.682Z
 estimatedTokens: 629
-keywords: [MetadataApiOpEventLog, stores, Metadata, API, retrieval, deployment, requests, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [MetadataApiOpEventLog, stores, Metadata, API, retrieval, deployment, requests, 62.0]
 ---
-
-# MetadataApiOpEventLog
 
 > MetadataApiOpEventLog stores details of Metadata API retrieval and deployment
          requests.  This object is available in API version 62.0 and later.

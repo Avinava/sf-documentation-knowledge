@@ -5,12 +5,10 @@ topic: casehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.605Z
+lastCollected: 2026-04-07T18:38:27.602Z
 estimatedTokens: 686
-keywords: [CaseHistory, historical, changes, made, associated, Case, Calls, Special, Access, Rules, Usage]
+keywords: [CaseHistory, historical, changes, made, Case]
 ---
-
-# CaseHistory
 
 > Represents historical information about changes that have been made to
       the associated Case.

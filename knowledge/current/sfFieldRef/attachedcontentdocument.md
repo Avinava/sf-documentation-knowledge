@@ -5,12 +5,10 @@ topic: attachedcontentdocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.034Z
+lastCollected: 2026-04-07T18:39:28.022Z
 estimatedTokens: 402
-keywords: [AttachedContentDocument, read-only, ContentDocument, objects, associated]
+keywords: [AttachedContentDocument, read-only, ContentDocument]
 ---
-
-# AttachedContentDocument
 
 > This read-only object contains all ContentDocument objects associated with an object.
 

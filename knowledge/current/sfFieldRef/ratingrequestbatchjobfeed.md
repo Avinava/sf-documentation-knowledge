@@ -5,12 +5,10 @@ topic: ratingrequestbatchjobfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.793Z
+lastCollected: 2026-04-07T18:39:58.457Z
 estimatedTokens: 391
-keywords: [RatingRequestBatchJobFeed, Feed, tracking, RatingRequestBatchJob]
+keywords: [RatingRequestBatchJobFeed, RatingRequestBatchJob]
 ---
-
-# RatingRequestBatchJobFeed
 
 > Feed tracking for RatingRequestBatchJob.
 

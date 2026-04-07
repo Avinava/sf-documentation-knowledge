@@ -5,12 +5,10 @@ topic: searchindexjobstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.306Z
+lastCollected: 2026-04-07T18:40:01.068Z
 estimatedTokens: 317
-keywords: [SearchIndexJobStatusEvent, Notifies, subscribers, changes, status, Data, Cloud, search, index, job, refresh, run-time, API, version, 60.0]
+keywords: [SearchIndexJobStatusEvent, Notifies, subscribers, changes, status, Cloud, search, index, job, refresh, run-time, API, 60.0]
 ---
-
-# SearchIndexJobStatusEvent
 
 > Notifies subscribers of changes to the status of the Data Cloud search index
          job, such as index refresh status and index run-time status. This object is available

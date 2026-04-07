@@ -5,12 +5,10 @@ topic: messaging-channel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.050Z
+lastCollected: 2026-04-07T18:37:08.839Z
 estimatedTokens: 154
-keywords: [Messaging, Channel, Input, Data]
+keywords: [Messaging, Channel]
 ---
-
-# Messaging Channel Input
 
 > Data required to create a Messaging channel.
 

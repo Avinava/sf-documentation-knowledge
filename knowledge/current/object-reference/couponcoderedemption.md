@@ -5,12 +5,10 @@ topic: couponcoderedemption
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.147Z
+lastCollected: 2026-04-07T18:38:29.062Z
 estimatedTokens: 364
-keywords: [CouponCodeRedemption, Tracks, coupon, code, redemption, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [CouponCodeRedemption, Tracks, coupon, code, redemption, API, 58.0]
 ---
-
-# CouponCodeRedemption
 
 > Tracks each coupon code redemption. This object is available in API
       version 58.0 and later.

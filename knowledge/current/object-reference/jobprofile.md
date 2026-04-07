@@ -5,12 +5,10 @@ topic: jobprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.711Z
+lastCollected: 2026-04-07T18:38:33.890Z
 estimatedTokens: 627
-keywords: [JobProfile, job, profile, shift, scheduling, API, versions, 47.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [JobProfile, job, profile, shift, scheduling, API, versions, 47.0]
 ---
-
-# JobProfile
 
 > Represents a job profile used for shift scheduling. This object
       is available in API versions 47.0 and later.

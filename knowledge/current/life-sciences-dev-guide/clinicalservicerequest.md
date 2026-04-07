@@ -5,12 +5,10 @@ topic: clinicalservicerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.110Z
+lastCollected: 2026-04-07T18:37:56.551Z
 estimatedTokens: 2888
-keywords: [ClinicalServiceRequest, requests, procedure, diagnostic, service, needs, planned, proposed, performed, part, patient’s, healthcare, API, version, 51.0]
+keywords: [ClinicalServiceRequest, requests, procedure, diagnostic, service, needs, planned, proposed, performed, part, patient’s, healthcare, API, 51.0, Additional]
 ---
-
-# ClinicalServiceRequest
 
 > Represents requests for a procedure or diagnostic service that needs
       to be planned, proposed, or performed as part of the patient’s healthcare. This object is

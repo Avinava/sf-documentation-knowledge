@@ -5,12 +5,10 @@ topic: workreporterrorfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.176Z
+lastCollected: 2026-04-07T18:40:07.089Z
 estimatedTokens: 360
-keywords: [WorkReportErrorFeed, Feed, tracking, WorkReportError]
+keywords: [WorkReportErrorFeed, WorkReportError]
 ---
-
-# WorkReportErrorFeed
 
 > Feed tracking for WorkReportError.
 

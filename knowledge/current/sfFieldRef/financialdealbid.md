@@ -5,12 +5,10 @@ topic: financialdealbid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.935Z
+lastCollected: 2026-04-07T18:39:40.557Z
 estimatedTokens: 294
 keywords: [FinancialDealBid, bids, placed, financial, deal, parties]
 ---
-
-# FinancialDealBid
 
 > Represents the bids placed by financial deal parties in the financial
          deal.

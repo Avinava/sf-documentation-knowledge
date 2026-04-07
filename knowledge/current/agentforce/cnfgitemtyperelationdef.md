@@ -5,12 +5,10 @@ topic: cnfgitemtyperelationdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.368Z
+lastCollected: 2026-04-07T18:35:55.484Z
 estimatedTokens: 711
-keywords: [CnfgItemTypeRelationDef, how, configuration, items, CMDB, Payroll, Application, RUNS, App1, WebServer, API, version, 65.0, later, SOAP]
+keywords: [CnfgItemTypeRelationDef, how, configuration, items, CMDB, Payroll, Application, RUNS, App1, WebServer, API, 65.0, SOAP, REST]
 ---
-
-# CnfgItemTypeRelationDef
 
 > Represents how the configuration items are related to each other within a
          CMDB. For example, Payroll Application RUNS ON App1 WebServer. This object is

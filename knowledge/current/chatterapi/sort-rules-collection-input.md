@@ -5,12 +5,10 @@ topic: sort-rules-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.577Z
+lastCollected: 2026-04-07T18:37:10.278Z
 estimatedTokens: 96
-keywords: [Sort, Rules, Collection, Input, admin, webstore]
+keywords: [Sort, Collection, admin, webstore]
 ---
-
-# Sort Rules Collection Input
 
 > Sort rules input collection information an admin can use to create sort rules
       for a webstore.

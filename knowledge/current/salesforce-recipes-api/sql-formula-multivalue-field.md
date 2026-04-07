@@ -5,12 +5,10 @@ topic: sql-formula-multivalue-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.938Z
+lastCollected: 2026-04-07T18:39:19.627Z
 estimatedTokens: 77
 keywords: [SQL, Formula, Multivalue, recipe, node]
 ---
-
-# SQL Formula Multivalue Field
 
 > The SQL formula multivalue field for a recipe node.
 

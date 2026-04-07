@@ -5,12 +5,10 @@ topic: connectapipaymentlineapplyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.606Z
+lastCollected: 2026-04-07T18:35:41.489Z
 estimatedTokens: 244
-keywords: [ConnectApi.PaymentLineApplyRequest, Input, representation, payment, line, covers, allocation, specific, invoice, additional, context, associated, account, effective, date]
+keywords: [ConnectApi.PaymentLineApplyRequest, payment, line, covers, allocation, specific, invoice, additional, context, account, effective, date]
 ---
-
-# ConnectApi.PaymentLineApplyRequest
 
 > Input representation of the payment line details. This representation covers details on
     allocation of a payment to a specific invoice line. It also provides additional context through

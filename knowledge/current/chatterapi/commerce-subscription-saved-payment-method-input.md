@@ -5,12 +5,10 @@ topic: commerce-subscription-saved-payment-method-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.041Z
+lastCollected: 2026-04-07T18:37:07.803Z
 estimatedTokens: 153
-keywords: [Commerce, Subscription, Saved, Payment, Input, representation, updating, associated]
+keywords: [Commerce, Subscription, Saved, Payment, updating]
 ---
-
-# Commerce Subscription Saved Payment Method Input
 
 > Input representation for updating a saved payment method associated with a
     subscription.

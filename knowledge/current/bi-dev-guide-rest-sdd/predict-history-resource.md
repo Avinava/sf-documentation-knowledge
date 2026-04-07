@@ -5,12 +5,10 @@ topic: predict-history-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.533Z
+lastCollected: 2026-04-07T18:36:59.030Z
 estimatedTokens: 229
-keywords: [Predict, History, Resource, Query, Einstein, Discovery, predictions]
+keywords: [Predict, Resource, Query, Einstein, Discovery, predictions]
 ---
-
-# Predict History Resource
 
 > Query the history of Einstein Discovery predictions.
 

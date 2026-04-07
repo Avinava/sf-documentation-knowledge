@@ -5,12 +5,10 @@ topic: action-launcher-tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.577Z
+lastCollected: 2026-04-07T18:36:35.041Z
 estimatedTokens: 203
-keywords: [Action, Launcher, Tooling, Objects, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, various, retrieve]
+keywords: [Action, Launcher, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, various, retrieve, smaller, pieces]
 ---
-
-# Action Launcher Tooling Objects
 
 > Tooling API exposes metadata used in
     developer tooling. You can access the metadata through REST or SOAP. Use Tooling API’s SOQL

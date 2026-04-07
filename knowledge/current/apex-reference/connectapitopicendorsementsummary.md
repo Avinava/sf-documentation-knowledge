@@ -5,12 +5,10 @@ topic: connectapitopicendorsementsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.767Z
+lastCollected: 2026-04-07T18:36:12.048Z
 estimatedTokens: 94
 keywords: [ConnectApi.TopicEndorsementSummary, Topic, endorsement, summary]
 ---
-
-# ConnectApi.TopicEndorsementSummary
 
 > Topic endorsement summary.
 

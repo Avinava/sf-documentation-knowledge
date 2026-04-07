@@ -5,12 +5,10 @@ topic: get-started-with-salesforce-cpq-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.285Z
+lastCollected: 2026-04-07T18:37:27.294Z
 estimatedTokens: 650
-keywords: [Started, Salesforce, CPQ, API, Want, start, working, Check, data, models, quickstart, guides]
+keywords: [Started, Salesforce, CPQ, API, Want, start, working, Check, models, quickstart, guides]
 ---
-
-# Get Started with Salesforce CPQ API
 
 > Want to start working with Salesforce CPQ API? Check out the CPQ data models, types of
   API, and quickstart guides.

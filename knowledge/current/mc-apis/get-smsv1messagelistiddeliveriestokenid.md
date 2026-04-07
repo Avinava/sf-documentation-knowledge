@@ -5,12 +5,10 @@ topic: get-smsv1messagelistiddeliveriestokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.108Z
+lastCollected: 2026-04-07T18:40:17.257Z
 estimatedTokens: 594
-keywords: [sms, messageList, deliveries, tokenId, status, message, sent, group, mobile, numbers, **Overview**, Usage]
+keywords: [sms, messageList, deliveries, tokenId, status, message, sent, group, mobile, numbers, **Overview**]
 ---
-
-# GET /sms/v1/messageList/{id}/deliveries/{tokenId}
 
 > Returns status for a message sent to a group of mobile numbers.
 

@@ -5,12 +5,10 @@ topic: return-orders-return-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.728Z
+lastCollected: 2026-04-07T18:37:15.790Z
 estimatedTokens: 489
-keywords: [Orders, Items, Process, ReturnOrderLineItems, belonging, ReturnOrder, Processing, ReturnOrderLineItem, generates, change, Order, read-only, item, delivery, charge]
+keywords: [Orders, Items, Process, ReturnOrderLineItems, belonging, ReturnOrder, Processing, ReturnOrderLineItem, generates, change, Order, read-only, item, delivery, charge, positive, amount, credit, memo, fee, negative, invoice, processed, any, remaining, expected, quantity, API, creates, separate, representing]
 ---
-
-# Return Orders, Return Items
 
 > Process ReturnOrderLineItems belonging to a ReturnOrder. Processing
       a ReturnOrderLineItem generates a change Order and makes that ReturnOrderLineItem read-only.

@@ -5,12 +5,10 @@ topic: more-readable-styling-markup-with-the-join-expression-expression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.685Z
+lastCollected: 2026-04-07T18:38:02.614Z
 estimatedTokens: 265
-keywords: [Readable, Styling, Markup, join, Expression, messy, specify, apply, component, attribute, Try, easier-to-read]
+keywords: [Readable, Styling, Markup, join, Expression, messy, specify, apply, attribute, Try, easier-to-read]
 ---
-
-# More Readable Styling Markup with the  join Expression Expression
 
 > Markup can get messy when you specify the class names to apply based
    on the component attribute values. Try using a join

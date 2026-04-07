@@ -5,13 +5,11 @@ topic: map-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.915Z
+lastCollected: 2026-04-07T18:36:14.218Z
 estimatedTokens: 3898
 namespace: System
-keywords: [Map, collection, Usage, Map<T1, T2>, mapToCopy, Map<ID, sObject>, recordList, clear, clone, containsKey, key, deepClone, equals]
+keywords: [Map, collection, Map<T1, T2>, mapToCopy, Map<ID, sObject>, recordList, clear, clone, containsKey, key, deepClone, equals, map2, getSObjectType, hashCode, isEmpty, keySet, put, putAll, fromMap, sobjectArray, remove, size, toString]
 ---
-
-# Map Class
 
 > Contains methods for the Map collection type.
 

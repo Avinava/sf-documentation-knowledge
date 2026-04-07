@@ -5,12 +5,10 @@ topic: salesforce-high-scale-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.186Z
+lastCollected: 2026-04-07T18:38:24.076Z
 estimatedTokens: 595
-keywords: [Salesforce, High-Scale, Objects, large, number, transactions, store, data, over, long, period, sometimes, different, limitations, APIs]
+keywords: [Salesforce, High-Scale, large, number, transactions, store, over, long, period, sometimes, different, limitations, APIs, querying, behavior, common, Big, Order, Cloud]
 ---
-
-# Salesforce High-Scale Objects
 
 > Use high-scale objects when you have a large number of transactions, large objects,
         or you must store data over a long period. These objects sometimes have different

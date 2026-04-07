@@ -5,12 +5,10 @@ topic: field-service-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.863Z
+lastCollected: 2026-04-07T18:36:46.719Z
 estimatedTokens: 765
-keywords: [Service, Flow, corresponding, resource, REST, API, version, 42.0, later]
+keywords: [Service, Flow, corresponding, resource, REST, API, 42.0]
 ---
-
-# Field Service Flow
 
 > Returns information corresponding to a field service flow. This resource is available in
     REST API version 42.0 and later.

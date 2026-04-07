@@ -5,12 +5,10 @@ topic: apitotalusageeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.721Z
+lastCollected: 2026-04-07T18:38:25.641Z
 estimatedTokens: 775
-keywords: [ApiTotalUsageEventLog, API, Total, Usage, Event, Log, Platform, SOAP, REST, Bulk, requests, version, 61.0, later, Calls]
+keywords: [ApiTotalUsageEventLog, API, Total, Event, Log, Platform, SOAP, REST, Bulk, requests, 61.0]
 ---
-
-# ApiTotalUsageEventLog
 
 > API Total Usage Event Log contains details about Platform SOAP API, Platform
          REST API, and Bulk API requests. This object is available in API version 61.0 and

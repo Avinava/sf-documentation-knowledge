@@ -5,12 +5,10 @@ topic: homevisitdetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.288Z
+lastCollected: 2026-04-07T18:37:40.262Z
 estimatedTokens: 242
 keywords: [HomeVisitDetails, home, visit, requests, Once, scheduler, approves, submitted, patient, quote, care, coordinator, Apex, retrieve]
 ---
-
-# HomeVisitDetails Class
 
 > Represents the details of the home visit requests. Once the
             scheduler approves the visit requests submitted by the patient or the quote requests

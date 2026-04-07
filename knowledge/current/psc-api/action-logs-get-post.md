@@ -5,12 +5,10 @@ topic: action-logs-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.757Z
+lastCollected: 2026-04-07T18:39:01.902Z
 estimatedTokens: 886
 keywords: [Action, Logs, POST, Retrieve, paginated, Explainability, log]
 ---
-
-# Action Logs (GET, POST)
 
 > Retrieve a paginated list of Explainability action logs. Create an
       Explainability action log.

@@ -5,12 +5,10 @@ topic: email-merge-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.505Z
+lastCollected: 2026-04-07T18:37:18.594Z
 estimatedTokens: 85
-keywords: [Email, Merge, map, objects, their]
+keywords: [Email, Merge, map, their]
 ---
-
-# Email Merge Field
 
 > The map for objects and their merge fields.
 

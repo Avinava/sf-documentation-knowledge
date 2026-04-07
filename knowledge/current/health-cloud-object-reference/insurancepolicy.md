@@ -5,12 +5,10 @@ topic: insurancepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:58.717Z
+lastCollected: 2026-04-07T18:37:47.304Z
 estimatedTokens: 4246
-keywords: [InsurancePolicy, insurance, policy, Provider, Network, Management, permission, license, Calls, Associated, Objects]
+keywords: [InsurancePolicy, insurance, policy, Provider, Network, Management, permission, license]
 ---
-
-# InsurancePolicy
 
 > Represents a type of insurance policy. Available with the Provider Network
 			Management permission set

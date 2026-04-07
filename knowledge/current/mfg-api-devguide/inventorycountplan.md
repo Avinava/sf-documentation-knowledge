@@ -5,12 +5,10 @@ topic: inventorycountplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.529Z
+lastCollected: 2026-04-07T18:38:13.844Z
 estimatedTokens: 827
-keywords: [InventoryCountPlan, plan, count, inventory, location, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [InventoryCountPlan, plan, count, inventory, location, API, 63.0]
 ---
-
-# InventoryCountPlan
 
 > Represents a plan to count inventory at a location. This object is
       available in API version 63.0 and later.

@@ -5,12 +5,10 @@ topic: objectdefinitionrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.804Z
+lastCollected: 2026-04-07T18:40:17.988Z
 estimatedTokens: 148
 keywords: [ObjectDefinitionRequest, metadata, Describe, Items]
 ---
-
-# ObjectDefinitionRequest
 
 > The ObjectDefinitionRequest object defines the request for object metadata using a Describe request.
 

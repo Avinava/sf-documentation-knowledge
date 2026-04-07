@@ -5,12 +5,10 @@ topic: redirect
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.295Z
+lastCollected: 2026-04-07T18:40:22.706Z
 estimatedTokens: 100
-keywords: [Redirect, Function, Ordinal, URL, **Overview**, **Syntax**, Usage, client, browser, via, HTTP, whether, temporary, perma, permanently, enabled, Examples]
+keywords: [Redirect, Function, Ordinal, URL, **Overview**, **Syntax**, client, browser, via, HTTP, whether, temporary, perma, Examples, permanently, enabled]
 ---
-
-# Redirect
 
 > Redirect(1, 2)
 

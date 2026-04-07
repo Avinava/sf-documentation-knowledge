@@ -5,12 +5,10 @@ topic: estimate-delivery-date
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.523Z
+lastCollected: 2026-04-07T18:37:15.580Z
 estimatedTokens: 324
 keywords: [Estimate, Delivery, Date, Forecast, expected, time, estimation, settings, selected, shipping, carrier, Provide, package, shipped, delivered, Estimated, dates]
 ---
-
-# Estimate Delivery Date
 
 > Forecast an expected delivery date and time based on delivery estimation
     settings and the selected shipping carrier method. Provide information on when a package is

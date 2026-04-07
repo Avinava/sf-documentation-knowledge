@@ -5,12 +5,10 @@ topic: connectapieinsteinllmgenerationcontentqualityoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.407Z
+lastCollected: 2026-04-07T18:36:08.839Z
 estimatedTokens: 82
 keywords: [Quality, generated]
 ---
-
-# ConnectApi.​EinsteinLlm​Generation​ContentQuality​Output
 
 > Quality information about the generated response.
 

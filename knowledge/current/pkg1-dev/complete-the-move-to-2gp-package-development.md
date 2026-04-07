@@ -5,12 +5,10 @@ topic: complete-the-move-to-2gp-package-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.694Z
+lastCollected: 2026-04-07T18:38:54.052Z
 estimatedTokens: 592
-keywords: [Move, 2GP, Package, Development, fully, transition, retrieve, source, files, package’s, latest, converted, version, confirm, Setup]
+keywords: [Move, 2GP, Package, Development, fully, transition, retrieve, source, files, package’s, latest, converted, confirm, Setup, packaging, org, you’re, ready, develop, distribute, solely]
 ---
-
-# Complete the Move to 2GP Package Development
 
 > To fully transition to 2GP package development, you retrieve the source files for your package’s latest converted version. Then, you confirm in Setup for your packaging org that you’re ready to develop and distribute your package solely using 2GP packaging.
 

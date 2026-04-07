@@ -5,13 +5,11 @@ topic: pagereference-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.287Z
+lastCollected: 2026-04-07T18:36:15.546Z
 estimatedTokens: 1865
 namespace: ApexPages
-keywords: [PageReference, instantiation, Among, attributes, PageReferences, consist, URL, query, Retrieving, Navigating, New, Result, Action, Redirect, Users]
+keywords: [Instantiation, PageReference, Among, attributes, PageReferences, consist, URL, query, Retrieving, Navigating, New, Result, Action, Redirect, Users, Replacement, Experience, Cloud, Site]
 ---
-
-# PageReference Class
 
 > A PageReference is a reference to an instantiation of a page. Among other attributes,
         PageReferences consist of a URL and a set of query parameter names and values.

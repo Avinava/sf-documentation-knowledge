@@ -5,12 +5,10 @@ topic: retrievalsummarydatarefresh-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.413Z
+lastCollected: 2026-04-07T18:37:33.848Z
 estimatedTokens: 224
-keywords: [RetrievalSummaryDataRefresh, callable, wrapper, refresh, retrieval, summary, definition, associated, rollups]
+keywords: [RetrievalSummaryDataRefresh, callable, wrapper, refresh, retrieval, summary, definition, rollups]
 ---
-
-# RetrievalSummaryDataRefresh Class
 
 > Use the callable RetrievalSummaryDataRefresh wrapper class to refresh retrieval summary
     definition associated rollups.

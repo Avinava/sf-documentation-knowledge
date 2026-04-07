@@ -5,12 +5,10 @@ topic: vettingevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.604Z
+lastCollected: 2026-04-07T18:39:07.822Z
 estimatedTokens: 1397
-keywords: [VettingEvaluation, evaluation, candidate, vetting, procedure, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [VettingEvaluation, evaluation, candidate, vetting, procedure, API, 62.0]
 ---
-
-# VettingEvaluation
 
 > Represents the evaluation of a candidate based on a vetting
          procedure. This object is available in API version 62.0 and later.

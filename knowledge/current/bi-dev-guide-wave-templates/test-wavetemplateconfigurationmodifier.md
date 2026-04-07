@@ -5,12 +5,10 @@ topic: test-wavetemplateconfigurationmodifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.643Z
+lastCollected: 2026-04-07T18:37:02.226Z
 estimatedTokens: 421
 keywords: [Test, WaveTemplateConfigurationModifier, deploying, template, uses]
 ---
-
-# Test WaveTemplateConfigurationModifier
 
 > Test the WaveTemplateConfigurationModifier before
         deploying a template that uses it.

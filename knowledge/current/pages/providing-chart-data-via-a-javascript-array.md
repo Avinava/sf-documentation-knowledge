@@ -5,12 +5,10 @@ topic: providing-chart-data-via-a-javascript-array
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.833Z
+lastCollected: 2026-04-07T18:38:48.780Z
 estimatedTokens: 230
-keywords: [Providing, Chart, Data, via, JavaScript, Array, Visualforce, charting, non-Salesforce, sources, building, own, code, <apex, chart>]
+keywords: [Providing, Chart, via, JavaScript, Array, Visualforce, charting, non-Salesforce, sources, building, own, code, <apex, chart>]
 ---
-
-# Providing Chart Data via a JavaScript Array
 
 > You can use Visualforce
         charting with non-Salesforce data

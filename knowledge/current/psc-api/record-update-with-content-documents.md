@@ -5,12 +5,10 @@ topic: record-update-with-content-documents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.718Z
+lastCollected: 2026-04-07T18:39:03.847Z
 estimatedTokens: 558
 keywords: [Record, Content, Documents, Salesforce, document]
 ---
-
-# Record Update with Content Documents
 
 > Update an existing record in a Salesforce object using a document
    based on a content document record.

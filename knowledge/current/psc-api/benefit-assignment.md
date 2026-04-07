@@ -5,12 +5,10 @@ topic: benefit-assignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.988Z
+lastCollected: 2026-04-07T18:39:02.181Z
 estimatedTokens: 326
-keywords: [Benefit, Assignment, Output, representation]
+keywords: [Benefit, Assignment]
 ---
-
-# Benefit Assignment
 
 > Output representation of the benefit assignment
   details.

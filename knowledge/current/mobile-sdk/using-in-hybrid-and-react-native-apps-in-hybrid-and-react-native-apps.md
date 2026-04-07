@@ -6,13 +6,10 @@ topic: using-in-hybrid-and-react-native-apps-in-hybrid-and-react-native-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.099Z
+lastCollected: 2026-04-07T18:40:25.465Z
 estimatedTokens: 727
-keywords: [Hybrid, React, Native, Apps, Mobile, Sync, JavaScript, SDK, library, Salesforce, objects, models, manipulate, underlying, records]
+keywords: [Hybrid, React, Native, Apps, Mobile, Sync, JavaScript, SDK, library, Salesforce, models, manipulate, underlying, records, changing, model, perform, SOQL, SOSL, query]
 ---
-
-# Using  in Hybrid and React Native Apps in Hybrid and React
-   Native Apps
 
 > Mobile Sync for JavaScript is a Mobile SDK library that represents
    Salesforce objects as JavaScript objects. To use Mobile Sync in JavaScript, you

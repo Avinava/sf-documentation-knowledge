@@ -5,12 +5,10 @@ topic: contentsourcehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.901Z
+lastCollected: 2026-04-07T18:39:35.363Z
 estimatedTokens: 261
-keywords: [ContentSourceHistory, History, tracked, ContentSource]
+keywords: [ContentSourceHistory, tracked, ContentSource]
 ---
-
-# ContentSourceHistory
 
 > History for tracked fields of ContentSource.
 

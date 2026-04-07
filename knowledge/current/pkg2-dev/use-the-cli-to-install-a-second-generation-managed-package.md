@@ -5,12 +5,10 @@ topic: use-the-cli-to-install-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.847Z
+lastCollected: 2026-04-07T18:38:56.461Z
 estimatedTokens: 1096
-keywords: [CLI, Install, Second-Generation, Managed, Package, you’re, working, Salesforce, command, packages, scratch, org, target, subscriber, Control]
+keywords: [CLI, Install, Second-Generation, Managed, Package, you’re, working, Salesforce, command, packages, scratch, org, target, subscriber, Control, 2GP, Installation, Timeouts]
 ---
-
-# Use the CLI to Install a Second-Generation Managed Package
 
 > If you’re working with the Salesforce CLI, you can use the sf
    package install command to install packages in a scratch org or target subscriber

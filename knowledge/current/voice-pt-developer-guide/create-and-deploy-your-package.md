@@ -5,12 +5,10 @@ topic: create-and-deploy-your-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.500Z
+lastCollected: 2026-04-07T18:40:13.427Z
 estimatedTokens: 794
-keywords: [Deploy, Package, commands, install, Version, Release, Scratch, Org, Open]
+keywords: [Deploy, Package, commands, install, Release, Scratch, Org, Open]
 ---
-
-# Create and Deploy Your Package
 
 > Use these commands to create, update, and install the package.
 

@@ -5,12 +5,10 @@ topic: feed-item-topic-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.581Z
+lastCollected: 2026-04-07T18:37:08.420Z
 estimatedTokens: 143
-keywords: [Feed, Item, Topic, Input]
+keywords: [Item, Topic]
 ---
-
-# Feed Item Topic Input
 
 > Feed item topic input.
 

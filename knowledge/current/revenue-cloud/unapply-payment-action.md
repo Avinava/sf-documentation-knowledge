@@ -5,12 +5,10 @@ topic: unapply-payment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.382Z
+lastCollected: 2026-04-07T18:35:40.165Z
 estimatedTokens: 515
-keywords: [Unapply, Payment, Action, Unapplies, that's, already, applied, invoice, line, crediting, amount, back, Special, Access, Rules]
+keywords: [Inputs, Outputs, Unapply, Payment, Action, Unapplies, that's, already, applied, invoice, line, crediting, amount, back, REST, HTTP]
 ---
-
-# Unapply Payment Action
 
 > Unapplies a payment that's already been applied to an invoice or
             invoice line by crediting the amount back to the payment and the invoice or invoice

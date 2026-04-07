@@ -5,12 +5,10 @@ topic: considerations-for-group-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:15.097Z
+lastCollected: 2026-04-07T18:40:10.053Z
 estimatedTokens: 558
-keywords: [Considerations, GROUP, Understand, special, behavior, limitations, clause, SOQL, queries]
+keywords: [Considerations, GROUP, Understand, behavior, limitations, clause, SOQL, queries]
 ---
-
-# Considerations for  GROUP BY
 
 > Understand the special behavior and limitations for using the GROUP BY clause in SOQL queries.
 

@@ -5,12 +5,10 @@ topic: currencytype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.319Z
+lastCollected: 2026-04-07T18:38:29.209Z
 estimatedTokens: 774
-keywords: [CurrencyType, currencies, organization, multicurrency, feature, enabled, Calls, Special, Access, Rules, Usage]
+keywords: [CurrencyType, currencies, organization, multicurrency, feature, enabled]
 ---
-
-# CurrencyType
 
 > Represents the currencies used by an organization for which the
    multicurrency feature is enabled.

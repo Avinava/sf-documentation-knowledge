@@ -5,12 +5,10 @@ topic: blngdebitnotelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.014Z
+lastCollected: 2026-04-07T18:37:04.705Z
 estimatedTokens: 4151
-keywords: [blng__DebitNoteLine__c, amount, that's, allocated, increase, balance, invoice, line, blng, _DebitNoteLine, Calls]
+keywords: [blng__DebitNoteLine__c, amount, that's, allocated, increase, balance, invoice, line, blng, _DebitNoteLine]
 ---
-
-# blng__DebitNoteLine__c
 
 > Represents information about the amount that's allocated to increase the
          balance of an invoice line.

@@ -5,12 +5,10 @@ topic: remotesitesetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.635Z
+lastCollected: 2026-04-07T18:36:29.115Z
 estimatedTokens: 760
-keywords: [RemoteSiteSetting, remote, site, setting, any, Visualforce, Apex, callout, JavaScript, code, XmlHttpRequest, s-control, custom, button, call]
+keywords: [RemoteSiteSetting, remote, site, setting, any, Visualforce, Apex, callout, JavaScript, code, XmlHttpRequest, s-control, button, call, external, registered, Settings, fails, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition]
 ---
-
-# RemoteSiteSetting
 
 > Represents a remote site setting. Before any 
         Visualforce page, Apex callout, or JavaScript code using XmlHttpRequest in an s-control or 

@@ -5,12 +5,10 @@ topic: adbuyserveraccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.614Z
+lastCollected: 2026-04-07T18:38:11.907Z
 estimatedTokens: 725
-keywords: [AdBuyServerAccount, user, account, buy, side, platform, send, RFPs, seller, accept, reject, review, proposals, Every, proposal]
+keywords: [AdBuyServerAccount, user, account, buy, side, platform, send, RFPs, seller, accept, reject, review, proposals, Every, proposal, server, requires, buyer, API, 59.0]
 ---
-
-# AdBuyServerAccount
 
 > Represents a user account in the buy side platform. The user can send
          RFPs to the seller and can accept, reject, or review proposals. Every proposal in the ad

@@ -5,12 +5,10 @@ topic: most-recently-used-list-view-supported-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.659Z
+lastCollected: 2026-04-07T18:40:10.639Z
 estimatedTokens: 5449
-keywords: [Recently, View, Objects, MRU, views, support, subset, standard, User, API, supports]
+keywords: [Recently, View, MRU, views, support, subset, standard, User, API, supports]
 ---
-
-# Most Recently Used List View Supported Objects
 
 > Most recently used (MRU) list views support a subset of the standard
       objects that User Interface API supports.

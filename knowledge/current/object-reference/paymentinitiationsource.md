@@ -5,12 +5,10 @@ topic: paymentinitiationsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.365Z
+lastCollected: 2026-04-07T18:38:37.669Z
 estimatedTokens: 1497
-keywords: [PaymentInitiationSource, originating, source, payment, helps, Salesforce, products, integrate, Payments, API, version, 63.0, later, Calls, Special]
+keywords: [PaymentInitiationSource, originating, source, payment, helps, Salesforce, products, integrate, Payments, API, 63.0]
 ---
-
-# PaymentInitiationSource
 
 > Represents the originating source of a payment. This information helps other
          Salesforce products integrate with Salesforce Payments. This object is available in API

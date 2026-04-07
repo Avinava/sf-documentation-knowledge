@@ -5,12 +5,10 @@ topic: dimensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.623Z
+lastCollected: 2026-04-07T18:38:57.423Z
 estimatedTokens: 399
 keywords: [Dimensions, JSON-formatted, containing, context, iFrame, canvas, app, appears]
 ---
-
-# Dimensions
 
 > The Dimensions object
 is a JSON-formatted object containing context information about dimensions

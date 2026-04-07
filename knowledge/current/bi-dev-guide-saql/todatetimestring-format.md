@@ -6,13 +6,10 @@ topic: todatetimestring-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.313Z
+lastCollected: 2026-04-07T18:37:00.883Z
 estimatedTokens: 162
 keywords: [toDateTime, Converts, date, DateTime, “format”, any]
 ---
-
-# toDateTime(string,
-      format)
 
 > Converts a date in string format to a DateTime
     type. “format” specifies the date format and can be any valid date

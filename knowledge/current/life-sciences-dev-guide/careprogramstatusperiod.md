@@ -5,12 +5,10 @@ topic: careprogramstatusperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.931Z
+lastCollected: 2026-04-07T18:37:59.572Z
 estimatedTokens: 940
-keywords: [CareProgramStatusPeriod, historical, changes, status, care, program, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [CareProgramStatusPeriod, historical, changes, status, care, program, API, 61.0]
 ---
-
-# CareProgramStatusPeriod
 
 > Represents the historical changes to the status of a care program. This
       object is available in API version 61.0 and later.

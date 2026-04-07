@@ -5,12 +5,10 @@ topic: comments-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.480Z
+lastCollected: 2026-04-07T18:37:17.557Z
 estimatedTokens: 151
-keywords: [Comments, Capability, feed, element, comment, context, user, add]
+keywords: [Comments, Capability, comment, context, user, add]
 ---
-
-# Comments Capability
 
 > If a feed element or comment has this capability, the context user can
    add a comment.

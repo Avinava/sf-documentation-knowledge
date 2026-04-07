@@ -5,12 +5,10 @@ topic: connectapiauthapipaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.282Z
+lastCollected: 2026-04-07T18:36:04.590Z
 estimatedTokens: 128
-keywords: [ConnectApi.AuthApiPaymentMethodRequest, Payment, input, representation, authorizations]
+keywords: [ConnectApi.AuthApiPaymentMethodRequest, Payment, authorizations]
 ---
-
-# ConnectApi.AuthApiPaymentMethodRequest
 
 > Payment method input representation for payment
     authorizations.

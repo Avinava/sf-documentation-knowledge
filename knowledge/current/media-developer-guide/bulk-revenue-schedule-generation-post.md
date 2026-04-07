@@ -5,12 +5,10 @@ topic: bulk-revenue-schedule-generation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.918Z
+lastCollected: 2026-04-07T18:38:11.187Z
 estimatedTokens: 703
 keywords: [Bulk, Revenue, Schedule, Generation, POST, schedules, collection, opportunity, line, items]
 ---
-
-# Bulk Revenue Schedule Generation (POST)
 
 > Create revenue schedules for a collection of opportunity line
       items.

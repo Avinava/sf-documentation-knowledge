@@ -5,12 +5,10 @@ topic: events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.531Z
+lastCollected: 2026-04-07T18:38:02.459Z
 estimatedTokens: 81
-keywords: [Events, Although, attach, onclick, event, any, element, accessibility, consider, applying, elements, actionable, HTML, <a>, <button>, Event-driven, programming, languages, frameworks, JavaScript]
+keywords: [Events, Although, attach, onclick, event, any, accessibility, consider, applying, actionable, HTML, <a>, <button>, <input>, tags, markup, <div>, tag, prevent, Event-driven, programming, languages, frameworks, JavaScript, Java, Swing, idea, write, handlers, respond, they, occur]
 ---
-
-# Events
 
 > Event-driven programming is used in many languages and
 frameworks, such as JavaScript and Java Swing. The idea is that you

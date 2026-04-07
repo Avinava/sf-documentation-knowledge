@@ -5,12 +5,10 @@ topic: marketsegmentdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.977Z
+lastCollected: 2026-04-07T18:36:27.490Z
 estimatedTokens: 764
-keywords: [MarketSegmentDefinition, store, exportable, metadata, segment, criteria, attributes, Developers, definition, packages, pass, form, data, build, tool]
+keywords: [MarketSegmentDefinition, store, exportable, metadata, segment, criteria, attributes, Developers, definition, packages, pass, form, build, tool, DBT, publish, AppExchange, subscriber, organizations, install, instantiate, segments, Parent, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---
-
-# MarketSegmentDefinition
 
 > Represents the field values for MarketSegmentDefinition. MarketSegmentDefinition is
     used to store the exportable metadata of a segment, such as segment criteria and other

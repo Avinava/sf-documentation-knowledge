@@ -6,13 +6,10 @@ topic: using-smartstore-in-swift-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.802Z
+lastCollected: 2026-04-07T18:40:27.025Z
 estimatedTokens: 1150
 keywords: [SmartStore, Swift, Apps, easily, install, basic, plumbing, forceios, native, project]
 ---
-
-# Using SmartStore in Swift
-  Apps
 
 > You can easily install the basic plumbing for SmartStore in a forceios native
     Swift project.

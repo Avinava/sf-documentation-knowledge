@@ -5,12 +5,10 @@ topic: violationtypeshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.037Z
+lastCollected: 2026-04-07T18:40:05.916Z
 estimatedTokens: 249
 keywords: [ViolationTypeShare, Sharing, ViolationType]
 ---
-
-# ViolationTypeShare
 
 > Sharing for ViolationType.
 

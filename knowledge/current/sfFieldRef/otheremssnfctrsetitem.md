@@ -5,12 +5,10 @@ topic: otheremssnfctrsetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.059Z
+lastCollected: 2026-04-07T18:39:51.473Z
 estimatedTokens: 596
-keywords: [OtherEmssnFctrSetItem, individual, entries, emissions, conversion, factors, various, data, sources, neither, electricity, grid, nor, scope]
+keywords: [OtherEmssnFctrSetItem, individual, entries, emissions, conversion, factors, various, sources, neither, electricity, grid, nor, scope]
 ---
-
-# OtherEmssnFctrSetItem
 
 > Represents the individual entries for emissions and conversion factors for
          various data types and sources that are neither the electricity grid nor scope 3 data

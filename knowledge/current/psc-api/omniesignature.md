@@ -5,12 +5,10 @@ topic: omniesignature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.946Z
+lastCollected: 2026-04-07T18:39:07.120Z
 estimatedTokens: 66
 keywords: [OmniESignature, internal]
 ---
-
-# OmniESignature
 
 > For internal use only.
 

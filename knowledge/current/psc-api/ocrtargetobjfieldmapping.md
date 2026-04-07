@@ -5,12 +5,10 @@ topic: ocrtargetobjfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.004Z
+lastCollected: 2026-04-07T18:39:04.095Z
 estimatedTokens: 403
-keywords: [OcrTargetObjFieldMapping, how, documentdocument, mapped, API, version, 55.0, later, Calls, document, SOAP, REST, Special, Access, Rules]
+keywords: [OcrTargetObjFieldMapping, how, documentdocument, mapped, API, 55.0, document, SOAP, REST]
 ---
-
-# OcrTargetObjFieldMapping
 
 > Represents the details of how information from a document field is mapped
             to fields in an object. This object is available in API version 55.0 and

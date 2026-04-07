@@ -5,12 +5,10 @@ topic: apexactionfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.953Z
+lastCollected: 2026-04-07T18:38:48.904Z
 estimatedTokens: 1137
-keywords: [apex, actionFunction, component, support, invoking, controller, action, directly, JavaScript, code, AJAX, Attributes]
+keywords: [Attributes, apex, actionFunction, support, invoking, controller, action, directly, JavaScript, code, AJAX]
 ---
-
-# apex:actionFunction
 
 > A component that provides support for invoking controller action
 		methods directly from JavaScript code using an AJAX request.

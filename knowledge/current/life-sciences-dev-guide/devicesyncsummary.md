@@ -5,12 +5,10 @@ topic: devicesyncsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.217Z
+lastCollected: 2026-04-07T18:37:59.900Z
 estimatedTokens: 2190
-keywords: [DeviceSyncSummary, summary, synchronized, data, mobile, device, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [DeviceSyncSummary, summary, synchronized, mobile, device, API, 65.0]
 ---
-
-# DeviceSyncSummary
 
 > Represents a summary of the synchronized data from a mobile device.
       This object is available in API version 65.0 and later.

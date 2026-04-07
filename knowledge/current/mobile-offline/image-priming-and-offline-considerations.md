@@ -5,12 +5,10 @@ topic: image-priming-and-offline-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.372Z
+lastCollected: 2026-04-07T18:38:15.900Z
 estimatedTokens: 471
-keywords: [Image, Priming, Offline, Considerations, LWC, isn’t, magic, hasn’t, primed, can’t, primes, assets, referenced, component, template]
+keywords: [Image, Priming, Offline, Considerations, LWC, isn’t, magic, hasn’t, primed, can’t, primes, assets, referenced, template, files, src, attribute, standard, HTML, img, tag]
 ---
-
-# Image Priming and Offline Considerations
 
 > LWC Offline isn’t magic. If an image hasn’t been primed before you go offline, it can’t
   be displayed while offline. LWC Offline primes image assets that are referenced in component

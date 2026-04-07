@@ -5,12 +5,10 @@ topic: transaction-journal-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.061Z
+lastCollected: 2026-04-07T18:38:08.319Z
 estimatedTokens: 171
 keywords: [Transaction, Journal, that's, created]
 ---
-
-# Transaction Journal Details
 
 > The details of the transaction journal that's created.
 

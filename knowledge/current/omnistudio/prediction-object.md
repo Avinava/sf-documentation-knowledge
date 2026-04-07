@@ -5,12 +5,10 @@ topic: prediction-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:54.467Z
+lastCollected: 2026-04-07T18:36:40.215Z
 estimatedTokens: 141
-keywords: [Prediction, Output, representation, predictions]
+keywords: [Prediction, predictions]
 ---
-
-# Prediction Object
 
 > Output representation of the list of predictions.
 

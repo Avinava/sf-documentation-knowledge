@@ -5,12 +5,10 @@ topic: post-smsv1automationimportsendiddeliveryreport
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.390Z
+lastCollected: 2026-04-07T18:40:17.567Z
 estimatedTokens: 214
-keywords: [POST, sms, automation, importSend, deliveryReport, Generates, csv, fiie, containing, regarding, message, delivery, specific, MessageList, places]
+keywords: [POST, sms, automation, importSend, deliveryReport, Generates, csv, fiie, containing, regarding, message, delivery, specific, MessageList, places, report, Enhanced, FTP, location, Marketing, Cloud, account, **Overview**]
 ---
-
-# POST /sms/v1/automation/importSend/{id}/deliveryReport
 
 > Generates a .csv fiie containing information regarding SMS message delivery for a specific MessageList and places the report in the Enhanced FTP location for the Marketing Cloud account.
 

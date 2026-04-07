@@ -5,12 +5,10 @@ topic: daily-scheduled-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.375Z
+lastCollected: 2026-04-07T18:36:56.908Z
 estimatedTokens: 61
-keywords: [Daily, Scheduled, Item, schedule, data, refresh]
+keywords: [Daily, Scheduled, Item, schedule, refresh]
 ---
-
-# Daily Scheduled Item
 
 > The daily schedule for a data refresh.
 

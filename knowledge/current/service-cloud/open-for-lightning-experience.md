@@ -5,12 +5,10 @@ topic: open-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.088Z
+lastCollected: 2026-04-07T18:36:50.289Z
 estimatedTokens: 252
-keywords: [open, Lightning, Experience, Opens, utility, already, effect, time, another, minimizes, Web, Components, LWC, Arguments, Sample]
+keywords: [Arguments, open, Lightning, Experience, Opens, utility, already, effect, time, another, minimizes, Web, LWC, Sample, Code]
 ---
-
-# open() for Lightning Experience
 
 > Opens a utility. If the utility is already open, this method has no effect. Only one
         utility can be open at a time. If another utility is already open, open() minimizes the utility. This method is available

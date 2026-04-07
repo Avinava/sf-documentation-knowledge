@@ -5,12 +5,10 @@ topic: scheduledrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.848Z
+lastCollected: 2026-04-07T18:40:20.070Z
 estimatedTokens: 128
 keywords: [ScheduledRequest, message, part, conversation, Schedule, non-conversation, messages, days, fewer, future, Items]
 ---
-
-# ScheduledRequest
 
 > The ScheduledRequest object contains information about a message that is not part of a conversation. Schedule non-conversation messages 30 days or fewer in the future.
 

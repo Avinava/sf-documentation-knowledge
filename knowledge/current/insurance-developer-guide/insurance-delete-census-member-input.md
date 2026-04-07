@@ -5,12 +5,10 @@ topic: insurance-delete-census-member-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.083Z
+lastCollected: 2026-04-07T18:37:51.023Z
 estimatedTokens: 82
-keywords: [Insurance, Census, Member, Input, representation]
+keywords: [Insurance, Census, Member]
 ---
-
-# Insurance Delete Census Member Input
 
 > Input representation to delete census member.
 

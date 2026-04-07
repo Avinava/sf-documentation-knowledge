@@ -5,12 +5,10 @@ topic: emissionsactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.769Z
+lastCollected: 2026-04-07T18:38:18.283Z
 estimatedTokens: 822
-keywords: [EmissionsActivity, company’s, emission, generating, activities, greenhouse, gas, categories, aggregate, emissions, API, version, 54.0, later, Calls]
+keywords: [EmissionsActivity, company’s, emission, generating, activities, greenhouse, gas, categories, aggregate, emissions, API, 54.0]
 ---
-
-# EmissionsActivity
 
 > Represents a company’s emission generating activities and the greenhouse gas categories that are used to aggregate emissions for these activities. This object is available in API version 54.0 and later.
 

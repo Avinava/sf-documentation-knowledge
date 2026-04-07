@@ -5,12 +5,10 @@ topic: out-of-sequence-endorse-policy-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.265Z
+lastCollected: 2026-04-07T18:37:51.254Z
 estimatedTokens: 311
-keywords: [Out-of-Sequence, Endorse, Policy, Input, representation, creating, endorsement]
+keywords: [Out-of-Sequence, Endorse, Policy, creating, endorsement]
 ---
-
-# Out-of-Sequence Endorse Policy Input
 
 > Input representation of the details for creating the out-of-sequence
     endorsement.

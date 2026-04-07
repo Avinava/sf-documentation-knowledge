@@ -5,12 +5,10 @@ topic: salesforce-crm-transaction-journal-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:08.419Z
+lastCollected: 2026-04-07T18:35:53.372Z
 estimatedTokens: 826
-keywords: [Salesforce, CRM, Transaction, Journal, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, journals]
+keywords: [Salesforce, CRM, Transaction, Journal, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, journals, track, member, activities, behavior, adjustments, DMO]
 ---
-
-# Salesforce CRM: Transaction Journal Mapping
 
 > These data mappings are for the Transaction Journal DLO found in the Loyalty Management
   bundle of the Salesforce CRM Connector for Data Cloud. Transaction journals are used to track

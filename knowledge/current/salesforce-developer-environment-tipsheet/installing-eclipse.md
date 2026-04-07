@@ -5,12 +5,10 @@ topic: installing-eclipse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.097Z
+lastCollected: 2026-04-07T18:39:16.674Z
 estimatedTokens: 293
 keywords: [Installing, Eclipse, integrated, development, environment, IDE, Java]
 ---
-
-# Installing Eclipse
 
 > Eclipse is an integrated development environment (IDE)
 for Java development.

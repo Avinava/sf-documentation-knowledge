@@ -5,12 +5,10 @@ topic: create-an-iam-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.884Z
+lastCollected: 2026-04-07T18:38:09.179Z
 estimatedTokens: 264
-keywords: [IAM, User, Identity, Access, Management, manages, permissions, users, applications, AWS, account, assign, independently, maintain, security]
+keywords: [IAM, User, Identity, Management, manages, permissions, users, applications, AWS, account, assign, independently, maintain, security, control, Console]
 ---
-
-# Create an IAM User
 
 > An Identity and Access Management (IAM) user manages the access and permissions for the
   users and applications within your AWS account. Create an IAM user and assign permissions to the

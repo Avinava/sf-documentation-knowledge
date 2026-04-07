@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.282Z
+lastCollected: 2026-04-07T18:36:58.780Z
 estimatedTokens: 180
-keywords: [Smart, Data, Discovery, Predict, Input, Einstein]
+keywords: [Smart, Discovery, Predict, Einstein]
 ---
-
-# Smart Data Discovery Predict Input
 
 > The predict input for Einstein Discovery.
 

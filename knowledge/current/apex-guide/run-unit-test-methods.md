@@ -5,12 +5,10 @@ topic: run-unit-test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.420Z
+lastCollected: 2026-04-07T18:36:18.648Z
 estimatedTokens: 2604
-keywords: [Run, Unit, Test, verify, functionality, Apex, code, execute, tests, Developer, Console, Setup, Salesforce, extensions, Visual]
+keywords: [Run, Unit, Test, verify, functionality, Apex, code, execute, tests, Developer, Console, Setup, Salesforce, extensions, Visual, Studio, API, Running, User, ApexTestQueueItem]
 ---
-
-# Run Unit Test Methods
 
 > To verify the functionality of your Apex code, execute unit tests. You can run Apex
         test methods in the Developer Console, in Setup, in the Salesforce extensions for Visual

@@ -5,12 +5,10 @@ topic: conversations-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.143Z
+lastCollected: 2026-04-07T18:37:13.081Z
 estimatedTokens: 98
 keywords: [Conversations, Resources, conversation, entries, Upload, bulk, statuses, uploads]
 ---
-
-# Conversations Resources
 
 > Get and update conversation entries. Upload bulk conversations and
             get the statuses of the uploads.

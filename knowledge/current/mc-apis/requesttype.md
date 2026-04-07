@@ -5,12 +5,10 @@ topic: requesttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.303Z
+lastCollected: 2026-04-07T18:40:18.509Z
 estimatedTokens: 144
 keywords: [RequestType, API]
 ---
-
-# RequestType
 
 > The RequestType object specifies type of API request.
 

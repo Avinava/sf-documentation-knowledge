@@ -5,12 +5,10 @@ topic: cgcloudcppricingconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.894Z
+lastCollected: 2026-04-07T18:39:13.306Z
 estimatedTokens: 1695
-keywords: [cgcloud__CP_Pricing_Condition__c, holds, pricing, condition, Penny, Perfect, functionality, uses, API, version, 54.0, later, cgcloud, _CP, _Pricing]
+keywords: [cgcloud__CP_Pricing_Condition__c, holds, pricing, condition, Penny, Perfect, functionality, uses, API, 54.0, cgcloud, _CP, _Pricing, _Condition]
 ---
-
-# cgcloud__CP_Pricing_Condition__c
 
 > This object holds the details of the pricing condition object that
          the Penny Perfect Pricing functionality uses. This object is available in API version

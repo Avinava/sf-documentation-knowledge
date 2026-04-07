@@ -5,12 +5,10 @@ topic: loyaltypgmpartnerpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.916Z
+lastCollected: 2026-04-07T18:39:47.406Z
 estimatedTokens: 326
-keywords: [LoyaltyPgmPartnerPromotion, junction, Promotion, Loyalty, Program, Partner, objects]
+keywords: [LoyaltyPgmPartnerPromotion, junction, Promotion, Loyalty, Program, Partner]
 ---
-
-# LoyaltyPgmPartnerPromotion
 
 > Represents a junction between the Promotion and Loyalty Program Partner
          objects.

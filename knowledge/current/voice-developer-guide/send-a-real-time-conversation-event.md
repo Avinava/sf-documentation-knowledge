@@ -5,12 +5,10 @@ topic: send-a-real-time-conversation-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.239Z
+lastCollected: 2026-04-07T18:40:13.174Z
 estimatedTokens: 975
 keywords: [Send, Real-Time, Conversation, Event, events, generated, intelligence, sources, rep, console, URI, HTTP]
 ---
-
-# Send a Real-Time Conversation Event
 
 > Send real-time conversation events generated from intelligence sources
       to the rep console.

@@ -5,12 +5,10 @@ topic: medium-sized-partners
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.582Z
+lastCollected: 2026-04-07T18:38:54.979Z
 estimatedTokens: 791
-keywords: [Medium-Sized, Partners, bigger, subscriber, bases, six, managed, packages, partner’s, total, daily, usage, data, across, over]
+keywords: [Medium-Sized, Partners, bigger, subscriber, bases, six, managed, packages, partner’s, total, daily, across, over, queries, approach, hit, 15-minute, processing, time, limit]
 ---
-
-# Medium-Sized Partners
 
 > Medium-sized partners have bigger subscriber bases and about six managed packages. A
   medium-sized partner’s total daily usage data across all managed packages is at or just over 20

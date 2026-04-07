@@ -5,12 +5,10 @@ topic: appdelegate-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.968Z
+lastCollected: 2026-04-07T18:40:26.279Z
 estimatedTokens: 834
-keywords: [AppDelegate, init, iOS, calls, application, didFinishLaunchingWithOptions, call, simply, unless, you’ve, uncommented, line, registers, app, push]
+keywords: [Initialization, AppDelegate, init, iOS, application, didFinishLaunchingWithOptions, call, simply, unless, you’ve, uncommented, line, registers, app, push, notifications, Objective-C, UIApplication, Event, Handlers]
 ---
-
-# AppDelegate Class
 
 > After init() returns, iOS calls application(_:didFinishLaunchingWithOptions:_:).
                 This call simply returns unless you’ve uncommented the line in it that registers

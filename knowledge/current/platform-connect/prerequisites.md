@@ -5,12 +5,10 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.751Z
+lastCollected: 2026-04-07T18:38:57.556Z
 estimatedTokens: 888
-keywords: [Prerequisites, appropriate, access, tools, quick, start, steps]
+keywords: [Prerequisites, appropriate, tools, quick, start, steps]
 ---
-
-# Prerequisites
 
 > Get the appropriate access and tools to complete the quick start.
 

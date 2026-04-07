@@ -5,12 +5,10 @@ topic: approvalworkitemcriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.871Z
+lastCollected: 2026-04-07T18:39:26.831Z
 estimatedTokens: 366
-keywords: [ApprovalWorkItemCriteria, logic, smart, approval, evaluated, API, version, 64.0, later]
+keywords: [ApprovalWorkItemCriteria, logic, smart, approval, evaluated, API, 64.0]
 ---
-
-# ApprovalWorkItemCriteria
 
 > Represents the logic by which a smart approval request is evaluated.
       This object is available in API version 64.0 and later.

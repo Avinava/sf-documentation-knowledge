@@ -5,12 +5,10 @@ topic: extractresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.814Z
+lastCollected: 2026-04-07T18:40:16.977Z
 estimatedTokens: 315
-keywords: [ExtractResult, result, extract, includes, applicable, status, error, code, multiple, objects, call]
+keywords: [ExtractResult, result, extract, includes, applicable, status, error, code, multiple, call]
 ---
-
-# ExtractResult
 
 > The ExtractResult object contains result of an extract request. Returned information includes applicable status and error code information. You can have multiple ExtractResult objects returned as the result of a single call.
 

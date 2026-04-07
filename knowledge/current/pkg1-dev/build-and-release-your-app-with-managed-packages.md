@@ -5,12 +5,10 @@ topic: build-and-release-your-app-with-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.010Z
+lastCollected: 2026-04-07T18:38:54.423Z
 estimatedTokens: 322
-keywords: [Build, Release, App, Managed, Packages, developed, tested, you’re, well, way, releasing, Luckily, it’s, time, package]
+keywords: [Build, Release, App, Managed, Packages, developed, tested, you’re, well, way, releasing, Luckily, it’s, time, package, you’ve, got, options, scratch, experimenting, sample, Salesforce, emulate, process]
 ---
-
-# Build and Release Your App with Managed Packages
 
 > If you developed and tested your app, you’re well on your way to releasing it. Luckily,
   when it’s time to build and release an app as a managed package, you’ve got options. You can

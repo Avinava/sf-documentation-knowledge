@@ -5,12 +5,10 @@ topic: transfer-an-unlocked-package-to-a-different-dev-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.151Z
+lastCollected: 2026-04-07T18:40:09.102Z
 estimatedTokens: 1423
-keywords: [Transfer, Unlocked, Package, Different, Dev, Hub, ownership, org, another, Prepare, Process, Impact, Transfers, IDs, Project]
+keywords: [Transfer, Unlocked, Package, Different, Dev, Hub, ownership, org, another, Prepare, Process, Impact, Transfers, IDs, Project, File, Transferred]
 ---
-
-# Transfer an Unlocked Package to a Different Dev Hub
 
 > You can transfer the ownership of an unlocked package from one Dev Hub org to
   another.

@@ -5,12 +5,10 @@ topic: externallearning
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.086Z
+lastCollected: 2026-04-07T18:37:31.213Z
 estimatedTokens: 977
-keywords: [ExternalLearning, training, made, external, provider, course, program, on-site, experience, contact, API, version, 65.0, later, Calls]
+keywords: [ExternalLearning, training, made, external, provider, course, program, on-site, experience, contact, API, 65.0]
 ---
-
-# ExternalLearning
 
 > Represents information that defines a training that is made available by an
          external provider as a course, program, or on-site experience, for a contact. This

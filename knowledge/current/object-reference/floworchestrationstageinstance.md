@@ -5,12 +5,10 @@ topic: floworchestrationstageinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.609Z
+lastCollected: 2026-04-07T18:38:32.598Z
 estimatedTokens: 1056
-keywords: [FlowOrchestrationStageInstance, run-time, instance, stage, orchestration, read-only, API, version, 53.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [FlowOrchestrationStageInstance, run-time, instance, stage, orchestration, read-only, API, 53.0]
 ---
-
-# FlowOrchestrationStageInstance
 
 > Represents a run-time instance of a stage in a run-time instance of an
          orchestration. This read-only object is available in API version 53.0 and later.

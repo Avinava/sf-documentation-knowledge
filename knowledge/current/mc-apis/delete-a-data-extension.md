@@ -5,12 +5,10 @@ topic: delete-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.480Z
+lastCollected: 2026-04-07T18:40:16.623Z
 estimatedTokens: 620
-keywords: [Data, Extension, longer, require, stored, moved, new, current, can't, access, again, Sample, SOAP, Envelope, Items]
+keywords: [Extension, longer, require, stored, moved, new, current, can't, again, Sample, SOAP, Envelope, Items]
 ---
-
-# Delete a Data Extension
 
 > If you no longer require the information stored in a data extension or have moved that data to a new data extension, you can delete the current data extension object. After you delete the data extension, you can't access the data again.
 

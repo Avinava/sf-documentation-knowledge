@@ -5,12 +5,10 @@ topic: identity-verification-and-engagements-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.830Z
+lastCollected: 2026-04-07T18:36:52.256Z
 estimatedTokens: 237
-keywords: [Identity, Verification, Engagements, Automotive, Cloud, data, model, configuring, process, verify, caller, their, requests, processed, customer]
+keywords: [Identity, Verification, Engagements, Automotive, Cloud, model, configuring, process, verify, caller, their, requests, processed, customer, service, representative, CSR, Console, engagement, store, interaction, verified, working]
 ---
-
-# Identity Verification and Engagements in Automotive Cloud
 
 > The Identity Verification data model is used in configuring the process to verify the
   identity of a caller before their requests are processed by a customer service representative

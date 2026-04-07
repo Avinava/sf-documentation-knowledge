@@ -5,12 +5,10 @@ topic: retrieve-sales-transaction-api-errors-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.926Z
+lastCollected: 2026-04-07T18:35:44.944Z
 estimatedTokens: 387
-keywords: [Retrieve, Sales, Transaction, API, Errors, any, asynchronous, error, associated]
+keywords: [Retrieve, Sales, Transaction, API, Errors, any, asynchronous, error]
 ---
-
-# Retrieve Sales Transaction API Errors (GET)
 
 > Retrieve any asynchronous error details associated with
       a sales transaction request.

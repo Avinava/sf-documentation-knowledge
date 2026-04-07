@@ -5,12 +5,10 @@ topic: document-recipient-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.954Z
+lastCollected: 2026-04-07T18:37:24.920Z
 estimatedTokens: 181
 keywords: [Document, Recipient, Fetch, status, contract, versions, monitor, e-signature, progress, identify, decline, reasons]
 ---
-
-# Document Recipient (GET)
 
 > Fetch recipient status for contract document
       versions to monitor e-signature progress and identify decline reasons.

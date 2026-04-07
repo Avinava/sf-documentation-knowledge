@@ -5,12 +5,10 @@ topic: supported-browsers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.500Z
+lastCollected: 2026-04-07T18:38:57.291Z
 estimatedTokens: 653
 keywords: [Browsers, Canvas]
 ---
-
-# Supported Browsers
 
 > Learn where Canvas is supported.
 

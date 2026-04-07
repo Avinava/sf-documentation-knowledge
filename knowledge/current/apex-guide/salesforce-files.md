@@ -5,12 +5,10 @@ topic: salesforce-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.197Z
+lastCollected: 2026-04-07T18:36:18.424Z
 estimatedTokens: 216
 keywords: [Salesforce, Files, Apex, customize, behavior]
 ---
-
-# Salesforce Files
 
 > Use Apex to customize the behavior of Salesforce Files.
 

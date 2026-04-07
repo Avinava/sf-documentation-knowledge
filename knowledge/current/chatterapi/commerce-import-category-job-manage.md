@@ -5,12 +5,10 @@ topic: commerce-import-category-job-manage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.100Z
+lastCollected: 2026-04-07T18:37:11.929Z
 estimatedTokens: 243
-keywords: [Commerce, Import, Category, Job, Manage, Cancel, status, asynchronously, data, csv, file]
+keywords: [Commerce, Import, Category, Job, Manage, Cancel, status, asynchronously, csv, file]
 ---
-
-# Commerce Import Category Job, Manage
 
 > Cancel or get the status of a job to asynchronously import category
       data using a .csv file.

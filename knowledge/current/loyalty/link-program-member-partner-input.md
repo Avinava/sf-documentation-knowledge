@@ -5,12 +5,10 @@ topic: link-program-member-partner-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.038Z
+lastCollected: 2026-04-07T18:38:07.252Z
 estimatedTokens: 117
-keywords: [Link, Program, Member, Partner, Input]
+keywords: [Link, Program, Member, Partner]
 ---
-
-# Link Program Member Partner Input
 
 > Input details to link a program member and partner.
 

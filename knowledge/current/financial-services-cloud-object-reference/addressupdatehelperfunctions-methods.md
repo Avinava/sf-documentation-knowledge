@@ -5,12 +5,10 @@ topic: addressupdatehelperfunctions-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.777Z
+lastCollected: 2026-04-07T18:37:34.282Z
 estimatedTokens: 103
 keywords: [AddressUpdateHelperFunctions]
 ---
-
-# AddressUpdateHelperFunctions Methods
 
 > The following are methods for AddressUpdateHelperFunctions.
 

@@ -5,12 +5,10 @@ topic: listviewchart
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.733Z
+lastCollected: 2026-04-07T18:38:34.967Z
 estimatedTokens: 610
-keywords: [ListViewChart, graphical, chart, that’s, Salesforce, Android, iOS, mobile, web, views, aggregates, data, filtered, view, currently]
+keywords: [ListViewChart, graphical, chart, that’s, Salesforce, Android, iOS, mobile, web, views, aggregates, filtered, view, currently]
 ---
-
-# ListViewChart
 
 > Represents a graphical chart that’s displayed on
     Salesforce for Android, iOS, and mobile web list views. The chart aggregates data that is

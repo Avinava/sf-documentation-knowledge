@@ -5,12 +5,10 @@ topic: carerequestsupportingcntnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.733Z
+lastCollected: 2026-04-07T18:37:46.293Z
 estimatedTokens: 1139
-keywords: [CareRequestSupportingCntnt, supporting, content, care, assessments, documents, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [CareRequestSupportingCntnt, supporting, content, care, assessments, documents, API, 63.0]
 ---
-
-# CareRequestSupportingCntnt
 
 > Represents details about supporting content of a care request such as
          assessments or content documents. This object is available in API version 63.0 and

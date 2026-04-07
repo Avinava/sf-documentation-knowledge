@@ -5,12 +5,10 @@ topic: displaying-the-create-and-edit-record-modals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.792Z
+lastCollected: 2026-04-07T18:38:03.885Z
 estimatedTokens: 298
-keywords: [Displaying, Edit, Record, Modals, take, advantage, built-in, events, display, let, records, via, Aura, component]
+keywords: [Displaying, Edit, Record, Modals, take, advantage, built-in, events, display, let, records, via, Aura]
 ---
-
-# Displaying the Create and Edit Record Modals
 
 > You can take advantage of built-in events to display modals that let you create or edit
     records via an Aura component.

@@ -5,13 +5,11 @@ topic: suggestionoption-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.612Z
+lastCollected: 2026-04-07T18:36:00.889Z
 estimatedTokens: 640
 namespace: Search
-keywords: [SuggestionOption, Options, narrow, record, article, suggestion, results, call, System.Search.suggest, Search.SuggestionOption, setFilter, knowledgeSuggestionFilter, Usage, setLimit, limit]
+keywords: [SuggestionOption, Options, narrow, record, article, suggestion, results, call, System.Search.suggest, Search.SuggestionOption, setFilter, knowledgeSuggestionFilter, setLimit, limit]
 ---
-
-# SuggestionOption Class
 
 > Options that narrow record and article suggestion results returned
       from a call to System.Search.suggest(String, String,

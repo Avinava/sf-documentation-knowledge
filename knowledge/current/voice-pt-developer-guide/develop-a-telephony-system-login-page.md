@@ -5,12 +5,10 @@ topic: develop-a-telephony-system-login-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.742Z
+lastCollected: 2026-04-07T18:40:13.668Z
 estimatedTokens: 609
 keywords: [Develop, Telephony, System, Login, needed, appears, Omni-Channel, utility, Lightning, service, console]
 ---
-
-# Develop a Telephony System Login Page
 
 > If needed, create a telephony system login page that appears in the Omni-Channel utility
   in the Lightning service console.

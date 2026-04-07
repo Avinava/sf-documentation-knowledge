@@ -5,12 +5,10 @@ topic: configure-components-for-flow-screens
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.006Z
+lastCollected: 2026-04-07T18:38:02.964Z
 estimatedTokens: 624
-keywords: [Configure, Components, Flow, Screens, custom, Aura, Builder, implementing, lightning, availableForFlowScreens]
+keywords: [Configure, Flow, Screens, Aura, Builder, implementing, lightning, availableForFlowScreens]
 ---
-
-# Configure Components for Flow Screens
 
 > Make your custom Aura components available to flow screens in Flow Builder by
     implementing the lightning:availableForFlowScreens

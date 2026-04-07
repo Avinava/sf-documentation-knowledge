@@ -5,12 +5,10 @@ topic: customize-the-flow-footer-with-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.045Z
+lastCollected: 2026-04-07T18:38:03.003Z
 estimatedTokens: 1020
-keywords: [Customize, Flow, Footer, Aura, Component, replace, lightning, availableForFlowScreens, availableActions, array, actions, screen, navigateFlow, action, lets]
+keywords: [Customize, Flow, Footer, Aura, replace, lightning, availableForFlowScreens, availableActions, array, actions, screen, navigateFlow, action, lets, invoke, Control, Navigation, Child]
 ---
-
-# Customize the Flow Footer with an Aura Component
 
 > To replace the flow footer with an Aura component, use the parameters that the
          lightning:availableForFlowScreens interface provides.

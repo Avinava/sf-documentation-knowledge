@@ -5,12 +5,10 @@ topic: contractextractionresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.573Z
+lastCollected: 2026-04-07T18:37:25.499Z
 estimatedTokens: 1089
-keywords: [ContractExtractionResult, contract-specific, data, extracted, Contracts, uploaded, PDF, that's, ready, review, account, owner, start, date, contract]
+keywords: [ContractExtractionResult, contract-specific, extracted, Contracts, uploaded, PDF, that's, ready, review, account, owner, start, date, contract, record, term, clauses, creation, users, modify, temporarily, stored, API, 60.0]
 ---
-
-# ContractExtractionResult
 
 > Represents contract-specific data extracted by the Contracts AI from an
          uploaded PDF that's ready for review. For example, account name, owner, start date,

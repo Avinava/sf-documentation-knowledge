@@ -5,12 +5,10 @@ topic: pricingprocedureoutputmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.918Z
+lastCollected: 2026-04-07T18:35:49.881Z
 estimatedTokens: 636
-keywords: [PricingProcedureOutputMap, mapping, outputs, pricing, procedures, associated, lookup, tables, record, output, component, Recipe, API, version, 60.0]
+keywords: [PricingProcedureOutputMap, mapping, outputs, pricing, procedures, lookup, tables, record, Recipe, API, 60.0]
 ---
-
-# PricingProcedureOutputMap
 
 > Represents the mapping of the outputs of the pricing procedures to the
          associated lookup tables. Each record specifies the output mapping of the associated lookup

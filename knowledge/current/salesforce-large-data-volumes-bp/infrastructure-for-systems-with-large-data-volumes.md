@@ -6,13 +6,10 @@ topic: infrastructure-for-systems-with-large-data-volumes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.212Z
+lastCollected: 2026-04-07T18:39:17.893Z
 estimatedTokens: 370
-keywords: [Infrastructure, Systems, Large, Data, Volumes]
+keywords: [Infrastructure, Systems, Large, Volumes]
 ---
-
-# Infrastructure for Systems with Large
-Data Volumes
 
 # Infrastructure for Systems with Large Data Volumes
 

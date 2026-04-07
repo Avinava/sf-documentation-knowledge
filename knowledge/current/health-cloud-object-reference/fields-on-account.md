@@ -5,12 +5,10 @@ topic: fields-on-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:55.645Z
+lastCollected: 2026-04-07T18:37:43.817Z
 estimatedTokens: 370
 keywords: [Account, Health, Cloud, extend, standard, represent, patients, providers]
 ---
-
-# Fields on Account
 
 > Health Cloud fields extend the standard Account object to represent information about
       patients and providers.

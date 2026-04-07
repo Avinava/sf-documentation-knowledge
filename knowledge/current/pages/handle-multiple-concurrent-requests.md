@@ -5,12 +5,10 @@ topic: handle-multiple-concurrent-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.646Z
+lastCollected: 2026-04-07T18:38:48.595Z
 estimatedTokens: 841
-keywords: [Handle, Multiple, Concurrent, Requests, long-running, tasks, block, pending, reduce, delays, move, code, asynchronous, blocks, possible]
+keywords: [Handle, Multiple, Concurrent, Requests, long-running, tasks, block, pending, reduce, delays, move, code, asynchronous, blocks, possible, sure, action, <apex, actionPoller>, lightweight, Write, Keep]
 ---
-
-# Handle Multiple Concurrent Requests
 
 > Concurrent requests are long-running tasks that can block other pending tasks. To reduce
     delays, move code to asynchronous code blocks when possible and make sure action methods that

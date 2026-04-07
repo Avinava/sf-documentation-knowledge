@@ -5,12 +5,10 @@ topic: voucher-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.134Z
+lastCollected: 2026-04-07T18:38:08.397Z
 estimatedTokens: 100
-keywords: [Voucher, Result, Output, representation]
+keywords: [Voucher, Result]
 ---
-
-# Voucher Result
 
 > Output representation of the voucher result.
 

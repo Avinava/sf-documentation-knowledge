@@ -5,12 +5,10 @@ topic: transaction-journals-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.335Z
+lastCollected: 2026-04-07T18:38:07.561Z
 estimatedTokens: 895
 keywords: [Transaction, Journals, Execution, resource, process, against, corresponding, loyalty, program]
 ---
-
-# Transaction Journals Execution
 
 > Use this resource to create and process a list of transaction
       journals against a corresponding loyalty program process.

@@ -5,12 +5,10 @@ topic: post-a-poll
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.318Z
+lastCollected: 2026-04-07T18:37:24.338Z
 estimatedTokens: 432
-keywords: [Post, Poll, feed, element, Chatter]
+keywords: [Post, Poll, Chatter]
 ---
-
-# Post a Poll
 
 > Post a poll feed element in Chatter.
 

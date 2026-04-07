@@ -5,12 +5,10 @@ topic: check-for-redundant-filters
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.556Z
+lastCollected: 2026-04-07T18:37:01.149Z
 estimatedTokens: 71
-keywords: [Check, Redundant, Filters, Binding, faceting, dashboard, design, generate, SAQL, queries, produces, remove, unnecessary, Consider, how]
+keywords: [Check, Redundant, Filters, Binding, faceting, dashboard, design, generate, SAQL, queries, produces, remove, unnecessary, Consider, how, filter, interacts, query, vice, versa]
 ---
-
-# Check for Redundant Filters
 
 > Binding and faceting in your dashboard design can generate redundant filters. Check
   the SAQL queries that your dashboard produces to remove unnecessary filters. Consider how a filter

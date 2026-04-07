@@ -5,12 +5,10 @@ topic: partyrelationshipgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.605Z
+lastCollected: 2026-04-07T18:36:53.020Z
 estimatedTokens: 1580
-keywords: [PartyRelationshipGroup, group, people, living, together, household, affiliated, Automotive, Cloud, API, version, 56.0, later, Calls, Associated]
+keywords: [PartyRelationshipGroup, group, people, living, together, household, affiliated, Automotive, Cloud, API, 56.0]
 ---
-
-# PartyRelationshipGroup
 
 > Represents a group of people living together such as a household, or a group
          of people affiliated with each other. This object is available in Automotive Cloud in

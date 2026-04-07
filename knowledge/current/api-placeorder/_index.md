@@ -2,7 +2,7 @@
 domain: api-placeorder
 name: Place Order REST API Developer Guide
 documentCount: 17
-lastGenerated: 2026-04-07T09:06:35.602Z
+lastGenerated: 2026-04-07T18:40:41.061Z
 ---
 
 # Place Order REST API Developer Guide — Knowledge Index

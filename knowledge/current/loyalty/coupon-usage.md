@@ -5,12 +5,10 @@ topic: coupon-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.609Z
+lastCollected: 2026-04-07T18:38:07.835Z
 estimatedTokens: 89
-keywords: [Coupon, Usage, coupons, increased, decreased]
+keywords: [Coupon, coupons, increased, decreased]
 ---
-
-# Coupon Usage
 
 > The details of the coupons for which usage has been increased or decreased.
 

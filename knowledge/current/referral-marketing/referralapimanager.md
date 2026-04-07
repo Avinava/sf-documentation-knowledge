@@ -5,12 +5,10 @@ topic: referralapimanager
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.475Z
+lastCollected: 2026-04-07T18:39:09.789Z
 estimatedTokens: 1098
-keywords: [ReferralAPIManager, invokes, manages, referral-related, REST, API, requests, interact, Salesforce, Referral, Marketing, APIs, manage, operations, referralEnrollment]
+keywords: [ReferralAPIManager, invokes, manages, referral-related, REST, API, requests, interact, Salesforce, Referral, Marketing, APIs, manage, operations, referralEnrollment, referralEvent]
 ---
-
-# ReferralAPIManager
 
 > The ReferralAPIManager class invokes and manages
     referral-related REST API requests. Use this class to interact with the Salesforce Referral

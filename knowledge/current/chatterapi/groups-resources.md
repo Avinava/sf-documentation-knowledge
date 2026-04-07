@@ -5,12 +5,10 @@ topic: groups-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.168Z
+lastCollected: 2026-04-07T18:37:14.128Z
 estimatedTokens: 760
 keywords: [Groups, Resources, group's, members, photo, organization, group, add, change]
 ---
-
-# Groups Resources
 
 > Information about groups, such as the group's members, photo,
             and the groups in the organization. Create and delete a group, add members to a group,

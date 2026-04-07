@@ -5,12 +5,10 @@ topic: insurance-product-rating-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.729Z
+lastCollected: 2026-04-07T18:37:51.795Z
 estimatedTokens: 511
-keywords: [Insurance, Product, Rating, POST, Generate, input, IDs, generated, API, evaluate, pricing]
+keywords: [Insurance, Product, Rating, POST, Generate, IDs, generated, API, evaluate, pricing]
 ---
-
-# Insurance Product Rating Details (POST)
 
 > Generate rating input details from a list of Product IDs, and use the
    generated rating input as the request body for the Insurance Product Rating API to evaluate

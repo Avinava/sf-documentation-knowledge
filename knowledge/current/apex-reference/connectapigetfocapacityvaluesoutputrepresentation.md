@@ -5,12 +5,10 @@ topic: connectapigetfocapacityvaluesoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.117Z
+lastCollected: 2026-04-07T18:36:09.508Z
 estimatedTokens: 135
 keywords: [fulfillment, order, capacity, locations]
 ---
-
-# ConnectApi.GetFOCapacityValuesOutputRepresentation
 
 > Response to a request for fulfillment order capacity values for one or
       more locations.

@@ -5,12 +5,10 @@ topic: promotion-reward-application
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.951Z
+lastCollected: 2026-04-07T18:38:08.204Z
 estimatedTokens: 113
-keywords: [Promotion, Reward, Application, Output, representation, transaction, journals, created, processed]
+keywords: [Promotion, Reward, Application, transaction, journals, created, processed]
 ---
-
-# Promotion Reward Application
 
 > Output representation details of the transaction journals that are created and
     processed.

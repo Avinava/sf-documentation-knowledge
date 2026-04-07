@@ -5,12 +5,10 @@ topic: refresh-records-cached-in-durable-store-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.419Z
+lastCollected: 2026-04-07T18:38:14.880Z
 estimatedTokens: 585
-keywords: [Refresh, Records, Cached, Durable, Store, Offline, it’s, possible, retrieve, updated, data, Salesforce, client, device, updates]
+keywords: [Refresh, Records, Cached, Durable, Store, Offline, it’s, possible, retrieve, updated, Salesforce, client, device, updates, known, stale]
 ---
-
-# Refresh Records Cached in Durable Store While Offline
 
 > While it’s not possible to retrieve updated data from Salesforce while a client device
   is offline, it’s still possible to request updates when data is known to be stale.

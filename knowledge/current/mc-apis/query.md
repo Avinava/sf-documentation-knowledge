@@ -5,12 +5,10 @@ topic: query
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.192Z
+lastCollected: 2026-04-07T18:40:18.398Z
 estimatedTokens: 51
-keywords: [Query, Marketing, Cloud, data]
+keywords: [Query, Marketing, Cloud]
 ---
-
-# Query
 
 > Use the Query method to query Marketing Cloud data.
 

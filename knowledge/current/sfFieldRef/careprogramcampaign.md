@@ -5,12 +5,10 @@ topic: careprogramcampaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.929Z
+lastCollected: 2026-04-07T18:39:32.312Z
 estimatedTokens: 320
 keywords: [CareProgramCampaign, relationship, Care, Program, Campaign, junction, admins, associate, campaigns]
 ---
-
-# CareProgramCampaign
 
 > Represents a relationship between the Care Program object and the Campaign object. This junction object enables admins to associate one or more campaigns to a
 		program.

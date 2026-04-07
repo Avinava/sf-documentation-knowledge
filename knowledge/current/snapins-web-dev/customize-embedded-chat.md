@@ -5,12 +5,10 @@ topic: customize-embedded-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.586Z
+lastCollected: 2026-04-07T18:40:09.533Z
 estimatedTokens: 671
-keywords: [Customize, Embedded, Chat, Take, full, control, experience, help, button, post-chat, stages, customizable, code, snippet, Expand]
+keywords: [Customize, Embedded, Chat, Take, full, control, experience, help, button, post-chat, stages, customizable, code, snippet, Expand, functionality, passing, nonstandard, pre-chat, direct-to-button, routing, allow, fill, automatically, Implement, own, HTML, CSS]
 ---
-
-# Customize Embedded Chat
 
 > Take full control of the Embedded Chat experience from the static help button to
         post-chat stages. Use customizable parameters in the code snippet. Expand functionality by

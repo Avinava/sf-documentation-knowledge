@@ -5,12 +5,10 @@ topic: get-apiv1profiledatamodelnameid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.732Z
+lastCollected: 2026-04-07T18:35:51.592Z
 estimatedTokens: 547
-keywords: [api, profile, dataModelName, data, model, objects, search, indexes, filters, call, retrieve, record, primary, key, secondary]
+keywords: [Examples, api, profile, dataModelName, model, search, indexes, filters, call, retrieve, record, primary, key, secondary, keys, empty, records, aren’t, found, HTTP, Responses]
 ---
-
-# GET /api/v1/profile/{dataModelName}/{Id}
 
 > Returns data model objects based on search indexes and filters. Use this API call to
   retrieve the object record based on the primary key or secondary keys. Returns an empty list when

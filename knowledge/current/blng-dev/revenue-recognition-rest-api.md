@@ -5,12 +5,10 @@ topic: revenue-recognition-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.843Z
+lastCollected: 2026-04-07T18:37:04.469Z
 estimatedTokens: 828
-keywords: [Revenue, Recognition, REST, API, call, invocable, Apex, HTTP, Samples]
+keywords: [Samples, Revenue, Recognition, REST, API, call, invocable, Apex, HTTP]
 ---
-
-# Revenue Recognition REST API
 
 > Use REST API to call invocable methods from the Revenue Recognition Apex
   class.

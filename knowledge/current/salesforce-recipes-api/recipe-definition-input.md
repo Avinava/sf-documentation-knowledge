@@ -5,12 +5,10 @@ topic: recipe-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.880Z
+lastCollected: 2026-04-07T18:39:18.601Z
 estimatedTokens: 395
-keywords: [Recipe, Definition, Input, data, prep, recipes]
+keywords: [Recipe, Definition, prep, recipes]
 ---
-
-# Recipe Definition Input
 
 > The definition for a data prep recipe. Available on for R3 recipes.
 

@@ -5,12 +5,10 @@ topic: saml-single-sign-on-for-canvas-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.214Z
+lastCollected: 2026-04-07T18:38:56.977Z
 estimatedTokens: 538
-keywords: [SAML, Sign-On, Canvas, Apps, Whether, signed, OAuth, authorization, SAML-based, SSO, provide, users, seamless, authentication, flow]
+keywords: [SAML, Sign-On, Canvas, Apps, Whether, signed, OAuth, authorization, SAML-based, SSO, provide, users, seamless, authentication, flow, leverage, Salesforce, identity, provider, service, give, automatic, app, via]
 ---
-
-# SAML Single Sign-On for Canvas Apps
 
 > Whether you use signed request or OAuth authorization, you
       can use SAML-based single sign-on (SSO) to provide your users with a seamless authentication

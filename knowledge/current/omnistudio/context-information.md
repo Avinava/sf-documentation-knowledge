@@ -5,12 +5,10 @@ topic: context-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.382Z
+lastCollected: 2026-04-07T18:36:39.041Z
 estimatedTokens: 183
-keywords: [Context, Output, representation, containing, detailed]
+keywords: [Context, containing, detailed]
 ---
-
-# Context Information
 
 > Output representation containing detailed information about a context.
 

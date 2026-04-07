@@ -5,12 +5,10 @@ topic: cgcloudunitofmeasurec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.937Z
+lastCollected: 2026-04-07T18:39:15.432Z
 estimatedTokens: 1711
-keywords: [cgcloud__Unit_of_Measure__c, Stores, units, measure, logistic, unit, product, API, version, 54.0, later, cgcloud, _Unit, _of, _Measure]
+keywords: [cgcloud__Unit_of_Measure__c, Stores, units, measure, logistic, unit, product, API, 54.0, cgcloud, _Unit, _of, _Measure]
 ---
-
-# cgcloud__Unit_of_Measure__c
 
 > Stores the details of the units of measure (logistic unit) of a
          product. This object is available in API version 54.0 and later.

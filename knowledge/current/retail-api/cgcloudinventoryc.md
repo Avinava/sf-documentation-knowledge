@@ -5,12 +5,10 @@ topic: cgcloudinventoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.197Z
+lastCollected: 2026-04-07T18:39:13.611Z
 estimatedTokens: 2027
-keywords: [cgcloud__Inventory__c, Stores, inventory, API, version, 54.0, later, cgcloud, _Inventory, Calls, Associated, Objects]
+keywords: [cgcloud__Inventory__c, Stores, inventory, API, 54.0, cgcloud, _Inventory]
 ---
-
-# cgcloud__Inventory__c
 
 > Stores the details of the inventory object. This object is
       available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: smart-data-discovery-prescribable-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.326Z
+lastCollected: 2026-04-07T18:36:58.825Z
 estimatedTokens: 127
-keywords: [Smart, Data, Discovery, Prescribable, Input, Einstein]
+keywords: [Smart, Discovery, Prescribable, Einstein]
 ---
-
-# Smart Data Discovery Prescribable Field Input
 
 > Input for an Einstein Discovery prescribable field.
 

@@ -5,12 +5,10 @@ topic: ocrsampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:10.904Z
+lastCollected: 2026-04-07T18:39:04.011Z
 estimatedTokens: 1595
-keywords: [OcrSampleDocument, sample, document, that's, extracting, mapping, customer, form.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, API, version, 55.0, later, Calls]
+keywords: [OcrSampleDocument, OcrSampleDocumentField, OcrSampleDocumentPage, OcrSampleDocumentPageItem, sample, document, that's, extracting, mapping, customer, form.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Definition, Wildcard, Support, Manifest, API, 55.0, SOAP, REST]
 ---
-
-# OcrSampleDocument
 
 > Represents the details of a sample document or a document
       type that's used as a reference while extracting and mapping information from a customer

@@ -5,12 +5,10 @@ topic: using-chat-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:33.143Z
+lastCollected: 2026-04-07T18:40:28.269Z
 estimatedTokens: 1262
 keywords: [Chat, Add, experience, mobile, app]
 ---
-
-# Using Chat with the
 
 > Add the Chat experience to your mobile app.
 

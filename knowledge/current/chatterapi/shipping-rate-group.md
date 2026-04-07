@@ -5,12 +5,10 @@ topic: shipping-rate-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.978Z
+lastCollected: 2026-04-07T18:37:23.094Z
 estimatedTokens: 111
-keywords: [Shipping, Rate, Group, Output, representation]
+keywords: [Shipping, Rate, Group]
 ---
-
-# Shipping Rate Group
 
 > Output representation of the shipping rate group.
 

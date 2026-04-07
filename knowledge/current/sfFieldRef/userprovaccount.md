@@ -5,12 +5,10 @@ topic: userprovaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.647Z
+lastCollected: 2026-04-07T18:40:05.514Z
 estimatedTokens: 463
-keywords: [UserProvAccount, links, Salesforce, user, account, third-party, target, system, Google, users, connected, apps, provisioning, enabled, API]
+keywords: [UserProvAccount, links, Salesforce, user, account, third-party, target, system, Google, users, connected, apps, provisioning, enabled, API, 33.0]
 ---
-
-# UserProvAccount
 
 > Represents information that links a Salesforce user account with an
       account in a third-party (target) system, such as Google, for users of connected apps with

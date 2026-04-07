@@ -5,12 +5,10 @@ topic: story-quarter-of-year-field-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.431Z
+lastCollected: 2026-04-07T18:36:58.929Z
 estimatedTokens: 176
-keywords: [Story, Quarter, Year, Input, data]
+keywords: [Story, Quarter, Year]
 ---
-
-# Story Quarter of Year Field Value Input
 
 > The story data quarter of year property.
 

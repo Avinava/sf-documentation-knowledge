@@ -5,12 +5,10 @@ topic: orderhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.428Z
+lastCollected: 2026-04-07T18:39:50.833Z
 estimatedTokens: 279
-keywords: [OrderHistory, historical, changes, made, standard, associated, order, any, custom, history, tracking, enabled]
+keywords: [OrderHistory, historical, changes, made, standard, order, any, enabled]
 ---
-
-# OrderHistory
 
 > Represents historical information about changes that have been made to the standard fields of the associated order, or to any custom fields with history tracking
 		enabled.

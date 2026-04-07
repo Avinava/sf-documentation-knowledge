@@ -5,12 +5,10 @@ topic: business-rules-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.943Z
+lastCollected: 2026-04-07T18:36:36.466Z
 estimatedTokens: 256
-keywords: [Business, Rules, Input, representation, expression]
+keywords: [Business, expression]
 ---
-
-# Business Rules Input
 
 > Input representation of an expression set.
 

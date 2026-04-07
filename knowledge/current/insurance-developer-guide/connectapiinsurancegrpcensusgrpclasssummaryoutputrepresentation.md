@@ -5,12 +5,10 @@ topic: connectapiinsurancegrpcensusgrpclasssummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.631Z
+lastCollected: 2026-04-07T18:37:50.504Z
 estimatedTokens: 464
-keywords: [Output, representation, census, summary, data, aggregated, group]
+keywords: [census, summary, aggregated, group]
 ---
-
-# ConnectApi.InsuranceGrpCensusGrpClassSummaryOutputRepresentation
 
 > Output representation of census summary data aggregated by group class.
 

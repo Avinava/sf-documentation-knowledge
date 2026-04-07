@@ -5,12 +5,10 @@ topic: commerce-webstore-product-categories-children
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.674Z
+lastCollected: 2026-04-07T18:37:12.564Z
 estimatedTokens: 494
 keywords: [Commerce, Webstore, Product, Categories, Children, specific, parent, category, top-level, store]
 ---
-
-# Commerce Webstore Product Categories Children
 
 > Get product categories for a specific parent product category or get
       all the top-level product categories for the store.

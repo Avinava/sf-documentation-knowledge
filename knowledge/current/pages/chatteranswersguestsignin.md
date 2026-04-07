@@ -5,12 +5,10 @@ topic: chatteranswersguestsignin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.255Z
+lastCollected: 2026-04-07T18:38:49.317Z
 estimatedTokens: 213
-keywords: [chatteranswers, guestsignin, Chatter, Answers, Sign, buttons, accessible, guest, users, components, customized, experience, displays, SignIn, component]
+keywords: [Attributes, chatteranswers, guestsignin, Chatter, Answers, Sign, buttons, accessible, guest, users, customized, experience, displays, SignIn]
 ---
-
-# chatteranswers:guestsignin
 
 > Chatter Answers Sign In and Sign Up buttons. These buttons are accessible only to guest users. Use with other Chatter Answers components to create a customized experience for your Chatter Answers users.
 

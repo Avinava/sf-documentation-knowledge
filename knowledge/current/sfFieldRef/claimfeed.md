@@ -5,12 +5,10 @@ topic: claimfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.440Z
+lastCollected: 2026-04-07T18:39:33.864Z
 estimatedTokens: 355
-keywords: [ClaimFeed, Feed, tracking, Claim]
+keywords: [ClaimFeed, Claim]
 ---
-
-# ClaimFeed
 
 > Feed tracking for Claim.
 

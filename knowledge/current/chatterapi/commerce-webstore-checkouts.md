@@ -5,12 +5,10 @@ topic: commerce-webstore-checkouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.511Z
+lastCollected: 2026-04-07T18:37:12.393Z
 estimatedTokens: 871
 keywords: [Commerce, Webstore, Checkouts, Start, store, checkout]
 ---
-
-# Commerce Webstore Checkouts
 
 > Start a Commerce store checkout.
 

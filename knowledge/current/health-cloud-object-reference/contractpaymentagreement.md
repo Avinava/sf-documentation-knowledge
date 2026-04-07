@@ -5,12 +5,10 @@ topic: contractpaymentagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.942Z
+lastCollected: 2026-04-07T18:37:46.526Z
 estimatedTokens: 1308
-keywords: [ContractPaymentAgreement, Stores, contract, payment, agreement, associated, API, version, 54.0, later, Provider, Network, Management, permission, license]
+keywords: [ContractPaymentAgreement, Stores, contract, payment, agreement, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# ContractPaymentAgreement
 
 > Stores information about the contract payment agreement associated with a
          contract. This object is available in API version 54.0 and later with the Provider

@@ -5,12 +5,10 @@ topic: sync-ignored-fields-custom-metadata-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.907Z
+lastCollected: 2026-04-07T18:39:11.450Z
 estimatedTokens: 223
-keywords: [Sync, Ignored, Custom, Metadata, specific, Salesforce, objects, omitted, synchronization, process, Version, Special, Access, Rules]
+keywords: [Sync, Ignored, Metadata, specific, Salesforce, omitted, synchronization, process]
 ---
-
-# Sync Ignored Fields Custom Metadata type
 
 > Represents the specific fields of Salesforce objects omitted
 			during the synchronization process.

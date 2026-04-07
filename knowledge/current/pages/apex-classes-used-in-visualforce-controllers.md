@@ -5,12 +5,10 @@ topic: apex-classes-used-in-visualforce-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.584Z
+lastCollected: 2026-04-07T18:38:48.530Z
 estimatedTokens: 761
-keywords: [Apex, Classes, Visualforce, Controllers, appendix, includes, system-supplied, building, custom, controller, extensions]
+keywords: [Apex, Classes, Visualforce, Controllers, appendix, includes, system-supplied, building, controller, extensions]
 ---
-
-# Apex Classes Used in Visualforce Controllers
 
 > This appendix includes information about the system-supplied Apex classes that can be used
       when building custom Visualforce

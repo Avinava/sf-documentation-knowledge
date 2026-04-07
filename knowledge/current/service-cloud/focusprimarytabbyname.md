@@ -5,12 +5,10 @@ topic: focusprimarytabbyname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.083Z
+lastCollected: 2026-04-07T18:36:49.153Z
 estimatedTokens: 281
-keywords: [focusPrimaryTabByName, Focuses, browser, primary, tab, already, open, API, version, 22.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, focusPrimaryTabByName, Focuses, browser, primary, tab, already, open, API, 22.0, Sample, Code–Visualforce]
 ---
-
-# focusPrimaryTabByName()
 
 > Focuses the browser on a primary tab that is
             already open with the specified name. This

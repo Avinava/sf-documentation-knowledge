@@ -5,12 +5,10 @@ topic: order-item-summary-adjustment-aggregates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.199Z
+lastCollected: 2026-04-07T18:37:21.340Z
 estimatedTokens: 256
-keywords: [Order, Item, Summary, Adjustment, Aggregates, associated, record]
+keywords: [Order, Item, Summary, Adjustment, Aggregates, record]
 ---
-
-# Order Item Summary Adjustment Aggregates
 
 > Adjustment aggregates associated with an Order Item Summary
       record.

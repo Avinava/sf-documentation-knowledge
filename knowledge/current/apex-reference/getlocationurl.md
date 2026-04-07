@@ -5,12 +5,10 @@ topic: getlocationurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.046Z
+lastCollected: 2026-04-07T18:35:59.317Z
 estimatedTokens: 155
-keywords: [getLocationUrl, Retrieves, location, URL, canvas, app, Usage]
+keywords: [getLocationUrl, Retrieves, location, URL, canvas, app]
 ---
-
-# getLocationUrl()
 
 > Retrieves the location URL of the canvas
 app.

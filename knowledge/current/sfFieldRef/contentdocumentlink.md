@@ -5,12 +5,10 @@ topic: contentdocumentlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.801Z
+lastCollected: 2026-04-07T18:39:35.243Z
 estimatedTokens: 309
-keywords: [ContentDocumentLink, link, Salesforce, CRM, Content, document, file, ContentNote, it's, shared, users, groups, records, libraries, versions]
+keywords: [ContentDocumentLink, link, Salesforce, CRM, Content, document, file, ContentNote, it's, shared, users, groups, records, libraries, versions, 21.0, documents, Files]
 ---
-
-# ContentDocumentLink
 
 > Represents the link between a Salesforce CRM Content document, Salesforce file, or ContentNote and where it's shared. A file can be shared with other users, groups,
 			records, and Salesforce CRM Content libraries. This object is available in versions 21.0 and later for Salesforce CRM Content documents and Salesforce Files.

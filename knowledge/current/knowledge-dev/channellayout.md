@@ -5,12 +5,10 @@ topic: channellayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.750Z
+lastCollected: 2026-04-07T18:37:54.053Z
 estimatedTokens: 642
-keywords: [ChannelLayout, metadata, associated, communication, channel, layout, layouts, let, admins, share, article, content, inline, channels, email]
+keywords: [ChannelLayout, ChannelLayoutItem, metadata, communication, channel, layout, layouts, let, admins, share, article, content, inline, channels, email, publishers, Experience, Builder, sites, social, media, record, they, want, customize, order, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# ChannelLayout
 
 > Represents the metadata associated with a communication
       channel layout. Communication channel layouts let admins share article content inline into

@@ -5,12 +5,10 @@ topic: creating-a-paymentgateway-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.469Z
+lastCollected: 2026-04-07T18:37:03.036Z
 estimatedTokens: 385
-keywords: [Creating, PaymentGateway, several, basic, transaction, PaymentGatewayAPI, implements, handle, gateway, requests, allow, credit, card, token, process]
+keywords: [Creating, PaymentGateway, several, basic, transaction, PaymentGatewayAPI, implements, handle, gateway, requests, allow, credit, card, token, process, payment, charge, authorize, refund]
 ---
-
-# Creating a PaymentGateway Interface
 
 > The PaymentGateway interface contains several basic transaction methods that the
             PaymentGatewayAPI class implements to handle

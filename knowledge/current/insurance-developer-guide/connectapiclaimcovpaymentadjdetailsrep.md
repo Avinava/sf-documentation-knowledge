@@ -5,12 +5,10 @@ topic: connectapiclaimcovpaymentadjdetailsrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.333Z
+lastCollected: 2026-04-07T18:37:50.163Z
 estimatedTokens: 114
-keywords: [ConnectApi.ClaimCovPaymentAdjDetailsRep, Output, representation, claim, coverage, payment, adjustment]
+keywords: [ConnectApi.ClaimCovPaymentAdjDetailsRep, claim, coverage, payment, adjustment]
 ---
-
-# ConnectApi.ClaimCovPaymentAdjDetailsRep
 
 > Output representation for the claim coverage payment adjustment details.
 

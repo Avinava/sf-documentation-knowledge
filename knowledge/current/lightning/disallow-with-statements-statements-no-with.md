@@ -6,13 +6,10 @@ topic: disallow-with-statements-statements-no-with-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.690Z
+lastCollected: 2026-04-07T18:38:05.913Z
 estimatedTokens: 113
 keywords: [Disallow, Statements, no-with, Prevents, adds, members, current, scope, way, hard, predict, view, impact, behavior]
 ---
-
-# Disallow  with Statements ( Statements
-    ( no-with ) )
 
 > Prevents using with
    statements, which adds members of an object to the current scope in a way that makes it hard to

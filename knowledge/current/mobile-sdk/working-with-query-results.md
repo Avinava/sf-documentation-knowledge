@@ -5,12 +5,10 @@ topic: working-with-query-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.609Z
+lastCollected: 2026-04-07T18:40:26.853Z
 estimatedTokens: 716
-keywords: [Working, Query, Results, Mobile, SDK, mechanisms, platform, let, access, efficiently, flexibly, dynamically]
+keywords: [Working, Query, Results, Mobile, SDK, mechanisms, platform, let, efficiently, flexibly, dynamically]
 ---
-
-# Working with Query Results
 
 > Mobile SDK provides
   mechanisms on each platform that let you access query results efficiently, flexibly, and

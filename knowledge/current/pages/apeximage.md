@@ -5,12 +5,10 @@ topic: apeximage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.571Z
+lastCollected: 2026-04-07T18:38:49.709Z
 estimatedTokens: 1305
-keywords: [apex, image, graphic, rendered, HTML, <img>, tag, Resource, Zip, IMAGEPROXYURL, Attributes]
+keywords: [Attributes, apex, image, graphic, rendered, HTML, <img>, tag, Resource, Zip, IMAGEPROXYURL]
 ---
-
-# apex:image
 
 > A graphic image, rendered with the HTML <img> tag.
 

@@ -5,12 +5,10 @@ topic: workplanselectionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.080Z
+lastCollected: 2026-04-07T18:38:44.886Z
 estimatedTokens: 1152
-keywords: [WorkPlanSelectionRule, rule, selects, work, plan, order, line, item, API, version, 52.0, later, Calls, Special, Access]
+keywords: [WorkPlanSelectionRule, rule, selects, work, plan, order, line, item, API, 52.0]
 ---
-
-# WorkPlanSelectionRule
 
 > Represents a rule that selects a work plan for a work order or work order line
       item. This object is available in API version 52.0 and later.

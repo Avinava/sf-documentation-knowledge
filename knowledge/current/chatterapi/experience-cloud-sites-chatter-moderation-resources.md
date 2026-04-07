@@ -5,12 +5,10 @@ topic: experience-cloud-sites-chatter-moderation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.956Z
+lastCollected: 2026-04-07T18:37:12.850Z
 estimatedTokens: 1098
-keywords: [Experience, Cloud, Sites, Chatter, Moderation, Resources, whether, user, flagged, feed, element, comment, inappropriate, flags, Comments]
+keywords: [Experience, Cloud, Sites, Chatter, Moderation, Resources, whether, user, flagged, comment, inappropriate, flags, Comments]
 ---
-
-# Experience Cloud Sites Chatter Moderation Resources
 
 > Get information about whether a user has flagged a feed element or comment as
         inappropriate. Delete flags.

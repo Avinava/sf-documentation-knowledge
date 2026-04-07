@@ -5,13 +5,11 @@ topic: id-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.807Z
+lastCollected: 2026-04-07T18:36:14.111Z
 estimatedTokens: 3174
 namespace: System
-keywords: [Converts, restoreCasing, 18-character, incorrect, casing, correctly, aligned, encoded, Getting, sObject, Token, addError, errorMsg, Usage, escape]
+keywords: [Converts, restoreCasing, 18-character, incorrect, casing, correctly, aligned, encoded, Getting, sObject, Token, addError, errorMsg, escape, exceptionError, getSObjectType, to15, valueOf, toID, Versioned, Behavior, Changes, str]
 ---
-
-# Id Class
 
 > Converts the specified string into an ID and returns the ID. If
         restoreCasing is true,

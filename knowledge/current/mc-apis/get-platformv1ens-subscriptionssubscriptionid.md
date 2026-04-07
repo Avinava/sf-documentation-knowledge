@@ -5,12 +5,10 @@ topic: get-platformv1ens-subscriptionssubscriptionid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.248Z
+lastCollected: 2026-04-07T18:40:17.408Z
 estimatedTokens: 330
-keywords: [platform, ens-subscriptions, subscriptionId, Retrieves, subscription, **Overview**, Usage, HTTP, Responses]
+keywords: [platform, ens-subscriptions, subscriptionId, Retrieves, subscription, **Overview**, HTTP, Responses]
 ---
-
-# GET /platform/v1/ens-subscriptions/{subscriptionId}
 
 > Retrieves details for a subscription.
 

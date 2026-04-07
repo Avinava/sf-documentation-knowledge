@@ -5,12 +5,10 @@ topic: trackedcommunication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.518Z
+lastCollected: 2026-04-07T18:37:48.145Z
 estimatedTokens: 1369
-keywords: [TrackedCommunication, Stores, communication, sent, payer, provider, member’s, authorization, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [TrackedCommunication, Stores, communication, sent, payer, provider, member’s, authorization, API, 57.0]
 ---
-
-# TrackedCommunication
 
 > Stores information request or communication details sent from payer to
          provider on a member’s authorization request. This object is available in API version

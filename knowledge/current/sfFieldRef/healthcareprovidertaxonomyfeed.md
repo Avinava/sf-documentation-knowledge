@@ -5,12 +5,10 @@ topic: healthcareprovidertaxonomyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.264Z
+lastCollected: 2026-04-07T18:39:43.894Z
 estimatedTokens: 366
-keywords: [HealthcareProviderTaxonomyFeed, Feed, tracking, HealthcareProviderTaxonomy]
+keywords: [HealthcareProviderTaxonomyFeed, HealthcareProviderTaxonomy]
 ---
-
-# HealthcareProviderTaxonomyFeed
 
 > Feed tracking for HealthcareProviderTaxonomy.
 

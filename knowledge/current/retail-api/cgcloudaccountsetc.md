@@ -5,12 +5,10 @@ topic: cgcloudaccountsetc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.352Z
+lastCollected: 2026-04-07T18:39:12.785Z
 estimatedTokens: 1374
-keywords: [cgcloud__Account_Set__c, creation, Customer, API, version, 54.0, later, cgcloud, _Account, _Set, Calls, Associated, Objects]
+keywords: [cgcloud__Account_Set__c, creation, Customer, API, 54.0, cgcloud, _Account, _Set]
 ---
-
-# cgcloud__Account_Set__c
 
 > Represents the object for the creation of Customer Sets. This object is
       available in API version 54.0 and later.

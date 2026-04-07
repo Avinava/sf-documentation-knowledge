@@ -5,12 +5,10 @@ topic: datasourcelinks-json
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.608Z
+lastCollected: 2026-04-07T18:36:53.974Z
 estimatedTokens: 167
-keywords: [dataSourceLinks, JSON, data, sources, configured, dashboard]
+keywords: [dataSourceLinks, JSON, sources, configured, dashboard]
 ---
-
-# dataSourceLinks JSON
 
 > The dataSourceLinks section defines all data
 		sources configured for the dashboard.

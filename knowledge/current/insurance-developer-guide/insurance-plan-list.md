@@ -5,12 +5,10 @@ topic: insurance-plan-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.363Z
+lastCollected: 2026-04-07T18:37:52.540Z
 estimatedTokens: 74
-keywords: [Insurance, Plan, Output, representation, contract, group, plans]
+keywords: [Insurance, Plan, contract, group, plans]
 ---
-
-# Insurance Plan List
 
 > Output representation for a list of contract group plans.
 

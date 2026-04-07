@@ -5,12 +5,10 @@ topic: publish-event-messages-with-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.455Z
+lastCollected: 2026-04-07T18:38:58.315Z
 estimatedTokens: 347
 keywords: [Publish, Event, Messages, Flows, Salesforce, app, part, user, interaction, automated, process, Apex, workflow, action]
 ---
-
-# Publish Event Messages with Flows
 
 > Use flows to publish event messages from a Salesforce app
    as part of some user interaction, an automated process, Apex, or workflow

@@ -5,12 +5,10 @@ topic: managing-navigation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.608Z
+lastCollected: 2026-04-07T18:38:52.899Z
 estimatedTokens: 1167
-keywords: [Managing, Navigation, Salesforce, mobile, app, manages, events, event, framework, made, JavaScript, number, utility, functions, creating]
+keywords: [Managing, Navigation, Salesforce, mobile, app, manages, events, event, framework, made, JavaScript, number, utility, functions, creating, programmatic, “just, works”, breeze, advantage, experience, that’s, natural, context, post-completion, redirecting, order, successfully, submitted, easier, developers, Canvas]
 ---
-
-# Managing Navigation
 
 > The Salesforce mobile app manages navigation using events. The navigation event
         framework is made available as a JavaScript object that provides a number of utility

@@ -5,12 +5,10 @@ topic: retrieve-data-extension-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.055Z
+lastCollected: 2026-04-07T18:40:24.565Z
 estimatedTokens: 880
-keywords: [Retrieve, Data, Extension, extensions, Ruby, PHP, Python, CSharp, Java, Streamline, Usage, Filtering, Requests]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Extension, extensions, PHP, Streamline, Filtering, Requests]
 ---
-
-# Retrieve Data Extension Details
 
 > Use the Get method to return information about existing data extensions.
 

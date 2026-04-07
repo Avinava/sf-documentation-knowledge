@@ -5,12 +5,10 @@ topic: quicktextusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.220Z
+lastCollected: 2026-04-07T18:39:57.833Z
 estimatedTokens: 426
-keywords: [QuickTextUsage, usage, quick, text, record, including, how, they, snippet, users, send, customer, API, version, 47.0]
+keywords: [QuickTextUsage, quick, text, record, including, how, they, snippet, users, send, customer, API, 47.0]
 ---
-
-# QuickTextUsage
 
 > Represents the usage of quick text on a record, including which quick
 			text was used, who used it, and how they used it. Quick text is a snippet of text

@@ -5,12 +5,10 @@ topic: accountplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.008Z
+lastCollected: 2026-04-07T18:37:57.561Z
 estimatedTokens: 1176
-keywords: [AccountPlan, Life, Sciences, Cloud, extend, standard, Account, Plan, represent, customers, measurable, objectives, executable, steps, proactively]
+keywords: [AccountPlan, Life, Sciences, Cloud, extend, standard, Account, Plan, represent, customers, measurable, objectives, executable, steps, proactively, manage, grow, customer, relationships]
 ---
-
-# AccountPlan
 
 > Life Sciences Cloud fields extend the standard Account Plan object to
          represent information about customers with measurable objectives and executable steps to

@@ -5,12 +5,10 @@ topic: product-media-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.022Z
+lastCollected: 2026-04-07T18:37:09.738Z
 estimatedTokens: 121
-keywords: [Product, Media, Input, representation]
+keywords: [Product, Media]
 ---
-
-# Product Media Input
 
 > Input representation of product media details.
 

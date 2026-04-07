@@ -5,12 +5,10 @@ topic: svccatalogitemdependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.081Z
+lastCollected: 2026-04-07T18:37:38.989Z
 estimatedTokens: 316
-keywords: [SvcCatalogItemDependency, collection, records, indicate, dependencies, service, process, API, version, 57.0, later, Calls]
+keywords: [SvcCatalogItemDependency, collection, records, indicate, dependencies, service, process, API, 57.0]
 ---
-
-# SvcCatalogItemDependency
 
 > Represents a collection of records that indicate the dependencies of a
          service process. This object is available in API version 57.0 and later.

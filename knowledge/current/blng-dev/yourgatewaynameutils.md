@@ -5,12 +5,10 @@ topic: yourgatewaynameutils
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.643Z
+lastCollected: 2026-04-07T18:37:03.210Z
 estimatedTokens: 191
-keywords: [YourGatewayNameUtils, singleton, utility, interacts, external, payment, gateway, user, API, classes, different, needs, However, we've, provided]
+keywords: [YourGatewayNameUtils, singleton, utility, interacts, external, payment, gateway, user, API, classes, different, needs, However, we've, provided, template, help, own]
 ---
-
-# YourGatewayNameUtils
 
 > YourGatewayNameUtils is a singleton utility class that interacts with an external
         payment gateway. All user gateway API classes will be different based on your needs.

@@ -5,12 +5,10 @@ topic: salesaiscorecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.699Z
+lastCollected: 2026-04-07T18:38:40.278Z
 estimatedTokens: 324
-keywords: [SalesAIScoreCycle, cycle, score, records, API, version, 47.0, later, Calls, Special, Access, Rules]
+keywords: [SalesAIScoreCycle, cycle, score, records, API, 47.0]
 ---
-
-# SalesAIScoreCycle
 
 > Represents the cycle type and ID used to score records. This object is
     available in API version 47.0 and later.

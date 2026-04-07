@@ -5,12 +5,10 @@ topic: price-context-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.776Z
+lastCollected: 2026-04-07T18:35:44.786Z
 estimatedTokens: 312
 keywords: [Price, Context, POST, Perform, pricing, instance]
 ---
-
-# Price Context (POST)
 
 > Perform a pricing request by using the instance ID of a
       context.

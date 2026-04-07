@@ -5,12 +5,10 @@ topic: story-field-correlation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.559Z
+lastCollected: 2026-04-07T18:37:00.058Z
 estimatedTokens: 122
 keywords: [Story, Correlation, summary, dataset, selected, creation]
 ---
-
-# Story Field Correlation
 
 > The summary of each field in the dataset selected for story creation.
 

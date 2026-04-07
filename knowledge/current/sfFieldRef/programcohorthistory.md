@@ -5,12 +5,10 @@ topic: programcohorthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.229Z
+lastCollected: 2026-04-07T18:39:56.779Z
 estimatedTokens: 261
-keywords: [ProgramCohortHistory, History, tracked, ProgramCohort]
+keywords: [ProgramCohortHistory, tracked, ProgramCohort]
 ---
-
-# ProgramCohortHistory
 
 > History for tracked fields of ProgramCohort.
 

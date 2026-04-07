@@ -5,12 +5,10 @@ topic: isolated-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.138Z
+lastCollected: 2026-04-07T18:37:10.815Z
 estimatedTokens: 904
-keywords: [Isolated, Feed, Resources, containing, elements, comments, admins, URL]
+keywords: [Isolated, Resources, containing, comments, admins, URL]
 ---
-
-# Isolated Feed Resources
 
 > The feed containing feed elements and comments that are isolated. Isolated feed
       elements and comments are available only to admins.

@@ -5,12 +5,10 @@ topic: clinicalencounterhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.786Z
+lastCollected: 2026-04-07T18:39:34.219Z
 estimatedTokens: 266
-keywords: [ClinicalEncounterHistory, History, tracked, ClinicalEncounter]
+keywords: [ClinicalEncounterHistory, tracked, ClinicalEncounter]
 ---
-
-# ClinicalEncounterHistory
 
 > History for tracked fields of ClinicalEncounter.
 

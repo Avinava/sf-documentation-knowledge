@@ -5,12 +5,10 @@ topic: salesforce-dx-usernames-and-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.986Z
+lastCollected: 2026-04-07T18:40:07.927Z
 estimatedTokens: 1814
-keywords: [Salesforce, Usernames, Orgs, CLI, commands, connect, org, their, task, scratch, command, creates, connects, Dev, Hub]
+keywords: [Salesforce, Usernames, Orgs, CLI, commands, connect, org, their, task, scratch, command, creates, connects, Dev, Hub, project, deploy, start, retrieve, synchronize, source, code, case, requires, username, determine, unique, entire, ecosystem, Setting, Aliasing]
 ---
-
-# Salesforce DX Usernames and Orgs
 
 > Many Salesforce CLI commands connect to an org to complete their task. For example, the
       org create scratch command, which creates a scratch org,

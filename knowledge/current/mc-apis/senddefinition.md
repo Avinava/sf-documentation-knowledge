@@ -5,12 +5,10 @@ topic: senddefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:24.990Z
+lastCollected: 2026-04-07T18:40:20.218Z
 estimatedTokens: 1055
 keywords: [SendDefinition, base, representing, settings, send, Items]
 ---
-
-# SendDefinition
 
 > The SendDefinition object is the base class representing the settings for a send.
 

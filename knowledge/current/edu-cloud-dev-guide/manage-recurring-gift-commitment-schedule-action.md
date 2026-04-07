@@ -5,12 +5,10 @@ topic: manage-recurring-gift-commitment-schedule-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.835Z
+lastCollected: 2026-04-07T18:37:28.928Z
 estimatedTokens: 388
-keywords: [Manage, Recurring, Gift, Commitment, Schedule, Action, Creates, updates, record, upcoming, transaction, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Manage, Recurring, Gift, Commitment, Schedule, Action, Creates, updates, record, upcoming, transaction, REST, HTTP]
 ---
-
-# Manage Recurring Gift Commitment Schedule Action
 
 > Creates or updates a recurring type of gift commitment schedule record
       and creates the first upcoming gift commitment transaction record.

@@ -5,12 +5,10 @@ topic: additionalfields-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.115Z
+lastCollected: 2026-04-07T18:36:35.611Z
 estimatedTokens: 382
 keywords: [AdditionalFields, target]
 ---
-
-# AdditionalFields Class
 
 > This class contains a list of the fields of the target object.
 

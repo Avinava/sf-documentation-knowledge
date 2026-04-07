@@ -5,12 +5,10 @@ topic: connectapimemberbenefitsoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.807Z
+lastCollected: 2026-04-07T18:38:07.027Z
 estimatedTokens: 74
-keywords: [ConnectApi.MemberBenefitsOutput, Output, representation, benefits, member]
+keywords: [ConnectApi.MemberBenefitsOutput, benefits, member]
 ---
-
-# ConnectApi.MemberBenefitsOutput
 
 > Output representation of all benefits available for a
     member.

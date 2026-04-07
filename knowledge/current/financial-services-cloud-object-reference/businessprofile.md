@@ -5,12 +5,10 @@ topic: businessprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.791Z
+lastCollected: 2026-04-07T18:37:36.584Z
 estimatedTokens: 1309
-keywords: [BusinessProfile, insurance-related, attributes, insured, business, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [BusinessProfile, insurance-related, attributes, insured, business, API, 47.0]
 ---
-
-# BusinessProfile
 
 > Represents the insurance-related attributes for the insured business.
 		This object is available in API version 47.0 and later.

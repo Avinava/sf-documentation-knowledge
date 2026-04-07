@@ -5,13 +5,11 @@ topic: staticresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.034Z
+lastCollected: 2026-04-07T18:40:02.714Z
 estimatedTokens: 316
 namespace: NamespacePrefix
 keywords: [StaticResource, resource, Visualforce, markup]
 ---
-
-# StaticResource
 
 > Represents a static resource that can be used in Visualforce markup.
 

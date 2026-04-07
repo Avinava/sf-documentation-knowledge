@@ -5,12 +5,10 @@ topic: smart-data-discovery-live-metric-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.122Z
+lastCollected: 2026-04-07T18:36:59.611Z
 estimatedTokens: 137
-keywords: [Smart, Data, Discovery, Live, Metric, Detail, Einstein]
+keywords: [Smart, Discovery, Live, Metric, Detail, Einstein]
 ---
-
-# Smart Data Discovery Live Metric Detail
 
 > A live AI Einstein Discovery metric.
 

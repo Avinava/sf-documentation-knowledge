@@ -5,12 +5,10 @@ topic: datastreamtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:39.157Z
+lastCollected: 2026-04-07T18:36:24.496Z
 estimatedTokens: 1029
-keywords: [DataStreamTemplate, data, stream, user, adds, kit, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [DataStreamTemplate, stream, user, adds, kit, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataStreamTemplate
 
 > Represents the data stream that a user adds to a data
       kit.

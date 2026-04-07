@@ -5,12 +5,10 @@ topic: remotekeycalloutevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.781Z
+lastCollected: 2026-04-07T18:38:59.724Z
 estimatedTokens: 1359
-keywords: [RemoteKeyCalloutEvent, Notifies, subscribers, callouts, fetch, encrypted, key, material, customer, endpoint, API, versions, 45.0, later, Calls]
+keywords: [RemoteKeyCalloutEvent, Notifies, subscribers, callouts, fetch, encrypted, key, material, customer, endpoint, API, versions, 45.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# RemoteKeyCalloutEvent
 
 > Notifies subscribers of callouts that fetch encrypted key material
          from a customer endpoint. This object is available in API versions 45.0 and

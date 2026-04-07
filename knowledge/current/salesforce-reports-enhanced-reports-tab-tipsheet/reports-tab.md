@@ -5,12 +5,10 @@ topic: reports-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.122Z
+lastCollected: 2026-04-07T18:39:19.812Z
 estimatedTokens: 1416
-keywords: [Reports, Tab, central, hub, Salesforce, Dashboards, Access, standard, Organize, share, items, folders, Search, filter, Move]
+keywords: [Reports, Tab, central, hub, Salesforce, Dashboards, standard, Organize, share, items, folders, Search, filter, Move, Customize, view, Manage, Schedule, follow]
 ---
-
-# Reports Tab
 
 > The Reports tab is the central hub for Salesforce Reports and Dashboards.
 

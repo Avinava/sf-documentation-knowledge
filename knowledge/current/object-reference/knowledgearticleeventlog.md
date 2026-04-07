@@ -5,12 +5,10 @@ topic: knowledgearticleeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.800Z
+lastCollected: 2026-04-07T18:38:33.981Z
 estimatedTokens: 743
-keywords: [KnowledgeArticleEventLog, Knowledge, Article, View, event, logs, contain, user, activity, base, API, version, 61.0, later, Calls]
+keywords: [KnowledgeArticleEventLog, Knowledge, Article, View, event, logs, contain, user, activity, base, API, 61.0]
 ---
-
-# KnowledgeArticleEventLog
 
 > Knowledge Article View event logs contain user activity with your knowledge
          base. This object is available in API version

@@ -5,12 +5,10 @@ topic: credit-memo-line-applied-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.690Z
+lastCollected: 2026-04-07T18:35:45.691Z
 estimatedTokens: 179
-keywords: [Credit, Memo, Line, Applied, Output, representation, results]
+keywords: [Credit, Memo, Line, Applied, results]
 ---
-
-# Credit Memo Line Applied Response
 
 > Output representation of the list of applied credit memo line results.
 

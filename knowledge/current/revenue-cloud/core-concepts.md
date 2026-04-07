@@ -5,12 +5,10 @@ topic: core-concepts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.512Z
+lastCollected: 2026-04-07T18:35:42.395Z
 estimatedTokens: 538
-keywords: [Core, Concepts, Constraint, Modeling, Language, CML, includes, components, cover, high-level, configurations, specific, data, constraints]
+keywords: [Core, Concepts, Constraint, Modeling, Language, CML, includes, cover, high-level, configurations, specific, constraints]
 ---
-
-# Core Concepts
 
 > Constraint Modeling Language (CML) includes components that cover high-level global
         configurations to specific data types and constraints.

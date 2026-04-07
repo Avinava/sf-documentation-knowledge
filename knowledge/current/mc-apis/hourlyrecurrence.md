@@ -5,12 +5,10 @@ topic: hourlyrecurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.357Z
+lastCollected: 2026-04-07T18:40:17.524Z
 estimatedTokens: 145
 keywords: [HourlyRecurrence, hourly, recurrence, pattern, campaigns, Items]
 ---
-
-# HourlyRecurrence
 
 > The HourlyRecurrence object specifies an hourly recurrence pattern and value. This recurrence can be used with campaigns.
 

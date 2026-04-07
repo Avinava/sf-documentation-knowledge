@@ -5,12 +5,10 @@ topic: real-time-event-monitoring-data-streaming
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.911Z
+lastCollected: 2026-04-07T18:39:22.825Z
 estimatedTokens: 1552
-keywords: [Real-Time, Event, Monitoring, Data, Streaming, subscribe, standard, events, published, Salesforce, monitor, activity, org, external, system]
+keywords: [Real-Time, Event, Monitoring, Streaming, subscribe, standard, events, published, Salesforce, monitor, activity, org, external, system, choice, Pub, Sub, API, client, relays, send, Amazon, EventBridge]
 ---
-
-# Real-Time Event Monitoring Data Streaming
 
 > Use Real-Time Event Monitoring to subscribe to standard events published by Salesforce
     to monitor activity in your org. You can subscribe to this data from an external data system of

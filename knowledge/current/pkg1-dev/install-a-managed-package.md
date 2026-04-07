@@ -5,12 +5,10 @@ topic: install-a-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.829Z
+lastCollected: 2026-04-07T18:38:54.215Z
 estimatedTokens: 1998
-keywords: [Install, Managed, Package, development, testing, cycle, periodically, uninstall, packages, beta, Follow, steps, Pre-Installation, Installation, Custom]
+keywords: [Install, Managed, Package, development, testing, cycle, periodically, uninstall, packages, beta, Follow, steps, Pre-Installation, Installation, Post-Installation]
 ---
-
-# Install a Managed Package
 
 > During the development and testing cycle, you might need to periodically install and
   uninstall packages before you install the next beta. Follow these steps to install a

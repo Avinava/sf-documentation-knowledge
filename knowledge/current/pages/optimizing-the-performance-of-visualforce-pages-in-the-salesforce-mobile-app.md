@@ -6,13 +6,10 @@ topic: optimizing-the-performance-of-visualforce-pages-in-the-salesforce-mobile-
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:00.613Z
+lastCollected: 2026-04-07T18:38:52.904Z
 estimatedTokens: 590
-keywords: [Optimizing, Performance, Visualforce, Pages, Salesforce, Mobile, App, designed, provide, developers, ability, match, functionality, behavior, standard]
+keywords: [Visualforce, Images, Optimizing, Performance, Pages, Salesforce, Mobile, App, designed, provide, developers, ability, match, functionality, behavior, standard, users, experience, delays, unexpected, issues, specifically, around, there, several, actions, take, improve, their, improved, coding, best, practices, optimization, devices, limited, compute, resources, expect, fast, responsive, application, CSS, JavaScript, General]
 ---
-
-# Optimizing the Performance of Visualforce Pages in the Salesforce
-   Mobile App
 
 > Visualforce was designed to provide developers with the ability to match the
   functionality, behavior, and performance of standard Salesforce pages. If your users experience

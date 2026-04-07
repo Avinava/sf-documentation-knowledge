@@ -5,12 +5,10 @@ topic: apexstylesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.483Z
+lastCollected: 2026-04-07T18:38:50.721Z
 estimatedTokens: 434
-keywords: [apex, stylesheet, link, style, components, Visualforce, component, injects, head, element, generated, HTML, Zip, Resource, Attributes]
+keywords: [Attributes, apex, stylesheet, link, style, Visualforce, injects, head, generated, HTML, Zip, Resource]
 ---
-
-# apex:stylesheet
 
 > A link to a stylesheet that can be used to style components on the Visualforce page. When specified, this component injects the stylesheet reference into the head element of the generated HTML page.
 

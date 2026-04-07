@@ -5,12 +5,10 @@ topic: promotion-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.890Z
+lastCollected: 2026-04-07T18:38:08.132Z
 estimatedTokens: 213
-keywords: [Promotion, Configuration, Output, representation, promotion’s]
+keywords: [Promotion, Configuration, promotion’s]
 ---
-
-# Promotion Configuration
 
 > Output representation of the promotion’s details and its configuration.
 

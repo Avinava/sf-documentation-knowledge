@@ -5,12 +5,10 @@ topic: party-credit-profile-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.319Z
+lastCollected: 2026-04-07T18:36:40.046Z
 estimatedTokens: 379
-keywords: [Party, Credit, Profile, Result, Output, representation]
+keywords: [Party, Credit, Profile, Result]
 ---
-
-# Party Credit Profile Result
 
 > Output representation of the request to create the party credit profile.
 

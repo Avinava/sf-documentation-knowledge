@@ -5,12 +5,10 @@ topic: watchlist-schedules-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.962Z
+lastCollected: 2026-04-07T18:36:56.519Z
 estimatedTokens: 120
 keywords: [Watchlist, Schedules, Resource, schedule]
 ---
-
-# Watchlist Schedules Resource
 
 > Create a watchlist schedule.
 

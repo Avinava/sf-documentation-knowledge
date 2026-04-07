@@ -5,12 +5,10 @@ topic: stnryassetenrgyuseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.211Z
+lastCollected: 2026-04-07T18:40:02.893Z
 estimatedTokens: 252
 keywords: [StnryAssetEnrgyUseShare, Sharing, StnryAssetEnrgyUse]
 ---
-
-# StnryAssetEnrgyUseShare
 
 > Sharing for StnryAssetEnrgyUse.
 

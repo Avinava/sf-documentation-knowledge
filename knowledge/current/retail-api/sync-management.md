@@ -5,12 +5,10 @@ topic: sync-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:17.378Z
+lastCollected: 2026-04-07T18:39:10.865Z
 estimatedTokens: 158
 keywords: [Sync, Management, part, Retail, Execution, ensures, web, portal, mobile, application]
 ---
-
-# Sync Management
 
 > Sync Management is part of Retail Execution and it ensures that the information
         available in web portal and mobile application is the same.

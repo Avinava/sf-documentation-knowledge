@@ -5,12 +5,10 @@ topic: release-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.800Z
+lastCollected: 2026-04-07T18:40:08.763Z
 estimatedTokens: 235
-keywords: [Release, Unlocked, Package, new, version, marked, beta, created, develop, may, several, versions, ready, released, installed]
+keywords: [Release, Unlocked, Package, new, marked, beta, created, develop, may, several, versions, ready, released, installed, production, orgs]
 ---
-
-# Release an Unlocked Package
 
 > Each new package version is marked as beta when its created. As you develop your
         package, you may create several package versions before you create a version that is ready

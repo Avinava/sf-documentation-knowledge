@@ -5,12 +5,10 @@ topic: connectapiinspolicylmtcalcstandingrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.516Z
+lastCollected: 2026-04-07T18:37:50.352Z
 estimatedTokens: 145
-keywords: [Output, representation, current, standings, insurance, policy, limits]
+keywords: [current, standings, insurance, policy, limits]
 ---
-
-# ConnectApi.InsPolicyLmtCalcStandingRepresentation
 
 > Output representation for the current standings of the insurance policy limits.
 

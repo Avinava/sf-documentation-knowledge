@@ -5,12 +5,10 @@ topic: connectapiinsurancecensusmgmtinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.061Z
+lastCollected: 2026-04-07T18:37:49.890Z
 estimatedTokens: 155
-keywords: [Input, representation, adding, updating, census, members]
+keywords: [adding, updating, census, members]
 ---
-
-# ConnectApi.InsuranceCensusMgmtInputRepresentation
 
 > Input representation for adding or updating census members.
 

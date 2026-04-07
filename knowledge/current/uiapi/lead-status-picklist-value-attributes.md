@@ -5,12 +5,10 @@ topic: lead-status-picklist-value-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.699Z
+lastCollected: 2026-04-07T18:40:11.708Z
 estimatedTokens: 197
 keywords: [Lead, Status, Picklist, Attributes, Additional, statuses]
 ---
-
-# Lead Status Picklist Value Attributes
 
 > Additional picklist value attributes for lead statuses.
 

@@ -5,12 +5,10 @@ topic: connecting-to-the-soap-api-using-perl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.632Z
+lastCollected: 2026-04-07T18:40:15.744Z
 estimatedTokens: 774
-keywords: [Connecting, SOAP, API, Perl, development, environment, systems, Marketing, Cloud, via, Why, Connect, How, Don't, forget]
+keywords: [Connecting, SOAP, API, Perl, development, environment, systems, Marketing, Cloud, via, Why, Connect, How, Don't, forget, specify, soapaction, on_action, wsdl, uri, target, proxy, endpoint, address, define, attribute, prefix, compatibility, NET, document, literal, envelope, partnerAPI, requires, addressing, security, extensions, <wsse, xmlns, wsse="http, docs.oasis-open.org, wss, UsernameToken>, Username>XXXXXX<, wsse, Username>, Password>XXXXXX<, Password>, Security>, Construct, arguments, call, convert, UTF, you're, 5.6, explicitly, won't, encoded, base64]
 ---
-
-# Connecting to the SOAP API Using Perl
 
 > This page contains information on connecting your development environment or other systems to the Marketing Cloud SOAP API via Perl.
 

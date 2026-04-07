@@ -5,12 +5,10 @@ topic: methods-for-chat-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.181Z
+lastCollected: 2026-04-07T18:36:50.387Z
 estimatedTokens: 609
 keywords: [Chat, Lightning, Experience, Let, customers, agents, web]
 ---
-
-# Methods for Chat in Lightning Experience
 
 > Let customers chat with your agents on your web page.
 

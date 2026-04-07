@@ -5,12 +5,10 @@ topic: examination
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.234Z
+lastCollected: 2026-04-07T18:39:39.855Z
 estimatedTokens: 327
-keywords: [Examination, authorized, examinations, qualify, license, permit, API, version, 49.0, later]
+keywords: [Examination, authorized, examinations, qualify, license, permit, API, 49.0]
 ---
-
-# Examination
 
 > Represents information about the authorized examinations that qualify a license
       or permit. This object is available in API version 49.0 and later.

@@ -5,12 +5,10 @@ topic: filters-json
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.618Z
+lastCollected: 2026-04-07T18:36:53.989Z
 estimatedTokens: 139
 keywords: [filters, JSON, added, filter, panel, widget, dashboard, designer]
 ---
-
-# filters JSON
 
 > The filters section defines the global filters
         added to a global filter panel widget, which is available in the dashboard

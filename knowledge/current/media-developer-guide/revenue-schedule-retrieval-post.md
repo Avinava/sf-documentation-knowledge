@@ -5,12 +5,10 @@ topic: revenue-schedule-retrieval-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.929Z
+lastCollected: 2026-04-07T18:38:11.198Z
 estimatedTokens: 973
 keywords: [Revenue, Schedule, Retrieval, POST, schedules, media, opportunity]
 ---
-
-# Revenue Schedule Retrieval (POST)
 
 > Get the details of a list of revenue schedules for a media
       opportunity.

@@ -5,12 +5,10 @@ topic: fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.551Z
+lastCollected: 2026-04-07T18:40:22.977Z
 estimatedTokens: 38
 keywords: [**Syntax**]
 ---
-
-# Fields
 
 # Fields
 

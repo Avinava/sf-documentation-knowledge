@@ -5,12 +5,10 @@ topic: provider-relationship-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.515Z
+lastCollected: 2026-04-07T18:37:42.666Z
 estimatedTokens: 2745
-keywords: [Provider, Relationship, Management, data, model, along, standard, Salesforce, objects, manage, relationships]
+keywords: [Provider, Relationship, Management, model, along, standard, Salesforce, manage, relationships]
 ---
-
-# Provider Relationship Management
 
 > Use the Provider Relationship Management data model along with standard Salesforce
   objects to manage your provider relationships.

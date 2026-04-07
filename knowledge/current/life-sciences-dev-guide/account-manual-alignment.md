@@ -5,12 +5,10 @@ topic: account-manual-alignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.109Z
+lastCollected: 2026-04-07T18:37:55.552Z
 estimatedTokens: 188
 keywords: [Account, Manual, Alignment, Manually, align, territory, Life, Sciences, package, Provider, Info, record]
 ---
-
-# Account Manual Alignment
 
 > Manually align an account to a territory in the Life Sciences package to create a
         Provider Account Territory Info record.

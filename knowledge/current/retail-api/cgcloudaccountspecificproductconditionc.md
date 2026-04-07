@@ -5,12 +5,10 @@ topic: cgcloudaccountspecificproductconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.385Z
+lastCollected: 2026-04-07T18:39:12.814Z
 estimatedTokens: 1302
-keywords: [Holds, relation, customer, condition, template, API, version, 54.0, later, cgcloud, _Account, _Specific, _Product, _Condition, Calls]
+keywords: [Holds, relation, customer, condition, template, API, 54.0, cgcloud, _Account, _Specific, _Product, _Condition]
 ---
-
-# cgcloud__Account_Specific_Product_Condition__c
 
 > Holds the relation between a customer and the condition template. This
       object is available in API version 54.0 and later.

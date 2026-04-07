@@ -5,12 +5,10 @@ topic: gifttributefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.177Z
+lastCollected: 2026-04-07T18:39:42.779Z
 estimatedTokens: 386
-keywords: [GiftTributeFeed, Feed, tracking, GiftTribute]
+keywords: [GiftTributeFeed, GiftTribute]
 ---
-
-# GiftTributeFeed
 
 > Feed tracking for GiftTribute.
 

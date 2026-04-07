@@ -5,12 +5,10 @@ topic: apex-wires-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.433Z
+lastCollected: 2026-04-07T18:38:14.902Z
 estimatedTokens: 334
-keywords: [Apex, Wires, Offline, Lightning, web, components, wire, functions, continue, provide, cached, durable, store]
+keywords: [Apex, Wires, Offline, Lightning, web, wire, functions, continue, provide, cached, durable, store]
 ---
-
-# Apex Wires While Offline
 
 > Lightning web components that wire properties or functions to Apex methods continue to
   provide cached values from the durable store, if available.

@@ -5,12 +5,10 @@ topic: record-update-with-received-documents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:56.005Z
+lastCollected: 2026-04-07T18:36:41.769Z
 estimatedTokens: 565
 keywords: [Record, Received, Documents, Salesforce, document]
 ---
-
-# Record Update with Received Documents
 
 > Update an existing record in a Salesforce object using a document
    based on a received document record.

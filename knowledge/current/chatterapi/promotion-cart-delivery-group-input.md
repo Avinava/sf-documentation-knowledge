@@ -5,12 +5,10 @@ topic: promotion-cart-delivery-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.092Z
+lastCollected: 2026-04-07T18:37:09.808Z
 estimatedTokens: 368
-keywords: [Promotion, Cart, Delivery, Group, Input, IDs]
+keywords: [Promotion, Cart, Delivery, Group, IDs]
 ---
-
-# Promotion Cart Delivery Group Input
 
 > IDs of the cart delivery group and its delivery
     method.

@@ -5,12 +5,10 @@ topic: banner-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.838Z
+lastCollected: 2026-04-07T18:37:16.906Z
 estimatedTokens: 190
-keywords: [Banner, Capability, feed, element, motif, style]
+keywords: [Banner, Capability, motif, style]
 ---
-
-# Banner Capability
 
 > If this feed element has this capability,
 it has a banner motif and style.

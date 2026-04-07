@@ -5,12 +5,10 @@ topic: adquotelinedeliveryfrequency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.975Z
+lastCollected: 2026-04-07T18:38:12.265Z
 estimatedTokens: 705
-keywords: [AdQuoteLineDeliveryFrequency, frequency, quote, item, served, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [AdQuoteLineDeliveryFrequency, frequency, quote, item, served, API, 64.0]
 ---
-
-# AdQuoteLineDeliveryFrequency
 
 > Represents information about the frequency at which an ad quote item
          must be served. This object is available in API version 64.0 and later.

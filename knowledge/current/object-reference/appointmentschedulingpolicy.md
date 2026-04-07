@@ -5,12 +5,10 @@ topic: appointmentschedulingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.831Z
+lastCollected: 2026-04-07T18:38:25.769Z
 estimatedTokens: 1342
-keywords: [AppointmentSchedulingPolicy, rules, scheduling, appointments, Salesforce, Scheduler, API, version, 45.0, later, Calls]
+keywords: [AppointmentSchedulingPolicy, scheduling, appointments, Salesforce, Scheduler, API, 45.0]
 ---
-
-# AppointmentSchedulingPolicy
 
 > Represents a set of rules for scheduling appointments using
          Salesforce Scheduler. This object is available in API version 45.0 and

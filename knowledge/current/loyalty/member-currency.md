@@ -5,12 +5,10 @@ topic: member-currency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.811Z
+lastCollected: 2026-04-07T18:38:08.049Z
 estimatedTokens: 152
-keywords: [Member, Currency, Output, representation, loyalty, program, member's, associated, currencies]
+keywords: [Member, Currency, loyalty, program, member's, currencies]
 ---
-
-# Member Currency
 
 > Represents the details of the loyalty program member's associated currencies.
 

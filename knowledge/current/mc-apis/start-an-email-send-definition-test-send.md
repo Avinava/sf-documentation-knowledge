@@ -5,12 +5,10 @@ topic: start-an-email-send-definition-test-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.228Z
+lastCollected: 2026-04-07T18:40:20.463Z
 estimatedTokens: 1300
 keywords: [Start, Email, Send, Definition, Test, starting, Why, How, AMPscript, Sample, Call, Descriptions, Items]
 ---
-
-# Start an Email Send Definition Test Send
 
 > This page contains information  about starting a test send using an email send definition.
 

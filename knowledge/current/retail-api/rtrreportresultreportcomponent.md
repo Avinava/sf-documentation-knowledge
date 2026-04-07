@@ -5,13 +5,11 @@ topic: rtrreportresultreportcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.086Z
+lastCollected: 2026-04-07T18:39:10.547Z
 estimatedTokens: 49
 namespace: The
-keywords: [RTRReportResult.ReportComponent, RTR, Report, component, Implementation]
+keywords: [RTRReportResult.ReportComponent, RTR, Report, Implementation]
 ---
-
-# RTRReportResult.ReportComponent
 
 > This class represents an RTR Report UI component.
 

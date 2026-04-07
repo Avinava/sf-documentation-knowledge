@@ -5,12 +5,10 @@ topic: connectapiocilocationgroupavailabilityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.116Z
+lastCollected: 2026-04-07T18:36:10.415Z
 estimatedTokens: 133
-keywords: [inventory, availability, data, location, group]
+keywords: [inventory, availability, location, group]
 ---
-
-# ConnectApi.OCILocationGroupAvailabilityOutputRepresentation
 
 > A set of inventory availability data for one inventory location
       group.

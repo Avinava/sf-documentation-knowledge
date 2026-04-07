@@ -5,12 +5,10 @@ topic: promotion-reward-application-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.394Z
+lastCollected: 2026-04-07T18:38:07.625Z
 estimatedTokens: 294
 keywords: [Promotion, Reward, Application, POST, process, transaction, journals, customer, orders, apply, relevant, promotions]
 ---
-
-# Promotion Reward Application (POST)
 
 > Create and process transaction journals for customer orders, and apply the relevant
     promotions for the orders.

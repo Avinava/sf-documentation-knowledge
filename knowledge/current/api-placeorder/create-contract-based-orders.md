@@ -5,12 +5,10 @@ topic: create-contract-based-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.761Z
+lastCollected: 2026-04-07T18:36:51.050Z
 estimatedTokens: 803
-keywords: [Contract-based, Orders, resource, new, contract, order, products, well, custom, records, level, Usage]
+keywords: [Contract-based, Orders, resource, new, contract, order, products, well, records, level]
 ---
-
-# Create Contract-based Orders
 
 > With this resource, you can create a new contract with
 orders and order products, as well as custom object records on the

@@ -5,12 +5,10 @@ topic: dynamicdatacapture
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.987Z
+lastCollected: 2026-04-07T18:39:38.664Z
 estimatedTokens: 510
-keywords: [DynamicDataCapture, junction, adds, Form, tab, Work, Order, line, item, service, appointment, mobile, app, API, version]
+keywords: [DynamicDataCapture, junction, adds, Form, tab, Work, Order, line, item, service, appointment, mobile, app, API, 62.0]
 ---
-
-# DynamicDataCapture
 
 > DynamicDataCapture is a junction object that adds a Form tab to Work Order
          Overview, and to the related list of a work order, work order line item, or service

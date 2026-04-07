@@ -5,12 +5,10 @@ topic: batch-and-composite-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.660Z
+lastCollected: 2026-04-07T18:40:25.051Z
 estimatedTokens: 537
-keywords: [Batch, Composite, Requests, APIs, pose, special, challenges, because, they, handle, multiple, call, Mobile, SDK, classes, Swift]
+keywords: [Batch, Composite, Requests, APIs, pose, challenges, because, they, handle, multiple, call, Mobile, SDK, classes, take, pain, building, configuring, complex, Swift, extensions, reduce, Classes]
 ---
-
-# Batch and Composite Requests
 
 > Batch and composite APIs pose special challenges, because they handle multiple requests
   in a single call. In Swift, Mobile SDK extensions

@@ -5,12 +5,10 @@ topic: update-processed-gift-entries-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.873Z
+lastCollected: 2026-04-07T18:37:28.966Z
 estimatedTokens: 373
-keywords: [Processed, Gift, Entries, Action, Updates, status, entry, record, already, processing, fails, failure, reason, updated, REST]
+keywords: [Inputs, Outputs, Processed, Gift, Entries, Action, Updates, status, entry, record, already, processing, fails, failure, reason, updated, REST, HTTP]
 ---
-
-# Update Processed Gift Entries Action
 
 > Updates the status of a specified gift entry record that is already
    processed. If the processing fails, the failure reason is updated.

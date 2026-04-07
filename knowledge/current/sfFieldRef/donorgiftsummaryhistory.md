@@ -5,12 +5,10 @@ topic: donorgiftsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.950Z
+lastCollected: 2026-04-07T18:39:38.630Z
 estimatedTokens: 265
-keywords: [DonorGiftSummaryHistory, History, tracked, DonorGiftSummary]
+keywords: [DonorGiftSummaryHistory, tracked, DonorGiftSummary]
 ---
-
-# DonorGiftSummaryHistory
 
 > History for tracked fields of DonorGiftSummary.
 

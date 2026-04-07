@@ -5,12 +5,10 @@ topic: client
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.600Z
+lastCollected: 2026-04-07T18:38:57.403Z
 estimatedTokens: 313
 keywords: [Client, JSON-formatted, signed, CanvasRequest, context, app]
 ---
-
-# Client
 
 > The Client object is a JSON-formatted object
                 returned by the signed request in the CanvasRequest object. It contains context information

@@ -5,12 +5,10 @@ topic: gamificationforceauthenticator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.226Z
+lastCollected: 2026-04-07T18:38:08.493Z
 estimatedTokens: 99
-keywords: [GamificationForceAuthenticator, protocol, necessary, handling, access, tokens, Salesforce, API, getAccessToken, grantAccessToken]
+keywords: [GamificationForceAuthenticator, protocol, necessary, handling, tokens, Salesforce, API, getAccessToken, grantAccessToken]
 ---
-
-# GamificationForceAuthenticator
 
 > The GamificationForceAuthenticator protocol
     defines the necessary methods for handling access tokens in the Salesforce API.

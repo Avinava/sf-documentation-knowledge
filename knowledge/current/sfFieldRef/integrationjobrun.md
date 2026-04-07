@@ -5,12 +5,10 @@ topic: integrationjobrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.885Z
+lastCollected: 2026-04-07T18:39:45.445Z
 estimatedTokens: 445
 keywords: [IntegrationJobRun, statistical, asynchronous, integration, jobs, run, system]
 ---
-
-# IntegrationJobRun
 
 > Represents the statistical details of asynchronous integration jobs that are
          run on the system.

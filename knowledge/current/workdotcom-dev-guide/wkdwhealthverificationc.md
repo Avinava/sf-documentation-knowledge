@@ -5,12 +5,10 @@ topic: wkdwhealthverificationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.165Z
+lastCollected: 2026-04-07T18:40:14.199Z
 estimatedTokens: 829
-keywords: [wkdw__HealthVerification__c, verification, user’s, COVID-19, status, wkdw, _HealthVerification, Calls]
+keywords: [wkdw__HealthVerification__c, verification, user’s, COVID-19, status, wkdw, _HealthVerification]
 ---
-
-# wkdw__HealthVerification__c
 
 > Represents a request for verification of a user’s COVID-19
       status.

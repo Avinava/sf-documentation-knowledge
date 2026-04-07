@@ -5,12 +5,10 @@ topic: post-interactionv1interactionsresumedefinitionidversionnumberversionnumbe
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.964Z
+lastCollected: 2026-04-07T18:40:14.986Z
 estimatedTokens: 321
-keywords: [POST, interaction, interactions, resume, definitionID, versionNumber=, versionNumber, Resumes, paused, journey, matches, **Overview**, Usage, Errors]
+keywords: [POST, interaction, interactions, resume, definitionID, versionNumber=, versionNumber, Resumes, paused, journey, matches, **Overview**, Errors]
 ---
-
-# POST /interaction/v1/interactions/resume/{definitionID}?versionNumber={versionNumber}
 
 > Resumes the paused journey that matches the specified definitionID.
 

@@ -5,12 +5,10 @@ topic: conditional-request-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.952Z
+lastCollected: 2026-04-07T18:36:20.170Z
 estimatedTokens: 1996
-keywords: [Conditional, validate, resources, accessing, setting, precondition, ensure, succeeds, met, functionality, helps, prevent, mistakes, reject, outdated]
+keywords: [ETag, Conditional, validate, resources, accessing, setting, precondition, ensure, succeeds, met, functionality, helps, prevent, mistakes, reject, outdated, requests, updating, Salesforce, implement, variety, techniques, caching, If-Match, If-None-Match, If-Modified-Since, If-Unmodified-Since]
 ---
-
-# Conditional Request Headers
 
 > Use a conditional request header to validate resources before accessing them. By
     setting a precondition in the header, you ensure that your request succeeds only if that

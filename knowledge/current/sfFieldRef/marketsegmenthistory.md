@@ -5,12 +5,10 @@ topic: marketsegmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.664Z
+lastCollected: 2026-04-07T18:39:48.080Z
 estimatedTokens: 257
-keywords: [MarketSegmentHistory, History, tracked, MarketSegment]
+keywords: [MarketSegmentHistory, tracked, MarketSegment]
 ---
-
-# MarketSegmentHistory
 
 > History for tracked fields of MarketSegment.
 

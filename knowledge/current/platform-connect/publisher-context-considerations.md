@@ -5,12 +5,10 @@ topic: publisher-context-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:04.374Z
+lastCollected: 2026-04-07T18:38:57.170Z
 estimatedTokens: 577
 keywords: [Publisher, Context, Considerations, display, canvas, app, inside, receive, signed, getContext, call, specific]
 ---
-
-# Publisher Context Considerations
 
 > When you display a canvas app inside the publisher, the
 context information you receive from the signed request or from a getContext() call contains information

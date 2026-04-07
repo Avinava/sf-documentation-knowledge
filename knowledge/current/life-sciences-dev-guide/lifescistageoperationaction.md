@@ -5,12 +5,10 @@ topic: lifescistageoperationaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.041Z
+lastCollected: 2026-04-07T18:38:00.829Z
 estimatedTokens: 512
-keywords: [LifeSciStageOperationAction, junction, stage, operation, action, actions, context, specific, API, version, 65.0, later, Calls]
+keywords: [LifeSciStageOperationAction, junction, stage, operation, action, actions, context, specific, API, 65.0]
 ---
-
-# LifeSciStageOperationAction
 
 > Represents a junction between a stage operation and a stage action. This
          object defines a set of available stage actions in the context of a specific stage

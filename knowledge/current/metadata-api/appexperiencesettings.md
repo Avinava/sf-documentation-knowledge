@@ -5,12 +5,10 @@ topic: appexperiencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.306Z
+lastCollected: 2026-04-07T18:36:22.560Z
 estimatedTokens: 606
-keywords: [AppExperienceSettings, settings, app, experience.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
+keywords: [AppExperienceSettings, settings, app, experience.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# AppExperienceSettings
 
 > Represents settings for the app
       experience.This type extends the Metadata metadata type and inherits its fullName field.

@@ -5,12 +5,10 @@ topic: time-series-v2-algorithm-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.989Z
+lastCollected: 2026-04-07T18:39:19.672Z
 estimatedTokens: 111
-keywords: [Time, Series, Algorithm, version, node, recipe]
+keywords: [Time, Series, Algorithm, node, recipe]
 ---
-
-# Time Series V2 Algorithm Parameters
 
 > The algorithm parameters for a time series version 2 node in a recipe.
 

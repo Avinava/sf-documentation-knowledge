@@ -5,12 +5,10 @@ topic: promotionactionablelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.287Z
+lastCollected: 2026-04-07T18:38:10.544Z
 estimatedTokens: 368
-keywords: [PromotionActionableList, Represent, junction, promotion, actionable, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [PromotionActionableList, Represent, junction, promotion, actionable, API, 62.0]
 ---
-
-# PromotionActionableList
 
 > Represent of a junction between a promotion and an actionable list. This
       object is available in API version 62.0 and later.

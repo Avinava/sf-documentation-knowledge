@@ -5,12 +5,10 @@ topic: surveyquestionscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.587Z
+lastCollected: 2026-04-07T18:40:03.280Z
 estimatedTokens: 466
-keywords: [SurveyQuestionScore, aggregate, responses, question, date, multiple, choice, picklist, radio, ranking, rating, scoring, slider, Net, Promoter]
+keywords: [SurveyQuestionScore, aggregate, responses, question, date, multiple, choice, picklist, radio, ranking, rating, scoring, slider, Net, Promoter, Score®, NPS®]
 ---
-
-# SurveyQuestionScore
 
 > Represents the aggregate of responses for the following question types: date,
       multiple choice, picklist, radio, ranking, rating, scoring, slider, and Net Promoter Score® (NPS®).

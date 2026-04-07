@@ -5,12 +5,10 @@ topic: action-plan-template-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.972Z
+lastCollected: 2026-04-07T18:39:02.164Z
 estimatedTokens: 79
-keywords: [Action, Plan, Template, Output, representation, templates]
+keywords: [Action, Plan, Template, templates]
 ---
-
-# Action Plan Template List
 
 > Output representation for the list of action plan
     templates.

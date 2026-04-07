@@ -5,12 +5,10 @@ topic: customer-alerts-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.684Z
+lastCollected: 2026-04-07T18:40:12.659Z
 estimatedTokens: 428
 keywords: [Customer, Alerts, Platform, Event, RealtimeAlertEvent, notifies, subscribers, triggered, alarms, Amazon, Connect, instance]
 ---
-
-# Customer Alerts Platform Event
 
 > The RealtimeAlertEvent platform event notifies subscribers about triggered alarms in
     your Amazon Connect instance.

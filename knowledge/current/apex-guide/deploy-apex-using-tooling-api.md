@@ -5,12 +5,10 @@ topic: deploy-apex-using-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.200Z
+lastCollected: 2026-04-07T18:36:17.428Z
 estimatedTokens: 230
-keywords: [Deploy, Apex, Tooling, API, classes, triggers, Because, change, element, complex, easy]
+keywords: [Deploy, Apex, Tooling, API, classes, triggers, Because, change, complex, easy]
 ---
-
-# Deploy Apex Using Tooling API
 
 > Use Tooling API to deploy Apex classes or Apex triggers. Because Tooling API allows you
   to change just one element within a complex type, it is easy to deploy using Tooling

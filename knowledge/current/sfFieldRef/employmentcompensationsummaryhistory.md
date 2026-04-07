@@ -5,12 +5,10 @@ topic: employmentcompensationsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.542Z
+lastCollected: 2026-04-07T18:39:39.193Z
 estimatedTokens: 281
-keywords: [EmploymentCompensationSummaryHistory, History, tracked, EmploymentCompensationSummary]
+keywords: [EmploymentCompensationSummaryHistory, tracked, EmploymentCompensationSummary]
 ---
-
-# EmploymentCompensationSummaryHistory
 
 > History for tracked fields of EmploymentCompensationSummary.
 

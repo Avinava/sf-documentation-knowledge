@@ -5,12 +5,10 @@ topic: forecastingcolumndefinition-formula-field-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.849Z
+lastCollected: 2026-04-07T18:38:32.886Z
 estimatedTokens: 1465
-keywords: [ForecastingColumnDefinition, Formula, API, operators, functions, construct, formulas, apply, singular, cumulative, category, rollups, simplification, included, rollup]
+keywords: [ForecastingColumnDefinition, Formula, API, operators, functions, construct, formulas, apply, singular, cumulative, category, rollups, simplification, included, rollup, column]
 ---
-
-# ForecastingColumnDefinition Formula Field Details
 
 > Use these API names, operators, and functions to construct formulas for the Formula
   field in the ForecastingColumnDefinition object. The API names apply to both singular and

@@ -5,12 +5,10 @@ topic: ampscript-update-insert-and-delete-calls-processing-during-sends
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.546Z
+lastCollected: 2026-04-07T18:40:21.833Z
 estimatedTokens: 762
-keywords: [AMPscript, Insert, Calls, Processing, how, Marketing, Cloud, processes, contained, emails, landing, pages, properly, obtains, email]
+keywords: [Scenario, AMPscript, Insert, Processing, how, Marketing, Cloud, processes, contained, emails, landing, pages, properly, obtains, email, extensions, Application, Handles]
 ---
-
-# AMPscript Update, Insert, and Delete Calls Processing During Sends
 
 > Use this information about how the Marketing Cloud processes AMPscript calls contained within emails and landing pages to create AMPscript that properly obtains and processes information from your email sends and data extensions.
 

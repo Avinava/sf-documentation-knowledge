@@ -5,12 +5,10 @@ topic: buildrowsetfromxml
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.625Z
+lastCollected: 2026-04-07T18:40:21.962Z
 estimatedTokens: 524
-keywords: [BuildRowSetFromXML, Function, Ordinal, XML, node, XPATH, argument, building, rowset, **Overview**, **Syntax**, Usage, Content]
+keywords: [BuildRowSetFromXML, Function, Ordinal, XML, node, XPATH, argument, building, rowset, **Overview**, **Syntax**, Content]
 ---
-
-# BuildRowSetFromXML
 
 > BuildRowSetFromXML(1, 2, 3)
 

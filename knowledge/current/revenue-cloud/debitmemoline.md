@@ -5,12 +5,10 @@ topic: debitmemoline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.038Z
+lastCollected: 2026-04-07T18:35:49.006Z
 estimatedTokens: 1832
-keywords: [DebitMemoLine, additional, charge, amount, buyer, pay, product, service, debit, memo, line, tax, that’s, API, version]
+keywords: [DebitMemoLine, additional, charge, amount, buyer, pay, product, service, debit, memo, line, tax, that’s, API, 65.0]
 ---
-
-# DebitMemoLine
 
 > Represents the additional charge amount that the buyer must pay for
          the product, service, or debit memo line tax that’s related to the debit memo. This

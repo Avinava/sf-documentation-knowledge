@@ -5,12 +5,10 @@ topic: promotionsegmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.697Z
+lastCollected: 2026-04-07T18:39:57.277Z
 estimatedTokens: 361
-keywords: [PromotionSegmentFeed, Feed, tracking, PromotionSegment]
+keywords: [PromotionSegmentFeed, PromotionSegment]
 ---
-
-# PromotionSegmentFeed
 
 > Feed tracking for PromotionSegment.
 

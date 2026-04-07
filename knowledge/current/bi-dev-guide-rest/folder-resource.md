@@ -5,12 +5,10 @@ topic: folder-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.736Z
+lastCollected: 2026-04-07T18:36:56.270Z
 estimatedTokens: 885
-keywords: [Folder, Resource, deletes, updates, replaces, Analytics, app, URL, Formats, Version, Postman, Components, HTTP, PUT, PATCH]
+keywords: [Formats, Folder, Resource, deletes, updates, replaces, Analytics, app, URL, Postman, HTTP, PUT, PATCH]
 ---
-
-# Folder Resource
 
 > Returns, deletes, updates, or replaces an Analytics app or folder
       with the specified ID.

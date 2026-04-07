@@ -5,12 +5,10 @@ topic: send-to-email-notification-action-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.123Z
+lastCollected: 2026-04-07T18:36:57.668Z
 estimatedTokens: 103
 keywords: [Send, Email, Notification, Action, Configuration, sending]
 ---
-
-# Send To Email Notification Action Configuration
 
 > The notification action configuration for sending an email.
 

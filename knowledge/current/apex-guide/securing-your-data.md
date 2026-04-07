@@ -5,12 +5,10 @@ topic: securing-your-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.044Z
+lastCollected: 2026-04-07T18:36:17.271Z
 estimatedTokens: 494
-keywords: [Securing, Data, secure, provided, Crypto, Integrating, Amazon, WebServices, Encrypting, Decrypting]
+keywords: [Securing, secure, provided, Crypto, Integrating, Amazon, WebServices, Encrypting, Decrypting]
 ---
-
-# Securing Your Data
 
 > You can secure your data by using the methods provided by the
             Crypto class.

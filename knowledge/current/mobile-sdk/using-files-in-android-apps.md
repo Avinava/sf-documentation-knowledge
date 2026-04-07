@@ -5,12 +5,10 @@ topic: using-files-in-android-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.518Z
+lastCollected: 2026-04-07T18:40:25.899Z
 estimatedTokens: 327
 keywords: [Files, Android, Apps, passes, userId, tells, ownedFilesList, context, logged-in, user, second, pageNum, fetch, results]
 ---
-
-# Using Files in Android Apps
 
 > This example passes null to the first parameter (userId). This value tells the ownedFilesList() method to use the ID
 of the context, or logged-in, user. The second null, for the pageNum parameter, tells the method to

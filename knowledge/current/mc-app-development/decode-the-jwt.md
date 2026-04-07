@@ -5,12 +5,10 @@ topic: decode-the-jwt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.005Z
+lastCollected: 2026-04-07T18:40:21.282Z
 estimatedTokens: 496
 keywords: [Decode, JWT, application, login, needs, passed, leverage, needed, two, pieces, Decoding, node.js, PHP, Ruby, Items]
 ---
-
-# Decode the JWT
 
 > You application login page needs to decode the JWT passed to it and leverage the information as needed. You need two pieces of information to decode the JWT:
 

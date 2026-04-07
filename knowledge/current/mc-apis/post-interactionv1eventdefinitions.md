@@ -5,12 +5,10 @@ topic: post-interactionv1eventdefinitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.824Z
+lastCollected: 2026-04-07T18:40:15.951Z
 estimatedTokens: 1204
-keywords: [POST, interaction, eventDefinitions, Creates, event, definition, data, schema, key, resource, uses, firing, send, appropriate, journey]
+keywords: [POST, interaction, eventDefinitions, Creates, event, definition, schema, key, resource, uses, firing, send, appropriate, journey, Typically, marketers, Builder, instead, **Overview**]
 ---
-
-# POST /interaction/v1/eventDefinitions
 
 > Creates an event definition (name and data schema for an event) and defines an event definition key. The resource uses this key when firing an event to send it to the appropriate journey. Typically, marketers create the event definition in the Journey Builder UI. Use this resource instead if you are
 

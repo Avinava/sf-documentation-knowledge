@@ -5,12 +5,10 @@ topic: sending-messages-from-the-lightning-container-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.523Z
+lastCollected: 2026-04-07T18:38:03.572Z
 estimatedTokens: 1261
-keywords: [Sending, Messages, Lightning, Container, Component, onmessage, attribute, specify, handling, contents, component—that, embedded, app, wrapped, iframe]
+keywords: [Sending, Messages, Lightning, Container, onmessage, attribute, specify, handling, contents, component—that, embedded, app, wrapped, iframe, communicate, across, frame, boundary]
 ---
-
-# Sending Messages from the Lightning Container Component
 
 > Use the onmessage attribute of lightning:container to specify a method for handling messages to and from the
     contents of the component—that is, the embedded app. The contents of lightning:container are wrapped within an iframe, and this method allows you to

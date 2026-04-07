@@ -5,12 +5,10 @@ topic: resolve-conflicts-between-your-local-project-and-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.628Z
+lastCollected: 2026-04-07T18:40:08.588Z
 estimatedTokens: 553
-keywords: [Resolve, Conflicts, Local, Project, Org, best, practice, exist, components, moving, forward, conflict, manually, overwrite, version]
+keywords: [Resolve, Conflicts, Local, Project, Org, best, practice, exist, moving, forward, conflict, manually, overwrite, another, changes, you're, certain, new, want, Conflicting]
 ---
-
-# Resolve Conflicts Between Your Local Project and Org
 
 > As a best practice, if conflicts exist for components in your local project or in the
     org, resolve them before moving forward. You can resolve the conflict manually, or overwrite one

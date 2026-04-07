@@ -5,12 +5,10 @@ topic: loyaltypgmpartnerpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.003Z
+lastCollected: 2026-04-07T18:38:10.276Z
 estimatedTokens: 686
-keywords: [LoyaltyPgmPartnerPromotion, junction, Promotion, Loyalty, Program, Partner, objects, API, version, 55.0, later, Calls, Associated]
+keywords: [LoyaltyPgmPartnerPromotion, junction, Promotion, Loyalty, Program, Partner, API, 55.0]
 ---
-
-# LoyaltyPgmPartnerPromotion
 
 > Represents a junction between the Promotion and Loyalty Program Partner
          objects. This object is available in API version 55.0 and later.

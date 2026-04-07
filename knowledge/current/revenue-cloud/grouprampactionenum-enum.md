@@ -5,12 +5,10 @@ topic: grouprampactionenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.812Z
+lastCollected: 2026-04-07T18:35:41.682Z
 estimatedTokens: 348
 keywords: [GroupRampActionEnum, action, ‌that, want, perform, group, ramp, segments, Additionally, convert, non-ramped, ramped]
 ---
-
-# GroupRampActionEnum Enum
 
 > Specifies the action ‌that you want to perform on group ramp segments. Additionally,
     you can also convert a non-ramped group into a ramped group.

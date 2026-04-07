@@ -5,12 +5,10 @@ topic: partyidentityverification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.560Z
+lastCollected: 2026-04-07T18:37:38.413Z
 estimatedTokens: 1722
-keywords: [PartyIdentityVerification, identity, verification, checks, party, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [PartyIdentityVerification, identity, verification, checks, party, API, 56.0]
 ---
-
-# PartyIdentityVerification
 
 > Represents information about the identity verification checks done for a
          party. This object is available in API version 56.0 and later.

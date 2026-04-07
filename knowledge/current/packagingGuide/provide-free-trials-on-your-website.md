@@ -5,12 +5,10 @@ topic: provide-free-trials-on-your-website
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.978Z
+lastCollected: 2026-04-07T18:38:46.944Z
 estimatedTokens: 491
-keywords: [Provide, Free, Trials, Website, HTML, forms, drive, traffic, business, show, off, solutions, prospective, customers, prospect]
+keywords: [Provide, Free, Trials, Website, HTML, forms, drive, traffic, business, show, off, solutions, prospective, customers, prospect, submits, form, Salesforce, provisions, trial, Trialforce, template]
 ---
-
-# Provide Free Trials on Your Website
 
 > Use HTML forms to drive traffic to your business and show off your solutions to
     prospective customers. After a prospect submits your form, Salesforce provisions a trial based

@@ -5,12 +5,10 @@ topic: tenantsecurityalertruleselectedtenant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.515Z
+lastCollected: 2026-04-07T18:38:42.284Z
 estimatedTokens: 832
-keywords: [TenantSecurityAlertRuleSelectedTenant, Stores, Security, Center, alert, rule, tenants, subscribers, API, version, 55.0, later, Calls, Special, Access]
+keywords: [TenantSecurityAlertRuleSelectedTenant, Stores, Security, Center, alert, rule, tenants, subscribers, API, 55.0]
 ---
-
-# TenantSecurityAlertRuleSelectedTenant
 
 > Stores information about a Security Center alert rule for tenants.
 		This object is available for Security Center subscribers in API version 55.0 and

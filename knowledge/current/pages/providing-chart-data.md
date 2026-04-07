@@ -5,12 +5,10 @@ topic: providing-chart-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.817Z
+lastCollected: 2026-04-07T18:38:48.764Z
 estimatedTokens: 716
-keywords: [Providing, Chart, Data, Visualforce, binds, source, attribute, <apex, chart>, component]
+keywords: [Providing, Chart, Visualforce, binds, source, attribute, <apex, chart>]
 ---
-
-# Providing Chart Data
 
 > A Visualforce chart binds to the source of its data through the data attribute
 on the <apex:chart> component.

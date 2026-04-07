@@ -5,12 +5,10 @@ topic: 11000-11999-accountuser-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.599Z
+lastCollected: 2026-04-07T18:40:14.620Z
 estimatedTokens: 266
 keywords: [11000-11999, AccountUser]
 ---
-
-# 11000-11999 AccountUser Object
 
 # 11000-11999 AccountUser Object
 

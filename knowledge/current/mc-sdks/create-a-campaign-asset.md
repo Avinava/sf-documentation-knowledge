@@ -5,12 +5,10 @@ topic: create-a-campaign-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.946Z
+lastCollected: 2026-04-07T18:40:24.447Z
 estimatedTokens: 590
-keywords: [Campaign, Asset, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Campaign, Asset, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a Campaign Asset
 
 > Use the Post method to create a new campaign within a Marketing Cloud account.
 

@@ -5,12 +5,10 @@ topic: query-more-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.800Z
+lastCollected: 2026-04-07T18:36:21.037Z
 estimatedTokens: 493
 keywords: [Query, Results, batch, SOQL, locator, Resources, Executing, Queries]
 ---
-
-# Query More Results
 
 > Returns the next batch of results from a SOQL query using a query locator.
 

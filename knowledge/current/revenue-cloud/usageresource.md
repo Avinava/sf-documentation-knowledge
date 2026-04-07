@@ -5,12 +5,10 @@ topic: usageresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.896Z
+lastCollected: 2026-04-07T18:35:50.774Z
 estimatedTokens: 1254
-keywords: [UsageResource, entitlement, granted, user, party, provider, data, storage, computing, power, bandwidth, any, product, service, Additionally]
+keywords: [UsageResource, entitlement, granted, user, party, provider, storage, computing, power, bandwidth, any, product, service, Additionally, represent, resources, consumed, over, time, API, 62.0]
 ---
-
-# UsageResource
 
 > Represents an entitlement granted to a user or party by a provider,
          such as data storage, computing power, bandwidth, or any other product or service.

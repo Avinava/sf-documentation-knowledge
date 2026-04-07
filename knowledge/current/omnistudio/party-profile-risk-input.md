@@ -5,12 +5,10 @@ topic: party-profile-risk-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.763Z
+lastCollected: 2026-04-07T18:36:37.295Z
 estimatedTokens: 295
-keywords: [Party, Profile, Risk, Input, representation]
+keywords: [Party, Profile, Risk]
 ---
-
-# Party Profile Risk Input
 
 > Input representation of the details of the party profile risk.
 

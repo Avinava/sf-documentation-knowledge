@@ -5,12 +5,10 @@ topic: restrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.815Z
+lastCollected: 2026-04-07T18:36:29.295Z
 estimatedTokens: 690
-keywords: [RestrictionRule, restriction, rule, scoping, enforcementType, Restrict, access, users, designated, records, restricting, extends, Metadata, inherits, fullName]
+keywords: [RestrictionRule, restriction, rule, scoping, enforcementType, Restrict, users, designated, records, restricting, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# RestrictionRule
 
 > Represents a restriction rule or a scoping rule. A
       restriction rule has enforcementType set to Restrict and controls the access that specified users have to designated records.

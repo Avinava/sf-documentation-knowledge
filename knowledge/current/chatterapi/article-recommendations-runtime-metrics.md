@@ -5,12 +5,10 @@ topic: article-recommendations-runtime-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.700Z
+lastCollected: 2026-04-07T18:37:16.769Z
 estimatedTokens: 90
 keywords: [Article, Recommendations, Runtime, Metrics]
 ---
-
-# Article Recommendations Runtime Metrics
 
 > Article recommendations runtime metrics.
 

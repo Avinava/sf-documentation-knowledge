@@ -5,12 +5,10 @@ topic: training-and-inference-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.759Z
+lastCollected: 2026-04-07T18:39:22.653Z
 estimatedTokens: 572
-keywords: [Training, Inference, Steps, Similar, machine, learning, statistical, models, detection, model, familiar, two-step, process, step, customer]
+keywords: [Training, Inference, Steps, Similar, machine, learning, statistical, models, detection, model, familiar, two-step, process, step, customer, don't, perform, either, steps—Salesforce, performs, review, events, generated, mode, take, further, action, necessary, Anomaly, Score, Critical, Threshold]
 ---
-
-# Training and Inference Steps
 
 > Similar to other machine learning or statistical models, our detection model has a
     familiar two-step process: a training step and an inference or detection step. As a customer,

@@ -5,12 +5,10 @@ topic: productlaborcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.884Z
+lastCollected: 2026-04-07T18:38:14.190Z
 estimatedTokens: 366
-keywords: [ProductLaborCode, junction, labor, code, that's, applicable, product, family, standard, effort, API, version, 58.0, later, Calls]
+keywords: [ProductLaborCode, junction, labor, code, that's, applicable, product, family, standard, effort, API, 58.0]
 ---
-
-# ProductLaborCode
 
 > Represents a junction between the labor code that's applicable to a
          product or product family and the required standard effort. This object is available

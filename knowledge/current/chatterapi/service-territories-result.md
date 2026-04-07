@@ -5,12 +5,10 @@ topic: service-territories-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.946Z
+lastCollected: 2026-04-07T18:37:23.060Z
 estimatedTokens: 236
 keywords: [Service, Territories, Result, territory]
 ---
-
-# Service Territories Result
 
 > Represents a service territory result.
 

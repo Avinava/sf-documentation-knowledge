@@ -5,12 +5,10 @@ topic: obtain-apex-trigger-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.597Z
+lastCollected: 2026-04-07T18:37:05.350Z
 estimatedTokens: 394
-keywords: [Obtain, Apex, Trigger, Subscribers, triggers, subscribed, change, events, query, EventBusSubscriber, standard, SOQL, CometD, Pub, Sub]
+keywords: [Obtain, Apex, Trigger, Subscribers, triggers, subscribed, change, events, query, EventBusSubscriber, standard, SOQL, CometD, Pub, Sub, API]
 ---
-
-# Obtain Apex Trigger Subscribers
 
 > To get information about the triggers that are subscribed to change events, query the
   EventBusSubscriber standard object using SOQL. EventBusSubscriber contains information about Apex

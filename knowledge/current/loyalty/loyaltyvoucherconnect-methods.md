@@ -5,12 +5,10 @@ topic: loyaltyvoucherconnect-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.971Z
+lastCollected: 2026-04-07T18:38:09.264Z
 estimatedTokens: 340
 keywords: [LoyaltyVoucherConnect]
 ---
-
-# LoyaltyVoucherConnect Methods
 
 > This is a method for LoyaltyVoucherConnect.
     Method is static.

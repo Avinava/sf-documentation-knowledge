@@ -5,13 +5,11 @@ topic: crypto-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.651Z
+lastCollected: 2026-04-07T18:36:03.883Z
 estimatedTokens: 13924
 namespace: ID
-keywords: [Crypto, Computes, unique, digital, input, blob, algorithm, supplied, certificate, key, pair, Usage, Encryption, Algorithms, Signing]
+keywords: [Crypto, Computes, unique, digital, blob, algorithm, supplied, certificate, key, pair, Encryption, Algorithms, Signing, Encrypt, Decrypt, Exceptions, Errors, Running, Samples, algorithmName, secretKey, initializationVector, cipherText, decryptWithManagedIV, IVAndCipherText, aaData, clearText, encryptWithManagedIV, generateAesKey, size, generateDigest, generateMac, privateKey, getRandomInteger, getRandomLong, sign, signWithCertificate, certDevName, signXML, node, idAttributeName, refChild, verify, publicKey, verifyHMac, macToVerify]
 ---
-
-# Crypto Class
 
 > Computes a unique digital signature for the input blob value, using
       the specified algorithm and the supplied certificate and key pair.

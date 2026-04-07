@@ -5,12 +5,10 @@ topic: returnorderlineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.663Z
+lastCollected: 2026-04-07T18:40:00.404Z
 estimatedTokens: 269
-keywords: [ReturnOrderLineItemHistory, History, tracked, ReturnOrderLineItem]
+keywords: [ReturnOrderLineItemHistory, tracked, ReturnOrderLineItem]
 ---
-
-# ReturnOrderLineItemHistory
 
 > History for tracked fields of ReturnOrderLineItem.
 

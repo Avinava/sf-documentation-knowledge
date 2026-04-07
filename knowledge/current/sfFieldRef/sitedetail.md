@@ -5,12 +5,10 @@ topic: sitedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.648Z
+lastCollected: 2026-04-07T18:40:02.335Z
 estimatedTokens: 203
-keywords: [SiteDetail, Salesforce, site, Experience, Cloud, API, Version, 38.0, later]
+keywords: [SiteDetail, Salesforce, site, Experience, Cloud, API, 38.0]
 ---
-
-# SiteDetail
 
 > Represents the details of a Salesforce site or Experience Cloud site.
       Available in API Version 38.0 and later.

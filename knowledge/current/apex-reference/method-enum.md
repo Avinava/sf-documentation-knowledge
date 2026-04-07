@@ -5,12 +5,10 @@ topic: method-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.538Z
+lastCollected: 2026-04-07T18:36:12.833Z
 estimatedTokens: 107
-keywords: [compression, zip, entries, Usage]
+keywords: [compression, zip, entries]
 ---
-
-# Method Enum
 
 > Specifies the compression method for the zip entries.
 

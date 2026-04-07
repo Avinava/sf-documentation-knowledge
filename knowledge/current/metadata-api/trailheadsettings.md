@@ -5,12 +5,10 @@ topic: trailheadsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.695Z
+lastCollected: 2026-04-07T18:36:30.110Z
 estimatedTokens: 716
-keywords: [TrailheadSettings, org’s, integration, Trailhead, Learning, Paths, Enablement, programs, including, access, sites, formerly, myTrailhead, File, Suffix]
+keywords: [TrailheadSettings, org’s, integration, Trailhead, Learning, Paths, Enablement, programs, including, sites, formerly, myTrailhead, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# TrailheadSettings
 
 > Represents an org’s integration with Trailhead
       for Learning Paths or Enablement programs, including access to enablement sites (formerly

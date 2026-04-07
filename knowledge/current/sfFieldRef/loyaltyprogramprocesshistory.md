@@ -5,12 +5,10 @@ topic: loyaltyprogramprocesshistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.214Z
+lastCollected: 2026-04-07T18:39:47.631Z
 estimatedTokens: 269
-keywords: [LoyaltyProgramProcessHistory, History, tracked, LoyaltyProgramProcess]
+keywords: [LoyaltyProgramProcessHistory, tracked, LoyaltyProgramProcess]
 ---
-
-# LoyaltyProgramProcessHistory
 
 > History for tracked fields of LoyaltyProgramProcess.
 

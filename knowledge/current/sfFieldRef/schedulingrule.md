@@ -5,12 +5,10 @@ topic: schedulingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.025Z
+lastCollected: 2026-04-07T18:40:00.776Z
 estimatedTokens: 345
-keywords: [SchedulingRule, scheduling, rules, hard, constraints, logic, engine, API, version, 52.0, later]
+keywords: [SchedulingRule, scheduling, hard, constraints, logic, engine, API, 52.0]
 ---
-
-# SchedulingRule
 
 > Represents scheduling rules that are hard constraints in the scheduling logic
          engine.  This object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: salesforce-object-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.225Z
+lastCollected: 2026-04-07T18:38:24.116Z
 estimatedTokens: 847
-keywords: [Salesforce, Platform, refer, whether, standard, custom, schema, determined, created, However, continued, evolve, there, now, objects]
+keywords: [Salesforce, Platform, refer, whether, standard, schema, determined, created, However, continued, evolve, there, now, Identifying, Accessing]
 ---
-
-# Salesforce Object Types
 
 > In the Salesforce Platform, an object type used to refer to whether an object was
         standard or custom. A standard object has a schema determined by Salesforce. A custom object

@@ -5,12 +5,10 @@ topic: hotelstayemssnfctrhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.441Z
+lastCollected: 2026-04-07T18:39:44.088Z
 estimatedTokens: 271
-keywords: [HotelStayEmssnFctrHistory, History, tracked, HotelStayEmssnFctr]
+keywords: [HotelStayEmssnFctrHistory, tracked, HotelStayEmssnFctr]
 ---
-
-# HotelStayEmssnFctrHistory
 
 > History for tracked fields of HotelStayEmssnFctr.
 

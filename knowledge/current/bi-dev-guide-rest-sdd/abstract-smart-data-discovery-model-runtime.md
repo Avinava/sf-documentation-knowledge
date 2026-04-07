@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-model-runtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.759Z
+lastCollected: 2026-04-07T18:36:59.260Z
 estimatedTokens: 118
-keywords: [Abstract, Smart, Data, Discovery, Model, Runtime, base, Einstein, run, time]
+keywords: [Abstract, Smart, Discovery, Model, Runtime, base, Einstein, run, time]
 ---
-
-# Abstract Smart Data Discovery Model Runtime
 
 > The base Einstein Discovery model run time.
 

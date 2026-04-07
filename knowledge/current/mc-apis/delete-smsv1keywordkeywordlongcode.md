@@ -5,12 +5,10 @@ topic: delete-smsv1keywordkeywordlongcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.380Z
+lastCollected: 2026-04-07T18:40:16.521Z
 estimatedTokens: 191
-keywords: [sms, keyword, longCode, Deletes, account, long, code, **Overview**, Usage]
+keywords: [sms, keyword, longCode, Deletes, account, long, code, **Overview**]
 ---
-
-# DELETE /sms/v1/keyword/{keyword}/{longCode}
 
 > Deletes a keyword on an account given a keyword and long code.
 

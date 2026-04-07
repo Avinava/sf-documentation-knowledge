@@ -5,12 +5,10 @@ topic: enable-voice-call-transfers-using-omni-channel-flows-and-amazon-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.761Z
+lastCollected: 2026-04-07T18:40:12.724Z
 estimatedTokens: 1085
 keywords: [Enable, Voice, Call, Transfers, Omni-Channel, Flows, Amazon, Connect, Configure, feature, via, Salesforce]
 ---
-
-# Enable Voice Call Transfers Using Omni-Channel Flows and Amazon Connect
 
 > Configure this feature to enable voice call transfers via Salesforce
       Omni-Channel flows.

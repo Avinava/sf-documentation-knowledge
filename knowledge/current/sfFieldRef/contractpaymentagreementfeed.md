@@ -5,12 +5,10 @@ topic: contractpaymentagreementfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.309Z
+lastCollected: 2026-04-07T18:39:35.759Z
 estimatedTokens: 275
-keywords: [ContractPaymentAgreementFeed, Feed, tracking, ContractPaymentAgreement]
+keywords: [ContractPaymentAgreementFeed, ContractPaymentAgreement]
 ---
-
-# ContractPaymentAgreementFeed
 
 > Feed tracking for ContractPaymentAgreement.
 

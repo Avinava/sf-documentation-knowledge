@@ -5,12 +5,10 @@ topic: group-by-rollup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.141Z
+lastCollected: 2026-04-07T18:40:10.115Z
 estimatedTokens: 1338
-keywords: [GROUP, ROLLUP, clause, SOQL, query, add, subtotals, aggregated, data, results, action, calculate, don’t, maintain, logic]
+keywords: [GROUP, ROLLUP, clause, SOQL, query, add, subtotals, aggregated, results, action, calculate, don’t, maintain, logic, code, Grouping, Two]
 ---
-
-# GROUP BY ROLLUP
 
 > Use the GROUP BY ROLLUP optional clause in a SOQL
     query to add subtotals for aggregated data in query results. This action enables the query to

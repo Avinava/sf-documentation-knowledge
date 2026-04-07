@@ -5,12 +5,10 @@ topic: development-prerequisites-for-ios-and-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.028Z
+lastCollected: 2026-04-07T18:40:25.397Z
 estimatedTokens: 630
-keywords: [Development, Prerequisites, iOS, Android, recommend, background, knowledge, system, setup, begin, building, Mobile, SDK, apps, General]
+keywords: [Development, Prerequisites, iOS, Android, recommend, background, knowledge, system, setup, begin, building, Mobile, SDK, apps, General, Requirements, Platforms, Environments, Native, Hybrid, React]
 ---
-
-# Development Prerequisites for iOS and Android
 
 > We recommend some background knowledge and system setup before you begin building
         Mobile SDK apps.

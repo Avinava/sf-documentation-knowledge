@@ -5,12 +5,10 @@ topic: authorize-an-org-using-its-sfdx-authorization-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.859Z
+lastCollected: 2026-04-07T18:40:07.796Z
 estimatedTokens: 265
-keywords: [Authorize, Org, SFDX, Authorization, URL, org's, Salesforce, continuous, integration, environments, fully, automated, don’t, support, human]
+keywords: [Authorize, Org, SFDX, Authorization, URL, org's, Salesforce, continuous, integration, environments, fully, automated, don’t, support, human, interactivity, logging, browser]
 ---
-
-# Authorize an Org Using Its SFDX Authorization URL
 
 > Use an org's Salesforce DX (SFDX) authorization URL to authorize an org in continuous
     integration (CI) environments, which are fully automated and don’t support the human

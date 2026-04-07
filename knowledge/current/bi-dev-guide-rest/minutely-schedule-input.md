@@ -5,12 +5,10 @@ topic: minutely-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.482Z
+lastCollected: 2026-04-07T18:36:54.841Z
 estimatedTokens: 207
-keywords: [Minutely, Schedule, Input, Specify, sub-hourly, Analytics, asset]
+keywords: [Minutely, Schedule, Specify, sub-hourly, Analytics, asset]
 ---
-
-# Minutely Schedule Input
 
 > Specify a sub-hourly schedule for an Analytics asset.
 

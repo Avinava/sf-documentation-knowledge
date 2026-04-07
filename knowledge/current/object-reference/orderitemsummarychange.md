@@ -5,12 +5,10 @@ topic: orderitemsummarychange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.755Z
+lastCollected: 2026-04-07T18:38:37.017Z
 estimatedTokens: 939
-keywords: [OrderItemSummaryChange, change, OrderItemSummary, usually, reduction, quantity, due, cancel, Corresponds, order, item, API, version, 48.0, later]
+keywords: [OrderItemSummaryChange, change, OrderItemSummary, usually, reduction, quantity, due, cancel, Corresponds, order, item, API, 48.0]
 ---
-
-# OrderItemSummaryChange
 
 > Represents a change to an OrderItemSummary, usually a reduction in quantity due
       to a cancel or return. Corresponds to a change order item. This object is available in

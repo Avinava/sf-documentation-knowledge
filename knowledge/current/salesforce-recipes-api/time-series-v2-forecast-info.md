@@ -5,12 +5,10 @@ topic: time-series-v2-forecast-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.993Z
+lastCollected: 2026-04-07T18:39:19.684Z
 estimatedTokens: 136
-keywords: [Time, Series, Forecast, Info, version, node, recipe]
+keywords: [Time, Series, Forecast, Info, node, recipe]
 ---
-
-# Time Series V2 Forecast Info
 
 > The forecast information for a time series version 2 node in a recipe.
 

@@ -5,12 +5,10 @@ topic: posted-invoice-write-off-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.115Z
+lastCollected: 2026-04-07T18:35:44.072Z
 estimatedTokens: 184
-keywords: [Posted, Invoice, Write-Off, Input, representation, write, off, includes, reason, writing, invoices]
+keywords: [Posted, Invoice, Write-Off, write, off, includes, reason, writing, invoices]
 ---
-
-# Posted Invoice Write-Off Input
 
 > Input representation of the details of the request to write off a posted invoice. This
     representation includes invoice details such as invoice ID and reason for writing off

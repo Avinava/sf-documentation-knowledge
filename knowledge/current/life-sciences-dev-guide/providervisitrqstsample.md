@@ -5,12 +5,10 @@ topic: providervisitrqstsample
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.684Z
+lastCollected: 2026-04-07T18:38:01.559Z
 estimatedTokens: 1318
-keywords: [ProviderVisitRqstSample, sample, products, requested, shipped, health, care, provider, visit, API, version, 65.0, later, Calls, Associated]
+keywords: [ProviderVisitRqstSample, sample, products, requested, shipped, health, care, provider, visit, API, 65.0]
 ---
-
-# ProviderVisitRqstSample
 
 > Represents sample products requested to be shipped to the health care
          provider during a visit. This object is available in API version 65.0 and

@@ -5,12 +5,10 @@ topic: vpl360dosignin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.776Z
+lastCollected: 2026-04-07T18:38:11.043Z
 estimatedTokens: 120
-keywords: [VPL360_DoSignIn, Integration, Procedure, customers, log, self, care, portal, VPL360, _DoSignIn, Sample, Input, Output, Calls]
+keywords: [VPL360_DoSignIn, Integration, Procedure, customers, log, self, care, portal, VPL360, _DoSignIn, Sample]
 ---
-
-# VPL360_DoSignIn
 
 > This Integration Procedure allows existing customers to log in to the self
       care portal.

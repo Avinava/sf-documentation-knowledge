@@ -5,12 +5,10 @@ topic: connectapieinsteinllmgenerationsafetyscoreoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.414Z
+lastCollected: 2026-04-07T18:36:08.846Z
 estimatedTokens: 469
 keywords: [Safety, score, LLM]
 ---
-
-# ConnectApi.​EinsteinLlm​Generation​SafetyScore​Output
 
 > Safety score information related to the LLM response.
 

@@ -5,12 +5,10 @@ topic: quotelinedetailhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.330Z
+lastCollected: 2026-04-07T18:39:57.951Z
 estimatedTokens: 264
-keywords: [QuoteLineDetailHistory, History, tracked, QuoteLineDetail]
+keywords: [QuoteLineDetailHistory, tracked, QuoteLineDetail]
 ---
-
-# QuoteLineDetailHistory
 
 > History for tracked fields of QuoteLineDetail.
 

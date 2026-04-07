@@ -5,12 +5,10 @@ topic: trialforce-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:55.812Z
+lastCollected: 2026-04-07T18:38:47.760Z
 estimatedTokens: 254
 keywords: [Trialforce, Best, Practices, Apply, trial, experiences, engage, prospects, increase, conversion]
 ---
-
-# Trialforce Best Practices
 
 > Apply these best practices to create trial experiences that engage prospects and
   increase conversion.

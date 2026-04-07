@@ -5,12 +5,10 @@ topic: calendarview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.996Z
+lastCollected: 2026-04-07T18:39:31.314Z
 estimatedTokens: 477
-keywords: [CalendarView, calendars, created, assigned, users, creator, include, shared, resource, user, represent, calendar, Salesforce, either, standard]
+keywords: [CalendarView, calendars, created, assigned, users, creator, include, shared, resource, user, represent, calendar, Salesforce, either, standard, API, 51.0]
 ---
-
-# CalendarView
 
 > These calendars can be created and assigned to users other than the
          creator. Available calendars include object, shared, public, resource, and user list

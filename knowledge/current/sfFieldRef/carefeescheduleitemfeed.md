@@ -5,12 +5,10 @@ topic: carefeescheduleitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.394Z
+lastCollected: 2026-04-07T18:39:31.762Z
 estimatedTokens: 273
-keywords: [CareFeeScheduleItemFeed, Feed, tracking, CareFeeScheduleItem]
+keywords: [CareFeeScheduleItemFeed, CareFeeScheduleItem]
 ---
-
-# CareFeeScheduleItemFeed
 
 > Feed tracking for CareFeeScheduleItem.
 

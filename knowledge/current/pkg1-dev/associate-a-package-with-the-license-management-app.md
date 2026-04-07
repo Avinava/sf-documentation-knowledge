@@ -5,12 +5,10 @@ topic: associate-a-package-with-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.548Z
+lastCollected: 2026-04-07T18:38:53.865Z
 estimatedTokens: 668
-keywords: [Associate, Package, License, Management, App, receive, lead, records, connect, Org, LMO, Salesforce, Partner, Console, LMA]
+keywords: [Associate, Package, License, Management, App, receive, lead, records, connect, Org, LMO, Salesforce, Partner, Console, LMA, installed]
 ---
-
-# Associate a Package with the License Management App
 
 > To receive lead and license records for your package, you connect your License
         Management Org (LMO), your package, and the Salesforce Partner Console. Your LMO is the

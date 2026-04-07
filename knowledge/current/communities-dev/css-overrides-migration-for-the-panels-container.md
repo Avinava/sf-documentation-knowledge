@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-the-panels-container
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.838Z
+lastCollected: 2026-04-07T18:37:26.778Z
 estimatedTokens: 190
-keywords: [CSS, Overrides, Migration, Panels, Container, plan, continue, custom, migrate, forward, template]
+keywords: [CSS, Overrides, Migration, Panels, Container, plan, continue, migrate, forward, template]
 ---
-
-# CSS Overrides Migration for the Panels Container
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

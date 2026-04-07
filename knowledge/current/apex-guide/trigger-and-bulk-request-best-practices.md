@@ -5,12 +5,10 @@ topic: trigger-and-bulk-request-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:33.473Z
+lastCollected: 2026-04-07T18:36:18.699Z
 estimatedTokens: 651
-keywords: [Trigger, Bulk, Best, Practices, common, development, pitfall, assumption, invocations, never, include, record, Apex, triggers, optimized]
+keywords: [Trigger, Bulk, Best, Practices, common, development, pitfall, assumption, invocations, never, include, record, Apex, triggers, optimized, operate, definition, requires, developers, write, logic, supports, operations, Designing, Programs]
 ---
-
-# Trigger and Bulk Request Best Practices
 
 > A common development pitfall is the assumption that trigger invocations never include more
          than one record. Apex triggers are optimized to operate in bulk, which, by definition,

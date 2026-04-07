@@ -5,12 +5,10 @@ topic: hold-violation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.038Z
+lastCollected: 2026-04-07T18:37:29.154Z
 estimatedTokens: 294
-keywords: [Hold, Violation, Input, representation, assign, student]
+keywords: [Hold, Violation, assign, student]
 ---
-
-# Hold Violation Input
 
 > Input representation of the request to assign a hold to a student.
 

@@ -5,12 +5,10 @@ topic: outboundengmtcontentrsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.322Z
+lastCollected: 2026-04-07T18:39:09.643Z
 estimatedTokens: 606
-keywords: [OutboundEngmtContentRsrc, outbound, engagement, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [OutboundEngmtContentRsrc, outbound, engagement, API, 65.0]
 ---
-
-# OutboundEngmtContentRsrc
 
 > Represents the details of an outbound engagement. This object is
       available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: expenseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.361Z
+lastCollected: 2026-04-07T18:39:39.967Z
 estimatedTokens: 246
 keywords: [ExpenseShare, Sharing, Expense]
 ---
-
-# ExpenseShare
 
 > Sharing for Expense.
 

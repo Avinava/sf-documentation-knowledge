@@ -5,12 +5,10 @@ topic: devops-center-custom-field-on-the-user-standard-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.464Z
+lastCollected: 2026-04-07T18:37:28.485Z
 estimatedTokens: 157
-keywords: [DevOps, Center, Custom, User, Standard, data, model, uses, adds]
+keywords: [DevOps, Center, User, Standard, model, uses, adds]
 ---
-
-# DevOps Center Custom Field on the User Standard Object
 
 > The DevOps Center data model uses the User standard object and adds this custom field.
 

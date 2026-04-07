@@ -5,12 +5,10 @@ topic: replicated-dataset-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.827Z
+lastCollected: 2026-04-07T18:36:56.372Z
 estimatedTokens: 518
-keywords: [Replicated, Dataset, Resource, updates, deletes, datasets, know, connected, objects, data, sync, loads, source, Analytics, can’t]
+keywords: [Formats, Replicated, Dataset, Resource, updates, deletes, datasets, know, connected, sync, loads, source, Analytics, can’t, visualized, directly, cache, speed, jobs, pull, load, URL, Postman, HTTP, PATCH]
 ---
-
-# Replicated Dataset Resource
 
 > Returns, updates, and deletes replicated datasets, also know as
       connected objects. A data sync loads source object data as a connected object in Analytics. Connected objects

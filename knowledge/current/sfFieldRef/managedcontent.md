@@ -5,12 +5,10 @@ topic: managedcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.563Z
+lastCollected: 2026-04-07T18:39:47.959Z
 estimatedTokens: 443
-keywords: [ManagedContent, managed, content, Salesforce, CMS, workspace, Experience, Cloud, site, channel, instance, record, consistent, identifier, variants]
+keywords: [ManagedContent, managed, content, Salesforce, CMS, workspace, Experience, Cloud, site, channel, instance, record, consistent, identifier, variants, item, created, over, time, API, 56.0]
 ---
-
-# ManagedContent
 
 > Represents managed content in a Salesforce CMS workspace for use in an
          Experience Cloud site or a channel. The ManagedContent object represents the complete

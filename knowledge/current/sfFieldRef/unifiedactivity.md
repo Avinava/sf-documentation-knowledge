@@ -5,12 +5,10 @@ topic: unifiedactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.637Z
+lastCollected: 2026-04-07T18:40:04.373Z
 estimatedTokens: 357
-keywords: [UnifiedActivity, activity, automatically, captured, Einstein, Capture, EAC, data, calls, manually, logged, tasks, emails, consists, common]
+keywords: [UnifiedActivity, activity, automatically, captured, Einstein, Capture, EAC, manually, logged, tasks, emails, consists, common, activity-related, Event, Task, EmailMessage, VoiceCall, VideoCall, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedActivity
 
 > Represents an activity that is automatically captured from Einstein Activity
          Capture (EAC) or other activity data, such as calls, manually logged tasks, and emails.

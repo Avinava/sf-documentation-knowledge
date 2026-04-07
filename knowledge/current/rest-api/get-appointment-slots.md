@@ -5,12 +5,10 @@ topic: get-appointment-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.137Z
+lastCollected: 2026-04-07T18:36:20.350Z
 estimatedTokens: 1775
 keywords: [Appointment, Slots, time, resource, work, group, service, territories]
 ---
-
-# Get Appointment Slots
 
 > Returns a list of available appointment time slots for a resource based on given work
     type group or work type and service territories.

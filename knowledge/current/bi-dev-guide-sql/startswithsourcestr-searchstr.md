@@ -6,13 +6,10 @@ topic: startswithsourcestr-searchstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.430Z
+lastCollected: 2026-04-07T18:37:02.037Z
 estimatedTokens: 136
 keywords: [starts_with, source_str, search_str, indicating, whether, begins, search, starts, _with, source, _str]
 ---
-
-# starts_with(source_str,
-    search_str)
 
 > Returns a Boolean indicating whether a string begins with the search string.
 

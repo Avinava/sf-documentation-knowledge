@@ -5,12 +5,10 @@ topic: search-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.604Z
+lastCollected: 2026-04-07T18:39:22.496Z
 estimatedTokens: 662
 keywords: [Search, Permission, quickly, navigate, pages, enter, terms, any, detail]
 ---
-
-# Search Permission Sets
 
 > To quickly navigate to other pages in a permission set, you can enter search terms in
   any permission set detail page.

@@ -5,12 +5,10 @@ topic: before-you-create-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.730Z
+lastCollected: 2026-04-07T18:40:08.691Z
 estimatedTokens: 461
 keywords: [Unlocked, Packages, packaging, sure, correctly, verify]
 ---
-
-# Before You Create Unlocked Packages
 
 > When you use unlocked packaging, to be sure that you set it up correctly, verify the
         following.

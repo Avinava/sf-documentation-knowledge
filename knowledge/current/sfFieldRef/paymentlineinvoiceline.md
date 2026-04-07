@@ -5,12 +5,10 @@ topic: paymentlineinvoiceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.472Z
+lastCollected: 2026-04-07T18:39:52.985Z
 estimatedTokens: 559
-keywords: [PaymentLineInvoiceLine, payment, line, that's, applied, unapplied, invoice, API, version, 64.0, later]
+keywords: [PaymentLineInvoiceLine, payment, line, that's, applied, unapplied, invoice, API, 64.0]
 ---
-
-# PaymentLineInvoiceLine
 
 > Represents information about a payment line that's applied to or
          unapplied from an invoice line. This object is available in API version 64.0 and

@@ -5,12 +5,10 @@ topic: tooling-api-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.068Z
+lastCollected: 2026-04-07T18:37:04.770Z
 estimatedTokens: 386
-keywords: [Tooling, API, Examples, retrieve, created, Custom, Address, developer, Record, Query]
+keywords: [Tooling, API, Examples, retrieve, created, Address, developer, Record, Query]
 ---
-
-# Tooling API Examples
 
 > To retrieve information about fields created with Custom Address Fields, such as the
     developer name, use Tooling API.

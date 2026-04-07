@@ -5,12 +5,10 @@ topic: create-a-new-contact-and-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.965Z
+lastCollected: 2026-04-07T18:40:25.333Z
 estimatedTokens: 402
 keywords: [New, Contact, User, Instead, creating, users, directly, account]
 ---
-
-# Create a New Contact and User
 
 > Instead of creating users directly, create a contact on an account and then create the
   user from that contact.

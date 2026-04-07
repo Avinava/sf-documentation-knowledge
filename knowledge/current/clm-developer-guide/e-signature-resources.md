@@ -5,12 +5,10 @@ topic: e-signature-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.936Z
+lastCollected: 2026-04-07T18:37:24.903Z
 estimatedTokens: 557
-keywords: [E-signature, Resources, Manage, Salesforce, Contracts, process, Users, view, documents, sent, recipients, envelope, status, notification, settings]
+keywords: [E-signature, Resources, Manage, Salesforce, Contracts, process, Users, view, documents, sent, recipients, envelope, status, notification, settings, signer, roles]
 ---
-
-# E-signature Resources
 
 > Manage Salesforce Contracts e-signature process. Users can view list of documents sent
       for e-signature and recipients. Update e-signature envelope status, notification settings and

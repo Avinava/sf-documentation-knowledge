@@ -5,12 +5,10 @@ topic: reference-index
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:33.112Z
+lastCollected: 2026-04-07T18:40:28.242Z
 estimatedTokens: 8188
 keywords: [Index, classes, protocols, constants, enums, referenced, developer's, Chat, Service, Common, Resource, Files, Deprecated, APIs]
 ---
-
-# Reference Index
 
 > A list of all classes, protocols, methods, constants, and enums referenced from this
   developer's guide.

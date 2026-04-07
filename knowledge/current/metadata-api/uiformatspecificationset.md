@@ -5,12 +5,10 @@ topic: uiformatspecificationset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.917Z
+lastCollected: 2026-04-07T18:36:30.291Z
 estimatedTokens: 1243
-keywords: [UiFormatSpecificationSet, rules, define, style, visibility, conditional, formatting, Dynamic, Forms-enabled, Lightning, instances, Parent, File, Suffix, Directory]
+keywords: [UiFormatSpecificationSet, UiFormatSpecification, UiFormulaRule, UiFormulaCriterion, define, style, visibility, conditional, formatting, Dynamic, Forms-enabled, Lightning, instances, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# UiFormatSpecificationSet
 
 > Represents a set of rules that define the style and
 			visibility of conditional field formatting on Dynamic Forms-enabled Lightning page field

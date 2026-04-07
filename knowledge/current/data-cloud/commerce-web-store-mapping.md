@@ -5,12 +5,10 @@ topic: commerce-web-store-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.823Z
+lastCollected: 2026-04-07T18:35:52.720Z
 estimatedTokens: 257
-keywords: [Commerce, Web, Store, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
+keywords: [Commerce, Web, Store, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, Direct-to-Consumer, D2C, selling, products, DLO]
 ---
-
-# Commerce: Web Store Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Web Store data represents a Direct-to-Consumer

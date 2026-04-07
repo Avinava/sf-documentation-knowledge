@@ -5,12 +5,10 @@ topic: service-cloud-connector-api-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.326Z
+lastCollected: 2026-04-07T18:39:23.260Z
 estimatedTokens: 259
 keywords: [Service, Cloud, Connector, API, implement, order, notified, messaging, telephony, events, occur, Salesforce, org]
 ---
-
-# Service Cloud Connector API Methods
 
 > The Connector API methods are what you implement in order to be
             notified when messaging or telephony events occur within the Salesforce

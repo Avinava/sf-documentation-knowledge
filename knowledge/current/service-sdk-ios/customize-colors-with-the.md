@@ -5,12 +5,10 @@ topic: customize-colors-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.813Z
+lastCollected: 2026-04-07T18:40:27.949Z
 estimatedTokens: 1140
 keywords: [Customize, Colors, defining, branding, token, throughout]
 ---
-
-# Customize Colors with the
 
 > Customize the colors by defining the branding token colors used throughout the interface.
 

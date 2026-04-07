@@ -5,12 +5,10 @@ topic: personalizationdecision
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.302Z
+lastCollected: 2026-04-07T18:38:24.189Z
 estimatedTokens: 1000
-keywords: [PersonalizationDecision, targeting, rules, personalization, point, determine, individual's, eligibility, receive, personalized, content, deliver, API, version, 62.0]
+keywords: [PersonalizationDecision, targeting, personalization, point, determine, individual's, eligibility, receive, personalized, content, deliver, API, 62.0]
 ---
-
-# PersonalizationDecision
 
 > Represents a set of targeting rules within a personalization point that determine an
       individual's eligibility to receive personalized content and the content to deliver. Available

@@ -5,12 +5,10 @@ topic: workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:45.586Z
+lastCollected: 2026-04-07T18:36:30.976Z
 estimatedTokens: 6513
-keywords: [Workflow, metadata, associated, rule, actions, motion, designated, conditions, met, configure, execute, immediately, record, meets, time]
+keywords: [Workflow, WorkflowActionReference, WorkflowAlert, WorkflowEmailRecipient, WorkflowFieldUpdate, WorkflowFlowAction, WorkflowFlowActionParameter, WorkflowKnowledgePublish, WorkflowOutboundMessage, WorkflowRule, WorkflowTask, WorkflowTimeTrigger, metadata, rule, actions, motion, designated, conditions, met, configure, execute, immediately, record, meets, time, triggers, specific, day, definitions, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Workflow
 
 > Represents the metadata associated with a workflow rule.
             A workflow rule sets workflow actions into motion when its designated conditions are

@@ -5,12 +5,10 @@ topic: apexenhancedlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.455Z
+lastCollected: 2026-04-07T18:38:49.593Z
 estimatedTokens: 929
-keywords: [apex, enhancedList, view, picklist, including, associated, records, currently, selected, standard, Salesforce, applications, component, main, tab]
+keywords: [Attributes, apex, enhancedList, view, picklist, including, records, currently, selected, standard, Salesforce, applications, main, tab, particular, additional, height]
 ---
-
-# apex:enhancedList
 
 > The list view picklist for an object, including its associated list of records for the currently selected view. In standard Salesforce applications this component is displayed on the main tab for a particular object. This component has additional attributes that can be specified, such as the height 
 

@@ -5,12 +5,10 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.795Z
+lastCollected: 2026-04-07T18:36:53.164Z
 estimatedTokens: 461
-keywords: [Skill, service, resources, technician, their, area, expertise, asset, Test, Drive, API, version, 59.0, later, Calls]
+keywords: [Skill, service, resources, technician, their, area, expertise, asset, Test, Drive, API, 59.0]
 ---
-
-# Skill
 
 > Represents a skill that service resources have. For technician type service
          resources, the skill represents their area of expertise. For asset type service resources,

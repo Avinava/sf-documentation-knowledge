@@ -5,12 +5,10 @@ topic: edit-a-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.125Z
+lastCollected: 2026-04-07T18:37:24.173Z
 estimatedTokens: 311
 keywords: [Edit, Comment, Chatter]
 ---
-
-# Edit a Comment
 
 > Edit a comment in Chatter.
 

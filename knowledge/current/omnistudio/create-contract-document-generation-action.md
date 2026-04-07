@@ -5,12 +5,10 @@ topic: create-contract-document-generation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.653Z
+lastCollected: 2026-04-07T18:36:35.116Z
 estimatedTokens: 303
-keywords: [Contract, Document, Generation, Action, record, REST, HTTP, Inputs, Output, Usage]
+keywords: [Inputs, Contract, Document, Generation, Action, record, REST, HTTP]
 ---
-
-# Create Contract Document Generation Action
 
 > Create a contract for a specified record.
 

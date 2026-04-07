@@ -5,12 +5,10 @@ topic: mentions-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.545Z
+lastCollected: 2026-04-07T18:37:14.543Z
 estimatedTokens: 322
-keywords: [Mentions, Resources, users, groups, user, mention, feed, item, comment, group, mentioned, they, receive, notification]
+keywords: [Mentions, Resources, users, groups, user, mention, item, comment, group, mentioned, they, receive, notification]
 ---
-
-# Mentions Resources
 
 > Information about users and groups that a user can mention
 in a feed item body or comment body. When a user or group is mentioned,

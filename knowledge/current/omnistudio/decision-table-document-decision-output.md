@@ -5,12 +5,10 @@ topic: decision-table-document-decision-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:53.608Z
+lastCollected: 2026-04-07T18:36:39.303Z
 estimatedTokens: 359
-keywords: [Decision, Document, Output]
+keywords: [Decision, Document]
 ---
-
-# Decision Table Document Decision Output
 
 > Decision Table output.
 

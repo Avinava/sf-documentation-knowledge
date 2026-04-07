@@ -5,12 +5,10 @@ topic: engagementchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.971Z
+lastCollected: 2026-04-07T18:39:20.749Z
 estimatedTokens: 722
-keywords: [EngagementChannelType, channel, customer, reached, communication, Engagement, supports, English, language, API, version, 48.0, later, Calls, Special]
+keywords: [EngagementChannelType, channel, customer, reached, communication, Engagement, supports, English, language, API, 48.0]
 ---
-
-# EngagementChannelType
 
 > Represents a channel through which a customer can be reached for
          communication. The Engagement Channel Type object supports only the English language.

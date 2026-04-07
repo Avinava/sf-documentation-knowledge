@@ -5,12 +5,10 @@ topic: managed-content-channel-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.124Z
+lastCollected: 2026-04-07T18:37:08.905Z
 estimatedTokens: 385
-keywords: [Managed, Content, Channel, Input]
+keywords: [Managed, Content, Channel]
 ---
-
-# Managed Content Channel Update
 
 > Input body to update a managed content channel.
 

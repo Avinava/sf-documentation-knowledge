@@ -5,12 +5,10 @@ topic: ampscript-401
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.257Z
+lastCollected: 2026-04-07T18:40:21.533Z
 estimatedTokens: 1995
 keywords: [AMPscript, scenario, includes, aspects]
 ---
-
-# AMPscript 401
 
 > This scenario includes information on these aspects of using AMPscript:
 

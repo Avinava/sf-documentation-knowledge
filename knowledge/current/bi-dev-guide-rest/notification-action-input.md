@@ -5,12 +5,10 @@ topic: notification-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.496Z
+lastCollected: 2026-04-07T18:36:54.857Z
 estimatedTokens: 145
-keywords: [Notification, Action, Input, Analytics, subscription]
+keywords: [Notification, Action, Analytics, subscription]
 ---
-
-# Notification Action Input
 
 > A notification action for an Analytics subscription.
 

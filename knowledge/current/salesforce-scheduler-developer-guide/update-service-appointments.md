@@ -5,12 +5,10 @@ topic: update-service-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.383Z
+lastCollected: 2026-04-07T18:39:21.200Z
 estimatedTokens: 577
-keywords: [Service, Appointments, Show, appointments—appointments, booked, Salesforce, Scheduler—on, app, business, managers, administrators, review, users, appointment—an, appointment, modified, Scheduler—so, via, Scheduler, run]
+keywords: [Service, Appointments, Show, appointments—appointments, booked, Salesforce, Scheduler—on, app, business, managers, administrators, review, users, appointment—an, appointment, modified, Scheduler—so, via, Scheduler, run, PATCH, service-appointments, Connect, API, multi-resource]
 ---
-
-# Update Service Appointments
 
 > Show the details of service appointments—appointments booked
       through Salesforce Scheduler—on a page of your app so that business managers or

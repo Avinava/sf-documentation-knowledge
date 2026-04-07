@@ -5,12 +5,10 @@ topic: personalization-recommender-text-predicate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.936Z
+lastCollected: 2026-04-07T18:37:09.655Z
 estimatedTokens: 180
-keywords: [Personalization, Recommender, Text, Predicate, Input]
+keywords: [Personalization, Recommender, Text, Predicate]
 ---
-
-# Personalization Recommender Text Predicate Input
 
 > Represents a predicate based on a text string.
 

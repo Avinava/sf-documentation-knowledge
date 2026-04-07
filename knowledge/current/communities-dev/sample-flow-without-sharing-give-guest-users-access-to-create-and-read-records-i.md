@@ -6,13 +6,10 @@ topic: sample-flow-without-sharing-give-guest-users-access-to-create-and-read-re
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.972Z
+lastCollected: 2026-04-07T18:37:26.939Z
 estimatedTokens: 1109
-keywords: [Sample, Flow, Sharing, Give, Guest, Users, Access, Records, user, enters, report, support, issue, creates, case]
+keywords: [Sample, Flow, Sharing, Give, Guest, Users, Records, user, enters, report, support, issue, creates, case, record, active, becomes, owner, doesn’t, direct, retrieves, new, case’s, CaseNumber, Status, displays, Because, own, creation, retrieve, runs, Configuration, Form, Assignment, End, Screen]
 ---
-
-# Sample Flow Without Sharing: Give Guest Users Access to Create and Read Records in One
-    Flow
 
 > In this sample flow, the guest user enters details to report a support issue and the flow
     creates a case. After the guest user creates the record, a default active user becomes the owner

@@ -5,12 +5,10 @@ topic: productsellingmodeldatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:05.238Z
+lastCollected: 2026-04-07T18:35:50.152Z
 estimatedTokens: 502
-keywords: [ProductSellingModelDataTranslation, translated, data, stored, ProductSellingModel, record’s, API, version, 61.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ProductSellingModelDataTranslation, translated, stored, ProductSellingModel, record’s, API, 61.0]
 ---
-
-# ProductSellingModelDataTranslation
 
 > Represents the translated values of the data stored within the
          ProductSellingModel record’s fields. This object is available in API version 61.0 and

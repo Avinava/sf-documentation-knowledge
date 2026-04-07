@@ -5,12 +5,10 @@ topic: workplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.990Z
+lastCollected: 2026-04-07T18:40:06.888Z
 estimatedTokens: 440
-keywords: [WorkPlan, work, plan, order, line, item, API, version, 52.0, later]
+keywords: [WorkPlan, work, plan, order, line, item, API, 52.0]
 ---
-
-# WorkPlan
 
 > Represents a work plan for a work order or work order line item. This
     object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: serviceappointment-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:00.743Z
+lastCollected: 2026-04-07T18:36:46.595Z
 estimatedTokens: 2885
-keywords: [ServiceAppointment, Custom, associated, appointment, work, customer, Service, Calls, Special, Access, Rules, Internal]
+keywords: [ServiceAppointment, appointment, work, customer, Service, Internal]
 ---
-
-# ServiceAppointment Custom Fields
 
 > Custom fields associated with an appointment to complete work for a customer
          in Field Service.

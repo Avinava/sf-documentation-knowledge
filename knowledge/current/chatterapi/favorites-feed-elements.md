@@ -5,12 +5,10 @@ topic: favorites-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.017Z
+lastCollected: 2026-04-07T18:37:10.708Z
 estimatedTokens: 535
-keywords: [Favorites, Feed, Elements, filtered, showing, favorite]
+keywords: [Favorites, filtered, showing, favorite]
 ---
-
-# Favorites Feed Elements
 
 > Returns a filtered feed, only showing those feed elements for the
             specified favorite.

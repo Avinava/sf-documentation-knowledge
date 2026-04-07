@@ -5,12 +5,10 @@ topic: include
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.972Z
+lastCollected: 2026-04-07T18:37:24.013Z
 estimatedTokens: 687
 keywords: [include, limit, specific, query]
 ---
-
-# include
 
 > To limit the response body to specific properties, use
 the include query string parameter.

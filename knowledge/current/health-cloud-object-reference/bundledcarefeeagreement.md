@@ -5,12 +5,10 @@ topic: bundledcarefeeagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.057Z
+lastCollected: 2026-04-07T18:37:45.459Z
 estimatedTokens: 969
-keywords: [BundledCareFeeAgreement, payment, terms, contracts, Bundled, Care, Fee, Agreement, API, version, 54.0, later, Provider, Network, Management]
+keywords: [BundledCareFeeAgreement, payment, terms, contracts, Bundled, Care, Fee, Agreement, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# BundledCareFeeAgreement
 
 > Specifies the payment terms for contracts of Bundled Care Fee Agreement.
       This object is available in API version 54.0 and later with the Provider Network Management

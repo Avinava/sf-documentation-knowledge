@@ -5,12 +5,10 @@ topic: medication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.815Z
+lastCollected: 2026-04-07T18:39:48.259Z
 estimatedTokens: 502
-keywords: [Medication, detailed, different, medications, API, version, 51.0, later]
+keywords: [Medication, detailed, different, medications, API, 51.0]
 ---
-
-# Medication
 
 > Represents detailed information about different medications. This object
     is available in API version 51.0 and later.

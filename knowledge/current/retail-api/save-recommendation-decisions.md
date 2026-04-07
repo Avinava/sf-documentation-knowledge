@@ -5,12 +5,10 @@ topic: save-recommendation-decisions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.225Z
+lastCollected: 2026-04-07T18:39:10.697Z
 estimatedTokens: 292
-keywords: [Save, Recommendation, Decisions, visit, task, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Save, Recommendation, Decisions, visit, task, REST, HTTP]
 ---
-
-# Save Recommendation Decisions
 
 > Save visit and task recommendation decisions.
 

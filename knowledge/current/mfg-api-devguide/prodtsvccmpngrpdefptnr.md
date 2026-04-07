@@ -5,12 +5,10 @@ topic: prodtsvccmpngrpdefptnr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.736Z
+lastCollected: 2026-04-07T18:38:14.063Z
 estimatedTokens: 1022
-keywords: [ProdtSvcCmpnGrpDefPtnr, coordinating, partner, supplier, distributor, needs, communicated, regarding, particular, product, service, campaign, Stores, granular, channel]
+keywords: [ProdtSvcCmpnGrpDefPtnr, coordinating, partner, supplier, distributor, needs, communicated, regarding, particular, product, service, campaign, Stores, granular, channel, communication, facilitating, efficient, execution, API, 65.0]
 ---
-
-# ProdtSvcCmpnGrpDefPtnr
 
 > Represents information about the coordinating partner, such as a supplier or
          a distributor, that needs to be communicated regarding a particular product service

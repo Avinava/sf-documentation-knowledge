@@ -5,12 +5,10 @@ topic: vpl-createinteractiontopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.282Z
+lastCollected: 2026-04-07T18:38:11.598Z
 estimatedTokens: 98
-keywords: [VPL-CreateInteractionTopic, Omnistudio, Data, Mapper, agent, console, load, interaction, topic, account, Sample, Input, Output]
+keywords: [VPL-CreateInteractionTopic, Omnistudio, Mapper, agent, console, load, interaction, topic, account, Sample]
 ---
-
-# VPL-CreateInteractionTopic
 
 > This Omnistudio Data Mapper is used in the agent console to
     load the interaction topic ID for an account.

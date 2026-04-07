@@ -5,12 +5,10 @@ topic: patchinsuranceupdatememberplansinsuranceupdatememberplansinput-memberid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.522Z
+lastCollected: 2026-04-07T18:37:49.363Z
 estimatedTokens: 315
-keywords: [patchInsuranceUpdateMemberPlans, insuranceUpdateMemberPlansInput, memberId, plans, associated, group, census, member, API, Version, Requires, Chatter]
+keywords: [patchInsuranceUpdateMemberPlans, insuranceUpdateMemberPlansInput, memberId, plans, group, census, member, API, Requires, Chatter]
 ---
-
-# patchInsuranceUpdateMemberPlans(insuranceUpdateMemberPlansInput, memberId)
 
 > Update the plans that are associated with a group census member.
 

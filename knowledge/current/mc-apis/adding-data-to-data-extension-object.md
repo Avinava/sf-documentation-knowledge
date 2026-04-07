@@ -5,12 +5,10 @@ topic: adding-data-to-data-extension-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.098Z
+lastCollected: 2026-04-07T18:40:15.119Z
 estimatedTokens: 3832
-keywords: [Adding, Data, Extension, Why, Add, How, Sample, NET, Code, Java, Axis, 1.4, SOAP, Envelope, Items]
+keywords: [Adding, Extension, Why, Add, How, Sample, NET, Code, Java, Axis, 1.4, SOAP, Envelope, Items]
 ---
-
-# Adding Data to Data Extension Object
 
 > This page contains information  about adding data to an existing data extension object.
 

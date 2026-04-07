@@ -5,12 +5,10 @@ topic: connectapicommentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.671Z
+lastCollected: 2026-04-07T18:36:05.031Z
 estimatedTokens: 820
-keywords: [ConnectApi.CommentInput, Comment, input, add, rich, comments, include, mentions, file, attachments]
+keywords: [ConnectApi.CommentInput, Comment, add, rich, comments, include, mentions, file, attachments]
 ---
-
-# ConnectApi.CommentInput
 
 > Comment input used to add rich comments, for example, comments that include mentions or
   file attachments.

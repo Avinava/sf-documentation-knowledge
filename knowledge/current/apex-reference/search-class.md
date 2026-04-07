@@ -5,13 +5,11 @@ topic: search-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.542Z
+lastCollected: 2026-04-07T18:35:58.807Z
 estimatedTokens: 4624
 namespace: ConnectApi
-keywords: [Search, objects, keywords, natural, language, query, answer, API, Version, Guest, Users, Requires, Chatter, Usage, objectApiName, Performs, dynamic, SOSL, include, SNIPPET]
+keywords: [Search, keywords, natural, language, query, answer, API, Guest, Users, Requires, Chatter, objectApiName, displayFields, findAndGroup, configurationName, highlights, Test, setTestAnswer, result, setTestFindAndGroup, setTestFind, Performs, dynamic, SOSL, include, SNIPPET, clause, Snippets, provide, context, users, Salesforce, Knowledge, article, results, searchQuery, accessLevel, suggest, sObjectType, suggestions]
 ---
-
-# Search Class
 
 > Search objects using keywords or a natural language query.
 

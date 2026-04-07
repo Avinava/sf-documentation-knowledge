@@ -5,12 +5,10 @@ topic: create-a-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.918Z
+lastCollected: 2026-04-07T18:40:16.058Z
 estimatedTokens: 299
-keywords: [scenario, how, SOAP, API, attributes, several, subscribers, recipient, send, modifier, Marketing, Cloud, interact, three, different, including, publication, suppression, development, environment]
+keywords: [Diagram, scenario, how, SOAP, API, attributes, several, subscribers, recipient, send, modifier, Marketing, Cloud, interact, three, different, kinds, Referenced, Items, including, publication, suppression, development, environment, system, account, Why, How, Sample, NET, Code, Java, Axis, 1.4, Axis2, Ruby, Rails, PHP]
 ---
-
-# Create a List
 
 > You can use the SOAP API to create lists (including publication lists and suppression lists) from within your development environment or other system to your Marketing Cloud account.
 

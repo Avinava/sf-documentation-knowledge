@@ -5,12 +5,10 @@ topic: write
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.973Z
+lastCollected: 2026-04-07T18:40:23.411Z
 estimatedTokens: 114
 keywords: [Write, Function, Ordinal, written, **Overview**, **Syntax**, Examples]
 ---
-
-# Write
 
 > Write(1)
 

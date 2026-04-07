@@ -5,12 +5,10 @@ topic: terrprovaffilassignrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.103Z
+lastCollected: 2026-04-07T18:38:02.008Z
 estimatedTokens: 1151
-keywords: [TerrProvAffilAssignRule, rule, aligning, affiliated, accounts, aligned, their, role, specialty, account, API, version, 65.0, later, Calls]
+keywords: [TerrProvAffilAssignRule, rule, aligning, affiliated, accounts, aligned, their, role, specialty, account, API, 65.0]
 ---
-
-# TerrProvAffilAssignRule
 
 > Represents a rule for aligning the affiliated accounts to the existing set of
          aligned accounts, based on their role, specialty, and account type. This object is

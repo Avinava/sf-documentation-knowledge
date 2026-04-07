@@ -5,12 +5,10 @@ topic: attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.101Z
+lastCollected: 2026-04-07T18:38:56.806Z
 estimatedTokens: 220
 keywords: [Attributes, JSON-formatted, canvas, app, appears]
 ---
-
-# Attributes
 
 > The Attributes object is a JSON-formatted object that contains information about the
                 object on which the canvas app appears.

@@ -5,12 +5,10 @@ topic: purchaser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.539Z
+lastCollected: 2026-04-07T18:37:57.027Z
 estimatedTokens: 55
 keywords: [Purchaser, organization, employer, providing, medical, insurance, plans, their, members, employees]
 ---
-
-# Purchaser
 
 > A purchaser is the organization (an employer) that is providing medical insurance plans
 		for their members (employees).

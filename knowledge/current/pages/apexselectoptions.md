@@ -5,12 +5,10 @@ topic: apexselectoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.425Z
+lastCollected: 2026-04-07T18:38:50.665Z
 estimatedTokens: 624
-keywords: [apex, selectOptions, collection, possible, <apex, selectCheckBoxes>, selectRadio>, selectList>, component, selectOptions>, child, components, bound, selectOption, objects]
+keywords: [Attributes, apex, selectOptions, collection, possible, <apex, selectCheckBoxes>, selectRadio>, selectList>, selectOptions>, child, bound, selectOption, Visualforce, controller]
 ---
-
-# apex:selectOptions
 
 > A collection of possible values for an <apex:selectCheckBoxes>, <apex:selectRadio>, or <apex:selectList> component. An <apex:selectOptions> component must be a child of one of those components. It must also be bound to a collection of selectOption objects in a custom Visualforce controller.
 

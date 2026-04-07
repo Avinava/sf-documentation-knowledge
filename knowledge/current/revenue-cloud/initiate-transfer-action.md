@@ -5,12 +5,10 @@ topic: initiate-transfer-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.154Z
+lastCollected: 2026-04-07T18:35:39.930Z
 estimatedTokens: 694
-keywords: [Initiate, Transfer, Action, asset, multiple, assets, account, another, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Initiate, Transfer, Action, asset, multiple, assets, account, another, REST, HTTP]
 ---
-
-# Initiate Transfer Action
 
 > Transfer an asset or multiple assets from one account to
             another.

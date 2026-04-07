@@ -5,12 +5,10 @@ topic: disable-contact-record-sync-for-voice-call-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.728Z
+lastCollected: 2026-04-07T18:40:12.697Z
 estimatedTokens: 464
-keywords: [Disable, Contact, Record, Sync, Voice, Call, Records, previously, trace, CTR, created, Amazon, CTRDataSyncFunctionLambda, Lambda, function]
+keywords: [Prerequisites, Disable, Contact, Record, Sync, Voice, Call, Records, previously, trace, CTR, created, Amazon, CTRDataSyncFunctionLambda, Lambda, function, invokes, UpdateVoiceCallRecords, synchronizing, VoiceCall, However, there, times, don’t, want, Connect, instance, Salesforce, phased, rollout, automatic, synchronization, cause, redundancies, cases, Test]
 ---
-
-# Disable Contact Record Sync for Voice Call Records
 
 > When a contact record (previously called contact trace record or CTR) is created in Amazon, the
         CTRDataSyncFunctionLambda Lambda function invokes the UpdateVoiceCallRecords function,

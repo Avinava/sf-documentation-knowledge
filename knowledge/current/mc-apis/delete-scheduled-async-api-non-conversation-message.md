@@ -5,12 +5,10 @@ topic: delete-scheduled-async-api-non-conversation-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.467Z
+lastCollected: 2026-04-07T18:40:16.609Z
 estimatedTokens: 486
-keywords: [Scheduled, Async, API, Non-Conversation, Message, ScheduledRequest, isn’t, part, conversation, Deletion, Eligibility, Errors, Sample, SOAP, Items]
+keywords: [Errors, Scheduled, Async, API, Non-Conversation, Message, ScheduledRequest, isn’t, part, conversation, Deletion, Eligibility, Sample, SOAP, Items]
 ---
-
-# Delete Scheduled Async API Non-Conversation Message
 
 > Use the ScheduledRequest object to delete a scheduled message that isn’t part of a conversation.
 

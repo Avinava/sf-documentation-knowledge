@@ -5,12 +5,10 @@ topic: floworchestrationstageinstanceshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.298Z
+lastCollected: 2026-04-07T18:39:40.937Z
 estimatedTokens: 258
 keywords: [FlowOrchestrationStageInstanceShare, Sharing, FlowOrchestrationStageInstance]
 ---
-
-# FlowOrchestrationStageInstanceShare
 
 > Sharing for FlowOrchestrationStageInstance.
 

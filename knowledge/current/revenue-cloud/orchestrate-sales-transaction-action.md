@@ -5,12 +5,10 @@ topic: orchestrate-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.185Z
+lastCollected: 2026-04-07T18:35:39.956Z
 estimatedTokens: 824
-keywords: [Orchestrate, Sales, Transaction, Action, Initiate, orchestration, process, executes, plan, composition, phases, performing, decomposition, Special, Access]
+keywords: [Inputs, Outputs, Orchestrate, Sales, Transaction, Action, Initiate, orchestration, process, executes, plan, composition, phases, performing, decomposition, REST, HTTP]
 ---
-
-# Orchestrate Sales Transaction Action
 
 > Initiate the orchestration process for a sales
             transaction. This action executes only the plan composition and orchestration

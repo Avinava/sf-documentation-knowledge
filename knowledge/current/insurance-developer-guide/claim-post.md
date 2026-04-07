@@ -5,12 +5,10 @@ topic: claim-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.480Z
+lastCollected: 2026-04-07T18:37:51.514Z
 estimatedTokens: 562
 keywords: [Claim, POST]
 ---
-
-# Claim (POST)
 
 > Create a claim.
 

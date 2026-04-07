@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-businessprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.116Z
+lastCollected: 2026-04-07T18:36:52.583Z
 estimatedTokens: 547
 keywords: [Automotive, Cloud, BusinessProfile, Standard, extend, represent, partner, account]
 ---
-
-# Automotive Cloud Fields on BusinessProfile
 
 > Standard fields extend the BusinessProfile object for use in Automotive Cloud to
       represent information about partner account details.

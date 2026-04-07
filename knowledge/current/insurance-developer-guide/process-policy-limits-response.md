@@ -5,12 +5,10 @@ topic: process-policy-limits-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.539Z
+lastCollected: 2026-04-07T18:37:52.732Z
 estimatedTokens: 214
-keywords: [Process, Policy, Limits, Output, representation, processing, claim, loss, item]
+keywords: [Process, Policy, Limits, processing, claim, loss, item]
 ---
-
-# Process Policy Limits Response
 
 > Output representation for processing the policy limits for a claim loss item.
 

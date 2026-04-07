@@ -5,12 +5,10 @@ topic: loanapplicationtitleholder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.441Z
+lastCollected: 2026-04-07T18:39:46.924Z
 estimatedTokens: 356
-keywords: [LoanApplicationTitleHolder, borrowers, applying, hold, title, loan, application, finances, API, version, 47.0, later]
+keywords: [LoanApplicationTitleHolder, borrowers, applying, hold, title, loan, application, finances, API, 47.0]
 ---
-
-# LoanApplicationTitleHolder
 
 > Represents details of borrowers who are applying to hold title to the
 			property the loan application finances. This object is available in API version

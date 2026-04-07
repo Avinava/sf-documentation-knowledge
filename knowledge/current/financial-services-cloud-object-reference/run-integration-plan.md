@@ -5,12 +5,10 @@ topic: run-integration-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.696Z
+lastCollected: 2026-04-07T18:37:35.327Z
 estimatedTokens: 274
-keywords: [Run, Integration, Plan, Triggers, Dynamic, Fulfillment, Orchestration, ensures, callout, happens, right, time, queuing, alongside, dependent]
+keywords: [Inputs, Outputs, Run, Integration, Plan, Triggers, Dynamic, Fulfillment, Orchestration, ensures, callout, happens, right, time, queuing, alongside, dependent, steps, REST, HTTP]
 ---
-
-# Run Integration Plan
 
 > Triggers an integration plan using Dynamic Fulfillment Orchestration, which ensures each
   callout happens at the right time by queuing it alongside its dependent steps.

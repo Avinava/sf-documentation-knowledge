@@ -5,12 +5,10 @@ topic: serviceresourcecapacity-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.758Z
+lastCollected: 2026-04-07T18:36:46.610Z
 estimatedTokens: 622
-keywords: [ServiceResourceCapacity, Custom, associated, maximum, number, scheduled, hours, service, appointments, capacity-based, resource, specific, time, period, Calls]
+keywords: [ServiceResourceCapacity, maximum, number, scheduled, hours, service, appointments, capacity-based, resource, specific, time, period]
 ---
-
-# ServiceResourceCapacity Custom Fields
 
 > Custom fields associated with the maximum number of scheduled hours or number
          of service appointments that a capacity-based service resource can complete within a

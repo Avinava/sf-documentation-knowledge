@@ -5,12 +5,10 @@ topic: vpl360submitfdorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.872Z
+lastCollected: 2026-04-07T18:38:11.138Z
 estimatedTokens: 120
-keywords: [VPL360_SubmitFDOrder, Integration, Procedure, submits, Future, Dated, Order, FDO, cancellation, VPL360, _SubmitFDOrder, Sample, Input, Output, Calls]
+keywords: [VPL360_SubmitFDOrder, Integration, Procedure, submits, Future, Dated, Order, FDO, cancellation, VPL360, _SubmitFDOrder, Sample]
 ---
-
-# VPL360_SubmitFDOrder
 
 > This Integration Procedure submits the Future Dated Order
       (FDO) for cancellation.

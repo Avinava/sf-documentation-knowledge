@@ -5,12 +5,10 @@ topic: genericvisittaskcontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.897Z
+lastCollected: 2026-04-07T18:38:13.195Z
 estimatedTokens: 1676
-keywords: [GenericVisitTaskContext, context, purpose, generic, visit, task, Manufacturing, Cloud, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [GenericVisitTaskContext, context, purpose, generic, visit, task, Manufacturing, Cloud, API, 56.0]
 ---
-
-# GenericVisitTaskContext
 
 > Represents the context or purpose for a generic visit task. This object
       is available in Manufacturing Cloud in API version 56.0 and later.

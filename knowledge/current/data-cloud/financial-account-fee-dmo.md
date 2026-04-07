@@ -5,12 +5,10 @@ topic: financial-account-fee-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.625Z
+lastCollected: 2026-04-07T18:35:53.590Z
 estimatedTokens: 437
-keywords: [Financial, Account, Fee, DMO, fees, associated, Provided, Services, Cloud, Data, Kit, API, version, later, Category]
+keywords: [Category, Relationships, Financial, Account, Fee, DMO, fees, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Financial Account Fee DMO
 
 > Represents fees associated with a financial account. Provided in the Financial
       Services Cloud Data Kit. This DMO is available in API version 58 and later.

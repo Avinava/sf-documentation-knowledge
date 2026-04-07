@@ -5,12 +5,10 @@ topic: configure-the-component-markup-and-design-resource-for-a-flow-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.986Z
+lastCollected: 2026-04-07T18:38:02.947Z
 estimatedTokens: 763
-keywords: [Configure, Component, Markup, Design, Resource, Flow, Action, custom, Aura, components, local, actions, implementing, lightning, availableForFlowActions]
+keywords: [Configure, Markup, Design, Resource, Flow, Action, Aura, local, actions, implementing, lightning, availableForFlowActions]
 ---
-
-# Configure the Component Markup and Design Resource for a Flow Action
 
 > Make your custom Aura components available as flow local actions by implementing
   the lightning:availableForFlowActions interface.

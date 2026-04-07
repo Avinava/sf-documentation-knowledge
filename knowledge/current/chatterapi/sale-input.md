@@ -5,12 +5,10 @@ topic: sale-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.387Z
+lastCollected: 2026-04-07T18:37:10.093Z
 estimatedTokens: 513
-keywords: [Sale, Input, Payment, consumed, service]
+keywords: [Sale, Payment, consumed, service]
 ---
-
-# Sale Input
 
 > Payment Sale input consumed by the payment sale
     service.

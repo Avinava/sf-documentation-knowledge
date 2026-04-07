@@ -5,12 +5,10 @@ topic: community-preview-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.677Z
+lastCollected: 2026-04-07T18:37:17.753Z
 estimatedTokens: 63
 keywords: [Community, Preview, URL, Experience, Cloud, site]
 ---
-
-# Community Preview URL
 
 > Preview URL for an Experience Cloud site page.
 

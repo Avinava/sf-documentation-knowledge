@@ -5,12 +5,10 @@ topic: cgcloudsalesfolderc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.407Z
+lastCollected: 2026-04-07T18:39:14.805Z
 estimatedTokens: 1549
-keywords: [cgcloud__Sales_Folder__c, attributes, associated, Sales, Folder, API, version, 54.0, later, cgcloud, _Sales, _Folder, Calls, Objects]
+keywords: [cgcloud__Sales_Folder__c, attributes, Sales, Folder, API, 54.0, cgcloud, _Sales, _Folder]
 ---
-
-# cgcloud__Sales_Folder__c
 
 > This object contains the attributes that are associated with the
          Sales Folder. This object is available in API version 54.0 and later.

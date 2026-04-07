@@ -5,12 +5,10 @@ topic: secure-coding-cross-site-request-forgery
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.993Z
+lastCollected: 2026-04-07T18:39:21.872Z
 estimatedTokens: 443
-keywords: [Secure, Coding, Cross, Site, Forgery, how, protect, AppExchange, solutions, Cross-Site, CSRF, security, threat, malicious, website]
+keywords: [Secure, Coding, Cross, Site, Forgery, how, protect, AppExchange, solutions, Cross-Site, CSRF, security, threat, malicious, website, manipulates, user's, browser, perform, unauthorized, actions, their, knowledge, implement, Salesforce-specific, defense, strategies, across, Aura, Lightning, Web, LWC, Visualforce, Flows, Understand]
 ---
-
-# Secure Coding Cross Site Request Forgery
 
 > Learn how to protect your AppExchange solutions from Cross-Site Request Forgery
         (CSRF), a security threat where a malicious website manipulates a user's browser to perform

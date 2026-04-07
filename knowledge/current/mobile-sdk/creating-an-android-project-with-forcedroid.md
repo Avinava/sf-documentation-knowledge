@@ -5,12 +5,10 @@ topic: creating-an-android-project-with-forcedroid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.596Z
+lastCollected: 2026-04-07T18:40:24.994Z
 estimatedTokens: 1496
-keywords: [Creating, Android, Project, Forcedroid, Interactively, Script, Mode, App, Template, Checking, Version, Import, Build, Studio, Building]
+keywords: [Creating, Android, Project, Forcedroid, Interactively, Script, Mode, App, Template, Checking, Import, Build, Studio, Building, Running, Command, Line, How, Generates, New, Apps]
 ---
-
-# Creating an Android Project with Forcedroid
 
 # Creating an Android Project with Forcedroid
 

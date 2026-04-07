@@ -5,12 +5,10 @@ topic: custom-domain-pending-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.238Z
+lastCollected: 2026-04-07T18:37:13.180Z
 estimatedTokens: 100
-keywords: [Custom, Domain, Pending, Configuration]
+keywords: [Domain, Pending, Configuration]
 ---
-
-# Custom Domain Pending Configuration
 
 > Get the pending configuration for a custom domain.
 

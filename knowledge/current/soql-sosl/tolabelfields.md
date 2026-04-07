@@ -5,12 +5,10 @@ topic: tolabelfields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.374Z
+lastCollected: 2026-04-07T18:40:10.339Z
 estimatedTokens: 412
 keywords: [toLabel, translate, SOSL, query, results, user’s, language]
 ---
-
-# toLabel(fields)
 
 > Use toLabel(fields) to translate SOSL query results into the user’s
   language.

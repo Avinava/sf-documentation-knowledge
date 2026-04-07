@@ -5,12 +5,10 @@ topic: worktypecodesetbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.363Z
+lastCollected: 2026-04-07T18:40:07.286Z
 estimatedTokens: 320
 keywords: [WorkTypeCodeSetBundle, relationship, code, visit, Work]
 ---
-
-# WorkTypeCodeSetBundle
 
 > Represents a relationship between a code set and a visit type (Work
          Type).

@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-residual-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.020Z
+lastCollected: 2026-04-07T18:36:59.510Z
 estimatedTokens: 153
-keywords: [Smart, Data, Discovery, Model, Residual, Collection, Einstein, residuals]
+keywords: [Smart, Discovery, Model, Residual, Collection, Einstein, residuals]
 ---
-
-# Smart Data Discovery AI Model Residual Collection
 
 > A collection of Einstein Discovery AI model residuals.
 

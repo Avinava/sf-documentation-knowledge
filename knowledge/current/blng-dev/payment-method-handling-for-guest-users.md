@@ -5,12 +5,10 @@ topic: payment-method-handling-for-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.527Z
+lastCollected: 2026-04-07T18:37:03.093Z
 estimatedTokens: 381
-keywords: [Payment, Handling, Guest, Users, Billing, package, automatically, creates, PaymentMethod, objects, processing, payments, Lightning, Platform, site]
+keywords: [Payment, Handling, Guest, Users, Billing, package, automatically, creates, PaymentMethod, processing, payments, Lightning, Platform, site]
 ---
-
-# Payment Method Handling for Guest Users
 
 > The Billing package automatically creates PaymentMethod objects when processing payments
   from guest users through the Lightning Platform Payment site.

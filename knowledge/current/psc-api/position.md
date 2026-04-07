@@ -5,12 +5,10 @@ topic: position
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.157Z
+lastCollected: 2026-04-07T18:39:07.367Z
 estimatedTokens: 1304
-keywords: [Position, functional, role, characterized, specific, duties, responsibilities, skills, qualifications, API, version, 62.0, later, Calls, Special]
+keywords: [Position, functional, role, characterized, specific, duties, responsibilities, skills, qualifications, API, 62.0]
 ---
-
-# Position
 
 > Represents a functional role that is characterized by specific duties
          and responsibilities, and required skills and qualifications. This object is available

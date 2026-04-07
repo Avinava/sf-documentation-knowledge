@@ -5,12 +5,10 @@ topic: create-a-scratch-org-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.277Z
+lastCollected: 2026-04-07T18:40:08.232Z
 estimatedTokens: 321
 keywords: [Scratch, Org, User, Although, orgs, were, designed, developer, sometimes, users, test, different, profiles, permission]
 ---
-
-# Create a Scratch Org User
 
 > Although scratch orgs were designed to be used by one developer, sometimes you need
     other users to test with different profiles and permission sets.

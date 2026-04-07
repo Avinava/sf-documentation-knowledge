@@ -5,12 +5,10 @@ topic: getcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.888Z
+lastCollected: 2026-04-07T18:35:59.157Z
 estimatedTokens: 271
-keywords: [getContent, output, user, web, browser, Usage]
+keywords: [getContent, user, web, browser]
 ---
-
-# getContent()
 
 > Returns the output of the page, as displayed to a user in a web browser.
 

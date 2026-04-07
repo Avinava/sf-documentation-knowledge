@@ -5,12 +5,10 @@ topic: context-node-mappings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.101Z
+lastCollected: 2026-04-07T18:36:36.638Z
 estimatedTokens: 144
-keywords: [Context, Node, Mappings, Input, representation, mapping]
+keywords: [Context, Node, Mappings, mapping]
 ---
-
-# Context Node Mappings Input
 
 > Input representation of context node mapping.
 

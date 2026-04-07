@@ -5,12 +5,10 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.472Z
+lastCollected: 2026-04-07T18:39:46.954Z
 estimatedTokens: 948
-keywords: [Location, warehouse, service, vehicle, work, site, element, region, team, performs, API, version, 49.0, later, associate]
+keywords: [Location, warehouse, service, vehicle, work, site, region, team, performs, API, 49.0, associate, activities, specific, locations, tasks, events, appear, timeline, view, detail, Work.com, users, Employees, records, 51.0, Omnichannel, Inventory, physical, fulfilling, orders]
 ---
-
-# Location
 
 > Represents a warehouse, service vehicle, work site, or other element
 			of the region where your team performs field service work. In API version 49.0 and

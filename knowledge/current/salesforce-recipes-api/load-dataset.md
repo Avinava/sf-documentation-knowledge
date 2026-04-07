@@ -5,12 +5,10 @@ topic: load-dataset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.597Z
+lastCollected: 2026-04-07T18:39:19.280Z
 estimatedTokens: 304
 keywords: [Load, Dataset, base, node, recipe]
 ---
-
-# Load Dataset
 
 > The base dataset for a load node in a recipe.
 

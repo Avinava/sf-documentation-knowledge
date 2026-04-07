@@ -5,12 +5,10 @@ topic: partyexpense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.494Z
+lastCollected: 2026-04-07T18:37:38.353Z
 estimatedTokens: 1096
-keywords: [PartyExpense, expense, incurred, individual, account, API, version, 61.0, later, Calls]
+keywords: [PartyExpense, expense, incurred, individual, account, API, 61.0]
 ---
-
-# PartyExpense
 
 > Represents the expense incurred by an individual or account. This object
       is available in API version 61.0 and later.

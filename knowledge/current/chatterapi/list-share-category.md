@@ -5,12 +5,10 @@ topic: list-share-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.929Z
+lastCollected: 2026-04-07T18:37:20.090Z
 estimatedTokens: 287
-keywords: [Share, Category, Groups, roles, associated]
+keywords: [Share, Category, Groups, roles]
 ---
-
-# List Share Category
 
 > Groups and roles associated with a list.
 

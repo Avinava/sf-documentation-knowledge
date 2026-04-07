@@ -5,12 +5,10 @@ topic: create-an-iam-role
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.879Z
+lastCollected: 2026-04-07T18:38:09.174Z
 estimatedTokens: 221
-keywords: [IAM, Role, Identity, Access, Management, control, Amazon, bucket, ensures, security, functioning, AWS, resources]
+keywords: [IAM, Role, Identity, Management, control, Amazon, bucket, ensures, security, functioning, AWS, resources]
 ---
-
-# Create an IAM Role
 
 > Create your Identity and Access Management (IAM) role to control the access to your
   Amazon S3 bucket. The IAM role ensures the security and functioning of AWS resources.

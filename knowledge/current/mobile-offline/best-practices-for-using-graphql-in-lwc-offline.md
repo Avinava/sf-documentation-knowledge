@@ -5,12 +5,10 @@ topic: best-practices-for-using-graphql-in-lwc-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.326Z
+lastCollected: 2026-04-07T18:38:15.855Z
 estimatedTokens: 697
-keywords: [Best, Practices, GraphQL, LWC, Offline, There, number, aware, offline-ready, components, apps, Provide, Query, Variables, via]
+keywords: [Best, Practices, GraphQL, LWC, Offline, There, number, aware, offline-ready, apps, Provide, Query, Variables, via, Getter, Function, Delay, Execution]
 ---
-
-# Best Practices for Using GraphQL in LWC Offline
 
 > There are a number of best practices to be aware of when using GraphQL in your
   offline-ready components and apps.

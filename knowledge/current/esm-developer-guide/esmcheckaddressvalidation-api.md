@@ -5,12 +5,10 @@ topic: esmcheckaddressvalidation-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.957Z
+lastCollected: 2026-04-07T18:37:32.124Z
 estimatedTokens: 65
 keywords: [ESM_checkAddressValidation, API, Validate, addresses, selected, provided, TMF, ESM, _checkAddressValidation, URI, HTTP]
 ---
-
-# ESM_checkAddressValidation API
 
 > Validate the addresses selected with the valid addresses provided by TMF API.
 

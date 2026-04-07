@@ -5,12 +5,10 @@ topic: action-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.347Z
+lastCollected: 2026-04-07T18:35:42.217Z
 estimatedTokens: 305
 keywords: [Action, Rule, CML, defined, keyword, primary, purpose, execute, designated, literal, condition, met]
 ---
-
-# Action Rule
 
 > The CML Action Rule is defined using the rule() keyword. Its primary purpose is to
     execute a designated action, specified as a string literal, when a condition is met.

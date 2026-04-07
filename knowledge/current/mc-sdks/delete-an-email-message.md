@@ -5,12 +5,10 @@ topic: delete-an-email-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.144Z
+lastCollected: 2026-04-07T18:40:24.609Z
 estimatedTokens: 427
-keywords: [Email, Message, Specify, unique, identifier, needs, props, order, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Email, Message, Specify, unique, identifier, needs, props, order, identify, PHP]
 ---
-
-# Delete an Email Message
 
 > Use the Delete method to delete an email message. Specify a unique identifier needs to be specified in the props properties in order to identify which email message to update:
 

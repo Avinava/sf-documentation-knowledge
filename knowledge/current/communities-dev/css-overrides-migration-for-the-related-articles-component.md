@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-the-related-articles-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.890Z
+lastCollected: 2026-04-07T18:37:26.838Z
 estimatedTokens: 448
-keywords: [CSS, Overrides, Migration, Articles, Component, plan, continue, custom, migrate, forward, template, Full, Title, Article, Items]
+keywords: [CSS, Overrides, Migration, Articles, plan, continue, migrate, forward, template, Full, Title, Article, Items, Links]
 ---
-
-# CSS Overrides Migration for the Related Articles Component
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

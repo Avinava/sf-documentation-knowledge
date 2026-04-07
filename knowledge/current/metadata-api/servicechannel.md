@@ -5,12 +5,10 @@ topic: servicechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:44.155Z
+lastCollected: 2026-04-07T18:36:29.579Z
 estimatedTokens: 1785
-keywords: [ServiceChannel, channel, work, items, received, organization—for, cases, chats, leads, File, Suffix, Directory, Location, Version, Special]
+keywords: [ServiceChannel, ServiceChannelFieldPriority, channel, work, items, received, organization—for, cases, chats, leads, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ServiceChannel
 
 > Represents a channel of work items that are received from
       your organization—for example, cases, chats, or leads.

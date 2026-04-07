@@ -5,13 +5,11 @@ topic: verificationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.420Z
+lastCollected: 2026-04-07T18:35:59.697Z
 estimatedTokens: 1939
 namespace: Auth
-keywords: [VerificationResult, result, verification, challenge, invoke, own, Verify, initiated, either, Usage, redirect, success, message, clone]
+keywords: [VerificationResult, result, verification, challenge, invoke, own, Verify, initiated, either, redirect, success, message, clone]
 ---
-
-# VerificationResult Class
 
 > Contains the result of a verification challenge
       that you invoke when you create your own Verify page. The challenge can be initiated by either

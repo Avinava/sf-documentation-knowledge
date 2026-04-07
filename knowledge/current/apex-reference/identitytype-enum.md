@@ -5,12 +5,10 @@ topic: identitytype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.193Z
+lastCollected: 2026-04-07T18:36:12.487Z
 estimatedTokens: 325
-keywords: [IdentityType, Determines, credentials, authenticate, external, system, Usage]
+keywords: [IdentityType, Determines, credentials, authenticate, external, system]
 ---
-
-# IdentityType Enum
 
 > Determines which set of credentials is used to authenticate to the external
     system.

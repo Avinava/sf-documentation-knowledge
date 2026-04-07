@@ -5,12 +5,10 @@ topic: survey-question-response-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.328Z
+lastCollected: 2026-04-07T18:39:16.948Z
 estimatedTokens: 96
-keywords: [Survey, Question, Input, representation]
+keywords: [Survey, Question]
 ---
-
-# Survey Question Response Input
 
 > Input representation of the details of the response to a question on
       the survey page.

@@ -5,12 +5,10 @@ topic: refresh-licenses-for-a-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.626Z
+lastCollected: 2026-04-07T18:38:53.968Z
 estimatedTokens: 183
-keywords: [Refresh, Licenses, Managed, Package, sync, license, records, across, subscriber, installations, Refreshing, resolve, discrepancies, number, subscriber’s]
+keywords: [Refresh, Licenses, Managed, Package, sync, license, records, across, subscriber, installations, Refreshing, resolve, discrepancies, number, subscriber’s, org, Management, App, LMA, move, different]
 ---
-
-# Refresh Licenses for a Managed Package
 
 > To sync all license records for a package across all subscriber installations, you
     refresh the license. Refreshing the license can also resolve discrepancies between the number of

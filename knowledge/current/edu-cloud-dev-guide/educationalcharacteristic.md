@@ -5,12 +5,10 @@ topic: educationalcharacteristic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.949Z
+lastCollected: 2026-04-07T18:37:31.023Z
 estimatedTokens: 1149
-keywords: [EducationalCharacteristic, characteristic, student, student's, major, student-athlete, status, educational, characteristics, filter, search, data, customize, experience, API]
+keywords: [EducationalCharacteristic, characteristic, student, student's, major, student-athlete, status, educational, characteristics, filter, search, customize, experience, API, 66.0]
 ---
-
-# EducationalCharacteristic
 
 > Represents a characteristic about a student such as the student's major or
          student-athlete status. You can use educational characteristics to filter and search for

@@ -5,12 +5,10 @@ topic: sequence-gap-reconciliation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.969Z
+lastCollected: 2026-04-07T18:35:44.994Z
 estimatedTokens: 382
-keywords: [Sequence, Gap, Reconciliation, POST, Restore, missing, identified, API, gapless-enabled, sequences, later, subsequent, policy, numbering, ensuring]
+keywords: [Sequence, Gap, Reconciliation, POST, Restore, missing, identified, API, gapless-enabled, sequences, subsequent, policy, numbering, ensuring, there, gaps]
 ---
-
-# Sequence Gap Reconciliation (POST)
 
 > Restore a missing sequence value identified by using this API in
       gapless-enabled sequences. This sequence value can be used later in the subsequent sequence

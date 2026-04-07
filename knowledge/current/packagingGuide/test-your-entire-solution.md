@@ -5,12 +5,10 @@ topic: test-your-entire-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.783Z
+lastCollected: 2026-04-07T18:38:47.736Z
 estimatedTokens: 1910
-keywords: [Test, Entire, Solution, full, scope, manual, testing, automated, security, scanner, tools, perform, scans, include, external]
+keywords: [Test, Entire, Solution, full, scope, manual, testing, automated, security, scanner, tools, perform, scans, include, external, endpoints, run, independently, Salesforce, platform, Document, false-positive, violations, fix, code, doesn’t, meet, guidelines, Scanning]
 ---
-
-# Test Your Entire Solution
 
 > Test the full scope of your solution using manual testing and automated security scanner
   tools. When you perform security scans, include all external endpoints that run independently of

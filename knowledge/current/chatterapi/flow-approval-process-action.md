@@ -5,12 +5,10 @@ topic: flow-approval-process-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.295Z
+lastCollected: 2026-04-07T18:37:19.432Z
 estimatedTokens: 188
 keywords: [Flow, Approval, Process, Action, actions]
 ---
-
-# Flow Approval Process Action
 
 > Available actions for a flow approval process.
 

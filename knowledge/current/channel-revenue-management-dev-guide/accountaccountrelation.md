@@ -5,12 +5,10 @@ topic: accountaccountrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.560Z
+lastCollected: 2026-04-07T18:37:06.258Z
 estimatedTokens: 735
-keywords: [AccountAccountRelation, relationship, accounts, distributor, account, ship-to, API, version, 58.0, later, Calls]
+keywords: [AccountAccountRelation, relationship, accounts, distributor, account, ship-to, API, 58.0]
 ---
-
-# AccountAccountRelation
 
 > Represents a relationship between accounts, such as a relationship between a
          distributor account and a ship-to account. This object is available in API version

@@ -5,12 +5,10 @@ topic: smart-data-discovery-field-mapping-analytics-dataset-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.081Z
+lastCollected: 2026-04-07T18:36:59.571Z
 estimatedTokens: 210
-keywords: [Smart, Data, Discovery, Mapping, Analytics, Dataset, Einstein, mapped, source]
+keywords: [Smart, Discovery, Mapping, Analytics, Dataset, Einstein, mapped, source]
 ---
-
-# Smart Data Discovery Field Mapping Analytics Dataset Field
 
 > An Einstein Discovery field mapped from an analytics dataset source.
 

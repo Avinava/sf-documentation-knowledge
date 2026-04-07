@@ -5,12 +5,10 @@ topic: expenseparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.312Z
+lastCollected: 2026-04-07T18:38:00.014Z
 estimatedTokens: 618
-keywords: [ExpenseParticipant, participant, expence, expense, allocation, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ExpenseParticipant, participant, expence, expense, allocation, API, 65.0]
 ---
-
-# ExpenseParticipant
 
 > Represents a participant in an expence and is used in expense allocation.
          This object is available in API version 65.0 and later..

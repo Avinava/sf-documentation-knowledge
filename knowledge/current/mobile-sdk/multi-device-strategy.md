@@ -5,12 +5,10 @@ topic: multi-device-strategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.649Z
+lastCollected: 2026-04-07T18:40:25.995Z
 estimatedTokens: 2023
-keywords: [Multi-Device, Strategy, worldwide, proliferation, mobile, devices, HTML5, applications, support, variety, platforms, form, factors, device, capabilities]
+keywords: [Multi-Device, Strategy, worldwide, proliferation, mobile, devices, HTML5, applications, support, variety, platforms, form, factors, device, capabilities, Developers, write, device-independent, apps, Visualforce, face, key, design, questions, App, Client-Side, Detection, Server-Side, How, Salesforce, Application, Best, Multiple]
 ---
-
-# Multi-Device Strategy
 
 > With the worldwide proliferation of mobile devices, HTML5 mobile applications must support a
       variety of platforms, form factors, and device capabilities. Developers who write

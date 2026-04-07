@@ -5,12 +5,10 @@ topic: mobileenforcedpolicyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.576Z
+lastCollected: 2026-04-07T18:38:59.495Z
 estimatedTokens: 847
-keywords: [MobileEnforcedPolicyEvent, Tracks, enforcement, Enhanced, Mobile, Security, policy, events, Salesforce, app, created, launch, user, rechecks, batched]
+keywords: [MobileEnforcedPolicyEvent, Tracks, enforcement, Enhanced, Mobile, Security, policy, events, Salesforce, app, created, launch, user, rechecks, batched, published, background, API, 47.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# MobileEnforcedPolicyEvent
 
 > Tracks enforcement of Enhanced Mobile Security policy events on a
 			Salesforce mobile app with Enhanced Mobile Security. Events are created on first launch

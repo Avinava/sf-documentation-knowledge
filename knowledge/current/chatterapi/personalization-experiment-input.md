@@ -5,12 +5,10 @@ topic: personalization-experiment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.789Z
+lastCollected: 2026-04-07T18:37:09.509Z
 estimatedTokens: 699
-keywords: [Personalization, Experiment, Input, creating]
+keywords: [Personalization, Experiment, creating]
 ---
-
-# Personalization Experiment Input
 
 > Contains the details for creating a personalization experiment.
 

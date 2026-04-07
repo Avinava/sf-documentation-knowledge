@@ -5,12 +5,10 @@ topic: feed-elements-capability-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.727Z
+lastCollected: 2026-04-07T18:37:13.689Z
 estimatedTokens: 192
-keywords: [Feed, Elements, Capability, Files, Access, element]
+keywords: [Capability, Files]
 ---
-
-# Feed Elements Capability, Files
 
 > Access the files capability of a feed element.
 

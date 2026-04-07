@@ -5,12 +5,10 @@ topic: criteriabasedsharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.107Z
+lastCollected: 2026-04-07T18:36:23.404Z
 estimatedTokens: 2852
-keywords: [CriteriaBasedSharingRule, component, removed, API, version, 33.0, earlier, versions, SharingRules, instead, criteria-based, sharing, rule, share, records]
+keywords: [CriteriaBasedSharingRule, AccountCriteriaBasedSharingRule, CampaignCriteriaBasedSharingRule, CaseCriteriaBasedSharingRule, ContactCriteriaBasedSharingRule, LeadCriteriaBasedSharingRule, OpportunityCriteriaBasedSharingRule, CustomObjectCriteriaBasedSharingRule, UserCriteriaBasedSharingRule, removed, API, 33.0, earlier, versions, SharingRules, instead, criteria-based, sharing, rule, share, records, specific, criteria, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CriteriaBasedSharingRule
 
 > This component is removed as of API version
       33.0 and is available in earlier versions only. Use SharingRules instead. Represents a

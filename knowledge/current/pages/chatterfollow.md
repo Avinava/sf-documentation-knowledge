@@ -5,12 +5,10 @@ topic: chatterfollow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.182Z
+lastCollected: 2026-04-07T18:38:49.186Z
 estimatedTokens: 330
-keywords: [chatter, follow, Renders, button, user, unfollow, record, components, unavailable, Visualforce, pages, Force.com, sites, Ext, versions]
+keywords: [Attributes, chatter, follow, Renders, button, user, unfollow, record, unavailable, Visualforce, pages, Force.com, sites, Ext, versions, less, included]
 ---
-
-# chatter:follow
 
 > Renders a button for a user to follow or unfollow a Chatter record. Note that Chatter components are unavailable for Visualforce pages on Force.com sites. Ext JS versions less than 3 should not be included on pages that use this component.
 

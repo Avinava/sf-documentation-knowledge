@@ -5,12 +5,10 @@ topic: urievent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.780Z
+lastCollected: 2026-04-07T18:40:04.516Z
 estimatedTokens: 398
-keywords: [UriEvent, Detects, user, creates, accesses, updates, deletes, record, Salesforce, Classic, Doesn't, detect, operations, Visualforce, views]
+keywords: [UriEvent, Detects, user, creates, accesses, updates, deletes, record, Salesforce, Classic, Doesn't, detect, operations, Visualforce, views, big, stores, event, UriEventStream, API, 46.0]
 ---
-
-# UriEvent
 
 > Detects when a user creates, accesses, updates, or deletes a record
 			in Salesforce Classic only. Doesn't detect record operations done through a Visualforce

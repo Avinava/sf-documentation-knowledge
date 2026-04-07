@@ -5,12 +5,10 @@ topic: create-a-remote-site-setting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.851Z
+lastCollected: 2026-04-07T18:38:09.146Z
 estimatedTokens: 267
-keywords: [Remote, Site, Setting, any, Apex, callout, call, API, Gateway, endpoint, register, Settings, authorize, org, access]
+keywords: [Remote, Site, Setting, any, Apex, callout, call, API, Gateway, endpoint, register, Settings, authorize, org, external, websites]
 ---
-
-# Create a Remote Site Setting
 
 > Before any Apex callout can call the API Gateway endpoint, register the API Gateway
   endpoint on the Remote Site Settings page. Remote site settings authorize your org to access

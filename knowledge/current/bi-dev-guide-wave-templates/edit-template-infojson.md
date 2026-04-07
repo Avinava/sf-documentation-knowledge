@@ -5,12 +5,10 @@ topic: edit-template-infojson
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.825Z
+lastCollected: 2026-04-07T18:37:02.384Z
 estimatedTokens: 3014
 keywords: [Edit, template-info.json, template, references, app]
 ---
-
-# Edit template-info.json
 
 > template-info.json describes the template. It
     references all the information required to create an app from the template.

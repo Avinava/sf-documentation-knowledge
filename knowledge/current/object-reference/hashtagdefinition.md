@@ -5,12 +5,10 @@ topic: hashtagdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:42.365Z
+lastCollected: 2026-04-07T18:38:33.512Z
 estimatedTokens: 536
-keywords: [HashtagDefinition, hashtag, topics, Chatter, posts, comments, include, profiles, groups, records, API, version, 26.0, later, Calls]
+keywords: [HashtagDefinition, hashtag, topics, Chatter, posts, comments, include, profiles, groups, records, API, 26.0]
 ---
-
-# HashtagDefinition
 
 > HashtagDefinition represents hashtag (#) topics in public Chatter posts and comments.
   Public posts and comments include those on profiles and in public groups, but not those on records

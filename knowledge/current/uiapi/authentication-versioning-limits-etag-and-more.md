@@ -5,12 +5,10 @@ topic: authentication-versioning-limits-etag-and-more
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.594Z
+lastCollected: 2026-04-07T18:40:10.571Z
 estimatedTokens: 1041
 keywords: [Authentication, Versioning, Limits, ETag, high-level, facts, how, User, API, authenticate, versioned, rate, glance]
 ---
-
-# Authentication, Versioning, Limits, ETag, and More
 
 > Learn the high-level facts about how to use User Interface API. How
       do you authenticate? How is the API versioned? What are the rate limits? All the information

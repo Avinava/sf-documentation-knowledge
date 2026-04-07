@@ -5,12 +5,10 @@ topic: createpolicylimitspolicyid-createpolicylimitsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.416Z
+lastCollected: 2026-04-07T18:37:49.244Z
 estimatedTokens: 329
-keywords: [CreatePolicyLimits, policyId, CreatePolicyLimitsInput, insurance, policy, limit, records, defined, attributes, coverages, Version, Requires]
+keywords: [Requires, CreatePolicyLimits, policyId, CreatePolicyLimitsInput, insurance, policy, limit, records, defined, attributes, coverages]
 ---
-
-# CreatePolicyLimits(policyId, CreatePolicyLimitsInput)
 
 > insurance policy limit records for the specified policy based on the defined
         attributes and coverages of the insurance policy.

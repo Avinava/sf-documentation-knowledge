@@ -5,12 +5,10 @@ topic: add-lighting-web-components-for-plug-ins-to-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.960Z
+lastCollected: 2026-04-07T18:36:46.814Z
 estimatedTokens: 1284
-keywords: [Add, Lighting, Web, Components, Plug-Ins, Service, Mobile, App, Enhance, creating, Lightning, LWCs]
+keywords: [Add, Lighting, Web, Plug-Ins, Service, Mobile, App, Enhance, creating, Lightning, LWCs]
 ---
-
-# Add Lighting Web Components for Plug-Ins to the Field Service Mobile App
 
 > Enhance the Field Service mobile app by creating Lightning web components (LWCs) for
   plug-ins.

@@ -5,12 +5,10 @@ topic: hl7-v23-data-types-supported-in-salesforce-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.045Z
+lastCollected: 2026-04-07T18:37:58.566Z
 estimatedTokens: 259
-keywords: [HL7, v2.3, Data, Salesforce, Standard, Objects, support, defined]
+keywords: [HL7, v2.3, Salesforce, Standard, support, defined]
 ---
-
-# HL7 v2.3 Data Types Supported in Salesforce Standard Objects
 
 > Salesforce Standard objects support the following data types defined in HL7
   v2.3.

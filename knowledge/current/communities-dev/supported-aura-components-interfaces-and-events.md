@@ -5,12 +5,10 @@ topic: supported-aura-components-interfaces-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.640Z
+lastCollected: 2026-04-07T18:37:26.547Z
 estimatedTokens: 284
-keywords: [Aura, Components, Interfaces, Events, Aura-based, Experience, Builder, sites, Salesforce, mobile, app, Lightning, Check, what’s, customizing]
+keywords: [Aura, Interfaces, Events, Aura-based, Experience, Builder, sites, Salesforce, mobile, app, Lightning, Check, what’s, customizing, site]
 ---
-
-# Supported Aura Components, Interfaces, and Events
 
 > Not all Aura components, interfaces, and events are supported for Aura-based Experience
   Builder sites. Some are available only for the Salesforce mobile app or Lightning Experience.

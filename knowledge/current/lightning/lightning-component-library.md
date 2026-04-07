@@ -5,12 +5,10 @@ topic: lightning-component-library
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.799Z
+lastCollected: 2026-04-07T18:38:02.725Z
 estimatedTokens: 671
-keywords: [Lightning, Component, Library, hub, including, live, examples, tools, Web, Security, Locker]
+keywords: [Lightning, Library, hub, including, live, examples, tools, Web, Security, Locker]
 ---
-
-# Lightning Component Library
 
 > The Lightning Component Library is your hub for component reference information,
         including the Component Reference with live examples, and tools for Lightning Web Security

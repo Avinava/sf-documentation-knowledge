@@ -5,12 +5,10 @@ topic: subscribe-to-platform-event-messages-with-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.568Z
+lastCollected: 2026-04-07T18:38:58.437Z
 estimatedTokens: 956
-keywords: [Subscribe, Platform, Event, Messages, Processes, built, Process, Builder, events, receive, published, Apex, APIs, flows, provide]
+keywords: [Subscribe, Platform, Event, Messages, Processes, built, Process, Builder, events, receive, published, Apex, APIs, flows, provide, autosubscription, mechanism, Considerations]
 ---
-
-# Subscribe to Platform Event Messages with Processes
 
 > Processes built in Process Builder can subscribe to platform events
       and receive event messages published through Apex, APIs, flows, and other processes. Processes

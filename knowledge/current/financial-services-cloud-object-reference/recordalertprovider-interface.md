@@ -5,12 +5,10 @@ topic: recordalertprovider-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.910Z
+lastCollected: 2026-04-07T18:37:34.439Z
 estimatedTokens: 189
 keywords: [RecordAlertProvider, Implement, provide, record, alerts, perform, actions]
 ---
-
-# RecordAlertProvider Interface
 
 > Implement this interface to provide record alerts and to perform
       actions on the record alerts.

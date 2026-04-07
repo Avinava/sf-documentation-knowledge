@@ -5,12 +5,10 @@ topic: invoiceprocpymtexclevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.261Z
+lastCollected: 2026-04-07T18:39:45.827Z
 estimatedTokens: 332
-keywords: [InvoiceProcPymtExclEvent, notification, subscribers, regarding, results, commerce, invoicing, invoices, collection, actions, generate, invoice, billing, schedules, processing]
+keywords: [InvoiceProcPymtExclEvent, notification, subscribers, regarding, results, commerce, invoicing, invoices, collection, actions, generate, invoice, billing, schedules, processing, payments, API, 63.0]
 ---
-
-# InvoiceProcPymtExclEvent
 
 > Represents the notification to the subscribers regarding the results of /commerce/invoicing/invoices/collection/actions/generate
 		request to generate an invoice from billing schedules without processing payments.  This

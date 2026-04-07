@@ -5,12 +5,10 @@ topic: retired-request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.343Z
+lastCollected: 2026-04-07T18:37:07.050Z
 estimatedTokens: 671
 keywords: [Retired, Bodies]
 ---
-
-# Retired Request Bodies
 
 > These request bodies are retired.
 

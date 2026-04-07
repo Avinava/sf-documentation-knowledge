@@ -5,13 +5,11 @@ topic: schedulejobsapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.652Z
+lastCollected: 2026-04-07T18:36:46.501Z
 estimatedTokens: 899
 namespace: FSL
-keywords: [ScheduleJobsApi, configurations, Territory, tab, scheduled, jobs, categorized, under, Enhanced, Optimization, Usage, getJob, setTerritory]
+keywords: [ScheduleJobsApi, configurations, Territory, tab, scheduled, jobs, categorized, under, Enhanced, Optimization, getJob, setTerritory]
 ---
-
-# ScheduleJobsApi Class
 
 > Represents configurations to the Territory tab that is available for all scheduled jobs
     that are categorized under Enhanced Optimization.

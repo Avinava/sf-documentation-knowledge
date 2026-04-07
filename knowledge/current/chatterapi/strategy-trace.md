@@ -5,12 +5,10 @@ topic: strategy-trace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.088Z
+lastCollected: 2026-04-07T18:37:23.204Z
 estimatedTokens: 151
 keywords: [Strategy, Trace, Messages, nodes, recommendation, execution]
 ---
-
-# Strategy Trace
 
 > Messages and trace nodes for a recommendation strategy
     execution.

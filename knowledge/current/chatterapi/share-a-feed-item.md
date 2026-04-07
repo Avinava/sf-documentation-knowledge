@@ -5,12 +5,10 @@ topic: share-a-feed-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.374Z
+lastCollected: 2026-04-07T18:37:24.386Z
 estimatedTokens: 630
-keywords: [Share, Feed, Item, Chatter]
+keywords: [Share, Item, Chatter]
 ---
-
-# Share a Feed Item
 
 > Share a Chatter feed item.
 

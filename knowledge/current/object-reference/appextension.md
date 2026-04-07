@@ -5,12 +5,10 @@ topic: appextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.758Z
+lastCollected: 2026-04-07T18:38:25.687Z
 estimatedTokens: 762
-keywords: [AppExtension, connection, Service, mobile, app, another, typically, passing, record, data, Salesforce, apps, API, version, 41.0]
+keywords: [AppExtension, connection, Service, mobile, app, another, typically, passing, record, Salesforce, apps, API, 41.0]
 ---
-
-# AppExtension
 
 > Represents a connection between the Field Service mobile app
 			and another app, typically for passing record data to the Salesforce mobile app or other

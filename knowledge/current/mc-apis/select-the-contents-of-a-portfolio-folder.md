@@ -5,12 +5,10 @@ topic: select-the-contents-of-a-portfolio-folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.888Z
+lastCollected: 2026-04-07T18:40:20.114Z
 estimatedTokens: 903
-keywords: [Select, Contents, Portfolio, Folder, retrieving, selecting, contained, associated, subfolders, Marketing, Cloud, account, Why, How, Sample]
+keywords: [Select, Contents, Portfolio, Folder, retrieving, selecting, contained, subfolders, Marketing, Cloud, account, Why, How, Sample, NET, Code, Items]
 ---
-
-# Select the Contents of a Portfolio Folder
 
 > This page contains information  about retrieving and selecting object contained within the Portfolio and associated subfolders of a given Marketing Cloud account.
 

@@ -5,12 +5,10 @@ topic: create-billing-schedules-for-orders-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.321Z
+lastCollected: 2026-04-07T18:35:44.291Z
 estimatedTokens: 416
 keywords: [Billing, Schedules, Orders, POST, Generate, context, service]
 ---
-
-# Create Billing Schedules for Orders (POST)
 
 > Generate billing schedules for orders by using context
     service.

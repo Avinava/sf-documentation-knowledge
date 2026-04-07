@@ -5,12 +5,10 @@ topic: memberbenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.248Z
+lastCollected: 2026-04-07T18:38:10.503Z
 estimatedTokens: 1057
-keywords: [MemberBenefit, benefit, that’s, assigned, loyalty, program, member, action, triggered, API, version, 51.0, later, Calls, Associated]
+keywords: [MemberBenefit, benefit, that’s, assigned, loyalty, program, member, action, triggered, API, 51.0]
 ---
-
-# MemberBenefit
 
 > Represents details about a benefit that’s assigned to a loyalty program member
       and has a benefit action that’s triggered. This object is available in API version 51.0

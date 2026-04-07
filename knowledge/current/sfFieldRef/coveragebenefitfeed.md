@@ -5,12 +5,10 @@ topic: coveragebenefitfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.581Z
+lastCollected: 2026-04-07T18:39:36.084Z
 estimatedTokens: 360
-keywords: [CoverageBenefitFeed, Feed, tracking, CoverageBenefit]
+keywords: [CoverageBenefitFeed, CoverageBenefit]
 ---
-
-# CoverageBenefitFeed
 
 > Feed tracking for CoverageBenefit.
 

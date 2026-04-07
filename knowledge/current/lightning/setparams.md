@@ -5,12 +5,10 @@ topic: setparams
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.138Z
+lastCollected: 2026-04-07T18:38:05.326Z
 estimatedTokens: 160
-keywords: [setParams, action, pass, data, Apex, event, doesn’t, modify, already, fired]
+keywords: [setParams, action, pass, Apex, event, doesn’t, modify, already, fired]
 ---
-
-# setParams()
 
 > Sets parameters for an action. Use parameters to pass data to an Apex
    action.

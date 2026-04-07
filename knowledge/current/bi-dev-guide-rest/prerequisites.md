@@ -5,12 +5,10 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:11.766Z
+lastCollected: 2026-04-07T18:36:58.315Z
 estimatedTokens: 181
 keywords: [Prerequisites, begin, quick, start]
 ---
-
-# Prerequisites
 
 > Complete these prerequisites before you begin the quick start.
 

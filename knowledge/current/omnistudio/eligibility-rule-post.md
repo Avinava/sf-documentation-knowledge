@@ -5,12 +5,10 @@ topic: eligibility-rule-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.518Z
+lastCollected: 2026-04-07T18:36:38.144Z
 estimatedTokens: 301
-keywords: [Eligibility, Rule, POST, rules, associated, decision, tables]
+keywords: [Eligibility, Rule, POST, decision, tables]
 ---
-
-# Eligibility Rule (POST)
 
 > Create and update rules associated with decision tables.
 

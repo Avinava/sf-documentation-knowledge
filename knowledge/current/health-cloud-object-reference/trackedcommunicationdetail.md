@@ -5,12 +5,10 @@ topic: trackedcommunicationdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.527Z
+lastCollected: 2026-04-07T18:37:48.156Z
 estimatedTokens: 1085
-keywords: [TrackedCommunicationDetail, Stores, additional, associated, TrackedCommunication, records, API, version, 57.0, later, Calls, Objects]
+keywords: [TrackedCommunicationDetail, Stores, additional, TrackedCommunication, records, API, 57.0]
 ---
-
-# TrackedCommunicationDetail
 
 > Stores additional information associated with TrackedCommunication
          records. This object is available in API version 57.0 and later.

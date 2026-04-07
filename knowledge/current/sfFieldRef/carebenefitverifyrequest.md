@@ -5,12 +5,10 @@ topic: carebenefitverifyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.265Z
+lastCollected: 2026-04-07T18:39:31.623Z
 estimatedTokens: 774
-keywords: [CareBenefitVerifyRequest, verification, benefits, API, version, 53.0, later]
+keywords: [CareBenefitVerifyRequest, verification, benefits, API, 53.0]
 ---
-
-# CareBenefitVerifyRequest
 
 > Request for verification of benefits. This object is available in API
       version 53.0 and later.

@@ -5,12 +5,10 @@ topic: esmbulkdisconnectquotelineitems
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.076Z
+lastCollected: 2026-04-07T18:37:32.249Z
 estimatedTokens: 54
 keywords: [ESM_BulkDisconnectQuoteLineItems, Enable, bulk, disconnect, quote, line, items, configurable, pricing, validation, options, ESM, _BulkDisconnectQuoteLineItems, URI, HTTP]
 ---
-
-# ESM_BulkDisconnectQuoteLineItems
 
 > Enable bulk disconnect of quote line items with
         configurable pricing and validation options.

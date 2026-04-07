@@ -5,12 +5,10 @@ topic: use-case-and-syntax-for-variables-with-related-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.142Z
+lastCollected: 2026-04-07T18:37:02.682Z
 estimatedTokens: 451
 keywords: [Case, Variables, Construct, dataset, dates, dimensions, measures, Variable]
 ---
-
-# Use Case and Syntax for Variables with Related Values
 
 > Construct variables that reference related values, for example an object and fields from
     the object, and a dataset and dates, dimensions, and measures from the dataset.

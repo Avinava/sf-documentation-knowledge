@@ -5,12 +5,10 @@ topic: productfulfillmentlocationshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.241Z
+lastCollected: 2026-04-07T18:39:55.816Z
 estimatedTokens: 256
 keywords: [ProductFulfillmentLocationShare, Sharing, ProductFulfillmentLocation]
 ---
-
-# ProductFulfillmentLocationShare
 
 > Sharing for ProductFulfillmentLocation.
 

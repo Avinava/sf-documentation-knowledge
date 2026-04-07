@@ -5,12 +5,10 @@ topic: attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.494Z
+lastCollected: 2026-04-07T18:37:58.021Z
 estimatedTokens: 272
-keywords: [Attachment, FHIR, resource, maps, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Attachment, FHIR, resource, maps, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Attachment
 
 > The Attachment FHIR resource maps to the Attachment object in Salesforce.
 

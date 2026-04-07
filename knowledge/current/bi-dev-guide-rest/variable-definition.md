@@ -5,12 +5,10 @@ topic: variable-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.408Z
+lastCollected: 2026-04-07T18:36:57.964Z
 estimatedTokens: 1733
 keywords: [Variable, Definition, Analytics, template, Specific, responses, listed]
 ---
-
-# Variable Definition
 
 > The variable definition for an Analytics template. Specific variable type responses are
     listed here.

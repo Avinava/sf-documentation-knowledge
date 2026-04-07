@@ -5,12 +5,10 @@ topic: contactpointconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.250Z
+lastCollected: 2026-04-07T18:37:57.788Z
 estimatedTokens: 259
-keywords: [ContactPointConsent, Standard, custom, extend, Contact, Point, Consent, represent, customer's, contacted, via, specific, API, version, 65.0]
+keywords: [ContactPointConsent, Standard, extend, Contact, Point, Consent, represent, customer's, contacted, via, specific, API, 65.0]
 ---
-
-# ContactPointConsent
 
 > Standard and custom fields extend the standard Contact Point Consent object
          to represent information about a customer's consent to be contacted via a specific contact

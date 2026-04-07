@@ -5,12 +5,10 @@ topic: submit-your-appexchange-listing-for-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.234Z
+lastCollected: 2026-04-07T18:38:46.088Z
 estimatedTokens: 581
-keywords: [Submit, AppExchange, Listing, Approval, publish, sure, complies, partner, brand, guidelines, program, policies, Console, provide, basic]
+keywords: [Submit, AppExchange, Listing, Approval, publish, sure, complies, partner, brand, guidelines, program, policies, Console, provide, basic, solution, pricing]
 ---
-
-# Submit Your AppExchange Listing for Approval
 
 > Before you can publish your listing, we must make sure that it complies with our partner
     brand guidelines and partner program policies. In the AppExchange Partner Console, provide some

@@ -5,12 +5,10 @@ topic: usageprdgrantbindingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.023Z
+lastCollected: 2026-04-07T18:40:04.830Z
 estimatedTokens: 325
-keywords: [UsagePrdGrantBindingPolicy, association, usage, resource's, grants, sellable, product, API, version, 63.0, later]
+keywords: [UsagePrdGrantBindingPolicy, association, resource's, grants, sellable, product, API, 63.0]
 ---
-
-# UsagePrdGrantBindingPolicy
 
 > Represents the association of a usage resource's grants with a
          sellable product. This object is available in API version 63.0 and later.

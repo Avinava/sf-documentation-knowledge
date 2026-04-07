@@ -5,12 +5,10 @@ topic: apexinputfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.652Z
+lastCollected: 2026-04-07T18:38:49.802Z
 estimatedTokens: 2278
-keywords: [apex, inputField, HTML, input, element, corresponds, Salesforce, <apex, inputField>, component, respects, attributes, associated, including, whether]
+keywords: [Attributes, apex, inputField, HTML, corresponds, Salesforce, <apex, inputField>, respects, including, whether, unique, user, widget, display]
 ---
-
-# apex:inputField
 
 > An HTML input element for a value that corresponds to a field on a Salesforce object. The
 				<apex:inputField> component respects

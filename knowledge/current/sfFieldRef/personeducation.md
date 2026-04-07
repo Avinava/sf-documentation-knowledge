@@ -5,12 +5,10 @@ topic: personeducation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.327Z
+lastCollected: 2026-04-07T18:39:53.867Z
 estimatedTokens: 690
 keywords: [PersonEducation, professional, education, person]
 ---
-
-# PersonEducation
 
 > Represents information about the professional education for a person.
 

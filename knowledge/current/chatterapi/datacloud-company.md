@@ -5,12 +5,10 @@ topic: datacloud-company
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.184Z
+lastCollected: 2026-04-07T18:37:18.268Z
 estimatedTokens: 802
 keywords: [Datacloud, Company, Data.com, record, own, don’t, hidden, asterisks, ***]
 ---
-
-# Datacloud Company
 
 > The Data.com company record. If you own a company record, you see all
       the fields. If you don’t own the company record, some fields are hidden by asterisks

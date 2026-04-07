@@ -5,12 +5,10 @@ topic: applicanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.206Z
+lastCollected: 2026-04-07T18:39:26.156Z
 estimatedTokens: 255
-keywords: [ApplicantHistory, History, tracked, Applicant]
+keywords: [ApplicantHistory, tracked, Applicant]
 ---
-
-# ApplicantHistory
 
 > History for tracked fields of Applicant.
 

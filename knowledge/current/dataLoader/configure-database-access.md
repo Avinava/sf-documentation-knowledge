@@ -5,12 +5,10 @@ topic: configure-database-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.233Z
+lastCollected: 2026-04-07T18:37:28.271Z
 estimatedTokens: 568
-keywords: [Configure, Database, Access, run, Data, Loader, batch, mode, command, line, samples, conf, database-conf.xml, objects, extract]
+keywords: [Configure, Database, run, Loader, batch, mode, command, line, samples, conf, database-conf.xml, extract, directly]
 ---
-
-# Configure Database Access
 
 > When you run Data Loader in batch mode from the command line, use
         \samples\conf\database-conf.xml to configure database access

@@ -5,12 +5,10 @@ topic: select-a-landing-page-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.736Z
+lastCollected: 2026-04-07T18:38:15.222Z
 estimatedTokens: 584
-keywords: [Select, Landing, Template, Mobile, Offline, home, Salesforce, App, user, logs, experience, thing, they, intended, give]
+keywords: [Select, Landing, Template, Mobile, Offline, home, Salesforce, App, user, logs, experience, thing, they, intended, give, user’s, records, allow, quickly, easily, take, relevant, actions, Templates]
 ---
-
-# Select a Landing Page Template
 
 > The Landing Page is the Mobile Offline home page for the Salesforce Mobile App. When a
     user logs into the Salesforce Mobile App offline experience, the landing page is the first thing

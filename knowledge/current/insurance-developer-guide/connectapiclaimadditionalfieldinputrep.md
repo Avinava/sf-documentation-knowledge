@@ -5,12 +5,10 @@ topic: connectapiclaimadditionalfieldinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.765Z
+lastCollected: 2026-04-07T18:37:49.629Z
 estimatedTokens: 85
-keywords: [ConnectApi.ClaimAdditionalFieldInputRep, Input, representation, additional]
+keywords: [ConnectApi.ClaimAdditionalFieldInputRep, additional]
 ---
-
-# ConnectApi.ClaimAdditionalFieldInputRep
 
 > Input representation for the details of the additional field.
 

@@ -5,12 +5,10 @@ topic: ratingrequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.817Z
+lastCollected: 2026-04-07T18:39:58.479Z
 estimatedTokens: 261
-keywords: [RatingRequestHistory, History, tracked, RatingRequest]
+keywords: [RatingRequestHistory, tracked, RatingRequest]
 ---
-
-# RatingRequestHistory
 
 > History for tracked fields of RatingRequest.
 

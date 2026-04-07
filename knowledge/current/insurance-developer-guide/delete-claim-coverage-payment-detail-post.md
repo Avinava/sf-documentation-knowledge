@@ -5,12 +5,10 @@ topic: delete-claim-coverage-payment-detail-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.512Z
+lastCollected: 2026-04-07T18:37:51.553Z
 estimatedTokens: 251
-keywords: [Claim, Coverage, Payment, Detail, POST, Remove, unpaid, updating, status, Deleted, API, reverses, insurance, policy, limit]
+keywords: [Claim, Coverage, Payment, Detail, POST, Remove, unpaid, updating, status, Deleted, API, reverses, insurance, policy, limit, roll, back, consumption, Loss]
 ---
-
-# Delete Claim Coverage Payment Detail (POST)
 
 > Remove unpaid claim coverage payment details by updating the status to Deleted. The API
   reverses the insurance policy limit tracking data to roll back consumption for the type

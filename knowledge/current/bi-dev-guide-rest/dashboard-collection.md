@@ -5,12 +5,10 @@ topic: dashboard-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.392Z
+lastCollected: 2026-04-07T18:36:56.922Z
 estimatedTokens: 198
 keywords: [Dashboard, Collection, Analytics, dashboards]
 ---
-
-# Dashboard Collection
 
 > A collection of Analytics dashboards.
 

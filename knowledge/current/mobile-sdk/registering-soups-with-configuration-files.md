@@ -5,12 +5,10 @@ topic: registering-soups-with-configuration-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:31.595Z
+lastCollected: 2026-04-07T18:40:26.841Z
 estimatedTokens: 1745
-keywords: [Registering, Soups, Configuration, Files, Beginning, Mobile, SDK, 6.0SmartStore, lets, define, soup, structures, rather, code, Since]
+keywords: [Registering, Soups, Configuration, Files, Beginning, Mobile, SDK, 6.0SmartStore, lets, define, soup, structures, rather, code, Since, platforms, app, describe, file, compile, any, project, Locations, Loading, SmartStore, Native, Apps, Sample]
 ---
-
-# Registering Soups with Configuration Files
 
 > Beginning with Mobile SDK 6.0SmartStore lets you define soup structures through
     configuration files rather than code. Since all platforms and app types use the same

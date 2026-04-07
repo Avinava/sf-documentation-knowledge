@@ -5,12 +5,10 @@ topic: productsellingmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:01.640Z
+lastCollected: 2026-04-07T18:39:56.178Z
 estimatedTokens: 426
-keywords: [ProductSellingModel, product, sold, one-time, sale, evergreen, subscription, term-defined, subscription’s, term, multiple, selling, models, API, version]
+keywords: [ProductSellingModel, product, sold, one-time, sale, evergreen, subscription, term-defined, subscription’s, term, multiple, selling, models, API, 55.0]
 ---
-
-# ProductSellingModel
 
 > Defines one method by which a product can be sold; for example, as a
          one-time sale, an evergreen subscription, or a term-defined subscription. If the product is

@@ -5,12 +5,10 @@ topic: intelligent-document-reader-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.932Z
+lastCollected: 2026-04-07T18:39:04.034Z
 estimatedTokens: 756
-keywords: [Intelligent, Document, Reader, Standard, Objects, activate]
+keywords: [Intelligent, Document, Reader, Standard, activate]
 ---
-
-# Intelligent Document Reader Standard Objects
 
 > Use standard objects to create, update, and activate Intelligent Document
       Reader.

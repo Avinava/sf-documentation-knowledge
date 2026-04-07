@@ -5,12 +5,10 @@ topic: expression-operators-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.158Z
+lastCollected: 2026-04-07T18:38:04.290Z
 estimatedTokens: 1381
 keywords: [Expression, Operators, language, supports, enable, complex, expressions, Arithmetic, Numeric, Literals, Comparison, Logical, Conditional, Operator]
 ---
-
-# Expression Operators Reference
 
 > The expression language supports operators to enable you to create more complex
   expressions.

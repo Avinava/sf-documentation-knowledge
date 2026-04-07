@@ -5,13 +5,11 @@ topic: fieldset-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.789Z
+lastCollected: 2026-04-07T18:36:14.093Z
 estimatedTokens: 1267
 namespace: Schema.FieldSet
-keywords: [FieldSet, translation, text, label, Salesforce, user, Usage, Displaying, Visualforce, getDescription, getFields, getLabel, getName, getNamespace, getSObjectType]
+keywords: [FieldSet, translation, text, label, Salesforce, user, Displaying, Visualforce, getDescription, getFields, getLabel, getName, getNamespace, getSObjectType]
 ---
-
-# FieldSet Class
 
 > Returns the translation of the text label that is displayed next to
    the field in the Salesforce user interface.

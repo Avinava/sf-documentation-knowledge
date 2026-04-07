@@ -5,12 +5,10 @@ topic: reopened-by-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.025Z
+lastCollected: 2026-04-07T18:37:41.023Z
 estimatedTokens: 97
-keywords: [Reopened, Input, person, care]
+keywords: [Reopened, person, care]
 ---
-
-# Reopened By Input
 
 > The name of the person who reopened the care request.
 

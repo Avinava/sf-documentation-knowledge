@@ -5,12 +5,10 @@ topic: compound-filters-in-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:31.905Z
+lastCollected: 2026-04-07T18:36:17.132Z
 estimatedTokens: 199
 keywords: [Compound, Filters, Apex, Connector, Framework, child, stored, subfilters]
 ---
-
-# Compound Filters in the Apex Connector Framework
 
 > Filters can have child filters, which are stored in the subfilters property.
 

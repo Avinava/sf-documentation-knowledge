@@ -5,12 +5,10 @@ topic: delete-an-unlocked-package-or-package-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.726Z
+lastCollected: 2026-04-07T18:40:08.687Z
 estimatedTokens: 304
-keywords: [Unlocked, Package, Version, packages, versions, longer]
+keywords: [Unlocked, Package, packages, versions, longer]
 ---
-
-# Delete an Unlocked Package or Package Version
 
 > Use the sf package version delete and sf package delete to delete packages and package versions that
     you no longer need.

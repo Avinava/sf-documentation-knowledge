@@ -5,12 +5,10 @@ topic: cgcsyncsynctrackedobjectconfigc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.178Z
+lastCollected: 2026-04-07T18:39:12.624Z
 estimatedTokens: 1765
-keywords: [cgc_sync__Sync_Tracked_Object_Config__c, configurations, tracked, objects, including, data, distribution, sync, settings, client, schema, API, version, 53.0, later]
+keywords: [cgc_sync__Sync_Tracked_Object_Config__c, configurations, tracked, including, distribution, sync, settings, client, schema, API, 53.0, cgc, _sync, _Tracked, _Object, _Config]
 ---
-
-# cgc_sync__Sync_Tracked_Object_Config__c
 
 > Contains configurations for tracked objects including data distribution, sync
       settings, and client schema. This object is available in API version 53.0 and later.

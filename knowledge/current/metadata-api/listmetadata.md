@@ -5,12 +5,10 @@ topic: listmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.737Z
+lastCollected: 2026-04-07T18:36:27.227Z
 estimatedTokens: 872
-keywords: [listMetadata, call, retrieves, metadata, components, organization, Data, match, criteria, queries, array, contain, three, ListMetadataQuery, supports]
+keywords: [Permissions, Arguments, listMetadata, call, retrieves, metadata, organization, match, criteria, queries, array, contain, three, ListMetadataQuery, supports, every, top-level, CustomObject, ApexClass, child, CustomField, RecordType, Sample, Code—Java]
 ---
-
-# listMetadata()
 
 > This call retrieves property information about metadata components in your
     organization. Data is returned for the components that match the criteria specified in the

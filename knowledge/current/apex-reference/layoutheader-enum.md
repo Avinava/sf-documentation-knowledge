@@ -5,12 +5,10 @@ topic: layoutheader-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.273Z
+lastCollected: 2026-04-07T18:36:12.558Z
 estimatedTokens: 81
 keywords: [LayoutHeader, tagging, Metadata.Layout.headers]
 ---
-
-# LayoutHeader Enum
 
 > Represents tagging types used for Metadata.Layout.headers
 

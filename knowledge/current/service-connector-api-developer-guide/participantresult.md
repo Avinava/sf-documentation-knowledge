@@ -5,12 +5,10 @@ topic: participantresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.711Z
+lastCollected: 2026-04-07T18:39:23.648Z
 estimatedTokens: 294
 keywords: [ParticipantResult, result, addParticipant, function, Functions]
 ---
-
-# ParticipantResult
 
 > Represents the result for the addParticipant() function.
 

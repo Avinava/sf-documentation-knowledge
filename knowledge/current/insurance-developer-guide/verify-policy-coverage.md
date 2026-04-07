@@ -5,12 +5,10 @@ topic: verify-policy-coverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.607Z
+lastCollected: 2026-04-07T18:37:52.803Z
 estimatedTokens: 138
-keywords: [Verify, Policy, Coverage, Output, representation, coverage's, applicability, loss, date, under, insurance]
+keywords: [Verify, Policy, Coverage, coverage's, applicability, loss, date, under, insurance]
 ---
-
-# Verify Policy Coverage
 
 > Output representation of a policy coverage's applicability for a specified loss date under an insurance policy.
 

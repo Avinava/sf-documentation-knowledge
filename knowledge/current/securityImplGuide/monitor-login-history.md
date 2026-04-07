@@ -5,12 +5,10 @@ topic: monitor-login-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.215Z
+lastCollected: 2026-04-07T18:39:23.150Z
 estimatedTokens: 1034
-keywords: [Monitor, Login, History, admin, attempts, log, Salesforce, Experience, Cloud, sites, records, user, logins, past, months]
+keywords: [Monitor, Login, admin, attempts, log, Salesforce, Experience, Cloud, sites, records, user, logins, past, months, download, CSV, GZIP, file]
 ---
-
-# Monitor Login History
 
 > As an admin, you can monitor all attempts to log in to Salesforce and to your
     Experience Cloud sites. The Login History page shows up to 20,000 records of user logins for the

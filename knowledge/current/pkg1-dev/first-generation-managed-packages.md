@@ -5,12 +5,10 @@ topic: first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.086Z
+lastCollected: 2026-04-07T18:38:54.504Z
 estimatedTokens: 1646
-keywords: [First-Generation, Managed, Packages, Salesforce, partners, distribute, sell, applications, customers, AppExchange, License, Management, Application, LMA, developers]
+keywords: [First-Generation, Managed, Packages, Salesforce, partners, distribute, sell, applications, customers, AppExchange, License, Management, Application, LMA, developers, manage, user-based, licenses, their, app, upgradeable]
 ---
-
-# First-Generation Managed Packages
 
 > Managed packages are used by Salesforce partners to distribute and sell applications to
     customers. Using AppExchange and the License Management Application (LMA), developers can sell

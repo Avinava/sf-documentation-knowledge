@@ -5,12 +5,10 @@ topic: sample-discounting-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.342Z
+lastCollected: 2026-04-07T18:40:12.359Z
 estimatedTokens: 338
 keywords: [Sample, Discounting, Formulas, calculate, discount, amounts, Maintenance, Services, Opportunity, Amount, Rounded, Approval]
 ---
-
-# Sample Discounting Formulas
 
 > Use these formulas to calculate discount amounts.
 

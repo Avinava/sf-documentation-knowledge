@@ -5,12 +5,10 @@ topic: productsvccampaigndef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.001Z
+lastCollected: 2026-04-07T18:38:14.353Z
 estimatedTokens: 1323
-keywords: [ProductSvcCampaignDef, product, part, impacted, service, campaign, Stores, granular, faults, facilitating, efficient, execution, API, version, 65.0]
+keywords: [ProductSvcCampaignDef, product, part, impacted, service, campaign, Stores, granular, faults, facilitating, efficient, execution, API, 65.0]
 ---
-
-# ProductSvcCampaignDef
 
 > Represents information about the product or part that is impacted in a
          product service campaign. Stores the granular details related to product faults,

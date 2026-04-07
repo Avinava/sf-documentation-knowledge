@@ -5,12 +5,10 @@ topic: smart-data-discovery-multiclass-classification-prediction-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.183Z
+lastCollected: 2026-04-07T18:36:59.674Z
 estimatedTokens: 192
-keywords: [Smart, Data, Discovery, Multiclass, Classification, Prediction, model]
+keywords: [Smart, Discovery, Multiclass, Classification, Prediction, model]
 ---
-
-# Smart Data Discovery Multiclass Classification Prediction Property
 
 > The multiclass classification prediction model type.
 

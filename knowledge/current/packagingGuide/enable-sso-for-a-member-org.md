@@ -5,12 +5,10 @@ topic: enable-sso-for-a-member-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.928Z
+lastCollected: 2026-04-07T18:38:46.882Z
 estimatedTokens: 125
 keywords: [Enable, SSO, Member, Org, sign-on, let, Environment, Hub, user, log, reauthenticating]
 ---
-
-# Enable SSO for a Member Org
 
 > You can enable single sign-on (SSO) to let an Environment Hub user log in to a member
   org without reauthenticating.

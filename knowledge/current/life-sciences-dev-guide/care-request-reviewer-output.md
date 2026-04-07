@@ -5,12 +5,10 @@ topic: care-request-reviewer-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.400Z
+lastCollected: 2026-04-07T18:37:55.890Z
 estimatedTokens: 240
-keywords: [Care, Reviewer, Output, representation]
+keywords: [Care, Reviewer]
 ---
-
-# Care Request Reviewer Output
 
 > Output representation of the care request reviewer.
 

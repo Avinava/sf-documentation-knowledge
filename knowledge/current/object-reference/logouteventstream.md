@@ -5,12 +5,10 @@ topic: logouteventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.106Z
+lastCollected: 2026-04-07T18:38:35.354Z
 estimatedTokens: 67
 keywords: [LogoutEventStream, documentation, moved, Platform, Events, Developer]
 ---
-
-# LogoutEventStream
 
 > The documentation has moved to LogoutEventStream in the Platform Events Developer
 				Guide.

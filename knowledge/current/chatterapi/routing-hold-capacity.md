@@ -5,12 +5,10 @@ topic: routing-hold-capacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.758Z
+lastCollected: 2026-04-07T18:37:15.821Z
 estimatedTokens: 269
 keywords: [Routing, Hold, Capacity, fulfillment, order, location, Holding, reserves, space, you’ll, assign]
 ---
-
-# Routing, Hold Capacity
 
 > Hold fulfillment order capacity at a location. Holding capacity at a
       location reserves a space for a fulfillment order that you’ll assign to it.

@@ -5,12 +5,10 @@ topic: android-template-app-deep-dive
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.676Z
+lastCollected: 2026-04-07T18:40:25.067Z
 estimatedTokens: 355
 keywords: [Android, Template, App, Deep, Dive, studying, gain, quick, understanding, native, apps, built, Mobile, SDK]
 ---
-
-# Android Template App: Deep Dive
 
 > By studying a template app, you can gain a quick
                 understanding of native apps built with Mobile SDK for Android.

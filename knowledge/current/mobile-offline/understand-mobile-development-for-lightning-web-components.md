@@ -5,12 +5,10 @@ topic: understand-mobile-development-for-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.578Z
+lastCollected: 2026-04-07T18:38:16.116Z
 estimatedTokens: 546
-keywords: [Understand, Mobile, Development, Lightning, Web, Components, best, way, start, building, mobile-ready, deep, dive]
+keywords: [Understand, Mobile, Development, Lightning, Web, best, way, start, building, mobile-ready, deep, dive]
 ---
-
-# Understand Mobile Development for Lightning Web Components
 
 > The best way to start building mobile-ready components is to deep dive into
                 Lightning Web Components first.

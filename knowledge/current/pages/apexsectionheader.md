@@ -5,12 +5,10 @@ topic: apexsectionheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.354Z
+lastCollected: 2026-04-07T18:38:50.589Z
 estimatedTokens: 758
-keywords: [apex, sectionHeader, title, bar, standard, Salesforce, colored, directly, under, tab, Attributes]
+keywords: [Attributes, apex, sectionHeader, title, bar, standard, Salesforce, colored, directly, under, tab]
 ---
-
-# apex:sectionHeader
 
 > A title bar for a page. In a standard Salesforce page, the title bar
 			is a colored header displayed directly under the tab bar.

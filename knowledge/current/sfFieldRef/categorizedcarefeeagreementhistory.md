@@ -5,12 +5,10 @@ topic: categorizedcarefeeagreementhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.150Z
+lastCollected: 2026-04-07T18:39:33.560Z
 estimatedTokens: 188
-keywords: [CategorizedCareFeeAgreementHistory, History, tracked, CategorizedCareFeeAgreement]
+keywords: [CategorizedCareFeeAgreementHistory, tracked, CategorizedCareFeeAgreement]
 ---
-
-# CategorizedCareFeeAgreementHistory
 
 > History for tracked fields of CategorizedCareFeeAgreement.
 

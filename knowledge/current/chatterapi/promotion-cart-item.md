@@ -5,12 +5,10 @@ topic: promotion-cart-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.195Z
+lastCollected: 2026-04-07T18:37:22.304Z
 estimatedTokens: 712
 keywords: [Promotion, Cart, Item, adjustments]
 ---
-
-# Promotion Cart Item
 
 > A cart item and its adjustments.
 

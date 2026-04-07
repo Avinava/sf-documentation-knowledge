@@ -5,12 +5,10 @@ topic: schedulebroadcastappointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.297Z
+lastCollected: 2026-04-07T18:37:47.909Z
 estimatedTokens: 1501
-keywords: [ScheduleBroadcastAppointment, appointments, schedulers, broadcast, resources, schedule, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [ScheduleBroadcastAppointment, appointments, schedulers, broadcast, resources, schedule, API, 60.0]
 ---
-
-# ScheduleBroadcastAppointment
 
 > Represents appointments that schedulers broadcast to resources using a
          schedule broadcast. This object is available in API version 60.0 and later.

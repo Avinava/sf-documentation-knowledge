@@ -5,12 +5,10 @@ topic: post-smsv1keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.835Z
+lastCollected: 2026-04-07T18:40:15.957Z
 estimatedTokens: 220
-keywords: [POST, sms, keyword, Creates, account, **Overview**, Usage]
+keywords: [POST, sms, keyword, Creates, account, **Overview**]
 ---
-
-# POST /sms/v1/keyword
 
 > Creates a keyword on an account.
 

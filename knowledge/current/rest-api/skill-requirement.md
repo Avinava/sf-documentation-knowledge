@@ -5,12 +5,10 @@ topic: skill-requirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.034Z
+lastCollected: 2026-04-07T18:36:20.241Z
 estimatedTokens: 118
 keywords: [Skill, Requirement, skills, particular, task, work]
 ---
-
-# Skill Requirement
 
 > List of skills that are required to complete a particular task for a work
   type.

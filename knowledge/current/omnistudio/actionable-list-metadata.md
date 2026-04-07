@@ -5,12 +5,10 @@ topic: actionable-list-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:52.986Z
+lastCollected: 2026-04-07T18:36:38.651Z
 estimatedTokens: 142
-keywords: [Actionable, Metadata, Output, representation]
+keywords: [Actionable, Metadata]
 ---
-
-# Actionable List Metadata
 
 > Output representation of the actionable list metadata
     request.

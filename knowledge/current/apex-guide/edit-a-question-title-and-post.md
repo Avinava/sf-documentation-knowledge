@@ -5,12 +5,10 @@ topic: edit-a-question-title-and-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.744Z
+lastCollected: 2026-04-07T18:36:18.958Z
 estimatedTokens: 92
 keywords: [Edit, Question, Title, Post, Call]
 ---
-
-# Edit a Question Title and Post
 
 > Call a method to edit a question title and post.
 

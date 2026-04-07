@@ -5,13 +5,11 @@ topic: datasource-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.693Z
+lastCollected: 2026-04-07T18:36:15.006Z
 estimatedTokens: 2166
 namespace: DataSource
-keywords: [DataSource, classes, Apex, Connector, Framework, develop, custom, adapter, Salesforce, Connect, organization, any, data, anywhere, via]
+keywords: [DataSource, classes, Apex, Connector, Framework, develop, adapter, Salesforce, Connect, organization, any, anywhere, via]
 ---
-
-# DataSource Namespace
 
 > The DataSource namespace provides the classes
     for the Apex Connector Framework. Use the Apex Connector Framework to develop a custom adapter

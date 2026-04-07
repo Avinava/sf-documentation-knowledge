@@ -5,12 +5,10 @@ topic: invocablevariable-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.025Z
+lastCollected: 2026-04-07T18:36:16.250Z
 estimatedTokens: 1276
-keywords: [InvocableVariable, Annotation, identify, variables, invocable, custom, classes, Modifiers, Considerations]
+keywords: [InvocableVariable, Annotation, identify, variables, invocable, classes, Modifiers, Considerations]
 ---
-
-# InvocableVariable Annotation
 
 > To identify variables used by invocable
       methods in custom classes, use the InvocableVariable

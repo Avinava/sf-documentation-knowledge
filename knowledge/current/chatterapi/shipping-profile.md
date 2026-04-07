@@ -5,12 +5,10 @@ topic: shipping-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.963Z
+lastCollected: 2026-04-07T18:37:23.083Z
 estimatedTokens: 201
-keywords: [Shipping, Profile, Output, representation]
+keywords: [Shipping, Profile]
 ---
-
-# Shipping Profile
 
 > Output representation of the shipping profile.
 

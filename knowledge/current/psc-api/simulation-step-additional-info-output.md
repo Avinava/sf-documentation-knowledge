@@ -5,12 +5,10 @@ topic: simulation-step-additional-info-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.951Z
+lastCollected: 2026-04-07T18:39:03.180Z
 estimatedTokens: 239
-keywords: [Simulation, Step, Additional, Info, Output, decision, matrix, sub, expression]
+keywords: [Simulation, Step, Additional, Info, decision, matrix, sub, expression]
 ---
-
-# Simulation Step Additional Info Output
 
 > Information about the decision matrix or sub expression used in a
       step.

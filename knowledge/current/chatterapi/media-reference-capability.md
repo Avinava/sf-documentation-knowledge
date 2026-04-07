@@ -5,12 +5,10 @@ topic: media-reference-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.521Z
+lastCollected: 2026-04-07T18:37:20.704Z
 estimatedTokens: 131
-keywords: [Media, Capability, feed, element, references]
+keywords: [Media, Capability, references]
 ---
-
-# Media Reference Capability
 
 > If a feed element has this capability, it has one or more media
       references.

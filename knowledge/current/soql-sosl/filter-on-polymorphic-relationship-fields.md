@@ -5,12 +5,10 @@ topic: filter-on-polymorphic-relationship-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.069Z
+lastCollected: 2026-04-07T18:40:10.027Z
 estimatedTokens: 352
 keywords: [Filter, Polymorphic, Relationship, search, SOQL, query, current, several]
 ---
-
-# Filter on Polymorphic Relationship Fields
 
 > You can search polymorphic relationship fields on a SOQL query. A polymorphic
   relationship is one where the current object can be one of several object types.

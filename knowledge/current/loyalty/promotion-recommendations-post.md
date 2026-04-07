@@ -5,12 +5,10 @@ topic: promotion-recommendations-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.414Z
+lastCollected: 2026-04-07T18:38:07.640Z
 estimatedTokens: 661
 keywords: [Promotion, Recommendations, POST, Retrieve, promotions, recommended, customer, loyalty, program, member, product, personalization, point]
 ---
-
-# Promotion Recommendations (POST)
 
 > Retrieve the list of promotions recommended for a customer or a loyalty program member
     based on the product and personalization point.

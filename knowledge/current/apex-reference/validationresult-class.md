@@ -5,12 +5,10 @@ topic: validationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.599Z
+lastCollected: 2026-04-07T18:36:02.806Z
 estimatedTokens: 104
 keywords: [ValidationResult, reserved, future, Preference, Manager]
 ---
-
-# ValidationResult Class
 
 > This class is reserved for future use with Preference
     Manager.

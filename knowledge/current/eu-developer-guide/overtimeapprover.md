@@ -5,12 +5,10 @@ topic: overtimeapprover
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.478Z
+lastCollected: 2026-04-07T18:37:32.703Z
 estimatedTokens: 275
-keywords: [OvertimeApprover, person, approves, overtime, hours, API, version, 62.0, later, Calls]
+keywords: [OvertimeApprover, person, approves, overtime, hours, API, 62.0]
 ---
-
-# OvertimeApprover
 
 > Represents a person who approves overtime hours. This object is
       available in API version 62.0 and later.

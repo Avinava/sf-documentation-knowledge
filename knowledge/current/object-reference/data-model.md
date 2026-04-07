@@ -5,12 +5,10 @@ topic: data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.020Z
+lastCollected: 2026-04-07T18:38:23.892Z
 estimatedTokens: 217
-keywords: [Data, Model, Entity, relationship, diagrams, ERDs, standard, Salesforce, objects, illustrate, relationships, crow’s, foot, notation]
+keywords: [Model, Entity, relationship, diagrams, ERDs, standard, Salesforce, illustrate, relationships, crow’s, foot, notation]
 ---
-
-# Data Model
 
 > Entity relationship diagrams (ERDs) for standard Salesforce objects illustrate important relationships between objects. Salesforce ERDs use crow’s foot
 		notation.

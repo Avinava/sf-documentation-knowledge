@@ -5,12 +5,10 @@ topic: salesforce-console-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.711Z
+lastCollected: 2026-04-07T18:36:48.764Z
 estimatedTokens: 835
 keywords: [Salesforce, Console, Developer, Lightning, JavaScript, API, Integration, Toolkit, interact, apps, material]
 ---
-
-# Salesforce Console Developer Guide
 
 > The Lightning Console JavaScript API and the Salesforce Console Integration Toolkit
     both interact with Salesforce console apps.  This guide provides reference material for both.

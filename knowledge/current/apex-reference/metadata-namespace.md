@@ -5,13 +5,11 @@ topic: metadata-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.745Z
+lastCollected: 2026-04-07T18:36:15.058Z
 estimatedTokens: 2991
 namespace: Metadata
-keywords: [Metadata, classes, working, custom, Salesforce]
+keywords: [Metadata, classes, working, Salesforce]
 ---
-
-# Metadata Namespace
 
 > The Metadata namespace provides classes and
     methods for working with custom metadata in Salesforce

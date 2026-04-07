@@ -5,12 +5,10 @@ topic: connectapiinsurancegroupplanoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.613Z
+lastCollected: 2026-04-07T18:37:50.488Z
 estimatedTokens: 180
-keywords: [Output, representation, insurance, group, plan]
+keywords: [insurance, group, plan]
 ---
-
-# ConnectApi.InsuranceGroupPlanOutputRepresentation
 
 > Output representation of an insurance group plan.
 

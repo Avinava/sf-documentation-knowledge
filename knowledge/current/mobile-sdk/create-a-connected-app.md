@@ -5,12 +5,10 @@ topic: create-a-connected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.998Z
+lastCollected: 2026-04-07T18:40:25.368Z
 estimatedTokens: 1037
-keywords: [Connected, App, Salesforce, administrator, creates, apps, server, include, settings, mobile, offerings, steps, cover, apply, SDK]
+keywords: [Connected, App, Salesforce, administrator, creates, apps, server, include, settings, mobile, offerings, steps, cover, apply, SDK, Basic, API, Enable, OAuth]
 ---
-
-# Create a Connected App
 
 > A Salesforce
     administrator creates connected apps on the Salesforce server. Salesforce connected apps include

@@ -5,12 +5,10 @@ topic: create-a-triggered-send-using-ampscript-and-the-soap-web-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.746Z
+lastCollected: 2026-04-07T18:40:22.103Z
 estimatedTokens: 493
-keywords: [Triggered, Send, AMPscript, SOAP, Web, Service, API, contained, landing, interact, creates, instance, personalized, content, message]
+keywords: [Triggered, Send, AMPscript, SOAP, Web, Service, API, contained, landing, interact, creates, instance, personalized, content, message, sample, below, model, own, scrip]
 ---
-
-# Create a Triggered Send Using AMPscript and the SOAP Web Service API
 
 > Use AMPscript contained in a landing page to interact with the web service SOAP API to create a triggered send. The AMPscript creates the instance of the triggered send and provides personalized content in the triggered send message. Use the sample AMPscript below as a model to create your own scrip
 

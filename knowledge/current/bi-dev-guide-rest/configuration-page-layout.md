@@ -5,12 +5,10 @@ topic: configuration-page-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.315Z
+lastCollected: 2026-04-07T18:36:56.855Z
 estimatedTokens: 141
 keywords: [Configuration, Layout, template, wizard]
 ---
-
-# Configuration Page Layout
 
 > The configuration page layout for a template configuration wizard page.
 

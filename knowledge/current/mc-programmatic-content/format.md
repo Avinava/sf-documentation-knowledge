@@ -5,12 +5,10 @@ topic: format
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.344Z
+lastCollected: 2026-04-07T18:40:21.624Z
 estimatedTokens: 355
-keywords: [Function, Ordinal, Variable, compatible, yyyy, currency, **Overview**, **Syntax**, Usage, Items, apply, Choose, number, dec]
+keywords: [Function, Ordinal, Variable, compatible, yyyy, currency, **Overview**, **Syntax**, Items, apply, Choose, number, dec]
 ---
-
-# Format
 
 > Format(1, 2, 3, 4)
 

@@ -5,12 +5,10 @@ topic: contentfoldermember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.832Z
+lastCollected: 2026-04-07T18:39:35.292Z
 estimatedTokens: 292
-keywords: [ContentFolderMember, association, file, folder, API, version, 34.0, later]
+keywords: [ContentFolderMember, association, file, folder, API, 34.0]
 ---
-
-# ContentFolderMember
 
 > Defines the association between a file and a folder. This object
 		is available in API version 34.0 and later.

@@ -5,12 +5,10 @@ topic: event-definition-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.735Z
+lastCollected: 2026-04-07T18:40:16.894Z
 estimatedTokens: 439
-keywords: [Event, Definition, Schema, creating, API, uses, contained, data, extension, associated, nullability, included, JSON, Items]
+keywords: [Event, Definition, Schema, creating, API, uses, contained, extension, nullability, included, JSON, Items]
 ---
-
-# Event Definition Schema
 
 > When creating an event definition, the API uses the information contained in the schema object to create a data extension associated with the event definition. The schema defines the name, nullability, and default values of the fields to be included in the data extension.
 

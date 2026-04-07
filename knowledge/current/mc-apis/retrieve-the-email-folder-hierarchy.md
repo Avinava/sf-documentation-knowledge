@@ -5,12 +5,10 @@ topic: retrieve-the-email-folder-hierarchy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.683Z
+lastCollected: 2026-04-07T18:40:18.884Z
 estimatedTokens: 305
 keywords: [Retrieve, Email, Folder, Hierarchy, retrieving, Why, How, Sample, NET, Code, PHP, SOAP, Envelope, Items]
 ---
-
-# Retrieve the Email Folder Hierarchy
 
 > This page contains information  about retrieving the email folder hierarchy.
 

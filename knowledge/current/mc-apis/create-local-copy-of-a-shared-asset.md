@@ -5,12 +5,10 @@ topic: create-local-copy-of-a-shared-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.780Z
+lastCollected: 2026-04-07T18:40:15.897Z
 estimatedTokens: 369
 keywords: [Local, Copy, Shared, Asset, edit, locally, share, original, retain, sharing, associate]
 ---
-
-# Create Local Copy of a Shared Asset
 
 > To edit an existing asset locally, share the asset, then create a local copy. The original asset and local copy retain sharing properties that associate them with each other.
 

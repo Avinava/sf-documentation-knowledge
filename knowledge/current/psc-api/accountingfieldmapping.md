@@ -5,12 +5,10 @@ topic: accountingfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.204Z
+lastCollected: 2026-04-07T18:39:04.327Z
 estimatedTokens: 656
-keywords: [AccountingFieldMapping, accounting, mappings, organize, data, bring, ledger, entry, records, Parent, File, Suffix, Directory, Location, Version, custom, populate, transaction, journal, Salesforce]
+keywords: [AccountingFieldMapping, accounting, mappings, organize, bring, ledger, entry, records, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, populate, transaction, journal, Salesforce, API, 58.0]
 ---
-
-# AccountingFieldMapping
 
 > Represents the custom field mappings used to populate transaction journal
          records with other Salesforce data. This object is available in API version 58.0 and

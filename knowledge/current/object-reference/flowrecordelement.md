@@ -5,12 +5,10 @@ topic: flowrecordelement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.685Z
+lastCollected: 2026-04-07T18:38:32.678Z
 estimatedTokens: 441
-keywords: [FlowRecordElement, element, flow, version, API, 58.0, later, Calls]
+keywords: [FlowRecordElement, flow, API, 58.0]
 ---
-
-# FlowRecordElement
 
 > Represents a single element within a flow version. This object is
          available in API version 58.0 and later.

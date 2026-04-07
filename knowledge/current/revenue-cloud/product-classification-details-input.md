@@ -5,12 +5,10 @@ topic: product-classification-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.745Z
+lastCollected: 2026-04-07T18:35:43.626Z
 estimatedTokens: 165
-keywords: [Product, Classification, Input, representation, fetch, records, including, their, attributes, attribute, categories]
+keywords: [Product, Classification, fetch, records, including, their, attributes, attribute, categories]
 ---
-
-# Product Classification Details Input
 
 > Input representation of the request to fetch details of product classification records,
     including their attributes and attribute categories.

@@ -5,12 +5,10 @@ topic: connectapifindrouteswithfewestsplitsusingocioutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.966Z
+lastCollected: 2026-04-07T18:36:09.359Z
 estimatedTokens: 291
 keywords: [order, fulfillment, routes, inventory, availability]
 ---
-
-# ConnectApi.FindRoutesWithFewestSplitsUsingOCIOutputRepresentation
 
 > A list of order fulfillment routes with inventory availability
       information.

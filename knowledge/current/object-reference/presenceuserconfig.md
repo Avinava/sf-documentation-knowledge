@@ -5,12 +5,10 @@ topic: presenceuserconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.857Z
+lastCollected: 2026-04-07T18:38:38.215Z
 estimatedTokens: 1689
-keywords: [PresenceUserConfig, configuration, determines, presence, user’s, settings, API, version, 32.0, later, Calls, Special, Access, Rules]
+keywords: [PresenceUserConfig, configuration, determines, presence, user’s, settings, API, 32.0]
 ---
-
-# PresenceUserConfig
 
 > Represents a configuration that determines a presence user’s
    settings. This object is available in API version 32.0 and later.

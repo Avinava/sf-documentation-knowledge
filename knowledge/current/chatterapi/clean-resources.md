@@ -5,12 +5,10 @@ topic: clean-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:24.678Z
+lastCollected: 2026-04-07T18:37:11.469Z
 estimatedTokens: 301
-keywords: [Clean, Resources, active, data, integration, rules, including, services, metrics, statuses, record]
+keywords: [Clean, Resources, active, integration, including, services, metrics, statuses, record]
 ---
-
-# Clean Resources
 
 > Get information about active data integration rules, including data
       services, update metrics, and the statuses of rules for a record.

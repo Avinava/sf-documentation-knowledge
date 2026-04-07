@@ -5,12 +5,10 @@ topic: generate-an-appointment-invitation-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.277Z
+lastCollected: 2026-04-07T18:39:21.087Z
 estimatedTokens: 238
 keywords: [Generate, Appointment, Invitation, URL, admins, URLs, Share, users, quickly, book, appointments]
 ---
-
-# Generate an Appointment Invitation URL
 
 > Only admins can generate invitation URLs. Share the invitation URLs
       with your users so that the users can use the URLs to quickly book

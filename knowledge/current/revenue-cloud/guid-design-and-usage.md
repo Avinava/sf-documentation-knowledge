@@ -5,12 +5,10 @@ topic: guid-design-and-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.135Z
+lastCollected: 2026-04-07T18:35:47.159Z
 estimatedTokens: 652
-keywords: [GUID, Design, Usage, Unique, Here's, guidance, good, versus, poor, deployment, tracking, Populate, Cycle, Non-Extensible, Objects]
+keywords: [GUID, Design, Unique, Here's, guidance, good, versus, poor, deployment, Populate, Cycle, Non-Extensible]
 ---
-
-# GUID Design and Usage
 
 > The format and values of the Global Unique ID (GUID) are up to you. Here's some
     guidance on what makes a good versus poor GUID for deployment tracking.

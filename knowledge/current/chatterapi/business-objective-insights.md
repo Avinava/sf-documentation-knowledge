@@ -5,12 +5,10 @@ topic: business-objective-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.912Z
+lastCollected: 2026-04-07T18:37:16.971Z
 estimatedTokens: 405
 keywords: [Business, Objective, Insights, goal]
 ---
-
-# Business Objective Insights
 
 > Insights related to a business objective, or goal.
 

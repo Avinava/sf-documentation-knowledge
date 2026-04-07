@@ -5,12 +5,10 @@ topic: context-tag-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.113Z
+lastCollected: 2026-04-07T18:36:36.649Z
 estimatedTokens: 133
-keywords: [Context, Tag, Input, representation]
+keywords: [Context, Tag]
 ---
-
-# Context Tag Input
 
 > Input representation of the context tag.
 

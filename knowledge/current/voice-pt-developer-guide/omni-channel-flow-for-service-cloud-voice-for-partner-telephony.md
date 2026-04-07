@@ -5,12 +5,10 @@ topic: omni-channel-flow-for-service-cloud-voice-for-partner-telephony
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.614Z
+lastCollected: 2026-04-07T18:40:13.538Z
 estimatedTokens: 653
 keywords: [Omni-Channel, Flow, Service, Cloud, Voice, Partner, Telephony, Run, Integration, REST, API]
 ---
-
-# Omni-Channel Flow for Service Cloud Voice for Partner Telephony
 
 > Run an Omni-Channel flow using the Service Cloud Voice Telephony Integration REST
         API.

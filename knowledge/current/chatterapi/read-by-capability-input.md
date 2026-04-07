@@ -5,12 +5,10 @@ topic: read-by-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.234Z
+lastCollected: 2026-04-07T18:37:09.953Z
 estimatedTokens: 213
-keywords: [Capability, Input, Mark, feed, elements, context, user]
+keywords: [Capability, Mark, context, user]
 ---
-
-# Read By Capability Input
 
 > Mark feed elements as read by the
       context user.

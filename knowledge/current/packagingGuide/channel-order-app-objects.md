@@ -5,12 +5,10 @@ topic: channel-order-app-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.583Z
+lastCollected: 2026-04-07T18:38:46.452Z
 estimatedTokens: 1149
-keywords: [Channel, Order, App, Objects, start, working, COA, app’s, Understanding, contain, easier, accurate, orders, processed, quickly]
+keywords: [Channel, Order, App, start, working, COA, app’s, Understanding, contain, easier, accurate, orders, processed, quickly, Salesforce]
 ---
-
-# Channel Order App Objects
 
 > Before you start working with the Channel Order App (COA), learn about the app’s
     objects. Understanding what the objects contain makes it easier to create accurate orders that

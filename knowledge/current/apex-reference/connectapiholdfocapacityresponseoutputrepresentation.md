@@ -5,12 +5,10 @@ topic: connectapiholdfocapacityresponseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.166Z
+lastCollected: 2026-04-07T18:36:09.550Z
 estimatedTokens: 102
 keywords: [hold, fulfillment, order, capacity, locations]
 ---
-
-# ConnectApi.HoldFOCapacityResponseOutputRepresentation
 
 > Response to a request to hold fulfillment order capacity at one or
       more locations.

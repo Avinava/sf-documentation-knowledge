@@ -5,12 +5,10 @@ topic: orderchangeloghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.323Z
+lastCollected: 2026-04-07T18:39:50.733Z
 estimatedTokens: 263
-keywords: [OrderChangeLogHistory, History, tracked, OrderChangeLog]
+keywords: [OrderChangeLogHistory, tracked, OrderChangeLog]
 ---
-
-# OrderChangeLogHistory
 
 > History for tracked fields of OrderChangeLog.
 

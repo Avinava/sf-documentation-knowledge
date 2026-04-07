@@ -5,12 +5,10 @@ topic: create-order-payment-summary-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.020Z
+lastCollected: 2026-04-07T18:37:18.094Z
 estimatedTokens: 118
-keywords: [Order, Payment, Summary, Output, created]
+keywords: [Order, Payment, Summary, created]
 ---
-
-# Create Order Payment Summary Output
 
 > ID of the created Order Payment Summary.
 

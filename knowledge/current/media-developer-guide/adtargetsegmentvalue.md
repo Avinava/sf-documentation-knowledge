@@ -5,12 +5,10 @@ topic: adtargetsegmentvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.207Z
+lastCollected: 2026-04-07T18:38:12.496Z
 estimatedTokens: 717
-keywords: [AdTargetSegmentValue, targeting, target, category, segment, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [AdTargetSegmentValue, targeting, target, category, segment, API, 62.0]
 ---
-
-# AdTargetSegmentValue
 
 > Represents a targeting value of an ad target category segment. This
       object is available in API version 62.0 and later.

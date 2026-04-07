@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.103Z
+lastCollected: 2026-04-07T18:36:58.618Z
 estimatedTokens: 268
-keywords: [Smart, Data, Discovery, Model, Transformation, Input, Einstein]
+keywords: [Smart, Discovery, Model, Transformation, Einstein]
 ---
-
-# Smart Data Discovery AI Model Transformation Input
 
 > The input for an Einstein Discovery AI model transformation.
 

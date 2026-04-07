@@ -5,12 +5,10 @@ topic: feed-elements-capability-editability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.708Z
+lastCollected: 2026-04-07T18:37:13.671Z
 estimatedTokens: 211
-keywords: [Feed, Elements, Capability, Editability, whether, context, user, edit, element, items, edited]
+keywords: [Capability, Editability, whether, context, user, edit, items, edited]
 ---
-
-# Feed Elements Capability, Editability
 
 > Indicates whether the context user can edit the feed element. Feed
       items are the only type of feed element that can be edited.

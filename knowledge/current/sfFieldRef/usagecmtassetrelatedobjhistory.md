@@ -5,12 +5,10 @@ topic: usagecmtassetrelatedobjhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.814Z
+lastCollected: 2026-04-07T18:40:04.596Z
 estimatedTokens: 280
-keywords: [UsageCmtAssetRelatedObjHistory, History, tracked, UsageCmtAssetRelatedObj]
+keywords: [UsageCmtAssetRelatedObjHistory, tracked, UsageCmtAssetRelatedObj]
 ---
-
-# UsageCmtAssetRelatedObjHistory
 
 > History for tracked fields of UsageCmtAssetRelatedObj.
 

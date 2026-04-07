@@ -6,13 +6,10 @@ topic: if-a-customer-pays-using-appexchange-checkout-how-can-i-ensure-that-paid-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.979Z
+lastCollected: 2026-04-07T18:38:45.809Z
 estimatedTokens: 235
-keywords: [customer, pays, AppExchange, Checkout, how, ensure, paid, features, immediately, accessible, purchase, license, records, Management, App]
+keywords: [customer, pays, AppExchange, Checkout, how, ensure, paid, features, immediately, accessible, purchase, license, records, Management, App, updated, feature, aren’t, you've, created, define, Apex, trigger, Org, LMO, fire, record, code, LMO-to-subscriber]
 ---
-
-# If a customer pays using AppExchange Checkout, how can I ensure that paid features are
-      immediately accessible?
 
 > When a customer makes a purchase using Checkout, the license records in the License
       Management App are updated, but feature parameters aren’t. To update feature parameters that

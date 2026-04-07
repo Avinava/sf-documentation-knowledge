@@ -5,12 +5,10 @@ topic: specify-dependencies-on-unpackageable-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.738Z
+lastCollected: 2026-04-07T18:38:54.109Z
 estimatedTokens: 361
 keywords: [Specify, Dependencies, Unpackageable, Metadata, It’s, possible, managed, 1GP, package, you’re, converting, includes, tests, references]
 ---
-
-# Specify Dependencies on Unpackageable Metadata
 
 > It’s possible that the managed 1GP package you’re converting includes tests or
     references to unpackageable metadata.

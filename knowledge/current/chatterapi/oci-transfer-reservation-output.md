@@ -5,12 +5,10 @@ topic: oci-transfer-reservation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.093Z
+lastCollected: 2026-04-07T18:37:21.251Z
 estimatedTokens: 114
-keywords: [OCI, Transfer, Reservation, Output, inventory, reservations]
+keywords: [OCI, Transfer, Reservation, inventory, reservations]
 ---
-
-# OCI Transfer Reservation Output
 
 > Response to a request to transfer one or more inventory
       reservations.

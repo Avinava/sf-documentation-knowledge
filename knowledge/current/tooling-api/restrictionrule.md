@@ -5,12 +5,10 @@ topic: restrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.925Z
+lastCollected: 2026-04-07T18:36:34.310Z
 estimatedTokens: 1113
-keywords: [RestrictionRule, restriction, rule, scoping, EnforcementType, Restrict, access, users, designated, records, restricting, SOAP, API, Calls, REST]
+keywords: [RestrictionRule, restriction, rule, scoping, EnforcementType, Restrict, users, designated, records, restricting, SOAP, API, REST]
 ---
-
-# RestrictionRule
 
 > Represents a restriction rule or a scoping rule. A restriction rule has
             EnforcementType set to Restrict and controls the access that specified users have to designated

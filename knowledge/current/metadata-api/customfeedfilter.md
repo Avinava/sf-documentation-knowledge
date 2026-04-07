@@ -5,12 +5,10 @@ topic: customfeedfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.765Z
+lastCollected: 2026-04-07T18:36:24.105Z
 estimatedTokens: 798
-keywords: [CustomFeedFilter, custom, feed, filter, limits, view, feeds, Cases, items, satisfy, criteria, definition, extends, Metadata, inherits]
+keywords: [CustomFeedFilter, FeedFilterCriterion, filter, limits, view, feeds, Cases, items, satisfy, criteria, definition, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---
-
-# CustomFeedFilter
 
 > Represents a custom feed filter that limits the feed
       view to feeds from the Cases object. The custom feed filter shows only feed items that satisfy

@@ -5,12 +5,10 @@ topic: authorization-gateway-response-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.781Z
+lastCollected: 2026-04-07T18:37:16.848Z
 estimatedTokens: 360
-keywords: [Authorization, Gateway, Output, payment, adapter]
+keywords: [Authorization, Gateway, payment, adapter]
 ---
-
-# Authorization Gateway Response Output
 
 > Response returned by the payment gateway following an authorization
       request from the payment gateway adapter.

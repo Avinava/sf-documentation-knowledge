@@ -5,12 +5,10 @@ topic: configure-a-custom-theme-layout-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.709Z
+lastCollected: 2026-04-07T18:37:26.655Z
 estimatedTokens: 1090
-keywords: [Configure, Custom, Theme, Layout, Component, Let’s, look, how, Developer, Console, transform, appearance, overall, structure, pages]
+keywords: [Configure, Theme, Layout, Let’s, look, how, Developer, Console, transform, appearance, overall, structure, pages, Customer, Service, template, Add, Design, Resource, Include, CSS, Avoid, Overlapping, Issues]
 ---
-
-# Configure a Custom Theme Layout Component
 
 > Let’s look at how to create a custom theme layout component in the Developer Console to
     transform the appearance and overall structure of the pages in the Customer Service

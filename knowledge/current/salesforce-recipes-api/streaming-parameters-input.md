@@ -5,12 +5,10 @@ topic: streaming-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.032Z
+lastCollected: 2026-04-07T18:39:18.761Z
 estimatedTokens: 125
-keywords: [Streaming, Input, loading, data]
+keywords: [Streaming, loading]
 ---
-
-# Streaming Parameters Input
 
 > The streaming parameters for loading data.
 

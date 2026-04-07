@@ -5,12 +5,10 @@ topic: group-invites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.281Z
+lastCollected: 2026-04-07T18:37:14.244Z
 estimatedTokens: 172
 keywords: [Group, Invites, Invite, internal, external, users, join]
 ---
-
-# Group Invites
 
 > Invite internal and external users to join a group.
 

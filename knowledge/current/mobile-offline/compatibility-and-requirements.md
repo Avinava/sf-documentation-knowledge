@@ -5,12 +5,10 @@ topic: compatibility-and-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.998Z
+lastCollected: 2026-04-07T18:38:15.511Z
 estimatedTokens: 412
-keywords: [Compatibility, Requirements, AppReviewService, JavaScript, module, API, Lightning, web, components, mobile, hardware, platform, operating, system, features, BarcodeScanner, BiometricsService, CalendarService, ContactsService, DocumentScanner]
+keywords: [Compatibility, Requirements, AppReviewService, JavaScript, module, API, Lightning, web, mobile, hardware, platform, operating, system, features, requires, device, APIs, runs, compatible, Salesforce, app, cannot, function, running, standard, browser, whether, desktop, BarcodeScanner, Barcode, BiometricsService, CalendarService, ContactsService, DocumentScanner, GeofencingService, LocationService, NFCService, PaymentsService]
 ---
-
-# Compatibility and Requirements
 
 > BarcodeScanner is a JavaScript module that provides an API to Lightning web components
         to make mobile hardware and platform (operating system) features available in JavaScript. It

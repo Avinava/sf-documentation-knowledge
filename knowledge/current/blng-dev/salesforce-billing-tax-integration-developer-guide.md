@@ -5,12 +5,10 @@ topic: salesforce-billing-tax-integration-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.591Z
+lastCollected: 2026-04-07T18:37:03.156Z
 estimatedTokens: 156
 keywords: [Salesforce, Billing, Tax, Integration, Developer, API, enable, communication, external, engines]
 ---
-
-# Salesforce Billing Tax Integration Developer Guide
 
 > Use Salesforce Billing tax integration API to enable communication between Salesforce
   Billing and external tax engines.

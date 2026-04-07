@@ -5,12 +5,10 @@ topic: use-aliases-with-group-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.107Z
+lastCollected: 2026-04-07T18:40:10.063Z
 estimatedTokens: 244
 keywords: [Aliases, GROUP, alias, any, aggregated, SELECT, statement, SOQL, query, identify, you’re, processing, results, code]
 ---
-
-# Use Aliases with  GROUP BY
 
 > You can use an alias for any field or aggregated field in a SELECT statement in a SOQL query. Use a field alias to identify the field when
 		you’re processing the query results in your code.

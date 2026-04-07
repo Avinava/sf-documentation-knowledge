@@ -5,12 +5,10 @@ topic: iif
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.105Z
+lastCollected: 2026-04-07T18:40:22.500Z
 estimatedTokens: 172
-keywords: [IIf, Function, Ordinal, Any, expression, result, evaluates, Tru, **Overview**, **Syntax**, Usage]
+keywords: [IIf, Function, Ordinal, Any, expression, result, evaluates, Tru, **Overview**, **Syntax**]
 ---
-
-# IIf
 
 > IIf(1, 2, 3)
 

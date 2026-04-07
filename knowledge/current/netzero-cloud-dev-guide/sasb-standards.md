@@ -5,12 +5,10 @@ topic: sasb-standards
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.922Z
+lastCollected: 2026-04-07T18:38:17.463Z
 estimatedTokens: 13227
-keywords: [SASB, Standards, Sustainability, Accounting, Board, enable, organizations, provide, industry-based, disclosures, sustainability-related, risks, opportunities, General, Technology]
+keywords: [General, Hardware, SASB, Standards, Sustainability, Accounting, Board, enable, organizations, provide, industry-based, disclosures, sustainability-related, risks, opportunities, Technology, Communications, Telecommunication, Services, Internet, Media, Sector, Leisure, Facilities, Entertainment, Professional, Commercial, Consumer, Goods, Financials, Asset, Management, Custody, Activities, Banks, Finance]
 ---
-
-# SASB Standards
 
 > The Sustainability Accounting Standards Board (SASB) standards enable organizations
         to provide industry-based disclosures about sustainability-related risks and

@@ -5,12 +5,10 @@ topic: place-sales-transaction-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.222Z
+lastCollected: 2026-04-07T18:37:26.141Z
 estimatedTokens: 1455
-keywords: [Place, Sales, Transaction, POST, order, quote, integrated, pricing, configuration, Additionally, insert, line, items, calculate, estimated]
+keywords: [Place, Sales, Transaction, POST, order, quote, integrated, pricing, configuration, Additionally, insert, line, items, calculate, estimated, tax]
 ---
-
-# Place Sales Transaction (POST)
 
 > Create a sales transaction, such as an order or a quote, with
       integrated pricing and configuration. Additionally, update an order or a quote, and insert and

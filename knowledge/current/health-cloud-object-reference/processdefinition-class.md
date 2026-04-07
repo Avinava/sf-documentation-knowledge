@@ -5,12 +5,10 @@ topic: processdefinition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.896Z
+lastCollected: 2026-04-07T18:37:39.846Z
 estimatedTokens: 1030
 keywords: [ProcessDefinition, verification, process, definition, including, layoutType, processDetail]
 ---
-
-# ProcessDefinition Class
 
 > Contains the verification process definition, including the list of
       process details.

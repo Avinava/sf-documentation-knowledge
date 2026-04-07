@@ -5,12 +5,10 @@ topic: employment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.370Z
+lastCollected: 2026-04-07T18:39:06.460Z
 estimatedTokens: 1247
-keywords: [Employment, individual's, organization, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [Employment, individual's, organization, API, 62.0]
 ---
-
-# Employment
 
 > Represents the details of an individual's employment with an
          organization. This object is available in API version 62.0 and later.

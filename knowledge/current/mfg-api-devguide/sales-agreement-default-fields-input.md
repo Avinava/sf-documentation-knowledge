@@ -5,12 +5,10 @@ topic: sales-agreement-default-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.337Z
+lastCollected: 2026-04-07T18:38:12.628Z
 estimatedTokens: 197
-keywords: [Sales, Agreement, Input, representation]
+keywords: [Sales, Agreement]
 ---
-
-# Sales Agreement Default Fields Input
 
 > Input representation of default values for the sales agreement
             fields.

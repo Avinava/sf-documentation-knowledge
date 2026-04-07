@@ -5,12 +5,10 @@ topic: orderitemsummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.687Z
+lastCollected: 2026-04-07T18:39:51.094Z
 estimatedTokens: 389
-keywords: [OrderItemSummaryFeed, Feed, tracking, OrderItemSummary]
+keywords: [OrderItemSummaryFeed, OrderItemSummary]
 ---
-
-# OrderItemSummaryFeed
 
 > Feed tracking for OrderItemSummary.
 

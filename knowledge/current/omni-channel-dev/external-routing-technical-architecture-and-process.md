@@ -5,12 +5,10 @@ topic: external-routing-technical-architecture-and-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.341Z
+lastCollected: 2026-04-07T18:38:45.169Z
 estimatedTokens: 337
 keywords: [External, Routing, Technical, Architecture, Process, how, works, connect, Salesforce, implementation]
 ---
-
-# External Routing Technical Architecture and Process
 
 > See an overview of how external routing works to connect Salesforce with your
         external routing implementation.

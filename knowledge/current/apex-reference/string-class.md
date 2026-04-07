@@ -5,13 +5,11 @@ topic: string-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.412Z
+lastCollected: 2026-04-07T18:36:14.730Z
 estimatedTokens: 28787
 namespace: System
-keywords: [character, index, Usage, abbreviate, maxWidth, offset, capitalize, center, size, paddingString, charAt, codePointAt, codePointBefore, codePointCount, beginIndex]
+keywords: [character, index, abbreviate, maxWidth, offset, capitalize, center, size, paddingString, charAt, codePointAt, codePointBefore, codePointCount, beginIndex, endIndex, compareTo, secondString, substring, containsAny, inputString, containsIgnoreCase, containsNone, containsOnly, containsWhitespace, countMatches, deleteWhitespace, difference, endsWith, suffix, endsWithIgnoreCase, equals, stringOrId, equalsIgnoreCase, escapeCsv, escapeEcmaScript, escapeHtml3, escapeHtml4, escapeJava, escapeSingleQuotes, stringToEscape, escapeUnicode, escapeXml, stringToFormat, formattingArguments, Versioned, Behavior, Changes, fromCharArray, charArray, getChars, getCommonPrefix, strings, getLevenshteinDistance, stringToCompare, threshold, hashCode, indexOf, indexOfAny, indexOfAnyBut, indexOfChar, startIndex, indexOfDifference, indexOfIgnoreCase, startPosition, isAllLowerCase, isAllUpperCase, isAlpha, isAlphaSpace, isAlphanumeric, isAlphanumericSpace, isAsciiPrintable, isBlank, isEmpty, isNotBlank, isNotEmpty, isNumeric, isNumericSpace, isWhitespace, join, iterableObj, separator, lastIndexOf, endPosition, lastIndexOfChar, lastIndexOfIgnoreCase, left, length, leftPad, padStr, mid, normalizeSpace, offsetByCodePoints, codePointOffset, remove, removeEnd, removeEndIgnoreCase, removeStart, removeStartIgnoreCase, repeat, numberOfTimes]
 ---
-
-# String Class
 
 > Returns the value of the character at
 the specified index.

@@ -5,12 +5,10 @@ topic: apexmessages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.938Z
+lastCollected: 2026-04-07T18:38:50.180Z
 estimatedTokens: 586
-keywords: [apex, messages, were, generated, components, current, <apex, message>, messages>, component, included, error, shown, debug, log]
+keywords: [Attributes, apex, messages, were, generated, current, <apex, message>, messages>, included, error, shown, debug, log]
 ---
-
-# apex:messages
 
 > All messages that were generated for all components on the current page. If an <apex:message> or <apex:messages> component is not included in a page, most warning and error messages are only shown in the debug log.
 

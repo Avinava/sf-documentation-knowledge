@@ -5,12 +5,10 @@ topic: shiftstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.324Z
+lastCollected: 2026-04-07T18:40:02.036Z
 estimatedTokens: 300
-keywords: [ShiftStatus, shift, Tentative, Published, Confirmed, API, versions, 46.0, later]
+keywords: [ShiftStatus, shift, Tentative, Published, Confirmed, API, versions, 46.0]
 ---
-
-# ShiftStatus
 
 > Represents a shift, such as Tentative, Published, or Confirmed.
       Available in API versions 46.0 and later.

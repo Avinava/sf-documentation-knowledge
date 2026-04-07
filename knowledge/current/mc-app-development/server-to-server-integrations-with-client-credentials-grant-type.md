@@ -5,12 +5,10 @@ topic: server-to-server-integrations-with-client-credentials-grant-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.149Z
+lastCollected: 2026-04-07T18:40:21.428Z
 estimatedTokens: 535
-keywords: [Server-to-Server, Integrations, Client, Credentials, Grant, AppExchange, partners, can’t, upload, package, integration, web, app, uses, authorization]
+keywords: [Server-to-Server, Integrations, Client, Credentials, Grant, AppExchange, partners, can’t, upload, package, integration, web, app, uses, authorization, code, instead]
 ---
-
-# Server-to-Server Integrations with Client Credentials Grant Type
 
 > AppExchange partners can’t upload a package with a server-to-server integration to AppExchange. Create a integration as a web app or a public app, which uses the authorization code grant type instead of the client credentials grant type.
 

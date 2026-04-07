@@ -5,13 +5,11 @@ topic: reportdatacell-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.939Z
+lastCollected: 2026-04-07T18:36:03.148Z
 estimatedTokens: 331
 namespace: Reports
-keywords: [ReportDataCell, data, cell, report, including, display, label, getLabel, getValue]
+keywords: [ReportDataCell, cell, report, including, display, label, getLabel, getValue]
 ---
-
-# ReportDataCell Class
 
 > Contains the data for a cell in the report, including the
 display label and value.

@@ -5,13 +5,11 @@ topic: inboundemailtextattachment-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.360Z
+lastCollected: 2026-04-07T18:36:03.579Z
 estimatedTokens: 1277
 namespace: Messaging
-keywords: [InboundEmail.TextAttachment, InboundEmail, stores, text, attachments, Usage, bodyIsTruncated, charset, fileName, mimeTypeSubType]
+keywords: [InboundEmail.TextAttachment, InboundEmail, stores, text, attachments, bodyIsTruncated, charset, fileName, mimeTypeSubType]
 ---
-
-# InboundEmail.TextAttachment Class
 
 > An InboundEmail object stores text attachments in an InboundEmail.TextAttachment
 object.

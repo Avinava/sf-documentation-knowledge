@@ -5,12 +5,10 @@ topic: build-a-transaction-security-policy-with-condition-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.353Z
+lastCollected: 2026-04-07T18:39:22.243Z
 estimatedTokens: 1777
-keywords: [Build, Transaction, Security, Policy, Condition, Builder, writing, line, code, Real-Time, Event, Monitoring, gives, declarative, way]
+keywords: [Build, Transaction, Security, Policy, Condition, Builder, writing, line, code, Real-Time, Event, Monitoring, gives, declarative, way, customized, policies, protect]
 ---
-
-# Build a Transaction Security Policy with Condition Builder
 
 > Create a transaction security policy without writing a line of code. Condition Builder,
     available in Real-Time Event Monitoring, gives you a declarative way to create customized

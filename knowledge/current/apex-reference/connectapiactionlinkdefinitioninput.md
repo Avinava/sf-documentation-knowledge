@@ -5,12 +5,10 @@ topic: connectapiactionlinkdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.108Z
+lastCollected: 2026-04-07T18:36:04.327Z
 estimatedTokens: 1700
-keywords: [ConnectApi.ActionLinkDefinitionInput, definition, action, link, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke]
+keywords: [ConnectApi.ActionLinkDefinitionInput, definition, action, link, button, Clicking, take, user, Web, initiate, file, download, invoke, API, call, Salesforce, external, server, includes, URL, HTTP, include, OAuth, token, authentication, links, integrate, third-party, services, users, drive, productivity, accelerate, innovation]
 ---
-
-# ConnectApi.ActionLinkDefinitionInput
 
 > The definition of an action link. An action link is a button on a feed
       element. Clicking an action link can take a user to a Web page, initiate a file download, or

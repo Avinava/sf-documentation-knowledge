@@ -5,13 +5,11 @@ topic: leadconvert-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.068Z
+lastCollected: 2026-04-07T18:36:12.359Z
 estimatedTokens: 5217
 namespace: Database
-keywords: [LeadConvert, opportunity, lead, merged, updating, Usage, getAccountId, getAccountRecord, getBypassAccountDedupeCheck, getBypassContactDedupeCheck, getContactId, getContactRecord, getConvertedStatus, getLeadID, getOpportunityId]
+keywords: [LeadConvert, opportunity, lead, merged, updating, getAccountId, getAccountRecord, getBypassAccountDedupeCheck, getBypassContactDedupeCheck, getContactId, getContactRecord, getConvertedStatus, getLeadID, getOpportunityId, getOpportunityName, getOpportunityRecord, getOwnerID, getRelatedPersonAccountId, getRelatedPersonAccountRecord, isDoNotCreateOpportunity, isOverWriteLeadSource, isSendNotificationEmail, setAccountId, accountId, setAccountRecord, accountRecord, setBypassAccountDedupeCheck, bypassAccountDedupeCheck, setBypassContactDedupeCheck, bypassContactDedupeCheck, setContactId, contactId, setContactRecord, contactRecord, setConvertedStatus, status, setDoNotCreateOpportunity, createOpportunity, setLeadId, leadId, setOpportunityId, opportunityId, setOpportunityName, opportunityName, setOpportunityRecord, opportunityRecord, setOverwriteLeadSource, overwriteLeadSource, setOwnerId, ownerId, setRelatedPersonAccountId, relatedPersonAccountId, setSendNotificationEmail, sendEmail]
 ---
-
-# LeadConvert Class
 
 > Sets the ID of the opportunity into which the lead is merged.
                         This value is required only when updating an existing

@@ -5,12 +5,10 @@ topic: territoryaccountscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.018Z
+lastCollected: 2026-04-07T18:38:01.919Z
 estimatedTokens: 1215
-keywords: [TerritoryAccountScore, Stores, intelligent, provider, scores, help, users, better, recognize, top, accounts, their, territories, API, version]
+keywords: [TerritoryAccountScore, Stores, intelligent, provider, scores, help, users, better, recognize, top, accounts, their, territories, API, 65.0]
 ---
-
-# TerritoryAccountScore
 
 > Stores the intelligent provider scores to help users better recognize the top
          accounts in their territories. This object is available in API version 65.0 and later.

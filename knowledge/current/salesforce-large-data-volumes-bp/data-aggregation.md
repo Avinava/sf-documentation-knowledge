@@ -5,12 +5,10 @@ topic: data-aggregation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.171Z
+lastCollected: 2026-04-07T18:39:17.846Z
 estimatedTokens: 164
-keywords: [Data, Aggregation, customer, needed, aggregate, monthly, yearly, metrics, standard, reports, customer’s, were, stored, custom, objects]
+keywords: [Situation, Solution, Aggregation, customer, needed, aggregate, monthly, yearly, metrics, standard, reports, customer’s, were, stored, four, million, nine, records, respectively, aggregating, across, millions, two, obj]
 ---
-
-# Data Aggregation
 
 > The customer needed to aggregate monthly and yearly metrics using standard reports. The
     customer’s monthly and yearly details were stored in custom objects with four million and

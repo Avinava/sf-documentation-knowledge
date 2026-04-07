@@ -5,12 +5,10 @@ topic: tenantsecuritylicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.703Z
+lastCollected: 2026-04-07T18:38:42.442Z
 estimatedTokens: 1097
-keywords: [TenantSecurityLicense, Stores, license, usage, Security, Center, API, version, 59.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [TenantSecurityLicense, Stores, license, Security, Center, API, 59.0]
 ---
-
-# TenantSecurityLicense
 
 > Stores license usage information within Security Center. This object is
       available in API version 59.0 and later.

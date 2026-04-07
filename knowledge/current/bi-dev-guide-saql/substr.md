@@ -5,12 +5,10 @@ topic: substr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.249Z
+lastCollected: 2026-04-07T18:37:00.819Z
 estimatedTokens: 239
-keywords: [substr, substring, starts, position, specify, length, Usage]
+keywords: [substr, substring, starts, position, specify, length]
 ---
-
-# substr()
 
 > Returns a substring that starts at the specified position. You can also specify the
         length of the substring to return.

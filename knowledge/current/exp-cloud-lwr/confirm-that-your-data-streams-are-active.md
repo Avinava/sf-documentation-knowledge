@@ -5,12 +5,10 @@ topic: confirm-that-your-data-streams-are-active
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.938Z
+lastCollected: 2026-04-07T18:37:33.234Z
 estimatedTokens: 710
-keywords: [Confirm, Data, Streams, Active, connect, Experience, Cloud, site, connection, automatically, installed, space, selected, setup, connector]
+keywords: [Confirm, Streams, Active, connect, Experience, Cloud, site, connection, automatically, installed, space, selected, setup, connector]
 ---
-
-# Confirm That Your Data Streams Are Active
 
 > If you connect your Experience Cloud site to Data Cloud, the connection and data streams
   are automatically installed in the data space that you selected during setup. Confirm that streams

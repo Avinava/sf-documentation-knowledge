@@ -5,12 +5,10 @@ topic: dayinweekdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.329Z
+lastCollected: 2026-04-07T18:37:00.899Z
 estimatedTokens: 35
 keywords: [day_in_week, date, representing, day, week, specific, Sunday, Monday, _in, _week]
 ---
-
-# day_in_week(date)
 
 > Returns an integer representing the day of the week for a specific date. 1 = Sunday, 2 =
   Monday and so on.

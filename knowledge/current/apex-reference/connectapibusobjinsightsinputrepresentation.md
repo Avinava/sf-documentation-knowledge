@@ -5,12 +5,10 @@ topic: connectapibusobjinsightsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.370Z
+lastCollected: 2026-04-07T18:36:04.694Z
 estimatedTokens: 96
-keywords: [Insights, associated, business, objective, goal]
+keywords: [Insights, business, objective, goal]
 ---
-
-# ConnectApi.BusObjInsightsInputRepresentation
 
 > Insights associated with a business objective, or goal.
 

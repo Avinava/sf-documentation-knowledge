@@ -5,12 +5,10 @@ topic: get-started-with-consumer-goods-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:18.090Z
+lastCollected: 2026-04-07T18:39:11.691Z
 estimatedTokens: 2085
-keywords: [Started, Consumer, Goods, Cloud, Streamline, customer, relationships, grow, business, initiate, intelligent, sales, Salesforce, product, collaborate]
+keywords: [Started, Consumer, Goods, Cloud, Streamline, customer, relationships, grow, business, initiate, intelligent, sales, Salesforce, product, collaborate, customers, deliver, brand, promises, Retail, Execution, Trade, Promotion, Management]
 ---
-
-# Get Started with Consumer Goods Cloud
 
 > Streamline customer relationships, grow your business, and initiate intelligent sales
         with Salesforce Consumer Goods Cloud product. It allows you to collaborate with your

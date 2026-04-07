@@ -5,12 +5,10 @@ topic: error-handling-with-promises
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.578Z
+lastCollected: 2026-04-07T18:36:49.730Z
 estimatedTokens: 151
-keywords: [Error, Handling, Promises, simplify, code, handles, success, failure, asynchronous, calls, catch, promise, calling, API]
+keywords: [Error, Handling, Promises, simplify, code, handles, success, failure, asynchronous, catch, promise, calling, API]
 ---
-
-# Error Handling with Promises
 
 > Promises can simplify code that handles the success or failure of asynchronous calls. To
   use error handling with promises, use the catch() method on

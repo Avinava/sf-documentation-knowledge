@@ -5,12 +5,10 @@ topic: recruitmentrequisitionloc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.376Z
+lastCollected: 2026-04-07T18:39:07.596Z
 estimatedTokens: 798
-keywords: [RecruitmentRequisitionLoc, junction, recruitment, requisition, location, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [RecruitmentRequisitionLoc, junction, recruitment, requisition, location, API, 62.0]
 ---
-
-# RecruitmentRequisitionLoc
 
 > Represents a junction between recruitment requisition and
          location This object is available in API version 62.0 and later.

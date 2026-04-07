@@ -5,12 +5,10 @@ topic: attributecategoryoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.114Z
+lastCollected: 2026-04-07T18:35:40.984Z
 estimatedTokens: 1264
-keywords: [AttributeCategoryOutputRepresentation, Stores, attribute, code, usage, records, status, totalSize, usageType]
+keywords: [AttributeCategoryOutputRepresentation, Stores, attribute, code, records, status, totalSize, usageType]
 ---
-
-# AttributeCategoryOutputRepresentation Class
 
 > Stores details of an attribute such as code, description, usage type, and so
     on.

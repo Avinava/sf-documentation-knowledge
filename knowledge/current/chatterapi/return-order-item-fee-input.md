@@ -5,12 +5,10 @@ topic: return-order-item-fee-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.339Z
+lastCollected: 2026-04-07T18:37:10.042Z
 estimatedTokens: 426
-keywords: [Order, Item, Fee, Input, ReturnOrderLineItem, representing, instructions, updating, read-only, Any, remaining, quantity, processed, added, new]
+keywords: [Order, Item, Fee, ReturnOrderLineItem, representing, instructions, updating, read-only, Any, remaining, quantity, processed, added, new]
 ---
-
-# Return Order Item Fee Input
 
 > ID of a ReturnOrderLineItem representing a return fee, and
       instructions for updating it. After the update, the ReturnOrderLineItem is read-only. Any

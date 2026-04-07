@@ -5,12 +5,10 @@ topic: package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.726Z
+lastCollected: 2026-04-07T18:36:28.265Z
 estimatedTokens: 1095
-keywords: [Package, metadata, components, retrieve, part, call, PackageTypeMembers, Wildcard, Support, Manifest, File]
+keywords: [Package, PackageTypeMembers, metadata, retrieve, part, call, Wildcard, Support, Manifest, File]
 ---
-
-# Package
 
 > Specifies which metadata components to retrieve as part of a
     retrieve() call or defines a package of components.

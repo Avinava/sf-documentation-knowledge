@@ -5,12 +5,10 @@ topic: rest-resources-and-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.963Z
+lastCollected: 2026-04-07T18:36:20.177Z
 estimatedTokens: 1522
-keywords: [REST, Resources, Requests, API, usage, resources—pieces, data, Salesforce, records, collections, query, results, metadata, resource, exposed]
+keywords: [URIs, REST, Resources, Requests, API, resources—pieces, Salesforce, records, collections, query, results, metadata, resource, exposed, uniform, identifier, URI, accessed, sending, HTTP, corresponding, Bodies]
 ---
-
-# REST Resources and Requests
 
 > REST API is based on the usage of resources—pieces
 			of data in Salesforce, such as records, collections of records, query results, metadata,

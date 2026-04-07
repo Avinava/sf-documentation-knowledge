@@ -5,12 +5,10 @@ topic: set-up-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.681Z
+lastCollected: 2026-04-07T18:40:13.606Z
 estimatedTokens: 349
 keywords: [Authentication, Salesforce, app, telephony, provider]
 ---
-
-# Set Up Authentication
 
 > Set up authentication between the Salesforce app and the telephony provider.
 

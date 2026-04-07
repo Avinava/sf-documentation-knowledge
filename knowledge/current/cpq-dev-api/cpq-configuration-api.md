@@ -5,12 +5,10 @@ topic: cpq-configuration-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.217Z
+lastCollected: 2026-04-07T18:37:27.223Z
 estimatedTokens: 310
 keywords: [CPQ, Configuration, API, Salesforce, configure, price, product, bundles]
 ---
-
-# CPQ Configuration API
 
 > Use the Salesforce CPQ Configuration API to configure and price product
   bundles.

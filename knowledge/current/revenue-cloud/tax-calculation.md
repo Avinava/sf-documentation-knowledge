@@ -5,12 +5,10 @@ topic: tax-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.359Z
+lastCollected: 2026-04-07T18:35:45.333Z
 estimatedTokens: 654
-keywords: [Tax, Calculation, Output, representation, calculated]
+keywords: [Tax, Calculation, calculated]
 ---
-
-# Tax Calculation
 
 > Output representation of the details of the calculated tax.
 

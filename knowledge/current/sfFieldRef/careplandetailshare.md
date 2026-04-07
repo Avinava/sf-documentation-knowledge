@@ -5,12 +5,10 @@ topic: careplandetailshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.742Z
+lastCollected: 2026-04-07T18:39:32.107Z
 estimatedTokens: 250
 keywords: [CarePlanDetailShare, Sharing, CarePlanDetail]
 ---
-
-# CarePlanDetailShare
 
 > Sharing for CarePlanDetail.
 

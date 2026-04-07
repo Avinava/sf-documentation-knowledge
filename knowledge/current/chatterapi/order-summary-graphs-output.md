@@ -5,12 +5,10 @@ topic: order-summary-graphs-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:34.354Z
+lastCollected: 2026-04-07T18:37:21.481Z
 estimatedTokens: 325
-keywords: [Order, Summary, Graphs, Output, creating, pending, summaries]
+keywords: [Order, Summary, Graphs, creating, pending, summaries]
 ---
-
-# Order Summary Graphs Output
 
 > Response from creating pending order summaries.
 

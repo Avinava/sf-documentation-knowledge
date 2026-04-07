@@ -5,12 +5,10 @@ topic: opportunitylineitemschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.152Z
+lastCollected: 2026-04-07T18:39:50.573Z
 estimatedTokens: 355
 keywords: [OpportunityLineItemSchedule, quantity, revenue, distribution, delivery, dates, particular, OpportunityLineItem]
 ---
-
-# OpportunityLineItemSchedule
 
 > Represents information about the quantity, revenue distribution, and
 			delivery dates for a particular

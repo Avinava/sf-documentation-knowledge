@@ -5,12 +5,10 @@ topic: workflowtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.483Z
+lastCollected: 2026-04-07T18:36:34.939Z
 estimatedTokens: 584
-keywords: [WorkflowTask, workflow, task, fire, off, specific, action, criteria, met, Includes, access, associated, WorkflowRule, Salesforce, Metadata]
+keywords: [WorkflowTask, workflow, task, fire, off, specific, action, criteria, met, Includes, WorkflowRule, Salesforce, Metadata, API, SOAP, REST, HTTP]
 ---
-
-# WorkflowTask
 
 > Represents a workflow task that is used to fire off a specific workflow
    action when the specified criteria is met. Includes access to the associated WorkflowRule object

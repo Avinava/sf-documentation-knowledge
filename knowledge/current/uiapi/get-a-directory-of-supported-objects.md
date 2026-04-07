@@ -5,12 +5,10 @@ topic: get-a-directory-of-supported-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.202Z
+lastCollected: 2026-04-07T18:40:11.191Z
 estimatedTokens: 251
-keywords: [Directory, Objects, User, API, accessible, context, includes, ui-api, object-info, objectApiName, resource]
+keywords: [Directory, User, API, accessible, context, includes, ui-api, object-info, objectApiName, resource]
 ---
-
-# Get a Directory of Supported Objects
 
 > Get a directory of objects that are supported by User Interface API and accessible to the context
       user. The directory includes a /ui-api/object-info/{objectApiName} resource for each supported

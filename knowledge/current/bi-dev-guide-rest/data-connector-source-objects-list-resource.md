@@ -5,12 +5,10 @@ topic: data-connector-source-objects-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.552Z
+lastCollected: 2026-04-07T18:36:56.049Z
 estimatedTokens: 296
-keywords: [Data, Connector, Source, Objects, Resource, present, under, Analytics, connection]
+keywords: [Connector, Source, Resource, present, under, Analytics, connection]
 ---
-
-# Data Connector Source Objects List Resource
 
 > Returns a list of all the source objects that are present under the
       specified Analytics connection.

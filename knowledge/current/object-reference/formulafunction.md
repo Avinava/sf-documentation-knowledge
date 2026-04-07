@@ -5,12 +5,10 @@ topic: formulafunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.068Z
+lastCollected: 2026-04-07T18:38:33.142Z
 estimatedTokens: 606
-keywords: [FormulaFunction, function, building, formula, including, examples, uses, API, version, 47.0, later, Calls, Usage]
+keywords: [FormulaFunction, function, building, formula, including, examples, uses, API, 47.0]
 ---
-
-# FormulaFunction
 
 > Represents a function used when building a formula, including examples and
 			uses. This object is available in API version 47.0 and later.

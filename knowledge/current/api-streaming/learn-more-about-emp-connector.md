@@ -5,12 +5,10 @@ topic: learn-more-about-emp-connector
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.024Z
+lastCollected: 2026-04-07T18:36:51.338Z
 estimatedTokens: 549
-keywords: [EMP, Connector, Let’s, take, closer, look, components, Authenticating, Listening, Events, Subscribing, Channel, Debug, Logging]
+keywords: [Authenticating, EMP, Connector, Let’s, take, closer, look, Listening, Events, Subscribing, Channel, Debug, Logging]
 ---
-
-# Learn More About EMP Connector
 
 > Let’s take a closer look at the components of EMP Connector.
 

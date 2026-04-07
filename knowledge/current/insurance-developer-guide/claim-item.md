@@ -5,12 +5,10 @@ topic: claim-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.955Z
+lastCollected: 2026-04-07T18:37:52.036Z
 estimatedTokens: 302
-keywords: [Claim, Item, Output, representation]
+keywords: [Claim, Item]
 ---
-
-# Claim Item
 
 > Output representation for the details of a claim item.
 

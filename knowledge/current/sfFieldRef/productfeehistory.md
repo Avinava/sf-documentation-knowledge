@@ -5,12 +5,10 @@ topic: productfeehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.203Z
+lastCollected: 2026-04-07T18:39:55.777Z
 estimatedTokens: 257
-keywords: [ProductFeeHistory, History, tracked, ProductFee]
+keywords: [ProductFeeHistory, tracked, ProductFee]
 ---
-
-# ProductFeeHistory
 
 > History for tracked fields of ProductFee.
 

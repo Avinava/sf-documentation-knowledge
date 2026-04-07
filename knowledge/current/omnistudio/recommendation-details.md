@@ -5,12 +5,10 @@ topic: recommendation-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:54.547Z
+lastCollected: 2026-04-07T18:36:40.298Z
 estimatedTokens: 351
 keywords: [Recommendation]
 ---
-
-# Recommendation Details
 
 > Specifies the recommendation details returned by the recommendation
       request.

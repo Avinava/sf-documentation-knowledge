@@ -5,12 +5,10 @@ topic: commerce-webstore-promotions-evaluate-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.748Z
+lastCollected: 2026-04-07T18:37:12.638Z
 estimatedTokens: 730
-keywords: [Commerce, Webstore, Promotions, Evaluate, Action, Determine, customer, eligible, store, buyer, group, compute, applicable, price, adjustments]
+keywords: [Commerce, Webstore, Promotions, Evaluate, Action, Determine, customer, eligible, store, buyer, group, compute, applicable, price, adjustments, coupons, items, cart, API, evaluates, active, manual, automatic, priority, computes, apply, webcart, record, want, enable, shipping, contact, Salesforce, Support]
 ---
-
-# Commerce Webstore Promotions, Evaluate Action
 
 > Determine which promotions the customer is eligible for based on the
       store and buyer group, and compute the applicable price adjustments based on the coupons and

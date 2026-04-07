@@ -5,12 +5,10 @@ topic: support-for-json-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.228Z
+lastCollected: 2026-04-07T18:40:09.175Z
 estimatedTokens: 1070
-keywords: [Support, JSON, Responses, Salesforce, CLI, commands, typically, display, their, output, terminal, command, prompt, stdout, non-structured]
+keywords: [Support, JSON, Responses, Salesforce, CLI, commands, typically, display, their, terminal, command, prompt, stdout, non-structured, human-readable, Messages, written, log, file, stderr, always, Change, Policy, Schema, Files]
 ---
-
-# Support for JSON Responses
 
 > Salesforce CLI commands typically display their output to the terminal or command prompt
       (stdout) in non-structured, human-readable format.

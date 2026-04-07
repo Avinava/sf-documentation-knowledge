@@ -5,12 +5,10 @@ topic: show-pre-chat-fields-to-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:33.022Z
+lastCollected: 2026-04-07T18:40:28.158Z
 estimatedTokens: 2638
 keywords: [Show, Pre-Chat, User, chat, session, begins, enter, sent, agent, start]
 ---
-
-# Show Pre-Chat Fields to User
 
 > Before a chat session begins, you can request that the
             user enter pre-chat fields that are sent to the agent at the start of the

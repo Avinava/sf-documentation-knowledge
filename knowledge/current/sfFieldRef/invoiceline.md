@@ -5,12 +5,10 @@ topic: invoiceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.181Z
+lastCollected: 2026-04-07T18:39:45.751Z
 estimatedTokens: 1081
-keywords: [InvoiceLine, amount, buyer, pay, product, service, fee, Invoice, lines, created, order, line, API, version, 48.0]
+keywords: [InvoiceLine, amount, buyer, pay, product, service, fee, Invoice, lines, created, order, line, API, 48.0]
 ---
-
-# InvoiceLine
 
 > Represents the amount that a buyer must pay for a product, service, or fee.
       Invoice lines are created based on the amount of an order line. This object is available

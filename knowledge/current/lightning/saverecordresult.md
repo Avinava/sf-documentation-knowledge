@@ -5,12 +5,10 @@ topic: saverecordresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.820Z
+lastCollected: 2026-04-07T18:38:03.908Z
 estimatedTokens: 352
-keywords: [SaveRecordResult, result, Lightning, Data, Service, operation, persistent, change, record]
+keywords: [SaveRecordResult, result, Lightning, Service, operation, persistent, change, record]
 ---
-
-# SaveRecordResult
 
 > Represents the result of a Lightning Data Service operation that makes a persistent
     change to record data.

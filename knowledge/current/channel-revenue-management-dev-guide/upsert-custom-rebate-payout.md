@@ -5,12 +5,10 @@ topic: upsert-custom-rebate-payout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.364Z
+lastCollected: 2026-04-07T18:37:06.059Z
 estimatedTokens: 389
-keywords: [Upsert, Custom, Rebate, Payout, calculated, aggregate, record, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Upsert, Rebate, Payout, calculated, aggregate, record, REST, HTTP]
 ---
-
-# Upsert Custom Rebate Payout
 
 > Upsert the custom calculated rebate payout for a specified aggregate
          record.

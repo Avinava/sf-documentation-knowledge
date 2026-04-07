@@ -5,12 +5,10 @@ topic: integrate-gamification-mobile-ios-sdk-into-loyalty-management-mobile-ios-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.237Z
+lastCollected: 2026-04-07T18:38:08.505Z
 estimatedTokens: 279
 keywords: [Integrate, Gamification, Mobile, iOS, SDK, Loyalty, Management, Import, adding, external, dependency]
 ---
-
-# Integrate Gamification Mobile iOS SDK into Loyalty Management Mobile iOS SDK
 
 > Import the Gamification Mobile iOS SDK into the existing Loyalty Management Mobile iOS
     SDK by adding it as an external dependency.

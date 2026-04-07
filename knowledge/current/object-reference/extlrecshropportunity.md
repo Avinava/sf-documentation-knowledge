@@ -5,12 +5,10 @@ topic: extlrecshropportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.195Z
+lastCollected: 2026-04-07T18:38:32.158Z
 estimatedTokens: 425
-keywords: [ExtlRecShrOpportunity, opportunity, Partner, Connect, vendor, org, you’re, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [ExtlRecShrOpportunity, opportunity, Partner, Connect, vendor, org, you’re, API, 62.0]
 ---
-
-# ExtlRecShrOpportunity
 
 > Represents the opportunity for Partner Connect in the vendor org if
          you’re a partner and the partner org if you’re the vendor. This object is available in

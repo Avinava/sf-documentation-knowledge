@@ -5,12 +5,10 @@ topic: related-list-record-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.166Z
+lastCollected: 2026-04-07T18:40:12.172Z
 estimatedTokens: 164
 keywords: [Record, Count, number, records]
 ---
-
-# Related List Record Count
 
 > The number of records in a given related list.
 

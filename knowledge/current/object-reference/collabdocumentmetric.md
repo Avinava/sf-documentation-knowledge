@@ -5,12 +5,10 @@ topic: collabdocumentmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.981Z
+lastCollected: 2026-04-07T18:38:27.907Z
 estimatedTokens: 517
-keywords: [CollabDocumentMetric, engagement, metrics, Quip, thread, document, spreadsheet, that’s, linked, Salesforce, record, API, version, 50.0, later]
+keywords: [CollabDocumentMetric, engagement, metrics, Quip, thread, document, spreadsheet, that’s, linked, Salesforce, record, API, 50.0]
 ---
-
-# CollabDocumentMetric
 
 > Represents the engagement metrics for a Quip thread (document or
          spreadsheet) that’s linked to a Salesforce record. This object is available in API

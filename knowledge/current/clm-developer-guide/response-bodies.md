@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.582Z
+lastCollected: 2026-04-07T18:37:24.585Z
 estimatedTokens: 2691
 keywords: [Bodies, Here’s, Salesforce, Contracts]
 ---
-
-# Response Bodies
 
 > Here’s a list of Salesforce Contracts response bodies.
 

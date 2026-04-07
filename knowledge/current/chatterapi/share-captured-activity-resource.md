@@ -5,12 +5,10 @@ topic: share-captured-activity-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.787Z
+lastCollected: 2026-04-07T18:37:15.847Z
 estimatedTokens: 271
-keywords: [Share, Captured, Activity, Resource, email, event, Automated, Capture, feature, Sales, Cloud, Einstein, Inbox, everyone, selected]
+keywords: [Share, Captured, Activity, Resource, email, event, Automated, Capture, feature, Sales, Cloud, Einstein, Inbox, everyone, selected, groups]
 ---
-
-# Share Captured Activity Resource
 
 > Share an email or event that was captured by Automated Activity
    Capture, which is a feature of Sales Cloud Einstein and Inbox. You can share with no one,

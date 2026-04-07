@@ -5,12 +5,10 @@ topic: borrower-declaration-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.355Z
+lastCollected: 2026-04-07T18:37:34.949Z
 estimatedTokens: 1184
-keywords: [Borrower, Declaration, Output, financial, issues, foreclosure, lawsuits, defaults, applicant, co-applicant]
+keywords: [Borrower, Declaration, financial, issues, foreclosure, lawsuits, defaults, applicant, co-applicant]
 ---
-
-# Borrower Declaration Output
 
 > Represents financial issues like foreclosure, lawsuits, or defaults
       of the applicant or co-applicant.

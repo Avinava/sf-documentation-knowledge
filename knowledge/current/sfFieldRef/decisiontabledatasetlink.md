@@ -5,13 +5,11 @@ topic: decisiontabledatasetlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.025Z
+lastCollected: 2026-04-07T18:39:37.712Z
 estimatedTokens: 341
 namespace: NamespacePrefix
-keywords: [DecisionTableDatasetLink, dataset, link, associated, decision, links, select, multiple, source, objects, whose, evaluate, provide, outcomes]
+keywords: [DecisionTableDatasetLink, dataset, link, decision, links, select, multiple, source, whose, evaluate, provide, outcomes]
 ---
-
-# DecisionTableDatasetLink
 
 > Represents a dataset link associated with a decision table. Use dataset links
          in a decision table to select multiple source objects whose field values the decision table

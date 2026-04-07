@@ -5,12 +5,10 @@ topic: create-care-plan-task
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.140Z
+lastCollected: 2026-04-07T18:38:20.902Z
 estimatedTokens: 106
-keywords: [Care, Plan, Task, Output, representation]
+keywords: [Care, Plan, Task]
 ---
-
-# Create Care Plan Task
 
 > Output representation of the request to create a care plan
   task.

@@ -5,12 +5,10 @@ topic: user-interface-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:15.601Z
+lastCollected: 2026-04-07T18:40:10.575Z
 estimatedTokens: 72
 keywords: [User, API, Release, Notes, include, updates, bodies, resources]
 ---
-
-# User Interface API Release Notes
 
 > The API release notes include updates to the request bodies,
       response bodies, and resources.

@@ -5,12 +5,10 @@ topic: datamaskcustomvaluelibrary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.685Z
+lastCollected: 2026-04-07T18:39:37.327Z
 estimatedTokens: 398
-keywords: [DataMaskCustomValueLibrary, user-inputted, custom, library, Data, Mask, API, version, 64.0, later]
+keywords: [DataMaskCustomValueLibrary, user-inputted, library, Mask, API, 64.0]
 ---
-
-# DataMaskCustomValueLibrary
 
 > Represents a set of user-inputted values in a custom library in Data
          Mask. This object is available in API version 64.0 and later.

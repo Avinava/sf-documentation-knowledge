@@ -5,12 +5,10 @@ topic: drsavestripecustomer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.044Z
+lastCollected: 2026-04-07T18:38:11.315Z
 estimatedTokens: 102
-keywords: [DRsaveStripeCustomer, Omnistudio, Data, Mapper, saves, payment, Salesforce, org, Sample, Input, Output]
+keywords: [DRsaveStripeCustomer, Omnistudio, Mapper, saves, payment, Salesforce, org, Sample]
 ---
-
-# DRsaveStripeCustomer
 
 > This Omnistudio Data Mapper saves a payment method in the Salesforce org.
 

@@ -5,12 +5,10 @@ topic: feed-elements-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.889Z
+lastCollected: 2026-04-07T18:37:13.852Z
 estimatedTokens: 1708
-keywords: [Feed, Elements, Resources, Access, edit, post, search, element’s, capabilities, including, bundles, their]
+keywords: [Resources, edit, post, search, element’s, capabilities, including, bundles, their]
 ---
-
-# Feed Elements Resources
 
 > Information about feed elements. Access, edit, post, search, and delete feed
         elements. Access a feed element’s capabilities, including bundles and their feed

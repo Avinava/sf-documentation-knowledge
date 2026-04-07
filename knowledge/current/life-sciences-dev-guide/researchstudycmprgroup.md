@@ -5,12 +5,10 @@ topic: researchstudycmprgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.892Z
+lastCollected: 2026-04-07T18:38:01.780Z
 estimatedTokens: 819
-keywords: [ResearchStudyCmprGroup, research, study, comparison, group, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [ResearchStudyCmprGroup, research, study, comparison, group, API, 61.0]
 ---
-
-# ResearchStudyCmprGroup
 
 > Represents the details of a research study comparison group. This object
       is available in API version 61.0 and later.

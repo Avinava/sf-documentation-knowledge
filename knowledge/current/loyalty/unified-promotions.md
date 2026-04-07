@@ -5,12 +5,10 @@ topic: unified-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.094Z
+lastCollected: 2026-04-07T18:38:08.352Z
 estimatedTokens: 547
-keywords: [Unified, Promotions, Output, representation, promotion]
+keywords: [Unified, Promotions, promotion]
 ---
-
-# Unified Promotions
 
 > Output representation of the promotion details.
 

@@ -5,12 +5,10 @@ topic: adderrorhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.480Z
+lastCollected: 2026-04-07T18:38:03.500Z
 estimatedTokens: 156
-keywords: [addErrorHandler, Mounts, error, handling, function, messaging, framework, encounters, Sample, Arguments]
+keywords: [Sample, Arguments, addErrorHandler, Mounts, error, handling, function, messaging, framework, encounters]
 ---
-
-# addErrorHandler()
 
 > Mounts an error handling function, to be called when the messaging framework encounters
   an error.

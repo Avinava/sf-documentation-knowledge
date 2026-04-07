@@ -5,12 +5,10 @@ topic: blngbalancesnapshotrunc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.940Z
+lastCollected: 2026-04-07T18:37:03.475Z
 estimatedTokens: 537
-keywords: [blng__BalanceSnapShotRun__c, analysis, account's, invoices, scheduled, basis, past-due, balances, blng, _BalanceSnapShotRun, Calls]
+keywords: [blng__BalanceSnapShotRun__c, analysis, account's, invoices, scheduled, basis, past-due, balances, blng, _BalanceSnapShotRun]
 ---
-
-# blng__BalanceSnapShotRun__c
 
 > Represents the analysis of an account's invoices on a scheduled basis for
          past-due balances.

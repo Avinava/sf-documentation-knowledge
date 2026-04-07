@@ -5,12 +5,10 @@ topic: productcategoryproducthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.875Z
+lastCollected: 2026-04-07T18:39:55.443Z
 estimatedTokens: 273
-keywords: [ProductCategoryProductHistory, History, tracked, ProductCategoryProduct]
+keywords: [ProductCategoryProductHistory, tracked, ProductCategoryProduct]
 ---
-
-# ProductCategoryProductHistory
 
 > History for tracked fields of ProductCategoryProduct.
 

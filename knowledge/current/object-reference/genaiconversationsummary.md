@@ -5,12 +5,10 @@ topic: genaiconversationsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.216Z
+lastCollected: 2026-04-07T18:38:33.321Z
 estimatedTokens: 1056
-keywords: [GenAIConversationSummary, generated, summary, voice, video, call, API, version, 60.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [GenAIConversationSummary, generated, summary, voice, video, call, API, 60.0]
 ---
-
-# GenAIConversationSummary
 
 > Represents a generated summary of a voice or video call. This object is
       available in API version 60.0 and later.

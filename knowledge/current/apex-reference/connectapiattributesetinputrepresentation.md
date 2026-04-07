@@ -5,12 +5,10 @@ topic: connectapiattributesetinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.761Z
+lastCollected: 2026-04-07T18:36:06.117Z
 estimatedTokens: 134
-keywords: [Attribute, input]
+keywords: [Attribute]
 ---
-
-# ConnectApi.AttributeSetInputRepresentation
 
 > Attribute set information input.
 

@@ -5,12 +5,10 @@ topic: actionablelistdeffltrcond
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.139Z
+lastCollected: 2026-04-07T18:36:43.869Z
 estimatedTokens: 1330
-keywords: [ActionableListDefFltrCond, filter, condition, including, excluding, data, dataset, associated, actionable, definition, API, version, 60.0, later, Calls]
+keywords: [ActionableListDefFltrCond, filter, condition, including, excluding, dataset, actionable, definition, API, 60.0]
 ---
-
-# ActionableListDefFltrCond
 
 > Represents the filter condition for including or excluding data from the
          dataset associated with the actionable list definition. This object is available in

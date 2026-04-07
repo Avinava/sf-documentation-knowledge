@@ -5,12 +5,10 @@ topic: agentconfigresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.569Z
+lastCollected: 2026-04-07T18:39:23.506Z
 estimatedTokens: 239
-keywords: [AgentConfigResult, result, getting, rep, phone, configuration, Functions, Objects, Referenced]
+keywords: [AgentConfigResult, result, getting, rep, phone, configuration, Functions, Referenced]
 ---
-
-# AgentConfigResult
 
 > Represents the result when getting rep phone
         configuration information.

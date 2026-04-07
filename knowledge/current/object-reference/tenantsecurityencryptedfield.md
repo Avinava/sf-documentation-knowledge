@@ -5,12 +5,10 @@ topic: tenantsecurityencryptedfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.625Z
+lastCollected: 2026-04-07T18:38:42.372Z
 estimatedTokens: 517
-keywords: [TenantSecurityEncryptedField, encrypted, under, Shield, Platform, Encryption, policy, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [TenantSecurityEncryptedField, encrypted, under, Shield, Platform, Encryption, policy, API, 61.0]
 ---
-
-# TenantSecurityEncryptedField
 
 > Represents fields encrypted under your Shield Platform Encryption
          policy. This object is available in API version 61.0 and later.

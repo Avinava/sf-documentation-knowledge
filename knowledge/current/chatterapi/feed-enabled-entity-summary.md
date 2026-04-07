@@ -5,12 +5,10 @@ topic: feed-enabled-entity-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.945Z
+lastCollected: 2026-04-07T18:37:19.042Z
 estimatedTokens: 178
-keywords: [Feed, Enabled, Entity, Summary, feeds, associated]
+keywords: [Enabled, Entity, Summary, feeds]
 ---
-
-# Feed Enabled Entity Summary
 
 > An entity that can have feeds associated with it.
 

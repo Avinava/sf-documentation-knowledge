@@ -5,12 +5,10 @@ topic: territoryacctrcmdaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.039Z
+lastCollected: 2026-04-07T18:38:01.941Z
 estimatedTokens: 1379
-keywords: [TerritoryAcctRcmdAction, recommended, engagement, actions, account, territory, level, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [TerritoryAcctRcmdAction, recommended, engagement, actions, account, territory, level, API, 65.0]
 ---
-
-# TerritoryAcctRcmdAction
 
 > Represents the recommended engagement actions for the account at territory
          level. This object is available in API version 65.0 and later.

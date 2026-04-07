@@ -5,12 +5,10 @@ topic: configurator-product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.514Z
+lastCollected: 2026-04-07T18:35:45.526Z
 estimatedTokens: 324
-keywords: [Configurator, Product, Component, Group, Output, representation, classification]
+keywords: [Configurator, Product, Group, classification]
 ---
-
-# Configurator Product Component Group
 
 > Output representation of the product component group in a product
     classification.

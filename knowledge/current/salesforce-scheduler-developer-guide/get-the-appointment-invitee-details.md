@@ -5,12 +5,10 @@ topic: get-the-appointment-invitee-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.288Z
+lastCollected: 2026-04-07T18:39:21.098Z
 estimatedTokens: 474
-keywords: [Appointment, Invitee, participant, resources, creating, invitation, URL, Query, run, Salesforce, Language, SOQL, AppointmentInvitee, retrieve, service]
+keywords: [Appointment, Invitee, participant, resources, creating, invitation, URL, Query, run, Salesforce, Language, SOQL, AppointmentInvitee, retrieve, service, territory, topic, resource, booking, start, end, dates, retrieving, calendar, availability, additional, whether, primary]
 ---
-
-# Get the Appointment Invitee Details
 
 > An appointment invitee has information about the participant and the
       resources required for creating an appointment invitation URL. Use the Query() request to run Salesforce Query Language (SOQL) on the

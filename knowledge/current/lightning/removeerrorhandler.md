@@ -5,12 +5,10 @@ topic: removeerrorhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.495Z
+lastCollected: 2026-04-07T18:38:03.528Z
 estimatedTokens: 171
-keywords: [removeErrorHandler, Unmounts, error, handling, function, Sample, Arguments]
+keywords: [Sample, Arguments, removeErrorHandler, Unmounts, error, handling, function]
 ---
-
-# removeErrorHandler()
 
 > Unmounts the error handling function.
 

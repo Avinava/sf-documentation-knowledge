@@ -5,12 +5,10 @@ topic: fulfillmentlinerel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:46.918Z
+lastCollected: 2026-04-07T18:39:41.541Z
 estimatedTokens: 407
-keywords: [FulfillmentLineRel, relationship, two, fulfillment, order, lines, API, version, 61.0, later]
+keywords: [FulfillmentLineRel, relationship, two, fulfillment, order, lines, API, 61.0]
 ---
-
-# FulfillmentLineRel
 
 > Represents a relationship between two fulfillment order lines.
       This object is available in API version 61.0 and later.

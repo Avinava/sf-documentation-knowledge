@@ -5,12 +5,10 @@ topic: link-a-namespace-to-a-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.234Z
+lastCollected: 2026-04-07T18:40:08.189Z
 estimatedTokens: 670
 keywords: [Link, Dev, Hub, Org, scratch, Developer, Edition, registered]
 ---
-
-# Link a Namespace to a Dev Hub Org
 
 > To use a namespace with a scratch org, you must link the Developer Edition org where the
   namespace is registered to a Dev Hub org.

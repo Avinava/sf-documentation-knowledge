@@ -5,12 +5,10 @@ topic: waitlist-check-ins
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.424Z
+lastCollected: 2026-04-07T18:37:15.478Z
 estimatedTokens: 393
 keywords: [Waitlist, Check, Ins, register, participant, arrives, service, territory, drop-in, appointment]
 ---
-
-# Waitlist Check Ins
 
 > Check in or register a participant to a waitlist who arrives at the
       service territory for a drop-in appointment.

@@ -5,12 +5,10 @@ topic: connectapicartitempromotioncollectionoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.290Z
+lastCollected: 2026-04-07T18:36:07.662Z
 estimatedTokens: 92
 keywords: [Promotions, items, cart]
 ---
-
-# ConnectApi.CartItemPromotionCollectionOutputRepresentation
 
 > Promotions for the items in a cart.
 

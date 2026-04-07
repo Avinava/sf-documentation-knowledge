@@ -5,12 +5,10 @@ topic: submit-component-sfdevopssubmitcomponentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.655Z
+lastCollected: 2026-04-07T18:37:28.727Z
 estimatedTokens: 929
-keywords: [Submit, Component, sf_devops__Submit_Component__c, metadata, committed, feature, branch, source, control, repository, commit, initiated, two, ways, either]
+keywords: [Submit, sf_devops__Submit_Component__c, metadata, committed, feature, branch, source, control, repository, commit, initiated, two, ways, either, DevOps, Center, directly, that’s, part, deployed, environment, uses, model, child, Change, Submission, orgs, installed, _devops, _Submit, _Component]
 ---
-
-# Submit Component (sf_devops__Submit_Component__c)
 
 > Represents a metadata component that was committed to a feature
          branch in the source control repository. The commit can be initiated in one of two ways,

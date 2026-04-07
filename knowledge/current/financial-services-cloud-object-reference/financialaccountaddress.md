@@ -5,12 +5,10 @@ topic: financialaccountaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.000Z
+lastCollected: 2026-04-07T18:37:35.670Z
 estimatedTokens: 1537
-keywords: [FinancialAccountAddress, address, financial, account, communication, billing, statement, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [FinancialAccountAddress, address, financial, account, communication, billing, statement, API, 61.0]
 ---
-
-# FinancialAccountAddress
 
 > Represents information about each address related to a financial account,
          such as communication address, billing address, and statement address. This object is

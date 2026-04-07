@@ -5,12 +5,10 @@ topic: messagingconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.729Z
+lastCollected: 2026-04-07T18:40:17.912Z
 estimatedTokens: 540
 keywords: [MessagingConfiguration, deprecated, Items]
 ---
-
-# MessagingConfiguration
 
 > The MessagingConfiguration object is deprecated.
 

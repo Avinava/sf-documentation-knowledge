@@ -5,12 +5,10 @@ topic: register-a-namespace-for-a-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.002Z
+lastCollected: 2026-04-07T18:38:54.414Z
 estimatedTokens: 708
-keywords: [Register, First-Generation, Managed, Package, 15-character, alphanumeric, identifier, distinguishes, contents, packages, developers, AppExchange, prefixes, case-insensitive, ABC]
+keywords: [Register, First-Generation, Managed, Package, 15-character, alphanumeric, identifier, distinguishes, contents, packages, developers, AppExchange, prefixes, case-insensitive, ABC, aren’t, recognized, unique, globally, across, Salesforce, orgs]
 ---
-
-# Register a Namespace for a First-Generation Managed Package
 
 > A namespace is a one to 15-character alphanumeric identifier that distinguishes
             your package and its contents from packages of other developers on AppExchange.

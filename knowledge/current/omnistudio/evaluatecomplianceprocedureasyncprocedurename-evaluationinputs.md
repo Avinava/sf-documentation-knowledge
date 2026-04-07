@@ -6,13 +6,10 @@ topic: evaluatecomplianceprocedureasyncprocedurename-evaluationinputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.887Z
+lastCollected: 2026-04-07T18:36:35.367Z
 estimatedTokens: 340
-keywords: [evaluateComplianceProcedureAsync, procedureName, evaluationInputs, Asynchronously, evaluate, compliance, procedure, business, context, API, Version, Requires, Chatter, Usage]
+keywords: [evaluateComplianceProcedureAsync, procedureName, evaluationInputs, Asynchronously, evaluate, compliance, procedure, business, context, API, Requires, Chatter]
 ---
-
-# evaluateComplianceProcedureAsync(procedureName,
-      evaluationInputs)
 
 > Asynchronously evaluate a compliance procedure with the business context.
 

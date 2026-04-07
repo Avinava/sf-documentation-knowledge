@@ -5,12 +5,10 @@ topic: stageassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.397Z
+lastCollected: 2026-04-07T18:36:43.128Z
 estimatedTokens: 1646
-keywords: [StageAssignment, collection, automatically, assign, stage, definitions, records, rule, criteria, Parent, File, Suffix, Directory, Location, Version]
+keywords: [StageAssignment, StgAssignmentRuleCriteria, StgAssignmentRuleCond, collection, automatically, assign, stage, definitions, records, rule, criteria, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# StageAssignment
 
 > Represents a collection of fields to automatically assign stage
 			definitions to records based on rule criteria.

@@ -5,12 +5,10 @@ topic: annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.110Z
+lastCollected: 2026-04-07T18:37:44.337Z
 estimatedTokens: 175
-keywords: [Annotation, FHIR, resource, maps, AuthorNote​, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Annotation, FHIR, resource, maps, AuthorNote​, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Annotation
 
 > The Annotation FHIR resource maps to the AuthorNote​ object in Salesforce.
 

@@ -5,12 +5,10 @@ topic: subscription-layout-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.879Z
+lastCollected: 2026-04-07T18:36:56.423Z
 estimatedTokens: 198
 keywords: [Subscription, Layout, Resource, grid]
 ---
-
-# Subscription Layout Resource
 
 > Update the grid layout for a subscription.
 

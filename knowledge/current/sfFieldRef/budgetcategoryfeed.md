@@ -5,12 +5,10 @@ topic: budgetcategoryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.129Z
+lastCollected: 2026-04-07T18:39:30.297Z
 estimatedTokens: 388
-keywords: [BudgetCategoryFeed, Feed, tracking, BudgetCategory]
+keywords: [BudgetCategoryFeed, BudgetCategory]
 ---
-
-# BudgetCategoryFeed
 
 > Feed tracking for BudgetCategory.
 

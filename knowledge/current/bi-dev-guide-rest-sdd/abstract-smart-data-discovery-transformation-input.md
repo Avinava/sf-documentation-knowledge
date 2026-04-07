@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.032Z
+lastCollected: 2026-04-07T18:36:58.559Z
 estimatedTokens: 329
-keywords: [Abstract, Smart, Data, Discovery, Transformation, Input, base, Einstein]
+keywords: [Abstract, Smart, Discovery, Transformation, base, Einstein]
 ---
-
-# Abstract Smart Data Discovery Transformation Input
 
 > The base Einstein Discovery transformation input.
 

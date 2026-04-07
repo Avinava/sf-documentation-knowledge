@@ -5,12 +5,10 @@ topic: sitehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.723Z
+lastCollected: 2026-04-07T18:38:41.436Z
 estimatedTokens: 357
-keywords: [SiteHistory, history, changes, site, generally, API, version, 18.0, later, Calls, Special, Access, Rules]
+keywords: [SiteHistory, changes, site, generally, API, 18.0]
 ---
-
-# SiteHistory
 
 > Represents the history of changes to the values in the fields of a site. This object is generally available in API version 18.0 and later.
 

@@ -5,12 +5,10 @@ topic: connect-to-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.514Z
+lastCollected: 2026-04-07T18:36:53.884Z
 estimatedTokens: 288
-keywords: [Connect, Salesforce, preparing, data, files, step, loading, external, CRM, Analytics, organization, standard, APIs]
+keywords: [Connect, Salesforce, preparing, files, step, loading, external, CRM, Analytics, organization, standard, APIs]
 ---
-
-# Connect to Salesforce
 
 > After preparing your data files, the next step in loading external data into CRM
     Analytics is to connect to your Salesforce organization by using standard Salesforce

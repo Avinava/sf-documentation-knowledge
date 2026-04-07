@@ -5,12 +5,10 @@ topic: generalledgeraccountshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.639Z
+lastCollected: 2026-04-07T18:39:42.280Z
 estimatedTokens: 253
 keywords: [GeneralLedgerAccountShare, Sharing, GeneralLedgerAccount]
 ---
-
-# GeneralLedgerAccountShare
 
 > Sharing for GeneralLedgerAccount.
 

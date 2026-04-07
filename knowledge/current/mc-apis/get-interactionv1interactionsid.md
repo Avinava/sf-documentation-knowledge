@@ -5,12 +5,10 @@ topic: get-interactionv1interactionsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.040Z
+lastCollected: 2026-04-07T18:40:17.188Z
 estimatedTokens: 872
-keywords: [interaction, interactions, Retrieves, journey, key, call, resource, assign, API, Integration, Automation, scope, **Overview**, Usage]
+keywords: [interaction, interactions, Retrieves, journey, key, call, resource, assign, API, Integration, Automation, scope, **Overview**]
 ---
-
-# GET /interaction/v1/interactions/{id}
 
 > Retrieves a single journey by ID or key. To call this resource, assign your API Integration the Automation | Interactions | Read scope.
 

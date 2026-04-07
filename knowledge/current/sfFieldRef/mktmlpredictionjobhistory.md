@@ -5,12 +5,10 @@ topic: mktmlpredictionjobhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.646Z
+lastCollected: 2026-04-07T18:39:49.119Z
 estimatedTokens: 266
-keywords: [MktMLPredictionJobHistory, History, tracked, MktMLPredictionJob]
+keywords: [MktMLPredictionJobHistory, tracked, MktMLPredictionJob]
 ---
-
-# MktMLPredictionJobHistory
 
 > History for tracked fields of MktMLPredictionJob.
 

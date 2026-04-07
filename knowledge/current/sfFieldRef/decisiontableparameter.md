@@ -5,12 +5,10 @@ topic: decisiontableparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.033Z
+lastCollected: 2026-04-07T18:39:37.724Z
 estimatedTokens: 331
-keywords: [DecisionTableParameter, input, output, decision, business, rule, custom, metadata, evaluate]
+keywords: [DecisionTableParameter, decision, business, rule, metadata, evaluate]
 ---
-
-# DecisionTableParameter
 
 > Represents an input or output field in a decision table. An input field is a
          field in the business rule object or custom metadata type that contains values used by the

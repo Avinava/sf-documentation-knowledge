@@ -5,12 +5,10 @@ topic: datadetectpolicysnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.774Z
+lastCollected: 2026-04-07T18:38:29.655Z
 estimatedTokens: 347
-keywords: [DataDetectPolicySnapshot, snapshot, DataDetect, scan, policy, components, retrieved, job, session, API, version, 64.0, later, Calls]
+keywords: [DataDetectPolicySnapshot, snapshot, DataDetect, scan, policy, retrieved, job, session, API, 64.0]
 ---
-
-# DataDetectPolicySnapshot
 
 > Represents the snapshot of a DataDetect scan policy and its
          components retrieved during a job session. This object is available in API version

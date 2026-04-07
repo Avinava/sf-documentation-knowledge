@@ -5,12 +5,10 @@ topic: automotive-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.753Z
+lastCollected: 2026-04-07T18:36:52.172Z
 estimatedTokens: 6593
-keywords: [Automotive, Cloud, Standard, Objects, data, model, manage, vehicles, customers, stakeholders, financial, relationships, company, dealer, groups]
+keywords: [Automotive, Cloud, Standard, model, manage, vehicles, customers, stakeholders, financial, relationships, company, dealer, groups, original, equipment, manufacturers, OEMs, varied, requirements, vehicle, definitions, track, leads, report, sales, parts, Lightning, Experience]
 ---
-
-# Automotive Cloud Standard Objects
 
 > Automotive Cloud data model provides objects and fields to manage vehicles, customers,
     stakeholders, and financial relationships for your automotive company. Both dealer groups and

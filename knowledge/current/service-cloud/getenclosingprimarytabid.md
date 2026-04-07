@@ -5,12 +5,10 @@ topic: getenclosingprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.240Z
+lastCollected: 2026-04-07T18:36:49.304Z
 estimatedTokens: 273
-keywords: [getEnclosingPrimaryTabId, current, primary, tab, works, subtab, navigation, custom, console, components, API, version, 20.0, later, Arguments]
+keywords: [Arguments, getEnclosingPrimaryTabId, current, primary, tab, works, subtab, navigation, console, API, 20.0, Sample, Code–Visualforce]
 ---
-
-# getEnclosingPrimaryTabId()
 
 > Returns the ID of the current primary tab. This
             method works within a primary tab or subtab, not within the navigation tab or custom

@@ -5,12 +5,10 @@ topic: setagentinput-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.973Z
+lastCollected: 2026-04-07T18:36:50.167Z
 estimatedTokens: 205
-keywords: [setAgentInput, LWC, Lightning, Experience, text, agent's, box, works, console, apps, Arguments, message]
+keywords: [Arguments, setAgentInput, LWC, Lightning, Experience, text, agent's, box, works, console, apps, message]
 ---
-
-# setAgentInput() for LWC for Lightning Experience
 
 > Sets the text in the agent's text box. This method works only in Lightning console
   apps.

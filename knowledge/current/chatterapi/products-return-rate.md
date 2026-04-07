@@ -5,12 +5,10 @@ topic: products-return-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.517Z
+lastCollected: 2026-04-07T18:37:15.573Z
 estimatedTokens: 181
 keywords: [Products, Rate, rates]
 ---
-
-# Products Return Rate
 
 > Get a page of products with return rates.
 

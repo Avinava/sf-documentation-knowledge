@@ -5,12 +5,10 @@ topic: tenantsecurityhealthcheckbaselinetrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.667Z
+lastCollected: 2026-04-07T18:38:42.414Z
 estimatedTokens: 1305
-keywords: [TenantSecurityHealthCheckBaselineTrend, Stores, metric, Health, Check, baseline, settings, detail, Security, Center, displays, scores, tenants, place, metrics]
+keywords: [TenantSecurityHealthCheckBaselineTrend, Stores, metric, Health, Check, baseline, settings, detail, Security, Center, displays, scores, tenants, place, metrics, collected, changes, made, subscribers, API, 54.0]
 ---
-
-# TenantSecurityHealthCheckBaselineTrend
 
 > Stores metric details related to Health Check baseline settings. The Health Check
       detail page in Security Center displays scores and settings for all your tenants in one place.

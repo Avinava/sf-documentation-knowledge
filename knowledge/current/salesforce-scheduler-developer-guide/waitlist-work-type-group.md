@@ -5,12 +5,10 @@ topic: waitlist-work-type-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.652Z
+lastCollected: 2026-04-07T18:39:20.385Z
 estimatedTokens: 116
-keywords: [Waitlist, Work, Group, Output, representation, general, appointment, category, topic, home, loan, investment]
+keywords: [Waitlist, Work, Group, general, appointment, category, topic, home, loan, investment]
 ---
-
-# Waitlist Work Type Group
 
 > Output representation of the waitlist work type group. A work type
       group is a general appointment category or topic, such as a home loan or an

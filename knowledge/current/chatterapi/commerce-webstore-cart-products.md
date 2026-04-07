@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.425Z
+lastCollected: 2026-04-07T18:37:12.299Z
 estimatedTokens: 376
 keywords: [Commerce, Webstore, Cart, Products, items, sorted, product]
 ---
-
-# Commerce Webstore Cart Products
 
 > Get the items in a cart, sorted by product ID.
 

@@ -5,12 +5,10 @@ topic: cgclouduserdocumentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.963Z
+lastCollected: 2026-04-07T18:39:15.461Z
 estimatedTokens: 1539
-keywords: [cgcloud__User_Document__c, Stores, daily, report, API, version, 54.0, later, cgcloud, _User, _Document, Calls, ields, Associated, Objects]
+keywords: [cgcloud__User_Document__c, Stores, daily, report, API, 54.0, cgcloud, _User, _Document, ields]
 ---
-
-# cgcloud__User_Document__c
 
 > Stores the details of the daily report object. This object is
       available in API version 54.0 and later.

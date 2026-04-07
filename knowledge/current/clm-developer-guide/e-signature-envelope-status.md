@@ -5,12 +5,10 @@ topic: e-signature-envelope-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.998Z
+lastCollected: 2026-04-07T18:37:24.960Z
 estimatedTokens: 96
 keywords: [E-signature, Envelope, Status]
 ---
-
-# E-signature Envelope Status
 
 > Update e-signature envelope status.
 

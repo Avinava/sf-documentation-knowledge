@@ -5,12 +5,10 @@ topic: document-store-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.746Z
+lastCollected: 2026-04-07T18:37:27.755Z
 estimatedTokens: 142
-keywords: [Document, Store, Plugin, CPQ, quote, documents, custom, objects, third-party, integrations]
+keywords: [Document, Store, Plugin, CPQ, quote, documents, third-party, integrations]
 ---
-
-# Document Store Plugin
 
 > Use a CPQ document store plugin to store your quote documents as custom objects or in
         third-party integrations.

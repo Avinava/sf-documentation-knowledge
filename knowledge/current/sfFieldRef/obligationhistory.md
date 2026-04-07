@@ -5,12 +5,10 @@ topic: obligationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.456Z
+lastCollected: 2026-04-07T18:39:49.918Z
 estimatedTokens: 257
-keywords: [ObligationHistory, History, tracked, Obligation]
+keywords: [ObligationHistory, tracked, Obligation]
 ---
-
-# ObligationHistory
 
 > History for tracked fields of Obligation.
 

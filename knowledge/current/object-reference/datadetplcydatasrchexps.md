@@ -5,12 +5,10 @@ topic: datadetplcydatasrchexps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.789Z
+lastCollected: 2026-04-07T18:38:29.674Z
 estimatedTokens: 418
-keywords: [DataDetPlcyDataSrchExps, data, search, expressions, scanning, DataDetect, scan, policies, Java, regex, API, version, 64.0, later, Calls]
+keywords: [DataDetPlcyDataSrchExps, search, expressions, scanning, DataDetect, scan, policies, Java, regex, API, 64.0]
 ---
-
-# DataDetPlcyDataSrchExps
 
 > Represents data search expressions for scanning DataDetect scan policies
          based on Java regex. This object is available in API version 64.0 and

@@ -5,12 +5,10 @@ topic: dynamically-display-your-top-five-reps-with-windowing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.865Z
+lastCollected: 2026-04-07T18:37:00.377Z
 estimatedTokens: 207
 keywords: [Dynamically, Display, Top, Five, Reps, Windowing, functions, perform, calculations, over, dynamic, range]
 ---
-
-# Dynamically Display Your Top Five Reps with Windowing
 
 > Windowing functions perform calculations over a dynamic range.
 

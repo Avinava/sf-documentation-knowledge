@@ -5,12 +5,10 @@ topic: salesforce-scheduler-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.814Z
+lastCollected: 2026-04-07T18:39:20.574Z
 estimatedTokens: 140
 keywords: [Salesforce, Scheduler, Platform, Events, ServiceAppointmentEvent, event, notify, subscribers, service, appointment]
 ---
-
-# Salesforce Scheduler Platform Events
 
 > Use the ServiceAppointmentEvent platform event to notify subscribers about service
     appointment details.

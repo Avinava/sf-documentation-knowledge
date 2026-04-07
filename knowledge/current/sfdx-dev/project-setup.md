@@ -5,12 +5,10 @@ topic: project-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.974Z
+lastCollected: 2026-04-07T18:40:08.957Z
 estimatedTokens: 1482
-keywords: [Project, Setup, Salesforce, structure, org’s, metadata, code, configuration, org, templates, sample, data, team’s, tests, bring]
+keywords: [Project, Setup, Salesforce, structure, org’s, metadata, code, configuration, org, templates, sample, team’s, tests, bring, consistency, development, processes, store, items, source, control, system, SCS, Retrieve, contents, repository, you’re, ready, develop, new, feature]
 ---
-
-# Project Setup
 
 > A Salesforce DX project provides a project structure for your org’s metadata (code and
     configuration), org templates, sample data, and all your team’s tests. To bring consistency to

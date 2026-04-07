@@ -5,12 +5,10 @@ topic: smart-data-discovery-refresh-task
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.434Z
+lastCollected: 2026-04-07T18:36:59.929Z
 estimatedTokens: 378
-keywords: [Smart, Data, Discovery, Refresh, Task, Einstein]
+keywords: [Smart, Discovery, Refresh, Task, Einstein]
 ---
-
-# Smart Data Discovery Refresh Task
 
 > An Einstein Discovery refresh task.
 

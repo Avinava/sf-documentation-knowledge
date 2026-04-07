@@ -5,12 +5,10 @@ topic: svcinforespcoveragedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.483Z
+lastCollected: 2026-04-07T18:37:48.096Z
 estimatedTokens: 991
-keywords: [SvcInfoRespCoverageDetail, additional, coverage, service, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [SvcInfoRespCoverageDetail, additional, coverage, service, API, 63.0]
 ---
-
-# SvcInfoRespCoverageDetail
 
 > Represents additional coverage details about a service information response.
        This object is available in API version 63.0 and later.

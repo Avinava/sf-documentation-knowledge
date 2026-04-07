@@ -5,12 +5,10 @@ topic: interest-tag-and-category-error-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.115Z
+lastCollected: 2026-04-07T18:36:39.795Z
 estimatedTokens: 137
-keywords: [Interest, Tag, Category, Error, Output, representation, operation, fails]
+keywords: [Interest, Tag, Category, Error, operation, fails]
 ---
-
-# Interest Tag and Category Error Details
 
 > Output representation of the error details when the operation fails.
 

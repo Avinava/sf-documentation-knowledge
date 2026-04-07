@@ -5,12 +5,10 @@ topic: capabilitiesresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.633Z
+lastCollected: 2026-04-07T18:39:23.569Z
 estimatedTokens: 873
-keywords: [CapabilitiesResult, result, rep, capabilities, Availability, Functions]
+keywords: [CapabilitiesResult, Availability, result, rep, capabilities, Functions]
 ---
-
-# CapabilitiesResult
 
 > Represents the result type for the rep
         capabilities.

@@ -5,12 +5,10 @@ topic: reset-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.239Z
+lastCollected: 2026-04-07T18:36:21.477Z
 estimatedTokens: 376
-keywords: [Reset, Self-Service, User, Password, Initiates, user’s, current, becomes, invalid, receives, email, link, log, again, finish]
+keywords: [Reset, Self-Service, User, Password, Initiates, user’s, current, becomes, invalid, receives, email, link, log, again, finish, resetting, their, resource, REST, API, 24.0]
 ---
-
-# Reset Self-Service User Password
 
 > Initiates a password reset for a self-service user based on the specified user ID. The
   user’s current password becomes invalid and the user receives an email with a password reset link.

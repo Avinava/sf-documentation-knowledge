@@ -5,12 +5,10 @@ topic: prediction-definition-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.556Z
+lastCollected: 2026-04-07T18:36:59.054Z
 estimatedTokens: 1114
-keywords: [Prediction, Definition, Resources, model, trying, predict, Salesforce, entity, associated, unique, certain, attributes, modified]
+keywords: [Prediction, Definition, Resources, model, trying, predict, Salesforce, entity, unique, certain, attributes, modified]
 ---
-
-# Prediction Definition Resources
 
 > A prediction definition specifies what the model is trying to predict and the Salesforce entity associated 
   with the prediction. Each prediction definition has a unique id. Only certain attributes of a prediction definition can be modified.

@@ -5,12 +5,10 @@ topic: project-configuration-file-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:13.760Z
+lastCollected: 2026-04-07T18:40:08.721Z
 estimatedTokens: 2142
-keywords: [Project, Configuration, File, Unlocked, Packages, blueprint, settings, outline, package, determine, attributes, contents, Don’t, Want, Salesforce]
+keywords: [Project, Configuration, File, Unlocked, Packages, blueprint, settings, outline, package, determine, attributes, contents, Don’t, Want, Salesforce, Automatically, Updated]
 ---
-
-# Project Configuration File for Unlocked Packages
 
 > The project configuration file is a blueprint for your project. The settings in the
     file create an outline of your package and determine the package attributes and package

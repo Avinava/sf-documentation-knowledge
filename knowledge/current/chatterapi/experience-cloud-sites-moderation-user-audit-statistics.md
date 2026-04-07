@@ -5,12 +5,10 @@ topic: experience-cloud-sites-moderation-user-audit-statistics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.970Z
+lastCollected: 2026-04-07T18:37:12.867Z
 estimatedTokens: 91
 keywords: [Experience, Cloud, Sites, Moderation, User, Audit, Statistics, site]
 ---
-
-# Experience Cloud Sites Moderation User Audit Statistics
 
 > Get audit statistics for a user in an Experience Cloud
     site.

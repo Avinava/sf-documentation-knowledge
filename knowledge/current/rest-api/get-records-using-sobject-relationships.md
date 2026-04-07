@@ -5,12 +5,10 @@ topic: get-records-using-sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.188Z
+lastCollected: 2026-04-07T18:36:21.426Z
 estimatedTokens: 669
-keywords: [Records, sObject, Relationships, record, relationship, there, multiple, retrieve, associated]
+keywords: [Records, sObject, Relationships, record, relationship, there, multiple, retrieve]
 ---
-
-# Get Records Using sObject Relationships
 
 > Gets a record based on the specified object, record ID, and relationship field. The
 		fields and field values of the record are returned in the response body. If there are

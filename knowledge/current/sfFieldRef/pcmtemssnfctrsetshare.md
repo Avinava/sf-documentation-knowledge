@@ -5,12 +5,10 @@ topic: pcmtemssnfctrsetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.745Z
+lastCollected: 2026-04-07T18:39:53.279Z
 estimatedTokens: 251
 keywords: [PcmtEmssnFctrSetShare, Sharing, PcmtEmssnFctrSet]
 ---
-
-# PcmtEmssnFctrSetShare
 
 > Sharing for PcmtEmssnFctrSet.
 

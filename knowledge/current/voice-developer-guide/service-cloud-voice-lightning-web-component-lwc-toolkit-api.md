@@ -6,13 +6,10 @@ topic: service-cloud-voice-lightning-web-component-lwc-toolkit-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.043Z
+lastCollected: 2026-04-07T18:40:12.979Z
 estimatedTokens: 385
-keywords: [Service, Cloud, Voice, Lightning, Web, Component, LWC, Toolkit, API, build, components, access, features]
+keywords: [Service, Cloud, Voice, Lightning, Web, LWC, Toolkit, API, build, features]
 ---
-
-# Service Cloud Voice Lightning Web Component (LWC) Toolkit
-    API
 
 > The Service Cloud Voice Toolkit API allows you to build Lightning web components that
     have access to Service Cloud Voice features.

@@ -5,12 +5,10 @@ topic: automationnotification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.417Z
+lastCollected: 2026-04-07T18:40:15.504Z
 estimatedTokens: 421
-keywords: [AutomationNotification, notification, associated, automation]
+keywords: [AutomationNotification, notification, automation]
 ---
-
-# AutomationNotification
 
 > The AutomationNotification object indicates a notification associated with an automation.
 

@@ -5,12 +5,10 @@ topic: connectapicommunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.861Z
+lastCollected: 2026-04-07T18:36:08.223Z
 estimatedTokens: 747
 keywords: [ConnectApi.Community, Experience, Cloud, site]
 ---
-
-# ConnectApi.Community
 
 > Experience Cloud site.
 

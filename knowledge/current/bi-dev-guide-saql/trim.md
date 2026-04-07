@@ -5,12 +5,10 @@ topic: trim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.259Z
+lastCollected: 2026-04-07T18:37:00.828Z
 estimatedTokens: 79
-keywords: [trim, Removes, substring, beginning, end, Usage]
+keywords: [trim, Removes, substring, beginning, end]
 ---
-
-# trim()
 
 > Removes the specified substring from the beginning and the end of a
         string.

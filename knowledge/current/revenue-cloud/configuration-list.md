@@ -5,12 +5,10 @@ topic: configuration-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.805Z
+lastCollected: 2026-04-07T18:35:45.803Z
 estimatedTokens: 152
-keywords: [Configuration, Output, representation, saved]
+keywords: [Configuration, saved]
 ---
-
-# Configuration List
 
 > Output representation of the details of the saved configuration.
 

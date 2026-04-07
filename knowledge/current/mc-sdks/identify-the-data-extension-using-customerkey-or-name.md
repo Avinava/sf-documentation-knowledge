@@ -5,12 +5,10 @@ topic: identify-the-data-extension-using-customerkey-or-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.089Z
+lastCollected: 2026-04-07T18:40:24.572Z
 estimatedTokens: 905
-keywords: [Identify, Data, Extension, CustomerKey, ET_DataExtensionRow, includes, unique, specifying, rows, define, Ruby, Specify, identifier, PHP, Python]
+keywords: [Ruby, Python, CSharp, Java, Identify, Extension, CustomerKey, ET_DataExtensionRow, includes, unique, specifying, rows, define, Specify, identifier, PHP, Creating, Row]
 ---
-
-# Identify the Data Extension Using CustomerKey or Name
 
 > ET_DataExtensionRow includes unique properties called CustomerKey and Name for specifying the data extension for the rows. You need to define only one of these properties to identify the data extension.
 

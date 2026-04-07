@@ -5,12 +5,10 @@ topic: mobiledeviceappregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.671Z
+lastCollected: 2026-04-07T18:39:49.145Z
 estimatedTokens: 590
-keywords: [MobileDeviceAppRegistration, provided, mobile, device, registration, event, app, uses, Engagement, SDK, API, version, 65.0, later]
+keywords: [MobileDeviceAppRegistration, provided, mobile, device, registration, event, app, uses, Engagement, SDK, API, 65.0]
 ---
-
-# MobileDeviceAppRegistration
 
 > Represents the details provided in a mobile device registration event from an
          app that uses the Engagement Mobile SDK. This object is available in API version 65.0

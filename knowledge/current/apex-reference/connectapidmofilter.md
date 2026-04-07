@@ -5,12 +5,10 @@ topic: connectapidmofilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.336Z
+lastCollected: 2026-04-07T18:36:08.767Z
 estimatedTokens: 202
-keywords: [ConnectApi.DmoFilter, DMO, filter, output]
+keywords: [ConnectApi.DmoFilter, DMO, filter]
 ---
-
-# ConnectApi.DmoFilter
 
 > Represents a DMO filter output.
 

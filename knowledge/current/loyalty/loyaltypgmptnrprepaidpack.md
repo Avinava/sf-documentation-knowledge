@@ -5,12 +5,10 @@ topic: loyaltypgmptnrprepaidpack
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.022Z
+lastCollected: 2026-04-07T18:38:10.298Z
 estimatedTokens: 628
-keywords: [LoyaltyPgmPtnrPrepaidPack, prepaid, points, purchased, loyalty, program, partner, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyPgmPtnrPrepaidPack, prepaid, points, purchased, loyalty, program, partner, API, 55.0]
 ---
-
-# LoyaltyPgmPtnrPrepaidPack
 
 > Represents information about a prepaid set of points purchased by a loyalty
          program partner. This object is available in API version 55.0 and later.

@@ -5,12 +5,10 @@ topic: webstoretemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.438Z
+lastCollected: 2026-04-07T18:36:34.889Z
 estimatedTokens: 2603
-keywords: [WebStoreTemplate, configuration, creating, commerce, stores, API, version, 49.0, later, SOAP, Calls, REST, Special, Access, Rules]
+keywords: [WebStoreTemplate, configuration, creating, commerce, stores, API, 49.0, SOAP, REST]
 ---
-
-# WebStoreTemplate
 
 > Represents a configuration for creating commerce stores. This object is
       available in API version 49.0 and later.

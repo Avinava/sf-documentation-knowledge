@@ -5,12 +5,10 @@ topic: handling-component-events-dynamically
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.990Z
+lastCollected: 2026-04-07T18:38:04.091Z
 estimatedTokens: 100
-keywords: [Handling, Component, Events, Dynamically, handler, bound, via, JavaScript, useful, created, client-side]
+keywords: [Handling, Events, Dynamically, handler, bound, via, JavaScript, useful, created, client-side]
 ---
-
-# Handling Component Events Dynamically
 
 > A component can have its handler bound dynamically via JavaScript. This is useful if a
     component is created in JavaScript on the client-side.

@@ -5,12 +5,10 @@ topic: bulkrenewinsurancepolicyinsurancepolicybulkinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.359Z
+lastCollected: 2026-04-07T18:37:49.179Z
 estimatedTokens: 515
-keywords: [bulkRenewInsurancePolicy, insurancePolicyBulkInput, Renew, policies, bulk, Insurance, Policy, IDs, API, Version, Requires, Chatter, Usage]
+keywords: [bulkRenewInsurancePolicy, insurancePolicyBulkInput, Renew, policies, bulk, Insurance, Policy, IDs, API, Requires, Chatter]
 ---
-
-# bulkRenewInsurancePolicy(insurancePolicyBulkInput)
 
 > Renew policies in bulk for the specified Insurance Policy IDs.
 

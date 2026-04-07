@@ -5,12 +5,10 @@ topic: customsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.352Z
+lastCollected: 2026-04-07T18:36:29.773Z
 estimatedTokens: 4055
-keywords: [CustomSite, Salesforce, site, websites, applications, directly, integrated, organization, don't, require, users, log, username, password, Declarative]
+keywords: [CustomSite, SiteIframeWhiteListUrl, SiteRedirectMapping, SiteWebAddress, Salesforce, site, websites, applications, directly, integrated, organization, don't, require, users, log, username, password, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomSite
 
 > Represents a Salesforce site. Create public websites and
       applications that are directly integrated with your Salesforce organization, but don't require

@@ -5,12 +5,10 @@ topic: renew-multi-root-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.218Z
+lastCollected: 2026-04-07T18:37:48.950Z
 estimatedTokens: 277
-keywords: [Renew, Multi-Root, Insurance, Policy, Action, along, associated, child, policies, asynchronously, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Renew, Multi-Root, Insurance, Policy, Action, along, child, policies, asynchronously, REST, HTTP]
 ---
-
-# Renew Multi-Root Insurance Policy Action
 
 > Renew an existing multi-root insurance policy along with its
             associated child policies asynchronously.

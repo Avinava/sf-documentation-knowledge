@@ -5,12 +5,10 @@ topic: selection-condition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.898Z
+lastCollected: 2026-04-07T18:35:43.813Z
 estimatedTokens: 201
-keywords: [Selection, Condition, Input, representation, criteria, that's, determine, sequencing, policy, applied, record, stores, conditions, any, standard]
+keywords: [Selection, Condition, criteria, that's, determine, sequencing, policy, applied, record, stores, conditions, any, standard]
 ---
-
-# Selection Condition Input
 
 > Input representation of the criteria that's used to determine which sequencing policy is
     applied to a record. The criteria stores the conditions based on any standard or custom fields

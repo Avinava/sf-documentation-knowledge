@@ -5,12 +5,10 @@ topic: record-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.053Z
+lastCollected: 2026-04-07T18:40:12.058Z
 estimatedTokens: 187
 keywords: [Record, Exceptions, collection, exception, errors]
 ---
-
-# Record Exceptions
 
 > A collection of record exception errors.
 

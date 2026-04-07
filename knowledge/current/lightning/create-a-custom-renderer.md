@@ -5,12 +5,10 @@ topic: create-a-custom-renderer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.429Z
+lastCollected: 2026-04-07T18:38:04.583Z
 estimatedTokens: 2276
-keywords: [Custom, Renderer, framework’s, rendering, service, in-memory, component, state, creates, manages, DOM, elements, owned, want, modify]
+keywords: [Renderer, framework’s, rendering, service, in-memory, state, creates, manages, DOM, owned, want, modify, created, framework, component’s, Otherwise, override, changes, rerendered, Base, Lifecycle, Rerendering, Customize, Rerender, Unrender]
 ---
-
-# Create a Custom Renderer
 
 > The framework’s rendering service takes in-memory
             component state and creates and manages the DOM elements owned by the component. If

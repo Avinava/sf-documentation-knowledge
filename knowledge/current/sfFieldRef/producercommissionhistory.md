@@ -5,12 +5,10 @@ topic: producercommissionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.630Z
+lastCollected: 2026-04-07T18:39:55.192Z
 estimatedTokens: 267
-keywords: [ProducerCommissionHistory, History, tracked, ProducerCommission]
+keywords: [ProducerCommissionHistory, tracked, ProducerCommission]
 ---
-
-# ProducerCommissionHistory
 
 > History for tracked fields of ProducerCommission.
 

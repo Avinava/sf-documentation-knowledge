@@ -5,12 +5,10 @@ topic: applicant-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.813Z
+lastCollected: 2026-04-07T18:36:36.350Z
 estimatedTokens: 439
-keywords: [Applicant, Input, representation]
+keywords: [Applicant]
 ---
-
-# Applicant Input
 
 > Input representation of the applicant details.
 

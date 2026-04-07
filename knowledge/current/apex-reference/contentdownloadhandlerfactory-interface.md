@@ -5,13 +5,11 @@ topic: contentdownloadhandlerfactory-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.925Z
+lastCollected: 2026-04-07T18:36:13.229Z
 estimatedTokens: 561
 namespace: Sfc
-keywords: [ContentDownloadHandlerFactory, provide, factory, Salesforce, call, instances, custom, ContentDownloadHandler, Usage, getContentDownloadHandler, var1, var2, Implementation]
+keywords: [ContentDownloadHandlerFactory, provide, factory, Salesforce, call, instances, ContentDownloadHandler, getContentDownloadHandler, var1, var2, Implementation]
 ---
-
-# ContentDownloadHandlerFactory Interface
 
 > Use this interface to provide a class factory that Salesforce can call
       to create instances of your custom ContentDownloadHandler.

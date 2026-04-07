@@ -6,13 +6,10 @@ topic: example-subscribe-to-and-replay-events-using-a-java-client-emp-connector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.999Z
+lastCollected: 2026-04-07T18:36:51.306Z
 estimatedTokens: 971
-keywords: [Subscribe, Replay, Events, Java, Client, EMP, Connector, sample, uses, library, Enterprise, Messaging, Platform, thin, wrapper]
+keywords: [Subscribe, Replay, Events, Java, Client, EMP, Connector, sample, uses, library, Enterprise, Messaging, Platform, thin, wrapper, around, CometD, hides, complexity, creating, subscribing, Streaming, API, subscribes, channel, receives, notifications, supports, replaying, durable]
 ---
-
-# Example: Subscribe to and Replay Events Using a Java Client (EMP
-      Connector)
 
 > The Java sample uses a library called Enterprise Messaging Platform (EMP) Connector.
     EMP Connector is a thin wrapper around the CometD library. It hides the complexity of creating a

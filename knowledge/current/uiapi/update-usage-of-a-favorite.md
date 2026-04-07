@@ -5,12 +5,10 @@ topic: update-usage-of-a-favorite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.988Z
+lastCollected: 2026-04-07T18:40:10.974Z
 estimatedTokens: 98
-keywords: [Usage, Favorite, individual, Increments, accessCount, lastAccessDate, current, system, time]
+keywords: [Favorite, individual, Increments, accessCount, lastAccessDate, current, system, time]
 ---
-
-# Update Usage of a Favorite
 
 > Update the usage of an individual favorite. Increments the accessCount and sets the lastAccessDate to the current system time.
 

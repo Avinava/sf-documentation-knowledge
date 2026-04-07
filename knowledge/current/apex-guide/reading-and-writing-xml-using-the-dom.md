@@ -5,13 +5,11 @@ topic: reading-and-writing-xml-using-the-dom
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.617Z
+lastCollected: 2026-04-07T18:36:18.840Z
 estimatedTokens: 1069
 namespace: Dom
 keywords: [Reading, Writing, XML, DOM, Apex, classes, enable, work, content, Document, Model, Namespaces, Nodes, XmlNode]
 ---
-
-# Reading and Writing XML Using the DOM
 
 > Apex provides classes that enable you to work with XML content using the DOM
         (Document Object Model).

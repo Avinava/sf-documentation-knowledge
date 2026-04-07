@@ -5,13 +5,11 @@ topic: security-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.035Z
+lastCollected: 2026-04-07T18:36:01.255Z
 estimatedTokens: 2414
 namespace: System
-keywords: [Security, securely, implement, Apex, applications, Usage, stripInaccessible, accessCheckType, sourceRecords, enforceRootObjectCRUD, permissionSetId, Developer, Preview]
+keywords: [Security, securely, implement, Apex, applications, stripInaccessible, accessCheckType, sourceRecords, enforceRootObjectCRUD, permissionSetId, Developer, Preview]
 ---
-
-# Security Class
 
 > Contains methods to securely implement Apex
     applications.

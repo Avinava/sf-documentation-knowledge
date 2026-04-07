@@ -5,12 +5,10 @@ topic: add-eligible-insurance-clauses-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.899Z
+lastCollected: 2026-04-07T18:37:48.604Z
 estimatedTokens: 473
-keywords: [Add, Eligible, Insurance, Clauses, Action, quote, context, specify, either, instance, key, line, item, along, product]
+keywords: [Inputs, Outputs, Add, Eligible, Insurance, Clauses, Action, quote, context, specify, either, instance, key, line, item, along, product, clause, REST, HTTP]
 ---
-
-# Add Eligible Insurance Clauses Action
 
 > Add eligible insurance clauses to a quote or
             context. You must specify either a quote ID or a context ID, and either an instance key

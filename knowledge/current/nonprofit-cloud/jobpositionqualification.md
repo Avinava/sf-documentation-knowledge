@@ -5,12 +5,10 @@ topic: jobpositionqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.402Z
+lastCollected: 2026-04-07T18:38:23.305Z
 estimatedTokens: 879
-keywords: [JobPositionQualification, job, position, qualification, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [JobPositionQualification, job, position, qualification, API, 64.0]
 ---
-
-# JobPositionQualification
 
 > Represents a job position qualification. This object is
       available in API version 64.0 and later.

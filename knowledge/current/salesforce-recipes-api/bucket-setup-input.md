@@ -5,12 +5,10 @@ topic: bucket-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.496Z
+lastCollected: 2026-04-07T18:39:18.176Z
 estimatedTokens: 314
-keywords: [Bucket, Setup, Input, base, node, recipe]
+keywords: [Bucket, Setup, base, node, recipe]
 ---
-
-# Bucket Setup Input
 
 > The base field setup for a bucket node in a recipe.
 

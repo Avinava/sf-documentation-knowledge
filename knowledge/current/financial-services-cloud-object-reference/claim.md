@@ -5,12 +5,10 @@ topic: claim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.837Z
+lastCollected: 2026-04-07T18:37:36.641Z
 estimatedTokens: 2231
-keywords: [Claim, claims, life, auto, home, Calls, Associated, Objects]
+keywords: [Claim, claims, life, auto, home]
 ---
-
-# Claim
 
 > Represents the types of claims, such as life, auto, or home.
 

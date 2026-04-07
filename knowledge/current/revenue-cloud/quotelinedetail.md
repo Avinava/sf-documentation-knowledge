@@ -5,12 +5,10 @@ topic: quotelinedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.355Z
+lastCollected: 2026-04-07T18:35:50.251Z
 estimatedTokens: 722
-keywords: [QuoteLineDetail, breakdown, quote, line, item, Revenue, Cloud, generates, records, capture, pricing, quantity, changes, negative, reductions]
+keywords: [QuoteLineDetail, breakdown, quote, line, item, Revenue, Cloud, generates, records, capture, pricing, quantity, changes, negative, reductions, early, renewals, derived, repricing, amendment, bundle, product, attribute, reconfigurations, API, 60.0]
 ---
-
-# QuoteLineDetail
 
 > Represents the breakdown details of a quote line item. Revenue Cloud
          generates these records to capture pricing and quantity changes, such as negative quantity

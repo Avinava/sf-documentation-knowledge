@@ -5,12 +5,10 @@ topic: connectapiwishlistssummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.994Z
+lastCollected: 2026-04-07T18:36:12.282Z
 estimatedTokens: 123
 keywords: [ConnectApi.WishlistsSummary, wishlist, summaries, context, user]
 ---
-
-# ConnectApi.WishlistsSummary
 
 > List of wishlist summaries and the displayed list for the context
       user.

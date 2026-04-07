@@ -5,12 +5,10 @@ topic: dataextensionrowcount
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.777Z
+lastCollected: 2026-04-07T18:40:22.142Z
 estimatedTokens: 146
-keywords: [DataExtensionRowCount, Function, Ordinal, data, extension, derive, row, count, **Overview**, **Syntax**, Usage]
+keywords: [DataExtensionRowCount, Function, Ordinal, extension, derive, row, count, **Overview**, **Syntax**]
 ---
-
-# DataExtensionRowCount
 
 > DataExtensionRowCount(1)
 

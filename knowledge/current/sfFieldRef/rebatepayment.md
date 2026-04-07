@@ -5,12 +5,10 @@ topic: rebatepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.951Z
+lastCollected: 2026-04-07T18:39:58.609Z
 estimatedTokens: 268
 keywords: [RebatePayment, Tracks, payment, generated, member, back, end, processing]
 ---
-
-# RebatePayment
 
 > Tracks if the payment has been generated for this member for back end
       processing.

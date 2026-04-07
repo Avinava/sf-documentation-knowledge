@@ -5,12 +5,10 @@ topic: apextab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.536Z
+lastCollected: 2026-04-07T18:38:50.774Z
 estimatedTokens: 1458
-keywords: [apex, tab, <apex, tabPanel>, Attributes]
+keywords: [Attributes, apex, tab, <apex, tabPanel>]
 ---
-
-# apex:tab
 
 > A single tab in an <apex:tabPanel>.
 

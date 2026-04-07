@@ -5,12 +5,10 @@ topic: productfulfillmentlocationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.235Z
+lastCollected: 2026-04-07T18:39:55.805Z
 estimatedTokens: 278
-keywords: [ProductFulfillmentLocationHistory, History, tracked, ProductFulfillmentLocation]
+keywords: [ProductFulfillmentLocationHistory, tracked, ProductFulfillmentLocation]
 ---
-
-# ProductFulfillmentLocationHistory
 
 > History for tracked fields of ProductFulfillmentLocation.
 

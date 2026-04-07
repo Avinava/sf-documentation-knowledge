@@ -5,12 +5,10 @@ topic: topics-recently-used
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.259Z
+lastCollected: 2026-04-07T18:37:16.325Z
 estimatedTokens: 81
 keywords: [Topics, Recently, five, user]
 ---
-
-# Topics Recently Used
 
 > Get up to five topics most recently used by a
   user.

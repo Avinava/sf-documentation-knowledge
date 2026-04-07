@@ -5,12 +5,10 @@ topic: public-sector-solutions-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.334Z
+lastCollected: 2026-04-07T18:39:05.343Z
 estimatedTokens: 627
-keywords: [Sector, Solutions, Associated, Objects, standard, their]
+keywords: [Sector, Solutions, standard, their]
 ---
-
-# Public Sector Solutions Associated Objects
 
 > This section provides a list of objects associated to Public Sector Solutions standard
     objects with their standard fields.

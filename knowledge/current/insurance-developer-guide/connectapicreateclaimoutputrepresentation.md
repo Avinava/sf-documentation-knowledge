@@ -5,12 +5,10 @@ topic: connectapicreateclaimoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.408Z
+lastCollected: 2026-04-07T18:37:50.238Z
 estimatedTokens: 119
-keywords: [Output, representation, claim, operation]
+keywords: [claim, operation]
 ---
-
-# ConnectApi.CreateClaimOutputRepresentation
 
 > Output representation for a create or update claim operation.
 

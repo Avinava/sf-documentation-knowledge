@@ -5,12 +5,10 @@ topic: smart-data-discovery-contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.045Z
+lastCollected: 2026-04-07T18:36:59.536Z
 estimatedTokens: 82
-keywords: [Smart, Data, Discovery, Contact, Einstein]
+keywords: [Smart, Discovery, Contact, Einstein]
 ---
-
-# Smart Data Discovery Contact
 
 > An Einstein Discovery contact.
 

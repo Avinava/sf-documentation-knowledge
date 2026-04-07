@@ -5,12 +5,10 @@ topic: course-offering-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.945Z
+lastCollected: 2026-04-07T18:37:29.048Z
 estimatedTokens: 116
-keywords: [Course, Offering, Schedule, Input, representation, schedules, created, updated]
+keywords: [Course, Offering, Schedule, schedules, created, updated]
 ---
-
-# Course Offering Schedule Input
 
 > Input representation of the list of course offering schedules to be created or updated
     for the course offering.

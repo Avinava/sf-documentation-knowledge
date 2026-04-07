@@ -5,12 +5,10 @@ topic: programcohortmemberhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.243Z
+lastCollected: 2026-04-07T18:39:56.793Z
 estimatedTokens: 269
-keywords: [ProgramCohortMemberHistory, History, tracked, ProgramCohortMember]
+keywords: [ProgramCohortMemberHistory, tracked, ProgramCohortMember]
 ---
-
-# ProgramCohortMemberHistory
 
 > History for tracked fields of ProgramCohortMember.
 

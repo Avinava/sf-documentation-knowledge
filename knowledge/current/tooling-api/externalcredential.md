@@ -5,13 +5,11 @@ topic: externalcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.367Z
+lastCollected: 2026-04-07T18:36:32.842Z
 estimatedTokens: 3183
 namespace: CreatedByNamespace
-keywords: [ExternalCredential, how, Salesforce, authenticates, external, system, API, version, 56.0, later, SOAP, Calls, REST, ExternalCredentialParameter]
+keywords: [ExternalCredential, ExternalCredentialParameter, how, Salesforce, authenticates, external, system, API, 56.0, SOAP, REST]
 ---
-
-# ExternalCredential
 
 > Represents the details of how Salesforce authenticates to the external
             system. This object is available in API version 56.0 and later.

@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.272Z
+lastCollected: 2026-04-07T18:36:59.764Z
 estimatedTokens: 144
-keywords: [Smart, Data, Discovery, Predict, Error, Einstein, result]
+keywords: [Smart, Discovery, Predict, Error, Einstein, result]
 ---
-
-# Smart Data Discovery Predict Error
 
 > An Einstein Discovery predict error result.
 

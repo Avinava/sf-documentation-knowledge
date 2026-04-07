@@ -5,12 +5,10 @@ topic: user-profiles-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.028Z
+lastCollected: 2026-04-07T18:37:16.111Z
 estimatedTokens: 217
 keywords: [User, Profiles, Resource, user’s, profile]
 ---
-
-# User Profiles Resource
 
 > Get details about a user’s profile.
 

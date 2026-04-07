@@ -5,12 +5,10 @@ topic: pay-ex-gratia-claim-coverage-payment-detail-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.270Z
+lastCollected: 2026-04-07T18:37:51.260Z
 estimatedTokens: 89
-keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail, Input, representation]
+keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail]
 ---
-
-# Pay Ex Gratia Claim Coverage Payment Detail Input
 
 > Input representation for the ex gratia payment for the claim coverage payment
   detail.

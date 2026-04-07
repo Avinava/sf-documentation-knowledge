@@ -5,12 +5,10 @@ topic: ampscript-syntax-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.811Z
+lastCollected: 2026-04-07T18:40:24.296Z
 estimatedTokens: 492
-keywords: [AMPscript, document, correctly, form, function, calls, declare, variables, keywords, pages, key]
+keywords: [AMPscript, document, correctly, form, function, declare, variables, keywords, pages, key]
 ---
-
-# AMPscript Syntax Guide
 
 > Use the information in this document to correctly form AMPscript function calls, declare variables and values, and reference AMPscript keywords. Use the information on this page and in related pages to correctly form AMPscript function calls, declare variables and values, and reference AMPscript key
 

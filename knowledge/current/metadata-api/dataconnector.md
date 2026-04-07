@@ -5,12 +5,10 @@ topic: dataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.006Z
+lastCollected: 2026-04-07T18:36:24.345Z
 estimatedTokens: 1962
-keywords: [DataConnector, white-labeled, metadata, configuration, external, connector, Data, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [DataConnector, DataConnectorAttribute, DataConnectorAttributeOpt, DataConnectorError, white-labeled, metadata, configuration, external, connector, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataConnector
 
 > Represents the white-labeled metadata configuration for an external
 			connector in Data 360.

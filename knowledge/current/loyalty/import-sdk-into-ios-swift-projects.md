@@ -5,12 +5,10 @@ topic: import-sdk-into-ios-swift-projects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.361Z
+lastCollected: 2026-04-07T18:38:09.652Z
 estimatedTokens: 398
-keywords: [Import, SDK, iOS, Swift, Projects, clone, mobile, repository, Loyalty, Management, Xcode, automatically, download, manage, external]
+keywords: [Import, SDK, iOS, Swift, Projects, clone, mobile, repository, Loyalty, Management, Xcode, automatically, download, manage, external, dependencies]
 ---
-
-# Import SDK into iOS Swift Projects
 
 > After you clone the mobile SDK for iOS repository, import Loyalty Management Mobile SDK
   in Xcode to automatically download and manage external dependencies.

@@ -5,12 +5,10 @@ topic: extractdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.780Z
+lastCollected: 2026-04-07T18:40:16.936Z
 estimatedTokens: 559
 keywords: [ExtractDefinition, means, define, execute, extract, support, ExtractRequest, handle, requests, whenever, possible, Items]
 ---
-
-# ExtractDefinition
 
 > The ExtractDefinition object provides means to define and execute an extract request. This object does not support all extract types. Use ExtractRequest to handle all extract requests whenever possible.
 

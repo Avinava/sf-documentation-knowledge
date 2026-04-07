@@ -5,12 +5,10 @@ topic: add-the-search-view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.463Z
+lastCollected: 2026-04-07T18:40:25.841Z
 estimatedTokens: 386
-keywords: [Add, Search, View, screen, extend, Backbone.View, Let’s, start, defining, extension, load, template, define, subviews, event]
+keywords: [Add, Search, View, screen, extend, Backbone.View, Let’s, start, defining, extension, load, template, define, subviews, event, handlers, implement, functionality, rendering, views, performing]
 ---
-
-# Add the Search View
 
 > To create the view for a screen, you extend Backbone.View.
                 Let’s start by defining the search view. In this extension, you load the template,

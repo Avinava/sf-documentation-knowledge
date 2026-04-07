@@ -5,12 +5,10 @@ topic: apex-rest-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:33.184Z
+lastCollected: 2026-04-07T18:36:18.416Z
 estimatedTokens: 2691
-keywords: [Apex, REST, supports, two, formats, representations, resources, JSON, XML, passed, indicated, Content-Type, HTTP, retrieve, Considerations]
+keywords: [Apex, REST, supports, two, formats, representations, resources, JSON, XML, passed, indicated, Content-Type, HTTP, retrieve, Considerations, User-Defined, Status, Codes]
 ---
-
-# Apex REST Methods
 
 > Apex REST supports two formats for representations of resources:
                 JSON and XML. JSON representations are passed by default in the body of a request or

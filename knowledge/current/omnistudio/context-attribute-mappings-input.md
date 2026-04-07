@@ -5,12 +5,10 @@ topic: context-attribute-mappings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.030Z
+lastCollected: 2026-04-07T18:36:36.561Z
 estimatedTokens: 181
-keywords: [Context, Attribute, Mappings, Input, representation, mapping]
+keywords: [Context, Attribute, Mappings, mapping]
 ---
-
-# Context Attribute Mappings Input
 
 > Input representation of context attribute mapping.
 

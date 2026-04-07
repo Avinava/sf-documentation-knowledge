@@ -5,12 +5,10 @@ topic: feed-entity-share-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.967Z
+lastCollected: 2026-04-07T18:37:19.065Z
 estimatedTokens: 162
-keywords: [Feed, Entity, Share, Capability, element, comment, shared]
+keywords: [Entity, Share, Capability, comment, shared]
 ---
-
-# Feed Entity Share Capability
 
 > If a feed element or comment has this capability, a feed entity is shared with
     it.

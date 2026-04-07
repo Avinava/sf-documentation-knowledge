@@ -5,12 +5,10 @@ topic: managed-content-delivery-search-result-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.171Z
+lastCollected: 2026-04-07T18:37:20.355Z
 estimatedTokens: 192
 keywords: [Managed, Content, Delivery, Search, Result, Collection, paginated, results]
 ---
-
-# Managed Content Delivery Search Result Collection
 
 > Collection of paginated managed content delivery search results.
 

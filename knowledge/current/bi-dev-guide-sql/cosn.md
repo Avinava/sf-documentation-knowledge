@@ -5,12 +5,10 @@ topic: cosn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.239Z
+lastCollected: 2026-04-07T18:37:01.850Z
 estimatedTokens: 81
 keywords: [cos, cosine, radians, any, real, number, range, -1e308, 1e308, passed, argument]
 ---
-
-# cos(n)
 
 > Returns the cosine value of radians value n. n can be
   any real number in the range of -1e308 <= n <= 1e308. If null is

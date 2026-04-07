@@ -5,12 +5,10 @@ topic: expression-set-version-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.543Z
+lastCollected: 2026-04-07T18:39:02.762Z
 estimatedTokens: 348
-keywords: [Expression, Version, Output, representation]
+keywords: [Expression]
 ---
-
-# Expression Set Version Output
 
 > Output representation of an expression set version.
 

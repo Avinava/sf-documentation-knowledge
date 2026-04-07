@@ -5,12 +5,10 @@ topic: careprogramcampaignfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.937Z
+lastCollected: 2026-04-07T18:39:32.320Z
 estimatedTokens: 362
-keywords: [CareProgramCampaignFeed, Feed, tracking, CareProgramCampaign]
+keywords: [CareProgramCampaignFeed, CareProgramCampaign]
 ---
-
-# CareProgramCampaignFeed
 
 > Feed tracking for CareProgramCampaign.
 

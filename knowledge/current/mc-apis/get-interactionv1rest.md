@@ -5,12 +5,10 @@ topic: get-interactionv1rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.395Z
+lastCollected: 2026-04-07T18:40:18.597Z
 estimatedTokens: 2063
-keywords: [interaction, rest, Retrieves, discovery, document, collection, journey, resources, call, resource, assign, API, Integration, Automation, Interactions]
+keywords: [interaction, rest, Retrieves, discovery, document, collection, journey, resources, call, resource, assign, API, Integration, Automation, Interactions, scope, **Overview**]
 ---
-
-# GET /interaction/v1/rest
 
 > Retrieves the discovery document for the collection of journey resources. To call this resource, assign your API Integration the Automation | Interactions | Read scope.
 

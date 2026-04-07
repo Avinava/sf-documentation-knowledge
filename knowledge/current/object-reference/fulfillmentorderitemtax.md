@@ -5,12 +5,10 @@ topic: fulfillmentorderitemtax
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:42.162Z
+lastCollected: 2026-04-07T18:38:33.252Z
 estimatedTokens: 1285
-keywords: [FulfillmentOrderItemTax, tax, FulfillmentOrderLineItem, FulfillmentOrderItemAdjustment, Corresponds, OrderItemTaxLineItemSummary, API, version, 48.0, later, Calls, Special, Access, Rules]
+keywords: [FulfillmentOrderItemTax, tax, FulfillmentOrderLineItem, FulfillmentOrderItemAdjustment, Corresponds, OrderItemTaxLineItemSummary, API, 48.0]
 ---
-
-# FulfillmentOrderItemTax
 
 > Represents the tax on a FulfillmentOrderLineItem or
       FulfillmentOrderItemAdjustment. Corresponds to an OrderItemTaxLineItemSummary. This

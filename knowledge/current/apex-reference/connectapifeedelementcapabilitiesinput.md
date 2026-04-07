@@ -5,12 +5,10 @@ topic: connectapifeedelementcapabilitiesinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.104Z
+lastCollected: 2026-04-07T18:36:05.442Z
 estimatedTokens: 550
-keywords: [ConnectApi.FeedElementCapabilitiesInput, container, capabilities, included, creating, feed, element]
+keywords: [ConnectApi.FeedElementCapabilitiesInput, container, capabilities, included, creating]
 ---
-
-# ConnectApi.FeedElementCapabilitiesInput
 
 > A container for all capabilities that can be included when creating
       a feed element.

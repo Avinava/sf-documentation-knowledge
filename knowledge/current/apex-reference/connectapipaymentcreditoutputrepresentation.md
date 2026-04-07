@@ -5,12 +5,10 @@ topic: connectapipaymentcreditoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.460Z
+lastCollected: 2026-04-07T18:36:10.740Z
 estimatedTokens: 142
-keywords: [payment, credit, amount, order, summary, newly, created, transaction, applied, specific, generated, tracking]
+keywords: [payment, credit, amount, order, summary, newly, created, transaction, applied, specific, generated]
 ---
-
-# ConnectApi.PaymentCreditOutputRepresentation
 
 > The payment credit ID, amount, and order payment summary ID for a newly created payment
     credit. Represents a single credit transaction that was applied to a specific payment method

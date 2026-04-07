@@ -5,12 +5,10 @@ topic: rateadjustmentbytier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.468Z
+lastCollected: 2026-04-07T18:35:50.354Z
 estimatedTokens: 1257
-keywords: [RateAdjustmentByTier, adjustments, rate, resource, that’s, determined, tiers, stores, adjustment, any, applicable, boundaries, API, version, 62.0]
+keywords: [RateAdjustmentByTier, adjustments, rate, resource, that’s, determined, tiers, stores, adjustment, any, applicable, boundaries, API, 62.0]
 ---
-
-# RateAdjustmentByTier
 
 > Represents the adjustments for the rate of a resource that’s
          determined based on the specified tiers. This object stores information about the type of

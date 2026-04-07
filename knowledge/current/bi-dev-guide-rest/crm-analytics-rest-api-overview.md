@@ -5,12 +5,10 @@ topic: crm-analytics-rest-api-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:11.715Z
+lastCollected: 2026-04-07T18:36:58.274Z
 estimatedTokens: 1298
-keywords: [CRM, Analytics, REST, API, access, features, datasets, dashboards, lenses, programmatically]
+keywords: [CRM, Analytics, REST, API, features, datasets, dashboards, lenses, programmatically]
 ---
-
-# CRM Analytics REST API Overview
 
 > You can access CRM Analytics features such as datasets, dashboards, and lenses
     programmatically using the CRM Analytics REST API.

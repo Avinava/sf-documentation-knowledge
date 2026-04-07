@@ -5,13 +5,11 @@ topic: asynccondition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.970Z
+lastCollected: 2026-04-07T18:36:13.280Z
 estimatedTokens: 582
 namespace: TxnSecurity
-keywords: [AsyncCondition, implementing, asynchronous, Apex, calls, transaction, security, policies, created, Real-Time, Event, Monitoring, Usage, Implementation]
+keywords: [AsyncCondition, implementing, asynchronous, Apex, transaction, security, policies, created, Real-Time, Event, Monitoring, Implementation]
 ---
-
-# AsyncCondition Interface
 
 > Allows an implementing class to make asynchronous Apex calls. This
 			interface is used only for transaction security Apex policies created in Real-Time Event

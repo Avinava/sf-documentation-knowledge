@@ -5,12 +5,10 @@ topic: calculatedinsightrangeboundshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.754Z
+lastCollected: 2026-04-07T18:39:31.043Z
 estimatedTokens: 256
 keywords: [CalculatedInsightRangeBoundShare, Sharing, CalculatedInsightRangeBound]
 ---
-
-# CalculatedInsightRangeBoundShare
 
 > Sharing for CalculatedInsightRangeBound.
 

@@ -5,12 +5,10 @@ topic: responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.492Z
+lastCollected: 2026-04-07T18:39:03.677Z
 estimatedTokens: 215
 keywords: [Responses, Here’s, Identity, Verification, API, bodies, Record, Rollup, Definitions, Business, APIs]
 ---
-
-# Responses
 
 > Learn more about the available response bodies of Record Rollup Definitions Business
     APIs.

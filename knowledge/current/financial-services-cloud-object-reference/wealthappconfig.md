@@ -5,12 +5,10 @@ topic: wealthappconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.152Z
+lastCollected: 2026-04-07T18:37:39.070Z
 estimatedTokens: 173
-keywords: [WealthAppConfig, configuration, Financial, Services, Cloud, functionality, Calls]
+keywords: [WealthAppConfig, configuration, Financial, Services, Cloud, functionality]
 ---
-
-# WealthAppConfig
 
 > Represents configuration information for Financial Services Cloud
          functionality.

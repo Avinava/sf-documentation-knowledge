@@ -5,12 +5,10 @@ topic: running-the-contactexplorer-hybrid-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.023Z
+lastCollected: 2026-04-07T18:40:25.392Z
 estimatedTokens: 1438
-keywords: [Running, ContactExplorer, Hybrid, Sample, Let’s, look, app, included, Mobile, SDK, exercise, Mac, Windows, fully, validate]
+keywords: [Running, ContactExplorer, Hybrid, Sample, Let’s, look, app, included, Mobile, SDK, exercise, Mac, Windows, fully, validate, iOS, target]
 ---
-
-# Running the ContactExplorer Hybrid Sample
 
 > Let’s look at the ContactExplorer sample app, which is included in Mobile SDK.
                      You can do this exercise on Mac

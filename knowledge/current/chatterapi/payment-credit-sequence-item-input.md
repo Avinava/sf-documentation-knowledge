@@ -5,12 +5,10 @@ topic: payment-credit-sequence-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.706Z
+lastCollected: 2026-04-07T18:37:09.433Z
 estimatedTokens: 131
-keywords: [Payment, Credit, Sequence, Item, Input, Order, Summary, amount, individual, items, specific, applied, transaction]
+keywords: [Payment, Credit, Sequence, Item, Order, Summary, amount, individual, items, specific, applied, transaction]
 ---
-
-# Payment Credit Sequence Item Input
 
 > Order Payment Summary ID, credit amount, and credit type for individual payment credit
     items. Each item represents a specific payment method and the amount of credit to be applied to

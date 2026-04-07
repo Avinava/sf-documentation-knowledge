@@ -5,12 +5,10 @@ topic: authenticatedmemberid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.584Z
+lastCollected: 2026-04-07T18:40:21.910Z
 estimatedTokens: 108
-keywords: [AuthenticatedMemberID, **Overview**, **Syntax**, Usage]
+keywords: [AuthenticatedMemberID, **Overview**, **Syntax**]
 ---
-
-# AuthenticatedMemberID
 
 > AuthenticatedMemberID()
 

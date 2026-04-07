@@ -5,12 +5,10 @@ topic: get-list-view-records-and-metadata-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.102Z
+lastCollected: 2026-04-07T18:40:11.095Z
 estimatedTokens: 872
-keywords: [View, Records, Metadata, Deprecated, record, data]
+keywords: [View, Records, Metadata, Deprecated, record]
 ---
-
-# Get List View Records and Metadata (Deprecated)
 
 > Get record data and metadata for a list view.
 

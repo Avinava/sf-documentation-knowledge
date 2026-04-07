@@ -5,12 +5,10 @@ topic: decision-explainer-for-expression-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:10.131Z
+lastCollected: 2026-04-07T18:39:03.366Z
 estimatedTokens: 384
-keywords: [Decision, Explainer, Expression, audit-like, service, applications, store, their, application, data, explain, past, events, stored, retrieved]
+keywords: [Decision, Explainer, Expression, audit-like, service, applications, store, their, application, explain, past, events, stored, retrieved, reporting, custom-built, user, interfaces]
 ---
-
-# Decision Explainer for Expression Set
 
 > Decision Explainer is an audit-like service that can be used by applications to store
         their application data to explain past events. The stored data can be retrieved later for

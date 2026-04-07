@@ -5,12 +5,10 @@ topic: supportclicktodial
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.514Z
+lastCollected: 2026-04-07T18:38:50.750Z
 estimatedTokens: 485
-keywords: [support, clickToDial, component, renders, phone, number, click-to-dial, enabled, Open, CTI, Salesforce, Classic, CRM, Call, Center]
+keywords: [Attributes, support, clickToDial, renders, phone, number, click-to-dial, enabled, Open, CTI, Salesforce, Classic, CRM, Call, Center, respects, any, commands, computer-telephony, integrations, displays, click, dial]
 ---
-
-# support:clickToDial
 
 > A component that renders a valid phone number as click-to-dial enabled for Open CTI for Salesforce Classic or Salesforce CRM Call Center. This field respects any existing click-to-dial commands for computer-telephony integrations (CTI) with Salesforce.
 

@@ -5,12 +5,10 @@ topic: display-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.594Z
+lastCollected: 2026-04-07T18:40:11.598Z
 estimatedTokens: 68
 keywords: [Display, Layout, Search, lookups, target, metadata]
 ---
-
-# Display Layout
 
 > Search lookups target display layout metadata.
 

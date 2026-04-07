@@ -5,12 +5,10 @@ topic: handling-ghost-records-after-sync-down-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.370Z
+lastCollected: 2026-04-07T18:40:25.739Z
 estimatedTokens: 882
-keywords: [Handling, “Ghost”, Records, Sync, Down, Operations, you’re, finding, sometimes, leave, unwanted, SmartStore, soups, cleanResyncGhosts, API]
+keywords: [Handling, “Ghost”, Records, Sync, Down, Operations, you’re, finding, sometimes, leave, unwanted, SmartStore, soups, cleanResyncGhosts, API, rid, Targets, Preparing, Calling, Deprecations, Mobile, SDK, 7.1]
 ---
-
-# Handling “Ghost” Records After Sync Down Operations
 
 > If you’re finding that sync down operations sometimes leave unwanted records in your SmartStore soups, you can use the cleanResyncGhosts API to get rid of them.
 

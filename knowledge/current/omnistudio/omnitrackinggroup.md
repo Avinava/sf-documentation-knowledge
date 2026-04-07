@@ -5,12 +5,10 @@ topic: omnitrackinggroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.262Z
+lastCollected: 2026-04-07T18:36:42.948Z
 estimatedTokens: 1399
-keywords: [OmniTrackingGroup, group, FlexCard, OmniScript, components, their, user, interactions, tracked, together, OmniAnalytics, Parent, File, Suffix, Directory, API, version, 60.0, later]
+keywords: [OmniTrackingGroup, OmniTrackingComponentDef, group, FlexCard, OmniScript, their, user, interactions, tracked, together, OmniAnalytics, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 60.0]
 ---
-
-# OmniTrackingGroup
 
 > Represents a group of FlexCard and OmniScript components that have
 			their user interactions tracked together in OmniAnalytics.

@@ -5,12 +5,10 @@ topic: concerts-in-your-area
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.676Z
+lastCollected: 2026-04-07T18:40:22.026Z
 estimatedTokens: 2620
-keywords: [Concerts, Area, demonstrates, how, AMPscript, conjunction, data, extensions, send, email, message, subscribers, occurring, their, contents]
+keywords: [AMPscript, Concerts, Area, demonstrates, how, conjunction, extensions, send, email, message, subscribers, occurring, their, contents, depend, subscriber's, stated, genre, performances, Download, file, containing, sample, code, Relationships]
 ---
-
-# Concerts in your Area
 
 > This information demonstrates how to use AMPscript in conjunction with data extensions to send an email message to subscribers about concerts occurring in their area. The contents of the email depend on the subscriber's stated genre performances. Download a file containing the sample code for this s
 

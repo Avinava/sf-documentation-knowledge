@@ -5,12 +5,10 @@ topic: assetrateadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.179Z
+lastCollected: 2026-04-07T18:38:26.124Z
 estimatedTokens: 437
-keywords: [AssetRateAdjustment, Stores, tier, rate, adjustments, asset, card, entries, API, version, 62.0, later, Calls, Special, Access]
+keywords: [AssetRateAdjustment, Stores, tier, rate, adjustments, asset, card, entries, API, 62.0]
 ---
-
-# AssetRateAdjustment
 
 > Stores the tier rate adjustments for the asset rate card
          entries. This object is available in API version 62.0 and later.

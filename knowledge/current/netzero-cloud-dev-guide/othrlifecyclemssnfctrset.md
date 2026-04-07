@@ -5,12 +5,10 @@ topic: othrlifecyclemssnfctrset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.490Z
+lastCollected: 2026-04-07T18:38:19.158Z
 estimatedTokens: 1078
-keywords: [OthrLifecyclEmssnFctrSet, collection, emissions, factors, calculate, occur, throughout, fuel, lifecycle, extraction, end-of-life, fuels, stationary, vehicle, assets]
+keywords: [OthrLifecyclEmssnFctrSet, collection, emissions, factors, calculate, occur, throughout, fuel, lifecycle, extraction, end-of-life, fuels, stationary, vehicle, assets, electricity, API, 66.0]
 ---
-
-# OthrLifecyclEmssnFctrSet
 
 > Represents a collection of emissions factors used to calculate emissions that
          occur throughout the fuel lifecycle, from extraction to end-of-life. These fuels are used

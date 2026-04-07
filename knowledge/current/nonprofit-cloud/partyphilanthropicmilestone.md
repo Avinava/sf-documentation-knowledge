@@ -5,12 +5,10 @@ topic: partyphilanthropicmilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:32.012Z
+lastCollected: 2026-04-07T18:38:22.985Z
 estimatedTokens: 1864
-keywords: [PartyPhilanthropicMilestone, philanthropic, activities, financial, status, period, time, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [PartyPhilanthropicMilestone, philanthropic, activities, financial, status, period, time, API, 63.0]
 ---
-
-# PartyPhilanthropicMilestone
 
 > Represents philanthropic activities and financial status for a period of
          time. This object is available in API version 63.0 and later.

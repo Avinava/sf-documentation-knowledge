@@ -5,12 +5,10 @@ topic: know-your-orgs-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.695Z
+lastCollected: 2026-04-07T18:38:56.252Z
 estimatedTokens: 584
 keywords: [Know, Orgs, Second-Generation, Managed, Packages, packaging, 2GP, unique, purpose, Choose, Dev, Hub, Org]
 ---
-
-# Know Your Orgs for Second-Generation Managed Packages
 
 > Some of the orgs that you use with second-generation managed packaging (managed 2GP) have
         a unique purpose.

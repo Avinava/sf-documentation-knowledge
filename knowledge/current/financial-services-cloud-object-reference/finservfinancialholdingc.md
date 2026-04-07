@@ -5,12 +5,10 @@ topic: finservfinancialholdingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.541Z
+lastCollected: 2026-04-07T18:37:37.323Z
 estimatedTokens: 931
-keywords: [FinServ_FinancialHolding__c, financial, holding, investment, account, shares, stock, FinServ, _FinancialHolding, Calls]
+keywords: [FinServ_FinancialHolding__c, financial, holding, investment, account, shares, stock, FinServ, _FinancialHolding]
 ---
-
-# FinServ_FinancialHolding__c
 
 > Represents a financial holding in an investment account, such as shares
    of stock.

@@ -5,12 +5,10 @@ topic: bucket-v2-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.509Z
+lastCollected: 2026-04-07T18:39:18.190Z
 estimatedTokens: 129
-keywords: [Bucket, Node, Input, version, recipe, improved, functionality]
+keywords: [Bucket, Node, recipe, improved, functionality]
 ---
-
-# Bucket V2 Node Input
 
 > A version 2 bucket node in a recipe, with improved functionality.
 

@@ -5,12 +5,10 @@ topic: apexselectradio
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.442Z
+lastCollected: 2026-04-07T18:38:50.681Z
 estimatedTokens: 2060
-keywords: [apex, selectRadio, radio, button, input, elements, Unlike, checkboxes, selected, time, Attributes]
+keywords: [Attributes, apex, selectRadio, radio, button, Unlike, checkboxes, selected, time]
 ---
-
-# apex:selectRadio
 
 > A set of related radio button input elements, displayed in a
 		table. Unlike checkboxes, only one radio button can be selected at a

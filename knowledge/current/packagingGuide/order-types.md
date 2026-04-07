@@ -5,12 +5,10 @@ topic: order-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.623Z
+lastCollected: 2026-04-07T18:38:46.495Z
 estimatedTokens: 567
 keywords: [Order, Channel, App, COA, choose, tells, Salesforce, how, process, products, select, correct, customer’s, needs]
 ---
-
-# Order Types
 
 > When you create an order in the Channel Order App (COA), you choose an order type that
     tells Salesforce how to process the products on the order. Learn how to select the correct type

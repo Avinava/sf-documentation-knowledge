@@ -5,13 +5,11 @@ topic: salesforce-surveys-apex-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.755Z
+lastCollected: 2026-04-07T18:39:17.414Z
 estimatedTokens: 250
 namespace: ConnectApi
 keywords: [Salesforce, Surveys, Apex, Classes, ConnectApi, Connect, sfdc_surveys, creating, sending, survey, invitations]
 ---
-
-# Salesforce Surveys Apex Classes
 
 > Salesforce Surveys provides the ConnectApi namespace (also called Connect in Apex) and sfdc_surveys namespace that contains classes for creating and sending survey
       invitations.

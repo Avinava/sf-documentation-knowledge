@@ -5,12 +5,10 @@ topic: dataflow-job-node-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.594Z
+lastCollected: 2026-04-07T18:36:57.114Z
 estimatedTokens: 190
 keywords: [Dataflow, Job, Node, Collection, nodes, Analytics]
 ---
-
-# Dataflow Job Node Collection
 
 > The collection of nodes for an Analytics dataflow job.
 

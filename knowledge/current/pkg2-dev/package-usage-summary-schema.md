@@ -5,12 +5,10 @@ topic: package-usage-summary-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.403Z
+lastCollected: 2026-04-07T18:38:54.782Z
 estimatedTokens: 869
-keywords: [Package, Usage, Summary, Schema, discover, how, users, access, operations, they, perform]
+keywords: [Package, Summary, Schema, discover, how, users, operations, they, perform]
 ---
-
-# Package Usage Summary Schema
 
 > Use the package usage summary to discover how many users access your package and which
   operations they perform.

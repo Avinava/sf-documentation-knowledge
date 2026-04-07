@@ -5,12 +5,10 @@ topic: payexgratiaclaimcvrpaymentdetailclaimid-coverageid-paymentdetailid-payexg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.457Z
+lastCollected: 2026-04-07T18:37:49.289Z
 estimatedTokens: 420
-keywords: [PayExGratiaClaimCvrPaymentDetail, claimId, coverageId, paymentDetailId, PayExGratiaClaimCvrPaymentDetailInput, Process, gratia, payment, claim, coverage, detail, record, API, Version, Requires]
+keywords: [PayExGratiaClaimCvrPaymentDetail, claimId, coverageId, paymentDetailId, PayExGratiaClaimCvrPaymentDetailInput, Process, gratia, payment, claim, coverage, detail, record, API, Requires, Chatter]
 ---
-
-# PayExGratiaClaimCvrPaymentDetail(claimId, coverageId, paymentDetailId, PayExGratiaClaimCvrPaymentDetailInput)
 
 > Process an ex gratia payment for a claim coverage payment detail record.
 

@@ -5,12 +5,10 @@ topic: introduction-to-mobile-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.879Z
+lastCollected: 2026-04-07T18:40:27.100Z
 estimatedTokens: 225
-keywords: [Introduction, Mobile, Development, impromptu, videos, geolocation, online, shopping, people, everywhere, modern, devices, consume, content, Corporate]
+keywords: [Introduction, Mobile, Development, impromptu, videos, geolocation, online, shopping, people, everywhere, modern, devices, consume, content, Corporate, employees, too, smart, connect, customers, stay, touch, coworkers, engage, social, networks]
 ---
-
-# Introduction to Mobile Development
 
 > From impromptu videos to mobile geolocation to online shopping, people everywhere use modern
    mobile devices to create and consume content. Corporate employees, too, use smart devices to

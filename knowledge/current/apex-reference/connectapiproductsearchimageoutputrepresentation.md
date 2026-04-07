@@ -5,12 +5,10 @@ topic: connectapiproductsearchimageoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.885Z
+lastCollected: 2026-04-07T18:36:11.149Z
 estimatedTokens: 126
-keywords: [Output, representation, product, search, image]
+keywords: [product, search, image]
 ---
-
-# ConnectApi.ProductSearchImageOutputRepresentation
 
 > Output representation of the product search image.
 

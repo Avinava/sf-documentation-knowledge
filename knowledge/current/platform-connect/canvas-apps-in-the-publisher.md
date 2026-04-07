@@ -5,12 +5,10 @@ topic: canvas-apps-in-the-publisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.356Z
+lastCollected: 2026-04-07T18:38:57.146Z
 estimatedTokens: 1179
-keywords: [Canvas, Apps, Publisher, expose, quick, actions, users, access, common, organization, expand, include, app, leverage, custom]
+keywords: [Canvas, Apps, Publisher, expose, quick, actions, users, common, organization, expand, include, app, leverage]
 ---
-
-# Canvas Apps in the Publisher
 
 > Canvas
                 enables you to expose your canvas apps as quick actions. The publisher allows users

@@ -5,12 +5,10 @@ topic: cgcloudtourobjectreferencec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.823Z
+lastCollected: 2026-04-07T18:39:15.310Z
 estimatedTokens: 1385
-keywords: [cgcloud__Tour_Object_Reference__c, Stores, references, tour, API, version, 54.0, later, cgcloud, _Tour, _Object, _Reference, Calls, Associated, Objects]
+keywords: [cgcloud__Tour_Object_Reference__c, Stores, references, tour, API, 54.0, cgcloud, _Tour, _Object, _Reference]
 ---
-
-# cgcloud__Tour_Object_Reference__c
 
 > Stores the details of the object references of a tour. This
       object is available in API version 54.0 and later.

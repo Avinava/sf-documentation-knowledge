@@ -5,12 +5,10 @@ topic: why-crm-analytics-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.923Z
+lastCollected: 2026-04-07T18:37:02.474Z
 estimatedTokens: 845
 keywords: [Why, CRM, Analytics, Templates, bring, investment, app, development, life]
 ---
-
-# Why CRM Analytics Templates?
 
 > Templates can bring the investment you make in CRM Analytics app development to
   life.

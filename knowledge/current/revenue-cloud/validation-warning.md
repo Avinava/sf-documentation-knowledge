@@ -5,12 +5,10 @@ topic: validation-warning
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.965Z
+lastCollected: 2026-04-07T18:35:46.979Z
 estimatedTokens: 127
-keywords: [Validation, Output, representation, warnings, grouped, rule]
+keywords: [Validation, warnings, grouped, rule]
 ---
-
-# Validation Warning
 
 > Output representation of the validation warnings grouped by rule name.
 

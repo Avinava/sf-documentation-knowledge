@@ -5,12 +5,10 @@ topic: example-delivered-enriched-event-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.454Z
+lastCollected: 2026-04-07T18:37:05.186Z
 estimatedTokens: 836
 keywords: [Delivered, Enriched, Event, Messages, Check, contain, operations]
 ---
-
-# Example: Delivered Enriched Event Messages
 
 > Check out example event messages that contain enriched fields for update and delete
     operations.

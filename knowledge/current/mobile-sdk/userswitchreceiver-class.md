@@ -5,12 +5,10 @@ topic: userswitchreceiver-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.412Z
+lastCollected: 2026-04-07T18:40:26.696Z
 estimatedTokens: 489
-keywords: [UserSwitchReceiver, native, Android, app, caches, data, tokens, implement, abstract, receive, notifications, user, switching, events]
+keywords: [UserSwitchReceiver, native, Android, app, caches, tokens, implement, abstract, receive, notifications, user, switching, events]
 ---
-
-# UserSwitchReceiver Class
 
 > If your native Android app caches data other than tokens, implement the UserSwitchReceiver abstract class to receive notifications of user
   switching events.

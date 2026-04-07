@@ -5,12 +5,10 @@ topic: pricing-waterfall-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.815Z
+lastCollected: 2026-04-07T18:35:44.823Z
 estimatedTokens: 381
 keywords: [Pricing, Waterfall, POST, log, price, insights, every, step, process]
 ---
-
-# Pricing Waterfall (POST)
 
 > Create a log of price waterfall. Price waterfall provides insights
       into every step of the pricing process.

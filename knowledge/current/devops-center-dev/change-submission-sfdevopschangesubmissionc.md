@@ -5,12 +5,10 @@ topic: change-submission-sfdevopschangesubmissionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.526Z
+lastCollected: 2026-04-07T18:37:28.547Z
 estimatedTokens: 1277
-keywords: [Change, Submission, sf_devops__Change_Submission__c, submitted, committed, work, item, feature, branch, includes, relevant, metadata, files, orgs, DevOps]
+keywords: [Change, Submission, sf_devops__Change_Submission__c, submitted, committed, work, item, feature, branch, includes, relevant, metadata, files, orgs, DevOps, Center, installed, _devops, _Change, _Submission]
 ---
-
-# Change Submission (sf_devops__Change_Submission__c)
 
 > Represents a change that was submitted (committed) to the work item feature
          branch. The change includes relevant metadata files. This object is available in all

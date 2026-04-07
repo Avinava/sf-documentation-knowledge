@@ -5,12 +5,10 @@ topic: display-profile-attribute-values-in-an-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.672Z
+lastCollected: 2026-04-07T18:40:23.082Z
 estimatedTokens: 217
 keywords: [Display, Profile, Attribute, Email, sample, server-side, JavaScript, demonstrates, how, subscriber, attributes, inside, message, Code]
 ---
-
-# Display Profile Attribute Values in an Email
 
 > This sample server-side JavaScript demonstrates how to display subscriber profile attributes inside an email message.
 

@@ -5,12 +5,10 @@ topic: apexpageblocksection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.110Z
+lastCollected: 2026-04-07T18:38:50.373Z
 estimatedTokens: 1504
-keywords: [apex, pageBlockSection, data, <apex, pageBlock>, component, similar, standard, Salesforce, layout, definition, Attributes, Facets]
+keywords: [Attributes, Facets, apex, pageBlockSection, <apex, pageBlock>, similar, standard, Salesforce, layout, definition]
 ---
-
-# apex:pageBlockSection
 
 > A section of data within an <apex:pageBlock> component, similar to a section in a standard Salesforce page layout definition.
 

@@ -5,12 +5,10 @@ topic: connectapipaymentmethodtokenizationgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.489Z
+lastCollected: 2026-04-07T18:36:10.764Z
 estimatedTokens: 128
-keywords: [Payment, tokenization, gateway, representation]
+keywords: [Payment, tokenization, gateway]
 ---
-
-# ConnectApi.PaymentMethodTokenizationGatewayResponse
 
 > Payment method tokenization gateway response
     representation.

@@ -5,12 +5,10 @@ topic: goal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.825Z
+lastCollected: 2026-04-07T18:37:58.348Z
 estimatedTokens: 810
-keywords: [Goal, FHIR, resource, maps, Goal​Assignment​, Goal​AssignmentDetail​, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Goal, FHIR, resource, maps, Goal​Assignment​, Goal​AssignmentDetail​, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Goal
 
 > The Goal FHIR resource maps to the Goal​Assignment​ and Goal​AssignmentDetail​ objects in Salesforce.
 

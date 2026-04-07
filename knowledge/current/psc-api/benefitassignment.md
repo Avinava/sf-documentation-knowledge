@@ -5,12 +5,10 @@ topic: benefitassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:12.828Z
+lastCollected: 2026-04-07T18:39:05.821Z
 estimatedTokens: 2446
-keywords: [BenefitAssignment, enrollment, individual, business, captured, application, unemployed, raise, requesting, help, government, approved, enrolled, unemployment, insurance]
+keywords: [BenefitAssignment, enrollment, individual, business, captured, application, unemployed, raise, requesting, help, government, approved, enrolled, unemployment, insurance, benefit, API, 52.0]
 ---
-
-# BenefitAssignment
 
 > Represents the enrollment information of an individual or business that is
          captured in an application. For example, an individual who is unemployed can raise an

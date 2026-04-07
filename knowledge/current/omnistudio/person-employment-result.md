@@ -5,12 +5,10 @@ topic: person-employment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.456Z
+lastCollected: 2026-04-07T18:36:40.202Z
 estimatedTokens: 551
-keywords: [Person, Employment, Result, Output, representation]
+keywords: [Person, Employment, Result]
 ---
-
-# Person Employment Result
 
 > Output representation of the person employment result.
 

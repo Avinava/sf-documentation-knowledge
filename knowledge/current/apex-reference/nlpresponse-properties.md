@@ -5,12 +5,10 @@ topic: nlpresponse-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.723Z
+lastCollected: 2026-04-07T18:36:13.009Z
 estimatedTokens: 140
 keywords: [NlpResponse]
 ---
-
-# NlpResponse Properties
 
 > The following are properties for NlpResponse.
 

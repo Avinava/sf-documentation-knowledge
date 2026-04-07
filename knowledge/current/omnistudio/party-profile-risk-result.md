@@ -5,12 +5,10 @@ topic: party-profile-risk-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.441Z
+lastCollected: 2026-04-07T18:36:40.188Z
 estimatedTokens: 470
-keywords: [Party, Profile, Risk, Result, Output, representation]
+keywords: [Party, Profile, Risk, Result]
 ---
-
-# Party Profile Risk Result
 
 > Output representation of the party profile risk result.
 

@@ -5,12 +5,10 @@ topic: actionplantmplitmassessmentind
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.721Z
+lastCollected: 2026-04-07T18:39:24.626Z
 estimatedTokens: 339
-keywords: [ActionPlanTmplItmAssessmentInd, action, plan, template, items, assessment, indicator, definitions, associated]
+keywords: [ActionPlanTmplItmAssessmentInd, action, plan, template, items, assessment, indicator, definitions]
 ---
-
-# ActionPlanTmplItmAssessmentInd
 
 > Represents the action plan template items and the assessment indicator
          definitions associated with them.

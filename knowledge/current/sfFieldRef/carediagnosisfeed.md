@@ -5,12 +5,10 @@ topic: carediagnosisfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.373Z
+lastCollected: 2026-04-07T18:39:31.740Z
 estimatedTokens: 359
-keywords: [CareDiagnosisFeed, Feed, tracking, CareDiagnosis]
+keywords: [CareDiagnosisFeed, CareDiagnosis]
 ---
-
-# CareDiagnosisFeed
 
 > Feed tracking for CareDiagnosis.
 

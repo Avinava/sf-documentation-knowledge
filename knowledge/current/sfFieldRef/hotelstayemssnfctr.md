@@ -5,12 +5,10 @@ topic: hotelstayemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.426Z
+lastCollected: 2026-04-07T18:39:44.072Z
 estimatedTokens: 360
 keywords: [HotelStayEmssnFctr, emissions, factors, scope, hotel, stay]
 ---
-
-# HotelStayEmssnFctr
 
 > Represents the emissions factors for scope 3 hotel stay.
 

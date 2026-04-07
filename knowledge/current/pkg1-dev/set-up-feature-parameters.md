@@ -5,12 +5,10 @@ topic: set-up-feature-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.493Z
+lastCollected: 2026-04-07T18:38:53.806Z
 estimatedTokens: 262
 keywords: [Feature, Management, App, License, Org, define, add, package]
 ---
-
-# Set Up Feature Parameters
 
 > Set up the Feature Management App in your License Management Org, define feature
     parameters, and add them to your package.

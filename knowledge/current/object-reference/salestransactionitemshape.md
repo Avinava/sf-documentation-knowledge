@@ -5,12 +5,10 @@ topic: salestransactionitemshape
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:48.798Z
+lastCollected: 2026-04-07T18:38:40.383Z
 estimatedTokens: 3396
-keywords: [SalesTransactionItemShape, business, logic, sales, transaction, shape, item, order, API, version, 57.0, later, Calls, Special, Access]
+keywords: [SalesTransactionItemShape, business, logic, sales, transaction, shape, item, order, API, 57.0]
 ---
-
-# SalesTransactionItemShape
 
 > Defines the business logic for a sales transaction shape item, for
 			example, an item in an order. This object is available in API version 57.0 and

@@ -5,12 +5,10 @@ topic: calculate-projected-rebate-amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.930Z
+lastCollected: 2026-04-07T18:37:05.628Z
 estimatedTokens: 1112
-keywords: [Calculate, Projected, Rebate, Amount, associated, transaction, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Calculate, Projected, Rebate, Amount, transaction, REST, HTTP]
 ---
-
-# Calculate Projected Rebate Amount
 
 > Calculate the projected rebate amount for rebate types associated with
       a specified transaction reference ID.

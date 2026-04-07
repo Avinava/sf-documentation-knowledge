@@ -5,12 +5,10 @@ topic: report-execution-filter-types-and-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.055Z
+lastCollected: 2026-04-07T18:39:11.624Z
 estimatedTokens: 275
 keywords: [Report, Execution, Filter, Limits, different, filters, specify, execute, singleselect, multiselect, periodmonth, periodweek, hidden, fixed, subaccount]
 ---
-
-# Report Execution Filter Types and Limits
 
 > Here are the different types of filters you can specify to execute a
     report.

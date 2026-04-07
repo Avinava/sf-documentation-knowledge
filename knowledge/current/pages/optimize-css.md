@@ -5,12 +5,10 @@ topic: optimize-css
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.651Z
+lastCollected: 2026-04-07T18:38:48.599Z
 estimatedTokens: 370
 keywords: [Optimize, CSS, ensure, efficient, delivery, client, Visualforce, Optimized, improves, caching, reduces, load, times]
 ---
-
-# Optimize CSS
 
 > To ensure
     efficient delivery to the client,

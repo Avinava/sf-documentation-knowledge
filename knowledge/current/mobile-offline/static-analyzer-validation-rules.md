@@ -5,12 +5,10 @@ topic: static-analyzer-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.787Z
+lastCollected: 2026-04-07T18:38:15.267Z
 estimatedTokens: 343
-keywords: [Analyzer, Validation, Rules, validates, various, code, constructs, references, Lightning, web, components, wire, decorators, server, calls]
+keywords: [Analyzer, Validation, validates, various, code, constructs, references, Lightning, web, wire, decorators, server, support, offline, priming, majority, focus, determining, whether, dependencies, imports, modules, resolved, correct, offline-compatible, adapters]
 ---
-
-# Static Analyzer Validation Rules
 
 > The static analyzer validates that various code constructs and references in Lightning
   web components, such as wire decorators and server calls, support offline priming. The majority of

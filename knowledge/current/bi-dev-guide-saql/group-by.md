@@ -5,12 +5,10 @@ topic: group-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.645Z
+lastCollected: 2026-04-07T18:37:01.251Z
 estimatedTokens: 806
 keywords: [group-by, Organizes, rows, query, groups, group, apply, aggregate, function, count, sum, number, items, respectively]
 ---
-
-# group-by
 
 > Organizes the rows returned from a query into groups. Within each group, you can apply
     an aggregate function, such as count() or sum() to get the number of items or sum,

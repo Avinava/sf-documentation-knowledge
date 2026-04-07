@@ -5,12 +5,10 @@ topic: sample-data-categorization-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.337Z
+lastCollected: 2026-04-07T18:40:12.353Z
 estimatedTokens: 324
-keywords: [Sample, Data, Categorization, Formulas, categorizations, Deal, Size, Large, Small, Product]
+keywords: [Sample, Categorization, Formulas, categorizations, Deal, Size, Large, Small, Product]
 ---
-
-# Sample Data Categorization Formulas
 
 > Use these formulas for data categorizations.
 

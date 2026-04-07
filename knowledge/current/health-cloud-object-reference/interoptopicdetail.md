@@ -5,12 +5,10 @@ topic: interoptopicdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.740Z
+lastCollected: 2026-04-07T18:37:47.326Z
 estimatedTokens: 837
-keywords: [InteropTopicDetail, interoperability, topic, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [InteropTopicDetail, interoperability, topic, API, 64.0]
 ---
-
-# InteropTopicDetail
 
 > Represents the details of an interoperability topic. This object is
       available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: adjustment-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.764Z
+lastCollected: 2026-04-07T18:35:42.650Z
 estimatedTokens: 133
-keywords: [Adjustment, Input, representation]
+keywords: [Adjustment]
 ---
-
-# Adjustment Details Input
 
 > Input representation of the adjustment details.
 

@@ -5,12 +5,10 @@ topic: recruitmentpostingcntntsect
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.357Z
+lastCollected: 2026-04-07T18:39:07.576Z
 estimatedTokens: 828
-keywords: [RecruitmentPostingCntntSect, junction, recruitment, posting, content, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [RecruitmentPostingCntntSect, junction, recruitment, posting, content, API, 62.0]
 ---
-
-# RecruitmentPostingCntntSect
 
 > Represents a junction between a recruitment posting and a recruitment
          content section. This object is available in API version 62.0 and later.

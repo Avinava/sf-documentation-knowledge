@@ -5,12 +5,10 @@ topic: alternative-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.453Z
+lastCollected: 2026-04-07T18:37:07.167Z
 estimatedTokens: 123
-keywords: [Alternative, Input, representation, extension, feed, element]
+keywords: [Alternative, extension]
 ---
-
-# Alternative Input
 
 > Alternative representation for an extension on a feed
     element.

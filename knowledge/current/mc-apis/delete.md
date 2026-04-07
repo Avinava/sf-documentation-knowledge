@@ -5,12 +5,10 @@ topic: delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.334Z
+lastCollected: 2026-04-07T18:40:16.474Z
 estimatedTokens: 469
-keywords: [objects, individually, batches, Multiple, deleted, call, order, they, added, APIObject, array, Output]
+keywords: [individually, batches, Multiple, deleted, call, order, they, added, APIObject, array]
 ---
-
-# Delete
 
 > Use the Delete method to delete objects individually or in batches. Multiple object types can be deleted with one call. Objects are deleted in the order they are added to the APIObject array.
 

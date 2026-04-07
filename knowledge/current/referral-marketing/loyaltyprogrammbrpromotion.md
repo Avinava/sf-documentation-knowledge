@@ -5,12 +5,10 @@ topic: loyaltyprogrammbrpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.654Z
+lastCollected: 2026-04-07T18:39:10.039Z
 estimatedTokens: 878
-keywords: [LoyaltyProgramMbrPromotion, junction, advocate, promotion, track, whether, signed, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyProgramMbrPromotion, junction, advocate, promotion, track, whether, signed, API, 49.0]
 ---
-
-# LoyaltyProgramMbrPromotion
 
 > Represents a junction between an advocate and a promotion and is used
          to track whether an advocate has signed up for a promotion. This object is available

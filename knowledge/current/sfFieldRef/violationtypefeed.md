@@ -5,12 +5,10 @@ topic: violationtypefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.025Z
+lastCollected: 2026-04-07T18:40:05.903Z
 estimatedTokens: 359
-keywords: [ViolationTypeFeed, Feed, tracking, ViolationType]
+keywords: [ViolationTypeFeed, ViolationType]
 ---
-
-# ViolationTypeFeed
 
 > Feed tracking for ViolationType.
 

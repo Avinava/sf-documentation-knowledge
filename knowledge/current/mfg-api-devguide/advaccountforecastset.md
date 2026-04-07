@@ -5,12 +5,10 @@ topic: advaccountforecastset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.566Z
+lastCollected: 2026-04-07T18:38:12.879Z
 estimatedTokens: 2559
-keywords: [AdvAccountForecastSet, forecast, define, configurations, business, unit, different, groups, accounts, separate, account, level, focus, account-specific, data, collection, advanced, API, version, 53.0]
+keywords: [AdvAccountForecastSet, AdvAccountForecastFormula, AdvAcctForecastAdjPeriod, AdvAcctForecastDimension, AdvAcctForecastMeasureDef, AdvAcctFrcstDisplayGroup, AdvAcctFrcstDplyGroupItem, forecast, define, configurations, business, unit, different, groups, accounts, separate, account, level, focus, account-specific, manage, configuration, updates, impacting, any, unit’s, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, collection, advanced, API, 53.0]
 ---
-
-# AdvAccountForecastSet
 
 > Represents a collection of fields to set up an advanced account forecast
          set. This object is available in API version 53.0 and later.

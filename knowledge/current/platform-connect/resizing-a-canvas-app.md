@@ -5,12 +5,10 @@ topic: resizing-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.209Z
+lastCollected: 2026-04-07T18:38:56.972Z
 estimatedTokens: 611
-keywords: [Resizing, Canvas, App, resize, functions, work, declare, DOCTYPE, top, any, HTML, pages, associated, <!DOCTYPE, html>]
+keywords: [Attention, Resizing, Canvas, App, resize, functions, work, declare, DOCTYPE, top, any, HTML, pages, <!DOCTYPE, html>]
 ---
-
-# Resizing a Canvas App
 
 > For resize functions to work with your canvas app, you must declare a
     DOCTYPE at the top of any HTML pages that are associated with the app. For example: <!DOCTYPE html>.

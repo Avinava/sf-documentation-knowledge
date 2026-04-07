@@ -5,12 +5,10 @@ topic: signaturetaskhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.557Z
+lastCollected: 2026-04-07T18:40:02.250Z
 estimatedTokens: 261
-keywords: [SignatureTaskHistory, History, tracked, SignatureTask]
+keywords: [SignatureTaskHistory, tracked, SignatureTask]
 ---
-
-# SignatureTaskHistory
 
 > History for tracked fields of SignatureTask.
 

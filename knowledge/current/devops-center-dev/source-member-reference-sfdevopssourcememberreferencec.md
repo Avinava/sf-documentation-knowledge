@@ -5,12 +5,10 @@ topic: source-member-reference-sfdevopssourcememberreferencec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.647Z
+lastCollected: 2026-04-07T18:37:28.717Z
 estimatedTokens: 770
-keywords: [Source, Member, sf_devops__Source_Member_Reference__c, copy, relevant, SourceMember, Tooling, API, record, development, environment, DevOps, Center, copies, data]
+keywords: [Source, Member, sf_devops__Source_Member_Reference__c, copy, relevant, SourceMember, Tooling, API, record, development, environment, DevOps, Center, copies, track, metadata, changes, user, hasn’t, yet, pulled, their, work, item, Copying, computing, Remote, Change, records, efficient, How, Keeps, orgs, installed, _devops, _Source, _Member, _Reference]
 ---
-
-# Source Member Reference (sf_devops__Source_Member_Reference__c)
 
 > Represents a copy of the relevant information from a SourceMember
          Tooling API record in a development environment. DevOps Center copies this data to track

@@ -5,12 +5,10 @@ topic: recordingtoggleresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.750Z
+lastCollected: 2026-04-07T18:39:23.686Z
 estimatedTokens: 428
 keywords: [RecordingToggleResult, result, toggling, recording, call, Functions]
 ---
-
-# RecordingToggleResult
 
 > Represents the result when toggling the recording for a
         call.

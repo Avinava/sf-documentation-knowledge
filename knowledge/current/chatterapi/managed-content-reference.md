@@ -5,12 +5,10 @@ topic: managed-content-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.269Z
+lastCollected: 2026-04-07T18:37:20.461Z
 estimatedTokens: 266
 keywords: [Managed, Content]
 ---
-
-# Managed Content Reference
 
 > Managed content reference.
 

@@ -5,12 +5,10 @@ topic: commerce-webstore-carts-compact-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.457Z
+lastCollected: 2026-04-07T18:37:12.335Z
 estimatedTokens: 243
 keywords: [Commerce, Webstore, Carts, Compact, Summary, cart, includes, subset, including, total, unique, product, counts]
 ---
-
-# Commerce Webstore Carts Compact Summary
 
 > Get a compact cart summary for an existing cart. The compact cart
       summary includes a subset of fields from the cart summary, including the total and unique

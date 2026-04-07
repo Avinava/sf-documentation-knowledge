@@ -5,12 +5,10 @@ topic: healthriskevaldetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.079Z
+lastCollected: 2026-04-07T18:37:43.278Z
 estimatedTokens: 765
-keywords: [HealthRiskEvalDetail, additional, health, risk, evaluation, including, basis, reason, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [HealthRiskEvalDetail, additional, health, risk, evaluation, including, basis, reason, API, 64.0]
 ---
-
-# HealthRiskEvalDetail
 
 > Represents additional details of a health risk evaluation, including the
          basis and reason for the evaluation. This object is available in API version 64.0 and

@@ -5,12 +5,10 @@ topic: missions-user-activity-progress
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.619Z
+lastCollected: 2026-04-07T18:37:14.645Z
 estimatedTokens: 90
 keywords: [Missions, User, Activity, Progress, mission]
 ---
-
-# Missions User Activity, Progress
 
 > Get mission activity progress for a user.
 

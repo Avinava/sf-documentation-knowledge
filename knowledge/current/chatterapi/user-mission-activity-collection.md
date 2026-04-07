@@ -5,12 +5,10 @@ topic: user-mission-activity-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.540Z
+lastCollected: 2026-04-07T18:37:23.618Z
 estimatedTokens: 188
 keywords: [User, Mission, Activity, Collection, activities]
 ---
-
-# User Mission Activity Collection
 
 > List of mission activities for a user.
 

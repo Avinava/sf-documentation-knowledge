@@ -5,12 +5,10 @@ topic: amendment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.163Z
+lastCollected: 2026-04-07T18:35:45.151Z
 estimatedTokens: 170
-keywords: [Amendment, Output, representation, record]
+keywords: [Amendment, record]
 ---
-
-# Amendment
 
 > Output representation of the details of an amendment record.
 

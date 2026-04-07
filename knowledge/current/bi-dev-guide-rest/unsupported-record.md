@@ -5,12 +5,10 @@ topic: unsupported-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.368Z
+lastCollected: 2026-04-07T18:36:57.926Z
 estimatedTokens: 93
-keywords: [Unsupported, Record, sharing, usage, instances, Analytics, limits]
+keywords: [Unsupported, Record, sharing, instances, Analytics, limits]
 ---
-
-# Unsupported Record
 
 > The sharing usage of object instances based on Analytics limits.
 

@@ -5,12 +5,10 @@ topic: context-aware-billing-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.134Z
+lastCollected: 2026-04-07T18:35:43.024Z
 estimatedTokens: 181
-keywords: [Context-Aware, Billing, Schedule, Input, representation, transaction, Output]
+keywords: [Context-Aware, Billing, Schedule, transaction]
 ---
-
-# Context-Aware Billing Schedule
 
 > Output representation of the context-aware billing schedule.
 

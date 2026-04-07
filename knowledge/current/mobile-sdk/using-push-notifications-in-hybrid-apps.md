@@ -5,12 +5,10 @@ topic: using-push-notifications-in-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.935Z
+lastCollected: 2026-04-07T18:40:27.150Z
 estimatedTokens: 163
 keywords: [Push, Notifications, Hybrid, Apps]
 ---
-
-# Using Push Notifications in Hybrid Apps
 
 # Using Push Notifications in Hybrid Apps
 

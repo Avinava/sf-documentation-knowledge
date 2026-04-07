@@ -5,12 +5,10 @@ topic: promotionqualifierfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.641Z
+lastCollected: 2026-04-07T18:39:57.223Z
 estimatedTokens: 362
-keywords: [PromotionQualifierFeed, Feed, tracking, PromotionQualifier]
+keywords: [PromotionQualifierFeed, PromotionQualifier]
 ---
-
-# PromotionQualifierFeed
 
 > Feed tracking for PromotionQualifier.
 

@@ -5,12 +5,10 @@ topic: files-connect-repository-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.097Z
+lastCollected: 2026-04-07T18:37:13.022Z
 estimatedTokens: 311
 keywords: [Files, Connect, Repository, Permissions, file]
 ---
-
-# Files Connect Repository Permissions
 
 > Get or update the permissions of a repository file.
 

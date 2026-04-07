@@ -5,12 +5,10 @@ topic: validate-group-census-members-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.275Z
+lastCollected: 2026-04-07T18:37:49.044Z
 estimatedTokens: 357
-keywords: [Validate, Group, Census, Members, Action, member, records, assign, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Validate, Group, Census, Members, Action, member, records, assign, REST, HTTP]
 ---
-
-# Validate Group Census Members Action
 
 > Validate the specified group census member records and assign default values to the
         specified fields.

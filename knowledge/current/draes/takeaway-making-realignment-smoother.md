@@ -5,12 +5,10 @@ topic: takeaway-making-realignment-smoother
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.802Z
+lastCollected: 2026-04-07T18:37:28.888Z
 estimatedTokens: 186
-keywords: [Takeaway, Making, Realignment, Smoother, Understand, pros, cons, performance, tools, sure, they, fit, well, process, timing]
+keywords: [Takeaway, Making, Realignment, Smoother, Understand, pros, cons, performance, tools, sure, they, fit, well, process, timing, Always, test, new, processes, full, copy, sandbox, that's, recently, refreshed, know, expect]
 ---
-
-# Takeaway: Making Realignment Smoother
 
 > Understand the pros and cons of the performance tools, and make sure they fit well
         with the process and timing of your realignment. Always test these tools and new realignment

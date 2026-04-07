@@ -5,12 +5,10 @@ topic: verified-result-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.006Z
+lastCollected: 2026-04-07T18:37:42.169Z
 estimatedTokens: 107
-keywords: [Verified, Result, Output]
+keywords: [Verified, Result]
 ---
-
-# Verified Result Output
 
 > Represents the required and optional fields that are
     verified.

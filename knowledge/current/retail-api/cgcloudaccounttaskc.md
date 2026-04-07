@@ -5,12 +5,10 @@ topic: cgcloudaccounttaskc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.411Z
+lastCollected: 2026-04-07T18:39:12.837Z
 estimatedTokens: 1873
-keywords: [cgcloud__Account_Task__c, customer, task, issue, API, version, 54.0, later, cgcloud, _Account, _Task, Calls, Associated, Objects]
+keywords: [cgcloud__Account_Task__c, customer, task, issue, API, 54.0, cgcloud, _Account, _Task]
 ---
-
-# cgcloud__Account_Task__c
 
 > This object represents the details of the customer task (customer
          issue). This object is available in API version 54.0 and later.

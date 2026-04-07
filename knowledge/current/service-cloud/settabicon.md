@@ -5,12 +5,10 @@ topic: settabicon
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.669Z
+lastCollected: 2026-04-07T18:36:50.951Z
 estimatedTokens: 346
-keywords: [setTabIcon, icon, tab, enclosing, customize, tab’s, API, version, 28.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, setTabIcon, icon, tab, enclosing, customize, tab’s, API, 28.0, Sample, Code–Visualforce]
 ---
-
-# setTabIcon()
 
 > Sets an icon on the specified tab. If a tab is not specified,
             the icon is set on the enclosing tab. Use this method to customize a tab’s icon.

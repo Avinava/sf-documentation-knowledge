@@ -5,12 +5,10 @@ topic: giftdefaultsoftcreditfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.992Z
+lastCollected: 2026-04-07T18:39:42.632Z
 estimatedTokens: 391
-keywords: [GiftDefaultSoftCreditFeed, Feed, tracking, GiftDefaultSoftCredit]
+keywords: [GiftDefaultSoftCreditFeed, GiftDefaultSoftCredit]
 ---
-
-# GiftDefaultSoftCreditFeed
 
 > Feed tracking for GiftDefaultSoftCredit.
 

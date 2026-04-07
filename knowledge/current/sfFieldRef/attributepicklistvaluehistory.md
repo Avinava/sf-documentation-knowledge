@@ -5,12 +5,10 @@ topic: attributepicklistvaluehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.314Z
+lastCollected: 2026-04-07T18:39:28.370Z
 estimatedTokens: 273
-keywords: [AttributePicklistValueHistory, History, tracked, AttributePicklistValue]
+keywords: [AttributePicklistValueHistory, tracked, AttributePicklistValue]
 ---
-
-# AttributePicklistValueHistory
 
 > History for tracked fields of AttributePicklistValue.
 

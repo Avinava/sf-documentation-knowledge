@@ -5,12 +5,10 @@ topic: setname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.929Z
+lastCollected: 2026-04-07T18:38:06.168Z
 estimatedTokens: 158
-keywords: [setName, visitor, Chat, console, Salesforce, Usage]
+keywords: [setName, visitor, Chat, console, Salesforce]
 ---
-
-# setName
 
 > Use the setName method to set the visitor name
     displayed in the Chat console or the Salesforce console.

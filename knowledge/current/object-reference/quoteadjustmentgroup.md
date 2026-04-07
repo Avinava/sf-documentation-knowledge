@@ -5,12 +5,10 @@ topic: quoteadjustmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.976Z
+lastCollected: 2026-04-07T18:38:39.537Z
 estimatedTokens: 1283
-keywords: [QuoteAdjustmentGroup, Group, containing, adjustments, applied, quote, API, version, 58.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [QuoteAdjustmentGroup, Group, containing, adjustments, applied, quote, API, 58.0]
 ---
-
-# QuoteAdjustmentGroup
 
 > Group containing a set of adjustments applied to a quote. This object is
       available in API version 58.0 and later.

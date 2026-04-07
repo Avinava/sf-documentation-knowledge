@@ -5,12 +5,10 @@ topic: partyfinancialassetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.698Z
+lastCollected: 2026-04-07T18:39:52.113Z
 estimatedTokens: 252
 keywords: [PartyFinancialAssetShare, Sharing, PartyFinancialAsset]
 ---
-
-# PartyFinancialAssetShare
 
 > Sharing for PartyFinancialAsset.
 

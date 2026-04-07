@@ -5,12 +5,10 @@ topic: title-holder-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.222Z
+lastCollected: 2026-04-07T18:37:34.792Z
 estimatedTokens: 240
-keywords: [Title, Holder, Input, borrowers, applying, hold, loan, application, finances]
+keywords: [Title, Holder, borrowers, applying, hold, loan, application, finances]
 ---
-
-# Title Holder Input
 
 > Represents details of borrowers who are applying to hold title to
       the property the loan application finances.

@@ -5,12 +5,10 @@ topic: enable-source-tracking-in-sandboxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.133Z
+lastCollected: 2026-04-07T18:40:09.084Z
 estimatedTokens: 1127
-keywords: [Enable, Source, Tracking, Sandboxes, enabling, Developer, Pro, Salesforce, tooling, automatically, track, new, changed, deleted, metadata]
+keywords: [Enable, Source, Sandboxes, enabling, Developer, Pro, Salesforce, tooling, automatically, track, new, changed, deleted, metadata, select, determine, changes, move, forward, development, cycle, release, uses, project, control, repository, aid, conflict, detection, resolution, best, because, identifies, longer, manually, keep, Specific, Sandbox]
 ---
-
-# Enable Source Tracking in Sandboxes
 
 > By enabling source tracking in Developer and Developer Pro sandboxes, Salesforce DX
   tooling can automatically track new, changed, and deleted metadata components. You can then select

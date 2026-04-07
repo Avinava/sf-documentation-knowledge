@@ -5,12 +5,10 @@ topic: prvdaccountterritorysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.695Z
+lastCollected: 2026-04-07T18:38:01.571Z
 estimatedTokens: 1341
-keywords: [PrvdAccountTerritorySummary, summaries, generated, provider, account, terrories, aligned, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [PrvdAccountTerritorySummary, summaries, generated, provider, account, terrories, aligned, API, 65.0]
 ---
-
-# PrvdAccountTerritorySummary
 
 > Represents the summaries generated for a provider account for the terrories
          it is aligned to. This object is available in API version 65.0 and later.

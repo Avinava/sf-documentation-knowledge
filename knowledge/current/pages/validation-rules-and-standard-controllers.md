@@ -5,12 +5,10 @@ topic: validation-rules-and-standard-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.877Z
+lastCollected: 2026-04-07T18:38:51.118Z
 estimatedTokens: 130
-keywords: [Validation, Rules, Standard, Controllers, user, enters, data, Visualforce, uses, controller, causes, rule, error, location, associated]
+keywords: [Validation, Standard, Controllers, user, enters, Visualforce, uses, controller, causes, rule, error, location, <apex, inp]
 ---
-
-# Validation Rules and Standard Controllers
 
 > If a user enters data on a Visualforce page that uses a             standard controller, and that data
 causes a validation rule error, the error can be             displayed

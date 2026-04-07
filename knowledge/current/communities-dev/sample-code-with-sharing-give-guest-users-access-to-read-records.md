@@ -5,12 +5,10 @@ topic: sample-code-with-sharing-give-guest-users-access-to-read-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.911Z
+lastCollected: 2026-04-07T18:37:26.864Z
 estimatedTokens: 943
-keywords: [Sample, Code, Sharing, Give, Guest, Users, Access, Records, collection, samples, user, enters, date, range, views]
+keywords: [Sample, Code, Sharing, Give, Guest, Users, Records, collection, samples, user, enters, date, range, views, events, via, Aura, DisplayEvents.cmp, Controller, DisplayEventsController.js, JavaScript, Helper, DisplayEventsHelper.js, Apex, GuestUserEventsAuraController.cls]
 ---
-
-# Sample Code With Sharing: Give Guest Users Access to Read Records
 
 > In this collection of code samples, the guest user enters a date range and then views
         events within that range. The guest user has read access to the records via sharing

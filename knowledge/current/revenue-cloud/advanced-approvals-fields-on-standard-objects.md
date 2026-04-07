@@ -5,12 +5,10 @@ topic: advanced-approvals-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:55.416Z
+lastCollected: 2026-04-07T18:35:40.202Z
 estimatedTokens: 218
-keywords: [Advanced, Approvals, Standard, Objects, adds, custom, Salesforce, Revenue, Cloud, orgs, enabled]
+keywords: [Advanced, Approvals, Standard, adds, Salesforce, Revenue, Cloud, orgs, enabled]
 ---
-
-# Advanced Approvals Fields on Standard Objects
 
 > Advanced Approvals adds standard and custom fields to some standard Salesforce objects.
     These fields are available only in Revenue Cloud orgs where Advanced Approvals is

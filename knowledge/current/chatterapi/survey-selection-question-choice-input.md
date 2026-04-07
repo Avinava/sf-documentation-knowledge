@@ -5,12 +5,10 @@ topic: survey-selection-question-choice-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.672Z
+lastCollected: 2026-04-07T18:37:10.374Z
 estimatedTokens: 107
-keywords: [Survey, Selection, Question, Choice, Input, rating, multiple, question’s]
+keywords: [Survey, Selection, Question, Choice, rating, multiple, question’s]
 ---
-
-# Survey Selection Question Choice Input
 
 > The details of a boolean, rating, single selection, or a multiple selection question’s choice on the survey page.
 

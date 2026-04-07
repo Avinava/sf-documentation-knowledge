@@ -5,12 +5,10 @@ topic: orderdeliverymethodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:56.396Z
+lastCollected: 2026-04-07T18:39:50.801Z
 estimatedTokens: 362
-keywords: [OrderDeliveryMethodFeed, Feed, tracking, OrderDeliveryMethod]
+keywords: [OrderDeliveryMethodFeed, OrderDeliveryMethod]
 ---
-
-# OrderDeliveryMethodFeed
 
 > Feed tracking for OrderDeliveryMethod.
 

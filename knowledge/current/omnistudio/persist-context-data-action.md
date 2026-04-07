@@ -5,12 +5,10 @@ topic: persist-context-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.732Z
+lastCollected: 2026-04-07T18:36:35.202Z
 estimatedTokens: 423
-keywords: [Persist, Context, Data, Action, Store, cached, associated, mapping, Salesforce, record, Special, Access, Rules, REST, HTTP]
+keywords: [Inputs, Outputs, Persist, Context, Action, Store, cached, mapping, Salesforce, record, REST, HTTP]
 ---
-
-# Persist Context Data Action
 
 > Store cached context data associated with a context mapping ID in a Salesforce
         record.

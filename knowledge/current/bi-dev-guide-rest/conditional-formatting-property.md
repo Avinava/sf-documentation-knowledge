@@ -5,12 +5,10 @@ topic: conditional-formatting-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:10.309Z
+lastCollected: 2026-04-07T18:36:56.850Z
 estimatedTokens: 168
 keywords: [Conditional, Formatting, extended, metadata, Xmd, Analytics, dataset, dimension, measure]
 ---
-
-# Conditional Formatting Property
 
 > The extended metadata (Xmd) for a property in the conditional formatting for an
   Analytics dataset dimension or measure.

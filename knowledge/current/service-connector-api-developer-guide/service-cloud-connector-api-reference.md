@@ -5,12 +5,10 @@ topic: service-cloud-connector-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.361Z
+lastCollected: 2026-04-07T18:39:23.284Z
 estimatedTokens: 690
-keywords: [Service, Cloud, Connector, API, partner, telephony, Contact, Center, CCaaS, system, Salesforce, org, pass, receive, events]
+keywords: [Service, Cloud, Connector, API, partner, telephony, Contact, Center, CCaaS, system, Salesforce, org, pass, receive, events, back]
 ---
-
-# Service Cloud Connector API Reference
 
 > The Connector API is the interface between your partner telephony or Contact Center
         as a Service (CCaaS) system and your Salesforce org. This API allows you to pass information

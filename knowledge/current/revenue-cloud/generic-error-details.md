@@ -5,12 +5,10 @@ topic: generic-error-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.839Z
+lastCollected: 2026-04-07T18:35:45.837Z
 estimatedTokens: 110
-keywords: [Generic, Error, Output, representation, encountered, API]
+keywords: [Generic, Error, encountered, API]
 ---
-
-# Generic Error Details
 
 > Output representation of the error details encountered during the API
     request.

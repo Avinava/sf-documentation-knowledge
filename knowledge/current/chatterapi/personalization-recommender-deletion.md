@@ -5,12 +5,10 @@ topic: personalization-recommender-deletion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.212Z
+lastCollected: 2026-04-07T18:37:15.263Z
 estimatedTokens: 63
 keywords: [Personalization, Recommender, Deletion, specific]
 ---
-
-# Personalization Recommender Deletion
 
 > Delete a specific personalization recommender by ID or name.
 

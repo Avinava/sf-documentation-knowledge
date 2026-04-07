@@ -5,12 +5,10 @@ topic: territory2rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.640Z
+lastCollected: 2026-04-07T18:36:30.056Z
 estimatedTokens: 1230
-keywords: [Territory2Rule, metadata, associated, territory, assignment, rule, Account, Sales, Territories, enabled, File, Suffix, Directory, Location, Version]
+keywords: [Territory2Rule, Territory2RuleItem, metadata, territory, assignment, rule, Account, Sales, Territories, enabled, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Territory2Rule
 
 > Represents the metadata associated with a territory
       assignment rule associated with an object, such as Account. Available if Sales

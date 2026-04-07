@@ -5,13 +5,11 @@ topic: aiusecasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.978Z
+lastCollected: 2026-04-07T18:39:23.909Z
 estimatedTokens: 529
 namespace: NamespacePrefix
 keywords: [AIUsecaseDefinition, collection, case, real-time, predictions, made]
 ---
-
-# AIUsecaseDefinition
 
 > Represents a collection of fields to set up the use case for which
          real-time predictions are to be made.

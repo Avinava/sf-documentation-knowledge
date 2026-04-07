@@ -5,12 +5,10 @@ topic: goalassignmentdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.586Z
+lastCollected: 2026-04-07T18:37:47.159Z
 estimatedTokens: 927
-keywords: [GoalAssignmentDetail, additional, associated, GoalAssignment, record, may, outcome, goal, something, addressed, API, version, 57.0, later, Calls]
+keywords: [GoalAssignmentDetail, additional, GoalAssignment, record, may, outcome, goal, something, addressed, API, 57.0]
 ---
-
-# GoalAssignmentDetail
 
 > Represents additional information associated with a GoalAssignment
          record. This information may be the outcome of a goal or something addressed by it.

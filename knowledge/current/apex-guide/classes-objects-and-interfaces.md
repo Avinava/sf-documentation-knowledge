@@ -5,12 +5,10 @@ topic: classes-objects-and-interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.974Z
+lastCollected: 2026-04-07T18:36:16.199Z
 estimatedTokens: 761
-keywords: [Classes, Objects, Interfaces, Apex, modeled, their, counterparts, Java, You’ll, define, instantiate, extend, work, versions, concepts]
+keywords: [Classes, Interfaces, Apex, modeled, their, counterparts, Java, You’ll, define, instantiate, extend, work, versions, concepts]
 ---
-
-# Classes, Objects, and Interfaces
 
 > Apex classes are modeled on their counterparts in Java. You’ll define, instantiate,
         and extend classes, and you’ll work with interfaces, Apex class versions, properties, and

@@ -5,12 +5,10 @@ topic: attribmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:35.431Z
+lastCollected: 2026-04-07T18:38:26.388Z
 estimatedTokens: 1779
-keywords: [AttribModel, attribution, model, Personalization, Campaign, Influence, including, weights, touch, API, version, 62.0, later, Calls, Usage]
+keywords: [AttribModel, attribution, model, Personalization, Campaign, Influence, including, weights, touch, API, 62.0]
 ---
-
-# AttribModel
 
 > Represents an attribution model used with Personalization,
          Attribution, and Campaign Influence, including model weights and touch type. This

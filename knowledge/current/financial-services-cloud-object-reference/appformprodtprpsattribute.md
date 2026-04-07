@@ -5,12 +5,10 @@ topic: appformprodtprpsattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.417Z
+lastCollected: 2026-04-07T18:37:36.152Z
 estimatedTokens: 642
-keywords: [AppFormProdtPrpsAttribute, attributes, Application, Form, Product, Proposal, record, API, version, 62.0, later, Digital, Lending, permission, Calls]
+keywords: [AppFormProdtPrpsAttribute, attributes, Application, Form, Product, Proposal, record, API, 62.0, Digital, Lending, permission]
 ---
-
-# AppFormProdtPrpsAttribute
 
 > Represents the attributes and values of an Application Form Product Proposal
          record. This object is available in API version 62.0 and later. Available with Digital

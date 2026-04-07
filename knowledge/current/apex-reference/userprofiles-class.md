@@ -5,13 +5,11 @@ topic: userprofiles-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.681Z
+lastCollected: 2026-04-07T18:35:58.954Z
 estimatedTokens: 4843
 namespace: ConnectApi
-keywords: [UserProfiles, user’s, banner, photo, deleteBannerPhoto, communityId, userId, API, Version, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest]
+keywords: [UserProfiles, user’s, banner, photo, deleteBannerPhoto, communityId, userId, API, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest, Users, getUserProfile, setBannerPhoto, fileId, versionNumber, fileUpload, setBannerPhotoWithAttributes, bannerPhoto, setPhoto, setPhotoWithAttributes]
 ---
-
-# UserProfiles Class
 
 > Delete a user’s banner photo.
 

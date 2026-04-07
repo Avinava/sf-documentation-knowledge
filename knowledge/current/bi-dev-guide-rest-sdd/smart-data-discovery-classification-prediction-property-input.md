@@ -5,12 +5,10 @@ topic: smart-data-discovery-classification-prediction-property-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.122Z
+lastCollected: 2026-04-07T18:36:58.633Z
 estimatedTokens: 243
-keywords: [Smart, Data, Discovery, Classification, Prediction, Input, identify]
+keywords: [Smart, Discovery, Classification, Prediction, identify]
 ---
-
-# Smart Data Discovery Classification Prediction Property Input
 
 > The input to identify the prediction type as Classification.
 

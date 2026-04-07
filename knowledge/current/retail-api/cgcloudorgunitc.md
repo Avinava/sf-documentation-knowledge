@@ -5,12 +5,10 @@ topic: cgcloudorgunitc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.765Z
+lastCollected: 2026-04-07T18:39:14.158Z
 estimatedTokens: 1344
-keywords: [cgcloud__Org_Unit__c, Stores, Organization, unit, manufacturer's, organizational, structure, API, version, 54.0, later, cgcloud, _Org, _Unit, Calls]
+keywords: [cgcloud__Org_Unit__c, Stores, Organization, unit, manufacturer's, organizational, structure, API, 54.0, cgcloud, _Org, _Unit]
 ---
-
-# cgcloud__Org_Unit__c
 
 > Stores the details of the Organization unit object that defines a
          manufacturer's organizational structure. This object is available in API version 54.0

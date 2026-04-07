@@ -5,12 +5,10 @@ topic: materiality-matrix-score
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.873Z
+lastCollected: 2026-04-07T18:38:17.415Z
 estimatedTokens: 662
 keywords: [Materiality, Matrix, Score, captures, inward, financial, outward, impact, topic]
 ---
-
-# Materiality Matrix Score
 
 > The Materiality Matrix Score object captures the inward (financial) and outward
                 (impact) materiality score for a materiality topic.

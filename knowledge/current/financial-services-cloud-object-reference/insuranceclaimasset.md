@@ -5,12 +5,10 @@ topic: insuranceclaimasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.944Z
+lastCollected: 2026-04-07T18:37:37.750Z
 estimatedTokens: 626
-keywords: [InsuranceClaimAsset, junction, associates, Claim, InsurancePolicyAsset, enabled, Many-to-Many, Relationships, org, pref, Calls, Associated, Objects]
+keywords: [InsuranceClaimAsset, junction, associates, Claim, InsurancePolicyAsset, enabled, Many-to-Many, Relationships, org, pref]
 ---
-
-# InsuranceClaimAsset
 
 > A junction object that associates the Claim object with the
 			InsurancePolicyAsset object. You see this object only if you have enabled the Use

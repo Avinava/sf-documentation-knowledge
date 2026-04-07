@@ -5,12 +5,10 @@ topic: add-api-endpoint-to-remote-site-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:44.825Z
+lastCollected: 2026-04-07T18:37:31.979Z
 estimatedTokens: 176
 keywords: [Add, API, Endpoint, Remote, Site, Settings, ESM_checkServiceQualification, ESM_checkAddressValidation, base, URL, TMF]
 ---
-
-# Add API Endpoint to Remote Site Settings
 
 > For ESM_checkServiceQualification API and ESM_checkAddressValidation API, you must add the base URL of your TMF API endpoint to remote site settings.
 

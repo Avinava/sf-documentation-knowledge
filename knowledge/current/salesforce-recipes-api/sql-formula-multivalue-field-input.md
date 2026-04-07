@@ -5,12 +5,10 @@ topic: sql-formula-multivalue-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.014Z
+lastCollected: 2026-04-07T18:39:18.743Z
 estimatedTokens: 82
-keywords: [SQL, Formula, Multivalue, Input, recipe, node]
+keywords: [SQL, Formula, Multivalue, recipe, node]
 ---
-
-# SQL Formula Multivalue Field Input
 
 > The SQL formula multivalue field for a recipe node.
 

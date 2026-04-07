@@ -5,12 +5,10 @@ topic: discovery-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:55.335Z
+lastCollected: 2026-04-07T18:36:41.027Z
 estimatedTokens: 701
-keywords: [Discovery, Framework, data, model, helps, manage, every, aspect, questionnaire-driven, collection, cases, users, collect, validate, their]
+keywords: [Discovery, Framework, model, helps, manage, every, aspect, questionnaire-driven, collection, cases, users, collect, validate, their, customers’, compliant, manner, financial, needs, analysis, digital, onboarding]
 ---
-
-# Discovery Framework
 
 > The Discovery Framework data model helps manage every aspect of questionnaire-driven
   information collection use cases. By using this data model, your users can collect and validate

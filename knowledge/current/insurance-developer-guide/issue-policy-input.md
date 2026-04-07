@@ -5,12 +5,10 @@ topic: issue-policy-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.248Z
+lastCollected: 2026-04-07T18:37:51.238Z
 estimatedTokens: 328
-keywords: [Issue, Policy, Input, representation, insurance]
+keywords: [Issue, Policy, insurance]
 ---
-
-# Issue Policy Input
 
 > Input representation of the request to issue an insurance policy.
 

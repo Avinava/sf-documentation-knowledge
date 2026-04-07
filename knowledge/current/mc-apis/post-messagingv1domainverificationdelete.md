@@ -5,12 +5,10 @@ topic: post-messagingv1domainverificationdelete
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.560Z
+lastCollected: 2026-04-07T18:40:16.703Z
 estimatedTokens: 212
-keywords: [POST, messaging, domainverification, user, domain, Address, Management, **Overview**, Usage, Marketing, Cloud, Permissions]
+keywords: [POST, messaging, domainverification, user, domain, Address, Management, **Overview**, Marketing, Cloud, Permissions]
 ---
-
-# POST /messaging/v1/domainverification/delete
 
 > Delete a user domain in From Address Management.
 

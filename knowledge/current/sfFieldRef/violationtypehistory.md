@@ -5,12 +5,10 @@ topic: violationtypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.031Z
+lastCollected: 2026-04-07T18:40:05.910Z
 estimatedTokens: 261
-keywords: [ViolationTypeHistory, History, tracked, ViolationType]
+keywords: [ViolationTypeHistory, tracked, ViolationType]
 ---
-
-# ViolationTypeHistory
 
 > History for tracked fields of ViolationType.
 

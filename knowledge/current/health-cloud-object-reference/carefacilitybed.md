@@ -5,12 +5,10 @@ topic: carefacilitybed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.191Z
+lastCollected: 2026-04-07T18:37:45.670Z
 estimatedTokens: 1178
-keywords: [CareFacilityBed, different, bed, facility, associated, care, programs, products, API, version, 58.0, later, Calls, Objects]
+keywords: [CareFacilityBed, different, bed, facility, care, programs, products, API, 58.0]
 ---
-
-# CareFacilityBed
 
 > Represents information related to different bed types at a facility with
          associated care programs and products. This object is available in API version 58.0 and

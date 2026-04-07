@@ -5,12 +5,10 @@ topic: connectapiinsurancecensussummarysyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.557Z
+lastCollected: 2026-04-07T18:37:50.388Z
 estimatedTokens: 148
-keywords: [Output, representation, insurance, employee, census, summary, synchronization, process]
+keywords: [insurance, employee, census, summary, synchronization, process]
 ---
-
-# ConnectApi.InsuranceCensusSummarySyncOutputRepresentation
 
 > Output representation for the insurance employee census summary synchronization process.
 

@@ -5,12 +5,10 @@ topic: create-mobile-ready-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.518Z
+lastCollected: 2026-04-07T18:38:16.056Z
 estimatedTokens: 463
-keywords: [Mobile-Ready, Components, Build, perform, well, across, mobile, experiences, guidelines, best, practices, universal, rules, Consider, carefully]
+keywords: [Mobile-Ready, Build, perform, well, across, mobile, experiences, guidelines, best, practices, universal, Consider, carefully, don’t, afraid, own, way, there, compelling, reasons, specific, situations]
 ---
-
-# Create Mobile-Ready Components
 
 > Build components that perform well across mobile experiences. These guidelines are best
     practices, not universal rules. Consider them carefully, but don’t be afraid to go your own way

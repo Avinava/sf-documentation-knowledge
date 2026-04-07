@@ -5,13 +5,11 @@ topic: standardinvocableactiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.012Z
+lastCollected: 2026-04-07T18:40:02.699Z
 estimatedTokens: 336
 namespace: Namespace
-keywords: [StandardInvocableActionType, collection, granular, user, permissions, access, standard, invocable, action, Flow, Builder, API, version, 60.0, later]
+keywords: [StandardInvocableActionType, collection, granular, user, permissions, standard, invocable, action, Flow, Builder, API, 60.0]
 ---
-
-# StandardInvocableActionType
 
 > Represents a collection of fields to set up granular user permissions for access to a standard invocable action in Flow Builder. This object is available in API
 		version 60.0 and later.

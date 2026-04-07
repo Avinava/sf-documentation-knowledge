@@ -5,12 +5,10 @@ topic: rest-api-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.053Z
+lastCollected: 2026-04-07T18:37:04.753Z
 estimatedTokens: 833
-keywords: [REST, API, Examples, record, Custom, Address, data, New, Account]
+keywords: [REST, API, Examples, record, Address, New, Account]
 ---
-
-# REST API Examples
 
 > Use REST API to create, update, or delete a record with Custom Address Fields
     data.

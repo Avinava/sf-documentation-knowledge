@@ -5,12 +5,10 @@ topic: customer-engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.649Z
+lastCollected: 2026-04-07T18:37:57.161Z
 estimatedTokens: 3849
-keywords: [Customer, Engagement, objects, Life, Sciences, Cloud]
+keywords: [Customer, Engagement, Life, Sciences, Cloud]
 ---
-
-# Customer Engagement
 
 > These objects are available for Life Sciences Cloud for Customer Engagement.
 

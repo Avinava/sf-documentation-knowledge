@@ -5,12 +5,10 @@ topic: quotelinegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.338Z
+lastCollected: 2026-04-07T18:39:57.959Z
 estimatedTokens: 401
-keywords: [QuoteLineGroup, Stores, group, line, items, quote, aggregated, subtotal, parent-child, relationship, API, version, 61.0, later]
+keywords: [QuoteLineGroup, Stores, group, line, items, quote, aggregated, subtotal, parent-child, relationship, API, 61.0]
 ---
-
-# QuoteLineGroup
 
 > Stores the group information for line items in a quote. It also stores the
          aggregated line field information (subtotal). It contains a parent-child relationship to

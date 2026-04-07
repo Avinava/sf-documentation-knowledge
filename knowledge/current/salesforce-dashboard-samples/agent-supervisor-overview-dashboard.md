@@ -5,12 +5,10 @@ topic: agent-supervisor-overview-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:23.028Z
+lastCollected: 2026-04-07T18:39:16.573Z
 estimatedTokens: 416
-keywords: [Agent, Supervisor, Dashboard, similar, Service, Executive, focuses, line, managers, kind, visibility, team, level, identifies, agent-level]
+keywords: [Agent, Supervisor, Dashboard, similar, Service, Executive, focuses, line, managers, kind, visibility, team, level, identifies, agent-level, metrics, Highlights, Tips]
 ---
-
-# Agent Supervisor Overview Dashboard
 
 > This dashboard is similar to the Service Executive Overview Dashboard, but focuses on the line managers. It provides the same kind
 of visibility at the team level, and also identifies important agent-level

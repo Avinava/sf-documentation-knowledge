@@ -5,12 +5,10 @@ topic: presentationlinkedpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.273Z
+lastCollected: 2026-04-07T18:38:01.062Z
 estimatedTokens: 847
-keywords: [PresentationLinkedPage, connection, presentation, associated, pages, API, version, 65.0, later, Calls, Objects]
+keywords: [PresentationLinkedPage, connection, presentation, pages, API, 65.0]
 ---
-
-# PresentationLinkedPage
 
 > Represents the connection between a presentation and its associated
          presentation pages. This object is available in API version 65.0 and

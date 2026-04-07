@@ -5,12 +5,10 @@ topic: commerce-einstein-webstore-deployment-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.089Z
+lastCollected: 2026-04-07T18:37:11.918Z
 estimatedTokens: 148
 keywords: [Commerce, Einstein, Webstore, Deployment, Status, store]
 ---
-
-# Commerce Einstein Webstore Deployment Status
 
 > Get the status of a Commerce Einstein deployment for a
     store.

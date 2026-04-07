@@ -5,12 +5,10 @@ topic: dashboard-publisher-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.499Z
+lastCollected: 2026-04-07T18:36:55.981Z
 estimatedTokens: 112
-keywords: [Dashboard, Publisher, Resource, user, detail, Removes, publishers, URL, Formats, Version, HTTP]
+keywords: [Formats, Dashboard, Publisher, Resource, user, detail, Removes, publishers, URL, HTTP]
 ---
-
-# Dashboard Publisher Resource
 
 > Returns user detail information about the publisher for the given dashboard. Removes a user from the list of publishers 
   for the given dashboard.

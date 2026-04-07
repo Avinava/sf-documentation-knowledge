@@ -5,12 +5,10 @@ topic: understanding-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:30.819Z
+lastCollected: 2026-04-07T18:36:16.043Z
 estimatedTokens: 1540
-keywords: [Understanding, Sharing, record-level, access, control, custom, objects, well, standard, Account, Contact, Opportunity, Case, Administrators, object’s]
+keywords: [Understanding, Sharing, record-level, control, well, standard, Account, Contact, Opportunity, Case, Administrators, object’s, organization-wide, level, grant, additional, record, ownership, role, hierarchy, manual, Developers, Apex, managed, programmatically, Reason, Levels, Considerations]
 ---
-
-# Understanding Sharing
 
 > Sharing enables record-level access control for all custom objects, as
         well as many standard objects (such as Account, Contact, Opportunity and Case).

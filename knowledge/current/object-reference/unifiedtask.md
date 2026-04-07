@@ -5,12 +5,10 @@ topic: unifiedtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.414Z
+lastCollected: 2026-04-07T18:38:43.156Z
 estimatedTokens: 585
-keywords: [UnifiedTask, business, activity, to-do, item, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access, Rules]
+keywords: [UnifiedTask, business, activity, to-do, item, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedTask
 
 > Represents a business activity such as a to-do item. This object is
       available for reports and dashboards in the Winter ’24 release and later.

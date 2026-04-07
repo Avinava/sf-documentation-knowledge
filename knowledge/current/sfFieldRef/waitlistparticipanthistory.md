@@ -5,12 +5,10 @@ topic: waitlistparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.421Z
+lastCollected: 2026-04-07T18:40:06.318Z
 estimatedTokens: 268
-keywords: [WaitlistParticipantHistory, History, tracked, WaitlistParticipant]
+keywords: [WaitlistParticipantHistory, tracked, WaitlistParticipant]
 ---
-
-# WaitlistParticipantHistory
 
 > History for tracked fields of WaitlistParticipant.
 

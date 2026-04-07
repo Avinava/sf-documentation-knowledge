@@ -5,12 +5,10 @@ topic: get-status-of-operation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.992Z
+lastCollected: 2026-04-07T18:35:55.097Z
 estimatedTokens: 364
 keywords: [Status, Operation, Retrieve, previously, submitted, asynchronous, job, upsertCI, bulk, upsert, query, check, progress, completion, operations]
 ---
-
-# Get Status of Operation
 
 > Retrieve the status of a previously submitted asynchronous job. For
       example, upsertCI a bulk upsert operation. Use this query

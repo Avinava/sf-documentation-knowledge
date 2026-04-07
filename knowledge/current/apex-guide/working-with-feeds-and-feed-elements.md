@@ -5,12 +5,10 @@ topic: working-with-feeds-and-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.967Z
+lastCollected: 2026-04-07T18:36:19.190Z
 estimatedTokens: 5026
-keywords: [Working, Feeds, Feed, Elements, Chatter, container, abstract, ConnectApi.FeedElement, parent, ConnectApi.FeedItem, representing, posts, ConnectApi.GenericFeedElement, bundles, recommendations]
+keywords: [Capabilities, Working, Feeds, Chatter, container, abstract, ConnectApi.FeedElement, parent, ConnectApi.FeedItem, representing, posts, ConnectApi.GenericFeedElement, bundles, recommendations, How, Salesforce, Displays, Items, Visibility, Post, Item, postFeedElement]
 ---
-
-# Working with Feeds and Feed Elements
 
 > The Chatter feed is a container of feed elements. The abstract
          class ConnectApi.FeedElement is a parent class to

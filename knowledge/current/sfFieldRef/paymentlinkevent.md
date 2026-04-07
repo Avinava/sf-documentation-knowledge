@@ -5,12 +5,10 @@ topic: paymentlinkevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.493Z
+lastCollected: 2026-04-07T18:39:53.002Z
 estimatedTokens: 269
 keywords: [PaymentLinkEvent, payment, link, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered]
 ---
-
-# PaymentLinkEvent
 
 > Represents a payment link platform event. Subscribe to these events so you
          can listen and respond to them when they’re published. For example, create a Salesforce

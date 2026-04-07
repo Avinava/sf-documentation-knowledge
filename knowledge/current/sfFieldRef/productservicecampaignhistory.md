@@ -5,12 +5,10 @@ topic: productservicecampaignhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.688Z
+lastCollected: 2026-04-07T18:39:56.227Z
 estimatedTokens: 273
-keywords: [ProductServiceCampaignHistory, History, tracked, ProductServiceCampaign]
+keywords: [ProductServiceCampaignHistory, tracked, ProductServiceCampaign]
 ---
-
-# ProductServiceCampaignHistory
 
 > History for tracked fields of ProductServiceCampaign.
 

@@ -5,12 +5,10 @@ topic: using-the-soql-sync-down-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.356Z
+lastCollected: 2026-04-07T18:40:25.726Z
 estimatedTokens: 454
-keywords: [SOQL, Sync, Down, Target, define, query, selects, everything, business, simplest, option, supporting, arguments, Configuration, File]
+keywords: [SOQL, Sync, Down, Target, define, query, selects, everything, business, simplest, option, supporting, arguments, Configuration, File, iOS, APIs, Android]
 ---
-
-# Using the SOQL Sync Down Target
 
 > If you can define a SOQL query that selects everything required for a
    business need, the SOQL target is your simplest sync down option. This target takes a SOQL query

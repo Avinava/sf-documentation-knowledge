@@ -5,12 +5,10 @@ topic: conversions-that-generate-a-change-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.508Z
+lastCollected: 2026-04-07T18:37:05.245Z
 estimatedTokens: 297
-keywords: [Conversions, Generate, Change, Event, converting, custom, another, isn’t, compatible, data, lost, records, corresponding, generated, affected]
+keywords: [Conversions, Generate, Change, Event, converting, another, isn’t, compatible, lost, records, corresponding, generated, affected, message, record]
 ---
-
-# Conversions That Generate a Change Event
 
 > When converting a custom field type to another type that isn’t compatible, field data is
     lost and is set to null in records corresponding to the object. One change event is generated

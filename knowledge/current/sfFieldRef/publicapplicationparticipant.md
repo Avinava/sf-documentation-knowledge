@@ -5,12 +5,10 @@ topic: publicapplicationparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.968Z
+lastCollected: 2026-04-07T18:39:57.559Z
 estimatedTokens: 427
-keywords: [PublicApplicationParticipant, junction, individual, application, business, license, account, contact, stores, participants, associated, participant, applicant, co-applicant, household]
+keywords: [PublicApplicationParticipant, junction, individual, application, business, license, account, contact, stores, participants, participant, applicant, co-applicant, household, added, API, 58.0]
 ---
-
-# PublicApplicationParticipant
 
 > Represents a junction between an individual application or business license
          application, and an account or a contact. This object stores the details of the

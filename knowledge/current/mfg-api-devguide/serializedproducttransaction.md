@@ -5,12 +5,10 @@ topic: serializedproducttransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.248Z
+lastCollected: 2026-04-07T18:38:14.659Z
 estimatedTokens: 438
-keywords: [SerializedProductTransaction, change, state, serialized, product, API, version, 60.0, later, Calls]
+keywords: [SerializedProductTransaction, change, state, serialized, product, API, 60.0]
 ---
-
-# SerializedProductTransaction
 
 > Represents a change in the state of a serialized product. This object is
       available in API version 60.0 and later.

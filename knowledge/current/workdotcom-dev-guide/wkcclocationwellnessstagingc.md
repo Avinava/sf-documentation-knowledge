@@ -5,12 +5,10 @@ topic: wkcclocationwellnessstagingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.060Z
+lastCollected: 2026-04-07T18:40:14.085Z
 estimatedTokens: 518
-keywords: [wkcc__LocationWellnessStaging__c, Deprecated, staging, recalculating, location, wellness, facts, Records, removed, once, locations, recalculated, orgs, version, earlier]
+keywords: [wkcc__LocationWellnessStaging__c, Deprecated, staging, recalculating, location, wellness, facts, Records, removed, once, locations, recalculated, orgs, earlier, Work.com, installed, 4.2, Workplace, Command, Center, longer, updated, wkcc, _LocationWellnessStaging]
 ---
-
-# wkcc__LocationWellnessStaging__c
 
 > Deprecated. This object is a staging table for recalculating location wellness
       facts. Records are removed once the locations have been recalculated. This object is

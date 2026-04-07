@@ -5,12 +5,10 @@ topic: canvas-apps-in-a-page-layout-or-a-mobile-card
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.512Z
+lastCollected: 2026-04-07T18:38:57.308Z
 estimatedTokens: 662
-keywords: [Canvas, Apps, Layout, Mobile, Card, add, app, any, standard, custom, category, appear, palette, edit, location]
+keywords: [Canvas, Apps, Layout, Mobile, Card, add, app, any, standard, category, appear, palette, edit, location, Layouts, Cards, Salesforce, application]
 ---
-
-# Canvas Apps in a Page Layout or a Mobile Card
 
 > You can add a canvas app to a page layout for any standard or custom object. For the
   Canvas Apps category to appear in the palette when you edit a page layout, you must set the canvas

@@ -5,12 +5,10 @@ topic: personalization-recommender-segment-membership-predicate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.921Z
+lastCollected: 2026-04-07T18:37:09.644Z
 estimatedTokens: 177
-keywords: [Personalization, Recommender, Segment, Membership, Predicate, Input]
+keywords: [Personalization, Recommender, Segment, Membership, Predicate]
 ---
-
-# Personalization Recommender Segment Membership Predicate Input
 
 > Represents a predicate based on segment membership.
 

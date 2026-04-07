@@ -5,12 +5,10 @@ topic: ampscript-data-modification-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.772Z
+lastCollected: 2026-04-07T18:40:22.136Z
 estimatedTokens: 1055
-keywords: [AMPscript, Data, Modification, Functions, Two, allow, modify, extension, Send, Time, Support, Landing]
+keywords: [AMPscript, Modification, Functions, Two, allow, modify, extension, Send, Time, Support, Landing]
 ---
-
-# AMPscript Data Modification Functions
 
 > Two sets of functions allow AMPscript to modify your data extension data:
 

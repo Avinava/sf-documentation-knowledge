@@ -5,12 +5,10 @@ topic: lookup-tables-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:11.152Z
+lastCollected: 2026-04-07T18:39:04.278Z
 estimatedTokens: 297
 keywords: [Lookup, Tables, Business, APIs, Connect, REST, help, customers, partners, ISVs, integrate, Salesforce, software, UIs]
 ---
-
-# Lookup Tables Business APIs
 
 > Connect REST APIs help customers, partners, and ISVs integrate with Salesforce
         software and UIs.

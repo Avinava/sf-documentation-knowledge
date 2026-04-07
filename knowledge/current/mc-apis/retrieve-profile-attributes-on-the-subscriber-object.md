@@ -5,12 +5,10 @@ topic: retrieve-profile-attributes-on-the-subscriber-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.660Z
+lastCollected: 2026-04-07T18:40:18.863Z
 estimatedTokens: 991
-keywords: [Retrieve, Profile, Attributes, Subscriber, retrieving, attribute, defined, account, Once, retrieved, own, custom, application, system, build]
+keywords: [Retrieve, Profile, Attributes, Subscriber, retrieving, attribute, defined, account, Once, retrieved, own, application, system, build, dynamical, Sample, NET, Code, PHP, SOAP, Envelope]
 ---
-
-# Retrieve Profile Attributes on the Subscriber Object
 
 > By retrieving information from the Subscriber object, you can get a list of values for each profile attribute defined in your account for each subscriber. Once retrieved, you can use this information in your own custom application or system. For example, you could build an application that dynamical
 

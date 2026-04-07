@@ -5,12 +5,10 @@ topic: compact-form-column
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.261Z
+lastCollected: 2026-04-07T18:36:56.814Z
 estimatedTokens: 101
 keywords: [Compact, Form, Column]
 ---
-
-# Compact Form Column
 
 > A compact form column.
 

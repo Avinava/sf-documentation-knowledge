@@ -5,12 +5,10 @@ topic: edit-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.121Z
+lastCollected: 2026-04-07T18:39:23.056Z
 estimatedTokens: 946
-keywords: [Edit, Sharing, Rules, rule, owner, group, membership, access, settings, criteria]
+keywords: [Edit, Sharing, rule, owner, group, membership, settings, criteria]
 ---
-
-# Edit Sharing Rules
 
 > For a sharing rule based on owner or group membership, you can edit only the sharing
   access settings. For a sharing rule based on other criteria, you can edit the criteria and sharing

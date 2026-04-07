@@ -5,12 +5,10 @@ topic: export-data-from-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.163Z
+lastCollected: 2026-04-07T18:37:28.197Z
 estimatedTokens: 988
-keywords: [Export, Data, Salesforce, Extract, Loader]
+keywords: [Export, Salesforce, Extract, Loader]
 ---
-
-# Export Data from Salesforce
 
 > Extract data from a Salesforce object using Data Loader.
 

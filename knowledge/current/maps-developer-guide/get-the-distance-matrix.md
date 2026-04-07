@@ -5,12 +5,10 @@ topic: get-the-distance-matrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.684Z
+lastCollected: 2026-04-07T18:38:10.940Z
 estimatedTokens: 527
-keywords: [Distance, Matrix, GetDistanceMatrix, Apex, locations, estimated, travel, meters, time, seconds, Allocations, Sample, Code]
+keywords: [Allocations, Distance, Matrix, GetDistanceMatrix, Apex, locations, estimated, travel, meters, time, seconds, Sample, Code]
 ---
-
-# Get the Distance Matrix
 
 > The GetDistanceMatrix() Apex
       method takes a set of locations and returns the estimated travel distance in meters and the

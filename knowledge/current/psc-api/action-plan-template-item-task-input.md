@@ -5,12 +5,10 @@ topic: action-plan-template-item-task-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.692Z
+lastCollected: 2026-04-07T18:39:00.821Z
 estimatedTokens: 234
-keywords: [Action, Plan, Template, Item, Task, Input, representation, assigned]
+keywords: [Action, Plan, Template, Item, Task, assigned]
 ---
-
-# Action Plan Template Item Task Input
 
 > Input representation for the task assigned to an action plan
       template item.

@@ -5,12 +5,10 @@ topic: salesforce-scheduler-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.658Z
+lastCollected: 2026-04-07T18:39:20.391Z
 estimatedTokens: 1021
-keywords: [Salesforce, Scheduler, Custom, Objects, including, junction, link, large, number, child, records, record, parent]
+keywords: [Salesforce, Scheduler, including, junction, link, large, number, child, records, record, parent]
 ---
-
-# Salesforce Scheduler Custom Objects
 
 > This section provides details on custom objects, including junction objects. The
     Junction Object is a custom object that enables you to link a custom object with a large number

@@ -5,12 +5,10 @@ topic: tax-mappings-for-invoices-and-credits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.315Z
+lastCollected: 2026-04-07T18:35:42.175Z
 estimatedTokens: 3488
-keywords: [Tax, Mappings, Invoices, Credits, extend, customize, custom, metadata, customizations, help, unique, business, requirements, inclusion, specific]
+keywords: [Tax, Mappings, Invoices, Credits, extend, customize, metadata, customizations, help, unique, business, requirements, inclusion, specific, accurate, calculations, audits, Attributes, Line]
 ---
-
-# Tax Mappings for Invoices and Credits
 
 > You can extend and customize the existing tax interface by using custom metadata types
     and tax mappings. These customizations help you with unique business requirements such as the

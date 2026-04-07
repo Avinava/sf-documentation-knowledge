@@ -5,12 +5,10 @@ topic: manage-features-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.513Z
+lastCollected: 2026-04-07T18:38:53.825Z
 estimatedTokens: 869
-keywords: [Manage, Features, First-Generation, Managed, Packages, Control, how, release, customers, Feature, Management, App, FMA, extends, functionality]
+keywords: [Manage, Features, First-Generation, Managed, Packages, Control, how, release, customers, Feature, Management, App, FMA, extends, functionality, License, LMA, easily, licenses]
 ---
-
-# Manage Features in First-Generation Managed Packages
 
 > Control how you release features to customers with the Feature Management App (FMA). The
   FMA extends the functionality of the License Management App (LMA). Use the FMA to manage features

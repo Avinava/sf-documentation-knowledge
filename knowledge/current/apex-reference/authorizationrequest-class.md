@@ -5,13 +5,11 @@ topic: authorizationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.523Z
+lastCollected: 2026-04-07T18:36:01.756Z
 estimatedTokens: 1922
 namespace: CommercePayments
-keywords: [AuthorizationRequest, authorization, gateway, adapter, service, call, extends, BaseRequest, inherits, Usage, amount, accountId, comments, currencyIsoCode, paymentMethod]
+keywords: [AuthorizationRequest, authorization, gateway, adapter, service, call, extends, BaseRequest, inherits, amount, accountId, comments, currencyIsoCode, paymentMethod, equals, obj, hashCode, toString]
 ---
-
-# AuthorizationRequest Class
 
 > Sends information about an authorization request to a gateway adapter
             during a service call. This class extends the BaseRequest class and inherits all its methods.

@@ -5,12 +5,10 @@ topic: infoauthorizationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.220Z
+lastCollected: 2026-04-07T18:39:44.784Z
 estimatedTokens: 495
-keywords: [InfoAuthorizationRequest, Tracks, authorization, Data, Purpose, consent, share, documents, open, financial, account, loan, rate, lock, disclosure]
+keywords: [InfoAuthorizationRequest, Tracks, authorization, Purpose, consent, share, documents, open, financial, account, loan, rate, lock, disclosure, external, customer, API, 52.0]
 ---
-
-# InfoAuthorizationRequest
 
 > Tracks a request for authorization on a Data Use Purpose. For example,
          consent request to share the documents required to open a financial account and share loan

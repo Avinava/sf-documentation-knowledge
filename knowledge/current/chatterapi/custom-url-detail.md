@@ -5,12 +5,10 @@ topic: custom-url-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.209Z
+lastCollected: 2026-04-07T18:37:13.151Z
 estimatedTokens: 75
-keywords: [Custom, URL, Detail, Detailed]
+keywords: [URL, Detail, Detailed]
 ---
-
-# Custom URL Detail
 
 > Detailed description of a custom URL.
 

@@ -5,12 +5,10 @@ topic: emissions-factor-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.115Z
+lastCollected: 2026-04-07T18:38:16.685Z
 estimatedTokens: 598
-keywords: [Emissions, Factor, Records, calculations, energy, applying, relevant, factors, supplied, refrigerant, leakage, rate, industry, standard, averages]
+keywords: [Emissions, Factor, Records, calculations, energy, applying, relevant, factors, supplied, refrigerant, leakage, rate, industry, standard, averages, Salesforce, uses, own]
 ---
-
-# Emissions Factor Records
 
 > You can complete the emissions calculations by using the energy use records and
     applying the relevant emissions factors. The supplied values, such as refrigerant leakage rate,

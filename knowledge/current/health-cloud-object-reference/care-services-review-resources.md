@@ -5,12 +5,10 @@ topic: care-services-review-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.314Z
+lastCollected: 2026-04-07T18:37:43.472Z
 estimatedTokens: 135
 keywords: [Care, Services, Review, Resources, requests, status]
 ---
-
-# Care Services Review Resources
 
 > Use these resources to create or update care services review requests, or get
   information about the status of existing requests.

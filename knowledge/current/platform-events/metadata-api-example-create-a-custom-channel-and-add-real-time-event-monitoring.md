@@ -6,13 +6,10 @@ topic: metadata-api-example-create-a-custom-channel-and-add-real-time-event-moni
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.964Z
+lastCollected: 2026-04-07T18:38:57.790Z
 estimatedTokens: 1093
-keywords: [Metadata, API, Custom, Channel, Add, Real-Time, Event, Monitoring, Events, member, recommend, part, application, lifecycle, management]
+keywords: [Metadata, API, Channel, Add, Real-Time, Event, Monitoring, Events, member, recommend, part, application, lifecycle, management, process, develop, test, deploy, release, apps, production, want, configure, Tooling, REST]
 ---
-
-# Metadata API Example: Create a Custom Channel and Add Real-Time Event Monitoring
-        Events
 
 > You can use Metadata API to create a channel and channel member. We recommend using
         Metadata API as part of the application lifecycle management process to develop, test,

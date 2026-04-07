@@ -5,12 +5,10 @@ topic: term
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.147Z
+lastCollected: 2026-04-07T18:40:03.872Z
 estimatedTokens: 336
-keywords: [Term, condition, offered, customer, API, version, 62.0, later]
+keywords: [Term, condition, offered, customer, API, 62.0]
 ---
-
-# Term
 
 > Represents a term or a condition offered to the customer. This object is
       available in API version 62.0 and later.

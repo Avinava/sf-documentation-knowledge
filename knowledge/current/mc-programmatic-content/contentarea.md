@@ -5,12 +5,10 @@ topic: contentarea
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.682Z
+lastCollected: 2026-04-07T18:40:22.033Z
 estimatedTokens: 312
-keywords: [ContentArea, Function, Ordinal, numeric, content, area, impression, region, start, **Overview**, **Syntax**, Usage, Impression, whether, call, any, contained]
+keywords: [ContentArea, Function, Ordinal, numeric, content, area, impression, region, start, **Overview**, **Syntax**, Impression, whether, call, any, contained]
 ---
-
-# ContentArea
 
 > ContentArea(1, 2, 3, 4, 5)
 

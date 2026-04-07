@@ -5,12 +5,10 @@ topic: svccatalogitemdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.573Z
+lastCollected: 2026-04-07T18:36:29.990Z
 estimatedTokens: 2063
-keywords: [SvcCatalogItemDef, entity, associated, specific, individual, service, Catalog, File, Suffix, Directory, Location, Version, SvcCatalogItemDefFiltrCrit, SvcCatalogCategoryItem, SvcCatalogItemDefDataCategorySelection]
+keywords: [SvcCatalogItemDef, SvcCatalogItemDefFiltrCrit, SvcCatalogCategoryItem, SvcCatalogItemDefDataCategorySelection, SvcCatalogItemAttribute, SvcCatalogItemAttrDetail, entity, specific, individual, service, Catalog, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SvcCatalogItemDef
 
 > Represents the entity associated with a specific, individual service available in the
     Service Catalog.

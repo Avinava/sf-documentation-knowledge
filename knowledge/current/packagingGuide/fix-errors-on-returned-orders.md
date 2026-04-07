@@ -5,12 +5,10 @@ topic: fix-errors-on-returned-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.545Z
+lastCollected: 2026-04-07T18:38:46.407Z
 estimatedTokens: 273
-keywords: [Fix, Errors, Orders, submitted, order, Salesforce, can’t, process, ask, identified, resolve, reading, comments, provide, cloning]
+keywords: [Fix, Errors, Orders, submitted, order, Salesforce, can’t, process, ask, identified, resolve, reading, comments, provide, cloning, submitting, new, changes, applied]
 ---
-
-# Fix Errors on Returned Orders
 
 > If you submitted an order that Salesforce can’t process, we return the order and ask you
     to fix the errors that we identified. You can resolve the errors by reading the comments we

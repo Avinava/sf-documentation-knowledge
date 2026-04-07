@@ -5,12 +5,10 @@ topic: trncourse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.584Z
+lastCollected: 2026-04-07T18:40:04.318Z
 estimatedTokens: 353
-keywords: [TrnCourse, authorized, trainings, qualify, license, permit, API, version, 49.0, later]
+keywords: [TrnCourse, authorized, trainings, qualify, license, permit, API, 49.0]
 ---
-
-# TrnCourse
 
 > Represents information about the authorized trainings that qualify a license or
       permit. This object is available in API version 49.0 and later.

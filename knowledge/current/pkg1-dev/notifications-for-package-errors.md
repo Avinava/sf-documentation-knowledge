@@ -5,12 +5,10 @@ topic: notifications-for-package-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.855Z
+lastCollected: 2026-04-07T18:38:54.253Z
 estimatedTokens: 328
-keywords: [Notifications, Package, Errors, Accurately, track, failed, installations, upgrades, uninstallations, subscriber, orgs, feature, Proactively, address, issues]
+keywords: [Notifications, Package, Errors, Accurately, track, failed, installations, upgrades, uninstallations, subscriber, orgs, feature, Proactively, address, issues, managed, unmanaged, packages, provide, support, subscribers, they, successfully, install, upgrade, apps]
 ---
-
-# Notifications for Package Errors
 
 > Accurately track failed package installations, upgrades, and uninstallations in
     subscriber orgs with the Notifications for Package Errors feature. Proactively address issues

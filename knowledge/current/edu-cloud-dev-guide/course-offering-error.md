@@ -5,12 +5,10 @@ topic: course-offering-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.349Z
+lastCollected: 2026-04-07T18:37:29.436Z
 estimatedTokens: 104
-keywords: [Course, Offering, Error, Output, representation, schedule]
+keywords: [Course, Offering, Error, schedule]
 ---
-
-# Course Offering Error
 
 > Output representation of the error of the course offering schedule.
 

@@ -5,12 +5,10 @@ topic: producttransferstatehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.799Z
+lastCollected: 2026-04-07T18:39:56.339Z
 estimatedTokens: 271
-keywords: [ProductTransferStateHistory, History, tracked, ProductTransferState]
+keywords: [ProductTransferStateHistory, tracked, ProductTransferState]
 ---
-
-# ProductTransferStateHistory
 
 > History for tracked fields of ProductTransferState.
 

@@ -5,13 +5,11 @@ topic: connectortestutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.165Z
+lastCollected: 2026-04-07T18:36:01.420Z
 estimatedTokens: 504
 namespace: UserProvisioning
-keywords: [ConnectorTestUtil, developers, write, Apex, test, classes, connectors, connected, app, provisioning, solution, simulates, associated, Usage, createConnectedApp]
+keywords: [ConnectorTestUtil, developers, write, Apex, test, classes, connectors, connected, app, provisioning, solution, simulates, createConnectedApp, connectedAppName]
 ---
-
-# ConnectorTestUtil Class
 
 > Enables developers to write Apex test classes for connectors used by
       the connected app provisioning solution. This class simulates provisioning for the associated

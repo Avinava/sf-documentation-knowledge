@@ -5,12 +5,10 @@ topic: einstein-recommendation-collect-tracking-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.886Z
+lastCollected: 2026-04-07T18:40:18.073Z
 estimatedTokens: 2042
-keywords: [Einstein, Recommendation, Collect, Tracking, API, calls, implemented, server, side, option, implementation, HTTP, POST, call, appropriate]
+keywords: [Einstein, Recommendation, Collect, API, implemented, server, side, option, implementation, HTTP, POST, call, appropriate, URL, corresponding, payload, Definitions, MID, title, referrer, email, user, _id, session, Item, Detail, View, Additional, Real-Time, Rating, Cart, quantity, price, Clear, _cart, Conversion, order, _number, shipping, discount, Search, Category]
 ---
-
-# Einstein Recommendation Collect Tracking API
 
 > Einstein Recommendation Collect Tracking calls are available to be implemented with a server side option.  To use these implementation methods, make an HTTP POST call to the appropriate URL, with the corresponding payload parameter values.
 

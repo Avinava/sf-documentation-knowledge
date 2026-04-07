@@ -5,12 +5,10 @@ topic: rate-plan-commission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.569Z
+lastCollected: 2026-04-07T18:37:52.765Z
 estimatedTokens: 344
-keywords: [Rate, Plan, Commission, Output, representation]
+keywords: [Rate, Plan, Commission]
 ---
-
-# Rate Plan Commission
 
 > Output representation details of the rate plan commission.
 

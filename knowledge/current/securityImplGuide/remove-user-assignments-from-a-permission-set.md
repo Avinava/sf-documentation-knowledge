@@ -6,13 +6,10 @@ topic: remove-user-assignments-from-a-permission-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.597Z
+lastCollected: 2026-04-07T18:39:22.490Z
 estimatedTokens: 220
 keywords: [Remove, User, Assignments, Permission, any, assignment, users]
 ---
-
-# Remove User Assignments from a Permission
-Set
 
 > From any permission set page, you can remove the permission
 set assignment from one or more users.

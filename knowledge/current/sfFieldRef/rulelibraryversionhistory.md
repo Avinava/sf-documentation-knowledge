@@ -5,12 +5,10 @@ topic: rulelibraryversionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.799Z
+lastCollected: 2026-04-07T18:40:00.541Z
 estimatedTokens: 268
-keywords: [RuleLibraryVersionHistory, History, tracked, RuleLibraryVersion]
+keywords: [RuleLibraryVersionHistory, tracked, RuleLibraryVersion]
 ---
-
-# RuleLibraryVersionHistory
 
 > History for tracked fields of RuleLibraryVersion.
 

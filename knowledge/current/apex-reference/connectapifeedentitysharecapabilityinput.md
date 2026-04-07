@@ -5,12 +5,10 @@ topic: connectapifeedentitysharecapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.119Z
+lastCollected: 2026-04-07T18:36:05.454Z
 estimatedTokens: 194
-keywords: [Share, feed, entity, post, comment]
+keywords: [Share, entity, post, comment]
 ---
-
-# ConnectApi.FeedEntityShareCapabilityInput
 
 > Share a feed entity with a feed post or comment.
 

@@ -5,12 +5,10 @@ topic: android-emulator-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.929Z
+lastCollected: 2026-04-07T18:38:15.430Z
 estimatedTokens: 1314
-keywords: [Android, Emulator, Setup, development, it’s, convenient, test, code, virtual, device, Studio, install, build, mobile, app]
+keywords: [Android, Emulator, Setup, development, it’s, convenient, test, code, virtual, device, Studio, install, build, mobile, app, Configure, Minimum, Settings, Service]
 ---
-
-# Android Emulator Setup
 
 > During development it’s convenient to test your code in a virtual device. Use Android
     Studio to create a device emulator, and install the virtual device build of your mobile app into

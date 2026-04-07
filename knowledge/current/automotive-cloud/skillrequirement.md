@@ -5,12 +5,10 @@ topic: skillrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.803Z
+lastCollected: 2026-04-07T18:36:53.172Z
 estimatedTokens: 630
-keywords: [SkillRequirement, skill, particular, work, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [SkillRequirement, skill, particular, work, API, 58.0]
 ---
-
-# SkillRequirement
 
 > Represents a skill that is required to complete a particular work type.
       This object is available in API version 58.0 and later.

@@ -5,12 +5,10 @@ topic: auto-install-requests-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.006Z
+lastCollected: 2026-04-07T18:36:55.436Z
 estimatedTokens: 819
 keywords: [Auto-Install, Requests, Resource, collection, Analytics, embedded, apps, creates, deletes, groups, folder, template, API]
 ---
-
-# Auto-Install Requests List Resource
 
 > Returns a collection of auto-install requests for Analytics embedded apps, creates an
   auto-install request, or deletes groups of auto-install requests by an Analytics folder ID or a

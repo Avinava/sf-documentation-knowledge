@@ -5,12 +5,10 @@ topic: collect-vat-for-appexchange-checkout-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.942Z
+lastCollected: 2026-04-07T18:38:45.769Z
 estimatedTokens: 483
-keywords: [Collect, VAT, AppExchange, Checkout, Transactions, country’s, tax, authority, requires, value-added, include, enable, option, Partner, Console]
+keywords: [Collect, VAT, AppExchange, Checkout, Transactions, country’s, tax, authority, requires, value-added, include, enable, option, Partner, Console, applied, invoices, Stripe, You’re, responsible, registration, maintaining, distributing, taxes]
 ---
-
-# Collect VAT for AppExchange Checkout Transactions
 
 > If your country’s tax authority requires you to collect value-added tax (VAT), you can
         include VAT in Checkout transactions. After you enable this option in the AppExchange

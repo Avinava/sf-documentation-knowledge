@@ -5,12 +5,10 @@ topic: whats-the-earliest-date-appexchange-marketplace-analytics-data-is-availab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.096Z
+lastCollected: 2026-04-07T18:38:47.069Z
 estimatedTokens: 50
-keywords: [What’s, Earliest, Date, AppExchange, Marketplace, Analytics, Data, activity, occurred, listing, August, later]
+keywords: [What’s, Earliest, Date, AppExchange, Marketplace, Analytics, activity, occurred, listing, August]
 ---
-
-# What’s the Earliest Date AppExchange Marketplace Analytics Data Is Available?
 
 > AppExchange Marketplace Analytics data is available for activity that occurred on your
     listing in August 2019 or later.

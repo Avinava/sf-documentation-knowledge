@@ -5,12 +5,10 @@ topic: rentalcarenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.688Z
+lastCollected: 2026-04-07T18:38:19.377Z
 estimatedTokens: 2119
-keywords: [RentalCarEnrgyUse, energy, consumption, rental, cars, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [RentalCarEnrgyUse, energy, consumption, rental, cars, API, 54.0]
 ---
-
-# RentalCarEnrgyUse
 
 > Represents the energy consumption related to rental cars. This object is
       available in API version 54.0 and later.

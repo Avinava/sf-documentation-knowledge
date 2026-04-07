@@ -5,12 +5,10 @@ topic: command-center-data-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.919Z
+lastCollected: 2026-04-07T18:40:13.898Z
 estimatedTokens: 1394
-keywords: [Command, Center, Data, Triggers, Work.com, installs, uses, Employee, Individual, User, Location, Adding, modifying, records, objects]
+keywords: [Command, Center, Triggers, Work.com, installs, uses, Employee, Individual, User, Location, Adding, modifying, records, trigger, changes, It’s, possible, disable, loads, Enable, Bulk, Limitations, Enabled]
 ---
-
-# Command Center Data Triggers
 
 > Work.com installs and uses Command Center data triggers on Employee, Individual, User,
     and Location. Adding or modifying records for these objects can trigger changes in related

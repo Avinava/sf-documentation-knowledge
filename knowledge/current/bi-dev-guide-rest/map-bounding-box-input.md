@@ -5,12 +5,10 @@ topic: map-bounding-box-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.471Z
+lastCollected: 2026-04-07T18:36:54.830Z
 estimatedTokens: 117
-keywords: [Map, Bounding, Box, Input]
+keywords: [Map, Bounding, Box]
 ---
-
-# Map Bounding Box Input
 
 > A bounding box of a map..
 

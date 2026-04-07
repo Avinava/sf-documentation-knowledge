@@ -5,12 +5,10 @@ topic: careplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.763Z
+lastCollected: 2026-04-07T18:38:22.739Z
 estimatedTokens: 352
-keywords: [CarePlanTemplate, template, care, plan, offered, household, scenario, API, version, 55.0, later, Calls]
+keywords: [CarePlanTemplate, template, care, plan, offered, household, scenario, API, 55.0]
 ---
-
-# CarePlanTemplate
 
 > Represents the template for a type of care plan that can be offered for a
          household scenario.  This object is available in API version 55.0 and later.

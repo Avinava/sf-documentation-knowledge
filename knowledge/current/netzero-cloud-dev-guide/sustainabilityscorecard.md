@@ -5,12 +5,10 @@ topic: sustainabilityscorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.171Z
+lastCollected: 2026-04-07T18:38:19.846Z
 estimatedTokens: 3340
-keywords: [SustainabilityScorecard, annual, sustainability, scorecard, third-party, organizations, whose, data, calculate, scope, emissions, API, version, 54.0, later]
+keywords: [SustainabilityScorecard, annual, sustainability, scorecard, third-party, organizations, whose, calculate, scope, emissions, API, 54.0]
 ---
-
-# SustainabilityScorecard
 
 > Represents information about the annual sustainability scorecard of third-party organizations whose data is used to calculate scope 3 emissions. This object is available in API version 54.0 and later.
 

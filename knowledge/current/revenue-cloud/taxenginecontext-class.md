@@ -5,13 +5,11 @@ topic: taxenginecontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.955Z
+lastCollected: 2026-04-07T18:35:40.828Z
 estimatedTokens: 1246
 namespace: CommerceTax
 keywords: [TaxEngineContext, Wrapper, stores, tax, calculation, requestType, namedUri, getNamedUri, getRequest, getRequestType]
 ---
-
-# TaxEngineContext Class
 
 > Wrapper class that stores details about the type of a tax
             calculation request.

@@ -5,12 +5,10 @@ topic: request-a-salesforce-partner-business-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.275Z
+lastCollected: 2026-04-07T18:38:46.125Z
 estimatedTokens: 286
-keywords: [Salesforce, Partner, Business, Org, didn’t, receive, PBO, joined, Community, log, case, created, separate, username, skip]
+keywords: [Salesforce, Partner, Business, Org, didn’t, receive, PBO, joined, Community, log, case, created, separate, username, skip, step, automatically, provisioned]
 ---
-
-# Request a Salesforce Partner Business Org
 
 > If you didn’t receive a Partner Business Org (PBO) when you joined the Salesforce
   Partner Community, log a case to request one. If you created a separate username when you joined

@@ -5,12 +5,10 @@ topic: awardhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.701Z
+lastCollected: 2026-04-07T18:39:28.790Z
 estimatedTokens: 250
-keywords: [AwardHistory, History, tracked, Award]
+keywords: [AwardHistory, tracked, Award]
 ---
-
-# AwardHistory
 
 > History for tracked fields of Award.
 

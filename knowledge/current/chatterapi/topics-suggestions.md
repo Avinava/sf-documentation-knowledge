@@ -5,12 +5,10 @@ topic: topics-suggestions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.986Z
+lastCollected: 2026-04-07T18:37:16.058Z
 estimatedTokens: 304
-keywords: [Topics, Suggestions, topic, text, feed, item, record]
+keywords: [Topics, Suggestions, topic, text, item, record]
 ---
-
-# Topics Suggestions
 
 > Get a list of topic suggestions for a string of text, feed
    item, or record.

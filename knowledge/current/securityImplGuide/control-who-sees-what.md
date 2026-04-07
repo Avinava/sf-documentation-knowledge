@@ -5,12 +5,10 @@ topic: control-who-sees-what
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.965Z
+lastCollected: 2026-04-07T18:39:22.883Z
 estimatedTokens: 2383
-keywords: [Control, Sees, Salesforce, data, sharing, lets, expose, specific, individuals, groups, users, Permission, profiles, provide, object-level]
+keywords: [Control, Sees, Salesforce, sharing, lets, expose, specific, individuals, groups, users, Permission, profiles, provide, object-level, field-level, security, controlling, Record-level, settings, user, roles, individual, records, view, edit]
 ---
-
-# Control Who Sees What
 
 > Salesforce data sharing lets you expose specific data
             sets to individuals and groups of users. Permission sets, permission set groups, and

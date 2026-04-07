@@ -5,12 +5,10 @@ topic: healthconditiondetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.417Z
+lastCollected: 2026-04-07T18:37:56.851Z
 estimatedTokens: 916
-keywords: [HealthConditionDetail, child, associate, site, laterality, codes, HealthCondition, records, API, version, 52.0, later, Calls, Usage, Associated]
+keywords: [HealthConditionDetail, child, associate, site, laterality, codes, HealthCondition, records, API, 52.0]
 ---
-
-# HealthConditionDetail
 
 > This child object is used to associate body site and laterality codes to
          HealthCondition records. This object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: integrate-open-cti-with-lightning-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.985Z
+lastCollected: 2026-04-07T18:39:17.644Z
 estimatedTokens: 1313
-keywords: [Integrate, Open, CTI, Lightning, Flow, Service, APIs, third-party, telephony, services, Salesforce, advantage, three, getSoftphoneLayout, screenPop]
+keywords: [Integrate, Open, CTI, Lightning, Flow, Service, APIs, third-party, telephony, services, Salesforce, advantage, three, getSoftphoneLayout, screenPop, searchAndScreenPop]
 ---
-
-# Integrate Open CTI with Lightning Flow for Service
 
 > Open CTI provides a set of APIs that enables third-party telephony services to
         integrate with Salesforce. Lightning Flow for Service takes advantage of three Open CTI

@@ -5,12 +5,10 @@ topic: subscription-widgets-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.884Z
+lastCollected: 2026-04-07T18:36:56.434Z
 estimatedTokens: 193
 keywords: [Subscription, Widgets, Resource, widget]
 ---
-
-# Subscription Widgets Resource
 
 > Create a subscription for a widget.
 

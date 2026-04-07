@@ -5,12 +5,10 @@ topic: overriding-standard-tokens-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.636Z
+lastCollected: 2026-04-07T18:38:05.857Z
 estimatedTokens: 315
-keywords: [Overriding, Standard, Tokens, Deprecated, override, design, custom, components, replace, SLDS, styling, hooks]
+keywords: [Overriding, Standard, Tokens, Deprecated, override, design, replace, SLDS, styling, hooks]
 ---
-
-# Overriding Standard Tokens (Deprecated)
 
 > If you override design tokens for your custom components, replace
       them with SLDS styling hooks.

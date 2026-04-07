@@ -5,12 +5,10 @@ topic: aiapplicationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.027Z
+lastCollected: 2026-04-07T18:36:22.281Z
 estimatedTokens: 567
-keywords: [AIApplicationConfig, Additional, prediction, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Wildcard, Support]
+keywords: [AIApplicationConfig, Additional, prediction, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---
-
-# AIApplicationConfig
 
 > Additional prediction information related to an AI application. This type extends the Metadata metadata type and inherits its fullName field.
 

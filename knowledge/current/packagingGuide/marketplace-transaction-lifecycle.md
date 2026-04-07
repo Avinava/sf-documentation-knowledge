@@ -5,12 +5,10 @@ topic: marketplace-transaction-lifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.301Z
+lastCollected: 2026-04-07T18:38:47.273Z
 estimatedTokens: 872
-keywords: [Marketplace, Transaction, Lifecycle, begin, configuring, products, creating, offers, it’s, understand, sequence, events, occur, explains, expect]
+keywords: [Marketplace, Transaction, Lifecycle, begin, configuring, products, creating, offers, it’s, understand, sequence, events, occur, explains, expect, offer, billing, provisioning, payment, collection, payouts, Here’s, visual, flow, Order]
 ---
-
-# Marketplace Transaction Lifecycle
 
 > Before you begin configuring products or creating offers, it’s important to understand
   the sequence of events that occur during a marketplace transaction. The lifecycle explains what

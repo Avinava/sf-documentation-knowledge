@@ -5,12 +5,10 @@ topic: finclacctptyfinclasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.082Z
+lastCollected: 2026-04-07T18:37:35.751Z
 estimatedTokens: 1323
-keywords: [FinclAcctPtyFinclAsset, party, asset, associated, financial, account, API, version, 61.0, later, Calls, Special, Access, Rules, Objects]
+keywords: [FinclAcctPtyFinclAsset, party, asset, financial, account, API, 61.0]
 ---
-
-# FinclAcctPtyFinclAsset
 
 > Represents information about a party asset associated with a financial
          account. This object is available in API version 61.0 and later.

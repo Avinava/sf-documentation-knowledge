@@ -5,12 +5,10 @@ topic: property-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.572Z
+lastCollected: 2026-04-07T18:37:35.190Z
 estimatedTokens: 694
-keywords: [Output, loan, application, finances]
+keywords: [loan, application, finances]
 ---
-
-# Property Output
 
 > Represents details of the property the loan application
       finances.

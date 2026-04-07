@@ -5,12 +5,10 @@ topic: bsgrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.786Z
+lastCollected: 2026-04-07T18:35:48.765Z
 estimatedTokens: 827
-keywords: [BsgRelationship, relationship, billing, schedule, groups, support, bundles, parent, group, multiple, child, API, version, 62.0, later]
+keywords: [BsgRelationship, relationship, billing, schedule, groups, support, bundles, parent, group, multiple, child, API, 62.0]
 ---
-
-# BsgRelationship
 
 > Represents a relationship between billing schedule groups to support
          bundles where one parent billing schedule group has multiple child billing schedule

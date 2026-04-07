@@ -5,12 +5,10 @@ topic: clinicalalerthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.646Z
+lastCollected: 2026-04-07T18:39:34.079Z
 estimatedTokens: 261
-keywords: [ClinicalAlertHistory, History, tracked, ClinicalAlert]
+keywords: [ClinicalAlertHistory, tracked, ClinicalAlert]
 ---
-
-# ClinicalAlertHistory
 
 > History for tracked fields of ClinicalAlert.
 

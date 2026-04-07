@@ -6,13 +6,10 @@ topic: customize-the-minimized-embedded-service-ui-with-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.626Z
+lastCollected: 2026-04-07T18:40:09.574Z
 estimatedTokens: 806
-keywords: [Customize, Minimized, Embedded, Service, Aura, Components, user, component, it’s, web, custom]
+keywords: [Customize, Minimized, Embedded, Service, Aura, user, it’s, web]
 ---
-
-# Customize the Minimized Embedded Service UI with Aura
-            Components
 
 > Customize the user interface for the embedded component when it’s minimized on your
         web page using a custom Aura component.

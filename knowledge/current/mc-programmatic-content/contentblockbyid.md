@@ -5,12 +5,10 @@ topic: contentblockbyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.693Z
+lastCollected: 2026-04-07T18:40:22.052Z
 estimatedTokens: 330
-keywords: [ContentBlockbyId, Function, Ordinal, numeric, content, block, impression, region, start, **Overview**, **Syntax**, Usage, ContentBlockByID, Impression, whether]
+keywords: [ContentBlockbyId, Function, Ordinal, numeric, content, block, impression, region, start, **Overview**, **Syntax**, ContentBlockByID, Impression, whether]
 ---
-
-# ContentBlockbyId
 
 > ContentBlockbyId(1, 2, 3, 4, 5)
 

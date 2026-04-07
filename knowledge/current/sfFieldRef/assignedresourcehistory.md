@@ -5,12 +5,10 @@ topic: assignedresourcehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.969Z
+lastCollected: 2026-04-07T18:39:27.952Z
 estimatedTokens: 265
-keywords: [AssignedResourceHistory, History, tracked, AssignedResource]
+keywords: [AssignedResourceHistory, tracked, AssignedResource]
 ---
-
-# AssignedResourceHistory
 
 > History for tracked fields of AssignedResource.
 

@@ -5,12 +5,10 @@ topic: social-post-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.019Z
+lastCollected: 2026-04-07T18:37:23.135Z
 estimatedTokens: 550
-keywords: [Social, Post, Capability, feed, element, interact, network]
+keywords: [Social, Post, Capability, interact, network]
 ---
-
-# Social Post Capability
 
 > If a feed element has this capability, it can interact with a social post on a social
     network.

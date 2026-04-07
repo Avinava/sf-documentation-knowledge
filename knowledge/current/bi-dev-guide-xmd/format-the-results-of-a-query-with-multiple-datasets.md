@@ -5,12 +5,10 @@ topic: format-the-results-of-a-query-with-multiple-datasets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.188Z
+lastCollected: 2026-04-07T18:37:02.727Z
 estimatedTokens: 227
 keywords: [Results, Query, Multiple, Datasets, formatted, XMD, loaded, dataset]
 ---
-
-# Format the Results of a Query with Multiple Datasets
 
 > When a query has multiple datasets, the query results are formatted using the XMD of
     the first loaded dataset.

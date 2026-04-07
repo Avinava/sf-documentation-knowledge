@@ -5,12 +5,10 @@ topic: ocrtargetobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.731Z
+lastCollected: 2026-04-07T18:36:41.422Z
 estimatedTokens: 238
-keywords: [OcrTargetObject, document, extracted, mapped, API, version, 50.0, later, Calls, 55.0, SOAP, REST, Special, Access, Rules, 52.0]
+keywords: [OcrTargetObject, document, extracted, mapped, API, 50.0, 55.0, SOAP, REST, 52.0]
 ---
-
-# OcrTargetObject
 
 > Represents the details of the object to which information from a document
             is extracted and mapped. This object is available in API version 55.0 and

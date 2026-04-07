@@ -5,12 +5,10 @@ topic: emissionsallocationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.358Z
+lastCollected: 2026-04-07T18:39:39.016Z
 estimatedTokens: 268
-keywords: [EmissionsAllocationHistory, History, tracked, EmissionsAllocation]
+keywords: [EmissionsAllocationHistory, tracked, EmissionsAllocation]
 ---
-
-# EmissionsAllocationHistory
 
 > History for tracked fields of EmissionsAllocation.
 

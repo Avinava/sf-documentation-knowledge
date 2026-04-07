@@ -5,12 +5,10 @@ topic: omnisupervisorconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.583Z
+lastCollected: 2026-04-07T18:36:28.118Z
 estimatedTokens: 1954
-keywords: [OmniSupervisorConfig, Omni-Channel, supervisor, configuration, assigned, group, supervisors, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [OmniSupervisorConfig, OmniSpvsrConfigAIAgent, OmniSupervisorConfigAction, OmniSupervisorConfigGroup, OmniSupervisorConfigProfile, OmniSupervisorConfigQueue, OmniSupervisorConfigSkill, OmniSupervisorConfigTab, OmniSupervisorConfigUser, Omni-Channel, supervisor, configuration, assigned, group, supervisors, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# OmniSupervisorConfig
 
 > Represents the Omni-Channel supervisor configuration
       for an assigned group of supervisors.

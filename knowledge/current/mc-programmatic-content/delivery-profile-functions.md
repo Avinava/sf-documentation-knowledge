@@ -5,12 +5,10 @@ topic: delivery-profile-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.660Z
+lastCollected: 2026-04-07T18:40:23.069Z
 estimatedTokens: 175
-keywords: [Delivery, Profile, Functions, allow, access, control, profiles, Marketing, Cloud, account, part, landing, application, Load, Initialization]
+keywords: [Load, Initialization, Delivery, Profile, Functions, allow, control, profiles, Marketing, Cloud, account, part, landing, application]
 ---
-
-# Delivery Profile Functions
 
 > These functions allow you to access and control delivery profiles within your Marketing Cloud account. Use these functions as part of a landing page or other application.
 

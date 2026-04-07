@@ -5,12 +5,10 @@ topic: shiftworktopichistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.369Z
+lastCollected: 2026-04-07T18:40:02.078Z
 estimatedTokens: 263
-keywords: [ShiftWorkTopicHistory, History, tracked, ShiftWorkTopic]
+keywords: [ShiftWorkTopicHistory, tracked, ShiftWorkTopic]
 ---
-
-# ShiftWorkTopicHistory
 
 > History for tracked fields of ShiftWorkTopic.
 

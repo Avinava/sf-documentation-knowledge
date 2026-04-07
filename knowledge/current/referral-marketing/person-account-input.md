@@ -5,12 +5,10 @@ topic: person-account-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.070Z
+lastCollected: 2026-04-07T18:39:09.389Z
 estimatedTokens: 193
-keywords: [Person, Account, Input, representation, advocate’s]
+keywords: [Person, Account, advocate’s]
 ---
-
-# Person Account Input
 
 > Input representation of a advocate’s person account details.
 

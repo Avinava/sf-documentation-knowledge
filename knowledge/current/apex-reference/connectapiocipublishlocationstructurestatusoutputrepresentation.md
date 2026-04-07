@@ -5,12 +5,10 @@ topic: connectapiocipublishlocationstructurestatusoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.127Z
+lastCollected: 2026-04-07T18:36:10.426Z
 estimatedTokens: 293
 keywords: [Detailed, status, publish, location, structure, job]
 ---
-
-# ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation
 
 > Detailed status of a publish location structure
     job.

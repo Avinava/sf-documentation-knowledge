@@ -5,12 +5,10 @@ topic: workflow-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.958Z
+lastCollected: 2026-04-07T18:40:08.940Z
 estimatedTokens: 801
 keywords: [Workflow, Unlocked, Packages, install, package, directly, Salesforce, command, line]
 ---
-
-# Workflow for Unlocked Packages
 
 > You can create and install an unlocked package directly from the Salesforce command
         line.

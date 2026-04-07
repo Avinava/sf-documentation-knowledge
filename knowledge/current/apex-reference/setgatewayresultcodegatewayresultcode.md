@@ -5,12 +5,10 @@ topic: setgatewayresultcodegatewayresultcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.005Z
+lastCollected: 2026-04-07T18:36:04.225Z
 estimatedTokens: 140
 keywords: [setGatewayResultCode, gatewayResultCode, gateway-specific, result, code, may, mapped, Salesforce-specific, Maximum, length, characters]
 ---
-
-# setGatewayResultCode(gatewayResultCode)
 
 > Sets a gateway-specific result code. The code may be mapped to a Salesforce-specific
     result code. Maximum length of 64 characters.

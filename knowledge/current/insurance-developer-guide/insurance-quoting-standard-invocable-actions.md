@@ -5,12 +5,10 @@ topic: insurance-quoting-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.100Z
+lastCollected: 2026-04-07T18:37:53.376Z
 estimatedTokens: 656
 keywords: [Insurance, Quoting, Standard, Invocable, Actions]
 ---
-
-# Insurance Quoting Standard Invocable Actions
 
 > Learn more about the standard invocable actions available with Insurance
     Quoting.

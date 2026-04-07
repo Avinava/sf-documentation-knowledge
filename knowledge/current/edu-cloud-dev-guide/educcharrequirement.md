@@ -5,12 +5,10 @@ topic: educcharrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.007Z
+lastCollected: 2026-04-07T18:37:31.086Z
 estimatedTokens: 592
-keywords: [EducCharRequirement, definition, educational, characteristics, needed, meet, requirement, API, version, 66.0, later, Calls]
+keywords: [EducCharRequirement, definition, educational, characteristics, needed, meet, requirement, API, 66.0]
 ---
-
-# EducCharRequirement
 
 > Represents a definition of the educational characteristics that are needed to
          meet an educational requirement. This object is available in API version 66.0 and

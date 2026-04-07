@@ -5,12 +5,10 @@ topic: sharing-javascript-code-across-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.534Z
+lastCollected: 2026-04-07T18:38:05.750Z
 estimatedTokens: 803
-keywords: [Sharing, JavaScript, Code, Across, Components, build, simple, Lightning, entirely, self-contained, However, complex, applications, probably, want]
+keywords: [Sharing, JavaScript, Code, Across, build, simple, Lightning, entirely, self-contained, However, complex, applications, probably, want, share, client-side, Library]
 ---
-
-# Sharing JavaScript Code Across Components
 
 > You can build simple Lightning components that are entirely self-contained. However, if
     you build more complex applications, you probably want to share code, or even client-side data,

@@ -5,12 +5,10 @@ topic: agentworkskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:34.139Z
+lastCollected: 2026-04-07T18:38:25.077Z
 estimatedTokens: 829
-keywords: [AgentWorkSkill, skill, route, work, assignment, agent, reporting, result, routing, decision, API, version, 42.0, later, Calls]
+keywords: [AgentWorkSkill, skill, route, work, assignment, agent, reporting, result, routing, decision, API, 42.0]
 ---
-
-# AgentWorkSkill
 
 > Represents a skill used to route a work assignment to an agent.
 			AgentWorkSkill is used for reporting and represents the result of a routing

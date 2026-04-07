@@ -5,12 +5,10 @@ topic: automotive-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.867Z
+lastCollected: 2026-04-07T18:36:52.292Z
 estimatedTokens: 200
-keywords: [Automotive, Cloud, Associated, Objects, standard, their]
+keywords: [Automotive, Cloud, standard, their]
 ---
-
-# Automotive Cloud Associated Objects
 
 > This section provides a list of objects associated to standard objects and their
   standard fields.

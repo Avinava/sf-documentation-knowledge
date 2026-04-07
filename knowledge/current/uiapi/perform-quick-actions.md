@@ -5,12 +5,10 @@ topic: perform-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.212Z
+lastCollected: 2026-04-07T18:40:11.201Z
 estimatedTokens: 175
 keywords: [Perform, Quick, Actions, action, creates, updates, record]
 ---
-
-# Perform Quick Actions
 
 > Perform a quick action that creates or updates a record.
 

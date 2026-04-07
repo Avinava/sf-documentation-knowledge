@@ -5,12 +5,10 @@ topic: billing-fields-on-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.762Z
+lastCollected: 2026-04-07T18:37:04.385Z
 estimatedTokens: 545
-keywords: [Billing, Account, Standard, custom, extend, represent, accounts]
+keywords: [Billing, Account, Standard, extend, represent, accounts]
 ---
-
-# Billing Fields on Account
 
 > Standard and custom fields extend the standard Account object for use
          in Billing to represent information about accounts.

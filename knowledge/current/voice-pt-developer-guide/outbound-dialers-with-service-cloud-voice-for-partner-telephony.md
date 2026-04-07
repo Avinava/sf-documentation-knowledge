@@ -5,12 +5,10 @@ topic: outbound-dialers-with-service-cloud-voice-for-partner-telephony
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.343Z
+lastCollected: 2026-04-07T18:40:13.280Z
 estimatedTokens: 364
 keywords: [Outbound, Dialers, Service, Cloud, Voice, Partner, Telephony, preview, dialer, progressive, Push]
 ---
-
-# Outbound Dialers with Service Cloud Voice for Partner Telephony
 
 > You can use a preview dialer or a progressive dialer with Service Cloud Voice for Partner
         Telephony.

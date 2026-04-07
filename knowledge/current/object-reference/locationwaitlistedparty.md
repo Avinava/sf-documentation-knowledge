@@ -5,12 +5,10 @@ topic: locationwaitlistedparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.014Z
+lastCollected: 2026-04-07T18:38:35.255Z
 estimatedTokens: 518
-keywords: [LocationWaitlistedParty, specific, party, people, waiting, queue, API, version, 50.0, later, Calls]
+keywords: [LocationWaitlistedParty, specific, party, people, waiting, queue, API, 50.0]
 ---
-
-# LocationWaitlistedParty
 
 > Represents a specific party of people waiting in a queue. This object is
     available in API version 50.0 and later.

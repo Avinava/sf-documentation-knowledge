@@ -5,12 +5,10 @@ topic: inventory-actions-query-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.784Z
+lastCollected: 2026-04-07T18:36:52.204Z
 estimatedTokens: 88
-keywords: [Inventory, Actions, Query, Input, representation, perform]
+keywords: [Inventory, Actions, Query, perform]
 ---
-
-# Inventory Actions Query Input
 
 > Input representation to perform the inventory actions
     query.

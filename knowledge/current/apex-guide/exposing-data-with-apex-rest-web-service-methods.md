@@ -5,12 +5,10 @@ topic: exposing-data-with-apex-rest-web-service-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.162Z
+lastCollected: 2026-04-07T18:36:18.395Z
 estimatedTokens: 791
-keywords: [Exposing, Data, Apex, REST, Web, Service, Invoking, custom, always, uses, system, context, Consequently, current, user's]
+keywords: [Exposing, Apex, REST, Web, Service, Invoking, always, uses, system, context, Consequently, current, user's, credentials, any, user, their, full, power, regardless, permissions, field-level, security, sharing, Developers, expose, annotations, therefore, take, care, they, inadvertently, sensitive]
 ---
-
-# Exposing Data with Apex REST Web Service Methods
 
 > Invoking a custom Apex REST Web service method always uses system context.
 		Consequently, the current user's credentials are not used, and any user who has access to

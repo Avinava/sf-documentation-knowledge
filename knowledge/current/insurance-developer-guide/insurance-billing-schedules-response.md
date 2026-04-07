@@ -5,12 +5,10 @@ topic: insurance-billing-schedules-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.171Z
+lastCollected: 2026-04-07T18:37:52.308Z
 estimatedTokens: 107
 keywords: [Insurance, Billing, Schedules, schedule, creation, results]
 ---
-
-# Insurance Billing Schedules Response
 
 > Details of the billing schedule creation results.
 

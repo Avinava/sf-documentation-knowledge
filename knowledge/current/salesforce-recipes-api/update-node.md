@@ -5,12 +5,10 @@ topic: update-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.041Z
+lastCollected: 2026-04-07T18:39:19.735Z
 estimatedTokens: 111
 keywords: [Node, recipe]
 ---
-
-# Update Node
 
 > An update node in a recipe.
 

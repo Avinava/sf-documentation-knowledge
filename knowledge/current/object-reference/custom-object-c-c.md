@@ -5,12 +5,10 @@ topic: custom-object-c-c
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.344Z
+lastCollected: 2026-04-07T18:38:29.228Z
 estimatedTokens: 1431
-keywords: [Custom, __c, Calls]
+keywords: [__c]
 ---
-
-# Custom Object __c __c
 
 > Represents a custom object.
 

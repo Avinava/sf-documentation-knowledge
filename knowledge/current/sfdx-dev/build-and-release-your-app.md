@@ -5,12 +5,10 @@ topic: build-and-release-your-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.876Z
+lastCollected: 2026-04-07T18:40:07.818Z
 estimatedTokens: 1050
-keywords: [Build, Release, App, finish, writing, code, step, deploy, offer, different, deployment, options, role, needs, customer]
+keywords: [Build, Release, App, finish, writing, code, step, deploy, offer, different, deployment, options, role, needs, customer, system, integrator, independent, software, vendor, ISV, partner, Customers, Non-ISV, Partners]
 ---
-
-# Build and Release Your App
 
 > When you finish writing your code, the next step is to deploy it. We offer different
     deployment options based on your role and needs as a customer, system integrator, or independent

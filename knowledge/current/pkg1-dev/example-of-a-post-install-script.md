@@ -5,12 +5,10 @@ topic: example-of-a-post-install-script
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.760Z
+lastCollected: 2026-04-07T18:38:53.052Z
 estimatedTokens: 334
-keywords: [Post, Install, Script, previous, version, package, installed, time]
+keywords: [Post, Install, Script, previous, package, installed, time]
 ---
-
-# Example of a Post Install Script
 
 > If the previous version is null, that is, the package is being installed for the first
             time, the script:

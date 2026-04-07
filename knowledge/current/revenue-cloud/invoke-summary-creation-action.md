@@ -5,12 +5,10 @@ topic: invoke-summary-creation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.169Z
+lastCollected: 2026-04-07T18:35:39.944Z
 estimatedTokens: 377
-keywords: [Invoke, Summary, Creation, Action, service, creates, various, summaries, usage, ratable, liable, amount, zero, checks, updates]
+keywords: [Inputs, Outputs, Invoke, Summary, Creation, Action, service, creates, various, summaries, ratable, liable, amount, zero, checks, updates, billing, period, entitlement, account, expired, REST, HTTP]
 ---
-
-# Invoke Summary Creation Action
 
 > Invoke the service that creates various summaries, such as usage,
 			ratable, and liable summaries where the usage amount is zero. The service also checks

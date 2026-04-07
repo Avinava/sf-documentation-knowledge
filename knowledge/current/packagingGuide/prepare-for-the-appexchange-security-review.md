@@ -5,12 +5,10 @@ topic: prepare-for-the-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.700Z
+lastCollected: 2026-04-07T18:38:47.651Z
 estimatedTokens: 1328
-keywords: [Prepare, AppExchange, Security, Review, tests, posture, solution, including, how, well, protects, customer, data, goal, help]
+keywords: [Prepare, AppExchange, Security, Review, tests, posture, solution, including, how, well, protects, customer, goal, help, identify, vulnerabilities, hacker, malware, threat, exploit, submit, perform, end-to-end, testing, configure, test, environments, supporting, documentation]
 ---
-
-# Prepare for the AppExchange Security Review
 
 > The AppExchange security review tests the security posture of your solution, including how well it protects customer data. The goal is to help you identify security vulnerabilities that a hacker, malware, or other threat can exploit. Before you submit your solution for review, perform end-to-end testing, configure test environments, and create supporting documentation.
 

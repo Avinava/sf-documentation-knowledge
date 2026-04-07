@@ -5,12 +5,10 @@ topic: communicating-with-lightning-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.316Z
+lastCollected: 2026-04-07T18:40:13.249Z
 estimatedTokens: 402
-keywords: [Communicating, Lightning, Components, Service, Cloud, Voice, Partner, Telephony, enable, communication, system, creating, Message, LMS, bridge]
+keywords: [Communicating, Lightning, Service, Cloud, Voice, Partner, Telephony, enable, communication, system, creating, Message, LMS, bridge, configuring, Toolkit, APIs]
 ---
-
-# Communicating with Lightning Components
 
 > If you set up Service Cloud Voice with Partner Telephony, you must enable communication
     between the Lightning components and your telephony system. You can do this by creating a

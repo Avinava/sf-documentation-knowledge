@@ -5,12 +5,10 @@ topic: sample-repository-on-github
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.979Z
+lastCollected: 2026-04-07T18:40:08.967Z
 estimatedTokens: 387
-keywords: [Sample, Repository, GitHub, started, quickly, dreamhouse-lwc, repo, standalone, application, project, multiple, Apex, classes, Aura, components]
+keywords: [Sample, Repository, GitHub, started, quickly, dreamhouse-lwc, repo, standalone, application, project, multiple, Apex, classes, Aura, tests]
 ---
-
-# Sample Repository on GitHub
 
 > To get started quickly, see the dreamhouse-lwc
     GitHub repo. This standalone application contains an example DX project with multiple Apex

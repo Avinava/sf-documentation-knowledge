@@ -5,12 +5,10 @@ topic: logging-and-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.393Z
+lastCollected: 2026-04-07T18:40:24.830Z
 estimatedTokens: 320
-keywords: [Logging, Analytics, Mobile, SDK, uses, own, purposes, framework, apps, disable, feature, app, output, messages, custom]
+keywords: [Logging, Analytics, Mobile, SDK, uses, own, purposes, framework, apps, disable, feature, app, messages]
 ---
-
-# Logging and Analytics
 
 > Mobile SDK uses
    analytics and logging for its own purposes and also provides a logging framework for apps. You

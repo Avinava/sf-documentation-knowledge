@@ -5,12 +5,10 @@ topic: mlmodelfactorcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.530Z
+lastCollected: 2026-04-07T18:38:35.778Z
 estimatedTokens: 772
-keywords: [MLModelFactorComponent, MLModelFactor, represent, range, “Title, CEO”, “Annual, Revenue, >10000000”, API, version, 53.0, later, Calls, Special]
+keywords: [MLModelFactorComponent, MLModelFactor, represent, range, “Title, CEO”, “Annual, Revenue, >10000000”, API, 53.0]
 ---
-
-# MLModelFactorComponent
 
 > Represents information about the related MLModelFactor. For example, this
          object can represent a field value or a field range such as “Title = CEO” or “Annual

@@ -5,12 +5,10 @@ topic: querynode-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.279Z
+lastCollected: 2026-04-07T18:36:03.496Z
 estimatedTokens: 1731
-keywords: [QueryNode, Define, node, query, projection, groups, order, filters, Execute, Usage, build, streamName, foreach, projections, group]
+keywords: [QueryNode, Define, node, query, projection, groups, order, filters, Execute, build, streamName, foreach, projections, group, orders, cap, filter, filterCondition, filterConditions]
 ---
-
-# QueryNode Class
 
 > Define each node of the query - such as projection, groups, order,
       filters. Execute the query.

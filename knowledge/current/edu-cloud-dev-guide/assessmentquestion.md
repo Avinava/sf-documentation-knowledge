@@ -5,12 +5,10 @@ topic: assessmentquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.663Z
+lastCollected: 2026-04-07T18:37:30.734Z
 estimatedTokens: 183
-keywords: [AssessmentQuestion, container, stores, questions, assessment, API, version, 63.0, later, Calls]
+keywords: [AssessmentQuestion, container, stores, questions, assessment, API, 63.0]
 ---
-
-# AssessmentQuestion
 
 > Represents the container object that stores the questions required for an
          assessment. This object is available in API version 63.0 and later.

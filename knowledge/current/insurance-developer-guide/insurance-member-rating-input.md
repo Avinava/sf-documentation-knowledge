@@ -5,12 +5,10 @@ topic: insurance-member-rating-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.129Z
+lastCollected: 2026-04-07T18:37:51.071Z
 estimatedTokens: 117
-keywords: [Insurance, Member, Rating, Input, representation, individual, members, group]
+keywords: [Insurance, Member, Rating, individual, members, group]
 ---
-
-# Insurance Member Rating Input
 
 > Input representation for rating the individual members within a group.
 

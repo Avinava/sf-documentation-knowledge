@@ -5,12 +5,10 @@ topic: inspolicyparticipantattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.347Z
+lastCollected: 2026-04-07T18:39:44.916Z
 estimatedTokens: 299
-keywords: [InsPolicyParticipantAttr, attributes, insurance, policy, participant, API, version, 63.0, later]
+keywords: [InsPolicyParticipantAttr, attributes, insurance, policy, participant, API, 63.0]
 ---
-
-# InsPolicyParticipantAttr
 
 > Represents attributes for insurance policy participant. This object is
       available in API version 63.0 and later.

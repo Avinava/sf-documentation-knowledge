@@ -5,12 +5,10 @@ topic: paymentschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:58.620Z
+lastCollected: 2026-04-07T18:39:53.132Z
 estimatedTokens: 740
-keywords: [PaymentSchedule, payment, schedule, collection, payments, customer, wants, collect, different, times, certain, record, items, item, processed]
+keywords: [PaymentSchedule, payment, schedule, collection, payments, customer, wants, collect, different, times, certain, record, items, item, processed, schedule’s, configuration, dates, accounts, scheduler, launches, run, evaluates, active, picks, processing, they, align, scheduler’s, criteria, API, 55.0]
 ---
-
-# PaymentSchedule
 
 > The payment schedule represents a collection of payments that a customer
          wants to collect at different times for a certain record. A schedule contains one or more

@@ -5,12 +5,10 @@ topic: gamereward
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.760Z
+lastCollected: 2026-04-07T18:38:10.075Z
 estimatedTokens: 1023
-keywords: [GameReward, reward, that’s, offered, participants, game, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [GameReward, reward, that’s, offered, participants, game, API, 60.0]
 ---
-
-# GameReward
 
 > The reward that’s offered to participants of a game. This object
       is available in API version 60.0 and later.

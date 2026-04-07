@@ -5,12 +5,10 @@ topic: chatterfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.169Z
+lastCollected: 2026-04-07T18:38:49.171Z
 estimatedTokens: 508
-keywords: [chatter, feed, Displays, record, user, Usage, Limitations, Attributes]
+keywords: [Attributes, chatter, Displays, record, user, Limitations]
 ---
-
-# chatter:feed
 
 > Displays the Chatter feed for a record or a user.
 

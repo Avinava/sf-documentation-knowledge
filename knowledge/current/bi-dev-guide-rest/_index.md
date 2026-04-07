@@ -2,7 +2,7 @@
 domain: bi-dev-guide-rest
 name: CRM Analytics REST API Developer Guide
 documentCount: 519
-lastGenerated: 2026-04-07T09:06:35.742Z
+lastGenerated: 2026-04-07T18:40:41.185Z
 ---
 
 # CRM Analytics REST API Developer Guide — Knowledge Index

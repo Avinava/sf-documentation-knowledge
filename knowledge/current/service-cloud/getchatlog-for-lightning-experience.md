@@ -5,12 +5,10 @@ topic: getchatlog-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.629Z
+lastCollected: 2026-04-07T18:36:49.790Z
 estimatedTokens: 606
-keywords: [getChatLog, Lightning, Experience, chat, log, associated, specific, recordId, works, console, apps, Arguments, argumentObj, Sample, Code, Enhanced, Messaging]
+keywords: [Arguments, getChatLog, Lightning, Experience, chat, log, specific, recordId, works, console, apps, argumentObj, Sample, Code, customEvent, message, Enhanced, Messaging]
 ---
-
-# getChatLog() for Lightning Experience
 
 > Returns the chat log of a chat associated with a specific recordId. This method works only in
    Lightning console apps.

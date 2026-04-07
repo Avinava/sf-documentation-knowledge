@@ -5,12 +5,10 @@ topic: promotion-and-tactic-transfer-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.847Z
+lastCollected: 2026-04-07T18:39:16.393Z
 estimatedTokens: 398
-keywords: [Promotion, Tactic, Transfer, Customization, save, Trade, Management, TPM, triggers, planned, Retail, Execution, modify, saved, associated]
+keywords: [Promotion, Tactic, Transfer, Customization, save, Trade, Management, TPM, triggers, planned, Retail, Execution, modify, saved, product, they, transferred, creating, two, different, callable, Apex, classes, hooks]
 ---
-
-# Promotion and Tactic Transfer Customization
 
 > When you save a promotion in Trade Promotion Management (TPM), it triggers a transfer
     of the planned promotion to Retail Execution (RE). You can modify the saved promotion and its

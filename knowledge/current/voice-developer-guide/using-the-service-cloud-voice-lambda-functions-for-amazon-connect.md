@@ -6,13 +6,10 @@ topic: using-the-service-cloud-voice-lambda-functions-for-amazon-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.978Z
+lastCollected: 2026-04-07T18:40:12.918Z
 estimatedTokens: 2633
 keywords: [Service, Cloud, Voice, Lambda, Functions, Amazon, Connect, Salesforce, instance, provisioning, Lambdas, contact, flows]
 ---
-
-# Using the Service Cloud Voice Lambda Functions for Amazon
-  Connect
 
 > Salesforce provides a set of Lambda functions, which are available within your Amazon
   Connect instance after provisioning the instance with Service Cloud Voice. You can use these

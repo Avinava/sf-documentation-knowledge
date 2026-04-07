@@ -5,12 +5,10 @@ topic: sharingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.302Z
+lastCollected: 2026-04-07T18:36:29.729Z
 estimatedTokens: 1135
-keywords: [SharingSet, sharing, access, mapping, grants, portal, community, users, objects, associated, their, accounts, contacts, File, Suffix]
+keywords: [SharingSet, AccessMapping, sharing, mapping, grants, portal, community, users, their, accounts, contacts, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SharingSet
 
 > Represents a sharing set. A sharing set
       defines an access mapping that grants portal or community users access to objects that are

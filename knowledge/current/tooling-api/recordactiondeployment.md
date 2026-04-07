@@ -5,12 +5,10 @@ topic: recordactiondeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.817Z
+lastCollected: 2026-04-07T18:36:34.137Z
 estimatedTokens: 1462
-keywords: [RecordActionDeployment, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, components, API, version, 45.0, later, SOAP]
+keywords: [RecordActionDeployment, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, API, 45.0, SOAP, REST, HTTP]
 ---
-
-# RecordActionDeployment
 
 > Represents configuration settings for the Actions &
         Recommendations, Action Launcher, and Bulk Action Panel components. RecordActionDeployment

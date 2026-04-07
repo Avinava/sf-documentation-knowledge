@@ -5,12 +5,10 @@ topic: initiate-amendment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.822Z
+lastCollected: 2026-04-07T18:35:39.609Z
 estimatedTokens: 444
-keywords: [Initiate, Amendment, Action, execute, asset, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Initiate, Amendment, Action, execute, asset, REST, HTTP]
 ---
-
-# Initiate Amendment Action
 
 > Initiate and execute the amendment of an asset.
 

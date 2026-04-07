@@ -5,12 +5,10 @@ topic: subscriberaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.267Z
+lastCollected: 2026-04-07T18:40:20.504Z
 estimatedTokens: 207
 keywords: [SubscriberAddress, address, communicate, person, base, classes, SMSAddress, EmailAddress, derive, Items]
 ---
-
-# SubscriberAddress
 
 > The SubscriberAddress object is an address used to communicate with a person. The address is the base class from which other address classes (such as SMSAddress and EmailAddress) derive.
 

@@ -5,12 +5,10 @@ topic: get-an-image-from-a-rich-text-area-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.794Z
+lastCollected: 2026-04-07T18:36:20.020Z
 estimatedTokens: 530
-keywords: [Image, Rich, Text, Area, sObject, resource, retrieve, custom, Lead, record, LeadPhotoRichText__c, assume, already, uploaded, Obtain]
+keywords: [Image, Rich, Text, Area, sObject, resource, retrieve, Lead, record, LeadPhotoRichText__c, assume, already, uploaded, Obtain]
 ---
-
-# Get an Image from a Rich Text Area Field
 
 > Use the sObject Rich Text Image Get resource to retrieve an image from a rich text area field. In
   this example, we retrieve an image from a custom rich text field of a Lead record called LeadPhotoRichText__c. We assume that an image has already been

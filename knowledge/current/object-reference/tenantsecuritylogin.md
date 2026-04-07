@@ -5,12 +5,10 @@ topic: tenantsecuritylogin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.712Z
+lastCollected: 2026-04-07T18:38:42.455Z
 estimatedTokens: 1066
-keywords: [TenantSecurityLogin, Stores, login, user, tenant, grouped, date, query, how, times, logged, specific, username, password, SSO]
+keywords: [TenantSecurityLogin, Stores, login, user, tenant, grouped, date, query, how, times, logged, specific, username, password, SSO, Security, Center, subscribers, API, 53.0]
 ---
-
-# TenantSecurityLogin
 
 > Stores the login details of a single user to a tenant, grouped by
          date and type. You can query this object to find out how many times the user logged in to a

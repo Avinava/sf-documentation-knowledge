@@ -5,12 +5,10 @@ topic: connectapiactionlinkdiagnosticinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.634Z
+lastCollected: 2026-04-07T18:36:06.989Z
 estimatedTokens: 135
-keywords: [ConnectApi.ActionLinkDiagnosticInfo, Any, diagnostic, may, exist, executed, action, link, info, provided, users, access]
+keywords: [ConnectApi.ActionLinkDiagnosticInfo, Any, diagnostic, may, exist, executed, action, link, info, provided, users]
 ---
-
-# ConnectApi.ActionLinkDiagnosticInfo
 
 > Any diagnostic information that may exist for an executed action link.
       Diagnostic info is provided only for users who can access the action link.

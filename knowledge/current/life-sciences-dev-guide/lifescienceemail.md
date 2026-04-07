@@ -5,12 +5,10 @@ topic: lifescienceemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.906Z
+lastCollected: 2026-04-07T18:38:00.688Z
 estimatedTokens: 3369
-keywords: [LifeScienceEmail, collection, sendable, messages, manages, creation, sending, tracking, email, communications, stores, including, content, status, attempts]
+keywords: [LifeScienceEmail, collection, sendable, messages, manages, creation, sending, email, communications, stores, including, content, status, attempts, any, responses, received, API, 65.0]
 ---
-
-# LifeScienceEmail
 
 > Represents a collection of sendable messages that manages the creation,
          sending, and tracking of email communications. This object stores the details of each

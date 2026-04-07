@@ -5,12 +5,10 @@ topic: syncing-related-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.396Z
+lastCollected: 2026-04-07T18:40:25.769Z
 estimatedTokens: 3031
-keywords: [Syncing, Records, It’s, common, problem, offline, data, easily, sync, explicit, changes, how, affected, manually, enough]
+keywords: [Syncing, Records, It’s, common, problem, offline, easily, sync, explicit, changes, how, affected, manually, enough, knowledge, determination, perspicacity, that’s, old, way, Starting, Mobile, SDK, 5.2, tools, let, parent, their, call, Relationship, Record, Preparing, SmartStore, Model, Down, Implementing]
 ---
-
-# Syncing Related Records
 
 > It’s a common problem in syncing offline data: You can easily sync your explicit
     changes, but how do you update affected related records? You can do it manually with enough

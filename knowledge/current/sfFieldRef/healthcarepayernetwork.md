@@ -5,12 +5,10 @@ topic: healthcarepayernetwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.058Z
+lastCollected: 2026-04-07T18:39:43.674Z
 estimatedTokens: 433
 keywords: [HealthcarePayerNetwork, insurance, network, group, company’s, exclusive, provider, organization, EPO, plans]
 ---
-
-# HealthcarePayerNetwork
 
 > Represents an insurance network group. For example, an insurance company’s
       exclusive provider organization (EPO) plans.

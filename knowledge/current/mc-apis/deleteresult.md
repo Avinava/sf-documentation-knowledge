@@ -5,12 +5,10 @@ topic: deleteresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.476Z
+lastCollected: 2026-04-07T18:40:16.618Z
 estimatedTokens: 308
-keywords: [DeleteResult, results, objects, order, acted, upon, array, per, input, APIObject]
+keywords: [DeleteResult, results, order, acted, upon, array, per, APIObject]
 ---
-
-# DeleteResult
 
 > The DeleteResult object contains results of each object in a Delete request. The objects are returned in the order acted upon: first in, first out. This array contains one DeleteResult object per input APIObject.
 

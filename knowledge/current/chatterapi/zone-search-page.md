@@ -5,12 +5,10 @@ topic: zone-search-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.791Z
+lastCollected: 2026-04-07T18:37:23.839Z
 estimatedTokens: 183
 keywords: [Zone, Search, results, Chatter, Answers]
 ---
-
-# Zone Search Page
 
 > A page of results from a search within a Chatter Answers zone.
 

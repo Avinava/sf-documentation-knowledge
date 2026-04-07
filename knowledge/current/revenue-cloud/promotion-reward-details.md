@@ -5,12 +5,10 @@ topic: promotion-reward-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.498Z
+lastCollected: 2026-04-07T18:35:46.462Z
 estimatedTokens: 141
-keywords: [Promotion, Reward, Output, representation, rewards, eligible, rule]
+keywords: [Promotion, Reward, rewards, eligible, rule]
 ---
-
-# Promotion Reward Details
 
 > Output representation of the details of the rewards of an eligible promotion
     rule.

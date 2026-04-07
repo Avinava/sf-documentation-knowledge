@@ -5,12 +5,10 @@ topic: ship-and-debit-process-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.185Z
+lastCollected: 2026-04-07T18:37:06.883Z
 estimatedTokens: 177
-keywords: [Ship, Debit, Process, Management, programs, special, prices, discounts, partners, receive, different, products]
+keywords: [Ship, Debit, Process, Management, programs, prices, discounts, partners, receive, different, products]
 ---
-
-# Ship and Debit Process Management
 
 > Use Ship and Debit Process Management to create ship and debit programs and set up
   special prices and discounts that partners receive for different products.

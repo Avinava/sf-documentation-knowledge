@@ -5,12 +5,10 @@ topic: adding-and-customizing-input-field-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.270Z
+lastCollected: 2026-04-07T18:38:51.521Z
 estimatedTokens: 502
-keywords: [Adding, Customizing, Input, Labels, inside, <apex, pageBlockSection>, component, Visualforce, components, output, automatically, display, form, label]
+keywords: [Adding, Customizing, Labels, inside, <apex, pageBlockSection>, Visualforce, automatically, display, form, label, map, standard, override, Error, Messages]
 ---
-
-# Adding and Customizing Input Field Labels
 
 > When used inside of a <apex:pageBlockSection> component, Visualforce input components and some output components automatically display
 a form label for the field. For components that map to standard or

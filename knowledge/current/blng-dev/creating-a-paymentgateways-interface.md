@@ -5,12 +5,10 @@ topic: creating-a-paymentgateways-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.488Z
+lastCollected: 2026-04-07T18:37:03.050Z
 estimatedTokens: 195
 keywords: [Creating, PaymentGateways, uses, processPayments, evaluates, payment, transaction’s, perform, action]
 ---
-
-# Creating a PaymentGateways Interface
 
 > The
             PaymentGateways interface uses the

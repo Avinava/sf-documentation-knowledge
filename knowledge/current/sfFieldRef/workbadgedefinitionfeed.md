@@ -5,12 +5,10 @@ topic: workbadgedefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.787Z
+lastCollected: 2026-04-07T18:40:06.683Z
 estimatedTokens: 362
-keywords: [WorkBadgeDefinitionFeed, Feed, tracking, WorkBadgeDefinition]
+keywords: [WorkBadgeDefinitionFeed, WorkBadgeDefinition]
 ---
-
-# WorkBadgeDefinitionFeed
 
 > Feed tracking for WorkBadgeDefinition.
 

@@ -5,12 +5,10 @@ topic: change-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.534Z
+lastCollected: 2026-04-07T18:37:11.312Z
 estimatedTokens: 332
 keywords: [Change, Asset, Amend, renew, lifecycle-managed]
 ---
-
-# Change Asset
 
 > Amend or renew a lifecycle-managed asset.
 

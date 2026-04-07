@@ -5,12 +5,10 @@ topic: addqmqgtowccopytoeq-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.833Z
+lastCollected: 2026-04-07T18:37:31.993Z
 estimatedTokens: 99
 keywords: [AddQMQGToWC_CopyToEQ, API, Add, members, quote, group, working, cart, copy, enterprise, AddQMQGToWC, _CopyToEQ, URI, HTTP]
 ---
-
-# AddQMQGToWC_CopyToEQ API
 
 > Add members and a quote group to the working cart and copy it to the enterprise quote.
 

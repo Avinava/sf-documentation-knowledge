@@ -5,12 +5,10 @@ topic: coaserviceordereditoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.864Z
+lastCollected: 2026-04-07T18:38:45.688Z
 estimatedTokens: 158
-keywords: [COA_ServiceOrderEditOutput, Wrapper, output, edit, operation, COA, _ServiceOrderEditOutput]
+keywords: [COA_ServiceOrderEditOutput, Wrapper, edit, operation, COA, _ServiceOrderEditOutput]
 ---
-
-# COA_ServiceOrderEditOutput Class
 
 > Wrapper class for output parameters returned from the edit operation.
 

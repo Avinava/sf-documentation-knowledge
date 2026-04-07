@@ -5,12 +5,10 @@ topic: invokecreate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.144Z
+lastCollected: 2026-04-07T18:40:22.535Z
 estimatedTokens: 387
-keywords: [InvokeCreate, Function, Ordinal, API, created, Output, status, message, numeric, **Overview**, **Syntax**, Usage, perform, array, containing, RequestID, call]
+keywords: [InvokeCreate, Function, Ordinal, API, created, status, message, numeric, **Overview**, **Syntax**, perform, array, containing, RequestID, call]
 ---
-
-# InvokeCreate
 
 > InvokeCreate(1, 2, 3, 4)
 

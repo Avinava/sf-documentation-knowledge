@@ -5,12 +5,10 @@ topic: sustainability-data-gap-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.835Z
+lastCollected: 2026-04-07T18:38:16.379Z
 estimatedTokens: 102
-keywords: [Sustainability, Data, Gap, Record, Output, representation, filler]
+keywords: [Sustainability, Gap, Record, filler]
 ---
-
-# Sustainability Data Gap Record
 
 > Output representation of the sustainability data gap filler
       record.

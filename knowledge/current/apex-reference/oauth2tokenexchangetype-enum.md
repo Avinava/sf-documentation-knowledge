@@ -5,12 +5,10 @@ topic: oauth2tokenexchangetype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.126Z
+lastCollected: 2026-04-07T18:36:12.419Z
 estimatedTokens: 344
-keywords: [OAuth2TokenExchangeType, OAuth, 2.0, token, exchange, flow, specify, that’s, exchanged, Salesforce, Usage]
+keywords: [OAuth2TokenExchangeType, OAuth, 2.0, token, exchange, flow, specify, that’s, exchanged, Salesforce]
 ---
-
-# OAuth2TokenExchangeType Enum
 
 > Used during the OAuth 2.0 token exchange flow to
     specify the type of token that’s being exchanged for a Salesforce token.

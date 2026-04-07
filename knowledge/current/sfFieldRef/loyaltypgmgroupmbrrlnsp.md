@@ -5,12 +5,10 @@ topic: loyaltypgmgroupmbrrlnsp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.858Z
+lastCollected: 2026-04-07T18:39:47.344Z
 estimatedTokens: 450
 keywords: [LoyaltyPgmGroupMbrRlnsp, junction, Corporate, Individual, loyalty, program, member, part, group]
 ---
-
-# LoyaltyPgmGroupMbrRlnsp
 
 > Represents a junction between a Corporate or Individual type loyalty program
          member who is part of a group and the Group type loyalty program member.

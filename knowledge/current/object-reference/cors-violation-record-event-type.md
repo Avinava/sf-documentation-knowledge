@@ -5,12 +5,10 @@ topic: cors-violation-record-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.145Z
+lastCollected: 2026-04-07T18:38:30.945Z
 estimatedTokens: 485
-keywords: [CORS, Violation, Record, Event, events, capture, Cross-Origin, Resource, Sharing, violations, requests, Lightning, apps, blocked, unless]
+keywords: [CORS, Violation, Record, Event, events, capture, Cross-Origin, Resource, Sharing, violations, requests, Lightning, apps, blocked, unless, comes, URL, listed, allowlist]
 ---
-
-# CORS Violation Record Event Type
 
 > CORS Violation Record events capture information about Cross-Origin Resource Sharing
   (CORS) violations. Cross-origin requests to Lightning apps are blocked unless the request comes

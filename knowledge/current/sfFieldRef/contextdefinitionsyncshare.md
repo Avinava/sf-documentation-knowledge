@@ -5,12 +5,10 @@ topic: contextdefinitionsyncshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.035Z
+lastCollected: 2026-04-07T18:39:35.494Z
 estimatedTokens: 253
 keywords: [ContextDefinitionSyncShare, Sharing, ContextDefinitionSync]
 ---
-
-# ContextDefinitionSyncShare
 
 > Sharing for ContextDefinitionSync.
 

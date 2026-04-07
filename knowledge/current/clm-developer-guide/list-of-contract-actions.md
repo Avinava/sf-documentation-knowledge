@@ -5,12 +5,10 @@ topic: list-of-contract-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.065Z
+lastCollected: 2026-04-07T18:37:25.018Z
 estimatedTokens: 94
 keywords: [Contract, Actions, possible, particular]
 ---
-
-# List of Contract Actions
 
 > Get the list of actions possible for a particular
     contract.

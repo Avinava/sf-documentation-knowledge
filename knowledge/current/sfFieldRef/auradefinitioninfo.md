@@ -5,13 +5,11 @@ topic: auradefinitioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.358Z
+lastCollected: 2026-04-07T18:39:28.419Z
 estimatedTokens: 220
 namespace: NamespacePrefix
 keywords: [AuraDefinitionInfo, internal]
 ---
-
-# AuraDefinitionInfo
 
 > For internal use only.
 

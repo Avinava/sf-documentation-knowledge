@@ -5,12 +5,10 @@ topic: configuration-validator-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.229Z
+lastCollected: 2026-04-07T18:37:27.231Z
 estimatedTokens: 497
-keywords: [Configuration, Validator, API, runs, selection, validation, alert, product, rules, configurator-scoped, price, against, input, model, updated]
+keywords: [Configuration, Validator, API, runs, selection, validation, alert, product, configurator-scoped, price, against, model, updated, REST, Examples, APEX]
 ---
-
-# Configuration Validator API
 
 > The Configuration Validator API runs selection, validation, and alert product rules and
   configurator-scoped price rules against the input configuration model and returns an updated

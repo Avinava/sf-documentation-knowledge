@@ -5,12 +5,10 @@ topic: use-the-mobile-core-toolset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.676Z
+lastCollected: 2026-04-07T18:38:15.162Z
 estimatedTokens: 1768
-keywords: [mobile-core, Toolset, subset, tools, mobile, focused, development, testing, optimization, offline, capable, Lightning, web, components, essential]
+keywords: [mobile-core, Toolset, subset, tools, mobile, focused, development, testing, optimization, offline, capable, Lightning, web, essential, device-native, capabilities, Guidance, _mobile, _lwc, _offline, _guidance, Analysis, _analysis, Barcode, Scanner, LWC, Tool, _barcode, _scanner, Location, Service, _location, Biometrics, _biometrics]
 ---
-
-# Use the mobile-core Toolset
 
 > The mobile-core toolset contains a subset of
       tools from the mobile toolset focused on development,

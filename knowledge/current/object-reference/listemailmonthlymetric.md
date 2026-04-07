@@ -5,12 +5,10 @@ topic: listemailmonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.717Z
+lastCollected: 2026-04-07T18:38:34.952Z
 estimatedTokens: 1458
-keywords: [ListEmailMonthlyMetric, monthly, engagement, metrics, email, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [ListEmailMonthlyMetric, monthly, engagement, metrics, email, API, 49.0]
 ---
-
-# ListEmailMonthlyMetric
 
 > Represents the monthly engagement metrics for a single list email. This
       object is available in API version 49.0 and later.

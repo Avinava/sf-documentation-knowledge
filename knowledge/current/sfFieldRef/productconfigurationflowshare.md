@@ -5,12 +5,10 @@ topic: productconfigurationflowshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.053Z
+lastCollected: 2026-04-07T18:39:55.619Z
 estimatedTokens: 255
 keywords: [ProductConfigurationFlowShare, Sharing, ProductConfigurationFlow]
 ---
-
-# ProductConfigurationFlowShare
 
 > Sharing for ProductConfigurationFlow.
 

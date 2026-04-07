@@ -5,12 +5,10 @@ topic: get-quote
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.100Z
+lastCollected: 2026-04-07T18:37:52.238Z
 estimatedTokens: 180
-keywords: [Quote, Output, representation]
+keywords: [Quote]
 ---
-
-# Get Quote
 
 > Output representation of the details of the get quote details.
 

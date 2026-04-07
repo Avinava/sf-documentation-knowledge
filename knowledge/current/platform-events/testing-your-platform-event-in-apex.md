@@ -5,12 +5,10 @@ topic: testing-your-platform-event-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.881Z
+lastCollected: 2026-04-07T18:38:57.696Z
 estimatedTokens: 388
-keywords: [Testing, Platform, Event, Apex, Add, tests, test, subscribers, package, deploy, code, including, triggers, production, sufficient]
+keywords: [Testing, Platform, Event, Apex, Add, tests, test, subscribers, package, deploy, code, including, triggers, production, sufficient, coverage, provide]
 ---
-
-# Testing Your Platform Event in Apex
 
 > Add Apex tests to test platform event subscribers. Before you can package or deploy
     Apex code, including triggers, to production, it must have tests and sufficient code coverage.

@@ -5,12 +5,10 @@ topic: supporting-catalyst-in-mobile-sdk-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:30.928Z
+lastCollected: 2026-04-07T18:40:26.240Z
 estimatedTokens: 563
-keywords: [Supporting, Catalyst, Mobile, SDK, Apps, Beginning, version, 9.1, adds, support, native, frameworks, Apple, cross-platform, product]
+keywords: [Supporting, Catalyst, Mobile, SDK, Apps, Beginning, 9.1, adds, support, native, frameworks, Apple, cross-platform, product, iPad, run, Intel, Silicon, Macs, Preparing, macOS, easy—it, usually, requires, couple, additional, settings, iOS, project, configuration, Started, Considerations, Security, Features]
 ---
-
-# Supporting Catalyst in Mobile SDK Apps
 
 > Beginning in version 9.1, Mobile SDK adds Catalyst support to its native frameworks.
   Catalyst is an Apple cross-platform product that enables iPad apps to run on Intel and Silicon

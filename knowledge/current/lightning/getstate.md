@@ -5,12 +5,10 @@ topic: getstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.108Z
+lastCollected: 2026-04-07T18:38:05.299Z
 estimatedTokens: 110
 keywords: [getState, current, state, action, Check, callback, Apex, completes]
 ---
-
-# getState()
 
 > Returns the current state of an action. Check the state of the action
    in the callback after an Apex action completes.

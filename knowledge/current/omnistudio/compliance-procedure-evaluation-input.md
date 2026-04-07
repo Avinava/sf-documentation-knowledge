@@ -5,12 +5,10 @@ topic: compliance-procedure-evaluation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.012Z
+lastCollected: 2026-04-07T18:36:36.533Z
 estimatedTokens: 185
-keywords: [Compliance, Procedure, Evaluation, Input, representation]
+keywords: [Compliance, Procedure, Evaluation]
 ---
-
-# Compliance Procedure Evaluation Input
 
 > Input representation details of a compliance evaluation request.
 

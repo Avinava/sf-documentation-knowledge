@@ -5,12 +5,10 @@ topic: worktypestepfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.499Z
+lastCollected: 2026-04-07T18:40:07.436Z
 estimatedTokens: 387
-keywords: [WorkTypeStepFeed, Feed, tracking, WorkTypeStep]
+keywords: [WorkTypeStepFeed, WorkTypeStep]
 ---
-
-# WorkTypeStepFeed
 
 > Feed tracking for WorkTypeStep.
 

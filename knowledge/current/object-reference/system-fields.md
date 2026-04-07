@@ -5,12 +5,10 @@ topic: system-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.201Z
+lastCollected: 2026-04-07T18:38:45.053Z
 estimatedTokens: 1267
-keywords: [System, read-only, found, objects, automatically, updated, API, operations, generated, operation, LastModifiedDate, user, modifies, record, Parent]
+keywords: [System, read-only, found, automatically, updated, API, operations, generated, operation, LastModifiedDate, user, modifies, record, Parent]
 ---
-
-# System Fields
 
 > System fields are read-only fields found on most objects. These fields are
     automatically updated during API operations. For example, the ID field is

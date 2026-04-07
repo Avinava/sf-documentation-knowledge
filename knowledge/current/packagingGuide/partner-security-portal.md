@@ -5,12 +5,10 @@ topic: partner-security-portal
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.672Z
+lastCollected: 2026-04-07T18:38:47.624Z
 estimatedTokens: 630
-keywords: [Partner, Security, Portal, main, hub, ISV, partners, review, needs, hosts, Source, Code, Scanner, Checkmarx, tool]
+keywords: [Partner, Security, Portal, main, hub, ISV, partners, review, needs, hosts, Source, Code, Scanner, Checkmarx, tool, identify, vulnerabilities, solution, schedule, office, hours, appointments, AppExchange, engineers, Operations, team, members, provide, forum, ask, questions, process, discuss, how, rework]
 ---
-
-# Partner Security Portal
 
 > The Partner Security Portal is the main hub for ISV partners' security review needs. The
   portal hosts the Source Code Scanner (Checkmarx). Use this tool to identify security

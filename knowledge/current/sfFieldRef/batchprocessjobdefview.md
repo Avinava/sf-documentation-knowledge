@@ -5,13 +5,11 @@ topic: batchprocessjobdefview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.893Z
+lastCollected: 2026-04-07T18:39:28.997Z
 estimatedTokens: 280
 namespace: NamespacePrefix
-keywords: [BatchProcessJobDefView, Batch, Job, definition, file-based, definitions, Salesforce, org, API, version, 51.0, later]
+keywords: [BatchProcessJobDefView, Batch, Job, definition, file-based, definitions, Salesforce, org, API, 51.0]
 ---
-
-# BatchProcessJobDefView
 
 > Represents the details of a Batch Job definition. The definition can also be
       file-based definitions that are available in your Salesforce org. This object is

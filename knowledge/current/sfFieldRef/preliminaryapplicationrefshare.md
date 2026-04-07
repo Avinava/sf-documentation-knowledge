@@ -5,12 +5,10 @@ topic: preliminaryapplicationrefshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.862Z
+lastCollected: 2026-04-07T18:39:54.419Z
 estimatedTokens: 255
 keywords: [PreliminaryApplicationRefShare, Sharing, PreliminaryApplicationRef]
 ---
-
-# PreliminaryApplicationRefShare
 
 > Sharing for PreliminaryApplicationRef.
 

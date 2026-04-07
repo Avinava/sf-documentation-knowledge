@@ -5,12 +5,10 @@ topic: benefit-disbursement-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.033Z
+lastCollected: 2026-04-07T18:38:59.996Z
 estimatedTokens: 623
-keywords: [Benefit, Disbursement, Action, eligible, assignment, offer, monetary, benefits, direct, cash, assistance, subsidies, Special, Access, Rules]
+keywords: [Inputs, Outputs, Benefit, Disbursement, Action, eligible, assignment, offer, monetary, benefits, direct, cash, assistance, subsidies, REST, HTTP]
 ---
-
-# Benefit Disbursement Action
 
 > Create a benefit disbursement for an eligible benefit assignment. For
 			example, create a benefit disbursement request to offer monetary benefits through direct

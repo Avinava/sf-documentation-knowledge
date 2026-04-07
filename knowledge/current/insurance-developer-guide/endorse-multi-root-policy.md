@@ -5,12 +5,10 @@ topic: endorse-multi-root-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.613Z
+lastCollected: 2026-04-07T18:37:52.810Z
 estimatedTokens: 1003
-keywords: [Endorse, Multi-Root, Policy, Modifies, active, insurance, creating, new, versions, parent, child, policies, regardless, changed, resulting, Perform, mid-term, adjustment, pricing, handled]
+keywords: [Endorse, Multi-Root, Policy, Modifies, active, insurance, creating, new, versions, parent, child, policies, regardless, changed, resulting, include, recalculated, standard, prorated, premiums, endorsement, effective, date, Perform, mid-term, adjustment, pricing, handled, Rating, API, instead, Salesforce, Quote, process, bypasses, creation, record, ensuring, accurate, versioned, updates]
 ---
-
-# Endorse Multi-Root Policy
 
 > Modifies an active multi-root insurance policy by creating new versions of the parent
   policy and all child policies, regardless of which child policy is changed. The resulting policy

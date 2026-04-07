@@ -5,13 +5,11 @@ topic: reportformat-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.623Z
+lastCollected: 2026-04-07T18:36:12.912Z
 estimatedTokens: 128
 namespace: Reports
 keywords: [ReportFormat, possible, report]
 ---
-
-# ReportFormat Enum
 
 > Contains the possible report format types.
 

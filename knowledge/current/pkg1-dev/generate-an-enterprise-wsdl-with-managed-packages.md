@@ -5,12 +5,10 @@ topic: generate-an-enterprise-wsdl-with-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.866Z
+lastCollected: 2026-04-07T18:38:53.178Z
 estimatedTokens: 854
-keywords: [Generate, Enterprise, WSDL, Managed, Packages, you’re, downloading, first-generation, installed, org, take, extra, step, select, version]
+keywords: [Generate, Enterprise, WSDL, Managed, Packages, you’re, downloading, first-generation, installed, org, take, extra, step, select, package, include, generated]
 ---
-
-# Generate an Enterprise WSDL with Managed Packages
 
 > If you’re downloading an enterprise WSDL and you have first-generation managed packages
     installed in your org, you must take an extra step to select the version of each installed

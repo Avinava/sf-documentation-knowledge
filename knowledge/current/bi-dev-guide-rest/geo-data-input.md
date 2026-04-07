@@ -5,12 +5,10 @@ topic: geo-data-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.413Z
+lastCollected: 2026-04-07T18:36:54.770Z
 estimatedTokens: 177
-keywords: [Geo, Data, Input, map]
+keywords: [Geo, map]
 ---
-
-# Geo Data Input
 
 > The geo data used by a map.
 

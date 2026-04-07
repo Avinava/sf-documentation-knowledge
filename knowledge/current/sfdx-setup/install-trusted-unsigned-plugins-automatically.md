@@ -5,12 +5,10 @@ topic: install-trusted-unsigned-plugins-automatically
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.248Z
+lastCollected: 2026-04-07T18:40:09.194Z
 estimatedTokens: 366
-keywords: [Install, Trusted, Unsigned, Plugins, Automatically, plugin, command, Salesforce, CLI, verifies, digital, installs, Otherwise, doesn't, until]
+keywords: [Install, Trusted, Unsigned, Plugins, Automatically, plugin, command, Salesforce, CLI, verifies, digital, installs, Otherwise, doesn't, until, answer, prompt, acknowledge, understand, risks, process, works, well, interactively, line, prevent, batch, job, completing, prompting, allowlist, file, local, system, add, trust]
 ---
-
-# Install Trusted Unsigned Plugins Automatically
 
 > When you install a plugin with the sf plugins
       install command, Salesforce CLI first verifies its digital signature. If the plugin

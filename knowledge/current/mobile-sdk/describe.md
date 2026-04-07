@@ -5,12 +5,10 @@ topic: describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.090Z
+lastCollected: 2026-04-07T18:40:27.311Z
 estimatedTokens: 158
-keywords: [Describe, Completely, object’s, metadata, levels, including, URLs, child, relationships, iOS, Android]
+keywords: [Describe, Android, Completely, object’s, metadata, levels, including, URLs, child, relationships, iOS]
 ---
-
-# Describe
 
 > Completely describes the object’s metadata at all levels, including fields, URLs, and
         child relationships.

@@ -5,12 +5,10 @@ topic: deploy-apex-using-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.196Z
+lastCollected: 2026-04-07T18:36:17.424Z
 estimatedTokens: 401
-keywords: [Deploy, Apex, Metadata, API, customization, custom, definitions, org]
+keywords: [Deploy, Apex, Metadata, API, customization, definitions, org]
 ---
-
-# Deploy Apex Using Metadata API
 
 > Use Metadata API to deploy customization information, such as custom object definitions
   for your org.

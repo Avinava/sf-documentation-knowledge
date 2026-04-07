@@ -5,12 +5,10 @@ topic: connectapicdpquerymetadataoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.577Z
+lastCollected: 2026-04-07T18:36:07.958Z
 estimatedTokens: 755
 keywords: [ConnectApi.CdpQueryMetadataOutput, Query, metadata, result]
 ---
-
-# ConnectApi.CdpQueryMetadataOutput
 
 > Query metadata result.
 

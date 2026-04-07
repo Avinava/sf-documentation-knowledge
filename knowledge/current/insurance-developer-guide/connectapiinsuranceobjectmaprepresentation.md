@@ -5,12 +5,10 @@ topic: connectapiinsuranceobjectmaprepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.681Z
+lastCollected: 2026-04-07T18:37:50.556Z
 estimatedTokens: 69
-keywords: [Output, representation, attributes, mapped, data]
+keywords: [attributes, mapped]
 ---
-
-# ConnectApi.InsuranceObjectMapRepresentation
 
 > Output representation for attributes and other mapped data.
 

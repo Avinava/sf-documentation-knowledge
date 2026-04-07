@@ -5,12 +5,10 @@ topic: skillrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.160Z
+lastCollected: 2026-04-07T18:39:20.963Z
 estimatedTokens: 832
-keywords: [SkillRequirement, skill, particular, task, Salesforce, Scheduler, requirements, added, work, API, version, 38.0, later, Calls, Special]
+keywords: [SkillRequirement, skill, particular, task, Salesforce, Scheduler, requirements, added, work, API, 38.0]
 ---
-
-# SkillRequirement
 
 > Represents a skill that is required to complete a particular task in
 			Salesforce Scheduler. Skill requirements can be added to work types Salesforce

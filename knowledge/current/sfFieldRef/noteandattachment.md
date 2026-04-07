@@ -5,12 +5,10 @@ topic: noteandattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.209Z
+lastCollected: 2026-04-07T18:39:49.699Z
 estimatedTokens: 305
-keywords: [NoteAndAttachment, read-only, notes, attachments, associated]
+keywords: [NoteAndAttachment, read-only, notes, attachments]
 ---
-
-# NoteAndAttachment
 
 > This read-only object contains all notes and attachments associated
       with an object.

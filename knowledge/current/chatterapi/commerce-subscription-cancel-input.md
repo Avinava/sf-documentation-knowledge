@@ -5,12 +5,10 @@ topic: commerce-subscription-cancel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.030Z
+lastCollected: 2026-04-07T18:37:07.789Z
 estimatedTokens: 119
-keywords: [Commerce, Subscription, Cancel, Input, representation]
+keywords: [Commerce, Subscription, Cancel]
 ---
-
-# Commerce Subscription Cancel Input
 
 > Input representation for the Commerce subscription cancel
     request.

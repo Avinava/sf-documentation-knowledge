@@ -5,12 +5,10 @@ topic: manage-licenses-for-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.812Z
+lastCollected: 2026-04-07T18:38:55.259Z
 estimatedTokens: 1109
-keywords: [Manage, Licenses, Managed, Packages, License, Management, App, LMA, leads, AppExchange, solutions, integrating, sales, marketing, processes]
+keywords: [Manage, Licenses, Managed, Packages, License, Management, App, LMA, leads, AppExchange, solutions, integrating, sales, marketing, processes, better, engage, prospects, retain, customers, grow, ISV, business, package, installed, partner, orgs, PBO, includes, track, versions]
 ---
-
-# Manage Licenses for Managed Packages
 
 > Use the License Management App (LMA) to manage leads and licenses for your AppExchange
     solutions. By integrating the LMA into your sales and marketing processes, you can better engage

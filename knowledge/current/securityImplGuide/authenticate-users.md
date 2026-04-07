@@ -5,12 +5,10 @@ topic: authenticate-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.140Z
+lastCollected: 2026-04-07T18:39:23.075Z
 estimatedTokens: 979
-keywords: [Authenticate, Users, Authentication, means, preventing, unauthorized, access, organization, data, making, sure, logged, user, they, say]
+keywords: [Authenticate, Users, Authentication, means, preventing, unauthorized, organization, making, sure, logged, user, they, say]
 ---
-
-# Authenticate Users
 
 > Authentication means preventing unauthorized access to your organization or its data
             by making sure each logged in user is who they say they are.

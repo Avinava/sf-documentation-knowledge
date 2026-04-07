@@ -5,12 +5,10 @@ topic: serviceterritorymemberfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.964Z
+lastCollected: 2026-04-07T18:40:01.729Z
 estimatedTokens: 364
-keywords: [ServiceTerritoryMemberFeed, Feed, tracking, ServiceTerritoryMember]
+keywords: [ServiceTerritoryMemberFeed, ServiceTerritoryMember]
 ---
-
-# ServiceTerritoryMemberFeed
 
 > Feed tracking for ServiceTerritoryMember.
 

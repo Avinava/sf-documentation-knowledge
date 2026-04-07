@@ -5,12 +5,10 @@ topic: post-pushv1messagetagmessageidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.076Z
+lastCollected: 2026-04-07T18:40:18.266Z
 estimatedTokens: 715
-keywords: [POST, push, messageTag, messageId, send, message, users, tags, **Overview**, Usage]
+keywords: [POST, push, messageTag, messageId, send, message, users, tags, **Overview**]
 ---
-
-# POST /push/v1/messageTag/{messageId}/send
 
 > Sends a push message to users with the specified tags.
 

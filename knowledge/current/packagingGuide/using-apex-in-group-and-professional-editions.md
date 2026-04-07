@@ -5,12 +5,10 @@ topic: using-apex-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.732Z
+lastCollected: 2026-04-07T18:38:46.603Z
 estimatedTokens: 330
-keywords: [Apex, Group, Professional, Editions, app, contain, business, logic, classes, triggers, email, services, etc, written, general]
+keywords: [Apex, Group, Professional, Editions, app, contain, business, logic, classes, triggers, email, services, etc, written, general, rule, run, However, developed, part, ISV, included, managed, package, eve]
 ---
-
-# Using Apex in Group and Professional Editions
 
 > Your app can contain business logic such as classes, triggers, email services, etc. written in
    Apex. As a general rule, Apex is not supported in GE/PE, so it will not run in these

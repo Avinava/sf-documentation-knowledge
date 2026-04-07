@@ -5,12 +5,10 @@ topic: deletede
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.795Z
+lastCollected: 2026-04-07T18:40:22.161Z
 estimatedTokens: 152
-keywords: [DeleteDE, Function, Ordinal, data, extension, row, column, identify, rows, dele, **Overview**, **Syntax**, Usage, array, columns]
+keywords: [DeleteDE, Function, Ordinal, extension, row, column, identify, rows, dele, **Overview**, **Syntax**, array, columns]
 ---
-
-# DeleteDE
 
 > DeleteDE(1, 2, 3)
 

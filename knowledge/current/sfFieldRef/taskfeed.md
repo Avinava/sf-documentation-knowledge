@@ -5,12 +5,10 @@ topic: taskfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.967Z
+lastCollected: 2026-04-07T18:40:03.688Z
 estimatedTokens: 355
-keywords: [TaskFeed, Feed, tracking, Task]
+keywords: [TaskFeed, Task]
 ---
-
-# TaskFeed
 
 > Feed tracking for Task.
 

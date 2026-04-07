@@ -5,12 +5,10 @@ topic: boxcar-grouping-and-optimization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.545Z
+lastCollected: 2026-04-07T18:38:03.589Z
 estimatedTokens: 1186
-keywords: [Boxcar, Grouping, Optimization, client, Aura, Framework, uses, process, boxcar’ing, group, together, multiple, server-side, controller, actions]
+keywords: [Boxcar, Grouping, Optimization, client, Aura, Framework, uses, process, boxcar’ing, group, together, multiple, server-side, controller, actions, network, requests, resources, efficiently, sending, action, separately, Dynamic, Standard, Choose, Strategy]
 ---
-
-# Boxcar Grouping and Optimization
 
 > On the client, the Aura Framework uses a process called boxcar’ing to group
   together multiple server-side controller actions into one network request. Boxcar’ing requests

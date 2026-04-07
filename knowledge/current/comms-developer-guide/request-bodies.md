@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.997Z
+lastCollected: 2026-04-07T18:37:25.909Z
 estimatedTokens: 1507
 keywords: [Bodies, Here’s, Revenue, Cloud, Communications]
 ---
-
-# Request Bodies
 
 > Here’s a list of Revenue Cloud for Communications request bodies.
 

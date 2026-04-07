@@ -5,12 +5,10 @@ topic: using-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.167Z
+lastCollected: 2026-04-07T18:36:16.377Z
 estimatedTokens: 580
 keywords: [code, invoked, created, blueprint, write, every, doesn't, user-defined, no-argument, visibility, containing]
 ---
-
-# Using Constructors
 
 > A constructor is code that is invoked when an object is created from the class
       blueprint. You do not need to write a constructor for every class. If a class doesn't have a

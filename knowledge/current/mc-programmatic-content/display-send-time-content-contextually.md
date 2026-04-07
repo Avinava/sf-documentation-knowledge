@@ -5,12 +5,10 @@ topic: display-send-time-content-contextually
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.362Z
+lastCollected: 2026-04-07T18:40:22.778Z
 estimatedTokens: 1009
-keywords: [Display, Send-Time, Content, Contextually, AMPscript, via, send, logging, data, extension, pull, database, determine, displays, subscribers]
+keywords: [Prerequisites, Display, Send-Time, Content, Contextually, AMPscript, via, send, logging, extension, pull, database, determine, displays, subscribers, Depending, context, dat]
 ---
-
-# Display Send-Time Content Contextually
 
 > Use AMPscript to contextually display send-time content via a send logging data extension. You can use AMPscript to pull information from a send logging database to determine which content displays to your subscribers. Depending on the context of the displayed content, you can use a send logging dat
 

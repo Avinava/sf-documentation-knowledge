@@ -5,12 +5,10 @@ topic: marketsegmentactivationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.643Z
+lastCollected: 2026-04-07T18:39:48.030Z
 estimatedTokens: 364
-keywords: [MarketSegmentActivationFeed, Feed, tracking, MarketSegmentActivation]
+keywords: [MarketSegmentActivationFeed, MarketSegmentActivation]
 ---
-
-# MarketSegmentActivationFeed
 
 > Feed tracking for MarketSegmentActivation.
 

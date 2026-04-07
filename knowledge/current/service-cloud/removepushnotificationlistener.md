@@ -5,12 +5,10 @@ topic: removepushnotificationlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.484Z
+lastCollected: 2026-04-07T18:36:50.743Z
 estimatedTokens: 218
-keywords: [removePushNotificationListener, Removes, listener, added, push, notification, API, version, 26.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, removePushNotificationListener, Removes, listener, added, push, notification, API, 26.0, Sample, Code–Visualforce]
 ---
-
-# removePushNotificationListener()
 
 > Removes a listener that gets added for a
             push notification. This method is only available in

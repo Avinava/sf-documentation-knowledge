@@ -5,12 +5,10 @@ topic: scratch-org-snapshots
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.579Z
+lastCollected: 2026-04-07T18:40:08.531Z
 estimatedTokens: 1216
-keywords: [Scratch, Org, Snapshots, Capture, state, org’s, configuration, replicas, snapshot, point-in-time, copy, includes, installed, packages, features]
+keywords: [Scratch, Org, Snapshots, Capture, state, org’s, configuration, replicas, snapshot, point-in-time, copy, includes, installed, packages, features, limits, licenses, metadata, How, Fit, Development, Lifecycle, Allocations, Unsupported]
 ---
-
-# Scratch Org Snapshots
 
 > Capture the state of a scratch org’s configuration so that you can use it to create
     scratch org replicas. A snapshot is a point-in-time copy of a scratch org that includes

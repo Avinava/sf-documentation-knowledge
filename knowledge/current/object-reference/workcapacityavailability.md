@@ -5,12 +5,10 @@ topic: workcapacityavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.761Z
+lastCollected: 2026-04-07T18:38:44.572Z
 estimatedTokens: 827
-keywords: [WorkCapacityAvailability, work, capacity, specific, time, service, territory, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [WorkCapacityAvailability, work, capacity, specific, time, service, territory, API, 59.0]
 ---
-
-# WorkCapacityAvailability
 
 > Represents
          the available work capacity for a specific time and service

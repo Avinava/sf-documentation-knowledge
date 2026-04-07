@@ -5,12 +5,10 @@ topic: actionableeventtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.909Z
+lastCollected: 2026-04-07T18:36:52.336Z
 estimatedTokens: 728
-keywords: [ActionableEventType, external, internal, event, that's, processed, Actionable, Orchestration, framework, trigger, different, actions, API, version, 62.0]
+keywords: [ActionableEventType, external, internal, event, that's, processed, Actionable, Orchestration, framework, trigger, different, actions, API, 62.0]
 ---
-
-# ActionableEventType
 
 > Represents the type of an external or internal event that's processed by the
          Actionable Event Orchestration framework to trigger different types of actions. This

@@ -5,13 +5,11 @@ topic: issuevoucherinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.593Z
+lastCollected: 2026-04-07T18:38:06.797Z
 estimatedTokens: 2927
 namespace: LoyaltyManagement
-keywords: [IssueVoucherInputBuilder, build, instance, LoyaltyManagement.IssueVoucherInput, setAdditionalNotes, additionalNotes, setBenefitId, benefitId, setContactId, contactId, setDiscountPercent, discountPercent, setEffectiveDate, effectiveDate, setExpiryDate]
+keywords: [IssueVoucherInputBuilder, build, instance, LoyaltyManagement.IssueVoucherInput, setAdditionalNotes, additionalNotes, setBenefitId, benefitId, setContactId, contactId, setDiscountPercent, discountPercent, setEffectiveDate, effectiveDate, setExpiryDate, expiryDate, setFaceValue, faceValue, setJournalId, journalId, setLoyaltyProgramMemberId, loyaltyProgramMemberId, setProgramName, programName, setPromotionId, promotionId, setVoucherCode, voucherCode, setVoucherDefinitionName, voucherDefinitionName]
 ---
-
-# IssueVoucherInputBuilder Class
 
 > Contains methods to build an instance of the LoyaltyManagement.IssueVoucherInput class.
 

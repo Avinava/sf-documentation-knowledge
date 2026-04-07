@@ -5,12 +5,10 @@ topic: advtherapyfieldoptoverrideshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.237Z
+lastCollected: 2026-04-07T18:39:25.140Z
 estimatedTokens: 256
 keywords: [AdvTherapyFieldOptOverrideShare, Sharing, AdvTherapyFieldOptOverride]
 ---
-
-# AdvTherapyFieldOptOverrideShare
 
 > Sharing for AdvTherapyFieldOptOverride.
 

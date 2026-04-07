@@ -5,12 +5,10 @@ topic: discovery-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.402Z
+lastCollected: 2026-04-07T18:39:19.080Z
 estimatedTokens: 205
 keywords: [Discovery, Einstein, predict, node, recipe]
 ---
-
-# Discovery Parameters
 
 > The parameters for an Einstein Discovery predict node in a recipe.
 

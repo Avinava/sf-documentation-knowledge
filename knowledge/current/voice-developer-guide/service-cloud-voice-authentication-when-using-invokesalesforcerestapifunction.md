@@ -6,13 +6,10 @@ topic: service-cloud-voice-authentication-when-using-invokesalesforcerestapifunc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.866Z
+lastCollected: 2026-04-07T18:40:12.818Z
 estimatedTokens: 436
 keywords: [Service, Cloud, Voice, Authentication, InvokeSalesforceRestApiFunction, OAuth, want, Lambda, function, modify, refer, instructions]
 ---
-
-# Service Cloud Voice Authentication When Using
-   InvokeSalesforceRestApiFunction
 
 > OAuth is required if you want to use the InvokeSalesforceRestApiFunction Lambda function. If you need to set up or modify the
     OAuth, refer to these instructions.

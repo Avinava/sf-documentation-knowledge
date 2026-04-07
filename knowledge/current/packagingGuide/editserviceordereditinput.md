@@ -5,12 +5,10 @@ topic: editserviceordereditinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.761Z
+lastCollected: 2026-04-07T18:38:45.550Z
 estimatedTokens: 148
 keywords: [edit, serviceOrderEditInput, entry, point, orders, you’ve, submitted, Salesforce, Partner, Operations, haven’t, processed]
 ---
-
-# edit(serviceOrderEditInput)
 
 > Provides an entry point to edit orders that you’ve submitted to Salesforce Partner
     Operations. You can edit only orders that haven’t been processed.

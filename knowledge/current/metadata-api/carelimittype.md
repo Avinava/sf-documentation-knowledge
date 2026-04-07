@@ -5,12 +5,10 @@ topic: carelimittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.996Z
+lastCollected: 2026-04-07T18:36:23.289Z
 estimatedTokens: 503
-keywords: [CareLimitType, characteristics, limits, benefit, provision, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [CareLimitType, characteristics, limits, benefit, provision, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CareLimitType
 
 > Defines the characteristics of limits on benefit provision.
 

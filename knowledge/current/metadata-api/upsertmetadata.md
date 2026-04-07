@@ -5,12 +5,10 @@ topic: upsertmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.974Z
+lastCollected: 2026-04-07T18:36:30.348Z
 estimatedTokens: 1130
-keywords: [upsertMetadata, Creates, updates, metadata, components, organization, synchronously, Usage, Version, Permissions, Basic, Steps, Upserting, Sample, Code—Java]
+keywords: [Permissions, Arguments, upsertMetadata, Creates, updates, metadata, organization, synchronously, Basic, Steps, Upserting, Sample, Code—Java]
 ---
-
-# upsertMetadata()
 
 > Creates or updates one or more metadata components in your
             organization synchronously.

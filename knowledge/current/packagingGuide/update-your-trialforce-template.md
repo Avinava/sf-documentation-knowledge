@@ -5,12 +5,10 @@ topic: update-your-trialforce-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.967Z
+lastCollected: 2026-04-07T18:38:46.932Z
 estimatedTokens: 737
-keywords: [Trialforce, Template, solution, custom, branding, reflect, changes, SignupRequest, API, deliver, trials, log, case, approve, new]
+keywords: [Trialforce, Template, solution, branding, reflect, changes, SignupRequest, API, deliver, trials, log, case, approve, new, AppExchange, skip, step]
 ---
-
-# Update Your Trialforce Template
 
 > If you update your solution or custom branding, update your Trialforce template to
     reflect the changes. If you use SignupRequest API to deliver trials, log a case to approve the

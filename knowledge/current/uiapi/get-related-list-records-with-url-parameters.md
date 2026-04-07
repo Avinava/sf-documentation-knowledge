@@ -5,12 +5,10 @@ topic: get-related-list-records-with-url-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.470Z
+lastCollected: 2026-04-07T18:40:11.469Z
 estimatedTokens: 749
-keywords: [Records, URL, record, data, via]
+keywords: [Records, URL, record, via]
 ---
-
-# Get Related List Records with URL Parameters
 
 > Returns record data for up to 1,999 records in a related list via
       URL parameters.

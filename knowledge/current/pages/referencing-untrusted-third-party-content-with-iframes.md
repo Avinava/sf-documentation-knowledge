@@ -5,12 +5,10 @@ topic: referencing-untrusted-third-party-content-with-iframes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.977Z
+lastCollected: 2026-04-07T18:38:52.291Z
 estimatedTokens: 449
-keywords: [Referencing, Untrusted, Third-Party, Content, iframes, It’s, good, idea, isolate, resources, downloaded, source, iframe, separate, Visualforce]
+keywords: [Referencing, Untrusted, Third-Party, Content, iframes, It’s, good, idea, isolate, resources, downloaded, source, iframe, separate, Visualforce, provide, extra, layer, security, help, protect, assets, Communicating, Parent, Document]
 ---
-
-# Referencing Untrusted Third-Party Content with iframes
 
 > It’s a good idea to isolate static resources downloaded from an untrusted source. You can
             use an iframe to separate third-party content from your Visualforce page to provide an

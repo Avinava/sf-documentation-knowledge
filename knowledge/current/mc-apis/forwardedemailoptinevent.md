@@ -5,12 +5,10 @@ topic: forwardedemailoptinevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.908Z
+lastCollected: 2026-04-07T18:40:17.059Z
 estimatedTokens: 577
 keywords: [ForwardedEmailOptInEvent, opt-in, event, Forward, Friend, Items]
 ---
-
-# ForwardedEmailOptInEvent
 
 > The ForwardedEmailOptInEvent object specifies an opt-in event related to a Forward To A Friend event.
 

@@ -5,12 +5,10 @@ topic: benefitsessionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.183Z
+lastCollected: 2026-04-07T18:39:29.296Z
 estimatedTokens: 262
-keywords: [BenefitSessionHistory, History, tracked, BenefitSession]
+keywords: [BenefitSessionHistory, tracked, BenefitSession]
 ---
-
-# BenefitSessionHistory
 
 > History for tracked fields of BenefitSession.
 

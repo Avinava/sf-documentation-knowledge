@@ -5,12 +5,10 @@ topic: update-care-plan-tasks-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.895Z
+lastCollected: 2026-04-07T18:38:20.640Z
 estimatedTokens: 257
-keywords: [Care, Plan, Tasks, Input, representation, task]
+keywords: [Care, Plan, Tasks, task]
 ---
-
-# Update Care Plan Tasks Input
 
 > Input representation of the request to update care plan task.
 

@@ -5,13 +5,11 @@ topic: formulaeval-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.927Z
+lastCollected: 2026-04-07T18:36:15.239Z
 estimatedTokens: 515
 namespace: FormulaEval
-keywords: [FormulaEval, classes, evaluate, dynamic, formulas, SObjects, Apex, objects, avoid, unnecessary, DML, statements, recalculate, formula, expressions]
+keywords: [FormulaEval, classes, evaluate, dynamic, formulas, SObjects, Apex, avoid, unnecessary, DML, statements, recalculate, formula, expressions]
 ---
-
-# FormulaEval Namespace
 
 > The FormulaEval namespace provides classes and methods to evaluate dynamic formulas for
                 SObjects and Apex objects. Use the methods to avoid unnecessary DML statements to

@@ -5,12 +5,10 @@ topic: clinicalservicerequestdetailhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.911Z
+lastCollected: 2026-04-07T18:39:34.346Z
 estimatedTokens: 281
-keywords: [ClinicalServiceRequestDetailHistory, History, tracked, ClinicalServiceRequestDetail]
+keywords: [ClinicalServiceRequestDetailHistory, tracked, ClinicalServiceRequestDetail]
 ---
-
-# ClinicalServiceRequestDetailHistory
 
 > History for tracked fields of ClinicalServiceRequestDetail.
 

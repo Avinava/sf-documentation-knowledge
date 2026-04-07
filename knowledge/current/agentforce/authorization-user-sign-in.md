@@ -5,12 +5,10 @@ topic: authorization-user-sign-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.832Z
+lastCollected: 2026-04-07T18:35:54.924Z
 estimatedTokens: 321
-keywords: [Authorization, User, Sign-In, access, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, authenticate, OAuth, 2.0]
+keywords: [Authorization, User, Sign-In, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, authenticate, OAuth, 2.0, Code, flow, run, under, signed-in, user's, identity]
 ---
-
-# Authorization: User Sign-In
 
 > To access the Agentforce IT Service Configuration Management Database (CMDB) GraphQL
     API, you must authenticate using an OAuth 2.0 Authorization Code flow with user sign-in, so that

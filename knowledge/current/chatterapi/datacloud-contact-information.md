@@ -5,12 +5,10 @@ topic: datacloud-contact-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.295Z
+lastCollected: 2026-04-07T18:37:13.237Z
 estimatedTokens: 253
 keywords: [Datacloud, Contact]
 ---
-
-# Datacloud Contact Information
 
 > Get the contact information for the specified
     contact.

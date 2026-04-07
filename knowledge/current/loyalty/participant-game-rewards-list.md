@@ -5,12 +5,10 @@ topic: participant-game-rewards-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.859Z
+lastCollected: 2026-04-07T18:38:08.105Z
 estimatedTokens: 305
-keywords: [Participant, Game, Rewards, Output, representation, reward]
+keywords: [Participant, Game, Rewards, reward]
 ---
-
-# Participant Game Rewards List
 
 > Output representation of the participant game reward object.
 

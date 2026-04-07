@@ -5,12 +5,10 @@ topic: filtertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:27.188Z
+lastCollected: 2026-04-07T18:36:12.482Z
 estimatedTokens: 253
-keywords: [FilterType, Referenced, DataSource.Filter, Usage]
+keywords: [FilterType, Referenced, DataSource.Filter]
 ---
-
-# FilterType Enum
 
 > Referenced by the type property on a DataSource.Filter.
 

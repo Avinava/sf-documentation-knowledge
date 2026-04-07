@@ -5,12 +5,10 @@ topic: subaccountssubaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.218Z
+lastCollected: 2026-04-07T18:39:10.689Z
 estimatedTokens: 620
-keywords: [SubAccounts.SubAccount, APEX, programmatic, access, Sub, Account, contained, TPM_SubAccounts, instance, TPM, _SubAccounts.SubAccount, isIncluded, API, Version, Decimal]
+keywords: [SubAccounts.SubAccount, APEX, programmatic, Sub, Account, contained, TPM_SubAccounts, instance, TPM, _SubAccounts.SubAccount, isIncluded, API, Decimal, getVolume, getAccountExternalId, SubAccount, setAccountExternalId, setIncluded, setVolume]
 ---
-
-# SubAccounts.SubAccount
 
 > This APEX class provides programmatic access to a single Sub Account information
   contained in a TPM_SubAccounts instance.

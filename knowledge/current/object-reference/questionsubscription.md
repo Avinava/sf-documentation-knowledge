@@ -5,12 +5,10 @@ topic: questionsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.870Z
+lastCollected: 2026-04-07T18:38:39.411Z
 estimatedTokens: 461
-keywords: [QuestionSubscription, subscription, user, Question, API, version, 24.0, later, Calls, Usage]
+keywords: [QuestionSubscription, subscription, user, Question, API, 24.0]
 ---
-
-# QuestionSubscription
 
 > Represents a subscription for a user
         following a Question. This object is available in API version 24.0 and

@@ -5,12 +5,10 @@ topic: connectapioutofsequenceendorsepolicyoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.735Z
+lastCollected: 2026-04-07T18:37:50.631Z
 estimatedTokens: 116
-keywords: [Output, representation, sequence, endorsement]
+keywords: [sequence, endorsement]
 ---
-
-# ConnectApi.OutOfSequenceEndorsePolicyOutputRepresentation
 
 > Output representation for out of sequence endorsement output representation.
 

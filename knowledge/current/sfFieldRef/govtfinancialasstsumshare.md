@@ -5,12 +5,10 @@ topic: govtfinancialasstsumshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.410Z
+lastCollected: 2026-04-07T18:39:42.984Z
 estimatedTokens: 253
 keywords: [GovtFinancialAsstSumShare, Sharing, GovtFinancialAsstSum]
 ---
-
-# GovtFinancialAsstSumShare
 
 > Sharing for GovtFinancialAsstSum.
 

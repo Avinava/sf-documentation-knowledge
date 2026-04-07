@@ -5,12 +5,10 @@ topic: userpackagelicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.923Z
+lastCollected: 2026-04-07T18:38:43.693Z
 estimatedTokens: 467
-keywords: [UserPackageLicense, license, installed, managed, package, assigned, specific, user, API, version, 31.0, later, Calls, Usage]
+keywords: [UserPackageLicense, license, installed, managed, package, assigned, specific, user, API, 31.0]
 ---
-
-# UserPackageLicense
 
 > Represents a license for an installed managed package, assigned to a specific user. This object is available in API version 31.0 and later.
 

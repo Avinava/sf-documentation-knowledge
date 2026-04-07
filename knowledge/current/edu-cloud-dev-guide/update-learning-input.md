@@ -5,12 +5,10 @@ topic: update-learning-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.129Z
+lastCollected: 2026-04-07T18:37:29.245Z
 estimatedTokens: 222
-keywords: [Learning, Input, representation, along, outcomes, foundations]
+keywords: [Learning, along, outcomes, foundations]
 ---
-
-# Update Learning Input
 
 > Input representation of the details of the learning along with related outcomes, and
     foundations for the update.

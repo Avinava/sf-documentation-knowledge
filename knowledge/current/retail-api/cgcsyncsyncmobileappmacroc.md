@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappmacroc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.059Z
+lastCollected: 2026-04-07T18:39:12.530Z
 estimatedTokens: 407
-keywords: [cgc_sync__Sync_Mobile_App_Macro__c, color, macros, themes, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Macro, Calls]
+keywords: [cgc_sync__Sync_Mobile_App_Macro__c, color, macros, themes, API, 53.0, cgc, _sync, _Mobile, _App, _Macro]
 ---
-
-# cgc_sync__Sync_Mobile_App_Macro__c
 
 > Contains the color macros that are used for themes. This object is
       available in API version 53.0 and later.

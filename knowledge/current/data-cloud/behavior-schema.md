@@ -5,12 +5,10 @@ topic: behavior-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.343Z
+lastCollected: 2026-04-07T18:35:51.199Z
 estimatedTokens: 538
-keywords: [Behavior, Schema, events, sent, Data, Cloud, customer, navigates, application, Module, Engagement, Mobile, SDK, running, include]
+keywords: [Behavior, Schema, events, sent, Cloud, customer, navigates, application, Module, Engagement, Mobile, SDK, running, include, screen, view, launch]
 ---
-
-# Behavior Schema
 
 > Behavior events are sent to Data Cloud as a customer navigates the application where
   the Data Cloud Module for the Engagement Mobile SDK is running. Behavior events can include

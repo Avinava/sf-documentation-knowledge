@@ -5,12 +5,10 @@ topic: lifesciconfigcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.139Z
+lastCollected: 2026-04-07T18:37:58.657Z
 estimatedTokens: 697
-keywords: [LifeSciConfigCategory, category, Life, Sciences, configuration, records, organized, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, API, version, 65.0, later, SOAP]
+keywords: [LifeSciConfigCategory, category, Life, Sciences, configuration, records, organized, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, API, 65.0, SOAP, REST]
 ---
-
-# LifeSciConfigCategory
 
 > Represents the category that Life Sciences configuration records are
          organized into. This object is available in API version 65.0 and later.

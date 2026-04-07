@@ -5,12 +5,10 @@ topic: controlling-canvas-app-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.439Z
+lastCollected: 2026-04-07T18:38:57.242Z
 estimatedTokens: 565
-keywords: [Controlling, Canvas, App, Behavior, modify, signed, provide, Apex, implements, Canvas.CanvasLifecycleHandler.onRender, associate, onRender, implementation, control, custom]
+keywords: [Controlling, Canvas, App, Behavior, modify, signed, provide, Apex, implements, Canvas.CanvasLifecycleHandler.onRender, associate, onRender, implementation, control, code]
 ---
-
-# Controlling Canvas App Behavior
 
 > To modify the default behavior of the signed request, you need to provide an Apex
         class that implements Canvas.CanvasLifecycleHandler.onRender() and associate this class with your

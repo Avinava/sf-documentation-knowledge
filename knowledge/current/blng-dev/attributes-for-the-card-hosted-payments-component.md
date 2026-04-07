@@ -5,12 +5,10 @@ topic: attributes-for-the-card-hosted-payments-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.657Z
+lastCollected: 2026-04-07T18:37:04.276Z
 estimatedTokens: 1149
-keywords: [Attributes, Card, Hosted, Payments, Component, Review]
+keywords: [Attributes, Card, Hosted, Payments, Review]
 ---
-
-# Attributes for the Card Hosted Payments Component
 
 > Review the attributes for the Card Hosted Payments component.
 

@@ -5,12 +5,10 @@ topic: put-hubv1nestedtagstagid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.646Z
+lastCollected: 2026-04-07T18:40:20.904Z
 estimatedTokens: 821
-keywords: [PUT, hub, nestedtags, tagId, Updates, tag, provide, entire, payload, because, modifies, modify, Patch, Nested, Tags]
+keywords: [PUT, hub, nestedtags, tagId, Updates, tag, provide, entire, payload, because, modifies, modify, Patch, Nested, Tags, instead, **Overview**]
 ---
-
-# PUT /hub/v1/nestedtags/{tagId}
 
 > Updates an existing tag. You must provide the entire tag payload because this request modifies the entire tag. To provide only the fields to modify, use the Patch Nested Tags request instead.
 

@@ -5,12 +5,10 @@ topic: casecontactrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.597Z
+lastCollected: 2026-04-07T18:38:27.594Z
 estimatedTokens: 406
-keywords: [CaseContactRole, role, Contact, plays, Case, Calls, Usage]
+keywords: [CaseContactRole, role, Contact, plays, Case]
 ---
-
-# CaseContactRole
 
 > Represents the role that a given Contact plays on a
     Case.

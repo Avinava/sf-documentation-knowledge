@@ -5,12 +5,10 @@ topic: story-all-other-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.479Z
+lastCollected: 2026-04-07T18:36:59.975Z
 estimatedTokens: 82
-keywords: [Story, data]
+keywords: [Story]
 ---
-
-# Story All Other Field Value
 
 > The story data property for all other values in a field.
 

@@ -5,12 +5,10 @@ topic: landingpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.881Z
+lastCollected: 2026-04-07T18:38:34.070Z
 estimatedTokens: 1964
-keywords: [LandingPage, Account, Engagement, landing, web, visitor, reaches, clicking, link, advertisement, pages, created, synced, Salesforce, Lightning]
+keywords: [LandingPage, Account, Engagement, landing, web, visitor, reaches, clicking, link, advertisement, pages, created, synced, Salesforce, Lightning, App, API, 42.0]
 ---
-
-# LandingPage
 
 > Represents an Account Engagement landing page. A landing page is a
 			web page that a visitor reaches after clicking a link or advertisement. Landing pages

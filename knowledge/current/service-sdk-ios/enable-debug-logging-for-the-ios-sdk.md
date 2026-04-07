@@ -5,12 +5,10 @@ topic: enable-debug-logging-for-the-ios-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:33.052Z
+lastCollected: 2026-04-07T18:40:28.185Z
 estimatedTokens: 299
 keywords: [Enable, Debug, Logging, iOS, SDK, configure, Service, Chat, logs, level, ServiceLogger, shared, instance]
 ---
-
-# Enable Debug Logging for the iOS SDK
 
 > To configure the Service Chat SDK logs, set the level property on the ServiceLogger shared
   instance.

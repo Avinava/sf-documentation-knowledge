@@ -5,12 +5,10 @@ topic: propercase
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.449Z
+lastCollected: 2026-04-07T18:40:21.740Z
 estimatedTokens: 99
-keywords: [ProperCase, Function, Ordinal, initial, capitalization, **Overview**, **Syntax**, Usage]
+keywords: [ProperCase, Function, Ordinal, initial, capitalization, **Overview**, **Syntax**]
 ---
-
-# ProperCase
 
 > ProperCase(1)
 

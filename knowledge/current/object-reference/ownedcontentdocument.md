@@ -5,12 +5,10 @@ topic: ownedcontentdocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.050Z
+lastCollected: 2026-04-07T18:38:37.341Z
 estimatedTokens: 577
-keywords: [OwnedContentDocument, file, owned, user, version, 30.0, later, Calls]
+keywords: [OwnedContentDocument, file, owned, user, 30.0]
 ---
-
-# OwnedContentDocument
 
 > Represents a file owned by a user. This object is available in version 30.0 and
   later.

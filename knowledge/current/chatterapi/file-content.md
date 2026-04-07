@@ -5,12 +5,10 @@ topic: file-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.962Z
+lastCollected: 2026-04-07T18:37:13.927Z
 estimatedTokens: 205
 keywords: [File, Content, including, references, external, files, streamed]
 ---
-
-# File Content
 
 > Returns the content of the file, including references to
    external files. The content is streamed as the body of the response.

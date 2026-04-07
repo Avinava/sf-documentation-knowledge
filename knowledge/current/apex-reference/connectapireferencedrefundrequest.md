@@ -5,12 +5,10 @@ topic: connectapireferencedrefundrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.917Z
+lastCollected: 2026-04-07T18:36:06.264Z
 estimatedTokens: 219
-keywords: [ConnectApi.ReferencedRefundRequest, Referenced, refund, input]
+keywords: [ConnectApi.ReferencedRefundRequest, Referenced, refund]
 ---
-
-# ConnectApi.ReferencedRefundRequest
 
 > Referenced refund input.
 

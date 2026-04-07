@@ -5,12 +5,10 @@ topic: feed-elements-capability-social-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.812Z
+lastCollected: 2026-04-07T18:37:13.773Z
 estimatedTokens: 200
-keywords: [Feed, Elements, Capability, Social, Post, Access, element]
+keywords: [Capability, Social, Post]
 ---
-
-# Feed Elements Capability, Social Post
 
 > Access the social post capability of a feed
     element.

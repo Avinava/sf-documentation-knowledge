@@ -5,12 +5,10 @@ topic: cpq-api-quotemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.331Z
+lastCollected: 2026-04-07T18:37:27.340Z
 estimatedTokens: 354
-keywords: [CPQ, API, QuoteModel, Quote, model, data, Salesforce]
+keywords: [CPQ, API, QuoteModel, Quote, model, Salesforce]
 ---
-
-# CPQ API QuoteModel
 
 > The Quote model represents a CPQ quote data model in Salesforce CPQ.
 

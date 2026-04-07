@@ -5,12 +5,10 @@ topic: personalization-experiment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.566Z
+lastCollected: 2026-04-07T18:37:21.679Z
 estimatedTokens: 467
 keywords: [Personalization, Experiment]
 ---
-
-# Personalization Experiment
 
 > Contains details of a personalization Experiment.
 

@@ -5,12 +5,10 @@ topic: oauth-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.918Z
+lastCollected: 2026-04-07T18:36:17.146Z
 estimatedTokens: 554
-keywords: [OAuth, Salesforce, Connect, Custom, Adapters, 2.0, access, external, data, how, avoid, interruptions, caused, expired, tokens]
+keywords: [OAuth, Salesforce, Connect, Adapters, 2.0, external, how, avoid, interruptions, caused, expired, tokens]
 ---
-
-# OAuth for Salesforce Connect Custom Adapters
 
 > If you use OAuth 2.0 to access external data, learn how to avoid access interruptions
         caused by expired access tokens.

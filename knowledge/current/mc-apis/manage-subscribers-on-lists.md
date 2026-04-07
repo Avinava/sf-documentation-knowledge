@@ -5,12 +5,10 @@ topic: manage-subscribers-on-lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.686Z
+lastCollected: 2026-04-07T18:40:17.866Z
 estimatedTokens: 3688
-keywords: [Manage, Subscribers, add, remove, part, importing, creating, Subscription, Centers, SubscriberList, acted, upon, child, Subscriber, mentioned]
+keywords: [SubscriberList, Identifiers, Manage, Subscribers, add, remove, part, importing, creating, Subscription, Centers, acted, upon, child, Subscriber, mentioned, cases, Why, How, Actions, Sample, Code, Adding, NET, Java, Axis2, PHP, SOAP, Envelope, Unsubscribe, Items]
 ---
-
-# Manage Subscribers On Lists
 
 > You can add and remove subscribers from lists as part of importing subscribers. You can also manage subscribers and lists as part of creating Subscription Centers. The SubscriberList object, when acted upon as the child of a Subscriber object, enables the before mentioned use cases.
 

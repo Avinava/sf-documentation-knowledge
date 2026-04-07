@@ -5,12 +5,10 @@ topic: write-efficient-apex-and-soql
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.634Z
+lastCollected: 2026-04-07T18:38:48.582Z
 estimatedTokens: 275
 keywords: [Write, Efficient, Apex, SOQL, improve, overall, performance, Visualforce]
 ---
-
-# Write Efficient Apex and SOQL
 
 > To
     improve the overall performance of

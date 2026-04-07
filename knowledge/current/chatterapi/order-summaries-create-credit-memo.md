@@ -5,12 +5,10 @@ topic: order-summaries-create-credit-memo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.600Z
+lastCollected: 2026-04-07T18:37:15.663Z
 estimatedTokens: 420
-keywords: [Order, Summaries, Credit, Memo, represent, refund, change, orders, associated, OrderSummary]
+keywords: [Order, Summaries, Credit, Memo, represent, refund, change, orders, OrderSummary]
 ---
-
-# Order Summaries, Create Credit Memo
 
 > Create a credit memo to represent the refund for one or more change
       orders associated with an OrderSummary.

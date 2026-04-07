@@ -5,12 +5,10 @@ topic: canvas-apps-in-the-chatter-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.350Z
+lastCollected: 2026-04-07T18:38:57.138Z
 estimatedTokens: 1092
-keywords: [Canvas, Apps, Chatter, Feed, expose, items, gives, users, what’s, happening, inside, Salesforce, records, groups, they’re]
+keywords: [Canvas, Apps, Chatter, expose, items, gives, users, what’s, happening, inside, Salesforce, records, groups, they’re]
 ---
-
-# Canvas Apps in the Chatter Feed
 
 > Canvas enables you to expose your canvas apps as feed items. The feed
                 gives users information about what’s happening inside of Salesforce and

@@ -5,12 +5,10 @@ topic: billingmilestoneplanhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.390Z
+lastCollected: 2026-04-07T18:39:29.534Z
 estimatedTokens: 270
-keywords: [BillingMilestonePlanHistory, History, tracked, BillingMilestonePlan]
+keywords: [BillingMilestonePlanHistory, tracked, BillingMilestonePlan]
 ---
-
-# BillingMilestonePlanHistory
 
 > History for tracked fields of BillingMilestonePlan.
 

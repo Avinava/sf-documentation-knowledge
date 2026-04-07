@@ -6,13 +6,10 @@ topic: improve-amazon-transcribes-transcription-accuracy-with-custom-vocabulary-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.822Z
+lastCollected: 2026-04-07T18:40:12.776Z
 estimatedTokens: 1024
-keywords: [Improve, Amazon, Transcribe's, Transcription, Accuracy, Custom, Vocabulary, Filters, ensure, transcript, displays, terms, correct, spelling, capitalization]
+keywords: [Prerequisites, Improve, Amazon, Transcribe's, Transcription, Accuracy, Vocabulary, Filters, ensure, transcript, displays, terms, correct, spelling, capitalization, filter, mask, unwanted, content, profanity, Step, Vocabularies, Filtering, Transcribe, Modify, Contact, Flows, Perform, Test]
 ---
-
-# Improve Amazon Transcribe's Transcription Accuracy with Custom Vocabulary and
-    Filters
 
 > Use a custom vocabulary to ensure that your transcript displays
       terms with the correct spelling and capitalization. Use vocabulary filters to filter or mask

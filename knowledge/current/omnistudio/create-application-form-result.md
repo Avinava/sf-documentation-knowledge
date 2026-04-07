@@ -5,12 +5,10 @@ topic: create-application-form-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.478Z
+lastCollected: 2026-04-07T18:36:39.164Z
 estimatedTokens: 167
-keywords: [Application, Form, Result, Output, representation, created, record]
+keywords: [Application, Form, Result, created, record]
 ---
-
-# Create Application Form Result
 
 > Output representation of the created application form record.
 

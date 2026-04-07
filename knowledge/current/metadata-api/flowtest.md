@@ -5,12 +5,10 @@ topic: flowtest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:40.767Z
+lastCollected: 2026-04-07T18:36:26.225Z
 estimatedTokens: 1696
-keywords: [FlowTest, metadata, associated, flow, test, activate, record-triggered, verify, expected, results, identify, run-time, failures, Parent, File]
+keywords: [FlowTest, FlowTestFlowVersion, FlowTestPoint, FlowTestAssertion, FlowTestCondition, FlowTestReferenceOrValue, FlowTestParameter, metadata, flow, test, activate, record-triggered, verify, expected, results, identify, run-time, failures, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# FlowTest
 
 > Represents the metadata associated with a flow test. Before you activate a
 			record-triggered flow, you can test it to verify its expected results and identify flow

@@ -5,12 +5,10 @@ topic: validation-page-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.389Z
+lastCollected: 2026-04-07T18:36:57.946Z
 estimatedTokens: 156
 keywords: [Validation, Layout, template, configuration, wizard]
 ---
-
-# Validation Page Layout
 
 > The validation page layout for a template configuration wizard page.
 

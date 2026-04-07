@@ -5,12 +5,10 @@ topic: productterritoryavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.412Z
+lastCollected: 2026-04-07T18:38:01.247Z
 estimatedTokens: 1126
-keywords: [ProductTerritoryAvailability, products, aligned, territories, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ProductTerritoryAvailability, products, aligned, territories, API, 65.0]
 ---
-
-# ProductTerritoryAvailability
 
 > Represents information about the products aligned to territories. This
       object is available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.841Z
+lastCollected: 2026-04-07T18:40:18.021Z
 estimatedTokens: 391
-keywords: [Options, base, avoid, having, specify, ClientID, objects, call, Specify, option, optionally, processing, Data]
+keywords: [Options, base, avoid, having, specify, ClientID, call, Specify, option, optionally, processing]
 ---
-
-# Options
 
 > The Options object is the base object for all options on methods, such as Create. To avoid having to specify ClientID on all objects within the call, specify ClientID on this object.
 

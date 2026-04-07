@@ -5,12 +5,10 @@ topic: auto-install-request-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.224Z
+lastCollected: 2026-04-07T18:36:54.585Z
 estimatedTokens: 251
-keywords: [Auto-Install, Input]
+keywords: [Auto-Install]
 ---
-
-# Auto-Install Request Update Input
 
 > The update for an auto-install request.
 

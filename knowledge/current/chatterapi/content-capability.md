@@ -5,12 +5,10 @@ topic: content-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.818Z
+lastCollected: 2026-04-07T18:37:17.887Z
 estimatedTokens: 1121
 keywords: [Content, Capability, comment, file, attachment]
 ---
-
-# Content Capability
 
 > If a comment has this capability, it has a file attachment.
 

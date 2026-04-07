@@ -5,12 +5,10 @@ topic: date-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.025Z
+lastCollected: 2026-04-07T18:40:09.982Z
 estimatedTokens: 1192
-keywords: [Date, Functions, SOQL, queries, allow, group, filter, data, periods, day, calendar, month, fiscal, year]
+keywords: [Date, Functions, SOQL, queries, allow, group, filter, periods, day, calendar, month, fiscal, year]
 ---
-
-# Date Functions
 
 > Date functions in SOQL queries allow you to group or filter data by date periods such
     as day, calendar month, or fiscal year.

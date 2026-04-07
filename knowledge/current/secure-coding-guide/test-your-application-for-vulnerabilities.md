@@ -5,12 +5,10 @@ topic: test-your-application-for-vulnerabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.963Z
+lastCollected: 2026-04-07T18:39:21.837Z
 estimatedTokens: 408
-keywords: [Test, Application, Vulnerabilities, applications, authorization, access, control, ensure, web, security]
+keywords: [Test, Application, Vulnerabilities, applications, authorization, control, ensure, web, security]
 ---
-
-# Test Your Application for Vulnerabilities
 
 > Test your applications for authorization and access control vulnerabilities to ensure web
   application security.

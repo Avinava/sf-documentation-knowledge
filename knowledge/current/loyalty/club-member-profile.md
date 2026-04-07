@@ -5,12 +5,10 @@ topic: club-member-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.218Z
+lastCollected: 2026-04-07T18:38:07.440Z
 estimatedTokens: 232
 keywords: [Club, Member, Profile, membership, number, contact, loyalty, program]
 ---
-
-# Club Member Profile
 
 > Get the profile details of a club member such as membership number, contact ID, and
     loyalty program name.

@@ -5,12 +5,10 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.132Z
+lastCollected: 2026-04-07T18:37:22.240Z
 estimatedTokens: 159
-keywords: [Promotion, associated, cart, items]
+keywords: [Promotion, cart, items]
 ---
-
-# Promotion
 
 > Promotion associated with a cart and its items.
 

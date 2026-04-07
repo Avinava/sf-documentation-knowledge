@@ -5,12 +5,10 @@ topic: quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.773Z
+lastCollected: 2026-04-07T18:38:57.585Z
 estimatedTokens: 705
-keywords: [Quick, Start, simple, how, started, Canvas, Heroku, creates, “hello, world”, app, either, Java, Ruby, depending]
+keywords: [Quick, Start, simple, how, started, Canvas, Heroku, creates, “hello, world”, app, either, Java, Ruby, depending, template, select, time, corresponding, Salesforce]
 ---
-
-# Quick Start
 
 > This simple quick start shows you how to get started with Canvas by using the Heroku
   Quick Start. The Heroku Quick Start creates a “hello world” app on Heroku in either

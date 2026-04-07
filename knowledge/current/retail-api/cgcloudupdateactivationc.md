@@ -5,12 +5,10 @@ topic: cgcloudupdateactivationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:21.945Z
+lastCollected: 2026-04-07T18:39:15.441Z
 estimatedTokens: 965
-keywords: [cgcloud__Update_Activation__c, custom, setting, sales, org-specific, activation, record, sure, maintenance, possible, API, version, 54.0, later, cgcloud]
+keywords: [cgcloud__Update_Activation__c, setting, sales, org-specific, activation, record, sure, maintenance, possible, API, 54.0, cgcloud, _Update, _Activation]
 ---
-
-# cgcloud__Update_Activation__c
 
 > This custom setting defines the sales org-specific update activation
          record to make sure that maintenance is only possible by using the Update Activation

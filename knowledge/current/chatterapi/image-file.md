@@ -5,12 +5,10 @@ topic: image-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.671Z
+lastCollected: 2026-04-07T18:37:19.821Z
 estimatedTokens: 161
 keywords: [Image, File]
 ---
-
-# Image File
 
 > An image file.
 

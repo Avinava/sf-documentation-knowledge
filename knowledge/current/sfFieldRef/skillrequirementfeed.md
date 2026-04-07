@@ -5,12 +5,10 @@ topic: skillrequirementfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.706Z
+lastCollected: 2026-04-07T18:40:02.392Z
 estimatedTokens: 361
-keywords: [SkillRequirementFeed, Feed, tracking, SkillRequirement]
+keywords: [SkillRequirementFeed, SkillRequirement]
 ---
-
-# SkillRequirementFeed
 
 > Feed tracking for SkillRequirement.
 

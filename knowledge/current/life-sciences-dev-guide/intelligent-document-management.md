@@ -5,12 +5,10 @@ topic: intelligent-document-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.565Z
+lastCollected: 2026-04-07T18:37:57.054Z
 estimatedTokens: 958
-keywords: [Intelligent, Document, Management, resources, records, Salesforce, objects, content, received, Special, Access, Rules]
+keywords: [Intelligent, Document, Management, resources, records, Salesforce, content, received]
 ---
-
-# Intelligent Document Management
 
 > Use the Intelligent Document Management resources to create or update
       records in Salesforce objects based on the content document records or received document

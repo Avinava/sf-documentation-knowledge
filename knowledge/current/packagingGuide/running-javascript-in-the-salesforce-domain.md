@@ -5,13 +5,11 @@ topic: running-javascript-in-the-salesforce-domain
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.440Z
+lastCollected: 2026-04-07T18:38:47.400Z
 estimatedTokens: 483
 namespace: REQUIRESCRIPT
-keywords: [Running, JavaScript, Salesforce, Domain, code, multiple, vendors, run, origin, prevent, interference, vendor, sandboxed, Don’t, attempt]
+keywords: [Running, JavaScript, Salesforce, Domain, code, multiple, vendors, run, origin, prevent, interference, vendor, sandboxed, Don’t, attempt, break, sandbox, outside, Visualforce, Aura, Lightning, Web, proper, Metadata]
 ---
-
-# Running JavaScript in the Salesforce Domain
 
 > JavaScript code from multiple vendors can run in the same origin. To prevent code
     interference, vendor JavaScript code is sandboxed. Don’t attempt to break out of a sandbox or

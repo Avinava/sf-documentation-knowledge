@@ -5,13 +5,11 @@ topic: recurringsequence-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.638Z
+lastCollected: 2026-04-07T18:36:46.486Z
 estimatedTokens: 238
 namespace: FSL
 keywords: [RecurringSequence, result, getRecurringAppointmentsSlots, pattern, appointments, recur, daily, weekly, monthly]
 ---
-
-# RecurringSequence Class
 
 > Represents the result of using the getRecurringAppointmentsSlots method
       to return a pattern of appointments that recur daily, weekly, or monthly.

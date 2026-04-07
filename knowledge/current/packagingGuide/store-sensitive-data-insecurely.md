@@ -5,12 +5,10 @@ topic: store-sensitive-data-insecurely
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.499Z
+lastCollected: 2026-04-07T18:38:47.450Z
 estimatedTokens: 342
-keywords: [Store, Sensitive, Data, Insecurely, Follow, enterprise, security, standards, export, Salesforce, Platform, secret, Metadata]
+keywords: [Store, Sensitive, Insecurely, Follow, enterprise, security, standards, export, Salesforce, Platform, secret, Metadata]
 ---
-
-# Store Sensitive Data Insecurely
 
 > Follow enterprise security standards when you export data from the Salesforce Platform
     and when you store secret data in the platform.

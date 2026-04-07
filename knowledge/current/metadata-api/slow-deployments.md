@@ -5,12 +5,10 @@ topic: slow-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.338Z
+lastCollected: 2026-04-07T18:36:24.731Z
 estimatedTokens: 258
-keywords: [Slow, Deployments, file-based, Metadata, API, deployment, occurs, server, downtime, Salesforce, service, upgrade, take, longer, expected]
+keywords: [Slow, Deployments, file-based, Metadata, API, deployment, occurs, server, downtime, Salesforce, service, upgrade, take, longer, expected, behavior, happens, because, validation, retried, beginning, restored, However, Apex, tests, were, part, weren’t, run]
 ---
-
-# Slow Deployments
 
 > If a file-based Metadata API deployment occurs during server downtime, such as a
     Salesforce service upgrade, the deployment can take longer than expected. This behavior happens

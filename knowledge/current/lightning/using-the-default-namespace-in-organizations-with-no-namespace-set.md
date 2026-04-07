@@ -6,14 +6,11 @@ topic: using-the-default-namespace-in-organizations-with-no-namespace-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.648Z
+lastCollected: 2026-04-07T18:38:04.791Z
 estimatedTokens: 238
 namespace: Set
-keywords: [Organizations, organization, hasn’t, prefix, referencing, Lightning, components, you’ve, created]
+keywords: [Organizations, organization, hasn’t, prefix, referencing, Lightning, you’ve, created]
 ---
-
-# Using the Default Namespace in Organizations with No Namespace
-  Set
 
 > If your organization hasn’t set a namespace prefix, use the default namespace c when referencing Lightning components that you’ve
   created.

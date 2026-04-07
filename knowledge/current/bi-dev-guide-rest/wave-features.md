@@ -5,12 +5,10 @@ topic: wave-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:11.517Z
+lastCollected: 2026-04-07T18:36:58.076Z
 estimatedTokens: 1927
 keywords: [Wave, Features, Analytics, enabled, user, JSON]
 ---
-
-# Wave Features
 
 > The Analytics features enabled for a user.
 

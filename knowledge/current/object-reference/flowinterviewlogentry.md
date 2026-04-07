@@ -5,12 +5,10 @@ topic: flowinterviewlogentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.525Z
+lastCollected: 2026-04-07T18:38:32.508Z
 estimatedTokens: 496
-keywords: [FlowInterviewLogEntry, log, specific, element, that’s, executed, screen, flow, interview, instance, running, previously, run, API, version]
+keywords: [FlowInterviewLogEntry, log, specific, that’s, executed, screen, flow, interview, instance, running, previously, run, API, 49.0]
 ---
-
-# FlowInterviewLogEntry
 
 > Represents the log of a specific element that’s executed by a screen
          flow interview. An interview is an instance of a running or previously run

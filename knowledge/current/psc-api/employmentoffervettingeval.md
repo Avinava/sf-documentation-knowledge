@@ -5,12 +5,10 @@ topic: employmentoffervettingeval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.396Z
+lastCollected: 2026-04-07T18:39:06.491Z
 estimatedTokens: 745
-keywords: [EmploymentOfferVettingEval, junction, employment, offer, vetting, evaluation, recipient, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [EmploymentOfferVettingEval, junction, employment, offer, vetting, evaluation, recipient, API, 62.0]
 ---
-
-# EmploymentOfferVettingEval
 
 > Represents a junction between an employment offer and a vetting
          evaluation of the offer recipient.  This object is available in API version 62.0 and

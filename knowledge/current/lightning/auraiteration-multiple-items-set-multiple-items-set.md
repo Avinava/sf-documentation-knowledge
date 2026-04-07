@@ -5,12 +5,10 @@ topic: auraiteration-multiple-items-set-multiple-items-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.735Z
+lastCollected: 2026-04-07T18:38:04.877Z
 estimatedTokens: 524
 keywords: [<aura, iteration>, —Multiple, Items, occurs, attribute, tag, multiple, times, rendering, cycle, How, Fix]
 ---
-
-# <aura:iteration> —Multiple Items Set —Multiple Items Set
 
 > This warning occurs when you set the items attribute of an <aura:iteration> tag multiple times in the same rendering
         cycle.

@@ -5,12 +5,10 @@ topic: max
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.914Z
+lastCollected: 2026-04-07T18:37:00.427Z
 estimatedTokens: 120
 keywords: [max, maximum, dimension, measure, Largest, Opportunity, Account, Airline, Destinations, per, Origin]
 ---
-
-# max()
 
 > Returns the maximum value of a dimension or measure field.
 

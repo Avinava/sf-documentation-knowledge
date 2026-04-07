@@ -5,12 +5,10 @@ topic: wire-adapters-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:24.514Z
+lastCollected: 2026-04-07T18:38:14.988Z
 estimatedTokens: 2251
-keywords: [Wire, Adapters, Support, Lightning, web, component, JavaScript, functions, described, “lightning, ui*Api, Functions”, Lighting, Components, Developer]
+keywords: [Wire, Adapters, Support, Lightning, web, JavaScript, functions, described, “lightning, ui*Api, Functions”, Lighting, Developer, Adapter, Considerations, Handle, Errors, Defensively]
 ---
-
-# Wire Adapters Support
 
 > Lightning web component wire adapters and JavaScript functions are described in “lightning/ui*Api Wire Adapters and Functions” in the Lighting
    Web Components Developer Guide.

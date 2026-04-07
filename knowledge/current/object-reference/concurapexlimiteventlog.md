@@ -5,12 +5,10 @@ topic: concurapexlimiteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.221Z
+lastCollected: 2026-04-07T18:38:28.141Z
 estimatedTokens: 642
-keywords: [ConcurApexLimitEventLog, Concurrent, Apex, Limit, event, logs, contain, long-running, requests, org, Salesforce, terminated, reaching, org’s, concurrency]
+keywords: [ConcurApexLimitEventLog, Concurrent, Apex, Limit, event, logs, contain, long-running, requests, org, Salesforce, terminated, reaching, org’s, concurrency, established, context, execute, seconds, counted, towards, Asynchronous, don’t, count, exceed, additional, denied, API, 61.0]
 ---
-
-# ConcurApexLimitEventLog
 
 > Concurrent Apex Limit event logs contain information about long-running
          concurrent Apex requests in your org that Salesforce terminated after reaching your org’s

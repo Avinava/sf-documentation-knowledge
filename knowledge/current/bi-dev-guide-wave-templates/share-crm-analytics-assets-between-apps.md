@@ -5,12 +5,10 @@ topic: share-crm-analytics-assets-between-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.055Z
+lastCollected: 2026-04-07T18:37:02.601Z
 estimatedTokens: 760
 keywords: [Share, CRM, Analytics, Assets, Apps, Template, Dependencies, feature, reuse, dashboards, datasets, lenses, across]
 ---
-
-# Share CRM Analytics Assets Between Apps
 
 > Use the Template Dependencies feature to reuse CRM Analytics dashboards, datasets, and
   lenses across apps.

@@ -5,12 +5,10 @@ topic: paymentgatewayprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.505Z
+lastCollected: 2026-04-07T18:36:33.852Z
 estimatedTokens: 1325
-keywords: [PaymentGatewayProvider, payment, gateway, provider, processing, payments, API, version, 48.0, later, SOAP, Calls, REST, Special, Access]
+keywords: [PaymentGatewayProvider, payment, gateway, provider, processing, payments, API, 48.0, SOAP, REST]
 ---
-
-# PaymentGatewayProvider
 
 > Represents the payment gateway provider processing payments. This object
       is available in API version 48.0 and later.

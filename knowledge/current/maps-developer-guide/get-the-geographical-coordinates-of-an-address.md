@@ -5,12 +5,10 @@ topic: get-the-geographical-coordinates-of-an-address
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.662Z
+lastCollected: 2026-04-07T18:38:10.919Z
 estimatedTokens: 611
 keywords: [Geographical, Coordinates, Address, Geocode, Apex, formatted, Sample, Code, Geocoded]
 ---
-
-# Get the Geographical Coordinates of an Address
 
 > The Geocode() Apex method takes a
       single address and returns the geographical coordinates and the formatted

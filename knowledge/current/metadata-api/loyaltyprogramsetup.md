@@ -5,12 +5,10 @@ topic: loyaltyprogramsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:41.859Z
+lastCollected: 2026-04-07T18:36:27.401Z
 estimatedTokens: 4284
-keywords: [LoyaltyProgramSetup, configuration, loyalty, program, process, including, rules, processes, determine, how, new, transaction, journals, processed, meet]
+keywords: [LoyaltyProgramSetup, LoyaltyProgramProcess, LoyaltyProgramProcessParameter, LoyaltyProgramProcessCondition, LoyaltyProgramProcessConditionFilterCriteria, LoyaltyProgramProcessRule, LoyaltyProgramProcessAction, LoyaltyProgramProcessActionParameter, LoyaltyProgramProcessRuleStepMapping, configuration, loyalty, program, process, including, processes, determine, how, new, transaction, journals, processed, meet, criteria, conditions, actions, triggered, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LoyaltyProgramSetup
 
 > Represents the configuration of a loyalty program process
 			including its parameters and rules. Program processes determine how new transaction

@@ -5,12 +5,10 @@ topic: digitalexperienceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.535Z
+lastCollected: 2026-04-07T18:36:24.975Z
 estimatedTokens: 602
-keywords: [DigitalExperienceConfig, organization’s, workspaces, site, label, URL, path, prefix, workspace, Parent, File, Suffix, Directory, Location, Version]
+keywords: [DigitalExperienceConfig, Site, organization’s, workspaces, label, URL, path, prefix, workspace, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DigitalExperienceConfig
 
 > Represents details for your organization’s workspaces, such
 			as the site label, site URL path prefix, and workspace type.

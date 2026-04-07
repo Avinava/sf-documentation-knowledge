@@ -5,12 +5,10 @@ topic: declinecall
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.408Z
+lastCollected: 2026-04-07T18:39:23.345Z
 estimatedTokens: 111
 keywords: [declineCall, Decline, call]
 ---
-
-# declineCall
 
 > Decline a call.
 

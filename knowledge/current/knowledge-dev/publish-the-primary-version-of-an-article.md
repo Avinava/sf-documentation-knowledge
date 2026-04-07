@@ -5,12 +5,10 @@ topic: publish-the-primary-version-of-an-article
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.587Z
+lastCollected: 2026-04-07T18:37:53.874Z
 estimatedTokens: 338
-keywords: [Publish, Primary, Version, Article, Publishes]
+keywords: [Publish, Primary, Article, Publishes]
 ---
-
-# Publish the Primary Version of an Article
 
 > Publishes the primary version of an article.
 

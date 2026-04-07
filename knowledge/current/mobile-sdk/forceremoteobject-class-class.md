@@ -5,12 +5,10 @@ topic: forceremoteobject-class-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.087Z
+lastCollected: 2026-04-07T18:40:25.453Z
 estimatedTokens: 349
-keywords: [Force.RemoteObject, support, arbitrary, REST, calls, Mobile, Sync, introduces, abstract, serves, layer, abstraction, Force.SObject, Backbone.Model, Instead]
+keywords: [Force.RemoteObject, support, arbitrary, REST, Mobile, Sync, introduces, abstract, serves, layer, abstraction, Force.SObject, Backbone.Model, Instead, directly, subclassing, now, subclasses, Calling, Endpoints, syncRemoteObjectWithServer]
 ---
-
-# Force.RemoteObject Class Class
 
 > To support arbitrary REST calls, Mobile Sync introduces the Force.RemoteObject abstract class. Force.RemoteObject serves as a layer of abstraction
             between Force.SObject and Backbone.Model. Instead of directly subclassing Backbone.Model, Force.SObject now subclasses Force.RemoteObject, wh

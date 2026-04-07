@@ -5,12 +5,10 @@ topic: aggregate-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.992Z
+lastCollected: 2026-04-07T18:37:00.508Z
 estimatedTokens: 1041
 keywords: [Aggregate, Functions, perform, computations, across, grouped]
 ---
-
-# Aggregate Functions
 
 > Aggregate functions perform computations across all values of a grouped
     field.

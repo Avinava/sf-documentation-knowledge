@@ -5,12 +5,10 @@ topic: time-series-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.972Z
+lastCollected: 2026-04-07T18:39:19.656Z
 estimatedTokens: 115
 keywords: [Time, Series, Node, recipe]
 ---
-
-# Time Series Node
 
 > A time series node in a recipe.
 

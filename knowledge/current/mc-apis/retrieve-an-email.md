@@ -5,12 +5,10 @@ topic: retrieve-an-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.620Z
+lastCollected: 2026-04-07T18:40:18.823Z
 estimatedTokens: 2130
-keywords: [Retrieve, Email, retrieving, message, via, SOAP, API, Why, How, anEmail, Sample, NET, Code, Java, Axis]
+keywords: [Retrieve, Email, retrieving, message, via, SOAP, API, Why, How, anEmail, Sample, NET, Code, Java, Axis, 1.4, PHP, Python, setup, service, logging, debugging, Items]
 ---
-
-# Retrieve an Email
 
 > This page contains information  about retrieving an email message via the SOAP API.
 

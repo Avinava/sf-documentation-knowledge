@@ -5,12 +5,10 @@ topic: map-traceable-points-for-redemption-transactions-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.425Z
+lastCollected: 2026-04-07T18:38:06.636Z
 estimatedTokens: 383
-keywords: [Map, Traceable, Points, Redemption, Transactions, Action, Maps, Debit, loyalty, ledgers, Credit, ledger, traceability, records, pending]
+keywords: [Inputs, Outputs, Map, Traceable, Points, Redemption, Transactions, Action, Maps, Debit, loyalty, ledgers, Credit, ledger, traceability, records, pending, REST, HTTP]
 ---
-
-# Map Traceable Points for Redemption Transactions Action
 
 > Maps Debit type loyalty ledgers to Credit type loyalty ledgers for loyalty ledger
         traceability records that are pending.

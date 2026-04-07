@@ -5,12 +5,10 @@ topic: loyaltyprogrampartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.168Z
+lastCollected: 2026-04-07T18:39:47.591Z
 estimatedTokens: 588
-keywords: [LoyaltyProgramPartner, partners, associated, loyalty, program, accrual, partner, redemption]
+keywords: [LoyaltyProgramPartner, partners, loyalty, program, accrual, partner, redemption]
 ---
-
-# LoyaltyProgramPartner
 
 > Represents partners that are associated with a given loyalty program. Partners
       can be an accrual partner, a redemption partner, or both.

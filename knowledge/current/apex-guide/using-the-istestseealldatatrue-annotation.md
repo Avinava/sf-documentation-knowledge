@@ -5,12 +5,10 @@ topic: using-the-istestseealldatatrue-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.359Z
+lastCollected: 2026-04-07T18:36:18.589Z
 estimatedTokens: 594
-keywords: [isTest, SeeAllData=True, Annotation, Annotate, test, open, data, access, records, organization, queries, doesn't, apply, record, creation]
+keywords: [isTest, SeeAllData=True, Annotation, Annotate, test, open, records, organization, queries, doesn't, apply, record, creation, changes, including, deletions, New, changed, rolled, back, Apex, tests]
 ---
-
-# Using the isTest(SeeAllData=True) Annotation
 
 > Annotate your test class or test method with IsTest(SeeAllData=true) to open up data access to records in your organization. The
     IsTest(SeeAllData=true) annotation applies to data queries but doesn't apply to record creation

@@ -5,12 +5,10 @@ topic: scan-barcodes-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:00.968Z
+lastCollected: 2026-04-07T18:36:46.822Z
 estimatedTokens: 898
-keywords: [Scan, Barcodes, Mobile, Device, Lightning, web, component, device’s, camera, platform, features, barcode, UPC, symbol, code]
+keywords: [Scan, Barcodes, Mobile, Device, Lightning, web, device’s, camera, platform, features, barcode, UPC, symbol, code, successfully, scanned, invoked, BarcodeScanner, API, Add, Test, Availability]
 ---
-
-# Scan Barcodes on a Mobile Device
 
 > A Lightning web component can use a mobile device’s camera and mobile OS platform
     features to scan a barcode, such as a UPC symbol or QR code. When a barcode is successfully

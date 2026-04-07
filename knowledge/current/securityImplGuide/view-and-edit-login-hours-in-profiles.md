@@ -5,12 +5,10 @@ topic: view-and-edit-login-hours-in-profiles
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.503Z
+lastCollected: 2026-04-07T18:39:22.394Z
 estimatedTokens: 497
 keywords: [View, Edit, Login, Hours, Profiles, Specify, users, log, user, profile]
 ---
-
-# View and Edit Login Hours in Profiles
 
 > Specify the hours when users can log in based on the user profile.
 

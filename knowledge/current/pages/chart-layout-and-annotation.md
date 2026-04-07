@@ -5,12 +5,10 @@ topic: chart-layout-and-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.758Z
+lastCollected: 2026-04-07T18:38:48.706Z
 estimatedTokens: 634
-keywords: [Chart, Layout, Annotation, understandable, add, legend, meaningful, axes, ranges, labels, tips, data, elements]
+keywords: [Chart, Layout, Annotation, understandable, add, legend, meaningful, axes, ranges, labels, tips]
 ---
-
-# Chart Layout and Annotation
 
 > To make your chart more understandable, add a legend, meaningful
 axes ranges and labels, and tips or labels on data elements.

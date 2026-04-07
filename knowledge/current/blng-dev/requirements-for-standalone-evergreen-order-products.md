@@ -5,12 +5,10 @@ topic: requirements-for-standalone-evergreen-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.739Z
+lastCollected: 2026-04-07T18:37:04.365Z
 estimatedTokens: 358
 keywords: [Requirements, Standalone, Evergreen, Order, Products, monthly, product, API, Salesforce, Lightning, Classic]
 ---
-
-# Requirements for Standalone Evergreen Order Products
 
 > Create a monthly evergreen order product through API in Salesforce Lightning or
   Salesforce Classic.

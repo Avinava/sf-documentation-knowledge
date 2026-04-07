@@ -5,12 +5,10 @@ topic: error-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.772Z
+lastCollected: 2026-04-07T18:35:45.770Z
 estimatedTokens: 150
-keywords: [Error, Output, representation, top-level, detail, validation, fails]
+keywords: [Error, top-level, detail, validation, fails]
 ---
-
-# Error Details
 
 > Output representation of the top-level error detail when validation fails.
 

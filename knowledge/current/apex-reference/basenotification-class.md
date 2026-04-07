@@ -5,13 +5,11 @@ topic: basenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.621Z
+lastCollected: 2026-04-07T18:36:01.850Z
 estimatedTokens: 2458
 namespace: CommercePayments
-keywords: [BaseNotification, Abstract, storing, notification, sent, payment, gateways, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage]
+keywords: [BaseNotification, Abstract, storing, notification, sent, payment, gateways, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setId, setSalesforceResultCodeInfo, salesforceResultCodeInfo, setStatus, status]
 ---
-
-# BaseNotification Class
 
 > Abstract class for storing notification information sent from payment
             gateways.

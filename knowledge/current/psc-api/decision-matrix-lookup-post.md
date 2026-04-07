@@ -5,12 +5,10 @@ topic: decision-matrix-lookup-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.453Z
+lastCollected: 2026-04-07T18:39:01.606Z
 estimatedTokens: 253
-keywords: [Decision, Matrix, Lookup, POST, Performs, rows, input, provided, row’s, output]
+keywords: [Decision, Matrix, Lookup, POST, Performs, rows, provided, row’s]
 ---
-
-# Decision Matrix Lookup (POST)
 
 > Performs a lookup on decision matrix rows based on the input values
       provided, and returns the row’s output.

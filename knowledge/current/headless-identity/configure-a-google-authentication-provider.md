@@ -5,12 +5,10 @@ topic: configure-a-google-authentication-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.316Z
+lastCollected: 2026-04-07T18:37:39.244Z
 estimatedTokens: 422
 keywords: [Configure, Google, Authentication, Provider, users, log]
 ---
-
-# Configure a Google Authentication Provider
 
 > For this example, configure a Google authentication provider so that users can log in
   with Google.

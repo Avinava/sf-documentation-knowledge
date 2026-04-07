@@ -5,12 +5,10 @@ topic: activate-bank-payments-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.927Z
+lastCollected: 2026-04-07T18:38:45.754Z
 estimatedTokens: 634
-keywords: [Activate, Bank, Payments, AppExchange, Checkout, let, customers, pay, solution, transfer, payment, Stripe, reviews, approves, you’re]
+keywords: [Activate, Bank, Payments, AppExchange, Checkout, let, customers, pay, solution, transfer, payment, Stripe, reviews, approves, you’re, eligible, receive, Depending, location, accept, credit, cards, Automated, Clearing, House, ACH, network]
 ---
-
-# Activate Bank Payments for AppExchange Checkout
 
 > To let customers pay for your solution with a bank transfer, request this payment method
   in Stripe. After Stripe reviews and approves your request, you’re eligible to receive bank

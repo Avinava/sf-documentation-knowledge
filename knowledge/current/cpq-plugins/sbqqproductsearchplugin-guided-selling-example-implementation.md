@@ -5,12 +5,10 @@ topic: sbqqproductsearchplugin---guided-selling-example-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:03:40.590Z
+lastCollected: 2026-04-07T18:37:27.594Z
 estimatedTokens: 43
 keywords: [SBQQ.ProductSearchPlugin, Guided, Selling, Implementation]
 ---
-
-# SBQQ.ProductSearchPlugin - Guided Selling Example Implementation
 
 > This is an example implementation of the System.ProductSearchPlugin_GuidedSelling interface.
 

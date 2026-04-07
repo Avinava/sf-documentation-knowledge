@@ -5,12 +5,10 @@ topic: address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.436Z
+lastCollected: 2026-04-07T18:37:07.145Z
 estimatedTokens: 147
-keywords: [Address, Input, representation, payment, intent, card]
+keywords: [Address, payment, intent, card]
 ---
-
-# Address Input
 
 > Address input representation for a payment method, payment intent, or
       card payment method.

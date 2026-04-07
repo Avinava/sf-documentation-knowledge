@@ -5,12 +5,10 @@ topic: optimize-html
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.669Z
+lastCollected: 2026-04-07T18:38:48.617Z
 estimatedTokens: 268
 keywords: [Optimize, HTML, server, side, Visualforce, validates, optimized, improves, processing, efficiency, client, responsive, user’s, browser]
 ---
-
-# Optimize HTML
 
 > On the server
     side where Visualforce validates HTML,

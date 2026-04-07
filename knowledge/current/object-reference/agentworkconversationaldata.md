@@ -5,12 +5,10 @@ topic: agentworkconversationaldata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.132Z
+lastCollected: 2026-04-07T18:38:25.069Z
 estimatedTokens: 1008
-keywords: [AgentWorkConversationalData, Stores, conversation, data, agent, work, sessions, interactions, transfer, operational, metrics, API, version, 66.0, later]
+keywords: [AgentWorkConversationalData, Stores, conversation, agent, work, sessions, interactions, transfer, operational, metrics, API, 66.0]
 ---
-
-# AgentWorkConversationalData
 
 > Stores conversation data for agent work sessions, such as agent interactions,
          transfer information, and operational metrics. This object is available in API version

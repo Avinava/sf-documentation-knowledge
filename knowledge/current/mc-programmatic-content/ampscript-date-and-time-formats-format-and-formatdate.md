@@ -5,12 +5,10 @@ topic: ampscript-date-and-time-formats---format-and-formatdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.865Z
+lastCollected: 2026-04-07T18:40:22.239Z
 estimatedTokens: 636
-keywords: [AMPscript, Date, Time, Formats, FormatDate, Compare, functions, column, result, force, single-character, token, behave, it’s, multi-character]
+keywords: [AMPscript, Date, Time, Formats, FormatDate, Compare, functions, column, result, force, single-character, token, behave, it’s, multi-character, applicable]
 ---
-
-# AMPscript Date and Time Formats - Format() and FormatDate()
 
 > Compare date and time formats for the AMPscript functions Format() and FormatDate(). The % column shows the result when you use % to force a single-character token to behave as if it’s in a multi-character string, if applicable.
 

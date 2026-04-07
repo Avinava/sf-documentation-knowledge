@@ -5,13 +5,11 @@ topic: named-credential-parameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.791Z
+lastCollected: 2026-04-07T18:37:20.975Z
 estimatedTokens: 181
 namespace: AllowedManagedPackageNamespaces
 keywords: [Named, Credential]
 ---
-
-# Named Credential Parameter
 
 > Named credential parameter.
 

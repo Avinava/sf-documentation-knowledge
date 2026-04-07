@@ -5,12 +5,10 @@ topic: cancel-an-appexchange-checkout-subscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.947Z
+lastCollected: 2026-04-07T18:38:45.775Z
 estimatedTokens: 289
-keywords: [Cancel, AppExchange, Checkout, Subscription, customer, wants, end, renewal, date, share, self-service, steps, canceling, cancellation, effect]
+keywords: [Cancel, AppExchange, Checkout, Subscription, customer, wants, end, renewal, date, share, self-service, steps, canceling, cancellation, effect, contract, term, purchased, advise, wait, few, hours, initial, purchase, completes, Waiting, ensures, canceled]
 ---
-
-# Cancel an AppExchange Checkout Subscription
 
 > If your customer wants to end a subscription before its renewal date, you can share
   self-service steps for canceling the subscription on AppExchange. The cancellation takes effect at

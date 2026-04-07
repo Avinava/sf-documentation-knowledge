@@ -5,12 +5,10 @@ topic: videocall
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.415Z
+lastCollected: 2026-04-07T18:37:57.947Z
 estimatedTokens: 1864
-keywords: [VideoCall, Standard, custom, extend, represent, video, call, stores, session, including, meeting, connection, duration, associated, participants]
+keywords: [VideoCall, Standard, extend, represent, video, call, stores, session, including, meeting, connection, duration, participants, linked, recordings, vendor-specific, attributes, ensuring, seamless, organized, approach, managing, API, 65.0]
 ---
-
-# VideoCall
 
 > Standard and custom fields extend the standard VideoCall object to represent
          a video call. The VideoCall object stores important information about the video session,

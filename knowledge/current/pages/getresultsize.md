@@ -5,12 +5,10 @@ topic: getresultsize
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.160Z
+lastCollected: 2026-04-07T18:38:48.117Z
 estimatedTokens: 35
 keywords: [getResultSize, number, records]
 ---
-
-# getResultSize()
 
 > Returns the number of records in the set.
 

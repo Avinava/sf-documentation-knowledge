@@ -5,12 +5,10 @@ topic: set-up-salesforce-org-with-loyalty-management-receipt-scanner-kit-unlocke
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.931Z
+lastCollected: 2026-04-07T18:38:09.223Z
 estimatedTokens: 971
-keywords: [Salesforce, Org, Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, ensure, members, submit, their, receipts, mobile]
+keywords: [Salesforce, Org, Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, ensure, members, submit, their, receipts, mobile, app, rewarded, eligible, line, items, install, program, already]
 ---
-
-# Set Up Salesforce Org With Loyalty Management Receipt Scanner Kit Unlocked Package
 
 > To ensure that members can submit their receipts by using their Loyalty Management mobile
     app and get rewarded for eligible receipt line items, install and set up the Loyalty Management

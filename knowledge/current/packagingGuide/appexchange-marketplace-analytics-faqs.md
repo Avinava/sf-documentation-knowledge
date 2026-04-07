@@ -5,12 +5,10 @@ topic: appexchange-marketplace-analytics-faqs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.084Z
+lastCollected: 2026-04-07T18:38:47.053Z
 estimatedTokens: 1084
 keywords: [AppExchange, Marketplace, Analytics, FAQs, answers, common, questions]
 ---
-
-# AppExchange Marketplace Analytics FAQs
 
 > Find answers to common questions about AppExchange Marketplace Analytics.
 

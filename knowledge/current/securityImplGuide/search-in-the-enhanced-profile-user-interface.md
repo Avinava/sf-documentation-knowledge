@@ -5,12 +5,10 @@ topic: search-in-the-enhanced-profile-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.239Z
+lastCollected: 2026-04-07T18:39:23.173Z
 estimatedTokens: 569
-keywords: [Search, Enhanced, Profile, User, locate, tab, permission, setting, least, three, consecutive, letters, Settings, box, suggestions]
+keywords: [Search, Enhanced, Profile, User, locate, tab, permission, setting, least, three, consecutive, letters, Settings, box, suggestions, results, match, terms, appear, Click, item]
 ---
-
-# Search in the Enhanced Profile User Interface
 
 > To locate an object, tab, permission, or setting name on a profile page, type at least
   three consecutive letters in the Find Settings... box. As you type, suggestions for results that

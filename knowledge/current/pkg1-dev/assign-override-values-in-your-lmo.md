@@ -5,12 +5,10 @@ topic: assign-override-values-in-your-lmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.465Z
+lastCollected: 2026-04-07T18:38:53.785Z
 estimatedTokens: 120
 keywords: [Assign, Override, LMO, feature, subscriber’s, org, appropriate, junction, record]
 ---
-
-# Assign Override Values in Your LMO
 
 > To override the default value of a feature parameter in a subscriber’s org, update
         the appropriate junction object record in your LMO.

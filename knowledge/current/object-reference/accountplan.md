@@ -5,12 +5,10 @@ topic: accountplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.563Z
+lastCollected: 2026-04-07T18:38:24.436Z
 estimatedTokens: 1570
-keywords: [AccountPlan, customer, measurable, objectives, executable, steps, proactively, manage, grow, relationships, API, version, 62.0, later, Calls]
+keywords: [AccountPlan, customer, measurable, objectives, executable, steps, proactively, manage, grow, relationships, API, 62.0]
 ---
-
-# AccountPlan
 
 > Represents customer information with measurable objectives and executable
          steps to proactively manage and grow customer relationships. This object is available

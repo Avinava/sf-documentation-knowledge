@@ -5,12 +5,10 @@ topic: connectapireinstatepolicyinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.244Z
+lastCollected: 2026-04-07T18:37:50.084Z
 estimatedTokens: 318
-keywords: [ConnectApi.ReinstatePolicyInputRep, Input, representation, Reinstate, Insurance, Policy, Invocable, Action]
+keywords: [ConnectApi.ReinstatePolicyInputRep, Reinstate, Insurance, Policy, Invocable, Action]
 ---
-
-# ConnectApi.ReinstatePolicyInputRep
 
 > Input representation for the Reinstate Insurance Policy Invocable Action.
 

@@ -5,12 +5,10 @@ topic: trackedcommunicationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.480Z
+lastCollected: 2026-04-07T18:40:04.213Z
 estimatedTokens: 363
-keywords: [TrackedCommunicationFeed, Feed, tracking, TrackedCommunication]
+keywords: [TrackedCommunicationFeed, TrackedCommunication]
 ---
-
-# TrackedCommunicationFeed
 
 > Feed tracking for TrackedCommunication.
 

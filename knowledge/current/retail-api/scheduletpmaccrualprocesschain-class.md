@@ -5,12 +5,10 @@ topic: scheduletpmaccrualprocesschain-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.846Z
+lastCollected: 2026-04-07T18:39:11.382Z
 estimatedTokens: 460
-keywords: [ScheduleTPMAccrualProcessChain, Apex, initiates, TPM, Accrual, Process, orchestrator, ensuring, export, configuration, successfully, updated, Date, referencedate, List<String>]
+keywords: [ScheduleTPMAccrualProcessChain, Apex, initiates, TPM, Accrual, Process, orchestrator, ensuring, export, configuration, successfully, updated, Date, referencedate, List<String>, salesorgs, ingestionmode, SchedulableContext, context]
 ---
-
-# ScheduleTPMAccrualProcessChain Class
 
 > This Apex class initiates TPM Accrual Process orchestrator after ensuring the accrual
   export configuration is successfully updated.

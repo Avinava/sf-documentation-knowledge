@@ -5,12 +5,10 @@ topic: best-practices-for-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:57.032Z
+lastCollected: 2026-04-07T18:38:49.012Z
 estimatedTokens: 407
 keywords: [Best, Practices, Resources]
 ---
-
-# Best Practices for Static Resources
 
 # Best Practices for Static Resources
 

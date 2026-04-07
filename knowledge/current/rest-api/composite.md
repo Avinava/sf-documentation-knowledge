@@ -5,12 +5,10 @@ topic: composite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.261Z
+lastCollected: 2026-04-07T18:36:20.475Z
 estimatedTokens: 209
 keywords: [Composite, Executes, series, REST, API, requests, POST, retrieves, resources]
 ---
-
-# Composite
 
 > Executes a series of REST API requests in a single
       POST

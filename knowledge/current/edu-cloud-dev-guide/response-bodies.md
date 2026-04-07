@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:42.675Z
+lastCollected: 2026-04-07T18:37:29.751Z
 estimatedTokens: 1696
 keywords: [Bodies, Education, Cloud, Business, API, Fundraising]
 ---
-
-# Response Bodies
 
 > Learn more about the available response bodies of Education Cloud Business
     API.

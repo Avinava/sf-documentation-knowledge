@@ -5,12 +5,10 @@ topic: extraction-context-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.315Z
+lastCollected: 2026-04-07T18:37:25.244Z
 estimatedTokens: 122
-keywords: [Extraction, Context, Definition, Output, representation]
+keywords: [Extraction, Context, Definition]
 ---
-
-# Extraction Context Definition
 
 > Output representation of extraction context definition details.
 

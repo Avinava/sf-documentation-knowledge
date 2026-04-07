@@ -5,12 +5,10 @@ topic: worktypecarespecialtyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.344Z
+lastCollected: 2026-04-07T18:40:07.271Z
 estimatedTokens: 301
-keywords: [WorkTypeCareSpecialtyFeed, Feed, tracking, WorkTypeCareSpecialty]
+keywords: [WorkTypeCareSpecialtyFeed, WorkTypeCareSpecialty]
 ---
-
-# WorkTypeCareSpecialtyFeed
 
 > Feed tracking for WorkTypeCareSpecialty.
 

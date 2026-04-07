@@ -5,12 +5,10 @@ topic: pendingordersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.765Z
+lastCollected: 2026-04-07T18:39:53.298Z
 estimatedTokens: 498
-keywords: [PendingOrderSummary, representing, B2C, Commerce, order, ingested, via, High, Scale, Orders, OrderSummary, created, Optimized, online, transaction]
+keywords: [PendingOrderSummary, representing, B2C, Commerce, order, ingested, via, High, Scale, Orders, OrderSummary, created, Optimized, online, transaction, processing, OLTP, API, 55.0]
 ---
-
-# PendingOrderSummary
 
 > Object representing a B2C Commerce order ingested via High Scale Orders
          before an OrderSummary is created for it. Optimized for online transaction processing

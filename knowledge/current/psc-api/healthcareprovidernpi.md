@@ -5,12 +5,10 @@ topic: healthcareprovidernpi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.990Z
+lastCollected: 2026-04-07T18:39:08.242Z
 estimatedTokens: 1356
-keywords: [HealthcareProviderNpi, identifiers, National, Provider, Identifier, assigned, every, facility, licensed, practitioner, United, States, includes, NPI, date]
+keywords: [HealthcareProviderNpi, identifiers, National, Provider, Identifier, assigned, every, facility, licensed, practitioner, United, States, includes, NPI, date, primary, mailing, address, file]
 ---
-
-# HealthcareProviderNpi
 
 > Represents identifiers from the National Provider Identifier that are
          assigned to every facility and licensed practitioner in the United States. Also includes

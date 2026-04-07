@@ -5,12 +5,10 @@ topic: b2bexpressupdateqtyprice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.907Z
+lastCollected: 2026-04-07T18:37:32.074Z
 estimatedTokens: 48
 keywords: [b2bExpress_UpdateQtyPrice, API, quantity, reprice, order, items, belong, specific, group, b2bExpress, _UpdateQtyPrice, URI, HTTP]
 ---
-
-# b2bExpress_UpdateQtyPrice API
 
 > Update quantity and reprice order items that belong to a specific group.
 

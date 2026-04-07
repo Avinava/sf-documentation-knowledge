@@ -5,12 +5,10 @@ topic: oncurrentcapacitychanged
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.303Z
+lastCollected: 2026-04-07T18:36:50.525Z
 estimatedTokens: 262
-keywords: [onCurrentCapacityChanged, Registers, function, call, agent's, capacity, accepting, chats, changes—for, agent, accepts, new, chat, ends, currently]
+keywords: [Arguments, onCurrentCapacityChanged, Registers, function, call, agent's, capacity, accepting, chats, changes—for, agent, accepts, new, chat, ends, currently, engaged, otherwise, changes, number, they, assigned, pushed, their, queue, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# onCurrentCapacityChanged()
 
 > Registers a function to call when an agent's capacity for accepting chats
         changes—for example, if an agent accepts a new chat, ends a currently engaged chat,

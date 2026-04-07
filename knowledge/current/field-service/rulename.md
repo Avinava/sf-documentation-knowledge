@@ -5,12 +5,10 @@ topic: rulename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.496Z
+lastCollected: 2026-04-07T18:36:46.334Z
 estimatedTokens: 75
 keywords: [ruleName, rule, blocking, slot, there]
 ---
-
-# ruleName
 
 > The name of the rule that is blocking the slot. When there is no
       rule name, use the rule type.

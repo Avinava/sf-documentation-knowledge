@@ -5,12 +5,10 @@ topic: commerce-address-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.988Z
+lastCollected: 2026-04-07T18:37:07.702Z
 estimatedTokens: 153
-keywords: [Commerce, Address, Input, custom]
+keywords: [Commerce, Address]
 ---
-
-# Commerce Address Field Input
 
 > Commerce address field input. This is used to reference custom fields for the
       address.

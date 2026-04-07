@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-order-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.964Z
+lastCollected: 2026-04-07T18:35:48.000Z
 estimatedTokens: 213
-keywords: [Transaction, Management, Order, Action, Standard, custom, extend, API, version, 55.0, later, Special, Access, Rules]
+keywords: [Transaction, Management, Order, Action, Standard, extend, API, 55.0]
 ---
-
-# Transaction Management Fields on Order Action
 
 > Standard and custom fields extend the standard Order Action object for use in
          Transaction Management. This object is available in API version 55.0 and

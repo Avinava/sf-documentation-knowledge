@@ -5,12 +5,10 @@ topic: file-id-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.603Z
+lastCollected: 2026-04-07T18:37:08.442Z
 estimatedTokens: 241
-keywords: [File, Input, Attach, already, uploaded, remove, feed, element]
+keywords: [File, Attach, already, uploaded, remove]
 ---
-
-# File ID Input
 
 > Attach a file that has already been uploaded or remove a file from a
       feed element.

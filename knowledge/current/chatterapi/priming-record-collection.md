@@ -5,12 +5,10 @@ topic: priming-record-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.784Z
+lastCollected: 2026-04-07T18:37:21.885Z
 estimatedTokens: 213
 keywords: [Priming, Record, Collection, records, offline]
 ---
-
-# Priming Record Collection
 
 > Collection of records for offline priming.
 

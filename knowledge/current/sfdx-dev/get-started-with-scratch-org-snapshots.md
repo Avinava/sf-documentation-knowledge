@@ -5,12 +5,10 @@ topic: get-started-with-scratch-org-snapshots
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.573Z
+lastCollected: 2026-04-07T18:40:08.525Z
 estimatedTokens: 449
 keywords: [Started, Scratch, Org, Snapshots, Install, Salesforce, tools, enable, Dev, Hub, usually, production]
 ---
-
-# Get Started with Scratch Org Snapshots
 
 > Install the required Salesforce DX tools, then enable Dev Hub and Scratch Org Snapshots
   in an org, usually your production org.

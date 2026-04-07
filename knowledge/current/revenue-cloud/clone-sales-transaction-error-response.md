@@ -5,12 +5,10 @@ topic: clone-sales-transaction-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.402Z
+lastCollected: 2026-04-07T18:35:45.370Z
 estimatedTokens: 113
-keywords: [Clone, Sales, Transaction, Error, Output, representation, errors, occur, operation]
+keywords: [Clone, Sales, Transaction, Error, errors, occur, operation]
 ---
-
-# Clone Sales Transaction Error Response
 
 > Output representation of the errors that occur during the clone sales transaction
     operation.

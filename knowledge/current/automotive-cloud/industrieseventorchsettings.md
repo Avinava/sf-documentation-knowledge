@@ -5,12 +5,10 @@ topic: industrieseventorchsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.631Z
+lastCollected: 2026-04-07T18:36:52.001Z
 estimatedTokens: 403
-keywords: [IndustriesEventOrchSettings, settings, enabling, Automotive, cloud, feature, Event, Orchestration, Decision, Parent, Manifest, Access, File, Suffix, Directory]
+keywords: [IndustriesEventOrchSettings, settings, enabling, Automotive, cloud, feature, Event, Orchestration, Decision, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# IndustriesEventOrchSettings
 
 > Represents the settings for enabling Automotive cloud
 			feature like Event Orchestration Decision Table.

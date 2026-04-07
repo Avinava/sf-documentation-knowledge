@@ -5,12 +5,10 @@ topic: loyaltyprogrammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.670Z
+lastCollected: 2026-04-07T18:39:10.062Z
 estimatedTokens: 1989
-keywords: [LoyaltyProgramMember, referral, program, advocate, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyProgramMember, referral, program, advocate, API, 59.0]
 ---
-
-# LoyaltyProgramMember
 
 > Represents the details of a referral program advocate. This
       object is available in API version 59.0 and later.

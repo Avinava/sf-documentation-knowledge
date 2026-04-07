@@ -5,12 +5,10 @@ topic: carbon-credit-allocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.400Z
+lastCollected: 2026-04-07T18:38:16.989Z
 estimatedTokens: 957
 keywords: [Carbon, Credit, Allocation, how, credits, allocated, organization, offset, their, emissions]
 ---
-
-# Carbon Credit Allocation
 
 > The Carbon Credit Allocation object represents information about how the carbon credits
     are allocated by an organization to offset their emissions.

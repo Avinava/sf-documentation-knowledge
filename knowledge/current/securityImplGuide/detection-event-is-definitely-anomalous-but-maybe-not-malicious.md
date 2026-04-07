@@ -5,12 +5,10 @@ topic: detection-event-is-definitely-anomalous-but-maybe-not-malicious
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.775Z
+lastCollected: 2026-04-07T18:39:22.666Z
 estimatedTokens: 742
-keywords: [Detection, Event, Definitely, Anomalous, Maybe, Malicious, Alice, sales, rep, Louis, She’s, often, road, meet, clients]
+keywords: [Detection, Event, Definitely, Anomalous, Maybe, Malicious, Alice, sales, rep, Louis, She’s, often, road, meet, clients, travels, generally, consistently, company’s, VPN, log, Salesforce]
 ---
-
-# Detection Event Is Definitely Anomalous but Maybe Not Malicious
 
 > Alice is a sales rep based in St. Louis. She’s often on the road to meet with clients.
     When she travels, she generally, but not consistently, use her company’s VPN to log into

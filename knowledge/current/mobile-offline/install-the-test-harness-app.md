@@ -5,12 +5,10 @@ topic: install-the-test-harness-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.571Z
+lastCollected: 2026-04-07T18:38:15.053Z
 estimatedTokens: 385
-keywords: [Install, Test, Harness, App, distributed, installable, package, via, Apple, Store, Google, Play, developer, tool, it’s]
+keywords: [Install, Test, Harness, App, distributed, installable, package, via, Apple, Store, Google, Play, developer, tool, it’s, intended, installed, working, development, environment, installation, process, prerequisites, compatibility, consequently, bit, involved, normal, mobile]
 ---
-
-# Install the Test Harness App
 
 > Test Harness is distributed as an installable app package, not via the Apple App Store
   or Google Play Store. As a developer tool, it’s intended to be installed into and used with a

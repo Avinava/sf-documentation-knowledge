@@ -5,12 +5,10 @@ topic: orderitemrecipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.696Z
+lastCollected: 2026-04-07T18:38:36.943Z
 estimatedTokens: 1490
-keywords: [OrderItemRecipient, site, employee, entity, services, ordered, includes, essential, recipient's, contact, specific, location, provided, API, version]
+keywords: [OrderItemRecipient, site, employee, entity, services, ordered, includes, essential, recipient's, contact, specific, location, provided, API, 62.0]
 ---
-
-# OrderItemRecipient
 
 > Represents a site, employee, or other entity for which services are being
          ordered. This includes essential details such as the recipient's name, contact information,

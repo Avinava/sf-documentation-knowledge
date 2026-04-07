@@ -5,12 +5,10 @@ topic: deliveryestimationsetuphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.114Z
+lastCollected: 2026-04-07T18:39:37.814Z
 estimatedTokens: 274
-keywords: [DeliveryEstimationSetupHistory, History, tracked, DeliveryEstimationSetup]
+keywords: [DeliveryEstimationSetupHistory, tracked, DeliveryEstimationSetup]
 ---
-
-# DeliveryEstimationSetupHistory
 
 > History for tracked fields of DeliveryEstimationSetup.
 

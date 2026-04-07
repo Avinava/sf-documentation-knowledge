@@ -5,12 +5,10 @@ topic: create-theme-layouts-in-an-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.117Z
+lastCollected: 2026-04-07T18:37:33.480Z
 estimatedTokens: 1000
-keywords: [Theme, Layouts, LWR, Site, layout, components, define, shared, regions, pages, component, determines, footer, often, includes]
+keywords: [Theme, Layouts, LWR, Site, layout, define, shared, regions, pages, determines, footer, often, includes, navigation, search, user, profile, menu, assign, way, every, sites, come, own]
 ---
-
-# Create Theme Layouts in an LWR Site
 
 > Theme layouts and theme layout components define the shared regions of LWR site
         pages. A theme layout component determines the header and footer for a site page and often

@@ -5,12 +5,10 @@ topic: cgcloudtriggersettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:21.890Z
+lastCollected: 2026-04-07T18:39:15.382Z
 estimatedTokens: 844
-keywords: [cgcloud__Trigger_Setting__c, Custom, Setting, helper, clients, disable, certain, triggers, part, managed, package, API, version, 54.0, later]
+keywords: [cgcloud__Trigger_Setting__c, Setting, helper, clients, disable, certain, triggers, part, managed, package, API, 54.0, cgcloud, _Trigger, _Setting]
 ---
-
-# cgcloud__Trigger_Setting__c
 
 > Custom Setting, helper object that enables clients to disable certain
          triggers that are part of the managed package. This object is available in API version

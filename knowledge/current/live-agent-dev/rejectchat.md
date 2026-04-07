@@ -5,12 +5,10 @@ topic: rejectchat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.742Z
+lastCollected: 2026-04-07T18:38:05.981Z
 estimatedTokens: 121
-keywords: [rejectChat, reject, retract, invitation, that’s, sent, customer, Usage]
+keywords: [rejectChat, reject, retract, invitation, that’s, sent, customer]
 ---
-
-# rejectChat
 
 > Use the rejectChat method to reject and retract an invitation that’s been sent
 to a customer.

@@ -5,12 +5,10 @@ topic: programrebatetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.928Z
+lastCollected: 2026-04-07T18:37:06.629Z
 estimatedTokens: 1815
-keywords: [ProgramRebateType, Provide, rebate, part, program, volume, revenue, every, transaction, API, version, 51.0, later, Calls, Usage]
+keywords: [ProgramRebateType, Provide, rebate, part, program, volume, revenue, every, transaction, API, 51.0]
 ---
-
-# ProgramRebateType
 
 > Provide the rebate types that are part of this program. For example, volume
       rebate, revenue rebate, or rebate on every transaction. This object is available in API

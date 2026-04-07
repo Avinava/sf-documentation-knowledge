@@ -5,12 +5,10 @@ topic: data-source-promotion-and-tactic-measures-with-bom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.326Z
+lastCollected: 2026-04-07T18:39:11.864Z
 estimatedTokens: 191
-keywords: [Data, Source, Promotion, Tactic, Measures, BOM, Components, export, Bill, Material, component, product, part, level, RTR]
+keywords: [Source, Promotion, Tactic, Measures, BOM, export, Bill, Material, product, part, level, RTR]
 ---
-
-# Data Source: Promotion and Tactic Measures with BOM Components
 
 > The PromotionAndTacticMeasuresWithBOMComponents
       data source allows export of information related to promotion and tactic measures at the Bill

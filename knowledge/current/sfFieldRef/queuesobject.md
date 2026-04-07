@@ -5,12 +5,10 @@ topic: queuesobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.192Z
+lastCollected: 2026-04-07T18:39:57.798Z
 estimatedTokens: 218
-keywords: [QueueSobject, mapping, queue, Group, associated, including, custom, objects]
+keywords: [QueueSobject, mapping, queue, Group, including]
 ---
-
-# QueueSobject
 
 > Represents the mapping between a queue Group and the  types associated
       with the queue, including custom objects.

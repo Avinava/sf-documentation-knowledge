@@ -5,12 +5,10 @@ topic: interest-tag-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.617Z
+lastCollected: 2026-04-07T18:36:37.149Z
 estimatedTokens: 147
-keywords: [Interest, Tag, Item, Input, representation, tags]
+keywords: [Interest, Tag, Item, tags]
 ---
-
-# Interest Tag Item Input
 
 > Input representation for the details of the interest tags.
 

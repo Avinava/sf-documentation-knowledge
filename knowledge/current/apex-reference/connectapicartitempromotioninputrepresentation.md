@@ -5,12 +5,10 @@ topic: connectapicartitempromotioninputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.494Z
+lastCollected: 2026-04-07T18:36:04.837Z
 estimatedTokens: 73
-keywords: [cart, item, associated, promotion]
+keywords: [cart, item, promotion]
 ---
-
-# ConnectApi.CartItemPromotionInputRepresentation
 
 > ID of a cart item associated with a promotion.
 

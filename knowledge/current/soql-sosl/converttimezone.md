@@ -5,12 +5,10 @@ topic: converttimezone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.009Z
+lastCollected: 2026-04-07T18:40:09.966Z
 estimatedTokens: 150
 keywords: [convertTimezone, SOQL, queries, client, application, dateTime, Coordinated, Universal, Time, UTC, date, function, convert, user’s, zone]
 ---
-
-# convertTimezone()
 
 > SOQL queries in a client application return dateTime field values as Coordinated
 		Universal Time (UTC) values. You can use convertTimezone() in a date function to convert dateTime fields to the user’s

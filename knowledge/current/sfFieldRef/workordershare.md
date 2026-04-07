@@ -5,12 +5,10 @@ topic: workordershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.971Z
+lastCollected: 2026-04-07T18:40:06.873Z
 estimatedTokens: 263
-keywords: [WorkOrderShare, sharing, entry, work, order, API, version, 36.0, later]
+keywords: [WorkOrderShare, sharing, entry, work, order, API, 36.0]
 ---
-
-# WorkOrderShare
 
 > Represents a sharing entry on a work order. This
 		object is available in API version 36.0 and later.

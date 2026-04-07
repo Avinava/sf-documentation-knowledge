@@ -5,12 +5,10 @@ topic: translate-soql-query-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.829Z
+lastCollected: 2026-04-07T18:39:20.590Z
 estimatedTokens: 424
 keywords: [Translate, SOQL, Query, Results, language, user, submits, toLabel, translation, search, organization]
 ---
-
-# Translate SOQL Query Results
 
 > To translate SOQL query results into the language of the user who
       submits the query, use the toLabel method. If no

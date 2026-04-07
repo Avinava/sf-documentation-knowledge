@@ -5,12 +5,10 @@ topic: recordtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.574Z
+lastCollected: 2026-04-07T18:36:29.054Z
 estimatedTokens: 1409
-keywords: [RecordType, metadata, associated, record, let, offer, different, business, processes, picklist, layouts, users, definitions, custom, Version]
+keywords: [RecordType, RecordTypePicklistValue, metadata, record, let, offer, different, business, processes, picklist, layouts, users, definitions, Java, Sample, Declarative, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# RecordType
 
 > Represents the metadata associated with a record type. 
         Record types let you offer different business processes, picklist values, and page layouts to different users. 

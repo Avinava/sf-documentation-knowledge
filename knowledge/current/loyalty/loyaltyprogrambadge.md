@@ -5,12 +5,10 @@ topic: loyaltyprogrambadge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.048Z
+lastCollected: 2026-04-07T18:38:10.316Z
 estimatedTokens: 926
-keywords: [LoyaltyProgramBadge, badge, that's, associated, loyalty, program, API, version, 56.0, later, Calls, Objects]
+keywords: [LoyaltyProgramBadge, badge, that's, loyalty, program, API, 56.0]
 ---
-
-# LoyaltyProgramBadge
 
 > Represents information about the badge that's associated with a
          loyalty program. This object is available in API version 56.0 and later.

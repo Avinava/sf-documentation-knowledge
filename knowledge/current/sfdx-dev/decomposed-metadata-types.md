@@ -5,12 +5,10 @@ topic: decomposed-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.028Z
+lastCollected: 2026-04-07T18:40:09.010Z
 estimatedTokens: 3845
-keywords: [Decomposed, Metadata, Decomposition, refers, splitting, often, large, XML, file, smaller, files, subtypes, result, referred, source]
+keywords: [Decomposed, Metadata, Decomposition, refers, splitting, often, large, XML, file, smaller, files, subtypes, result, referred, source, Salesforce, project, always, decomposes, translations, optionally, specify, permission, labels, Start, Decomposing, Beta, Structure, External, Service, Registrations, Sharing, Workflows]
 ---
-
-# Decomposed Metadata Types
 
 > Decomposition refers to splitting a single, often large, metadata XML file into smaller
         XML files based on its subtypes. The result is referred to as source format. By default, a

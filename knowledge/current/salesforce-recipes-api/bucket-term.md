@@ -5,12 +5,10 @@ topic: bucket-term
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.324Z
+lastCollected: 2026-04-07T18:39:19.004Z
 estimatedTokens: 126
 keywords: [Bucket, Term, recipe, node]
 ---
-
-# Bucket Term
 
 > A bucket term in a recipe node.
 

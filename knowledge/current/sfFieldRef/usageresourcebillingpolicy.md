@@ -5,12 +5,10 @@ topic: usageresourcebillingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:10.057Z
+lastCollected: 2026-04-07T18:40:04.864Z
 estimatedTokens: 329
-keywords: [UsageResourceBillingPolicy, how, usage, accumulated, rating, resource.This, API, version, 62.0, later]
+keywords: [UsageResourceBillingPolicy, how, accumulated, rating, resource.This, API, 62.0]
 ---
-
-# UsageResourceBillingPolicy
 
 > Represents information about how the usage is accumulated before
          rating a usage resource.This object is available in API version 62.0 and

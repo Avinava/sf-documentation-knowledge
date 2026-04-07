@@ -5,12 +5,10 @@ topic: video-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.436Z
+lastCollected: 2026-04-07T18:36:57.993Z
 estimatedTokens: 180
 keywords: [Video, Info, describing, particular]
 ---
-
-# Video Info
 
 > Information for describing a particular video.
 

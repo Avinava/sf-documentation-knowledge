@@ -5,12 +5,10 @@ topic: oncallend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.344Z
+lastCollected: 2026-04-07T18:36:50.581Z
 estimatedTokens: 188
-keywords: [onCallEnd, Registers, function, call, ends, computer-telephony, integration, CTI, it’s, API, version, 24.0, later, Arguments, Sample]
+keywords: [Arguments, onCallEnd, Registers, function, call, ends, computer-telephony, integration, CTI, it’s, API, 24.0, Sample, Code–Visualforce]
 ---
-
-# onCallEnd()
 
 > Registers a function that is called when a call ends. This method is for computer-telephony integration (CTI);
                 it’s only available in API version 24.0 or later.

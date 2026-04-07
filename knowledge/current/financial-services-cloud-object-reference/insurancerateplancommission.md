@@ -5,12 +5,10 @@ topic: insurancerateplancommission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.140Z
+lastCollected: 2026-04-07T18:37:37.955Z
 estimatedTokens: 1040
-keywords: [InsuranceRatePlanCommission, commission, insurance, rate, plan, API, version, later, Calls, Associated, Objects]
+keywords: [InsuranceRatePlanCommission, commission, insurance, rate, plan, API]
 ---
-
-# InsuranceRatePlanCommission
 
 > Represents the commission details for the insurance rate plan. This object is
       available in API version 62 and later.

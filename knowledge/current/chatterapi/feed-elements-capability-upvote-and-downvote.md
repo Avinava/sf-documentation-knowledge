@@ -5,12 +5,10 @@ topic: feed-elements-capability-upvote-and-downvote
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.838Z
+lastCollected: 2026-04-07T18:37:13.800Z
 estimatedTokens: 349
-keywords: [Feed, Elements, Capability, Upvote, Downvote, upvotes, downvotes, element]
+keywords: [Capability, Upvote, Downvote, upvotes, downvotes]
 ---
-
-# Feed Elements Capability, Upvote and Downvote
 
 > Get the upvotes and downvotes for a feed element. Upvote or downvote
       a feed element.

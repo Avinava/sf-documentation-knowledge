@@ -5,12 +5,10 @@ topic: billing-fields-on-refund
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.243Z
+lastCollected: 2026-04-07T18:35:42.103Z
 estimatedTokens: 719
-keywords: [Billing, Refund, Standard, extend, represent, corporate, currency, transaction, amounts, accounting, periods, legal, entities, API, version]
+keywords: [Billing, Refund, Standard, extend, represent, corporate, currency, transaction, amounts, accounting, periods, legal, entities, API, 64.0]
 ---
-
-# Billing Fields on Refund
 
 > Standard fields extend the Refund object for use in Billing to
          represent information about corporate currency, transaction amounts in corporate currency,

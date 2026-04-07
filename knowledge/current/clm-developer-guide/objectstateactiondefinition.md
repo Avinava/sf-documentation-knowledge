@@ -5,12 +5,10 @@ topic: objectstateactiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.820Z
+lastCollected: 2026-04-07T18:37:25.717Z
 estimatedTokens: 665
-keywords: [ObjectStateActionDefinition, link, state, definition, transition, defined, action, Calls, Associated, Objects]
+keywords: [ObjectStateActionDefinition, link, state, definition, transition, defined, action]
 ---
-
-# ObjectStateActionDefinition
 
 > Represents the link between the object state definition and object state transition
       based on a defined action.

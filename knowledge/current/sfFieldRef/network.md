@@ -5,12 +5,10 @@ topic: network
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.069Z
+lastCollected: 2026-04-07T18:39:49.550Z
 estimatedTokens: 1781
-keywords: [Network, Experience, Cloud, site, Salesforce, lets, branded, spaces, employees, customers, partners, customize, experiences, whether, they’re]
+keywords: [Network, Experience, Cloud, site, Salesforce, lets, branded, spaces, employees, customers, partners, customize, experiences, whether, they’re, communities, sites, portals, meet, business, needs, transition, seamlessly, let, share, records, files, coworkers, stakeholders, place, API, 26.0]
 ---
-
-# Network
 
 > Represents an Experience Cloud site. Salesforce Experience Cloud lets you create branded spaces for your employees, customers, and partners. You can customize and create
 			experiences, whether they’re communities, sites, or portals, to meet your business needs, then transition seamlessly between them. Experience Cloud sites let you share information,

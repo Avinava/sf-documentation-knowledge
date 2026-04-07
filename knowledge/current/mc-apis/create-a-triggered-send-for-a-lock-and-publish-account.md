@@ -5,12 +5,10 @@ topic: create-a-triggered-send-for-a-lock-and-publish-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.107Z
+lastCollected: 2026-04-07T18:40:16.242Z
 estimatedTokens: 704
 keywords: [Triggered, Send, Lock, Publish, Account, conceptual, procedural, creating, via, SOAP, API, Why, How, Sample, Envelope]
 ---
-
-# Create a Triggered Send for a Lock and Publish Account
 
 > This page contains conceptual and procedural information about creating a triggered send for a Lock and Publish account via the SOAP API.
 

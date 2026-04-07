@@ -5,12 +5,10 @@ topic: step-three-create-the-field-mapping-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.097Z
+lastCollected: 2026-04-07T18:37:28.134Z
 estimatedTokens: 370
-keywords: [Step, Three, Mapping, File, sdl, extension, line, pair, data, source, destination]
+keywords: [Step, Three, Mapping, File, sdl, extension, line, pair, source, destination]
 ---
-
-# Step Three: Create the Field Mapping File
 
 > In this step, you create a mapping file with an .sdl 
     file extension. In each line of the mapping file, pair a data source with its destination.

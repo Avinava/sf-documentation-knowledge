@@ -5,12 +5,10 @@ topic: callback-functions-callback-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.858Z
+lastCollected: 2026-04-07T18:38:52.169Z
 estimatedTokens: 744
-keywords: [Callback, Functions, Remote, Objects, requests, Salesforce, service, asynchronously, code, handles, responses, operations, function, provide, handle]
+keywords: [Callback, Functions, Remote, requests, Salesforce, service, asynchronously, code, handles, responses, operations, function, provide, handle, updating, results, operation, errors]
 ---
-
-# Callback Functions Callback Functions
 
 > Remote Objects sends all requests to the Salesforce service asynchronously. Your code
         handles responses to Remote Objects operations in a callback function that you provide.

@@ -5,12 +5,10 @@ topic: marketing-cloud-engagement-api-integration-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.092Z
+lastCollected: 2026-04-07T18:39:21.975Z
 estimatedTokens: 1949
-keywords: [Marketing, Cloud, Engagement, API, Integration, Security, part, treat, any, integrate, Salesforce, apps, few, additional, things]
+keywords: [Marketing, Cloud, Engagement, API, Integration, Security, part, treat, any, integrate, Salesforce, apps, few, additional, things, keep, mind, design, develop]
 ---
-
-# Marketing Cloud Engagement API Integration Security
 
 > For the most part we treat the Marketing Cloud Engagement API as any other API that you
             can integrate your Salesforce apps with. Here are a few additional things to keep in

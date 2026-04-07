@@ -5,12 +5,10 @@ topic: advacctforecastfactadjshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.113Z
+lastCollected: 2026-04-07T18:39:25.018Z
 estimatedTokens: 254
 keywords: [AdvAcctForecastFactAdjShare, Sharing, AdvAcctForecastFactAdj]
 ---
-
-# AdvAcctForecastFactAdjShare
 
 > Sharing for AdvAcctForecastFactAdj.
 

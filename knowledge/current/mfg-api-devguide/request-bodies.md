@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.468Z
+lastCollected: 2026-04-07T18:38:12.767Z
 estimatedTokens: 490
 keywords: [Bodies, Here’s, Manufacturing, Cloud, Business, API]
 ---
-
-# Request Bodies
 
 > Here’s a list of Manufacturing Cloud Business API request bodies.
 

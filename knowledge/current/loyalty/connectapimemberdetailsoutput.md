@@ -5,12 +5,10 @@ topic: connectapimemberdetailsoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.827Z
+lastCollected: 2026-04-07T18:38:07.046Z
 estimatedTokens: 743
-keywords: [ConnectApi.MemberDetailsOutput, Output, representation, loyalty, program, member]
+keywords: [ConnectApi.MemberDetailsOutput, loyalty, program, member]
 ---
-
-# ConnectApi.MemberDetailsOutput
 
 > Output representation of the details of a loyalty program
     member.

@@ -5,12 +5,10 @@ topic: data-connector-source-object-fields-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.569Z
+lastCollected: 2026-04-07T18:36:56.074Z
 estimatedTokens: 154
-keywords: [Data, Connector, Source, Resource, particular, URL, Formats, Version, Components, HTTP]
+keywords: [Formats, Connector, Source, Resource, particular, URL, HTTP]
 ---
-
-# Data Connector Source Object Fields Resource
 
 > Returns a list of source fields for a particular source
     object.

@@ -5,12 +5,10 @@ topic: blngbillingprefixc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.967Z
+lastCollected: 2026-04-07T18:37:03.503Z
 estimatedTokens: 340
-keywords: [blng__BillingPrefix__c, prefix, appended, billing-related, records, storage, purposes, blng, _BillingPrefix, Calls]
+keywords: [blng__BillingPrefix__c, prefix, appended, billing-related, records, storage, purposes, blng, _BillingPrefix]
 ---
-
-# blng__BillingPrefix__c
 
 > Represents a prefix that can be appended to billing-related records for
          storage purposes.

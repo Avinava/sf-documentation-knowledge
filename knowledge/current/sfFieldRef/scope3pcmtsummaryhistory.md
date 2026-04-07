@@ -5,12 +5,10 @@ topic: scope3pcmtsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.219Z
+lastCollected: 2026-04-07T18:40:00.972Z
 estimatedTokens: 270
-keywords: [Scope3PcmtSummaryHistory, History, tracked, Scope3PcmtSummary]
+keywords: [Scope3PcmtSummaryHistory, tracked, Scope3PcmtSummary]
 ---
-
-# Scope3PcmtSummaryHistory
 
 > History for tracked fields of Scope3PcmtSummary.
 

@@ -5,12 +5,10 @@ topic: vote
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.491Z
+lastCollected: 2026-04-07T18:38:44.309Z
 estimatedTokens: 913
-keywords: [Vote, user, made, Knowledge, Article, Idea, Reply, Calls, Special, Access, Rules, Usage]
+keywords: [Vote, user, made, Knowledge, Article, Idea, Reply]
 ---
-
-# Vote
 
 > Represents a vote that a user has made on a Knowledge
     Article, Idea, or Reply.

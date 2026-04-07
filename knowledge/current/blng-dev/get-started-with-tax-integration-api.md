@@ -5,12 +5,10 @@ topic: get-started-with-tax-integration-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.595Z
+lastCollected: 2026-04-07T18:37:03.161Z
 estimatedTokens: 173
 keywords: [Started, Tax, Integration, API, Configuring, settings, Salesforce, Billing, package, org, communicate, external, engine]
 ---
-
-# Get Started With Tax Integration API
 
 > Configuring settings in the Salesforce Billing package so that your org can communicate
   with an external tax engine.

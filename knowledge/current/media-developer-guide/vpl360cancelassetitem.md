@@ -5,12 +5,10 @@ topic: vpl360cancelassetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.151Z
+lastCollected: 2026-04-07T18:38:11.447Z
 estimatedTokens: 167
-keywords: [VPL360_CancelAssetItem, Integration, Procedure, cancels, asset, item, Future, Dated, Order, FDO, VPL360, _CancelAssetItem, Sample, Input, Output]
+keywords: [VPL360_CancelAssetItem, Integration, Procedure, cancels, asset, item, Future, Dated, Order, FDO, VPL360, _CancelAssetItem, Sample]
 ---
-
-# VPL360_CancelAssetItem
 
 > This Integration Procedure cancels an asset item in a
         Future Dated Order (FDO).

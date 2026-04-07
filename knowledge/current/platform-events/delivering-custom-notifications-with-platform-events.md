@@ -5,12 +5,10 @@ topic: delivering-custom-notifications-with-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.287Z
+lastCollected: 2026-04-07T18:38:58.101Z
 estimatedTokens: 350
-keywords: [Delivering, Custom, Notifications, Platform, Events, part, Salesforce’s, enterprise, messaging, event-driven, architecture, enable, apps, communicate, inside]
+keywords: [Delivering, Notifications, Platform, Events, part, Salesforce’s, enterprise, messaging, event-driven, architecture, enable, apps, communicate, inside, outside, Salesforce, diving, take, look, event-based, software, system]
 ---
-
-# Delivering Custom Notifications with Platform Events
 
 > Platform events are part of Salesforce’s enterprise messaging platform.
     The platform provides an event-driven messaging architecture to enable apps to communicate

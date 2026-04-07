@@ -5,12 +5,10 @@ topic: configurator-add-nodes-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.131Z
+lastCollected: 2026-04-07T18:35:44.093Z
 estimatedTokens: 276
 keywords: [Configurator, Add, Nodes, POST, node, context, runtime, system, Salesforce, user]
 ---
-
-# Configurator Add Nodes (POST)
 
 > Add a node to the context through the runtime system without using
       the Salesforce user interface.

@@ -5,12 +5,10 @@ topic: vpls360csr-getcustomerdetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.457Z
+lastCollected: 2026-04-07T18:38:11.761Z
 estimatedTokens: 109
-keywords: [vpls360csr-GetCustomerDetails, Omnistudio, Data, Mapper, agent, console, extract, account, context, customer, interaction, Sample, Input, Output]
+keywords: [vpls360csr-GetCustomerDetails, Omnistudio, Mapper, agent, console, extract, account, context, customer, interaction, Sample]
 ---
-
-# vpls360csr-GetCustomerDetails
 
 > This Omnistudio Data Mapper is used in the agent console to
     extract account details based on the context ID of a customer interaction.

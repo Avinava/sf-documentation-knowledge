@@ -5,12 +5,10 @@ topic: app-analytics-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.614Z
+lastCollected: 2026-04-07T18:38:55.024Z
 estimatedTokens: 1853
-keywords: [App, Analytics, Cases, achieve, business, objectives, across, teams, understand, common, how, map, data, sample, product]
+keywords: [App, Analytics, Cases, achieve, business, objectives, across, teams, understand, common, how, map, sample, product, features, Mapping]
 ---
-
-# App Analytics Use Cases
 
 > To achieve your business objectives, use App Analytics across your teams. Read this
   guide to understand common use cases and how to map App Analytics data to sample product

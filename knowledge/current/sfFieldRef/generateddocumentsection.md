@@ -5,12 +5,10 @@ topic: generateddocumentsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.695Z
+lastCollected: 2026-04-07T18:39:42.330Z
 estimatedTokens: 475
-keywords: [GeneratedDocumentSection, generated, document, API, version, 60.0, later]
+keywords: [GeneratedDocumentSection, generated, document, API, 60.0]
 ---
-
-# GeneratedDocumentSection
 
 > Represents a section of a generated document.  This object is available
       in API version 60.0 and later.

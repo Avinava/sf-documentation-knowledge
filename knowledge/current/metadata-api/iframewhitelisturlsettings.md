@@ -5,12 +5,10 @@ topic: iframewhitelisturlsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.270Z
+lastCollected: 2026-04-07T18:36:26.710Z
 estimatedTokens: 772
-keywords: [IframeWhiteListUrlSettings, settings, trusted, external, domains, allow, frame, Visualforce, pages, surveys, extends, Metadata, inherits, fullName, File]
+keywords: [IframeWhiteListUrlSettings, IframeWhiteListUrl, settings, trusted, external, domains, allow, frame, Visualforce, pages, surveys, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# IframeWhiteListUrlSettings
 
 > Represents settings related to the list of
     trusted external domains that you allow to frame your Visualforce pages or surveys. This type 

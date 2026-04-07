@@ -5,12 +5,10 @@ topic: create-feature-parameters-for-your-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.826Z
+lastCollected: 2026-04-07T18:38:56.426Z
 estimatedTokens: 691
 keywords: [Feature, Second-Generation, Managed, Package, 2GP, individual, XML, file, naming, convention, folder, structure, attributes, creating]
 ---
-
-# Create Feature Parameters for Your Second-Generation Managed Package
 
 > To create a feature parameter for a 2GP managed package, create an individual XML file.
     Here are details on the file naming convention, folder structure, and the attributes you use

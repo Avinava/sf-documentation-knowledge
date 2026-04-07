@@ -5,12 +5,10 @@ topic: clinicaldetectedissuehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.697Z
+lastCollected: 2026-04-07T18:39:34.132Z
 estimatedTokens: 271
-keywords: [ClinicalDetectedIssueHistory, History, tracked, ClinicalDetectedIssue]
+keywords: [ClinicalDetectedIssueHistory, tracked, ClinicalDetectedIssue]
 ---
-
-# ClinicalDetectedIssueHistory
 
 > History for tracked fields of ClinicalDetectedIssue.
 

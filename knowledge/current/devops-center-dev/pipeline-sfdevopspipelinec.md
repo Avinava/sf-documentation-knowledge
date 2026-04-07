@@ -5,12 +5,10 @@ topic: pipeline-sfdevopspipelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.601Z
+lastCollected: 2026-04-07T18:37:28.661Z
 estimatedTokens: 471
-keywords: [Pipeline, sf_devops__Pipeline__c, collection, Stage, records, together, DevOps, Center, release, project, orgs, installed, _devops, _Pipeline, Calls]
+keywords: [Pipeline, sf_devops__Pipeline__c, collection, Stage, records, together, DevOps, Center, release, project, orgs, installed, _devops, _Pipeline]
 ---
-
-# Pipeline (sf_devops__Pipeline__c)
 
 > Represents a collection of Pipeline Stage records that together make
          up the DevOps Center release pipeline in a project. This object is available in all

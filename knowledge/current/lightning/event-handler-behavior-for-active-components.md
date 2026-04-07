@@ -5,12 +5,10 @@ topic: event-handler-behavior-for-active-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.882Z
+lastCollected: 2026-04-07T18:38:03.976Z
 estimatedTokens: 476
-keywords: [Event, Handler, Behavior, Active, Components, prevent, handlers, cached, pages, causing, problems, add, workaround, code, check]
+keywords: [Event, Handler, Behavior, Active, prevent, handlers, cached, pages, causing, problems, add, workaround, code, check, visible, avoid, scenario, Lightning, message, service, instead, communicate, across, DOM, scope, channels, publishes]
 ---
-
-# Event Handler Behavior for Active Components
 
 > To prevent active event handlers on cached pages from causing problems, add a
     workaround to your code to check if the component is still visible. To avoid this scenario and

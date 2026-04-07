@@ -5,12 +5,10 @@ topic: list-view-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.946Z
+lastCollected: 2026-04-07T18:37:20.107Z
 estimatedTokens: 306
 keywords: [View, Record]
 ---
-
-# List View Record
 
 > The list view of a record.
 

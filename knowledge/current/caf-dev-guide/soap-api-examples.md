@@ -5,12 +5,10 @@ topic: soap-api-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.062Z
+lastCollected: 2026-04-07T18:37:04.763Z
 estimatedTokens: 415
-keywords: [SOAP, API, Examples, record, Custom, Address, data, New, Account]
+keywords: [SOAP, API, Examples, record, Address, New, Account]
 ---
-
-# SOAP API Examples
 
 > Use SOAP API to create, update, or delete a record with Custom Address Fields
         data.

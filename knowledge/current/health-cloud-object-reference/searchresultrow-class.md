@@ -5,12 +5,10 @@ topic: searchresultrow-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.961Z
+lastCollected: 2026-04-07T18:37:39.919Z
 estimatedTokens: 1031
 keywords: [SearchResultRow, search, result, row, column, specific, part, searchResultFieldValues]
 ---
-
-# SearchResultRow Class
 
 > Contains information about the search result row field list. This list
       represents the column values for a specific row that are part of the search

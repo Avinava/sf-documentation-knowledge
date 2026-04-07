@@ -5,12 +5,10 @@ topic: provide-free-trials-of-your-appexchange-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.807Z
+lastCollected: 2026-04-07T18:38:47.755Z
 estimatedTokens: 583
 keywords: [Provide, Free, Trials, AppExchange, Solution, Increase, customer, conversion, offering, Explore, trial, options, determine, best]
 ---
-
-# Provide Free Trials of Your AppExchange Solution
 
 > Increase customer conversion by offering free trials of your AppExchange solution.
   Explore trial options, and determine the best type for your solution.

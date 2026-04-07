@@ -5,12 +5,10 @@ topic: introducing-sql-for-crm-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.192Z
+lastCollected: 2026-04-07T18:37:01.807Z
 estimatedTokens: 348
-keywords: [Introducing, SQL, CRM, Analytics, query, language, lets, execute, queries, against, datasets, Structured, typically, working, data]
+keywords: [Introducing, SQL, CRM, Analytics, query, language, lets, execute, queries, against, datasets, Structured, typically, working, stored, relational, databases—you, already, familiar, variants, MySQL, PostGreSQL, uses, ANSI, Analytics’s, fast, in-memory, store, native, support, Salesforce, features, including, sharing, inheritance, fiscal, calendars]
 ---
-
-# Introducing SQL for CRM Analytics
 
 > SQL for CRM Analytics is a query language that lets you execute queries against your CRM
   Analytics datasets. SQL (Structured Query Language) is typically used for working with data stored

@@ -5,12 +5,10 @@ topic: get-values-for-all-picklist-fields-of-a-record-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.229Z
+lastCollected: 2026-04-07T18:40:11.223Z
 estimatedTokens: 546
 keywords: [Picklist, Record, resource, specific, especially, useful, getting, dependent, tree, picklists, Continents__c, Countries__c, Cities__c]
 ---
-
-# Get Values for All Picklist Fields of a Record Type
 
 > Use this resource to get the values for all the picklist fields of a
       specific record type. This resource is especially useful for getting dependent picklist

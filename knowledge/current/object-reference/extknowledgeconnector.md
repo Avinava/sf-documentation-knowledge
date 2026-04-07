@@ -5,12 +5,10 @@ topic: extknowledgeconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.132Z
+lastCollected: 2026-04-07T18:38:32.092Z
 estimatedTokens: 906
-keywords: [ExtKnowledgeConnector, connector, third-party, knowledge, source, Unified, API, version, 60.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ExtKnowledgeConnector, connector, third-party, knowledge, source, Unified, API, 60.0]
 ---
-
-# ExtKnowledgeConnector
 
 > Represents a connector to a third-party knowledge source for Unified
          Knowledge. This object is available in API version 60.0 and later.

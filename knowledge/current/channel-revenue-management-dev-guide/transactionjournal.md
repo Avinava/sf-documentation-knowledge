@@ -5,12 +5,10 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.159Z
+lastCollected: 2026-04-07T18:37:06.862Z
 estimatedTokens: 637
-keywords: [TransactionJournal, transactions, processed, rebate, program, order, line, units, $1200, member, ABC, enterprises, API, version, 51.0]
+keywords: [TransactionJournal, transactions, processed, rebate, program, order, line, units, $1200, member, ABC, enterprises, API, 51.0]
 ---
-
-# TransactionJournal
 
 > The transactions that need to be processed for a rebate program. For example,
       order line for 1000 units of $1200 for member ABC enterprises. This object is available

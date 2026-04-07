@@ -5,12 +5,10 @@ topic: weblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.525Z
+lastCollected: 2026-04-07T18:36:30.913Z
 estimatedTokens: 1928
-keywords: [WebLink, custom, button, link, defined, Version, Java, Sample, Declarative, Metadata, Definition, Wildcard, Support, Manifest, File]
+keywords: [WebLink, button, link, defined, Java, Sample, Declarative, Metadata, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# WebLink
 
 > Represents a custom button or link defined in a custom
             object.

@@ -5,12 +5,10 @@ topic: survey-recipient-engagement-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.333Z
+lastCollected: 2026-04-07T18:39:16.954Z
 estimatedTokens: 147
-keywords: [Survey, Recipient, Engagement, Context, Input, invitation, sent, participant]
+keywords: [Survey, Recipient, Engagement, Context, invitation, sent, participant]
 ---
-
-# Survey Recipient Engagement Context Input
 
 > Context based on which the survey invitation is sent to a
       participant.

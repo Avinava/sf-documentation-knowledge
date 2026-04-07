@@ -5,12 +5,10 @@ topic: add-eligible-product-clauses-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.150Z
+lastCollected: 2026-04-07T18:37:52.292Z
 estimatedTokens: 159
-keywords: [Add, Eligible, Product, Clauses, Output, representation, adding]
+keywords: [Add, Eligible, Product, Clauses, adding]
 ---
-
-# Add Eligible Product Clauses Details
 
 > Output representation for adding eligible product clauses.
 

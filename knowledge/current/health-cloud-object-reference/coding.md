@@ -5,12 +5,10 @@ topic: coding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.896Z
+lastCollected: 2026-04-07T18:37:44.072Z
 estimatedTokens: 331
-keywords: [Coding, FHIR, resource, maps, CodeSet, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Coding, FHIR, resource, maps, CodeSet, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Coding
 
 > The Coding FHIR resource maps to the CodeSet object in Salesforce.
 

@@ -5,12 +5,10 @@ topic: content-taxonomy-term-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.893Z
+lastCollected: 2026-04-07T18:37:17.967Z
 estimatedTokens: 213
 keywords: [Content, Taxonomy, Term, Collection, terms]
 ---
-
-# Content Taxonomy Term Collection
 
 > Collection of content taxonomy terms.
 

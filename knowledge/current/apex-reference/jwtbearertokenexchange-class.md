@@ -5,13 +5,11 @@ topic: jwtbearertokenexchange-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.306Z
+lastCollected: 2026-04-07T18:35:59.583Z
 estimatedTokens: 2340
 namespace: Auth
-keywords: [JWTBearerTokenExchange, POST, signed, JWT, bearer, token, endpoint, access, OAuth, 2.0, flow, Usage, tokenEndpoint, jws, clone]
+keywords: [JWTBearerTokenExchange, POST, signed, JWT, bearer, token, endpoint, OAuth, 2.0, flow, tokenEndpoint, jws, clone, getAccessToken, getGrantType, getHttpResponse, getJWS, getTokenEndpoint, setGrantType, grantType, setJWS, setTokenEndpoint]
 ---
-
-# JWTBearerTokenExchange Class
 
 > Contains methods that POST the signed JWT bearer token to a token
       endpoint to request an access token, in the OAuth 2.0 JWT bearer token flow.

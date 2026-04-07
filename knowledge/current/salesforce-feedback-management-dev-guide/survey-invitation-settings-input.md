@@ -5,12 +5,10 @@ topic: survey-invitation-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.318Z
+lastCollected: 2026-04-07T18:39:16.937Z
 estimatedTokens: 320
-keywords: [Survey, Invitation, Settings, Input, representation, define, participants, respond, expiration, configurations]
+keywords: [Survey, Invitation, Settings, define, participants, respond, expiration, configurations]
 ---
-
-# Survey Invitation Settings Input
 
 > Input representation of the settings of the survey invitation that
       define the participants who can respond to the survey, its expiration, and other related

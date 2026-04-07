@@ -5,12 +5,10 @@ topic: sobject-tree
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.313Z
+lastCollected: 2026-04-07T18:36:20.525Z
 estimatedTokens: 959
 keywords: [sObject, Tree, Creates, trees, root, records, collection, nested, parent-child, record]
 ---
-
-# sObject Tree
 
 > Creates one or more sObject trees with root records of the
       specified type. An sObject tree is a collection of nested, parent-child records with a single

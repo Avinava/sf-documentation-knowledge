@@ -5,12 +5,10 @@ topic: contract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.909Z
+lastCollected: 2026-04-07T18:38:28.815Z
 estimatedTokens: 3905
-keywords: [Contract, business, agreement, associated, Account, Calls, Usage, Objects]
+keywords: [Contract, business, agreement, Account]
 ---
-
-# Contract
 
 > Represents a contract (a business agreement) associated with an
 			Account.

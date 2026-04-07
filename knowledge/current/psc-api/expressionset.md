@@ -5,12 +5,10 @@ topic: expressionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.468Z
+lastCollected: 2026-04-07T18:39:06.571Z
 estimatedTokens: 679
-keywords: [ExpressionSet, expression, performs, series, calculations, lookups, user-defined, variables, constants, API, version, 55.0, later, Calls]
+keywords: [ExpressionSet, expression, performs, series, calculations, lookups, user-defined, variables, constants, API, 55.0]
 ---
-
-# ExpressionSet
 
 > Represents information about an expression set. An expression set
          performs a series of calculations using lookups and user-defined variables and

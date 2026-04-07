@@ -5,12 +5,10 @@ topic: application-form-product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.870Z
+lastCollected: 2026-04-07T18:36:36.396Z
 estimatedTokens: 655
-keywords: [Application, Form, Product, Input, representation]
+keywords: [Application, Form, Product]
 ---
-
-# Application Form Product Input
 
 > Input representation of the  application form product.
 

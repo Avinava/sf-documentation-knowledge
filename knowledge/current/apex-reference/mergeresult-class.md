@@ -5,13 +5,11 @@ topic: mergeresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.268Z
+lastCollected: 2026-04-07T18:36:02.481Z
 estimatedTokens: 984
 namespace: Database
-keywords: [MergeResult, result, merge, Database, operation, Usage, getErrors, getId, getMergedRecordIds, getUpdatedRelatedIds, isSuccess]
+keywords: [MergeResult, result, merge, Database, operation, getErrors, getId, getMergedRecordIds, getUpdatedRelatedIds, isSuccess]
 ---
-
-# MergeResult Class
 
 > Contains the result of a merge Database
 method operation.

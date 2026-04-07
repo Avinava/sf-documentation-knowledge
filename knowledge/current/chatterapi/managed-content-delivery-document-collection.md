@@ -5,12 +5,10 @@ topic: managed-content-delivery-document-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.156Z
+lastCollected: 2026-04-07T18:37:20.342Z
 estimatedTokens: 313
 keywords: [Managed, Content, Delivery, Document, Collection]
 ---
-
-# Managed Content Delivery Document Collection
 
 > Managed content delivery document collection.
 

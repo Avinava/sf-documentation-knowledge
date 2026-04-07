@@ -5,13 +5,11 @@ topic: setupaudittrail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:07.077Z
+lastCollected: 2026-04-07T18:40:01.852Z
 estimatedTokens: 319
 namespace: ResponsibleNamespacePrefix
 keywords: [SetupAuditTrail, changes, admins, made, org’s, Setup, area, least, days]
 ---
-
-# SetupAuditTrail
 
 > Represents changes you or other admins made in
             your org’s Setup area for at least the last 180 days.

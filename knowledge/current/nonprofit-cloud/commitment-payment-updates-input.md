@@ -6,13 +6,10 @@ topic: commitment-payment-updates-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.699Z
+lastCollected: 2026-04-07T18:38:20.422Z
 estimatedTokens: 102
-keywords: [Commitment, Payment, Updates, Input, representation, fundraising, commitments]
+keywords: [Commitment, Payment, Updates, fundraising, commitments]
 ---
-
-# Commitment Payment Updates
-    Input
 
 > Input representation of the details of the payment update to the fundraising
     commitments.

@@ -5,13 +5,11 @@ topic: standardsetcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.519Z
+lastCollected: 2026-04-07T18:38:48.469Z
 estimatedTokens: 572
 namespace: ApexPages
-keywords: [StandardSetController, objects, allow, controllers, similar, extensions, pre-built, Visualforce, provided, Salesforce, Usage, Instantiation]
+keywords: [Instantiation, StandardSetController, allow, controllers, similar, extensions, pre-built, Visualforce, provided, Salesforce]
 ---
-
-# StandardSetController Class
 
 > StandardSetController objects allow you to
   create list controllers similar to, or as extensions of, the pre-built Visualforce list

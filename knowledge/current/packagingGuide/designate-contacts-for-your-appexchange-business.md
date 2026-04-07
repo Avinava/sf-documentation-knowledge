@@ -5,12 +5,10 @@ topic: designate-contacts-for-your-appexchange-business
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.151Z
+lastCollected: 2026-04-07T18:38:46.004Z
 estimatedTokens: 514
-keywords: [Designate, Contacts, AppExchange, Business, Share, email, addresses, people, teams, manage, marketing, technical, aspects, provide, visible]
+keywords: [Designate, Contacts, AppExchange, Business, Share, email, addresses, people, teams, manage, marketing, technical, aspects, provide, visible, Salesforce, They, don't, appear, listings]
 ---
-
-# Designate Contacts for Your AppExchange Business
 
 > Share email addresses for the people and teams that manage the business, marketing, and
     technical aspects of your AppExchange business. The email addresses that you provide are visible

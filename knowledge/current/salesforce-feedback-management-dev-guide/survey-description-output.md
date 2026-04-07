@@ -5,12 +5,10 @@ topic: survey-description-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.413Z
+lastCollected: 2026-04-07T18:39:17.045Z
 estimatedTokens: 356
-keywords: [Survey, Output, representation, Start]
+keywords: [Survey, Start]
 ---
-
-# Survey Description Output
 
 > Output representation of the response to the Start Survey
       request.

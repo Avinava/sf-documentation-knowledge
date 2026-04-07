@@ -5,12 +5,10 @@ topic: remote-monitoring-and-device-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.287Z
+lastCollected: 2026-04-07T18:37:43.453Z
 estimatedTokens: 383
-keywords: [Remote, Monitoring, Device, Registration, data, model, objects, managing, collected, devices, issued, patients, program, members, smart]
+keywords: [Remote, Monitoring, Device, Registration, model, managing, collected, devices, issued, patients, program, members, smart, watches, heart, monitors]
 ---
-
-# Remote Monitoring and Device Registration
 
 > The remote monitoring and device registration data model provides objects for managing
   data collected from devices issued to patients or program members, such as smart watches and heart

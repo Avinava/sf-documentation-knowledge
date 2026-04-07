@@ -5,12 +5,10 @@ topic: rowsadd
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.583Z
+lastCollected: 2026-04-07T18:40:23.010Z
 estimatedTokens: 234
-keywords: [Rows.Add, Function, Ordinal, include, row, array, rows, **Overview**, **Syntax**, Examples]
+keywords: [Examples, Rows.Add, Function, Ordinal, include, row, array, rows, **Overview**, **Syntax**]
 ---
-
-# Rows.Add
 
 > Rows.Add(1)
 

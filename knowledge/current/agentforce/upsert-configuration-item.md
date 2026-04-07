@@ -5,12 +5,10 @@ topic: upsert-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.932Z
+lastCollected: 2026-04-07T18:35:55.033Z
 estimatedTokens: 797
 keywords: [Upsert, Configuration, Item, Submit, bulk, operation, items, CIs, asynchronous, job, getStatus, query, check, progress, UpsertCI]
 ---
-
-# Upsert Configuration Item
 
 > Submit a bulk operation to create or update one or more
       configuration items (CIs). This is an asynchronous operation that returns a job ID, which you

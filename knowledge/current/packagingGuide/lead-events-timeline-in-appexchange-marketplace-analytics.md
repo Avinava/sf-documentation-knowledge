@@ -5,12 +5,10 @@ topic: lead-events-timeline-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:55.163Z
+lastCollected: 2026-04-07T18:38:47.127Z
 estimatedTokens: 439
-keywords: [Lead, Events, Timeline, AppExchange, Marketplace, Analytics, how, listing, change, over, time, track, performance, test, drive]
+keywords: [Definitions, Considerations, Lead, Events, Timeline, AppExchange, Marketplace, Analytics, how, listing, change, over, time, track, performance, test, drive, demo]
 ---
-
-# Lead Events Timeline in AppExchange Marketplace Analytics
 
 > See how lead events on your AppExchange listing change over time. For example, track the
   performance of your test drive or

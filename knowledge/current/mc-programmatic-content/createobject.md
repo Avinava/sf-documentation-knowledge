@@ -5,12 +5,10 @@ topic: createobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.761Z
+lastCollected: 2026-04-07T18:40:22.120Z
 estimatedTokens: 153
-keywords: [CreateObject, Function, Ordinal, API, receiving, new, item, text, form, **Overview**, **Syntax**, Usage]
+keywords: [CreateObject, Function, Ordinal, API, receiving, new, item, text, form, **Overview**, **Syntax**]
 ---
-
-# CreateObject
 
 > CreateObject(1)
 

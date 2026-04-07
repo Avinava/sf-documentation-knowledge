@@ -5,12 +5,10 @@ topic: using-the-sosl-sync-down-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.362Z
+lastCollected: 2026-04-07T18:40:25.731Z
 estimatedTokens: 402
-keywords: [SOSL, Sync, Down, Target, Mobile, wraps, query, provide, REST, Salesforce, Configuration, File, Usage, iOS, APIs]
+keywords: [SOSL, Sync, Down, Target, Mobile, wraps, query, provide, REST, Salesforce, Configuration, File, iOS, APIs, Android]
 ---
-
-# Using the SOSL Sync Down Target
 
 > Mobile Sync wraps the SOSL query you provide as a REST request and sends it to Salesforce.
 

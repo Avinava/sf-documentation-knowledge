@@ -5,12 +5,10 @@ topic: decompose-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.952Z
+lastCollected: 2026-04-07T18:35:39.736Z
 estimatedTokens: 788
-keywords: [Decompose, Sales, Transaction, Action, quote, order, summary, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Decompose, Sales, Transaction, Action, quote, order, summary, REST, HTTP]
 ---
-
-# Decompose Sales Transaction Action
 
 > Decompose a sales transaction, such as a quote, order, or
             order summary.

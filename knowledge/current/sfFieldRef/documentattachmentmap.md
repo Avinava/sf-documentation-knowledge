@@ -5,12 +5,10 @@ topic: documentattachmentmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.582Z
+lastCollected: 2026-04-07T18:39:38.288Z
 estimatedTokens: 237
 keywords: [DocumentAttachmentMap, Maps, relationship, EmailTemplate, attachment, stored, Document]
 ---
-
-# DocumentAttachmentMap
 
 > Maps the relationship between an EmailTemplate and its attachment,
       which is stored as a Document.

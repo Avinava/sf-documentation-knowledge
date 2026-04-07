@@ -5,12 +5,10 @@ topic: deleteevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.091Z
+lastCollected: 2026-04-07T18:39:37.788Z
 estimatedTokens: 247
-keywords: [DeleteEvent, record, soft, deleted, Search, API, version, 48.0, removed, 50.0]
+keywords: [DeleteEvent, record, soft, deleted, Search, API, 48.0, removed, 50.0]
 ---
-
-# DeleteEvent
 
 > Represents a record that has been soft deleted. Search on this object was
     available in API version 48.0, then removed in API version 50.0.

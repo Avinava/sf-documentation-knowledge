@@ -6,13 +6,10 @@ topic: accessing-all-data-categories-associated-with-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.296Z
+lastCollected: 2026-04-07T18:36:17.529Z
 estimatedTokens: 648
-keywords: [Accessing, Data, Categories, Associated, sObject, describeDataCategoryGroups, describeDataCategoryGroupStructures, specific, Testing, Access]
+keywords: [Accessing, Categories, sObject, describeDataCategoryGroups, describeDataCategoryGroupStructures, specific, Testing]
 ---
-
-# Accessing All Data Categories Associated
-with an sObject
 
 > Use the describeDataCategoryGroups and describeDataCategoryGroupStructures methods to return the categories associated with a specific object:
 

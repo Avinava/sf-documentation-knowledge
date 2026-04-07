@@ -5,12 +5,10 @@ topic: billingmilestoneplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.587Z
+lastCollected: 2026-04-07T18:35:48.580Z
 estimatedTokens: 634
-keywords: [BillingMilestonePlan, structured, approach, invoicing, invoices, scheduled, predefined, milestones, API, version, 63.0, later, Calls, Special, Access]
+keywords: [BillingMilestonePlan, structured, approach, invoicing, invoices, scheduled, predefined, milestones, API, 63.0]
 ---
-
-# BillingMilestonePlan
 
 > Represents a structured approach to invoicing where invoices are
          scheduled based on predefined milestones. This object is available in API version 63.0

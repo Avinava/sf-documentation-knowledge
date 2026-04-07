@@ -5,12 +5,10 @@ topic: order-summary-adjustment-aggregates-async-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.318Z
+lastCollected: 2026-04-07T18:37:21.453Z
 estimatedTokens: 66
-keywords: [Order, Summary, Adjustment, Aggregates, Async, Output]
+keywords: [Order, Summary, Adjustment, Aggregates, Async]
 ---
-
-# Order Summary Adjustment Aggregates Async Output
 
 > Async adjustment aggregates output.
 

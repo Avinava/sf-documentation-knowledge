@@ -5,12 +5,10 @@ topic: mktcalculatedinsightfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.581Z
+lastCollected: 2026-04-07T18:39:49.044Z
 estimatedTokens: 363
-keywords: [MktCalculatedInsightFeed, Feed, tracking, MktCalculatedInsight]
+keywords: [MktCalculatedInsightFeed, MktCalculatedInsight]
 ---
-
-# MktCalculatedInsightFeed
 
 > Feed tracking for MktCalculatedInsight.
 

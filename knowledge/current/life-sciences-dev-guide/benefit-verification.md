@@ -5,12 +5,10 @@ topic: benefit-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.387Z
+lastCollected: 2026-04-07T18:37:54.723Z
 estimatedTokens: 336
 keywords: [Benefit, Verification, resources, verify, health, benefits, covered, patient's, insurer, call, center, agent, view, coverages, record]
 ---
-
-# Benefit Verification
 
 > Use these resources to verify the health benefits covered by the
    patient's insurer. The call center agent can view the coverages in the patient's record

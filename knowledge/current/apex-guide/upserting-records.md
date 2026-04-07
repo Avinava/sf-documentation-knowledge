@@ -5,12 +5,10 @@ topic: upserting-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.257Z
+lastCollected: 2026-04-07T18:36:19.477Z
 estimatedTokens: 767
-keywords: [Upserting, Records, Custom, matching, case-insensitive, Unique, Treat, ABC, duplicate, case, insensitive, attributes, selected, part, definition]
+keywords: [Examples, Upserting, Records, matching, case-insensitive, Unique, Treat, ABC, duplicate, case, insensitive, attributes, selected, part, definition, “ABC123”, matched, “abc123.”]
 ---
-
-# Upserting Records
 
 > Custom field matching is case-insensitive only if the custom field has the
                Unique and Treat "ABC" and "abc" as duplicate

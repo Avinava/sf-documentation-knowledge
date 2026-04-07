@@ -5,12 +5,10 @@ topic: add-an-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.087Z
+lastCollected: 2026-04-07T18:40:15.112Z
 estimatedTokens: 991
 keywords: [Add, Attribute, adding, via, SOAP, API, Why, How, Sample, NET, Code, PHP, Java, Axis, 1.4]
 ---
-
-# Add an Attribute
 
 > This page contains information  about adding an attribute via the SOAP API.
 

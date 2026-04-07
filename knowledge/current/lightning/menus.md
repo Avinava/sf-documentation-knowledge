@@ -5,12 +5,10 @@ topic: menus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.548Z
+lastCollected: 2026-04-07T18:38:02.477Z
 estimatedTokens: 227
-keywords: [Menus, menu, dropdown, trigger, visibility, items, accessible, lightning, buttonMenu, Provide, text, label, assistive, specify, menuItem]
+keywords: [Menus, menu, dropdown, trigger, visibility, items, accessible, lightning, buttonMenu, Provide, text, label, assistive, specify, menuItem, hidden]
 ---
-
-# Menus
 
 > A menu is a dropdown list with a trigger that controls the visibility of the list items. To
       create an accessible menu, use lightning:buttonMenu.

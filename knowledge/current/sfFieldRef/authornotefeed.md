@@ -5,12 +5,10 @@ topic: authornotefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.531Z
+lastCollected: 2026-04-07T18:39:28.610Z
 estimatedTokens: 358
-keywords: [AuthorNoteFeed, Feed, tracking, AuthorNote]
+keywords: [AuthorNoteFeed, AuthorNote]
 ---
-
-# AuthorNoteFeed
 
 > Feed tracking for AuthorNote.
 

@@ -2,7 +2,7 @@
 domain: comms-developer-guide
 name: Revenue Cloud for Communications Developer Guide
 documentCount: 85
-lastGenerated: 2026-04-07T09:06:36.359Z
+lastGenerated: 2026-04-07T18:40:41.700Z
 ---
 
 # Revenue Cloud for Communications Developer Guide — Knowledge Index

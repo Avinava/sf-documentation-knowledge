@@ -5,12 +5,10 @@ topic: cms-space-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.853Z
+lastCollected: 2026-04-07T18:37:11.658Z
 estimatedTokens: 358
 keywords: [CMS, Space, Channels, managed, content, Add, remove]
 ---
-
-# CMS Space Channels
 
 > Get channels for a managed content space. Add or remove channels from a managed content
     space.

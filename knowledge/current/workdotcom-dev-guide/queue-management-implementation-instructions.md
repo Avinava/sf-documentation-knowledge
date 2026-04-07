@@ -5,12 +5,10 @@ topic: queue-management-implementation-instructions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.237Z
+lastCollected: 2026-04-07T18:40:14.246Z
 estimatedTokens: 1036
-keywords: [Queue, Management, Implementation, Instructions, process, creating, customized, visitor, experience, Salesforce, objects]
+keywords: [Queue, Management, Implementation, Instructions, process, creating, customized, visitor, experience, Salesforce]
 ---
-
-# Queue Management Implementation Instructions
 
 > These instructions guide you through the process of creating a customized visitor
   experience using Queue Management Salesforce objects.

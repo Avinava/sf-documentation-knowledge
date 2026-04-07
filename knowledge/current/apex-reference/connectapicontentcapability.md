@@ -5,12 +5,10 @@ topic: connectapicontentcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.962Z
+lastCollected: 2026-04-07T18:36:08.323Z
 estimatedTokens: 882
 keywords: [ConnectApi.ContentCapability, comment, capability, file, attachment]
 ---
-
-# ConnectApi.ContentCapability
 
 > If a comment has this capability, it has a file
         attachment.

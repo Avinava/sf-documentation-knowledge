@@ -5,12 +5,10 @@ topic: use-a-connected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.691Z
+lastCollected: 2026-04-07T18:38:57.492Z
 estimatedTokens: 1148
 keywords: [Connected, App, Creating, canvas, longer, recommended, external, client, apps, new, integrations]
 ---
-
-# Use a Connected App
 
 > Creating the canvas app as a connected app is no longer recommended. Use external
         client apps for all new Canvas integrations.

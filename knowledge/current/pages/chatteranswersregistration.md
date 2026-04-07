@@ -5,12 +5,10 @@ topic: chatteranswersregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.273Z
+lastCollected: 2026-04-07T18:38:49.342Z
 estimatedTokens: 328
-keywords: [chatteranswers, registration, Displays, Chatter, Answers, component, Attributes]
+keywords: [Attributes, chatteranswers, registration, Displays, Chatter, Answers]
 ---
-
-# chatteranswers:registration
 
 > Displays the Chatter Answers registration page.
 

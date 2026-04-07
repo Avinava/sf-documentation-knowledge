@@ -5,12 +5,10 @@ topic: connectapiabstractpicklistvalueattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.545Z
+lastCollected: 2026-04-07T18:36:06.899Z
 estimatedTokens: 331
 keywords: [Picklist, attributes]
 ---
-
-# ConnectApi.AbstractPicklistValueAttributes
 
 > Picklist value attributes.
 

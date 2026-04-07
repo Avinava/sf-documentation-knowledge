@@ -5,12 +5,10 @@ topic: medreconrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.728Z
+lastCollected: 2026-04-07T18:39:48.165Z
 estimatedTokens: 480
 keywords: [MedReconRecommendation, Stores, medication, recommendation, associates, reconciliation]
 ---
-
-# MedReconRecommendation
 
 > Stores information about a medication recommendation and associates a
          recommendation to a medication reconciliation.

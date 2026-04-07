@@ -5,12 +5,10 @@ topic: using-patterns-and-matchers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.396Z
+lastCollected: 2026-04-07T18:36:16.619Z
 estimatedTokens: 721
 keywords: [Patterns, Matchers, Apex, enable, search, text, regular, expressions]
 ---
-
-# Using Patterns and Matchers
 
 > Apex provides patterns and matchers that enable you to search text using
 regular expressions.

@@ -5,12 +5,10 @@ topic: aijobrunstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.640Z
+lastCollected: 2026-04-07T18:38:58.529Z
 estimatedTokens: 463
-keywords: [AiJobRunStatusEvent, Notifies, subscribers, AiJobRun, changes, status, InProgress, Completed, Failed, API, version, 65.0, later, Calls, Special]
+keywords: [AiJobRunStatusEvent, Notifies, subscribers, AiJobRun, changes, status, InProgress, Completed, Failed, API, 65.0]
 ---
-
-# AiJobRunStatusEvent
 
 > Notifies subscribers when an AiJobRun object changes status to InProgress, Completed, or Failed. This object is available in API version 65.0
       and later.

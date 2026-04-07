@@ -5,12 +5,10 @@ topic: timeline-standard-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.313Z
+lastCollected: 2026-04-07T18:39:08.599Z
 estimatedTokens: 106
 keywords: [Timeline, Standard, translate, labels]
 ---
-
-# Timeline Standard Object
 
 > Use the standard object to translate timeline labels.
 

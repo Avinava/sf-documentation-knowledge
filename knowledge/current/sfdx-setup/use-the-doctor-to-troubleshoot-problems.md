@@ -5,12 +5,10 @@ topic: use-the-doctor-to-troubleshoot-problems
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.432Z
+lastCollected: 2026-04-07T18:40:09.380Z
 estimatedTokens: 2596
-keywords: [Doctor, Troubleshoot, Problems, Quickly, gather, Salesforce, CLI, configuration, data, run, diagnostic, tests, command, main, case]
+keywords: [Doctor, Troubleshoot, Problems, Quickly, gather, Salesforce, CLI, configuration, run, diagnostic, tests, command, main, case, easily, generate, files, attach, GitHub, issues, provide, Customer, Support, interpreting, yourself, Specific, Plugin, Issue, Interpret, Initial, File, versionDetail, sfdxEnvVars, sfEnvVars, cliConfig, pluginSpecificData]
 ---
-
-# Use the Doctor to Troubleshoot Problems
 
 > Quickly gather Salesforce CLI configuration data and run diagnostic tests with the
       doctor command. The main use case of the command is to

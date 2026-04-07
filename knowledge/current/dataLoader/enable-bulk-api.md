@@ -5,12 +5,10 @@ topic: enable-bulk-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.216Z
+lastCollected: 2026-04-07T18:37:28.249Z
 estimatedTokens: 287
-keywords: [Enable, Bulk, API, optimized, load, large, number, records, asynchronously, It’s, faster, SOAP-based, due, parallel, processing]
+keywords: [Enable, Bulk, API, optimized, load, large, number, records, asynchronously, It’s, faster, SOAP-based, due, parallel, processing, fewer, network, round-trips, Loader, uses, process]
 ---
-
-# Enable Bulk API
 
 > Bulk API is optimized to load or delete a large number of
       records asynchronously. It’s faster than the SOAP-based API due to parallel processing and

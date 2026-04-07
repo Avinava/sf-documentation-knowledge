@@ -5,12 +5,10 @@ topic: monthlyusagetrkgdatagap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.403Z
+lastCollected: 2026-04-07T18:38:19.057Z
 estimatedTokens: 993
-keywords: [MonthlyUsageTrkgDataGap, gap, tracking, fuel, usage, data, month, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [MonthlyUsageTrkgDataGap, gap, fuel, month, API, 64.0]
 ---
-
-# MonthlyUsageTrkgDataGap
 
 > Represents a gap in the tracking of fuel usage data for the month. This
       object is available in API version 64.0 and later.

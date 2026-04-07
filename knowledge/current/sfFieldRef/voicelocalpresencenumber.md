@@ -5,12 +5,10 @@ topic: voicelocalpresencenumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.205Z
+lastCollected: 2026-04-07T18:40:06.097Z
 estimatedTokens: 306
 keywords: [VoiceLocalPresenceNumber, phone, number, area, code, person, who’s]
 ---
-
-# VoiceLocalPresenceNumber
 
 > Represents a phone number with the same area code as the person who’s
          being called.

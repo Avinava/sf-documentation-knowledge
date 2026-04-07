@@ -5,12 +5,10 @@ topic: intakeformsectionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.864Z
+lastCollected: 2026-04-07T18:39:45.424Z
 estimatedTokens: 266
-keywords: [IntakeFormSectionHistory, History, tracked, IntakeFormSection]
+keywords: [IntakeFormSectionHistory, tracked, IntakeFormSection]
 ---
-
-# IntakeFormSectionHistory
 
 > History for tracked fields of IntakeFormSection.
 

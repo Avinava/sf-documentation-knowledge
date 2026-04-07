@@ -5,12 +5,10 @@ topic: next-best
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.729Z
+lastCollected: 2026-04-07T18:37:57.251Z
 estimatedTokens: 322
-keywords: [Best, intelligent, component, AI-predictive, tool, helps, sales, representatives, prioritize, personalize, their, customer, interactions, Action, Message]
+keywords: [Best, intelligent, AI-predictive, tool, helps, sales, representatives, prioritize, personalize, their, customer, interactions, Action, Message, together, comprise, family, surfaces, top, accounts, territory, suggests, timely, actions, weekly, basis, visits, emails, tailored, relevant, messages, product, account, recommendations, dynamically, generated, real-time, allowing, teams, act, quickly, dismiss, needed, users, concentrate, right, time, channel, deliver, fostering, strong, relationships]
 ---
-
-# Next Best
 
 > The Next Best intelligent component is an AI-predictive tool that helps sales
   representatives to prioritize and personalize their customer interactions. Next Best Customer,

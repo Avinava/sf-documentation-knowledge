@@ -5,12 +5,10 @@ topic: transaction-ledgers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.082Z
+lastCollected: 2026-04-07T18:38:08.340Z
 estimatedTokens: 180
-keywords: [Transaction, Ledgers, Output, representation, journals, associated, loyalty, program, member]
+keywords: [Transaction, Ledgers, journals, loyalty, program, member]
 ---
-
-# Transaction Ledgers
 
 > Output representation of the transaction journals and the ledgers
       associated with the specified loyalty program member.

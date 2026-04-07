@@ -5,12 +5,10 @@ topic: phone-contact-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.633Z
+lastCollected: 2026-04-07T18:40:13.558Z
 estimatedTokens: 582
 keywords: [Phone, Contact, Search, rep, adds, participant, call, Salesforce, transfer, destinations, Pagination, Pseudo]
 ---
-
-# Phone Contact Search
 
 > When a rep adds a participant to a call, Salesforce provides a UI to search for
         transfer destinations.

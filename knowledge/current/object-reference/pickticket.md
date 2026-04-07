@@ -5,12 +5,10 @@ topic: pickticket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.737Z
+lastCollected: 2026-04-07T18:38:38.088Z
 estimatedTokens: 1247
-keywords: [PickTicket, quantities, products, picked, fulfillment, location, include, belonging, orders, API, version, 57.0, later, Calls, Special]
+keywords: [PickTicket, quantities, products, picked, fulfillment, location, include, belonging, orders, API, 57.0]
 ---
-
-# PickTicket
 
 > A PickTicket represents quantities of one or more products to be picked for
          fulfillment at a location. It can include products belonging to one or more fulfillment

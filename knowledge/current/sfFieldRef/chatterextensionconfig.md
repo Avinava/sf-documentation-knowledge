@@ -5,12 +5,10 @@ topic: chatterextensionconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.376Z
+lastCollected: 2026-04-07T18:39:33.799Z
 estimatedTokens: 317
-keywords: [ChatterExtensionConfig, Configuration, Chatter, extension, Experience, Cloud, sites, API, version, 41.0, later]
+keywords: [ChatterExtensionConfig, Configuration, Chatter, extension, Experience, Cloud, sites, API, 41.0]
 ---
-
-# ChatterExtensionConfig
 
 > Configuration for the Chatter extension for Experience Cloud sites. This
     object is available in API version 41.0 and later.

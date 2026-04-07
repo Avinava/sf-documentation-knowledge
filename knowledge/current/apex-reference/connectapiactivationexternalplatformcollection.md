@@ -5,12 +5,10 @@ topic: connectapiactivationexternalplatformcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.750Z
+lastCollected: 2026-04-07T18:36:07.091Z
 estimatedTokens: 240
 keywords: [collection, activation, external, platforms]
 ---
-
-# ConnectApi.ActivationExternalPlatformCollection
 
 > Represents a collection of activation external platforms.
 

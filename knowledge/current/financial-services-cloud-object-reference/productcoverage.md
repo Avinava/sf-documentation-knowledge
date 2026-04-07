@@ -5,12 +5,10 @@ topic: productcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.895Z
+lastCollected: 2026-04-07T18:37:38.777Z
 estimatedTokens: 1159
-keywords: [ProductCoverage, junction, associates, Product, CoverageType, enabled, Access, Master, Coverage, org, pref, Calls, Associated, Objects]
+keywords: [ProductCoverage, junction, associates, Product, CoverageType, enabled, Master, Coverage, org, pref]
 ---
-
-# ProductCoverage
 
 > A junction object that associates the Product object with the CoverageType
 			object. You see this object only if you have enabled the Access Master List of Coverage

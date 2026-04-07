@@ -5,12 +5,10 @@ topic: notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.834Z
+lastCollected: 2026-04-07T18:39:09.154Z
 estimatedTokens: 991
 keywords: [Notifications, context, user, Mark, unread, seen, unseen]
 ---
-
-# Notifications
 
 > Get notifications for the context user. Mark notifications as
    read, unread, seen, or unseen.

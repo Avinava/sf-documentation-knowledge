@@ -5,12 +5,10 @@ topic: orderitemratecardentryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.598Z
+lastCollected: 2026-04-07T18:39:51.005Z
 estimatedTokens: 392
-keywords: [OrderItemRateCardEntryFeed, Feed, tracking, OrderItemRateCardEntry]
+keywords: [OrderItemRateCardEntryFeed, OrderItemRateCardEntry]
 ---
-
-# OrderItemRateCardEntryFeed
 
 > Feed tracking for OrderItemRateCardEntry.
 

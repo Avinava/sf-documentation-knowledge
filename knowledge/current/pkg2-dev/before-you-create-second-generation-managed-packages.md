@@ -5,12 +5,10 @@ topic: before-you-create-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.687Z
+lastCollected: 2026-04-07T18:38:56.246Z
 estimatedTokens: 897
 keywords: [Second-Generation, Managed, Packages, packaging, sure, correctly, verify]
 ---
-
-# Before You Create Second-Generation Managed Packages
 
 > When you use second-generation managed packaging, to be sure that you set it up
         correctly, verify the following.

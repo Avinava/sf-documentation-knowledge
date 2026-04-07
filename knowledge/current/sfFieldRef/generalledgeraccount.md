@@ -5,12 +5,10 @@ topic: generalledgeraccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.623Z
+lastCollected: 2026-04-07T18:39:42.262Z
 estimatedTokens: 390
-keywords: [GeneralLedgerAccount, accounting, codes, store, organize, financial, transactions, API, version, 63.0, later]
+keywords: [GeneralLedgerAccount, accounting, codes, store, organize, financial, transactions, API, 63.0]
 ---
-
-# GeneralLedgerAccount
 
 > Represents information about the accounting codes, types, and names that are used
          to store and organize financial transactions. This object is available in API version

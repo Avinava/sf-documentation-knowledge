@@ -5,12 +5,10 @@ topic: recommendation-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.917Z
+lastCollected: 2026-04-07T18:39:18.641Z
 estimatedTokens: 121
-keywords: [Recommendation, Node, Input, recipe]
+keywords: [Recommendation, Node, recipe]
 ---
-
-# Recommendation Node Input
 
 > A recommendation node in a recipe.
 

@@ -5,12 +5,10 @@ topic: charts-maps-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.715Z
+lastCollected: 2026-04-07T18:36:56.247Z
 estimatedTokens: 141
 keywords: [Charts, Maps, Resource, updates, deletes, specific, map]
 ---
-
-# Charts Maps Resource
 
 > Returns, updates, or deletes a specific map.
 

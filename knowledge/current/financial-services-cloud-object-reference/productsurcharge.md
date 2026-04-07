@@ -5,12 +5,10 @@ topic: productsurcharge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.921Z
+lastCollected: 2026-04-07T18:37:38.805Z
 estimatedTokens: 967
-keywords: [ProductSurcharge, association, product, surcharge, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [ProductSurcharge, association, product, surcharge, API, 63.0]
 ---
-
-# ProductSurcharge
 
 > Represents an association between a product and a surcharge. This object
       is available in API version 63.0 and later.

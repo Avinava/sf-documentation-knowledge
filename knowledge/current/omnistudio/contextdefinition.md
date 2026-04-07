@@ -5,12 +5,10 @@ topic: contextdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:56.789Z
+lastCollected: 2026-04-07T18:36:42.484Z
 estimatedTokens: 3233
-keywords: [ContextDefinition, context, definition, describe, relationship, node, structures, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 59.0, later, SOAP]
+keywords: [ContextDefinition, ContextDefinitionReference, ContextDefinitionVersion, ContextMapping, ContextMappingIntent, ContextNodeMapping, ContextAttributeMapping, ContextAttrHydrationDetail, CtxAttrHydrationCtx, ContextNodeAttrDictionary, ContextNode, ContextAttribute, ContextTag, context, definition, describe, relationship, node, structures, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest, API, 59.0, SOAP, REST]
 ---
-
-# ContextDefinition
 
 > Represents the details of a context definition that
 			describe the relationship between the node structures within a context.

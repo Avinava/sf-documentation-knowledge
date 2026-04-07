@@ -5,12 +5,10 @@ topic: engagementcontainerconnect-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:55.469Z
+lastCollected: 2026-04-07T18:36:41.162Z
 estimatedTokens: 201
 keywords: [EngagementContainerConnect]
 ---
-
-# EngagementContainerConnect Methods
 
 > These are the methods for EngagementContainerConnect. Methods are static.
 

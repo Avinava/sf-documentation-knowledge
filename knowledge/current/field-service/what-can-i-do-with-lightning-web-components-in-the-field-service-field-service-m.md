@@ -6,13 +6,10 @@ topic: what-can-i-do-with-lightning-web-components-in-the-field-service-field-se
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.668Z
+lastCollected: 2026-04-07T18:36:48.707Z
 estimatedTokens: 190
-keywords: [Lightning, Web, Components, Service, Mobile, App, custom, accessed, Actions, menu, built, LWCs, simple, complex, depending]
+keywords: [Lightning, Web, Service, Mobile, App, accessed, Actions, menu, built, LWCs, simple, complex, depending, problem, you’re, solving, work, devices, offline, add, annotate, image, attach, report, order, part, contact, SME, dashboard, workers, pretty, much, anything, Salesforce]
 ---
-
-# What Can I Do with Lightning Web Components in the Field Service Field Service Mobile
-  App?
 
 > You can create custom components that are accessed from the Actions menu. Actions built
   with LWCs can be simple or complex, depending on the problem you’re solving, and can work even

@@ -5,12 +5,10 @@ topic: carebarriertype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.778Z
+lastCollected: 2026-04-07T18:39:08.008Z
 estimatedTokens: 1173
-keywords: [CareBarrierType, standard, defined, barriers, maintained, organization, API, version, 61.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [CareBarrierType, standard, defined, barriers, maintained, organization, API, 61.0]
 ---
-
-# CareBarrierType
 
 > Represents the standard, defined list of barriers maintained by an
          organization. This object is available in API version 61.0 and later.

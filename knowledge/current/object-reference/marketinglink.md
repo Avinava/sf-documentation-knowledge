@@ -5,12 +5,10 @@ topic: marketinglink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.265Z
+lastCollected: 2026-04-07T18:38:35.510Z
 estimatedTokens: 817
-keywords: [MarketingLink, Account, Engagement, marketing, link, record, either, custom, redirect, file, synced, Salesforce, API, version, 42.0]
+keywords: [MarketingLink, Account, Engagement, marketing, link, record, either, redirect, file, synced, Salesforce, API, 42.0]
 ---
-
-# MarketingLink
 
 > Represents an Account Engagement marketing link record, either a
 			custom redirect or a file, that has been synced to Salesforce. This object is

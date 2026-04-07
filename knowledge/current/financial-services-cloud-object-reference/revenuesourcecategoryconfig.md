@@ -5,12 +5,10 @@ topic: revenuesourcecategoryconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.210Z
+lastCollected: 2026-04-07T18:37:39.123Z
 estimatedTokens: 883
-keywords: [RevenueSourceCategoryConfig, Revenue, Data, Source-related, stage, metric, want, measure, track, API, version, 57.0, later, SOAP, Calls]
+keywords: [RevenueSourceCategoryConfig, Revenue, Source-related, stage, metric, want, measure, track, API, 57.0, SOAP, REST]
 ---
-
-# RevenueSourceCategoryConfig
 
 > Represents the Revenue Data Source-related stage information and the revenue
          metric that you want to measure and track. This object is available in API version

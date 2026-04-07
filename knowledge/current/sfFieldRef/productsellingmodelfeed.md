@@ -5,12 +5,10 @@ topic: productsellingmodelfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.648Z
+lastCollected: 2026-04-07T18:39:56.186Z
 estimatedTokens: 362
-keywords: [ProductSellingModelFeed, Feed, tracking, ProductSellingModel]
+keywords: [ProductSellingModelFeed, ProductSellingModel]
 ---
-
-# ProductSellingModelFeed
 
 > Feed tracking for ProductSellingModel.
 

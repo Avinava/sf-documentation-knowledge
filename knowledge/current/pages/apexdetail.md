@@ -5,12 +5,10 @@ topic: apexdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:57.426Z
+lastCollected: 2026-04-07T18:38:49.557Z
 estimatedTokens: 776
-keywords: [apex, detail, standard, particular, defined, associated, layout, Setup, component, includes, attributes, including, excluding, hover, links]
+keywords: [Attributes, apex, detail, standard, particular, defined, layout, Setup, includes, including, excluding, hover, links, title, bar, appear, Salesforce, appl]
 ---
-
-# apex:detail
 
 > The standard detail page for a particular object, as defined by the associated page
 			layout for the object in Setup. This component includes attributes for including or

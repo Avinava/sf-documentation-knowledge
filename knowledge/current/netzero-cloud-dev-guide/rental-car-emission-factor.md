@@ -5,12 +5,10 @@ topic: rental-car-emission-factor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.349Z
+lastCollected: 2026-04-07T18:38:16.941Z
 estimatedTokens: 198
-keywords: [Rental, Car, Emission, Factor, emissions, factors, scope, usage]
+keywords: [Rental, Car, Emission, Factor, emissions, factors, scope]
 ---
-
-# Rental Car Emission Factor
 
 > The Rental Car Emission Factor object represents the emissions factors for scope 3
   rental car usage.

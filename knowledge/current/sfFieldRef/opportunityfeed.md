@@ -5,12 +5,10 @@ topic: opportunityfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.116Z
+lastCollected: 2026-04-07T18:39:50.539Z
 estimatedTokens: 358
-keywords: [OpportunityFeed, Feed, tracking, Opportunity]
+keywords: [OpportunityFeed, Opportunity]
 ---
-
-# OpportunityFeed
 
 > Feed tracking for Opportunity.
 

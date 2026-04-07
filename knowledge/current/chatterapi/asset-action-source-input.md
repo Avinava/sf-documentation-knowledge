@@ -5,12 +5,10 @@ topic: asset-action-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.714Z
+lastCollected: 2026-04-07T18:37:07.429Z
 estimatedTokens: 353
-keywords: [Asset, Action, Source, Input, consumed, Customer, Lifecycle, Management, child, tracking, Salesforce, order, product, work, line]
+keywords: [Asset, Action, Source, consumed, Customer, Lifecycle, Management, child, Salesforce, order, product, work, line, item, external, change, provide, multiple, sources]
 ---
-
-# Asset Action Source Input
 
 > Asset action source input consumed by Customer Asset Lifecycle Management. The asset
     action source is an optional asset action child object for tracking a Salesforce order product,

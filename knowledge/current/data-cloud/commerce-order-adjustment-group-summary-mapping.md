@@ -5,12 +5,10 @@ topic: commerce-order-adjustment-group-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.656Z
+lastCollected: 2026-04-07T18:35:52.549Z
 estimatedTokens: 441
-keywords: [Commerce, Order, Adjustment, Group, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model]
+keywords: [Commerce, Order, Adjustment, Group, Summary, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, change, price, product, that’s, made, fulfillment, sales, composed, adjustments, allocate, overall, amount, products, services, DLO]
 ---
-
-# Commerce: Order Adjustment Group Summary Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Order Adjustment Group Summary data is a change to

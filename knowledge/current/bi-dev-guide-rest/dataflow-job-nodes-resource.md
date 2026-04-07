@@ -5,12 +5,10 @@ topic: dataflow-job-nodes-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.610Z
+lastCollected: 2026-04-07T18:36:56.125Z
 estimatedTokens: 331
-keywords: [Dataflow, Job, Nodes, Resource, node, standard, recipe, works, jobs, ids, starting, 03C, 0eP, start, 03L]
+keywords: [Formats, Dataflow, Job, Nodes, Resource, node, standard, recipe, works, jobs, ids, starting, 03C, 0eP, start, 03L, URL, Postman, HTTP]
 ---
-
-# Dataflow Job Nodes Resource
 
 > Returns a dataflow job node for a standard dataflow or a recipe. This
    request only works for dataflow jobs with ids starting with 030, 03C, or 0eP. The node id must start with 03L.

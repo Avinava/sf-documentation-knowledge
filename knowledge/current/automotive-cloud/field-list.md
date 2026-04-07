@@ -5,12 +5,10 @@ topic: field-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.767Z
+lastCollected: 2026-04-07T18:36:52.187Z
 estimatedTokens: 98
-keywords: [Input, representation, match]
+keywords: [match]
 ---
-
-# Field List
 
 > Input representation of a field match that contains the field name and value.
 

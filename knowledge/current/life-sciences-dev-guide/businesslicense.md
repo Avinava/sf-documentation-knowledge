@@ -5,12 +5,10 @@ topic: businesslicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.595Z
+lastCollected: 2026-04-07T18:37:59.154Z
 estimatedTokens: 2369
-keywords: [BusinessLicense, licenses, party, role, healthcare, provider, producer, Special, Access, Rules, Calls, Associated, Objects]
+keywords: [BusinessLicense, licenses, party, role, healthcare, provider, producer]
 ---
-
-# BusinessLicense
 
 > Represents the licenses of a party role like healthcare provider or
       producer.

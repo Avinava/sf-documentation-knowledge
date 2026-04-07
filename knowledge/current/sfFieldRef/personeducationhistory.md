@@ -5,12 +5,10 @@ topic: personeducationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.341Z
+lastCollected: 2026-04-07T18:39:53.885Z
 estimatedTokens: 263
-keywords: [PersonEducationHistory, History, tracked, PersonEducation]
+keywords: [PersonEducationHistory, tracked, PersonEducation]
 ---
-
-# PersonEducationHistory
 
 > History for tracked fields of PersonEducation.
 

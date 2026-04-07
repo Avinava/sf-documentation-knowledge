@@ -5,12 +5,10 @@ topic: connectapimanagedcontentreferencesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.641Z
+lastCollected: 2026-04-07T18:36:09.965Z
 estimatedTokens: 106
 keywords: [Summary, managed, content]
 ---
-
-# ConnectApi.ManagedContentReferenceSummary
 
 > Summary of the managed content reference.
 

@@ -5,12 +5,10 @@ topic: configure-your-facebook-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.866Z
+lastCollected: 2026-04-07T18:40:25.248Z
 estimatedTokens: 230
 keywords: [Configure, Facebook, App, Experience, Cloud, site, Salesforce, Auth, Provider, logins]
 ---
-
-# Configure Your Facebook App
 
 > Next, you need to configure the Experience Cloud site to use your Salesforce Auth.
     Provider for logins.

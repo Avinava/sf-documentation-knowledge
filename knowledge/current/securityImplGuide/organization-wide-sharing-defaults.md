@@ -5,12 +5,10 @@ topic: organization-wide-sharing-defaults
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.070Z
+lastCollected: 2026-04-07T18:39:22.999Z
 estimatedTokens: 730
-keywords: [Organization-Wide, Sharing, Defaults, Define, access, users, records, they, don't, own, settings, separately, custom, objects, standard]
+keywords: [Organization-Wide, Sharing, Defaults, Define, users, records, they, don't, own, settings, separately, standard, different, levels, internal, external]
 ---
-
-# Organization-Wide Sharing Defaults
 
 > Define the default access that users have to records they
                         don't own with organization-wide sharing settings. Organization-wide sharing

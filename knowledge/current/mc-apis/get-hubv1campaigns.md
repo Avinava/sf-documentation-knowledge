@@ -5,12 +5,10 @@ topic: get-hubv1campaigns
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.977Z
+lastCollected: 2026-04-07T18:40:17.127Z
 estimatedTokens: 494
-keywords: [hub, campaigns, Retrieves, collection, **Overview**, Usage]
+keywords: [hub, campaigns, Retrieves, collection, **Overview**]
 ---
-
-# GET /hub/v1/campaigns
 
 > Retrieves a collection of campaigns.
 

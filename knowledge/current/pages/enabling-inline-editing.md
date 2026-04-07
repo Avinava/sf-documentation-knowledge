@@ -5,12 +5,10 @@ topic: enabling-inline-editing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.743Z
+lastCollected: 2026-04-07T18:38:52.055Z
 estimatedTokens: 1234
-keywords: [Enabling, Inline, Editing, Visualforce, pages, 21.0, above, support, lets, users, quickly, edit, right, record’s, detail]
+keywords: [Enabling, Inline, Editing, Visualforce, pages, 21.0, above, support, lets, users, quickly, edit, right, record’s, detail, Editable, cells, display, pencil, icon, hover, over, cell, non-editable, lock]
 ---
-
-# Enabling Inline Editing
 
 > Visualforce pages 21.0 and above support inline editing. Inline editing lets users
             quickly edit field values, right on a record’s detail page. Editable cells

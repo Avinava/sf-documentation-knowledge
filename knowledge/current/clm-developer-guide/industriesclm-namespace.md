@@ -5,13 +5,11 @@ topic: industriesclm-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.550Z
+lastCollected: 2026-04-07T18:37:24.556Z
 estimatedTokens: 158
 namespace: The
-keywords: [industries_clm, user, provide, custom, logic, any, specific, task, permitted, salesforce, Document, Template, Filtering, tab, under]
+keywords: [industries_clm, user, provide, logic, any, specific, task, permitted, salesforce, Document, Template, Filtering, tab, under, Contract, industries, _clm]
 ---
-
-# industries_clm Namespace
 
 > The industries_clm namespace allows user to
     provide custom logic for any specific task permitted by salesforce. For example, Custom Document

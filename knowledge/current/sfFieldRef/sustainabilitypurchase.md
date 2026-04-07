@@ -5,12 +5,10 @@ topic: sustainabilitypurchase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.677Z
+lastCollected: 2026-04-07T18:40:03.371Z
 estimatedTokens: 489
 keywords: [SustainabilityPurchase, sustainability, credits, purchases, carbon]
 ---
-
-# SustainabilityPurchase
 
 > Represents information related to the sustainability credits purchases such
          as carbon credits.

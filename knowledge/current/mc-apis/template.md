@@ -5,12 +5,10 @@ topic: template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.210Z
+lastCollected: 2026-04-07T18:40:15.241Z
 estimatedTokens: 1357
-keywords: [Template, designates, another, asset, starting, point, current, acts, fallback, blocks, slots, found, their, corresponding, attribute, email, Marketing, Cloud, Items]
+keywords: [Template, designates, another, asset, starting, point, current, acts, fallback, blocks, slots, found, their, corresponding, attribute, placeholder, Sample, Items, email, Marketing, Cloud]
 ---
-
-# Template
 
 > Template designates another asset as a starting point for the current asset. The template acts as a fallback if blocks or slots in the asset are not found in their corresponding attribute. For example, if the asset contains a slots placeholder but no slots attribute, and that asset has a template, t
 

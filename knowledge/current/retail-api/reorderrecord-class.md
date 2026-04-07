@@ -5,13 +5,11 @@ topic: reorderrecord-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.052Z
+lastCollected: 2026-04-07T18:39:10.511Z
 estimatedTokens: 244
 namespace: Each
 keywords: [RE_Order.Record, Apex, wrapper, order, sObject, records, _Order.Record, Implementation, isDeleted, isNew, getId, getOriginalRecord]
 ---
-
-# RE_Order.Record Class
 
 > The RE_Order.Record Apex class provides a wrapper
     for the order sObject records.

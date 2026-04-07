@@ -5,12 +5,10 @@ topic: connectapieinsteinprompttemplategenerationsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.442Z
+lastCollected: 2026-04-07T18:36:08.876Z
 estimatedTokens: 446
 keywords: [Generated, LLM, provider, resolved, prompt, template, text]
 ---
-
-# ConnectApi.​EinsteinPrompt​Template​Generations​Representation
 
 > Generated response from the LLM provider and resolved prompt template text.
 

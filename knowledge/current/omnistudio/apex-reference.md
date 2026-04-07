@@ -5,13 +5,11 @@ topic: apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.822Z
+lastCollected: 2026-04-07T18:36:35.292Z
 estimatedTokens: 140
 namespace: AiAccelerator
 keywords: [Apex, goes, detail, built-in, ConnectApi, classes, interfaces]
 ---
-
-# Apex Reference
 
 > This Apex reference goes into detail about the built-in Apex ConnectApi classes and interfaces.
 

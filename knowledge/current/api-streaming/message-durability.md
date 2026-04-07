@@ -5,12 +5,10 @@ topic: message-durability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.315Z
+lastCollected: 2026-04-07T18:36:51.648Z
 estimatedTokens: 2330
-keywords: [Message, Durability, Salesforce, stores, PushTopic, events, generic, standard-volume, hours, high-volume, include, platform, change, data, capture]
+keywords: [Message, Durability, Salesforce, stores, PushTopic, events, generic, standard-volume, hours, high-volume, include, platform, change, capture, longer, defined, Spring, ’19, API, 37.0, retrieve, retention, window, durable, streaming, Event, Bus, Replay, Process, Replaying, Code, Samples]
 ---
-
-# Message Durability
 
 > Salesforce stores PushTopic events, generic events, and
       standard-volume events for 24 hours and high-volume events for 72 hours. High-volume events

@@ -5,12 +5,10 @@ topic: refresh-actuals-calculation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.697Z
+lastCollected: 2026-04-07T18:38:13.021Z
 estimatedTokens: 370
-keywords: [Refresh, Actuals, Calculation, Action, calculations, sales, agreements, current, past, periods, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Refresh, Actuals, Calculation, Action, calculations, sales, agreements, current, past, periods, REST, HTTP]
 ---
-
-# Refresh Actuals Calculation Action
 
 > Refresh actuals calculations for sales agreements for current and past
    periods.

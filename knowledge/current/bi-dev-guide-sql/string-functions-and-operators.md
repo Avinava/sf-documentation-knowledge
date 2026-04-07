@@ -5,12 +5,10 @@ topic: string-functions-and-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.404Z
+lastCollected: 2026-04-07T18:37:02.010Z
 estimatedTokens: 704
 keywords: [Functions, Operators, SQL, CRM, Analytics, supports]
 ---
-
-# String Functions and Operators
 
 > SQL for CRM Analytics supports the following string functions and operators.
 

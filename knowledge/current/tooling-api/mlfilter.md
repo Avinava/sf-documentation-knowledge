@@ -5,12 +5,10 @@ topic: mlfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.176Z
+lastCollected: 2026-04-07T18:36:33.572Z
 estimatedTokens: 870
-keywords: [MLFilter, data, filter, comparison, machine, learning, application, there’s, left-hand, element, operator, right-hand, API, version, 50.0]
+keywords: [MLFilter, filter, comparison, machine, learning, application, there’s, left-hand, operator, right-hand, API, 50.0, SOAP, REST]
 ---
-
-# MLFilter
 
 > Represents a data filter based on a data comparison in a machine
             learning (ML) application. For each comparison, there’s a left-hand element, an

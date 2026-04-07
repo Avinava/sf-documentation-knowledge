@@ -5,12 +5,10 @@ topic: ratecardshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.730Z
+lastCollected: 2026-04-07T18:39:58.393Z
 estimatedTokens: 247
 keywords: [RateCardShare, Sharing, RateCard]
 ---
-
-# RateCardShare
 
 > Sharing for RateCard.
 

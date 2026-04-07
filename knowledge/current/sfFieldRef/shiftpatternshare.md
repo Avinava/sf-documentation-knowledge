@@ -5,12 +5,10 @@ topic: shiftpatternshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.310Z
+lastCollected: 2026-04-07T18:40:02.024Z
 estimatedTokens: 249
 keywords: [ShiftPatternShare, Sharing, ShiftPattern]
 ---
-
-# ShiftPatternShare
 
 > Sharing for ShiftPattern.
 

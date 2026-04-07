@@ -6,13 +6,10 @@ topic: example-publish-callback-class-that-creates-follow-up-tasks-for-failed-an
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.399Z
+lastCollected: 2026-04-07T18:38:58.256Z
 estimatedTokens: 393
-keywords: [Publish, Callback, Creates, Follow-Up, Tasks, Failed, Successful, Publishes, modification, previous, example—it, implements, EventBus.EventPublishSuccessCallback, processes, success]
+keywords: [Publish, Callback, Creates, Follow-Up, Tasks, Failed, Successful, Publishes, modification, previous, example—it, implements, EventBus.EventPublishSuccessCallback, processes, success, failure, cases, task, event, publishing, fails, succeeds, inserted, includes, number, events, UUIDs]
 ---
-
-# Example: Publish Callback Class That Creates Follow-Up Tasks for Failed and Successful
-        Publishes
 
 > This publish callback class is a modification of the previous example—it also implements
         the EventBus.EventPublishSuccessCallback interface

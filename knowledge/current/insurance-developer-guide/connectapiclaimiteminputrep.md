@@ -5,12 +5,10 @@ topic: connectapiclaimiteminputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.789Z
+lastCollected: 2026-04-07T18:37:49.655Z
 estimatedTokens: 330
-keywords: [ConnectApi.ClaimItemInputRep, Invocable, action, input, representation, claim, item]
+keywords: [ConnectApi.ClaimItemInputRep, Invocable, action, claim, item]
 ---
-
-# ConnectApi.ClaimItemInputRep
 
 > Invocable action input representation for claim item.
 

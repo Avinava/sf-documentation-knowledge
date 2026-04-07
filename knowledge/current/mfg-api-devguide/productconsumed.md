@@ -5,12 +5,10 @@ topic: productconsumed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.764Z
+lastCollected: 2026-04-07T18:38:14.096Z
 estimatedTokens: 1042
-keywords: [ProductConsumed, item, product, inventory, work, order, line, API, version, 60.0, later, Calls]
+keywords: [ProductConsumed, item, product, inventory, work, order, line, API, 60.0]
 ---
-
-# ProductConsumed
 
 > Represents an item from your product inventory that was used to complete a
          work order or work order line item. This object is available in API version 60.0 and

@@ -5,12 +5,10 @@ topic: connect-to-experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.408Z
+lastCollected: 2026-04-07T18:37:24.413Z
 estimatedTokens: 263
 keywords: [Connect, Experience, Cloud, Sites, OAuth, site, full, path, URL]
 ---
-
-# Connect to Experience Cloud Sites
 
 > To use OAuth to connect to an Experience Cloud site, use the full path to the site
             URL.

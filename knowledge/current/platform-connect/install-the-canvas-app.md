@@ -5,12 +5,10 @@ topic: install-the-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.712Z
+lastCollected: 2026-04-07T18:38:57.518Z
 estimatedTokens: 554
 keywords: [Install, Canvas, App, Uploading, packaged, creates, installation, link, another, org]
 ---
-
-# Install the Canvas App
 
 > Uploading the packaged canvas app creates the installation link. You can then use this
   link to install the canvas app in another org.

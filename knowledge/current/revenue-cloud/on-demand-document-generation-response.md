@@ -5,12 +5,10 @@ topic: on-demand-document-generation-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.062Z
+lastCollected: 2026-04-07T18:35:46.024Z
 estimatedTokens: 175
-keywords: [On-Demand, Document, Generation, Output, representation, generated, along, error]
+keywords: [On-Demand, Document, Generation, generated, along, error]
 ---
-
-# On-Demand Document Generation Response
 
 > Output representation of the details of the generated document along with error
     response.

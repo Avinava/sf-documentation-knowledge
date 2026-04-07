@@ -5,12 +5,10 @@ topic: claimteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.032Z
+lastCollected: 2026-04-07T18:37:36.810Z
 estimatedTokens: 625
-keywords: [ClaimTeamMember, user, part, claim, team, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [ClaimTeamMember, user, part, claim, team, API, 55.0]
 ---
-
-# ClaimTeamMember
 
 > Represents a user who is a part of the claim team. This object is available in API version 55.0 and later.
 

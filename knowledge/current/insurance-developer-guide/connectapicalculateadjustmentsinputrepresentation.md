@@ -5,12 +5,10 @@ topic: connectapicalculateadjustmentsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.747Z
+lastCollected: 2026-04-07T18:37:49.610Z
 estimatedTokens: 130
-keywords: [Input, representation, calculating, adjustments, claim, loss, items]
+keywords: [calculating, adjustments, claim, loss, items]
 ---
-
-# ConnectApi.CalculateAdjustmentsInputRepresentation
 
 > Input representation for calculating adjustments for claim loss items.
 

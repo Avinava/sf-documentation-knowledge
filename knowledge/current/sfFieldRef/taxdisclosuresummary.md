@@ -5,12 +5,10 @@ topic: taxdisclosuresummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.004Z
+lastCollected: 2026-04-07T18:40:03.725Z
 estimatedTokens: 599
 keywords: [TaxDisclosureSummary, statistics, disclosure, business, entity, tax, jurisdictions]
 ---
-
-# TaxDisclosureSummary
 
 > Represents statistics about the disclosure of business entity
          information to all tax jurisdictions.

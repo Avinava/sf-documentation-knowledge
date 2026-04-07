@@ -6,13 +6,10 @@ topic: trimleading-trailing-both-chars-str
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.446Z
+lastCollected: 2026-04-07T18:37:02.049Z
 estimatedTokens: 373
 keywords: [trim, LEADING, TRAILING, chars, str, Removes, characters, function, blank, spaces]
 ---
-
-# trim(LEADING | TRAILING | BOTH, chars,
-    str)
 
 > Removes leading or trailing characters from a string. If no characters are specified,
   the function removes blank spaces.

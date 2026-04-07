@@ -5,12 +5,10 @@ topic: now
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.439Z
+lastCollected: 2026-04-07T18:40:21.729Z
 estimatedTokens: 318
-keywords: [Now, Function, Ordinal, Determines, whether, preserve, email, sent, time, post-send, resolution, preserves, **Overview**, **Syntax**, Usage, retain, send, retains, original, activity]
+keywords: [Now, Function, Ordinal, Determines, whether, preserve, email, sent, time, post-send, resolution, preserves, **Overview**, **Syntax**, retain, send, retains, original, activity, current, system, date]
 ---
-
-# Now
 
 > Now(1)
 

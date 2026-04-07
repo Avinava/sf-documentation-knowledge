@@ -5,12 +5,10 @@ topic: post-contactsv1attributesetsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.326Z
+lastCollected: 2026-04-07T18:40:15.409Z
 estimatedTokens: 857
-keywords: [POST, contacts, attributeSets, Inserts, collection, attribute, containers, data, rows, **Overview**, Usage]
+keywords: [POST, contacts, attributeSets, Inserts, collection, attribute, containers, rows, **Overview**]
 ---
-
-# POST /contacts/v1/attributeSets/{id}
 
 > Inserts a collection of attribute value containers or the data rows of a specified attribute set by ID or name.
 

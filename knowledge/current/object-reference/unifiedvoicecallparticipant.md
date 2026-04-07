@@ -5,12 +5,10 @@ topic: unifiedvoicecallparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.456Z
+lastCollected: 2026-04-07T18:38:43.209Z
 estimatedTokens: 537
-keywords: [UnifiedVoiceCallParticipant, participant, voice, call, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access, Rules]
+keywords: [UnifiedVoiceCallParticipant, participant, voice, call, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedVoiceCallParticipant
 
 > Represents a participant in a voice call. This object is available for
       reports and dashboards in the Winter ’24 release and later.

@@ -5,12 +5,10 @@ topic: decisiontabledatasetlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:56.850Z
+lastCollected: 2026-04-07T18:36:42.545Z
 estimatedTokens: 633
-keywords: [DecisionTableDatasetLink, dataset, link, associated, decision, select, whose, records, provide, outcome, extends, Metadata, inherits, fullName, File, links, evaluate, outcomes, API, version]
+keywords: [DecisionTableDatasetLink, DecisionTblDatasetParameters, dataset, link, decision, select, whose, records, provide, outcome, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, links, evaluate, outcomes, API, 51.0, SOAP, REST]
 ---
-
-# DecisionTableDatasetLink
 
 > Represents a dataset link associated with a decision table. Use dataset links
       in a decision table to select an object whose records the decision table must evaluate and

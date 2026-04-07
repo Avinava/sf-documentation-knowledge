@@ -5,13 +5,11 @@ topic: actionresultbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.879Z
+lastCollected: 2026-04-07T18:36:00.163Z
 estimatedTokens: 1017
 namespace: Messaging
-keywords: [ActionResult.Builder, build, validate, instance, Messaging.ActionResult, Usage, withErrorCode, errorCode, withMessage, message, withSuccess, success]
+keywords: [ActionResult.Builder, build, validate, instance, Messaging.ActionResult, withErrorCode, errorCode, withMessage, message, withSuccess, success]
 ---
-
-# ActionResult.Builder Class
 
 > Contains methods to build and validate an instance of the Messaging.ActionResult class.
 

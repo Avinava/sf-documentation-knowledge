@@ -5,12 +5,10 @@ topic: createemailtemplateemailtemplateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.323Z
+lastCollected: 2026-04-07T18:37:54.659Z
 estimatedTokens: 685
-keywords: [createEmailTemplate, emailTemplateInput, email, template, provided, metadata, API, Version, Requires, Chatter]
+keywords: [createEmailTemplate, emailTemplateInput, email, template, provided, metadata, API, Requires, Chatter]
 ---
-
-# createEmailTemplate(emailTemplateInput)
 
 > Create an email template with the provided
         metadata.

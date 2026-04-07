@@ -5,12 +5,10 @@ topic: payment-sequencing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.651Z
+lastCollected: 2026-04-07T18:38:45.445Z
 estimatedTokens: 3311
-keywords: [Payment, Sequencing, ensuring, funds, refunds, orders, include, multiple, control, sequence, apply, amounts, order, partially, paid]
+keywords: [Payment, Sequencing, ensuring, funds, refunds, orders, include, multiple, control, sequence, apply, amounts, order, partially, paid, gift, card, refund, regardless, how, were, originally, distributed, modified, different, fulfillment, groups, fulfilled, capture, partial, amount, future, canceled, preserve, full, logic, matching, OrderPaymentSummary, Ensure, Specify, OrderPaymentSummaries, Apex, Edge, Cases]
 ---
-
-# Payment Sequencing
 
 > When ensuring funds or refunds for orders that include multiple payment methods, you
     can control the sequence in which to apply the amounts to payment methods. For example, if an

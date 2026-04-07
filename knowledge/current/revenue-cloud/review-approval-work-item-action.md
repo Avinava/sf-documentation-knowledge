@@ -5,12 +5,10 @@ topic: review-approval-work-item-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.281Z
+lastCollected: 2026-04-07T18:35:40.059Z
 estimatedTokens: 497
-keywords: [Review, Approval, Work, Item, Action, status, assignee, reviewer's, decision, any, comments, reviewer, added, REST, HTTP]
+keywords: [Inputs, Outputs, Review, Approval, Work, Item, Action, status, assignee, reviewer's, decision, any, comments, reviewer, added, REST, HTTP]
 ---
-
-# Review Approval Work Item Action
 
 > Update an approval work item status with the assignee or reviewer's
             decision and any comments that the assignee or reviewer added.

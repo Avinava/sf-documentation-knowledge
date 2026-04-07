@@ -5,12 +5,10 @@ topic: extraction-context-mapping-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.327Z
+lastCollected: 2026-04-07T18:37:25.254Z
 estimatedTokens: 184
-keywords: [Extraction, Context, Mapping, Output, representation]
+keywords: [Extraction, Context, Mapping]
 ---
-
-# Extraction Context Mapping Output
 
 > Output representation of extraction context mapping.
 

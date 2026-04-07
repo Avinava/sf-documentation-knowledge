@@ -5,12 +5,10 @@ topic: omnistudio
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:57.542Z
+lastCollected: 2026-04-07T18:36:43.282Z
 estimatedTokens: 447
-keywords: [Omnistudio, suite, services, components, data, model, objects, combine, Industry, Cloud, applications, guided, interactions, Salesforce, org]
+keywords: [Omnistudio, suite, services, model, combine, Industry, Cloud, applications, guided, interactions, Salesforce, org, external, sources, Omniscripts, users, sales, service, processes, fast, personalized, responses, post, Mappers, Integration, Procedures]
 ---
-
-# Omnistudio
 
 > Omnistudio provides a suite of services, components, and data model objects that combine
   to create Industry Cloud applications. Use Omnistudio to create guided interactions using data

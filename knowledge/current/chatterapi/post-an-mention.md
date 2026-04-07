@@ -5,12 +5,10 @@ topic: post-an-mention
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.250Z
+lastCollected: 2026-04-07T18:37:24.295Z
 estimatedTokens: 622
-keywords: [Post, @Mention, Chatter, feed, item, comment]
+keywords: [Post, @Mention, Chatter, item, comment]
 ---
-
-# Post an @Mention
 
 > Post an @mention in a Chatter feed item or comment.
 

@@ -5,12 +5,10 @@ topic: customizing-your-app-lifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.453Z
+lastCollected: 2026-04-07T18:38:57.254Z
 estimatedTokens: 1378
-keywords: [Customizing, App, Lifecycle, providing, custom, Apex, control, context, that’s, sent, canvas, add, behavior, rendered]
+keywords: [Customizing, App, Lifecycle, providing, Apex, control, context, that’s, sent, canvas, add, behavior, rendered]
 ---
-
-# Customizing Your App Lifecycle
 
 > By providing a custom Apex class, you can control the context
    information that’s sent to your canvas app and add custom behavior when your app is

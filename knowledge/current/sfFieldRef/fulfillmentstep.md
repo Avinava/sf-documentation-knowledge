@@ -5,12 +5,10 @@ topic: fulfillmentstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:47.061Z
+lastCollected: 2026-04-07T18:39:41.714Z
 estimatedTokens: 764
-keywords: [FulfillmentStep, task, that's, perform, certain, action, part, order, fulfillment, manual, automated, API, version, 61.0, later]
+keywords: [FulfillmentStep, task, that's, perform, certain, action, part, order, fulfillment, manual, automated, API, 61.0]
 ---
-
-# FulfillmentStep
 
 > Represents a task that's required to perform a certain action as part
          of order fulfillment. This task can be manual or automated. This object is available

@@ -5,12 +5,10 @@ topic: allowfieldtruncationheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:46.102Z
+lastCollected: 2026-04-07T18:36:31.478Z
 estimatedTokens: 493
-keywords: [AllowFieldTruncationHeader, too, large, operation, fails, strings, truncated, API, Calls, Sample, Code—Java]
+keywords: [AllowFieldTruncationHeader, too, large, operation, fails, strings, truncated, API, Sample, Code—Java]
 ---
-
-# AllowFieldTruncationHeader
 
 > Specifies that for some fields, when a string is too
       large, the operation fails. Without the header, strings for these fields are

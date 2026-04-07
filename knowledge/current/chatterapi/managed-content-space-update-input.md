@@ -5,12 +5,10 @@ topic: managed-content-space-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.200Z
+lastCollected: 2026-04-07T18:37:08.977Z
 estimatedTokens: 152
-keywords: [Managed, Content, Space, Input]
+keywords: [Managed, Content, Space]
 ---
-
-# Managed Content Space Update Input
 
 > Update the name or description of a managed content space.
 

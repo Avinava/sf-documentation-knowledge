@@ -5,12 +5,10 @@ topic: base-components-with-minimum-api-version-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.426Z
+lastCollected: 2026-04-07T18:38:03.445Z
 estimatedTokens: 1312
-keywords: [Base, Components, Minimum, API, Version, Requirements, Lightning, require, custom, component’s, equal, later, latest, any, uses]
+keywords: [Base, Minimum, API, Requirements, Lightning, require, component’s, equal, latest, any, uses, Deprecation]
 ---
-
-# Base Components with Minimum API Version Requirements
 
 > Some Lightning base components require the custom components that use them to be set to a
   minimum API version. A custom component’s API version must be equal to or later than the latest

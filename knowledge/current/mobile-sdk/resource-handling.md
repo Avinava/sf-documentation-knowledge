@@ -5,12 +5,10 @@ topic: resource-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.646Z
+lastCollected: 2026-04-07T18:40:25.044Z
 estimatedTokens: 1328
-keywords: [Resource, Handling, Mobile, SDK, template, apps, resources, reside, XML, files, SalesforceSDK, res, project, folder, customize]
+keywords: [Layouts, Resource, Handling, Mobile, SDK, template, apps, resources, reside, XML, files, SalesforceSDK, res, project, folder, customize, making, changes]
 ---
-
-# Resource Handling
 
 > In Mobile SDK template
             apps, resources reside in XML files in the SalesforceSDK | res project folder. You can customize many of these resources by making

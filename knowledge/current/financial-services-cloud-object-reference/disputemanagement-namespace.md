@@ -5,13 +5,11 @@ topic: disputemanagement-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.933Z
+lastCollected: 2026-04-07T18:37:34.457Z
 estimatedTokens: 209
 namespace: The
-keywords: [disputemanagement, classes, provide, services, Integration, Procedures, Transaction, Dispute, Management, OmniScript, calls]
+keywords: [disputemanagement, classes, provide, services, Integration, Procedures, Transaction, Dispute, Management, OmniScript]
 ---
-
-# disputemanagement Namespace
 
 > The disputemanagement namespace classes provide
     services for Integration Procedures that the Transaction Dispute Management OmniScript

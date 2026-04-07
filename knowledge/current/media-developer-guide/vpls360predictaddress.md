@@ -5,12 +5,10 @@ topic: vpls360predictaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.365Z
+lastCollected: 2026-04-07T18:38:11.704Z
 estimatedTokens: 165
-keywords: [VPLS360_predictAddress, Integration, Procedure, passes, input, searchText, address, Google, API, retrieves, suggestions, VPLS360, _predictAddress, Sample, Output]
+keywords: [VPLS360_predictAddress, Integration, Procedure, passes, searchText, address, Google, API, retrieves, suggestions, VPLS360, _predictAddress, Sample]
 ---
-
-# VPLS360_predictAddress
 
 > This Integration Procedure passes the input searchText of
         the address to the Google Address API and retrieves a list of suggestions.

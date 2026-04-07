@@ -5,12 +5,10 @@ topic: actionvisibilityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.745Z
+lastCollected: 2026-04-07T18:39:24.658Z
 estimatedTokens: 173
-keywords: [ActionVisibilityHistory, History, tracked, ActionVisibility]
+keywords: [ActionVisibilityHistory, tracked, ActionVisibility]
 ---
-
-# ActionVisibilityHistory
 
 > History for tracked fields of ActionVisibility.
 

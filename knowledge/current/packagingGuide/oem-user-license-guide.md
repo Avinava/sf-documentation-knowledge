@@ -5,12 +5,10 @@ topic: oem-user-license-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:55.017Z
+lastCollected: 2026-04-07T18:38:46.978Z
 estimatedTokens: 4123
-keywords: [OEM, User, License, partners, Availability, Objects, Financial, Services, Cloud-Only, Features, Permissions, Org-Level, Allocations, Storage, Limits]
+keywords: [OEM, User, License, partners, Availability, Financial, Services, Cloud-Only, Features, Permissions, Org-Level, Allocations, Storage, Limits, API, Considerations, Government, Cloud, Plus, Customers, Legacy]
 ---
-
-# OEM User License Guide
 
 > Learn about the license types that are available to OEM partners.
 

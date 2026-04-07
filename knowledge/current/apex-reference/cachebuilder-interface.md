@@ -5,13 +5,11 @@ topic: cachebuilder-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.994Z
+lastCollected: 2026-04-07T18:36:13.300Z
 estimatedTokens: 651
 namespace: Cache
-keywords: [CacheBuilder, safely, retrieving, removing, session, org, cache, generate, want, store, checks, misses, means, longer, check]
+keywords: [CacheBuilder, safely, retrieving, removing, session, org, cache, generate, want, store, checks, misses, means, longer, check, yourself, doLoad, var, Implementation]
 ---
-
-# CacheBuilder Interface
 
 > An interface for safely retrieving and removing values from a
             session or org cache. Use the interface to generate a value that you want to store in

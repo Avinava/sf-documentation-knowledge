@@ -5,12 +5,10 @@ topic: einstein-prompt-template-generations-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.470Z
+lastCollected: 2026-04-07T18:37:18.559Z
 estimatedTokens: 151
 keywords: [Einstein, Prompt, Template, Generations, Error, generation]
 ---
-
-# Einstein Prompt Template Generations Error
 
 > Error response to a prompt template generation request.
 

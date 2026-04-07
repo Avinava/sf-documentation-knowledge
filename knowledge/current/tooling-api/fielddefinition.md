@@ -5,12 +5,10 @@ topic: fielddefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.499Z
+lastCollected: 2026-04-07T18:36:32.979Z
 estimatedTokens: 9058
-keywords: [FieldDefinition, standard, custom, providing, row-based, access, metadata, Contrast, EntityParticle, element, presented, user, parity, SOAP, Calls]
+keywords: [FieldDefinition, Limitations, standard, providing, row-based, metadata, Contrast, EntityParticle, presented, user, parity, SOAP, REST, HTTP, CustomField, Picklist, PicklistValue, RelationshipReferenceTo, WorkflowFieldUpdate]
 ---
-
-# FieldDefinition
 
 > Represents a standard or custom
             field, providing row-based access to field metadata. Contrast FieldDefinition with

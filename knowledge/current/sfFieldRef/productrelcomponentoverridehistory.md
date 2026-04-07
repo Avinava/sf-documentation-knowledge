@@ -5,12 +5,10 @@ topic: productrelcomponentoverridehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.428Z
+lastCollected: 2026-04-07T18:39:56.002Z
 estimatedTokens: 281
-keywords: [ProductRelComponentOverrideHistory, History, tracked, ProductRelComponentOverride]
+keywords: [ProductRelComponentOverrideHistory, tracked, ProductRelComponentOverride]
 ---
-
-# ProductRelComponentOverrideHistory
 
 > History for tracked fields of ProductRelComponentOverride.
 

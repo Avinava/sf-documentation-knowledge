@@ -5,12 +5,10 @@ topic: electronic-signatures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.889Z
+lastCollected: 2026-04-07T18:37:56.324Z
 estimatedTokens: 147
-keywords: [Electronic, Signatures, Manage, Digital, Verifications, trails, records, workflows, require, users, verify, key, updates, Define, order]
+keywords: [Electronic, Signatures, Manage, Digital, Verifications, trails, records, workflows, require, users, verify, key, updates, Define, order, designated, verifiers, whether, belong, user, group, specific, participant, role]
 ---
-
-# Electronic Signatures
 
 > Manage electronic signatures by using Digital Verifications. Set up signature trails for
     records or workflows that require users to verify key updates. Define signature details such as

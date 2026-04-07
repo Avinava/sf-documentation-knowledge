@@ -5,12 +5,10 @@ topic: validate-aura-component-public-api-secure-component-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.777Z
+lastCollected: 2026-04-07T18:38:02.709Z
 estimatedTokens: 461
-keywords: [Validate, Aura, Component, API, secure-component, rule, validates, framework, functions]
+keywords: [Validate, Aura, API, secure-component, rule, validates, framework, functions]
 ---
-
-# Validate Aura Component Public API ( secure-component ) )
 
 > This rule validates that only public, supported framework API
             functions and properties are used.

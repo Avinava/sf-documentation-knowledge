@@ -5,12 +5,10 @@ topic: pagereference-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.924Z
+lastCollected: 2026-04-07T18:35:59.199Z
 estimatedTokens: 934
 keywords: [PageReference, instance]
 ---
-
-# PageReference Methods
 
 > The following are methods for PageReference. All are instance methods.
 

@@ -5,12 +5,10 @@ topic: livechatsensitivedatarule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.820Z
+lastCollected: 2026-04-07T18:36:27.344Z
 estimatedTokens: 687
-keywords: [LiveChatSensitiveDataRule, rule, masking, deleting, data, pattern, Written, regular, expression, regex, File, Suffix, Directory, Location, Version]
+keywords: [LiveChatSensitiveDataRule, rule, masking, deleting, pattern, Written, regular, expression, regex, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LiveChatSensitiveDataRule
 
 > Represents a rule for masking or deleting
    data of a specified pattern. Written as a regular expression (regex).

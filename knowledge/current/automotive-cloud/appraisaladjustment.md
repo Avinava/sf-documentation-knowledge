@@ -5,12 +5,10 @@ topic: appraisaladjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.986Z
+lastCollected: 2026-04-07T18:36:52.416Z
 estimatedTokens: 673
-keywords: [AppraisalAdjustment, adjustment, appraisal, item, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [AppraisalAdjustment, adjustment, appraisal, item, API, 63.0]
 ---
-
-# AppraisalAdjustment
 
 > Represents an adjustment for the appraisal or an appraisal item. This object is
       available in API version 63.0 and later.

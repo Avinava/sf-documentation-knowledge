@@ -5,12 +5,10 @@ topic: get-record-layout-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.306Z
+lastCollected: 2026-04-07T18:40:11.298Z
 estimatedTokens: 590
 keywords: [Record, Layout, Metadata, layouts]
 ---
-
-# Get Record Layout Metadata
 
 > Get metadata about page layouts for the specified object
     type.

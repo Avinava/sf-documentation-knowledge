@@ -5,12 +5,10 @@ topic: schedulebroadcastterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.305Z
+lastCollected: 2026-04-07T18:37:47.917Z
 estimatedTokens: 770
-keywords: [ScheduleBroadcastTerritory, Represent, service, territories, schedule, broadcast, sent, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [ScheduleBroadcastTerritory, Represent, service, territories, schedule, broadcast, sent, API, 60.0]
 ---
-
-# ScheduleBroadcastTerritory
 
 > Represent service territories to which a schedule broadcast is sent.
       This object is available in API version 60.0 and later.

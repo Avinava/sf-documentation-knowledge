@@ -5,12 +5,10 @@ topic: einstein-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.427Z
+lastCollected: 2026-04-07T18:36:41.118Z
 estimatedTokens: 230
-keywords: [Einstein, Standard, Invocable, Actions, Integrate, custom, deep-learning, models, CRM, workflows]
+keywords: [Einstein, Standard, Invocable, Actions, Integrate, deep-learning, models, CRM, workflows]
 ---
-
-# Einstein Standard Invocable Actions
 
 > Integrate custom deep-learning models into CRM workflows with
    Einstein Invocable Actions.

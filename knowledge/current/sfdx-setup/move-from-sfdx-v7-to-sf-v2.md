@@ -5,12 +5,10 @@ topic: move-from-sfdx-v7-to-sf-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.374Z
+lastCollected: 2026-04-07T18:40:09.319Z
 estimatedTokens: 2411
-keywords: [Move, sfdx, you’re, currently, highly, recommend, easy, uninstall, install, CLI, commands, you’ve, running, terminal, continuous]
+keywords: [Move, sfdx, you’re, currently, highly, recommend, easy, uninstall, install, CLI, commands, you’ve, running, terminal, continuous, integration, scripts, continue, work, npm, macOS, Windows, Installers, TAR, Files, Why, Troubleshoot, Error, code, EEXIST]
 ---
-
-# Move from sfdx (v7) to sf (v2)
 
 > If you’re currently using sfdx (v7), we highly
     recommend that you move to sf (v2). The move is easy: you

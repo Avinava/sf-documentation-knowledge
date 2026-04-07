@@ -5,12 +5,10 @@ topic: unsubscribing-from-events-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.317Z
+lastCollected: 2026-04-07T18:38:57.104Z
 estimatedTokens: 189
 keywords: [Unsubscribing, Events, Visualforce, code, how, call, unsubscribe, two]
 ---
-
-# Unsubscribing from Events in a Visualforce Page
 
 > The following code example shows how to call the unsubscribe method within a Visualforce page to unsubscribe from two events.
 

@@ -5,12 +5,10 @@ topic: soql-select-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.959Z
+lastCollected: 2026-04-07T18:40:09.914Z
 estimatedTokens: 2529
 keywords: [SOQL, SELECT, query, consists, statement, followed, clauses, TYPEOF, GROUP, ORDER, Implementation, Tips]
 ---
-
-# SOQL SELECT Syntax
 
 > SOQL query syntax consists of a required SELECT
         statement followed by one or more optional clauses, such as TYPEOF, WHERE, WITH, GROUP BY, and ORDER BY.

@@ -5,12 +5,10 @@ topic: head-markup-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.220Z
+lastCollected: 2026-04-07T18:37:33.602Z
 estimatedTokens: 815
-keywords: [Head, Markup, LWR, Sites, Experience, Cloud, control, over, included, Now, open, window, access]
+keywords: [Head, Markup, LWR, Sites, Experience, Cloud, control, over, included, Now, open, window]
 ---
-
-# Head Markup in LWR Sites
 
 > With LWR sites in Experience Cloud, you have complete control over the head markup
   included on the page. Now, when you open the Head Markup window, you can access this default

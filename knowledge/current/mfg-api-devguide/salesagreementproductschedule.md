@@ -5,12 +5,10 @@ topic: salesagreementproductschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.180Z
+lastCollected: 2026-04-07T18:38:14.582Z
 estimatedTokens: 2042
-keywords: [SalesAgreementProductSchedule, quantity, amount, pricing, product, category, particular, schedule, sales, agreement, API, version, 47.0, later, Calls]
+keywords: [SalesAgreementProductSchedule, quantity, amount, pricing, product, category, particular, schedule, sales, agreement, API, 47.0]
 ---
-
-# SalesAgreementProductSchedule
 
 > Represents the quantity or amount and the pricing information of a product or
       category for a particular schedule of the sales agreement. This object is available in

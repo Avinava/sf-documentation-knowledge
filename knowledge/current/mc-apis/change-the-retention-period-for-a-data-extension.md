@@ -5,12 +5,10 @@ topic: change-the-retention-period-for-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.543Z
+lastCollected: 2026-04-07T18:40:15.642Z
 estimatedTokens: 223
-keywords: [Change, Retention, Period, Data, Extension, date, determines, extensions, deleted, room, currently, keep, days, seven, clear]
+keywords: [Change, Retention, Period, Extension, date, determines, extensions, deleted, room, currently, keep, days, seven, clear, quickly, Call, exte, Sample, SOAP, Length, End]
 ---
-
-# Change the Retention Period for a Data Extension
 
 > The data extension retention date determines when data extensions are deleted. To make room for more data, you can change the retention date. For example, if you currently keep your data for 30 days, you can change the retention period to seven days to clear the data more quickly. Call the data exte
 

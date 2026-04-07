@@ -5,12 +5,10 @@ topic: best-practices-for-promotionpushremoteactionextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:22.754Z
+lastCollected: 2026-04-07T18:39:16.296Z
 estimatedTokens: 781
-keywords: [Best, Practices, PromotionPushRemoteActionExtension, topic, focuses, different, Apex, implementations, push, multiple, parent, promotions, Legacy, Mode, New]
+keywords: [Queueable, Best, Practices, PromotionPushRemoteActionExtension, topic, focuses, different, Apex, implementations, push, multiple, parent, promotions, Legacy, Mode, New, Sync, Snippet, Future, Batch]
 ---
-
-# Best Practices for PromotionPushRemoteActionExtension
 
 > This topic focuses on different types of Apex implementations to push multiple parent
   promotions.

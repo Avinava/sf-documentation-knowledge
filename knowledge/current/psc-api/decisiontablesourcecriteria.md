@@ -5,12 +5,10 @@ topic: decisiontablesourcecriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.440Z
+lastCollected: 2026-04-07T18:39:08.719Z
 estimatedTokens: 554
-keywords: [DecisionTableSourceCriteria, data, source, define, condition, logic, that's, decision, API, version, 59.0, later, SOAP, Calls, REST]
+keywords: [DecisionTableSourceCriteria, source, define, condition, logic, that's, decision, API, 59.0, SOAP, REST]
 ---
-
-# DecisionTableSourceCriteria
 
 > Represents the fields and values from a data source that are used to
          define the condition logic of the data that's used in a decision table. This object is

@@ -5,12 +5,10 @@ topic: advacctforecastsetusehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.182Z
+lastCollected: 2026-04-07T18:39:25.087Z
 estimatedTokens: 276
-keywords: [AdvAcctForecastSetUseHistory, History, tracked, AdvAcctForecastSetUse]
+keywords: [AdvAcctForecastSetUseHistory, tracked, AdvAcctForecastSetUse]
 ---
-
-# AdvAcctForecastSetUseHistory
 
 > History for tracked fields of AdvAcctForecastSetUse.
 

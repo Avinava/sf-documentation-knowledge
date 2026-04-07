@@ -5,12 +5,10 @@ topic: error-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.807Z
+lastCollected: 2026-04-07T18:36:52.227Z
 estimatedTokens: 107
-keywords: [Error, Message, Output, representation, errors, encountered, API, execution]
+keywords: [Error, Message, errors, encountered, API, execution]
 ---
-
-# Error Message
 
 > Output representation of the details of errors encountered during an API request
                 execution.

@@ -5,12 +5,10 @@ topic: develop-app-documentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.871Z
+lastCollected: 2026-04-07T18:38:53.183Z
 estimatedTokens: 326
 keywords: [Develop, App, Documentation, help, subscribers, provide, how, configure, customize]
 ---
-
-# Develop App Documentation
 
 > To help your subscribers make the most of your app, provide documentation about how to
   configure and customize your app.

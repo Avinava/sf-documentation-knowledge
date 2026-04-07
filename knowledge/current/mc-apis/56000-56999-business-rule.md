@@ -5,12 +5,10 @@ topic: 56000-56999-business-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.853Z
+lastCollected: 2026-04-07T18:40:14.864Z
 estimatedTokens: 51
 keywords: [56000-56999, Business, Rule]
 ---
-
-# 56000-56999 Business Rule
 
 # 56000-56999 Business Rule
 

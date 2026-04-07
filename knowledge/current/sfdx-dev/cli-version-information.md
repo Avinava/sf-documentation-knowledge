@@ -5,12 +5,10 @@ topic: cli-version-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.698Z
+lastCollected: 2026-04-07T18:40:08.654Z
 estimatedTokens: 27
-keywords: [CLI, Version, commands, view, Salesforce]
+keywords: [CLI, commands, view, Salesforce]
 ---
-
-# CLI Version Information
 
 > Use these commands to view version information about Salesforce CLI.
 

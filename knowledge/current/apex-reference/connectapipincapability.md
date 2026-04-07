@@ -5,12 +5,10 @@ topic: connectapipincapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.550Z
+lastCollected: 2026-04-07T18:36:10.824Z
 estimatedTokens: 222
-keywords: [ConnectApi.PinCapability, feed, element, capability, users, permission, pin]
+keywords: [ConnectApi.PinCapability, capability, users, permission, pin]
 ---
-
-# ConnectApi.PinCapability
 
 > If a feed element has this capability, users who have permission can
       pin it to a feed.

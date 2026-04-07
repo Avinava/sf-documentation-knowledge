@@ -5,12 +5,10 @@ topic: virtual-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.391Z
+lastCollected: 2026-04-07T18:36:46.236Z
 estimatedTokens: 85
-keywords: [Virtual, Calls, enable, communication, anywhere, video, connect, customer, service, agents, their, customers]
+keywords: [Virtual, enable, communication, anywhere, video, connect, customer, service, agents, their, customers]
 ---
-
-# Virtual Calls
 
 > Virtual calls enable communication from anywhere by using video calls to connect
   customer service agents to their customers.

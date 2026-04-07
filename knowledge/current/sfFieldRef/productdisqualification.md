@@ -5,12 +5,10 @@ topic: productdisqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.123Z
+lastCollected: 2026-04-07T18:39:55.690Z
 estimatedTokens: 394
-keywords: [ProductDisqualification, disqualification, rules, products, determine, product, doesn’t, qualify, users, user, context, API, version, 60.0, later]
+keywords: [ProductDisqualification, disqualification, products, determine, product, doesn’t, qualify, users, user, context, API, 60.0]
 ---
-
-# ProductDisqualification
 
 > Represents disqualification rules for products. The rules determine when the
          product doesn’t qualify to be displayed to users. The rules are based on user context.

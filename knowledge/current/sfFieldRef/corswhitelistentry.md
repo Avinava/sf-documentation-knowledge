@@ -5,13 +5,11 @@ topic: corswhitelistentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.424Z
+lastCollected: 2026-04-07T18:39:35.872Z
 estimatedTokens: 338
 namespace: NamespacePrefix
 keywords: [CorsWhitelistEntry, entry, cross-origin, resource, sharing, CORS, allowlist, Origins, included, REST, resources, Salesforce, org]
 ---
-
-# CorsWhitelistEntry
 
 > Represents an entry in the cross-origin resource sharing (CORS)
 			allowlist. Origins included in the allowlist can request REST resources from that

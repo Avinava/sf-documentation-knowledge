@@ -5,13 +5,11 @@ topic: describelayoutrow-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.625Z
+lastCollected: 2026-04-07T18:36:02.832Z
 estimatedTokens: 585
 namespace: QuickAction
-keywords: [DescribeLayoutRow, row, QuickAction.DescribeLayoutSection, Usage, getLayoutItems, getNumItems]
+keywords: [DescribeLayoutRow, row, QuickAction.DescribeLayoutSection, getLayoutItems, getNumItems]
 ---
-
-# DescribeLayoutRow Class
 
 > Represents a row in a QuickAction.DescribeLayoutSection.
 

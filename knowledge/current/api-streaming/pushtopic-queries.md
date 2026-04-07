@@ -5,12 +5,10 @@ topic: pushtopic-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.202Z
+lastCollected: 2026-04-07T18:36:51.529Z
 estimatedTokens: 391
-keywords: [PushTopic, Queries, query, basis, channel, record, undelete, events, generate, notification, SOQL, ensure, notifications, sent, timely]
+keywords: [PushTopic, Queries, query, basis, channel, record, undelete, events, generate, notification, SOQL, ensure, notifications, sent, timely, manner, requirements, apply]
 ---
-
-# PushTopic Queries
 
 > The PushTopic query is the basis of the PushTopic channel and defines which record create,
       update, delete, or undelete events generate a notification. This query must be a valid SOQL

@@ -5,12 +5,10 @@ topic: moderationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.221Z
+lastCollected: 2026-04-07T18:36:27.754Z
 estimatedTokens: 1556
-keywords: [ModerationRule, rule, Experience, Cloud, site, moderate, member-generated, content, criteria, enforce, moderation, action, take, rules, help]
+keywords: [ModerationRule, ModeratedEntityField, ModerationRuleType, RateLimitTimePeriod, rule, Experience, Cloud, site, moderate, member-generated, content, criteria, enforce, moderation, action, take, help, protect, spammers, bots, offensive, inappropriate, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ModerationRule
 
 > Represents a rule used in your Experience Cloud site to moderate member-generated
     content. Each rule specifies the member-generated content the rule applies to, the criteria to

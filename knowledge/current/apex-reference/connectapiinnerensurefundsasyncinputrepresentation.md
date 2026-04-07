@@ -5,12 +5,10 @@ topic: connectapiinnerensurefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.259Z
+lastCollected: 2026-04-07T18:36:05.597Z
 estimatedTokens: 473
-keywords: [Invoice, associated, OrderSummary]
+keywords: [Invoice, OrderSummary]
 ---
-
-# ConnectApi.InnerEnsureFundsAsyncInputRepresentation
 
 > ID of an Invoice and ID of the associated
     OrderSummary.

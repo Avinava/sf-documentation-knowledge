@@ -5,12 +5,10 @@ topic: aiapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.020Z
+lastCollected: 2026-04-07T18:36:22.274Z
 estimatedTokens: 566
-keywords: [AIApplication, instance, application, Einstein, Prediction, Builder, File, Suffix, Directory, Location, Version, Wildcard, Support, Manifest]
+keywords: [AIApplication, instance, application, Einstein, Prediction, Builder, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---
-
-# AIApplication
 
 > Represents an instance of an AI application. For example, Einstein Prediction Builder.
 

@@ -5,12 +5,10 @@ topic: an-example-of-using-with-jquery-mobile-with-jquery-mobile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.875Z
+lastCollected: 2026-04-07T18:38:52.186Z
 estimatedTokens: 414
-keywords: [jQuery, Mobile, Visualforce, Remote, Objects, designed, “blend”, well, JavaScript, frameworks, extended, simple, how, view, contacts]
+keywords: [jQuery, Mobile, Visualforce, Remote, designed, “blend”, well, JavaScript, frameworks, extended, simple, how, view, contacts, add, edit, Contact, Editor]
 ---
-
-# An Example of Using  with jQuery Mobile with jQuery Mobile
 
 > Visualforce Remote Objects is designed to “blend” well with JavaScript frameworks.
         This extended but simple example shows how to use Remote Objects with jQuery Mobile to view

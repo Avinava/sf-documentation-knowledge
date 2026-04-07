@@ -5,12 +5,10 @@ topic: encode-custom-activities-using-a-jwt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.028Z
+lastCollected: 2026-04-07T18:40:21.309Z
 estimatedTokens: 399
-keywords: [Encode, Custom, Activities, JWT, Marketing, Cloud, uses, JSON, Web, Token, pronounced, JOT, validate, identity, API]
+keywords: [Encode, Activities, JWT, Marketing, Cloud, uses, JSON, Web, Token, pronounced, JOT, validate, identity, API, retrieving, sensitive, performing, actions, encoded, encrypted, Encryption, handled, transport, Customer, Key, Signing, Secret, Items]
 ---
-
-# Encode Custom Activities Using a JWT
 
 > The Marketing Cloud uses a JSON Web Token (JWT - pronounced "JOT") to validate the identity of API calls to your custom activities. Use a JWT for activities that are retrieving sensitive data or performing sensitive actions. A JWT is encoded, but not encrypted. Encryption is handled at the transport
 

@@ -5,13 +5,11 @@ topic: aifeatureextractor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.883Z
+lastCollected: 2026-04-07T18:39:23.818Z
 estimatedTokens: 342
 namespace: NamespacePrefix
-keywords: [AIFeatureExtractor, feature, extractor, that’s, extract, input, data, making, predictions]
+keywords: [AIFeatureExtractor, feature, extractor, that’s, extract, making, predictions]
 ---
-
-# AIFeatureExtractor
 
 > Represents information about the feature extractor that’s used to
          extract the input data required for making predictions.

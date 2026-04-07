@@ -5,12 +5,10 @@ topic: tpmrtrpromotypefilterams
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.319Z
+lastCollected: 2026-04-07T18:37:05.041Z
 estimatedTokens: 183
 keywords: [TPM_RTRPromoTypeFilter_AMS, Sample, TPM, _RTRPromoTypeFilter, _AMS]
 ---
-
-# TPM_RTRPromoTypeFilter_AMS
 
 > Sample of the TPM_RTRPromoTypeFilter_AMS class.
 

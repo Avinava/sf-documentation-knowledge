@@ -5,12 +5,10 @@ topic: calculation-procedure-version-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.966Z
+lastCollected: 2026-04-07T18:36:36.490Z
 estimatedTokens: 644
-keywords: [Calculation, Procedure, Version, Definition, Input, representation, expression]
+keywords: [Calculation, Procedure, Definition, expression]
 ---
-
-# Calculation Procedure Version Definition Input
 
 > Input representation of the expression set version
     definition.

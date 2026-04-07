@@ -5,12 +5,10 @@ topic: calculationprocedurestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.183Z
+lastCollected: 2026-04-07T18:38:27.171Z
 estimatedTokens: 1478
-keywords: [CalculationProcedureStep, step, Expression, label, API, version, 53.0, later, Calls, Special, Access, Rules]
+keywords: [CalculationProcedureStep, step, Expression, label, API, 53.0]
 ---
-
-# CalculationProcedureStep
 
 > Defines a step in an Expression Set. The label for this object is Expression
          Set Step. This object is available in API version 53.0 and later.

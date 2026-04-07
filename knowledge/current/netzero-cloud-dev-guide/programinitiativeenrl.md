@@ -5,12 +5,10 @@ topic: programinitiativeenrl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.633Z
+lastCollected: 2026-04-07T18:38:19.316Z
 estimatedTokens: 1041
-keywords: [ProgramInitiativeEnrl, enrollment, sustainability, initiative, program, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [ProgramInitiativeEnrl, enrollment, sustainability, initiative, program, API, 59.0]
 ---
-
-# ProgramInitiativeEnrl
 
 > Represents the enrollment details of a sustainability initiative in a
          program. This object is available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: opensubtabbyprimarytabname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.422Z
+lastCollected: 2026-04-07T18:36:50.672Z
 estimatedTokens: 595
-keywords: [openSubtabByPrimaryTabName, Opens, new, subtab, primary, tab, displays, content, URL, relative, absolute, override, open, via, tab's]
+keywords: [Arguments, openSubtabByPrimaryTabName, Opens, new, subtab, primary, tab, displays, content, URL, relative, absolute, override, open, via, tab's, API, 22.0, Sample, Code–Visualforce]
 ---
-
-# openSubtabByPrimaryTabName()
 
 > Opens a new subtab (within a primary tab)
             that displays the content of a specified URL, which can be relative or absolute. You can

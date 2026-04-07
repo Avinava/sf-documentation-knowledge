@@ -5,12 +5,10 @@ topic: hide-call-controls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.561Z
+lastCollected: 2026-04-07T18:40:13.485Z
 estimatedTokens: 259
 keywords: [Hide, Call, control, buttons, appear, rep, Omni-Channel, widget, hidden, shown, visible]
 ---
-
-# Hide Call Controls
 
 > You can hide many of the call control buttons that appear to the rep in the
       Omni-Channel widget. These buttons can be hidden or shown for each call. By default, buttons

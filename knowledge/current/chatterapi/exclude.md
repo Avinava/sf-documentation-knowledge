@@ -5,12 +5,10 @@ topic: exclude
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.951Z
+lastCollected: 2026-04-07T18:37:23.995Z
 estimatedTokens: 696
-keywords: [exclude, specific, API, version, 27.0, later]
+keywords: [exclude, specific, API, 27.0]
 ---
-
-# exclude
 
 > To exclude specific properties from a response body, use
 the exclude request parameter.

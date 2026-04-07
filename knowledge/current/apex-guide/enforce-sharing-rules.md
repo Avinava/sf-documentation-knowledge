@@ -5,12 +5,10 @@ topic: enforce-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.243Z
+lastCollected: 2026-04-07T18:36:18.472Z
 estimatedTokens: 923
-keywords: [Enforce, Sharing, Rules, Apex, generally, runs, system, context, current, user’s, permissions, field-level, security, aren’t, taken]
+keywords: [Enforce, Sharing, Apex, generally, runs, system, context, current, user’s, permissions, field-level, security, aren’t, taken, account, code, execution, extend, specific, records, keyword, declaration, declare, enforced]
 ---
-
-# Enforce Sharing Rules
 
 > Apex generally runs in system context, so the current user’s permissions and
     field-level security aren’t taken into account during code execution. You can use sharing rules

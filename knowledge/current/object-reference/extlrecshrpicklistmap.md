@@ -5,12 +5,10 @@ topic: extlrecshrpicklistmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.206Z
+lastCollected: 2026-04-07T18:38:32.169Z
 estimatedTokens: 322
-keywords: [ExtlRecShrPicklistMap, external, record, share, picklist, mapping, partner, vendor, system, Connect, API, version, 62.0, later, Calls]
+keywords: [ExtlRecShrPicklistMap, external, record, share, picklist, mapping, partner, vendor, system, Connect, API, 62.0]
 ---
-
-# ExtlRecShrPicklistMap
 
 > Represents the external record share picklist field mapping between
          the partner and vendor system for Partner Connect. This object is available in API

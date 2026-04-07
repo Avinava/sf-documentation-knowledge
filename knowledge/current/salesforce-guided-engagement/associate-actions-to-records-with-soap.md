@@ -5,12 +5,10 @@ topic: associate-actions-to-records-with-soap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.087Z
+lastCollected: 2026-04-07T18:39:17.764Z
 estimatedTokens: 146
 keywords: [Associate, Actions, Records, SOAP, business, maintains, code, outside, Salesforce, platform, API, retrieve, RecordAction]
 ---
-
-# Associate Actions to Records with SOAP
 
 > If your business maintains code outside the Salesforce platform, you can use SOAP API to
   create, retrieve, update, or delete a RecordAction.

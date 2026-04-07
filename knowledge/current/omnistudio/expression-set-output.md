@@ -5,12 +5,10 @@ topic: expression-set-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.924Z
+lastCollected: 2026-04-07T18:36:39.616Z
 estimatedTokens: 330
-keywords: [Expression, Output, representation]
+keywords: [Expression]
 ---
-
-# Expression Set Output
 
 > Output representation of the expression set
       create,

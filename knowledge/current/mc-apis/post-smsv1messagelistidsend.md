@@ -5,12 +5,10 @@ topic: post-smsv1messagelistidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.060Z
+lastCollected: 2026-04-07T18:40:18.249Z
 estimatedTokens: 1873
-keywords: [POST, sms, messageList, send, Initiates, message, contact, **Overview**, Usage]
+keywords: [POST, sms, messageList, send, Initiates, message, contact, **Overview**]
 ---
-
-# POST /sms/v1/messageList/{id}/send
 
 > Initiates a message to one or more contact lists.
 

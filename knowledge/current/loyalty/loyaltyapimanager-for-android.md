@@ -5,12 +5,10 @@ topic: loyaltyapimanager-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.199Z
+lastCollected: 2026-04-07T18:38:09.490Z
 estimatedTokens: 2252
-keywords: [LoyaltyAPIManager, Android, Manage, requests, loyalty, program, interactions, application, APIs, manages, programs, Force, API, authentication, instance]
+keywords: [LoyaltyAPIManager, Android, Manage, requests, loyalty, program, interactions, application, APIs, manages, programs, Force, API, authentication, instance, ForceAuthenticator, injected, time, initialization, asynchronous, Retrofit, Kotlin, coroutines, Summary, enrollInPromotions, getEligiblePromotions, getMemberBenefits, getMemberProfile, getTransactions, getVouchers, postEnrollment, unEnrollPromotion]
 ---
-
-# LoyaltyAPIManager for Android
 
 > Manage requests related to loyalty program and interactions between the application and
     the APIs. The LoyaltyAPIManager class manages requests

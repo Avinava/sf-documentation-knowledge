@@ -5,12 +5,10 @@ topic: external-document-review-cc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.301Z
+lastCollected: 2026-04-07T18:37:25.233Z
 estimatedTokens: 199
-keywords: [External, Document, Review, Output, representation, version]
+keywords: [External, Document, Review]
 ---
-
-# External Document Review CC
 
 > Output representation for external document version review.
 

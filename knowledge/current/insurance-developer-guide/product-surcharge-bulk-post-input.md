@@ -5,12 +5,10 @@ topic: product-surcharge-bulk-post-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.327Z
+lastCollected: 2026-04-07T18:37:51.333Z
 estimatedTokens: 87
-keywords: [Product, Surcharge, Bulk, Post, Input, representation, records]
+keywords: [Product, Surcharge, Bulk, Post, records]
 ---
-
-# Product Surcharge Bulk Post Input
 
 > Input representation of the details of the product surcharge records.
 

@@ -5,12 +5,10 @@ topic: carerequestitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.710Z
+lastCollected: 2026-04-07T18:37:46.271Z
 estimatedTokens: 4434
-keywords: [CareRequestItem, care, service, including, modifiers, effective, date, requests, associated, Calls, Objects]
+keywords: [CareRequestItem, care, service, including, modifiers, effective, date, requests]
 ---
-
-# CareRequestItem
 
 > Represents the details of a care service request, including name,
          modifiers, and the effective date. One or more care service requests can be associated with

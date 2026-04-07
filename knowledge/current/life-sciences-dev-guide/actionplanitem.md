@@ -5,12 +5,10 @@ topic: actionplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.069Z
+lastCollected: 2026-04-07T18:37:57.632Z
 estimatedTokens: 410
-keywords: [ActionPlanItem, Standard, custom, extend, represent, junction, Action, Plan, Provider, Engagement, Compliance, Cycle, Calls, Life, Sciences, Cloud, standard, instance, action, plan]
+keywords: [ActionPlanItem, Standard, extend, represent, junction, Action, Plan, Provider, Engagement, Compliance, Cycle, Life, Sciences, Cloud, standard, instance, action, plan, item]
 ---
-
-# ActionPlanItem
 
 > Life Sciences Cloud fields extend the standard ActionPlanItem object to
          represent the instance of an action plan item.

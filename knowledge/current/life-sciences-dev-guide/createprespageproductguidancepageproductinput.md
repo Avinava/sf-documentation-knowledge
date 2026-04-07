@@ -5,12 +5,10 @@ topic: createprespageproductguidancepageproductinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.338Z
+lastCollected: 2026-04-07T18:37:54.669Z
 estimatedTokens: 471
-keywords: [createPresPageProductGuidance, pageProductInput, new, association, products, guidance, presentation, API, Version, Requires, Chatter]
+keywords: [createPresPageProductGuidance, pageProductInput, new, association, products, guidance, presentation, API, Requires, Chatter]
 ---
-
-# createPresPageProductGuidance(pageProductInput)
 
 > Create a new association between products and guidance with a
             presentation page.

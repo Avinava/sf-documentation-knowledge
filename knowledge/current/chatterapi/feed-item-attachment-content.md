@@ -5,12 +5,10 @@ topic: feed-item-attachment-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.029Z
+lastCollected: 2026-04-07T18:37:19.128Z
 estimatedTokens: 1014
-keywords: [Feed, Item, Attachment, Content]
+keywords: [Item, Attachment, Content]
 ---
-
-# Feed Item Attachment: Content
 
 > Content feed item attachment.
 

@@ -5,12 +5,10 @@ topic: dataintegrationrecordpurchasepermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.829Z
+lastCollected: 2026-04-07T18:38:29.708Z
 estimatedTokens: 265
-keywords: [DataIntegrationRecordPurchasePermission, Lightning, Data, purchase, credits, Salesforce, admin, granted, users, Calls, Special, Access, Rules]
+keywords: [DataIntegrationRecordPurchasePermission, Lightning, purchase, credits, Salesforce, admin, granted, users]
 ---
-
-# DataIntegrationRecordPurchasePermission
 
 > Indicates Lightning Data purchase credits that a Salesforce admin has
    granted to users.

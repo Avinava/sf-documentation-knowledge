@@ -5,12 +5,10 @@ topic: connectapicdpmlpredictioncontributionbase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.541Z
+lastCollected: 2026-04-07T18:36:07.918Z
 estimatedTokens: 91
-keywords: [Base, representation, Prediction, Contribution]
+keywords: [Base, Prediction, Contribution]
 ---
-
-# ConnectApi.CdpMlPredictionContributionBase
 
 > Base representation for a Prediction Contribution
 

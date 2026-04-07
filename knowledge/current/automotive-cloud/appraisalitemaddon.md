@@ -5,12 +5,10 @@ topic: appraisalitemaddon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.019Z
+lastCollected: 2026-04-07T18:36:52.449Z
 estimatedTokens: 485
-keywords: [AppraisalItemAddOn, add-on, product, accessory, enhances, complements, appraised, item, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [AppraisalItemAddOn, add-on, product, accessory, enhances, complements, appraised, item, API, 63.0]
 ---
-
-# AppraisalItemAddOn
 
 > Represents an add-on product, such as an accessory, that enhances or complements the
       appraised item. This object is available in API version 63.0 and later.

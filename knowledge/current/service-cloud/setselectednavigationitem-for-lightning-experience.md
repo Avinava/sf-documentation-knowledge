@@ -5,12 +5,10 @@ topic: setselectednavigationitem-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.926Z
+lastCollected: 2026-04-07T18:36:50.106Z
 estimatedTokens: 136
-keywords: [setSelectedNavigationItem, Lightning, Experience, selected, navigation, item, specific, works, console, apps, Arguments, Sample, Code]
+keywords: [Arguments, setSelectedNavigationItem, Lightning, Experience, selected, navigation, item, specific, works, console, apps, Sample, Code]
 ---
-
-# setSelectedNavigationItem() for Lightning Experience
 
 > Sets the selected navigation item to a specific ID. This method works only in
    Lightning console apps.

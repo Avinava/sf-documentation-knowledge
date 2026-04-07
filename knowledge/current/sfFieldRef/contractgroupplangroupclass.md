@@ -5,12 +5,10 @@ topic: contractgroupplangroupclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.115Z
+lastCollected: 2026-04-07T18:39:35.574Z
 estimatedTokens: 340
-keywords: [ContractGroupPlanGroupClass, association, Contract, Group, Plan, entity, define, classes, contributions, level, API, version, 56.0, later]
+keywords: [ContractGroupPlanGroupClass, association, Contract, Group, Plan, entity, define, classes, contributions, level, API, 56.0]
 ---
-
-# ContractGroupPlanGroupClass
 
 > Represents the association of a Contract Group Plan to a Group Class. Use this entity to define group classes and group class contributions at the contract group plan level. This object is available in API version 56.0 and later.
 

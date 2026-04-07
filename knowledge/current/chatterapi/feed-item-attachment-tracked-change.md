@@ -5,12 +5,10 @@ topic: feed-item-attachment-tracked-change
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.056Z
+lastCollected: 2026-04-07T18:37:19.163Z
 estimatedTokens: 200
-keywords: [Feed, Item, Attachment, Tracked, Change]
+keywords: [Item, Attachment, Tracked, Change]
 ---
-
-# Feed Item Attachment: Tracked Change
 
 > Tracked change feed item attachment.
 

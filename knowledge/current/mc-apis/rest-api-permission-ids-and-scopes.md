@@ -5,12 +5,10 @@ topic: rest-api-permission-ids-and-scopes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.366Z
+lastCollected: 2026-04-07T18:40:18.577Z
 estimatedTokens: 7341
 keywords: [REST, API, Permission, IDs, Scopes, Review, path, Marketing, Cloud, Installed, Packages, scope, resource, Integration]
 ---
-
-# REST API Permission IDs and Scopes
 
 > Review the permission ID, the path to the permission in Marketing Cloud, and the Installed Packages scope for each REST API resource. Review API Integration Permission Scopes.
 

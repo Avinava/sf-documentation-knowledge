@@ -5,12 +5,10 @@ topic: workprocedurestepfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.141Z
+lastCollected: 2026-04-07T18:40:07.057Z
 estimatedTokens: 389
-keywords: [WorkProcedureStepFeed, Feed, tracking, WorkProcedureStep]
+keywords: [WorkProcedureStepFeed, WorkProcedureStep]
 ---
-
-# WorkProcedureStepFeed
 
 > Feed tracking for WorkProcedureStep.
 

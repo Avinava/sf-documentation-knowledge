@@ -5,12 +5,10 @@ topic: installing-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.396Z
+lastCollected: 2026-04-07T18:36:51.737Z
 estimatedTokens: 2529
 keywords: [Installing, Packages, AppExchange, solution, Salesforce, org, straightforward, install, unmanaged, managed, package, configure, environment, users]
 ---
-
-# Installing Packages
 
 > Installing an AppExchange solution in your Salesforce org is straightforward. You
     install the solution as an unmanaged or managed package, and then you configure it for your

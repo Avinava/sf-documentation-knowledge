@@ -5,12 +5,10 @@ topic: disputequeuejobrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.272Z
+lastCollected: 2026-04-07T18:37:37.045Z
 estimatedTokens: 1085
-keywords: [DisputeQueueJobRun, job, that’s, run, fetch, claims, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [DisputeQueueJobRun, job, that’s, run, fetch, claims, API, 61.0]
 ---
-
-# DisputeQueueJobRun
 
 > Represents a job that’s run to fetch the details of the claims. This
       object is available in API version 61.0 and later.

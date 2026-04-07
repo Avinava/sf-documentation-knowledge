@@ -5,12 +5,10 @@ topic: service-cloud-voice-toolkit-api-sample-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.064Z
+lastCollected: 2026-04-07T18:40:13.005Z
 estimatedTokens: 118
-keywords: [Service, Cloud, Voice, Toolkit, API, Sample, Components, Lightning, component, examples, illustrate, how]
+keywords: [Service, Cloud, Voice, Toolkit, API, Sample, Lightning, examples, illustrate, how]
 ---
-
-# Service Cloud Voice Toolkit API Sample Components
 
 > These Lightning component examples illustrate how to use the Service Cloud Voice Toolkit
   API.

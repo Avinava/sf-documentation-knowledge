@@ -5,12 +5,10 @@ topic: supplierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.447Z
+lastCollected: 2026-04-07T18:40:03.137Z
 estimatedTokens: 254
-keywords: [SupplierHistory, History, tracked, Supplier]
+keywords: [SupplierHistory, tracked, Supplier]
 ---
-
-# SupplierHistory
 
 > History for tracked fields of Supplier.
 

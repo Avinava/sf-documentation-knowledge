@@ -5,13 +5,11 @@ topic: message-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.087Z
+lastCollected: 2026-04-07T18:36:15.408Z
 estimatedTokens: 1869
 namespace: ApexPages
-keywords: [Message, validation, errors, occur, user, saves, uses, standard, controller, Usage, Instantiation, ApexPages.Severity, severity, summary, detail]
+keywords: [Instantiation, Message, validation, errors, occur, user, saves, uses, standard, controller, ApexPages.Severity, severity, summary, detail, getComponentLabel, getDetail, getSeverity, getSummary]
 ---
-
-# Message Class
 
 > Contains validation errors that occur when the user saves the page that uses a standard
   controller.

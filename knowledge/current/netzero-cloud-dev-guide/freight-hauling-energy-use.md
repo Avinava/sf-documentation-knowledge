@@ -5,12 +5,10 @@ topic: freight-hauling-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.248Z
+lastCollected: 2026-04-07T18:38:16.831Z
 estimatedTokens: 788
 keywords: [Freight, Hauling, Energy, consumption]
 ---
-
-# Freight Hauling Energy Use
 
 > The Freight Hauling Energy Use object represents the energy consumption related to
     freight hauling.

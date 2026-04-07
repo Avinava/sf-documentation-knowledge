@@ -5,12 +5,10 @@ topic: annualemssnrdctntarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.283Z
+lastCollected: 2026-04-07T18:38:17.792Z
 estimatedTokens: 1059
-keywords: [AnnualEmssnRdctnTarget, emissions, reduction, target, company, particular, year, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AnnualEmssnRdctnTarget, emissions, reduction, target, company, particular, year, API, 54.0]
 ---
-
-# AnnualEmssnRdctnTarget
 
 > Represents information about the emissions reduction target set by a company for a particular year. This object is available in API version 54.0 and later.
 

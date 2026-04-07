@@ -5,12 +5,10 @@ topic: describe-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.414Z
+lastCollected: 2026-04-07T18:40:22.834Z
 estimatedTokens: 158
-keywords: [Describe, via, WSProxy, structure, SOAP, API, objects, call, function, either, representing, array, strings, multiple, Data]
+keywords: [Describe, via, WSProxy, structure, SOAP, API, call, function, either, representing, array, strings, multiple, Extension]
 ---
-
-# Describe via WSProxy
 
 > To return information on the structure of SOAP API objects, use the describe call. The function takes either a string representing the object type to describe, or an array of strings for multiple object types.
 

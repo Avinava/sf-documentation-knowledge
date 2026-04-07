@@ -5,12 +5,10 @@ topic: action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.515Z
+lastCollected: 2026-04-07T18:40:11.509Z
 estimatedTokens: 177
 keywords: [Action, actions, record, collection, records]
 ---
-
-# Action
 
 > The actions for a single record or a collection of
     records.

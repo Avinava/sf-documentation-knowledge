@@ -5,12 +5,10 @@ topic: lead-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.415Z
+lastCollected: 2026-04-07T18:37:42.561Z
 estimatedTokens: 163
-keywords: [Lead, Custom, extend, standard, Emergency, Management]
+keywords: [Lead, extend, standard, Emergency, Management]
 ---
-
-# Lead Custom Fields
 
 > Custom fields extend the standard Lead object for use in Emergency Response
       Management.

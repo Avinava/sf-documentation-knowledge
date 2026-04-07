@@ -5,12 +5,10 @@ topic: promotion-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:09.466Z
+lastCollected: 2026-04-07T18:35:54.517Z
 estimatedTokens: 1732
-keywords: [Promotion, DMO, Data, Cloud, model, loyalty, API, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Category, Relationships, Promotion, DMO, Cloud, model, loyalty, API, Primary, Subject, Area, Key]
 ---
-
-# Promotion DMO
 
 > The Promotion DMO is a Data Cloud data model object (DMO) for loyalty
       promotion details such as the type of promotion.

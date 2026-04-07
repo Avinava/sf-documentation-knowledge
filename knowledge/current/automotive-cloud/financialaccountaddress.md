@@ -5,12 +5,10 @@ topic: financialaccountaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.320Z
+lastCollected: 2026-04-07T18:36:52.738Z
 estimatedTokens: 1069
-keywords: [FinancialAccountAddress, address, financial, account, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [FinancialAccountAddress, address, financial, account, API, 60.0]
 ---
-
-# FinancialAccountAddress
 
 > Represents an address related to a financial account. This object is
       available in API version 60.0 and later.

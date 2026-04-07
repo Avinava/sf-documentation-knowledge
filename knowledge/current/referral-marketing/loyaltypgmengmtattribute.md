@@ -5,12 +5,10 @@ topic: loyaltypgmengmtattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.625Z
+lastCollected: 2026-04-07T18:39:10.009Z
 estimatedTokens: 1296
-keywords: [LoyaltyPgmEngmtAttribute, event, that’s, tracked, advocates, engagement, attributes, track, number, times, referred, their, friends, businesses, day]
+keywords: [LoyaltyPgmEngmtAttribute, event, that’s, tracked, advocates, engagement, attributes, track, number, times, referred, their, friends, businesses, day, rewarded, successful, referrals, API, 59.0]
 ---
-
-# LoyaltyPgmEngmtAttribute
 
 > Represents an event that’s tracked for advocates. For example,
          engagement attributes are used to track the number of times advocates have referred their

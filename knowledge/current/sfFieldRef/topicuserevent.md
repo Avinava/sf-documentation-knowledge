@@ -5,12 +5,10 @@ topic: topicuserevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.437Z
+lastCollected: 2026-04-07T18:40:04.170Z
 estimatedTokens: 219
-keywords: [TopicUserEvent, action, comment, post, share, made, user, topic, API, version, 42.0, later]
+keywords: [TopicUserEvent, action, comment, post, share, made, user, topic, API, 42.0]
 ---
-
-# TopicUserEvent
 
 > Represents an action (such as comment, post, like, or share) made by a
    user on a topic. This object is available in API version 42.0 and later.

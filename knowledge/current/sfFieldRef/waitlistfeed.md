@@ -5,12 +5,10 @@ topic: waitlistfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.389Z
+lastCollected: 2026-04-07T18:40:06.290Z
 estimatedTokens: 357
-keywords: [WaitlistFeed, Feed, tracking, Waitlist]
+keywords: [WaitlistFeed, Waitlist]
 ---
-
-# WaitlistFeed
 
 > Feed tracking for Waitlist.
 

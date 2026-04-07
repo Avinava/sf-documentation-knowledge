@@ -5,12 +5,10 @@ topic: search-click-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.694Z
+lastCollected: 2026-04-07T18:38:31.578Z
 estimatedTokens: 773
-keywords: [Search, Click, Event, events, contain, user’s, interaction, results, Interactions, instant, result, dialog, recorded, searches, app]
+keywords: [Search, Click, Event, events, contain, user’s, interaction, results, Interactions, instant, result, dialog, recorded, searches, app, including, Experience, Cloud, sites, included, However, unauthenticated, users, won’t, unique, Salesforce, user]
 ---
-
-# Search Click Event Type
 
 > Search Click events contain details about the user’s interaction with
          the search results in the search results page. Interactions with search results in the

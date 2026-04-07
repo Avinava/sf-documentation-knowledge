@@ -5,12 +5,10 @@ topic: socialcontributionsumhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.769Z
+lastCollected: 2026-04-07T18:40:02.454Z
 estimatedTokens: 273
-keywords: [SocialContributionSumHistory, History, tracked, SocialContributionSum]
+keywords: [SocialContributionSumHistory, tracked, SocialContributionSum]
 ---
-
-# SocialContributionSumHistory
 
 > History for tracked fields of SocialContributionSum.
 

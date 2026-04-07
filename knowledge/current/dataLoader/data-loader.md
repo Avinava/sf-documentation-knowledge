@@ -5,12 +5,10 @@ topic: data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.142Z
+lastCollected: 2026-04-07T18:37:28.176Z
 estimatedTokens: 436
-keywords: [Data, Loader, client, application, bulk, import, export, insert, Salesforce, records, importing, reads, extracts, loads, comma-separated]
+keywords: [Loader, client, application, bulk, import, export, insert, Salesforce, records, importing, reads, extracts, loads, comma-separated, CSV, files, database, connection, exporting, outputs]
 ---
-
-# Data Loader
 
 > Data Loader is a client application for the bulk import or export of data. Use it to
    insert, update, delete, or export Salesforce records. When importing data, Data Loader reads,

@@ -5,12 +5,10 @@ topic: liveagentclientchatqueueposition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.862Z
+lastCollected: 2026-04-07T18:38:50.085Z
 estimatedTokens: 241
-keywords: [liveAgent, clientChatQueuePosition, text, label, indicating, visitor's, position, queue, chat, session, initiated, via, button, uses, push]
+keywords: [Attributes, liveAgent, clientChatQueuePosition, text, label, indicating, visitor's, position, queue, chat, session, initiated, via, button, uses, push, routing, buttons, pull, effect]
 ---
-
-# liveAgent:clientChatQueuePosition
 
 > A text label indicating a visitor's position within a queue for a chat session initiated via a button that uses push routing. (On buttons that use pull routing, this component has no effect.)
 

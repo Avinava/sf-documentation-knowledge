@@ -5,12 +5,10 @@ topic: recent-list-views
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.856Z
+lastCollected: 2026-04-07T18:36:21.091Z
 estimatedTokens: 101
-keywords: [Recent, Views, recently, sObject, resource, REST, API, version, 32.0, later]
+keywords: [Recent, Views, recently, sObject, resource, REST, API, 32.0]
 ---
-
-# Recent List Views
 
 > Returns the list of recently used list views for the given sObject type. This resource
     is available in REST API version 32.0 and later.

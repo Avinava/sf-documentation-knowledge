@@ -5,12 +5,10 @@ topic: get-knowledge-language-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.470Z
+lastCollected: 2026-04-07T18:36:20.705Z
 estimatedTokens: 178
-keywords: [Knowledge, Language, Settings, including, resource, API, version, 31.0, later]
+keywords: [Knowledge, Language, Settings, including, resource, API, 31.0]
 ---
-
-# Get Knowledge Language Settings
 
 > Gets the existing Knowledge language settings, including the default knowledge language
   and a list of supported Knowledge language information. This resource can be used in API version

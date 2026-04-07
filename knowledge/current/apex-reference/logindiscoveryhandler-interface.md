@@ -5,13 +5,11 @@ topic: logindiscoveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.829Z
+lastCollected: 2026-04-07T18:36:13.129Z
 estimatedTokens: 1853
 namespace: Auth
-keywords: [LoginDiscoveryHandler, Log, customer, partner, identifier, email, phone, number, successful, redirect, user, Experience, Cloud, site, start]
+keywords: [LoginDiscoveryHandler, Log, customer, partner, identifier, email, phone, number, successful, redirect, user, Experience, Cloud, site, start, URL, login, startUrl, requestAttributes, Implementation, Code, Filter, Discovery, Users, Profile]
 ---
-
-# LoginDiscoveryHandler Interface
 
 > Log in the customer or partner given the specified identifier, such
       as email or phone number. If successful, redirect the user to the Experience Cloud site page

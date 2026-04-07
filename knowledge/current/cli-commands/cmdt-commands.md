@@ -5,12 +5,10 @@ topic: cmdt-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:54.133Z
+lastCollected: 2026-04-07T18:35:38.925Z
 estimatedTokens: 3158
-keywords: [cmdt, Commands, Generate, custom, metadata, provided, Examples, Flags, Aliases, fromorg, record, records]
+keywords: [Flags, cmdt, Commands, Generate, metadata, provided, Examples, Aliases, fromorg, record, records]
 ---
-
-# cmdt Commands
 
 > Generate a field for a custom metadata type based on the provided field type.
 

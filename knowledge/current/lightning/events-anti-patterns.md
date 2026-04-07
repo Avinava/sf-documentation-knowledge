@@ -5,12 +5,10 @@ topic: events-anti-patterns
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.893Z
+lastCollected: 2026-04-07T18:38:03.992Z
 estimatedTokens: 368
 keywords: [Events, Anti-Patterns, avoid, Don't, Fire, Event, Renderer, Don’t, onclick, ontouchend]
 ---
-
-# Events Anti-Patterns
 
 > These are some anti-patterns that you should avoid when
 using events.

@@ -5,12 +5,10 @@ topic: invoice-recovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.990Z
+lastCollected: 2026-04-07T18:35:45.961Z
 estimatedTokens: 194
-keywords: [Invoice, Recovery, Output, representation, recovered, billing, schedules]
+keywords: [Invoice, Recovery, recovered, billing, schedules]
 ---
-
-# Invoice Recovery
 
 > Output representation of the details of the recovered invoice and billing
     schedules.

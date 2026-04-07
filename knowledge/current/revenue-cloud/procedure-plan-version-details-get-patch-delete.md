@@ -5,12 +5,10 @@ topic: procedure-plan-version-details-get-patch-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.563Z
+lastCollected: 2026-04-07T18:35:44.551Z
 estimatedTokens: 907
-keywords: [Procedure, Plan, Version, PATCH, definition, record]
+keywords: [Procedure, Plan, PATCH, definition, record]
 ---
-
-# Procedure Plan Version Details (GET, PATCH, DELETE)
 
 > Get, update, or delete a procedure plan definition version record by
       using the record ID.

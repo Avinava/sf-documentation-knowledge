@@ -6,13 +6,10 @@ topic: suppressing-the-salesforce-user-interface-and-styles
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.126Z
+lastCollected: 2026-04-07T18:38:52.432Z
 estimatedTokens: 659
-keywords: [Suppressing, Salesforce, User, Styles, Visualforce, pages, adopt, visual, styling, “chrome”, rest, behavior, lets, look, they’re]
+keywords: [Suppressing, Salesforce, User, Styles, Visualforce, pages, adopt, visual, styling, “chrome”, rest, behavior, lets, look, they’re, built, right, don’t, want, feel, suppress, various, aspects, design]
 ---
-
-# Suppressing the Salesforce User Interface and
-    Styles
 
 > By default, Visualforce pages adopt the same visual styling and user interface “chrome”
     as the rest of Salesforce. This default styling behavior lets you create pages that look like

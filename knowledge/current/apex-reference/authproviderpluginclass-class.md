@@ -5,13 +5,11 @@ topic: authproviderpluginclass-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.178Z
+lastCollected: 2026-04-07T18:35:59.456Z
 estimatedTokens: 3276
 namespace: Auth
-keywords: [AuthProviderPluginClass, custom, metadata, API, OAuth-based, authentication, provider, sign-on, Salesforce, Usage, getCustomMetadataType, getUserInfo, authProviderConfiguration, handleCallback, callbackState]
+keywords: [AuthProviderPluginClass, metadata, API, OAuth-based, authentication, provider, sign-on, Salesforce, getCustomMetadataType, getUserInfo, authProviderConfiguration, handleCallback, callbackState, initiate, stateToPropagate, refresh, refreshToken, Code, Sample, Test, Classes]
 ---
-
-# AuthProviderPluginClass Class
 
 > Returns the custom metadata type API name for a custom OAuth-based
       authentication provider for single sign-on to Salesforce.

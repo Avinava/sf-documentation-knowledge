@@ -5,12 +5,10 @@ topic: problem-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.307Z
+lastCollected: 2026-04-07T18:39:01.460Z
 estimatedTokens: 264
-keywords: [Problem, Definition, Input, representation]
+keywords: [Problem, Definition]
 ---
-
-# Problem Definition Input
 
 > Input representation for the problem definition.
 

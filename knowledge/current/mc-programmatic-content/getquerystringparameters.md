@@ -5,12 +5,10 @@ topic: getquerystringparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.719Z
+lastCollected: 2026-04-07T18:40:24.167Z
 estimatedTokens: 117
 keywords: [GetQueryStringParameters, Function, Ordinal, Key, identify, applicable, query, **Overview**, **Syntax**]
 ---
-
-# GetQueryStringParameters
 
 > GetQueryStringParameters(1)
 

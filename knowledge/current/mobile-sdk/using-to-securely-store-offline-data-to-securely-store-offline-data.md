@@ -5,12 +5,10 @@ topic: using-to-securely-store-offline-data-to-securely-store-offline-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.693Z
+lastCollected: 2026-04-07T18:40:26.931Z
 estimatedTokens: 1735
-keywords: [Securely, Store, Offline, Data, Mobile, devices, lose, connection, any, time, environments, hospitals, airplanes, often, prohibit]
+keywords: [Securely, Store, Offline, Mobile, devices, lose, connection, any, time, environments, hospitals, airplanes, often, prohibit, connectivity, handle, situations, it’s, apps, continue, function, they]
 ---
-
-# Using  to Securely Store Offline Data to Securely Store Offline Data
 
 > Mobile devices can lose connection at any time, and environments such as
    hospitals and airplanes often prohibit connectivity. To handle these situations, it’s

@@ -5,12 +5,10 @@ topic: formula-operators-and-functions-by-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.264Z
+lastCollected: 2026-04-07T18:40:12.276Z
 estimatedTokens: 4059
-keywords: [Formula, Operators, Functions, Context, building, formulas, everywhere, include, validation, rules, approval, processes, workflow, unless, otherwise]
+keywords: [Formula, Operators, Functions, Context, building, formulas, everywhere, include, validation, approval, processes, workflow, unless, otherwise, Math, Logical, Text, Date, Time, Summary, Advanced]
 ---
-
-# Formula Operators and Functions by Context
 
 > Use these operators and functions when building formulas. All functions are available
       everywhere that you can include a formula, such as formula fields, validation rules, approval

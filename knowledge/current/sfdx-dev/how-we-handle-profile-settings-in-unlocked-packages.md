@@ -5,12 +5,10 @@ topic: how-we-handle-profile-settings-in-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.913Z
+lastCollected: 2026-04-07T18:40:08.879Z
 estimatedTokens: 954
-keywords: [How, Handle, Profile, Settings, Unlocked, Packages, package, version, creation, second-generation, managed, build, system, inspects, contents]
+keywords: [How, Handle, Profile, Settings, Unlocked, Packages, package, creation, second-generation, managed, build, system, inspects, contents, profiles, project, directory, path, preserves, directly, metadata, itself, any, unrelated, package’s, discarded, Retain, License]
 ---
-
-# How We Handle Profile Settings in Unlocked Packages
 
 > During package version creation for unlocked or second-generation managed
   packages, the build system inspects the contents of all profiles in the DX project directory, not

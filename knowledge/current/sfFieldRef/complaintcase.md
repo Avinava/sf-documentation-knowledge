@@ -5,12 +5,10 @@ topic: complaintcase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.256Z
+lastCollected: 2026-04-07T18:39:34.704Z
 estimatedTokens: 324
-keywords: [ComplaintCase, association, complaint, corresponding, case, API, version, 52.0, later]
+keywords: [ComplaintCase, association, complaint, corresponding, case, API, 52.0]
 ---
-
-# ComplaintCase
 
 > Represents the association between a public complaint and its corresponding case. This object is available in API version 52.0 and later.
 

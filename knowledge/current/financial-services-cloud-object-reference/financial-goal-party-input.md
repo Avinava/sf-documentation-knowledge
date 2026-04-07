@@ -5,12 +5,10 @@ topic: financial-goal-party-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.119Z
+lastCollected: 2026-04-07T18:37:34.675Z
 estimatedTokens: 124
-keywords: [Financial, Goal, Party, Input, adding, removing, members]
+keywords: [Financial, Goal, Party, adding, removing, members]
 ---
-
-# Financial Goal Party Input
 
 > Input for adding or removing financial goal members.
 

@@ -5,12 +5,10 @@ topic: cgcloudsystemsettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:21.647Z
+lastCollected: 2026-04-07T18:39:15.095Z
 estimatedTokens: 864
-keywords: [cgcloud__System_Setting__c, Custom, setting, stores, system, attributes, key-value, pair, API, version, 54.0, later, cgcloud, _System, _Setting]
+keywords: [cgcloud__System_Setting__c, setting, stores, system, attributes, key-value, pair, API, 54.0, cgcloud, _System, _Setting]
 ---
-
-# cgcloud__System_Setting__c
 
 > Custom setting that stores all system setting attributes as a
          key-value pair. This object is available in API version 54.0 and later.

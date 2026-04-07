@@ -5,12 +5,10 @@ topic: dgtassetmgmtprvdlghtcpnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.443Z
+lastCollected: 2026-04-07T18:36:24.867Z
 estimatedTokens: 734
-keywords: [DgtAssetMgmtPrvdLghtCpnt, Lightning, web, component, configurations, external, content, providers, digital, asset, management, DAM, systems, metadata, integration]
+keywords: [DgtAssetMgmtPrvdLghtCpnt, Lightning, web, configurations, external, content, providers, digital, asset, management, DAM, systems, metadata, integration, Salesforce, CMS, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DgtAssetMgmtPrvdLghtCpnt
 
 > Represents the Lightning web component configurations for
       external content providers, such as digital asset management (DAM) systems. This metadata type

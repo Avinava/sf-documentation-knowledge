@@ -5,12 +5,10 @@ topic: business-objective-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.928Z
+lastCollected: 2026-04-07T18:37:16.987Z
 estimatedTokens: 203
 keywords: [Business, Objective, Summary, goal]
 ---
-
-# Business Objective Summary
 
 > Summary of a business objective, or goal.
 

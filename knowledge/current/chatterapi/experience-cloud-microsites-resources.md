@@ -5,12 +5,10 @@ topic: experience-cloud-microsites-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.541Z
+lastCollected: 2026-04-07T18:37:14.538Z
 estimatedTokens: 233
 keywords: [Experience, Cloud, Microsites, Resources, save, submit, marketing, integration, forms, site]
 ---
-
-# Experience Cloud Microsites Resources
 
 > Get, save, and submit marketing integration forms for an Experience Cloud
       site.

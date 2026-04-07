@@ -5,12 +5,10 @@ topic: contract-document-version-cc-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.165Z
+lastCollected: 2026-04-07T18:37:25.118Z
 estimatedTokens: 281
-keywords: [Contract, Document, Version, Output, representation, latest, including, status, associated, documents, attachments]
+keywords: [Contract, Document, latest, including, status, documents, attachments]
 ---
-
-# Contract Document Version CC Response
 
 > Output representation of the latest details of a contract document version, including its
     ID, status, and associated documents and attachments.

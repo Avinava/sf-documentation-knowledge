@@ -5,12 +5,10 @@ topic: programenrleligibilitycrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.420Z
+lastCollected: 2026-04-07T18:38:01.256Z
 estimatedTokens: 527
-keywords: [ProgramEnrlEligibilityCrit, junction, Program, Enrollment, Eligibility, Criteria, objects, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [ProgramEnrlEligibilityCrit, junction, Program, Enrollment, Eligibility, Criteria, API, 61.0]
 ---
-
-# ProgramEnrlEligibilityCrit
 
 > Represents a junction between Program and Enrollment Eligibility Criteria
          objects. This object is available in API version 61.0 and later.

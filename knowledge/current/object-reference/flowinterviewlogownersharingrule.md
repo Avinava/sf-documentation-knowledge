@@ -5,12 +5,10 @@ topic: flowinterviewlogownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.533Z
+lastCollected: 2026-04-07T18:38:32.517Z
 estimatedTokens: 584
-keywords: [FlowInterviewLogOwnerSharingRule, rules, sharing, FlowInterviewLog, users, owner.This, API, version, 49.0, later, Calls, Usage]
+keywords: [FlowInterviewLogOwnerSharingRule, sharing, FlowInterviewLog, users, owner.This, API, 49.0]
 ---
-
-# FlowInterviewLogOwnerSharingRule
 
 > Represents the rules for sharing a FlowInterviewLog with users other
       than the owner.This object is available in API version 49.0 and later.

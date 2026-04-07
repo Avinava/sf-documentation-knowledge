@@ -5,12 +5,10 @@ topic: delete-a-triggeredsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.342Z
+lastCollected: 2026-04-07T18:40:24.783Z
 estimatedTokens: 395
-keywords: [TriggeredSend, Specify, unique, identifier, props, order, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, TriggeredSend, Specify, unique, identifier, props, order, identify, PHP]
 ---
-
-# Delete a TriggeredSend
 
 > Use the Delete method to delete a triggeredsend. Specify a unique identifier in the props properties in order to identify which triggeredsend to update:
 

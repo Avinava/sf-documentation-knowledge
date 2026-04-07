@@ -5,12 +5,10 @@ topic: issue-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.016Z
+lastCollected: 2026-04-07T18:37:53.289Z
 estimatedTokens: 822
-keywords: [Issue, Policy, issuance, process, begins, policyholder, accepts, quote, provided, insurance, company, new, quoting, managed, outside, Salesforce, third-party, system, results, creation]
+keywords: [Issue, Policy, issuance, process, begins, policyholder, accepts, quote, provided, insurance, company, new, quoting, managed, outside, Salesforce, third-party, system, results, creation, record, formally, establishing, coverage, customer]
 ---
-
-# Issue Policy
 
 > Issue a new insurance policy when quoting is managed outside Salesforce, by a
     third-party system. This process results in the creation of a policy record in Salesforce,

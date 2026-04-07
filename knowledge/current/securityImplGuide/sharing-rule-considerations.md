@@ -5,12 +5,10 @@ topic: sharing-rule-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:29.094Z
+lastCollected: 2026-04-07T18:39:23.027Z
 estimatedTokens: 1865
-keywords: [Sharing, Rule, Considerations, Review, rules]
+keywords: [Sharing, Rule, Considerations, Review]
 ---
-
-# Sharing Rule Considerations
 
 > Review these considerations before using sharing rules.
 

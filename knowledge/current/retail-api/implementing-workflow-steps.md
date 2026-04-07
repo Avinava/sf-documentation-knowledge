@@ -5,12 +5,10 @@ topic: implementing-workflow-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.365Z
+lastCollected: 2026-04-07T18:39:10.851Z
 estimatedTokens: 163
 keywords: [Implementing, Workflow, Steps, implemented, APEX, classes, System.Callable]
 ---
-
-# Implementing Workflow Steps
 
 > Workflow Steps are implemented as APEX classes that are used in implementing the
         System.Callable interface.

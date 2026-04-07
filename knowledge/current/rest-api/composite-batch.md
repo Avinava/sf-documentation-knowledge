@@ -5,12 +5,10 @@ topic: composite-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.257Z
+lastCollected: 2026-04-07T18:36:20.466Z
 estimatedTokens: 670
 keywords: [Composite, Batch, Executes, subrequests, bodies, HTTP, statuses, subrequest, counts, against, rate, limits]
 ---
-
-# Composite Batch
 
 > Executes up to 25 subrequests in a single request. The
     response bodies and HTTP statuses of the subrequests in the batch are returned in a single

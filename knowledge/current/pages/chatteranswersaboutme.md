@@ -5,12 +5,10 @@ topic: chatteranswersaboutme
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.204Z
+lastCollected: 2026-04-07T18:38:49.228Z
 estimatedTokens: 248
-keywords: [chatteranswers, aboutme, Chatter, Answers, profile, box, user, photo, username, Edit, settings, link, Sign, accessible, authenticated]
+keywords: [Attributes, chatteranswers, aboutme, Chatter, Answers, profile, box, user, photo, username, Edit, settings, link, Sign, accessible, authenticated, users, customized, experience, displays]
 ---
-
-# chatteranswers:aboutme
 
 > Chatter Answers profile box which contains the user photo, username, the Edit my settings link, and the Sign out link. The profile box is accessible only to authenticated users. Use with other Chatter Answers components to create a customized experience for your Chatter Answers users.
 

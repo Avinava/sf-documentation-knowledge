@@ -5,12 +5,10 @@ topic: add-actions-to-dimensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.196Z
+lastCollected: 2026-04-07T18:37:02.735Z
 estimatedTokens: 1792
-keywords: [Add, Actions, Dimensions, record-level, dimension, dashboard, viewers, perform, directly, CRM, Analytics, chart, action, Salesforce, record]
+keywords: [Add, Actions, Dimensions, record-level, dimension, dashboard, viewers, perform, directly, CRM, Analytics, chart, action, Salesforce, record, creating, task, opportunity, open, URL, Multi-Org, Environment, Website]
 ---
-
-# Add Actions to Dimensions
 
 > Set up record-level actions on a dimension so that dashboard viewers can perform actions
     directly from a CRM Analytics chart or table. Each action applies to a single Salesforce record,

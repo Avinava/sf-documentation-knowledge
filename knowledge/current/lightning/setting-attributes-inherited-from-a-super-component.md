@@ -5,12 +5,10 @@ topic: setting-attributes-inherited-from-a-super-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.515Z
+lastCollected: 2026-04-07T18:38:05.728Z
 estimatedTokens: 439
-keywords: [Setting, Attributes, Inherited, Super, Component, <aura, set>, markup, sub, attribute]
+keywords: [Setting, Attributes, Inherited, Super, <aura, set>, markup, sub, attribute]
 ---
-
-# Setting Attributes Inherited from a Super Component
 
 > Use <aura:set> in
                 the markup of a sub component to set the value of an inherited attribute.

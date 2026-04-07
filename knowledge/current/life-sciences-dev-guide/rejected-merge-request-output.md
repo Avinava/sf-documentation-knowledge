@@ -5,12 +5,10 @@ topic: rejected-merge-request-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.194Z
+lastCollected: 2026-04-07T18:37:55.656Z
 estimatedTokens: 291
-keywords: [Rejected, Merge, Output, due, invalid, input]
+keywords: [Rejected, Merge, due, invalid]
 ---
-
-# Rejected Merge Request Output
 
 > A merge request that was rejected due to invalid input.
 

@@ -5,12 +5,10 @@ topic: paymentcartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.107Z
+lastCollected: 2026-04-07T18:39:07.312Z
 estimatedTokens: 629
-keywords: [PaymentCartItem, line, item, payment, cart, associated, parent, PaymentCart, record, typically, references, invoice, Amount, contributes, TotalAmount]
+keywords: [PaymentCartItem, line, item, payment, cart, parent, PaymentCart, record, typically, references, invoice, Amount, contributes, TotalAmount, roll-up, summary, API, 66.0]
 ---
-
-# PaymentCartItem
 
 > Represents a line item in a payment cart. Each payment cart item is
          associated with a parent PaymentCart record and typically references an invoice. The Amount

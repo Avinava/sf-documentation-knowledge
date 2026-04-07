@@ -5,12 +5,10 @@ topic: vpl360cancelcartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.909Z
+lastCollected: 2026-04-07T18:38:11.178Z
 estimatedTokens: 123
-keywords: [VPL360CancelCartItem, Integration, Procedure, cancel, item, cart, Sample, Input, Output, Calls]
+keywords: [VPL360CancelCartItem, Integration, Procedure, cancel, item, cart, Sample]
 ---
-
-# VPL360CancelCartItem
 
 > This Integration Procedure is used to cancel an item in the
     cart.

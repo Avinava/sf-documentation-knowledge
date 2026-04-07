@@ -5,12 +5,10 @@ topic: sales-agreement-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.444Z
+lastCollected: 2026-04-07T18:38:12.741Z
 estimatedTokens: 96
-keywords: [Sales, Agreement, Output, representation, conversion, result]
+keywords: [Sales, Agreement, conversion, result]
 ---
-
-# Sales Agreement Output
 
 > Output representation of the sales agreement conversion
     result.

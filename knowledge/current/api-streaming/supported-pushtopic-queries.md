@@ -5,12 +5,10 @@ topic: supported-pushtopic-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:05.269Z
+lastCollected: 2026-04-07T18:36:51.601Z
 estimatedTokens: 722
-keywords: [PushTopic, Queries, custom, objects, subset, standard, including, Considerations]
+keywords: [Considerations, PushTopic, Queries, subset, standard, including]
 ---
-
-# Supported PushTopic Queries
 
 > All custom objects are supported in PushTopic queries. A subset of standard objects is
       supported in PushTopic queries, including:

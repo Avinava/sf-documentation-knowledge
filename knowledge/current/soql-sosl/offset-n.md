@@ -5,12 +5,10 @@ topic: offset-n
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:15.318Z
+lastCollected: 2026-04-07T18:40:10.295Z
 estimatedTokens: 539
-keywords: [OFFSET, expecting, records, query’s, results, display, multiple, pages, clause, SOSL, query, jump, displaying, efficient, way]
+keywords: [OFFSET, expecting, records, query’s, results, display, multiple, pages, clause, SOSL, query, jump, displaying, efficient, way, handle, large, Considerations]
 ---
-
-# OFFSET  n
 
 > When expecting many records in a query’s results, you can display the results in
     multiple pages by using the OFFSET clause in a SOSL query.

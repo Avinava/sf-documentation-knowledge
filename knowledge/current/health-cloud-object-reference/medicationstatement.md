@@ -5,12 +5,10 @@ topic: medicationstatement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.192Z
+lastCollected: 2026-04-07T18:37:42.330Z
 estimatedTokens: 2135
-keywords: [MedicationStatement, record, medication, patient, currently, taking, taken, past, API, version, 51.0, later, Calls, Additional, Objects, Medication​Statement, FHIR, resource, maps, Salesforce​]
+keywords: [MedicationStatement, record, medication, patient, currently, taking, taken, past, API, 51.0, Additional, Medication​Statement, FHIR, resource, maps, Salesforce​, V4​.0, Clinical, Model, Mapping]
 ---
-
-# MedicationStatement
 
 > Represents a record of medication that the patient is currently taking or has
       taken in the past. This object is available in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: cmplctrlvertestexecution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.702Z
+lastCollected: 2026-04-07T18:36:44.433Z
 estimatedTokens: 838
-keywords: [CmplCtrlVerTestExecution, captured, execution, compliance, control, test, include, status, results, timing, recommendations, API, version, 66.0, later]
+keywords: [CmplCtrlVerTestExecution, captured, execution, compliance, control, test, include, status, results, timing, recommendations, API, 66.0]
 ---
-
-# CmplCtrlVerTestExecution
 
 > Represents the details captured during the execution of a compliance control
          test. Details include execution status, results, timing, and recommendations. This

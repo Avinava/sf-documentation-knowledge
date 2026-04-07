@@ -5,12 +5,10 @@ topic: telemetryactndefstepattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.963Z
+lastCollected: 2026-04-07T18:38:13.248Z
 estimatedTokens: 631
-keywords: [TelemetryActnDefStepAttr, attributes, telemetry, action, definition, step, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
+keywords: [TelemetryActnDefStepAttr, attributes, telemetry, action, definition, step, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample]
 ---
-
-# TelemetryActnDefStepAttr
 
 > Represents the attributes of a telemetry action definition
 			step.

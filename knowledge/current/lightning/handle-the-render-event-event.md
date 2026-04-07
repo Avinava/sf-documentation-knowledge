@@ -5,12 +5,10 @@ topic: handle-the-render-event-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.419Z
+lastCollected: 2026-04-07T18:38:04.573Z
 estimatedTokens: 484
-keywords: [Handle, render, Event, component, rendered, rerendered, aura, valueRender, known, fired, perform, post-processing, DOM, react, rendering]
+keywords: [Handle, render, Event, rendered, rerendered, aura, valueRender, known, fired, perform, post-processing, DOM, react, rendering, rerendering, preferred, easier, alternative, creating, renderer]
 ---
-
-# Handle the  render Event Event
 
 > When a component is rendered or rerendered, the aura:valueRender event, also known as the render event, is fired. Handle this event to perform
       post-processing on the DOM or react to component rendering or rerendering. The event is

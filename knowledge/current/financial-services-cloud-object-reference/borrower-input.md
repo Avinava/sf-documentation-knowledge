@@ -5,12 +5,10 @@ topic: borrower-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.019Z
+lastCollected: 2026-04-07T18:37:34.563Z
 estimatedTokens: 884
-keywords: [Borrower, Input, co-borrower, loan, application]
+keywords: [Borrower, co-borrower, loan, application]
 ---
-
-# Borrower Input
 
 > Represents details of the borrower or co-borrower for the loan
       application.

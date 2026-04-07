@@ -5,12 +5,10 @@ topic: expression-set-custom-element-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.106Z
+lastCollected: 2026-04-07T18:39:01.250Z
 estimatedTokens: 108
-keywords: [Expression, Custom, Element, Step, Input, representation]
+keywords: [Expression, Step]
 ---
-
-# Expression Set Custom Element Step Input
 
 > Input representation of a custom element step in an expression
       set.

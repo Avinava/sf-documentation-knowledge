@@ -5,12 +5,10 @@ topic: commerce-einstein-webstore-activities-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.057Z
+lastCollected: 2026-04-07T18:37:11.885Z
 estimatedTokens: 267
 keywords: [Commerce, Einstein, Webstore, Activities, Export, Enqueue, job, activity, store]
 ---
-
-# Commerce Einstein Webstore Activities, Export
 
 > Enqueue a job to export Commerce Einstein activity for a
     store.

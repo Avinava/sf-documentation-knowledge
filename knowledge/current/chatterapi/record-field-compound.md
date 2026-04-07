@@ -5,12 +5,10 @@ topic: record-field-compound
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.460Z
+lastCollected: 2026-04-07T18:37:22.565Z
 estimatedTokens: 239
 keywords: [Record, Compound, composite, subfields]
 ---
-
-# Record Field: Compound
 
 > Record field that is a composite of subfields.
 

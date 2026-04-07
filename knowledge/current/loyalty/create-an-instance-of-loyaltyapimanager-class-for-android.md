@@ -5,12 +5,10 @@ topic: create-an-instance-of-loyaltyapimanager-class-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.185Z
+lastCollected: 2026-04-07T18:38:09.469Z
 estimatedTokens: 751
 keywords: [Instance, LoyaltyAPIManager, Android, interact, Loyalty, Management, APIs]
 ---
-
-# Create an Instance of LoyaltyAPIManager Class for Android
 
 > Create an instance of the LoyaltyAPIManager class and
   interact with the Loyalty Management APIs.

@@ -5,12 +5,10 @@ topic: deleting-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.127Z
+lastCollected: 2026-04-07T18:39:17.805Z
 estimatedTokens: 127
-keywords: [Deleting, Data, Salesforce, deletion, mechanism, profound, effect, performance, large, volumes, uses, Recycle, Bin, metaphor, users]
+keywords: [Deleting, Salesforce, deletion, mechanism, profound, effect, performance, large, volumes, uses, Recycle, Bin, metaphor, users, Instead, removing, flags, deleted, visible, Thi]
 ---
-
-# Deleting Data
 
 > The Salesforce data deletion mechanism can have a profound effect on the performance of large
    data volumes. Salesforce uses a Recycle Bin

@@ -5,12 +5,10 @@ topic: disclosure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.584Z
+lastCollected: 2026-04-07T18:38:18.091Z
 estimatedTokens: 1733
-keywords: [Disclosure, company, shares, included, user, their, document, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [Disclosure, company, shares, included, user, their, document, API, 57.0]
 ---
-
-# Disclosure
 
 > Represents the disclosure details that a company shares, which can be
          included by a user in their response document. This object is available in API version

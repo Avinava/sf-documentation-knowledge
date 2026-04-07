@@ -5,12 +5,10 @@ topic: careplanhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.756Z
+lastCollected: 2026-04-07T18:39:32.122Z
 estimatedTokens: 255
-keywords: [CarePlanHistory, History, tracked, CarePlan]
+keywords: [CarePlanHistory, tracked, CarePlan]
 ---
-
-# CarePlanHistory
 
 > History for tracked fields of CarePlan.
 

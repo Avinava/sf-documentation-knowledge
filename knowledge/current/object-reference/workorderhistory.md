@@ -5,12 +5,10 @@ topic: workorderhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.990Z
+lastCollected: 2026-04-07T18:38:44.797Z
 estimatedTokens: 353
-keywords: [WorkOrderHistory, history, changes, made, tracked, work, order, API, version, 36.0, later, Calls, Special, Access, Rules]
+keywords: [WorkOrderHistory, changes, made, tracked, work, order, API, 36.0]
 ---
-
-# WorkOrderHistory
 
 > Represents the history of changes made to tracked fields
 				on a work order. This object is available in API version 36.0 and

@@ -5,12 +5,10 @@ topic: work-with-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.547Z
+lastCollected: 2026-04-07T18:40:10.519Z
 estimatedTokens: 502
-keywords: [Work, Records, User, API, build, lets, users, Salesforce, Let’s, look, two, trickier, aspects, how, child]
+keywords: [Work, Records, User, API, build, lets, users, Salesforce, Let’s, look, two, trickier, aspects, how, child, relationships, upload, binary, files]
 ---
-
-# Work with Records
 
 > Use User Interface API to build UI that lets users create, read,
       update, and delete Salesforce records. Let’s look at two of the trickier aspects of the API:

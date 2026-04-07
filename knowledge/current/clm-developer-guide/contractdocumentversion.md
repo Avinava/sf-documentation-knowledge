@@ -5,12 +5,10 @@ topic: contractdocumentversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.540Z
+lastCollected: 2026-04-07T18:37:25.466Z
 estimatedTokens: 1621
-keywords: [ContractDocumentVersion, Tracks, contract, document, versions, lifecycle, stages, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [ContractDocumentVersion, Tracks, contract, document, versions, lifecycle, stages, API, 56.0]
 ---
-
-# ContractDocumentVersion
 
 > Tracks contract document versions through contract lifecycle stages. This object is
       available in API version 56.0 and later.

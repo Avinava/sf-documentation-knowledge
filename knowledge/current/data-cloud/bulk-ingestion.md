@@ -5,12 +5,10 @@ topic: bulk-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.227Z
+lastCollected: 2026-04-07T18:35:51.079Z
 estimatedTokens: 1117
-keywords: [Bulk, Ingestion, Data, Cloud, API, upsert, large, Prepare, CSV, file, want, upload, job, let, Salesforce]
+keywords: [Bulk, Ingestion, Cloud, API, upsert, large, Prepare, CSV, file, want, upload, job, let, Salesforce, take, care, rest, Jobs, Operations, Files, Date, Records]
 ---
-
-# Bulk Ingestion
 
 > With the Data Cloud Ingestion API, you can upsert or delete large data
     sets. Prepare a CSV file for the data you want to upload, create a job, upload job data, and let

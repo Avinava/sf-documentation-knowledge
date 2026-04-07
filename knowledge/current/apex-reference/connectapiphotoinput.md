@@ -5,12 +5,10 @@ topic: connectapiphotoinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.058Z
+lastCollected: 2026-04-07T18:36:04.278Z
 estimatedTokens: 688
 keywords: [ConnectApi.PhotoInput, Specify, how, crop, photo, already, uploaded]
 ---
-
-# ConnectApi.PhotoInput
 
 > Specify how to crop a photo that has already been uploaded.
 

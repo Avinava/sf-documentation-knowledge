@@ -5,12 +5,10 @@ topic: patch-versions-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.784Z
+lastCollected: 2026-04-07T18:38:56.343Z
 estimatedTokens: 952
-keywords: [Patch, Versions, Second-Generation, Managed, Packages, way, fix, small, issues, package, introducing, major, feature, changes, Customers]
+keywords: [Patch, Versions, Second-Generation, Managed, Packages, way, fix, small, issues, package, introducing, major, feature, changes, Customers, older, install, forced, upgrade, new]
 ---
-
-# Patch Versions for Second-Generation Managed Packages
 
 > Patch versions are a way to fix small issues with your second-generation managed
     package without introducing major feature changes. Customers who are using an older version of

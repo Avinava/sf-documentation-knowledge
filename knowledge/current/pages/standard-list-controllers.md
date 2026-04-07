@@ -5,12 +5,10 @@ topic: standard-list-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.776Z
+lastCollected: 2026-04-07T18:38:51.010Z
 estimatedTokens: 463
 keywords: [Standard, Controllers]
 ---
-
-# Standard List Controllers
 
 # Standard List Controllers
 

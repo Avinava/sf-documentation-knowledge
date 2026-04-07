@@ -5,12 +5,10 @@ topic: actionable-list-update-member-count-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:52.990Z
+lastCollected: 2026-04-07T18:36:38.656Z
 estimatedTokens: 107
-keywords: [Actionable, Member, Count, Output]
+keywords: [Actionable, Member, Count]
 ---
-
-# Actionable List Update Member Count Output
 
 > Actionable List Member Count output.
 

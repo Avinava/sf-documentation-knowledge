@@ -5,12 +5,10 @@ topic: action-plan-templates-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.430Z
+lastCollected: 2026-04-07T18:39:01.587Z
 estimatedTokens: 457
 keywords: [Action, Plan, Templates, POST, API, Template, items]
 ---
-
-# Action Plan Templates (GET, POST)
 
 > API to create and get Action Plan Template items. An Action Plan
       Template has a default set of parameters required to create an Action Plan.

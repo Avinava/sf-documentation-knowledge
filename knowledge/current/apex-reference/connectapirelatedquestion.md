@@ -5,12 +5,10 @@ topic: connectapirelatedquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.288Z
+lastCollected: 2026-04-07T18:36:11.581Z
 estimatedTokens: 127
 keywords: [ConnectApi.RelatedQuestion, question]
 ---
-
-# ConnectApi.RelatedQuestion
 
 > A related question.
 

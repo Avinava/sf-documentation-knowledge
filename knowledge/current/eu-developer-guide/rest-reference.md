@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.119Z
+lastCollected: 2026-04-07T18:37:32.293Z
 estimatedTokens: 217
-keywords: [REST, access, E&U, Cloud, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, E&U, Cloud, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access E&U Cloud APIs using REST endpoints. These REST APIs follow similar
     conventions as Connect REST APIs.

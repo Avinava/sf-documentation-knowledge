@@ -5,12 +5,10 @@ topic: datediff
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.026Z
+lastCollected: 2026-04-07T18:37:00.548Z
 estimatedTokens: 580
-keywords: [date_diff, amount, time, two, dates, function, foreach, statement, date, _diff, Usage, How, Weeks, Did, Opportunity]
+keywords: [date_diff, amount, time, two, dates, function, foreach, statement, date, _diff, How, Weeks, Did, Opportunity, Take, Close, Long, Ago, Closed]
 ---
-
-# date_diff()
 
 > Returns the amount of time between two dates. This function is only valid in a
             foreach statement.

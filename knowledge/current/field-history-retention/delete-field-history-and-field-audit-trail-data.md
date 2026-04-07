@@ -5,12 +5,10 @@ topic: delete-field-history-and-field-audit-trail-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.272Z
+lastCollected: 2026-04-07T18:37:33.668Z
 estimatedTokens: 489
-keywords: [History, Audit, Trail, Data, Apex, SOAP, archive]
+keywords: [Audit, Trail, Apex, SOAP, archive]
 ---
-
-# Delete Field History and Field Audit Trail Data
 
 > Use Apex or SOAP to delete field history and field history archive data.
 

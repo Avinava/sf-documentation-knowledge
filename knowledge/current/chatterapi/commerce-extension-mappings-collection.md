@@ -5,12 +5,10 @@ topic: commerce-extension-mappings-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.483Z
+lastCollected: 2026-04-07T18:37:20.672Z
 estimatedTokens: 92
 keywords: [Commerce, Extension, Mappings, Collection]
 ---
-
-# Commerce Extension Mappings Collection
 
 > Collection of Commerce extension mappings.
 

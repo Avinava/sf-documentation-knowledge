@@ -5,12 +5,10 @@ topic: taxengine
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.038Z
+lastCollected: 2026-04-07T18:40:03.763Z
 estimatedTokens: 640
-keywords: [TaxEngine, tax, engine, instance, provider, well, merchant, credentials, specific, Subscription, Management, calculates, order, item, Calculation]
+keywords: [TaxEngine, tax, engine, instance, provider, well, merchant, credentials, specific, Subscription, Management, calculates, order, item, Calculation, API, external, Salesforce, record, passed, 55.0]
 ---
-
-# TaxEngine
 
 > A tax engine represents both an instance of a tax engine provider as well as
          the merchant credentials for that specific instance. When Subscription Management

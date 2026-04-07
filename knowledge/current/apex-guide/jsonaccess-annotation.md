@@ -6,13 +6,10 @@ topic: jsonaccess-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.031Z
+lastCollected: 2026-04-07T18:36:16.255Z
 estimatedTokens: 512
-keywords: [JsonAccess, Annotation, @JsonAccess, defined, Apex, level, whether, instances, serialized, deserialized, restricts, JSON, XML, serialization, deserialization]
+keywords: [JsonAccess, Annotation, @JsonAccess, defined, Apex, level, whether, instances, serialized, deserialized, restricts, JSON, XML, serialization, deserialization, runtime, JSONException, exception, thrown, Considerations, Versioned, Behavior, Changes]
 ---
-
-# JsonAccess
-    Annotation
 
 > The @JsonAccess annotation defined at Apex class
     level controls whether instances of the class can be serialized or deserialized. If the

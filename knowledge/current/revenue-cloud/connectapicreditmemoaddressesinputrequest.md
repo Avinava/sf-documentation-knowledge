@@ -5,12 +5,10 @@ topic: connectapicreditmemoaddressesinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.560Z
+lastCollected: 2026-04-07T18:35:41.416Z
 estimatedTokens: 119
-keywords: [Input, representation, billing, shipping, addresses]
+keywords: [billing, shipping, addresses]
 ---
-
-# ConnectApi.CreditMemoAddressesInputRequest
 
 > Input representation of the details of the billing and shipping addresses.
 

@@ -5,12 +5,10 @@ topic: oci-inventory-record-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.044Z
+lastCollected: 2026-04-07T18:37:21.200Z
 estimatedTokens: 245
-keywords: [OCI, Inventory, Record, Output, availability, data, product]
+keywords: [OCI, Inventory, Record, availability, product]
 ---
-
-# OCI Inventory Record Output
 
 > Inventory availability data for a product.
 

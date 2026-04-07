@@ -5,12 +5,10 @@ topic: metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.473Z
+lastCollected: 2026-04-07T18:37:42.621Z
 estimatedTokens: 1139
 keywords: [Metadata]
 ---
-
-# Metadata Types
 
 # Metadata Types
 

@@ -5,12 +5,10 @@ topic: productcatalogmanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.507Z
+lastCollected: 2026-04-07T18:35:47.545Z
 estimatedTokens: 575
-keywords: [ProductCatalogManagementSettings, settings, Product, Catalog, Management, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules]
+keywords: [ProductCatalogManagementSettings, settings, Product, Catalog, Management, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# ProductCatalogManagementSettings
 
 > Represents the settings for Product Catalog
 			Management.

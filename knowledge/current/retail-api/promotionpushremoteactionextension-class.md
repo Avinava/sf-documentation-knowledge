@@ -5,12 +5,10 @@ topic: promotionpushremoteactionextension-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.852Z
+lastCollected: 2026-04-07T18:39:11.388Z
 estimatedTokens: 646
-keywords: [PromotionPushRemoteActionExtension, Apex, programmatic, access, TPM, Push, Promotion, Process, Remote, Actions, Sample, Code, Snippet, readLOExtChildPromotions, txId]
+keywords: [PromotionPushRemoteActionExtension, Apex, programmatic, TPM, Push, Promotion, Process, Remote, Actions, Sample, Code, Snippet, readLOExtChildPromotions, txId, readParams, pushBOPromotion, synchronizeBOPromotion]
 ---
-
-# PromotionPushRemoteActionExtension Class
 
 > This Apex class provides programmatic access to the TPM Push Promotion Process Remote
   Actions.

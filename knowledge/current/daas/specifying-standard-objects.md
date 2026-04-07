@@ -5,12 +5,10 @@ topic: specifying-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.894Z
+lastCollected: 2026-04-07T18:37:27.935Z
 estimatedTokens: 224
-keywords: [Specifying, Standard, Objects, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t]
+keywords: [Specifying, Standard, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated, new, functionality, manage, metadata, changes, switch, Salesforce, CLI, modern, developer, experience]
 ---
-
-# Specifying Standard Objects
 
 > The Ant Migration Tool is retired with Spring ’24. The tool continues to
     function for future API versions but isn’t updated with new functionality and isn’t supported.

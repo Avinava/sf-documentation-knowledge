@@ -5,12 +5,10 @@ topic: guided-selection-search-term
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.867Z
+lastCollected: 2026-04-07T18:35:45.864Z
 estimatedTokens: 105
-keywords: [Guided, Selection, Search, Term, Output, representation]
+keywords: [Guided, Selection, Search, Term]
 ---
-
-# Guided Selection Search Term
 
 > Output representation of the search term details for a guided selection.
 

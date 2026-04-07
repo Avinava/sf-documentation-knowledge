@@ -5,12 +5,10 @@ topic: serviceresourceskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.321Z
+lastCollected: 2026-04-07T18:38:40.958Z
 estimatedTokens: 1035
-keywords: [ServiceResourceSkill, skill, service, resource, possesses, Lightning, Scheduler, API, version, 38.0, later, Calls, Special, Access, Rules]
+keywords: [ServiceResourceSkill, skill, service, resource, possesses, Lightning, Scheduler, API, 38.0]
 ---
-
-# ServiceResourceSkill
 
 > Represents a skill that a service resource possesses in Field Service
 			and Lightning Scheduler. This object is available in API version 38.0 and

@@ -5,12 +5,10 @@ topic: install-other-versions-of-salesforce-cli-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.351Z
+lastCollected: 2026-04-07T18:40:09.292Z
 estimatedTokens: 473
-keywords: [Install, Versions, Salesforce, CLI, Plugins, Sometimes, want, specific, version, plugin, let’s, say, fixed, bug, apex]
+keywords: [Install, Versions, Salesforce, CLI, Plugins, Sometimes, want, specific, plugin, let’s, say, fixed, bug, apex, run, command, fix, released, hasn’t, yet, included, release, current, test, local, development, environment, Follow, steps]
 ---
-
-# Install Other Versions of Salesforce CLI Plugins
 
 > Sometimes you want to use a specific version of a plugin. For example, let’s say
     Salesforce fixed a bug in the apex run command. The fix has

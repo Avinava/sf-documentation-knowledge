@@ -5,12 +5,10 @@ topic: loyaltyaggrpointexprledger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.731Z
+lastCollected: 2026-04-07T18:39:47.203Z
 estimatedTokens: 295
 keywords: [LoyaltyAggrPointExprLedger, non-qualifying, currency, points, expire, fixed, model, tier, group]
 ---
-
-# LoyaltyAggrPointExprLedger
 
 > Represents information about non-qualifying currency points that expire based
          on a fixed model tier group.

@@ -5,12 +5,10 @@ topic: startchatwithwindow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.003Z
+lastCollected: 2026-04-07T18:38:06.247Z
 estimatedTokens: 275
-keywords: [startChatWithWindow, chat, button, window, Usage]
+keywords: [startChatWithWindow, chat, button, window]
 ---
-
-# startChatWithWindow
 
 > Use the startChatWithWindow method to request
     a chat from a button using the name of a window.

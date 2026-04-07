@@ -5,12 +5,10 @@ topic: create-an-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.120Z
+lastCollected: 2026-04-07T18:40:16.255Z
 estimatedTokens: 1475
-keywords: [Account, agency, embedded, partner, may, want, another, new, client, specify, attributes, including, elements, How, Sample]
+keywords: [Account, agency, embedded, partner, may, want, another, new, client, specify, attributes, including, How, Sample, NET, Code, SOAP, Envelope]
 ---
-
-# Create an Account
 
 > As an agency or embedded partner, you may want to create another account for a new client. You can specify the attributes of the account when you create the account, including the following elements:
 

@@ -5,12 +5,10 @@ topic: courseofferingscheduletmpl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.898Z
+lastCollected: 2026-04-07T18:37:30.974Z
 estimatedTokens: 1020
-keywords: [CourseOfferingScheduleTmpl, template, define, course, schedule, API, version, 57.0, later, Calls]
+keywords: [CourseOfferingScheduleTmpl, template, define, course, schedule, API, 57.0]
 ---
-
-# CourseOfferingScheduleTmpl
 
 > Represents a template that can be used to define a course schedule. This
       object is available in API version 57.0 and later.

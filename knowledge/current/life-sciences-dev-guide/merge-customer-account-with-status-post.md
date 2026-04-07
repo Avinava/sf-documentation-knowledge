@@ -5,12 +5,10 @@ topic: merge-customer-account-with-status-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.138Z
+lastCollected: 2026-04-07T18:37:55.590Z
 estimatedTokens: 465
 keywords: [Merge, Customer, Account, Status, POST, Merges, accounts, API, processes, requests, fail, entire, operation, invalid]
 ---
-
-# Merge Customer Account with Status (POST)
 
 > Merges a list of customer accounts and provides a status for each request. This API processes all valid requests and does not fail the entire operation if one request is invalid.
 

@@ -5,12 +5,10 @@ topic: define-a-custom-split-activity-with-multiple-outcomes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.098Z
+lastCollected: 2026-04-07T18:40:21.376Z
 estimatedTokens: 344
-keywords: [Define, Custom, Split, Activity, Multiple, Outcomes, provide, possible, activities, Journey, Builder, activity's, config.json, javascript, overrides]
+keywords: [Sample, Define, Split, Activity, Multiple, Outcomes, provide, possible, activities, Journey, Builder, activity's, config.json, javascript, overrides, programmatically, user-supplied, Items]
 ---
-
-# Define a Custom Split Activity with Multiple Outcomes
 
 > You can provide multiple possible outcomes for your custom split activities in Journey Builder. First, define default outcomes in the activity's config.json. The activity's custom javascript then overrides these default outcomes programmatically, or based on user-supplied values.
 

@@ -5,12 +5,10 @@ topic: insurancepolicycoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:50.050Z
+lastCollected: 2026-04-07T18:37:37.860Z
 estimatedTokens: 3124
-keywords: [InsurancePolicyCoverage, junction, associates, InsurancePolicy, ProductCoverage, Calls, Associated, Objects]
+keywords: [InsurancePolicyCoverage, junction, associates, InsurancePolicy, ProductCoverage]
 ---
-
-# InsurancePolicyCoverage
 
 > A junction object that associates the InsurancePolicy object with the
       ProductCoverage object.

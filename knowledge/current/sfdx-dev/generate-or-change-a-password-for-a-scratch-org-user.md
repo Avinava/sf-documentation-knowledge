@@ -5,12 +5,10 @@ topic: generate-or-change-a-password-for-a-scratch-org-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.474Z
+lastCollected: 2026-04-07T18:40:08.428Z
 estimatedTokens: 668
-keywords: [Generate, Change, Password, Scratch, Org, User, new, orgs, contain, administrator, CLI, command, admin, it's, can’t]
+keywords: [Generate, Change, Password, Scratch, Org, User, new, orgs, contain, administrator, CLI, command, admin, it's, can’t, unset]
 ---
-
-# Generate or Change a Password for a Scratch Org User
 
 > By default, new scratch orgs contain one administrator user with no password. Use the
       org generate password CLI command to generate or change a

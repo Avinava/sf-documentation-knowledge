@@ -5,12 +5,10 @@ topic: researchstdycmprgroupcndt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.155Z
+lastCollected: 2026-04-07T18:39:59.841Z
 estimatedTokens: 353
-keywords: [ResearchStdyCmprGroupCndt, junction, research, study, control, group, candidate, API, version, 61.0, later]
+keywords: [ResearchStdyCmprGroupCndt, junction, research, study, control, group, candidate, API, 61.0]
 ---
-
-# ResearchStdyCmprGroupCndt
 
 > Represents the junction between a research study control group and a research
          study candidate. This object is available in API version 61.0 and later.

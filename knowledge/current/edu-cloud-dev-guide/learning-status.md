@@ -5,12 +5,10 @@ topic: learning-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.582Z
+lastCollected: 2026-04-07T18:37:29.664Z
 estimatedTokens: 349
-keywords: [Learning, Status, Output, representation, learner's, academic, course, program]
+keywords: [Learning, Status, learner's, academic, course, program]
 ---
-
-# Learning Status
 
 > Output representation of the details of the learner's status related to an academic
     course or a program.

@@ -5,12 +5,10 @@ topic: remote-call-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.299Z
+lastCollected: 2026-04-07T18:37:53.599Z
 estimatedTokens: 6932
-keywords: [Remote, Call-In, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, isn’t, system, processes]
+keywords: [Context, Problem, Forces, Solution, Sketch, Results, Sidebars, Remote, Call-In, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, isn’t, system, processes, orders, managed, external, needs, upd]
 ---
-
-# Remote Call-In
 
 > You use Salesforce to track leads, manage your pipeline, create opportunities, and capture
     order details that convert leads to customers. But, Salesforce isn’t the system that contains or

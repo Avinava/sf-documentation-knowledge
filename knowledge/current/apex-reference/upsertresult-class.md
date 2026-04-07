@@ -5,13 +5,11 @@ topic: upsertresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.702Z
+lastCollected: 2026-04-07T18:35:59.978Z
 estimatedTokens: 1654
 namespace: DataSource
-keywords: [UpsertResult, result, upsert, operation, external, record, upsertRows, DataSource.Connection, Usage, errorMessage, externalId, success, equals, obj, failure, DML, Database.upsert, getErrors, getId, Versioned]
+keywords: [UpsertResult, result, upsert, operation, external, record, upsertRows, DataSource.Connection, errorMessage, externalId, success, equals, obj, failure, hashCode, DML, Database.upsert, getErrors, getId, Versioned, Behavior, Changes, isCreated, isSuccess]
 ---
-
-# UpsertResult Class
 
 > Represents the result of an upsert operation on an external object
       record. The result is returned by the upsertRows

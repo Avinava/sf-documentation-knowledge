@@ -5,12 +5,10 @@ topic: connectapicreditmemolineappliedresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.704Z
+lastCollected: 2026-04-07T18:35:41.569Z
 estimatedTokens: 83
-keywords: [Output, representation, applied, credit, memo, line, results]
+keywords: [applied, credit, memo, line, results]
 ---
-
-# ConnectApi.CreditMemoLineAppliedResponse
 
 > Output representation of the list of applied credit memo line results.
 

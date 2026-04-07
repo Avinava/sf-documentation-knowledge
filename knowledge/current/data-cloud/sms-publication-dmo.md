@@ -5,12 +5,10 @@ topic: sms-publication-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.595Z
+lastCollected: 2026-04-07T18:35:54.659Z
 estimatedTokens: 1366
-keywords: [SMS, Publication, DMO, Data, Cloud, model, process, messages, multiple, recipients, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, SMS, Publication, DMO, Cloud, model, process, messages, multiple, recipients, API, Primary, Subject, Area, Key]
 ---
-
-# SMS Publication DMO
 
 > The SMS Publication DMO is a Data Cloud data model object (DMO) for
       the process that sends out a set of SMS messages to multiple recipients.

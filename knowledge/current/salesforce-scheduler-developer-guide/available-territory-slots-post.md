@@ -5,12 +5,10 @@ topic: available-territory-slots-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.331Z
+lastCollected: 2026-04-07T18:39:20.037Z
 estimatedTokens: 591
 keywords: [Territory, Slots, POST, error, codes, code, messages, Salesforce, Scheduler, API, available-territory-slots, resource]
 ---
-
-# Available Territory Slots (POST)
 
 > Contains the error codes and error code messages related with Salesforce Scheduler
       API for the available-territory-slots (POST)

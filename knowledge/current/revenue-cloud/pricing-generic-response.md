@@ -5,12 +5,10 @@ topic: pricing-generic-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.219Z
+lastCollected: 2026-04-07T18:35:46.165Z
 estimatedTokens: 109
-keywords: [Pricing, Generic, Output, representation, data, sync]
+keywords: [Pricing, Generic, sync]
 ---
-
-# Pricing Generic Response
 
 > Output representation of a pricing data sync request.
 

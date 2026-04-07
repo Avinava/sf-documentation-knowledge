@@ -5,12 +5,10 @@ topic: customizing-the-log-a-call-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.192Z
+lastCollected: 2026-04-07T18:37:04.907Z
 estimatedTokens: 1076
-keywords: [Customizing, Log, Call, Action, Stellar, Wireless, mobile, phone, provider, several, high-volume, centers, agents, rewarded, solving]
+keywords: [Customizing, Log, Call, Action, Stellar, Wireless, mobile, phone, provider, several, high-volume, centers, agents, rewarded, solving, customers’, issues, quickly, keeping, detailed, accurate, records, customer, interactions, wanted, customize, open, apex, logCallPublisher, Attributes, Case, Code, Sample]
 ---
-
-# Customizing the Log a Call Action
 
 > Stellar Wireless is a mobile phone
 provider with several high-volume call centers, where agents are rewarded

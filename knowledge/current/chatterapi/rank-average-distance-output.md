@@ -5,12 +5,10 @@ topic: rank-average-distance-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.356Z
+lastCollected: 2026-04-07T18:37:22.462Z
 estimatedTokens: 166
-keywords: [Rank, Average, Distance, Output, results, calculating, distances, inventory, locations, order, recipient]
+keywords: [Rank, Average, Distance, results, calculating, distances, inventory, locations, order, recipient]
 ---
-
-# Rank Average Distance Output
 
 > The results of calculating the average distances from sets of
       inventory locations to an order recipient.

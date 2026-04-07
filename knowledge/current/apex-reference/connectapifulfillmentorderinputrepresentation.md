@@ -5,12 +5,10 @@ topic: connectapifulfillmentorderinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.202Z
+lastCollected: 2026-04-07T18:36:05.534Z
 estimatedTokens: 483
-keywords: [OrderDeliveryGroupSummary, delivery, recipient, fulfillment, groups, assign, FulfillmentOrders, group, OrderItemSummaries, match, share, location, creates, FulfillmentOrder, FulfillmentOrderLineItem]
+keywords: [OrderDeliveryGroupSummary, delivery, recipient, fulfillment, groups, assign, FulfillmentOrders, group, OrderItemSummaries, match, share, location, creates, FulfillmentOrder, FulfillmentOrderLineItem, OrderItemSummary]
 ---
-
-# ConnectApi.FulfillmentOrderInputRepresentation
 
 > An OrderDeliveryGroupSummary that defines a delivery method and
     recipient, and a list of fulfillment groups to assign to FulfillmentOrders. Each fulfillment

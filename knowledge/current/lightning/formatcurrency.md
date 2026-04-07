@@ -5,12 +5,10 @@ topic: formatcurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.901Z
+lastCollected: 2026-04-07T18:38:05.062Z
 estimatedTokens: 69
 keywords: [formatCurrency, currency, number, Sample, Code]
 ---
-
-# formatCurrency()
 
 > Returns a currency number based on the default currency
   format.

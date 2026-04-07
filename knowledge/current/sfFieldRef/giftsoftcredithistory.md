@@ -5,12 +5,10 @@ topic: giftsoftcredithistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.087Z
+lastCollected: 2026-04-07T18:39:42.729Z
 estimatedTokens: 263
-keywords: [GiftSoftCreditHistory, History, tracked, GiftSoftCredit]
+keywords: [GiftSoftCreditHistory, tracked, GiftSoftCredit]
 ---
-
-# GiftSoftCreditHistory
 
 > History for tracked fields of GiftSoftCredit.
 

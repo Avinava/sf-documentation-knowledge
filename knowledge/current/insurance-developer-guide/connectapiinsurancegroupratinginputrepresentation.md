@@ -5,12 +5,10 @@ topic: connectapiinsurancegroupratinginputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.097Z
+lastCollected: 2026-04-07T18:37:49.941Z
 estimatedTokens: 151
-keywords: [Input, representation, rating, group, benefits, quote]
+keywords: [rating, group, benefits, quote]
 ---
-
-# ConnectApi.InsuranceGroupRatingInputRepresentation
 
 > Input representation for rating a group benefits quote.
 

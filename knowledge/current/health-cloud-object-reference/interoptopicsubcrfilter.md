@@ -5,12 +5,10 @@ topic: interoptopicsubcrfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.768Z
+lastCollected: 2026-04-07T18:37:47.354Z
 estimatedTokens: 1031
-keywords: [InteropTopicSubcrFilter, subscriber's, criteria, filtering, interoperability, topic, subscription, event, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [InteropTopicSubcrFilter, subscriber's, criteria, filtering, interoperability, topic, subscription, event, API, 64.0]
 ---
-
-# InteropTopicSubcrFilter
 
 > Represents the subscriber's criteria for filtering the interoperability topic
          subscription event. This object is available in API version 64.0 and

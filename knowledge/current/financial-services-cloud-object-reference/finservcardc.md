@@ -5,12 +5,10 @@ topic: finservcardc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.801Z
+lastCollected: 2026-04-07T18:37:36.599Z
 estimatedTokens: 348
-keywords: [FinServ_Card__c, credit, debit, card, associated, financial, account, FinServ, _Card, Calls]
+keywords: [FinServ_Card__c, credit, debit, card, financial, account, FinServ, _Card]
 ---
-
-# FinServ_Card__c
 
 > Represents credit or debit card associated with this financial
          account.

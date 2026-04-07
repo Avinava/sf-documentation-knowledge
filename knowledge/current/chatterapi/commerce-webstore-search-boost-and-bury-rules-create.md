@@ -5,12 +5,10 @@ topic: commerce-webstore-search-boost-and-bury-rules-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.775Z
+lastCollected: 2026-04-07T18:37:12.666Z
 estimatedTokens: 686
-keywords: [Commerce, Webstore, Search, Boost, Bury, Rules, rule, supports, limit, products, unique, across]
+keywords: [Commerce, Webstore, Search, Boost, Bury, rule, supports, limit, products, unique, across]
 ---
-
-# Commerce Webstore Search Boost and Bury Rules, Create
 
 > Get all boost and bury rules for a webstore. Create a boost and bury
       rule. You can create up to 25 boost and bury rules for a webstore, and each boost and bury

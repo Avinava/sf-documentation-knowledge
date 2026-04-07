@@ -5,12 +5,10 @@ topic: get-previous-related-record-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.089Z
+lastCollected: 2026-04-07T18:35:39.864Z
 estimatedTokens: 348
-keywords: [Previous, Record, Action, submitted, approval, current, submission, steps, custom, logic, auto-approvals, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Previous, Record, Action, submitted, approval, current, submission, steps, logic, auto-approvals, REST, HTTP]
 ---
-
-# Get Previous Related Record Details Action
 
 > Get the related record details submitted for approval before the
             current approval submission. The details are required for approval steps that use custom

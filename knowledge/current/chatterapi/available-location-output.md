@@ -5,12 +5,10 @@ topic: available-location-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.796Z
+lastCollected: 2026-04-07T18:37:16.858Z
 estimatedTokens: 73
-keywords: [Location, Output, inventory, locations, combine, fulfill, order]
+keywords: [Location, inventory, locations, combine, fulfill, order]
 ---
-
-# Available Location Output
 
 > A set of inventory locations that can combine to fulfill an
       order.

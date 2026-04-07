@@ -5,12 +5,10 @@ topic: ingest-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.704Z
+lastCollected: 2026-04-07T18:39:11.221Z
 estimatedTokens: 290
-keywords: [Ingest, Promotions, endpoint, receives, payload, processed, system, import, creates, updates, triggers, promotion, calculation, status, monitored]
+keywords: [Ingest, Promotions, endpoint, receives, payload, processed, system, import, creates, updates, triggers, promotion, calculation, status, monitored, GET_PROMOTION_IMPORT_STATUS]
 ---
-
-# Ingest Promotions
 
 > This endpoint receives the promotions payload that must be
       processed. The system import promotions, creates and updates them, and triggers the promotion

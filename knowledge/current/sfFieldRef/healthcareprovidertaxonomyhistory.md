@@ -5,12 +5,10 @@ topic: healthcareprovidertaxonomyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.275Z
+lastCollected: 2026-04-07T18:39:43.901Z
 estimatedTokens: 278
-keywords: [HealthcareProviderTaxonomyHistory, History, tracked, HealthcareProviderTaxonomy]
+keywords: [HealthcareProviderTaxonomyHistory, tracked, HealthcareProviderTaxonomy]
 ---
-
-# HealthcareProviderTaxonomyHistory
 
 > History for tracked fields of HealthcareProviderTaxonomy.
 

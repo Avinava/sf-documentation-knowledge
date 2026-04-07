@@ -5,12 +5,10 @@ topic: crm-analytics-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.749Z
+lastCollected: 2026-04-07T18:37:01.358Z
 estimatedTokens: 472
-keywords: [CRM, Analytics, Apex, Build, execute, queries, retrieve, lens, template, data, classes, Resources]
+keywords: [Resources, CRM, Analytics, Apex, Build, execute, queries, retrieve, lens, template, classes]
 ---
-
-# CRM Analytics in Apex
 
 > Build and execute queries and retrieve lens and template data using CRM Analytics Apex
     classes and methods.

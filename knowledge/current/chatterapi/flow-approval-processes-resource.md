@@ -5,12 +5,10 @@ topic: flow-approval-processes-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.030Z
+lastCollected: 2026-04-07T18:37:13.996Z
 estimatedTokens: 177
 keywords: [Flow, Approval, Processes, Resource, status, actions]
 ---
-
-# Flow Approval Processes Resource
 
 > Get the status and available actions for flow approval processes.
 

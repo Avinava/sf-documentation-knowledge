@@ -5,12 +5,10 @@ topic: healthcarepractitionerfacilityshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.117Z
+lastCollected: 2026-04-07T18:39:43.742Z
 estimatedTokens: 258
 keywords: [HealthcarePractitionerFacilityShare, Sharing, HealthcarePractitionerFacility]
 ---
-
-# HealthcarePractitionerFacilityShare
 
 > Sharing for HealthcarePractitionerFacility.
 

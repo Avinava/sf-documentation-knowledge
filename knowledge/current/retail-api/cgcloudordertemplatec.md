@@ -5,12 +5,10 @@ topic: cgcloudordertemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:20.737Z
+lastCollected: 2026-04-07T18:39:14.126Z
 estimatedTokens: 8000
-keywords: [cgcloud__Order_Template__c, Template, behavior, sales, document, API, version, 54.0, later, cgcloud, _Order, _Template, Calls, Associated, Objects]
+keywords: [cgcloud__Order_Template__c, Template, behavior, sales, document, API, 54.0, cgcloud, _Order, _Template]
 ---
-
-# cgcloud__Order_Template__c
 
 > Template that controls the behavior of a sales document. This
       object is available in API version 54.0 and later.

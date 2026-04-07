@@ -5,12 +5,10 @@ topic: approvalworkitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.884Z
+lastCollected: 2026-04-07T18:39:26.839Z
 estimatedTokens: 361
-keywords: [ApprovalWorkItemFeed, Feed, tracking, ApprovalWorkItem]
+keywords: [ApprovalWorkItemFeed, ApprovalWorkItem]
 ---
-
-# ApprovalWorkItemFeed
 
 > Feed tracking for ApprovalWorkItem.
 

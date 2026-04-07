@@ -5,13 +5,11 @@ topic: version-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.641Z
+lastCollected: 2026-04-07T18:36:14.955Z
 estimatedTokens: 1816
 namespace: System
-keywords: [Version, first-generation, managed, package, 1GP, migrated, second-generation, 2GP, compare, versions, Usage, major, minor, patch, compareTo]
+keywords: [first-generation, managed, package, 1GP, migrated, second-generation, 2GP, compare, versions, major, minor, patch, compareTo]
 ---
-
-# Version Class
 
 > Use the Version methods to get the version of a first-generation managed package (1GP) or
         a migrated second-generation managed package (2GP), and to compare package

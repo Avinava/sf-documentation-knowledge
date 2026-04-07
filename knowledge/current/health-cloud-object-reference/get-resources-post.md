@@ -5,12 +5,10 @@ topic: get-resources-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.232Z
+lastCollected: 2026-04-07T18:37:41.287Z
 estimatedTokens: 383
-keywords: [Resources, POST, Search, healthcare, care, providers, assets, backend, engine, data]
+keywords: [Resources, POST, Search, healthcare, care, providers, assets, backend, engine]
 ---
-
-# Get Resources (POST)
 
 > Search for healthcare care providers or assets using the backend search engine and
     data.

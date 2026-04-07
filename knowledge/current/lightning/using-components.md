@@ -5,12 +5,10 @@ topic: using-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.349Z
+lastCollected: 2026-04-07T18:38:03.362Z
 estimatedTokens: 1235
-keywords: [Components, different, contexts, how]
+keywords: [different, contexts, how]
 ---
-
-# Using Components
 
 > You can use components in many different contexts. This
                 section shows you how.

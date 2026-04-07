@@ -5,12 +5,10 @@ topic: get-a-particular-process-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.705Z
+lastCollected: 2026-04-07T18:36:19.925Z
 estimatedTokens: 135
-keywords: [Particular, Process, Rule, Rules, resource, specify, thesObjectName, workflowRuleId, want, metadata]
+keywords: [Particular, Process, Rule, resource, specify, thesObjectName, workflowRuleId, want, metadata]
 ---
-
-# Get a Particular Process Rule
 
 > Use the Process Rules resource and specify thesObjectName and
         workflowRuleId of the rule you want to get the metadata

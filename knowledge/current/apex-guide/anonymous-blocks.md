@@ -5,12 +5,10 @@ topic: anonymous-blocks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.701Z
+lastCollected: 2026-04-07T18:36:15.937Z
 estimatedTokens: 1352
 keywords: [Anonymous, Blocks, block, Apex, code, doesn’t, stored, metadata, compiled, executed, Executing, API, Author, Permission]
 ---
-
-# Anonymous Blocks
 
 > An anonymous block is Apex code that doesn’t get stored in the metadata, but that can
         be compiled and executed.

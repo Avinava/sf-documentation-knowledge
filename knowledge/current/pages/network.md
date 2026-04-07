@@ -5,12 +5,10 @@ topic: network
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.334Z
+lastCollected: 2026-04-07T18:38:52.644Z
 estimatedTokens: 667
-keywords: [$Network, merge, referencing, Experience, Cloud, site, Visualforce, email, template, Usage]
+keywords: [$Network, merge, referencing, Experience, Cloud, site, Visualforce, email, template]
 ---
-
-# $Network
 
 > A global merge field type to use when referencing Experience Cloud site details in a
   Visualforce email template.

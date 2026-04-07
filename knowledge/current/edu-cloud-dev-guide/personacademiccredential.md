@@ -5,12 +5,10 @@ topic: personacademiccredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.543Z
+lastCollected: 2026-04-07T18:37:31.679Z
 estimatedTokens: 977
-keywords: [PersonAcademicCredential, Academic, Credential, person, earned, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [PersonAcademicCredential, Academic, Credential, person, earned, API, 59.0]
 ---
-
-# PersonAcademicCredential
 
 > Represents an Academic Credential that a person has earned. This object
       is available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: cgcloudcustomcalendarc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.978Z
+lastCollected: 2026-04-07T18:39:13.387Z
 estimatedTokens: 1518
-keywords: [cgcloud__Custom_Calendar__c, stores, attributes, custom, calendar, API, version, 54.0, later, cgcloud, _Custom, _Calendar, Calls, Associated, Objects]
+keywords: [cgcloud__Custom_Calendar__c, stores, attributes, calendar, API, 54.0, cgcloud, _Custom, _Calendar]
 ---
-
-# cgcloud__Custom_Calendar__c
 
 > This object stores the attributes of the custom calendar. This
       object is available in API version 54.0 and later.

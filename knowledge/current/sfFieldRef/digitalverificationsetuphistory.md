@@ -5,12 +5,10 @@ topic: digitalverificationsetuphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.308Z
+lastCollected: 2026-04-07T18:39:38.026Z
 estimatedTokens: 275
-keywords: [DigitalVerificationSetupHistory, History, tracked, DigitalVerificationSetup]
+keywords: [DigitalVerificationSetupHistory, tracked, DigitalVerificationSetup]
 ---
-
-# DigitalVerificationSetupHistory
 
 > History for tracked fields of DigitalVerificationSetup.
 

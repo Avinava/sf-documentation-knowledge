@@ -5,12 +5,10 @@ topic: usagegrantrenewalpolicyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.829Z
+lastCollected: 2026-04-07T18:40:04.617Z
 estimatedTokens: 392
-keywords: [UsageGrantRenewalPolicyFeed, Feed, tracking, UsageGrantRenewalPolicy]
+keywords: [UsageGrantRenewalPolicyFeed, UsageGrantRenewalPolicy]
 ---
-
-# UsageGrantRenewalPolicyFeed
 
 > Feed tracking for UsageGrantRenewalPolicy.
 

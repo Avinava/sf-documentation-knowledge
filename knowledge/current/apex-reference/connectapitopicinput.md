@@ -5,12 +5,10 @@ topic: connectapitopicinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.069Z
+lastCollected: 2026-04-07T18:36:04.288Z
 estimatedTokens: 275
 keywords: [ConnectApi.TopicInput, topic’s, merge, topics]
 ---
-
-# ConnectApi.TopicInput
 
 > Update a topic’s name or description or merge topics.
 

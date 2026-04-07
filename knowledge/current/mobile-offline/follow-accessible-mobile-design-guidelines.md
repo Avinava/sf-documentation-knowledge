@@ -5,12 +5,10 @@ topic: follow-accessible-mobile-design-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.531Z
+lastCollected: 2026-04-07T18:38:16.065Z
 estimatedTokens: 2651
-keywords: [Follow, Accessible, Mobile, Design, Guidelines, build, test, components, screen, best, practices, making, designs, Base, Salesforce]
+keywords: [Follow, Accessible, Mobile, Design, Guidelines, build, test, screen, best, practices, making, designs, Base, Salesforce, Lightning, System, SLDS, Mobile-Friendly, Fonts, Padding, Color, Avoid, Horizontal, Swiping, Tabs, Carousels, Provide, Alternatives, Gestures, Control, Mechanisms, Standard, Tap, Target, Size, User, Painless, Possible]
 ---
-
-# Follow Accessible Mobile Design Guidelines
 
 > Before you build and test your components on a mobile screen, follow best practices for
     making your designs accessible.

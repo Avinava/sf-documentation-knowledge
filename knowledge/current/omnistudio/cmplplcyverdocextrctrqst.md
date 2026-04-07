@@ -5,12 +5,10 @@ topic: cmplplcyverdocextrctrqst
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.719Z
+lastCollected: 2026-04-07T18:36:44.447Z
 estimatedTokens: 346
-keywords: [CmplPlcyVerDocExtrctRqst, extract, documents, Compliance, Policy, Version, API, 65.0, later, Calls]
+keywords: [CmplPlcyVerDocExtrctRqst, extract, documents, Compliance, Policy, API, 65.0]
 ---
-
-# CmplPlcyVerDocExtrctRqst
 
 > Represents a request to extract documents related to a Compliance Policy
          Version. This object is available in API version 65.0 and later.

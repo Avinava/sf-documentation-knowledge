@@ -5,12 +5,10 @@ topic: quotelineworksource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.098Z
+lastCollected: 2026-04-07T18:38:39.668Z
 estimatedTokens: 393
-keywords: [QuoteLineWorkSource, association, quote, work, sources, assets, line, items, order, products, groups, API, version, 63.0, later]
+keywords: [QuoteLineWorkSource, association, quote, work, sources, assets, line, items, order, products, groups, API, 63.0]
 ---
-
-# QuoteLineWorkSource
 
 > Represents an association between a quote and work sources, such as
          assets, quote line items, order products, or work type groups. This object is

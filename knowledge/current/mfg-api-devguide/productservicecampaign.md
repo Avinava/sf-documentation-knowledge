@@ -5,12 +5,10 @@ topic: productservicecampaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.975Z
+lastCollected: 2026-04-07T18:38:14.326Z
 estimatedTokens: 930
-keywords: [ProductServiceCampaign, activities, performed, product, service, campaign, recall, products, due, potential, safety, hazards, upgrade, comply, legal]
+keywords: [ProductServiceCampaign, activities, performed, product, service, campaign, recall, products, due, potential, safety, hazards, upgrade, comply, legal, regulations, API, 61.0]
 ---
-
-# ProductServiceCampaign
 
 > Represents a set of activities to be performed for a product service
          campaign. For example, a recall of products due to potential safety hazards or an upgrade

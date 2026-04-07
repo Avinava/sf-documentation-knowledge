@@ -5,12 +5,10 @@ topic: limits-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.902Z
+lastCollected: 2026-04-07T18:38:52.215Z
 estimatedTokens: 223
-keywords: [Limits, Visualforce, Although, Remote, Objects, isn’t, subject, resource, comes, limitations, own]
+keywords: [Limits, Visualforce, Although, Remote, isn’t, subject, resource, comes, limitations, own]
 ---
-
-# Limits Limits
 
 > Visualforce Although Remote Objects isn’t subject to some resource limits, it comes
     with limitations of its own.

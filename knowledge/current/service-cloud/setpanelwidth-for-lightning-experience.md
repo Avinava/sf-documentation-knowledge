@@ -5,12 +5,10 @@ topic: setpanelwidth-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.921Z
+lastCollected: 2026-04-07T18:36:50.100Z
 estimatedTokens: 249
-keywords: [setPanelWidth, Lightning, Experience, utility, panel’s, width, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
+keywords: [Arguments, setPanelWidth, Lightning, Experience, utility, panel’s, width, isn’t, Web, LWC, Aura, Sample, Code]
 ---
-
-# setPanelWidth() for Lightning Experience
 
 > Sets a utility panel’s width. This method isn’t supported for Lightning Web Components
   (LWC).

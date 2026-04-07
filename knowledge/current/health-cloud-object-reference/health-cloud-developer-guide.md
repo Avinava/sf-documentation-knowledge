@@ -5,12 +5,10 @@ topic: health-cloud-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:56.787Z
+lastCollected: 2026-04-07T18:37:45.181Z
 estimatedTokens: 1342
-keywords: [Health, Cloud, Developer, custom, objects, their, may, listed]
+keywords: [Health, Cloud, Developer, their, may, listed]
 ---
-
-# Health Cloud Developer Guide
 
 > This guide provides information on the custom objects used by Health Cloud and their
   fields. Some fields may not be listed for some objects.

@@ -5,12 +5,10 @@ topic: your-message-long-polling-loop
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.337Z
+lastCollected: 2026-04-07T18:38:06.557Z
 estimatedTokens: 735
 keywords: [Message, Long, Polling, Loop, notifies, events, occur, Chat, server, session]
 ---
-
-# Your Message Long Polling Loop
 
 > Message long polling notifies you of events that occur on the Chat server for your Chat
     session.

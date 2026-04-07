@@ -5,12 +5,10 @@ topic: transaction-journal-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.066Z
+lastCollected: 2026-04-07T18:38:08.324Z
 estimatedTokens: 93
-keywords: [Transaction, Journal, Map, Output, representation, loyalty, program, process, simulation, result]
+keywords: [Transaction, Journal, Map, loyalty, program, process, simulation, result]
 ---
-
-# Transaction Journal Map
 
 > Output representation of the loyalty program process simulation
       result.

@@ -5,13 +5,11 @@ topic: assessmentquestionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.383Z
+lastCollected: 2026-04-07T18:39:27.369Z
 estimatedTokens: 310
 namespace: Namespace
-keywords: [AssessmentQuestionSet, Container, assessment, questions, API, version, 55.0, later]
+keywords: [AssessmentQuestionSet, Container, assessment, questions, API, 55.0]
 ---
-
-# AssessmentQuestionSet
 
 > Container object for assessment questions. This object is
       available in API version 55.0 and later.

@@ -5,12 +5,10 @@ topic: createnewgroupassignmembers-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.949Z
+lastCollected: 2026-04-07T18:37:32.115Z
 estimatedTokens: 45
 keywords: [create_NewGroupAssignMembers, API, group, assign, members, call, _NewGroupAssignMembers, URI, HTTP]
 ---
-
-# create_NewGroupAssignMembers API
 
 > Create a group and assign members to it in a single call.
 

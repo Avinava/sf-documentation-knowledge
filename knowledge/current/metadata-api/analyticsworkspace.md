@@ -5,12 +5,10 @@ topic: analyticsworkspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.238Z
+lastCollected: 2026-04-07T18:36:22.494Z
 estimatedTokens: 884
-keywords: [AnalyticsWorkspace, Tableau, workspace, Parent, File, Suffix, Directory, Location, Version, Limits, AnalyticsWorkspaceAsset, Declarative, Metadata, Sample, Definition]
+keywords: [AnalyticsWorkspace, Limits, AnalyticsWorkspaceAsset, Tableau, workspace, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AnalyticsWorkspace
 
 > Represents a Tableau Next workspace.
 

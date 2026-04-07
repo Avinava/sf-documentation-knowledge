@@ -5,12 +5,10 @@ topic: clonemodifytosalesqlis-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.919Z
+lastCollected: 2026-04-07T18:37:32.089Z
 estimatedTokens: 94
 keywords: [CloneModifyTo_SalesQLIs, API, Clone, modified, working, cart, quote, line, items, QLIs, sales, CloneModifyTo, _SalesQLIs, URI, HTTP]
 ---
-
-# CloneModifyTo_SalesQLIs API
 
 > Clone modified working cart quote line items (QLIs) to sales QLIs and delete the working cart.
 

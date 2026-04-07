@@ -5,12 +5,10 @@ topic: connectapireadby
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.101Z
+lastCollected: 2026-04-07T18:36:11.385Z
 estimatedTokens: 140
-keywords: [ConnectApi.ReadBy, feed, element]
+keywords: [ConnectApi.ReadBy]
 ---
-
-# ConnectApi.ReadBy
 
 > Information about who read the feed element and when.
 

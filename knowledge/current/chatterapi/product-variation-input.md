@@ -5,12 +5,10 @@ topic: product-variation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.050Z
+lastCollected: 2026-04-07T18:37:09.765Z
 estimatedTokens: 113
-keywords: [Product, Variation, Input, representation]
+keywords: [Product, Variation]
 ---
-
-# Product Variation Input
 
 > Input representation of a variation product.
 

@@ -5,12 +5,10 @@ topic: create-responsive-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.569Z
+lastCollected: 2026-04-07T18:38:16.110Z
 estimatedTokens: 1379
-keywords: [Responsive, Layouts, mobile-first, app, grid, system, Component, Lightning, Custom, Tab]
+keywords: [Responsive, Layouts, mobile-first, app, grid, system, Lightning, Tab]
 ---
-
-# Create Responsive Layouts
 
 > For a responsive, mobile-first app, create layouts using the grid system.
 

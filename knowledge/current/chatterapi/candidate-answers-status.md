@@ -5,12 +5,10 @@ topic: candidate-answers-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.054Z
+lastCollected: 2026-04-07T18:37:17.121Z
 estimatedTokens: 207
-keywords: [Candidate, Answers, Status, feed, element]
+keywords: [Candidate, Answers, Status]
 ---
-
-# Candidate Answers Status
 
 > The status of candidate answers on a feed element.
 

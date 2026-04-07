@@ -5,12 +5,10 @@ topic: sample-scoring-calculations-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.400Z
+lastCollected: 2026-04-07T18:40:12.419Z
 estimatedTokens: 252
 keywords: [Sample, Scoring, Calculations, Formulas, lead, customer, success]
 ---
-
-# Sample Scoring Calculations Formulas
 
 > Use these formulas for lead scoring and customer success scoring.
 

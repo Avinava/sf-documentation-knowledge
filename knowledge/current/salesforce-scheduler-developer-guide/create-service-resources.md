@@ -5,12 +5,10 @@ topic: create-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.342Z
+lastCollected: 2026-04-07T18:39:21.153Z
 estimatedTokens: 265
-keywords: [Service, Resources, resources—individual, users, attend, customer, appointments—so, assign, appointments, dummy, resource, DummyResource1, Agent1, Agent2, schedule]
+keywords: [Service, Resources, resources—individual, users, attend, customer, appointments—so, assign, appointments, dummy, resource, DummyResource1, Agent1, Agent2, schedule, actual, whom, assigned]
 ---
-
-# Create Service Resources
 
 > Create service resources—individual users who can attend customer
       appointments—so that you can assign appointments to users. You can create a dummy

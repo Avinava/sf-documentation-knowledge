@@ -5,12 +5,10 @@ topic: serviceresourcefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.815Z
+lastCollected: 2026-04-07T18:40:01.579Z
 estimatedTokens: 360
-keywords: [ServiceResourceFeed, Feed, tracking, ServiceResource]
+keywords: [ServiceResourceFeed, ServiceResource]
 ---
-
-# ServiceResourceFeed
 
 > Feed tracking for ServiceResource.
 

@@ -5,12 +5,10 @@ topic: setcallattacheddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.565Z
+lastCollected: 2026-04-07T18:36:50.838Z
 estimatedTokens: 243
-keywords: [setCallAttachedData, call, data, associated, send, interaction, log, custom, console, component.This, API, version, 31.0, later, Arguments]
+keywords: [Arguments, setCallAttachedData, call, send, interaction, log, console, component.This, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# setCallAttachedData()
 
 > Sets the call data associated with a call object
                   ID. Use to get information or send information between an interaction

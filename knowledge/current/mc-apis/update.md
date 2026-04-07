@@ -5,12 +5,10 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.586Z
+lastCollected: 2026-04-07T18:40:20.836Z
 estimatedTokens: 393
-keywords: [individual, batch, objects, Multiple, updated, call, Output, Updates, batches, Input]
+keywords: [individual, batch, Multiple, updated, call, Updates, batches]
 ---
-
-# Update
 
 > Updates individual objects or batches of objects.
 

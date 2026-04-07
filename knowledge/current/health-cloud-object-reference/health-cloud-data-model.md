@@ -5,12 +5,10 @@ topic: health-cloud-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:56.873Z
+lastCollected: 2026-04-07T18:37:45.265Z
 estimatedTokens: 4198
-keywords: [Health, Cloud, Data, Model, Salesforce, rich, objects, store, access, specialized]
+keywords: [Health, Cloud, Model, Salesforce, rich, store, specialized]
 ---
-
-# Health Cloud Data Model
 
 > Salesforce Health Cloud provides a rich set of objects to store and access specialized
       health information.

@@ -5,12 +5,10 @@ topic: scorecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.654Z
+lastCollected: 2026-04-07T18:37:45.037Z
 estimatedTokens: 1118
-keywords: [ScoreCategory, category, subcategories, form, unified, health, profile, Scoring, feature, Parent, File, Suffix, Directory, Location, Version, categories, scored, API, version, 55.0]
+keywords: [ScoreCategory, ScoreCategoryCalcInsight, ScoreRangeClassification, category, subcategories, form, unified, health, profile, Scoring, feature, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, categories, scored, API, 55.0, SOAP, REST]
 ---
-
-# ScoreCategory
 
 > Represents the category and subcategories that form a unified health
 			profile in the Unified Health Scoring feature.

@@ -5,12 +5,10 @@ topic: managed-content-search-result-items-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.311Z
+lastCollected: 2026-04-07T18:37:20.499Z
 estimatedTokens: 158
 keywords: [Managed, Content, Search, Result, Items, Collection, Paginated, CMS, keyword-based]
 ---
-
-# Managed Content Search Result Items Collection
 
 > Paginated collection of CMS keyword-based search result
     items.

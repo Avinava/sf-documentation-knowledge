@@ -5,12 +5,10 @@ topic: return-items-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:23.314Z
+lastCollected: 2026-04-07T18:37:10.025Z
 estimatedTokens: 195
-keywords: [Items, Input, Data, products, delivery, charges, well, associated, fees]
+keywords: [Items, products, delivery, charges, well, fees]
 ---
-
-# Return Items Input
 
 > Data about products and delivery charges to return, as well as
       associated return fees.

@@ -5,12 +5,10 @@ topic: minutelyrecurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.743Z
+lastCollected: 2026-04-07T18:40:17.926Z
 estimatedTokens: 150
 keywords: [MinutelyRecurrence, minutely, recurrence, pattern, campaigns, Items]
 ---
-
-# MinutelyRecurrence
 
 > The MinutelyRecurrence object specifies an minutely recurrence pattern and value. This recurrence can be used with campaigns.
 

@@ -5,12 +5,10 @@ topic: contact-point-phone-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.949Z
+lastCollected: 2026-04-07T18:35:52.864Z
 estimatedTokens: 1924
-keywords: [Contact, Point, Phone, DMO, data, model, Cloud, number, party, Provided, Sales, Service, Kits, API, Category]
+keywords: [Category, Relationships, Contact, Point, Phone, DMO, model, Cloud, number, party, Provided, Sales, Service, Kits, API, Primary, Subject, Area, Key]
 ---
-
-# Contact Point Phone DMO
 
 > The Contact Point Phone data model object (DMO) is a Data Cloud DMO for
 		the phone number of a party. Provided in both the Sales and Service Data Kits.

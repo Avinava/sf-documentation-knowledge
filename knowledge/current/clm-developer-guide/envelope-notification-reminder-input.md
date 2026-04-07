@@ -5,12 +5,10 @@ topic: envelope-notification-reminder-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.708Z
+lastCollected: 2026-04-07T18:37:24.694Z
 estimatedTokens: 108
-keywords: [Envelope, Notification, Reminder, Input, e-signature, document]
+keywords: [Envelope, Notification, Reminder, e-signature, document]
 ---
-
-# Envelope Notification Reminder Input
 
 > Input to get notification reminder information for e-signature
       document.

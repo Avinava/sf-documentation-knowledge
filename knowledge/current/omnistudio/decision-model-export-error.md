@@ -5,12 +5,10 @@ topic: decision-model-export-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.573Z
+lastCollected: 2026-04-07T18:36:39.270Z
 estimatedTokens: 140
-keywords: [Decision, Model, Export, Error, representation, failed, DMN, Notation]
+keywords: [Decision, Model, Export, Error, failed, DMN, Notation]
 ---
-
-# Decision Model Export Error
 
 > Error representation of a failed DMN (Decision Model Notation) export
       request.

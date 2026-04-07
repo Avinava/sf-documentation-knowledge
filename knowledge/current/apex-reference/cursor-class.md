@@ -5,13 +5,11 @@ topic: cursor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.715Z
+lastCollected: 2026-04-07T18:35:59.997Z
 estimatedTokens: 803
 namespace: Database
-keywords: [Cursor, fetch, records, number, rows, SOQL, query, Usage, position, count, getNumRecords]
+keywords: [Cursor, fetch, records, number, rows, SOQL, query, position, count, getNumRecords]
 ---
-
-# Cursor Class
 
 > Contains methods to fetch records and to get the number of cursor rows returned from a
     SOQL query.

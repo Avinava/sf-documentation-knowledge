@@ -5,12 +5,10 @@ topic: coveragebenefitshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.651Z
+lastCollected: 2026-04-07T18:39:36.170Z
 estimatedTokens: 250
 keywords: [CoverageBenefitShare, Sharing, CoverageBenefit]
 ---
-
-# CoverageBenefitShare
 
 > Sharing for CoverageBenefit.
 

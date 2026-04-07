@@ -5,12 +5,10 @@ topic: compound-fields-in-pushtopic-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.209Z
+lastCollected: 2026-04-07T18:36:51.536Z
 estimatedTokens: 732
 keywords: [Compound, PushTopic, Queries, support, Address, depends, present, query, specify, Geolocation, constituent]
 ---
-
-# Compound Fields in PushTopic Queries
 
 > By default, the support of compound fields, such as Name or Address fields, depends on
   which fields are present in the PushTopic query. For Name compound fields, you must specify the

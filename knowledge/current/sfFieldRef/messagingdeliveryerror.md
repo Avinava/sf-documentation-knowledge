@@ -5,12 +5,10 @@ topic: messagingdeliveryerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.343Z
+lastCollected: 2026-04-07T18:39:48.799Z
 estimatedTokens: 441
-keywords: [MessagingDeliveryError, log, triggered, outbound, failures, verify, failed, API, version, 44.0, later]
+keywords: [MessagingDeliveryError, log, triggered, outbound, failures, verify, failed, API, 44.0]
 ---
-
-# MessagingDeliveryError
 
 > Represents a log of triggered outbound failures to verify when a
          triggered outbound has failed. This object is available in API version 44.0 and

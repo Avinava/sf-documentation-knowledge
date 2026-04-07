@@ -5,12 +5,10 @@ topic: connectapimanagedcontentcollectionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.451Z
+lastCollected: 2026-04-07T18:36:09.814Z
 estimatedTokens: 169
 keywords: [ConnectApi.ManagedContentCollectionItem, Managed, content, collection, item]
 ---
-
-# ConnectApi.ManagedContentCollectionItem
 
 > Managed content collection item.
 

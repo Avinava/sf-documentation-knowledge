@@ -5,12 +5,10 @@ topic: connectapifeeditemattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.038Z
+lastCollected: 2026-04-07T18:36:04.266Z
 estimatedTokens: 327
-keywords: [ConnectApi.FeedItemAttachmentInput, attach, file, feed, item]
+keywords: [ConnectApi.FeedItemAttachmentInput, attach, file, item]
 ---
-
-# ConnectApi.FeedItemAttachmentInput
 
 > Used to attach a file to a feed item.
 

@@ -5,12 +5,10 @@ topic: configure-product-bundles
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:40.681Z
+lastCollected: 2026-04-07T18:37:27.685Z
 estimatedTokens: 605
-keywords: [Configure, Product, Bundles, optionConfigurations, nest, four, levels, deep, including, top-level, Enable, Nested, Work, Anywhere, Software]
+keywords: [Configure, Product, Bundles, optionConfigurations, nest, four, levels, deep, including, top-level, Enable, Nested, Work, Anywhere, Software, Bundle, Considerations]
 ---
-
-# Configure Product Bundles
 
 > Use the optionConfigurations parameter to create product bundles.
   You can nest bundles up to four levels deep, including the top-level product.

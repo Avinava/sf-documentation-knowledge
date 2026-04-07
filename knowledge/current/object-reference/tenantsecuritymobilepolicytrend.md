@@ -5,12 +5,10 @@ topic: tenantsecuritymobilepolicytrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.741Z
+lastCollected: 2026-04-07T18:38:42.481Z
 estimatedTokens: 1347
-keywords: [TenantSecurityMobilePolicyTrend, Stores, metrics, changes, mobile, security, policies, across, tenants, Center, subscribers, API, version, 54.0, later]
+keywords: [TenantSecurityMobilePolicyTrend, Stores, metrics, changes, mobile, security, policies, across, tenants, Center, subscribers, API, 54.0]
 ---
-
-# TenantSecurityMobilePolicyTrend
 
 > Stores metrics related to changes in mobile security policies across
          all tenants in Security Center. This object is available to Security Center

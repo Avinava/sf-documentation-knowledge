@@ -5,12 +5,10 @@ topic: sample-experience-cloud-site-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.442Z
+lastCollected: 2026-04-07T18:40:12.468Z
 estimatedTokens: 483
-keywords: [Sample, Experience, Cloud, Site, Validation, Rules, rule, examples, various, cases, preventing, offensive, language, questions, replies]
+keywords: [Sample, Experience, Cloud, Site, Validation, rule, examples, various, cases, preventing, offensive, language, questions, replies, ideas, idea, comments]
 ---
-
-# Sample Experience Cloud Site Validation Rules
 
 > Validation rule examples for various use cases, like preventing offensive language in
   questions, replies, ideas, and idea comments.

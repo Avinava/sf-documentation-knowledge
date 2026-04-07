@@ -5,12 +5,10 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.779Z
+lastCollected: 2026-04-07T18:35:39.569Z
 estimatedTokens: 9428
-keywords: [template, Commands, Generate, simple, Analytics, Examples, Flags, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage]
+keywords: [Flags, template, Commands, Generate, simple, Analytics, Examples, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage, Beta, lightning, app, event, test, project, static-resource, ui-bundle, visualforce]
 ---
-
-# template Commands
 
 > Generate a simple Analytics template.
 

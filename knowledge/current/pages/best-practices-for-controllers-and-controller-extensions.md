@@ -6,13 +6,10 @@ topic: best-practices-for-controllers-and-controller-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:57.012Z
+lastCollected: 2026-04-07T18:38:48.986Z
 estimatedTokens: 444
-keywords: [Best, Practices, Controllers, Controller, Extensions, extension, extends, standard, logic, doesn’t, execute, system, mode, Instead, executes]
+keywords: [Best, Practices, Controllers, Controller, Extensions, extension, extends, standard, logic, doesn’t, execute, system, mode, Instead, executes, user, permissions, field-level, security]
 ---
-
-# Best Practices for Controllers and Controller
-        Extensions
 
 > If a
                         controller extension extends a standard controller, the logic from the

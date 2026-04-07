@@ -5,12 +5,10 @@ topic: programming-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:46.061Z
+lastCollected: 2026-04-07T18:36:31.434Z
 estimatedTokens: 1383
-keywords: [Programming, Objects, interact, programmatic, artifacts, Apex, Visualforce, Lightning]
+keywords: [Programming, interact, programmatic, artifacts, Apex, Visualforce, Lightning]
 ---
-
-# Programming Objects
 
 > Use programming objects to interact with programmatic artifacts: Apex, Visualforce, and Lightning.
 

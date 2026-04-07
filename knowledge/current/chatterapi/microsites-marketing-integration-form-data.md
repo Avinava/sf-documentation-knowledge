@@ -5,12 +5,10 @@ topic: microsites-marketing-integration-form-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.530Z
+lastCollected: 2026-04-07T18:37:14.521Z
 estimatedTokens: 164
-keywords: [Microsites, Marketing, Integration, Form, Data, Submit, Experience, Cloud, site]
+keywords: [Microsites, Marketing, Integration, Form, Submit, Experience, Cloud, site]
 ---
-
-# Microsites Marketing Integration Form Data
 
 > Submit a marketing integration form for an Experience Cloud
       site.

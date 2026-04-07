@@ -5,13 +5,11 @@ topic: fsccomplaintmanagement-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.941Z
+lastCollected: 2026-04-07T18:37:34.472Z
 estimatedTokens: 271
 namespace: The
-keywords: [fsccomplaintmanagement, classes, provide, data, helper, functions, complaint, management]
+keywords: [fsccomplaintmanagement, classes, provide, helper, functions, complaint, management]
 ---
-
-# fsccomplaintmanagement Namespace
 
 > The fsccomplaintmanagement namespace classes
     provide data helper functions for use in complaint management.

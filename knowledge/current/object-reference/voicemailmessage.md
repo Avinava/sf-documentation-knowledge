@@ -5,12 +5,10 @@ topic: voicemailmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.436Z
+lastCollected: 2026-04-07T18:38:44.249Z
 estimatedTokens: 491
-keywords: [VoiceMailMessage, prerecorded, voicemail, message, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [VoiceMailMessage, prerecorded, voicemail, message]
 ---
-
-# VoiceMailMessage
 
 > Represents a prerecorded voicemail message.
 

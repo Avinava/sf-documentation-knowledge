@@ -5,12 +5,10 @@ topic: populating-a-soup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.742Z
+lastCollected: 2026-04-07T18:40:26.970Z
 estimatedTokens: 512
-keywords: [Populating, Soup, add, Salesforce, records, offline, access, REST, API, conjunction, SmartStore, APIs, Hybrid, Apps, iOS]
+keywords: [Populating, Soup, add, Salesforce, records, offline, REST, API, conjunction, SmartStore, APIs, Hybrid, Apps, iOS, Native, Android]
 ---
-
-# Populating a Soup
 
 > To add Salesforce records to a
         soup for offline access, use the REST API in conjunction with SmartStore APIs.

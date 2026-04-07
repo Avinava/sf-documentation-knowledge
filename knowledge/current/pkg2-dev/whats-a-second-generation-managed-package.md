@@ -5,12 +5,10 @@ topic: whats-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.927Z
+lastCollected: 2026-04-07T18:38:56.572Z
 estimatedTokens: 570
-keywords: [What’s, Second-Generation, Managed, Package, goal, build, app, distribute, AppExchange, you’ll, packages, Packaging, container, fill, metadata]
+keywords: [What’s, Second-Generation, Managed, Package, goal, build, app, distribute, AppExchange, you’ll, packages, Packaging, container, fill, metadata, holds, features, customizations, schema, include, different, library]
 ---
-
-# What’s a Second-Generation Managed Package?
 
 > If your goal is to build an app and distribute it on AppExchange, you’ll use managed
   packages to do both. Packaging is the container that you fill with metadata, and it holds the set

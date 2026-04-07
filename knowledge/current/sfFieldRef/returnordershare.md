@@ -5,12 +5,10 @@ topic: returnordershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.669Z
+lastCollected: 2026-04-07T18:40:00.410Z
 estimatedTokens: 248
 keywords: [ReturnOrderShare, Sharing, ReturnOrder]
 ---
-
-# ReturnOrderShare
 
 > Sharing for ReturnOrder.
 

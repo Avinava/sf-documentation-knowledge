@@ -5,12 +5,10 @@ topic: digitalexperiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.461Z
+lastCollected: 2026-04-07T18:36:24.892Z
 estimatedTokens: 2955
-keywords: [DigitalExperienceBundle, text-based, code, structure, organization’s, workspaces, organized, workspace, workspace’s, content, items, Parent, File, Suffix, Directory]
+keywords: [DigitalExperienceBundle, DigitalExperience, DigitalExperienceFolderShare, SharedWith, text-based, code, structure, organization’s, workspaces, organized, workspace, workspace’s, content, items, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DigitalExperienceBundle
 
 > Represents a text-based code structure of your
 			organization’s workspaces, organized by workspace type, and each workspace’s content

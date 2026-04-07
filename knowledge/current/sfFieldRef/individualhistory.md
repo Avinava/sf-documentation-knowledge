@@ -5,12 +5,10 @@ topic: individualhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.121Z
+lastCollected: 2026-04-07T18:39:44.699Z
 estimatedTokens: 286
-keywords: [IndividualHistory, history, changes, data, privacy, record, Individual, versions, 42.0, later]
+keywords: [IndividualHistory, changes, privacy, record, Individual, versions, 42.0]
 ---
-
-# IndividualHistory
 
 > Represents the history of changes to values in the fields of a data
 			privacy record, based on the Individual object. This object is available in

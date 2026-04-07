@@ -5,12 +5,10 @@ topic: about-backbone-technology
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.033Z
+lastCollected: 2026-04-07T18:40:25.402Z
 estimatedTokens: 256
-keywords: [Backbone, Technology, Salesforce, Mobile, Sync, extends, Model, Collection, core, objects, connect, REST, API, offline, support]
+keywords: [Backbone, Technology, Salesforce, Mobile, Sync, extends, Model, Collection, core, connect, REST, API, offline, support, SmartStore, secure, storage, SDK]
 ---
-
-# About Backbone Technology
 
 > Salesforce Mobile Sync extends
       the Model and Collection core Backbone objects to connect them to the Salesforce REST API. Mobile Sync also provides

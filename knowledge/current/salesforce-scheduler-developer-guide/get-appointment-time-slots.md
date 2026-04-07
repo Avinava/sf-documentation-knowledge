@@ -5,12 +5,10 @@ topic: get-appointment-time-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.501Z
+lastCollected: 2026-04-07T18:39:21.326Z
 estimatedTokens: 664
-keywords: [Appointment, Time, Slots, slot, period, day, scheduled, getAppointmentSlots, REST, API, fetch, resource, available-territory-slots, Connect, consolidated, availability, service]
+keywords: [Appointment, Time, Slots, slot, period, day, scheduled, getAppointmentSlots, REST, API, fetch, resource, available-territory-slots, Connect, consolidated, availability, service, selected, territory]
 ---
-
-# Get Appointment Time Slots
 
 > A time slot is a period in a day when an appointment can be scheduled. Use the
         available-territory-slots Connect API to fetch the

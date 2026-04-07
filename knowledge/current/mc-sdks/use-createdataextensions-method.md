@@ -5,12 +5,10 @@ topic: use-createdataextensions-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.025Z
+lastCollected: 2026-04-07T18:40:24.530Z
 estimatedTokens: 1163
-keywords: [CreateDataExtensions, CreateDataExtension, helper, multiple, data, extensions, call, setting, new, environments, define, additional, extension, Ruby, Declare]
+keywords: [Ruby, Python, CSharp, Java, CreateDataExtensions, CreateDataExtension, helper, multiple, extensions, call, setting, new, environments, define, additional, extension, Declare, Hash, containing, DataExtension, 2nd, passing, Hashes, Array, PHP, dict, contain, dicts, Items]
 ---
-
-# Use CreateDataExtensions Method
 
 > Use the CreateDataExtension helper method create multiple data extensions in a single call (such as when setting up new data environments). You can define additional details on the properties for a data extension.
 

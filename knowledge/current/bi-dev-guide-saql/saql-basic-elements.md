@@ -5,12 +5,10 @@ topic: saql-basic-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.777Z
+lastCollected: 2026-04-07T18:37:00.284Z
 estimatedTokens: 516
-keywords: [SAQL, Basic, Elements, building, blocks, query]
+keywords: [SAQL, Basic, building, blocks, query]
 ---
-
-# SAQL Basic Elements
 
 > Basic elements are the building blocks of your SAQL query.
 

@@ -5,12 +5,10 @@ topic: chatteranswersactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.918Z
+lastCollected: 2026-04-07T18:38:27.845Z
 estimatedTokens: 973
-keywords: [ChatterAnswersActivity, reputation, User, Chatter, Answers, zones.This, API, version, 25.0, later, Calls, Usage]
+keywords: [ChatterAnswersActivity, reputation, User, Chatter, Answers, zones.This, API, 25.0]
 ---
-
-# ChatterAnswersActivity
 
 > Represents the reputation of a
         User in Chatter Answers zones.This object is available in API version 25.0 and

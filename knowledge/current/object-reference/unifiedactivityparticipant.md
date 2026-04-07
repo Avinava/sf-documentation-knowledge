@@ -5,12 +5,10 @@ topic: unifiedactivityparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.342Z
+lastCollected: 2026-04-07T18:38:43.088Z
 estimatedTokens: 552
-keywords: [UnifiedActivityParticipant, participant, activity, voice, call, someone, initiated, received, call.This, reports, dashboards, Winter, ’24, release, later]
+keywords: [UnifiedActivityParticipant, participant, activity, voice, call, someone, initiated, received, call.This, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedActivityParticipant
 
 > Represents a participant in an activity. For example, a participant
          in a voice call is someone who initiated the call or someone who received the

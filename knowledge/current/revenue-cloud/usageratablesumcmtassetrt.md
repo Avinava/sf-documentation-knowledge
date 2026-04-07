@@ -5,12 +5,10 @@ topic: usageratablesumcmtassetrt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.865Z
+lastCollected: 2026-04-07T18:35:50.744Z
 estimatedTokens: 698
-keywords: [UsageRatableSumCmtAssetRt, rate, that’s, calculated, applicable, usage, resource, associated, commitment, assets, anchor, API, version, 65.0, later]
+keywords: [UsageRatableSumCmtAssetRt, rate, that’s, calculated, applicable, resource, commitment, assets, anchor, API, 65.0]
 ---
-
-# UsageRatableSumCmtAssetRt
 
 > Represents the rate that’s calculated and applicable for the usage resource
          associated with the commitment assets related to an anchor. This object is available

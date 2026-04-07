@@ -5,12 +5,10 @@ topic: api-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.163Z
+lastCollected: 2026-04-07T18:39:17.838Z
 estimatedTokens: 416
-keywords: [API, Performance, customer, designed, custom, integration, synchronize, Salesforce, data, external, applications, Situation, Solution]
+keywords: [Situation, Solution, API, Performance, customer, designed, integration, synchronize, Salesforce, external, applications]
 ---
-
-# API Performance
 
 > The customer designed a custom integration to synchronize Salesforce data with external customer
     applications.

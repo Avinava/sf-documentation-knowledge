@@ -5,12 +5,10 @@ topic: common-connector-api-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.331Z
+lastCollected: 2026-04-07T18:39:23.265Z
 estimatedTokens: 857
 keywords: [Common, Connector, API, apply, third, party, vendor, systems, including, Contact, Center, Service, CCaaS, voice]
 ---
-
-# Common Connector API Methods
 
 > The common Connector API methods apply to all third party vendor
             systems, including Contact Center as a Service (CCaaS) and voice

@@ -5,12 +5,10 @@ topic: schedulingconstraint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.001Z
+lastCollected: 2026-04-07T18:40:00.755Z
 estimatedTokens: 465
-keywords: [SchedulingConstraint, scheduling, constraints, service, resource, API, version, 50.0, later]
+keywords: [SchedulingConstraint, scheduling, constraints, service, resource, API, 50.0]
 ---
-
-# SchedulingConstraint
 
 > Represents scheduling constraints on each service resource. This object
       is available in API version 50.0 and later.

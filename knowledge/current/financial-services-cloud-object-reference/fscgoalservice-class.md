@@ -5,12 +5,10 @@ topic: fscgoalservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.389Z
+lastCollected: 2026-04-07T18:37:33.820Z
 estimatedTokens: 219
-keywords: [FSCGoalService, callable, either, picklist, Financial, Goal, user, Edit, access, FinancialGoal, Usage]
+keywords: [FSCGoalService, callable, either, picklist, Financial, Goal, user, Edit, FinancialGoal]
 ---
-
-# FSCGoalService Class
 
 > Use the callable FSCGoalService class to return either picklist values of a Financial
     Goal object or true if the user has Create, Edit, or Delete

@@ -5,12 +5,10 @@ topic: commerce-webstore-promotions-execute-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.762Z
+lastCollected: 2026-04-07T18:37:12.652Z
 estimatedTokens: 540
-keywords: [Commerce, Webstore, Promotions, Execute, Action, associated, promotion, discounts, cart, items]
+keywords: [Commerce, Webstore, Promotions, Execute, Action, promotion, discounts, cart, items]
 ---
-
-# Commerce Webstore Promotions, Execute Action
 
 > Applies associated promotion discounts to a cart and its items.
 

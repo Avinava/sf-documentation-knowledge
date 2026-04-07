@@ -5,12 +5,10 @@ topic: commerce-sales-channel-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.814Z
+lastCollected: 2026-04-07T18:35:52.714Z
 estimatedTokens: 215
-keywords: [Commerce, Sales, Channel, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
+keywords: [Commerce, Sales, Channel, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, sell, goods, web, store, retail, DLO]
 ---
-
-# Commerce: Sales Channel Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Sales Channel data is the channel used to sell

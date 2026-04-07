@@ -5,12 +5,10 @@ topic: abstract-text-field-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.834Z
+lastCollected: 2026-04-07T18:36:59.335Z
 estimatedTokens: 263
 keywords: [Abstract, Text, Configuration, base, Einstein, Discovery]
 ---
-
-# Abstract Text Field Configuration
 
 > The base Einstein Discovery text field configuration.
 

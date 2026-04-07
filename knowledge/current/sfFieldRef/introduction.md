@@ -5,12 +5,10 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.861Z
+lastCollected: 2026-04-07T18:39:23.791Z
 estimatedTokens: 700
-keywords: [Introduction, standard, objects, Salesforce, Terminology, API, versus, User]
+keywords: [Introduction, standard, Salesforce, Terminology, API, versus, User]
 ---
-
-# Introduction
 
 > This guide lists important details for standard objects in Salesforce.
 

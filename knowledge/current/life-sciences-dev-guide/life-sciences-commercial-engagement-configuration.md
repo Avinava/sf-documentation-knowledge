@@ -5,12 +5,10 @@ topic: life-sciences-commercial-engagement-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.617Z
+lastCollected: 2026-04-07T18:37:57.121Z
 estimatedTokens: 185
-keywords: [Life, Sciences, Commercial, Engagement, Configuration, objects, store, settings, configurations, Customer, features, cases, control, feature’s, behavior]
+keywords: [Life, Sciences, Commercial, Engagement, Configuration, store, settings, configurations, Customer, features, cases, control, feature’s, behavior, assigning, specific, profiles, users, apply, org]
 ---
-
-# Life Sciences Commercial Engagement Configuration
 
 > The Life Sciences Commercial Engagement Configuration objects store settings and
   configurations for many Customer Engagement features. In some cases, you can control a feature’s

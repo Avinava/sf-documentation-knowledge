@@ -5,12 +5,10 @@ topic: loyalty-management-mobile-sdk-and-sample-app-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.341Z
+lastCollected: 2026-04-07T18:38:09.632Z
 estimatedTokens: 90
-keywords: [Loyalty, Management, Mobile, SDK, Sample, App, Support, open-source, product, any, questions, feedback, post, Salesforce, Stack]
+keywords: [Loyalty, Management, Mobile, SDK, Sample, App, Support, open-source, product, any, questions, feedback, post, Salesforce, Stack, Exchange, site, loyaltymobile, hashtag, bug, either, raise, ticket, GitHub]
 ---
-
-# Loyalty Management Mobile SDK and Sample App Support
 
 > Loyalty Management Mobile SDK is an open-source product. If you have any questions or
     feedback on the mobile SDK, post your questions or feedback on the Salesforce Stack Exchange

@@ -5,12 +5,10 @@ topic: model-workplace-reopening-with-shift-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.375Z
+lastCollected: 2026-04-07T18:40:14.388Z
 estimatedTokens: 400
-keywords: [Model, Workplace, Reopening, Shift, Management, Work.com, streamlines, process, getting, employees, back, work, safely, capacity, facilities]
+keywords: [Model, Workplace, Reopening, Shift, Management, Work.com, streamlines, process, getting, employees, back, work, safely, capacity, facilities, resources, Taking, account, new, requirements, policies, specify, how, people, allow, onsite, time]
 ---
-
-# Model Workplace Reopening with Shift Management
 
 > Shift Management for Work.com streamlines the process of getting your employees back to
   work safely. With Shift Management, you can model the capacity of your workplace facilities and

@@ -5,12 +5,10 @@ topic: salesforce-crm-promotion-market-segment-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.396Z
+lastCollected: 2026-04-07T18:35:53.346Z
 estimatedTokens: 249
-keywords: [Salesforce, CRM, Promotion, Market, Segment, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud]
+keywords: [Salesforce, CRM, Promotion, Market, Segment, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, Promotions, segments, targeted, towards, DMO]
 ---
-
-# Salesforce CRM: Promotion Market Segment Mapping
 
 > These data mappings are for the Promotion Market Segment DLO found in the Loyalty
   Management bundle of the Salesforce CRM Connector for Data Cloud. Promotions are associated with

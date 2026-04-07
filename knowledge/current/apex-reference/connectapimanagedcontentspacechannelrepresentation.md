@@ -5,12 +5,10 @@ topic: connectapimanagedcontentspacechannelrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.662Z
+lastCollected: 2026-04-07T18:36:09.988Z
 estimatedTokens: 270
 keywords: [Managed, content, space, channel]
 ---
-
-# ConnectApi.ManagedContentSpaceChannelRepresentation
 
 > Managed content space channel.
 

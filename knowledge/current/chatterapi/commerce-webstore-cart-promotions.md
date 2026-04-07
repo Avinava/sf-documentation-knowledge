@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.431Z
+lastCollected: 2026-04-07T18:37:12.306Z
 estimatedTokens: 283
-keywords: [Commerce, Webstore, Cart, Promotions, associated]
+keywords: [Commerce, Webstore, Cart, Promotions]
 ---
-
-# Commerce Webstore Cart Promotions
 
 > Get promotions associated with a cart.
 

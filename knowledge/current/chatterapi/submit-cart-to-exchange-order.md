@@ -5,12 +5,10 @@ topic: submit-cart-to-exchange-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.543Z
+lastCollected: 2026-04-07T18:37:15.606Z
 estimatedTokens: 489
-keywords: [Submit, Cart, Exchange, Order, Creates, summary, exchanges, new, attached, original, created, any, occurred, provide, payment, resulting, action]
+keywords: [Submit, Cart, Exchange, Order, Creates, summary, exchanges, new, attached, original, created, any, occurred, provide, payment, sequences, affect, newly, resulting, action]
 ---
-
-# Submit Cart to Exchange Order
 
 > Creates an exchange order summary, based on the return order and the cart used for
       exchanges. The new exchange order summary is attached to the original order summary (created

@@ -5,12 +5,10 @@ topic: documentgenerationprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.757Z
+lastCollected: 2026-04-07T18:39:38.442Z
 estimatedTokens: 580
-keywords: [DocumentGenerationProcess, Supports, server-side, document, generation, requests, responses, API, version, 56.0, later]
+keywords: [DocumentGenerationProcess, Supports, server-side, document, generation, requests, responses, API, 56.0]
 ---
-
-# DocumentGenerationProcess
 
 > Supports server-side document generation requests and responses. This object is available in API version 56.0 and later.
 

@@ -5,12 +5,10 @@ topic: permission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.951Z
+lastCollected: 2026-04-07T18:40:18.138Z
 estimatedTokens: 479
 keywords: [Permission]
 ---
-
-# Permission
 
 # Permission
 

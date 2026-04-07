@@ -5,12 +5,10 @@ topic: shiftshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.316Z
+lastCollected: 2026-04-07T18:40:02.030Z
 estimatedTokens: 259
-keywords: [ShiftShare, sharing, entry, service, shift, API, versions, 46.0, later]
+keywords: [ShiftShare, sharing, entry, service, shift, API, versions, 46.0]
 ---
-
-# ShiftShare
 
 > Represents a sharing entry on a field service shift. Available
       in API versions 46.0 and later.

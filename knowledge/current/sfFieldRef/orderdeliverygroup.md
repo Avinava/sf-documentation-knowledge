@@ -5,12 +5,10 @@ topic: orderdeliverygroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:56.336Z
+lastCollected: 2026-04-07T18:39:50.746Z
 estimatedTokens: 877
-keywords: [OrderDeliveryGroup, group, order, items, share, delivery, address, fulfillment, process, shipping, gift, downloading, picking, store, standard]
+keywords: [OrderDeliveryGroup, group, order, items, share, delivery, address, fulfillment, process, shipping, gift, downloading, picking, store, standard, API, 48.0]
 ---
-
-# OrderDeliveryGroup
 
 > A group of order items that share a delivery method and address. The delivery
       method and address are used during the fulfillment process, such as shipping as a gift,

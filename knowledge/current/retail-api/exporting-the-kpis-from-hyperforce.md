@@ -5,13 +5,11 @@ topic: exporting-the-kpis-from-hyperforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:17.883Z
+lastCollected: 2026-04-07T18:39:11.421Z
 estimatedTokens: 355
 namespace: CGCloud
 keywords: [Exporting, KPIs, Hyperforce, how, export, CSV, integration, metadata, configuration, adding, new, report, entry, RTR, Configurations]
 ---
-
-# Exporting the KPIs from Hyperforce
 
 > This section provides information on how to export the KPIs from Hyperforce. You can
   create CSV export integration metadata configuration by adding new report configuration entry to

@@ -5,12 +5,10 @@ topic: connectapiocitransferreservationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.157Z
+lastCollected: 2026-04-07T18:36:10.456Z
 estimatedTokens: 112
 keywords: [transfer, inventory, reservations]
 ---
-
-# ConnectApi.OCITransferReservationOutputRepresentation
 
 > Response to a request to transfer one or more inventory
       reservations.

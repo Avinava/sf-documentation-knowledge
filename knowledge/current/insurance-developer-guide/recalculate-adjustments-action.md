@@ -5,12 +5,10 @@ topic: recalculate-adjustments-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.183Z
+lastCollected: 2026-04-07T18:37:48.918Z
 estimatedTokens: 275
-keywords: [Recalculate, Adjustments, Action, adjusted, amount, claim, loss, item, maximum, that’s, allowed, insurance, policy, REST, HTTP]
+keywords: [Inputs, Outputs, Recalculate, Adjustments, Action, adjusted, amount, claim, loss, item, maximum, that’s, allowed, insurance, policy, REST, HTTP]
 ---
-
-# Recalculate Adjustments Action
 
 > Recalculate the adjusted amount for a claim loss item to the maximum amount that’s
         allowed by the insurance policy.

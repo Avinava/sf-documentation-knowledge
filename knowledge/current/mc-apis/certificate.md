@@ -5,12 +5,10 @@ topic: certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.539Z
+lastCollected: 2026-04-07T18:40:15.638Z
 estimatedTokens: 336
 keywords: [Certificate, base, security, certificates]
 ---
-
-# Certificate
 
 > The Certificate object is the base object for security certificates.
 

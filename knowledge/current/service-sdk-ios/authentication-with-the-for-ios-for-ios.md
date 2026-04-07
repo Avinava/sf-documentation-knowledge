@@ -6,13 +6,10 @@ topic: authentication-with-the-for-ios-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.839Z
+lastCollected: 2026-04-07T18:40:27.973Z
 estimatedTokens: 2176
-keywords: [Authentication, iOS, Service, Chat, SDK, mechanism, users, access, user-specific, Cloud, authenticate, SCSAuthenticationSettings, pass, Settings, Flow]
+keywords: [Authentication, iOS, Service, Chat, SDK, mechanism, users, user-specific, Cloud, authenticate, SCSAuthenticationSettings, pass, Settings, Flow, Error, Conditions, Sample, Code]
 ---
-
-# Authentication with the  for iOS for
-      iOS
 
 > The Service Chat SDK provides an authentication
     mechanism that allows your users to access user-specific information in Service Cloud. To

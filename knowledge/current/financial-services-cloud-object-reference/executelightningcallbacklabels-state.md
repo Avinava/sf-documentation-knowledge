@@ -5,12 +5,10 @@ topic: executelightningcallbacklabels-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.462Z
+lastCollected: 2026-04-07T18:37:33.916Z
 estimatedTokens: 227
-keywords: [executeLightningCallback, labels, state, Calls, back, automatically, Continuation, getLightningContinuation, executed, Internally, callback, provider, Usage]
+keywords: [executeLightningCallback, labels, state, back, automatically, Continuation, getLightningContinuation, executed, Internally, callback, provider]
 ---
-
-# executeLightningCallback(labels, state)
 
 > Calls back the method that is called automatically after the
       Continuation from getLightningContinuation is executed. Internally calls the callback method

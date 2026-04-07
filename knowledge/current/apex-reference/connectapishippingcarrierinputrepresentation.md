@@ -5,12 +5,10 @@ topic: connectapishippingcarrierinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.067Z
+lastCollected: 2026-04-07T18:36:06.418Z
 estimatedTokens: 114
 keywords: [Shipping, carrier]
 ---
-
-# ConnectApi.ShippingCarrierInputRepresentation
 
 > Shipping carrier.
 

@@ -5,12 +5,10 @@ topic: connectapimanagedcontentmediasourcenodevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.585Z
+lastCollected: 2026-04-07T18:36:09.923Z
 estimatedTokens: 229
 keywords: [Source, managed, content, media]
 ---
-
-# ConnectApi.ManagedContentMediaSourceNodeValue
 
 > Source of managed content media.
 

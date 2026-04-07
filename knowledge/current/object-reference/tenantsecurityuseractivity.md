@@ -5,12 +5,10 @@ topic: tenantsecurityuseractivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.898Z
+lastCollected: 2026-04-07T18:38:42.623Z
 estimatedTokens: 1091
-keywords: [TenantSecurityUserActivity, Stores, how, user, interacts, tenant, determine, whether, reevaluate, user’s, access, org, security, purposes, check]
+keywords: [TenantSecurityUserActivity, Stores, how, user, interacts, tenant, determine, whether, reevaluate, user’s, org, security, purposes, check, never, logged, hasn’t, active, days, frozen, account, isn’t, multi-factor, authentication, Center, subscribers, API, 53.0]
 ---
-
-# TenantSecurityUserActivity
 
 > Stores details related to how a user interacts with a tenant. Use this object to
       determine whether to reevaluate a user’s access to your org for security purposes. You can

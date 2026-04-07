@@ -5,12 +5,10 @@ topic: token-revocation-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.402Z
+lastCollected: 2026-04-07T18:40:27.573Z
 estimatedTokens: 147
 keywords: [Token, Revocation, Events, event, occurs, ClientManager, Android-style, notification, intent, action, declared, constant]
 ---
-
-# Token Revocation Events
 
 > When a token revocation event occurs, the ClientManager
    object sends an Android-style notification. The intent action for this notification is declared

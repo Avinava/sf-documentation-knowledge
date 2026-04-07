@@ -5,12 +5,10 @@ topic: example-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.889Z
+lastCollected: 2026-04-07T18:36:51.193Z
 estimatedTokens: 104
 keywords: [Authentication, simple, scheme, developer, testing, production, systems, robust, authorization, OAuth, 2.0]
 ---
-
-# Example: Authentication
 
 > You can set up a simple authentication scheme for developer testing. For production
   systems, use robust authorization, such as OAuth 2.0.

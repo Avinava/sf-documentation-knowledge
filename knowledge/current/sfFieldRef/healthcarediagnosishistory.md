@@ -5,12 +5,10 @@ topic: healthcarediagnosishistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.746Z
+lastCollected: 2026-04-07T18:39:43.338Z
 estimatedTokens: 268
-keywords: [HealthCareDiagnosisHistory, History, tracked, HealthCareDiagnosis]
+keywords: [HealthCareDiagnosisHistory, tracked, HealthCareDiagnosis]
 ---
-
-# HealthCareDiagnosisHistory
 
 > History for tracked fields of HealthCareDiagnosis.
 

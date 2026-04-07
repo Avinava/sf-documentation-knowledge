@@ -5,12 +5,10 @@ topic: filter-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.632Z
+lastCollected: 2026-04-07T18:39:18.319Z
 estimatedTokens: 97
-keywords: [Filter, Input, node, recipe]
+keywords: [Filter, node, recipe]
 ---
-
-# Filter Parameters Input
 
 > The parameters for a filter node in a recipe.
 

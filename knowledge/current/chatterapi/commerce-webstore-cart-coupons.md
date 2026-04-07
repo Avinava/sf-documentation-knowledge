@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-coupons
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.446Z
+lastCollected: 2026-04-07T18:37:12.323Z
 estimatedTokens: 554
-keywords: [Commerce, Webstore, Cart, Coupons, associated, apply, coupon, code]
+keywords: [Commerce, Webstore, Cart, Coupons, apply, coupon, code]
 ---
-
-# Commerce Webstore Cart Coupons
 
 > Get coupons associated with a cart, and apply a coupon code to a cart.
 

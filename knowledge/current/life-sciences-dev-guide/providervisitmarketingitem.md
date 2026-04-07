@@ -5,12 +5,10 @@ topic: providervisitmarketingitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.643Z
+lastCollected: 2026-04-07T18:38:01.516Z
 estimatedTokens: 993
-keywords: [ProviderVisitMarketingItem, marketing, items, provided, health, care, provider, part, visit, API, version, 65.0, later, Calls, Associated]
+keywords: [ProviderVisitMarketingItem, marketing, items, provided, health, care, provider, part, visit, API, 65.0]
 ---
-
-# ProviderVisitMarketingItem
 
 > Represents marketing items provided to the health care provider as part of a
          visit. This object is available in API version 65.0 and later.

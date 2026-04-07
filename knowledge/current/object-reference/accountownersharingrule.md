@@ -5,12 +5,10 @@ topic: accountownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.536Z
+lastCollected: 2026-04-07T18:38:24.413Z
 estimatedTokens: 1219
-keywords: [AccountOwnerSharingRule, rules, sharing, account, User, owner, Calls, Special, Access, Usage]
+keywords: [AccountOwnerSharingRule, sharing, account, User, owner]
 ---
-
-# AccountOwnerSharingRule
 
 > Represents the rules for sharing an account with a User other than the
       owner.

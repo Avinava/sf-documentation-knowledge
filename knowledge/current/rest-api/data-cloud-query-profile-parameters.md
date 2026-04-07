@@ -5,12 +5,10 @@ topic: data-cloud-query-profile-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.234Z
+lastCollected: 2026-04-07T18:36:20.447Z
 estimatedTokens: 707
-keywords: [Data, Cloud, Query, Profile, Unified, allow, leverage, Salesforce, REST, API, endpoint, execute, SOQL, queries, against]
+keywords: [Cloud, Query, Profile, Unified, allow, leverage, Salesforce, REST, API, endpoint, execute, SOQL, queries, against, Source, Model, org, functionality, 51.0, Limitations, Sample]
 ---
-
-# Data Cloud Query Profile Parameters
 
 > Data Cloud Query and Unified Profile parameters allow you to leverage Salesforce REST
 		API Query endpoint to execute SOQL queries against the Unified Profile, Data Source objects,

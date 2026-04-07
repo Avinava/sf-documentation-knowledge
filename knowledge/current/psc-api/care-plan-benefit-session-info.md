@@ -5,12 +5,10 @@ topic: care-plan-benefit-session-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.100Z
+lastCollected: 2026-04-07T18:39:02.315Z
 estimatedTokens: 164
-keywords: [Care, Plan, Benefit, Session, Info, Output, representation, enrolled, sessions]
+keywords: [Care, Plan, Benefit, Session, Info, enrolled, sessions]
 ---
-
-# Care Plan Benefit Session Info
 
 > Output representation of the details of a benefit and its enrolled
       benefit sessions in a care plan.

@@ -5,12 +5,10 @@ topic: referencedataloadloghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.543Z
+lastCollected: 2026-04-07T18:39:59.204Z
 estimatedTokens: 271
-keywords: [ReferenceDataLoadLogHistory, History, tracked, ReferenceDataLoadLog]
+keywords: [ReferenceDataLoadLogHistory, tracked, ReferenceDataLoadLog]
 ---
-
-# ReferenceDataLoadLogHistory
 
 > History for tracked fields of ReferenceDataLoadLog.
 

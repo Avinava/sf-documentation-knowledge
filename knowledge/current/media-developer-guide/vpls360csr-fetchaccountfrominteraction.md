@@ -5,12 +5,10 @@ topic: vpls360csr-fetchaccountfrominteraction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.435Z
+lastCollected: 2026-04-07T18:38:11.744Z
 estimatedTokens: 308
-keywords: [vpls360Csr-FetchAccountFromInteraction, Omnistudio, Data, Mapper, agent, console, fetch, account, customer, interaction, Sample, Input, Output]
+keywords: [vpls360Csr-FetchAccountFromInteraction, Omnistudio, Mapper, agent, console, fetch, account, customer, interaction, Sample]
 ---
-
-# vpls360Csr-FetchAccountFromInteraction
 
 > This Omnistudio Data Mapper is used in the agent console
         to fetch the account ID from the customer interaction.

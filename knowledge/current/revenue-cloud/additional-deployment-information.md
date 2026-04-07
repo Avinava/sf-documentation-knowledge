@@ -5,12 +5,10 @@ topic: additional-deployment-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.016Z
+lastCollected: 2026-04-07T18:35:47.033Z
 estimatedTokens: 945
 keywords: [Additional, Deployment, know, Revenue, Cloud, feature, domain, ensuring, successful, deployments, migrations]
 ---
-
-# Additional Deployment Information
 
 > Get to know additional deployment information for each Revenue Cloud feature domain,
     ensuring successful deployments and migrations.

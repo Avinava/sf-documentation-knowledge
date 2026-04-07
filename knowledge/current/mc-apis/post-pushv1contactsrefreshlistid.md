@@ -5,12 +5,10 @@ topic: post-pushv1contactsrefreshlistid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.098Z
+lastCollected: 2026-04-07T18:40:18.283Z
 estimatedTokens: 152
-keywords: [POST, push, contacts, refreshList, **Overview**, Usage]
+keywords: [POST, push, contacts, refreshList, **Overview**]
 ---
-
-# POST /push/v1/contacts/refreshList/{id}
 
 # POST /push/v1/contacts/refreshList/{id}
 

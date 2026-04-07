@@ -5,13 +5,11 @@ topic: inboundenvelope-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.327Z
+lastCollected: 2026-04-07T18:36:03.544Z
 estimatedTokens: 370
 namespace: Messaging
-keywords: [InboundEnvelope, stores, envelope, associated, inbound, email, fromAddress, toAddress]
+keywords: [InboundEnvelope, stores, envelope, inbound, email, fromAddress, toAddress]
 ---
-
-# InboundEnvelope Class
 
 > The InboundEnvelope object stores the envelope information
 associated with the inbound email, and has the following fields.

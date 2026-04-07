@@ -5,12 +5,10 @@ topic: connectapifeedpollchoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.296Z
+lastCollected: 2026-04-07T18:36:06.648Z
 estimatedTokens: 208
-keywords: [ConnectApi.FeedPollChoice, Feed, poll, choice]
+keywords: [ConnectApi.FeedPollChoice, poll, choice]
 ---
-
-# ConnectApi.FeedPollChoice
 
 > Feed poll choice.
 

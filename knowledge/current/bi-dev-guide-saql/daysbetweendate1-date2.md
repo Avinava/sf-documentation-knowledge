@@ -6,13 +6,10 @@ topic: daysbetweendate1-date2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.337Z
+lastCollected: 2026-04-07T18:37:00.907Z
 estimatedTokens: 110
 keywords: [daysBetween, date1, date2, number, days, two, dates]
 ---
-
-# daysBetween(date1,
-   date2)
 
 > Returns the number of days between two dates as an integer.
 

@@ -5,12 +5,10 @@ topic: work-with-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.658Z
+lastCollected: 2026-04-07T18:40:08.615Z
 estimatedTokens: 1162
-keywords: [Work, Data, Development, environments, scratch, orgs, developer, sandboxes, stock, testing]
+keywords: [Work, Development, environments, scratch, orgs, developer, sandboxes, stock, testing]
 ---
-
-# Work with Data
 
 > Development environments, such as scratch orgs and developer sandboxes, need a set of
                 stock data for testing.

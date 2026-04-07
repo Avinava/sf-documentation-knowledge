@@ -5,13 +5,11 @@ topic: zipreader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.216Z
+lastCollected: 2026-04-07T18:36:02.432Z
 estimatedTokens: 1426
 namespace: Compression
-keywords: [ZipReader, zip, entries, extract, content, file, data, entry, getEntries, getEntriesMap, getEntry, getEntryNames]
+keywords: [ZipReader, zip, entries, extract, content, file, entry, getEntries, getEntriesMap, getEntry, getEntryNames]
 ---
-
-# ZipReader Class
 
 > Contains methods to get information about zip entries and to extract content for
     specified zip entries from the zip file.

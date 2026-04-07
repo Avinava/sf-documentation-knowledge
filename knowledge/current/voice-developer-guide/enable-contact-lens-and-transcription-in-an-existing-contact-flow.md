@@ -5,12 +5,10 @@ topic: enable-contact-lens-and-transcription-in-an-existing-contact-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.649Z
+lastCollected: 2026-04-07T18:40:12.623Z
 estimatedTokens: 777
-keywords: [Enable, Contact, Lens, Transcription, Flow, real-time, flows, already, created, add, recording, block, post-call, analytics, Prerequisites]
+keywords: [Prerequisites, Enable, Contact, Lens, Transcription, Flow, real-time, flows, already, created, add, recording, block, post-call, analytics]
 ---
-
-# Enable Contact Lens and Transcription in an Existing Contact Flow
 
 > You can enable Contact Lens and real-time transcription in contact
    flows that you already created. To enable Contact Lens and transcription in an existing contact

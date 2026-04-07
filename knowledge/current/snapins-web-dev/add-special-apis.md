@@ -5,12 +5,10 @@ topic: add-special-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.545Z
+lastCollected: 2026-04-07T18:40:09.491Z
 estimatedTokens: 427
-keywords: [Add, Special, APIs, Embedded, Chat, customized, across, several, stages, Start, End, Clear, Bootstrap]
+keywords: [Add, APIs, Embedded, Chat, customized, across, several, stages, Start, End, Clear, Bootstrap]
 ---
-
-# Add Special APIs
 
 > Embedded Chat can be customized across several chat stages, for example, the Start, End
   and Clear or the Bootstrap APIs.

@@ -5,13 +5,11 @@ topic: salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.978Z
+lastCollected: 2026-04-07T18:36:17.197Z
 estimatedTokens: 934
 namespace: DataSource
-keywords: [Salesforce, Connect, Apex, code, access, external, data, via, any, adapter, Connector, Framework, develop, custom, retrieve]
+keywords: [Salesforce, Connect, Apex, code, external, via, any, adapter, Connector, Framework, develop, retrieve, systems, synthesize, locally, enabling, users, Lightning, Platform, seamlessly, interact, that’s, stored, outside, org]
 ---
-
-# Salesforce Connect
 
 > Apex code can access external object data via any Salesforce Connect adapter. Use the
     Apex Connector Framework to develop a custom adapter for Salesforce Connect. The custom adapter can retrieve data from external systems and synthesize data locally.

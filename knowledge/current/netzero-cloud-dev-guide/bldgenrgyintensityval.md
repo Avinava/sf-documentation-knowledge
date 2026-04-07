@@ -5,12 +5,10 @@ topic: bldgenrgyintensityval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.369Z
+lastCollected: 2026-04-07T18:38:17.885Z
 estimatedTokens: 856
-keywords: [BldgEnrgyIntensityVal, calculated, average, energy, intensity, individual, fuel, across, buildings, record, stores, function, floor, area, occupied]
+keywords: [BldgEnrgyIntensityVal, calculated, average, energy, intensity, individual, fuel, across, buildings, record, stores, function, floor, area, occupied, space, building, API, 54.0]
 ---
-
-# BldgEnrgyIntensityVal
 
 > Represents the calculated average energy intensity for an individual fuel
          type across a set of buildings. Each record stores the fuel use intensity as a function of

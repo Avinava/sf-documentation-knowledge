@@ -5,12 +5,10 @@ topic: webcart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:11.591Z
+lastCollected: 2026-04-07T18:40:06.502Z
 estimatedTokens: 1216
-keywords: [WebCart, online, shopping, cart, store, built, B2B, Commerce, D2C, total, amounts, products, shipping, handling, taxes]
+keywords: [WebCart, online, shopping, cart, store, built, B2B, Commerce, D2C, total, amounts, products, shipping, handling, taxes, API, 49.0]
 ---
-
-# WebCart
 
 > Represents an online shopping cart for a store built with B2B
          Commerce or D2C Commerce, with total amounts for products, shipping and handling, and

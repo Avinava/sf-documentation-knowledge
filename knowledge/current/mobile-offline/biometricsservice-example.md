@@ -5,12 +5,10 @@ topic: biometricsservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.155Z
+lastCollected: 2026-04-07T18:38:15.670Z
 estimatedTokens: 195
-keywords: [BiometricsService, Here’s, basic, Lightning, web, component, uses, device’s, biometrics, capabilities, verify, device, ownership]
+keywords: [BiometricsService, Here’s, basic, Lightning, web, uses, device’s, biometrics, capabilities, verify, device, ownership]
 ---
-
-# BiometricsService Example
 
 > Here’s a basic example of a Lightning web component that uses a device’s biometrics
         capabilities to verify device ownership.

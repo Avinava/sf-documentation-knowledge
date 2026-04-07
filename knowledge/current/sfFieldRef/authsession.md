@@ -5,12 +5,10 @@ topic: authsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.514Z
+lastCollected: 2026-04-07T18:39:28.592Z
 estimatedTokens: 378
-keywords: [AuthSession, individual, user, session, organization, versions, 29.0, later]
+keywords: [AuthSession, individual, user, session, organization, versions, 29.0]
 ---
-
-# AuthSession
 
 > The AuthSession object represents an individual user session in your
    organization. This object is available in versions 29.0 and later.

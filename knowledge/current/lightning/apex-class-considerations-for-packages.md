@@ -5,12 +5,10 @@ topic: apex-class-considerations-for-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:12.732Z
+lastCollected: 2026-04-07T18:38:02.656Z
 estimatedTokens: 609
-keywords: [Apex, Considerations, Packages, Keep, mind, develop, classes, Test, Coverage, Grant, User, Access, Usage, Subscriber, Orgs]
+keywords: [Apex, Considerations, Packages, Keep, mind, develop, classes, Test, Coverage, Grant, User, Subscriber, Orgs]
 ---
-
-# Apex Class Considerations for Packages
 
 > Keep these considerations in mind when you develop Apex classes for
   packages.

@@ -5,13 +5,11 @@ topic: redirectwhitelisturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.527Z
+lastCollected: 2026-04-07T18:39:59.187Z
 estimatedTokens: 444
 namespace: NamespacePrefix
-keywords: [RedirectWhitelistUrl, trusted, URL, external, user, redirections, different, Salesforce, org, including, publicly, served, pages, content, allowed]
+keywords: [RedirectWhitelistUrl, trusted, URL, external, user, redirections, different, Salesforce, org, including, publicly, served, pages, content, allowed, non-Salesforce, URLs, session, setting, whether, built, Classic, restricted, Except, cross-org, can’t, restrict, originate, Lightning, Experience, API, 48.0]
 ---
-
-# RedirectWhitelistUrl
 
 > Represents a trusted URL for external user redirections.
     Redirections to a different Salesforce org, including its publicly served pages and content, are

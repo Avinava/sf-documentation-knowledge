@@ -5,12 +5,10 @@ topic: roundtrip-serialization-and-deserialization
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.683Z
+lastCollected: 2026-04-07T18:36:17.906Z
 estimatedTokens: 727
-keywords: [Roundtrip, Serialization, Deserialization, JSON, perform, content, enable, serialize, objects, JSON-formatted, strings, deserialize, back, Invoices, Considerations]
+keywords: [Roundtrip, Serialization, Deserialization, JSON, perform, content, enable, serialize, JSON-formatted, strings, deserialize, back, Invoices, Considerations]
 ---
-
-# Roundtrip Serialization and Deserialization
 
 > Use the JSON class methods to perform roundtrip
         serialization and deserialization of your JSON content. These methods enable you to

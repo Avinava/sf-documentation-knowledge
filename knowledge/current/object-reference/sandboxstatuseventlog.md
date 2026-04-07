@@ -5,12 +5,10 @@ topic: sandboxstatuseventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.867Z
+lastCollected: 2026-04-07T18:38:40.448Z
 estimatedTokens: 381
-keywords: [SandboxStatusEventLog, stores, Sandbox, copies, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [SandboxStatusEventLog, stores, Sandbox, copies, API, 62.0]
 ---
-
-# SandboxStatusEventLog
 
 > SandboxStatusEventLog stores details about Sandbox copies. This
       object is available in API version 62.0 and later.

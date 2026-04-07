@@ -5,12 +5,10 @@ topic: address-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.355Z
+lastCollected: 2026-04-07T18:37:41.441Z
 estimatedTokens: 256
-keywords: [Address, Output, detailed, facility, resource]
+keywords: [Address, detailed, facility, resource]
 ---
-
-# Address Output
 
 > The detailed address information for a facility or resource in the response.
 

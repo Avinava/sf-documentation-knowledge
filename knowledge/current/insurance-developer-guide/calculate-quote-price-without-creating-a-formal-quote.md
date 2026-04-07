@@ -5,12 +5,10 @@ topic: calculate-quote-price-without-creating-a-formal-quote
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.636Z
+lastCollected: 2026-04-07T18:37:52.835Z
 estimatedTokens: 277
 keywords: [Calculate, Quote, Price, Creating, Formal, user, journey, customer, wants, estimated, their, requirements, having, save]
 ---
-
-# Calculate Quote Price Without Creating a Formal Quote
 
 > This user journey applies when a customer wants to see an estimated quote price based on
   their requirements without having to save a formal quote.

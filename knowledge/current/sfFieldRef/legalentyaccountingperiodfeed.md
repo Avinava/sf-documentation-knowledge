@@ -5,12 +5,10 @@ topic: legalentyaccountingperiodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.635Z
+lastCollected: 2026-04-07T18:39:46.177Z
 estimatedTokens: 393
-keywords: [LegalEntyAccountingPeriodFeed, Feed, tracking, LegalEntyAccountingPeriod]
+keywords: [LegalEntyAccountingPeriodFeed, LegalEntyAccountingPeriod]
 ---
-
-# LegalEntyAccountingPeriodFeed
 
 > Feed tracking for LegalEntyAccountingPeriod.
 

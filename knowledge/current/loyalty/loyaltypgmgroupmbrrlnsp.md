@@ -5,12 +5,10 @@ topic: loyaltypgmgroupmbrrlnsp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.942Z
+lastCollected: 2026-04-07T18:38:10.220Z
 estimatedTokens: 1191
-keywords: [LoyaltyPgmGroupMbrRlnsp, junction, Corporate, Individual, loyalty, program, member, part, group, API, version, 53.0, later, Calls, Associated]
+keywords: [LoyaltyPgmGroupMbrRlnsp, junction, Corporate, Individual, loyalty, program, member, part, group, API, 53.0]
 ---
-
-# LoyaltyPgmGroupMbrRlnsp
 
 > Represents a junction between a Corporate or Individual type loyalty program
          member who is part of a group and the Group type loyalty program member. This object

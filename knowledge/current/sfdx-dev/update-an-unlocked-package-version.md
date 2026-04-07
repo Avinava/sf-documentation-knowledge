@@ -5,12 +5,10 @@ topic: update-an-unlocked-package-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.804Z
+lastCollected: 2026-04-07T18:40:08.767Z
 estimatedTokens: 153
-keywords: [Unlocked, Package, Version, command, line, change, exception, can’t, release, status]
+keywords: [Unlocked, Package, command, line, change, exception, can’t, release, status]
 ---
-
-# Update an Unlocked Package Version
 
 > You can update most properties of a package version from the command line. For example,
   you can change the package version name or description. One important exception is that you can’t

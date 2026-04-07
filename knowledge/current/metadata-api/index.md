@@ -5,12 +5,10 @@ topic: index
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.319Z
+lastCollected: 2026-04-07T18:36:26.752Z
 estimatedTokens: 775
-keywords: [Index, defined, custom, big, metadata, define, composite, primary, key, extends, inherits, fullName, File, Suffix, Directory]
+keywords: [Index, IndexField, defined, big, metadata, define, composite, primary, key, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Index
 
 > Represents an index defined within a custom big
         object. Use this metadata type to define the composite primary key (index) for a

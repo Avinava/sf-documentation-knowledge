@@ -5,12 +5,10 @@ topic: story-narrative
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.605Z
+lastCollected: 2026-04-07T18:37:00.103Z
 estimatedTokens: 150
 keywords: [Story, Narrative]
 ---
-
-# Story Narrative
 
 > A narrative for a story.
 

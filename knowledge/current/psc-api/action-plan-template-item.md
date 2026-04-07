@@ -5,12 +5,10 @@ topic: action-plan-template-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.963Z
+lastCollected: 2026-04-07T18:39:02.155Z
 estimatedTokens: 239
-keywords: [Action, Plan, Template, Item, Output, representation, version]
+keywords: [Action, Plan, Template, Item]
 ---
-
-# Action Plan Template Item
 
 > Output representation of an item on an action plan template
   version.

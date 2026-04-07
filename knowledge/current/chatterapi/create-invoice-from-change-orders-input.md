@@ -5,12 +5,10 @@ topic: create-invoice-from-change-orders-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.178Z
+lastCollected: 2026-04-07T18:37:07.981Z
 estimatedTokens: 296
-keywords: [Invoice, Change, Orders, Input, OrderSummary, associated, Invoices]
+keywords: [Invoice, Change, Orders, OrderSummary, Invoices]
 ---
-
-# Create Invoice From Change Orders Input
 
 > OrderSummary and associated change orders to create Invoices
       for.

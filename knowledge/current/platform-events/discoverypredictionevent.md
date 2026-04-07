@@ -5,12 +5,10 @@ topic: discoverypredictionevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.103Z
+lastCollected: 2026-04-07T18:38:58.979Z
 estimatedTokens: 699
-keywords: [DiscoveryPredictionEvent, Notifies, subscribers, Einstein, Discovery, written, prediction, history, results, API, version, 57.0, later, Calls, Subscription]
+keywords: [DiscoveryPredictionEvent, Notifies, subscribers, Einstein, Discovery, written, prediction, results, API, 57.0, Subscription, Channel]
 ---
-
-# DiscoveryPredictionEvent
 
 > Notifies subscribers when Einstein Discovery has written prediction
    history results. This object is available in API version 57.0 and later.

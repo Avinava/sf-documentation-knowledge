@@ -5,12 +5,10 @@ topic: read-product-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.373Z
+lastCollected: 2026-04-07T18:37:27.376Z
 estimatedTokens: 369
 keywords: [Product, API, request’s, pricebook, currency, code, model, loads, catalog, user, requests, REST, Examples, Apex]
 ---
-
-# Read Product API
 
 > The Read Product API takes the request’s product ID, pricebook ID, and currency code
     and returns a Product model. The Product model loads the product from your catalog when the user

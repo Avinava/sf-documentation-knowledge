@@ -5,12 +5,10 @@ topic: cleanenergyprojecthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.614Z
+lastCollected: 2026-04-07T18:39:34.041Z
 estimatedTokens: 268
-keywords: [CleanEnergyProjectHistory, History, tracked, CleanEnergyProject]
+keywords: [CleanEnergyProjectHistory, tracked, CleanEnergyProject]
 ---
-
-# CleanEnergyProjectHistory
 
 > History for tracked fields of CleanEnergyProject.
 

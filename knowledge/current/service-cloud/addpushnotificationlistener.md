@@ -5,12 +5,10 @@ topic: addpushnotificationlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.744Z
+lastCollected: 2026-04-07T18:36:48.795Z
 estimatedTokens: 391
-keywords: [addPushNotificationListener, Adds, listener, push, notification, user, register, once, until, removes, removed, another, API, version, 26.0]
+keywords: [Arguments, addPushNotificationListener, Adds, listener, push, notification, user, register, once, until, removes, removed, another, API, 26.0, Sample, Code–Visualforce]
 ---
-
-# addPushNotificationListener()
 
 > Adds a listener for a push notification. A
             user can only register a listener once until he or she removes the listener, or the

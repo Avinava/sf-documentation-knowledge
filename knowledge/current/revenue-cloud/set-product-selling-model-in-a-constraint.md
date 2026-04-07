@@ -5,12 +5,10 @@ topic: set-product-selling-model-in-a-constraint
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.644Z
+lastCollected: 2026-04-07T18:35:42.529Z
 estimatedTokens: 302
-keywords: [Product, Selling, Model, Constraint, productSellingModel, tagname, write, PSM, define, time, time-deferred, subscription, end, date, evergreen]
+keywords: [Product, Selling, Model, Constraint, productSellingModel, tagname, write, PSM, define, time, time-deferred, subscription, end, date, evergreen, recurring, preset, updated, new, line, items, runtime]
 ---
-
-# Set Product Selling Model in a Constraint
 
 > Use the productSellingModel tagname to write a constraint that sets the Product Selling
     Model (PSM) for a type. You can define a PSM as one time, time-deferred (subscription with end

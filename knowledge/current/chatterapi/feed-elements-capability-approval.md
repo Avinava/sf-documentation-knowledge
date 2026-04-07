@@ -5,12 +5,10 @@ topic: feed-elements-capability-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.592Z
+lastCollected: 2026-04-07T18:37:13.539Z
 estimatedTokens: 204
-keywords: [Feed, Elements, Capability, Approval, Access, element]
+keywords: [Capability, Approval]
 ---
-
-# Feed Elements Capability, Approval
 
 > Access the approval capability of a feed element.
 

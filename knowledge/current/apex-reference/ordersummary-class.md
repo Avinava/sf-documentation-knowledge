@@ -5,13 +5,11 @@ topic: ordersummary-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.257Z
+lastCollected: 2026-04-07T18:35:58.522Z
 estimatedTokens: 11166
 namespace: ConnectApi
-keywords: [OrderSummary, Retrieve, expected, results, adjusting, price, OrderItemSummaries, actually, executing, adjustment, data, financial, changes, result, submitting]
+keywords: [OrderSummary, Retrieve, expected, results, adjusting, price, OrderItemSummaries, actually, executing, adjustment, financial, changes, result, submitting, proposed, adjustPreview, orderSummaryId, adjustInput, API, Requires, Chatter, adjustSubmit, createCreditMemo, creditMemoInput, createMultipleInvoices, invoicesInput, ensureFundsAsync, ensureFundsInput, ensureRefundsAsync, ensureRefundsInput, multipleEnsureFundsAsync, multipleEnsureFundsInput, previewCancel, changeInput, previewReturn, submitCancel, submitReturn]
 ---
-
-# OrderSummary Class
 
 > Retrieve the expected results of adjusting the price of one or more
       OrderItemSummaries from an OrderSummary, without actually executing the adjustment. The

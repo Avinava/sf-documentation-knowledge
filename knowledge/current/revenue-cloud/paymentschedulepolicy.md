@@ -5,12 +5,10 @@ topic: paymentschedulepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.733Z
+lastCollected: 2026-04-07T18:35:49.696Z
 estimatedTokens: 642
-keywords: [PaymentSchedulePolicy, configuration, payment, schedule, API, version, 64.0, later, Calls, Special, Access, Rules]
+keywords: [PaymentSchedulePolicy, configuration, payment, schedule, API, 64.0]
 ---
-
-# PaymentSchedulePolicy
 
 > Represents information about the configuration for the payment schedule.
       This object is available in API version 64.0 and later.

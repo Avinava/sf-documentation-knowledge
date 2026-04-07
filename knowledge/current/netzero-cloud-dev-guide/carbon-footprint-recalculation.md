@@ -5,12 +5,10 @@ topic: carbon-footprint-recalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.696Z
+lastCollected: 2026-04-07T18:38:16.248Z
 estimatedTokens: 128
-keywords: [Carbon, Footprint, Recalculation, Recalculate, record, whenever, data, emission, factors]
+keywords: [Carbon, Footprint, Recalculation, Recalculate, record, whenever, emission, factors]
 ---
-
-# Carbon Footprint Recalculation
 
 > Recalculate a record whenever you update data, such as emission
       factors.

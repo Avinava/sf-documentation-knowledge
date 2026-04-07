@@ -5,12 +5,10 @@ topic: oci-fulfill-reservation-single-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.527Z
+lastCollected: 2026-04-07T18:37:09.272Z
 estimatedTokens: 226
-keywords: [OCI, Fulfill, Reservation, Input, inventory]
+keywords: [OCI, Fulfill, Reservation, inventory]
 ---
-
-# OCI Fulfill Reservation Single Input
 
 > An inventory reservation to fulfill.
 

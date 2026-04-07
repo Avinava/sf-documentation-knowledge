@@ -5,12 +5,10 @@ topic: claimitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.926Z
+lastCollected: 2026-04-07T18:37:36.743Z
 estimatedTokens: 1128
-keywords: [ClaimItem, claim, items, collision, damage, roadside, assistance, rental, care, their, coverage, API, version, 47.0, later]
+keywords: [ClaimItem, claim, items, collision, damage, roadside, assistance, rental, care, their, coverage, API, 47.0]
 ---
-
-# ClaimItem
 
 > Represents claim items (such as collision damage, roadside assistance,
 			rental care) and their coverage details. This object is available in API version

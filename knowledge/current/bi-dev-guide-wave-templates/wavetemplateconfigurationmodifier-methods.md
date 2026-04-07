@@ -6,13 +6,10 @@ topic: wavetemplateconfigurationmodifier-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.614Z
+lastCollected: 2026-04-07T18:37:02.200Z
 estimatedTokens: 254
 keywords: [WaveTemplateConfigurationModifier, Extend]
 ---
-
-# WaveTemplateConfigurationModifier
-   Methods
 
 > Extend WaveTemplateConfigurationModifier with the
   following methods.

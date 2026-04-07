@@ -5,12 +5,10 @@ topic: emergency-response-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.028Z
+lastCollected: 2026-04-07T18:37:42.193Z
 estimatedTokens: 297
-keywords: [Emergency, Management, objects, metadata, extend, Salesforce]
+keywords: [Emergency, Management, metadata, extend, Salesforce]
 ---
-
-# Emergency Response Management
 
 > Use the objects, fields, and metadata that extend Salesforce for Emergency Response
     Management.

@@ -5,12 +5,10 @@ topic: orderdeliverymethodshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:56.409Z
+lastCollected: 2026-04-07T18:39:50.819Z
 estimatedTokens: 252
 keywords: [OrderDeliveryMethodShare, Sharing, OrderDeliveryMethod]
 ---
-
-# OrderDeliveryMethodShare
 
 > Sharing for OrderDeliveryMethod.
 

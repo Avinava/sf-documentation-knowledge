@@ -5,12 +5,10 @@ topic: careprogramdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.820Z
+lastCollected: 2026-04-07T18:37:59.435Z
 estimatedTokens: 929
-keywords: [CareProgramDetail, detail, records, care, program, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [CareProgramDetail, detail, records, care, program, API, 61.0]
 ---
-
-# CareProgramDetail
 
 > Represents the detail records related to the care program. This object
       is available in API version 61.0 and later.

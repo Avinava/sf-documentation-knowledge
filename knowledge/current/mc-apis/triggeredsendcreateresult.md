@@ -5,12 +5,10 @@ topic: triggeredsendcreateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.514Z
+lastCollected: 2026-04-07T18:40:20.765Z
 estimatedTokens: 489
-keywords: [TriggeredSendCreateResult, results, triggered, send, objects, order, acted, upon, array, per, input]
+keywords: [TriggeredSendCreateResult, results, triggered, send, order, acted, upon, array, per]
 ---
-
-# TriggeredSendCreateResult
 
 > The TriggeredSendCreateResult object contains results of each triggered send object in a Create request. The objects are returned in the order acted upon: first in, first out. This array contains one TriggeredSendCreateResult object per input triggered send object.
 

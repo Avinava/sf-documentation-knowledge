@@ -5,12 +5,10 @@ topic: partypublication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.330Z
+lastCollected: 2026-04-07T18:37:57.858Z
 estimatedTokens: 1386
-keywords: [PartyPublication, party's, publication, Calls, Associated, Objects]
+keywords: [PartyPublication, party's, publication]
 ---
-
-# PartyPublication
 
 > Represents the details of a party's publication.
 

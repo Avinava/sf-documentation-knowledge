@@ -5,12 +5,10 @@ topic: connectapiinteractionscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.203Z
+lastCollected: 2026-04-07T18:36:09.593Z
 estimatedTokens: 243
-keywords: [ConnectApi.InteractionsCapability, feed, element, capability, user, interactions]
+keywords: [ConnectApi.InteractionsCapability, capability, user, interactions]
 ---
-
-# ConnectApi.InteractionsCapability
 
 > If a feed element has this capability, it has information about user
       interactions.

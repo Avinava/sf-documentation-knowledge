@@ -5,12 +5,10 @@ topic: financialaccountfee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.023Z
+lastCollected: 2026-04-07T18:37:35.690Z
 estimatedTokens: 1272
-keywords: [FinancialAccountFee, fee, that's, applicable, financial, account, service, various, requests, stop, payment, duplicate, card, API, version]
+keywords: [FinancialAccountFee, fee, that's, applicable, financial, account, service, various, requests, stop, payment, duplicate, card, API, 61.0]
 ---
-
-# FinancialAccountFee
 
 > Represents information about the fee that's applicable on the financial
          account to service various requests, such as a request for stop payment, duplicate card,

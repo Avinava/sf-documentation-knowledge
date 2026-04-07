@@ -5,12 +5,10 @@ topic: accountterritorysharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.709Z
+lastCollected: 2026-04-07T18:38:24.576Z
 estimatedTokens: 906
-keywords: [AccountTerritorySharingRule, rules, sharing, Account, territory, Calls, Special, Access, Usage]
+keywords: [AccountTerritorySharingRule, sharing, Account, territory]
 ---
-
-# AccountTerritorySharingRule
 
 > Represents the rules for sharing an Account within a
   territory.

@@ -5,12 +5,10 @@ topic: class-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.181Z
+lastCollected: 2026-04-07T18:36:16.391Z
 estimatedTokens: 305
-keywords: [Variables, API, version, 50.0, later, scope, accessibility, rules, enforced, Apex, inner, classes, interfaces, annotated, @namespaceAccessible]
+keywords: [Variables, API, 50.0, scope, accessibility, enforced, Apex, inner, classes, interfaces, annotated, @namespaceAccessible, considerations, NamespaceAcc, Versioned, Behavior, Changes]
 ---
-
-# Class Variables
 
 > In API version 50.0 and later, scope and accessibility rules are enforced on
                         Apex variables, methods, inner classes, and interfaces that are annotated

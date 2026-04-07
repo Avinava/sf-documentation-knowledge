@@ -5,12 +5,10 @@ topic: rate-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:03.102Z
+lastCollected: 2026-04-07T18:35:48.142Z
 estimatedTokens: 1266
-keywords: [Rate, Management, Standard, Objects, data, model, manage, rates, discounts, product's, resource, consumption]
+keywords: [Rate, Management, Standard, model, manage, rates, discounts, product's, resource, consumption]
 ---
-
-# Rate Management Standard Objects
 
 > The Rate Management data model provides objects and fields to manage rates and discounts
   for a product's resource consumption.

@@ -5,12 +5,10 @@ topic: list-share-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.368Z
+lastCollected: 2026-04-07T18:37:14.338Z
 estimatedTokens: 95
 keywords: [Share, Resources, views, different, groups, org, sharing, limit, able, view]
 ---
-
-# List Share Resources
 
 > Share list views with different groups in your org and use sharing
       to limit who is able to see a list view.

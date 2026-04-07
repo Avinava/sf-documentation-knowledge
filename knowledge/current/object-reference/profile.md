@@ -5,12 +5,10 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.537Z
+lastCollected: 2026-04-07T18:38:38.998Z
 estimatedTokens: 1922
-keywords: [Profile, permissions, perform, different, operations, include, creating, custom, querying, adding, updating, deleting, Calls, Special, Access]
+keywords: [Profile, permissions, perform, different, operations, include, creating, querying, adding, updating, deleting]
 ---
-
-# Profile
 
 > Represents a profile, which defines a set of permissions to perform
       different operations. Operations can include creating a custom profile or querying, adding,

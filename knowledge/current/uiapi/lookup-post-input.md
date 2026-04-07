@@ -5,12 +5,10 @@ topic: lookup-post-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.783Z
+lastCollected: 2026-04-07T18:40:10.760Z
 estimatedTokens: 991
-keywords: [Lookup, Post, Input, suggestions]
+keywords: [Lookup, Post, suggestions]
 ---
-
-# Lookup Post Input
 
 > Get lookup field suggestions.
 

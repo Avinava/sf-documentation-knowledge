@@ -5,12 +5,10 @@ topic: concat
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.283Z
+lastCollected: 2026-04-07T18:40:21.566Z
 estimatedTokens: 110
-keywords: [Concat, Function, Ordinal, concatenate, Second, **Overview**, **Syntax**, Usage]
+keywords: [Concat, Function, Ordinal, concatenate, Second, **Overview**, **Syntax**]
 ---
-
-# Concat
 
 > Concat(1, 2)
 

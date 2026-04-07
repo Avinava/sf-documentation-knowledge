@@ -5,12 +5,10 @@ topic: retrieve-open-events-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.656Z
+lastCollected: 2026-04-07T18:40:18.854Z
 estimatedTokens: 2224
 keywords: [Retrieve, Open, Events, retrieving, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP]
 ---
-
-# Retrieve Open Events Details
 
 > This page contains information  about retrieving open events details.
 

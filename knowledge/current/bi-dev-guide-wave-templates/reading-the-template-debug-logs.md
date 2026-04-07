@@ -5,12 +5,10 @@ topic: reading-the-template-debug-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.982Z
+lastCollected: 2026-04-07T18:37:02.530Z
 estimatedTokens: 1054
 keywords: [Reading, Template, Debug, Logs, Analytics, Templated, App, Poller, log, multiple, lines, generated, different, events]
 ---
-
-# Reading the Template Debug Logs
 
 > Each Analytics Templated App Poller log contains
   multiple log lines generated from different log events.

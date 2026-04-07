@@ -5,12 +5,10 @@ topic: pivot-v2-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.825Z
+lastCollected: 2026-04-07T18:39:18.542Z
 estimatedTokens: 129
-keywords: [Pivot, Input, version, aggregate, data, node, recipe]
+keywords: [Pivot, aggregate, node, recipe]
 ---
-
-# Pivot V2 Input
 
 > A version 2 pivot for an aggregate data node in a recipe.
 

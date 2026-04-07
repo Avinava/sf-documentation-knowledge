@@ -5,12 +5,10 @@ topic: using-external-storage-for-large-soup-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.629Z
+lastCollected: 2026-04-07T18:40:26.876Z
 estimatedTokens: 219
-keywords: [External, Storage, Large, Soup, Elements, years, ago, Mobile, SDK, implemented, address, limitations, storing, JSON, strings]
+keywords: [External, Storage, Large, Soup, years, ago, Mobile, SDK, implemented, address, limitations, storing, JSON, strings, database—for, 1-MB, cursor, window, limitation, Android, longer, exist, Furthermore, recent, performance, analysis]
 ---
-
-# Using External Storage for Large Soup Elements
 
 > Some years ago, Mobile SDK implemented external storage to address limitations with storing
    large JSON strings in the database—for example, a 1-MB cursor window limitation on

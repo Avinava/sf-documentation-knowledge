@@ -5,13 +5,11 @@ topic: accesslevel-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.637Z
+lastCollected: 2026-04-07T18:36:00.919Z
 estimatedTokens: 1815
 namespace: System
-keywords: [AccessLevel, different, modes, system, user, mode, Apex, database, operations, execute, Usage, withPermissionSetId, permissionSetId, Developer, Preview]
+keywords: [AccessLevel, different, modes, system, user, mode, Apex, database, operations, execute, withPermissionSetId, permissionSetId, Developer, Preview, _MODE]
 ---
-
-# AccessLevel Class
 
 > Defines the different modes, such as system or user mode, that Apex
       database operations execute in.

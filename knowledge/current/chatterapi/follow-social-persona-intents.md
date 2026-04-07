@@ -5,12 +5,10 @@ topic: follow-social-persona-intents
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.372Z
+lastCollected: 2026-04-07T18:37:19.517Z
 estimatedTokens: 121
 keywords: [Follow, Social, Persona, Intents]
 ---
-
-# Follow Social Persona Intents
 
 > List of follow intents for a social persona.
 

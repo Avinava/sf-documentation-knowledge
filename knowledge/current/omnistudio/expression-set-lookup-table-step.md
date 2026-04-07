@@ -5,12 +5,10 @@ topic: expression-set-lookup-table-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.916Z
+lastCollected: 2026-04-07T18:36:39.609Z
 estimatedTokens: 120
-keywords: [Expression, Lookup, Step, Output, representation]
+keywords: [Expression, Lookup, Step]
 ---
-
-# Expression Set Lookup Table Step
 
 > Output representation of a lookup table step in an expression
       set.

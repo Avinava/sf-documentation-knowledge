@@ -6,13 +6,10 @@ topic: whats-the-difference-between-lead-events-and-leads-in-appexchange-marketp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.157Z
+lastCollected: 2026-04-07T18:38:47.122Z
 estimatedTokens: 1378
-keywords: [What’s, Difference, Lead, Events, Leads, AppExchange, Marketplace, Analytics, how, defined, they, differ, records, appear, Salesforce]
+keywords: [What’s, Difference, Lead, Events, Leads, AppExchange, Marketplace, Analytics, how, defined, they, differ, records, appear, Salesforce, org, Routing, Customer, Contact, Preferences, Web-to-Lead, reCAPTCHA, Verification]
 ---
-
-# What’s the Difference Between Lead Events and Leads in AppExchange
-   Marketplace Analytics?
 
 > Learn how lead events are defined in AppExchange Marketplace Analytics and how they
   differ from the lead records that appear in your Salesforce org.

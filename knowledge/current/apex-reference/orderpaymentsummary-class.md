@@ -5,13 +5,11 @@ topic: orderpaymentsummary-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.222Z
+lastCollected: 2026-04-07T18:35:58.487Z
 estimatedTokens: 534
 namespace: ConnectApi
-keywords: [OrderPaymentSummary, OrderSummary, Specify, payment, authorization, payments, share, org, multicurrency, feature, enabled, inherits, CurrencyIsoCode, createOrderPaymentSummary, orderPaymentSummaryInput]
+keywords: [OrderPaymentSummary, OrderSummary, Specify, payment, authorization, payments, share, org, multicurrency, feature, enabled, inherits, CurrencyIsoCode, createOrderPaymentSummary, orderPaymentSummaryInput, API, Requires, Chatter]
 ---
-
-# OrderPaymentSummary Class
 
 > Create an OrderPaymentSummary for an OrderSummary. Specify a payment
       authorization or payments that share the same payment method. In an org with the multicurrency

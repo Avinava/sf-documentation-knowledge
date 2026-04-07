@@ -5,12 +5,10 @@ topic: recordsetfltrcritmonitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.479Z
+lastCollected: 2026-04-07T18:39:59.137Z
 estimatedTokens: 420
-keywords: [RecordsetFltrCritMonitor, Monitors, whether, asset, attribute, threshold, recordset, filter, criteria, RFC, monitor, RFCs, API, version, 57.0]
+keywords: [RecordsetFltrCritMonitor, Monitors, whether, asset, attribute, threshold, recordset, filter, criteria, RFC, monitor, RFCs, API, 57.0]
 ---
-
-# RecordsetFltrCritMonitor
 
 > Monitors whether the value of an asset attribute is within the
          threshold of a recordset filter criteria (RFC). You can monitor one or more RFCs for

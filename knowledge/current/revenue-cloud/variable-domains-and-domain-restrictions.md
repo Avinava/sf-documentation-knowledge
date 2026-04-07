@@ -5,12 +5,10 @@ topic: variable-domains-and-domain-restrictions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.726Z
+lastCollected: 2026-04-07T18:35:42.613Z
 estimatedTokens: 277
 keywords: [Variable, Domains, Domain, Restrictions, fixed, permitted, specify, discrete, continuous, range, combination]
 ---
-
-# Variable Domains and Domain Restrictions
 
 > A variable can have a fixed domain that defines a set of permitted values. You can
     specify the domain as a list of discrete values, a continuous range, or a combination.

@@ -5,12 +5,10 @@ topic: confirm-held-fo-capacity-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.757Z
+lastCollected: 2026-04-07T18:37:17.830Z
 estimatedTokens: 167
-keywords: [Confirm, Held, Capacity, Output, fulfillment, order, locations, correspond, action, call]
+keywords: [Confirm, Held, Capacity, fulfillment, order, locations, correspond, action, call]
 ---
-
-# Confirm Held FO Capacity Output
 
 > Response to a request to confirm held fulfillment order capacity at
       one or more locations. Can correspond to one action call.

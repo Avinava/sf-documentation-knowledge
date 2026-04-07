@@ -5,12 +5,10 @@ topic: partnerfundallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.276Z
+lastCollected: 2026-04-07T18:39:51.690Z
 estimatedTokens: 461
-keywords: [PartnerFundAllocation, allocated, funds, partner, marketing, budget, channel, partners, API, version, 41.0, later]
+keywords: [PartnerFundAllocation, allocated, funds, partner, marketing, budget, channel, partners, API, 41.0]
 ---
-
-# PartnerFundAllocation
 
 > Represents allocated funds from a partner marketing budget for
 			channel partners. This object is available in API version 41.0 and

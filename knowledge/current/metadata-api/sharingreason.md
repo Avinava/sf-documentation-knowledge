@@ -5,12 +5,10 @@ topic: sharingreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.273Z
+lastCollected: 2026-04-07T18:36:22.530Z
 estimatedTokens: 557
-keywords: [SharingReason, Apex, sharing, reason, indicate, why, implemented, custom, managed, developers, programmatically, share, objects, users, “Modify]
+keywords: [SharingReason, Apex, sharing, reason, indicate, why, implemented, managed, developers, programmatically, share, users, “Modify, Data”, permission, add, change, object's, record, maintained, across, owner, changes, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# SharingReason
 
 > Represents an Apex sharing reason, which is used to
             indicate why sharing was implemented for a custom object. Apex managed sharing

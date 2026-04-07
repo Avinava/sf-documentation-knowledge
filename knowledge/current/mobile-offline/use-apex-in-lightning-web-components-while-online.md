@@ -5,12 +5,10 @@ topic: use-apex-in-lightning-web-components-while-online
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.429Z
+lastCollected: 2026-04-07T18:38:14.895Z
 estimatedTokens: 332
-keywords: [Apex, Lightning, Web, Components, Online, essentials, described, Call, Developer, features, behave, documented, client, device, there]
+keywords: [Apex, Lightning, Web, Online, essentials, described, Call, Developer, features, behave, documented, client, device, there, additional, offline-enabled, mobile, app]
 ---
-
-# Use Apex in Lightning Web Components While Online
 
 > The essentials of using Apex within Lightning web components are described in "Call Apex
   Methods" in the Lightning Web Components Developer Guide. While Apex features behave as

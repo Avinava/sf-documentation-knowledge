@@ -5,12 +5,10 @@ topic: create-a-wealth-management-scoping-rule-using-the-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.874Z
+lastCollected: 2026-04-07T18:39:21.742Z
 estimatedTokens: 388
-keywords: [Wealth, Management, Scoping, Rule, Metadata, API, sales, support, associate, supports, multiple, financial, advisors, record, corresponds]
+keywords: [Wealth, Management, Scoping, Rule, Metadata, API, sales, support, associate, supports, multiple, financial, advisors, record, corresponds, advisor, working, RestrictionRule]
 ---
-
-# Create a Wealth Management Scoping Rule Using the Metadata API
 
 > Create a scoping rule that shows a sales support associate who supports multiple
   financial advisors only the record set that corresponds to the financial advisor that the

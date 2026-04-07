@@ -5,12 +5,10 @@ topic: utctowalltime
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.846Z
+lastCollected: 2026-04-07T18:38:05.003Z
 estimatedTokens: 119
 keywords: [UTCToWallTime, Converts, datetime, UTC, timezone, Sample, Code]
 ---
-
-# UTCToWallTime()
 
 > Converts a datetime from UTC to a specified timezone.
 

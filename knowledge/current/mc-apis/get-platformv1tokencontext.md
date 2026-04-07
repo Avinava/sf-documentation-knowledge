@@ -5,12 +5,10 @@ topic: get-platformv1tokencontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.303Z
+lastCollected: 2026-04-07T18:40:17.466Z
 estimatedTokens: 133
-keywords: [platform, tokenContext, authenticated, token, **Overview**, Usage]
+keywords: [platform, tokenContext, authenticated, token, **Overview**]
 ---
-
-# GET /platform/v1/tokenContext
 
 > Returns information about the authenticated token.
 

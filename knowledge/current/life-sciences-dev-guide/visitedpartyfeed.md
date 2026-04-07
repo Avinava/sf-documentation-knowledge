@@ -5,12 +5,10 @@ topic: visitedpartyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.193Z
+lastCollected: 2026-04-07T18:38:02.100Z
 estimatedTokens: 1312
-keywords: [VisitedPartyFeed, posts, feed-tracked, changes, VisitedParty, API, version, 49.0, later, Calls, Usage]
+keywords: [VisitedPartyFeed, posts, feed-tracked, changes, VisitedParty, API, 49.0]
 ---
-
-# VisitedPartyFeed
 
 > This object represents the posts and feed-tracked changes of the VisitedParty object.  This object is available in API
     version 49.0 and later.

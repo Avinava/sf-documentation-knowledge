@@ -5,12 +5,10 @@ topic: quip-related-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.341Z
+lastCollected: 2026-04-07T18:37:22.446Z
 estimatedTokens: 78
 keywords: [Quip, Records, document]
 ---
-
-# Quip Related Records
 
 > List of records related to a Quip document.
 

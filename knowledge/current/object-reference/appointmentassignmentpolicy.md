@@ -5,12 +5,10 @@ topic: appointmentassignmentpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:34.801Z
+lastCollected: 2026-04-07T18:38:25.735Z
 estimatedTokens: 525
-keywords: [AppointmentAssignmentPolicy, Stores, resource, assignment, rules, API, version, 52.0, later, Calls]
+keywords: [AppointmentAssignmentPolicy, Stores, resource, assignment, API, 52.0]
 ---
-
-# AppointmentAssignmentPolicy
 
 > Stores information about resource assignment rules. This object is available in API version 52.0 and later.
 

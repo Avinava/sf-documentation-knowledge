@@ -5,12 +5,10 @@ topic: transfer-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.758Z
+lastCollected: 2026-04-07T18:40:13.684Z
 estimatedTokens: 825
-keywords: [Transfer, Calls, guidelines, transferring]
+keywords: [Transfer, guidelines, transferring]
 ---
-
-# Transfer Calls
 
 > This section provides guidelines related to transferring calls.
 

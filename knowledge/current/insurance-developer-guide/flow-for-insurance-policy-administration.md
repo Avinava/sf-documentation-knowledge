@@ -5,12 +5,10 @@ topic: flow-for-insurance-policy-administration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.873Z
+lastCollected: 2026-04-07T18:37:53.112Z
 estimatedTokens: 368
-keywords: [Flow, Insurance, Policy, Administration, metadata, associated, application, users, series, pages, query, records, database, execute, logic]
+keywords: [FlowActionCall, Flow, Insurance, Policy, Administration, metadata, application, users, series, pages, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Insurance Policy Administration
 
 > Represents the metadata associated with a flow. Use Flow to create an application that
     takes users through a series of pages to query and update records in the database. You can also

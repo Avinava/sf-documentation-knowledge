@@ -5,12 +5,10 @@ topic: finservpolicypaymentmethodc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:50.783Z
+lastCollected: 2026-04-07T18:37:38.657Z
 estimatedTokens: 489
-keywords: [FinServ_PolicyPaymentMethod__c, premium, payment, policy, credit, card, debit, internet, banking, API, version, 47.0, later, FinServ, _PolicyPaymentMethod]
+keywords: [FinServ_PolicyPaymentMethod__c, premium, payment, policy, credit, card, debit, internet, banking, API, 47.0, FinServ, _PolicyPaymentMethod]
 ---
-
-# FinServ_PolicyPaymentMethod__c
 
 > Represents the premium payment method for a policy, such as credit card, debit
       card, or internet banking. This object is available in API version 47.0 and

@@ -5,12 +5,10 @@ topic: smart-data-discovery-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.645Z
+lastCollected: 2026-04-07T18:36:59.140Z
 estimatedTokens: 94
-keywords: [Smart, Data, Discovery, Resource, top-level, resources, Einstein]
+keywords: [Smart, Discovery, Resource, top-level, resources, Einstein]
 ---
-
-# Smart Data Discovery Resource
 
 > Lists the top-level resources available for
   Einstein Discovery.

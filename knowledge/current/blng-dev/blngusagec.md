@@ -5,12 +5,10 @@ topic: blngusagec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.602Z
+lastCollected: 2026-04-07T18:37:04.217Z
 estimatedTokens: 1866
-keywords: [blng__Usage__c, amount, service, consumed, over, period, time, blng, _Usage, Calls]
+keywords: [blng__Usage__c, amount, service, consumed, over, period, time, blng, _Usage]
 ---
-
-# blng__Usage__c
 
 > Represents the amount of service consumed over a period of
       time.

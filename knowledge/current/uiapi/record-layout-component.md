@@ -5,12 +5,10 @@ topic: record-layout-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.071Z
+lastCollected: 2026-04-07T18:40:12.081Z
 estimatedTokens: 145
-keywords: [Record, Layout, Component, concrete]
+keywords: [Record, Layout, concrete]
 ---
-
-# Record Layout Component
 
 > A concrete record layout component.
 

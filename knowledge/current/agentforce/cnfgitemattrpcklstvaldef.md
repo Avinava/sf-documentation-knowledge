@@ -5,12 +5,10 @@ topic: cnfgitemattrpcklstvaldef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.320Z
+lastCollected: 2026-04-07T18:35:55.433Z
 estimatedTokens: 638
-keywords: [CnfgItemAttrPcklstValDef, specific, configuration, item, attribute, high, medium, low, picklist, Business, Criticality, API, version, 65.0, later]
+keywords: [CnfgItemAttrPcklstValDef, specific, configuration, item, attribute, high, medium, low, picklist, Business, Criticality, API, 65.0, SOAP, REST]
 ---
-
-# CnfgItemAttrPcklstValDef
 
 > Represents a specific value for a configuration item attribute. For example,
          high, medium, and low are picklist values of the attribute Business Criticality. This

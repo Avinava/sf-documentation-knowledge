@@ -5,12 +5,10 @@ topic: step-1-create-the-wavetemplate-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.749Z
+lastCollected: 2026-04-07T18:37:02.316Z
 estimatedTokens: 335
 keywords: [Step, WaveTemplate, Once, you’ve, created, app, serve, source, turn, template, creating, files]
 ---
-
-# Step 1: Create the WaveTemplate Object
 
 > Once you’ve created an app to serve as your source app, turn it into a template by
   creating the WaveTemplate object and all its

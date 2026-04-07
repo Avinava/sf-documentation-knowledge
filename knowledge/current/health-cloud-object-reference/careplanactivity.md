@@ -5,12 +5,10 @@ topic: careplanactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.340Z
+lastCollected: 2026-04-07T18:37:45.833Z
 estimatedTokens: 2517
-keywords: [CarePlanActivity, planned, action, that’s, part, care, plan, knowledge, campaigns, physiotherapy, appointments, medication, regimens, etc, child, activity, CarePlan, API, version, 56.0]
+keywords: [CarePlanActivity, planned, action, that’s, part, care, plan, knowledge, campaigns, physiotherapy, appointments, medication, regimens, etc, child, CarePlan, API, 56.0, activity]
 ---
-
-# CarePlanActivity
 
 > Represents a planned action that’s part of a care plan. For example,
          knowledge campaigns, physiotherapy appointments, medication regimens, etc. This object

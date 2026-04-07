@@ -5,12 +5,10 @@ topic: unlocked-packaging-keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.775Z
+lastCollected: 2026-04-07T18:40:08.731Z
 estimatedTokens: 472
-keywords: [Unlocked, Packaging, Keywords, keyword, variable, specify, package, version, number]
+keywords: [Unlocked, Packaging, Keywords, keyword, variable, specify, package, number]
 ---
-
-# Unlocked Packaging Keywords
 
 > A keyword is a variable that you can use to specify a package version
   number.

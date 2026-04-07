@@ -5,12 +5,10 @@ topic: aijobrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.526Z
+lastCollected: 2026-04-07T18:39:25.468Z
 estimatedTokens: 405
-keywords: [AiJobRun, execution, instance, job, tracks, overall, status, manages, lifecycle, initiation, completion, API, version, 63.0, later]
+keywords: [AiJobRun, execution, instance, job, tracks, overall, status, manages, lifecycle, initiation, completion, API, 63.0]
 ---
-
-# AiJobRun
 
 > Represents an execution instance of an AI job. This object tracks the overall
          status and manages the lifecycle of the job from initiation to completion. This object

@@ -5,12 +5,10 @@ topic: connectapiuserinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.217Z
+lastCollected: 2026-04-07T18:36:06.568Z
 estimatedTokens: 150
 keywords: [ConnectApi.UserInput, user’s]
 ---
-
-# ConnectApi.UserInput
 
 > Update a user’s About Me information.
 

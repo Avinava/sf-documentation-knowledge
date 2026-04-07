@@ -5,12 +5,10 @@ topic: delete-platformv1keykeyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.370Z
+lastCollected: 2026-04-07T18:40:16.511Z
 estimatedTokens: 308
-keywords: [platform, key, keyId, Deletes, current, MID, Data, Rest, Encryption, prerequisite, feature, **Overview**, Usage]
+keywords: [platform, key, keyId, Deletes, current, MID, Rest, Encryption, prerequisite, feature, **Overview**]
 ---
-
-# DELETE /platform/v1/key/{keyId}
 
 > Deletes a key based on the keyId for the current MID. Data at Rest Encryption is a prerequisite for this feature.
 

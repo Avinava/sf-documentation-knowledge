@@ -5,12 +5,10 @@ topic: scoped-search-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:35.807Z
+lastCollected: 2026-04-07T18:37:22.918Z
 estimatedTokens: 255
 keywords: [Scoped, Search, Results, Keyword]
 ---
-
-# Scoped Search Results
 
 > Keyword search results for an object.
 

@@ -5,12 +5,10 @@ topic: workcoaching
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.807Z
+lastCollected: 2026-04-07T18:38:44.615Z
 estimatedTokens: 948
-keywords: [WorkCoaching, coaching, relationship, two, users, defined, coach, coachee, feed-enabled, there, feed, Calls, Associated, Objects]
+keywords: [WorkCoaching, coaching, relationship, two, users, defined, coach, coachee, feed-enabled, there]
 ---
-
-# WorkCoaching
 
 > Represents a single coaching relationship between two users. One of
 			the users is defined as the coach and the other is defined as a coachee. WorkCoaching is feed-enabled so there is

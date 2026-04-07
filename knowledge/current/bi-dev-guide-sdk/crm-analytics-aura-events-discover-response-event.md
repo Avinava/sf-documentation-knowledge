@@ -5,12 +5,10 @@ topic: crm-analytics-aura-events---discover-response-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.870Z
+lastCollected: 2026-04-07T18:37:01.474Z
 estimatedTokens: 451
-keywords: [CRM, Analytics, Aura, Events, Discover, Event, dashboards, identify, their, assets, Setting, Receiving, Resources]
+keywords: [Resources, CRM, Analytics, Aura, Events, Discover, Event, dashboards, identify, their, assets, Setting, Receiving]
 ---
-
-# CRM Analytics Aura Events - Discover Response Event
 
 > This event provides the response following a request for CRM Analytics dashboards to
     identify their assets.

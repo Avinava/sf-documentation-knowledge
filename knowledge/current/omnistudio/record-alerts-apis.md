@@ -5,12 +5,10 @@ topic: record-alerts-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.762Z
+lastCollected: 2026-04-07T18:36:43.502Z
 estimatedTokens: 350
 keywords: [Record, Alerts, APIs, Business, give, users, seamless, API, experience]
 ---
-
-# Record Alerts APIs
 
 > Use the Record Alerts Business APIs to give users a seamless API
       experience for Record Alerts.

@@ -5,12 +5,10 @@ topic: productdecompenrichmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:05.087Z
+lastCollected: 2026-04-07T18:35:50.053Z
 estimatedTokens: 1180
-keywords: [ProductDecompEnrichmentRule, mappings, attributes, Enrichment, rules, part, decomposition, rule, propagate, data, fulfillment, order, lines, API, version]
+keywords: [ProductDecompEnrichmentRule, mappings, attributes, Enrichment, part, decomposition, rule, propagate, fulfillment, order, lines, API, 61.0]
 ---
-
-# ProductDecompEnrichmentRule
 
 > Represents mappings between fields and attributes. Enrichment rules are part
          of a decomposition rule, and are used to propagate data to fulfillment order lines.

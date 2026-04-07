@@ -5,12 +5,10 @@ topic: introducing-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:14.212Z
+lastCollected: 2026-04-07T18:38:04.347Z
 estimatedTokens: 989
-keywords: [Introducing, Aura, Components, Lightning, umbrella, term, web, Spring, ’19, API, version, 45.0, build, two, programming]
+keywords: [Introducing, Aura, Lightning, umbrella, term, web, Spring, ’19, API, 45.0, build, two, programming, models, LWC, model, original]
 ---
-
-# Introducing Aura Components
 
 > Lightning components is the umbrella term for Aura components and Lightning web
     components. As of Spring ’19 (API version 45.0), you can build Lightning components using two

@@ -5,12 +5,10 @@ topic: widget-subscription-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.759Z
+lastCollected: 2026-04-07T18:36:55.168Z
 estimatedTokens: 78
-keywords: [Widget, Subscription, Source, Input]
+keywords: [Widget, Subscription, Source]
 ---
-
-# Widget Subscription Source Input
 
 > The widget subscription source.
 

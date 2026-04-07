@@ -5,12 +5,10 @@ topic: create-a-workplace-command-center-compatible-lightning-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.894Z
+lastCollected: 2026-04-07T18:40:13.868Z
 estimatedTokens: 305
-keywords: [Workplace, Command, Center, Compatible, Lightning, Component, components, custom, solution]
+keywords: [Workplace, Command, Center, Compatible, Lightning, solution]
 ---
-
-# Create a Workplace Command Center Compatible Lightning Component
 
 > Use Workplace Command Center compatible components in your custom solution.
 

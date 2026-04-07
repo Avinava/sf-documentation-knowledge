@@ -5,12 +5,10 @@ topic: post-messagingv1smsdefinitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.884Z
+lastCollected: 2026-04-07T18:40:16.019Z
 estimatedTokens: 1102
-keywords: [POST, messaging, sms, definitions, Creates, send, definition, **Overview**, Usage, Short, Code, Long, HTTP, Responses]
+keywords: [POST, messaging, sms, definitions, Creates, send, definition, **Overview**, Short, Code, Long, HTTP, Responses]
 ---
-
-# POST /messaging/v1/sms/definitions
 
 > Creates a send definition.
 

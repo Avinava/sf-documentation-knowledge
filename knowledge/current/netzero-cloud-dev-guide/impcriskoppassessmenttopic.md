@@ -5,12 +5,10 @@ topic: impcriskoppassessmenttopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.280Z
+lastCollected: 2026-04-07T18:38:18.918Z
 estimatedTokens: 617
-keywords: [ImpcRiskOppAssessmentTopic, junction, impact, risk, opportunity, assessment, materiality, topic, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [ImpcRiskOppAssessmentTopic, junction, impact, risk, opportunity, assessment, materiality, topic, API, 63.0]
 ---
-
-# ImpcRiskOppAssessmentTopic
 
 > Represents a junction between an impact risk opportunity assessment and a
          materiality topic. This object is available in API version 63.0 and later.

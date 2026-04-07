@@ -5,12 +5,10 @@ topic: importing-order-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.605Z
+lastCollected: 2026-04-07T18:38:45.404Z
 estimatedTokens: 614
-keywords: [Importing, Order, Data, Salesforce, Management, handles, imported, storefront, bulk, load, historical, legacy, system, new, org]
+keywords: [Importing, Order, Salesforce, Management, handles, imported, storefront, bulk, load, historical, legacy, system, new, org, implement, import, process, orders]
 ---
-
-# Importing Order Data
 
 > Salesforce Order Management handles order data imported from your
       storefront. You can bulk load historical order data from a legacy system into a new Order

@@ -5,13 +5,11 @@ topic: selectoption-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.112Z
+lastCollected: 2026-04-07T18:36:15.423Z
 estimatedTokens: 2434
 namespace: System
-keywords: [SelectOption, possible, Visualforce, selectCheckboxes, selectList, selectRadio, component, Instantiation, label, isDisabled, getDisabled, Usage, getEscapeItem, getLabel, getValue]
+keywords: [Instantiation, SelectOption, possible, Visualforce, selectCheckboxes, selectList, selectRadio, label, isDisabled, getDisabled, getEscapeItem, getLabel, getValue, setDisabled, setEscapeItem, itemsEscaped, setLabel, setValue]
 ---
-
-# SelectOption Class
 
 > A SelectOption object specifies one of the possible values for a Visualforce selectCheckboxes, selectList, or selectRadio component.
 

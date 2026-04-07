@@ -5,12 +5,10 @@ topic: productitemtransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.877Z
+lastCollected: 2026-04-07T18:38:14.181Z
 estimatedTokens: 588
-keywords: [ProductItemTransaction, action, taken, product, item, transactions, track, consumed, replenished, adjusted, transferred, auto-generated, records, specify, quantity]
+keywords: [ProductItemTransaction, action, taken, product, item, transactions, track, consumed, replenished, adjusted, transferred, auto-generated, records, specify, quantity, products, impacted, API, 60.0]
 ---
-
-# ProductItemTransaction
 
 > Represents an action taken on a product item. Product item transactions track
          when a product is consumed, replenished, adjusted, or transferred. Product item

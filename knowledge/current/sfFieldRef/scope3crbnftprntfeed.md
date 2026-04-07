@@ -5,12 +5,10 @@ topic: scope3crbnftprntfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.098Z
+lastCollected: 2026-04-07T18:40:00.860Z
 estimatedTokens: 361
-keywords: [Scope3CrbnFtprntFeed, Feed, tracking, Scope3CrbnFtprnt]
+keywords: [Scope3CrbnFtprntFeed, Scope3CrbnFtprnt]
 ---
-
-# Scope3CrbnFtprntFeed
 
 > Feed tracking for Scope3CrbnFtprnt.
 

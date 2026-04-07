@@ -5,12 +5,10 @@ topic: ratingfrequencypolicyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.748Z
+lastCollected: 2026-04-07T18:39:58.412Z
 estimatedTokens: 391
-keywords: [RatingFrequencyPolicyFeed, Feed, tracking, RatingFrequencyPolicy]
+keywords: [RatingFrequencyPolicyFeed, RatingFrequencyPolicy]
 ---
-
-# RatingFrequencyPolicyFeed
 
 > Feed tracking for RatingFrequencyPolicy.
 

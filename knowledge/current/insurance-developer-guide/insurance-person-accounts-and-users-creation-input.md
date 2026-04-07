@@ -5,12 +5,10 @@ topic: insurance-person-accounts-and-users-creation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.999Z
+lastCollected: 2026-04-07T18:37:50.928Z
 estimatedTokens: 366
-keywords: [Insurance, Person, Accounts, Users, Creation, Input, representation, creating, portal, group, census, members]
+keywords: [Insurance, Person, Accounts, Users, Creation, creating, portal, group, census, members]
 ---
-
-# Insurance Person Accounts and Users Creation Input
 
 > Input representation for creating person accounts and portal users from group census members.
 

@@ -5,12 +5,10 @@ topic: investigate-credential-stuffing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.705Z
+lastCollected: 2026-04-07T18:39:22.594Z
 estimatedTokens: 889
 keywords: [Investigate, Credential, Stuffing, tips, investigating, attack]
 ---
-
-# Investigate Credential Stuffing
 
 > Here are some tips for investigating a credential stuffing attack.
 

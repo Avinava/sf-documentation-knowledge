@@ -5,12 +5,10 @@ topic: page-navigation-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.003Z
+lastCollected: 2026-04-07T18:36:57.511Z
 estimatedTokens: 109
 keywords: [Navigation, Info, template, configuration, wizard]
 ---
-
-# Page Navigation Info
 
 > The navigation information for a template configuration wizard page.
 

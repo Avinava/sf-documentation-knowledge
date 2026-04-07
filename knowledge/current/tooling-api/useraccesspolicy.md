@@ -5,12 +5,10 @@ topic: useraccesspolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.324Z
+lastCollected: 2026-04-07T18:36:34.762Z
 estimatedTokens: 1250
-keywords: [UserAccessPolicy, user, access, policy, API, version, 57.0, later, SOAP, Calls, REST, Special, Rules, Usage]
+keywords: [UserAccessPolicy, user, policy, API, 57.0, SOAP, REST]
 ---
-
-# UserAccessPolicy
 
 > Represents a user access policy. This object is available in API version
       57.0 and later.

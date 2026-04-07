@@ -5,12 +5,10 @@ topic: privacyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.034Z
+lastCollected: 2026-04-07T18:38:38.407Z
 estimatedTokens: 1106
-keywords: [PrivacyRequest, monitor, status, Data, Subject, Access, Requests, made, Privacy, Center, API, version, 54.0, later, Calls]
+keywords: [PrivacyRequest, monitor, status, Subject, Requests, made, Privacy, Center, API, 54.0]
 ---
-
-# PrivacyRequest
 
 > See details and monitor the status of Data Subject Access Requests made in
          Privacy Center. This object is available in API version 54.0 and later.

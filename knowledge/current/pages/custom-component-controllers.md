@@ -5,12 +5,10 @@ topic: custom-component-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.910Z
+lastCollected: 2026-04-07T18:38:48.855Z
 estimatedTokens: 363
-keywords: [Custom, Component, Controllers, Similar, standard, Visualforce, pages, components, associated, controller, written, Apex, association, made, setting]
+keywords: [Controllers, Similar, standard, Visualforce, pages, controller, written, Apex, association, made, setting, attribute, perform, additional, logic, ret, Accessing, Attributes]
 ---
-
-# Custom Component Controllers
 
 > Similar to standard Visualforce pages, custom components can
       be associated with a controller written in Apex. This association is made by setting the

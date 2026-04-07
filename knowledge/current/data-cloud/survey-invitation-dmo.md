@@ -5,12 +5,10 @@ topic: survey-invitation-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.626Z
+lastCollected: 2026-04-07T18:35:54.697Z
 estimatedTokens: 681
-keywords: [Survey, Invitation, DMO, Data, Cloud, model, sent, participant, API, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Category, Relationships, Survey, Invitation, DMO, Cloud, model, sent, participant, API, Primary, Subject, Area, Key]
 ---
-
-# Survey Invitation DMO
 
 > The Survey Invitation DMO is a Data Cloud data model object (DMO) for
       the invitation sent to a participant to complete the survey.

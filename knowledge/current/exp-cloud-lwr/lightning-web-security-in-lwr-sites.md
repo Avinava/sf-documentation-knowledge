@@ -5,12 +5,10 @@ topic: lightning-web-security-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.214Z
+lastCollected: 2026-04-07T18:37:33.594Z
 estimatedTokens: 524
-keywords: [Lightning, Web, Security, LWR, Sites, Instead, Locker, Experience, Cloud, LWS, new, architecture, components, supports, cross-namespace]
+keywords: [Lightning, Web, Security, LWR, Sites, Instead, Locker, Experience, Cloud, LWS, new, architecture, supports, cross-namespace, communication, addition, usual, features, lets, import, namespaces, via, composition, extension]
 ---
-
-# Lightning Web Security in LWR Sites
 
 > Instead of Lightning Locker, LWR sites in Experience Cloud use Lightning Web Security
   (LWS), the new security architecture for Lightning web components. LWS supports cross-namespace

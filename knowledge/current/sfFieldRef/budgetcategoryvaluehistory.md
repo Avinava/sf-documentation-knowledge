@@ -5,12 +5,10 @@ topic: budgetcategoryvaluehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.159Z
+lastCollected: 2026-04-07T18:39:30.339Z
 estimatedTokens: 269
-keywords: [BudgetCategoryValueHistory, History, tracked, BudgetCategoryValue]
+keywords: [BudgetCategoryValueHistory, tracked, BudgetCategoryValue]
 ---
-
-# BudgetCategoryValueHistory
 
 > History for tracked fields of BudgetCategoryValue.
 

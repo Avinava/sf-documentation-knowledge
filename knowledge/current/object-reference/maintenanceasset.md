@@ -5,12 +5,10 @@ topic: maintenanceasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.181Z
+lastCollected: 2026-04-07T18:38:35.426Z
 estimatedTokens: 1025
-keywords: [MaintenanceAsset, asset, covered, maintenance, plan, service, Assets, associated, multiple, plans, Calls, Special, Access, Rules, Objects]
+keywords: [MaintenanceAsset, asset, covered, maintenance, plan, service, Assets, multiple, plans]
 ---
-
-# MaintenanceAsset
 
 > Represents an asset covered by a maintenance plan in field service.
 			Assets can be associated with multiple maintenance plans.

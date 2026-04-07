@@ -5,12 +5,10 @@ topic: sharedsavingpaymentagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.096Z
+lastCollected: 2026-04-07T18:40:01.872Z
 estimatedTokens: 397
 keywords: [SharedSavingPaymentAgreement, payment, terms, contracts, Shared, Saving, Agreement]
 ---
-
-# SharedSavingPaymentAgreement
 
 > Specifies the payment terms for contracts of Shared Saving Payment Agreement
          type.

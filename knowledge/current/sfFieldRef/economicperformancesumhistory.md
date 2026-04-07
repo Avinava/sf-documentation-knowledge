@@ -5,12 +5,10 @@ topic: economicperformancesumhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.057Z
+lastCollected: 2026-04-07T18:39:38.732Z
 estimatedTokens: 275
-keywords: [EconomicPerformanceSumHistory, History, tracked, EconomicPerformanceSum]
+keywords: [EconomicPerformanceSumHistory, tracked, EconomicPerformanceSum]
 ---
-
-# EconomicPerformanceSumHistory
 
 > History for tracked fields of EconomicPerformanceSum.
 

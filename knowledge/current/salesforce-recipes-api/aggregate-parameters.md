@@ -5,12 +5,10 @@ topic: aggregate-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.244Z
+lastCollected: 2026-04-07T18:39:18.926Z
 estimatedTokens: 236
-keywords: [Aggregate, data, node, recipe]
+keywords: [Aggregate, node, recipe]
 ---
-
-# Aggregate Parameters
 
 > The parameters for an aggregate data node in a recipe.
 

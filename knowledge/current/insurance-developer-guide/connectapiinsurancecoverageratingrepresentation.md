@@ -5,12 +5,10 @@ topic: connectapiinsurancecoverageratingrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.578Z
+lastCollected: 2026-04-07T18:37:50.444Z
 estimatedTokens: 169
-keywords: [Output, representation, pricing, results, individual, coverage]
+keywords: [pricing, results, individual, coverage]
 ---
-
-# ConnectApi.InsuranceCoverageRatingRepresentation
 
 > Output representation of pricing results for an individual coverage.
 

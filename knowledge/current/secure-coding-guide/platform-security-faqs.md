@@ -5,12 +5,10 @@ topic: platform-security-faqs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.101Z
+lastCollected: 2026-04-07T18:39:21.986Z
 estimatedTokens: 3818
-keywords: [Platform, Security, FAQs, answers, common, questions, App, Cloud, understand, positive, findings, third-party, Assessments, against, Secure]
+keywords: [Clickjacking, JSESSIONID, Platform, Security, FAQs, answers, common, questions, App, Cloud, understand, positive, findings, third-party, Assessments, against, Secure, Cookies, validation, Cross-Site, Forgery, CSRF, Scripting, File, Upload, Arbitrary, SQL, Query, Execution, FRONTDOOR.JSP, SID, HTTP, X-Content-Type-Options, sniff, Referer, Content-Security-Policy, CSP, frame-ancestors, Directive, Content-Security-Policy-Report-Only, XSS, Protection, Strict-Transport-Security, HSTS, Key, Pinning, Browser, Caching, Responses]
 ---
-
-# Platform Security FAQs
 
 > Get answers to common security questions for the App Cloud platform and understand
         common false positive findings from third-party Security Assessments against the App Cloud

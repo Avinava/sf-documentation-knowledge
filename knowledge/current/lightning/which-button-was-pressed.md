@@ -5,12 +5,10 @@ topic: which-button-was-pressed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.305Z
+lastCollected: 2026-04-07T18:38:04.446Z
 estimatedTokens: 301
-keywords: [Button, Pressed, component, containing, multiple, buttons, Component.getLocalId]
+keywords: [Button, Pressed, containing, multiple, buttons, Component.getLocalId]
 ---
-
-# Which Button Was Pressed?
 
 > To find out which button was pressed in a component containing multiple buttons, use
             Component.getLocalId().

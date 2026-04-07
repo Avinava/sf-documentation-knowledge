@@ -5,12 +5,10 @@ topic: connectapiproductexpandoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.796Z
+lastCollected: 2026-04-07T18:36:11.068Z
 estimatedTokens: 63
 keywords: [Product, expand, reasons]
 ---
-
-# ConnectApi.ProductExpandOutputRepresentation
 
 > Product expand information with return reasons.
 

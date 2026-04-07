@@ -5,12 +5,10 @@ topic: bypass-sharing-rules-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.481Z
+lastCollected: 2026-04-07T18:38:47.435Z
 estimatedTokens: 617
-keywords: [Bypass, Sharing, Rules, Apex, Respect, profile-based, permissions, field-level, security, org-wide, defaults, code]
+keywords: [Bypass, Sharing, Apex, Respect, profile-based, permissions, field-level, security, org-wide, defaults, code]
 ---
-
-# Bypass Sharing Rules in Apex
 
 > Respect profile-based permissions, field-level security, sharing rules, and org-wide
     defaults in your Apex code.

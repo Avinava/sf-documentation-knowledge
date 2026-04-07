@@ -5,12 +5,10 @@ topic: supportcasearticles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.495Z
+lastCollected: 2026-04-07T18:38:50.732Z
 estimatedTokens: 1002
-keywords: [support, caseArticles, Displays, case, articles, tool, show, currently, attached, article, Keyword, search, component, organizations, Feed]
+keywords: [Attributes, support, caseArticles, Displays, case, articles, tool, show, currently, attached, article, Keyword, search, organizations, Knowledge, enabled, Ext, versions, less, included, pages]
 ---
-
-# support:caseArticles
 
 > Displays the case articles tool. The tool can show articles currently attached to the Case and/or an article Keyword search. This component can only be used in organizations that have Case Feed and Knowledge enabled. Ext JS versions less than 3 should not be included on pages that use this component
 

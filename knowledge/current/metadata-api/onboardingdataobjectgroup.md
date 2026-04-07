@@ -5,12 +5,10 @@ topic: onboardingdataobjectgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.612Z
+lastCollected: 2026-04-07T18:36:28.146Z
 estimatedTokens: 1620
-keywords: [OnboardingDataObjectGroup, configuration, groups, objects, specific, business, purpose, Customer, Contact, onboarding, data, group, includes, Email, Phone]
+keywords: [OnboardingDataObjectGroup, OnboardingDataObjGrpVer, OnbrdDataObjGrpDocCatgMap, OnboardingDataObject, OnboardingDataObjectField, configuration, groups, specific, business, purpose, Customer, Contact, onboarding, group, includes, Email, Phone, Number, Address, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# OnboardingDataObjectGroup
 
 > Represents a configuration that groups fields from
 			one or more objects for a specific business purpose. For example, the Customer Contact

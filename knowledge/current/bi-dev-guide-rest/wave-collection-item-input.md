@@ -5,12 +5,10 @@ topic: wave-collection-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.713Z
+lastCollected: 2026-04-07T18:36:55.105Z
 estimatedTokens: 181
-keywords: [Wave, Collection, Item, Input, Analytics, resources]
+keywords: [Wave, Collection, Item, Analytics, resources]
 ---
-
-# Wave Collection Item Input
 
 > An item in a collection of Analytics resources.
 

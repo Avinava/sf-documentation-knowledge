@@ -5,12 +5,10 @@ topic: canvas-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.488Z
+lastCollected: 2026-04-07T18:38:57.280Z
 estimatedTokens: 537
 keywords: [Canvas, Limits, Because, runs, multitenant, environment, enforced, ensure, protection, shared, resources]
 ---
-
-# Canvas Limits
 
 > Because Canvas runs in a multitenant environment, limits are enforced to ensure
 protection of shared resources.

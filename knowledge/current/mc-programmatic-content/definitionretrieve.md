@@ -5,12 +5,10 @@ topic: definitionretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.433Z
+lastCollected: 2026-04-07T18:40:23.870Z
 estimatedTokens: 130
-keywords: [DefinitionRetrieve, Function, Ordinal, Criteria, search, send, definition, **Overview**, **Syntax**, Examples]
+keywords: [DefinitionRetrieve, Examples, Function, Ordinal, Criteria, search, send, definition, **Overview**, **Syntax**]
 ---
-
-# DefinitionRetrieve
 
 > DefinitionRetrieve(1)
 

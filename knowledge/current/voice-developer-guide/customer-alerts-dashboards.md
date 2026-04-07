@@ -5,12 +5,10 @@ topic: customer-alerts-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.679Z
+lastCollected: 2026-04-07T18:40:12.655Z
 estimatedTokens: 479
-keywords: [Customer, Alerts, Dashboards, Salesforce, two, CloudWatch, custom, monitor, potential, issues, contact, center, Service, Cloud, Voice]
+keywords: [Customer, Alerts, Dashboards, Salesforce, two, CloudWatch, monitor, potential, issues, contact, center, Service, Cloud, Voice, Connect, Dashboard, Lambda]
 ---
-
-# Customer Alerts Dashboards
 
 > Salesforce provides two CloudWatch custom dashboards to monitor potential issues with
     your contact center.

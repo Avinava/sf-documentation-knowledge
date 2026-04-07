@@ -5,12 +5,10 @@ topic: map-columns
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.211Z
+lastCollected: 2026-04-07T18:37:28.244Z
 estimatedTokens: 734
-keywords: [Map, Columns, running, Data, Loader, batch, mode, command, line, file, maps, Salesforce, access, objects]
+keywords: [Map, Columns, running, Loader, batch, mode, command, line, file, maps, Salesforce]
 ---
-
-# Map Columns
 
 > When running Data Loader in batch mode from the command line, you must create a
     properties file that maps values between Salesforce and data access objects.

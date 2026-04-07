@@ -5,12 +5,10 @@ topic: workfeedbackquestionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.837Z
+lastCollected: 2026-04-07T18:38:44.649Z
 estimatedTokens: 746
-keywords: [WorkFeedbackQuestionSet, questions, asked, question, link, individual, requests, different, recipients, were, subject, Calls, Associated, Objects]
+keywords: [WorkFeedbackQuestionSet, questions, asked, question, link, individual, requests, different, recipients, were, subject]
 ---
-
-# WorkFeedbackQuestionSet
 
 > Represents a set of questions being asked. The question set is used
 			to link all the individual requests where different recipients were asked the same set

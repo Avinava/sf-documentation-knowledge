@@ -5,12 +5,10 @@ topic: downloadlogs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.417Z
+lastCollected: 2026-04-07T18:39:23.355Z
 estimatedTokens: 73
 keywords: [downloadLogs, Trigger, browser, download, saves, array, log, messages, file]
 ---
-
-# downloadLogs
 
 > Trigger a browser download that saves an array of log messages as a file.
 

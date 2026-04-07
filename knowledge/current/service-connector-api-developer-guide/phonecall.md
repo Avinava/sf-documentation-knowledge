@@ -5,12 +5,10 @@ topic: phonecall
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.730Z
+lastCollected: 2026-04-07T18:39:23.663Z
 estimatedTokens: 968
-keywords: [PhoneCall, phone, call, Objects]
+keywords: [PhoneCall, phone, call]
 ---
-
-# PhoneCall
 
 > Represents information about a phone call.
 

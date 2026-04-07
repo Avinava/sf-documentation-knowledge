@@ -5,12 +5,10 @@ topic: metadata-api-operation-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.522Z
+lastCollected: 2026-04-07T18:38:31.393Z
 estimatedTokens: 1055
 keywords: [Metadata, API, Operation, Event, events, contain, retrieval, deployment, requests]
 ---
-
-# Metadata API Operation Event Type
 
 > Metadata API Operation events contain details of Metadata API
          retrieval and deployment requests.

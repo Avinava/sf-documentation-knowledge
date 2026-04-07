@@ -5,12 +5,10 @@ topic: get-pushv1applicationappid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.456Z
+lastCollected: 2026-04-07T18:40:18.660Z
 estimatedTokens: 355
-keywords: [push, application, appId, Retrieves, app, associated, account, **Overview**, Usage]
+keywords: [push, application, appId, Retrieves, app, account, **Overview**]
 ---
-
-# GET /push/v1/application/{appId}
 
 > Retrieves a single app associated with an account.
 

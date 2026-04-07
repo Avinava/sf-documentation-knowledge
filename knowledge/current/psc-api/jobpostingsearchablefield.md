@@ -5,12 +5,10 @@ topic: jobpostingsearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.888Z
+lastCollected: 2026-04-07T18:39:07.039Z
 estimatedTokens: 2770
-keywords: [JobPostingSearchableField, searching, Filtering, published, Job, Postings, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [JobPostingSearchableField, searching, Filtering, published, Job, Postings, API, 62.0]
 ---
-
-# JobPostingSearchableField
 
 > Object used for searching and Filtering published Job Postings. This
       object is available in API version 62.0 and later.

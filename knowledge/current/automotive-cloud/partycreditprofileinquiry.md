@@ -5,12 +5,10 @@ topic: partycreditprofileinquiry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.570Z
+lastCollected: 2026-04-07T18:36:52.980Z
 estimatedTokens: 768
-keywords: [PartyCreditProfileInquiry, inquiries, made, external, organizations, access, borrower's, credit, report, influence, lender's, opinion, risk, profile, received]
+keywords: [PartyCreditProfileInquiry, inquiries, made, external, organizations, borrower's, credit, report, influence, lender's, opinion, risk, profile, received, API, 65.0]
 ---
-
-# PartyCreditProfileInquiry
 
 > Represents the details of inquiries made by external organizations to access
          a borrower's credit report. Can influence a lender's opinion of a borrower's risk profile

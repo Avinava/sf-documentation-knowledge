@@ -5,12 +5,10 @@ topic: archiveonlinearticlearticleid-scheduleddate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.446Z
+lastCollected: 2026-04-07T18:37:53.722Z
 estimatedTokens: 112
-keywords: [archiveOnlineArticle, articleId, scheduledDate, Archives, online, version, article, archived, immediately, Otherwise, scheduled, date]
+keywords: [archiveOnlineArticle, articleId, scheduledDate, Archives, online, article, archived, immediately, Otherwise, scheduled, date]
 ---
-
-# archiveOnlineArticle(articleId, scheduledDate)
 
 > Archives an online version of an article. If the specified
 scheduledDate is null, the article is archived immediately. Otherwise,

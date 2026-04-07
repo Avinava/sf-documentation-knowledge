@@ -5,12 +5,10 @@ topic: apex-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.760Z
+lastCollected: 2026-04-07T18:36:17.977Z
 estimatedTokens: 460
-keywords: [Apex, Managed, Packages, how, develop, distribute, behave, differently, unmanaged, deployed, directly, org, package, developers, subscribers]
+keywords: [Apex, Managed, Packages, how, develop, distribute, behave, differently, unmanaged, deployed, directly, org, package, developers, subscribers, understand, differences, they, safely, evolve, their, integrations]
 ---
-
-# Apex in Managed Packages
 
 > Learn how to develop, distribute, and use managed Apex. Apex in managed packages can
   behave differently than Apex in unmanaged packages or Apex deployed directly to an org. Managed

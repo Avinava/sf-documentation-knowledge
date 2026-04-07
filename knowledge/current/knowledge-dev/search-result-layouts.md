@@ -5,12 +5,10 @@ topic: search-result-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.935Z
+lastCollected: 2026-04-07T18:37:54.236Z
 estimatedTokens: 246
-keywords: [Search, Result, Layouts, layout, objects, query, call, results, columns, number, rows, label]
+keywords: [Search, Result, Layouts, layout, query, call, results, columns, number, rows, label]
 ---
-
-# Search Result Layouts
 
 > Returns search result layout information for the objects in
   the query string. For each object, this call returns the list of fields displayed on the search

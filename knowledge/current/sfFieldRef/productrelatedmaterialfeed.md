@@ -5,12 +5,10 @@ topic: productrelatedmaterialfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.465Z
+lastCollected: 2026-04-07T18:39:56.042Z
 estimatedTokens: 302
-keywords: [ProductRelatedMaterialFeed, Feed, tracking, ProductRelatedMaterial]
+keywords: [ProductRelatedMaterialFeed, ProductRelatedMaterial]
 ---
-
-# ProductRelatedMaterialFeed
 
 > Feed tracking for ProductRelatedMaterial.
 

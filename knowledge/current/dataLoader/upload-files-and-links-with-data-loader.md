@@ -5,12 +5,10 @@ topic: upload-files-and-links-with-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.227Z
+lastCollected: 2026-04-07T18:37:28.260Z
 estimatedTokens: 783
-keywords: [Upload, Files, Links, Data, Loader, bulk, Salesforce]
+keywords: [Upload, Files, Links, Loader, bulk, Salesforce]
 ---
-
-# Upload Files and Links with Data Loader
 
 > Use Data Loader to bulk upload files and links into Salesforce.
 

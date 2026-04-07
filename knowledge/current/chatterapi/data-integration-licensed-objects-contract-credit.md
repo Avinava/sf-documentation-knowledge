@@ -5,12 +5,10 @@ topic: data-integration-licensed-objects-contract-credit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.265Z
+lastCollected: 2026-04-07T18:37:13.210Z
 estimatedTokens: 151
-keywords: [Data, Integration, Licensed, Objects, Contract, Credit]
+keywords: [Integration, Licensed, Contract, Credit]
 ---
-
-# Data Integration Licensed Objects Contract Credit
 
 > Get credit details for a contract.
 

@@ -5,12 +5,10 @@ topic: data-loader-third-party-licenses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.147Z
+lastCollected: 2026-04-07T18:37:28.181Z
 estimatedTokens: 167
-keywords: [Data, Loader, Third-Party, Licenses, version, Salesforce, releases, API, versions]
+keywords: [Loader, Third-Party, Licenses, Salesforce, releases, API, versions]
 ---
-
-# Data Loader Third-Party Licenses
 
 > Data Loader version information for Salesforce releases and API
                 versions.

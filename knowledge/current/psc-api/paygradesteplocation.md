@@ -5,12 +5,10 @@ topic: paygradesteplocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.091Z
+lastCollected: 2026-04-07T18:39:07.294Z
 estimatedTokens: 1049
-keywords: [PayGradeStepLocation, junction, pay, grade, step, location, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [PayGradeStepLocation, junction, pay, grade, step, location, API, 62.0]
 ---
-
-# PayGradeStepLocation
 
 > Represents a junction between a pay grade step and a location.
       This object is available in API version 62.0 and later.

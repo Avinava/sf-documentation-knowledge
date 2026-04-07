@@ -5,12 +5,10 @@ topic: attachedcontentnote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.047Z
+lastCollected: 2026-04-07T18:39:28.057Z
 estimatedTokens: 263
-keywords: [AttachedContentNote, read-only, ContentNote, objects, associated]
+keywords: [AttachedContentNote, read-only, ContentNote]
 ---
-
-# AttachedContentNote
 
 > This read-only object contains all ContentNote objects associated
 			with an object.

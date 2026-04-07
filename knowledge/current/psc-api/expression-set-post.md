@@ -5,12 +5,10 @@ topic: expression-set-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.443Z
+lastCollected: 2026-04-07T18:39:01.600Z
 estimatedTokens: 368
-keywords: [Expression, POST, Creates, Business, Rules, Engine, performs, series, calculations, lookup, tables, user-defined, variables, constants]
+keywords: [Expression, POST, Creates, Business, Engine, performs, series, calculations, lookup, tables, user-defined, variables, constants]
 ---
-
-# Expression Set (POST)
 
 > Creates an expression set in Business Rules Engine. An expression
       set performs a series of calculations by using lookup tables and user-defined variables and

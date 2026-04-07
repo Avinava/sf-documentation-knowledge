@@ -5,12 +5,10 @@ topic: call-coaching-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:24.600Z
+lastCollected: 2026-04-07T18:37:11.385Z
 estimatedTokens: 160
-keywords: [Call, Coaching, Resources, Einstein, Conversation, Insights, provide, customer, calls, offer, sales, service, users, current, status]
+keywords: [Call, Coaching, Resources, Einstein, Conversation, Insights, provide, customer, offer, sales, service, users, current, status, Post, metadata, new, voice, recording, Upload, audio]
 ---
-
-# Call Coaching Resources
 
 > Einstein Conversation Insights is available to provide insights about customer calls
       and offer call coaching for sales and service users. Get the current status of Einstein

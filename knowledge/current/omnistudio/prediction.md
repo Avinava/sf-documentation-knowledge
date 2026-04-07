@@ -5,12 +5,10 @@ topic: prediction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.495Z
+lastCollected: 2026-04-07T18:36:40.239Z
 estimatedTokens: 176
-keywords: [Prediction, Output, representation]
+keywords: [Prediction]
 ---
-
-# Prediction
 
 > Output representation of prediction details.
 

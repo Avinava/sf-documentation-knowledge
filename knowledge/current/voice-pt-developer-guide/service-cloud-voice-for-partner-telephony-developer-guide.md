@@ -5,12 +5,10 @@ topic: service-cloud-voice-for-partner-telephony-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.505Z
+lastCollected: 2026-04-07T18:40:13.432Z
 estimatedTokens: 748
-keywords: [Service, Cloud, Voice, Partner, Telephony, Developer, Connect, system, creating, unified, intuitive, rep, experience, give, customers]
+keywords: [Service, Cloud, Voice, Partner, Telephony, Developer, Connect, system, creating, unified, intuitive, rep, experience, give, customers, faster, personalized, Salesforce, process, automation, offers, recommendations, initiates, workflows, reduces, post-call, handle, time, help, reps, resolve, you’re, provider, wants, integrate, We’ll, walk, connector, package, they, add, power, own]
 ---
-
-# Service Cloud Voice for Partner Telephony Developer Guide
 
 > Connect your telephony system with Service Cloud Voice, creating a unified and intuitive
     rep experience to give customers faster and more personalized service. Salesforce process

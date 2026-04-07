@@ -5,12 +5,10 @@ topic: adquotelinehiatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.992Z
+lastCollected: 2026-04-07T18:38:12.283Z
 estimatedTokens: 612
-keywords: [AdQuoteLineHiatus, hiatus, period, media, placement, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [AdQuoteLineHiatus, hiatus, period, media, placement, API, 60.0]
 ---
-
-# AdQuoteLineHiatus
 
 > Represents the hiatus period details of a media placement. This object
       is available in API version 60.0 and later.

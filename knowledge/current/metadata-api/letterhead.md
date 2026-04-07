@@ -5,12 +5,10 @@ topic: letterhead
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.647Z
+lastCollected: 2026-04-07T18:36:27.117Z
 estimatedTokens: 1043
-keywords: [Letterhead, formatting, options, email, template, logo, color, text, settings, HTML, templates, letterheads, ensure, consistent, look]
+keywords: [Letterhead, LetterheadHeaderFooter, LetterheadLine, formatting, options, email, template, logo, color, text, settings, HTML, templates, letterheads, ensure, consistent, look, feel, company’s, emails, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Letterhead
 
 > Represents formatting options for the letterhead in an
             email template. A letterhead defines the logo, page color, and text settings for your

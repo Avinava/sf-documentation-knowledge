@@ -5,12 +5,10 @@ topic: managedcareprogramprfmfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.543Z
+lastCollected: 2026-04-07T18:39:47.939Z
 estimatedTokens: 364
-keywords: [ManagedCareProgramPrfmFeed, Feed, tracking, ManagedCareProgramPrfm]
+keywords: [ManagedCareProgramPrfmFeed, ManagedCareProgramPrfm]
 ---
-
-# ManagedCareProgramPrfmFeed
 
 > Feed tracking for ManagedCareProgramPrfm.
 

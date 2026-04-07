@@ -5,12 +5,10 @@ topic: loyalty-management-receipt-scanner-kit-unlocked-package-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.916Z
+lastCollected: 2026-04-07T18:38:09.210Z
 estimatedTokens: 1423
-keywords: [Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, Components, custom, objects, Apex, classes, Lightning, web, facilitate]
+keywords: [Customizations, Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, Apex, classes, Lightning, web, facilitate, easier, distribution, bundled, Permission, View, Layout, Tab, Settings, Label, Metadata, Trigger]
 ---
-
-# Loyalty Management Receipt Scanner Kit Unlocked Package Components
 
 > The Loyalty Management Receipt Scanner Kit unlocked package contains a set of components
   such as custom objects, fields, Apex classes, Lightning web components, and more to facilitate

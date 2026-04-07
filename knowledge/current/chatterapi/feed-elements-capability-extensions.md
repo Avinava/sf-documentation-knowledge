@@ -5,12 +5,10 @@ topic: feed-elements-capability-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.722Z
+lastCollected: 2026-04-07T18:37:13.684Z
 estimatedTokens: 197
-keywords: [Feed, Elements, Capability, Extensions, Access, element]
+keywords: [Capability, Extensions]
 ---
-
-# Feed Elements Capability, Extensions
 
 > Access the extensions capability of a feed element.
 

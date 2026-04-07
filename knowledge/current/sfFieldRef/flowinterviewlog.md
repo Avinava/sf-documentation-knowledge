@@ -5,13 +5,11 @@ topic: flowinterviewlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.213Z
+lastCollected: 2026-04-07T18:39:40.810Z
 estimatedTokens: 458
 namespace: FlowNamespace
-keywords: [FlowInterviewLog, logs, screen, flow, interview, instance, running, previously, run, flow.This, API, version, 49.0, later]
+keywords: [FlowInterviewLog, logs, screen, flow, interview, instance, running, previously, run, flow.This, API, 49.0]
 ---
-
-# FlowInterviewLog
 
 > Represents the logs of a screen flow interview. An
             interview is an instance of a running or previously run flow.This

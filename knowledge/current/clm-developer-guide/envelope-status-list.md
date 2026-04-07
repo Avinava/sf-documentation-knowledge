@@ -5,12 +5,10 @@ topic: envelope-status-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.271Z
+lastCollected: 2026-04-07T18:37:25.202Z
 estimatedTokens: 154
-keywords: [Envelope, Status, Output, representation]
+keywords: [Envelope, Status]
 ---
-
-# Envelope Status List
 
 > Output representation of the envelope status update
     request.

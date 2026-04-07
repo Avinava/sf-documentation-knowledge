@@ -5,12 +5,10 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.957Z
+lastCollected: 2026-04-07T18:38:15.462Z
 estimatedTokens: 212
-keywords: [Prerequisites, Ensure, you’re, ready, tutorial, verifying, right, software, installed, configured, org, Lightning, web, components, enabled]
+keywords: [Prerequisites, Ensure, you’re, ready, tutorial, verifying, right, software, installed, configured, org, Lightning, web, enabled, mobile, users]
 ---
-
-# Prerequisites
 
 > Ensure you’re ready for this tutorial by verifying that you have the right software
   installed and configured, and your org has Lightning web components enabled for mobile

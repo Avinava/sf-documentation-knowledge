@@ -5,12 +5,10 @@ topic: appexchange-lead-sources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.196Z
+lastCollected: 2026-04-07T18:38:46.046Z
 estimatedTokens: 2219
-keywords: [AppExchange, Lead, Sources, leads, include, help, understand, source—that, how, originated, source, code, identifies, action, customer]
+keywords: [AppExchange, Lead, Sources, leads, include, help, understand, source—that, how, originated, source, code, identifies, action, customer, performed, generate, watching, demo, video, discovered, listing, third-party, marketing, campaign, Codes, Package, Installation, Duplicate]
 ---
-
-# AppExchange Lead Sources
 
 > AppExchange leads include details to help you understand the source—that is,
     where and how the lead originated. The lead source code identifies the action that the customer

@@ -5,12 +5,10 @@ topic: strategy-trace-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.094Z
+lastCollected: 2026-04-07T18:37:23.215Z
 estimatedTokens: 254
 keywords: [Strategy, Trace, Node, recommendation, execution]
 ---
-
-# Strategy Trace Node
 
 > A trace node for a recommendation strategy execution.
 

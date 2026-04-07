@@ -5,12 +5,10 @@ topic: case-info-wrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.025Z
+lastCollected: 2026-04-07T18:37:34.571Z
 estimatedTokens: 242
-keywords: [Case, Info, Wrapper, Input, representation, complaint]
+keywords: [Case, Info, Wrapper, complaint]
 ---
-
-# Case Info Wrapper
 
 > Input representation of a case related to the
     complaint.

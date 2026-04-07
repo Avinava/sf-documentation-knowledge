@@ -5,12 +5,10 @@ topic: process-rebate-csv-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.357Z
+lastCollected: 2026-04-07T18:37:06.051Z
 estimatedTokens: 265
-keywords: [Process, Rebate, CSV, Files, uploaded, file, Bulk, API, 2.0, convert, file’s, data, records, target, REST]
+keywords: [Inputs, Process, Rebate, CSV, Files, uploaded, file, Bulk, API, 2.0, convert, file’s, records, target, REST, HTTP]
 ---
-
-# Process Rebate CSV Files
 
 > Process an uploaded CSV file using Bulk API 2.0 and convert the
          file’s data into records in the target object.

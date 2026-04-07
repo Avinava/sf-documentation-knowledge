@@ -5,12 +5,10 @@ topic: standardobjectnamehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.329Z
+lastCollected: 2026-04-07T18:39:05.331Z
 estimatedTokens: 365
-keywords: [StandardObjectNameHistory, model, history, objects, associated, standard, represent, changes, Calls, Special, Access, Rules]
+keywords: [StandardObjectNameHistory, model, standard, represent, changes]
 ---
-
-# StandardObjectNameHistory
 
 > StandardObjectNameHistory is the model for all
       history objects associated with standard objects. These objects represent the history of

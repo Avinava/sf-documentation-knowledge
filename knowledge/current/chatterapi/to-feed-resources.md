@@ -5,12 +5,10 @@ topic: to-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.338Z
+lastCollected: 2026-04-07T18:37:11.075Z
 estimatedTokens: 1264
-keywords: [Feed, Resources, containing, @mentions, context, user, posts, others, made, user's, URL, Elements]
+keywords: [Resources, containing, @mentions, context, user, posts, others, made, user's, URL]
 ---
-
-# To Feed Resources
 
 > A feed containing all @mentions of
  the context user and posts others have made to the context user's

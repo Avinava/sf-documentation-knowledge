@@ -5,12 +5,10 @@ topic: indicatorassignmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.857Z
+lastCollected: 2026-04-07T18:39:44.464Z
 estimatedTokens: 362
-keywords: [IndicatorAssignmentFeed, Feed, tracking, IndicatorAssignment]
+keywords: [IndicatorAssignmentFeed, IndicatorAssignment]
 ---
-
-# IndicatorAssignmentFeed
 
 > Feed tracking for IndicatorAssignment.
 

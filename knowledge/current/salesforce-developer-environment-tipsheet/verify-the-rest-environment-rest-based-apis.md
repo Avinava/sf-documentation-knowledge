@@ -6,13 +6,10 @@ topic: verify-the-rest-environment-rest-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.133Z
+lastCollected: 2026-04-07T18:39:16.722Z
 estimatedTokens: 519
 keywords: [Verify, REST, Environment, REST-Based, APIs, developer, simple, Java, test, application, Eclipse]
 ---
-
-# Verify the REST Environment (REST-Based
-APIs)
 
 > You can verify your developer environment with a simple
 Java test application in Eclipse.

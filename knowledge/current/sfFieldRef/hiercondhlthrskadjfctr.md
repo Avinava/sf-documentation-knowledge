@@ -5,12 +5,10 @@ topic: hiercondhlthrskadjfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.356Z
+lastCollected: 2026-04-07T18:39:43.989Z
 estimatedTokens: 558
-keywords: [HierCondHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, Hierarchical, Condition, Category, HCC, codes, apply, status, their]
+keywords: [HierCondHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, Hierarchical, Condition, Category, HCC, codes, apply, status, their, benefits, eligibility, API, 61.0]
 ---
-
-# HierCondHlthRskAdjFctr
 
 > Stores the risk adjustment factor for patients and members based on the set
          of Hierarchical Condition Category (HCC) codes that apply to them and the status of their

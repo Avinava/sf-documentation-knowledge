@@ -5,12 +5,10 @@ topic: assessmenttaskcontentdocumentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.562Z
+lastCollected: 2026-04-07T18:39:27.550Z
 estimatedTokens: 367
-keywords: [AssessmentTaskContentDocumentFeed, Feed, tracking, AssessmentTaskContentDocument]
+keywords: [AssessmentTaskContentDocumentFeed, AssessmentTaskContentDocument]
 ---
-
-# AssessmentTaskContentDocumentFeed
 
 > Feed tracking for AssessmentTaskContentDocument.
 

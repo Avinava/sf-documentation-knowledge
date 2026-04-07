@@ -5,12 +5,10 @@ topic: integration-procedure-cache-keys
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.232Z
+lastCollected: 2026-04-07T18:39:01.382Z
 estimatedTokens: 84
-keywords: [Integration, Procedure, Cache, Keys, Input, representation, clear, execution]
+keywords: [Integration, Procedure, Cache, Keys, clear, execution]
 ---
-
-# Integration Procedure Cache Keys
 
 > Input representation of the cache keys to clear the execution cache.
 

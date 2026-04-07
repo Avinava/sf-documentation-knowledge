@@ -5,12 +5,10 @@ topic: manufacturingprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.607Z
+lastCollected: 2026-04-07T18:39:48.001Z
 estimatedTokens: 409
-keywords: [ManufacturingProgram, manufacturing, program, Verican, Account, manufacture, auto, components, their, upcoming, concept, vehicle, staring, 01-Jan-2022, until]
+keywords: [ManufacturingProgram, manufacturing, program, Verican, Account, manufacture, auto, their, upcoming, concept, vehicle, staring, 01-Jan-2022, until, 01-Dec-2024]
 ---
-
-# ManufacturingProgram
 
 > Represents information about a manufacturing program. For example, Verican X
          program for Verican Account to manufacture auto components for their upcoming concept

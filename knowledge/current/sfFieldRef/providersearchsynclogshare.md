@@ -5,12 +5,10 @@ topic: providersearchsynclogshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.946Z
+lastCollected: 2026-04-07T18:39:57.536Z
 estimatedTokens: 253
 keywords: [ProviderSearchSyncLogShare, Sharing, ProviderSearchSyncLog]
 ---
-
-# ProviderSearchSyncLogShare
 
 > Sharing for ProviderSearchSyncLog.
 

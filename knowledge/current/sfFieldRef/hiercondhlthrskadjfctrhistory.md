@@ -5,12 +5,10 @@ topic: hiercondhlthrskadjfctrhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.371Z
+lastCollected: 2026-04-07T18:39:44.004Z
 estimatedTokens: 287
-keywords: [HierCondHlthRskAdjFctrHistory, History, tracked, HierCondHlthRskAdjFctr]
+keywords: [HierCondHlthRskAdjFctrHistory, tracked, HierCondHlthRskAdjFctr]
 ---
-
-# HierCondHlthRskAdjFctrHistory
 
 > History for tracked fields of HierCondHlthRskAdjFctr.
 

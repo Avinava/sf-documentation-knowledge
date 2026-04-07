@@ -5,12 +5,10 @@ topic: add-order-to-cart-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.430Z
+lastCollected: 2026-04-07T18:37:07.139Z
 estimatedTokens: 326
-keywords: [Add, Order, Cart, Input, adding]
+keywords: [Add, Order, Cart, adding]
 ---
-
-# Add Order To Cart Input
 
 > Input for adding an order to a cart.
 

@@ -5,12 +5,10 @@ topic: connectapiconvertnegativeinvoicelinesresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.679Z
+lastCollected: 2026-04-07T18:35:41.555Z
 estimatedTokens: 142
-keywords: [Output, representation, credit, memo, along, status]
+keywords: [credit, memo, along, status]
 ---
-
-# ConnectApi.ConvertNegativeInvoiceLinesResult
 
 > Output representation of the details of the credit memo along with the status of the
     request.

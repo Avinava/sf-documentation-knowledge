@@ -5,12 +5,10 @@ topic: upload-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.566Z
+lastCollected: 2026-04-07T18:40:10.538Z
 estimatedTokens: 586
-keywords: [Upload, Files, documents, images, file, new, version]
+keywords: [Upload, Files, documents, images, file, new]
 ---
-
-# Upload Files
 
 > Upload documents and images or update the file with a new
       version.

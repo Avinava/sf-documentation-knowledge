@@ -5,12 +5,10 @@ topic: commission-processing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.463Z
+lastCollected: 2026-04-07T18:37:51.494Z
 estimatedTokens: 184
 keywords: [Commission, Processing, POST, Process, statements, asynchronous, manner, preconfigured, batch, job]
 ---
-
-# Commission Processing (POST)
 
 > Process commission statements in an asynchronous manner using a preconfigured batch
     job.

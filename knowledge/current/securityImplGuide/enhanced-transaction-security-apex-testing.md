@@ -5,12 +5,10 @@ topic: enhanced-transaction-security-apex-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.325Z
+lastCollected: 2026-04-07T18:39:22.214Z
 estimatedTokens: 1417
-keywords: [Enhanced, Transaction, Security, Apex, Testing, Writing, robust, tests, engineering, best, practice, ensure, code, expect, errors]
+keywords: [Enhanced, Transaction, Security, Apex, Testing, Writing, robust, tests, engineering, best, practice, ensure, code, expect, errors, users, customers, It’s, write, policy’s, because, executes, critical, user, actions, Salesforce, org, bug, LoginEvent, policy, that’s, caught, result, locking, situation, avoided, Plan, Refine, Running, Advanced]
 ---
-
-# Enhanced Transaction Security Apex Testing
 
 > Writing robust tests is an engineering best practice to ensure that your code does
         what you expect and to find errors before your users and customers do. It’s even more

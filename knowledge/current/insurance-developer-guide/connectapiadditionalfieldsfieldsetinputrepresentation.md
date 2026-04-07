@@ -5,12 +5,10 @@ topic: connectapiadditionalfieldsfieldsetinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.737Z
+lastCollected: 2026-04-07T18:37:49.600Z
 estimatedTokens: 191
-keywords: [Input, Representation, Additional]
+keywords: [Additional]
 ---
-
-# ConnectApi.AdditionalFieldsFieldSetInputRepresentation
 
 > Input Representation for Additional Fields Field Set
 

@@ -5,12 +5,10 @@ topic: service-cloud-setup-for-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:33.067Z
+lastCollected: 2026-04-07T18:40:28.200Z
 estimatedTokens: 367
 keywords: [Service, Cloud, Setup, org]
 ---
-
-# Service Cloud Setup for the
 
 > Set up Service Cloud in your org before using the
 

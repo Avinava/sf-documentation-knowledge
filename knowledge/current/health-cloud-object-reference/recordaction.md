@@ -5,12 +5,10 @@ topic: recordaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:59.259Z
+lastCollected: 2026-04-07T18:37:47.873Z
 estimatedTokens: 1989
-keywords: [RecordAction, relationship, record, action, flow, every, want, associate, particular, API, version, 42.0, later, Calls, Special]
+keywords: [RecordAction, relationship, record, action, flow, every, want, associate, particular, API, 42.0, Java, Model]
 ---
-
-# RecordAction
 
 > Represents a relationship between a record and an action, such as a
          flow. Create a RecordAction for every action that you want to associate with a particular

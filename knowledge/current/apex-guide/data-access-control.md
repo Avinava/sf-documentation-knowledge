@@ -5,12 +5,10 @@ topic: data-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.494Z
+lastCollected: 2026-04-07T18:36:19.712Z
 estimatedTokens: 277
-keywords: [Data, Access, Control, Lightning, Platform, extensive, sharing, rules, permissions, settings, users, edit, enforced, standard, controllers]
+keywords: [Control, Lightning, Platform, extensive, sharing, permissions, settings, users, edit, enforced, standard, controllers]
 ---
-
-# Data Access Control
 
 > The Lightning Platform makes extensive use of data sharing rules. Each object has permissions
     and can have sharing settings that users can read, create, edit, and delete. These settings are

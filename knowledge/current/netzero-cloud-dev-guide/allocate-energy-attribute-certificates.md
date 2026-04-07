@@ -5,12 +5,10 @@ topic: allocate-energy-attribute-certificates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.976Z
+lastCollected: 2026-04-07T18:38:16.540Z
 estimatedTokens: 354
-keywords: [Allocate, Energy, Attribute, Certificates, Reduce, scope, emissions, renewable, sources, managing, Net, Zero, Cloud, certificate, popularly]
+keywords: [Allocate, Energy, Attribute, Certificates, Reduce, scope, emissions, renewable, sources, managing, Net, Zero, Cloud, certificate, popularly, known, credit, tradeable, generation, 1megawatt-hour, MWh, electricity, source]
 ---
-
-# Allocate Energy Attribute Certificates
 
 > Reduce your scope 2 emissions using renewable energy sources by managing energy
   attribute certificates in Net Zero Cloud. An energy

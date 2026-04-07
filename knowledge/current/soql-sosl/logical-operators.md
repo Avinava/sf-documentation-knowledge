@@ -5,12 +5,10 @@ topic: logical-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.165Z
+lastCollected: 2026-04-07T18:40:10.137Z
 estimatedTokens: 274
 keywords: [Logical, Operators, expression, clause, SOQL, query, Parentheses, whenever, mix]
 ---
-
-# Logical Operators
 
 > Logical operators can be used in the field expression of the WHERE clause in a SOQL
 		query. These operators are AND, OR, and NOT. Parentheses are required whenever you mix the

@@ -5,12 +5,10 @@ topic: apex-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.090Z
+lastCollected: 2026-04-07T18:35:38.881Z
 estimatedTokens: 3694
-keywords: [apex, Commands, Fetch, log, number, recent, logs, org, Examples, Flags, Aliases, test, run, tail]
+keywords: [Flags, apex, Commands, Fetch, log, number, recent, logs, org, Examples, Aliases, test, run, tail]
 ---
-
-# apex Commands
 
 > Fetch the specified log or given number of most recent logs from the org.
 

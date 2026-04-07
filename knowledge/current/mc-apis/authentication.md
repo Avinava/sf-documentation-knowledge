@@ -5,12 +5,10 @@ topic: authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.380Z
+lastCollected: 2026-04-07T18:40:15.454Z
 estimatedTokens: 391
 keywords: [Authentication, extension, APIObject, Items]
 ---
-
-# Authentication
 
 > The Authentication object is an extension of APIObject that contains authentication information.
 

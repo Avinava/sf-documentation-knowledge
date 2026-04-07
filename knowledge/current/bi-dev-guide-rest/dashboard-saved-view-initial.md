@@ -5,12 +5,10 @@ topic: dashboard-saved-view-initial
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.437Z
+lastCollected: 2026-04-07T18:36:56.964Z
 estimatedTokens: 184
 keywords: [Dashboard, Saved, View, Initial, Analytics]
 ---
-
-# Dashboard Saved View Initial
 
 > The initial saved view of an Analytics dashboard.
 

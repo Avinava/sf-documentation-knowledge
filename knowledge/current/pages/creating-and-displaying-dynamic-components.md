@@ -5,12 +5,10 @@ topic: creating-and-displaying-dynamic-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.917Z
+lastCollected: 2026-04-07T18:38:51.160Z
 estimatedTokens: 1244
-keywords: [Creating, Displaying, Dynamic, Components, examples, deliberately, simple, instructional, purposes, benefit, Visualforce, Custom, Passing, Attributes, Defining]
+keywords: [Creating, Displaying, Dynamic, examples, deliberately, simple, instructional, purposes, benefit, Visualforce, Passing, Attributes, Defining, Expressions, Arbitrary, HTML, Facets, Child, Nodes]
 ---
-
-# Creating and Displaying Dynamic Components
 
 > The examples in this section are deliberately simple for instructional purposes. For a
             more complete example of when you might benefit from dynamic Visualforce components, see

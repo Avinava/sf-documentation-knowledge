@@ -5,12 +5,10 @@ topic: group-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.260Z
+lastCollected: 2026-04-07T18:38:21.023Z
 estimatedTokens: 171
-keywords: [Group, Definition, Output, representation, party, relationship]
+keywords: [Group, Definition, party, relationship]
 ---
-
-# Group Definition
 
 > Output representation of a party relationship group
     definition.

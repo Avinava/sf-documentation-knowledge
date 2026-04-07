@@ -5,12 +5,10 @@ topic: insurancepolicyasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.020Z
+lastCollected: 2026-04-07T18:37:37.832Z
 estimatedTokens: 2326
-keywords: [InsurancePolicyAsset, customer, insured, insurance, policy, Calls, Associated, Objects]
+keywords: [InsurancePolicyAsset, customer, insured, insurance, policy]
 ---
-
-# InsurancePolicyAsset
 
 > Represents the customer property insured through the insurance policy.
 

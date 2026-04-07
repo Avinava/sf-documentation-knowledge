@@ -5,12 +5,10 @@ topic: picklistvalueinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.727Z
+lastCollected: 2026-04-07T18:38:38.079Z
 estimatedTokens: 325
-keywords: [PicklistValueInfo, active, picklist, API, version, 40.0, later, Calls]
+keywords: [PicklistValueInfo, active, picklist, API, 40.0]
 ---
-
-# PicklistValueInfo
 
 > Represents the active picklist values for a given picklist field. This
       object is available in API version 40.0 and later.

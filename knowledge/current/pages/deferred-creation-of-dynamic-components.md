@@ -5,12 +5,10 @@ topic: deferred-creation-of-dynamic-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.905Z
+lastCollected: 2026-04-07T18:38:51.147Z
 estimatedTokens: 734
-keywords: [Deferred, Creation, Dynamic, Components, Apex, component, executed, load, time, any, action, that’s, defined, run, invokeAfterAction]
+keywords: [Deferred, Creation, Dynamic, Apex, executed, load, time, any, action, that’s, defined, run, invokeAfterAction, attribute, wait, actions, completed, creates, runs, design, change, depending, result, initialization, callout]
 ---
-
-# Deferred Creation of Dynamic Components
 
 > The Apex method that defines a dynamic component is by default executed at page load
         time, before any action method that’s defined for the page is run. Set the invokeAfterAction attribute of a dynamic component to

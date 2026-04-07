@@ -5,12 +5,10 @@ topic: productqualificationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.360Z
+lastCollected: 2026-04-07T18:39:55.940Z
 estimatedTokens: 270
-keywords: [ProductQualificationHistory, History, tracked, ProductQualification]
+keywords: [ProductQualificationHistory, tracked, ProductQualification]
 ---
-
-# ProductQualificationHistory
 
 > History for tracked fields of ProductQualification.
 

@@ -5,12 +5,10 @@ topic: comment-capability-verified
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.919Z
+lastCollected: 2026-04-07T18:37:11.729Z
 estimatedTokens: 781
 keywords: [Comment, Capability, Verified, status, Mark, unverified]
 ---
-
-# Comment Capability, Verified
 
 > Get the verified status of a comment. Mark a comment as verified or
       unverified.

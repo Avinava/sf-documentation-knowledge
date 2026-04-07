@@ -5,12 +5,10 @@ topic: pushtopic-notification-message-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.320Z
+lastCollected: 2026-04-07T18:36:51.654Z
 estimatedTokens: 484
-keywords: [PushTopic, Notification, Message, Order, API, version, 37.0, later, Salesforce, stores, messages, temporarily, event, bus, stored]
+keywords: [PushTopic, Notification, Message, Order, API, 37.0, Salesforce, stores, messages, temporarily, event, bus, stored, assigns, replay, Subscribers, receive, 36.0, Earlier]
 ---
-
-# PushTopic Notification Message Order
 
 > In API version 37.0 and later, Salesforce stores PushTopic notification messages
         temporarily in the event bus. Before a PushTopic notification message is stored, Salesforce

@@ -5,12 +5,10 @@ topic: supportcaseunifiedfiles
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.506Z
+lastCollected: 2026-04-07T18:38:50.743Z
 estimatedTokens: 149
-keywords: [support, caseUnifiedFiles, Displays, Files, component, Attributes]
+keywords: [Attributes, support, caseUnifiedFiles, Displays, Files]
 ---
-
-# support:caseUnifiedFiles
 
 > Displays the Files component.
 

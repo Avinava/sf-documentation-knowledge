@@ -5,12 +5,10 @@ topic: videocallshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.962Z
+lastCollected: 2026-04-07T18:40:05.838Z
 estimatedTokens: 247
 keywords: [VideoCallShare, Sharing, VideoCall]
 ---
-
-# VideoCallShare
 
 > Sharing for VideoCall.
 

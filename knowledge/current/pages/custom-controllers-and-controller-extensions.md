@@ -5,12 +5,10 @@ topic: custom-controllers-and-controller-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.628Z
+lastCollected: 2026-04-07T18:38:50.861Z
 estimatedTokens: 644
-keywords: [Custom, Controllers, Controller, Extensions, Standard, provide, functionality, Visualforce, because, they, include, logic, Accounts, clicking, Save]
+keywords: [Controllers, Controller, Extensions, Standard, provide, functionality, Visualforce, because, they, include, logic, Accounts, clicking, Save, button, results]
 ---
-
-# Custom Controllers and Controller Extensions
 
 > Standard controllers can provide all the functionality you need for a Visualforce page
          because they include the same logic that is used for a standard page. For example, if you

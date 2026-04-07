@@ -5,12 +5,10 @@ topic: status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.839Z
+lastCollected: 2026-04-07T18:35:46.843Z
 estimatedTokens: 100
-keywords: [Status, Output, representation]
+keywords: [Status]
 ---
-
-# Status
 
 > Output representation of the status of the request.
 

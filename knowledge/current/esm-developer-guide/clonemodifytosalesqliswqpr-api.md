@@ -5,12 +5,10 @@ topic: clonemodifytosalesqliswqpr-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.923Z
+lastCollected: 2026-04-07T18:37:32.093Z
 estimatedTokens: 133
-keywords: [CloneModifyTo_SalesQLIsWQPR, API, Clone, modified, working, cart, quote, line, items, QLIs, sales, Product, Rollup, CloneModifyTo, _SalesQLIsWQPR]
+keywords: [CloneModifyTo_SalesQLIsWQPR, API, Clone, modified, working, cart, quote, line, items, QLIs, sales, Product, Rollup, CloneModifyTo, _SalesQLIsWQPR, URI, HTTP]
 ---
-
-# CloneModifyTo_SalesQLIsWQPR API
 
 > Clone the modified working cart quote line items (QLIs) to sales QLIs, delete the working cart, and update the Quote Product Rollup object.
 

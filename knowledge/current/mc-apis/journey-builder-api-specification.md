@@ -5,12 +5,10 @@ topic: journey-builder-api-specification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.525Z
+lastCollected: 2026-04-07T18:40:17.700Z
 estimatedTokens: 356
 keywords: [Journey, Builder, API, Specification, includes, commonly, REST, resources, Interaction, Service, Items]
 ---
-
-# Journey Builder API Specification
 
 > The following table includes the most commonly used REST resources that make up the Interaction Service of the Journey Builder API.
 

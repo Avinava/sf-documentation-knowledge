@@ -5,12 +5,10 @@ topic: adjust-order-item-summary-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.448Z
+lastCollected: 2026-04-07T18:37:07.162Z
 estimatedTokens: 529
-keywords: [Adjust, Order, Item, Summary, Input, Price, adjustments, summaries, together, adjustment, options, adjusting, items, process, fulfilled]
+keywords: [Adjust, Order, Item, Summary, Price, adjustments, summaries, together, adjustment, options, adjusting, items, process, fulfilled]
 ---
-
-# Adjust Order Item Summary Input
 
 > Price adjustments to order item summaries that together make up a price adjustment to
     an order, with options for adjusting items in the process of being fulfilled.

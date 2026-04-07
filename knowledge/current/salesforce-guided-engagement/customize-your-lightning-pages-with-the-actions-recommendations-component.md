@@ -5,12 +5,10 @@ topic: customize-your-lightning-pages-with-the-actions-recommendations-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.062Z
+lastCollected: 2026-04-07T18:39:17.738Z
 estimatedTokens: 677
-keywords: [Customize, Lightning, Pages, Actions, Recommendations, Component, displays, RecordActions, associated, parent, record, Add, users, they, take]
+keywords: [Customize, Lightning, Pages, Actions, Recommendations, displays, RecordActions, parent, record, Add, users, they, take]
 ---
-
-# Customize Your Lightning Pages with the Actions & Recommendations Component
 
 > The Actions & Recommendations component displays RecordActions associated to the
         parent record. Add the component to your Lightning pages so that users can see the actions

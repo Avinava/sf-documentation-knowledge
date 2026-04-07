@@ -5,12 +5,10 @@ topic: load-files-for-custom-chat-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.760Z
+lastCollected: 2026-04-07T18:40:09.704Z
 estimatedTokens: 422
-keywords: [Load, Files, Custom, Chat, Events, own, JavaScript, CSS, Embedded, handle, style, scripts, styles, loaded, agent]
+keywords: [Load, Files, Chat, Events, own, JavaScript, CSS, Embedded, handle, style, scripts, styles, loaded, agent, accepts, File]
 ---
-
-# Load Files for Custom Chat Events
 
 > Load your own JavaScript and CSS files into Embedded Chat to handle and
       style custom chat events. Your scripts and styles are loaded only after the agent accepts the

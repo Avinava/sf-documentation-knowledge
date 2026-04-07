@@ -5,12 +5,10 @@ topic: salesforce-contracts-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.084Z
+lastCollected: 2026-04-07T18:35:47.108Z
 estimatedTokens: 141
-keywords: [Salesforce, Contracts, Objects, deployment, sequence, API, lookup, Revenue, Cloud]
+keywords: [Salesforce, Contracts, deployment, sequence, API, lookup, Revenue, Cloud]
 ---
-
-# Salesforce Contracts Objects
 
 > This table provides the deployment sequence, object types, API names, and lookup fields
     for Salesforce Contracts in Revenue Cloud.

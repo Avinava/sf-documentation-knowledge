@@ -5,12 +5,10 @@ topic: feed-entity-is-editable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.950Z
+lastCollected: 2026-04-07T18:37:19.047Z
 estimatedTokens: 151
-keywords: [Feed, Entity, Editable, whether, context, user, edit, element, comment]
+keywords: [Entity, Editable, whether, context, user, edit, comment]
 ---
-
-# Feed Entity Is Editable
 
 > Indicates whether the context user can edit a feed element or
       comment.

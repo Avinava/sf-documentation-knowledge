@@ -5,12 +5,10 @@ topic: create-a-list-based-email-send-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.015Z
+lastCollected: 2026-04-07T18:40:16.159Z
 estimatedTokens: 5091
-keywords: [List-Based, Email, Send, Workflow, conceptual, procedural, creating, Marketing, Cloud, SOAP, API, put, together, elements, Why]
+keywords: [List-Based, Email, Send, Workflow, conceptual, procedural, creating, Marketing, Cloud, SOAP, API, put, together, Why, Campaign, How, Process, Envelopes, Import, Subscribers, Retrieve, Defintion, Tie, Start, Definition, Check, Status]
 ---
-
-# Create a List-Based Email Send Workflow
 
 > This page contains conceptual and procedural information on creating a list-based email send using the Marketing Cloud SOAP API. You can use this workflow to put together all of the elements in a list-based email send.
 

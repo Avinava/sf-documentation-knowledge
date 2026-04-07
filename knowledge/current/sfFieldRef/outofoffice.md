@@ -5,12 +5,10 @@ topic: outofoffice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.087Z
+lastCollected: 2026-04-07T18:39:51.500Z
 estimatedTokens: 246
 keywords: [OutOfOffice, user-set, profile, user, intends, office]
 ---
-
-# OutOfOffice
 
 > Represents a user-set value on a profile
         that shows when the user intends to be out of the office.

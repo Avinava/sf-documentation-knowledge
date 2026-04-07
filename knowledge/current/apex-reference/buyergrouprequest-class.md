@@ -5,13 +5,11 @@ topic: buyergrouprequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.434Z
+lastCollected: 2026-04-07T18:35:59.715Z
 estimatedTokens: 756
 namespace: CommerceBuyGrp
-keywords: [BuyerGroupRequest, retrieve, account, store, identify, buyer, groups, associated, user, getAccountId, getStoreId, getRequestContextParameters]
+keywords: [BuyerGroupRequest, retrieve, account, store, identify, buyer, groups, user, getAccountId, getStoreId, getRequestContextParameters]
 ---
-
-# BuyerGroupRequest Class
 
 > Contains methods to retrieve account and store details used to identify the buyer groups
     associated with a user.

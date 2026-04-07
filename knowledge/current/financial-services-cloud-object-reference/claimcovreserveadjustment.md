@@ -5,12 +5,10 @@ topic: claimcovreserveadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.910Z
+lastCollected: 2026-04-07T18:37:36.727Z
 estimatedTokens: 809
-keywords: [ClaimCovReserveAdjustment, amount, adjusted, claim, coverage, reserve, changed, payments, made, API, version, 52.0, later, Calls, Associated]
+keywords: [ClaimCovReserveAdjustment, amount, adjusted, claim, coverage, reserve, changed, payments, made, API, 52.0]
 ---
-
-# ClaimCovReserveAdjustment
 
 > Represents the amount adjusted on a claim coverage reserve as the reserve is changed and payments are made. This object is available in API version 52.0 and later.
 

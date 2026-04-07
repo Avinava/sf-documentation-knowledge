@@ -5,12 +5,10 @@ topic: multiple-streaming-api-notifications-for-the-same-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.352Z
+lastCollected: 2026-04-07T18:36:51.695Z
 estimatedTokens: 608
-keywords: [Multiple, Streaming, API, Notifications, Record, version, 37.0, later, change, triggers, changes, sent, they, aren't, tracked]
+keywords: [Multiple, Streaming, API, Notifications, Record, 37.0, change, triggers, changes, sent, they, aren't, tracked, times, transaction, sometimes, regardless, whether, match, PushTopic, query]
 ---
-
-# Multiple Streaming API Notifications for the Same Record
 
 > In API version 37.0 and later, if a field change triggers other field changes on the
   same record, more notifications are sent for those fields even if they aren't tracked. Also, if a

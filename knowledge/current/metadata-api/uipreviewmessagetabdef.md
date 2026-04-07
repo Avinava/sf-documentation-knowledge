@@ -5,12 +5,10 @@ topic: uipreviewmessagetabdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.940Z
+lastCollected: 2026-04-07T18:36:30.318Z
 estimatedTokens: 561
-keywords: [UiPreviewMessageTabDef, registration, custom, Marketing, Cloud, Preview, Test, modal, tab, created, Lightning, web, components, register, show]
+keywords: [UiPreviewMessageTabDef, registration, Marketing, Cloud, Preview, Test, modal, tab, created, Lightning, web, register, show, multiple, tabs, experience, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# UiPreviewMessageTabDef
 
 > Represents the registration of a custom Marketing Cloud
 			Preview and Test modal tab, created using custom Lightning web components. You can

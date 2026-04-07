@@ -5,12 +5,10 @@ topic: invoking-the-sync-up-method-with-a-custom-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.288Z
+lastCollected: 2026-04-07T18:40:25.650Z
 estimatedTokens: 59
-keywords: [Invoking, Sync, Custom, Target]
+keywords: [Invoking, Sync, Target]
 ---
-
-# Invoking the Sync Up Method with a Custom Target
 
 # Invoking the Sync Up Method with a Custom Target
 

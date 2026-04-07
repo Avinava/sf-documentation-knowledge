@@ -5,12 +5,10 @@ topic: getavailableactionfields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.250Z
+lastCollected: 2026-04-07T18:37:04.969Z
 estimatedTokens: 137
-keywords: [getAvailableActionFields, custom, components, specific, action, record, Arguments, Sample, Code]
+keywords: [Arguments, getAvailableActionFields, specific, action, record, Sample, Code]
 ---
-
-# getAvailableActionFields
 
 > Allows custom components to get a list of the available fields for a specific action on
   a record page.

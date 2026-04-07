@@ -5,13 +5,11 @@ topic: label-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.946Z
+lastCollected: 2026-04-07T18:36:01.153Z
 estimatedTokens: 1744
 namespace: True
-keywords: [Label, retrieve, custom, check, translation, exists, specific, language, dynamically, resolved, run, time, overriding, user’s, current]
+keywords: [Examples, Label, retrieve, check, translation, exists, specific, language, dynamically, resolved, run, time, overriding, user’s, current, requested, can’t, labels, protected, different, translationExists]
 ---
-
-# Label Class
 
 > Provides methods to retrieve a custom label or to check if translation exists for a
     label in a specific language and namespace. Label names are dynamically resolved at run time,

@@ -5,12 +5,10 @@ topic: actionable-list-member-search-by-using-actionable-list-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.591Z
+lastCollected: 2026-04-07T18:36:38.222Z
 estimatedTokens: 430
 keywords: [Actionable, Member, Search, Retrieves, members]
 ---
-
-# Actionable List Member Search by Using Actionable List ID
 
 > Retrieves the actionable list members for the specified actionable list ID.
 

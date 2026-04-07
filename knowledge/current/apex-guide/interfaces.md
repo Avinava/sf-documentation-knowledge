@@ -5,12 +5,10 @@ topic: interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.256Z
+lastCollected: 2026-04-07T18:36:16.481Z
 estimatedTokens: 1024
 keywords: [Interfaces, none, implemented—the, signatures, there, empty, another, implement, providing, contained, Versioned, Behavior, Changes]
 ---
-
-# Interfaces
 
 > An interface is like a class in which none of the methods have been
         implemented—the method signatures are there, but the body of each method is empty. To

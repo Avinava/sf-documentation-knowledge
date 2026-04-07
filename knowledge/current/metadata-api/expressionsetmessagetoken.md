@@ -5,12 +5,10 @@ topic: expressionsetmessagetoken
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.225Z
+lastCollected: 2026-04-07T18:36:25.716Z
 estimatedTokens: 535
-keywords: [ExpressionSetMessageToken, retrieve, deploy, Expression, Message, Token, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [ExpressionSetMessageToken, retrieve, deploy, Expression, Message, Token, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ExpressionSetMessageToken
 
 > Represents an interface to retrieve, deploy,
 			create, update, or delete information on Expression Set Message Token.

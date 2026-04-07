@@ -5,12 +5,10 @@ topic: cgcloudbatchrunstatusdetailc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.557Z
+lastCollected: 2026-04-07T18:39:12.981Z
 estimatedTokens: 1055
-keywords: [cgcloud__Batch_Run_Status_Detail__c, Collects, further, batch, monitoring, API, version, 54.0, later, cgcloud, _Batch, _Run, _Status, _Detail, Calls]
+keywords: [cgcloud__Batch_Run_Status_Detail__c, Collects, further, batch, monitoring, API, 54.0, cgcloud, _Batch, _Run, _Status, _Detail]
 ---
-
-# cgcloud__Batch_Run_Status_Detail__c
 
 > Collects further batch monitoring details. This object is
       available in API version 54.0 and later.

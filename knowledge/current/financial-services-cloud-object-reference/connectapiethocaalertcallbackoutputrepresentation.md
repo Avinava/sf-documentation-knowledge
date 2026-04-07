@@ -5,12 +5,10 @@ topic: connectapiethocaalertcallbackoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.552Z
+lastCollected: 2026-04-07T18:37:34.018Z
 estimatedTokens: 84
-keywords: [Ethoca, alert, callback, output, dispute, management]
+keywords: [Ethoca, alert, callback, dispute, management]
 ---
-
-# ConnectApi.EthocaAlertCallbackOutputRepresentation
 
 > Ethoca alert callback output class for dispute management.
 

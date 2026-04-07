@@ -5,12 +5,10 @@ topic: using-the-auraaction-attribute-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.766Z
+lastCollected: 2026-04-07T18:38:04.916Z
 estimatedTokens: 637
-keywords: [Aura.Action, Attribute, action, framework, child, component, parent, pass, handler, instantiates, markup, pattern, shortcut, controller, on*]
+keywords: [Aura.Action, Attribute, action, framework, child, parent, pass, handler, instantiates, markup, pattern, shortcut, controller, on*, handlers, onclick]
 ---
-
-# Using the Aura.Action Attribute Type
 
 > An Aura.Action is a reference to an action in the
         framework. If a child component has an Aura.Action

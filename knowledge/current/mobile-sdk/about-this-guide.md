@@ -5,12 +5,10 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.865Z
+lastCollected: 2026-04-07T18:40:27.082Z
 estimatedTokens: 471
-keywords: [introduces, Salesforce, Mobile, SDK, teaches, how, design, develop, manage, applications, cloud, Topics, cover, platforms, including]
+keywords: [introduces, Salesforce, Mobile, SDK, teaches, how, design, develop, manage, applications, cloud, Topics, cover, platforms, including, Intended, Audience]
 ---
-
-# About This Guide
 
 > This guide introduces you to Salesforce Mobile SDK and teaches you how to design,
       develop, and manage mobile applications for the cloud. Topics cover all platforms supported by

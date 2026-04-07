@@ -5,12 +5,10 @@ topic: tenantsecuritynotificationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.775Z
+lastCollected: 2026-04-07T18:38:42.513Z
 estimatedTokens: 1209
-keywords: [TenantSecurityNotificationRule, Stores, alert, configured, Security, Center, Alerts, feature, notify, recipients, changes, made, settings, subscribers, API]
+keywords: [TenantSecurityNotificationRule, Stores, alert, configured, Security, Center, Alerts, feature, notify, recipients, changes, made, settings, subscribers, API, 53.0]
 ---
-
-# TenantSecurityNotificationRule
 
 > Stores an alert configured in the Security Center Alerts feature to
          notify recipients of changes made to security settings. For more information, see Create Alerts for Security Changes. This object is

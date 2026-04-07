@@ -5,12 +5,10 @@ topic: public-sector-solutions-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.096Z
+lastCollected: 2026-04-07T18:39:05.103Z
 estimatedTokens: 188
-keywords: [Sector, Solutions, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
+keywords: [Sector, Solutions, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---
-
-# Public Sector Solutions Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that
         you can access through REST or SOAP. Tooling API’s SOQL capabilities for many metadata types

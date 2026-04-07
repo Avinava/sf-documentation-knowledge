@@ -5,12 +5,10 @@ topic: userterritory2association
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.132Z
+lastCollected: 2026-04-07T18:38:43.907Z
 estimatedTokens: 394
-keywords: [UserTerritory2Association, association, assignment, territory, user, record, Sales, Territories, enabled, Calls, Special, Access, Rules]
+keywords: [UserTerritory2Association, association, assignment, territory, user, record, Sales, Territories, enabled]
 ---
-
-# UserTerritory2Association
 
 > Represents an association (by assignment) between a territory and a user
       record. Available only if Sales Territories has been enabled.

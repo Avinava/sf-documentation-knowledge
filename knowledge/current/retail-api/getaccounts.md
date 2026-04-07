@@ -5,12 +5,10 @@ topic: getaccounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.746Z
+lastCollected: 2026-04-07T18:39:11.274Z
 estimatedTokens: 150
-keywords: [getAccounts, accounts, target, promotion, timeframe, calculated, difference, days, original, date, new, Input, Sample, derived, period, defined, input]
+keywords: [getAccounts, accounts, target, promotion, timeframe, calculated, difference, days, original, date, new, Sample, derived, period, defined]
 ---
-
-# getAccounts
 
 > This method returns the list of accounts valid for the target promotion. Target promotion
   timeframe is calculated by the difference in days between the original promotion date and the new

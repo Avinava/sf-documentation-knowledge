@@ -5,12 +5,10 @@ topic: accountplanstkhldrproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.300Z
+lastCollected: 2026-04-07T18:37:58.844Z
 estimatedTokens: 985
-keywords: [AccountPlanStkhldrProduct, junction, account, plan, stakeholder, product, Stores, products, associated, API, version, 65.0, later, Calls, Objects]
+keywords: [AccountPlanStkhldrProduct, junction, account, plan, stakeholder, product, Stores, products, API, 65.0]
 ---
-
-# AccountPlanStkhldrProduct
 
 > Represents a junction between an account plan stakeholder and a
          product. Stores information about the products associated with a stakeholder for an account

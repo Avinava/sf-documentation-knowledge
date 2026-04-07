@@ -5,12 +5,10 @@ topic: custom-urls-for-a-site-or-store
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.222Z
+lastCollected: 2026-04-07T18:37:13.159Z
 estimatedTokens: 136
-keywords: [Custom, URLs, Site, Store, domain, associated]
+keywords: [URLs, Site, Store, domain]
 ---
-
-# Custom URLs for a Site or Store
 
 > Get a list of custom URLs for a custom domain associated with a site or
     store.

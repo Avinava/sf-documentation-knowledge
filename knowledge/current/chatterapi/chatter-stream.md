@@ -5,12 +5,10 @@ topic: chatter-stream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.131Z
+lastCollected: 2026-04-07T18:37:19.252Z
 estimatedTokens: 231
-keywords: [Chatter, Stream, feed]
+keywords: [Chatter, Stream]
 ---
-
-# Chatter Stream
 
 > A Chatter feed stream.
 

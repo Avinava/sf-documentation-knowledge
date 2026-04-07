@@ -5,12 +5,10 @@ topic: with-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.429Z
+lastCollected: 2026-04-07T18:40:10.402Z
 estimatedTokens: 70
 keywords: [METADATA, clause]
 ---
-
-# WITH METADATA
 
 > Specifies if metadata is returned in the response. Optional clause.
 

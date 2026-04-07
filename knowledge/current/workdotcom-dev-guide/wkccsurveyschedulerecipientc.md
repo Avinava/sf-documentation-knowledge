@@ -5,12 +5,10 @@ topic: wkccsurveyschedulerecipientc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.100Z
+lastCollected: 2026-04-07T18:40:14.129Z
 estimatedTokens: 455
-keywords: [wkcc__SurveyScheduleRecipient__c, recipients, surveys, sent, particular, survey, schedule, employees, locations, change, scheduled, updated, referenced, time, goes]
+keywords: [wkcc__SurveyScheduleRecipient__c, recipients, surveys, sent, particular, survey, schedule, employees, locations, change, scheduled, updated, referenced, time, goes, API, 49.0, wkcc, _SurveyScheduleRecipient]
 ---
-
-# wkcc__SurveyScheduleRecipient__c
 
 > Represents details about recipients of surveys sent out by a particular survey
       schedule. The recipients can be employees or locations. If you change the recipients for a

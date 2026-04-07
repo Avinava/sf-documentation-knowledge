@@ -5,12 +5,10 @@ topic: authconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.519Z
+lastCollected: 2026-04-07T18:38:26.482Z
 estimatedTokens: 930
-keywords: [AuthConfig, authentication, options, Domain, Experience, Cloud, site, login, pages, API, version, 32.0, later, Calls, Special]
+keywords: [AuthConfig, authentication, options, Domain, Experience, Cloud, site, login, pages, API, 32.0]
 ---
-
-# AuthConfig
 
 > Represents authentication options for My
 				Domain and Experience Cloud site login pages.

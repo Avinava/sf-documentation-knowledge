@@ -5,12 +5,10 @@ topic: e-signature-notification-expiration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.353Z
+lastCollected: 2026-04-07T18:37:25.279Z
 estimatedTokens: 185
 keywords: [E-signature, Notification, Expiration, settings]
 ---
-
-# E-signature Notification Expiration
 
 > E-signature notification expiration settings.
 

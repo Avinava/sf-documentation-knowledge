@@ -5,12 +5,10 @@ topic: unbundle-multiple
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.173Z
+lastCollected: 2026-04-07T18:36:47.039Z
 estimatedTokens: 1934
-keywords: [Unbundle, Multiple, bundles, service, appointments, resource, accepts, bundle, IDs, API, Gov, Cloud, endpoint, version, 54.0]
+keywords: [Unbundle, Multiple, bundles, service, appointments, resource, accepts, bundle, IDs, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---
-
-# Unbundle Multiple
 
 > Unbundle one or more bundles of service appointments. This resource accepts one or more
   bundle IDs. This API is not supported in Gov Cloud. This endpoint is available in version 54.0 and

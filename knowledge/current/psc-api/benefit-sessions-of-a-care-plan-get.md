@@ -5,12 +5,10 @@ topic: benefit-sessions-of-a-care-plan-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.718Z
+lastCollected: 2026-04-07T18:39:01.862Z
 estimatedTokens: 118
 keywords: [Benefit, Sessions, Care, Plan, enrolled, participants]
 ---
-
-# Benefit Sessions of a Care Plan (GET)
 
 > Get the details of benefit sessions enrolled by participants in a
       care plan.

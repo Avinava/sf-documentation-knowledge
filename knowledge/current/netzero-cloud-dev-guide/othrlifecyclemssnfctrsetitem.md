@@ -5,12 +5,10 @@ topic: othrlifecyclemssnfctrsetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.521Z
+lastCollected: 2026-04-07T18:38:19.195Z
 estimatedTokens: 4173
-keywords: [OthrLifecyclEmssnFctrSetItem, individual, emissions, factor, fuel, calculate, occur, throughout, lifecycle, extraction, end-of-life, stationary, vehicle, assets, electricity]
+keywords: [OthrLifecyclEmssnFctrSetItem, individual, emissions, factor, fuel, calculate, occur, throughout, lifecycle, extraction, end-of-life, stationary, vehicle, assets, electricity, API, 66.0]
 ---
-
-# OthrLifecyclEmssnFctrSetItem
 
 > Represents the individual emissions factor for a fuel used to calculate
          emissions that occur throughout its lifecycle, from extraction to end-of-life. This fuel is

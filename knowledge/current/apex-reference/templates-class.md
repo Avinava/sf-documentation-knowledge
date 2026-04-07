@@ -5,13 +5,11 @@ topic: templates-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.237Z
+lastCollected: 2026-04-07T18:36:01.485Z
 estimatedTokens: 1376
 namespace: Wave
-keywords: [Templates, retrieving, CRM, Analytics, template, collections, individual, configurations, Usage, Examples, getTemplate, templateIdOrApiName, getTemplateConfig, getTemplates, options]
+keywords: [Examples, Templates, retrieving, CRM, Analytics, template, collections, individual, configurations, getTemplate, templateIdOrApiName, getTemplateConfig, getTemplates, options]
 ---
-
-# Templates Class
 
 > The Templates class provides methods for retrieving CRM Analytics
       template collections, individual templates, and template configurations.

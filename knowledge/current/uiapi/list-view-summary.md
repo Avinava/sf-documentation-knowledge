@@ -5,12 +5,10 @@ topic: list-view-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.854Z
+lastCollected: 2026-04-07T18:40:11.858Z
 estimatedTokens: 158
 keywords: [View, Summary, views]
 ---
-
-# List View Summary
 
 > A summary of list views for an object.
 

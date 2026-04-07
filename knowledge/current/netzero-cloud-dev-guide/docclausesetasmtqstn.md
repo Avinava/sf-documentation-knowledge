@@ -5,12 +5,10 @@ topic: docclausesetasmtqstn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.647Z
+lastCollected: 2026-04-07T18:38:18.156Z
 estimatedTokens: 516
-keywords: [DocClauseSetAsmtQstn, junction, document, clause, assessment, question, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [DocClauseSetAsmtQstn, junction, document, clause, assessment, question, API, 64.0]
 ---
-
-# DocClauseSetAsmtQstn
 
 > Represents a junction between a document clause set and an assessment
          question. This object is available in API version 64.0 and later.

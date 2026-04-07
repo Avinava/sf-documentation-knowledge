@@ -5,12 +5,10 @@ topic: filter-a-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.139Z
+lastCollected: 2026-04-07T18:37:24.187Z
 estimatedTokens: 307
 keywords: [Filter, bodies, Connect, REST, API]
 ---
-
-# Filter a Response Body
 
 > Filter response bodies in Connect REST API.
 

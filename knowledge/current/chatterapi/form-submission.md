@@ -5,12 +5,10 @@ topic: form-submission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.463Z
+lastCollected: 2026-04-07T18:37:19.610Z
 estimatedTokens: 77
 keywords: [Form, Submission, Marketing, integration]
 ---
-
-# Form Submission
 
 > Marketing integration form submission.
 

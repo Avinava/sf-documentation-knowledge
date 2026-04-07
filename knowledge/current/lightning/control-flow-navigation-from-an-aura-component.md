@@ -5,12 +5,10 @@ topic: control-flow-navigation-from-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.024Z
+lastCollected: 2026-04-07T18:38:02.976Z
 estimatedTokens: 500
-keywords: [Control, Flow, Navigation, Aura, Component, users, navigate, clicking, standard, buttons, bottom, screen, lightning, availableForFlowScreens, two]
+keywords: [Control, Flow, Navigation, Aura, users, navigate, clicking, standard, buttons, bottom, screen, lightning, availableForFlowScreens, two, attributes, help, fully, customize, screen's, figure, actions, loop, availableActions, attribute, programmatically, trigger, call, navigateFlow, action, JavaScript, controller]
 ---
-
-# Control Flow Navigation from an Aura Component
 
 > By default, users navigate a flow by clicking standard buttons at the bottom of
                 each screen. The lightning:availableForFlowScreens interface provides two

@@ -5,12 +5,10 @@ topic: when-to-use-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.958Z
+lastCollected: 2026-04-07T18:36:31.355Z
 estimatedTokens: 1907
-keywords: [Tooling, API, fine-grained, access, org’s, metadata, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, retrieves, improve]
+keywords: [Tooling, API, fine-grained, org’s, metadata, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, retrieves, improve, performance, better, fit, developing, interactive, applications]
 ---
-
-# When to Use Tooling API
 
 > Use Tooling API when you need fine-grained access to an org’s metadata. Tooling API’s
     SOQL capabilities for many metadata types allow you to retrieve smaller pieces of metadata.

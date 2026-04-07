@@ -5,12 +5,10 @@ topic: financialdealpartyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.007Z
+lastCollected: 2026-04-07T18:39:40.620Z
 estimatedTokens: 176
-keywords: [FinancialDealPartyHistory, History, tracked, FinancialDealParty]
+keywords: [FinancialDealPartyHistory, tracked, FinancialDealParty]
 ---
-
-# FinancialDealPartyHistory
 
 > History for tracked fields of FinancialDealParty.
 

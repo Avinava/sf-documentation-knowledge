@@ -5,12 +5,10 @@ topic: supported-scratch-org-editions-and-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.461Z
+lastCollected: 2026-04-07T18:40:08.415Z
 estimatedTokens: 992
-keywords: [Scratch, Org, Editions, Allocations, Dev, Hub, often, production, enable, Developer, Enterprise, Unlimited, Performance, edition, determines]
+keywords: [Scratch, Org, Editions, Allocations, Dev, Hub, often, production, enable, Developer, Enterprise, Unlimited, Performance, edition, determines, how, orgs, choose, time, Active, Daily, View, Limits]
 ---
-
-# Supported Scratch Org Editions and Allocations
 
 > Your Dev Hub org is often your production org, and you can enable Dev Hub in these
     editions: Developer, Enterprise, Unlimited, or Performance. Your Dev Hub edition determines how

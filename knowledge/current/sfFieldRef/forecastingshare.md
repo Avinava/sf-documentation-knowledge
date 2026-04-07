@@ -5,12 +5,10 @@ topic: forecastingshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.664Z
+lastCollected: 2026-04-07T18:39:41.313Z
 estimatedTokens: 320
-keywords: [ForecastingShare, forecasts, shared, forecast, manager, user, API, version, 44.0, later]
+keywords: [ForecastingShare, forecasts, shared, forecast, manager, user, API, 44.0]
 ---
-
-# ForecastingShare
 
 > Represents forecasts shared between a forecast manager and a user.
 		Available in API version 44.0 and later.

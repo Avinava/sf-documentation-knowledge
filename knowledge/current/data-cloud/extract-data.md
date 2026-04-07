@@ -5,12 +5,10 @@ topic: extract-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.573Z
+lastCollected: 2026-04-07T18:35:51.434Z
 estimatedTokens: 1183
-keywords: [Extract, Data, Programmatically, Cloud]
+keywords: [Extract, Programmatically, Cloud]
 ---
-
-# Extract Data
 
 > Programmatically extract your data from Data Cloud.
 

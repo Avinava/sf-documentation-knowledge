@@ -5,12 +5,10 @@ topic: apievent-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.398Z
+lastCollected: 2026-04-07T18:39:22.293Z
 estimatedTokens: 374
-keywords: [ApiEvent, Policies, API, events, monitor, transactions, SOQL, queries, data, exports, Policy, Glance, Considerations]
+keywords: [ApiEvent, Policies, API, events, monitor, transactions, SOQL, queries, exports, Policy, Glance, Considerations]
 ---
-
-# ApiEvent Policies
 
 > API events monitor API transactions, such as SOQL queries and data exports.
 

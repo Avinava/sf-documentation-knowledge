@@ -5,12 +5,10 @@ topic: rest-request-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.175Z
+lastCollected: 2026-04-07T18:40:26.488Z
 estimatedTokens: 219
-keywords: [REST, RestRequest, uncomplicated, way, network, calls, container, metadata, rarely, manipulate, manually, itself, formats, transmission, over]
+keywords: [REST, RestRequest, uncomplicated, way, network, container, metadata, rarely, manipulate, manually, itself, formats, transmission, over, HTTP, send, reque]
 ---
-
-# REST Request Class
 
 > The RestRequest interface provides an uncomplicated way
       to make network calls. This class is the container for your request metadata, but you rarely

@@ -5,12 +5,10 @@ topic: convmessagesendrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:38.122Z
+lastCollected: 2026-04-07T18:38:29.031Z
 estimatedTokens: 1959
-keywords: [ConvMessageSendRequest, send, template-based, messaging, component, series, users, enhanced, channel, In-App, API, version, 60.0, later, Calls]
+keywords: [ConvMessageSendRequest, send, template-based, messaging, series, users, enhanced, channel, In-App, API, 60.0]
 ---
-
-# ConvMessageSendRequest
 
 > Represents a request to send a template-based messaging component to a series
          of messaging users in an enhanced messaging channel or Messaging for In-App. This

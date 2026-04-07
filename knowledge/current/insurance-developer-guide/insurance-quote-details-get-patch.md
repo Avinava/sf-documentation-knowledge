@@ -5,12 +5,10 @@ topic: insurance-quote-details-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.857Z
+lastCollected: 2026-04-07T18:37:51.935Z
 estimatedTokens: 900
 keywords: [Insurance, Quote, PATCH]
 ---
-
-# Insurance Quote Details (GET, PATCH)
 
 > Get or update quote details by the specified quote ID.
 

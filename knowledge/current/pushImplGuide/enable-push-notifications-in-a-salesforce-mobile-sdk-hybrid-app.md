@@ -5,12 +5,10 @@ topic: enable-push-notifications-in-a-salesforce-mobile-sdk-hybrid-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.919Z
+lastCollected: 2026-04-07T18:39:09.242Z
 estimatedTokens: 160
 keywords: [Enable, Push, Notifications, Salesforce, Mobile, SDK, Hybrid, App, project, number, Google, authorized, send, Android, device]
 ---
-
-# Enable Push Notifications in a Salesforce Mobile SDK Hybrid App
 
 > This value is the project number of
                         the Google project that is authorized to send push notifications to an

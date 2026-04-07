@@ -5,12 +5,10 @@ topic: userrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.427Z
+lastCollected: 2026-04-07T18:38:52.736Z
 estimatedTokens: 120
-keywords: [$UserRole, merge, referencing, current, user’s, role, Usage]
+keywords: [$UserRole, merge, referencing, current, user’s, role]
 ---
-
-# $UserRole
 
 > A global merge field type to use when referencing information about the current
   user’s role. Role merge fields can reference information such as role name, description,

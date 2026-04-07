@@ -5,12 +5,10 @@ topic: instorelocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.212Z
+lastCollected: 2026-04-07T18:39:15.740Z
 estimatedTokens: 660
-keywords: [InStoreLocation, locations, retail, store’s, layout, aisles, shelves, backrooms, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [InStoreLocation, locations, retail, store’s, layout, aisles, shelves, backrooms, API, 47.0]
 ---
-
-# InStoreLocation
 
 > Create locations within a retail store’s layout such as aisles, shelves, or
       backrooms. This object is available in API version 47.0 and later.

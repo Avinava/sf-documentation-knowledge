@@ -5,13 +5,11 @@ topic: eventrelayconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.199Z
+lastCollected: 2026-04-07T18:39:39.825Z
 estimatedTokens: 417
 namespace: NamespacePrefix
-keywords: [EventRelayConfig, configuration, event, relay, relays, platform, events, change, data, capture, Salesforce, Amazon, EventBridge, API, version]
+keywords: [EventRelayConfig, configuration, event, relay, relays, platform, events, change, capture, Salesforce, Amazon, EventBridge, API, 56.0]
 ---
-
-# EventRelayConfig
 
 > Represents the configuration of an event relay, which relays platform events
          and change data capture events from Salesforce to Amazon EventBridge. This object is

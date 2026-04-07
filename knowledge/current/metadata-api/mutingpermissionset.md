@@ -5,12 +5,10 @@ topic: mutingpermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.230Z
+lastCollected: 2026-04-07T18:36:27.769Z
 estimatedTokens: 955
-keywords: [MutingPermissionSet, disabled, permissions, conjunction, PermissionSetGroup, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [MutingPermissionSet, disabled, permissions, conjunction, PermissionSetGroup, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MutingPermissionSet
 
 > Represents a set of disabled permissions and is
       used in conjunction with PermissionSetGroup.

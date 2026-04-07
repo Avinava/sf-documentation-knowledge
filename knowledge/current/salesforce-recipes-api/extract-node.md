@@ -5,12 +5,10 @@ topic: extract-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.441Z
+lastCollected: 2026-04-07T18:39:19.123Z
 estimatedTokens: 113
 keywords: [Extract, Node, grain, recipe]
 ---
-
-# Extract Node
 
 > An extract grain node in a recipe.
 

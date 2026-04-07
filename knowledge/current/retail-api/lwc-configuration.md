@@ -5,12 +5,10 @@ topic: lwc-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.892Z
+lastCollected: 2026-04-07T18:39:11.438Z
 estimatedTokens: 563
-keywords: [LWC, Configuration, order, access, TPM, promotion, data, layer, tpm-promotion, service, component, hook, state, able, extract]
+keywords: [Troubleshooting, LWC, Configuration, order, TPM, promotion, layer, tpm-promotion, service, hook, state, able, extract, events, push, new]
 ---
-
-# LWC Configuration
 
 > In order to access the TPM promotion data in LWC layer, the tpm-promotion service component is used. Use the tpm-promotion component to
         hook into the promotion state and be able to extract data from the promotion (through

@@ -5,12 +5,10 @@ topic: custom-component-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:56.903Z
+lastCollected: 2026-04-07T18:38:48.849Z
 estimatedTokens: 709
-keywords: [Custom, Component, Attributes, Apart, standard, Visualforce, markup, <apex, component>, tag, specify, passed, it’s, directly]
+keywords: [Attributes, Apart, standard, Visualforce, markup, <apex, component>, tag, specify, passed, it’s, directly]
 ---
-
-# Custom Component Attributes
 
 > Apart from standard Visualforce markup, the body of
             an <apex:component> tag can also specify the

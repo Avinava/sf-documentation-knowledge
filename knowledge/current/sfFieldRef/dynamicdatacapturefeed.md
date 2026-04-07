@@ -5,12 +5,10 @@ topic: dynamicdatacapturefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.995Z
+lastCollected: 2026-04-07T18:39:38.673Z
 estimatedTokens: 362
-keywords: [DynamicDataCaptureFeed, Feed, tracking, DynamicDataCapture]
+keywords: [DynamicDataCaptureFeed, DynamicDataCapture]
 ---
-
-# DynamicDataCaptureFeed
 
 > Feed tracking for DynamicDataCapture.
 

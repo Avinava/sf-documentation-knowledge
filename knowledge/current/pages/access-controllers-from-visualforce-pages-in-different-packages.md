@@ -5,12 +5,10 @@ topic: access-controllers-from-visualforce-pages-in-different-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.582Z
+lastCollected: 2026-04-07T18:38:51.885Z
 estimatedTokens: 297
-keywords: [Access, Controllers, Visualforce, Pages, Different, Packages, Apex, controller, package, @namespaceAccessible, annotation, custom, first-generation, packaging, develop]
+keywords: [Controllers, Visualforce, Pages, Different, Packages, Apex, controller, package, @namespaceAccessible, annotation, first-generation, packaging, develop, managed, second-generation, unlocked, installed, can't, call, another]
 ---
-
-# Access Controllers From Visualforce Pages in Different Packages
 
 > To access an Apex controller from a Visualforce page that is in a different package,
         use the @namespaceAccessible Apex annotation in your

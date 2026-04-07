@@ -6,13 +6,10 @@ topic: renewinsurancepolicyinsurancepolicyprocessinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.375Z
+lastCollected: 2026-04-07T18:37:49.202Z
 estimatedTokens: 487
-keywords: [renewInsurancePolicy, insurancePolicyProcessInput, policyId, Renew, policy, insurance, API, Version, Requires, Chatter, Usage]
+keywords: [renewInsurancePolicy, insurancePolicyProcessInput, policyId, Renew, policy, insurance, API, Requires, Chatter]
 ---
-
-# renewInsurancePolicy(insurancePolicyProcessInput,
-      policyId)
 
 > Renew policy for the specified insurance policy ID.
 

@@ -5,12 +5,10 @@ topic: recalculate-forecasts-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.690Z
+lastCollected: 2026-04-07T18:38:13.015Z
 estimatedTokens: 380
-keywords: [Recalculate, Forecasts, Action, orders, opportunity, sales, agreement, figures, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Recalculate, Forecasts, Action, orders, opportunity, sales, agreement, figures, REST, HTTP]
 ---
-
-# Recalculate Forecasts Action
 
 > Recalculate forecasts based on orders, opportunity, and sales agreement
    figures.

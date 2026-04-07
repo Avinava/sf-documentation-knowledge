@@ -5,12 +5,10 @@ topic: understand-apex-behavior-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.424Z
+lastCollected: 2026-04-07T18:38:14.888Z
 estimatedTokens: 598
-keywords: [Understand, Apex, Behavior, Offline, Additional, features, built, offline-enabled, apps, allow, app, including, Lightning, web, components]
+keywords: [Understand, Apex, Behavior, Offline, Additional, features, built, offline-enabled, apps, allow, app, including, Lightning, web, continue, function, Knowing, their, limitations, critical, writing, LWCs, well, connection, Salesforce, service]
 ---
-
-# Understand Apex Behavior While Offline
 
 > Additional features that are built into offline-enabled apps allow the app, including
   Lightning web components and even Apex, to continue to function. Knowing these features, and their

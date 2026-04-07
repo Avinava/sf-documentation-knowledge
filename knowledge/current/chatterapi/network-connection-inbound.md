@@ -5,12 +5,10 @@ topic: network-connection-inbound
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.767Z
+lastCollected: 2026-04-07T18:37:14.814Z
 estimatedTokens: 168
 keywords: [Network, Connection, Inbound, Provision, sync, tear, down]
 ---
-
-# Network Connection, Inbound
 
 > Provision, sync, or tear down the inbound network
     connection.

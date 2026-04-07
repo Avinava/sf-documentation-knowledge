@@ -5,12 +5,10 @@ topic: contactdailymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.364Z
+lastCollected: 2026-04-07T18:38:28.276Z
 estimatedTokens: 1876
-keywords: [ContactDailyMetric, daily, engagement, metrics, contact, API, version, 52.0, later, Calls, Special, Access, Rules]
+keywords: [ContactDailyMetric, daily, engagement, metrics, contact, API, 52.0]
 ---
-
-# ContactDailyMetric
 
 > Represents the daily engagement metrics for a contact. This object is
       available in API version 52.0 and later.

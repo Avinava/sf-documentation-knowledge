@@ -5,12 +5,10 @@ topic: connectapigenericobjectwrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.537Z
+lastCollected: 2026-04-07T18:37:34.006Z
 estimatedTokens: 84
-keywords: [ConnectApi.GenericObjectWrapper, Input, representation, additional, case, participant, complaint]
+keywords: [ConnectApi.GenericObjectWrapper, additional, case, participant, complaint]
 ---
-
-# ConnectApi.GenericObjectWrapper
 
 > Input representation of additional details of the case, case
       participant, or complaint.

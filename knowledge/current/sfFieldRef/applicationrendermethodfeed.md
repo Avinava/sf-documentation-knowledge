@@ -5,12 +5,10 @@ topic: applicationrendermethodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:32.554Z
+lastCollected: 2026-04-07T18:39:26.503Z
 estimatedTokens: 392
-keywords: [ApplicationRenderMethodFeed, Feed, tracking, ApplicationRenderMethod]
+keywords: [ApplicationRenderMethodFeed, ApplicationRenderMethod]
 ---
-
-# ApplicationRenderMethodFeed
 
 > Feed tracking for ApplicationRenderMethod.
 

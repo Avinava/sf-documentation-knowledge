@@ -2,7 +2,7 @@
 domain: change-data-capture
 name: Change Data Capture Developer Guide
 documentCount: 79
-lastGenerated: 2026-04-07T09:06:35.907Z
+lastGenerated: 2026-04-07T18:40:41.326Z
 ---
 
 # Change Data Capture Developer Guide — Knowledge Index

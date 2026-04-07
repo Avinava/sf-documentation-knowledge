@@ -5,13 +5,11 @@ topic: feedlayoutcomponent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.071Z
+lastCollected: 2026-04-07T18:36:00.356Z
 estimatedTokens: 865
 namespace: Metadata
-keywords: [FeedLayoutComponent, component, feed, view, feed-based, layout, Usage, componentType, height, clone]
+keywords: [FeedLayoutComponent, view, feed-based, layout, componentType, height, clone]
 ---
-
-# FeedLayoutComponent Class
 
 > Represents a component in the feed view of a feed-based page
       layout.

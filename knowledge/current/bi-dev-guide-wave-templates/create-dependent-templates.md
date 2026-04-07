@@ -5,12 +5,10 @@ topic: create-dependent-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.726Z
+lastCollected: 2026-04-07T18:37:02.297Z
 estimatedTokens: 252
 keywords: [Dependent, Templates, Follow, steps, dependencies]
 ---
-
-# Create Dependent Templates
 
 > Follow these steps to create templates with dependencies.
 

@@ -7,14 +7,10 @@ topic: create-an-external-client-app-for-apple-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:15.944Z
+lastCollected: 2026-04-07T18:39:09.266Z
 estimatedTokens: 669
-keywords: [External, Client, App, Apple, iOS, Connected, apps, creation, restricted, Spring, ‘26, continue, However, recommend, instead]
+keywords: [External, Client, App, Apple, iOS, Connected, apps, creation, restricted, Spring, ‘26, continue, However, recommend, instead, creating, contact, Salesforce, Support]
 ---
-
-# Create
-    an
-    External Client App for Apple iOS
 
 > Connected apps creation is restricted as of Spring ‘26. You can continue to use existing
         connected apps during and after Spring ‘26. However, we recommend using external client apps instead. If you must continue

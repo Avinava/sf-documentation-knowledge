@@ -5,12 +5,10 @@ topic: immunization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.589Z
+lastCollected: 2026-04-07T18:37:58.115Z
 estimatedTokens: 1578
-keywords: [​Immunization, FHIR, resource, maps, Patient​Immunization, PatientHealthReaction, objects, Salesforce​, V4​.0, ​Clinical, Data, Model, Mapping]
+keywords: [​Immunization, FHIR, resource, maps, Patient​Immunization, PatientHealthReaction, Salesforce​, V4​.0, ​Clinical, Model, Mapping]
 ---
-
-# ​Immunization
 
 > The ​Immunization FHIR resource maps to the
       Patient​Immunization and PatientHealthReaction objects in Salesforce​.

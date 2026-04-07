@@ -5,12 +5,10 @@ topic: guestuseranomalyeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.238Z
+lastCollected: 2026-04-07T18:38:59.121Z
 estimatedTokens: 1238
-keywords: [GuestUserAnomalyEventStore, Tracks, data, access, anomalies, caused, guest, user, permission, misconfiguration, stores, event, GuestUserAnomalyEvent, API, version]
+keywords: [GuestUserAnomalyEventStore, Tracks, anomalies, caused, guest, user, permission, misconfiguration, stores, event, GuestUserAnomalyEvent, API, 60.0]
 ---
-
-# GuestUserAnomalyEventStore
 
 > Tracks data access anomalies that are caused by guest user permission
          misconfiguration. GuestUserAnomalyEventStore is an object that stores the event data of

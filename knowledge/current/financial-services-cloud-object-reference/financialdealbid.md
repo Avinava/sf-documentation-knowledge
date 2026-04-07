@@ -5,12 +5,10 @@ topic: financialdealbid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.458Z
+lastCollected: 2026-04-07T18:37:37.238Z
 estimatedTokens: 932
-keywords: [FinancialDealBid, bids, placed, financial, deal, parties, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [FinancialDealBid, bids, placed, financial, deal, parties, API, 54.0]
 ---
-
-# FinancialDealBid
 
 > Represents the bids placed by financial deal parties in the financial
          deal. This object is available in API version 54.0 and later.

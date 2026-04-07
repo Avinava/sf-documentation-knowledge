@@ -5,12 +5,10 @@ topic: create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.645Z
+lastCollected: 2026-04-07T18:36:23.982Z
 estimatedTokens: 1486
-keywords: [Deprecated, Adds, new, metadata, components, organization, asynchronously, call, removed, API, version, 31.0, earlier, versions, createMetadata]
+keywords: [Permissions, Arguments, Deprecated, Adds, new, metadata, organization, asynchronously, call, removed, API, 31.0, earlier, versions, createMetadata, instead, Basic, Steps, Creating, Sample, Code—Java]
 ---
-
-# create()
 
 > Deprecated. Adds one or more new metadata components to your organization
   asynchronously. This call is removed as of API version 31.0 and is available in earlier versions

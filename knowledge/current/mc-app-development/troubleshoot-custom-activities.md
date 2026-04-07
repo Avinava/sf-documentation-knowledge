@@ -5,12 +5,10 @@ topic: troubleshoot-custom-activities
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.192Z
+lastCollected: 2026-04-07T18:40:21.467Z
 estimatedTokens: 220
-keywords: [Troubleshoot, Custom, Activities, questions, help, isolate, potential, issues, may, occur, creating, attempting, load, activity, Journey]
+keywords: [Troubleshoot, Activities, questions, help, isolate, potential, issues, may, occur, creating, attempting, load, activity, Journey, Builder]
 ---
-
-# Troubleshoot Custom Activities
 
 > These questions help you isolate potential issues that may occur while creating and attempting to load a custom activity in Journey Builder.
 

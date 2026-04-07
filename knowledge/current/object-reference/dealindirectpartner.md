@@ -5,12 +5,10 @@ topic: dealindirectpartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.929Z
+lastCollected: 2026-04-07T18:38:29.808Z
 estimatedTokens: 781
-keywords: [DealIndirectPartner, indirect, partner’s, involvement, deal, API, version, 63.0, later, Calls]
+keywords: [DealIndirectPartner, indirect, partner’s, involvement, deal, API, 63.0]
 ---
-
-# DealIndirectPartner
 
 > Represents an indirect partner’s involvement in a deal.  This object is
       available in API version 63.0 and later.

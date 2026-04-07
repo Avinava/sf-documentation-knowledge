@@ -5,12 +5,10 @@ topic: example-publish-events-with-a-callback-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.425Z
+lastCollected: 2026-04-07T18:38:58.278Z
 estimatedTokens: 240
 keywords: [Publish, Events, Callback, Instance, invoke, perform, EventBus.publish, call, passing, FailureCallback, event, batch]
 ---
-
-# Example: Publish Events with a Callback Instance
 
 > To invoke the callback, perform an EventBus.publish call by passing it an instance of the FailureCallback class. You can publish one event or a batch of events with the
   callback.

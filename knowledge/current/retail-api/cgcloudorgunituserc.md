@@ -5,12 +5,10 @@ topic: cgcloudorgunituserc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.788Z
+lastCollected: 2026-04-07T18:39:14.176Z
 estimatedTokens: 1071
-keywords: [cgcloud__Org_Unit_User__c, Stores, relationship, organization, unit, user, API, version, 54.0, later, cgcloud, _Org, _Unit, _User, Calls]
+keywords: [cgcloud__Org_Unit_User__c, Stores, relationship, organization, unit, user, API, 54.0, cgcloud, _Org, _Unit, _User]
 ---
-
-# cgcloud__Org_Unit_User__c
 
 > Stores the details of the relationship between the organization unit and the
          user. This object is available in API version 54.0 and later.

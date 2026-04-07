@@ -5,12 +5,10 @@ topic: quiddity-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.420Z
+lastCollected: 2026-04-07T18:36:12.717Z
 estimatedTokens: 603
 keywords: [Quiddity, System.Request]
 ---
-
-# Quiddity Enum
 
 > Specifies a Quiddity value used by the methods in the System.Request class
 

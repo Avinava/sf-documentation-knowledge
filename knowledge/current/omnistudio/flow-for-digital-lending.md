@@ -5,12 +5,10 @@ topic: flow-for-digital-lending
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.311Z
+lastCollected: 2026-04-07T18:36:40.999Z
 estimatedTokens: 278
-keywords: [Flow, Digital, Lending, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
+keywords: [FlowActionCall, Flow, Digital, Lending, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Digital Lending
 
 > Represents the metadata associated with a flow. With Flow, you can create an application
   that navigates users through a series of screens to query and update records in the database. You

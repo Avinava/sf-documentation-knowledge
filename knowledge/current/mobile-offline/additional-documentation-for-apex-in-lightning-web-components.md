@@ -5,12 +5,10 @@ topic: additional-documentation-for-apex-in-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.390Z
+lastCollected: 2026-04-07T18:38:14.812Z
 estimatedTokens: 156
-keywords: [Additional, Documentation, Apex, Lightning, Web, Components, how, including, continuations, resources]
+keywords: [Additional, Documentation, Apex, Lightning, Web, how, including, continuations, resources]
 ---
-
-# Additional Documentation for Apex in Lightning Web Components
 
 > Learn more about how to use Apex, including continuations, from Lightning web components
   documentation resources.

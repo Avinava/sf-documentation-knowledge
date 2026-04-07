@@ -5,12 +5,10 @@ topic: dsarpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.106Z
+lastCollected: 2026-04-07T18:38:29.974Z
 estimatedTokens: 520
-keywords: [DsarPolicy, Data, Subject, Access, DSAR, policy, created, Privacy, Center, managed, package, policies, anonymize, transfer, personal]
+keywords: [DsarPolicy, Subject, DSAR, policy, created, Privacy, Center, managed, package, policies, anonymize, transfer, personal, org, customer’s, API, 50.0]
 ---
-
-# DsarPolicy
 
 > Represents a Data Subject Access Request (DSAR) policy created in the
          Privacy Center managed package. DSAR policies anonymize or transfer personal data from your

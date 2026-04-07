@@ -5,12 +5,10 @@ topic: workaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:52.721Z
+lastCollected: 2026-04-07T18:38:44.536Z
 estimatedTokens: 840
-keywords: [WorkAccess, grant, restrict, user, access, give, badge, definitions, definition, record, Calls, Additional, Considerations, Objects, Associated]
+keywords: [WorkAccess, grant, restrict, user, give, badge, definitions, definition, record, Additional, Considerations]
 ---
-
-# WorkAccess
 
 > Used to grant or restrict user access to give badge definitions.
 			Each badge definition record must have one WorkAccess record.

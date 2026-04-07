@@ -5,12 +5,10 @@ topic: executefilterorderedrows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.845Z
+lastCollected: 2026-04-07T18:40:22.215Z
 estimatedTokens: 252
-keywords: [ExecuteFilterOrderedRows, Function, Ordinal, External, key, data, filter, execute, numeric, Maximum, number, rows, ret, **Overview**, **Syntax**]
+keywords: [ExecuteFilterOrderedRows, Function, Ordinal, External, key, filter, execute, numeric, Maximum, number, rows, ret, **Overview**, **Syntax**]
 ---
-
-# ExecuteFilterOrderedRows
 
 > ExecuteFilterOrderedRows(1, 2, 3)
 

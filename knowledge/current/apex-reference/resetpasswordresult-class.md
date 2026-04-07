@@ -5,13 +5,11 @@ topic: resetpasswordresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.016Z
+lastCollected: 2026-04-07T18:36:01.217Z
 estimatedTokens: 218
 namespace: System
 keywords: [ResetPasswordResult, result, password, reset, getPassword]
 ---
-
-# ResetPasswordResult Class
 
 > Represents the result of a password reset.
 

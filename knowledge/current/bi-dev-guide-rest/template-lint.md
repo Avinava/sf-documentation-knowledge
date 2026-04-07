@@ -5,12 +5,10 @@ topic: template-lint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.271Z
+lastCollected: 2026-04-07T18:36:57.825Z
 estimatedTokens: 160
 keywords: [Template, Lint, score, Analytics]
 ---
-
-# Template Lint
 
 > The lint score for an Analytics template.
 

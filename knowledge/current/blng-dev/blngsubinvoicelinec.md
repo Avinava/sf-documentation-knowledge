@@ -5,12 +5,10 @@ topic: blngsubinvoicelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.539Z
+lastCollected: 2026-04-07T18:37:04.146Z
 estimatedTokens: 837
-keywords: [blng__SubInvoiceLine__c, detailed, line, item, invoice, breaks, down, provided, charges, services, blng, _SubInvoiceLine, Calls]
+keywords: [blng__SubInvoiceLine__c, detailed, line, item, invoice, breaks, down, provided, charges, services, blng, _SubInvoiceLine]
 ---
-
-# blng__SubInvoiceLine__c
 
 > Represents a detailed line item within an invoice that breaks down the
          provided charges or services.

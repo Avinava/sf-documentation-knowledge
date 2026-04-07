@@ -5,12 +5,10 @@ topic: vpl360removesignatureassetwithpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.845Z
+lastCollected: 2026-04-07T18:38:11.116Z
 estimatedTokens: 224
-keywords: [Integration, Procedure, removes, product, asset, applied, promotion, VPL360, _RemoveSignatureAssetWithPromotion, Sample, Input, Output, Calls]
+keywords: [Integration, Procedure, removes, product, asset, applied, promotion, VPL360, _RemoveSignatureAssetWithPromotion, Sample]
 ---
-
-# VPL360_RemoveSignatureAssetWithPromotion
 
 > This Integration Procedure removes a signature product or
       asset which has an applied promotion.

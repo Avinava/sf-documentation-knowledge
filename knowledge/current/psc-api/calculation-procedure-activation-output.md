@@ -5,12 +5,10 @@ topic: calculation-procedure-activation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.037Z
+lastCollected: 2026-04-07T18:39:02.250Z
 estimatedTokens: 247
-keywords: [Calculation, Procedure, Activation, Output, representation, version, record]
+keywords: [Calculation, Procedure, Activation, record]
 ---
-
-# Calculation Procedure Activation Output
 
 > Output representation of the calculation procedure version record
       activation.

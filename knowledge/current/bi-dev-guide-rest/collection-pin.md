@@ -5,12 +5,10 @@ topic: collection-pin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.246Z
+lastCollected: 2026-04-07T18:36:56.804Z
 estimatedTokens: 132
-keywords: [Collection, Pin, pinning, rules, Analytics]
+keywords: [Collection, Pin, pinning, Analytics]
 ---
-
-# Collection Pin
 
 > The pinning rules for an Analytics collection.
 

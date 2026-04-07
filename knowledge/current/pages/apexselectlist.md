@@ -5,12 +5,10 @@ topic: apexselectlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.395Z
+lastCollected: 2026-04-07T18:38:50.634Z
 estimatedTokens: 1906
-keywords: [apex, selectList, options, users, select, multiple, time, depending, multiselect, attribute, Attributes]
+keywords: [Attributes, apex, selectList, options, users, select, multiple, time, depending, multiselect, attribute]
 ---
-
-# apex:selectList
 
 > A list of options that allows users to select only one value or multiple values at a time, depending on the value of its multiselect attribute.
 

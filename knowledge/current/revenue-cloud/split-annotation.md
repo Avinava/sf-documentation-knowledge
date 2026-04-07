@@ -5,12 +5,10 @@ topic: split-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.450Z
+lastCollected: 2026-04-07T18:35:42.328Z
 estimatedTokens: 1024
 keywords: [split, Annotation, Constraint, Modeling, Language, CML, whether, instances, Configurator, Result, Configuration, Settings]
 ---
-
-# split Annotation
 
 > split is a Constraint Modeling Language (CML)
     annotation that specifies whether the instances of the type should be split or not.

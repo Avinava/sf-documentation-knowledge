@@ -5,12 +5,10 @@ topic: xmlnodetype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.215Z
+lastCollected: 2026-04-07T18:36:12.501Z
 estimatedTokens: 94
-keywords: [XmlNodeType, node, XML, document, Usage]
+keywords: [XmlNodeType, node, XML, document]
 ---
-
-# XmlNodeType Enum
 
 > Specifies the node type in an XML document.
 

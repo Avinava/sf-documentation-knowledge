@@ -5,12 +5,10 @@ topic: ocr-fields-mapping-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.708Z
+lastCollected: 2026-04-07T18:39:03.839Z
 estimatedTokens: 199
 keywords: [OCR, Mapping, Retrieve, keys, extracted, document, respect, template]
 ---
-
-# OCR Fields Mapping (GET)
 
 > Retrieve mapping between the values of the keys extracted from the
    document with respect to an OCR template.

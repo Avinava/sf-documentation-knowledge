@@ -5,12 +5,10 @@ topic: connectapieditclaimcvrpaymentdetailinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.899Z
+lastCollected: 2026-04-07T18:37:49.774Z
 estimatedTokens: 336
-keywords: [Input, representation, editing, claim, coverage, payment, detail]
+keywords: [editing, claim, coverage, payment, detail]
 ---
-
-# ConnectApi.EditClaimCvrPaymentDetailInputRep
 
 > Input representation for editing claim coverage payment detail.
 

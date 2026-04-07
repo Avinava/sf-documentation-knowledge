@@ -5,12 +5,10 @@ topic: commerce-webstore-promotions-coupon-code-redemption-decrease
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.160Z
+lastCollected: 2026-04-07T18:37:13.093Z
 estimatedTokens: 257
-keywords: [Commerce, Webstore, Promotions, Coupon, Code, Redemption, Decrease, usage, revert, previously, redeemed]
+keywords: [Commerce, Webstore, Promotions, Coupon, Code, Redemption, Decrease, revert, previously, redeemed]
 ---
-
-# Commerce Webstore Promotions, Coupon Code Redemption, Decrease
 
 > Get coupon code redemption usage to revert a previously redeemed
       coupon code.

@@ -5,12 +5,10 @@ topic: buyercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:36.064Z
+lastCollected: 2026-04-07T18:38:27.044Z
 estimatedTokens: 1264
-keywords: [BuyerCriteria, buyer, context, qualifier, locale, any, groups, Market, API, version, 58.0, later, Calls, Usage, Associated]
+keywords: [BuyerCriteria, buyer, context, qualifier, locale, any, groups, Market, API, 58.0]
 ---
-
-# BuyerCriteria
 
 > Represents the buyer context qualifier of locale for any buyer groups of type
          Market This object is available in API version 58.0 and later.

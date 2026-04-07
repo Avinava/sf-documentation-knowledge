@@ -5,12 +5,10 @@ topic: three-phases-of-package-migration-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.727Z
+lastCollected: 2026-04-07T18:38:54.089Z
 estimatedTokens: 1739
-keywords: [Three, Phases, Package, Migration, Development, move, 1GP, 2GP, you’ll, Phase, Plan, Test, Two, Transition, Fully]
+keywords: [Three, Phases, Package, Migration, Development, move, 1GP, 2GP, you’ll, Phase, Plan, Test, Two, Transition, Fully, Transitioned]
 ---
-
-# Three Phases of Package Migration Development
 
 > As you move from 1GP development to 2GP development, you’ll move through three phases.
 

@@ -5,12 +5,10 @@ topic: gnrcvstkeyperformanceind
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.207Z
+lastCollected: 2026-04-07T18:39:42.807Z
 estimatedTokens: 590
 keywords: [GnrcVstKeyPerformanceInd, key, performance, indicators, recorded, performing, task, visit, compare, expected, actual, metric, indicator, records]
 ---
-
-# GnrcVstKeyPerformanceInd
 
 > Represents the key performance indicators that can be recorded while
          performing a task during a visit. You can compare the expected and actual metric values

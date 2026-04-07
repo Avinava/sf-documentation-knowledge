@@ -5,12 +5,10 @@ topic: change-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.850Z
+lastCollected: 2026-04-07T18:37:07.570Z
 estimatedTokens: 385
-keywords: [Change, Input, changes, order, item, summaries, cancel]
+keywords: [Change, changes, order, item, summaries, cancel]
 ---
-
-# Change Input
 
 > A list of changes to order item summaries that make up an order change, such as a
     cancel or return.

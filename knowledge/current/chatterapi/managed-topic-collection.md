@@ -5,12 +5,10 @@ topic: managed-topic-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.473Z
+lastCollected: 2026-04-07T18:37:20.663Z
 estimatedTokens: 133
 keywords: [Managed, Topic, Collection, topics, Experience, Cloud, site]
 ---
-
-# Managed Topic Collection
 
 > A collection of managed topics in an Experience Cloud
   site.

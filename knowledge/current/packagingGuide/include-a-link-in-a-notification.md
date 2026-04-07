@@ -5,12 +5,10 @@ topic: include-a-link-in-a-notification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.426Z
+lastCollected: 2026-04-07T18:38:46.291Z
 estimatedTokens: 375
-keywords: [Include, Link, Notification, customer, installs, offering, often, want, provide, doesn’t, fit, setup, documentation, point, customers]
+keywords: [Include, Link, Notification, customer, installs, offering, often, want, provide, doesn’t, fit, setup, documentation, point, customers, including, links, Checkout, Management, App, CMA]
 ---
-
-# Include a Link in a Notification
 
 > When a customer installs your offering, you often want to provide information that
         doesn’t fit in the notification, such as setup documentation. You can point customers to

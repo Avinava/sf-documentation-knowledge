@@ -5,12 +5,10 @@ topic: feed-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.576Z
+lastCollected: 2026-04-07T18:37:08.414Z
 estimatedTokens: 1483
-keywords: [Feed, Item, Input]
+keywords: [Item]
 ---
-
-# Feed Item Input
 
 > Feed item input.
 

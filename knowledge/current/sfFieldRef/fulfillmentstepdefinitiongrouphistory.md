@@ -5,12 +5,10 @@ topic: fulfillmentstepdefinitiongrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.091Z
+lastCollected: 2026-04-07T18:39:41.744Z
 estimatedTokens: 283
-keywords: [FulfillmentStepDefinitionGroupHistory, History, tracked, FulfillmentStepDefinitionGroup]
+keywords: [FulfillmentStepDefinitionGroupHistory, tracked, FulfillmentStepDefinitionGroup]
 ---
-
-# FulfillmentStepDefinitionGroupHistory
 
 > History for tracked fields of FulfillmentStepDefinitionGroup.
 

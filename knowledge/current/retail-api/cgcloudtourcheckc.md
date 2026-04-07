@@ -5,12 +5,10 @@ topic: cgcloudtourcheckc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.813Z
+lastCollected: 2026-04-07T18:39:15.294Z
 estimatedTokens: 1253
-keywords: [cgcloud__Tour_Check__c, Stores, tour, check, that's, part, execution, checking, API, version, 54.0, later, cgcloud, _Tour, _Check]
+keywords: [cgcloud__Tour_Check__c, Stores, tour, check, that's, part, execution, checking, API, 54.0, cgcloud, _Tour, _Check]
 ---
-
-# cgcloud__Tour_Check__c
 
 > Stores the details of the tour check object that's used as part of
          tour execution for tour checking. This object is available in API version 54.0 and

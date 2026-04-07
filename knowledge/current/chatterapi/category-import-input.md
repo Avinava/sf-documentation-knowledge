@@ -5,12 +5,10 @@ topic: category-import-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.839Z
+lastCollected: 2026-04-07T18:37:07.558Z
 estimatedTokens: 94
-keywords: [Category, Import, Input, Configuration, asynchronous, job]
+keywords: [Category, Import, Configuration, asynchronous, job]
 ---
-
-# Category Import Input
 
 > Configuration for an asynchronous category import job.
 

@@ -5,12 +5,10 @@ topic: fieldsupdatesendablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.565Z
+lastCollected: 2026-04-07T18:40:22.992Z
 estimatedTokens: 146
 keywords: [Fields.UpdateSendableField, Function, Ordinal, Attributes, content, area, change, **Overview**, **Syntax**]
 ---
-
-# Fields.UpdateSendableField
 
 > Fields.UpdateSendableField(1)
 

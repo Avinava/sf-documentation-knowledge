@@ -5,12 +5,10 @@ topic: perform-a-campaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.922Z
+lastCollected: 2026-04-07T18:40:18.108Z
 estimatedTokens: 2134
-keywords: [Perform, Campaign, performing, known, program, Marketing, Cloud, via, SOAP, API, Why, How, Sample, NET, Code]
+keywords: [Perform, Campaign, performing, known, program, Marketing, Cloud, via, SOAP, API, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP, Items]
 ---
-
-# Perform a Campaign
 
 > This page contains information about performing a campaign (known as a program in Marketing Cloud) via the SOAP API.
 

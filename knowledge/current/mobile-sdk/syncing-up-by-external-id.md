@@ -5,12 +5,10 @@ topic: syncing-up-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.273Z
+lastCollected: 2026-04-07T18:40:25.634Z
 estimatedTokens: 802
-keywords: [Syncing, External, Mobile, SDK, enhances, sync-up, functionality, adding, ability, sync, feature, specify, target, definition, soup]
+keywords: [Syncing, External, Mobile, SDK, enhances, sync-up, functionality, adding, ability, sync, feature, specify, target, definition, soup, record, marked, locally, created, updated, deleted, syncs, upsert, instead, however, updates, indicated, Salesforce, Advantage, Upserts, Parent-Child, Recommendation, Configuring, Declaratively, Programmatically]
 ---
-
-# Syncing Up by External ID
 
 > Mobile SDK enhances its sync-up functionality by adding the ability to sync up by
     external ID. To use this feature, you specify an external ID field name in the sync up target

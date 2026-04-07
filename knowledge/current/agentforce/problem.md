@@ -5,12 +5,10 @@ topic: problem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.225Z
+lastCollected: 2026-04-07T18:35:55.332Z
 estimatedTokens: 914
-keywords: [Problem, Standard, extend, Agentforce, Service, represent, root, cause, issue, API, version, 65.0, later, Calls]
+keywords: [Problem, Standard, extend, Agentforce, Service, represent, root, cause, issue, API, 65.0]
 ---
-
-# Problem
 
 > Standard fields extend the Problem object for use in Agentforce IT Service to
          represent the root cause of an issue. This object is available in API version 65.0 and

@@ -5,12 +5,10 @@ topic: component-names
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.194Z
+lastCollected: 2026-04-07T18:38:03.196Z
 estimatedTokens: 227
-keywords: [Component, follow, naming, rules, Lightning, components]
+keywords: [follow, naming, Lightning]
 ---
-
-# Component Names
 
 > A component name must follow the naming rules for Lightning
    components.

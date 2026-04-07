@@ -5,12 +5,10 @@ topic: privacysessionrecordfailureshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.302Z
+lastCollected: 2026-04-07T18:39:54.864Z
 estimatedTokens: 256
 keywords: [PrivacySessionRecordFailureShare, Sharing, PrivacySessionRecordFailure]
 ---
-
-# PrivacySessionRecordFailureShare
 
 > Sharing for PrivacySessionRecordFailure.
 

@@ -5,12 +5,10 @@ topic: specify-appexchange-listing-fundamentals
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.239Z
+lastCollected: 2026-04-07T18:38:46.093Z
 estimatedTokens: 833
-keywords: [Specify, AppExchange, Listing, Fundamentals, helps, customers, determine, whether, solution, service, fits, their, requirements, Describe, key]
+keywords: [Specify, AppExchange, Listing, Fundamentals, helps, customers, determine, whether, solution, service, fits, their, requirements, Describe, key, differentiators, Identify, specifications, features, Add, Agentforce, listings, business, needs, easier, Let, know, how, drives, positive, social, change]
 ---
-
-# Specify AppExchange Listing Fundamentals
 
 > Create a listing that helps customers determine whether your solution or service fits
   their requirements. Describe key differentiators. Identify specifications and features. Add AI

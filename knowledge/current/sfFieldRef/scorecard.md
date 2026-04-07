@@ -5,12 +5,10 @@ topic: scorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.233Z
+lastCollected: 2026-04-07T18:40:00.986Z
 estimatedTokens: 387
-keywords: [Scorecard, scorecards, measure, partner, performance, establish, benchmarks, channel, programs, Experience, Cloud, Display, any, report, summary]
+keywords: [Scorecard, scorecards, measure, partner, performance, establish, benchmarks, channel, programs, Experience, Cloud, Display, any, report, summary, results, account, manager, executive, team, wants, API, 40.0]
 ---
-
-# Scorecard
 
 > Use scorecards to measure partner performance and establish benchmarks for
          channel programs within Experience Cloud. Display any report summary results that your

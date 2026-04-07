@@ -5,12 +5,10 @@ topic: connectapiclaimitemoutputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.358Z
+lastCollected: 2026-04-07T18:37:50.192Z
 estimatedTokens: 159
-keywords: [ConnectApi.ClaimItemOutputRep, Invocable, action, output, representation, claim, item]
+keywords: [ConnectApi.ClaimItemOutputRep, Invocable, action, claim, item]
 ---
-
-# ConnectApi.ClaimItemOutputRep
 
 > Invocable action output representation for claim item.
 

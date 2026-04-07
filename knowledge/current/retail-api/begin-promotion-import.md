@@ -5,12 +5,10 @@ topic: begin-promotion-import
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.305Z
+lastCollected: 2026-04-07T18:39:10.786Z
 estimatedTokens: 345
-keywords: [Begin, Promotion, Import, endpoint, initializes, external, system, group, promotions, retrieved, thie, end, point, announces, number]
+keywords: [Begin, Promotion, Import, endpoint, initializes, external, system, group, promotions, retrieved, thie, end, point, announces, number, processed, trigger, calculation, status, monitored, GET_PROMOTION_IMPORT_STATUS]
 ---
-
-# Begin Promotion Import
 
 > This endpoint initializes a promotion import from an external
       system. You can group a set of promotions using the import ID, retrieved by thie end point.

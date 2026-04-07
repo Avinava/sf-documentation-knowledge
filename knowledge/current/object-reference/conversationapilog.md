@@ -5,12 +5,10 @@ topic: conversationapilog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.008Z
+lastCollected: 2026-04-07T18:38:28.917Z
 estimatedTokens: 587
-keywords: [ConversationApiLog, Logs, API, operation, specific, conversation, Service, version, 63.0, later, Calls]
+keywords: [ConversationApiLog, Logs, API, operation, specific, conversation, Service, 63.0]
 ---
-
-# ConversationApiLog
 
 > Logs of an API operation on a specific conversation object done using the
          Conversation Service API. This object is available in API version 63.0 and later.

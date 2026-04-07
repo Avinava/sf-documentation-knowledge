@@ -5,12 +5,10 @@ topic: pgmrebatetypbnftmappinghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.590Z
+lastCollected: 2026-04-07T18:39:54.158Z
 estimatedTokens: 187
-keywords: [PgmRebateTypBnftMappingHistory, History, tracked, PgmRebateTypBnftMapping]
+keywords: [PgmRebateTypBnftMappingHistory, tracked, PgmRebateTypBnftMapping]
 ---
-
-# PgmRebateTypBnftMappingHistory
 
 > History for tracked fields of PgmRebateTypBnftMapping.
 

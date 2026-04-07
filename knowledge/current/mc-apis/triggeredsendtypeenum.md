@@ -5,12 +5,10 @@ topic: triggeredsendtypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.549Z
+lastCollected: 2026-04-07T18:40:20.802Z
 estimatedTokens: 100
 keywords: [TriggeredSendTypeEnum, triggered, send]
 ---
-
-# TriggeredSendTypeEnum
 
 > The TriggeredSendTypeEnum object defines the type of triggered send to be used.
 

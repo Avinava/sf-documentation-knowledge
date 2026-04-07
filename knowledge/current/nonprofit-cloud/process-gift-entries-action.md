@@ -5,12 +5,10 @@ topic: process-gift-entries-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.606Z
+lastCollected: 2026-04-07T18:38:20.287Z
 estimatedTokens: 505
-keywords: [Process, Gift, Entries, Action, Processes, singly, part, batch, entry, creating, donor, transaction, designation, soft, credit]
+keywords: [Inputs, Outputs, Process, Gift, Entries, Action, Processes, singly, part, batch, entry, creating, donor, transaction, designation, soft, credit, records, may, test, processing, check, errors, REST, HTTP]
 ---
-
-# Process Gift Entries Action
 
 > Processes, singly or as part of a batch, a specified gift entry ID,
    creating related donor, gift transaction, gift transaction designation, and gift soft credit

@@ -5,12 +5,10 @@ topic: sitepreviewasadmin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.456Z
+lastCollected: 2026-04-07T18:38:50.696Z
 estimatedTokens: 214
-keywords: [site, previewAsAdmin, component, detailed, error, messages, administrator, preview, mode, recommend, add, right, closing, apex, tag]
+keywords: [Attributes, site, previewAsAdmin, detailed, error, messages, administrator, preview, mode, recommend, add, right, closing, apex, tag, elsewhere, pages]
 ---
-
-# site:previewAsAdmin
 
 > This component shows detailed error messages on a site in administrator preview mode. We recommend that you add it right before the closing apex:page tag. Note: The site:previewAsAdmin component contains the apex:messages tag, so if you have that tag elsewhere on your error pages, you will see the e
 

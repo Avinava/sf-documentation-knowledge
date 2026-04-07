@@ -5,12 +5,10 @@ topic: invoking-callouts-using-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.839Z
+lastCollected: 2026-04-07T18:36:16.066Z
 estimatedTokens: 829
-keywords: [Invoking, Callouts, Apex, any, callout, call, external, site, registered, Remote, Settings, fails, Salesforce, prevents, calls]
+keywords: [Invoking, Callouts, Apex, any, callout, call, external, site, registered, Remote, Settings, fails, Salesforce, prevents, unauthorized, network, addresses]
 ---
-
-# Invoking Callouts Using Apex
 
 > Before any Apex callout can call an external site, that site
         must be registered in the Remote Site Settings page, or the callout fails. Salesforce

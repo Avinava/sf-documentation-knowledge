@@ -5,12 +5,10 @@ topic: consent-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.980Z
+lastCollected: 2026-04-07T18:37:33.281Z
 estimatedTokens: 120
-keywords: [Consent, Interactions, capture, whether, user, opts, tracking, cookies, Opt-in, Event, Opt-out]
+keywords: [Consent, Interactions, capture, whether, user, opts, cookies, Opt-in, Event, Opt-out]
 ---
-
-# Consent Interactions
 
 > Consent interactions capture whether a user opts into or out of
 			tracking cookies.

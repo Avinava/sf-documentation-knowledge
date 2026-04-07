@@ -5,12 +5,10 @@ topic: managed-content-language-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.215Z
+lastCollected: 2026-04-07T18:37:20.408Z
 estimatedTokens: 154
 keywords: [Managed, Content, Language, Summary]
 ---
-
-# Managed Content Language Summary
 
 > Language information for managed content.
 

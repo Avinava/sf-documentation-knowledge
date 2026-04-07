@@ -5,12 +5,10 @@ topic: process-received-document-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.649Z
+lastCollected: 2026-04-07T18:37:39.598Z
 estimatedTokens: 514
-keywords: [Process, Received, Document, Action, record, processed, results, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Process, Received, Document, Action, record, processed, results, REST, HTTP]
 ---
-
-# Process Received Document Action
 
 > Create a record with the processed results of the specified received
 			document.

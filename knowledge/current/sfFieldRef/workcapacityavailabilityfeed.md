@@ -5,12 +5,10 @@ topic: workcapacityavailabilityfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.816Z
+lastCollected: 2026-04-07T18:40:06.717Z
 estimatedTokens: 365
-keywords: [WorkCapacityAvailabilityFeed, Feed, tracking, WorkCapacityAvailability]
+keywords: [WorkCapacityAvailabilityFeed, WorkCapacityAvailability]
 ---
-
-# WorkCapacityAvailabilityFeed
 
 > Feed tracking for WorkCapacityAvailability.
 

@@ -5,12 +5,10 @@ topic: appanalyticssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.297Z
+lastCollected: 2026-04-07T18:36:22.554Z
 estimatedTokens: 690
-keywords: [AppAnalyticsSettings, settings, retrieve, AppExchange, App, Analytics, usage, data, File, Suffix, Directory, Location, Version, Declarative, Metadata]
+keywords: [AppAnalyticsSettings, settings, retrieve, AppExchange, App, Analytics, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# AppAnalyticsSettings
 
 > Represents settings to retrieve AppExchange
    App Analytics usage data.

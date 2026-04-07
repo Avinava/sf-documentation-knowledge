@@ -5,12 +5,10 @@ topic: use-regular-expressions-to-validate-email-addresses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.794Z
+lastCollected: 2026-04-07T18:40:21.066Z
 estimatedTokens: 1067
-keywords: [Regular, Expressions, Validate, Email, Addresses, regarding, user, SOAP, API, calls, Why, How, Commented, Sample, NET]
+keywords: [Regular, Expressions, Validate, Email, Addresses, regarding, user, SOAP, API, Why, How, Commented, Sample, NET, Code, PHP, Java]
 ---
-
-# Use Regular Expressions to Validate Email Addresses
 
 > This page contains information  regarding the user of regular expressions to validate email addresses in SOAP API calls.
 

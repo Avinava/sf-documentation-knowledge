@@ -5,12 +5,10 @@ topic: delete-a-folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.178Z
+lastCollected: 2026-04-07T18:40:24.640Z
 estimatedTokens: 340
-keywords: [Folder, Specify, unique, identifier, props, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Folder, Specify, unique, identifier, props, identify, PHP]
 ---
-
-# Delete a Folder
 
 > Use the Delete method to delete a folder. Specify a unique identifier in the props properties to identify the folder to update:
 

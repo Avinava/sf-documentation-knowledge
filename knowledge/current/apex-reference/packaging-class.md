@@ -5,13 +5,11 @@ topic: packaging-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.210Z
+lastCollected: 2026-04-07T18:36:03.426Z
 estimatedTokens: 363
 namespace: System
-keywords: [Packaging, obtaining, managed, unlocked, packages, Usage, getCurrentPackageId]
+keywords: [Packaging, obtaining, managed, unlocked, packages, getCurrentPackageId]
 ---
-
-# Packaging Class
 
 > Contains a method for obtaining information about managed and
       unlocked packages.

@@ -5,12 +5,10 @@ topic: insurance-quote-related-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.988Z
+lastCollected: 2026-04-07T18:37:50.916Z
 estimatedTokens: 112
-keywords: [Insurance, Quote, Record, Input, representation, line, item, objects]
+keywords: [Insurance, Quote, Record, line, item]
 ---
-
-# Insurance Quote Related Record Input
 
 > Input representation of insurance quote line item related objects.
 

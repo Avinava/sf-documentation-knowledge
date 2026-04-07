@@ -5,12 +5,10 @@ topic: upsert-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.528Z
+lastCollected: 2026-04-07T18:37:57.013Z
 estimatedTokens: 2327
-keywords: [Upsert, Provider, JSON, samples, starting, point, building, bodies, interpreting, responses, Cases, Resources, Objects, Code, Sample]
+keywords: [Resources, Upsert, Provider, JSON, samples, starting, point, building, bodies, interpreting, responses, Cases, Code, Sample, Practitioner, Insert, New, Facility, Error, Handling, Codes]
 ---
-
-# Upsert Provider
 
 > Here are some JSON samples you can use as a starting point for
             building request bodies and interpreting responses.

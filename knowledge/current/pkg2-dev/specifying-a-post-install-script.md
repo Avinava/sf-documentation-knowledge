@@ -5,12 +5,10 @@ topic: specifying-a-post-install-script
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.157Z
+lastCollected: 2026-04-07T18:38:54.581Z
 estimatedTokens: 196
-keywords: [Specifying, Post, Install, Script, you’ve, created, tested, specify, lookup, Package, Detail, subsequent, patch, releases, change]
+keywords: [Specifying, Post, Install, Script, you’ve, created, tested, specify, lookup, Package, Detail, subsequent, patch, releases, change, contents, Apex]
 ---
-
-# Specifying a Post Install Script
 
 > After you’ve created and tested the post install script, you can specify it in the
    Post Install Script lookup field on the Package Detail page. In subsequent

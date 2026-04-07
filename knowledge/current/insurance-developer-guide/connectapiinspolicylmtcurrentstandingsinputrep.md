@@ -5,12 +5,10 @@ topic: connectapiinspolicylmtcurrentstandingsinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.987Z
+lastCollected: 2026-04-07T18:37:49.851Z
 estimatedTokens: 226
-keywords: [Input, representation, current, standings, insurance, policy, limits]
+keywords: [current, standings, insurance, policy, limits]
 ---
-
-# ConnectApi.InsPolicyLmtCurrentStandingsInputRep
 
 > Input representation for the current standings of the insurance policy limits.
 

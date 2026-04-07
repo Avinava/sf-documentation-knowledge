@@ -5,12 +5,10 @@ topic: custompermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.488Z
+lastCollected: 2026-04-07T18:38:29.379Z
 estimatedTokens: 1401
-keywords: [CustomPermission, permission, created, control, access, custom, process, app, sending, email, API, version, 31.0, later, Calls]
+keywords: [CustomPermission, permission, created, control, process, app, sending, email, API, 31.0]
 ---
-
-# CustomPermission
 
 > Represents a permission created to control access to a custom
 			process or app, such as sending email. This object is available in API version 31.0

@@ -5,12 +5,10 @@ topic: events-for-the-minimized-chat-window
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.692Z
+lastCollected: 2026-04-07T18:40:09.630Z
 estimatedTokens: 1495
-keywords: [Events, Minimized, Chat, Window, eventHandlerFunction, Embedded, Service, Aura, component]
+keywords: [Events, Minimized, Chat, Window, eventHandlerFunction, Embedded, Service, Aura]
 ---
-
-# Events for the Minimized Chat Window
 
 > Use the following events in eventHandlerFunction in your minimized Embedded Service Aura component.
 

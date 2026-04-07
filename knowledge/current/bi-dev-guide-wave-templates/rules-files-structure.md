@@ -5,12 +5,10 @@ topic: rules-files-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.007Z
+lastCollected: 2026-04-07T18:37:02.553Z
 estimatedTokens: 165
-keywords: [Rules, Files, Structure, contain, three, sections, constants, macros]
+keywords: [Files, Structure, contain, three, sections, constants, macros]
 ---
-
-# Rules Files Structure
 
 > Rules files can contain three sections: rules, constants, and macros.
 

@@ -5,12 +5,10 @@ topic: converting-leads
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:34.214Z
+lastCollected: 2026-04-07T18:36:19.438Z
 estimatedTokens: 1100
-keywords: [Converting, Leads, convertLead, DML, operation, converts, lead, account, contact, well, optionally, opportunity, Database, statement, Convert]
+keywords: [Converting, Leads, convertLead, DML, operation, converts, lead, account, contact, well, optionally, opportunity, Database, statement, Convert, Considerations]
 ---
-
-# Converting Leads
 
 > The convertLead DML operation
                 converts a lead into an account and contact, as well as (optionally) an

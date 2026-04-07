@@ -6,13 +6,10 @@ topic: handling-orientation-changes-in-your-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.183Z
+lastCollected: 2026-04-07T18:38:56.927Z
 estimatedTokens: 313
 keywords: [Handling, Orientation, Changes, Canvas, App, code, how, subscribe, event]
 ---
-
-# Handling Orientation Changes in Your Canvas
-App
 
 > The following code example shows how to subscribe to
 the orientation event.

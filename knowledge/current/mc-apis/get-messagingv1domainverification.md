@@ -5,12 +5,10 @@ topic: get-messagingv1domainverification
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.568Z
+lastCollected: 2026-04-07T18:40:16.711Z
 estimatedTokens: 598
-keywords: [messaging, domainverification, Retrieve, verified, domains, particular, account, **Overview**, Usage, Marketing, Cloud, Permissions, Scope, Collection, Items]
+keywords: [messaging, domainverification, Retrieve, verified, domains, particular, account, **Overview**, Marketing, Cloud, Permissions, Scope, Collection, Items]
 ---
-
-# GET /messaging/v1/domainverification
 
 > Retrieve a list of verified domains for a particular account.
 

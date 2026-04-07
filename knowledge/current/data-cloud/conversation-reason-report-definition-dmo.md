@@ -5,12 +5,10 @@ topic: conversation-reason-report-definition-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.994Z
+lastCollected: 2026-04-07T18:35:52.914Z
 estimatedTokens: 528
-keywords: [Conversation, Reason, Report, Definition, DMO, Data, Cloud, model, mining, conversational, shape, groups, reasons, excerpts, API]
+keywords: [Category, Relationships, Conversation, Reason, Report, Definition, DMO, Cloud, model, mining, conversational, shape, groups, reasons, excerpts, API, Primary, Subject, Area, Key]
 ---
-
-# Conversation Reason Report Definition DMO
 
 > The Conversation Reason Report Definition DMO is a Data Cloud data
       model object for a conversation mining report that contains an overview of the conversational

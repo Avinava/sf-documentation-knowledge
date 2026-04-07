@@ -5,12 +5,10 @@ topic: carebarriershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.220Z
+lastCollected: 2026-04-07T18:39:31.563Z
 estimatedTokens: 248
 keywords: [CareBarrierShare, Sharing, CareBarrier]
 ---
-
-# CareBarrierShare
 
 > Sharing for CareBarrier.
 

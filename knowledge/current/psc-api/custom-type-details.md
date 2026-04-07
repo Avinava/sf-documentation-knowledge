@@ -5,12 +5,10 @@ topic: custom-type-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.220Z
+lastCollected: 2026-04-07T18:39:02.428Z
 estimatedTokens: 99
-keywords: [Custom, Output, representation, Omniscript, elements]
+keywords: [Omniscript]
 ---
-
-# Custom Type Details
 
 > Output representation of the custom type details of the Omniscript elements.
 

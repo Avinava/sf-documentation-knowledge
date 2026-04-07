@@ -5,12 +5,10 @@ topic: sellershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.383Z
+lastCollected: 2026-04-07T18:40:01.144Z
 estimatedTokens: 246
 keywords: [SellerShare, Sharing, Seller]
 ---
-
-# SellerShare
 
 > Sharing for Seller.
 

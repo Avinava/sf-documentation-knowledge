@@ -5,12 +5,10 @@ topic: commerce-einstein-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.530Z
+lastCollected: 2026-04-07T18:37:17.603Z
 estimatedTokens: 98
 keywords: [Commerce, Einstein, Status, deployment]
 ---
-
-# Commerce Einstein Status
 
 > Commerce Einstein deployment status.
 

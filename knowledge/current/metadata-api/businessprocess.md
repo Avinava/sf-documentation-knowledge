@@ -5,12 +5,10 @@ topic: businessprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.890Z
+lastCollected: 2026-04-07T18:36:23.170Z
 estimatedTokens: 1098
-keywords: [BusinessProcess, metadata, display, different, picklist, users, their, profile, Declarative, File, Suffix, Directory, Location, Version, Special]
+keywords: [BusinessProcess, metadata, display, different, picklist, users, their, profile, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# BusinessProcess
 
 > The BusinessProcess metadata type enables you to
             display different picklist values for users based on their profile.

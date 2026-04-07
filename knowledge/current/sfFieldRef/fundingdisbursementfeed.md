@@ -5,12 +5,10 @@ topic: fundingdisbursementfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.382Z
+lastCollected: 2026-04-07T18:39:42.048Z
 estimatedTokens: 390
-keywords: [FundingDisbursementFeed, Feed, tracking, FundingDisbursement]
+keywords: [FundingDisbursementFeed, FundingDisbursement]
 ---
-
-# FundingDisbursementFeed
 
 > Feed tracking for FundingDisbursement.
 

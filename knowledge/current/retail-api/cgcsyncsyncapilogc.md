@@ -5,12 +5,10 @@ topic: cgcsyncsyncapilogc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.825Z
+lastCollected: 2026-04-07T18:39:12.346Z
 estimatedTokens: 712
-keywords: [cgc_sync__Sync_API_Log__c, Stores, performance, that's, executed, synchronization, endpoints, API, version, 53.0, later, cgc, _sync, _API, _Log]
+keywords: [cgc_sync__Sync_API_Log__c, Stores, performance, that's, executed, synchronization, endpoints, API, 53.0, cgc, _sync, _API, _Log]
 ---
-
-# cgc_sync__Sync_API_Log__c
 
 > Stores performance information that's executed on synchronization
          endpoints. This object is available in API version 53.0 and later.

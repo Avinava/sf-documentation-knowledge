@@ -5,12 +5,10 @@ topic: numeric-field-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.911Z
+lastCollected: 2026-04-07T18:36:59.406Z
 estimatedTokens: 80
 keywords: [Numeric, Configuration]
 ---
-
-# Numeric Field Configuration
 
 > The numeric field configuration.
 

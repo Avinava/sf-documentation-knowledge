@@ -5,12 +5,10 @@ topic: forecasting-jump-to-user-or-territory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.075Z
+lastCollected: 2026-04-07T18:37:14.041Z
 estimatedTokens: 398
-keywords: [Forecasting, Jump-To-User-Or-Territory, users, territories, whose, forecasts, context, user, access, view]
+keywords: [Forecasting, Jump-To-User-Or-Territory, users, territories, whose, forecasts, context, user, view]
 ---
-
-# Forecasting Jump-To-User-Or-Territory
 
 > Get a list of users and territories whose forecasts the context user
       has access to view.

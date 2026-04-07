@@ -5,12 +5,10 @@ topic: salestrxnitemrelationshape
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:48.825Z
+lastCollected: 2026-04-07T18:38:40.406Z
 estimatedTokens: 1181
-keywords: [SalesTrxnItemRelationShape, relationship, sales, transaction, shape, items, bundle, API, version, 57.0, later, Calls, Special, Access, Rules]
+keywords: [SalesTrxnItemRelationShape, relationship, sales, transaction, shape, items, bundle, API, 57.0]
 ---
-
-# SalesTrxnItemRelationShape
 
 > Describes the relationship between sales transaction shape items; for
          example, a bundle or set. This object is available in API version 57.0 and later.

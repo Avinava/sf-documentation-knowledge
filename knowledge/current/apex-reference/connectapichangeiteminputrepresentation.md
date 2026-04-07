@@ -5,12 +5,10 @@ topic: connectapichangeiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.631Z
+lastCollected: 2026-04-07T18:36:04.988Z
 estimatedTokens: 666
-keywords: [Change, order, item, summary, cancel, specify, whether, prorate, associated, shipping, charge, price, can’t]
+keywords: [Change, order, item, summary, cancel, specify, whether, prorate, shipping, charge, price, can’t]
 ---
-
-# ConnectApi.ChangeItemInputRepresentation
 
 > Change to an order item summary, such as a return or cancel. You specify whether to
     prorate the associated shipping charge based on the price change. The order item summary can’t

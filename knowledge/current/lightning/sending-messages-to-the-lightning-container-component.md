@@ -5,12 +5,10 @@ topic: sending-messages-to-the-lightning-container-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.475Z
+lastCollected: 2026-04-07T18:38:03.489Z
 estimatedTokens: 629
-keywords: [Sending, Messages, Lightning, Container, Component, lightning-container, NPM, module, send, JavaScript, code, framed]
+keywords: [Sending, Messages, Lightning, Container, lightning-container, NPM, module, send, JavaScript, code, framed]
 ---
-
-# Sending Messages to the Lightning Container Component
 
 > Use the methods in the lightning-container NPM module to send messages from the
         JavaScript code framed by lightning:container.

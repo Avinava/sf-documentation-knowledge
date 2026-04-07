@@ -5,13 +5,11 @@ topic: reportinstance-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.997Z
+lastCollected: 2026-04-07T18:36:03.210Z
 estimatedTokens: 1243
 namespace: Reports
-keywords: [ReportInstance, instance, report, run, asynchronously, Retrieves, results, getCompletionDate, getId, getOwnerId, getReportId, getReportResults, getRequestDate, getStatus, Usage]
+keywords: [ReportInstance, instance, report, run, asynchronously, Retrieves, results, getCompletionDate, getId, getOwnerId, getReportId, getReportResults, getRequestDate, getStatus]
 ---
-
-# ReportInstance Class
 
 > Returns an instance of a report that was run asynchronously.
 Retrieves the results for that instance.

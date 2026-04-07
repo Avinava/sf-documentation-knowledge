@@ -5,12 +5,10 @@ topic: view-the-data-loader-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.342Z
+lastCollected: 2026-04-07T18:37:28.373Z
 estimatedTokens: 245
-keywords: [View, Data, Loader, Log, File, investigate, problem, requested, Salesforce, Customer, Support, access, files, track, operations]
+keywords: [View, Loader, Log, File, investigate, problem, requested, Salesforce, Customer, Support, files, track, operations, network, connections, made]
 ---
-
-# View the Data Loader Log File
 
 > If you need to investigate a problem with Data Loader, or if requested by Salesforce Customer Support, you can access log files
   that track the operations and network connections made by Data Loader.

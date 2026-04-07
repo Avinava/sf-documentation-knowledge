@@ -5,12 +5,10 @@ topic: unmerge-memberships-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.542Z
+lastCollected: 2026-04-07T18:38:08.853Z
 estimatedTokens: 471
-keywords: [Unmerge, Memberships, Action, Unmerges, loyalty, program, member, records, Merged, status, membership, previously, Merge, record, created]
+keywords: [Inputs, Outputs, Examples, Unmerge, Memberships, Action, Unmerges, loyalty, program, member, records, Merged, status, membership, previously, Merge, record, created, changed, Unmerged, members, reassigned, tier, assigned, They, credited, points, transferred, vouchers, had, REST, HTTP]
 ---
-
-# Unmerge Memberships Action
 
 > Unmerges loyalty program member records have a Merged status. The
    action unmerges memberships that are in the Merged status from the membership that it was

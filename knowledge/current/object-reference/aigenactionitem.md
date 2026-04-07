@@ -5,12 +5,10 @@ topic: aigenactionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.165Z
+lastCollected: 2026-04-07T18:38:25.104Z
 estimatedTokens: 959
-keywords: [AiGenActionItem, business, actions, suggested, generative, AI-generated, action, items, sent, either, agents, automatic, execution, human, users]
+keywords: [AiGenActionItem, business, actions, suggested, generative, AI-generated, action, items, sent, either, agents, automatic, execution, human, users, review, depending, org, preference, there, any, errors, process, API, 64.0]
 ---
-
-# AiGenActionItem
 
 > Represents business actions suggested by generative AI. AI-generated action
          items are sent to either agents for automatic execution or human users for review,

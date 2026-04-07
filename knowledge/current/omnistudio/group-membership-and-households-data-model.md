@@ -5,12 +5,10 @@ topic: group-membership-and-households-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.741Z
+lastCollected: 2026-04-07T18:36:43.480Z
 estimatedTokens: 140
-keywords: [Group, Membership, Households, Data, Model, objects, relationships, memberships, known, party, relationship, groups]
+keywords: [Group, Membership, Households, Model, relationships, memberships, known, party, relationship, groups]
 ---
-
-# Group Membership and Households Data Model
 
 > Learn about the objects and relationships used for group memberships, also known as party relationship groups.
 

@@ -5,12 +5,10 @@ topic: worktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.065Z
+lastCollected: 2026-04-07T18:36:53.415Z
 estimatedTokens: 1377
-keywords: [WorkType, work, performed, dealer, location, templates, associate, group, service, territory, API, version, 58.0, later, Calls]
+keywords: [WorkType, work, performed, dealer, location, templates, associate, group, service, territory, API, 58.0]
 ---
-
-# WorkType
 
 > Represents a type of work to be performed for a dealer location. Work types
          are templates that associate a work group to a service territory. This object is

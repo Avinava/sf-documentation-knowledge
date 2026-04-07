@@ -5,12 +5,10 @@ topic: guidelines-and-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:00.478Z
+lastCollected: 2026-04-07T18:38:52.785Z
 estimatedTokens: 1932
-keywords: [Guidelines, Best, Practices, Visualforce, pages, aren’t, automatically, mobile, friendly, Salesforce, app, standard, sidebar, disabled, favor]
+keywords: [Guidelines, Best, Practices, Visualforce, pages, aren’t, automatically, mobile, friendly, Salesforce, app, standard, sidebar, disabled, favor, JavaScript, API, possible, connect, navigation, management, respects, remain, they, although, usable, desktop, focused, feel]
 ---
-
-# Guidelines and Best Practices
 
 > Visualforce pages aren’t automatically mobile friendly in the Salesforce mobile app. The
   standard Salesforce header and sidebar are disabled in favor of the mobile controls, and a

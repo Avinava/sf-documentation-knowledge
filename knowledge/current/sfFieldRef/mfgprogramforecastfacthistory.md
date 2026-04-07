@@ -5,12 +5,10 @@ topic: mfgprogramforecastfacthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.496Z
+lastCollected: 2026-04-07T18:39:48.970Z
 estimatedTokens: 187
-keywords: [MfgProgramForecastFactHistory, History, tracked, MfgProgramForecastFact]
+keywords: [MfgProgramForecastFactHistory, tracked, MfgProgramForecastFact]
 ---
-
-# MfgProgramForecastFactHistory
 
 > History for tracked fields of MfgProgramForecastFact.
 

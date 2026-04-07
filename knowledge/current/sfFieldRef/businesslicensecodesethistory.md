@@ -5,12 +5,10 @@ topic: businesslicensecodesethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.457Z
+lastCollected: 2026-04-07T18:39:30.672Z
 estimatedTokens: 273
-keywords: [BusinessLicenseCodeSetHistory, History, tracked, BusinessLicenseCodeSet]
+keywords: [BusinessLicenseCodeSetHistory, tracked, BusinessLicenseCodeSet]
 ---
-
-# BusinessLicenseCodeSetHistory
 
 > History for tracked fields of BusinessLicenseCodeSet.
 

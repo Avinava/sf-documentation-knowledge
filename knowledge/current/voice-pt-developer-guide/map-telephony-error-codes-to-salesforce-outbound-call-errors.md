@@ -5,12 +5,10 @@ topic: map-telephony-error-codes-to-salesforce-outbound-call-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.619Z
+lastCollected: 2026-04-07T18:40:13.543Z
 estimatedTokens: 708
-keywords: [Map, Telephony, Error, Codes, Salesforce, Outbound, Call, Errors, fails, intercept, connector, implementation, specific, constant, populating]
+keywords: [Map, Telephony, Error, Codes, Salesforce, Outbound, Call, Errors, fails, intercept, connector, implementation, specific, constant, populating, error.type, rejected, Promise, containing, show, descriptive, message, rep, Omni-Channel, console]
 ---
-
-# Map Telephony Error Codes to Salesforce Outbound Call Errors
 
 > When an outbound call fails, intercept the error in your connector implementation, and
   map it to a specific Salesforce error constant by populating the error.type field. Return the

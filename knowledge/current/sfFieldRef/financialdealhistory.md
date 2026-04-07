@@ -5,12 +5,10 @@ topic: financialdealhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.977Z
+lastCollected: 2026-04-07T18:39:40.595Z
 estimatedTokens: 170
-keywords: [FinancialDealHistory, History, tracked, FinancialDeal]
+keywords: [FinancialDealHistory, tracked, FinancialDeal]
 ---
-
-# FinancialDealHistory
 
 > History for tracked fields of FinancialDeal.
 

@@ -5,12 +5,10 @@ topic: loginaseventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.030Z
+lastCollected: 2026-04-07T18:38:35.271Z
 estimatedTokens: 799
-keywords: [LoginAsEventLog, user, logs, another, org, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [LoginAsEventLog, user, logs, another, org, API, 61.0]
 ---
-
-# LoginAsEventLog
 
 > LoginAsEventLog contains details about when a user logs in as another user in
          your org. This object is available in API version

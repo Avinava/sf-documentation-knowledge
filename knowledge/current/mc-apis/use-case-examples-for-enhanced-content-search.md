@@ -5,12 +5,10 @@ topic: use-case-examples-for-enhanced-content-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.752Z
+lastCollected: 2026-04-07T18:40:21.023Z
 estimatedTokens: 4672
-keywords: [Case, Examples, Enhanced, Content, Search, fictitious, Northern, Trail, Outfitters, company, show, how, Marketing, Cloud, feature]
+keywords: [Case, Examples, Enhanced, Content, Search, fictitious, Northern, Trail, Outfitters, company, show, how, Marketing, Cloud, feature, Partial, Exact, Words, Filter, Created, Date]
 ---
-
-# Use Case Examples for Enhanced Content Search
 
 > The following examples use the fictitious Northern Trail Outfitters company to show you how to use the Marketing Cloud Enhanced Content Search feature.
 

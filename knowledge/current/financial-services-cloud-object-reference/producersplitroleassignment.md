@@ -5,12 +5,10 @@ topic: producersplitroleassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.886Z
+lastCollected: 2026-04-07T18:37:38.768Z
 estimatedTokens: 1281
-keywords: [ProducerSplitRoleAssignment, revenue, generating, entities, assocaited, insurance, policy, account, API, version, later, Calls, Associated, Objects]
+keywords: [ProducerSplitRoleAssignment, revenue, generating, entities, assocaited, insurance, policy, account, API]
 ---
-
-# ProducerSplitRoleAssignment
 
 > Represents the revenue generating entities assocaited with an insurance policy and
          account. This object is available in API version 62 and later.

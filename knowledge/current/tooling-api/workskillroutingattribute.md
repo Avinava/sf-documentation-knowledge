@@ -5,12 +5,10 @@ topic: workskillroutingattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.502Z
+lastCollected: 2026-04-07T18:36:34.955Z
 estimatedTokens: 786
-keywords: [WorkSkillRoutingAttribute, setup, stores, metadata, routing, assignments, skills, route, work, item, agent, necessary, take, API, version]
+keywords: [WorkSkillRoutingAttribute, Limitations, setup, stores, metadata, routing, assignments, skills, route, work, item, agent, necessary, take, API, 46.0, SOAP, REST, HTTP]
 ---
-
-# WorkSkillRoutingAttribute
 
 > Represents a setup object that stores metadata related to
         the routing assignments between object field values and skills. Field values are used to

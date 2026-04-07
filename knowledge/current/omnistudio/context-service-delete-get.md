@@ -5,12 +5,10 @@ topic: context-service-delete-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.312Z
+lastCollected: 2026-04-07T18:36:37.911Z
 estimatedTokens: 120
 keywords: [Context, Service, Retrieve, record]
 ---
-
-# Context Service (DELETE, GET)
 
 > Retrieve the context details using a context ID. Delete a context record using a
     context ID.

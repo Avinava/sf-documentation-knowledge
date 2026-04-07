@@ -5,12 +5,10 @@ topic: member-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.814Z
+lastCollected: 2026-04-07T18:38:20.553Z
 estimatedTokens: 308
-keywords: [Member, Record, Input, representation, records, party, relationship, group]
+keywords: [Member, Record, records, party, relationship, group]
 ---
-
-# Member Record Input
 
 > Input representation of the member records of a party relationship
       group.

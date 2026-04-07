@@ -5,12 +5,10 @@ topic: comparing-javascript-remoting-and-remote-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.363Z
+lastCollected: 2026-04-07T18:38:51.617Z
 estimatedTokens: 291
-keywords: [Comparing, JavaScript, Remoting, Remote, Objects, offer, similar, features, useful, tools, creating, dynamic, responsive, pages, They]
+keywords: [Comparing, JavaScript, Remoting, Remote, offer, similar, features, useful, tools, creating, dynamic, responsive, pages, They, differences, consider, choosing]
 ---
-
-# Comparing JavaScript Remoting and Remote Objects
 
 > JavaScript Remoting and Remote Objects offer similar features, and both are useful
     tools for creating dynamic, responsive pages. They have some important differences that you

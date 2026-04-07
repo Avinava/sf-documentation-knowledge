@@ -5,13 +5,11 @@ topic: calculationmatrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.762Z
+lastCollected: 2026-04-07T18:39:31.054Z
 estimatedTokens: 478
 namespace: Namespace
-keywords: [CalculationMatrix, Matches, input, row, row's, output, label, Decision, Matrix, API, version, 53.0, later]
+keywords: [CalculationMatrix, Matches, row, row's, label, Decision, Matrix, API, 53.0]
 ---
-
-# CalculationMatrix
 
 > Matches input values to a table row and returns the row's output
          values. The label for this object is Decision Matrix. This object is available in API

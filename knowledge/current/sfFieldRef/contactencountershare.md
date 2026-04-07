@@ -5,12 +5,10 @@ topic: contactencountershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.543Z
+lastCollected: 2026-04-07T18:39:34.986Z
 estimatedTokens: 251
 keywords: [ContactEncounterShare, Sharing, ContactEncounter]
 ---
-
-# ContactEncounterShare
 
 > Sharing for ContactEncounter.
 

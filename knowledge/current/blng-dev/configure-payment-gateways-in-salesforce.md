@@ -5,12 +5,10 @@ topic: configure-payment-gateways-in-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.449Z
+lastCollected: 2026-04-07T18:37:02.999Z
 estimatedTokens: 518
 keywords: [Configure, Payment, Gateways, Salesforce, Install, gateway, package, entities, communicate, provider]
 ---
-
-# Configure Payment Gateways in Salesforce
 
 > Install a payment gateway package and configure your payment gateway entities to
   communicate with your payment gateway provider.

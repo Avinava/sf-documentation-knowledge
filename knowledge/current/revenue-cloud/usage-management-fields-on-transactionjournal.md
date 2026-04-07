@@ -5,12 +5,10 @@ topic: usage-management-fields-on-transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.136Z
+lastCollected: 2026-04-07T18:35:50.994Z
 estimatedTokens: 270
-keywords: [Usage, Management, TransactionJournal, Standard, custom, extend, Transaction, Journal, represent, consumption, resource, recorded, creating, summaries, API]
+keywords: [Management, TransactionJournal, Standard, extend, Transaction, Journal, represent, consumption, resource, recorded, creating, summaries, API, 63.0]
 ---
-
-# Usage Management Fields on TransactionJournal
 
 > Standard and custom fields extend the standard Transaction Journal object for
          use in Usage Management to represent  consumption details of a usage resource that are

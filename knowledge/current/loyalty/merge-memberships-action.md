@@ -5,12 +5,10 @@ topic: merge-memberships-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.478Z
+lastCollected: 2026-04-07T18:38:08.785Z
 estimatedTokens: 785
-keywords: [Merge, Memberships, Action, Merges, two, active, loyalty, program, member, records, belong, source, membership, target, status]
+keywords: [Inputs, Outputs, Examples, Merge, Memberships, Action, Merges, two, active, loyalty, program, member, records, belong, source, membership, target, status, changed, Merged, remains, REST, HTTP]
 ---
-
-# Merge Memberships Action
 
 > Merges two active loyalty program member records that belong to the
    same loyalty program. Out of the two memberships, one is source membership and the other is

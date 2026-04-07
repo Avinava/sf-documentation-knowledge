@@ -5,12 +5,10 @@ topic: login-screen-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.747Z
+lastCollected: 2026-04-07T18:40:25.134Z
 estimatedTokens: 619
-keywords: [Login, Screen, Customization, Although, Mobile, SDK, doesn’t, control, Salesforce, customize, brand, certain, cases, Appearance, Customizing]
+keywords: [Login, Screen, Customization, Although, Mobile, SDK, doesn’t, control, Salesforce, customize, brand, certain, cases, Appearance, Customizing, Server]
 ---
-
-# Login Screen Customization
 
 > Although Mobile SDK doesn’t control the Salesforce
   login page, you can still customize and brand it in certain cases.

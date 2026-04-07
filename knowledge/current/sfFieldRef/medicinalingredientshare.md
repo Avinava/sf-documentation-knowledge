@@ -5,12 +5,10 @@ topic: medicinalingredientshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.154Z
+lastCollected: 2026-04-07T18:39:48.612Z
 estimatedTokens: 252
 keywords: [MedicinalIngredientShare, Sharing, MedicinalIngredient]
 ---
-
-# MedicinalIngredientShare
 
 > Sharing for MedicinalIngredient.
 

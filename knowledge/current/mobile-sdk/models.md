@@ -5,12 +5,10 @@ topic: models
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.147Z
+lastCollected: 2026-04-07T18:40:25.512Z
 estimatedTokens: 459
-keywords: [Models, client, represent, server, records, Mobile, Sync, model, objects, instances, Force.SObject, subclass, Backbone.Model, SObject, extends]
+keywords: [Models, Examples, client, represent, server, records, Mobile, Sync, model, instances, Force.SObject, subclass, Backbone.Model, SObject, extends, work, Salesforce, APIs, optionally, SmartStore]
 ---
-
-# Models
 
 > Models on the client represent server records. In Mobile Sync, model
 objects are instances of Force.SObject, a subclass of the Backbone.Model class. SObject extends Model to work with Salesforce APIs and,

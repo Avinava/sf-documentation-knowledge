@@ -5,12 +5,10 @@ topic: output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.292Z
+lastCollected: 2026-04-07T18:37:35.987Z
 estimatedTokens: 413
-keywords: [Output, Classes, Apex, Financial, Services, Cloud]
+keywords: [Classes, Apex, Financial, Services, Cloud]
 ---
-
-# Output Classes
 
 > These are Apex output classes in Financial Services Cloud.
 

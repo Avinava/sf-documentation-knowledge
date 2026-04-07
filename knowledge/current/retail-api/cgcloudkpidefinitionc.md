@@ -5,12 +5,10 @@ topic: cgcloudkpidefinitionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:20.439Z
+lastCollected: 2026-04-07T18:39:13.830Z
 estimatedTokens: 5344
-keywords: [cgcloud__KPI_Definition__c, measure, derived, current, KPI_Set, json, file, API, version, 54.0, later, cgcloud, _KPI, _Definition, Calls]
+keywords: [cgcloud__KPI_Definition__c, measure, derived, current, KPI_Set, json, file, API, 54.0, cgcloud, _KPI, _Definition]
 ---
-
-# cgcloud__KPI_Definition__c
 
 > Contains the description of a single measure. The fields of the table
          can be derived from the current KPI_Set .json file. This object is available in API

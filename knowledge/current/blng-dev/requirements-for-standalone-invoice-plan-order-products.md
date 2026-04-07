@@ -5,12 +5,10 @@ topic: requirements-for-standalone-invoice-plan-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.718Z
+lastCollected: 2026-04-07T18:37:04.339Z
 estimatedTokens: 438
 keywords: [Requirements, Standalone, Invoice, Plan, Order, Products, product, API, Salesforce, Lightning, Classic]
 ---
-
-# Requirements for Standalone Invoice Plan Order Products
 
 > Create a standalone invoice plan order product through API in Salesforce Lightning or
   Salesforce Classic.

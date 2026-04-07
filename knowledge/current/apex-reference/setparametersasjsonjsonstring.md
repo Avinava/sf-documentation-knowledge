@@ -5,12 +5,10 @@ topic: setparametersasjsonjsonstring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.065Z
+lastCollected: 2026-04-07T18:35:59.342Z
 estimatedTokens: 408
-keywords: [setParametersAsJSON, jsonString, custom, canvas, app, Usage]
+keywords: [setParametersAsJSON, jsonString, canvas, app]
 ---
-
-# setParametersAsJSON(jsonString)
 
 > Sets the custom parameters for the canvas app.
 

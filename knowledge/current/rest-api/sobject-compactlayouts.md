@@ -5,12 +5,10 @@ topic: sobject-compactlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.013Z
+lastCollected: 2026-04-07T18:36:21.242Z
 estimatedTokens: 299
-keywords: [sObject, CompactLayouts, Retrieve, compact, layouts, specific, resource, REST, API, version, 29.0, later]
+keywords: [sObject, CompactLayouts, Retrieve, compact, layouts, specific, resource, REST, API, 29.0]
 ---
-
-# sObject CompactLayouts
 
 > Retrieve a list of compact layouts for a specific object. This resource is available in
     REST API version 29.0 and later.

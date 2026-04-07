@@ -5,12 +5,10 @@ topic: setescapeitemitemsescaped
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.427Z
+lastCollected: 2026-04-07T18:38:48.384Z
 estimatedTokens: 108
-keywords: [setEscapeItem, itemsEscaped, SelectOption, object's, itemEscaped, attribute, Usage]
+keywords: [setEscapeItem, itemsEscaped, SelectOption, object's, itemEscaped, attribute]
 ---
-
-# setEscapeItem(itemsEscaped)
 
 > Sets the value of the SelectOption object's itemEscaped attribute.
 

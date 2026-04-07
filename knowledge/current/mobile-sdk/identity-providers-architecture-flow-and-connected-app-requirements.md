@@ -5,12 +5,10 @@ topic: identity-providers-architecture-flow-and-connected-app-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.753Z
+lastCollected: 2026-04-07T18:40:25.140Z
 estimatedTokens: 1060
-keywords: [Identity, Providers, Architecture, Flow, Connected, App, Requirements, Mobile, SDK, provider, setups, follow, flows, architectural, outlines]
+keywords: [Identity, Providers, Architecture, Flow, Connected, App, Requirements, Mobile, SDK, provider, setups, follow, flows, architectural, outlines, regardless, platform, Salesforce, apps, impose, few, High-Level, Bit, Detail]
 ---
-
-# Identity Providers: Architecture, Flow, and Connected App Requirements
 
 > All Mobile SDK
   identity provider setups follow the same flows and architectural outlines, regardless of platform.

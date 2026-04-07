@@ -5,12 +5,10 @@ topic: service-kpis-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.036Z
+lastCollected: 2026-04-07T18:39:16.578Z
 estimatedTokens: 384
-keywords: [Service, KPIs, Dashboard, targeted, executives, insight, trends, helps, staffing, training, decisions, monitor, performance, against, key]
+keywords: [Service, KPIs, Dashboard, targeted, executives, insight, trends, helps, staffing, training, decisions, monitor, performance, against, key, indicators, refine, organization, goals, past, performa, Highlights, Tips]
 ---
-
-# Service KPIs Dashboard
 
 > This dashboard is targeted at service executives and provides insight
 into important trends, which helps them make staffing and training

@@ -100,7 +100,7 @@ function deduplicateDocuments(documents: TaggedDocument[]): TaggedDocument[] {
       // Merge keywords
       const mergedKeywords = [
         ...new Set([...existing.metadata.keywords, ...doc.metadata.keywords]),
-      ].slice(0, 20);
+      ].slice(0, 100);
       existing.metadata.keywords = mergedKeywords;
 
       // Merge code examples
@@ -150,9 +150,12 @@ function formatContextFile(doc: TaggedDocument): string {
   lines.push("---");
   lines.push("");
 
-  // Title
-  lines.push(`# ${doc.title}`);
-  lines.push("");
+  // Title — only add if content doesn't already start with a heading
+  // (avoids duplicate headings that were causing 57K+ quality issues)
+  if (!doc.content.trimStart().startsWith("# ")) {
+    lines.push(`# ${doc.title}`);
+    lines.push("");
+  }
 
   // Short description as blockquote
   if (doc.shortDescription) {

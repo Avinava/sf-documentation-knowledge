@@ -5,13 +5,11 @@ topic: metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.608Z
+lastCollected: 2026-04-07T18:36:31.001Z
 estimatedTokens: 757
 namespace: Account.FirstName
-keywords: [Metadata, base, can’t, edit, component, instance, Version, Wildcard, Support, Manifest, File]
+keywords: [Metadata, base, can’t, edit, instance, Wildcard, Support, Manifest, File]
 ---
-
-# Metadata
 
 > The base class for all metadata types. You can’t edit this
       object. A component is an instance of a metadata type.

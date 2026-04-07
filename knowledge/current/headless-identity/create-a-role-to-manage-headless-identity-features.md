@@ -5,12 +5,10 @@ topic: create-a-role-to-manage-headless-identity-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.360Z
+lastCollected: 2026-04-07T18:37:39.292Z
 estimatedTokens: 244
-keywords: [Role, Manage, Headless, Identity, Features, access, management, it’s, define, ensure, right, level]
+keywords: [Role, Manage, Headless, Identity, Features, management, it’s, define, ensure, right, level]
 ---
-
-# Create a Role to Manage Headless Identity Features
 
 > For identity and access management, it’s important to define who can access what. Create
   a role to ensure that you have the right level of access to manage Headless Identity

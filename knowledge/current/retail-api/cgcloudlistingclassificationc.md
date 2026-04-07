@@ -5,12 +5,10 @@ topic: cgcloudlistingclassificationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.483Z
+lastCollected: 2026-04-07T18:39:13.872Z
 estimatedTokens: 899
-keywords: [cgcloud__Listing_Classification__c, Holds, listing, modules, product, category, customer, API, version, 54.0, later, cgcloud, _Listing, _Classification, Calls]
+keywords: [cgcloud__Listing_Classification__c, Holds, listing, modules, product, category, customer, API, 54.0, cgcloud, _Listing, _Classification]
 ---
-
-# cgcloud__Listing_Classification__c
 
 > Holds the information about the listing modules and the product
          category for a customer. This object is available in API version 54.0 and later.

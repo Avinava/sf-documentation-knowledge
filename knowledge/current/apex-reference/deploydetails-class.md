@@ -5,13 +5,11 @@ topic: deploydetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.018Z
+lastCollected: 2026-04-07T18:36:00.303Z
 estimatedTokens: 697
 namespace: Metadata
-keywords: [DeployDetails, detailed, deployed, components, Usage, componentFailures, componentSuccesses, clone]
+keywords: [DeployDetails, detailed, deployed, componentFailures, componentSuccesses, clone]
 ---
-
-# DeployDetails Class
 
 > Contains detailed information on deployed components.
 

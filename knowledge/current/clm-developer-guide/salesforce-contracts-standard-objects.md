@@ -5,12 +5,10 @@ topic: salesforce-contracts-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:37.616Z
+lastCollected: 2026-04-07T18:37:24.611Z
 estimatedTokens: 2579
-keywords: [Salesforce, Contracts, Standard, Objects, work, application]
+keywords: [Salesforce, Contracts, Standard, work, application]
 ---
-
-# Salesforce Contracts Standard Objects
 
 > Use standard objects to work with the Salesforce Contracts application.
 

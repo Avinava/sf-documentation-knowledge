@@ -5,12 +5,10 @@ topic: simple-case-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.476Z
+lastCollected: 2026-04-07T18:37:01.069Z
 estimatedTokens: 707
-keywords: [Simple, case, Operator, foreach, statement, assign, different, situations, supports, two, forms, searched, explains, Usage, Handling]
+keywords: [Simple, case, Operator, foreach, statement, assign, different, situations, supports, two, forms, searched, explains, Handling]
 ---
-
-# Simple case Operator
 
 > Use case in a foreach statement to assign different field values in different situations. case supports two syntax forms: searched case and simple case.
     This section explains simple case.

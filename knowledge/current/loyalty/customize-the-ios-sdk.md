@@ -5,12 +5,10 @@ topic: customize-the-ios-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.758Z
+lastCollected: 2026-04-07T18:38:09.056Z
 estimatedTokens: 521
-keywords: [Customize, iOS, SDK, build, Loyalty, Management, Mobile, colors, fonts, suit, requirements, replace, images, logos, included]
+keywords: [Customize, iOS, SDK, build, Loyalty, Management, Mobile, colors, fonts, suit, requirements, replace, images, logos, included, sample, app]
 ---
-
-# Customize the iOS SDK
 
 > After you build the Loyalty Management Mobile SDK for iOS, you can customize the colors
   and fonts to suit your requirements. You can also replace the existing images and logos included

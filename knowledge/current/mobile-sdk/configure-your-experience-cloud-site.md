@@ -5,12 +5,10 @@ topic: configure-your-experience-cloud-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.861Z
+lastCollected: 2026-04-07T18:40:25.243Z
 estimatedTokens: 227
 keywords: [Configure, Experience, Cloud, Site, final, step, Salesforce, Auth, Provider, logins]
 ---
-
-# Configure Your Experience Cloud Site
 
 > For the final step, configure the Experience Cloud site to use your Salesforce Auth.
         Provider for logins.

@@ -5,12 +5,10 @@ topic: api-execution-logs-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.455Z
+lastCollected: 2026-04-07T18:35:44.441Z
 estimatedTokens: 184
 keywords: [API, Execution, Logs, log, pricing, record]
 ---
-
-# API Execution Logs (GET)
 
 > Get the log details of a pricing API execution record by using the
       execution ID.

@@ -5,12 +5,10 @@ topic: apexcallouteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.466Z
+lastCollected: 2026-04-07T18:38:25.371Z
 estimatedTokens: 1009
-keywords: [ApexCalloutEventLog, Apex, Callout, event, logs, contain, callouts, external, requests, code, execution, API, version, 55.0, later]
+keywords: [ApexCalloutEventLog, Apex, Callout, event, logs, contain, callouts, external, requests, code, execution, API, 55.0]
 ---
-
-# ApexCalloutEventLog
 
 > Apex Callout event logs contain details about callouts (external requests)
          during Apex code execution. This object is available in API version 55.0 and later.

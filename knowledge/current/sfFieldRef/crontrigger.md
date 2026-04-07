@@ -5,12 +5,10 @@ topic: crontrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.052Z
+lastCollected: 2026-04-07T18:39:36.598Z
 estimatedTokens: 355
-keywords: [CronTrigger, schedule, scheduled, job, similar, cron, UNIX, systems, API, version, 17.0, later]
+keywords: [CronTrigger, schedule, scheduled, job, similar, cron, UNIX, systems, API, 17.0]
 ---
-
-# CronTrigger
 
 > Contains schedule information for a scheduled
     job. CronTrigger is similar to a cron job on UNIX systems. This object is available in API

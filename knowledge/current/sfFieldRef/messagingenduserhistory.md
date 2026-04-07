@@ -5,12 +5,10 @@ topic: messagingenduserhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.359Z
+lastCollected: 2026-04-07T18:39:48.816Z
 estimatedTokens: 263
-keywords: [MessagingEndUserHistory, History, tracked, MessagingEndUser]
+keywords: [MessagingEndUserHistory, tracked, MessagingEndUser]
 ---
-
-# MessagingEndUserHistory
 
 > History for tracked fields of MessagingEndUser.
 

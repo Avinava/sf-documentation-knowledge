@@ -5,12 +5,10 @@ topic: collection-retrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.054Z
+lastCollected: 2026-04-07T18:40:27.279Z
 estimatedTokens: 274
-keywords: [Collection, Retrieve, Retrieves, objects, match, IDs, iOS, Android, React, Native]
+keywords: [Android, Collection, Retrieve, Retrieves, match, IDs, iOS, React, Native]
 ---
-
-# Collection Retrieve
 
 > Retrieves a collection of objects of the given object type that match the given
         object IDs.

@@ -5,12 +5,10 @@ topic: preview-lightning-web-components-on-mobile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.689Z
+lastCollected: 2026-04-07T18:38:15.175Z
 estimatedTokens: 381
-keywords: [Preview, Lightning, Web, Components, Mobile, you’re, developing, it’s, inspect, components’, presentation, desktop, devices, virtual, changes]
+keywords: [Preview, Lightning, Web, Mobile, you’re, developing, it’s, inspect, components’, presentation, desktop, devices, virtual, changes, code, Local, Dev, download, run, device, builds, Salesforce, app, how, coexist]
 ---
-
-# Preview Lightning Web Components on Mobile
 
 > When you’re developing Lightning web components, it’s important to inspect your
     components’ presentation not only on the desktop, but also on mobile devices. To preview your

@@ -5,12 +5,10 @@ topic: jobprofilequeuegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.719Z
+lastCollected: 2026-04-07T18:38:33.898Z
 estimatedTokens: 541
-keywords: [JobProfileQueueGroup, mapping, Queue, JobProfile, configurations, capacity, plans, Workforce, Engagement, API, version, 53.0, later, Calls, Special]
+keywords: [JobProfileQueueGroup, mapping, Queue, JobProfile, configurations, capacity, plans, Workforce, Engagement, API, 53.0]
 ---
-
-# JobProfileQueueGroup
 
 > JobProfileQueueGroup defines the mapping between Queue and JobProfile and
          configurations for capacity plans in Workforce Engagement. This object is available in

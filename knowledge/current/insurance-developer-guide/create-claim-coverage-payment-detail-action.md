@@ -5,12 +5,10 @@ topic: create-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.940Z
+lastCollected: 2026-04-07T18:37:48.655Z
 estimatedTokens: 250
-keywords: [Claim, Coverage, Payment, Detail, Action, record, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Claim, Coverage, Payment, Detail, Action, record, REST, HTTP]
 ---
-
-# Create Claim Coverage Payment Detail Action
 
 > Create a claim coverage payment detail record.
 

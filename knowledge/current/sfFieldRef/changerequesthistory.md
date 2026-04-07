@@ -5,12 +5,10 @@ topic: changerequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.200Z
+lastCollected: 2026-04-07T18:39:33.610Z
 estimatedTokens: 261
-keywords: [ChangeRequestHistory, History, tracked, ChangeRequest]
+keywords: [ChangeRequestHistory, tracked, ChangeRequest]
 ---
-
-# ChangeRequestHistory
 
 > History for tracked fields of ChangeRequest.
 

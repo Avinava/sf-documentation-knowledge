@@ -5,12 +5,10 @@ topic: merge-customer-account-with-status-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.636Z
+lastCollected: 2026-04-07T18:37:56.078Z
 estimatedTokens: 228
-keywords: [Merge, Customer, Account, Status, Output]
+keywords: [Merge, Customer, Account, Status]
 ---
-
-# Merge Customer Account with Status Output
 
 > The response body for the merge customer account with status request.
 

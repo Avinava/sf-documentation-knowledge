@@ -5,12 +5,10 @@ topic: sobject-quick-action-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.131Z
+lastCollected: 2026-04-07T18:36:21.370Z
 estimatedTokens: 342
-keywords: [sObject, Quick, Action, Access, descriptive, detail, specific]
+keywords: [sObject, Quick, Action, descriptive, detail, specific]
 ---
-
-# sObject Quick Action Details
 
 > Access the descriptive detail for a specific action on an object.
 

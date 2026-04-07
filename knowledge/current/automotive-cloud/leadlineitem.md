@@ -5,12 +5,10 @@ topic: leadlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.520Z
+lastCollected: 2026-04-07T18:36:52.930Z
 estimatedTokens: 1082
-keywords: [LeadLineItem, items, vehicles, accessories, parts, lead, interested, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [LeadLineItem, items, vehicles, accessories, parts, lead, interested, API, 56.0]
 ---
-
-# LeadLineItem
 
 > Represents items such as vehicles, accessories, and parts that a lead is
          interested in. This object is available in API version 56.0 and later.

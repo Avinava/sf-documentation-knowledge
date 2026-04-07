@@ -5,12 +5,10 @@ topic: connectapizonepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.030Z
+lastCollected: 2026-04-07T18:36:12.313Z
 estimatedTokens: 98
 keywords: [ConnectApi.ZonePage, zones]
 ---
-
-# ConnectApi.ZonePage
 
 > Page of zones.
 

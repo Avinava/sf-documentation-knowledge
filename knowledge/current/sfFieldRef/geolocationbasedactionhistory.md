@@ -5,12 +5,10 @@ topic: geolocationbasedactionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.871Z
+lastCollected: 2026-04-07T18:39:42.512Z
 estimatedTokens: 273
-keywords: [GeolocationBasedActionHistory, History, tracked, GeolocationBasedAction]
+keywords: [GeolocationBasedActionHistory, tracked, GeolocationBasedAction]
 ---
-
-# GeolocationBasedActionHistory
 
 > History for tracked fields of GeolocationBasedAction.
 

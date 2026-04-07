@@ -5,12 +5,10 @@ topic: expression-functions-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.135Z
+lastCollected: 2026-04-07T18:38:04.258Z
 estimatedTokens: 1314
 keywords: [Expression, Functions, language, math, array, comparison, conditional, case-sensitive, Label, Informational, Function]
 ---
-
-# Expression Functions Reference
 
 > The expression language contains math, string, array, comparison, boolean, and
   conditional functions. All functions are case-sensitive.

@@ -5,12 +5,10 @@ topic: guidedselectionsearchtermlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.255Z
+lastCollected: 2026-04-07T18:35:41.120Z
 estimatedTokens: 786
 keywords: [GuidedSelectionSearchTermList, search, terms, guided, product, selection, pass, multiple, filtering, searching, products, Discovery, searchTerms]
 ---
-
-# GuidedSelectionSearchTermList Class
 
 > Contains a list of search terms used in guided product selection. This class is used to pass multiple search terms for filtering and searching products in Product Discovery.
 

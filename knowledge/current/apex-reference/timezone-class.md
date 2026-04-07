@@ -5,13 +5,11 @@ topic: timezone-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.559Z
+lastCollected: 2026-04-07T18:36:14.873Z
 estimatedTokens: 1390
 namespace: System
-keywords: [TimeZone, time, zone, creating, new, obtaining, offset, display, Usage, getDisplayName, Versioned, Behavior, Changes, getID, getOffset]
+keywords: [TimeZone, time, zone, creating, new, obtaining, offset, display, getDisplayName, Versioned, Behavior, Changes, getID, getOffset, date, getTimeZone, timeZoneIdString, toString]
 ---
-
-# TimeZone Class
 
 > Represents a time zone. Contains methods for creating a
 new time zone and obtaining time zone properties, such as the time

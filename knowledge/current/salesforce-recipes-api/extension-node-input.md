@@ -5,12 +5,10 @@ topic: extension-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.590Z
+lastCollected: 2026-04-07T18:39:18.281Z
 estimatedTokens: 117
-keywords: [Extension, Node, Input, recipe]
+keywords: [Extension, Node, recipe]
 ---
-
-# Extension Node Input
 
 > An extension node in a recipe.
 

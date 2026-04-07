@@ -5,12 +5,10 @@ topic: apexresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:46.364Z
+lastCollected: 2026-04-07T18:36:31.735Z
 estimatedTokens: 261
-keywords: [ApexResult, complex, result, Apex, code, executed, part, ApexExecutionOverlayAction, ApexExecutionOverlayResult, API, version, 28.0, later, Usage]
+keywords: [ApexResult, complex, result, Apex, code, executed, part, ApexExecutionOverlayAction, ApexExecutionOverlayResult, API, 28.0]
 ---
-
-# ApexResult
 
 > A complex type that represents the result of Apex code executed as part
    of an ApexExecutionOverlayAction , returned in an ApexExecutionOverlayResult. Available from

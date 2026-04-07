@@ -5,12 +5,10 @@ topic: problem-definition-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.776Z
+lastCollected: 2026-04-07T18:39:03.010Z
 estimatedTokens: 296
-keywords: [Problem, Definition, Output, representation]
+keywords: [Problem, Definition]
 ---
-
-# Problem Definition Output
 
 > Output representation of the problem definition.
 

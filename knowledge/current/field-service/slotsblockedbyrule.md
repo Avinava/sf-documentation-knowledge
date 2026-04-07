@@ -5,12 +5,10 @@ topic: slotsblockedbyrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.504Z
+lastCollected: 2026-04-07T18:36:46.343Z
 estimatedTokens: 71
 keywords: [slotsBlockedByRule, number, slots, blocked, rule]
 ---
-
-# slotsBlockedByRule
 
 > The number of slots that are blocked only by this
     rule.

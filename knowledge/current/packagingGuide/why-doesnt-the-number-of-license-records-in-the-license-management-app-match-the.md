@@ -6,13 +6,10 @@ topic: why-doesnt-the-number-of-license-records-in-the-license-management-app-ma
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.121Z
+lastCollected: 2026-04-07T18:38:47.093Z
 estimatedTokens: 313
-keywords: [Why, Doesn’t, Number, License, Records, Management, App, Match, Installs, AppExchange, Marketplace, Analytics, cases, LMA, closely]
+keywords: [Why, Doesn’t, Number, License, Records, Management, App, Match, Installs, AppExchange, Marketplace, Analytics, cases, LMA, closely, aligns, shown, However, numbers, sometimes, fall, alignment, scenario, typically, occurs, customers, don’t, finish, installation, process, succeed, another, reason]
 ---
-
-# Why Doesn’t the Number of License Records in the License Management App Match the Number of
-    Installs in AppExchange Marketplace Analytics?
 
 > In most cases, the number of license records in the License Management App (LMA)
     closely aligns with the number of installs shown in AppExchange Marketplace Analytics. However,

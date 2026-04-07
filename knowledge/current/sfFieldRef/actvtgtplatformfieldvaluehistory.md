@@ -5,12 +5,10 @@ topic: actvtgtplatformfieldvaluehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.955Z
+lastCollected: 2026-04-07T18:39:24.861Z
 estimatedTokens: 282
-keywords: [ActvTgtPlatformFieldValueHistory, History, tracked, ActvTgtPlatformFieldValue]
+keywords: [ActvTgtPlatformFieldValueHistory, tracked, ActvTgtPlatformFieldValue]
 ---
-
-# ActvTgtPlatformFieldValueHistory
 
 > History for tracked fields of ActvTgtPlatformFieldValue.
 

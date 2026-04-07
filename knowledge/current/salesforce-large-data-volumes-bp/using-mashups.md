@@ -5,12 +5,10 @@ topic: using-mashups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.273Z
+lastCollected: 2026-04-07T18:39:17.955Z
 estimatedTokens: 336
-keywords: [Mashups, approach, reducing, amount, data, Salesforce, maintain, large, different, application, needed, refers, arrangement, mashup, because]
+keywords: [Mashups, approach, reducing, amount, Salesforce, maintain, large, different, application, needed, refers, arrangement, mashup, because, quick, loosely, coupled, integration, Advantages, Disadvantages]
 ---
-
-# Using Mashups
 
 > One approach to reducing the amount of data in Salesforce is to maintain large data sets in
    a different application, and then make that application available to Salesforce as needed. Salesforce refers to such an arrangement as

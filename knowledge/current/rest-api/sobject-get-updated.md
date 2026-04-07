@@ -5,12 +5,10 @@ topic: sobject-get-updated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.466Z
+lastCollected: 2026-04-07T18:36:20.699Z
 estimatedTokens: 828
-keywords: [sObject, Updated, Retrieves, individual, records, added, changed, timespan, resource, REST, API, version, 31.0, later, Examples]
+keywords: [Examples, sObject, Updated, Retrieves, individual, records, added, changed, timespan, resource, REST, API, 31.0]
 ---
-
-# sObject Get Updated
 
 > Retrieves the list of individual records that have been updated (added or changed)
     within the given timespan for the specified object. This resource is available in REST API

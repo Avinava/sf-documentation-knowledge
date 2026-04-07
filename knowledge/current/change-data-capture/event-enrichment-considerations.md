@@ -5,12 +5,10 @@ topic: event-enrichment-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:18.448Z
+lastCollected: 2026-04-07T18:37:05.180Z
 estimatedTokens: 623
 keywords: [Event, Enrichment, Considerations, Keep, mind, enriched, change, events]
 ---
-
-# Event Enrichment Considerations
 
 > Keep in mind these considerations when using enriched change events.
 

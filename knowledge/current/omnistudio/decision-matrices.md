@@ -5,12 +5,10 @@ topic: decision-matrices
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.409Z
+lastCollected: 2026-04-07T18:36:38.019Z
 estimatedTokens: 198
 keywords: [Decision, Matrices, known, calculation, matrix, search, text, API, maximum, ten, records, contain, keyword]
 ---
-
-# Decision Matrices
 
 > Get a list of decision matrices ( also known as calculation matrix)
       based on a search text. The API returns a maximum of ten decision matrices records that

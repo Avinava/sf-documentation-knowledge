@@ -5,12 +5,10 @@ topic: flow-for-advanced-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:55.421Z
+lastCollected: 2026-04-07T18:35:40.208Z
 estimatedTokens: 481
-keywords: [Flow, Advanced, Approvals, metadata, associated, application, users, series, pages, query, records, database, run, logic, provide]
+keywords: [FlowActionCall, Flow, Advanced, Approvals, metadata, application, users, series, pages, query, records, database, run, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Advanced Approvals
 
 > The flow for Advanced Approvals represents the metadata associated with a flow. With
     Flow, you can create an application that takes users through a series of pages to query and

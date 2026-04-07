@@ -5,12 +5,10 @@ topic: servicepresencestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.178Z
+lastCollected: 2026-04-07T18:36:29.594Z
 estimatedTokens: 442
-keywords: [ServicePresenceStatus, presence, status, assigned, service, channel, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [ServicePresenceStatus, ServiceChannelStatus, presence, status, assigned, service, channel, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ServicePresenceStatus
 
 > Represents a presence status that can be assigned
       to a service channel.

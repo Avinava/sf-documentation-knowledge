@@ -5,12 +5,10 @@ topic: sequence-policy-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.932Z
+lastCollected: 2026-04-07T18:35:43.842Z
 estimatedTokens: 786
-keywords: [Sequence, Policy, Input, representation, configured, rules, generate, unique, sequential, numbers, objects]
+keywords: [Sequence, Policy, configured, generate, unique, sequential, numbers]
 ---
-
-# Sequence Policy Input
 
 > Input representation of the configured rules and properties to generate unique,
     sequential numbers for objects.

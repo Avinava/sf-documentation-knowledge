@@ -5,12 +5,10 @@ topic: create-records-using-sobject-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.003Z
+lastCollected: 2026-04-07T18:36:21.233Z
 estimatedTokens: 432
 keywords: [Records, sObject, Basic, Creates, new, record]
 ---
-
-# Create Records Using sObject Basic Information
 
 > Creates a new record for a specified object based on field values in the request
 		body.

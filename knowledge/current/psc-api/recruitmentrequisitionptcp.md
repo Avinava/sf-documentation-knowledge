@@ -5,12 +5,10 @@ topic: recruitmentrequisitionptcp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.384Z
+lastCollected: 2026-04-07T18:39:07.605Z
 estimatedTokens: 1040
-keywords: [RecruitmentRequisitionPtcp, user, group, participants, access, recruitment, requisition, API, version, 62.0, later, Calls, Special, Rules, Associated]
+keywords: [RecruitmentRequisitionPtcp, user, group, participants, recruitment, requisition, API, 62.0]
 ---
-
-# RecruitmentRequisitionPtcp
 
 > Represents information about a user or group of participants who have
          access to a recruitment requisition. This object is available in API version 62.0 and

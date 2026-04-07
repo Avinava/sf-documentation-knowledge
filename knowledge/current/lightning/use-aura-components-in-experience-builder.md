@@ -5,12 +5,10 @@ topic: use-aura-components-in-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.942Z
+lastCollected: 2026-04-07T18:38:02.872Z
 estimatedTokens: 676
-keywords: [Aura, Components, Experience, Builder, custom, component, configure, bundle, they’re, compatible]
+keywords: [Aura, Experience, Builder, configure, bundle, they’re, compatible]
 ---
-
-# Use Aura Components in Experience Builder
 
 > To use a custom Aura component in Experience Builder, you must configure the component
   and its component bundle so that they’re compatible.

@@ -5,12 +5,10 @@ topic: order-summaries-create-multiple-invoices-from-change-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.606Z
+lastCollected: 2026-04-07T18:37:15.669Z
 estimatedTokens: 575
 keywords: [Order, Summaries, Multiple, Invoices, Change, Orders, represent, charges, increase, amounts, fees, ensure, refund, include, any]
 ---
-
-# Order Summaries, Create Multiple Invoices from Change Orders
 
 > Create Invoices to represent the charges for one or more change
       orders. Create Invoices for change orders that increase order amounts, such as for return

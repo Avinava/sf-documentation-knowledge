@@ -5,12 +5,10 @@ topic: salesforce-crm-conversationreasonexcerpt-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.214Z
+lastCollected: 2026-04-07T18:35:52.017Z
 estimatedTokens: 443
-keywords: [Salesforce, CRM, ConversationReasonExcerpt, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
+keywords: [Salesforce, CRM, ConversationReasonExcerpt, Mapping, mappings, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: ConversationReasonExcerpt Mapping
 
 > These data mappings are for the ConversationReasonExcerpt DLO found in the Services
   bundle of the Salesforce CRM Connector for Data

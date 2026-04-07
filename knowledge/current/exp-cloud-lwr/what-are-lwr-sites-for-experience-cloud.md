@@ -5,12 +5,10 @@ topic: what-are-lwr-sites-for-experience-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.132Z
+lastCollected: 2026-04-07T18:37:33.499Z
 estimatedTokens: 921
-keywords: [LWR, Sites, Experience, Cloud, Powered, Lightning, Web, Runtime, deliver, unparalleled, site, performance, improve, developer, productivity]
+keywords: [LWR, Sites, Experience, Cloud, Powered, Lightning, Web, Runtime, deliver, unparalleled, site, performance, improve, developer, productivity, Build, Own, Microsite, templates, let, develop, blazing, fast, digital, experiences, websites, portals, microsites, programming, model, Enhanced]
 ---
-
-# What Are LWR Sites for Experience Cloud?
 
 > Powered by the Lightning Web Runtime (LWR), LWR sites deliver unparalleled site
     performance and improve developer productivity. The Build Your Own (LWR) and the Microsite (LWR)

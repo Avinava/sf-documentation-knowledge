@@ -5,12 +5,10 @@ topic: constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.524Z
+lastCollected: 2026-04-07T18:35:42.408Z
 estimatedTokens: 2677
-keywords: [Constraints, enforce, rules, conditions, variables, relationships, define, logical, restrictions, ensure, consistency, model, Logic, Operators, Arithmetic]
+keywords: [Constraints, enforce, conditions, variables, relationships, define, logical, restrictions, ensure, consistency, model, Logic, Operators, Arithmetic, Relational, Equality, Operator, Precedence, Constraint, Annotation]
 ---
-
-# Constraints
 
 > Constraints enforce rules and conditions on types, variables, and relationships. Use
     constraints to define logical restrictions and ensure consistency within the

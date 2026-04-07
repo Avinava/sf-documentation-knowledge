@@ -5,12 +5,10 @@ topic: loyaltypgmcurrencysubtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.904Z
+lastCollected: 2026-04-07T18:38:10.192Z
 estimatedTokens: 538
-keywords: [LoyaltyPgmCurrencySubtype, subtype, fixed-model, non-qualifying, loyalty, program, currency, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [LoyaltyPgmCurrencySubtype, subtype, fixed-model, non-qualifying, loyalty, program, currency, API, 61.0]
 ---
-
-# LoyaltyPgmCurrencySubtype
 
 > Represents a subtype of a fixed-model non-qualifying loyalty program
          currency. This object is available in API version 61.0 and later.

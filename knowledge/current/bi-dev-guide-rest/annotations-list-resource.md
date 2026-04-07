@@ -5,12 +5,10 @@ topic: annotations-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.913Z
+lastCollected: 2026-04-07T18:36:55.332Z
 estimatedTokens: 236
 keywords: [Annotations, Resource, creates, annotation]
 ---
-
-# Annotations List Resource
 
 > Returns a list of annotations and creates an
     annotation.

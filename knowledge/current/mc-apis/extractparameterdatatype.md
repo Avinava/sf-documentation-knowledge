@@ -5,12 +5,10 @@ topic: extractparameterdatatype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.800Z
+lastCollected: 2026-04-07T18:40:16.963Z
 estimatedTokens: 117
 keywords: [ExtractParameterDataType]
 ---
-
-# ExtractParameterDataType
 
 # ExtractParameterDataType
 

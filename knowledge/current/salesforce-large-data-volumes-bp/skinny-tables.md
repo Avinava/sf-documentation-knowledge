@@ -5,12 +5,10 @@ topic: skinny-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:24.242Z
+lastCollected: 2026-04-07T18:39:17.918Z
 estimatedTokens: 798
-keywords: [Skinny, Tables, Salesforce, contain, frequently, avoid, joins, improve, performance, certain, read-only, operations, kept, sync, their]
+keywords: [Considerations, Skinny, Tables, Salesforce, contain, frequently, avoid, joins, improve, performance, certain, read-only, operations, kept, sync, their, source, modified, How]
 ---
-
-# Skinny Tables
 
 > Salesforce can create skinny tables to contain frequently used fields and to
       avoid joins. This can improve the performance of certain read-only operations. Skinny tables

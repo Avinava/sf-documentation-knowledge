@@ -5,12 +5,10 @@ topic: preview-cancel-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.720Z
+lastCollected: 2026-04-07T18:37:21.833Z
 estimatedTokens: 144
-keywords: [Preview, Cancel, Output, Expected, financial, proposed, action]
+keywords: [Preview, Cancel, Expected, financial, proposed, action]
 ---
-
-# Preview Cancel Output
 
 > Expected financial values for a proposed cancel
     action.

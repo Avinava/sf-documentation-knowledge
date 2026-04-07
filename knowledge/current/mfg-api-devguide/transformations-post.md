@@ -5,12 +5,10 @@ topic: transformations-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.386Z
+lastCollected: 2026-04-07T18:38:12.679Z
 estimatedTokens: 465
-keywords: [Transformations, POST, Perform, business, transformation, program, component, forecast, data, source, opportunities, target, scenarios, MfgProgramCpntFrcstFact, Opportunity]
+keywords: [Transformations, POST, Perform, business, transformation, program, forecast, source, opportunities, target, scenarios, MfgProgramCpntFrcstFact, Opportunity, ManufacturingProgram, OpportunityLineItem, Period, OpportunityLineItemSchedule]
 ---
-
-# Transformations (POST)
 
 > Perform the business transformation of program component forecast
       data (source object) to opportunities (target object). The following are some of the

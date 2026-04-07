@@ -5,12 +5,10 @@ topic: reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.832Z
+lastCollected: 2026-04-07T18:38:04.988Z
 estimatedTokens: 215
 keywords: [links, documentation]
 ---
-
-# Reference
 
 > This section contains links to reference documentation.
 

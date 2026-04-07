@@ -6,13 +6,10 @@ topic: salesforceactivity-salesforcelistactivity-and-salesforceexpandablelistact
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.505Z
+lastCollected: 2026-04-07T18:40:24.907Z
 estimatedTokens: 216
 keywords: [SalesforceActivity, SalesforceListActivity, SalesforceExpandableListActivity, Classes, skeletal, base, native, SDK, activities, They, extend, android.app.Activity, android.app.ListActivity, android.app.ExpandableListActivity, respectively]
 ---
-
-# SalesforceActivity, SalesforceListActivity,
- and SalesforceExpandableListActivity Classes
 
 > SalesforceActivity, SalesforceListActivity, and SalesforceExpandableListActivity are the skeletal base classes for native SDK
    activities. They extend android.app.Activity, android.app.ListActivity, and android.app.ExpandableListActivity, respectively.

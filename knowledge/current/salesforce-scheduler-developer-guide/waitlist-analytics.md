@@ -5,12 +5,10 @@ topic: waitlist-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.599Z
+lastCollected: 2026-04-07T18:39:20.326Z
 estimatedTokens: 146
-keywords: [Waitlist, Analytics, Output, representation]
+keywords: [Waitlist, Analytics]
 ---
-
-# Waitlist Analytics
 
 > Output representation of the waitlist analytics.
 

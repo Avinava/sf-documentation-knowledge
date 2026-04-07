@@ -5,12 +5,10 @@ topic: about-the-apex-debugging-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.343Z
+lastCollected: 2026-04-07T18:35:42.212Z
 estimatedTokens: 133
 keywords: [Apex, Debugging, Log, File, three, sections, RLM_CONFIGURATOR_BEGIN, RLM_CONFIGURATOR_STATS, RLM_CONFIGURATOR_END, RLM, _CONFIGURATOR, _BEGIN, _STATS, _END]
 ---
-
-# About the Apex Debugging Log File
 
 > The Apex debugging log file contains three sections: RLM_CONFIGURATOR_BEGIN,
     RLM_CONFIGURATOR_STATS, and RLM_CONFIGURATOR_END.

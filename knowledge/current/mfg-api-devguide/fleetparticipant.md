@@ -5,12 +5,10 @@ topic: fleetparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.463Z
+lastCollected: 2026-04-07T18:38:13.762Z
 estimatedTokens: 517
-keywords: [FleetParticipant, relationship, fleet, participant, account, contact, user, API, version, 59.0, later, Calls]
+keywords: [FleetParticipant, relationship, fleet, participant, account, contact, user, API, 59.0]
 ---
-
-# FleetParticipant
 
 > Represents the relationship between a fleet and a participant, such as an
          account, a contact, or a user. This object is available in API version 59.0 and

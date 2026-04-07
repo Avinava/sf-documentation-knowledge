@@ -5,12 +5,10 @@ topic: filteractivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.881Z
+lastCollected: 2026-04-07T18:40:17.033Z
 estimatedTokens: 517
-keywords: [FilterActivity, logic, data, filter, subscriber, select, group, subscribers, satisfy, criteria, Items]
+keywords: [FilterActivity, logic, filter, subscriber, select, group, subscribers, satisfy, criteria, Items]
 ---
-
-# FilterActivity
 
 > The FilterActivity object applies the logic of a data filter to a subscriber list you select to create a group of subscribers who satisfy the filter criteria.
 

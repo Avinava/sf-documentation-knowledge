@@ -5,12 +5,10 @@ topic: role
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.725Z
+lastCollected: 2026-04-07T18:40:18.933Z
 estimatedTokens: 591
 keywords: [Role, roles, permissions, assigned, user, Marketing, Cloud, Items]
 ---
-
-# Role
 
 > The Role object defines roles and permissions assigned to a user in Marketing Cloud.
 

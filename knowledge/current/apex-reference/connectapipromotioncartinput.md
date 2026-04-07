@@ -5,12 +5,10 @@ topic: connectapipromotioncartinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.796Z
+lastCollected: 2026-04-07T18:36:06.141Z
 estimatedTokens: 451
 keywords: [ConnectApi.PromotionCartInput, Cart, promotion, evaluation]
 ---
-
-# ConnectApi.PromotionCartInput
 
 > Cart during promotion evaluation.
 

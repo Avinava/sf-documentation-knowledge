@@ -5,12 +5,10 @@ topic: customnotificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:46.808Z
+lastCollected: 2026-04-07T18:36:32.269Z
 estimatedTokens: 714
-keywords: [CustomNotificationType, Stores, custom, notification, API, version, 46.0, later, Calls]
+keywords: [CustomNotificationType, Stores, notification, API, 46.0]
 ---
-
-# CustomNotificationType
 
 > Stores information about custom notification types. This object is available in API version 46.0 and later.
 

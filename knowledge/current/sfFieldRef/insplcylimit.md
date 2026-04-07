@@ -5,12 +5,10 @@ topic: insplcylimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.249Z
+lastCollected: 2026-04-07T18:39:44.817Z
 estimatedTokens: 333
-keywords: [InsPlcyLimit, data, that's, base, track, insurance, policy, consumption, API, version, 65.0, later]
+keywords: [InsPlcyLimit, that's, base, track, insurance, policy, consumption, API, 65.0]
 ---
-
-# InsPlcyLimit
 
 > Represents the data that's used as a base to track the insurance policy
          consumption. This object is available in API version 65.0 and later.

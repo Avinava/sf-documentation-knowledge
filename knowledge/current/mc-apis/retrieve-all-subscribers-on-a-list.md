@@ -5,12 +5,10 @@ topic: retrieve-all-subscribers-on-a-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.611Z
+lastCollected: 2026-04-07T18:40:18.814Z
 estimatedTokens: 1033
-keywords: [Retrieve, Subscribers, retrieving, Why, How, Sample, NET, Code, Output, PHP, SOAP, Envelope]
+keywords: [Retrieve, Subscribers, retrieving, Why, How, Sample, NET, Code, PHP, SOAP, Envelope]
 ---
-
-# Retrieve All Subscribers on a List
 
 > This page contains information  about retrieving all subscribers on a list.
 

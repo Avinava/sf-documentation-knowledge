@@ -5,12 +5,10 @@ topic: field-schema-details-available-using-objecttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.355Z
+lastCollected: 2026-04-07T18:38:52.665Z
 estimatedTokens: 1741
-keywords: [Schema, $ObjectType, variable, access, variety, objects, organization, labels, data]
+keywords: [Schema, $ObjectType, variable, variety, organization, labels]
 ---
-
-# Field Schema Details Available Using  $ObjectType
 
 > The $ObjectType global variable provides access to a variety
          of schema information about the objects in your organization. Use it to reference names,

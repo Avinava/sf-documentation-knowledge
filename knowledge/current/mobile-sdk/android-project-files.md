@@ -5,12 +5,10 @@ topic: android-project-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.618Z
+lastCollected: 2026-04-07T18:40:25.019Z
 estimatedTokens: 198
 keywords: [Android, Project, Files, browse, native, app, window, Studio, library, projects]
 ---
-
-# Android Project Files
 
 > When you browse a native app in the Project window of Android Studio, you can find
       these library projects:

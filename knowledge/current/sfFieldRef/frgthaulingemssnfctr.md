@@ -5,12 +5,10 @@ topic: frgthaulingemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.815Z
+lastCollected: 2026-04-07T18:39:41.452Z
 estimatedTokens: 491
 keywords: [FrgtHaulingEmssnFctr, emissions, factors, scope, freight, hauling]
 ---
-
-# FrgtHaulingEmssnFctr
 
 > Represents the emissions factors for scope 3 freight hauling.
 

@@ -5,12 +5,10 @@ topic: loyaltypgmpartnercurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.903Z
+lastCollected: 2026-04-07T18:39:47.392Z
 estimatedTokens: 352
 keywords: [LoyaltyPgmPartnerCurrency, junction, loyalty, program, partner, currency]
 ---
-
-# LoyaltyPgmPartnerCurrency
 
 > Represents a junction between a loyalty program partner and a loyalty program
          currency.

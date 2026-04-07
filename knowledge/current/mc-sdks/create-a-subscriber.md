@@ -5,12 +5,10 @@ topic: create-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.301Z
+lastCollected: 2026-04-07T18:40:24.750Z
 estimatedTokens: 754
-keywords: [Subscriber, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Subscriber, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a Subscriber
 
 > Use the Post method to create a new subscriber within a Marketing Cloud account.
 

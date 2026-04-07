@@ -5,12 +5,10 @@ topic: gifttributehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.186Z
+lastCollected: 2026-04-07T18:39:42.791Z
 estimatedTokens: 258
-keywords: [GiftTributeHistory, History, tracked, GiftTribute]
+keywords: [GiftTributeHistory, tracked, GiftTribute]
 ---
-
-# GiftTributeHistory
 
 > History for tracked fields of GiftTribute.
 

@@ -5,12 +5,10 @@ topic: set-up-call-transcription-with-amazon-transcribe
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.579Z
+lastCollected: 2026-04-07T18:40:12.562Z
 estimatedTokens: 547
-keywords: [Call, Transcription, Amazon, Transcribe, real-time, configure, Connect, contact, flow, invoke, kvsConsumerTrigger, Lambda, function, verify, AWS]
+keywords: [Call, Transcription, Amazon, Transcribe, real-time, configure, Connect, contact, flow, invoke, kvsConsumerTrigger, Lambda, function, verify, AWS, region, service, quota, settings]
 ---
-
-# Set Up Call Transcription with Amazon Transcribe
 
 > To set up real-time call transcription with Amazon Transcribe,
       configure the Amazon Connect contact flow to invoke the kvsConsumerTrigger Lambda function,

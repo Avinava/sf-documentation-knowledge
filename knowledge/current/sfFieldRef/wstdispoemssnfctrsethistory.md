@@ -5,12 +5,10 @@ topic: wstdispoemssnfctrsethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.628Z
+lastCollected: 2026-04-07T18:40:07.566Z
 estimatedTokens: 276
-keywords: [WstDispoEmssnFctrSetHistory, History, tracked, WstDispoEmssnFctrSet]
+keywords: [WstDispoEmssnFctrSetHistory, tracked, WstDispoEmssnFctrSet]
 ---
-
-# WstDispoEmssnFctrSetHistory
 
 > History for tracked fields of WstDispoEmssnFctrSet.
 

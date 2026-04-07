@@ -5,12 +5,10 @@ topic: cancelscheduledpublicationofarticlearticleid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.465Z
+lastCollected: 2026-04-07T18:37:53.750Z
 estimatedTokens: 71
 keywords: [cancelScheduledPublicationOfArticle, articleId, Cancels, scheduled, publication, draft, article]
 ---
-
-# cancelScheduledPublicationOfArticle(articleId)
 
 > Cancels the scheduled publication of a draft article.
 

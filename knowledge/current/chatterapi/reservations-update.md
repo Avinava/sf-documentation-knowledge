@@ -5,12 +5,10 @@ topic: reservations-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.952Z
+lastCollected: 2026-04-07T18:37:14.999Z
 estimatedTokens: 416
 keywords: [Reservations, Updates, reservation, Omnichannel, Inventory, Add, remove, quantities, SKUs]
 ---
-
-# Reservations, Update
 
 > Updates an existing reservation in Omnichannel Inventory. Add, remove,
       and update quantities for existing SKUs in the reservation.

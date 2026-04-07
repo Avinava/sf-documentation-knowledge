@@ -5,12 +5,10 @@ topic: order-summary-adjustment-aggregates-async-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.635Z
+lastCollected: 2026-04-07T18:37:09.364Z
 estimatedTokens: 97
-keywords: [Order, Summary, Adjustment, Aggregates, Async, Input, IDs, calculating]
+keywords: [Order, Summary, Adjustment, Aggregates, Async, IDs, calculating]
 ---
-
-# Order Summary Adjustment Aggregates Async Input
 
 > Order summary IDs for calculating adjustment
     aggregates.

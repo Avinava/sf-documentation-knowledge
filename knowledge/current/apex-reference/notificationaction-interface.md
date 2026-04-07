@@ -5,13 +5,11 @@ topic: notificationaction-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.201Z
+lastCollected: 2026-04-07T18:36:13.504Z
 estimatedTokens: 630
 namespace: Reports
-keywords: [NotificationAction, Implement, trigger, custom, Apex, conditions, report, notification, met, Usage, execute, context, Implementation]
+keywords: [NotificationAction, Implement, trigger, Apex, conditions, report, notification, met, execute, context, Implementation]
 ---
-
-# NotificationAction Interface
 
 > Implement this interface to trigger a custom Apex class when the
       conditions for a report notification are met.

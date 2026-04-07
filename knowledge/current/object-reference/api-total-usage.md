@@ -5,12 +5,10 @@ topic: api-total-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:39.968Z
+lastCollected: 2026-04-07T18:38:30.772Z
 estimatedTokens: 963
-keywords: [API, Total, Usage, events, contain, Platform, SOAP, REST, Bulk, requests]
+keywords: [API, Total, events, contain, Platform, SOAP, REST, Bulk, requests]
 ---
-
-# API Total Usage
 
 > API Total usage events contain details about Platform SOAP API,
 			Platform REST API, and Bulk API requests.

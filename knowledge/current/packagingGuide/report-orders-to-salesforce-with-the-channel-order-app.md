@@ -5,12 +5,10 @@ topic: report-orders-to-salesforce-with-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.576Z
+lastCollected: 2026-04-07T18:38:46.445Z
 estimatedTokens: 313
-keywords: [Report, Orders, Salesforce, Channel, Order, App, manage, submit, COA, you’re, OEM, partner, provision, licenses, revenue]
+keywords: [Report, Orders, Salesforce, Channel, Order, App, manage, submit, COA, you’re, OEM, partner, provision, licenses, revenue, sharing, ISV, AppExchange, Checkout, customer, payments, don’t, partners, automatically, reported, customers, purchase, solution]
 ---
-
-# Report Orders to Salesforce with the Channel Order App
 
 > Create, manage, and submit orders to Salesforce with the Channel Order App (COA). If
                 you’re an OEM partner, you can use the COA to provision Salesforce licenses and for

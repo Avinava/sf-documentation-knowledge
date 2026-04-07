@@ -5,12 +5,10 @@ topic: ampscript-variable-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.852Z
+lastCollected: 2026-04-07T18:40:23.274Z
 estimatedTokens: 114
-keywords: [AMPscript, Variable, Functions, retrieves, declared, JavaScript, context, allowing, languages, necessary, activities, variables, follow, variable-naming, server-side]
+keywords: [AMPscript, Variable, Functions, retrieves, declared, JavaScript, context, allowing, languages, necessary, activities, variables, follow, variable-naming, server-side, add, prefix, any]
 ---
-
-# AMPscript Variable Functions
 
 > The Variable object retrieves values from declared AMPscript variable in the JavaScript context, allowing you to use both languages as necessary for your activities. All variables must follow the AMPscript variable-naming syntax. Variable server-side JavaScript functions will add a @ prefix to any v
 

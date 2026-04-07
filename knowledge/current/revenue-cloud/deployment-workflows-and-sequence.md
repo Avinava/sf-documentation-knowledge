@@ -5,12 +5,10 @@ topic: deployment-workflows-and-sequence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.302Z
+lastCollected: 2026-04-07T18:35:47.335Z
 estimatedTokens: 1092
-keywords: [Deployment, Workflows, Sequence, typical, dev, ops, cycle, involves, managing, test, orgs, sandboxes, production, org, workflow]
+keywords: [Deployment, Workflows, Sequence, typical, dev, ops, cycle, involves, managing, test, orgs, sandboxes, production, org, workflow, simple, setup, development, much, complex, involving, multiple, staging, testing, any, changes, sent, Full, Incremental, Dependencies]
 ---
-
-# Deployment Workflows and Sequence
 
 > A typical dev ops cycle involves managing test orgs, sandboxes, and a production org.
     Your deployment workflow can be a simple deployment of all setup and data from a development org

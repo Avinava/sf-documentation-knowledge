@@ -5,12 +5,10 @@ topic: programrebatetypereference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.963Z
+lastCollected: 2026-04-07T18:37:06.665Z
 estimatedTokens: 348
-keywords: [ProgramRebateTypeReference, association, contract, opportunity, any, eligible, standard, custom, rebate, API, version, 52.0, later, Calls]
+keywords: [ProgramRebateTypeReference, association, contract, opportunity, any, eligible, standard, rebate, API, 52.0]
 ---
-
-# ProgramRebateTypeReference
 
 > Represents the association between the contract, opportunity, or any eligible
          standard or custom object, and rebate type. This object is available in API version

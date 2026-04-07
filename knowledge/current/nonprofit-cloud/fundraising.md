@@ -5,12 +5,10 @@ topic: fundraising
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.054Z
+lastCollected: 2026-04-07T18:38:22.015Z
 estimatedTokens: 500
-keywords: [Fundraising, objects, APIs, uses]
+keywords: [Fundraising, APIs, uses]
 ---
-
-# Fundraising
 
 > This guide provides information about the objects and APIs that Fundraising uses.
 

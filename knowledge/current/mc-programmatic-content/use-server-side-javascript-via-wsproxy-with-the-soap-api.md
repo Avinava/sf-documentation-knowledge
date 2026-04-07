@@ -5,12 +5,10 @@ topic: use-server-side-javascript-via-wsproxy-with-the-soap-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.433Z
+lastCollected: 2026-04-07T18:40:22.855Z
 estimatedTokens: 219
-keywords: [Server-Side, JavaScript, via, WSProxy, SOAP, API, legacy, accessing, data, including, SSJS, Core, Library, primarily, wrappers]
+keywords: [Server-Side, JavaScript, via, WSProxy, SOAP, API, legacy, accessing, including, SSJS, Core, Library, primarily, wrappers, around, AMPScript, functions, adds, overhead, processing, code, translates, different, language, runtimes]
 ---
-
-# Use Server-Side JavaScript via WSProxy with the SOAP API
 
 > The legacy methods for accessing SOAP object data, including what is used in the SSJS Core Library, are primarily wrappers around AMPScript functions. Using legacy SSJS methods adds overhead to the processing of the calls as the code translates the data between the different language runtimes.  The 
 

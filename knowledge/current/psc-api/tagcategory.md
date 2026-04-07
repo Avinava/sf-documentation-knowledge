@@ -5,12 +5,10 @@ topic: tagcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.279Z
+lastCollected: 2026-04-07T18:39:08.563Z
 estimatedTokens: 800
-keywords: [TagCategory, Group, similar, interest, tags, together, tag, categories, Calls, Associated, Objects]
+keywords: [TagCategory, Group, similar, interest, tags, together, tag, categories]
 ---
-
-# TagCategory
 
 > Group similar interest tags together into tag categories.
 

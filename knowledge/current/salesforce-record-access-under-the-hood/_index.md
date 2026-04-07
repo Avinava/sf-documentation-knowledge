@@ -2,7 +2,7 @@
 domain: salesforce-record-access-under-the-hood
 name: Record-Level Access: Under the Hood
 documentCount: 10
-lastGenerated: 2026-04-07T09:06:38.444Z
+lastGenerated: 2026-04-07T18:40:43.509Z
 ---
 
 # Record-Level Access: Under the Hood — Knowledge Index

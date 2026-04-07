@@ -5,12 +5,10 @@ topic: building-a-native-single-sign-on-experience-javascript-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.417Z
+lastCollected: 2026-04-07T18:37:39.356Z
 estimatedTokens: 393
-keywords: [Building, Native, Sign-On, Experience, JavaScript, Examples, high-level, understand, how, SSO, single-page, app, configuration, uses, redirect-based]
+keywords: [Building, Native, Sign-On, Experience, JavaScript, Examples, high-level, understand, how, SSO, single-page, app, configuration, uses, redirect-based, flow, seem, natively, integrates, provider, isn’t, technically, headless, user, flows, Constructing, Authorization, URL, Token, Exchange]
 ---
-
-# Building a Native Single Sign-On Experience JavaScript Examples
 
 > Use these high-level examples to understand how to create a native single sign-on (SSO)
   experience for a single-page app. This configuration uses a redirect-based flow to make it seem

@@ -5,12 +5,10 @@ topic: productsexpandscope-products-expand
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.168Z
+lastCollected: 2026-04-07T18:35:58.438Z
 estimatedTokens: 395
-keywords: [productsExpand, scope, products, expand, Fetches, expanded, product, aren’t, found, sObject, variable, reasons, added, output, supports]
+keywords: [productsExpand, scope, products, expand, Fetches, expanded, product, aren’t, found, sObject, variable, reasons, added, supports, extensibility, framework, lets, context, user, override, implementation, they, fetch, third-party, apps, application, doesn’t, require, two, separate, APIs, API, Requires, Chatter]
 ---
-
-# productsExpand(scope, products, expand)
 
 > Fetches expanded details of a product that aren’t found in the sObject. The expanded
     variable fields, such as return reasons, are added as output.

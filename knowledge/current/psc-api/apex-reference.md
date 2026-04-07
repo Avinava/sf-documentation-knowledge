@@ -5,13 +5,11 @@ topic: apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.183Z
+lastCollected: 2026-04-07T18:39:03.411Z
 estimatedTokens: 243
 namespace: DocumentReader
 keywords: [Apex, goes, detail, built-in, ConnectApi, classes, interfaces]
 ---
-
-# Apex Reference
 
 > This Apex reference goes into detail about the built-in Apex ConnectApi classes and interfaces.
 

@@ -5,12 +5,10 @@ topic: xmd-dimension-member-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.858Z
+lastCollected: 2026-04-07T18:36:55.273Z
 estimatedTokens: 131
-keywords: [Xmd, Dimension, Member, Input, extended, metadata, linked, Analytics, dataset]
+keywords: [Xmd, Dimension, Member, extended, metadata, linked, Analytics, dataset]
 ---
-
-# Xmd Dimension Member Input
 
 > The extended metadata (Xmd) for a member linked to a dimension in an Analytics
   dataset.

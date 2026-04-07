@@ -5,12 +5,10 @@ topic: salesforce-crm-loyalty-program-member-case-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.306Z
+lastCollected: 2026-04-07T18:35:53.251Z
 estimatedTokens: 272
-keywords: [Salesforce, CRM, Loyalty, Program, Member, Case, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud]
+keywords: [Salesforce, CRM, Loyalty, Program, Member, Case, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, refers, association, created, DMO]
 ---
-
-# Salesforce CRM: Loyalty Program Member Case Mapping
 
 > These data mappings are for the Loyalty Program Member Case DLO found in the Loyalty
   Management bundle of the Salesforce CRM Connector for Data Cloud. Data refers to an association

@@ -5,12 +5,10 @@ topic: application-utility-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.661Z
+lastCollected: 2026-04-07T18:40:24.094Z
 estimatedTokens: 82
-keywords: [Application, Utility, Functions, interact, Marketing, Cloud, Load]
+keywords: [Load, Application, Utility, Functions, interact, Marketing, Cloud]
 ---
-
-# Application Utility Functions
 
 > Use these functions to interact with the Marketing Cloud application.
 

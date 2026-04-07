@@ -5,12 +5,10 @@ topic: receipt-evaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.868Z
+lastCollected: 2026-04-07T18:38:09.163Z
 estimatedTokens: 1543
-keywords: [Receipt, Evaluation, Members, their, mobile, phones, upload, purchase, receipts, member, uploads, they, review, receipt’s, scanned]
+keywords: [Receipt, Evaluation, Members, their, mobile, phones, upload, purchase, receipts, member, uploads, they, review, receipt’s, scanned, line, items, submit, submitted, eligible, processed, transaction, journals, rewarded, define, how, evaluated, enable, Scanning, Confidence, Score, Ineligible, Item, Identifier]
 ---
-
-# Receipt Evaluation
 
 > Members use their mobile phones to upload their purchase receipts. After a member uploads
     a receipt, they can review the receipt’s scanned line items, and submit the scanned receipt.

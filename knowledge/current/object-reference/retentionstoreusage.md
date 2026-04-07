@@ -5,12 +5,10 @@ topic: retentionstoreusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.506Z
+lastCollected: 2026-04-07T18:38:40.089Z
 estimatedTokens: 704
-keywords: [RetentionStoreUsage, total, usage, org's, retention, store, measured, specific, points, time, API, version, 66.0, later, Calls]
+keywords: [RetentionStoreUsage, total, org's, retention, store, measured, specific, points, time, API, 66.0]
 ---
-
-# RetentionStoreUsage
 
 > Represents the total usage of the org's retention store measured at
          specific points in time. This object is available in API version 66.0 and

@@ -5,13 +5,11 @@ topic: serviceresourceschedule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.510Z
+lastCollected: 2026-04-07T18:36:02.717Z
 estimatedTokens: 711
 namespace: LxScheduler
 keywords: [ServiceResourceSchedule, pass, results, implemented, Apex, ServiceResourceScheduleHandler, serviceResourceId, unavailableTimeslots]
 ---
-
-# ServiceResourceSchedule Class
 
 > Use this class to pass results from your implemented Apex class to the
       ServiceResourceScheduleHandler interface methods.

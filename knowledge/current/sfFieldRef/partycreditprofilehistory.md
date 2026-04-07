@@ -5,12 +5,10 @@ topic: partycreditprofilehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.556Z
+lastCollected: 2026-04-07T18:39:51.972Z
 estimatedTokens: 268
-keywords: [PartyCreditProfileHistory, History, tracked, PartyCreditProfile]
+keywords: [PartyCreditProfileHistory, tracked, PartyCreditProfile]
 ---
-
-# PartyCreditProfileHistory
 
 > History for tracked fields of PartyCreditProfile.
 

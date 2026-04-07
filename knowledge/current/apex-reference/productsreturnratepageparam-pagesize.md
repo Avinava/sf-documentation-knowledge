@@ -5,12 +5,10 @@ topic: productsreturnratepageparam-pagesize
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.173Z
+lastCollected: 2026-04-07T18:35:58.442Z
 estimatedTokens: 357
-keywords: [productsReturnRate, pageParam, pageSize, pages, data, showing, rates, products, calculated, Customer, Platform, paginated, descending, order, API, their, Version, Requires, Chatter]
+keywords: [productsReturnRate, pageParam, pageSize, pages, showing, rates, products, calculated, Customer, Platform, paginated, descending, order, API, Requires, Chatter, their]
 ---
-
-# productsReturnRate(pageParam, pageSize)
 
 > Gets pages of data showing the return rates of products that are calculated by the
     Customer Data Platform. Return data is paginated in descending order.

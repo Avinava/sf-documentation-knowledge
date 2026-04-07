@@ -5,12 +5,10 @@ topic: workgoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:52.893Z
+lastCollected: 2026-04-07T18:38:44.703Z
 estimatedTokens: 2647
-keywords: [WorkGoal, components, goal, associated, metrics, deprecated, API, version, 35.0, query, WDC, goals, Calls, Objects]
+keywords: [WorkGoal, goal, metrics, deprecated, API, 35.0, query, WDC, goals]
 ---
-
-# WorkGoal
 
 > Represents the components of a goal, such as its description and
 			associated metrics. This object has been deprecated as of API version 35.0. Use

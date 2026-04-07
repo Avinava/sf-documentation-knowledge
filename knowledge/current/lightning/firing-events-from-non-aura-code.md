@@ -5,12 +5,10 @@ topic: firing-events-from-non-aura-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.023Z
+lastCollected: 2026-04-07T18:38:04.124Z
 estimatedTokens: 304
 keywords: [Firing, Events, Non-Aura, Code, fire, Aura, JavaScript, outside, app, call, communicate, back, once, it's]
 ---
-
-# Firing Events from Non-Aura Code
 
 > You can fire Aura events from JavaScript code outside an Aura app. For example, your Aura
     app might need to call out to some non-Aura code, and then have that code communicate back to

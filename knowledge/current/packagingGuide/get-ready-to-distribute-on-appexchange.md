@@ -5,12 +5,10 @@ topic: get-ready-to-distribute-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.279Z
+lastCollected: 2026-04-07T18:38:46.136Z
 estimatedTokens: 564
-keywords: [Ready, Distribute, AppExchange, solution, consulting, service, prerequisite, tasks, sign, Salesforce, Partner, Program, verify, Business, Org]
+keywords: [Ready, Distribute, AppExchange, solution, consulting, service, prerequisite, tasks, sign, Salesforce, Partner, Program, verify, Business, Org, familiar, resources, documentation, help, navigate, journey, efficiently]
 ---
-
-# Get Ready to Distribute on AppExchange
 
 > Before you list a solution or consulting service on AppExchange, complete the
     prerequisite tasks. First, sign up for the Salesforce Partner Program. Next, verify that you

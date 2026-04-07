@@ -5,12 +5,10 @@ topic: connectapisubmitcarttoexchangeorderoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.632Z
+lastCollected: 2026-04-07T18:36:11.915Z
 estimatedTokens: 273
 keywords: [Exhange, order, summary, resulting, submit, cart, exchange, action]
 ---
-
-# ConnectApi.SubmitCartToExchangeOrderOutputRepresentation
 
 > Exhange order summary resulting from a submit cart to exchange order
       action.

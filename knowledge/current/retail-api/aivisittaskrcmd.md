@@ -5,12 +5,10 @@ topic: aivisittaskrcmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.652Z
+lastCollected: 2026-04-07T18:39:12.178Z
 estimatedTokens: 1041
-keywords: [AiVisitTaskRcmd, visit, task, recommendations, accepted, rejected, sales, manager, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [AiVisitTaskRcmd, visit, task, recommendations, accepted, rejected, sales, manager, API, 51.0]
 ---
-
-# AiVisitTaskRcmd
 
 > Represents the visit task recommendations. These recommendations can be
       accepted or rejected by a sales manager.  This object is available in API version 51.0

@@ -5,12 +5,10 @@ topic: getselectedactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.263Z
+lastCollected: 2026-04-07T18:37:04.988Z
 estimatedTokens: 61
-keywords: [getSelectedActions, custom, components, access, selected, quick, actions, record, Arguments]
+keywords: [Arguments, getSelectedActions, selected, quick, actions, record]
 ---
-
-# getSelectedActions
 
 > Allows custom components to access selected quick actions on a record page.
 

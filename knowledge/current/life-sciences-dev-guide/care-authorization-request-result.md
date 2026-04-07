@@ -5,12 +5,10 @@ topic: care-authorization-request-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.262Z
+lastCollected: 2026-04-07T18:37:55.760Z
 estimatedTokens: 75
 keywords: [Care, Authorization, Result, POST, PATCH]
 ---
-
-# Care Authorization Request Result
 
 > Result of POST or PATCH request.
 

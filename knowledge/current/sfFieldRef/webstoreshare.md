@@ -5,12 +5,10 @@ topic: webstoreshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.721Z
+lastCollected: 2026-04-07T18:40:06.617Z
 estimatedTokens: 264
-keywords: [WebStoreShare, sharing, entry, B2B, D2C, store, API, version, 45.0, later]
+keywords: [WebStoreShare, sharing, entry, B2B, D2C, store, API, 45.0]
 ---
-
-# WebStoreShare
 
 > Represents a sharing entry on a B2B or D2C store. This object is
       available in API version 45.0 and later.

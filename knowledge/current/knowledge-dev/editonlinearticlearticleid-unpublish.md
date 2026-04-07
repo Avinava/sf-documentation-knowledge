@@ -5,12 +5,10 @@ topic: editonlinearticlearticleid-unpublish
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.500Z
+lastCollected: 2026-04-07T18:37:53.784Z
 estimatedTokens: 107
-keywords: [editOnlineArticle, articleId, unpublish, Creates, draft, article, online, version, new, primary, unpublishes]
+keywords: [editOnlineArticle, articleId, unpublish, Creates, draft, article, online, new, primary, unpublishes]
 ---
-
-# editOnlineArticle(articleId, unpublish)
 
 > Creates a draft article from the online version and returns the new draft primary version
   ID of the article. Also, unpublishes the online article, if unpublish is set to

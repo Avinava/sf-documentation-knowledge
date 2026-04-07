@@ -5,12 +5,10 @@ topic: product-classification-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.835Z
+lastCollected: 2026-04-07T18:35:44.849Z
 estimatedTokens: 299
 keywords: [Product, Classification, POST, Retrieve, records]
 ---
-
-# Product Classification Details (POST)
 
 > Retrieve the details for a list of product classification records.
 

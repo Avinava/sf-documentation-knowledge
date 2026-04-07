@@ -5,13 +5,11 @@ topic: financial-services-cloud-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.705Z
+lastCollected: 2026-04-07T18:37:35.338Z
 estimatedTokens: 354
 namespace: FinServ
-keywords: [Financial, Services, Cloud, Developer, objects, metadata, extend, Salesforce, Apex, trigger, provided]
+keywords: [Financial, Services, Cloud, Developer, metadata, extend, Salesforce, Apex, trigger, provided]
 ---
-
-# Financial Services Cloud Developer Guide
 
 > Use the fields, objects, and metadata that extend Salesforce for Financial Services
     Cloud. Apex trigger information is also provided.

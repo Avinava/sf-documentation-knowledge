@@ -5,12 +5,10 @@ topic: connectapigroupcensusmemberplaninputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.960Z
+lastCollected: 2026-04-07T18:37:49.826Z
 estimatedTokens: 147
-keywords: [Input, representation, plan, that's, associated, group, census, member]
+keywords: [plan, that's, group, census, member]
 ---
-
-# ConnectApi.GroupCensusMemberPlanInputRepresentation
 
 > Input representation for a single plan that's associated with a group census
   member.

@@ -5,12 +5,10 @@ topic: override-a-standard-action-with-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.371Z
+lastCollected: 2026-04-07T18:38:03.390Z
 estimatedTokens: 362
-keywords: [Override, Standard, Action, Aura, Component, Lightning, Experience, mobile]
+keywords: [Override, Standard, Action, Aura, Lightning, Experience, mobile]
 ---
-
-# Override a Standard Action with an Aura Component
 
 > You can override a standard action with an Aura component in both Lightning
         Experience and mobile.

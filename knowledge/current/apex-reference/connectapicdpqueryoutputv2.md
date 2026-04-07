@@ -5,12 +5,10 @@ topic: connectapicdpqueryoutputv2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.592Z
+lastCollected: 2026-04-07T18:36:07.973Z
 estimatedTokens: 480
-keywords: [ConnectApi.CdpQueryOutputV2, Query, output, API]
+keywords: [ConnectApi.CdpQueryOutputV2, Query, API]
 ---
-
-# ConnectApi.CdpQueryOutputV2
 
 > Query output for the V2 API.
 

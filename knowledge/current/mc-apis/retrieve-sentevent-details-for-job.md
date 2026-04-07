@@ -5,12 +5,10 @@ topic: retrieve-sentevent-details-for-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.531Z
+lastCollected: 2026-04-07T18:40:18.730Z
 estimatedTokens: 2428
-keywords: [Retrieve, SentEvent, Job, retrieving, sent, event, Why, How, Sample, NET, Code, ContinueRequest, events, Ruby, Rails]
+keywords: [Retrieve, SentEvent, Job, retrieving, sent, event, Why, How, Sample, NET, Code, ContinueRequest, events, Ruby, Rails, Java, Axis, 2.0, SOAP, Envelope]
 ---
-
-# Retrieve SentEvent Details for Job
 
 > This page contains information  about retrieving sent event details.
 

@@ -5,12 +5,10 @@ topic: big-object-query-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.397Z
+lastCollected: 2026-04-07T18:37:02.950Z
 estimatedTokens: 693
-keywords: [Big, Query, Examples, Understand, common, querying, cases, Customer, Degree, Filtering, Audit, Trail, Real-Time, Event, Monitoring]
+keywords: [Big, Query, Examples, Understand, common, querying, cases, Customer, Degree, Filtering, Audit, Trail, Real-Time, Event, Monitoring, Aggregate, Queries]
 ---
-
-# Big Object Query Examples
 
 > Understand some of the common big object querying use cases.
 

@@ -5,12 +5,10 @@ topic: assessmenttaskorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.648Z
+lastCollected: 2026-04-07T18:39:27.638Z
 estimatedTokens: 310
-keywords: [AssessmentTaskOrder, Define, order, activity, sales, rep, perform, visit, stores, API, version, 47.0, later]
+keywords: [AssessmentTaskOrder, Define, order, activity, sales, rep, perform, visit, stores, API, 47.0]
 ---
-
-# AssessmentTaskOrder
 
 > Define an order activity that the sales rep can perform during a visit to the
       stores. This object is available in API version 47.0 and later.

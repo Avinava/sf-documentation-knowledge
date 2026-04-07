@@ -5,12 +5,10 @@ topic: validationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.822Z
+lastCollected: 2026-04-07T18:40:21.092Z
 estimatedTokens: 181
 keywords: [ValidationResult, specific, results, validation, call]
 ---
-
-# ValidationResult
 
 > The ValidationResult object contains specific results of validation call.
 

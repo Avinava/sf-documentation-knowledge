@@ -5,12 +5,10 @@ topic: order-delivery-group-summary-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.170Z
+lastCollected: 2026-04-07T18:37:21.319Z
 estimatedTokens: 256
 keywords: [Order, Delivery, Group, Summary, Collection, summaries]
 ---
-
-# Order Delivery Group Summary Collection
 
 > Collection of order delivery group summaries.
 

@@ -5,12 +5,10 @@ topic: actioncadencetracker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.821Z
+lastCollected: 2026-04-07T18:38:24.686Z
 estimatedTokens: 2006
-keywords: [ActionCadenceTracker, active, cadence, target, API, version, 45.0, later, Calls, Usage, Associated, Objects]
+keywords: [ActionCadenceTracker, active, cadence, target, API, 45.0]
 ---
-
-# ActionCadenceTracker
 
 > Represents an active cadence target. This object is available in
 		API version 45.0 and later.

@@ -5,12 +5,10 @@ topic: liveagentclientchatcancelbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.814Z
+lastCollected: 2026-04-07T18:38:50.035Z
 estimatedTokens: 205
-keywords: [liveAgent, clientChatCancelButton, button, chat, window, visitor, clicks, cancel, session, Attributes]
+keywords: [Attributes, liveAgent, clientChatCancelButton, button, chat, window, visitor, clicks, cancel, session]
 ---
-
-# liveAgent:clientChatCancelButton
 
 > The button within a chat window a visitor clicks to cancel a chat session.
 

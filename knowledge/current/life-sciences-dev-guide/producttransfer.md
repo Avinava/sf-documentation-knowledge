@@ -5,12 +5,10 @@ topic: producttransfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.344Z
+lastCollected: 2026-04-07T18:37:57.876Z
 estimatedTokens: 486
-keywords: [ProductTransfer, Standard, custom, extend, Product, Transfer, represent, inventory, locations, API, version, 65.0, later, Calls, transfer, service, Associated, Objects]
+keywords: [ProductTransfer, Standard, extend, Product, Transfer, represent, inventory, locations, API, 65.0, transfer, service]
 ---
-
-# ProductTransfer
 
 > Represents the transfer of inventory between locations in field
       service.

@@ -5,12 +5,10 @@ topic: messaginglink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.388Z
+lastCollected: 2026-04-07T18:38:35.637Z
 estimatedTokens: 358
-keywords: [MessagingLink, link, Messaging, Channel, it's, shared, API, version, 47.0, later, Calls]
+keywords: [MessagingLink, link, Messaging, Channel, it's, shared, API, 47.0]
 ---
-
-# MessagingLink
 
 > Represents the link between a Messaging Channel and where it's shared.
     This object is available in API version 47.0 and later.

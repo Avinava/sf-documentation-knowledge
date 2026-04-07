@@ -5,12 +5,10 @@ topic: message-segment-input-hash-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.315Z
+lastCollected: 2026-04-07T18:37:09.082Z
 estimatedTokens: 174
-keywords: [Message, Segment, Input, Hash, Tag, Inline, because, tags, parsed, Text, segments]
+keywords: [Message, Segment, Hash, Tag, Inline, because, tags, parsed, Text, segments]
 ---
-
-# Message Segment Input: Hash Tag
 
 > Inline hash tag input. The use of this segment is optional because hash tags are also
     parsed out of Text segments.

@@ -5,12 +5,10 @@ topic: rebateprogrammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.107Z
+lastCollected: 2026-04-07T18:37:06.815Z
 estimatedTokens: 546
-keywords: [RebateProgramMember, member, rebate, program, virtue, partner, business, account, eligible, payments, ABC, Enterprises, HVAC, Corp, members]
+keywords: [RebateProgramMember, member, rebate, program, virtue, partner, business, account, eligible, payments, ABC, Enterprises, HVAC, Corp, members, GoldStone, Volume, API, 51.0]
 ---
-
-# RebateProgramMember
 
 > The member of a rebate program. By virtue of being a member, the partner or
       business account is eligible to get rebate payments. For example, ABC Enterprises and HVAC

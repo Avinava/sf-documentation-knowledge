@@ -5,12 +5,10 @@ topic: product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.677Z
+lastCollected: 2026-04-07T18:36:20.913Z
 estimatedTokens: 405
 keywords: [Product, Schedules, Work, revenue, quantity, opportunity, products, Establish, reestablish, schedule, multiple, installments]
 ---
-
-# Product Schedules
 
 > Work with revenue and quantity schedules for opportunity products. Establish or
     reestablish a product schedule with multiple installments for an opportunity product. Delete all

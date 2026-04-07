@@ -5,12 +5,10 @@ topic: lookup-tables-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.190Z
+lastCollected: 2026-04-07T18:39:04.314Z
 estimatedTokens: 403
-keywords: [Lookup, Tables, Standard, Objects, activate, components]
+keywords: [Lookup, Tables, Standard, activate]
 ---
-
-# Lookup Tables Standard Objects
 
 > Use standard objects to create, update, and activate Lookup Table
     components.

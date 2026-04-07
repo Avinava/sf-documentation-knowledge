@@ -5,12 +5,10 @@ topic: custom-activity-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.995Z
+lastCollected: 2026-04-07T18:40:21.272Z
 estimatedTokens: 405
-keywords: [Custom, Activity, web, applications, build, according, specifications, Journey, Builder, recognizes, recommendations, implement, app's, file, structure]
+keywords: [Activity, web, applications, build, according, specifications, Journey, Builder, recognizes, recommendations, implement, app's, file, structure, preferences, business, needs, Recommended]
 ---
-
-# Custom Activity UI
 
 > A custom activity is web applications that you build according to specifications that Journey Builder recognizes. Using these recommendations, you can implement your app's file structure according to your preferences and business needs.
 

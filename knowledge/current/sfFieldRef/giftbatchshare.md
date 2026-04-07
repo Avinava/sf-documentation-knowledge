@@ -5,12 +5,10 @@ topic: giftbatchshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.904Z
+lastCollected: 2026-04-07T18:39:42.540Z
 estimatedTokens: 247
 keywords: [GiftBatchShare, Sharing, GiftBatch]
 ---
-
-# GiftBatchShare
 
 > Sharing for GiftBatch.
 

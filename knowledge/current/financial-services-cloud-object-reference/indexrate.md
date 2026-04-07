@@ -5,12 +5,10 @@ topic: indexrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.733Z
+lastCollected: 2026-04-07T18:37:37.533Z
 estimatedTokens: 941
-keywords: [IndexRate, base, rate, that’s, defined, authority, API, version, 61.0, later, Digital, Lending, permission, Calls, Associated]
+keywords: [IndexRate, base, rate, that’s, defined, authority, API, 61.0, Digital, Lending, permission]
 ---
-
-# IndexRate
 
 > Represents a base rate that’s defined by an authority. This
       object is available in API version 61.0 and later. Available with Digital Lending permission

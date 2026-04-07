@@ -5,12 +5,10 @@ topic: integration-procedure-service-run-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:51.586Z
+lastCollected: 2026-04-07T18:36:37.119Z
 estimatedTokens: 828
-keywords: [Integration, Procedure, Service, Run, Options, Input, representation, customize, refine, execution]
+keywords: [Integration, Procedure, Service, Run, Options, customize, refine, execution]
 ---
-
-# Integration Procedure Service Run Options
 
 > Input representation of the optional parameters to customize and refine the execution of
     the integration procedure.

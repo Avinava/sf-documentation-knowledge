@@ -5,12 +5,10 @@ topic: redeem-voucher-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.162Z
+lastCollected: 2026-04-07T18:38:07.382Z
 estimatedTokens: 464
-keywords: [Redeem, Voucher, Input, representation, redemption]
+keywords: [Redeem, Voucher, redemption]
 ---
-
-# Redeem Voucher Input
 
 > Input representation for voucher redemption.
 

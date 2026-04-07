@@ -5,12 +5,10 @@ topic: custodychainentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.171Z
+lastCollected: 2026-04-07T18:37:59.844Z
 estimatedTokens: 1672
-keywords: [CustodyChainEntry, entry, event, chain, custody, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [CustodyChainEntry, entry, event, chain, custody, API, 59.0]
 ---
-
-# CustodyChainEntry
 
 > Represents information about an entry or event in the chain of custody.
       This object is available in API version 59.0 and later.

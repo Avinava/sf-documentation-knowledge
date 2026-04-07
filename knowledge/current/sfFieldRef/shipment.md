@@ -5,12 +5,10 @@ topic: shipment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.386Z
+lastCollected: 2026-04-07T18:40:02.091Z
 estimatedTokens: 834
 keywords: [Shipment, transport, inventory, service, order, items, Management]
 ---
-
-# Shipment
 
 > Represents the transport of inventory in field service or a shipment
 			of order items in Order Management.

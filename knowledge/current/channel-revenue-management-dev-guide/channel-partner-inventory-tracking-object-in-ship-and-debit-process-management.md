@@ -5,12 +5,10 @@ topic: channel-partner-inventory-tracking-object-in-ship-and-debit-process-manag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.029Z
+lastCollected: 2026-04-07T18:37:05.731Z
 estimatedTokens: 170
-keywords: [Channel, Partner, Inventory, Tracking, Ship, Debit, Process, Management, access, standard, monitor, deduction, link, credit, transactions]
+keywords: [Channel, Partner, Inventory, Ship, Debit, Process, Management, standard, monitor, deduction, link, credit, transactions]
 ---
-
-# Channel Partner Inventory Tracking Object in Ship and Debit Process Management
 
 > Channel Partner Inventory Tracking provides access to a standard
                   object that you can use in Ship and Debit Process Management to monitor the

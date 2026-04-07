@@ -5,13 +5,11 @@ topic: displaytype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.355Z
+lastCollected: 2026-04-07T18:36:12.651Z
 estimatedTokens: 693
 namespace: Schema
-keywords: [DisplayType, Schema.DisplayType, describe, result's, getType, Usage]
+keywords: [DisplayType, Schema.DisplayType, describe, result's, getType]
 ---
-
-# DisplayType Enum
 
 > A Schema.DisplayType enum value is returned by the field describe result's getType method.
 

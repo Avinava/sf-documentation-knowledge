@@ -5,12 +5,10 @@ topic: service-cloud-voice-lwc-toolkit-api-telephony-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.081Z
+lastCollected: 2026-04-07T18:40:13.021Z
 estimatedTokens: 2660
-keywords: [Service, Cloud, Voice, LWC, Toolkit, API, Telephony, Events, components, context-aware, listening, take, place, phone, calls]
+keywords: [Service, Cloud, Voice, LWC, Toolkit, API, Telephony, Events, context-aware, listening, take, place, phone]
 ---
-
-# Service Cloud Voice LWC Toolkit API Telephony Events
 
 > Make your LWC components context-aware by listening to events that take place during
   phone calls.

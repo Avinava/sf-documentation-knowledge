@@ -5,12 +5,10 @@ topic: sample-cross-object-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.465Z
+lastCollected: 2026-04-07T18:40:12.487Z
 estimatedTokens: 1092
-keywords: [Sample, Cross, Validation, Rules, Examples, three, opportunity, products, Discounts, Range, Prevent, Changing, Closed, Opportunities, Saving]
+keywords: [Sample, Cross, Validation, Examples, three, opportunity, products, Discounts, Range, Prevent, Changing, Closed, Opportunities, Saving, Case, Account, Support, Contact, Longer, Company]
 ---
-
-# Sample Cross Object Validation Rules
 
 > Examples for three validation rules on opportunity products.
 

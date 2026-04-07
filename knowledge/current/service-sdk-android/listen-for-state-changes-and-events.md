@@ -5,12 +5,10 @@ topic: listen-for-state-changes-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.556Z
+lastCollected: 2026-04-07T18:40:27.712Z
 estimatedTokens: 1072
-keywords: [Listen, State, Changes, Events, add, listeners, chat, session, respond, accordingly, instance, client, ends, display, dialog]
+keywords: [Listen, State, Changes, Events, add, listeners, chat, session, respond, accordingly, instance, client, ends, display, dialog, user]
 ---
-
-# Listen for State Changes and Events
 
 > You can add listeners for state changes and events during a chat
       session and respond accordingly. For instance, when the client ends a session, you can display

@@ -5,12 +5,10 @@ topic: predict-values-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:25.742Z
+lastCollected: 2026-04-07T18:39:19.431Z
 estimatedTokens: 102
 keywords: [Predict, Setup, node]
 ---
-
-# Predict Values Setup
 
 > The setup for a predict values node field.
 

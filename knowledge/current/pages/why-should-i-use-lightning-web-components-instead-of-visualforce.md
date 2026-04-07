@@ -6,13 +6,10 @@ topic: why-should-i-use-lightning-web-components-instead-of-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.334Z
+lastCollected: 2026-04-07T18:38:51.587Z
 estimatedTokens: 777
-keywords: [Why, Lightning, Web, Components, instead, Visualforce, new, development, Salesforce, recommends, Experience, low-code, tools, over, modern]
+keywords: [Why, Lightning, Web, instead, Visualforce, new, development, Salesforce, recommends, Experience, low-code, tools, over, modern, performant, responsive, functionality, Platform, various, ways, advanced, administrators, developers, build, cust]
 ---
-
-# Why Should I Use Lightning Web Components instead of
-  Visualforce?
 
 > For new development, Salesforce recommends using Lightning Experience low-code tools and
    Lightning web components over Visualforce for the most modern, performant, and responsive

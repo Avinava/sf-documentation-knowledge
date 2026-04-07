@@ -5,12 +5,10 @@ topic: contentdistributionview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.767Z
+lastCollected: 2026-04-07T18:39:35.213Z
 estimatedTokens: 290
-keywords: [ContentDistributionView, views, shared, document, read-only, API, version, 32.0, later]
+keywords: [ContentDistributionView, views, shared, document, read-only, API, 32.0]
 ---
-
-# ContentDistributionView
 
 > Represents information about views of a shared document. This
 		read-only object is available in API version 32.0 and later.

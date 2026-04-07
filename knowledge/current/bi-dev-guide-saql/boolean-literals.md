@@ -5,12 +5,10 @@ topic: boolean-literals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.781Z
+lastCollected: 2026-04-07T18:37:00.288Z
 estimatedTokens: 47
 keywords: [Literals, literal, yes, script]
 ---
-
-# Boolean Literals
 
 > A boolean literal represents true or false (yes or no) in your script.
 

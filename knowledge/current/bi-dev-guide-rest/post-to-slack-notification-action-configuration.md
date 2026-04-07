@@ -5,12 +5,10 @@ topic: post-to-slack-notification-action-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.030Z
+lastCollected: 2026-04-07T18:36:57.547Z
 estimatedTokens: 259
 keywords: [Post, Slack, Notification, Action, Configuration, posting]
 ---
-
-# Post To Slack Notification Action Configuration
 
 > The notification action configuration for posting to Slack.
 

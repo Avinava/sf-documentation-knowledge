@@ -5,12 +5,10 @@ topic: feed-elements-capability-record-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.798Z
+lastCollected: 2026-04-07T18:37:13.758Z
 estimatedTokens: 223
-keywords: [Feed, Elements, Capability, Record, Snapshot, Access, element]
+keywords: [Capability, Record, Snapshot]
 ---
-
-# Feed Elements Capability, Record Snapshot
 
 > Access the record snapshot capability of a feed
     element.

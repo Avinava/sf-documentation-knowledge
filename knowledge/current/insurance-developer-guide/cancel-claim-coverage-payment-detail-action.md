@@ -5,12 +5,10 @@ topic: cancel-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.916Z
+lastCollected: 2026-04-07T18:37:48.620Z
 estimatedTokens: 240
-keywords: [Cancel, Claim, Coverage, Payment, Detail, Action, record, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Cancel, Claim, Coverage, Payment, Detail, Action, record, REST, HTTP]
 ---
-
-# Cancel Claim Coverage Payment Detail Action
 
 > Cancel payment for a claim coverage payment detail record.
 

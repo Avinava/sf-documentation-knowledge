@@ -5,13 +5,11 @@ topic: rtrreportresultmockrtrreportresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.021Z
+lastCollected: 2026-04-07T18:39:10.478Z
 estimatedTokens: 191
 namespace: The
 keywords: [RTRReportResult.MockRTRReportResult, mock, responses, unit, test, execution, Implementation]
 ---
-
-# RTRReportResult.MockRTRReportResult
 
 > This class is used to create mock responses for the unit test execution.
 

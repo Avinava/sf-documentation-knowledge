@@ -5,12 +5,10 @@ topic: follow-visualforce-design-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:56.660Z
+lastCollected: 2026-04-07T18:38:48.608Z
 estimatedTokens: 442
-keywords: [Follow, Visualforce, Design, Guidelines, optimize, performance, task-centric, pages, standard, objects, declarative, features, flatten, component, hierarchies]
+keywords: [Follow, Visualforce, Design, Guidelines, optimize, performance, task-centric, pages, standard, declarative, features, flatten, hierarchies, Wherever, Possible]
 ---
-
-# Follow Visualforce Design Guidelines
 
 > To optimize Visualforce page performance, design task-centric pages, use standard objects
         and declarative features, and flatten component hierarchies.

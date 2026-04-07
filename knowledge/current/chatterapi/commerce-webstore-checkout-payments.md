@@ -5,12 +5,10 @@ topic: commerce-webstore-checkout-payments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.490Z
+lastCollected: 2026-04-07T18:37:12.372Z
 estimatedTokens: 767
 keywords: [Commerce, Webstore, Checkout, Payments, Payment, store]
 ---
-
-# Commerce Webstore Checkout Payments
 
 > Payment for a Commerce store checkout.
 

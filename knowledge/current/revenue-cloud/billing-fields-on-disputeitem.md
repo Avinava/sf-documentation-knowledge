@@ -5,12 +5,10 @@ topic: billing-fields-on-disputeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.215Z
+lastCollected: 2026-04-07T18:35:42.068Z
 estimatedTokens: 328
-keywords: [Billing, DisputeItem, specific, invoice, line, charge, that’s, disputed, include, total, transaction, amount, date, reason, status]
+keywords: [Billing, DisputeItem, specific, invoice, line, charge, that’s, disputed, include, total, transaction, amount, date, reason, status, dispute, API, 66.0]
 ---
-
-# Billing Fields on DisputeItem
 
 > Represents a specific invoice line or charge that’s being disputed. The
          details include the total transaction amount, transaction date, disputed amount, reason,

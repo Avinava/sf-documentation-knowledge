@@ -5,12 +5,10 @@ topic: enblprogramtaskdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.597Z
+lastCollected: 2026-04-07T18:38:30.416Z
 estimatedTokens: 1552
-keywords: [EnblProgramTaskDefinition, outcome, milestone, exercise, Enablement, program, task, known, item, API, version, 60.0, later, Calls, Special]
+keywords: [EnblProgramTaskDefinition, outcome, milestone, exercise, Enablement, program, task, known, item, API, 60.0]
 ---
-
-# EnblProgramTaskDefinition
 
 > Represents an outcome, a milestone, or an exercise in an Enablement
          program. A program task is also known as a program item. This object is available in

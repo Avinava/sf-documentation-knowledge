@@ -5,12 +5,10 @@ topic: data-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.719Z
+lastCollected: 2026-04-07T18:35:45.720Z
 estimatedTokens: 133
-keywords: [Data, Row, Output, representation]
+keywords: [Row]
 ---
-
-# Data Row
 
 > Output representation of the details of a data row.
 

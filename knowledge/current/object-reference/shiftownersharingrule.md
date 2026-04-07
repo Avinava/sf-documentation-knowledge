@@ -5,12 +5,10 @@ topic: shiftownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.488Z
+lastCollected: 2026-04-07T18:38:41.135Z
 estimatedTokens: 701
-keywords: [ShiftOwnerSharingRule, rules, sharing, shift, user, records, owner, anyone, above, role, hierarchy, API, versions, 46.0, later]
+keywords: [ShiftOwnerSharingRule, sharing, shift, user, records, owner, anyone, above, role, hierarchy, API, versions, 46.0]
 ---
-
-# ShiftOwnerSharingRule
 
 > Represents the rules for sharing a shift with user records other than
          the owner or anyone above the owner in the role hierarchy. Available in API versions

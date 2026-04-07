@@ -5,12 +5,10 @@ topic: userdailymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.757Z
+lastCollected: 2026-04-07T18:38:43.525Z
 estimatedTokens: 2192
-keywords: [UserDailyMetric, daily, engagement, metrics, user, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [UserDailyMetric, daily, engagement, metrics, user, API, 52.0]
 ---
-
-# UserDailyMetric
 
 > Represents the daily engagement metrics for a user. This object is
       available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: predict-jobs-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.549Z
+lastCollected: 2026-04-07T18:36:59.047Z
 estimatedTokens: 264
-keywords: [Predict, Jobs, Resources, run, bulk, scoring, predictions, enable, multiple, records, time, deploying, updated, model, refresh]
+keywords: [Predict, Jobs, Resources, run, bulk, scoring, predictions, enable, multiple, records, time, deploying, updated, model, refresh, prediction, scores]
 ---
-
-# Predict Jobs Resources
 
 > Predict jobs run bulk scoring jobs for predictions. Bulk scoring jobs enable scoring predictions on multiple records at a time. For example, after 
  deploying an updated model, use bulk scoring to refresh all prediction scores.

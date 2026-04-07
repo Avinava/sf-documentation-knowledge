@@ -5,12 +5,10 @@ topic: signedrecordingurlresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.778Z
+lastCollected: 2026-04-07T18:39:23.714Z
 estimatedTokens: 185
 keywords: [SignedRecordingUrlResult, result, getting, signed, recording, URL, Functions]
 ---
-
-# SignedRecordingUrlResult
 
 > Represents the result when getting the signed recording
         URL.

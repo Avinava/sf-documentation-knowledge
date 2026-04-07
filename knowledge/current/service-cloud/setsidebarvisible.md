@@ -5,12 +5,10 @@ topic: setsidebarvisible
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.654Z
+lastCollected: 2026-04-07T18:36:50.921Z
 estimatedTokens: 272
-keywords: [setSidebarVisible, hides, console, sidebar, tabId, region, API, version, 33.0, later, isn’t, Lightning, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, setSidebarVisible, hides, console, sidebar, tabId, region, API, 33.0, isn’t, Lightning, Sample, Code–Visualforce]
 ---
-
-# setSidebarVisible()
 
 > Shows or hides a console sidebar based on tabId and region. This method is available in API version
       33.0 or later. This method isn’t supported in Lightning Console.

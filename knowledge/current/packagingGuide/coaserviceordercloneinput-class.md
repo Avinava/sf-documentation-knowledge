@@ -5,12 +5,10 @@ topic: coaserviceordercloneinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.845Z
+lastCollected: 2026-04-07T18:38:45.669Z
 estimatedTokens: 157
-keywords: [COA_ServiceOrderCloneInput, Wrapper, input, passed, clone, operation, COA, _ServiceOrderCloneInput]
+keywords: [COA_ServiceOrderCloneInput, Wrapper, passed, clone, operation, COA, _ServiceOrderCloneInput]
 ---
-
-# COA_ServiceOrderCloneInput Class
 
 > Wrapper class for input parameters passed to the clone operation.
 

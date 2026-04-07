@@ -5,12 +5,10 @@ topic: connectapicreditmemoapplyinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.565Z
+lastCollected: 2026-04-07T18:35:41.423Z
 estimatedTokens: 137
-keywords: [ConnectApi.CreditMemoApplyInputRequest, Input, representation, apply, credit, memo, invoice]
+keywords: [ConnectApi.CreditMemoApplyInputRequest, apply, credit, memo, invoice]
 ---
-
-# ConnectApi.CreditMemoApplyInputRequest
 
 > Input representation of the request to apply a credit memo to an invoice.
 

@@ -5,12 +5,10 @@ topic: start-an-email-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.223Z
+lastCollected: 2026-04-07T18:40:20.456Z
 estimatedTokens: 3323
-keywords: [Start, Email, Send, Definition, how, Why, Sample, NET, Code, Output, Filter, Java, Axis2, Ruby, Rails]
+keywords: [Start, Email, Send, Definition, how, Why, Sample, NET, Code, Filter, Java, Axis2, Ruby, Rails, SOAP]
 ---
-
-# Start an Email Send Definition
 
 > This page contains information on how to start an email send definition.
 

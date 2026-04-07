@@ -5,12 +5,10 @@ topic: schema-field-format-symbols-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.947Z
+lastCollected: 2026-04-07T18:39:18.672Z
 estimatedTokens: 113
-keywords: [Schema, Symbols, Input, node, recipe]
+keywords: [Schema, Symbols, node, recipe]
 ---
-
-# Schema Field Format Symbols Input
 
 > The field format symbols for a schema node in a recipe.
 

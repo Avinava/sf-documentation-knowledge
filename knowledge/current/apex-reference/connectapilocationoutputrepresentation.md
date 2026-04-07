@@ -5,12 +5,10 @@ topic: connectapilocationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.328Z
+lastCollected: 2026-04-07T18:36:09.717Z
 estimatedTokens: 84
 keywords: [ConnectApi.LocationOutputRepresentation, inventory, location’s, distance, order, recipient]
 ---
-
-# ConnectApi.LocationOutputRepresentation
 
 > An inventory location’s distance to an order
     recipient.

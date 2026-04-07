@@ -5,12 +5,10 @@ topic: cdp-standards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.449Z
+lastCollected: 2026-04-07T18:38:17.040Z
 estimatedTokens: 12511
 keywords: [CDP, Standards, help, investors, companies, cities, states, regions, manage, their, environmental, impacts]
 ---
-
-# CDP Standards
 
 > The CDP standards help investors, companies, cities, states, and regions to manage
         their environmental impacts.

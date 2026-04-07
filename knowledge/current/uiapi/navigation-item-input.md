@@ -5,12 +5,10 @@ topic: navigation-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.796Z
+lastCollected: 2026-04-07T18:40:10.775Z
 estimatedTokens: 263
-keywords: [Navigation, Item, Input, items, order, want, appear, app]
+keywords: [Navigation, Item, items, order, want, appear, app]
 ---
-
-# Navigation Item Input
 
 > Represents the list of navigation items in the order that you want
       them to appear in the app.

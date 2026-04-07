@@ -5,12 +5,10 @@ topic: commerce-webstore-promotions-coupon-code-redemption-increase
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.165Z
+lastCollected: 2026-04-07T18:37:13.106Z
 estimatedTokens: 224
-keywords: [Commerce, Webstore, Promotions, Coupon, Code, Redemption, Increase, addition, usage]
+keywords: [Commerce, Webstore, Promotions, Coupon, Code, Redemption, Increase, addition]
 ---
-
-# Commerce Webstore Promotions, Coupon Code Redemption, Increase
 
 > Get coupon code redemption addition (increase)
     usage.

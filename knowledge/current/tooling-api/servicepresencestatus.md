@@ -5,12 +5,10 @@ topic: servicepresencestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.061Z
+lastCollected: 2026-04-07T18:36:34.475Z
 estimatedTokens: 215
-keywords: [ServicePresenceStatus, presence, status, assigned, service, channel, API, version, 65.0, later, SOAP, Calls, REST, Special, Access]
+keywords: [ServicePresenceStatus, presence, status, assigned, service, channel, API, 65.0, SOAP, REST]
 ---
-
-# ServicePresenceStatus
 
 > Represents a presence status that can be assigned to a service channel. This
          object is available in API version 65.0 and later.

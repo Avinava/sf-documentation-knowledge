@@ -5,12 +5,10 @@ topic: product-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.311Z
+lastCollected: 2026-04-07T18:39:11.852Z
 estimatedTokens: 200
 keywords: [Product, Dimension, configure, integration, export, sales, org, CSV, exports, executed, meta, JSON]
 ---
-
-# Product Dimension
 
 > You must configure product dimension for integration export for each sales org on which
   CSV exports is executed.

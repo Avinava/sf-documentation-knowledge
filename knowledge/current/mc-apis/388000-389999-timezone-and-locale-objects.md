@@ -5,12 +5,10 @@ topic: 388000-389999-timezone-and-locale-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.746Z
+lastCollected: 2026-04-07T18:40:14.753Z
 estimatedTokens: 73
-keywords: [388000-389999, TimeZone, Locale, Objects]
+keywords: [388000-389999, TimeZone, Locale]
 ---
-
-# 388000-389999 TimeZone and Locale Objects
 
 # 388000-389999 TimeZone and Locale Objects
 

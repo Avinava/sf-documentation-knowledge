@@ -5,12 +5,10 @@ topic: configurator-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:00.442Z
+lastCollected: 2026-04-07T18:35:45.416Z
 estimatedTokens: 697
-keywords: [Configurator, Attribute, Output, representation, product, configuration]
+keywords: [Configurator, Attribute, product, configuration]
 ---
-
-# Configurator Attribute
 
 > Output representation of the attribute in a product configuration.
 

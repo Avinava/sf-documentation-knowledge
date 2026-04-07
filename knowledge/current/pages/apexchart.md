@@ -5,13 +5,11 @@ topic: apexchart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.138Z
+lastCollected: 2026-04-07T18:38:49.136Z
 estimatedTokens: 1075
 namespace: MyNamespace.MyChart
-keywords: [apex, chart, Visualforce, general, characteristics, including, size, data, binding, Attributes]
+keywords: [Attributes, apex, chart, Visualforce, general, characteristics, including, size, binding]
 ---
-
-# apex:chart
 
 > A Visualforce chart. Defines general characteristics of the chart, including size and data binding.
 

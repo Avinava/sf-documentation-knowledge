@@ -5,12 +5,10 @@ topic: post-a-rich-text-feed-element-with-a-code-block
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.873Z
+lastCollected: 2026-04-07T18:36:19.101Z
 estimatedTokens: 234
-keywords: [Post, Rich-Text, Feed, Element, Code, Block, Call]
+keywords: [Post, Rich-Text, Code, Block, Call]
 ---
-
-# Post a Rich-Text Feed Element with a Code Block
 
 > Call a method to post a feed element with a code block.
 

@@ -5,12 +5,10 @@ topic: models-and-model-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.491Z
+lastCollected: 2026-04-07T18:40:25.866Z
 estimatedTokens: 142
-keywords: [Models, Model, Collections, Two, objects, Mobile, Sync, data, framework]
+keywords: [Models, Model, Collections, Two, Mobile, Sync, framework]
 ---
-
-# Models and Model Collections
 
 > Two types of objects make up the Mobile Sync data framework:
 

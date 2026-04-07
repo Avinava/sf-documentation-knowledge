@@ -5,12 +5,10 @@ topic: returnorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.047Z
+lastCollected: 2026-04-07T18:36:48.023Z
 estimatedTokens: 4995
-keywords: [ReturnOrder, repair, inventory, products, Service, order, Management, API, version, 42.0, later, Calls, Special, Access, Rules]
+keywords: [ReturnOrder, repair, inventory, products, Service, order, Management, API, 42.0]
 ---
-
-# ReturnOrder
 
 > Represents the return or repair of inventory or products in Field
 			Service, or the return of order products in Order Management. This object is

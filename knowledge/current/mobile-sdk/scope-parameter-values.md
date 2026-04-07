@@ -5,12 +5,10 @@ topic: scope-parameter-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.508Z
+lastCollected: 2026-04-07T18:40:26.772Z
 estimatedTokens: 1584
 keywords: [Scope, OAuth, requires, configuration, server, client, agreement, two, sides, contract, Side]
 ---
-
-# Scope Parameter Values
 
 > OAuth requires scope configuration both on server and on client. The
    agreement between the two sides defines the scope contract.

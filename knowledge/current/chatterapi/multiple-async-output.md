@@ -5,12 +5,10 @@ topic: multiple-async-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:33.685Z
+lastCollected: 2026-04-07T18:37:20.875Z
 estimatedTokens: 298
-keywords: [Multiple, Async, Output, IDs, asynchronous, background, operations, includes, operation, regardless, whether, calls, made, external, payment]
+keywords: [Multiple, Async, IDs, asynchronous, background, operations, includes, operation, regardless, whether, made, external, payment, gateway, doesn’t, include, any, errors]
 ---
-
-# Multiple Async Output
 
 > IDs of the asynchronous background operations. This output only
       includes the operation IDs, regardless of whether calls are made to an external payment

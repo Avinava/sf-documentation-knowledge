@@ -5,12 +5,10 @@ topic: get-contactsv1contactsactionsrestrictstatusoperationid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.924Z
+lastCollected: 2026-04-07T18:40:14.945Z
 estimatedTokens: 467
-keywords: [contacts, actions, restrict, status?operationID=, Retrieves, status, contact, operation, **Overview**, Usage]
+keywords: [contacts, actions, restrict, status?operationID=, Retrieves, status, contact, operation, **Overview**]
 ---
-
-# GET /contacts/v1/contacts/actions/restrict/status?operationID=
 
 > Retrieves the status of the contact restrict operation.
 

@@ -5,12 +5,10 @@ topic: post-contactsv1contactsactionsdeletetypekeys
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.936Z
+lastCollected: 2026-04-07T18:40:14.957Z
 estimatedTokens: 632
-keywords: [POST, contacts, actions, delete?type=keys, Deletes, contact, key, operation, runs, asynchronously, OperationID, check, status, **Overview**, Usage]
+keywords: [POST, contacts, actions, delete?type=keys, Deletes, contact, key, operation, runs, asynchronously, OperationID, check, status, **Overview**]
 ---
-
-# POST /contacts/v1/contacts/actions/delete?type=keys
 
 > Deletes contacts based on specified contact key values. This operation runs asynchronously. Use the OperationID value returned to check the status of the delete.
 

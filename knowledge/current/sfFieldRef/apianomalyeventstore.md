@@ -5,12 +5,10 @@ topic: apianomalyeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.021Z
+lastCollected: 2026-04-07T18:39:25.975Z
 estimatedTokens: 497
-keywords: [ApiAnomalyEventStore, Tracks, anomalies, how, users, API, calls, stores, event, data, ApiAnomalyEvent, version, 50.0, later]
+keywords: [ApiAnomalyEventStore, Tracks, anomalies, how, users, API, stores, event, ApiAnomalyEvent, 50.0]
 ---
-
-# ApiAnomalyEventStore
 
 > Tracks anomalies in how users make API calls. ApiAnomalyEventStore is
          an object that stores the event data of ApiAnomalyEvent. This object is available in API

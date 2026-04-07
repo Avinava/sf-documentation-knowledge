@@ -5,12 +5,10 @@ topic: omnisupervisorconfigtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.945Z
+lastCollected: 2026-04-07T18:39:50.373Z
 estimatedTokens: 274
-keywords: [OmniSupervisorConfigTab, visible, tabs, Omni, Supervisor, configuration, API, version, 60.0, later]
+keywords: [OmniSupervisorConfigTab, visible, tabs, Omni, Supervisor, configuration, API, 60.0]
 ---
-
-# OmniSupervisorConfigTab
 
 > Represents the visible tabs specified in an Omni Supervisor configuration. This object is available in API version 60.0 and later.
 

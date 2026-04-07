@@ -5,12 +5,10 @@ topic: android-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.737Z
+lastCollected: 2026-04-07T18:40:27.879Z
 estimatedTokens: 308
 keywords: [Android, Examples]
 ---
-
-# Android Examples
 
 > Use these examples to learn more about the
 

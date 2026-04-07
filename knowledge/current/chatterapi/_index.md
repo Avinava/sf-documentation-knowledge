@@ -2,7 +2,7 @@
 domain: chatterapi
 name: Connect REST API Developer Guide
 documentCount: 2465
-lastGenerated: 2026-04-07T09:06:36.313Z
+lastGenerated: 2026-04-07T18:40:41.653Z
 ---
 
 # Connect REST API Developer Guide — Knowledge Index

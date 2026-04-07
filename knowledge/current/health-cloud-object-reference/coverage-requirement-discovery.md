@@ -5,12 +5,10 @@ topic: coverage-requirement-discovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.285Z
+lastCollected: 2026-04-07T18:37:42.427Z
 estimatedTokens: 1082
-keywords: [Coverage, Requirement, Discovery, Payer, organizations, healthcare, industry, FHIR-aligned, CRD, data, model, help, providers, access, member]
+keywords: [Coverage, Requirement, Discovery, Payer, organizations, healthcare, industry, FHIR-aligned, CRD, model, help, providers, member, coverage-related, real, time, directly, their, Electronic, Health, Records, EHR, system, automation, reduces, spent, administrative, tasks, improves, chances, approval, helps, reducing, human, errors]
 ---
-
-# Coverage Requirement Discovery
 
 > Payer organizations in the healthcare industry can use the FHIR-aligned Coverage
   Requirement Discovery (CRD) data model to help providers access member and coverage-related

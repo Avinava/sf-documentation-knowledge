@@ -6,13 +6,10 @@ topic: auraif-clean-unrendered-body-clean-unrendered-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.718Z
+lastCollected: 2026-04-07T18:38:04.865Z
 estimatedTokens: 461
-keywords: [<aura, if>, —Clean, Unrendered, occurs, change, isTrue, attribute, tag, rendering, cycle, destroyed, avoidable, work, framework]
+keywords: [<aura, if>, —Clean, Unrendered, occurs, change, isTrue, attribute, tag, rendering, cycle, destroyed, avoidable, work, framework, slows, down, time, How, Fix]
 ---
-
-# <aura:if> —Clean Unrendered Body —Clean
-   Unrendered Body
 
 > This warning occurs when you change the isTrue attribute of an <aura:if>
             tag from true to false in the same rendering cycle. The unrendered body of the <aura:if> must be destroyed, which is avoidable work

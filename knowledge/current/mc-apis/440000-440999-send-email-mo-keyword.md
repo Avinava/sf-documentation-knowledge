@@ -5,12 +5,10 @@ topic: 440000-440999-send-email-mo-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.813Z
+lastCollected: 2026-04-07T18:40:14.829Z
 estimatedTokens: 206
 keywords: [440000-440999, Send, Email, Keyword]
 ---
-
-# 440000-440999 Send Email MO Keyword
 
 # 440000-440999 Send Email MO Keyword
 

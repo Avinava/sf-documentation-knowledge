@@ -5,12 +5,10 @@ topic: carbon-credit-distribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.408Z
+lastCollected: 2026-04-07T18:38:17.003Z
 estimatedTokens: 168
-keywords: [Carbon, Credit, Distribution, junction, sustainability, allocation, objects, offset, emissions, items, specify, activity]
+keywords: [Carbon, Credit, Distribution, junction, sustainability, allocation, offset, emissions, items, specify, activity]
 ---
-
-# Carbon Credit Distribution
 
 > The Carbon Credit Distribution object represents a junction between the sustainability
     credit and carbon credit allocation objects. To offset emissions for carbon credit allocation

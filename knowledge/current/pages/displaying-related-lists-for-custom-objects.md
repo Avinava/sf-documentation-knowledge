@@ -5,12 +5,10 @@ topic: displaying-related-lists-for-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.702Z
+lastCollected: 2026-04-07T18:38:52.009Z
 estimatedTokens: 288
-keywords: [Displaying, Custom, Objects, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect]
+keywords: [Displaying, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations]
 ---
-
-# Displaying Related Lists for Custom Objects
 
 > Where possible, we changed noninclusive terms to align with our
   company value of Equality. We maintained certain terms to avoid any effect on

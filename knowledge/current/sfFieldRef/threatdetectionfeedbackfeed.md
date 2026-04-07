@@ -5,12 +5,10 @@ topic: threatdetectionfeedbackfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.277Z
+lastCollected: 2026-04-07T18:40:04.009Z
 estimatedTokens: 364
-keywords: [ThreatDetectionFeedbackFeed, Feed, tracking, ThreatDetectionFeedback]
+keywords: [ThreatDetectionFeedbackFeed, ThreatDetectionFeedback]
 ---
-
-# ThreatDetectionFeedbackFeed
 
 > Feed tracking for ThreatDetectionFeedback.
 

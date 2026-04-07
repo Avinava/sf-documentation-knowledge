@@ -5,12 +5,10 @@ topic: conditional-if-else-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.370Z
+lastCollected: 2026-04-07T18:36:19.589Z
 estimatedTokens: 76
 keywords: [Conditional, If-Else, Statements, statement, Apex, works, similarly, Java]
 ---
-
-# Conditional (If-Else) Statements
 
 > The conditional statement in Apex works similarly to Java.
 

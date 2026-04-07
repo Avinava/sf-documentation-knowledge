@@ -5,12 +5,10 @@ topic: create-a-trialforce-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.858Z
+lastCollected: 2026-04-07T18:38:47.812Z
 estimatedTokens: 859
 keywords: [Trialforce, Template, configure, templates, Setup, approximate, snapshot, Source, Organization, TSO, instance, time]
 ---
-
-# Create a Trialforce Template
 
 > Create and configure Trialforce templates in Setup. A Trialforce template is an
       approximate snapshot of your Trialforce Source Organization (TSO) at a given instance in

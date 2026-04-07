@@ -5,12 +5,10 @@ topic: prompterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.735Z
+lastCollected: 2026-04-07T18:38:39.244Z
 estimatedTokens: 859
-keywords: [PromptError, error, associated, PromptAction, API, version, 52.0, later, Calls, Special, Access, Rules, Objects]
+keywords: [PromptError, error, PromptAction, API, 52.0]
 ---
-
-# PromptError
 
 > Represents the error or warning associated with the PromptAction. Available in API version 52.0 and later.
 

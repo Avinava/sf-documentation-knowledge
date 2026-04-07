@@ -5,12 +5,10 @@ topic: feed-elements-capability-bundle-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.620Z
+lastCollected: 2026-04-07T18:37:13.568Z
 estimatedTokens: 453
-keywords: [Feed, Elements, Capability, Bundle, Access, grouped, together]
+keywords: [Capability, Bundle, grouped, together]
 ---
-
-# Feed Elements Capability, Bundle Elements
 
 > Access all feed elements that are grouped
 together in a bundle.

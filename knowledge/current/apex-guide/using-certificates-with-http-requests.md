@@ -5,12 +5,10 @@ topic: using-certificates-with-http-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.857Z
+lastCollected: 2026-04-07T18:36:16.081Z
 estimatedTokens: 227
 keywords: [Certificates, HTTP, Requests, generated, certificate, Salesforce, support, two-way, authentication, callout]
 ---
-
-# Using Certificates with HTTP Requests
 
 > After you have generated a certificate in Salesforce, you can use it to support two-way
    authentication for a callout to an HTTP request.

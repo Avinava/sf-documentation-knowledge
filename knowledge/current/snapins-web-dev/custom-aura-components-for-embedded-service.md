@@ -5,12 +5,10 @@ topic: custom-aura-components-for-embedded-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.618Z
+lastCollected: 2026-04-07T18:40:09.567Z
 estimatedTokens: 781
-keywords: [Custom, Aura, Components, Embedded, Service, adapt, user, original, don’t, offer, flexibility, ease, compared, Lightning, Web]
+keywords: [Aura, Embedded, Service, adapt, user, original, don’t, offer, flexibility, ease, compared, Lightning, Web]
 ---
-
-# Custom Aura Components for Embedded Service
 
 > Use Aura components to adapt the user interface for your embedded components.
                 Aura components are the original components and don’t offer the same flexibility and

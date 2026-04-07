@@ -5,12 +5,10 @@ topic: securitysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:44.123Z
+lastCollected: 2026-04-07T18:36:29.548Z
 estimatedTokens: 8672
-keywords: [SecuritySettings, org’s, security, settings, define, trusted, ranges, network, access, password, login, requirements, session, expiration, sign-on]
+keywords: [SecuritySettings, NetworkAccess, IpRange, PasswordPolicies, SessionSettings, SingleSignOnSettings, org’s, security, settings, define, trusted, ranges, network, password, login, requirements, session, expiration, sign-on, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SecuritySettings
 
 > Represents an org’s security settings. For
             example, settings define trusted IP ranges for network access, password and login

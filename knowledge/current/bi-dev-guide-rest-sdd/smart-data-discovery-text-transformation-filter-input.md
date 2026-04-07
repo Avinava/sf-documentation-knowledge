@@ -5,12 +5,10 @@ topic: smart-data-discovery-text-transformation-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.394Z
+lastCollected: 2026-04-07T18:36:58.891Z
 estimatedTokens: 192
-keywords: [Smart, Data, Discovery, Text, Transformation, Filter, Input]
+keywords: [Smart, Discovery, Text, Transformation, Filter]
 ---
-
-# Smart Data Discovery Text Transformation Filter Input
 
 > The input for a text transformation filter.
 

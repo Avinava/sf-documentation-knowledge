@@ -5,13 +5,11 @@ topic: reportfact-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.960Z
+lastCollected: 2026-04-07T18:36:03.171Z
 estimatedTokens: 514
 namespace: Reports
-keywords: [ReportFact, fact, map, report, report’s, data, Usage, getAggregates, getKey]
+keywords: [ReportFact, fact, map, report, report’s, getAggregates, getKey]
 ---
-
-# ReportFact Class
 
 > Contains the fact map for the report, which represents
 the report’s data values.

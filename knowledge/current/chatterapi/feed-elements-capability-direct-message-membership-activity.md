@@ -5,12 +5,10 @@ topic: feed-elements-capability-direct-message-membership-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.703Z
+lastCollected: 2026-04-07T18:37:13.667Z
 estimatedTokens: 245
-keywords: [Feed, Elements, Capability, Direct, Message, Membership, Activity, activities]
+keywords: [Capability, Direct, Message, Membership, Activity, activities]
 ---
-
-# Feed Elements Capability, Direct Message Membership Activity
 
 > Get the membership activities for a direct message.
 

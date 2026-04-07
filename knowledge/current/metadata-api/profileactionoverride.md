@@ -5,12 +5,10 @@ topic: profileactionoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.165Z
+lastCollected: 2026-04-07T18:36:28.682Z
 estimatedTokens: 1468
-keywords: [ProfileActionOverride, override, ActionOverride, user, profile, standard, Home, tab, record, Lightning, Experience, logs, matching, assignment, precedence]
+keywords: [ProfileActionOverride, override, ActionOverride, user, profile, standard, Home, tab, record, Lightning, Experience, logs, matching, assignment, precedence, over, overrides, API, versions, 39.0, 44.0, accessing, encompassing, CustomApplication, metadata, 45.0, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ProfileActionOverride
 
 > Represents an override of an ActionOverride by a
       user profile. You can use it to override an ActionOverride on a standard Home tab or object

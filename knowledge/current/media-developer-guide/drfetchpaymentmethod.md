@@ -5,12 +5,10 @@ topic: drfetchpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.011Z
+lastCollected: 2026-04-07T18:38:11.277Z
 estimatedTokens: 102
-keywords: [DRFetchPaymentMethod, Omnistudio, Data, Mapper, fetches, payment, records, account, Sample, Input, Output]
+keywords: [DRFetchPaymentMethod, Omnistudio, Mapper, fetches, payment, records, account, Sample]
 ---
-
-# DRFetchPaymentMethod
 
 > This Omnistudio Data Mapper fetches the payment method
     records for an account.

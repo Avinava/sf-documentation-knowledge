@@ -5,12 +5,10 @@ topic: select-objects-for-change-notifications-with-metadata-api-and-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.630Z
+lastCollected: 2026-04-07T18:37:05.379Z
 estimatedTokens: 878
-keywords: [Select, Objects, Change, Notifications, Metadata, API, Tooling, PlatformEventChannelMember, retrieve, event, selections, standard, channel, custom, ChangeEvents]
+keywords: [Select, Change, Notifications, Metadata, API, Tooling, PlatformEventChannelMember, retrieve, event, selections, standard, channel, ChangeEvents, corresponds, configure, Setup, Capture, member, SelectedEntity, selected]
 ---
-
-# Select Objects for Change Notifications with Metadata API and Tooling API
 
 > Use PlatformEventChannelMember in Metadata API or Tooling API to
             create or retrieve object event selections for the default standard channel or a custom

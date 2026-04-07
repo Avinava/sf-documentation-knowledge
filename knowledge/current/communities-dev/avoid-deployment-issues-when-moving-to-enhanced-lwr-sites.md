@@ -5,12 +5,10 @@ topic: avoid-deployment-issues-when-moving-to-enhanced-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.795Z
+lastCollected: 2026-04-07T18:37:26.741Z
 estimatedTokens: 894
-keywords: [Avoid, Deployment, Issues, Moving, Enhanced, LWR, Sites, Winter, ’24, longer, disable, content, platform, introduced, ’23]
+keywords: [Avoid, Deployment, Issues, Moving, Enhanced, LWR, Sites, Winter, ’24, longer, disable, content, platform, introduced, ’23, result, any, site, created, template, now, Unlike, non-enhanced, ExperienceBundle, metadata, DigitalExperienceBundle, DigitalExperienceConfig, However, source, org, sandbox, want, deploy, time, target, production, difference, cause]
 ---
-
-# Avoid Deployment Issues When Moving to Enhanced LWR Sites
 
 > From Winter ’24, you can no longer disable the enhanced sites and content platform,
   which was first introduced in Winter ’23. As a result, any site created from an LWR template is

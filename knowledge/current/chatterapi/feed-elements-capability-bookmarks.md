@@ -5,12 +5,10 @@ topic: feed-elements-capability-bookmarks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.607Z
+lastCollected: 2026-04-07T18:37:13.555Z
 estimatedTokens: 373
-keywords: [Feed, Elements, Capability, Bookmarks, whether, element, bookmarked, add]
+keywords: [Capability, Bookmarks, whether, bookmarked, add]
 ---
-
-# Feed Elements Capability, Bookmarks
 
 > Get information about whether a feed element is bookmarked, or add
       bookmarks to feed elements.

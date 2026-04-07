@@ -5,12 +5,10 @@ topic: loyalty-management-fields-on-engagementchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.663Z
+lastCollected: 2026-04-07T18:38:09.976Z
 estimatedTokens: 200
-keywords: [Loyalty, Management, EngagementChannelType, Standard, extend, represent, promotion, eligibility, criteria, API, version, 60.0, later, Calls]
+keywords: [Loyalty, Management, EngagementChannelType, Standard, extend, represent, promotion, eligibility, criteria, API, 60.0]
 ---
-
-# Loyalty Management Fields on EngagementChannelType
 
 > Standard fields extend the EngagementChannelType object for use in
          Loyalty Management to represent to information promotion eligibility criteria. The

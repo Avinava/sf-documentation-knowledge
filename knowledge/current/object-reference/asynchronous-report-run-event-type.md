@@ -5,12 +5,10 @@ topic: asynchronous-report-run-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.992Z
+lastCollected: 2026-04-07T18:38:30.794Z
 estimatedTokens: 2755
-keywords: [Asynchronous, Report, Run, Event, events, created, reporting, requests, scheduled, category, includes, dashboard, refreshes, reports, schedule]
+keywords: [Asynchronous, Report, Run, Event, events, created, reporting, requests, scheduled, category, includes, dashboard, refreshes, reports, schedule, analytics, snapshots]
 ---
-
-# Asynchronous Report Run Event Type
 
 > Asynchronous Report Run events are created for reporting requests
          that are scheduled. This category includes dashboard refreshes, asynchronous reports,

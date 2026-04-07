@@ -5,12 +5,10 @@ topic: insurance-brokerage-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.703Z
+lastCollected: 2026-04-07T18:37:52.918Z
 estimatedTokens: 148
-keywords: [Insurance, Brokerage, Metadata, API, access, feature, settings, customize, user]
+keywords: [Insurance, Brokerage, Metadata, API, feature, settings, customize, user]
 ---
-
-# Insurance Brokerage Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

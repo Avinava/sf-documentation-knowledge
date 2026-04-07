@@ -5,12 +5,10 @@ topic: club-member-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.968Z
+lastCollected: 2026-04-07T18:38:07.183Z
 estimatedTokens: 269
-keywords: [Club, Member, Enrollment, Input, representation, enroll]
+keywords: [Club, Member, Enrollment, enroll]
 ---
-
-# Club Member Enrollment Input
 
 > The input representation to enroll a club member.
 

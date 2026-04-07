@@ -5,12 +5,10 @@ topic: retail-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.361Z
+lastCollected: 2026-04-07T18:39:10.847Z
 estimatedTokens: 541
 keywords: [Retail, Execution, sales, manager, plan, store, visits, representatives, analyze, business’s, health, across, stores]
 ---
-
-# Retail Execution
 
 > With Retail Execution, a sales manager can plan store visits for field
         representatives and analyze the business’s health across stores.

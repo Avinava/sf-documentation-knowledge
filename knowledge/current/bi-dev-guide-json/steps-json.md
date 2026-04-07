@@ -5,12 +5,10 @@ topic: steps-json
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.725Z
+lastCollected: 2026-04-07T18:36:54.092Z
 estimatedTokens: 1047
-keywords: [steps, JSON, key, CRM, Analytics, dashboard, separate, node, step, define, query, control, behavior, whether, facet]
+keywords: [steps, JSON, key, CRM, Analytics, dashboard, separate, node, step, define, query, control, behavior, whether, facet, vary, compact, form, SAQL]
 ---
-
-# steps JSON
 
 > The steps key defines all steps available in a
         CRM  Analytics dashboard. It contains a separate node for each step. Each step node has

@@ -5,12 +5,10 @@ topic: manage-your-security-reviews
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.663Z
+lastCollected: 2026-04-07T18:38:47.619Z
 estimatedTokens: 1408
-keywords: [Manage, Security, Reviews, AppExchange, Partner, Console’s, review, wizard, Submit, solution, Check, detailed, status, that’s, delivered]
+keywords: [Manage, Security, Reviews, AppExchange, Partner, Console’s, review, wizard, Submit, solution, Check, detailed, status, that’s, delivered, Communicate, directly, teams, working, Download, report, false-positives, documentation]
 ---
-
-# Manage Your Security Reviews
 
 > Manage your security reviews in the AppExchange Partner Console’s security review wizard. Submit your solution for review. Check the detailed status information that’s delivered in the wizard. Communicate directly with the teams working on your reviews. Download your review report. Submit false-positives documentation.
 

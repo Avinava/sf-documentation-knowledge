@@ -5,13 +5,11 @@ topic: chatterfeeds-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:11.798Z
+lastCollected: 2026-04-07T18:35:57.004Z
 estimatedTokens: 268252
 namespace: ConnectApi
-keywords: [ChatterFeeds, Chatter, feed, stream, Usage, createStream, communityId, streamInput, API, Version, Requires, deleteComment, commentId, deleteFeedElement, feedElementId]
+keywords: [ChatterFeeds, Chatter, stream, createStream, communityId, streamInput, API, Requires, deleteComment, commentId, deleteFeedElement, feedElementId, deleteLike, likeId, deleteStream, streamId, getComment, Guest, Users, getCommentBatch, commentIds, getCommentInContext, pageSize, getCommentsForFeedElement, threadedCommentsCollapsed, pageParam, sortParam, getExtensions, getFeed, feedType, subjectId, getFeedDirectory, getFeedElement, commentSort, recentCommentCount, elementsPerBundle, getFeedElementBatch, feedElementIds, getFeedElementPoll, getFeedElementsFromBundle, getFeedElementsFromFeed, density, filter, Getting, Context, User’s, News, Another, Profile, Record, showInternalOnly, customFilter, getFeedElementsFromFilterFeed, keyPrefix, updatedSince, getFeedElementsUpdatedSince, getFeedWithFeedElements, getFilterFeed, getFilterFeedDirectory, getLike, getLikesForComment, getLikesForFeedElement, getLinkMetadata, urls, getPinnedFeedElementsFromFeed, getReadByForFeedElement, getRelatedPosts, maxResults, getStream, globalScope, getStreams, getSupportedEmojis, getThreadsForFeedComment, getTopUnansweredQuestions, Pilot, getVotesForComment, vote, getVotesForFeedElement, isCommentEditableByMe, isFeedElementEditableByMe, isModified, since, likeComment, likeFeedElement, postCommentToFeedElement, text, comment, feedElementFileUpload, Posting, Mentions, File, New, Rich-Text, Inline, Image, Code, Block, postFeedElement, feedElementType, feedElement]
 ---
-
-# ChatterFeeds Class
 
 > Create a Chatter feed stream.
 

@@ -5,12 +5,10 @@ topic: calldispositioncategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.039Z
+lastCollected: 2026-04-07T18:39:31.361Z
 estimatedTokens: 309
 keywords: [CallDispositionCategory, call, outcome, phone, reports, branching, criteria, cadences]
 ---
-
-# CallDispositionCategory
 
 > Represents the call outcome of a phone call that is used in reports and
 			branching criteria for cadences.

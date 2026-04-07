@@ -5,12 +5,10 @@ topic: insurance-product-administration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.979Z
+lastCollected: 2026-04-07T18:37:53.243Z
 estimatedTokens: 339
-keywords: [Insurance, Product, Administration, developer, resources, define, products, sell, customers, including, their, classifications, categories, attributes, customized]
+keywords: [Insurance, Product, Administration, developer, resources, define, products, sell, customers, including, their, classifications, categories, attributes, customized, price, adjustment, pricing, procedures, determine, how, behave, they're, quoted, sold, serviced]
 ---
-
-# Insurance Product Administration
 
 > Use the Insurance Product Administration developer resources to define the products you
   sell to customers, including their classifications, categories, and attributes. Create customized

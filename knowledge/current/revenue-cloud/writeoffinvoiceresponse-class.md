@@ -5,13 +5,11 @@ topic: writeoffinvoiceresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.521Z
+lastCollected: 2026-04-07T18:35:40.313Z
 estimatedTokens: 1339
 namespace: InvoiceWriteOff
 keywords: [WriteOffInvoiceResponse, store, write, off, posted, invoice, errors, invoiceId, requestIdentifier, success]
 ---
-
-# WriteOffInvoiceResponse Class
 
 > Contains properties to store the response details to the request to write off a posted
     invoice.

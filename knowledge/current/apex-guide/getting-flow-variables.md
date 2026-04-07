@@ -5,12 +5,10 @@ topic: getting-flow-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.521Z
+lastCollected: 2026-04-07T18:36:17.760Z
 estimatedTokens: 224
 keywords: [Getting, Flow, Variables, retrieve, specific, Apex]
 ---
-
-# Getting Flow Variables
 
 > You can retrieve flow variables for a specific flow in Apex.
 

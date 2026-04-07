@@ -5,12 +5,10 @@ topic: set-flow-variable-values-from-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.213Z
+lastCollected: 2026-04-07T18:38:51.450Z
 estimatedTokens: 740
-keywords: [Flow, Variable, Visualforce, embed, initial, variables, record, collection, <apex, param>, component, Setting, Controller, Standard, Custom]
+keywords: [Flow, Variable, Visualforce, embed, initial, variables, record, collection, <apex, param>, Setting, Controller, Standard, Apex, Interview, Map]
 ---
-
-# Set Flow Variable Values from a Visualforce Page
 
 > After you embed your flow in a Visualforce page, set the initial values of variables,
         record variables, collection variables, and record collection variables through the <apex:param> component.

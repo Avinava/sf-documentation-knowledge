@@ -5,12 +5,10 @@ topic: generate-insurance-clauses-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.057Z
+lastCollected: 2026-04-07T18:37:48.778Z
 estimatedTokens: 422
-keywords: [Generate, Insurance, Clauses, Action, quote, context, specify, either, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Generate, Insurance, Clauses, Action, quote, context, specify, either, REST, HTTP]
 ---
-
-# Generate Insurance Clauses Action
 
 > Generate insurance clauses based on the specified
             quote and context information. You must specify either quote ID or context ID to

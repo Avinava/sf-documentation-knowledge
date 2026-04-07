@@ -5,12 +5,10 @@ topic: create-referral-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.291Z
+lastCollected: 2026-04-07T18:39:09.605Z
 estimatedTokens: 716
-keywords: [Referral, Event, records, advocate, refers, friend, referred, friends, sign, purchase, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Referral, Event, records, advocate, refers, friend, referred, friends, sign, purchase, REST, HTTP]
 ---
-
-# Create Referral Event
 
 > Create referral event records when an advocate refers a friend, or when
    referred friends sign up or make a purchase.

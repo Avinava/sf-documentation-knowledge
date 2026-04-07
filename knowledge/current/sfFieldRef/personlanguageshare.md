@@ -5,12 +5,10 @@ topic: personlanguageshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.446Z
+lastCollected: 2026-04-07T18:39:53.991Z
 estimatedTokens: 250
 keywords: [PersonLanguageShare, Sharing, PersonLanguage]
 ---
-
-# PersonLanguageShare
 
 > Sharing for PersonLanguage.
 

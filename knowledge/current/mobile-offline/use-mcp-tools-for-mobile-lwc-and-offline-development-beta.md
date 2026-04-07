@@ -5,12 +5,10 @@ topic: use-mcp-tools-for-mobile-lwc-and-offline-development-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.660Z
+lastCollected: 2026-04-07T18:38:15.140Z
 estimatedTokens: 1266
-keywords: [MCP, Tools, Mobile, LWC, Offline, Development, Beta, Model, Context, Protocol, include, Native, Capabilities, help, developers]
+keywords: [MCP, Tools, Mobile, LWC, Offline, Development, Beta, Model, Context, Protocol, include, Native, Capabilities, help, developers, Lightning, web, adhere, design, patterns, integrate, device-native, features, Toolset, Core, Add, Salesforce, Server, Client]
 ---
-
-# Use MCP Tools for Mobile LWC and Offline Development (Beta)
 
 > The Mobile Model Context Protocol (MCP) tools, which include the Mobile Offline tools
     and the Mobile Native Capabilities tools, help developers create Lightning web components that

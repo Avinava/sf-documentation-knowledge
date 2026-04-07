@@ -5,12 +5,10 @@ topic: about-sync-statuses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.407Z
+lastCollected: 2026-04-07T18:40:25.776Z
 estimatedTokens: 593
-keywords: [Sync, Statuses, enable, full, control, over, “in-flight”, operations, Mobile, SDK, 7.1, adds, new, status, operation]
+keywords: [Sync, Statuses, enable, full, control, over, “in-flight”, operations, Mobile, SDK, 7.1, adds, new, status, operation, stopped, Getting]
 ---
-
-# About Sync Statuses
 
 > To enable full control over “in-flight” sync operations, Mobile SDK 7.1 adds a new
   status that indicates that the operation has been stopped.

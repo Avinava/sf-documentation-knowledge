@@ -5,12 +5,10 @@ topic: presentationpageproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.295Z
+lastCollected: 2026-04-07T18:38:01.085Z
 estimatedTokens: 876
-keywords: [PresentationPageProduct, link, presentation, product, may, include, connection, message, guidance, API, version, 65.0, later, Calls, Associated]
+keywords: [PresentationPageProduct, link, presentation, product, may, include, connection, message, guidance, API, 65.0]
 ---
-
-# PresentationPageProduct
 
 > Represents the link between a presentation page and a product, and may also
          include a connection to related product message (product guidance). This object is

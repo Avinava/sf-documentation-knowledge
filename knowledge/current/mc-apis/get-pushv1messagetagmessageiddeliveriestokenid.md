@@ -5,12 +5,10 @@ topic: get-pushv1messagetagmessageiddeliveriestokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.118Z
+lastCollected: 2026-04-07T18:40:17.269Z
 estimatedTokens: 200
-keywords: [push, messageTag, messageId, deliveries, tokenId, Retrieves, delivery, status, previous, send, job, **Overview**, Usage]
+keywords: [push, messageTag, messageId, deliveries, tokenId, Retrieves, delivery, status, previous, send, job, **Overview**]
 ---
-
-# GET /push/v1/messageTag/{messageId}/deliveries/{tokenId}
 
 > Retrieves delivery status of a previous messageTag send job.
 

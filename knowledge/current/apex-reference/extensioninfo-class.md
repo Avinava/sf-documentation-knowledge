@@ -5,13 +5,11 @@ topic: extensioninfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.448Z
+lastCollected: 2026-04-07T18:35:59.729Z
 estimatedTokens: 859
 namespace: CommerceExtension
 keywords: [ExtensionInfo, expose, extension-related, context, getClientApiVersion, getCustomParameterField, fieldName, getLocaleString, isCustomParametersAvailable]
 ---
-
-# ExtensionInfo Class
 
 > Contains static methods to expose extension-related context information.
 

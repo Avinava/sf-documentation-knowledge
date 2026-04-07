@@ -5,12 +5,10 @@ topic: app-oauth-credentials-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.598Z
+lastCollected: 2026-04-07T18:37:16.674Z
 estimatedTokens: 105
-keywords: [App, OAuth, Credentials, Collection, consumers, associated, external, client]
+keywords: [App, OAuth, Credentials, Collection, consumers, external, client]
 ---
-
-# App OAuth Credentials Collection
 
 > List of OAuth consumers associated with the external client app.
 

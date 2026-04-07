@@ -5,12 +5,10 @@ topic: diseaseinvestigationcase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.484Z
+lastCollected: 2026-04-07T18:37:43.654Z
 estimatedTokens: 698
-keywords: [DiseaseInvestigationCase, junction, disease, investigation, case, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [DiseaseInvestigationCase, junction, disease, investigation, case, API, 64.0]
 ---
-
-# DiseaseInvestigationCase
 
 > Represents a junction between a disease investigation and a case. This
       object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: styling-with-design-tokens-and-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.586Z
+lastCollected: 2026-04-07T18:38:05.798Z
 estimatedTokens: 878
-keywords: [Styling, Design, Tokens, Hooks, Capture, essential, visual, named, Reuse, throughout, Lightning, components, CSS, resources, easy]
+keywords: [Styling, Design, Tokens, Hooks, Capture, essential, visual, named, Reuse, throughout, Lightning, CSS, resources, easy, ensure, consistent, easier, evolves]
 ---
-
-# Styling with Design Tokens and Styling Hooks
 
 > Capture the essential values of your visual design into named tokens
       or global styling hooks. Reuse these values throughout your Lightning components CSS

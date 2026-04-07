@@ -5,12 +5,10 @@ topic: best-practices-and-considerations-for-leveraging-event-log-object-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.282Z
+lastCollected: 2026-04-07T18:39:22.175Z
 estimatedTokens: 749
-keywords: [Best, Practices, Considerations, Leveraging, Event, Log, Data, It’s, understand, recommended, limitations, framework, tips, ensure, queries]
+keywords: [Best, Practices, Considerations, Leveraging, Event, Log, It’s, understand, recommended, limitations, framework, tips, ensure, queries, run, smoothly, Querying, SOQL, Timestamp]
 ---
-
-# Best Practices and Considerations for Leveraging Event Log Object Data
 
 > It’s important to understand the recommended practices and limitations for the Event Log
     Object framework to get the most out of your log data. Here are some tips to ensure your queries

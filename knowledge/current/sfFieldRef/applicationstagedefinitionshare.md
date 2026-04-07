@@ -5,12 +5,10 @@ topic: applicationstagedefinitionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.641Z
+lastCollected: 2026-04-07T18:39:26.585Z
 estimatedTokens: 256
 keywords: [ApplicationStageDefinitionShare, Sharing, ApplicationStageDefinition]
 ---
-
-# ApplicationStageDefinitionShare
 
 > Sharing for ApplicationStageDefinition.
 

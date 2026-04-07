@@ -5,12 +5,10 @@ topic: billing-arrangement-line
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.266Z
+lastCollected: 2026-04-07T18:35:45.236Z
 estimatedTokens: 229
-keywords: [Billing, Arrangement, Line, Output, representation, specific, item, defining, how, charges, split, account]
+keywords: [Billing, Arrangement, Line, specific, item, defining, how, charges, split, account]
 ---
-
-# Billing Arrangement Line
 
 > Output representation that contains the details of a specific line item within a billing
     arrangement, defining how charges are split for an account.

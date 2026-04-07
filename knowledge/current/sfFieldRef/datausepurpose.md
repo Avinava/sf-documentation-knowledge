@@ -5,12 +5,10 @@ topic: datausepurpose
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.878Z
+lastCollected: 2026-04-07T18:39:37.530Z
 estimatedTokens: 414
-keywords: [DataUsePurpose, reason, contacting, prospect, customer, billing, marketing, surveys, API, version, 45.0, later]
+keywords: [DataUsePurpose, reason, contacting, prospect, customer, billing, marketing, surveys, API, 45.0]
 ---
-
-# DataUsePurpose
 
 > Represents the reason for contacting a prospect or customer, such as
 			for billing, marketing, or surveys. This object is available in API version 45.0

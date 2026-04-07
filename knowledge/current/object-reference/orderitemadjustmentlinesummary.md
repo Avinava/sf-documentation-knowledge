@@ -5,12 +5,10 @@ topic: orderitemadjustmentlinesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.675Z
+lastCollected: 2026-04-07T18:38:36.918Z
 estimatedTokens: 1170
-keywords: [OrderItemAdjustmentLineSummary, current, state, price, adjustments, OrderItemSummary, Corresponds, order, item, adjustment, line, objects, consisting, original, any]
+keywords: [OrderItemAdjustmentLineSummary, current, state, price, adjustments, OrderItemSummary, Corresponds, order, item, adjustment, line, consisting, original, any, change, applicable, API, 48.0]
 ---
-
-# OrderItemAdjustmentLineSummary
 
 > Represents the current properties and state of price adjustments on an
       OrderItemSummary. Corresponds to one or more order item adjustment line item objects,

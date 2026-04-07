@@ -5,12 +5,10 @@ topic: dataactiontargethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.434Z
+lastCollected: 2026-04-07T18:39:37.035Z
 estimatedTokens: 265
-keywords: [DataActionTargetHistory, History, tracked, DataActionTarget]
+keywords: [DataActionTargetHistory, tracked, DataActionTarget]
 ---
-
-# DataActionTargetHistory
 
 > History for tracked fields of DataActionTarget.
 

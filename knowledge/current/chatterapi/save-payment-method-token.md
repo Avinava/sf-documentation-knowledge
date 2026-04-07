@@ -5,12 +5,10 @@ topic: save-payment-method-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.096Z
+lastCollected: 2026-04-07T18:37:15.146Z
 estimatedTokens: 885
-keywords: [Save, Payment, Token, Store, setup, intent, SavedPaymentMethod, record, Special, Access, Rules]
+keywords: [Save, Payment, Token, Store, setup, intent, SavedPaymentMethod, record]
 ---
-
-# Save Payment Method Token
 
 > Store the setup intent and payment method details in the
       SavedPaymentMethod object. Update the setup

@@ -5,12 +5,10 @@ topic: supported-apps-channels-actions-and-objects-in-lightning-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.096Z
+lastCollected: 2026-04-07T18:39:17.769Z
 estimatedTokens: 593
-keywords: [Apps, Channels, Actions, Objects, Lightning, Flow, Service, console, standard, navigation, work, Open, CTI, phone, integration]
+keywords: [Apps, Channels, Actions, Lightning, Flow, Service, console, standard, navigation, work, Open, CTI, phone, integration, including, support, unknown, callers, Chat, Experience]
 ---
-
-# Supported Apps, Channels, Actions, and Objects in Lightning Flow for Service
 
 > Lightning Flow for Service is supported in Lightning console and standard navigation
   apps. You can set it up to work with Open CTI for phone integration, including support for unknown

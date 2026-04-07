@@ -5,12 +5,10 @@ topic: learning-foundation-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.552Z
+lastCollected: 2026-04-07T18:37:29.630Z
 estimatedTokens: 447
-keywords: [Learning, Foundation, Item, Output, representation, associated, prerequisite, corequisite, recommended]
+keywords: [Learning, Foundation, Item, prerequisite, corequisite, recommended]
 ---
-
-# Learning Foundation Item
 
 > Output representation of a foundation item associated with a learning object, such as a
     prerequisite, corequisite, or recommended item.

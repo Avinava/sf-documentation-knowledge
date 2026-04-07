@@ -5,12 +5,10 @@ topic: commitment-payment-updates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.320Z
+lastCollected: 2026-04-07T18:37:29.408Z
 estimatedTokens: 173
-keywords: [Commitment, Payment, Updates, Output, representation, fundraising]
+keywords: [Commitment, Payment, Updates, fundraising]
 ---
-
-# Commitment Payment Updates
 
 > Output representation of the request to update the commitment payment for a fundraising
     commitment.

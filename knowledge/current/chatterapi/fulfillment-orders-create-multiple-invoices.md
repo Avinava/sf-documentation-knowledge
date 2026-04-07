@@ -5,12 +5,10 @@ topic: fulfillment-orders-create-multiple-invoices
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.574Z
+lastCollected: 2026-04-07T18:37:15.637Z
 estimatedTokens: 441
 keywords: [Fulfillment, Orders, Multiple, Invoices, FulfillmentOrders]
 ---
-
-# Fulfillment Orders, Create Multiple Invoices
 
 > Create Invoices for multiple FulfillmentOrders.
 

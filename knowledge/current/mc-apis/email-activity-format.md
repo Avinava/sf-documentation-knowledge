@@ -5,12 +5,10 @@ topic: email-activity-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:24.902Z
+lastCollected: 2026-04-07T18:40:20.123Z
 estimatedTokens: 1430
-keywords: [Email, Activity, version, known, send, messages, journeys, cannot, custom, #journey-specification-format, Journey, Specification, Helpful, Hints, Sample]
+keywords: [Email, Activity, known, send, messages, journeys, cannot, #journey-specification-format, Journey, Specification, Helpful, Hints, Sample, Items]
 ---
-
-# Email Activity Format
 
 > The version 2 email activity, also known as send email activity, allows you to send email messages from within your journeys. This activity type cannot be used in a custom activity.
 

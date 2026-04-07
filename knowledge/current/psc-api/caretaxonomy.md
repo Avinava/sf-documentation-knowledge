@@ -5,12 +5,10 @@ topic: caretaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.181Z
+lastCollected: 2026-04-07T18:39:06.226Z
 estimatedTokens: 1032
-keywords: [CareTaxonomy, taxonomy, codes, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [CareTaxonomy, taxonomy, codes, API, 64.0]
 ---
-
-# CareTaxonomy
 
 > Represents a static list of taxonomy codes. This object is
       available in API version 64.0 and later.

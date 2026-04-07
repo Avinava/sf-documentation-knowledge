@@ -5,12 +5,10 @@ topic: actionableorchresponseevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.932Z
+lastCollected: 2026-04-07T18:36:52.359Z
 estimatedTokens: 428
-keywords: [ActionableOrchResponseEvent, internal, external, event, actions, taken, orchestration, process, recorded, API, version, 62.0, later, Calls]
+keywords: [ActionableOrchResponseEvent, internal, external, event, actions, taken, orchestration, process, recorded, API, 62.0]
 ---
-
-# ActionableOrchResponseEvent
 
 > Represents information about an internal or external event after actions are
          taken by the orchestration process and the response is recorded. This object is

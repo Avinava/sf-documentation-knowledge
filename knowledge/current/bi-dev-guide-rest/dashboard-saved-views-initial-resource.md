@@ -5,12 +5,10 @@ topic: dashboard-saved-views-initial-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.516Z
+lastCollected: 2026-04-07T18:36:56.001Z
 estimatedTokens: 232
-keywords: [Dashboard, Saved, Views, Initial, Resource, view, URL, Formats, Version, Components, HTTP]
+keywords: [Formats, Dashboard, Saved, Views, Initial, Resource, view, URL, HTTP]
 ---
-
-# Dashboard Saved Views Initial Resource
 
 > Returns the initial view information for a dashboard saved
     view. In the UI, the initial view is the default view.

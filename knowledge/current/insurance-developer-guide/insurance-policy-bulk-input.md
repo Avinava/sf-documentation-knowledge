@@ -5,12 +5,10 @@ topic: insurance-policy-bulk-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.148Z
+lastCollected: 2026-04-07T18:37:51.092Z
 estimatedTokens: 170
-keywords: [Insurance, Policy, Bulk, Input, representation, renew, policies, Send, IDs, map, renewal]
+keywords: [Insurance, Policy, Bulk, renew, policies, Send, IDs, map, renewal]
 ---
-
-# Insurance Policy Bulk Input
 
 > Input representation details of the request to bulk renew policies. Send the list of
     insurance policy IDs and field value map of insurance policy fields for bulk policies

@@ -5,12 +5,10 @@ topic: objectstatedefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.316Z
+lastCollected: 2026-04-07T18:39:49.816Z
 estimatedTokens: 271
-keywords: [ObjectStateDefinitionHistory, History, tracked, ObjectStateDefinition]
+keywords: [ObjectStateDefinitionHistory, tracked, ObjectStateDefinition]
 ---
-
-# ObjectStateDefinitionHistory
 
 > History for tracked fields of ObjectStateDefinition.
 

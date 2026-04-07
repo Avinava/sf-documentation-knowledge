@@ -5,12 +5,10 @@ topic: specify-response-sizes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.803Z
+lastCollected: 2026-04-07T18:37:23.856Z
 estimatedTokens: 459
-keywords: [Specify, Sizes, filter, data, application, needs, size, group, big, medium, small, filterGroup, addition, exclude, include]
+keywords: [Specify, Sizes, filter, application, needs, size, group, big, medium, small, filterGroup, addition, exclude, include, specific, either]
 ---
-
-# Specify Response Sizes
 
 > Use filter parameters to return only the data the application needs.
    To specify the response size by group (big, medium, or small), use filterGroup as a request parameter or in a request body. In addition, to exclude

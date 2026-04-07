@@ -5,12 +5,10 @@ topic: contentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.444Z
+lastCollected: 2026-04-07T18:36:23.757Z
 estimatedTokens: 1418
-keywords: [ContentSettings, content, settings, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
+keywords: [ContentSettings, content, settings, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ContentSettings
 
 > Represents content settings for an org. This type extends the Metadata metadata type and inherits its fullName field.
 

@@ -5,12 +5,10 @@ topic: insurance-get-eligible-product-clauses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.260Z
+lastCollected: 2026-04-07T18:37:52.418Z
 estimatedTokens: 144
-keywords: [Insurance, Eligible, Product, Clauses, Output, representation]
+keywords: [Insurance, Eligible, Product, Clauses]
 ---
-
-# Insurance Get Eligible Product Clauses
 
 > Output representation for eligible clauses.
 

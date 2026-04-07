@@ -5,12 +5,10 @@ topic: entitlementcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.997Z
+lastCollected: 2026-04-07T18:39:39.670Z
 estimatedTokens: 320
-keywords: [EntitlementContact, Contact, eligible, receive, customer, support, via, Entitlement, API, version, 18.0, later]
+keywords: [EntitlementContact, Contact, eligible, receive, customer, support, via, Entitlement, API, 18.0]
 ---
-
-# EntitlementContact
 
 > Represents a Contact eligible to receive customer support via an
    Entitlement. This object is available in API version 18.0 and later.

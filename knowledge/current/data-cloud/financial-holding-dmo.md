@@ -5,12 +5,10 @@ topic: financial-holding-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.698Z
+lastCollected: 2026-04-07T18:35:53.666Z
 estimatedTokens: 719
-keywords: [Financial, Holding, DMO, holdings, associated, either, account, Provided, Services, Cloud, Data, Kit, API, version, later]
+keywords: [Category, Relationships, Financial, Holding, DMO, holdings, either, account, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Financial Holding DMO
 
 > Represents the financial holdings associated with either an account or a financial
       account. Provided in the Financial Services Cloud Data Kit. This DMO is available in API

@@ -5,12 +5,10 @@ topic: update-related-list-user-preferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.455Z
+lastCollected: 2026-04-07T18:40:11.449Z
 estimatedTokens: 210
 keywords: [User, Preferences, Updates]
 ---
-
-# Update Related List User Preferences
 
 > Updates user preferences for a related list.
 

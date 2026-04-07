@@ -5,12 +5,10 @@ topic: codeableconcept
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.500Z
+lastCollected: 2026-04-07T18:37:58.027Z
 estimatedTokens: 283
-keywords: [Codeable​Concept, FHIR, resource, maps, CodeSet​BundleBundle, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Codeable​Concept, FHIR, resource, maps, CodeSet​BundleBundle, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Codeable​Concept
 
 > The Codeable​Concept FHIR resource maps to the
       CodeSet​BundleBundle object in Salesforce.

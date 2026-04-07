@@ -5,12 +5,10 @@ topic: identifying-the-salesforce-style-your-users-see
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.105Z
+lastCollected: 2026-04-07T18:38:52.411Z
 estimatedTokens: 590
-keywords: [Identifying, Salesforce, Style, Users, you’re, creating, Visualforce, it’s, often, useful, know, look, feel, user, expects]
+keywords: [Identifying, Salesforce, Style, Users, you’re, creating, Visualforce, it’s, often, useful, know, look, feel, user, expects, order, render, matches, their, choice, customize, You’ll, design, pages, take, differences, consideration]
 ---
-
-# Identifying the Salesforce Style Your Users See
 
 > When you’re creating a Visualforce page, it’s often useful to know the Salesforce look
     and feel your user expects, in order to render a page that matches their style. For example,

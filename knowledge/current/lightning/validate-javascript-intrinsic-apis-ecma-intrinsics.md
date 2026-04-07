@@ -5,12 +5,10 @@ topic: validate-javascript-intrinsic-apis-ecma-intrinsics-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.772Z
+lastCollected: 2026-04-07T18:38:02.703Z
 estimatedTokens: 679
 keywords: [Validate, JavaScript, Intrinsic, APIs, ecma-intrinsics, rule, deals, formally, known, ECMAScript, Further, Reading]
 ---
-
-# Validate JavaScript Intrinsic APIs ( ecma-intrinsics ) )
 
 > This rule deals with the intrinsic APIs in JavaScript, more
 			formally known as ECMAScript.

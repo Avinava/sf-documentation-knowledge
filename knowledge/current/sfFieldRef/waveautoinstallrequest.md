@@ -5,12 +5,10 @@ topic: waveautoinstallrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.575Z
+lastCollected: 2026-04-07T18:40:06.482Z
 estimatedTokens: 450
-keywords: [WaveAutoInstallRequest, access, concrete, CRM, Analytics, auto-install, tracks, progress, applications, created, templates, automated, process, user, API]
+keywords: [WaveAutoInstallRequest, concrete, CRM, Analytics, auto-install, tracks, progress, applications, created, templates, automated, process, user, API, 38.0]
 ---
-
-# WaveAutoInstallRequest
 
 > Provides access to the concrete object that represents a CRM Analytics
       auto-install request. The auto-install request tracks the progress of CRM Analytics

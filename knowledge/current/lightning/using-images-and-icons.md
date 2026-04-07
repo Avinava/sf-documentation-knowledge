@@ -5,12 +5,10 @@ topic: using-images-and-icons
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.543Z
+lastCollected: 2026-04-07T18:38:02.472Z
 estimatedTokens: 922
-keywords: [Images, Icons, display, HTML, <img>, element, Include, image, component, uploading, resource, content, asset.To, icon, lightning]
+keywords: [Images, Icons, display, HTML, <img>, Include, image, uploading, resource, content, asset.To, icon, lightning, gives, Salesforce, Design, System, Informational, Decorative]
 ---
-
-# Using Images and Icons
 
 > To display images, use the HTML <img> element.
             Include an image in your component by uploading it as a static resource or content asset.To display

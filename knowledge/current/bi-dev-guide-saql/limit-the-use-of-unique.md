@@ -5,12 +5,10 @@ topic: limit-the-use-of-unique
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.564Z
+lastCollected: 2026-04-07T18:37:01.164Z
 estimatedTokens: 169
-keywords: [Limit, unique, affect, query, performance, large, datasets, over, million, rows, include, faster, measures, dimensions, counting]
+keywords: [Limit, unique, affect, query, performance, large, datasets, over, million, rows, include, faster, measures, dimensions, counting, number, causes, issues, convert, hash, refer, index, sorted]
 ---
-
-# Limit the Use of unique()
 
 > unique() can affect query performance for large
       datasets that have over 100 million rows and include more than one million unique values. For

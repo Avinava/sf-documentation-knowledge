@@ -5,12 +5,10 @@ topic: procedure-plan-evaluation-by-definition-name-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.442Z
+lastCollected: 2026-04-07T18:35:44.419Z
 estimatedTokens: 537
-keywords: [Procedure, Plan, Evaluation, Definition, POST, Evaluate, check, prerequisites, usage, context, mapping]
+keywords: [Procedure, Plan, Evaluation, Definition, POST, Evaluate, check, prerequisites, context, mapping]
 ---
-
-# Procedure Plan Evaluation By Definition Name (POST)
 
 > Evaluate a procedure plan definition based on the name of a definition
       to check for prerequisites such as usage type and context mapping details.

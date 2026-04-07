@@ -5,12 +5,10 @@ topic: recallserviceorderrecallinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.798Z
+lastCollected: 2026-04-07T18:38:45.605Z
 estimatedTokens: 157
 keywords: [recall, serviceOrderRecallInput, entry, point, orders, you’ve, submitted, Salesforce, Partner, Operations, haven’t, processed]
 ---
-
-# recall(serviceOrderRecallInput)
 
 > Provides an entry point to recall orders that you’ve submitted to Salesforce Partner
     Operations. You can recall only orders that haven’t been processed.

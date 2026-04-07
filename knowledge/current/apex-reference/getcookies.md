@@ -5,12 +5,10 @@ topic: getcookies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.897Z
+lastCollected: 2026-04-07T18:35:59.166Z
 estimatedTokens: 219
-keywords: [getCookies, map, cookie, objects, key, Usage]
+keywords: [getCookies, map, cookie, key]
 ---
-
-# getCookies()
 
 > Returns a map of cookie names and cookie objects, where the key is a String of the cookie
   name and the the value contains the cookie object with that name.

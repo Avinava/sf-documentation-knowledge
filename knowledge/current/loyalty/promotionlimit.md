@@ -5,12 +5,10 @@ topic: promotionlimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.312Z
+lastCollected: 2026-04-07T18:38:10.578Z
 estimatedTokens: 678
-keywords: [PromotionLimit, limit, promotion, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [PromotionLimit, limit, promotion, API, 60.0]
 ---
-
-# PromotionLimit
 
 > Represents the limit of a promotion. This object is available in
       API version 60.0 and later.

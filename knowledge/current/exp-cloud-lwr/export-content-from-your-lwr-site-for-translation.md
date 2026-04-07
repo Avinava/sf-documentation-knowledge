@@ -5,12 +5,10 @@ topic: export-content-from-your-lwr-site-for-translation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.177Z
+lastCollected: 2026-04-07T18:37:33.556Z
 estimatedTokens: 1090
 keywords: [Export, Content, LWR, Site, Translation, add, language, send, localization, team, vendor]
 ---
-
-# Export Content from Your LWR Site for Translation
 
 > After you add a language to your site, you can export the site content to send it to
   your localization team or vendor for translation.

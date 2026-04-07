@@ -5,12 +5,10 @@ topic: initialization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.467Z
+lastCollected: 2026-04-07T18:35:51.319Z
 estimatedTokens: 753
-keywords: [Initialization, Data, Cloud, Module, Engagement, Mobile, SDK, invoke, web, services, API, configured, CdpConfigBuilder, iOS, CdpConfig.Builder, recommended, flow, Salesforce, Interactions, follows]
+keywords: [Initialization, Cloud, Module, Engagement, Mobile, SDK, invoke, web, services, API, configured, CdpConfigBuilder, iOS, CdpConfig.Builder, Android, helper, build, configuration, providing, settings, appId, endpoint, obtained, Connector, Optionally, provided, trackScreens, trackLifecycle, sessionTimeoutInSeconds, recommended, flow, Salesforce, Interactions, follows, general, pattern]
 ---
-
-# Initialization
 
 > Before the Data Cloud Module for the Engagement Mobile SDK can be used to invoke web
   services using the API, the SDK must be configured. Use the CdpConfigBuilder

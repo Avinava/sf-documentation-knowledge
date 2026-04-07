@@ -5,12 +5,10 @@ topic: configure-recipe-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.854Z
+lastCollected: 2026-04-07T18:37:02.410Z
 estimatedTokens: 393
-keywords: [Configure, Recipe, Execution, Data, Prep, recipes, complex, add, app, creation, time, they, sync, execute, templated]
+keywords: [Configure, Recipe, Execution, Prep, recipes, complex, add, app, creation, time, they, sync, execute, templated, generating, change, shape, executeCondition, attribute, entries, specify, syncs, executes]
 ---
-
-# Configure Recipe Execution
 
 > Data Prep recipes can be complex and add to app creation time if they sync and execute
   while the templated app is generating. Recipes can also change the shape of your existing data.

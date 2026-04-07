@@ -5,12 +5,10 @@ topic: prerequisite-define-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.970Z
+lastCollected: 2026-04-07T18:38:57.802Z
 estimatedTokens: 283
-keywords: [Prerequisite, Define, Platform, Events, custom, channel, examples, depend, predefined, Order_NorthAmer__e, Order_EMEA__e, creating, Salesforce]
+keywords: [Prerequisite, Define, Platform, Events, channel, examples, depend, predefined, Order_NorthAmer__e, Order_EMEA__e, creating, Salesforce]
 ---
-
-# Prerequisite: Define Platform Events
 
 > The custom channel examples depend on a predefined custom platform events called
   Order_NorthAmer__e and Order_EMEA__e. Before creating the custom channel, define these events in

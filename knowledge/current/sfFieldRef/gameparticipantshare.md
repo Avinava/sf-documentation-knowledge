@@ -5,12 +5,10 @@ topic: gameparticipantshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.575Z
+lastCollected: 2026-04-07T18:39:42.222Z
 estimatedTokens: 250
 keywords: [GameParticipantShare, Sharing, GameParticipant]
 ---
-
-# GameParticipantShare
 
 > Sharing for GameParticipant.
 

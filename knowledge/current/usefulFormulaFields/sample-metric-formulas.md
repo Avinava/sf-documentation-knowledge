@@ -5,12 +5,10 @@ topic: sample-metric-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.378Z
+lastCollected: 2026-04-07T18:40:12.401Z
 estimatedTokens: 208
 keywords: [Sample, Metric, Formulas, temperature, unit, measure, conversion]
 ---
-
-# Sample Metric Formulas
 
 > Use these formulas for metric temperature and metric unit of measure
     conversion.

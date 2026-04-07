@@ -5,13 +5,11 @@ topic: publishingservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.538Z
+lastCollected: 2026-04-07T18:37:53.826Z
 estimatedTokens: 285
 namespace: KbManagement
-keywords: [PublishingService, KbManagement.PublishingService, manage, lifecycle, article, translations, Usage]
+keywords: [PublishingService, KbManagement.PublishingService, manage, lifecycle, article, translations]
 ---
-
-# PublishingService Class
 
 > Use the methods in the KbManagement.PublishingService class to manage the lifecycle of an article and its translations.
 

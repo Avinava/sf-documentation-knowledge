@@ -5,12 +5,10 @@ topic: preview-the-appexchange-checkout-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.036Z
+lastCollected: 2026-04-07T18:38:45.870Z
 estimatedTokens: 83
 keywords: [Preview, AppExchange, Checkout, Experience, you've, enabled, listing, customer, purchase, modifying, URL]
 ---
-
-# Preview the AppExchange Checkout Experience
 
 > If you've enabled Checkout on your listing, you can preview the customer purchase
   experience by modifying the AppExchange listing URL.

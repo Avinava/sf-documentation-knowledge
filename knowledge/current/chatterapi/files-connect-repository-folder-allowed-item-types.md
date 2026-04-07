@@ -5,12 +5,10 @@ topic: files-connect-repository-folder-allowed-item-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.059Z
+lastCollected: 2026-04-07T18:37:12.958Z
 estimatedTokens: 292
 keywords: [Files, Connect, Repository, Folder, Allowed, Item, created]
 ---
-
-# Files Connect Repository Folder Allowed Item Types
 
 > Returns item types that are allowed to be created in the repository
       folder.

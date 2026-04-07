@@ -5,12 +5,10 @@ topic: constant-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.292Z
+lastCollected: 2026-04-07T18:36:54.651Z
 estimatedTokens: 83
-keywords: [Constant, Input, definition, JSON, transformation, rules]
+keywords: [Constant, definition, JSON, transformation]
 ---
-
-# Constant Input
 
 > The definition of a constant for JSON transformation rules.
 

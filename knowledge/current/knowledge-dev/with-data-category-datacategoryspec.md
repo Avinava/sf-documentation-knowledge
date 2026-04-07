@@ -5,12 +5,10 @@ topic: with-data-category-datacategoryspec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:05.086Z
+lastCollected: 2026-04-07T18:37:54.395Z
 estimatedTokens: 1045
-keywords: [DATA, CATEGORY, DataCategorySpec, clause, added, SOSL, query, filter, search, results, associated, categories, visible, users, searches]
+keywords: [Examples, CATEGORY, DataCategorySpec, clause, added, SOSL, query, filter, search, results, categories, visible, users, searches, Salesforce, Knowledge, articles, questions]
 ---
-
-# WITH DATA CATEGORY  DataCategorySpec
 
 > WITH DATA
                 CATEGORY is an optional clause that can be added to a SOSL query to filter

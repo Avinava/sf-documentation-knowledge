@@ -5,13 +5,11 @@ topic: site-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.815Z
+lastCollected: 2026-04-07T18:35:59.085Z
 estimatedTokens: 216
 namespace: Site
 keywords: [Site, Exceptions, exception]
 ---
-
-# Site Exceptions
 
 > The Site namespace contains an exception
   class.

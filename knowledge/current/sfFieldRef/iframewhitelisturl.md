@@ -5,12 +5,10 @@ topic: iframewhitelisturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.632Z
+lastCollected: 2026-04-07T18:39:44.286Z
 estimatedTokens: 300
-keywords: [IframeWhiteListUrl, trusted, external, domains, allow, frame, Embedded, Service, Surveys, Visualforce, pages, API, version, 45.0, later]
+keywords: [IframeWhiteListUrl, trusted, external, domains, allow, frame, Embedded, Service, Surveys, Visualforce, pages, API, 45.0]
 ---
-
-# IframeWhiteListUrl
 
 > Represents a list of trusted external domains that you allow to
 			frame your Embedded Service, Surveys, and Visualforce pages. This object is

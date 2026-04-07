@@ -5,12 +5,10 @@ topic: base-lightning-component-limitations-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.033Z
+lastCollected: 2026-04-07T18:37:33.374Z
 estimatedTokens: 316
-keywords: [Base, Lightning, Component, Limitations, LWR, Sites, Experience, Cloud, components, Library, there]
+keywords: [Base, Lightning, Limitations, LWR, Sites, Experience, Cloud, Library, there]
 ---
-
-# Base Lightning Component Limitations in LWR Sites
 
 > In LWR sites for Experience Cloud, you can use most of the components in the Lightning
     Component Library, but there are some limitations.

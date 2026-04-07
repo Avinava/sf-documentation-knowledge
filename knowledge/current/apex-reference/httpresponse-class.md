@@ -5,13 +5,11 @@ topic: httpresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.709Z
+lastCollected: 2026-04-07T18:36:03.941Z
 estimatedTokens: 2334
 namespace: System
-keywords: [HttpResponse, handle, HTTP, Usage, getBody, getBodyAsBlob, getBodyDocument, getHeader, key, getHeaderKeys, getStatus, getStatusCode, getXmlStreamReader, setBody, setBodyAsBlob]
+keywords: [HttpResponse, handle, HTTP, getBody, getBodyAsBlob, getBodyDocument, getHeader, key, getHeaderKeys, getStatus, getStatusCode, getXmlStreamReader, setBody, setBodyAsBlob, setHeader, setStatus, status, setStatusCode, statusCode, toString]
 ---
-
-# HttpResponse Class
 
 > Use the HttpResponse class to handle the HTTP response returned by the Http class.
 

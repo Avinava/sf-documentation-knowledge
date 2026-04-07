@@ -5,12 +5,10 @@ topic: object-activity-sfdevopsobjectactivityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.595Z
+lastCollected: 2026-04-07T18:37:28.652Z
 estimatedTokens: 1743
-keywords: [Activity, sf_devops__Object_Activity__c, DevOps, Center, custom, objects, records, determine, items, listed, Histories, work, pipelines, performs, operation]
+keywords: [Activity, sf_devops__Object_Activity__c, DevOps, Center, records, determine, items, listed, Histories, work, pipelines, performs, operation, creates, record, inserts, appropriate, user, view, references, promotes, item, promotion, initiation, Pipeline, Stage, terminates, second, two, Async, Result, orgs, installed, _devops, _Object, _Activity]
 ---
-
-# Object Activity (sf_devops__Object_Activity__c)
 
 > Represents an activity by one of the DevOps Center custom objects.
          Object Activity records determine the items that are listed in the Activity Histories of

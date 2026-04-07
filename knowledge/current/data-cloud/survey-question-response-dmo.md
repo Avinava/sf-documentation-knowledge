@@ -5,12 +5,10 @@ topic: survey-question-response-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.645Z
+lastCollected: 2026-04-07T18:35:54.712Z
 estimatedTokens: 625
-keywords: [Survey, Question, DMO, Data, Cloud, model, participants, answer, specific, questions, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Survey, Question, DMO, Cloud, model, participants, answer, specific, questions, API, Primary, Subject, Area, Key]
 ---
-
-# Survey Question Response DMO
 
 > The Survey Question Response DMO is a Data Cloud data model object
       (DMO) for participants who answer specific questions.

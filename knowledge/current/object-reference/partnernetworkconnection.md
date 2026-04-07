@@ -5,12 +5,10 @@ topic: partnernetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.180Z
+lastCollected: 2026-04-07T18:38:37.477Z
 estimatedTokens: 938
-keywords: [PartnerNetworkConnection, Salesforce, connection, organizations, Calls, Special, Access, Rules, Usage]
+keywords: [PartnerNetworkConnection, Salesforce, connection, organizations]
 ---
-
-# PartnerNetworkConnection
 
 > Represents a Salesforce to Salesforce connection between Salesforce
    organizations.

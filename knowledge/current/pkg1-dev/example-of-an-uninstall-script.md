@@ -5,12 +5,10 @@ topic: example-of-an-uninstall-script
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.781Z
+lastCollected: 2026-04-07T18:38:53.079Z
 estimatedTokens: 146
 keywords: [Uninstall, Script, sample, performs, actions, package]
 ---
-
-# Example of an Uninstall Script
 
 > This sample uninstall script performs the following actions on package
     uninstall.

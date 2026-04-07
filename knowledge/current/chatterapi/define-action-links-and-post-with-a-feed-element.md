@@ -5,12 +5,10 @@ topic: define-action-links-and-post-with-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.110Z
+lastCollected: 2026-04-07T18:37:24.156Z
 estimatedTokens: 1873
-keywords: [Define, Action, Links, Post, Feed, Element, actions, Step, Link, Group, Associate, Item]
+keywords: [Define, Action, Links, Post, actions, Step, Link, Group, Associate, Item]
 ---
-
-# Define Action Links and Post with a Feed Element
 
 > Define actions links and post with a feed element.
 

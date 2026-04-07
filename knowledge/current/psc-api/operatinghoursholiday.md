@@ -5,12 +5,10 @@ topic: operatinghoursholiday
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.122Z
+lastCollected: 2026-04-07T18:39:08.398Z
 estimatedTokens: 599
-keywords: [OperatingHoursHoliday, day, hours, provider, practitioner, facility, unavailable, offer, service, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [OperatingHoursHoliday, day, hours, provider, practitioner, facility, unavailable, offer, service]
 ---
-
-# OperatingHoursHoliday
 
 > Represents the day or hours for which a provider or practitioner
          facility is unavailable to offer service.

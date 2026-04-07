@@ -5,12 +5,10 @@ topic: flexqueueitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.165Z
+lastCollected: 2026-04-07T18:39:40.770Z
 estimatedTokens: 241
-keywords: [FlexQueueItem, asynchronous, Apex, job, flex, queue, position, AsyncApexJob, API, version, 36.0, later]
+keywords: [FlexQueueItem, asynchronous, Apex, job, flex, queue, position, AsyncApexJob, API, 36.0]
 ---
-
-# FlexQueueItem
 
 > Represents an asynchronous Apex job in the Apex flex
     queue. Provides information about the job type and flex queue position of the AsyncApexJob.

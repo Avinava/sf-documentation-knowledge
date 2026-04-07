@@ -5,12 +5,10 @@ topic: cross-site-request-forgery-csrf
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.490Z
+lastCollected: 2026-04-07T18:36:19.707Z
 estimatedTokens: 799
-keywords: [Cross-Site, Forgery, CSRF, words, attacker's, URL, performs, action, website, user, logged, web, they, visit, retrieved]
+keywords: [Cross-Site, Forgery, CSRF, words, attacker's, URL, performs, action, website, user, logged, web, they, visit, retrieved, actions, performed, attack, succeeds, bec]
 ---
-
-# Cross-Site Request Forgery (CSRF)
 
 > In other words, the attacker's page contains a URL that performs an action on your
                 website. If the user is still logged into your web page when they visit the

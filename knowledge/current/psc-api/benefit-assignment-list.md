@@ -5,12 +5,10 @@ topic: benefit-assignment-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.992Z
+lastCollected: 2026-04-07T18:39:02.185Z
 estimatedTokens: 71
-keywords: [Benefit, Assignment, Output, representation, assignments]
+keywords: [Benefit, Assignment, assignments]
 ---
-
-# Benefit Assignment List
 
 > Output representation of the benefit assignments.
 

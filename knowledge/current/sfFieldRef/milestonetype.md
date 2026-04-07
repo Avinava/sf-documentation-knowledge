@@ -5,12 +5,10 @@ topic: milestonetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.572Z
+lastCollected: 2026-04-07T18:39:49.035Z
 estimatedTokens: 281
-keywords: [MilestoneType, milestone, step, customer, support, process, API, version, 18.0, later]
+keywords: [MilestoneType, milestone, step, customer, support, process, API, 18.0]
 ---
-
-# MilestoneType
 
 > Represents a milestone (required step in a
         customer support process).

@@ -5,12 +5,10 @@ topic: data-processing-engine-definition-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.397Z
+lastCollected: 2026-04-07T18:39:02.613Z
 estimatedTokens: 183
-keywords: [Data, Processing, Engine, Definition, Output, representation, Record, Aggregation, generation]
+keywords: [Processing, Engine, Definition, Record, Aggregation, generation]
 ---
-
-# Data Processing Engine Definition List Output
 
 > Output representation of a Record Aggregation Data Processing Engine definition
     generation request.

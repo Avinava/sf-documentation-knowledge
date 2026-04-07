@@ -5,12 +5,10 @@ topic: search-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.008Z
+lastCollected: 2026-04-07T18:37:33.314Z
 estimatedTokens: 204
 keywords: [Search, Interactions, interaction, occurs, user, performs, site, Event]
 ---
-
-# Search Interactions
 
 > A search interaction occurs when a user performs a search on your
 			site.

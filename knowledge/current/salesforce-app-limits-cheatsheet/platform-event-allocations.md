@@ -5,12 +5,10 @@ topic: platform-event-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.893Z
+lastCollected: 2026-04-07T18:39:16.438Z
 estimatedTokens: 232
-keywords: [Platform, Event, Allocations, Check, events, change, data, capture, Pub, Sub, API]
+keywords: [Platform, Event, Allocations, Check, events, change, capture, Pub, Sub, API]
 ---
-
-# Platform Event Allocations
 
 > Check out allocations for platform events, change data capture events, and Pub/Sub
     API.

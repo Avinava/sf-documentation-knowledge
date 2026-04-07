@@ -5,12 +5,10 @@ topic: iterating-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.101Z
+lastCollected: 2026-04-07T18:36:19.325Z
 estimatedTokens: 286
-keywords: [Iterating, Collections, consist, maps, Modifying, collection's, elements, collection, causes, error, directly, add, remove, includes, Adding]
+keywords: [Iterating, Collections, consist, maps, Modifying, collection's, collection, causes, error, directly, add, remove, includes, Adding, Iteration, Removing]
 ---
-
-# Iterating Collections
 
 > Collections can consist of lists, sets, or maps. Modifying a collection's
 elements while iterating through that collection is not supported

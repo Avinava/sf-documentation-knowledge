@@ -5,12 +5,10 @@ topic: step-5-test-the-pushtopic-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.978Z
+lastCollected: 2026-04-07T18:36:51.283Z
 estimatedTokens: 202
-keywords: [Step, Test, PushTopic, Channel, debug, messages, contain, subscription, status, event, notification, data, invoice, statement, created]
+keywords: [Step, Test, PushTopic, Channel, debug, messages, contain, subscription, status, event, notification, invoice, statement, created, second, updated]
 ---
-
-# Step 5: Test the PushTopic Channel
 
 > The debug messages contain information about the subscription status. The first event
             notification shows the notification data when an invoice statement is created. The

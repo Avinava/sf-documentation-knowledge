@@ -5,12 +5,10 @@ topic: understanding-query-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.935Z
+lastCollected: 2026-04-07T18:40:09.882Z
 estimatedTokens: 630
-keywords: [Understanding, Query, Results, nested, objects, primary, “driving”, main, SELECT, statement, SOQL, subqueries]
+keywords: [Understanding, Query, Results, nested, primary, “driving”, main, SELECT, statement, SOQL, subqueries]
 ---
-
-# Understanding Query Results
 
 > Query results are returned as nested objects. The primary or “driving”
     object of the main SELECT statement in a SOQL query contains

@@ -5,12 +5,10 @@ topic: referral-mobile-sdk-android-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.404Z
+lastCollected: 2026-04-07T18:39:09.719Z
 estimatedTokens: 172
-keywords: [Referral, Mobile, SDK, Android, Classes, organize, SDK’s, functionality, data, structures, developing, apps, provide, components, services]
+keywords: [Referral, Mobile, SDK, Android, Classes, organize, SDK’s, functionality, structures, developing, apps, provide, services, features, interact]
 ---
-
-# Referral Mobile SDK Android Classes
 
 > The Android classes organize the Referral Mobile SDK’s functionality and data
   structures. When developing mobile apps using the SDK, these classes provide components, services,

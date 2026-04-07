@@ -5,12 +5,10 @@ topic: retrieve-data-extension-object-using-customer-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.651Z
+lastCollected: 2026-04-07T18:40:18.849Z
 estimatedTokens: 1165
-keywords: [Retrieve, Data, Extension, Customer, Key, retrieving, CustomerKey, Why, How, Sample, NET, Code, PHP, SOAP, Envelopes]
+keywords: [Retrieve, Extension, Customer, Key, retrieving, CustomerKey, Why, How, Sample, NET, Code, PHP, SOAP, Envelopes, XML]
 ---
-
-# Retrieve Data Extension Object Using Customer Key
 
 > This page contains information  about retrieving a data extension object using the CustomerKey property.
 

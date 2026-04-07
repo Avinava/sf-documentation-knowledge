@@ -5,12 +5,10 @@ topic: use-the-core-salesforce-dx-mcp-tools-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.213Z
+lastCollected: 2026-04-07T18:40:08.163Z
 estimatedTokens: 1796
-keywords: [Core, Salesforce, MCP, Tools, Beta, run, classic, tasks, work, orgs, retrieve, deploy, metadata, Apex, tests]
+keywords: [Core, Salesforce, MCP, Tools, Beta, run, classic, tasks, work, orgs, retrieve, deploy, metadata, Apex, tests, Prerequisites, Sample, Prompts, Invoke]
 ---
-
-# Use the Core Salesforce DX MCP Tools (Beta)
 
 > Use the core Salesforce DX MCP tools to run classic DX tasks, such as work with orgs, retrieve and deploy metadata, run Apex tests, and more.
 

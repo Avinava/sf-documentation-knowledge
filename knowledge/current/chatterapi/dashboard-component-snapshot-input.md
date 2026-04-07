@@ -5,12 +5,10 @@ topic: dashboard-component-snapshot-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.277Z
+lastCollected: 2026-04-07T18:37:08.077Z
 estimatedTokens: 208
-keywords: [Dashboard, Component, Snapshot, Input]
+keywords: [Dashboard, Snapshot]
 ---
-
-# Dashboard Component Snapshot Input
 
 > Dashboard component snapshot input.
 

@@ -6,13 +6,10 @@ topic: create-a-first-generation-managed-package-using-salesforce-dx
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.057Z
+lastCollected: 2026-04-07T18:38:54.474Z
 estimatedTokens: 1203
-keywords: [First-Generation, Managed, Package, Salesforce, you’re, ISV, want, build, bundle, components, application, piece, functionality, great, way]
+keywords: [First-Generation, Managed, Package, Salesforce, you’re, ISV, want, build, bundle, application, piece, functionality, great, way, release, app, sale, support, licensing, features, protect, intellectual, because, source, code, isn’t, roll, upgrades]
 ---
-
-# Create a First-Generation Managed Package using Salesforce
-    DX
 
 > If you’re an ISV, you want to build a managed package. A managed package is a bundle of
     components that make up an application or piece of functionality. A managed package is a great

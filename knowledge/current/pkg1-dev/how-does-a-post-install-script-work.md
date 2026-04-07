@@ -5,12 +5,10 @@ topic: how-does-a-post-install-script-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.767Z
+lastCollected: 2026-04-07T18:38:53.059Z
 estimatedTokens: 892
 keywords: [How, Post, Install, Script, Work, Apex, implements, InstallHandler]
 ---
-
-# How Does a Post Install Script Work?
 
 > A post install script is an Apex class that implements the InstallHandler interface.
 

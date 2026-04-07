@@ -5,12 +5,10 @@ topic: create-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.110Z
+lastCollected: 2026-04-07T18:36:46.974Z
 estimatedTokens: 1972
-keywords: [Bundle, Creates, service, appointments, manually, resource, accepts, appointment, IDs, manual, bundling, policy, rules, marked, API]
+keywords: [Bundle, Creates, service, appointments, manually, resource, accepts, appointment, IDs, manual, bundling, policy, marked, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site, **Code, Sample, Apex**]
 ---
-
-# Create Bundle
 
 > Creates a bundle of service appointments manually. This resource accepts service
     appointment IDs and a manual bundling policy ID. The manual bundling policy specifies the

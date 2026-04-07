@@ -5,12 +5,10 @@ topic: create-an-import-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.163Z
+lastCollected: 2026-04-07T18:40:16.301Z
 estimatedTokens: 12050
-keywords: [Import, Definition, creating, Why, How, Defintion, Sample, NET, Code, Output, Manual, Mapping, Perform, Java, Axis]
+keywords: [Import, Definition, creating, Why, How, Defintion, Sample, NET, Code, Manual, Mapping, Perform, Java, Axis, 1.4, PHP, Ruby, Rails, SOAP, Definiton, Creation, Start, Starting, Retrieve, Results, Summary, Envelope, MapByOrdinal, Items]
 ---
-
-# Create an Import Definition
 
 > This page contains information about creating an import definition.
 

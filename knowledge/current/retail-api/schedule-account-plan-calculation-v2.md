@@ -5,12 +5,10 @@ topic: schedule-account-plan-calculation-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:17.577Z
+lastCollected: 2026-04-07T18:39:11.085Z
 estimatedTokens: 194
 keywords: [Schedule, Account, Plan, Calculation, Schedules, plans]
 ---
-
-# Schedule Account Plan Calculation V2
 
 > Schedules the calculation of account plans.
 

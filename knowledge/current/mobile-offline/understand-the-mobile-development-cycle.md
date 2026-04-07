@@ -5,12 +5,10 @@ topic: understand-the-mobile-development-cycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.763Z
+lastCollected: 2026-04-07T18:38:15.247Z
 estimatedTokens: 2111
-keywords: [Understand, Mobile, Development, Cycle, basics, components, including, essential, tasks, tools, productive, building, LWCs, devices, Code]
+keywords: [Code, Preview, Test, Debug, Understand, Mobile, Development, Cycle, basics, including, essential, tasks, tools, productive, building, LWCs, devices]
 ---
-
-# Understand the Mobile Development Cycle
 
 > Learn the basics of the development cycle for mobile components, including the essential
     tasks and tools that you need to be productive while building LWCs for use on mobile

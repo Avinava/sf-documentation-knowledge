@@ -5,12 +5,10 @@ topic: wkdwtransitionplanc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.228Z
+lastCollected: 2026-04-07T18:40:14.240Z
 estimatedTokens: 694
-keywords: [wkdw__TransitionPlan__c, Custom, transition, plan, associated, employee, user, API, version, 56.0, later, wkdw, _TransitionPlan, Calls]
+keywords: [wkdw__TransitionPlan__c, transition, plan, employee, user, API, 56.0, wkdw, _TransitionPlan]
 ---
-
-# wkdw__TransitionPlan__c
 
 > Custom object for a transition plan that is associated with an employee user. This
       object is available in API version 56.0 and later.

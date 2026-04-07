@@ -5,12 +5,10 @@ topic: insurance-policy-renew-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.159Z
+lastCollected: 2026-04-07T18:37:51.110Z
 estimatedTokens: 93
-keywords: [Insurance, Policy, Renew, Input, representation]
+keywords: [Insurance, Policy, Renew]
 ---
-
-# Insurance Policy Renew Input
 
 > Input representation of the details of the request to renew policy.
 

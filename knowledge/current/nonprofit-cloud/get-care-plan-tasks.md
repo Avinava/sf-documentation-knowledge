@@ -5,12 +5,10 @@ topic: get-care-plan-tasks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.018Z
+lastCollected: 2026-04-07T18:38:20.761Z
 estimatedTokens: 91
-keywords: [Care, Plan, Tasks, Resource, getting, task, Output, representation]
+keywords: [Care, Plan, Tasks, Resource, getting, task]
 ---
-
-# Get Care Plan Tasks
 
 > Output representation of the request to get care plan task.
 

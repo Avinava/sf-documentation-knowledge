@@ -5,12 +5,10 @@ topic: createoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.933Z
+lastCollected: 2026-04-07T18:40:16.074Z
 estimatedTokens: 416
-keywords: [CreateOptions, uses, SaveOptions, control, upsert, functionality, Send, Subscriber, objects, accepts, Items]
+keywords: [CreateOptions, uses, SaveOptions, control, upsert, functionality, Send, Subscriber, accepts, Items]
 ---
-
-# CreateOptions
 
 > The CreateOptions object uses the SaveOptions parameter to control the upsert functionality for Send, List, and Subscriber objects. This parameter accepts a NULL value
 

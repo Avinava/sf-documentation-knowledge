@@ -2,7 +2,7 @@
 domain: bi-dev-guide-rest-sdd
 name: Einstein Discovery REST API Developer Guide
 documentCount: 312
-lastGenerated: 2026-04-07T09:06:35.788Z
+lastGenerated: 2026-04-07T18:40:41.222Z
 ---
 
 # Einstein Discovery REST API Developer Guide — Knowledge Index

@@ -5,12 +5,10 @@ topic: blngtaxratec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.566Z
+lastCollected: 2026-04-07T18:37:04.175Z
 estimatedTokens: 843
-keywords: [blng__TaxRate__c, tax, rate, code, country, blng, _TaxRate, Calls]
+keywords: [blng__TaxRate__c, tax, rate, code, country, blng, _TaxRate]
 ---
-
-# blng__TaxRate__c
 
 > Represents a tax rate for a tax code and country.
 

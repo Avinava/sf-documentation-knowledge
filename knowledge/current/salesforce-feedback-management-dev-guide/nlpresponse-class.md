@@ -5,12 +5,10 @@ topic: nlpresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.195Z
+lastCollected: 2026-04-07T18:39:16.800Z
 estimatedTokens: 146
 keywords: [NlpResponse, Stores, result, NLP, Operation, SurveyLongSummarization, SurveyShortSummarization]
 ---
-
-# NlpResponse Class
 
 > Stores the result for an NLP Operation. NLP operation can be
             SurveyLongSummarization and SurveyShortSummarization.

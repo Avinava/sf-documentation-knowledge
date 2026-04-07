@@ -5,12 +5,10 @@ topic: botversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:37.822Z
+lastCollected: 2026-04-07T18:36:23.090Z
 estimatedTokens: 8024
-keywords: [BotVersion, configuration, specific, Einstein, Bot, version, including, dialogs, variables, Parent, File, Suffix, Directory, Location, Special]
+keywords: [BotVersion, BotDialogGroup, BotDialog, BotStep, BotInvocation, BotInvocationMapping, BotMessage, BotNavigation, BotNavigationLink, BotStepCondition, BotVariableOperation, BotQuickReplyOption, BotVariableOperand, ConversationRecordLookup, ConversationRecordLookupCondition, ConversationRecordLookupField, ConversationDefinitionStepGoalMapping, ConversationSystemMessage, ConversationSystemMessageMapping, ConversationDefinitionRichMessage, ConversationDefinitionGoal, ConversationDefinitionPlanner, ConversationSystemDialog, ConversationVariable, ConversationDefinitionNlpProvider, configuration, specific, Einstein, Bot, including, dialogs, variables, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# BotVersion
 
 > Represents the configuration details for a specific Einstein Bot
             version, including dialogs and variables.

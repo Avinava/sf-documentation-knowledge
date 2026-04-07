@@ -5,12 +5,10 @@ topic: projectionnode-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.260Z
+lastCollected: 2026-04-07T18:36:03.476Z
 estimatedTokens: 929
-keywords: [ProjectionNode, Add, aggregate, functions, query, define, alias, Usage, sum, avg, min, max, count, unique]
+keywords: [ProjectionNode, Add, aggregate, functions, query, define, alias, sum, avg, min, max, count, unique]
 ---
-
-# ProjectionNode Class
 
 > Add aggregate functions to the query, or define an
     alias.

@@ -5,12 +5,10 @@ topic: territory2modelfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.204Z
+lastCollected: 2026-04-07T18:40:03.933Z
 estimatedTokens: 360
-keywords: [Territory2ModelFeed, Feed, tracking, Territory2Model]
+keywords: [Territory2ModelFeed, Territory2Model]
 ---
-
-# Territory2ModelFeed
 
 > Feed tracking for Territory2Model.
 

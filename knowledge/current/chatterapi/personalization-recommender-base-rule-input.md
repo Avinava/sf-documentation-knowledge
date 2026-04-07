@@ -5,12 +5,10 @@ topic: personalization-recommender-base-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.836Z
+lastCollected: 2026-04-07T18:37:09.563Z
 estimatedTokens: 354
-keywords: [Personalization, Recommender, Base, Rule, Input, representation]
+keywords: [Personalization, Recommender, Base, Rule]
 ---
-
-# Personalization Recommender Base Rule Input
 
 > The base representation for a recommender rule input.
 

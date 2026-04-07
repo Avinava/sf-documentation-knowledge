@@ -5,12 +5,10 @@ topic: handling-application-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.925Z
+lastCollected: 2026-04-07T18:38:04.023Z
 estimatedTokens: 478
-keywords: [Handling, Application, Events, <aura, handler>, markup, handler, component, Event, Phases, Source]
+keywords: [Handling, Application, Events, <aura, handler>, markup, handler, Event, Phases, Source]
 ---
-
-# Handling Application Events
 
 > Use <aura:handler> in the markup of the handler
     component.

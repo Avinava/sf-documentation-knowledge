@@ -5,12 +5,10 @@ topic: benefitactionparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:34.926Z
+lastCollected: 2026-04-07T18:39:29.028Z
 estimatedTokens: 277
-keywords: [BenefitActionParameter, flow, input, benefit, action]
+keywords: [BenefitActionParameter, flow, benefit, action]
 ---
-
-# BenefitActionParameter
 
 > Represents the flow input parameters to be used in a benefit action.
 

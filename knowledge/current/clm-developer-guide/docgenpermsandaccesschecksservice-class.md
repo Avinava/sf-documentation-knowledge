@@ -5,12 +5,10 @@ topic: docgenpermsandaccesschecksservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.504Z
+lastCollected: 2026-04-07T18:37:24.503Z
 estimatedTokens: 1720
-keywords: [DocGenPermsAndAccessChecksService, check, permissions, settings, document, generation, integration, features, hasDocGenMetadataSetting, orgId, orgPreference, hasDocGenOrgPerm, orgPermission, hasMS365IntegrationSettingOrgPerm, hasOmnistudioOrgPerm]
+keywords: [DocGenPermsAndAccessChecksService, check, permissions, settings, document, generation, integration, features, hasDocGenMetadataSetting, orgId, orgPreference, hasDocGenOrgPerm, orgPermission, hasMS365IntegrationSettingOrgPerm, hasOmnistudioOrgPerm, isDesigner, userId, userPerm, isRuntimeCCUser, isRuntimeUser]
 ---
-
-# DocGenPermsAndAccessChecksService Class
 
 > The
       DocGenPermsAndAccessChecksService class contains

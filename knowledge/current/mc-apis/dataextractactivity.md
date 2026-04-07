@@ -5,12 +5,10 @@ topic: dataextractactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.293Z
+lastCollected: 2026-04-07T18:40:16.433Z
 estimatedTokens: 489
-keywords: [DataExtractActivity, start, perform, Email, Interactions, Activities, Data, Extract, permission, Items]
+keywords: [DataExtractActivity, start, perform, Email, Interactions, Activities, Extract, permission, Items]
 ---
-
-# DataExtractActivity
 
 > To start a DataExtractActivity using the perform method, you need the Email | Interactions | Activities | Data Extract | Start permission.
 

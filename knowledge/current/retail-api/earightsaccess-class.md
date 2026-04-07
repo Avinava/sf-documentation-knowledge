@@ -5,12 +5,10 @@ topic: earightsaccess-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.763Z
+lastCollected: 2026-04-07T18:39:16.305Z
 estimatedTokens: 263
-keywords: [EARightsAccess, access, EARights, application, uses, Implementation, forRecordType]
+keywords: [EARightsAccess, EARights, application, uses, Implementation, forRecordType]
 ---
-
-# EARightsAccess Class
 
 > Use the EARightsAccess class to access EARights the
   application uses.

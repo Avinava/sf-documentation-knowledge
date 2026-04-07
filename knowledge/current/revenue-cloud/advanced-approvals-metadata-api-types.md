@@ -5,12 +5,10 @@ topic: advanced-approvals-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:55.435Z
+lastCollected: 2026-04-07T18:35:40.217Z
 estimatedTokens: 227
-keywords: [Advanced, Approvals, Metadata, API, access, feature, settings, customize, user]
+keywords: [Advanced, Approvals, Metadata, API, feature, settings, customize, user]
 ---
-
-# Advanced Approvals Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

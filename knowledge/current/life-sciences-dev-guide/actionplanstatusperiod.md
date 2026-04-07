@@ -5,12 +5,10 @@ topic: actionplanstatusperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.328Z
+lastCollected: 2026-04-07T18:37:58.881Z
 estimatedTokens: 958
-keywords: [ActionPlanStatusPeriod, historical, changes, status, action, plan, Calls, Associated, Objects]
+keywords: [ActionPlanStatusPeriod, historical, changes, status, action, plan]
 ---
-
-# ActionPlanStatusPeriod
 
 > Represents the historical changes to the status of an action
       plan.

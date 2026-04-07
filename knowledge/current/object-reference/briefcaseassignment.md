@@ -5,12 +5,10 @@ topic: briefcaseassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.846Z
+lastCollected: 2026-04-07T18:38:26.827Z
 estimatedTokens: 447
-keywords: [BriefcaseAssignment, assignment, briefcase, definition, selected, users, user, groups, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [BriefcaseAssignment, assignment, briefcase, definition, selected, users, user, groups, API, 50.0]
 ---
-
-# BriefcaseAssignment
 
 > Represents the assignment of a briefcase definition to selected users and user
       groups. This object is available in API version 50.0 and later.

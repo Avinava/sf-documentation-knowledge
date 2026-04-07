@@ -5,12 +5,10 @@ topic: externalstring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.433Z
+lastCollected: 2026-04-07T18:36:32.910Z
 estimatedTokens: 633
-keywords: [ExternalString, custom, label, translatable, component, Includes, access, associated, Metadata, API, version, 38.0, later, SOAP, Calls]
+keywords: [ExternalString, Limitations, label, translatable, Includes, Metadata, API, 38.0, SOAP, REST, HTTP]
 ---
-
-# ExternalString
 
 > Represents a custom label for a translatable UI component.
         Includes access to the associated label in the Metadata API. Available in API version 38.0

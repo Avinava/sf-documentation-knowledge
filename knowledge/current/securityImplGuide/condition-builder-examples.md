@@ -5,12 +5,10 @@ topic: condition-builder-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.340Z
+lastCollected: 2026-04-07T18:39:22.234Z
 estimatedTokens: 1306
-keywords: [Condition, Builder, Examples, help, convert, own, real-world, cases, conditions, Track, Report, Executions, User, Logins, API]
+keywords: [Condition, Builder, Examples, help, convert, own, real-world, cases, conditions, Track, Report, Executions, User, Logins, API, Queries, Elapsed, Time, Any, View, User's, Session, Level, Security, Block, File, Download, Logic]
 ---
-
-# Condition Builder Examples
 
 > Use these examples to help you convert your own real-world use cases into Condition
     Builder conditions.

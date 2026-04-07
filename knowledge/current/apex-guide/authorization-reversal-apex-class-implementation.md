@@ -5,12 +5,10 @@ topic: authorization-reversal-apex-class-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.603Z
+lastCollected: 2026-04-07T18:36:16.817Z
 estimatedTokens: 495
-keywords: [Authorization, Reversal, Apex, Implementation, Service, uses, AuthorizationReversalRequest, AuthorizationReversalResponse, classes, manage, creation, storage, Implement, payment, gateway]
+keywords: [Authorization, Reversal, Apex, Implementation, Service, uses, AuthorizationReversalRequest, AuthorizationReversalResponse, classes, manage, creation, storage, Implement, payment, gateway, adapter, Implementing]
 ---
-
-# Authorization Reversal Apex Class Implementation
 
 > The Authorization Reversal Service uses the AuthorizationReversalRequest and AuthorizationReversalResponse classes to manage the creation and storage of
   authorization reversal information. Implement these classes in your payment gateway

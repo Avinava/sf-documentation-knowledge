@@ -5,12 +5,10 @@ topic: serializedproducttransactionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.448Z
+lastCollected: 2026-04-07T18:40:01.207Z
 estimatedTokens: 367
-keywords: [SerializedProductTransactionFeed, Feed, tracking, SerializedProductTransaction]
+keywords: [SerializedProductTransactionFeed, SerializedProductTransaction]
 ---
-
-# SerializedProductTransactionFeed
 
 > Feed tracking for SerializedProductTransaction.
 

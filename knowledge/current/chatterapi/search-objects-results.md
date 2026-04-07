@@ -5,12 +5,10 @@ topic: search-objects-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.455Z
+lastCollected: 2026-04-07T18:37:15.506Z
 estimatedTokens: 221
-keywords: [Search, Objects, Results, keywords, result, groups]
+keywords: [Search, Results, keywords, result, groups]
 ---
-
-# Search Objects Results
 
 > Search objects using keywords and return result groups.
 

@@ -5,12 +5,10 @@ topic: dataassessmentconfigitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.847Z
+lastCollected: 2026-04-07T18:36:32.296Z
 estimatedTokens: 246
-keywords: [DataAssessmentConfigItem, saved, configuration, specific, vendor’s, package, data, assessment, API, version, 40.0, later, SOAP, Calls, REST]
+keywords: [DataAssessmentConfigItem, saved, configuration, specific, vendor’s, package, assessment, API, 40.0, SOAP, REST, HTTP]
 ---
-
-# DataAssessmentConfigItem
 
 > Represents a saved configuration for a
             specific vendor’s package for data assessment. This object is available in API

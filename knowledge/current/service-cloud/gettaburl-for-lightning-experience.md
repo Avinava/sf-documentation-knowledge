@@ -5,12 +5,10 @@ topic: gettaburl-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.680Z
+lastCollected: 2026-04-07T18:36:49.848Z
 estimatedTokens: 288
-keywords: [getTabURL, Lightning, Experience, URL, tab, works, console, apps, isn’t, Web, Components, LWC, Arguments, Aura, Sample]
+keywords: [Arguments, getTabURL, Lightning, Experience, URL, tab, works, console, apps, isn’t, Web, LWC, Aura, Sample, Code]
 ---
-
-# getTabURL() for Lightning Experience
 
 > Returns the URL of the specified tab. This method works only in
    Lightning console apps. This method isn’t supported for Lightning Web Components (LWC).

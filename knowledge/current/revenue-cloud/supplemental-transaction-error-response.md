@@ -5,12 +5,10 @@ topic: supplemental-transaction-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.151Z
+lastCollected: 2026-04-07T18:35:46.106Z
 estimatedTokens: 141
-keywords: [Supplemental, Transaction, Error, Output, representation, associated, Place, API]
+keywords: [Supplemental, Transaction, Error, Place, API]
 ---
-
-# Supplemental Transaction Error Response
 
 > Output representation of the error details associated with the Place Supplemental
     Transaction API.

@@ -5,12 +5,10 @@ topic: care-plans-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.743Z
+lastCollected: 2026-04-07T18:39:01.888Z
 estimatedTokens: 564
-keywords: [Care, Plans, PATCH, Retrieve, plan, Fetches, benefit, assignments, goal, associated, record]
+keywords: [Care, Plans, PATCH, Retrieve, plan, Fetches, benefit, assignments, goal, record]
 ---
-
-# Care Plans (GET, PATCH)
 
 > Retrieve the care plan details. Fetches benefit assignments and goal
       assignments associated with the given care plan. Update a care plan record.

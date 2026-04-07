@@ -5,12 +5,10 @@ topic: actioncadencerulecondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.751Z
+lastCollected: 2026-04-07T18:38:24.618Z
 estimatedTokens: 668
-keywords: [ActionCadenceRuleCondition, logic, branch, step, API, version, 48.0, later, Calls, Usage]
+keywords: [ActionCadenceRuleCondition, logic, branch, step, API, 48.0]
 ---
-
-# ActionCadenceRuleCondition
 
 > Represents the logic for a branch step. This object is available in API
     version 48.0 and later.

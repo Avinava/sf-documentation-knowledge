@@ -5,12 +5,10 @@ topic: dsarpolicylog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.116Z
+lastCollected: 2026-04-07T18:38:29.984Z
 estimatedTokens: 910
-keywords: [DsarPolicyLog, history, Data, Subject, Access, DSAR, policy, execution, requests, log, records, status, results, executed, policies]
+keywords: [DsarPolicyLog, Subject, DSAR, policy, execution, requests, log, records, status, results, executed, policies, customer, API, 50.0]
 ---
-
-# DsarPolicyLog
 
 > Represents the history of Data Subject Access Request (DSAR) policy
          execution requests. This log records the status and results of executed DSAR policies for a

@@ -5,12 +5,10 @@ topic: experience-cloud-cms-content-search-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.793Z
+lastCollected: 2026-04-07T18:37:15.853Z
 estimatedTokens: 392
 keywords: [Experience, Cloud, CMS, Content, Search, Resource, site]
 ---
-
-# Experience Cloud CMS Content Search Resource
 
 > Search an Experience Cloud site.
 

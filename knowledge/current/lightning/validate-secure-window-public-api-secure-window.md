@@ -5,12 +5,10 @@ topic: validate-secure-window-public-api-secure-window-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.786Z
+lastCollected: 2026-04-07T18:38:02.719Z
 estimatedTokens: 414
 keywords: [Validate, Secure, Window, API, secure-window, rule, validates, functions, accessed]
 ---
-
-# Validate Secure Window Public API ( secure-window ) )
 
 > This rule validates that only supported functions and properties
             of the window global are

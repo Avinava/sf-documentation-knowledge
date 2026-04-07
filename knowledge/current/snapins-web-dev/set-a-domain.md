@@ -5,12 +5,10 @@ topic: set-a-domain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.765Z
+lastCollected: 2026-04-07T18:40:09.709Z
 estimatedTokens: 435
-keywords: [Domain, included, code, comment, generated, snippet, versions, 2.0, visitors, navigate, subdomains, chat, session, losing, their]
+keywords: [Domain, included, code, comment, generated, snippet, versions, 2.0, visitors, navigate, subdomains, chat, session, losing, their, sure, want, allow, chats]
 ---
-
-# Set a Domain
 
 > This parameter is included as a code comment in your generated code
    snippet for versions 2.0 and up. When you set the domain, visitors can navigate subdomains during

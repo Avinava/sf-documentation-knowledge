@@ -5,12 +5,10 @@ topic: 69000-69099-portfolio-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.872Z
+lastCollected: 2026-04-07T18:40:14.891Z
 estimatedTokens: 126
 keywords: [69000-69099, Portfolio]
 ---
-
-# 69000-69099 Portfolio Object
 
 # 69000-69099 Portfolio Object
 

@@ -5,12 +5,10 @@ topic: commerce-webstore-product
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.668Z
+lastCollected: 2026-04-07T18:37:12.557Z
 estimatedTokens: 900
 keywords: [Commerce, Webstore, Product]
 ---
-
-# Commerce Webstore Product
 
 > Get a product.
 

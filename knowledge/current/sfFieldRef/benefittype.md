@@ -5,12 +5,10 @@ topic: benefittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.197Z
+lastCollected: 2026-04-07T18:39:29.310Z
 estimatedTokens: 387
 keywords: [BenefitType, benefits, applied, individual, group]
 ---
-
-# BenefitType
 
 > Represents information about the type of benefits that can be applied
          to an individual or a group.

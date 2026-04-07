@@ -5,12 +5,10 @@ topic: cnfgmgmtdiscoveryprobe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.138Z
+lastCollected: 2026-04-07T18:35:55.244Z
 estimatedTokens: 453
-keywords: [CnfgMgmtDiscoveryProbe, definition, probe, determine, commands, scripts, executed, discovery, scan, deep, host, basic, vcenter, API, version]
+keywords: [CnfgMgmtDiscoveryProbe, definition, probe, determine, commands, scripts, executed, discovery, scan, deep, host, basic, vcenter, API, 65.0]
 ---
-
-# CnfgMgmtDiscoveryProbe
 
 > Represents the definition of probe types that determine which commands or
          scripts are executed during a discovery scan. For example, deep host scan, basic host scan,

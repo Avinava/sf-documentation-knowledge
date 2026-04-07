@@ -5,12 +5,10 @@ topic: create-an-unsubscribe-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.532Z
+lastCollected: 2026-04-07T18:40:22.964Z
 estimatedTokens: 258
 keywords: [Unsubscribe, Place, script, webpage, person, unsubscribes, mailing]
 ---
-
-# Create an Unsubscribe Page
 
 > Place this script in the webpage displayed when a person unsubscribes from your mailing list.
 

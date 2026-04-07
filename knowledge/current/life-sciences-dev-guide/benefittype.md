@@ -5,12 +5,10 @@ topic: benefittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.214Z
+lastCollected: 2026-04-07T18:37:57.741Z
 estimatedTokens: 638
-keywords: [BenefitType, benefits, Financial, Assistance, Program, care, enrollee, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [BenefitType, benefits, Financial, Assistance, Program, care, enrollee, API, 51.0]
 ---
-
-# BenefitType
 
 > Represents information about the type of benefits, such as Financial Assistance
       Program, available to the care program enrollee. This object is available in API version

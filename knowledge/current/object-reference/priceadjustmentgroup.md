@@ -5,12 +5,10 @@ topic: priceadjustmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.238Z
+lastCollected: 2026-04-07T18:38:24.129Z
 estimatedTokens: 852
-keywords: [PriceAdjustmentGroup, business, logic, top-level, price, adjustment, discount, applied, entire, order, API, version, 55.0, later, Calls]
+keywords: [PriceAdjustmentGroup, business, logic, top-level, price, adjustment, discount, applied, entire, order, API, 55.0]
 ---
-
-# PriceAdjustmentGroup
 
 > Defines the business logic for a top-level price adjustment, for example, a
          discount applied to an entire order. This object interface is available in API version

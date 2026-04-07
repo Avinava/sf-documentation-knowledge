@@ -5,12 +5,10 @@ topic: shift-records-sharing-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.386Z
+lastCollected: 2026-04-07T18:40:14.400Z
 estimatedTokens: 107
 keywords: [Shift, Records, Sharing, Flow, Share, checks, Service, Territory, populated, creates, record, employee, visibility, their]
 ---
-
-# Shift Records Sharing Flow
 
 > The Create Shift Share Records flow checks if the Service Territory is populated when
   you create a Shift. If it is populated, the flow creates a Shift Share record so that the employee

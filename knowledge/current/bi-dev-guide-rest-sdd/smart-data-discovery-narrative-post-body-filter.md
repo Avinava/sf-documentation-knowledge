@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-post-body-filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.219Z
+lastCollected: 2026-04-07T18:36:59.704Z
 estimatedTokens: 215
-keywords: [Smart, Data, Discovery, Narrative, Post, Filter, query, Einstein, story]
+keywords: [Smart, Discovery, Narrative, Post, Filter, query, Einstein, story]
 ---
-
-# Smart Data Discovery Narrative Post Body Filter
 
 > A query filter for narrative data of an Einstein Discovery story.
 

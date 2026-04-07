@@ -5,12 +5,10 @@ topic: get-translated-value-of-a-survey-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.072Z
+lastCollected: 2026-04-07T18:36:20.283Z
 estimatedTokens: 330
-keywords: [Translated, Survey, particular, language, resource, REST, API, version, 48.0, later]
+keywords: [Translated, Survey, particular, language, resource, REST, API, 48.0]
 ---
-
-# Get Translated Value of a Survey Field
 
 > After a survey field is translated into a particular language, you can use this resource
 		to get the translated value of the survey field. This resource is available in REST API

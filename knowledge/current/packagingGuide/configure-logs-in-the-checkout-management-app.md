@@ -5,12 +5,10 @@ topic: configure-logs-in-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.408Z
+lastCollected: 2026-04-07T18:38:46.268Z
 estimatedTokens: 494
-keywords: [Configure, Logs, Checkout, Management, App, CMA, creates, debug, help, troubleshoot, issues, saved, longer, regularly, stay]
+keywords: [Configure, Logs, Checkout, Management, App, CMA, creates, debug, help, troubleshoot, issues, saved, longer, regularly, stay, storage, limits, Salesforce, edition]
 ---
-
-# Configure Logs in the Checkout Management App
 
 > The Checkout Management App (CMA) creates debug logs to help you troubleshoot issues. By
         default, all logs are saved, but you can configure the CMA to delete logs that you no longer

@@ -5,12 +5,10 @@ topic: contractgroupplangroupclassfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.124Z
+lastCollected: 2026-04-07T18:39:35.587Z
 estimatedTokens: 366
-keywords: [ContractGroupPlanGroupClassFeed, Feed, tracking, ContractGroupPlanGroupClass]
+keywords: [ContractGroupPlanGroupClassFeed, ContractGroupPlanGroupClass]
 ---
-
-# ContractGroupPlanGroupClassFeed
 
 > Feed tracking for ContractGroupPlanGroupClass.
 

@@ -5,12 +5,10 @@ topic: revenue-async-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.768Z
+lastCollected: 2026-04-07T18:37:22.879Z
 estimatedTokens: 133
-keywords: [Revenue, Async, Output, representation, result, API, identifier]
+keywords: [Revenue, Async, result, API, identifier]
 ---
-
-# Revenue Async Response
 
 > Output representation of the result of the API request with the request
     identifier.

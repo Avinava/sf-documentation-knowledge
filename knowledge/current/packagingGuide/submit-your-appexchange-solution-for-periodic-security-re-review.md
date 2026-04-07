@@ -5,12 +5,10 @@ topic: submit-your-appexchange-solution-for-periodic-security-re-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.706Z
+lastCollected: 2026-04-07T18:38:47.660Z
 estimatedTokens: 715
-keywords: [Submit, AppExchange, Solution, Periodic, Security, Re-Review, notified, due, review, wizard, Partner, Console, materials, passed, initial]
+keywords: [Submit, AppExchange, Solution, Periodic, Security, Re-Review, notified, due, review, wizard, Partner, Console, materials, passed, initial, voluntarily]
 ---
-
-# Submit Your AppExchange Solution for Periodic Security Re-Review
 
 > If we notified you that your AppExchange solution is due for a periodic security
   re-review, use the security review wizard in the AppExchange Partner Console to submit the

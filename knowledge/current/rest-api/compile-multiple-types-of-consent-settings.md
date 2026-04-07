@@ -5,12 +5,10 @@ topic: compile-multiple-types-of-consent-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.644Z
+lastCollected: 2026-04-07T18:36:20.883Z
 estimatedTokens: 2434
-keywords: [Compile, Multiple, Consent, Settings, actions, email, track, across, specific, management, objects, records, lookup, relationship, API]
+keywords: [Compile, Multiple, Consent, Settings, actions, email, track, across, specific, management, records, lookup, relationship, API, 45.0]
 ---
-
-# Compile Multiple Types of Consent Settings
 
 > Gets consent details based on multiple actions, like email and track, across specific
   consent management objects when the records have a lookup relationship. Available in API version

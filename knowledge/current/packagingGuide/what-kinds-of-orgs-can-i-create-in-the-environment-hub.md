@@ -5,12 +5,10 @@ topic: what-kinds-of-orgs-can-i-create-in-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.818Z
+lastCollected: 2026-04-07T18:38:46.763Z
 estimatedTokens: 389
-keywords: [kinds, orgs, Environment, Hub, development, testing, trials, ISV, partners, partner, edition, increased, limits, storage, customizations]
+keywords: [kinds, orgs, Environment, Hub, development, testing, trials, ISV, partners, partner, edition, increased, limits, storage, customizations, support, app, you’re, don’t, log, case, Salesforce, Community]
 ---
-
-# What kinds of orgs can I create in the Environment Hub?
 
 > You can create orgs for development, testing, and trials. ISV partners can also create
   partner edition orgs with increased limits, more storage, and other customizations to support app

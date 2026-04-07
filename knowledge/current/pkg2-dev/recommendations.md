@@ -5,12 +5,10 @@ topic: recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.559Z
+lastCollected: 2026-04-07T18:38:54.960Z
 estimatedTokens: 497
-keywords: [Recommendations, query, strategy, varies, business, size, scope, adapt, grows, stay, current, follow, App, Analytics, small]
+keywords: [Recommendations, query, strategy, varies, business, size, scope, adapt, grows, stay, current, follow, App, Analytics, small, medium, large-sized, partners]
 ---
-
-# Recommendations
 
 > Your query strategy varies based on your business size and scope. Also, your query
   strategy must adapt as your business grows. To stay current, follow our App Analytics query

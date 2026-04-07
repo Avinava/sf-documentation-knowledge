@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-transformation-override-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.039Z
+lastCollected: 2026-04-07T18:36:58.565Z
 estimatedTokens: 290
-keywords: [Abstract, Smart, Data, Discovery, Transformation, Override, Input, base, Einstein, deploy]
+keywords: [Abstract, Smart, Discovery, Transformation, Override, base, Einstein, deploy]
 ---
-
-# Abstract Smart Data Discovery Transformation Override Input
 
 > The base Einstein Discovery transformation deploy override input.
 

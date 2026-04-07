@@ -5,12 +5,10 @@ topic: intelligent-appointment-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.215Z
+lastCollected: 2026-04-07T18:37:42.355Z
 estimatedTokens: 1134
-keywords: [Intelligent, Appointment, Management, Health, Cloud, integrates, customer’s, system, provide, patient, booking, experience, Salesforce, call, center]
+keywords: [Intelligent, Appointment, Management, Health, Cloud, integrates, customer’s, system, provide, patient, booking, experience, Salesforce, call, center, agents, care, coordinators, model, appointments, work, multiple, source, systems, operating, different, electronic, record, platforms]
 ---
-
-# Intelligent Appointment Management
 
 > Health Cloud integrates with a customer’s appointment management system to provide a
   patient appointment booking experience in Salesforce for call center agents and care coordinators.

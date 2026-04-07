@@ -5,12 +5,10 @@ topic: invoice-creation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.337Z
+lastCollected: 2026-04-07T18:35:44.309Z
 estimatedTokens: 713
 keywords: [Invoice, Creation, POST, account, order, billing, schedules]
 ---
-
-# Invoice Creation (POST)
 
 > Create an invoice for an account, order, or a list of billing
       schedules.

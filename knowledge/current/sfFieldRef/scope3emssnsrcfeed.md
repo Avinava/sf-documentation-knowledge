@@ -5,12 +5,10 @@ topic: scope3emssnsrcfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.132Z
+lastCollected: 2026-04-07T18:40:00.901Z
 estimatedTokens: 360
-keywords: [Scope3EmssnSrcFeed, Feed, tracking, Scope3EmssnSrc]
+keywords: [Scope3EmssnSrcFeed, Scope3EmssnSrc]
 ---
-
-# Scope3EmssnSrcFeed
 
 > Feed tracking for Scope3EmssnSrc.
 

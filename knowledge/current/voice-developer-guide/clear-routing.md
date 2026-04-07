@@ -5,12 +5,10 @@ topic: clear-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.167Z
+lastCollected: 2026-04-07T18:40:13.112Z
 estimatedTokens: 330
-keywords: [Clear, Routing, Deletes, PendingServiceRouting, PSR, record, voice, call, API, doesn’t, scenarios, automatically, deleted, longer, routed]
+keywords: [Clear, Routing, Deletes, PendingServiceRouting, PSR, record, voice, call, API, doesn’t, scenarios, automatically, deleted, longer, routed, However, there, missed, abandoned, partner, telephony, systems, excluding, Amazon, Connect, explicitly, URI, HTTP]
 ---
-
-# Clear Routing
 
 > Deletes the PendingServiceRouting (PSR) record for a voice call. This
       API doesn’t need to be called for most scenarios; the PSR record is automatically deleted when

@@ -5,12 +5,10 @@ topic: salesforce-cli-configuration-and-tips
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.173Z
+lastCollected: 2026-04-07T18:40:09.124Z
 estimatedTokens: 1433
-keywords: [Salesforce, CLI, Configuration, Tips, development, testing, tasks, include, authorizing, Dev, Hub, org, creating, scratch, synchronizing]
+keywords: [Salesforce, CLI, Configuration, Tips, development, testing, tasks, include, authorizing, Dev, Hub, org, creating, scratch, synchronizing, source, code, orgs, VCS, running, tests]
 ---
-
-# Salesforce CLI Configuration and Tips
 
 > Use Salesforce CLI for most development and testing tasks. These tasks include
     authorizing a Dev Hub org, creating a scratch org, synchronizing source code between your

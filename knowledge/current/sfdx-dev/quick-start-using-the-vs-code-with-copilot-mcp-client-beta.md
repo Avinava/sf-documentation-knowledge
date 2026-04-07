@@ -5,12 +5,10 @@ topic: quick-start-using-the-vs-code-with-copilot-mcp-client-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.179Z
+lastCollected: 2026-04-07T18:40:08.134Z
 estimatedTokens: 1281
-keywords: [Quick, Start, Code, Copilot, MCP, Client, Beta, started, Salesforce, Server, Visual, Studio, configure, GitHub, natural]
+keywords: [Quick, Start, Code, Copilot, MCP, Client, Beta, started, Salesforce, Server, Visual, Studio, configure, GitHub, natural, language, easily, execute, typical, development, tasks, creating, scratch, orgs, deploying, retrieving, metadata, viewing, org, records]
 ---
-
-# Quick Start Using the VS Code With Copilot MCP Client (Beta)
 
 > Get started with the Salesforce DX MCP Server using Visual Studio Code (VS Code) as the MCP client. After you configure it with the Salesforce DX MCP Server, you then use GitHub Copilot and natural language to easily execute typical Salesforce DX development tasks, such as creating scratch orgs, deploying or retrieving metadata, and viewing org records.
 

@@ -5,12 +5,10 @@ topic: stock-rotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.208Z
+lastCollected: 2026-04-07T18:37:06.909Z
 estimatedTokens: 133
-keywords: [Stock, Rotation, Manage, structured, product, inventory, replacement, programs, Automate, end-to-end, lifecycle, partner, submission, validation, claim]
+keywords: [Stock, Rotation, Manage, structured, product, inventory, replacement, programs, Automate, end-to-end, lifecycle, partner, submission, validation, claim, creation, budget]
 ---
-
-# Stock Rotation
 
 > Manage structured product returns and inventory replacement programs. Automate the
   end-to-end lifecycle of stock rotation, from partner submission and validation to claim creation

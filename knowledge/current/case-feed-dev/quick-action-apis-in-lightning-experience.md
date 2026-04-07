@@ -5,12 +5,10 @@ topic: quick-action-apis-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.238Z
+lastCollected: 2026-04-07T18:37:04.956Z
 estimatedTokens: 1195
-keywords: [Quick, Action, APIs, Lightning, Experience, quickActionAPI, component, access, programmatically, controlling, actions, record, pages, supports, utility]
+keywords: [Quick, Action, APIs, Lightning, Experience, quickActionAPI, programmatically, controlling, actions, record, pages, supports, utility, pop-out, requires, API, 43.0, Sample, Code]
 ---
-
-# Quick Action APIs in Lightning Experience
 
 > A lightning:quickActionAPI component allows you
         to access methods for programmatically controlling quick actions on record pages. This

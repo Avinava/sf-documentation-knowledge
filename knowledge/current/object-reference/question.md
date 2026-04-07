@@ -5,12 +5,10 @@ topic: question
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.850Z
+lastCollected: 2026-04-07T18:38:39.385Z
 estimatedTokens: 1302
-keywords: [Question, zone, users, view, reply, Calls, Special, Access, Rules, Usage]
+keywords: [Question, zone, users, view, reply]
 ---
-
-# Question
 
 > Represents a question in a zone that users can
     view and reply to.

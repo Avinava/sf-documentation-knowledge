@@ -5,13 +5,11 @@ topic: ideastandardcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.470Z
+lastCollected: 2026-04-07T18:38:48.421Z
 estimatedTokens: 441
 namespace: ApexPages
-keywords: [IdeaStandardController, objects, offer, Ideas-specific, functionality, addition, provided, StandardController, Usage, Instantiation]
+keywords: [Instantiation, IdeaStandardController, offer, Ideas-specific, functionality, addition, provided, StandardController]
 ---
-
-# IdeaStandardController Class
 
 > IdeaStandardController objects offer Ideas-specific functionality in addition to what is
 provided by the StandardController.

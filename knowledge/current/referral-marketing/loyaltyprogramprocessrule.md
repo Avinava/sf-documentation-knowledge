@@ -5,12 +5,10 @@ topic: loyaltyprogramprocessrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.692Z
+lastCollected: 2026-04-07T18:39:10.100Z
 estimatedTokens: 563
-keywords: [LoyaltyProgramProcessRule, rule, loyalty, program, process, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyProgramProcessRule, rule, loyalty, program, process, API, 59.0]
 ---
-
-# LoyaltyProgramProcessRule
 
 > Represents the details of a rule in a loyalty program process.
       This object is available in API version 59.0 and later.

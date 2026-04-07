@@ -5,12 +5,10 @@ topic: visibilityrule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.504Z
+lastCollected: 2026-04-07T18:35:41.358Z
 estimatedTokens: 1660
-keywords: [VisibilityRule, visibility, rule, evaluated, product, configuration, rules, control, products, attributes, elements, conditions, stiId, prcId, attributeId]
+keywords: [VisibilityRule, visibility, rule, evaluated, product, configuration, control, products, attributes, conditions, stiId, prcId, attributeId, attributePicklistValueId, target, scope, productIds, message, productId]
 ---
-
-# VisibilityRule Class
 
 > Represents a visibility rule that is evaluated during product configuration. Visibility rules control the visibility of products, attributes, or other UI elements based on configuration conditions.
 

@@ -5,12 +5,10 @@ topic: deploying-and-retrieving-metadata-with-the-zip-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.645Z
+lastCollected: 2026-04-07T18:36:21.879Z
 estimatedTokens: 1794
-keywords: [Deploying, Retrieving, Metadata, Zip, File, deploy, retrieve, calls, project, manifest, package.xml, XML, components, organized, folders]
+keywords: [Deploying, Retrieving, Metadata, Zip, File, deploy, retrieve, project, manifest, package.xml, XML, organized, folders]
 ---
-
-# Deploying and Retrieving Metadata with the Zip File
 
 > The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the
             .zip file is a project manifest (package.xml) that lists what to

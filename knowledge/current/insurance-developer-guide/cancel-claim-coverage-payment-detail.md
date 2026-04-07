@@ -5,12 +5,10 @@ topic: cancel-claim-coverage-payment-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.925Z
+lastCollected: 2026-04-07T18:37:52.009Z
 estimatedTokens: 153
-keywords: [Cancel, Claim, Coverage, Payment, Detail, Output, representation, canceled]
+keywords: [Cancel, Claim, Coverage, Payment, Detail, canceled]
 ---
-
-# Cancel Claim Coverage Payment Detail
 
 > Output representation for the canceled claim coverage payment detail.
 

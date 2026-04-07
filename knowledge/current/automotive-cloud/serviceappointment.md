@@ -5,12 +5,10 @@ topic: serviceappointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.748Z
+lastCollected: 2026-04-07T18:36:53.121Z
 estimatedTokens: 2370
-keywords: [ServiceAppointment, service, appointment, booked, Automotive, Scheduler, test, drives, vehicle, services, API, version, 58.0, later, Calls]
+keywords: [ServiceAppointment, service, appointment, booked, Automotive, Scheduler, test, drives, vehicle, services, API, 58.0]
 ---
-
-# ServiceAppointment
 
 > Represents a service appointment booked through Automotive Scheduler, for
          test drives or vehicle services. This object is available in API version 58.0 and

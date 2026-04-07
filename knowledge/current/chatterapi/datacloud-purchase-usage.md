@@ -5,12 +5,10 @@ topic: datacloud-purchase-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.226Z
+lastCollected: 2026-04-07T18:37:18.312Z
 estimatedTokens: 196
-keywords: [Datacloud, Purchase, Usage, Data.com, organization, credits, Monthly, Listpool, users]
+keywords: [Datacloud, Purchase, Data.com, organization, credits, Monthly, Listpool, users]
 ---
-
-# Datacloud Purchase Usage
 
 > Information about the Data.com purchase usage for an organization.
       Shows the credits that are used and available for Monthly and Listpool users.

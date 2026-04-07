@@ -5,12 +5,10 @@ topic: simulation-runtime-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.946Z
+lastCollected: 2026-04-07T18:39:03.175Z
 estimatedTokens: 140
-keywords: [Simulation, Runtime, Output, representation, results, expression]
+keywords: [Simulation, Runtime, results, expression]
 ---
-
-# Simulation Runtime Output
 
 > Output representation of the results of an expression set from the
       simulation.

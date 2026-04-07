@@ -5,12 +5,10 @@ topic: transaction-dispute-management-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.990Z
+lastCollected: 2026-04-07T18:36:43.724Z
 estimatedTokens: 1705
-keywords: [Transaction, Dispute, Management, Case, streamlined, process, users, capture, submit, customer, disputes, financial, transactions, Service, connect]
+keywords: [Transaction, Dispute, Management, Case, streamlined, process, users, capture, submit, customer, disputes, financial, transactions, Service, connect, API, resource, records, Configure, Permissions, Mulesoft, Integration, Review, Payload, Invoke]
 ---
-
-# Transaction Dispute Management Use Case
 
 > Transaction dispute management provides a streamlined process for users to capture and
     submit customer disputes related to financial transactions. You can use the Service Process

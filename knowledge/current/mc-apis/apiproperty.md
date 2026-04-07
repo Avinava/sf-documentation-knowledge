@@ -5,12 +5,10 @@ topic: apiproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.150Z
+lastCollected: 2026-04-07T18:40:15.179Z
 estimatedTokens: 260
-keywords: [APIProperty, associates, pair, none, objects, associated, provide, DataExtension, Items]
+keywords: [APIProperty, associates, pair, none, provide, DataExtension, Items]
 ---
-
-# APIProperty
 
 > The APIProperty object associates more information about an object in a name/value pair. An object can have none, one, or many APIProperty objects associated with it. Use this property to provide information for values on a DataExtension object.
 

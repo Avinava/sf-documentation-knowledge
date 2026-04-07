@@ -5,12 +5,10 @@ topic: additional-fields-field-set-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.805Z
+lastCollected: 2026-04-07T18:37:50.711Z
 estimatedTokens: 208
-keywords: [Additional, Input, representation, IDs, asset, coverage, participant, policy, objects]
+keywords: [Additional, IDs, asset, coverage, participant, policy]
 ---
-
-# Additional Fields Field Set Input
 
 > Input representation for the list of the field set IDs for asset, coverage, participant,
     and policy objects.

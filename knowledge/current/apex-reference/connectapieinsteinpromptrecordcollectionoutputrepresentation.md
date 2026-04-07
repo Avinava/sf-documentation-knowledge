@@ -5,12 +5,10 @@ topic: connectapieinsteinpromptrecordcollectionoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.425Z
+lastCollected: 2026-04-07T18:36:08.858Z
 estimatedTokens: 131
 keywords: [prompt, template, records]
 ---
-
-# ConnectApi.EinsteinPromptRecordCollectionOutputRepresentation
 
 > List of prompt template records.
 

@@ -5,12 +5,10 @@ topic: decision-matrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.414Z
+lastCollected: 2026-04-07T18:36:38.024Z
 estimatedTokens: 108
-keywords: [Decision, Matrix, Retrieve, record, known, calculation, looks, multiple, input, dimensions, corresponding, output]
+keywords: [Decision, Matrix, Retrieve, record, known, calculation, looks, multiple, dimensions, corresponding]
 ---
-
-# Decision Matrix
 
 > A decision matrix is a table that looks up information using multiple
       input dimensions and returns the corresponding output value. Decision matrix is also known as

@@ -5,12 +5,10 @@ topic: send-voicemails-to-reps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.825Z
+lastCollected: 2026-04-07T18:40:13.749Z
 estimatedTokens: 1103
 keywords: [Send, Voicemails, Reps, Let, customers, review, along, transcription, Setup, Routing, Sample, Sequence, Operations, Code]
 ---
-
-# Send Voicemails to Reps
 
 > Let customers send your reps voicemails that reps can review along with a
                 transcription.

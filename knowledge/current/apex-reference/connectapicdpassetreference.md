@@ -5,12 +5,10 @@ topic: connectapicdpassetreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.393Z
+lastCollected: 2026-04-07T18:36:07.772Z
 estimatedTokens: 81
 keywords: [ConnectApi.CdpAssetReference, Model, asset, part, prediction]
 ---
-
-# ConnectApi.CdpAssetReference
 
 > Model asset reference used as part of the prediction request.
 

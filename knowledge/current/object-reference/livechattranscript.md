@@ -5,12 +5,10 @@ topic: livechattranscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.871Z
+lastCollected: 2026-04-07T18:38:35.109Z
 estimatedTokens: 2335
-keywords: [LiveChatTranscript, automatically, created, Live, Agent, chat, session, stores, API, version, 24.0, later, Calls, Usage, Associated]
+keywords: [LiveChatTranscript, automatically, created, Live, Agent, chat, session, stores, API, 24.0]
 ---
-
-# LiveChatTranscript
 
 > This object is automatically created for each Live Agent chat session
    and stores information about the session. This object is available in API version 24.0 and

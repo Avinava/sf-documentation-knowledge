@@ -5,12 +5,10 @@ topic: cgcloudboapitransactionlogc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.603Z
+lastCollected: 2026-04-07T18:39:13.029Z
 estimatedTokens: 1662
-keywords: [cgcloud__BO_API_Transaction_Log__c, stores, Business, API, Transaction, Log, collection, promotions, created, updated, under, via, Promotion, Creation, version]
+keywords: [cgcloud__BO_API_Transaction_Log__c, stores, Business, API, Transaction, Log, collection, promotions, created, updated, under, via, Promotion, Creation, 54.0, cgcloud, _BO, _API, _Transaction, _Log]
 ---
-
-# cgcloud__BO_API_Transaction_Log__c
 
 > This object stores information about Business Object API Transaction
          Log, which is a collection of one or more promotions that should be created or updated

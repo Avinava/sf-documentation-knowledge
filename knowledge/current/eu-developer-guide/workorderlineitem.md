@@ -5,12 +5,10 @@ topic: workorderlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.719Z
+lastCollected: 2026-04-07T18:37:32.989Z
 estimatedTokens: 210
-keywords: [WorkOrderLineItem, subtask, work, order, service, API, version, 62.0, later, Calls]
+keywords: [WorkOrderLineItem, subtask, work, order, service, API, 62.0]
 ---
-
-# WorkOrderLineItem
 
 > Represents a subtask on a work order in field service. This object is
       available in API version 62.0 and later.

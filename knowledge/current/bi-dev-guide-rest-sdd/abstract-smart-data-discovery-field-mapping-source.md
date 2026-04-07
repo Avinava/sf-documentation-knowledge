@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-field-mapping-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.748Z
+lastCollected: 2026-04-07T18:36:59.249Z
 estimatedTokens: 241
-keywords: [Abstract, Smart, Data, Discovery, Mapping, Source, base, Einstein]
+keywords: [Abstract, Smart, Discovery, Mapping, Source, base, Einstein]
 ---
-
-# Abstract Smart Data Discovery Field Mapping Source
 
 > The base Einstein Discovery field mapping source.
 

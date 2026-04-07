@@ -5,12 +5,10 @@ topic: acceptagentwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.729Z
+lastCollected: 2026-04-07T18:36:48.778Z
 estimatedTokens: 187
-keywords: [acceptAgentWork, Accepts, work, item, that’s, assigned, agent, API, versions, 32.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, acceptAgentWork, Accepts, work, item, that’s, assigned, agent, API, versions, 32.0, Sample, Code–Visualforce]
 ---
-
-# acceptAgentWork
 
 > Accepts a work item that’s assigned to an agent. Available in API versions 32.0 and
         later.

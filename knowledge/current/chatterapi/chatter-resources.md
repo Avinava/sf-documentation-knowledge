@@ -5,12 +5,10 @@ topic: chatter-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:24.631Z
+lastCollected: 2026-04-07T18:37:11.414Z
 estimatedTokens: 218
 keywords: [Chatter, Resources, directory, feeds, groups, users, Control, email, digests, sent, emojis, extensions, link, metadata, streams]
 ---
-
-# Chatter Resources
 
 > Get a directory of Chatter feeds, groups, and users resources. Control when Chatter
       email digests are sent. Get a list of supported emojis. Get extensions. Get link metadata. Get

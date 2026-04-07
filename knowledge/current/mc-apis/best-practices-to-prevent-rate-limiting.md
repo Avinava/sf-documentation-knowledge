@@ -5,12 +5,10 @@ topic: best-practices-to-prevent-rate-limiting
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.234Z
+lastCollected: 2026-04-07T18:40:18.436Z
 estimatedTokens: 1070
-keywords: [Best, Practices, Prevent, Rate-Limiting, keep, API, traffic, flowing, Marketing, Cloud, rate-limits, requests, preserve, system, stability]
+keywords: [Best, Practices, Prevent, Rate-Limiting, keep, API, traffic, flowing, Marketing, Cloud, rate-limits, requests, preserve, system, stability, under, unexpectedly, high, load, Rate, Limits, Authentication, Layer, Service, Happens, Rate-Limited, Don’t, token, every, minutes, expires, _in, offline, scope, Retry, exponential, backoff, Honor, HTTP, error, code, Items]
 ---
-
-# Best Practices to Prevent Rate-Limiting
 
 > To keep API traffic flowing, Marketing Cloud rate-limits API requests to preserve system stability under unexpectedly high load.
 

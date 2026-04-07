@@ -5,12 +5,10 @@ topic: adspecmediaprintissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.174Z
+lastCollected: 2026-04-07T18:38:12.462Z
 estimatedTokens: 562
-keywords: [AdSpecMediaPrintIssue, junction, space, specification, media, print, issue, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [AdSpecMediaPrintIssue, junction, space, specification, media, print, issue, API, 57.0]
 ---
-
-# AdSpecMediaPrintIssue
 
 > Represents a junction between an ad space specification and a media print issue. This object is
       available in API version 57.0 and later.

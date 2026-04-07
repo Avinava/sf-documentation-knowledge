@@ -5,12 +5,10 @@ topic: xmd-derived-measure-format-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.839Z
+lastCollected: 2026-04-07T18:36:55.252Z
 estimatedTokens: 369
-keywords: [Xmd, Derived, Measure, Input, extended, metadata, Analytics, dataset]
+keywords: [Xmd, Derived, Measure, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Derived Measure Format Input
 
 > The extended metadata (Xmd) for the format of a derived measure in an Analytics
   dataset.

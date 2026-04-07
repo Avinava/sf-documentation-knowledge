@@ -5,12 +5,10 @@ topic: geterrormessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.045Z
+lastCollected: 2026-04-07T18:36:07.385Z
 estimatedTokens: 107
-keywords: [getErrorMessage, error, message, Usage]
+keywords: [getErrorMessage, error, message]
 ---
-
-# getErrorMessage()
 
 > Returns a String that contains an error
 message.

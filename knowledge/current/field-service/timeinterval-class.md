@@ -5,13 +5,11 @@ topic: timeinterval-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.690Z
+lastCollected: 2026-04-07T18:36:46.539Z
 estimatedTokens: 671
 namespace: FSL
-keywords: [TimeInterval, Holds, interval’s, start, end, times, instance, capturing, scheduling, horizon, process, runs, considers, scheduled, jobs]
+keywords: [TimeInterval, Holds, interval’s, start, end, times, instance, capturing, scheduling, horizon, process, runs, considers, scheduled, jobs, represent, appointment, slot, window, finish, toString]
 ---
-
-# TimeInterval Class
 
 > Holds an interval’s start and end times. An instance of this class is
       used when capturing the start and end times of a scheduling horizon, during which a scheduling

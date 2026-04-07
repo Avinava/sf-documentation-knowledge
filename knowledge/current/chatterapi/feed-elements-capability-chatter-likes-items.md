@@ -5,12 +5,10 @@ topic: feed-elements-capability-chatter-likes-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.644Z
+lastCollected: 2026-04-07T18:37:13.600Z
 estimatedTokens: 696
-keywords: [Feed, Elements, Capability, Chatter, Likes, Items, Access, element, unlike]
+keywords: [Capability, Chatter, Likes, Items, unlike]
 ---
-
-# Feed Elements Capability, Chatter Likes Items
 
 > Access a page of likes for a feed element. Like or unlike a feed
       element.

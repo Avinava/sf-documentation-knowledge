@@ -5,12 +5,10 @@ topic: importdefinitioncolumnbasedaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.418Z
+lastCollected: 2026-04-07T18:40:17.597Z
 estimatedTokens: 205
 keywords: [ImportDefinitionColumnBasedAction, multiple, action, pairs, determine, take, column, depending, skip, add]
 ---
-
-# ImportDefinitionColumnBasedAction
 
 > The ImportDefinitionColumnBasedAction object contains multiple value and action pairs that determine the action to take in a column depending on the value in a field. For example, you can set this object to skip and not add a value of A, delete a value of B, and update a value of C.
 

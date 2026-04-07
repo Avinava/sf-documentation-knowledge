@@ -5,12 +5,10 @@ topic: connect-rest-api-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.997Z
+lastCollected: 2026-04-07T18:37:24.043Z
 estimatedTokens: 880
-keywords: [Connect, REST, API, Limits, requests, subject, rate, Salesforce, APIs, Chatter, resources, subset, per, user, application]
+keywords: [Connect, REST, API, Limits, requests, subject, rate, Salesforce, APIs, Chatter, resources, subset, per, user, application, hour, limit, exceed, Service, Unavailable, error, code]
 ---
-
-# Connect REST API Limits
 
 > Most Connect REST API requests are subject to the same rate limits
       as other Salesforce APIs. Only requests to Chatter REST API resources (a subset of Connect

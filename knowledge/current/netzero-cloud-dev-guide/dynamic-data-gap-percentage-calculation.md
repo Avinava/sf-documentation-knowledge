@@ -5,12 +5,10 @@ topic: dynamic-data-gap-percentage-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.602Z
+lastCollected: 2026-04-07T18:38:17.175Z
 estimatedTokens: 441
-keywords: [Dynamic, Data, Gap, Percentage, Calculation, Calculate, gaps, stationary, assets, date, range]
+keywords: [Dynamic, Gap, Percentage, Calculation, Calculate, gaps, stationary, assets, date, range]
 ---
-
-# Dynamic Data Gap Percentage Calculation
 
 > Calculate the list of data gaps for stationary assets for a dynamic date
   range.

@@ -5,12 +5,10 @@ topic: community
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.244Z
+lastCollected: 2026-04-07T18:39:34.697Z
 estimatedTokens: 269
-keywords: [Community, zone, Idea, Question, objects]
+keywords: [Community, zone, Idea, Question]
 ---
-
-# Community
 
 > Represents a zone that contains Idea or Question
     objects.

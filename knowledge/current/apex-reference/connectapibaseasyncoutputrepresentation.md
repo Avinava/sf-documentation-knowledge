@@ -5,12 +5,10 @@ topic: connectapibaseasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.008Z
+lastCollected: 2026-04-07T18:36:07.346Z
 estimatedTokens: 331
-keywords: [Base, Order, Management, async, output]
+keywords: [Base, Order, Management, async]
 ---
-
-# ConnectApi.BaseAsyncOutputRepresentation
 
 > Base Order Management async output class.
 

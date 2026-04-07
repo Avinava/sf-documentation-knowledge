@@ -5,12 +5,10 @@ topic: post-smsv1queuemo
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.093Z
+lastCollected: 2026-04-07T18:40:18.278Z
 estimatedTokens: 852
-keywords: [POST, sms, queueMO, Queues, message, send, **Overview**, Usage]
+keywords: [POST, sms, queueMO, Queues, message, send, **Overview**]
 ---
-
-# POST /sms/v1/queueMO
 
 > Queues an MO message for send.
 

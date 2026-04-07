@@ -5,12 +5,10 @@ topic: campaigntag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.385Z
+lastCollected: 2026-04-07T18:38:27.379Z
 estimatedTokens: 356
-keywords: [CampaignTag, Associates, word, short, phrase, Campaign, Calls, Usage]
+keywords: [CampaignTag, Associates, word, short, phrase, Campaign]
 ---
-
-# CampaignTag
 
 > Associates a word or short phrase with a Campaign.
 

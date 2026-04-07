@@ -5,12 +5,10 @@ topic: 42000-42999-emailsenddefinition-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.796Z
+lastCollected: 2026-04-07T18:40:14.811Z
 estimatedTokens: 286
 keywords: [42000-42999, EmailSendDefinition]
 ---
-
-# 42000-42999 EmailSendDefinition Object
 
 # 42000-42999 EmailSendDefinition Object
 

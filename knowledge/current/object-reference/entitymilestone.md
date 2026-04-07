@@ -5,12 +5,10 @@ topic: entitymilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.719Z
+lastCollected: 2026-04-07T18:38:30.537Z
 estimatedTokens: 2593
-keywords: [EntityMilestone, step, customer, support, process, work, order, Salesforce, user, uses, term, “object, milestone, API, version]
+keywords: [EntityMilestone, step, customer, support, process, work, order, Salesforce, user, uses, term, “object, milestone, API, 37.0]
 ---
-
-# EntityMilestone
 
 > Represents a required step in a customer support process on a work
 			order. The Salesforce user interface uses the term “object milestone. This object

@@ -5,12 +5,10 @@ topic: commerce-einstein-activity-purge-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.514Z
+lastCollected: 2026-04-07T18:37:17.588Z
 estimatedTokens: 124
 keywords: [Commerce, Einstein, Activity, Purge, Job]
 ---
-
-# Commerce Einstein Activity Purge Job
 
 > Commerce Einstein activity purge job.
 

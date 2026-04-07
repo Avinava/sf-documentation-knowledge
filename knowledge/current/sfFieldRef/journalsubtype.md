@@ -5,12 +5,10 @@ topic: journalsubtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.333Z
+lastCollected: 2026-04-07T18:39:45.891Z
 estimatedTokens: 293
 keywords: [JournalSubType, subcategory, transaction, journal]
 ---
-
-# JournalSubType
 
 > Represents the subcategory of transaction journal.
 

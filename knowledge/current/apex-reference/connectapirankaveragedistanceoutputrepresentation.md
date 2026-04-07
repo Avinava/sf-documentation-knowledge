@@ -5,12 +5,10 @@ topic: connectapirankaveragedistanceoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.096Z
+lastCollected: 2026-04-07T18:36:11.380Z
 estimatedTokens: 158
 keywords: [results, calculating, average, distances, inventory, locations, order, recipient]
 ---
-
-# ConnectApi.RankAverageDistanceOutputRepresentation
 
 > The results of calculating the average distances from sets of
       inventory locations to an order recipient.

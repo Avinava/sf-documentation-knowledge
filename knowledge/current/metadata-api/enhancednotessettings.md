@@ -5,12 +5,10 @@ topic: enhancednotessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.978Z
+lastCollected: 2026-04-07T18:36:25.459Z
 estimatedTokens: 470
-keywords: [EnhancedNotesSettings, org’s, enhanced, settings, enabling, notes, tasks, notes.This, extends, Metadata, inherits, fullName, File, Suffix, Directory]
+keywords: [EnhancedNotesSettings, org’s, enhanced, settings, enabling, notes, tasks, notes.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest]
 ---
-
-# EnhancedNotesSettings
 
 > Represents an org’s enhanced note settings, such as
       enabling enhanced notes and enabling tasks in enhanced notes.This type extends the Metadata metadata type and inherits its fullName field.

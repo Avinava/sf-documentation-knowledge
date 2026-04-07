@@ -5,12 +5,10 @@ topic: multitenancy-and-metadata-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:24.194Z
+lastCollected: 2026-04-07T18:39:17.870Z
 estimatedTokens: 627
-keywords: [Multitenancy, Metadata, means, providing, application, multiple, organizations, different, companies, departments, company, hardware-software, stack, Instead, hardware]
+keywords: [Multitenancy, Metadata, means, providing, application, multiple, organizations, different, companies, departments, company, hardware-software, stack, Instead, hardware, software, resources, organization, Salesforce, inserts]
 ---
-
-# Multitenancy and Metadata Overview
 
 > Multitenancy is a means of providing a single application
 to multiple organizations, such as different companies or departments

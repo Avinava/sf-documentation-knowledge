@@ -5,12 +5,10 @@ topic: query-definition-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.313Z
+lastCollected: 2026-04-07T18:40:23.748Z
 estimatedTokens: 178
-keywords: [Query, Definition, Functions, server-side, JavaScript, allow, manipulate, queries, via, ways, Load, Initialize]
+keywords: [Load, Initialize, Query, Definition, Functions, server-side, JavaScript, allow, manipulate, queries, via, ways]
 ---
-
-# Query Definition Functions
 
 > The Query Definition server-side JavaScript functions allow you to manipulate queries via server-side JavaScript in the following ways:
 

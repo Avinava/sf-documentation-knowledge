@@ -5,12 +5,10 @@ topic: insurance-policy-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.927Z
+lastCollected: 2026-04-07T18:37:53.183Z
 estimatedTokens: 718
 keywords: [Insurance, Policy, Standard, Invocable, Actions, manage, endorse, policies]
 ---
-
-# Insurance Policy Standard Invocable Actions
 
 > Use the standard invocable actions available with Insurance Policy to create, manage,
     and endorse insurance policies.

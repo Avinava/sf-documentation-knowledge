@@ -5,12 +5,10 @@ topic: datacleanroomhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.495Z
+lastCollected: 2026-04-07T18:39:37.101Z
 estimatedTokens: 257
-keywords: [DataCleanRoomHistory, History, tracked, DataCleanRoom]
+keywords: [DataCleanRoomHistory, tracked, DataCleanRoom]
 ---
-
-# DataCleanRoomHistory
 
 > History for tracked fields of DataCleanRoom.
 

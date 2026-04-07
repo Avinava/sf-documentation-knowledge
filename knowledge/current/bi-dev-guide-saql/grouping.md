@@ -5,12 +5,10 @@ topic: grouping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.899Z
+lastCollected: 2026-04-07T18:37:00.418Z
 estimatedTokens: 192
-keywords: [grouping, dimension, due, higher-level, aggregates, usually, means, row, subtotal, grand, total, otherwise, Label, Subtotaled, Data]
+keywords: [grouping, dimension, due, higher-level, aggregates, usually, means, row, subtotal, grand, total, otherwise, Label, Subtotaled]
 ---
-
-# grouping()
 
 > Returns 1 if null dimension values are due to higher-level aggregates (which
             usually means the row is a subtotal or grand total), otherwise returns 0.

@@ -5,13 +5,11 @@ topic: emptyrecyclebinresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.571Z
+lastCollected: 2026-04-07T18:36:13.876Z
 estimatedTokens: 633
 namespace: Database
-keywords: [EmptyRecycleBinResult, result, emptyRecycleBin, DML, operation, Database.emptyRecycleBin, Usage, getErrors, getId, isSuccess]
+keywords: [EmptyRecycleBinResult, result, emptyRecycleBin, DML, operation, Database.emptyRecycleBin, getErrors, getId, isSuccess]
 ---
-
-# EmptyRecycleBinResult Class
 
 > The result of the emptyRecycleBin DML operation returned
 by the Database.emptyRecycleBin method.

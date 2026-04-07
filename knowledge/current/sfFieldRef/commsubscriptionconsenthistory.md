@@ -5,12 +5,10 @@ topic: commsubscriptionconsenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.125Z
+lastCollected: 2026-04-07T18:39:34.575Z
 estimatedTokens: 278
-keywords: [CommSubscriptionConsentHistory, History, tracked, CommSubscriptionConsent]
+keywords: [CommSubscriptionConsentHistory, tracked, CommSubscriptionConsent]
 ---
-
-# CommSubscriptionConsentHistory
 
 > History for tracked fields of CommSubscriptionConsent.
 

@@ -5,12 +5,10 @@ topic: connectapirecordsetfiltercriteriainput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.912Z
+lastCollected: 2026-04-07T18:36:06.259Z
 estimatedTokens: 243
 keywords: [ConnectApi.RecordsetFilterCriteriaInput, recordset, filter, criteria, applied, records, service, appointment]
 ---
-
-# ConnectApi.RecordsetFilterCriteriaInput
 
 > A set of recordset filter criteria applied to records, such as
       service appointment records.

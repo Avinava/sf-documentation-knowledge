@@ -5,12 +5,10 @@ topic: get-contactsv1customobjectidisusedincontacts
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.010Z
+lastCollected: 2026-04-07T18:40:17.166Z
 estimatedTokens: 187
-keywords: [contacts, customObject, isUsedInContacts, Retrieves, whether, contact, model, account, uses, custom, **Overview**, Usage]
+keywords: [contacts, customObject, isUsedInContacts, Retrieves, whether, contact, model, account, uses, **Overview**]
 ---
-
-# GET /contacts/v1/customObject/{id}/isUsedInContacts
 
 > Retrieves information on whether the contact model for an account uses the custom object.
 

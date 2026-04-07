@@ -5,12 +5,10 @@ topic: invokeperform
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.159Z
+lastCollected: 2026-04-07T18:40:22.556Z
 estimatedTokens: 117
-keywords: [InvokePerform, Function, Ordinal, API, perform, Action, varying, depending, **Overview**, **Syntax**, Usage, array]
+keywords: [InvokePerform, Function, Ordinal, API, perform, Action, varying, depending, **Overview**, **Syntax**, array]
 ---
-
-# InvokePerform
 
 > InvokePerform(1, 2, 3, 4)
 

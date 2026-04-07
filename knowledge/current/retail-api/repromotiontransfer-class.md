@@ -5,12 +5,10 @@ topic: repromotiontransfer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.058Z
+lastCollected: 2026-04-07T18:39:10.521Z
 estimatedTokens: 275
-keywords: [RE_PromotionTransfer, Apex, programmatic, access, sObject, sObjects, _PromotionTransfer, Implementation]
+keywords: [RE_PromotionTransfer, Apex, programmatic, sObject, sObjects, _PromotionTransfer, Implementation]
 ---
-
-# RE_PromotionTransfer Class
 
 > The RE_PromotionTransfer Apex class provides
   programmatic access to the RE_PromotionTransfer sObject and

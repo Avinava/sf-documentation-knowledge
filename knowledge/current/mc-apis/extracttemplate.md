@@ -5,12 +5,10 @@ topic: extracttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.819Z
+lastCollected: 2026-04-07T18:40:16.982Z
 estimatedTokens: 389
 keywords: [ExtractTemplate]
 ---
-
-# ExtractTemplate
 
 # ExtractTemplate
 

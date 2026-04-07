@@ -5,12 +5,10 @@ topic: academictermgpacalcevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.621Z
+lastCollected: 2026-04-07T18:38:58.501Z
 estimatedTokens: 278
-keywords: [AcademicTermGpaCalcEvent, resources, execution, academic, term, GPA, calculation, policy, rule, API, version, 63.0, later, Calls]
+keywords: [AcademicTermGpaCalcEvent, resources, execution, academic, term, GPA, calculation, policy, rule, API, 63.0]
 ---
-
-# AcademicTermGpaCalcEvent
 
 > Represents the resources required for the execution of the academic term GPA
          calculation policy rule. This object is available in API version 63.0 and later.

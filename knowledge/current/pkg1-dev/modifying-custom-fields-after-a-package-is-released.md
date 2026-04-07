@@ -5,12 +5,10 @@ topic: modifying-custom-fields-after-a-package-is-released
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.755Z
+lastCollected: 2026-04-07T18:38:54.125Z
 estimatedTokens: 130
-keywords: [Modifying, Custom, Package, Released, changes, allowed, it’s]
+keywords: [Modifying, Package, Released, changes, allowed, it’s]
 ---
-
-# Modifying Custom Fields after a Package Is Released
 
 > The following changes are allowed to custom fields in a package, after it’s released.
 

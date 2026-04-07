@@ -5,12 +5,10 @@ topic: object-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:22.598Z
+lastCollected: 2026-04-07T18:37:09.333Z
 estimatedTokens: 371
-keywords: [Input, graph, node]
+keywords: [graph, node]
 ---
-
-# Object Input
 
 > A graph node.
 

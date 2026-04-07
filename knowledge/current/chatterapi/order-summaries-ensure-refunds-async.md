@@ -5,12 +5,10 @@ topic: order-summaries-ensure-refunds-async
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.624Z
+lastCollected: 2026-04-07T18:37:15.687Z
 estimatedTokens: 1735
-keywords: [Order, Summaries, Ensure, Refunds, Async, CreditMemo, excess, funds, sending, payment, provider, inserts, background, operation, asynchronous]
+keywords: [Order, Summaries, Ensure, Refunds, Async, CreditMemo, excess, funds, sending, payment, provider, inserts, background, operation, asynchronous, job, queue, track, status, gateway, responses, appear, log, don’t, affect]
 ---
-
-# Order Summaries, Ensure Refunds Async
 
 > Ensure refunds for a CreditMemo or excess funds by sending a request
       to a payment provider. This method inserts a background operation into an asynchronous job

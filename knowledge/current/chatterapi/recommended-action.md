@@ -5,12 +5,10 @@ topic: recommended-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:35.381Z
+lastCollected: 2026-04-07T18:37:22.493Z
 estimatedTokens: 618
 keywords: [Recommended, Action]
 ---
-
-# Recommended Action
 
 > Recommended action.
 

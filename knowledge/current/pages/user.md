@@ -5,12 +5,10 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.423Z
+lastCollected: 2026-04-07T18:38:52.732Z
 estimatedTokens: 168
-keywords: [$User, merge, referencing, current, user, alias, title, Usage]
+keywords: [$User, merge, referencing, current, user, alias, title]
 ---
-
-# $User
 
 > A global merge field type to use when referencing information about the current user.
   User merge fields can reference information about the user such as alias, title, and ID.

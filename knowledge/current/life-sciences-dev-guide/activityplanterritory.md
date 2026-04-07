@@ -5,12 +5,10 @@ topic: activityplanterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.376Z
+lastCollected: 2026-04-07T18:37:58.930Z
 estimatedTokens: 363
-keywords: [ActivityPlanTerritory, territory, associated, activity, plan, API, version, 65.0, later, Calls]
+keywords: [ActivityPlanTerritory, territory, activity, plan, API, 65.0]
 ---
-
-# ActivityPlanTerritory
 
 > Represents the territory details associated with an activity plan. This
       object is available in API version 65.0 and later.

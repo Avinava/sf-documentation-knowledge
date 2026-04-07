@@ -5,12 +5,10 @@ topic: botblock
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.717Z
+lastCollected: 2026-04-07T18:36:22.976Z
 estimatedTokens: 935
-keywords: [BotBlock, configuration, specific, Einstein, Bot, block, including, dialogs, variables, Parent, File, Suffix, Directory, Location, Version]
+keywords: [BotBlock, BotBlockVersion, configuration, specific, Einstein, Bot, block, including, dialogs, variables, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# BotBlock
 
 > Represents the configuration details for a specific Einstein Bot block,
 			including dialogs and variables.

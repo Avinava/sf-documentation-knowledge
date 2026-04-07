@@ -5,12 +5,10 @@ topic: pasclaim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.317Z
+lastCollected: 2026-04-07T18:37:44.613Z
 estimatedTokens: 1167
-keywords: [PASClaim, FHIR, resource, maps, CareDiagnosis, CareRequest, CareRequestDrug, CareRequestItem, CareRequestReviewer, Identifier, obejcts, V4.0, Utilization, Management, Data]
+keywords: [PASClaim, FHIR, resource, maps, CareDiagnosis, CareRequest, CareRequestDrug, CareRequestItem, CareRequestReviewer, Identifier, obejcts, V4.0, Utilization, Management, Model, Mapping]
 ---
-
-# PASClaim
 
 > The PASClaim FHIR resource maps to the
       CareDiagnosis, CareRequest,

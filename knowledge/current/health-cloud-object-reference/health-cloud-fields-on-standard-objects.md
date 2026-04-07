@@ -5,12 +5,10 @@ topic: health-cloud-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.662Z
+lastCollected: 2026-04-07T18:37:43.840Z
 estimatedTokens: 617
-keywords: [Health, Cloud, Standard, Objects, adds, custom, Salesforce, represent, individuals, orgs, enabled]
+keywords: [Health, Cloud, Standard, adds, Salesforce, represent, individuals, orgs, enabled]
 ---
-
-# Health Cloud Fields on Standard Objects
 
 > Health Cloud adds standard and custom fields to some standard Salesforce objects to
       represent information about individuals.  These fields are available only in orgs where Health

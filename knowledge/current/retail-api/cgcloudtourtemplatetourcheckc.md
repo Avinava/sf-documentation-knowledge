@@ -5,12 +5,10 @@ topic: cgcloudtourtemplatetourcheckc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.865Z
+lastCollected: 2026-04-07T18:39:15.352Z
 estimatedTokens: 1143
-keywords: [cgcloud__Tour_Template_Tour_Check__c, Stores, relationship, tour, template, check, define, relevant, checks, API, version, 54.0, later, cgcloud, _Tour]
+keywords: [cgcloud__Tour_Template_Tour_Check__c, Stores, relationship, tour, template, check, define, relevant, checks, API, 54.0, cgcloud, _Tour, _Template, _Check]
 ---
-
-# cgcloud__Tour_Template_Tour_Check__c
 
 > Stores the details of the relationship between tour template and tour
          check, which is used to define the relevant tour checks on a tour. This object is

@@ -5,12 +5,10 @@ topic: upgrade-a-second-generation-managed-package-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.860Z
+lastCollected: 2026-04-07T18:38:56.484Z
 estimatedTokens: 498
-keywords: [Upgrade, Second-Generation, Managed, Package, Version, occurs, install, new, org, previous, installed]
+keywords: [Upgrade, Second-Generation, Managed, Package, occurs, install, new, org, previous, installed]
 ---
-
-# Upgrade a Second-Generation Managed Package Version
 
 > A package upgrade occurs when you install a new package version into an org that has a
     previous version of that package installed.

@@ -5,12 +5,10 @@ topic: connectapicancelpolicyinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.752Z
+lastCollected: 2026-04-07T18:37:49.616Z
 estimatedTokens: 119
-keywords: [Input, representation, cancel, policy]
+keywords: [cancel, policy]
 ---
-
-# ConnectApi.CancelPolicyInputRepresentation
 
 > Input representation of the request to cancel a policy.
 

@@ -5,12 +5,10 @@ topic: retailvisitkpi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.432Z
+lastCollected: 2026-04-07T18:39:15.967Z
 estimatedTokens: 1650
-keywords: [RetailVisitKpi, Capture, actual, visit, against, defined, assessment, indicator, definition, target, API, version, 47.0, later, Calls]
+keywords: [RetailVisitKpi, Capture, actual, visit, against, defined, assessment, indicator, definition, target, API, 47.0]
 ---
-
-# RetailVisitKpi
 
 > Capture the actual information during a visit against the defined assessment
       indicator definition and target values. This object is available in API version 47.0 and

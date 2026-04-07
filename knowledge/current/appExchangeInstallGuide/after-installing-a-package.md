@@ -5,12 +5,10 @@ topic: after-installing-a-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:05.407Z
+lastCollected: 2026-04-07T18:36:51.761Z
 estimatedTokens: 1813
 keywords: [Installing, Package, solution, AppExchange, manage, solutions, packages, installed, Salesforce, org, Uninstall, Managed, Considerations, Uninstalling]
 ---
-
-# After Installing a Package
 
 > After installing a solution from AppExchange, manage it like you manage the other
       solutions and packages you installed in your Salesforce org.

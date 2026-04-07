@@ -5,12 +5,10 @@ topic: external-configurator-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.482Z
+lastCollected: 2026-04-07T18:37:27.490Z
 estimatedTokens: 468
-keywords: [External, Configurator, Plugins, Enable, sales, reps, quotes, incorporate, product's, unique, attributes, bundle, configuration, CPQ, replaces]
+keywords: [External, Configurator, Plugins, Enable, sales, reps, quotes, incorporate, product's, unique, attributes, bundle, configuration, CPQ, replaces, product, products, allowing, Salesforce, features, price, calculations]
 ---
-
-# External Configurator Plugins
 
 > Enable sales reps to create quotes that incorporate your product's unique attributes,
   bundle configuration, and other information. A CPQ external configurator replaces the CPQ product

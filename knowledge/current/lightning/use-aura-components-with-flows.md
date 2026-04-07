@@ -5,12 +5,10 @@ topic: use-aura-components-with-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.295Z
+lastCollected: 2026-04-07T18:38:03.309Z
 estimatedTokens: 565
-keywords: [Aura, Components, Flows, Customize, look-and-feel, functionality, adding, Lightning, wrap, flow, component, configure, runtime, control, how]
+keywords: [Aura, Flows, Customize, look-and-feel, functionality, adding, Lightning, wrap, flow, configure, runtime, control, how, paused, resumed]
 ---
-
-# Use Aura Components with Flows
 
 > Customize the look-and-feel and functionality of your flows by adding Lightning
                 components to them. Or wrap a flow in an Aura component to configure the flow at

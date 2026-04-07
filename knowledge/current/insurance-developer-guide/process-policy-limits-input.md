@@ -5,12 +5,10 @@ topic: process-policy-limits-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.305Z
+lastCollected: 2026-04-07T18:37:51.306Z
 estimatedTokens: 155
-keywords: [Process, Policy, Limits, Input, representation, processing, claim, loss, item]
+keywords: [Process, Policy, Limits, processing, claim, loss, item]
 ---
-
-# Process Policy Limits Input
 
 > Input representation for processing policy limits for a claim loss item.
 

@@ -5,12 +5,10 @@ topic: apexdatatable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.409Z
+lastCollected: 2026-04-07T18:38:49.537Z
 estimatedTokens: 2789
-keywords: [apex, dataTable, HTML, that’s, defined, iterating, over, data, displaying, item, per, row, <apex, dataTable>, column]
+keywords: [Attributes, Facets, apex, dataTable, HTML, that’s, defined, iterating, over, displaying, item, per, row, <apex, dataTable>, column, specify, include]
 ---
-
-# apex:dataTable
 
 > An HTML table that’s defined by iterating over a set of data, displaying information about one item of data per row. The body of the <apex:dataTable> contains one or more column components that specify what information should be displayed for each item of data. The data set can include up to 1,000 i
 

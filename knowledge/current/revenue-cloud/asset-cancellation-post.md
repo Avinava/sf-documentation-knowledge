@@ -5,12 +5,10 @@ topic: asset-cancellation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.175Z
+lastCollected: 2026-04-07T18:35:44.124Z
 estimatedTokens: 339
 keywords: [Asset, Cancellation, POST, Initiate, execute]
 ---
-
-# Asset Cancellation (POST)
 
 > Initiate and execute the cancellation of an asset.
 

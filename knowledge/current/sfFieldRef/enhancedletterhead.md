@@ -5,12 +5,10 @@ topic: enhancedletterhead
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.940Z
+lastCollected: 2026-04-07T18:39:39.609Z
 estimatedTokens: 363
-keywords: [EnhancedLetterhead, enhanced, letterhead, associated, Lightning, email, template, doesn’t, Salesforce, Merge, Language, SML, API, version, 46.0]
+keywords: [EnhancedLetterhead, enhanced, letterhead, Lightning, email, template, doesn’t, Salesforce, Merge, Language, SML, API, 46.0]
 ---
-
-# EnhancedLetterhead
 
 > Represents an enhanced letterhead that can be associated with a
 			Lightning email template that doesn’t use the Salesforce Merge Language (SML). This

@@ -5,12 +5,10 @@ topic: apexoutputlabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.007Z
+lastCollected: 2026-04-07T18:38:50.261Z
 estimatedTokens: 1180
-keywords: [apex, outputLabel, label, input, output, component, provide, controller, correspond, Salesforce, Attributes]
+keywords: [Attributes, apex, outputLabel, label, provide, controller, correspond, Salesforce]
 ---
-
-# apex:outputLabel
 
 > A label for an input or output field. Use this component to provide a label for a controller method that does not correspond to a field on a Salesforce object.
 

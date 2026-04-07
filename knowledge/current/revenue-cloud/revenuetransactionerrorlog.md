@@ -5,12 +5,10 @@ topic: revenuetransactionerrorlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:05.533Z
+lastCollected: 2026-04-07T18:35:50.414Z
 estimatedTokens: 993
-keywords: [RevenueTransactionErrorLog, errors, occurred, processing, error, record, persists, until, new, category, primary, necessary, occurs, API, version]
+keywords: [RevenueTransactionErrorLog, errors, occurred, processing, error, record, persists, until, new, category, primary, necessary, occurs, API, 62.0]
 ---
-
-# RevenueTransactionErrorLog
 
 > Represents the details of errors that occurred during the processing of a
          request. The error record persists until a new error with the same category, primary

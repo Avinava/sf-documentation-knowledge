@@ -5,12 +5,10 @@ topic: authenticate-salesforce-scheduler-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.757Z
+lastCollected: 2026-04-07T18:39:20.512Z
 estimatedTokens: 362
-keywords: [Authenticate, Salesforce, Scheduler, APIs, step, API-based, integration, connect, access, token, OAuth, authentication, secure, way, SOAP]
+keywords: [Authenticate, Salesforce, Scheduler, APIs, step, API-based, integration, connect, token, OAuth, authentication, secure, way, SOAP, REST, API]
 ---
-
-# Authenticate Salesforce Scheduler APIs
 
 > The first step in an API-based integration is to connect to Salesforce
       and get an access token using OAuth. OAuth access token authentication is the most secure way

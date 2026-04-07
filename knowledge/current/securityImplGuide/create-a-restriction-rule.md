@@ -5,12 +5,10 @@ topic: create-a-restriction-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.039Z
+lastCollected: 2026-04-07T18:39:22.965Z
 estimatedTokens: 1022
-keywords: [Restriction, Rule, Control, records, specific, user, group, permitted, applied, data, access, via, org-wide, defaults, sharing]
+keywords: [Restriction, Rule, Control, records, specific, user, group, permitted, applied, via, org-wide, defaults, sharing, mechanisms, filtered, record, criteria, specify]
 ---
-
-# Create a Restriction Rule
 
 > Control the records that a specific user group is permitted to see. When a restriction
   rule is applied to a user, the data that the user has access to via org-wide defaults, sharing

@@ -5,12 +5,10 @@ topic: workperformancecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.061Z
+lastCollected: 2026-04-07T18:38:44.868Z
 estimatedTokens: 1002
-keywords: [WorkPerformanceCycle, feedback, gathered, assess, performance, specific, employees, Calls, Associated, Objects]
+keywords: [WorkPerformanceCycle, feedback, gathered, assess, performance, specific, employees]
 ---
-
-# WorkPerformanceCycle
 
 > Represents feedback that is gathered to assess the performance of a
 			specific set of employees.

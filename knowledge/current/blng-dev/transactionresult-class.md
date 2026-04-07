@@ -5,12 +5,10 @@ topic: transactionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.828Z
+lastCollected: 2026-04-07T18:37:03.396Z
 estimatedTokens: 3837
-keywords: [TransactionResult, Holds, result, transaction, setResponseCodeMessage, responseCodeMessage, getResponseCodeMessage, setCardCodeResponse, cardCodeResponse, getCardCodeResponse, setCustomerProfileToken, customerProfileToken, getCustomerProfileToken, setPaymentToken, paymentToken]
+keywords: [TransactionResult, Holds, result, transaction, setResponseCodeMessage, responseCodeMessage, getResponseCodeMessage, setCardCodeResponse, cardCodeResponse, getCardCodeResponse, setCustomerProfileToken, customerProfileToken, getCustomerProfileToken, setPaymentToken, paymentToken, getPaymentToken, setResponseStatus, responseStatus, getResponseStatus, setGatewayRequest, gatewayRequest, getGatewayRequest, setGatewayResponse, gatewayResponse, getGatewayResponse, setResponseMessage, responseMessage, getResponseMessage, setResponseCode, responseCode, getResponseCode, setResponseToValidate, responseToValidate, getResponseToValidate, setGatewayId, gatewayId, getGatewayId, setType, getType, setRequestTypeOfPayment, requestTypeOfPayment, getRequestTypeofPayment, setRequestTransactionType, requestTransactionType, getRequestTransactionType, setIsSuccess, isSuccess, getIsSuccess, setError, error, getErrors, setResponseValueByKey, getResponseValueByKey, setId, getId, setMessage, message, getMessage, setEntity, entity, getEntity, setGatewayStatus, gatewayStatus, getGatewayStatus]
 ---
-
-# TransactionResult Class
 
 > Holds the result of the transaction.
 

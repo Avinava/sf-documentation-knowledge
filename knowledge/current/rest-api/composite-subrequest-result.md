@@ -5,12 +5,10 @@ topic: composite-subrequest-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.374Z
+lastCollected: 2026-04-07T18:36:20.598Z
 estimatedTokens: 1627
 keywords: [Composite, Subrequest, Result, Behavior, Responses, There, Illegal, Characters, IDs, References, Aren’t, Parent]
 ---
-
-# Composite Subrequest Result
 
 > The composite subrequest result describes the result for a subrequest.
 

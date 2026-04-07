@@ -5,12 +5,10 @@ topic: rsrchstdyrandomizationcrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.936Z
+lastCollected: 2026-04-07T18:38:01.822Z
 estimatedTokens: 960
-keywords: [RsrchStdyRandomizationCrit, criteria, definition, grouping, candidates, participating, research, study, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [RsrchStdyRandomizationCrit, criteria, definition, grouping, candidates, participating, research, study, API, 61.0]
 ---
-
-# RsrchStdyRandomizationCrit
 
 > Represents the criteria definition for grouping the candidates participating
          in the research study. This object is available in API version 61.0 and

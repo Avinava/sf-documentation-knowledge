@@ -5,12 +5,10 @@ topic: change-all-tiers-or-none
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.396Z
+lastCollected: 2026-04-07T18:38:08.704Z
 estimatedTokens: 355
-keywords: [Change, Tiers, None, tier, loyalty, program, member, input, meet, criteria, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Change, Tiers, None, tier, loyalty, program, member, meet, criteria, REST, HTTP]
 ---
-
-# Change All Tiers or None
 
 > Change tier for a specified loyalty program member only when all the
    input parameters meet the criteria.

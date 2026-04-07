@@ -5,12 +5,10 @@ topic: inventory-default-source-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.744Z
+lastCollected: 2026-04-07T18:37:19.893Z
 estimatedTokens: 186
-keywords: [Inventory, Source, Output, application, context]
+keywords: [Inventory, Source, application, context]
 ---
-
-# Inventory Default Source Output
 
 > Inventory default source for an application context.
 

@@ -5,12 +5,10 @@ topic: understand-rep-statuses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.777Z
+lastCollected: 2026-04-07T18:40:13.705Z
 estimatedTokens: 728
 keywords: [Understand, Rep, Statuses, how, setAgentStatus, Salesforce, core, connector, performs, action, phone, control, panel]
 ---
-
-# Understand Rep Statuses
 
 > See how setAgentStatus() is called from the
   Salesforce core to the connector when a rep performs an action in the Salesforce phone control

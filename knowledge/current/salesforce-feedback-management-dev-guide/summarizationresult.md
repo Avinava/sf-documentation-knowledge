@@ -5,12 +5,10 @@ topic: summarizationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.245Z
+lastCollected: 2026-04-07T18:39:16.851Z
 estimatedTokens: 143
 keywords: [summarizationResult, stores, NLP, Summarization, result, performed, Operation, SurveyLongSummarization, SurveyShortSummarization]
 ---
-
-# summarizationResult
 
 > Represents the property that stores the NLP Summarization result
             performed for an NLP Operation. NLP operation can be SurveyLongSummarization and

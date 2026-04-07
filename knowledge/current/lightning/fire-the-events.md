@@ -5,12 +5,10 @@ topic: fire-the-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.053Z
+lastCollected: 2026-04-07T18:38:04.158Z
 estimatedTokens: 608
-keywords: [Fire, Events, client-side, controller, helper, functions, force, handled, Lightning, Experience, Salesforce, mobile, app, let’s, view]
+keywords: [Fire, Events, client-side, controller, helper, functions, force, handled, Lightning, Experience, Salesforce, mobile, app, let’s, view, test, simplify, things]
 ---
-
-# Fire the Events
 
 > Fire the events in your client-side controller or helper functions. The force events are handled by Lightning Experience and the Salesforce
         mobile app, but let’s view and test the components in Lightning Experience to simplify

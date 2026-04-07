@@ -6,13 +6,10 @@ topic: integration-procedures-for-subscriber-lifecycle-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.098Z
+lastCollected: 2026-04-07T18:38:11.369Z
 estimatedTokens: 4275
-keywords: [Integration, Procedures, Subscriber, Lifecycle, Management, Every, org, includes, number, specific, across, webshop, selfcare, portal, agent]
+keywords: [Integration, Procedures, Subscriber, Lifecycle, Management, Every, org, includes, number, specific, across, webshop, selfcare, portal, agent, console, implement, flows]
 ---
-
-# Integration Procedures for Subscriber Lifecycle
-                      Management
 
 > Every Subscriber Lifecycle Management org includes
                     a number of Integration Procedures specific to Subscriber

@@ -5,12 +5,10 @@ topic: use-random-sequence-enclosures-and-prompt-sandwiching
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.335Z
+lastCollected: 2026-04-07T18:38:47.311Z
 estimatedTokens: 317
-keywords: [Random, Sequence, Enclosures, Prompt, Sandwiching, untrusted, user-controlled, data, included, secure, random-sequence, enclosure, clearly, segment, instructions]
+keywords: [Random, Sequence, Enclosures, Prompt, Sandwiching, untrusted, user-controlled, included, secure, random-sequence, enclosure, clearly, segment, instructions, goal, prevent, attacker, guessing]
 ---
-
-# Use Random Sequence Enclosures and Prompt Sandwiching
 
 > If untrusted or user-controlled data is included in a prompt, use a secure
     random-sequence enclosure to clearly segment the data from other instructions in the prompt. The

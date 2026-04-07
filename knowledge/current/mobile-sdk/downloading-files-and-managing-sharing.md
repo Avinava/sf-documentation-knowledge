@@ -5,12 +5,10 @@ topic: downloading-files-and-managing-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.538Z
+lastCollected: 2026-04-07T18:40:25.915Z
 estimatedTokens: 314
-keywords: [Downloading, Files, Managing, Sharing, Salesforce, Mobile, SDK, convenience, build, specialized, REST, requests, file, download, operations]
+keywords: [Downloading, Files, Managing, Sharing, Salesforce, Mobile, SDK, convenience, build, specialized, REST, requests, file, download, operations, Pages]
 ---
-
-# Downloading Files and Managing Sharing
 
 > Salesforce Mobile SDK provides convenience methods that build specialized REST requests
 for file download and sharing operations. You can use these requests

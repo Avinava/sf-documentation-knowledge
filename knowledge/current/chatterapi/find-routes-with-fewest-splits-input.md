@@ -5,12 +5,10 @@ topic: find-routes-with-fewest-splits-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.650Z
+lastCollected: 2026-04-07T18:37:08.492Z
 estimatedTokens: 282
-keywords: [Routes, Fewest, Splits, Input, Data, calculate, order, fulfillment, involving, number, shipment]
+keywords: [Routes, Fewest, Splits, calculate, order, fulfillment, involving, number, shipment]
 ---
-
-# Find Routes With Fewest Splits Input
 
 > Data used to calculate order fulfillment routes involving the fewest
       number of shipment splits.

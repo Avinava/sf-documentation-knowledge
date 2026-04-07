@@ -5,12 +5,10 @@ topic: salesforce-maps-apex-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.737Z
+lastCollected: 2026-04-07T18:38:10.999Z
 estimatedTokens: 353
 keywords: [Salesforce, Maps, Apex, Requirements, introduces, perform, operations]
 ---
-
-# Salesforce Maps Apex Requirements
 
 > This guide introduces you to the Apex methods you can use to perform Salesforce Maps
     operations without using the UI.

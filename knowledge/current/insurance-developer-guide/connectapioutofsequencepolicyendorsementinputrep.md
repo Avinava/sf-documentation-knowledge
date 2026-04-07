@@ -5,12 +5,10 @@ topic: connectapioutofsequencepolicyendorsementinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.209Z
+lastCollected: 2026-04-07T18:37:50.052Z
 estimatedTokens: 257
-keywords: [Input, representation, perform, out-of-sequence, endorsement, insurance, policy]
+keywords: [perform, out-of-sequence, endorsement, insurance, policy]
 ---
-
-# ConnectApi.OutOfSequencePolicyEndorsementInputRep
 
 > Input representation of the details to perform an out-of-sequence endorsement on an
     insurance policy.

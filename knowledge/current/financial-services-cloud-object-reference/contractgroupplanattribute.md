@@ -5,12 +5,10 @@ topic: contractgroupplanattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.097Z
+lastCollected: 2026-04-07T18:37:36.881Z
 estimatedTokens: 301
-keywords: [ContractGroupPlanAttribute, API, version, XX.0, later, Calls, Special, Access, Rules]
+keywords: [ContractGroupPlanAttribute, API, XX.0]
 ---
-
-# ContractGroupPlanAttribute
 
 > This object is available in API version XX.0 and later.
 

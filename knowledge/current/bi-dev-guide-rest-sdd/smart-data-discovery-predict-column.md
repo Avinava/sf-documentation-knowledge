@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-column
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.258Z
+lastCollected: 2026-04-07T18:36:59.749Z
 estimatedTokens: 175
-keywords: [Smart, Data, Discovery, Predict, Column, Einstein, prediction]
+keywords: [Smart, Discovery, Predict, Column, Einstein, prediction]
 ---
-
-# Smart Data Discovery Predict Column
 
 > A column given from an Einstein Discovery prediction.
 

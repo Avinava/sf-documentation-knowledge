@@ -5,12 +5,10 @@ topic: reject-approval-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.182Z
+lastCollected: 2026-04-07T18:37:27.178Z
 estimatedTokens: 321
 keywords: [Reject, Approval, API, Call, Advanced, Approvals, service, outside, source]
 ---
-
-# Reject Approval API
 
 > Call the Advanced Approvals reject approval service from an outside source.
 

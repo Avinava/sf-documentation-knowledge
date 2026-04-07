@@ -5,12 +5,10 @@ topic: retrieve-triggered-send-definition-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.317Z
+lastCollected: 2026-04-07T18:40:22.734Z
 estimatedTokens: 273
 keywords: [Retrieve, Triggered, Send, Definition, code, model, display, landing]
 ---
-
-# Retrieve Triggered Send Definition Properties
 
 > Use this code as a model to retrieve properties of a triggered send definition for display on a landing page.
 

@@ -5,12 +5,10 @@ topic: infoauthorizationrequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.235Z
+lastCollected: 2026-04-07T18:39:44.803Z
 estimatedTokens: 275
-keywords: [InfoAuthorizationRequestHistory, History, tracked, InfoAuthorizationRequest]
+keywords: [InfoAuthorizationRequestHistory, tracked, InfoAuthorizationRequest]
 ---
-
-# InfoAuthorizationRequestHistory
 
 > History for tracked fields of InfoAuthorizationRequest.
 

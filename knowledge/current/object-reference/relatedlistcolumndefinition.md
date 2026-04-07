@@ -5,12 +5,10 @@ topic: relatedlistcolumndefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.299Z
+lastCollected: 2026-04-07T18:38:39.893Z
 estimatedTokens: 571
-keywords: [RelatedListColumnDefinition, column, records, specific, criteria, API, version, 55.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [RelatedListColumnDefinition, column, records, specific, criteria, API, 55.0]
 ---
-
-# RelatedListColumnDefinition
 
 > Represents information about a column in a related list. A related list
          specifies a set of records for a related object, based on specific criteria. This

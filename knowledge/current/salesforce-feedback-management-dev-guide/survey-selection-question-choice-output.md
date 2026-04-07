@@ -5,12 +5,10 @@ topic: survey-selection-question-choice-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.456Z
+lastCollected: 2026-04-07T18:39:17.092Z
 estimatedTokens: 143
-keywords: [Survey, Selection, Question, Choice, Output, rating, multiple, question’s]
+keywords: [Survey, Selection, Question, Choice, rating, multiple, question’s]
 ---
-
-# Survey Selection Question Choice Output
 
 > The details of a boolean, rating, single selection, or a multiple
       selection question’s choice on the survey page.

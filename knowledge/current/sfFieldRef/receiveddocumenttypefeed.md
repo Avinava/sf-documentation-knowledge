@@ -5,12 +5,10 @@ topic: receiveddocumenttypefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.195Z
+lastCollected: 2026-04-07T18:39:58.845Z
 estimatedTokens: 363
-keywords: [ReceivedDocumentTypeFeed, Feed, tracking, ReceivedDocumentType]
+keywords: [ReceivedDocumentTypeFeed, ReceivedDocumentType]
 ---
-
-# ReceivedDocumentTypeFeed
 
 > Feed tracking for ReceivedDocumentType.
 

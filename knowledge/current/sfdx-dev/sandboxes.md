@@ -5,12 +5,10 @@ topic: sandboxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.252Z
+lastCollected: 2026-04-07T18:40:08.207Z
 estimatedTokens: 658
-keywords: [Sandboxes, copies, Salesforce, org, development, testing, training, compromising, data, applications, production]
+keywords: [Sandboxes, copies, Salesforce, org, development, testing, training, compromising, applications, production]
 ---
-
-# Sandboxes
 
 > Sandboxes are copies of your Salesforce org that you can use for development, testing,
   and training, without compromising the data and applications in your production org.

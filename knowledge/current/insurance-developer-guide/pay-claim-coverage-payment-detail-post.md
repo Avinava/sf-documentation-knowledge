@@ -5,12 +5,10 @@ topic: pay-claim-coverage-payment-detail-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.790Z
+lastCollected: 2026-04-07T18:37:51.863Z
 estimatedTokens: 231
 keywords: [Pay, Claim, Coverage, Payment, Detail, POST, Process, record]
 ---
-
-# Pay Claim Coverage Payment Detail (POST)
 
 > Process the payment for a claim coverage payment detail record.
 

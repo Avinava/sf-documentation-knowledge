@@ -5,13 +5,11 @@ topic: describelayoutsection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.635Z
+lastCollected: 2026-04-07T18:36:02.842Z
 estimatedTokens: 1695
 namespace: QuickAction
-keywords: [DescribeLayoutSection, current, view, record, collapsed, expanded, layoutsectionid, getColumns, getHeading, getLayoutRows, getLayoutSectionId, getParentLayoutId, getRows, isCollapsed, isUseCollapsibleSection]
+keywords: [DescribeLayoutSection, current, view, record, collapsed, expanded, layoutsectionid, getColumns, getHeading, getLayoutRows, getLayoutSectionId, getParentLayoutId, getRows, isCollapsed, isUseCollapsibleSection, isUseHeading]
 ---
-
-# DescribeLayoutSection Class
 
 > The current view of the record details section: collapsed (true) or expanded (false).
 

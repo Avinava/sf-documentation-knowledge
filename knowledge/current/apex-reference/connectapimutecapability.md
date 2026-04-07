@@ -5,12 +5,10 @@ topic: connectapimutecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.919Z
+lastCollected: 2026-04-07T18:36:10.220Z
 estimatedTokens: 202
-keywords: [ConnectApi.MuteCapability, feed, element, capability, users, mute]
+keywords: [ConnectApi.MuteCapability, capability, users, mute]
 ---
-
-# ConnectApi.MuteCapability
 
 > If a feed element has this capability, users can mute it.
 

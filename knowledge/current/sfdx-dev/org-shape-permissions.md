@@ -5,12 +5,10 @@ topic: org-shape-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.536Z
+lastCollected: 2026-04-07T18:40:08.489Z
 estimatedTokens: 372
-keywords: [Org, Shape, Permissions, Salesforce, admin, Dev, Hub, assign, users, plan, shapes, scratch, orgs, already, permission]
+keywords: [Org, Shape, Permissions, Salesforce, admin, Dev, Hub, assign, users, plan, shapes, scratch, orgs, already, permission, include, Licenses]
 ---
-
-# Org Shape Permissions
 
 > A Salesforce admin for the Dev Hub org must assign permissions to users who plan to
   create org shapes, or create scratch orgs based on an org shape. If you already have a permission

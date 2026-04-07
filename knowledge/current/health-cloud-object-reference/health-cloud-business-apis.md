@@ -5,12 +5,10 @@ topic: health-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:54.235Z
+lastCollected: 2026-04-07T18:37:42.375Z
 estimatedTokens: 218
-keywords: [Health, Cloud, Business, APIs, building, integrations, creating, custom, components, wrap, complex, logic, executing, multiple, tasks]
+keywords: [Health, Cloud, Business, APIs, building, integrations, creating, wrap, complex, logic, executing, multiple, tasks, API, call, They, aim, fulfill, cases, specific, healthcare, industry, enrolling, patients, care, program, requests, prior, authorizations, understand, underlying, model, RESTful, few, Apex, classes]
 ---
-
-# Health Cloud Business APIs
 
 > Use the Health Cloud Business APIs for building integrations with Health Cloud or for
   creating custom UI components. The APIs wrap complex business logic by executing multiple tasks

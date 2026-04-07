@@ -5,12 +5,10 @@ topic: setactionfieldvalues
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.286Z
+lastCollected: 2026-04-07T18:37:05.007Z
 estimatedTokens: 390
-keywords: [setActionFieldValues, custom, components, select, quick, action, record, specify, Arguments]
+keywords: [Arguments, setActionFieldValues, select, quick, action, record, specify]
 ---
-
-# setActionFieldValues
 
 > Allows custom components to select a quick action on a record page and then specify
   field values for that action.

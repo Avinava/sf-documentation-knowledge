@@ -5,12 +5,10 @@ topic: lightning-web-components-in-crm-analytics-and-lightning-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:07.965Z
+lastCollected: 2026-04-07T18:36:54.334Z
 estimatedTokens: 790
-keywords: [Lightning, Web, Components, CRM, Analytics, Dashboards, now, extend, dashboard, capabilitieswith, own, custom, widgets]
+keywords: [Lightning, Web, CRM, Analytics, Dashboards, now, extend, dashboard, capabilitieswith, own, widgets]
 ---
-
-# Lightning Web Components in CRM Analytics and Lightning Dashboards
 
 > With Lightning Web Components in dashboards, you can now extend  the dashboard
   capabilitieswith

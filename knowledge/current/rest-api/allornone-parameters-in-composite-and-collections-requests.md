@@ -5,12 +5,10 @@ topic: allornone-parameters-in-composite-and-collections-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.251Z
+lastCollected: 2026-04-07T18:36:20.460Z
 estimatedTokens: 733
 keywords: [allOrNone, Composite, Collections, Requests, uses, sObject, there, two, interact, subrequest]
 ---
-
-# allOrNone Parameters in Composite and Collections Requests
 
 > If a Composite request uses sObject Collections, there are two or more allOrNone parameters that can interact, one on the Composite request and one on
 		each sObject Collections subrequest.

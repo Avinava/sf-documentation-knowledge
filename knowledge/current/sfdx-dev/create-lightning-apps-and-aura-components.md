@@ -5,12 +5,10 @@ topic: create-lightning-apps-and-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.085Z
+lastCollected: 2026-04-07T18:40:08.035Z
 estimatedTokens: 369
-keywords: [Lightning, Apps, Aura, Components, Salesforce, CLI, local, project, generated, files, live, directory, package]
+keywords: [Lightning, Apps, Aura, Salesforce, CLI, local, project, generated, files, live, directory, package]
 ---
-
-# Create Lightning Apps and Aura Components
 
 > You can use Salesforce CLI to create Lightning apps and Aura components in your local
   Salesforce DX project. The generated files live in an aura

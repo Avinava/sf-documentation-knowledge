@@ -5,12 +5,10 @@ topic: salesforce-crm-loyalty-member-tier-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.370Z
+lastCollected: 2026-04-07T18:35:53.323Z
 estimatedTokens: 356
-keywords: [Salesforce, CRM, Loyalty, Member, Tier, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud, assigned]
+keywords: [Salesforce, CRM, Loyalty, Member, Tier, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, assigned, their, engagement, program, DMO]
 ---
-
-# Salesforce CRM: Loyalty Member Tier Mapping
 
 > These data mappings are for the Loyalty Member Tier DLO found in the Loyalty Management
   bundle of the Salesforce CRM Connector for Data Cloud. A tier that is assigned to a member based

@@ -5,12 +5,10 @@ topic: commerce-subscription-amend-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.025Z
+lastCollected: 2026-04-07T18:37:07.783Z
 estimatedTokens: 310
-keywords: [Commerce, Subscription, Amend, Input, representation]
+keywords: [Commerce, Subscription, Amend]
 ---
-
-# Commerce Subscription Amend Input
 
 > Input representation for the Commerce subscription amend
     request.

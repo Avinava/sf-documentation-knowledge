@@ -5,12 +5,10 @@ topic: workprocedurehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.120Z
+lastCollected: 2026-04-07T18:40:07.029Z
 estimatedTokens: 261
-keywords: [WorkProcedureHistory, History, tracked, WorkProcedure]
+keywords: [WorkProcedureHistory, tracked, WorkProcedure]
 ---
-
-# WorkProcedureHistory
 
 > History for tracked fields of WorkProcedure.
 

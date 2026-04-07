@@ -5,12 +5,10 @@ topic: poll-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.697Z
+lastCollected: 2026-04-07T18:37:21.809Z
 estimatedTokens: 206
-keywords: [Poll, Capability, feed, element, include, voting]
+keywords: [Poll, Capability, include, voting]
 ---
-
-# Poll Capability
 
 > If a feed element has this capability,
 the feed element can include a poll for voting.

@@ -6,13 +6,10 @@ topic: enabling-in-hybrid-and-native-apps-in-hybrid-and-native-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.778Z
+lastCollected: 2026-04-07T18:40:27.003Z
 estimatedTokens: 159
 keywords: [Enabling, Hybrid, Native, Apps, SmartStore, Android, perform, few, extra, steps]
 ---
-
-# Enabling  in Hybrid and Native Apps in Hybrid and
-      Native Apps
 
 > To use SmartStore in
     hybrid Android apps, you perform a few extra steps.

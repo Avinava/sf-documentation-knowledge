@@ -5,12 +5,10 @@ topic: generic-bundle-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.499Z
+lastCollected: 2026-04-07T18:37:19.653Z
 estimatedTokens: 235
-keywords: [Generic, Bundle, Capability, feed, element, may, group, elements, condensed]
+keywords: [Generic, Bundle, Capability, may, group, condensed]
 ---
-
-# Generic Bundle Capability
 
 > If a feed element has this capability,
 the feed element may be a group of other feed elements condensed into

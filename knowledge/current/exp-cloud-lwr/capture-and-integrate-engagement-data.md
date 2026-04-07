@@ -5,12 +5,10 @@ topic: capture-and-integrate-engagement-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.924Z
+lastCollected: 2026-04-07T18:37:33.220Z
 estimatedTokens: 622
-keywords: [Capture, Integrate, Engagement, Data, Experience, Tag, Manager, JavaScript, library, captures, user-interaction, events, Cloud, layer, combines]
+keywords: [Capture, Integrate, Engagement, Experience, Tag, Manager, JavaScript, library, captures, user-interaction, events, Cloud, layer, combines, site, generate, web, sent, applications, Google, Analytics, installed, automatically, connect, enhanced, LWR, sites, built-in, integration, gather, build, behavior, profiles, visitors, audience, segmentation, personalization, Salesforce, integrations]
 ---
-
-# Capture and Integrate Engagement Data
 
 > Experience Tag Manager is a JavaScript library that captures user-interaction events from
   the Experience Cloud data layer and combines them with site data to generate web events. These

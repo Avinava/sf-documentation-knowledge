@@ -5,12 +5,10 @@ topic: accreditationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.440Z
+lastCollected: 2026-04-07T18:39:24.392Z
 estimatedTokens: 359
-keywords: [AccreditationFeed, Feed, tracking, Accreditation]
+keywords: [AccreditationFeed, Accreditation]
 ---
-
-# AccreditationFeed
 
 > Feed tracking for Accreditation.
 

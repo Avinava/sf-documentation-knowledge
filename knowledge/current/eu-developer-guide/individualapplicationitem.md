@@ -5,12 +5,10 @@ topic: individualapplicationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.443Z
+lastCollected: 2026-04-07T18:37:32.661Z
 estimatedTokens: 783
-keywords: [IndividualApplicationItem, Captures, individual, application, input, data, run-time, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [IndividualApplicationItem, Captures, individual, application, run-time, API, 58.0]
 ---
-
-# IndividualApplicationItem
 
 > Captures individual application input data that is used during run-time.
       This object is available in API version 58.0 and later.

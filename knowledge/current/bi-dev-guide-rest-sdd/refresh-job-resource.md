@@ -5,12 +5,10 @@ topic: refresh-job-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.628Z
+lastCollected: 2026-04-07T18:36:59.125Z
 estimatedTokens: 148
 keywords: [Refresh, Job, Resource, Einstein, Discovery]
 ---
-
-# Refresh Job Resource
 
 > Returns an Einstein Discovery refresh job.
 

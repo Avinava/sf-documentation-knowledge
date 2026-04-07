@@ -5,12 +5,10 @@ topic: bot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.696Z
+lastCollected: 2026-04-07T18:36:22.958Z
 estimatedTokens: 2325
-keywords: [Bot, definition, Einstein, configuration, versions, version, active, Parent, File, Suffix, Directory, Location, Special, Access, Rules]
+keywords: [LocalMlDomain, ConversationContextVariable, ConversationContextVariableMapping, ConversationDefinitionChannelProvider, PageContextVariable, Bot, definition, Einstein, configuration, versions, active, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# Bot
 
 > Represents a definition of an Einstein Bot configuration that
             can have one or more versions. Only one version can be active.

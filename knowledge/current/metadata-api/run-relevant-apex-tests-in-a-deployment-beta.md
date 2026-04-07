@@ -5,12 +5,10 @@ topic: run-relevant-apex-tests-in-a-deployment-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.319Z
+lastCollected: 2026-04-07T18:36:24.715Z
 estimatedTokens: 1093
-keywords: [Run, Relevant, Apex, Tests, Deployment, Beta, RunRelevantTests, test, level, Salesforce, automatically, identifies, analysis, payload, dependencies]
+keywords: [Run, Relevant, Apex, Tests, Deployment, Beta, RunRelevantTests, test, level, Salesforce, automatically, identifies, analysis, payload, dependencies, Why, Apply, Overrides]
 ---
-
-# Run Relevant Apex Tests in a Deployment (Beta)
 
 > Use the RunRelevantTests (beta) test level to run only the Apex tests that are relevant
   to your deployment. Salesforce automatically identifies the relevant tests based on an analysis of

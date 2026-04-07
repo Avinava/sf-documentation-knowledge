@@ -5,12 +5,10 @@ topic: getcustomaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.259Z
+lastCollected: 2026-04-07T18:37:04.984Z
 estimatedTokens: 131
-keywords: [getCustomAction, custom, components, access, quick, action, pass, data, messages, Arguments, Sample, Code]
+keywords: [Arguments, getCustomAction, quick, action, pass, messages, Sample, Code]
 ---
-
-# getCustomAction
 
 > Allows custom components to access a custom quick action and pass data or messages to
   it.

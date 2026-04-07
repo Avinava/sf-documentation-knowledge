@@ -5,12 +5,10 @@ topic: cpq-api-quotelinegroupmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.349Z
+lastCollected: 2026-04-07T18:37:27.357Z
 estimatedTokens: 131
-keywords: [CPQ, API, QuoteLineGroupModel, Quote, Line, Group, model, data, Salesforce]
+keywords: [CPQ, API, QuoteLineGroupModel, Quote, Line, Group, model, Salesforce]
 ---
-
-# CPQ API QuoteLineGroupModel
 
 > The Quote Line Group model represents a quote line group data model in Salesforce
   CPQ.

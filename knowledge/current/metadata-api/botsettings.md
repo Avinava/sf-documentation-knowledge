@@ -5,12 +5,10 @@ topic: botsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.723Z
+lastCollected: 2026-04-07T18:36:22.984Z
 estimatedTokens: 468
-keywords: [BotSettings, organization’s, Einstein, Bot, settings, whether, Bots, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory]
+keywords: [BotSettings, organization’s, Einstein, Bot, settings, whether, Bots, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# BotSettings
 
 > Represents an organization’s Einstein Bot settings, such
             as whether or not Einstein Bots is enabled.

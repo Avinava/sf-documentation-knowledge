@@ -5,12 +5,10 @@ topic: delete-messagingv1emaildefinitionsdefinitionkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.400Z
+lastCollected: 2026-04-07T18:40:16.541Z
 estimatedTokens: 313
-keywords: [messaging, email, definitions, definitionKey, Deletes, message, definition, can't, restore, deleted, archived, location, key, provided, reuse]
+keywords: [messaging, email, definitions, definitionKey, Deletes, message, definition, can't, restore, deleted, archived, location, key, provided, reuse, because, copied, new, unique, **Overview**, HTTP, Responses]
 ---
-
-# DELETE /messaging/v1/email/definitions/{definitionKey}
 
 > Deletes a message definition. You can't restore a deleted definition. The deleted definition is archived, and a delete location of the definition key is provided in the response for reference. You can reuse a deleted definition key because the information associated with it is copied to a new unique
 

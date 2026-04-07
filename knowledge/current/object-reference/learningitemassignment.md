@@ -5,12 +5,10 @@ topic: learningitemassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.062Z
+lastCollected: 2026-04-07T18:38:34.258Z
 estimatedTokens: 1135
-keywords: [LearningItemAssignment, assignment, Learning, Paths, entry, users, groups, enrollment, Enablement, program, specific, user, API, version, 58.0]
+keywords: [LearningItemAssignment, assignment, Learning, Paths, entry, users, groups, enrollment, Enablement, program, specific, user, API, 58.0]
 ---
-
-# LearningItemAssignment
 
 > Represents the assignment of a Learning Paths entry to users or
          groups or the enrollment of an Enablement program for a specific user. This object is

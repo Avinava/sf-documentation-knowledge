@@ -5,12 +5,10 @@ topic: types-of-enhanced-transaction-security-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.385Z
+lastCollected: 2026-04-07T18:39:22.280Z
 estimatedTokens: 838
 keywords: [Enhanced, Transaction, Security, Policies, Real-Time, Event, Monitoring, events]
 ---
-
-# Types of Enhanced Transaction Security Policies
 
 > You can create transaction security policies on these Real-Time Event Monitoring
   events.

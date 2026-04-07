@@ -5,13 +5,11 @@ topic: healthcloudext-namespace-for-unified-health-scoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.401Z
+lastCollected: 2026-04-07T18:37:40.379Z
 estimatedTokens: 134
 namespace: HealthCloudExt
 keywords: [HealthCloudExt, Unified, Health, Scoring, Cloud, store, score, action, logs]
 ---
-
-# HealthCloudExt Namespace for Unified Health Scoring
 
 > The HealthCloudExt namespace provides an
     interface and methods for Health Cloud to store health score information in the action

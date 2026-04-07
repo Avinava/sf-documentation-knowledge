@@ -5,12 +5,10 @@ topic: story-day-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.526Z
+lastCollected: 2026-04-07T18:37:00.015Z
 estimatedTokens: 202
-keywords: [Story, Day, data]
+keywords: [Story, Day]
 ---
-
-# Story Day Field Value
 
 > The story data day property.
 

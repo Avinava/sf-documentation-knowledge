@@ -5,12 +5,10 @@ topic: enabling-canvas-personal-apps-within-an-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.535Z
+lastCollected: 2026-04-07T18:38:57.332Z
 estimatedTokens: 490
 keywords: [Enabling, Canvas, Personal, Apps, Organization, administrator, whether, users, install, attempting, app, verify, enabled]
 ---
-
-# Enabling Canvas Personal Apps within an Organization
 
 > The administrator of an organization controls whether users can install canvas personal
     apps within that organization. Before attempting to create a canvas personal app, verify that

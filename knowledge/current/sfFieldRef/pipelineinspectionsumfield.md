@@ -5,12 +5,10 @@ topic: pipelineinspectionsumfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.698Z
+lastCollected: 2026-04-07T18:39:54.243Z
 estimatedTokens: 335
-keywords: [PipelineInspectionSumField, opportunity, aggregate, Pipeline, Inspection, metrics, view, API, version, 56.0, later]
+keywords: [PipelineInspectionSumField, opportunity, aggregate, Pipeline, Inspection, metrics, view, API, 56.0]
 ---
-
-# PipelineInspectionSumField
 
 > Use this object to learn which field from the opportunity object is
          used to aggregate Pipeline Inspection metrics on a pipeline view. This object is

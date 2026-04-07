@@ -5,12 +5,10 @@ topic: secure-key-storage-in-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.842Z
+lastCollected: 2026-04-07T18:40:25.227Z
 estimatedTokens: 1006
-keywords: [Secure, Key, Storage, iOS, protect, customer, Mobile, SDK, encrypts, sensitive, data, user, identity, tokens, SmartStore]
+keywords: [Secure, Key, Storage, iOS, protect, customer, Mobile, SDK, encrypts, sensitive, user, identity, tokens, SmartStore, databases, normal, workflow, protection, pattern, uses, considered, highly, However, “zero, day”, vulnerabilities, arise, heavily, guarded, schemes, stay, ahead, hackers, malicious, attacks, continually, upgrades, encryption, highest, standards, supports, Upgrading, Apps]
 ---
-
-# Secure Key Storage in iOS
 
 > To protect customer information, Mobile SDK encrypts sensitive
   data such as user identity tokens and SmartStore databases. In a normal

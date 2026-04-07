@@ -5,12 +5,10 @@ topic: get-process-rules-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.772Z
+lastCollected: 2026-04-07T18:36:21.011Z
 estimatedTokens: 107
-keywords: [Process, Rules, sObject, active, workflow, resource, REST, API, version, 30.0, later]
+keywords: [Process, sObject, active, workflow, resource, REST, API, 30.0]
 ---
-
-# Get Process Rules for an sObject
 
 > Gets all active workflow rules for an sObject. This resource is available in REST API
         version 30.0 and later.

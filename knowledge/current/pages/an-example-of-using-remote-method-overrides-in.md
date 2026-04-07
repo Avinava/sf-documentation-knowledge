@@ -5,12 +5,10 @@ topic: an-example-of-using-remote-method-overrides-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.886Z
+lastCollected: 2026-04-07T18:38:52.202Z
 estimatedTokens: 583
-keywords: [Remote, Overrides, sample, code, illustrates, how, Objects, operations, presents, sorted, contacts, simple, form, enter, new]
+keywords: [Remote, Overrides, sample, code, illustrates, how, operations, presents, sorted, contacts, simple, form, enter, new, contact, action, built-in, operation, blending, several, Web, development, libraries, present, mobile-friendly, user]
 ---
-
-# An Example of Using Remote Method Overrides in
 
 > This sample code illustrates how to create remote method overrides for Remote Objects
         operations. The example presents a sorted list of contacts and a simple form to enter a new

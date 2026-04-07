@@ -5,12 +5,10 @@ topic: omnistudio-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.537Z
+lastCollected: 2026-04-07T18:36:43.277Z
 estimatedTokens: 657
-keywords: [Omnistudio, Metadata, API, access, feature, settings, customize, user]
+keywords: [Omnistudio, Metadata, API, feature, settings, customize, user]
 ---
-
-# Omnistudio Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

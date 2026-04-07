@@ -5,12 +5,10 @@ topic: get-details-about-a-contract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.787Z
+lastCollected: 2026-04-07T18:36:51.072Z
 estimatedTokens: 147
-keywords: [Contract, Here’s, Contract-based, Orders, resource, query, child, order, products, custom, objects]
+keywords: [Contract, Here’s, Contract-based, Orders, resource, query, child, order, products]
 ---
-
-# Get Details About a Contract
 
 > Here’s an example of a GET request using the Contract-based Orders resource to query details about a contract and its child orders, order
         products, and custom objects.

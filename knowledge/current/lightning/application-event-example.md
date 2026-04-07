@@ -5,12 +5,10 @@ topic: application-event-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.910Z
+lastCollected: 2026-04-07T18:38:04.011Z
 estimatedTokens: 926
-keywords: [Application, Event, Here’s, simple, case, attribute, another, component, Notifier, Handler, Container, Put, Together]
+keywords: [Application, Event, Here’s, simple, case, attribute, another, Notifier, Handler, Container, Put, Together]
 ---
-
-# Application Event Example
 
 > Here’s a simple use case of using an application
 event to update an attribute in another component.

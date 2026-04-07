@@ -5,12 +5,10 @@ topic: insurancecontract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.955Z
+lastCollected: 2026-04-07T18:37:37.766Z
 estimatedTokens: 1522
-keywords: [InsuranceContract, insurance-specific, contract, Extension, specifically, insurance, industry, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [InsuranceContract, insurance-specific, contract, Extension, specifically, insurance, industry, API, 55.0]
 ---
-
-# InsuranceContract
 
 > Represents insurance-specific contract information. Extension of Contract object, specifically for the insurance industry. This object is available in API version 55.0 and later.
 

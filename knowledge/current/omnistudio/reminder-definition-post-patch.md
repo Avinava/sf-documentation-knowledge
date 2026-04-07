@@ -5,12 +5,10 @@ topic: reminder-definition-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.843Z
+lastCollected: 2026-04-07T18:36:38.494Z
 estimatedTokens: 657
 keywords: [Reminder, Definition, POST, PATCH, communication, channel, send, reminders, users, occurrences, occasions]
 ---
-
-# Reminder Definition (POST, PATCH)
 
 > Create and update a reminder definition and a
       communication channel to send reminders to users about important occurrences and

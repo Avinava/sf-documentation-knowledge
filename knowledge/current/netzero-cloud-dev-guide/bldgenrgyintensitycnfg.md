@@ -5,12 +5,10 @@ topic: bldgenrgyintensitycnfg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.406Z
+lastCollected: 2026-04-07T18:38:20.086Z
 estimatedTokens: 854
-keywords: [BldgEnrgyIntensityCnfg, setup, mapping, Building, Energy, Intensity, Record, internal, enums, primarily, calculations, across, different, API, version]
+keywords: [BldgEnrgyIntensityCnfg, setup, mapping, Building, Energy, Intensity, Record, internal, enums, primarily, calculations, across, different, API, 54.0, SOAP, REST]
 ---
-
-# BldgEnrgyIntensityCnfg
 
 > Represents the setup object that contains the mapping between the Building
          Energy Intensity Record record type and internal enums. You can primarily use this object

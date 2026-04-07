@@ -5,12 +5,10 @@ topic: user-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.501Z
+lastCollected: 2026-04-07T18:37:23.578Z
 estimatedTokens: 1383
 keywords: [User, Detail, context, doesn’t, permission]
 ---
-
-# User Detail
 
 > User detail. If the context user doesn’t have permission to see a property, the
     property is set to null.

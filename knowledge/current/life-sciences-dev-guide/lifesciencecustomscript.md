@@ -5,12 +5,10 @@ topic: lifesciencecustomscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.861Z
+lastCollected: 2026-04-07T18:38:00.640Z
 estimatedTokens: 676
-keywords: [LifeScienceCustomScript, custom, script, associated, Life, Science, stage, workflow, implement, validation, logic, API, version, 65.0, later]
+keywords: [LifeScienceCustomScript, script, Life, Science, stage, workflow, implement, validation, logic, API, 65.0]
 ---
-
-# LifeScienceCustomScript
 
 > Represents a custom script associated with a Life Science stage object within
          a workflow. Use a custom script to implement the validation logic for the stage

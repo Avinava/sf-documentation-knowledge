@@ -5,12 +5,10 @@ topic: fundingdisbursement
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:47.343Z
+lastCollected: 2026-04-07T18:39:42.039Z
 estimatedTokens: 402
-keywords: [FundingDisbursement, payment, made, scheduled, funding, recipient, API, version, 57.0, later]
+keywords: [FundingDisbursement, payment, made, scheduled, funding, recipient, API, 57.0]
 ---
-
-# FundingDisbursement
 
 > Represents a payment that has been made or scheduled to be made to a funding recipient. This object is available in API version 57.0 and later.
 

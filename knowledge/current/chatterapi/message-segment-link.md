@@ -5,12 +5,10 @@ topic: message-segment-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.653Z
+lastCollected: 2026-04-07T18:37:20.838Z
 estimatedTokens: 163
 keywords: [Message, Segment, Link, inline, URL]
 ---
-
-# Message Segment: Link
 
 > Represents an inline link to a URL.
 

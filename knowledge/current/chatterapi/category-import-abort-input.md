@@ -5,12 +5,10 @@ topic: category-import-abort-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.834Z
+lastCollected: 2026-04-07T18:37:07.553Z
 estimatedTokens: 82
-keywords: [Category, Import, Abort, Input, Cancel, asynchronous, job]
+keywords: [Category, Import, Abort, Cancel, asynchronous, job]
 ---
-
-# Category Import Abort Input
 
 > Cancel asynchronous category import job input.
 

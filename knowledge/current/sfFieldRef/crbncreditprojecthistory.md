@@ -5,12 +5,10 @@ topic: crbncreditprojecthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.768Z
+lastCollected: 2026-04-07T18:39:36.303Z
 estimatedTokens: 267
-keywords: [CrbnCreditProjectHistory, History, tracked, CrbnCreditProject]
+keywords: [CrbnCreditProjectHistory, tracked, CrbnCreditProject]
 ---
-
-# CrbnCreditProjectHistory
 
 > History for tracked fields of CrbnCreditProject.
 

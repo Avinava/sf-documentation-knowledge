@@ -5,12 +5,10 @@ topic: apexlogcallpublisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.887Z
+lastCollected: 2026-04-07T18:38:50.120Z
 estimatedTokens: 606
-keywords: [apex, logCallPublisher, Log, Call, publisher, lets, support, agents, Case, Feed, logs, customer, calls, component, organizations]
+keywords: [Attributes, apex, logCallPublisher, Log, Call, publisher, lets, support, agents, Case, logs, customer, organizations, Chatter, cases, enabled, displays]
 ---
-
-# apex:logCallPublisher
 
 > The Log a Call publisher lets support agents who use Case Feed create logs for customer calls. This component can only be used in organizations that have Case Feed, Chatter, and  feed tracking on cases enabled.
 

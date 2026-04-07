@@ -5,12 +5,10 @@ topic: dgtassetmgmtprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.435Z
+lastCollected: 2026-04-07T18:36:24.858Z
 estimatedTokens: 573
-keywords: [DgtAssetMgmtProvider, external, content, providers, digital, asset, management, DAM, systems, integrate, Salesforce, CMS, combined, DgtAssetMgmtPrvdLghtCpnt, metadata]
+keywords: [DgtAssetMgmtProvider, external, content, providers, digital, asset, management, DAM, systems, integrate, Salesforce, CMS, combined, DgtAssetMgmtPrvdLghtCpnt, metadata, organizations, configure, platform, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DgtAssetMgmtProvider
 
 > Represents external content providers, such as digital asset
       management (DAM) systems, that integrate with Salesforce CMS. When combined with the

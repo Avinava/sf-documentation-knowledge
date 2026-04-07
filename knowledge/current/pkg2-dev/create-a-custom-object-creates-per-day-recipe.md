@@ -5,12 +5,10 @@ topic: create-a-custom-object-creates-per-day-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.215Z
+lastCollected: 2026-04-07T18:38:54.615Z
 estimatedTokens: 281
-keywords: [Custom, Creates, Per, Day, Recipe, produces, unique, count, how, times, created]
+keywords: [Creates, Per, Day, Recipe, produces, unique, count, how, times, created]
 ---
-
-# Create a Custom Object Creates Per Day Recipe
 
 > This recipe produces a unique count of how many times per day a custom object was
   created.

@@ -5,12 +5,10 @@ topic: query-event-monitoring-data-with-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.628Z
+lastCollected: 2026-04-07T18:36:19.849Z
 estimatedTokens: 123
-keywords: [Query, Event, Monitoring, Data, REST, resource, retrieve, record, Specify, want]
+keywords: [Query, Event, Monitoring, REST, resource, retrieve, record, Specify, want]
 ---
-
-# Query Event Monitoring Data with REST
 
 > Use the Query resource
             to retrieve field values from a record. Specify the fields you want to retrieve in the

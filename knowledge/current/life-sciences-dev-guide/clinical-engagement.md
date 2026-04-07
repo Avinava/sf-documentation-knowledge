@@ -5,12 +5,10 @@ topic: clinical-engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.608Z
+lastCollected: 2026-04-07T18:37:57.109Z
 estimatedTokens: 416
-keywords: [Clinical, Engagement, objects, Life, Sciences, Cloud]
+keywords: [Clinical, Engagement, Life, Sciences, Cloud]
 ---
-
-# Clinical Engagement
 
 > These objects are available for Life Sciences Cloud for Clinical
     Engagement.

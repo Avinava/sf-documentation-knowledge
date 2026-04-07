@@ -5,12 +5,10 @@ topic: post-messagingv1messagedefinitionsendstriggeredsenddefinitionidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.699Z
+lastCollected: 2026-04-07T18:40:17.879Z
 estimatedTokens: 1506
-keywords: [POST, messaging, messageDefinitionSends, triggeredSendDefinitionId, send, transactional, email, Marketing, Cloud's, triggered, functionality, order, service, configure, definition]
+keywords: [POST, messaging, messageDefinitionSends, triggeredSendDefinitionId, send, transactional, email, Marketing, Cloud's, triggered, functionality, order, service, configure, definition, Studio, documentation, managed, REST, API, revie, **Overview**]
 ---
-
-# POST /messaging/v1/messageDefinitionSends/{triggeredSendDefinitionId}/send
 
 > Sends transactional email using Marketing Cloud's triggered send functionality. In order to use this service, configure a triggered send definition in Email Studio. This documentation applies only to triggered sends that are managed in Email Studio. To use the transactional messaging REST API, revie
 

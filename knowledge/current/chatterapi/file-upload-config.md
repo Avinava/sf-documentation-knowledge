@@ -5,12 +5,10 @@ topic: file-upload-config
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.918Z
+lastCollected: 2026-04-07T18:37:13.881Z
 estimatedTokens: 66
 keywords: [File, Upload, Config]
 ---
-
-# File Upload Config
 
 > File upload config.
 

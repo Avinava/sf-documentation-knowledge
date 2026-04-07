@@ -5,12 +5,10 @@ topic: manage-licensing-for-installed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.166Z
+lastCollected: 2026-04-07T18:40:21.445Z
 estimatedTokens: 666
 keywords: [Manage, Licensing, Installed, Packages, license, parent, business, units, across, enterprise, Enhanced, Legacy]
 ---
-
-# Manage Licensing for Installed Packages
 
 > You can license packages installed from parent business units to other business units across your enterprise.
 

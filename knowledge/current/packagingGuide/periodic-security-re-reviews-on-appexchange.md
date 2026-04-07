@@ -5,12 +5,10 @@ topic: periodic-security-re-reviews-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.695Z
+lastCollected: 2026-04-07T18:38:47.646Z
 estimatedTokens: 843
-keywords: [Periodic, Security, Re-Reviews, AppExchange, help, safeguard, against, latest, vulnerabilities, conduct, solutions, reviews, similar, scope, initial]
+keywords: [Periodic, Security, Re-Reviews, AppExchange, help, safeguard, against, latest, vulnerabilities, conduct, solutions, reviews, similar, scope, initial, review, they, include, automated, manual, testing, voluntarily, re-review, solution, certain, instances, notify, requires, cases, fees, apply]
 ---
-
-# Periodic Security Re-Reviews on AppExchange
 
 > To help safeguard against the latest vulnerabilities, we conduct periodic security
         re-reviews of AppExchange solutions. These reviews are similar in scope to an initial

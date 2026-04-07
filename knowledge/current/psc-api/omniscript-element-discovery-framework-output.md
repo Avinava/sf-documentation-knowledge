@@ -5,13 +5,11 @@ topic: omniscript-element-discovery-framework-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.758Z
+lastCollected: 2026-04-07T18:39:02.996Z
 estimatedTokens: 386
 namespace: String
-keywords: [Omniscript, Element, Discovery, Framework, Output, representation, custom, elements]
+keywords: [Omniscript, Discovery, Framework]
 ---
-
-# Omniscript Element Discovery Framework Output
 
 > Output representation of the custom type details of the Omniscript elements for
     Discovery Framework.

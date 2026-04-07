@@ -5,12 +5,10 @@ topic: business-object-api-output-entities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.400Z
+lastCollected: 2026-04-07T18:39:10.892Z
 estimatedTokens: 91
-keywords: [Business, API, Output, Entities, provided, Promotion, Objects]
+keywords: [Business, API, Entities, provided, Promotion]
 ---
-
-# Business Object API Output Entities
 
 > The following entities are provided for Promotion Business Objects API.
 

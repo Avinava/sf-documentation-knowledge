@@ -5,12 +5,10 @@ topic: input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.616Z
+lastCollected: 2026-04-07T18:38:08.946Z
 estimatedTokens: 244
-keywords: [Input, Classes, Loyalty, Management, Apex]
+keywords: [Classes, Loyalty, Management, Apex]
 ---
-
-# Input Classes
 
 > These are Loyalty Management Apex input classes.
 

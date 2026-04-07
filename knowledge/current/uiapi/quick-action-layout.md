@@ -5,12 +5,10 @@ topic: quick-action-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.017Z
+lastCollected: 2026-04-07T18:40:12.027Z
 estimatedTokens: 148
 keywords: [Quick, Action, Layout, record]
 ---
-
-# Quick Action Layout
 
 > The record layout used by the quick action.
 

@@ -5,12 +5,10 @@ topic: contentworkspacepermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.866Z
+lastCollected: 2026-04-07T18:38:28.773Z
 estimatedTokens: 1049
-keywords: [ContentWorkspacePermission, library, permission, API, version, 40.0, later, Calls, Special, Access, Rules]
+keywords: [ContentWorkspacePermission, library, permission, API, 40.0]
 ---
-
-# ContentWorkspacePermission
 
 > Represents a library permission. This object is available in API
       version 40.0 and later.

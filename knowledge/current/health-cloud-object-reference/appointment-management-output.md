@@ -5,12 +5,10 @@ topic: appointment-management-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.366Z
+lastCollected: 2026-04-07T18:37:41.453Z
 estimatedTokens: 179
-keywords: [Appointment, Management, Output, representation]
+keywords: [Appointment, Management]
 ---
-
-# Appointment Management Output
 
 > Output representation for appointment management.
 

@@ -5,12 +5,10 @@ topic: listing-readiness-for-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.652Z
+lastCollected: 2026-04-07T18:38:47.608Z
 estimatedTokens: 1895
-keywords: [Listing, Readiness, Managed, Packages, whether, managed-released, package, version, ready, AppExchange, pass, security, review, difference, status]
+keywords: [Listing, Readiness, Managed, Packages, whether, managed-released, package, ready, AppExchange, pass, security, review, difference, status, Discover, how, ‌first-, second-generation, 1GP, 2GP, versions, inherit, previous, informed, decisions, submit]
 ---
-
-# Listing Readiness for Managed Packages
 
 > Listing readiness indicates whether a managed-released package version is ready to list
   on AppExchange or if it first must pass security review. Learn the difference between security

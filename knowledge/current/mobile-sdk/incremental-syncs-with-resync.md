@@ -5,12 +5,10 @@ topic: incremental-syncs-with-resync
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.208Z
+lastCollected: 2026-04-07T18:40:25.571Z
 estimatedTokens: 667
-keywords: [Incremental, Syncs, reSync, sync, targets, SOQL-based, down, incrementally, pre-defined, operation, download, upload, new, updated, records]
+keywords: [Incremental, Syncs, reSync, sync, targets, SOQL-based, down, incrementally, pre-defined, operation, download, upload, new, updated, records, source, call, either, configuration, never, run, knows, full, Limitation, There, Ghosts, Store, Invoking, Sample, Apps]
 ---
-
-# Incremental Syncs with reSync
 
 > For sync up targets and SOQL-based sync down targets, you can incrementally update a
     pre-defined sync operation. Incremental reSync methods

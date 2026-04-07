@@ -5,12 +5,10 @@ topic: appusageassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.015Z
+lastCollected: 2026-04-07T18:38:25.968Z
 estimatedTokens: 358
-keywords: [AppUsageAssignment, application, context, record, different, allowed, actions, objects, it’s, created, applications, Revenue, Lifecycle, Management, order]
+keywords: [AppUsageAssignment, application, context, record, different, allowed, actions, it’s, created, applications, Revenue, Lifecycle, Management, order, RevenueLifecycleManagement, Salesforce, knows, assets, API, 50.0]
 ---
-
-# AppUsageAssignment
 
 > Provides application context for a record. A record can have
          different allowed actions or different related objects when it’s created for different

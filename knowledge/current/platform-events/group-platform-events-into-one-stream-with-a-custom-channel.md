@@ -5,12 +5,10 @@ topic: group-platform-events-into-one-stream-with-a-custom-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.539Z
+lastCollected: 2026-04-07T18:38:58.405Z
 estimatedTokens: 1726
-keywords: [Group, Platform, Events, Stream, Custom, Channel, receive, event, messages, corresponding, Real-Time, Monitoring, you’ve, defined, orders]
+keywords: [Group, Platform, Events, Stream, Channel, receive, event, messages, corresponding, Real-Time, Monitoring, you’ve, defined, orders, different, regions, client, subscribe, process, channels, Pub, Sub, API, clients, CometD, relays, add, filters, subscriptions, optimized, PlatformEventChannel, PlatformEventChannelMember, Diagram, Subscribing, Getting, via, EventApiName, Allocations]
 ---
-
-# Group Platform Events into One Stream with a Custom Channel
 
 > With a custom channel, you can receive a stream of event messages corresponding to one or
     more custom platform events, or Real-Time Event Monitoring events. For example, if you’ve

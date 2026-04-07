@@ -5,12 +5,10 @@ topic: productfee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.903Z
+lastCollected: 2026-04-07T18:37:38.786Z
 estimatedTokens: 1014
-keywords: [ProductFee, base, fee, associated, product, API, version, 61.0, later, Digital, Lending, permission, Calls, Objects]
+keywords: [ProductFee, base, fee, product, API, 61.0, Digital, Lending, permission]
 ---
-
-# ProductFee
 
 > Represents the base fee associated with a product. This object
       is available in API version 61.0 and later. Available with Digital Lending permission

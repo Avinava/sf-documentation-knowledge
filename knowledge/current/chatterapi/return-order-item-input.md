@@ -5,12 +5,10 @@ topic: return-order-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.345Z
+lastCollected: 2026-04-07T18:37:10.048Z
 estimatedTokens: 456
-keywords: [Order, Item, Input, ReturnOrderLineItem, instructions, updating, read-only, Any, remaining, quantity, added, new]
+keywords: [Order, Item, ReturnOrderLineItem, instructions, updating, read-only, Any, remaining, quantity, added, new]
 ---
-
-# Return Order Item Input
 
 > ID of a ReturnOrderLineItem and instructions for updating it. After
       the update, the ReturnOrderLineItem is read-only. Any remaining quantity to be returned is

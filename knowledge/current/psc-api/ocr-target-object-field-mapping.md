@@ -5,12 +5,10 @@ topic: ocr-target-object-field-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.828Z
+lastCollected: 2026-04-07T18:39:03.945Z
 estimatedTokens: 126
-keywords: [OCR, Target, Mapping, Output, representation]
+keywords: [OCR, Target, Mapping]
 ---
-
-# OCR Target Object Field Mapping
 
 > Output representation of the OCR target object field
   mapping.

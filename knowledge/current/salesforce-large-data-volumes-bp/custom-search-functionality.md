@@ -5,12 +5,10 @@ topic: custom-search-functionality
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.167Z
+lastCollected: 2026-04-07T18:39:17.842Z
 estimatedTokens: 358
-keywords: [Custom, Search, Functionality, customer, needed, large, data, volumes, across, multiple, objects, specific, wildcards, created, Visualforce]
+keywords: [Situation, Solutions, Search, Functionality, customer, needed, large, volumes, across, multiple, specific, wildcards, created, Visualforce, allow, user, enter, 1–20, different, SOQL, combinations]
 ---
-
-# Custom Search Functionality
 
 > The customer needed to search
 in large data volumes across multiple objects using specific values

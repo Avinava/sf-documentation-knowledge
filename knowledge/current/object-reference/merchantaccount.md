@@ -5,12 +5,10 @@ topic: merchantaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:44.310Z
+lastCollected: 2026-04-07T18:38:35.557Z
 estimatedTokens: 1720
-keywords: [MerchantAccount, bank, account, lets, merchant, accept, payments, variety, payment, including, credit, debit, cards, digital, wallets]
+keywords: [MerchantAccount, bank, account, lets, merchant, accept, payments, variety, payment, including, credit, debit, cards, digital, wallets, Salesforce, linked, underlying, gateway, process, API, 56.0]
 ---
-
-# MerchantAccount
 
 > A type of bank  account that lets a merchant accept payments from a
          variety of payment methods, including credit or debit cards, or digital wallets. A

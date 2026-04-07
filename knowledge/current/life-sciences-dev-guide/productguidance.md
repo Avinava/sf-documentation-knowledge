@@ -5,12 +5,10 @@ topic: productguidance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.355Z
+lastCollected: 2026-04-07T18:38:01.172Z
 estimatedTokens: 1386
-keywords: [ProductGuidance, key, product, messages, objectives, assist, users, working, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ProductGuidance, key, product, messages, objectives, assist, users, working, API, 65.0]
 ---
-
-# ProductGuidance
 
 > Represents information about key product messages, product objectives, or
          other information that can assist or guide users when working with the product. This

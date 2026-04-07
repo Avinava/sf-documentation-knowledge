@@ -5,12 +5,10 @@ topic: search-product-setting-collection-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.861Z
+lastCollected: 2026-04-07T18:37:22.975Z
 estimatedTokens: 81
-keywords: [Search, Product, Setting, Collection, Output, settings]
+keywords: [Search, Product, Setting, Collection, settings]
 ---
-
-# Search Product Setting Collection Output
 
 > Collection of product search settings.
 

@@ -5,12 +5,10 @@ topic: apexpageblocktable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.148Z
+lastCollected: 2026-04-07T18:38:50.416Z
 estimatedTokens: 3022
-keywords: [apex, pageBlockTable, data, either, <apex, pageBlock>, pageBlockSection>, component, similar, view, standard, Salesforce, dataTable>, pageBlockTable>, defined]
+keywords: [Attributes, Facets, apex, pageBlockTable, either, <apex, pageBlock>, pageBlockSection>, similar, view, standard, Salesforce, dataTable>, pageBlockTable>, defined, iterating, over, displaying, abou]
 ---
-
-# apex:pageBlockTable
 
 > A list of data displayed as a table within either an <apex:pageBlock> or <apex:pageBlockSection> component, similar to a related list or list view in a standard Salesforce page. Like an <apex:dataTable>, an <apex:pageBlockTable> is defined by iterating over a set of data, displaying information abou
 

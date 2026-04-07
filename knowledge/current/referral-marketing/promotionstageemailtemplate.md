@@ -5,12 +5,10 @@ topic: promotionstageemailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.749Z
+lastCollected: 2026-04-07T18:39:10.174Z
 estimatedTokens: 433
-keywords: [PromotionStageEmailTemplate, junction, promotion, stage, email, template, referral, created, associated, customize, company’s, branding, API, version, 59.0]
+keywords: [PromotionStageEmailTemplate, junction, promotion, stage, email, template, referral, created, customize, company’s, branding, API, 59.0, B2C, programs]
 ---
-
-# PromotionStageEmailTemplate
 
 > Represents a junction between a promotion stage and an email
          template. When a referral promotion is created, an email template is associated with each

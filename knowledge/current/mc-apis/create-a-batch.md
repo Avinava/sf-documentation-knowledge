@@ -5,12 +5,10 @@ topic: create-a-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.892Z
+lastCollected: 2026-04-07T18:40:18.078Z
 estimatedTokens: 871
-keywords: [Batch, API, resource, creates, privacy, setting, changes, call, batch_id, status, Endpoint, URL, JSON, Restrict, Right]
+keywords: [Batch, API, resource, creates, privacy, setting, changes, call, batch_id, status, Endpoint, URL, JSON, Restrict, Right, Forgotten]
 ---
-
-# Create a Batch
 
 > This API resource creates a batch of privacy setting changes. The call returns a batch_id you then use to GET the status of the batch changes.
 

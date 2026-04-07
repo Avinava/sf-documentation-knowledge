@@ -5,12 +5,10 @@ topic: mlpredictiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.152Z
+lastCollected: 2026-04-07T18:36:27.681Z
 estimatedTokens: 791
-keywords: [MLPredictionDefinition, prediction, definition, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Wildcard, Support, Manifest]
+keywords: [MLPredictionDefinition, prediction, definition, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---
-
-# MLPredictionDefinition
 
 > Represents a prediction definition that specifies details about the prediction. This
       type extends the Metadata metadata type and inherits its fullName field.

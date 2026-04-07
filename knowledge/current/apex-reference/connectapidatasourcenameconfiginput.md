@@ -5,12 +5,10 @@ topic: connectapidatasourcenameconfiginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.849Z
+lastCollected: 2026-04-07T18:36:05.235Z
 estimatedTokens: 69
-keywords: [ConnectApi.DataSourceNameConfigInput, data, source, configuration, input]
+keywords: [ConnectApi.DataSourceNameConfigInput, source, configuration]
 ---
-
-# ConnectApi.DataSourceNameConfigInput
 
 > Represents the data source name configuration input.
 

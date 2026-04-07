@@ -5,13 +5,11 @@ topic: flowuiruntime-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.922Z
+lastCollected: 2026-04-07T18:36:15.234Z
 estimatedTokens: 220
 namespace: The
 keywords: [flowuiruntime, classes, reserved, internal, future]
 ---
-
-# flowuiruntime Namespace
 
 > The classes and methods in this namespace are reserved for internal use only or future
     use.

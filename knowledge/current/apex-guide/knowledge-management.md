@@ -5,12 +5,10 @@ topic: knowledge-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.493Z
+lastCollected: 2026-04-07T18:36:17.727Z
 estimatedTokens: 303
 keywords: [Knowledge, Management, Users, write, publish, archive, manage, articles, Apex, addition, Salesforce, user]
 ---
-
-# Knowledge Management
 
 > Users can write, publish, archive, and manage articles using Apex in addition to the
 Salesforce user interface.

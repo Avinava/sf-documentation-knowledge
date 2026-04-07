@@ -5,12 +5,10 @@ topic: materialitystakeholder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.345Z
+lastCollected: 2026-04-07T18:38:18.993Z
 estimatedTokens: 1138
-keywords: [MaterialityStakeholder, stakeholder, internal, external, party, having, interest, company, either, affect, affected, business, API, version, 59.0]
+keywords: [MaterialityStakeholder, stakeholder, internal, external, party, having, interest, company, either, affect, affected, business, API, 59.0]
 ---
-
-# MaterialityStakeholder
 
 > Represents information about a stakeholder who can be internal or
          external party having interest in a company. A stakeholder can either affect or be affected

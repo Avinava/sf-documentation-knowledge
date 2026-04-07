@@ -5,12 +5,10 @@ topic: taxengineinteractionlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.048Z
+lastCollected: 2026-04-07T18:40:03.773Z
 estimatedTokens: 602
-keywords: [TaxEngineInteractionLog, record, communication, external, tax, engine, calculation, API, version, 55.0, later]
+keywords: [TaxEngineInteractionLog, record, communication, external, tax, engine, calculation, API, 55.0]
 ---
-
-# TaxEngineInteractionLog
 
 > A record of a communication with an external tax engine following a tax
          calculation request. This object is available in API version 55.0 and later.

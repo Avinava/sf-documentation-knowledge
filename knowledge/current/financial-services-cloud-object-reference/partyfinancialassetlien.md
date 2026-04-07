@@ -5,12 +5,10 @@ topic: partyfinancialassetlien
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.523Z
+lastCollected: 2026-04-07T18:37:38.379Z
 estimatedTokens: 1074
-keywords: [PartyFinancialAssetLien, lien, financial, asset, owned, individual, account, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [PartyFinancialAssetLien, lien, financial, asset, owned, individual, account, API, 61.0]
 ---
-
-# PartyFinancialAssetLien
 
 > Represents information about the lien of the financial asset owned by an
          individual or account. This object is available in API version 61.0 and later.

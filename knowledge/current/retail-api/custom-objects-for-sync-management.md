@@ -5,12 +5,10 @@ topic: custom-objects-for-sync-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.347Z
+lastCollected: 2026-04-07T18:39:15.880Z
 estimatedTokens: 2181
-keywords: [Custom, Objects, Sync, Management, Consumer, Goods, Cloud, data, model, support]
+keywords: [Sync, Management, Consumer, Goods, Cloud, model, support]
 ---
-
-# Custom Objects for Sync Management
 
 > Consumer Goods Cloud data model provides custom objects and fields to support sync
   management.

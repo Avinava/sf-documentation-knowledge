@@ -5,12 +5,10 @@ topic: setting-package-versions-for-apex-classes-and-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:31.504Z
+lastCollected: 2026-04-07T18:36:16.724Z
 estimatedTokens: 689
-keywords: [Setting, Package, Versions, Apex, Classes, Triggers, managed, subscriber, specify, version]
+keywords: [Setting, Package, Versions, Apex, Classes, Triggers, managed, subscriber, specify]
 ---
-
-# Setting Package Versions for Apex Classes and Triggers
 
 > As a managed package subscriber, you can specify which package version that your managed
   Apex classes and triggers use.

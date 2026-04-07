@@ -5,12 +5,10 @@ topic: batchjobstatuschangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.498Z
+lastCollected: 2026-04-07T18:36:44.261Z
 estimatedTokens: 367
-keywords: [BatchJobStatusChangedEvent, Notifies, subscribers, batch, job, completed, flow, API, version, 51.0, later, Calls]
+keywords: [BatchJobStatusChangedEvent, Notifies, subscribers, batch, job, completed, flow, API, 51.0]
 ---
-
-# BatchJobStatusChangedEvent
 
 > Notifies subscribers of when a batch job is completed in a
 			flow. This object is available in API version 51.0 and later.

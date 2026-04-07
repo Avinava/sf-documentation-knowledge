@@ -5,12 +5,10 @@ topic: template-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.908Z
+lastCollected: 2026-04-07T18:36:56.459Z
 estimatedTokens: 527
-keywords: [Template, Resource, deletes, updates, Analytics, URL, Formats, Version, Postman, Components, HTTP, PUT]
+keywords: [Formats, Template, Resource, deletes, updates, Analytics, URL, Postman, HTTP, PUT]
 ---
-
-# Template Resource
 
 > Returns, deletes, or updates  an Analytics template.
 

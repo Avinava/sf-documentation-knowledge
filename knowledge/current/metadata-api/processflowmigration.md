@@ -5,12 +5,10 @@ topic: processflowmigration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.059Z
+lastCollected: 2026-04-07T18:36:28.598Z
 estimatedTokens: 559
-keywords: [ProcessFlowMigration, process's, migrated, criteria, resulting, flow, Parent, Version, Special, Access, Rules, Declarative, Metadata, Sample, Definition]
+keywords: [ProcessFlowMigration, process's, migrated, criteria, resulting, flow, Parent, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# ProcessFlowMigration
 
 > Represents a process's migrated criteria and the resulting
       migrated flow.

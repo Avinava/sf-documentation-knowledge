@@ -5,12 +5,10 @@ topic: appexchange-app-analytics-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:02.180Z
+lastCollected: 2026-04-07T18:38:54.586Z
 estimatedTokens: 506
-keywords: [AppExchange, App, Analytics, Best, Practices, plan, maximize, query, strategy, follow, file, compression, reduce, data, results]
+keywords: [AppExchange, App, Analytics, Best, Practices, plan, maximize, query, strategy, follow, file, compression, reduce, results, size, Second, schedule, automate, regular, queries, Third, catch-up, supplement]
 ---
-
-# AppExchange App Analytics Best Practices
 
 > To plan and maximize your AppExchange App Analytics query strategy, follow our best
   practices. First, use file compression to reduce your data results file size. Second, schedule and

@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappdomainc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.984Z
+lastCollected: 2026-04-07T18:39:12.478Z
 estimatedTokens: 255
-keywords: [cgc_sync__Sync_Mobile_App_Domain__c, Stores, domains, dropdown, boxes, mobile, app, API, version, 53.0, later, cgc, _sync, _Mobile, _App]
+keywords: [cgc_sync__Sync_Mobile_App_Domain__c, Stores, domains, dropdown, boxes, mobile, app, API, 53.0, cgc, _sync, _Mobile, _App, _Domain]
 ---
-
-# cgc_sync__Sync_Mobile_App_Domain__c
 
 > Stores information about domains that are available as dropdown boxes in the
          mobile app. This object is available in API version 53.0 and later.

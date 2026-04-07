@@ -5,12 +5,10 @@ topic: component-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.813Z
+lastCollected: 2026-04-07T18:38:02.739Z
 estimatedTokens: 922
-keywords: [Component, Attributes, member, variables, Apex, They, typed, specific, instance, referenced, component's, markup, expression, enable, components]
+keywords: [Expressions, Attributes, member, variables, Apex, They, typed, specific, instance, referenced, component's, markup, expression, enable, dynamic, Attribute, Naming]
 ---
-
-# Component Attributes
 
 > Component attributes are like member variables on a class in Apex. They are typed fields that are set on a specific
         instance of a component, and can be referenced from within the component's markup using an

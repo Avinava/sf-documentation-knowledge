@@ -5,12 +5,10 @@ topic: create-unique-journey-results-using-transaction-keys
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.189Z
+lastCollected: 2026-04-07T18:40:21.464Z
 estimatedTokens: 330
-keywords: [Unique, Journey, Results, Transaction, Keys, allow, journeys, produce, entry, multi-criteria, decision, filters, key, combined, contact]
+keywords: [Unique, Journey, Results, Transaction, Keys, allow, journeys, produce, entry, multi-criteria, decision, filters, key, combined, contact, identifier, automatically, applied, filter, throug, Items]
 ---
-
-# Create Unique Journey Results using Transaction Keys
 
 > Transaction keys allow your journeys to produce unique results for all entry and multi-criteria decision filters. The transaction key value is combined with the contact key to create a unique identifier that is automatically applied to the entry filter and multi-criteria decision filters used throug
 

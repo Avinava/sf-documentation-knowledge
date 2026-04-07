@@ -5,12 +5,10 @@ topic: apexbarseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:57.115Z
+lastCollected: 2026-04-07T18:38:49.106Z
 estimatedTokens: 1352
-keywords: [apex, barSeries, data, series, rendered, bars, Visualforce, chart, minimum, specify, collection, bar, well, axes, scale]
+keywords: [Attributes, apex, barSeries, series, rendered, bars, Visualforce, chart, minimum, specify, collection, bar, well, axes, scale, against, Add, multiple, grouped, stacked, segments, segment]
 ---
-
-# apex:barSeries
 
 > A data series to be rendered as bars in a Visualforce chart. At a minimum you must specify the fields in the data collection to use as X and Y values for each bar, as well as the X and Y axes to scale against. Add multiple Y values to add grouped or stacked bar segments to the chart. Each segment ta
 

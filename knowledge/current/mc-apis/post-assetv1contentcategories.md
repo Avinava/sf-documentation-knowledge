@@ -5,12 +5,10 @@ topic: post-assetv1contentcategories
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.806Z
+lastCollected: 2026-04-07T18:40:15.925Z
 estimatedTokens: 716
-keywords: [POST, asset, content, categories, Creates, category, folder, Builder, **Overview**, Usage]
+keywords: [POST, asset, content, categories, Creates, category, folder, Builder, **Overview**]
 ---
-
-# POST /asset/v1/content/categories
 
 > Creates a category (folder) in Content Builder.
 

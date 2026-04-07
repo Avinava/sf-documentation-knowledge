@@ -5,12 +5,10 @@ topic: set-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.326Z
+lastCollected: 2026-04-07T18:36:21.566Z
 estimatedTokens: 326
-keywords: [User, Password, user’s, provided, replaces, resource, REST, API, version, 24.0, later]
+keywords: [User, Password, user’s, provided, replaces, resource, REST, API, 24.0]
 ---
-
-# Set User Password
 
 > Sets a user’s password based on the specified user ID. The password provided in the
   request body replaces the user’s existing password. This resource is available in REST API version

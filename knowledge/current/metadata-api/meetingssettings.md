@@ -5,12 +5,10 @@ topic: meetingssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.025Z
+lastCollected: 2026-04-07T18:36:27.541Z
 estimatedTokens: 613
-keywords: [MeetingsSettings, settings, enable, Salesforce, Meetings, integration, Zoom, video, conferencing, Version, Special, Access, Rules, Declarative, Metadata]
+keywords: [MeetingsSettings, settings, enable, Salesforce, Meetings, integration, Zoom, video, conferencing, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# MeetingsSettings
 
 > Represents the settings to enable Salesforce Meetings and
       the integration with Zoom video conferencing.

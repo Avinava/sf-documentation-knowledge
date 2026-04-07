@@ -5,12 +5,10 @@ topic: transaction-payment-updates-response-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.334Z
+lastCollected: 2026-04-07T18:38:21.138Z
 estimatedTokens: 96
-keywords: [Transaction, Payment, Updates, Link, Output, representation, links]
+keywords: [Transaction, Payment, Updates, Link, links]
 ---
-
-# Transaction Payment Updates Response Link
 
 > Output representation of the links to the response object for the transaction payment
     updates.

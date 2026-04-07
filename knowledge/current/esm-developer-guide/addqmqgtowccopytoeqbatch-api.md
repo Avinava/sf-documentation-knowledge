@@ -5,12 +5,10 @@ topic: addqmqgtowccopytoeqbatch-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.837Z
+lastCollected: 2026-04-07T18:37:31.998Z
 estimatedTokens: 55
-keywords: [AddQMQGToWC_CopyToEQBatch, API, Trigger, batch, process, migrate, clone, products, working, cart, enterprise, quote, AddQMQGToWC, _CopyToEQBatch, URI]
+keywords: [AddQMQGToWC_CopyToEQBatch, API, Trigger, batch, process, migrate, clone, products, working, cart, enterprise, quote, AddQMQGToWC, _CopyToEQBatch, URI, HTTP]
 ---
-
-# AddQMQGToWC_CopyToEQBatch API
 
 > Trigger a batch process to migrate and clone products from the working cart to the enterprise quote.
 

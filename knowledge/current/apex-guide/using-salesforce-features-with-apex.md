@@ -5,13 +5,11 @@ topic: using-salesforce-features-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.475Z
+lastCollected: 2026-04-07T18:36:17.713Z
 estimatedTokens: 2342
 namespace: CommercePayments
-keywords: [Salesforce, Features, Apex, user, exposed, access, programmatically, Lightning, Platform, write, code, post, Chatter, feed, approval]
+keywords: [Salesforce, Features, Apex, user, exposed, programmatically, Lightning, Platform, write, code, post, Chatter, approval, submit, approve, process, requests]
 ---
-
-# Using Salesforce Features with Apex
 
 > Many features of the Salesforce user interface are exposed in Apex so that you can
         access them programmatically in the Lightning Platform. For example, you can write Apex code

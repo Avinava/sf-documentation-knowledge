@@ -5,12 +5,10 @@ topic: goalassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.149Z
+lastCollected: 2026-04-07T18:37:46.758Z
 estimatedTokens: 1817
-keywords: [GoalAssignment, goals, part, care, plan, Special, Access, Rules, Calls, Associated, Objects]
+keywords: [GoalAssignment, goals, part, care, plan]
 ---
-
-# GoalAssignment
 
 > Represents the goals that are part of a care plan.
 

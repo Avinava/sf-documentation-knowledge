@@ -5,12 +5,10 @@ topic: ordersummaryrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.868Z
+lastCollected: 2026-04-07T18:39:51.279Z
 estimatedTokens: 416
-keywords: [OrderSummaryRelationship, Junction, track, how, original, order, summary, created, any, exchanges, occurred, relates, objects, chain, exchange]
+keywords: [OrderSummaryRelationship, Junction, track, how, original, order, summary, created, any, exchanges, occurred, relates, chain, exchange, orders]
 ---
-
-# OrderSummaryRelationship
 
 > Junction object used to track how an original order summary (created before
          any exchanges have occurred) relates to other order summary objects in a chain of exchange

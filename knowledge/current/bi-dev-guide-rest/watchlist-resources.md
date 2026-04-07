@@ -5,12 +5,10 @@ topic: watchlist-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.973Z
+lastCollected: 2026-04-07T18:36:56.530Z
 estimatedTokens: 319
 keywords: [Watchlist, Resources, Manages, watchlists, Analytics, dashboards]
 ---
-
-# Watchlist Resources
 
 > Manages watchlists for Analytics dashboards.
 

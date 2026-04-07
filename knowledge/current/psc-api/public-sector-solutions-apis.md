@@ -5,12 +5,10 @@ topic: public-sector-solutions-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.103Z
+lastCollected: 2026-04-07T18:39:05.108Z
 estimatedTokens: 326
-keywords: [Sector, Solutions, APIs, Business, care, plan, templates, plans, Special, Access, Rules, Resources]
+keywords: [Sector, Solutions, APIs, Business, care, plan, templates, plans, Resources]
 ---
-
-# Public Sector Solutions APIs
 
 > Use the Public Sector Solutions Business APIs to create care plan
       templates and care plans.

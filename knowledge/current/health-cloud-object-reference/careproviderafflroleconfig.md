@@ -5,12 +5,10 @@ topic: careproviderafflroleconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.744Z
+lastCollected: 2026-04-07T18:37:48.375Z
 estimatedTokens: 871
-keywords: [CareProviderAfflRoleConfig, affiliations, healthcare, provider, affiliation, hospital, API, version, 59.0, later, SOAP, Calls, REST]
+keywords: [CareProviderAfflRoleConfig, affiliations, healthcare, provider, affiliation, hospital, API, 59.0, SOAP, REST]
 ---
-
-# CareProviderAfflRoleConfig
 
 > Represents information about the affiliations of the healthcare
          provider. For example, this object represents an affiliation between a healthcare

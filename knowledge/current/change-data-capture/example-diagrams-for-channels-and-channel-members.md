@@ -5,12 +5,10 @@ topic: example-diagrams-for-channels-and-channel-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.414Z
+lastCollected: 2026-04-07T18:37:05.143Z
 estimatedTokens: 1914
-keywords: [Diagrams, Channels, Channel, Members, Discover, relationship, Entity, Diagram, ERD, understand, benefits, custom, Member, ChangeEvents, Standard]
+keywords: [Diagrams, Channels, Channel, Members, Discover, relationship, Entity, Diagram, ERD, understand, benefits, Member, ChangeEvents, Standard, SalesEvents, _chn, Enriched, HREvents, Filter, Expression]
 ---
-
-# Example Diagrams for Channels and Channel Members
 
 > Discover the relationship between channels and channel members
             with the Entity Relationship Diagram (ERD). Also, understand the benefits of using

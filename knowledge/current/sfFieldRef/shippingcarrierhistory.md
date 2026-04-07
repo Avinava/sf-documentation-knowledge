@@ -5,12 +5,10 @@ topic: shippingcarrierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.467Z
+lastCollected: 2026-04-07T18:40:02.164Z
 estimatedTokens: 263
-keywords: [ShippingCarrierHistory, History, tracked, ShippingCarrier]
+keywords: [ShippingCarrierHistory, tracked, ShippingCarrier]
 ---
-
-# ShippingCarrierHistory
 
 > History for tracked fields of ShippingCarrier.
 

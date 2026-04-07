@@ -5,12 +5,10 @@ topic: identityverificationext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.379Z
+lastCollected: 2026-04-07T18:37:40.351Z
 estimatedTokens: 1236
-keywords: [IdentityVerificationExt, verify, caller’s, identity, Usage, getVerifiers, var1, search, Implementation]
+keywords: [IdentityVerificationExt, verify, caller’s, identity, getVerifiers, var1, search, Implementation]
 ---
-
-# IdentityVerificationExt Interface
 
 > The IdentityVerificationExt
       interface enables you to verify a caller’s identity.

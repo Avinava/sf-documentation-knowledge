@@ -5,12 +5,10 @@ topic: case-update-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.450Z
+lastCollected: 2026-04-07T18:35:52.299Z
 estimatedTokens: 554
-keywords: [Case, DMO, Data, Cloud, model, historical, changes, made, associated, API, Category, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Case, DMO, Cloud, model, historical, changes, made, API, Primary, Subject, Area, Key]
 ---
-
-# Case Update DMO
 
 > The Case Update DMO is a Data Cloud data model object (DMO) for a for
       historical information about changes made to the associated case.

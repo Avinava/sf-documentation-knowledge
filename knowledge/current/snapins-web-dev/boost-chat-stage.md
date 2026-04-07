@@ -5,12 +5,10 @@ topic: boost-chat-stage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.525Z
+lastCollected: 2026-04-07T18:40:09.471Z
 estimatedTokens: 385
-keywords: [Boost, Chat, Stage, customer, chatting, agent, Consider, adding, event, notifications, custom, events, improve, view, their]
+keywords: [Boost, Chat, Stage, customer, chatting, agent, Consider, adding, event, notifications, events, improve, view, their, needs]
 ---
-
-# Boost Chat Stage
 
 > Your customer is chatting with an agent at the chat stage. Consider
    adding chat event notifications and custom chat events to improve the agent view of their needs.

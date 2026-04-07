@@ -5,12 +5,10 @@ topic: resource-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.702Z
+lastCollected: 2026-04-07T18:36:40.413Z
 estimatedTokens: 428
-keywords: [Resource, Output, representation, variables, constants, calculation, procedure, version, definition]
+keywords: [Resource, variables, constants, calculation, procedure, definition]
 ---
-
-# Resource Output
 
 > Output representation of variables or constants used in the
       calculation procedure version definition.

@@ -5,12 +5,10 @@ topic: trackingretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.446Z
+lastCollected: 2026-04-07T18:40:22.875Z
 estimatedTokens: 141
 keywords: [Tracking.Retrieve, Function, Ordinal, Criteria, search, account, **Overview**, **Syntax**, send]
 ---
-
-# Tracking.Retrieve
 
 > Tracking.Retrieve(1)
 

@@ -5,12 +5,10 @@ topic: materialitytopicdocclauseset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.374Z
+lastCollected: 2026-04-07T18:38:19.019Z
 estimatedTokens: 743
-keywords: [MaterialityTopicDocClauseSet, topic, document, clause, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [MaterialityTopicDocClauseSet, topic, document, clause, API, 62.0]
 ---
-
-# MaterialityTopicDocClauseSet
 
 > Represents a reference object with information about the topic and a document
          clause set. This object is available in API version 62.0 and later.

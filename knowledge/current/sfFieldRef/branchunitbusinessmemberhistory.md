@@ -5,12 +5,10 @@ topic: branchunitbusinessmemberhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.914Z
+lastCollected: 2026-04-07T18:39:30.041Z
 estimatedTokens: 276
-keywords: [BranchUnitBusinessMemberHistory, History, tracked, BranchUnitBusinessMember]
+keywords: [BranchUnitBusinessMemberHistory, tracked, BranchUnitBusinessMember]
 ---
-
-# BranchUnitBusinessMemberHistory
 
 > History for tracked fields of BranchUnitBusinessMember.
 

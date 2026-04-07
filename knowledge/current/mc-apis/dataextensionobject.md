@@ -5,12 +5,10 @@ topic: dataextensionobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.276Z
+lastCollected: 2026-04-07T18:40:16.416Z
 estimatedTokens: 705
-keywords: [DataExtensionObject, row, data, extension, Email, Subscribers, Manage, permission, Items]
+keywords: [DataExtensionObject, row, extension, Email, Subscribers, Manage, permission, Items]
 ---
-
-# DataExtensionObject
 
 > The DataExtensionObject object represents a row within a data extension. To use the DataExtensionObject object, you need the Email | Subscribers | Data Extension | Manage Data permission.
 

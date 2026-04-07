@@ -5,12 +5,10 @@ topic: use-the-salesforce-cli-to-retrieve-the-template-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.858Z
+lastCollected: 2026-04-07T18:37:02.415Z
 estimatedTokens: 322
 keywords: [Salesforce, CLI, Retrieve, Template, Files, Pull, metadata, scratch, org, local, workspace, command, project, start]
 ---
-
-# Use the Salesforce CLI to Retrieve the Template Files
 
 > Pull the template metadata from the scratch org to your local workspace using the
   Salesforce CLI command sf project retrieve start.

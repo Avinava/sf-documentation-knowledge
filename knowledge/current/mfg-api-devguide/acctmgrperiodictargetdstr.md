@@ -5,12 +5,10 @@ topic: acctmgrperiodictargetdstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.511Z
+lastCollected: 2026-04-07T18:38:12.812Z
 estimatedTokens: 2473
-keywords: [AcctMgrPeriodicTargetDstr, target, period, account, manager, foreign, key, either, distribution, twelve, periods, corresponding, hold, API, version]
+keywords: [AcctMgrPeriodicTargetDstr, target, period, account, manager, foreign, key, either, distribution, twelve, periods, corresponding, hold, API, 49.0]
 ---
-
-# AcctMgrPeriodicTargetDstr
 
 > Represents the target value of each period of an account manager target. It is
       a foreign key to either an account manager target and an account manager target distribution.

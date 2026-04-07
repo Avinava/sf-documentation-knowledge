@@ -5,12 +5,10 @@ topic: getadditionalsearchfiltersquote-fieldvaluesmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.639Z
+lastCollected: 2026-04-07T18:37:27.645Z
 estimatedTokens: 222
-keywords: [getAdditionalSearchFilters, quote, fieldValuesMap, Appends, clause, SOQL, query, product, search, further, refine, user's, input, Salesforce, CPQ]
+keywords: [getAdditionalSearchFilters, quote, fieldValuesMap, Appends, clause, SOQL, query, product, search, further, refine, user's, Salesforce, CPQ, isSearchCustom]
 ---
-
-# getAdditionalSearchFilters(quote, fieldValuesMap)
 
 > Appends a WHERE clause to the SOQL query used for the product search,
       so that you can further refine a user's search input. Salesforce CPQ calls this method only

@@ -5,12 +5,10 @@ topic: feed-item-attachment-record-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.052Z
+lastCollected: 2026-04-07T18:37:19.157Z
 estimatedTokens: 201
-keywords: [Feed, Item, Attachment, Record, Snapshot]
+keywords: [Item, Attachment, Record, Snapshot]
 ---
-
-# Feed Item Attachment: Record Snapshot
 
 > Record snapshot feed item attachment.
 

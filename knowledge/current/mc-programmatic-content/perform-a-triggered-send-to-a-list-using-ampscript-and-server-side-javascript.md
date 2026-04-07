@@ -5,12 +5,10 @@ topic: perform-a-triggered-send-to-a-list-using-ampscript-and-server-side-javasc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.849Z
+lastCollected: 2026-04-07T18:40:23.270Z
 estimatedTokens: 179
 keywords: [Perform, Triggered, Send, AMPscript, Server-Side, JavaScript, sample, code, model, own, call]
 ---
-
-# Perform a Triggered Send to a List Using AMPscript and Server-Side JavaScript
 
 > Use this sample code as a model for your own call.
 

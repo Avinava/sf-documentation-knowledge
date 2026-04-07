@@ -5,12 +5,10 @@ topic: survey-question-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.637Z
+lastCollected: 2026-04-07T18:35:54.704Z
 estimatedTokens: 513
-keywords: [Survey, Question, DMO, Data, Cloud, model, under, API, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Category, Relationships, Survey, Question, DMO, Cloud, model, under, API, Primary, Subject, Area, Key]
 ---
-
-# Survey Question DMO
 
 > The Survey Question DMO is a Data Cloud data model object (DMO) for a
       question in a survey under a section.

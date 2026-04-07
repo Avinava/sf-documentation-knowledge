@@ -5,12 +5,10 @@ topic: occupationgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.914Z
+lastCollected: 2026-04-07T18:39:07.070Z
 estimatedTokens: 972
-keywords: [OccupationGroup, group, occupations, involve, broadly, similar, functions, knowledge, skills, materials, equipment, Architecture, Engineering, Military, Healthcare]
+keywords: [OccupationGroup, group, occupations, involve, broadly, similar, functions, knowledge, skills, materials, equipment, Architecture, Engineering, Military, Healthcare, API, 62.0]
 ---
-
-# OccupationGroup
 
 > Represents a group of occupations that involve broadly similar
          functions, knowledge and skills, or materials and equipment. For example, Architecture and

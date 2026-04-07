@@ -5,12 +5,10 @@ topic: bucket-v2-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.515Z
+lastCollected: 2026-04-07T18:39:18.196Z
 estimatedTokens: 258
-keywords: [Bucket, Input, paramters, version, node, recipe]
+keywords: [Bucket, paramters, node, recipe]
 ---
-
-# Bucket V2 Parameters Input
 
 > A paramters for a version 2 bucket node in a recipe.
 

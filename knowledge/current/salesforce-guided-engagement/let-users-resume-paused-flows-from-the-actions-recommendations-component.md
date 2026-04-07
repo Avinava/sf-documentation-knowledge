@@ -5,12 +5,10 @@ topic: let-users-resume-paused-flows-from-the-actions-recommendations-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.035Z
+lastCollected: 2026-04-07T18:39:17.702Z
 estimatedTokens: 636
-keywords: [Let, Users, Resume, Paused, Flows, Actions, Recommendations, Component, configure, Process, Automation, Settings, allow, pause, Show]
+keywords: [Let, Users, Resume, Paused, Flows, Actions, Recommendations, configure, Process, Automation, Settings, allow, pause, Show, agents, current, record, there’s, handoff, customer, back, agent, easily, flow, including, started]
 ---
-
-# Let Users Resume Paused Flows from the Actions & Recommendations Component
 
 > When you configure Process Automation Settings, you can allow users to pause flows.
     Show agents paused flows associated with the current record page in the Actions &

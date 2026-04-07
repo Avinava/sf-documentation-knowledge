@@ -5,12 +5,10 @@ topic: user-recommendations-for-a-specific-action-and-object-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.232Z
+lastCollected: 2026-04-07T18:37:16.306Z
 estimatedTokens: 575
-keywords: [User, Recommendations, Specific, Action, Chatter, custom, context, recommendation]
+keywords: [User, Recommendations, Specific, Action, Chatter, context, recommendation]
 ---
-
-# User Recommendations for a Specific Action and Object ID
 
 > Get the Chatter, custom, and static
             recommendations for the specified action and object ID for the context user. Also used

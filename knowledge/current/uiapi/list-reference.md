@@ -5,12 +5,10 @@ topic: list-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.824Z
+lastCollected: 2026-04-07T18:40:11.830Z
 estimatedTokens: 221
 keywords: [view, referenced, collection, metadata]
 ---
-
-# List Reference
 
 > The list view referenced by the collection or
     metadata.

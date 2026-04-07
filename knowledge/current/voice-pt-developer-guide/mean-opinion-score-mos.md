@@ -5,12 +5,10 @@ topic: mean-opinion-score-mos
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.576Z
+lastCollected: 2026-04-07T18:40:13.500Z
 estimatedTokens: 426
 keywords: [Mean, Opinion, Score, MOS, Support, Service, Cloud, Voice, Partner, Telephony]
 ---
-
-# Mean Opinion Score (MOS)
 
 > Support MOS using Service Cloud Voice for Partner Telephony.
 

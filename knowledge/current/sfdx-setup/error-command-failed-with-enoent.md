@@ -5,12 +5,10 @@ topic: error-command-failed-with-enoent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.341Z
+lastCollected: 2026-04-07T18:40:09.283Z
 estimatedTokens: 55
 keywords: [Error, Command, Failed, ENOENT, recently, installing, Salesforce, CLI, run, project, generate]
 ---
-
-# Error: Command Failed with ENOENT
 
 > After recently installing Salesforce CLI, you get this error when you run a command such
     as project generate.

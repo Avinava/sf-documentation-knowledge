@@ -5,12 +5,10 @@ topic: channelprogramfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.277Z
+lastCollected: 2026-04-07T18:39:33.688Z
 estimatedTokens: 388
-keywords: [ChannelProgramFeed, Feed, tracking, ChannelProgram]
+keywords: [ChannelProgramFeed, ChannelProgram]
 ---
-
-# ChannelProgramFeed
 
 > Feed tracking for ChannelProgram.
 

@@ -5,12 +5,10 @@ topic: dashboard-snapshot-item-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.478Z
+lastCollected: 2026-04-07T18:36:57.000Z
 estimatedTokens: 156
 keywords: [Dashboard, Snapshot, Item, Result, Analytics]
 ---
-
-# Dashboard Snapshot Item Result
 
 > An Analytics dashboard snapshot item.
 

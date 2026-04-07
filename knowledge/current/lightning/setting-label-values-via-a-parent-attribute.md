@@ -5,12 +5,10 @@ topic: setting-label-values-via-a-parent-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.485Z
+lastCollected: 2026-04-07T18:38:04.641Z
 estimatedTokens: 434
-keywords: [Setting, Label, via, Parent, Attribute, useful, want, control, over, labels, child, components]
+keywords: [Setting, Label, via, Parent, Attribute, useful, want, control, over, labels, child]
 ---
-
-# Setting Label Values via a Parent Attribute
 
 > Setting label values via a parent attribute is useful if
 you want control over labels in child components.

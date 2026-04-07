@@ -5,12 +5,10 @@ topic: target-location-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.711Z
+lastCollected: 2026-04-07T18:37:10.407Z
 estimatedTokens: 93
-keywords: [Target, Location, Input, inventory, locations, together, fulfill, order]
+keywords: [Target, Location, inventory, locations, together, fulfill, order]
 ---
-
-# Target Location Input
 
 > A set of inventory locations that together can fulfill an
       order.

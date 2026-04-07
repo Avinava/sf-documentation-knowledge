@@ -5,12 +5,10 @@ topic: benefithistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.082Z
+lastCollected: 2026-04-07T18:39:29.189Z
 estimatedTokens: 253
-keywords: [BenefitHistory, History, tracked, Benefit]
+keywords: [BenefitHistory, tracked, Benefit]
 ---
-
-# BenefitHistory
 
 > History for tracked fields of Benefit.
 

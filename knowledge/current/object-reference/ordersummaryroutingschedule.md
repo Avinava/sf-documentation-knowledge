@@ -5,12 +5,10 @@ topic: ordersummaryroutingschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.911Z
+lastCollected: 2026-04-07T18:38:37.189Z
 estimatedTokens: 867
-keywords: [OrderSummaryRoutingSchedule, attempt, route, order, summary, inventory, locations, fulfillment, schedule, future, attempts, record, completed, API, version]
+keywords: [OrderSummaryRoutingSchedule, attempt, route, order, summary, inventory, locations, fulfillment, schedule, future, attempts, record, completed, API, 51.0]
 ---
-
-# OrderSummaryRoutingSchedule
 
 > Represents an attempt to route an order summary to one or more inventory
       locations for fulfillment. You can use it to schedule future attempts and to record completed

@@ -5,12 +5,10 @@ topic: handle-custom-urls-in-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.780Z
+lastCollected: 2026-04-07T18:40:27.918Z
 estimatedTokens: 598
-keywords: [Handle, Custom, URLs, Chat, agents, pass, along, perform, specific, actions, mobile, app]
+keywords: [Handle, URLs, Chat, agents, pass, along, perform, specific, actions, mobile, app]
 ---
-
-# Handle Custom URLs in Chat
 
 > Have your agents pass along custom URLs to perform
             specific actions in your mobile app.

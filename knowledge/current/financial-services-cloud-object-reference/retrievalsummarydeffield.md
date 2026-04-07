@@ -5,12 +5,10 @@ topic: retrievalsummarydeffield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:50.991Z
+lastCollected: 2026-04-07T18:37:38.886Z
 estimatedTokens: 241
-keywords: [RetrievalSummaryDefField, stores, retrieve, target, rollup, definition, API, version, 61.0, later, Calls]
+keywords: [RetrievalSummaryDefField, stores, retrieve, target, rollup, definition, API, 61.0]
 ---
-
-# RetrievalSummaryDefField
 
 > Represents a table that stores the fields to retrieve from the target object
          of a rollup definition. This object is available in API version 61.0 and later.

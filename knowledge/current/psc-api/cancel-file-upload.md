@@ -5,12 +5,10 @@ topic: cancel-file-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.521Z
+lastCollected: 2026-04-07T18:39:01.666Z
 estimatedTokens: 121
 keywords: [Cancel, File, Upload, API, process]
 ---
-
-# Cancel File Upload
 
 > This API sends a request to cancel the file upload process.
 

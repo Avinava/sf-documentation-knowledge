@@ -5,12 +5,10 @@ topic: best-practices-for-investigating-report-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.728Z
+lastCollected: 2026-04-07T18:39:22.618Z
 estimatedTokens: 994
-keywords: [Best, Practices, Investigating, Report, Anomalies, Keep, tips, mind, investigate, unusual, user, behavior, They, help, require]
+keywords: [Best, Practices, Investigating, Report, Anomalies, Keep, tips, mind, investigate, unusual, user, behavior, They, help, require, well, informed, conclusion, data’s, safety]
 ---
-
-# Best Practices for Investigating Report Anomalies
 
 > Keep these tips and best practices in mind when you investigate unusual user behavior.
     They can help you find the information you require to make a well informed conclusion about your

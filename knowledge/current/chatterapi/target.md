@@ -5,12 +5,10 @@ topic: target
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.251Z
+lastCollected: 2026-04-07T18:37:23.366Z
 estimatedTokens: 336
 keywords: [Target, Personalization]
 ---
-
-# Target
 
 > Personalization target information.
 

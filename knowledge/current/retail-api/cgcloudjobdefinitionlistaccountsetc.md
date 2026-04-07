@@ -5,12 +5,10 @@ topic: cgcloudjobdefinitionlistaccountsetc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.282Z
+lastCollected: 2026-04-07T18:39:13.692Z
 estimatedTokens: 1189
-keywords: [Junction, Job, Definition, Customer, API, version, 54.0, later, cgcloud, _Job, _Definition, _List, _Account, _Set, Calls]
+keywords: [Junction, Job, Definition, Customer, API, 54.0, cgcloud, _Job, _Definition, _List, _Account, _Set]
 ---
-
-# cgcloud__Job_Definition_List_Account_Set__c
 
 > Junction object between Job Definition List and Customer Set.
       This object is available in API version 54.0 and later.

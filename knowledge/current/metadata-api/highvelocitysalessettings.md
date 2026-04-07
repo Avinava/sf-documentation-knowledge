@@ -5,12 +5,10 @@ topic: highvelocitysalessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.165Z
+lastCollected: 2026-04-07T18:36:26.610Z
 estimatedTokens: 1252
-keywords: [HighVelocitySalesSettings, org’s, Sales, Engagement, settings, inside, team, effective, possible, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [HighVelocitySalesSettings, org’s, Sales, Engagement, settings, inside, team, effective, possible, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest]
 ---
-
-# HighVelocitySalesSettings
 
 > Represents an org’s Sales Engagement settings.
       With Sales Engagement, you can make your inside sales team as effective as possible.

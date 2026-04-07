@@ -5,12 +5,10 @@ topic: object-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.799Z
+lastCollected: 2026-04-07T18:38:04.952Z
 estimatedTokens: 306
 keywords: [attribute, corresponding, Checking]
 ---
-
-# Object Types
 
 > An attribute can have a type corresponding to an Object. For example:
 

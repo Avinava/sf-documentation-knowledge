@@ -5,12 +5,10 @@ topic: event-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.562Z
+lastCollected: 2026-04-07T18:35:51.422Z
 estimatedTokens: 879
-keywords: [Event, Structure, collected, Salesforce, Interactions, Web, SDK, automatically, system, Developer, Provided, Data]
+keywords: [Event, Structure, collected, Salesforce, Interactions, Web, SDK, automatically, system, Developer, Provided]
 ---
-
-# Event Structure
 
 > An event collected by Salesforce Interactions Web SDK contains properties that are
     automatically set by the system and optional properties that are set by you.

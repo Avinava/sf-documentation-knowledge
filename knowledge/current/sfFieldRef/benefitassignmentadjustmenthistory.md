@@ -5,12 +5,10 @@ topic: benefitassignmentadjustmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.974Z
+lastCollected: 2026-04-07T18:39:29.076Z
 estimatedTokens: 279
-keywords: [BenefitAssignmentAdjustmentHistory, History, tracked, BenefitAssignmentAdjustment]
+keywords: [BenefitAssignmentAdjustmentHistory, tracked, BenefitAssignmentAdjustment]
 ---
-
-# BenefitAssignmentAdjustmentHistory
 
 > History for tracked fields of BenefitAssignmentAdjustment.
 

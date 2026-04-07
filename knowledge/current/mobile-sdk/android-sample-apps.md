@@ -5,12 +5,10 @@ topic: android-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.334Z
+lastCollected: 2026-04-07T18:40:27.513Z
 estimatedTokens: 551
-keywords: [Android, Sample, Apps, template, forcedroid, createwithtemplate, spawn, Mobile, SDK, “starter”, samples, github.com, forcedotcom, SalesforceMobileSDK-Templates, repo]
+keywords: [Native, Hybrid, Android, Sample, Apps, template, forcedroid, createwithtemplate, spawn, Mobile, SDK, “starter”, samples, github.com, forcedotcom, SalesforceMobileSDK-Templates, repo]
 ---
-
-# Android Sample Apps
 
 > You can use template apps with forcedroid create or
                forcedroid createwithtemplate to spawn Mobile SDK “starter”

@@ -5,12 +5,10 @@ topic: custom-recommendation-definition-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.340Z
+lastCollected: 2026-04-07T18:37:15.392Z
 estimatedTokens: 516
-keywords: [Custom, Recommendation, Definition, Resources, definitions, allow, recommendations, appear, Experience, Cloud, sites, encouraging, users, watch, videos]
+keywords: [Recommendation, Definition, Resources, definitions, allow, recommendations, appear, Experience, Cloud, sites, encouraging, users, watch, videos, take, training, modify, upload, photos]
 ---
-
-# Custom Recommendation Definition Resources
 
 > Recommendation definitions allow you to create custom recommendations that appear in
     Experience Cloud sites, encouraging users to watch videos, take training and more. Use these

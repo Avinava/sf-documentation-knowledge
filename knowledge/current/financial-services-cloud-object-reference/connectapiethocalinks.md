@@ -5,12 +5,10 @@ topic: connectapiethocalinks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.532Z
+lastCollected: 2026-04-07T18:37:34.001Z
 estimatedTokens: 57
-keywords: [ConnectApi.EthocaLinks, Ethoca, resource, link, input]
+keywords: [ConnectApi.EthocaLinks, Ethoca, resource, link]
 ---
-
-# ConnectApi.EthocaLinks
 
 > Ethoca resource link input class.
 

@@ -5,12 +5,10 @@ topic: calculation-procedure-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.786Z
+lastCollected: 2026-04-07T18:39:00.906Z
 estimatedTokens: 815
-keywords: [Calculation, Procedure, Step, Input, representation, expression, version, steps]
+keywords: [Calculation, Procedure, Step, expression, steps]
 ---
-
-# Calculation Procedure Step Input
 
 > Input representation for the expression set version
     steps.

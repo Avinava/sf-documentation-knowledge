@@ -5,13 +5,11 @@ topic: prefcenter-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.978Z
+lastCollected: 2026-04-07T18:36:15.290Z
 estimatedTokens: 534
 namespace: The
-keywords: [Pref_center, classes, retrieve, data, forms, Preference, Manager, previously, Center, feature, Privacy, app, Pref, _center]
+keywords: [Pref_center, classes, retrieve, forms, Preference, Manager, previously, Center, feature, Privacy, app, Pref, _center]
 ---
-
-# Pref_center Namespace
 
 > The Pref_center namespace provides an interface, classes, and methods to create and
     retrieve data in forms in Preference Manager. Preference Manager, previously called Preference

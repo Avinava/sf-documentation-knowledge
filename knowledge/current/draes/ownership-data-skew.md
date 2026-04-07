@@ -5,12 +5,10 @@ topic: ownership-data-skew
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.742Z
+lastCollected: 2026-04-07T18:37:28.823Z
 estimatedTokens: 570
-keywords: [Ownership, Data, Skew, work, Salesforce, maintain, correct, access, customers, never, encounter, performance, issues, unless, they’re]
+keywords: [Ownership, Skew, work, Salesforce, maintain, correct, customers, never, encounter, performance, issues, unless, they’re, performing, updates, affect, users, large, amounts, However, there, certain, common, configurations, greatly, increase, probability, problems]
 ---
-
-# Ownership Data Skew
 
 > Even with all of the work that Salesforce does to maintain correct access, most
         customers never encounter performance issues unless they’re performing updates that affect

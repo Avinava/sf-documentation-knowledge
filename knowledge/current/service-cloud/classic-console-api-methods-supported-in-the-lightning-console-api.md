@@ -5,12 +5,10 @@ topic: classic-console-api-methods-supported-in-the-lightning-console-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.525Z
+lastCollected: 2026-04-07T18:36:49.666Z
 estimatedTokens: 2289
-keywords: [Classic, Console, API, Lightning, Visualforce, pages, third-party, web, tabs, Salesforce, Integration, Toolkit, work, Experience, as-is]
+keywords: [Classic, Console, API, Lightning, Visualforce, pages, third-party, web, tabs, Salesforce, Integration, Toolkit, work, Experience, as-is, point, latest, script, content, allowlisted, CSP, directives, via, Trusted, URLs, JavaScript, starting, 42.0, Primary, Subtabs, Application-Level, Navigation, Live, Agent, Omni-Channel, Events]
 ---
-
-# Classic Console API Methods Supported in the Lightning Console API
 
 > Visualforce pages and third-party web tabs that use some Salesforce Console Integration
     Toolkit methods work in Lightning Experience as-is. Just point to the latest version of the

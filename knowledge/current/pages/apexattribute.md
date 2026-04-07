@@ -5,12 +5,10 @@ topic: apexattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.079Z
+lastCollected: 2026-04-07T18:38:49.073Z
 estimatedTokens: 859
-keywords: [apex, attribute, definition, custom, component, tag, child, Attributes]
+keywords: [Attributes, apex, attribute, definition, tag, child]
 ---
-
-# apex:attribute
 
 > A definition of an attribute on a custom component. The attribute tag can be a child of a
 			component tag only.

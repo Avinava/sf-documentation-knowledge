@@ -5,12 +5,10 @@ topic: data-loader-command-line-operations-and-exit-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.289Z
+lastCollected: 2026-04-07T18:37:28.320Z
 estimatedTokens: 681
-keywords: [Data, Loader, Command-Line, Operations, Exit, Codes, running, batch, mode, command, line, several, operation, flow, Salesforce]
+keywords: [Operations, Loader, Command-Line, Exit, Codes, running, batch, mode, command, line, several, operation, flow, Salesforce, external, source, CSV, file, database, refer]
 ---
-
-# Data Loader Command-Line Operations and Exit Codes
 
 > When running Data Loader in batch mode from the command line, several operations are
     supported. An operation represents the flow of data between Salesforce and an external data

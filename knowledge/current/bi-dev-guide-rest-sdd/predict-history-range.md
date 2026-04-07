@@ -5,12 +5,10 @@ topic: predict-history-range
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.938Z
+lastCollected: 2026-04-07T18:36:59.431Z
 estimatedTokens: 103
-keywords: [Predict, History, Range, historical, prediction, query]
+keywords: [Predict, Range, historical, prediction, query]
 ---
-
-# Predict History Range
 
 > A range used for the historical prediction query.
 

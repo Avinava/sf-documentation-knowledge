@@ -5,12 +5,10 @@ topic: callaction-args
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.471Z
+lastCollected: 2026-04-07T18:36:36.003Z
 estimatedTokens: 700
-keywords: [call, action, args, invokes, DigitalLendingIntakeRecordsWrapper, actions, passes, arguments, Usage, calls, DigitalLendingPostIntakeRecordsWrapper, DigitalLendingProductsApi, PricingExecutionWrapper]
+keywords: [call, action, args, invokes, DigitalLendingIntakeRecordsWrapper, actions, passes, arguments, DigitalLendingPostIntakeRecordsWrapper, DigitalLendingProductsApi, PricingExecutionWrapper]
 ---
-
-# call(action, args)
 
 > This method calls one of the available DigitalLendingPostIntakeRecordsWrapper actions and passes arguments to the
         action.

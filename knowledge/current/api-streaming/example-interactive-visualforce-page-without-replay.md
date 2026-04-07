@@ -5,12 +5,10 @@ topic: example-interactive-visualforce-page-without-replay
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.965Z
+lastCollected: 2026-04-07T18:36:51.273Z
 estimatedTokens: 577
 keywords: [Interactive, Visualforce, Replay, how, implement, Streaming, API, sample, uses, Dojo, library, CometD, subscribe, PushTopic, events]
 ---
-
-# Example: Interactive Visualforce Page without Replay
 
 > The interactive Visualforce example shows you how to implement Streaming API from a Visualforce page. The
   sample uses the Dojo library and CometD to subscribe to PushTopic events.

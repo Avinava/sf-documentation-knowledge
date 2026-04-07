@@ -5,12 +5,10 @@ topic: get
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.769Z
+lastCollected: 2026-04-07T18:40:23.188Z
 estimatedTokens: 373
 keywords: [Function, Ordinal, Destination, URL, HTTP, array, include, Arr, **Overview**, **Syntax**]
 ---
-
-# Get
 
 > Get(1, 2, 3)
 

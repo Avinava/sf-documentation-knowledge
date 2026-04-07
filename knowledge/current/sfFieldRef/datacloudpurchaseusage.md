@@ -5,12 +5,10 @@ topic: datacloudpurchaseusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.976Z
+lastCollected: 2026-04-07T18:39:37.664Z
 estimatedTokens: 378
-keywords: [DatacloudPurchaseUsage, identify, track, Data.com, record, purchases, API, version, 30.0, later]
+keywords: [DatacloudPurchaseUsage, identify, track, Data.com, record, purchases, API, 30.0]
 ---
-
-# DatacloudPurchaseUsage
 
 > Represents an
 				object used to identify and track Data.com record purchases. This object is

@@ -5,12 +5,10 @@ topic: managed-content-space-base-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.324Z
+lastCollected: 2026-04-07T18:37:20.511Z
 estimatedTokens: 112
 keywords: [Managed, Content, Space, Base]
 ---
-
-# Managed Content Space Base Type
 
 > Base type of the managed content space.
 

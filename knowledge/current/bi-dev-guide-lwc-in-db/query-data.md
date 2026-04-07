@@ -5,12 +5,10 @@ topic: query-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.960Z
+lastCollected: 2026-04-07T18:36:54.330Z
 estimatedTokens: 593
-keywords: [Query, Data, Let’s, how, inject, results, running, Lightning, Web, Component, code]
+keywords: [Query, Let’s, how, inject, results, running, Lightning, Web, code]
 ---
-
-# Query Data
 
 > Let’s learn how to inject query results into your running Lightning Web Component
         code.

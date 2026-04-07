@@ -5,12 +5,10 @@ topic: managed-content-reference-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.274Z
+lastCollected: 2026-04-07T18:37:20.467Z
 estimatedTokens: 240
 keywords: [Managed, Content, Summary]
 ---
-
-# Managed Content Reference Summary
 
 > Summary of the managed content reference.
 

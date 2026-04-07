@@ -5,12 +5,10 @@ topic: product2feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.681Z
+lastCollected: 2026-04-07T18:39:55.242Z
 estimatedTokens: 357
-keywords: [Product2Feed, Feed, tracking, Product2]
+keywords: [Product2Feed, Product2]
 ---
-
-# Product2Feed
 
 > Feed tracking for Product2.
 

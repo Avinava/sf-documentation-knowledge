@@ -5,12 +5,10 @@ topic: external-auth-identity-provider-credentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.667Z
+lastCollected: 2026-04-07T18:37:14.706Z
 estimatedTokens: 284
 keywords: [External, Auth, Identity, Provider, Credentials, provider's]
 ---
-
-# External Auth Identity Provider Credentials
 
 > Get, create, and update external auth identity provider
       credentials.

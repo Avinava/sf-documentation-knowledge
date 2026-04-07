@@ -5,12 +5,10 @@ topic: authapplicationplacefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.405Z
+lastCollected: 2026-04-07T18:39:28.470Z
 estimatedTokens: 363
-keywords: [AuthApplicationPlaceFeed, Feed, tracking, AuthApplicationPlace]
+keywords: [AuthApplicationPlaceFeed, AuthApplicationPlace]
 ---
-
-# AuthApplicationPlaceFeed
 
 > Feed tracking for AuthApplicationPlace.
 

@@ -5,12 +5,10 @@ topic: materiality-assessment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.866Z
+lastCollected: 2026-04-07T18:38:17.410Z
 estimatedTokens: 145
-keywords: [Materiality, Assessment, conduct, organization, identify, relative, capacity, various, environmental, social, corporate, ESG, topics, areas, risk]
+keywords: [Materiality, Assessment, conduct, organization, identify, relative, capacity, various, environmental, social, corporate, ESG, topics, areas, risk, business, opportunities, making, impact, environment, society, large]
 ---
-
-# Materiality Assessment
 
 > When you conduct a materiality assessment for your organization, you identify the
   relative capacity of various environmental, social, and corporate (ESG) topics as areas of risk to

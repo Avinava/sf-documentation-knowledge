@@ -5,12 +5,10 @@ topic: get-fo-capacity-values-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.795Z
+lastCollected: 2026-04-07T18:37:08.614Z
 estimatedTokens: 107
-keywords: [Capacity, Input, Locations, fulfillment, order]
+keywords: [Capacity, Locations, fulfillment, order]
 ---
-
-# Get FO Capacity Values Request Input
 
 > Locations to get fulfillment order capacity information
     for.

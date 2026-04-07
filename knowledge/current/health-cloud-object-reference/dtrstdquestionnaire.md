@@ -5,12 +5,10 @@ topic: dtrstdquestionnaire
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.232Z
+lastCollected: 2026-04-07T18:37:44.495Z
 estimatedTokens: 338
-keywords: [DTRStdQuestionnaire, FHIR, resource, maps, AssessmentDefinition, AssessmentQuestion, AssessmentQuestionResponse, AssessmentQuestionVersion, objects, V4.0, Discovery, Framework, Data, Model, Mapping]
+keywords: [DTRStdQuestionnaire, FHIR, resource, maps, AssessmentDefinition, AssessmentQuestion, AssessmentQuestionResponse, AssessmentQuestionVersion, V4.0, Discovery, Framework, Model, Mapping]
 ---
-
-# DTRStdQuestionnaire
 
 > The DTRStdQuestionnaire FHIR resource maps to the
    AssessmentDefinition, AssessmentQuestion,

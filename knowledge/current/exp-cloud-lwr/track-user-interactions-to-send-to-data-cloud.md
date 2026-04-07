@@ -5,12 +5,10 @@ topic: track-user-interactions-to-send-to-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.944Z
+lastCollected: 2026-04-07T18:37:33.241Z
 estimatedTokens: 729
-keywords: [Track, User, Interactions, Send, Data, Cloud, integration, comes, interaction, events, turned, mapped, Website, Engagement, DMO]
+keywords: [Track, User, Interactions, Send, Cloud, integration, comes, interaction, events, turned, mapped, Website, Engagement, DMO, either, event, customize, named, identifier, tracked, define]
 ---
-
-# Track User Interactions to Send to Data Cloud
 
 > Your Data Cloud integration comes with a set of interaction events that are turned on
   and mapped to the Website Engagement DMO by default. Interactions are either all mapped, or not

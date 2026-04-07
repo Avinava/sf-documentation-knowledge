@@ -5,12 +5,10 @@ topic: connectapicartmessagesvisibilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.504Z
+lastCollected: 2026-04-07T18:36:04.847Z
 estimatedTokens: 77
 keywords: [ConnectApi.CartMessagesVisibilityInput, visibility, cart, messages]
 ---
-
-# ConnectApi.CartMessagesVisibilityInput
 
 > Set the visibility for cart messages.
 

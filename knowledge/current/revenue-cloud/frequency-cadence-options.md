@@ -5,12 +5,10 @@ topic: frequency-cadence-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.342Z
+lastCollected: 2026-04-07T18:35:43.236Z
 estimatedTokens: 617
-keywords: [Frequency, Cadence, Options, Input, representation, invoice, scheduler]
+keywords: [Frequency, Cadence, Options, invoice, scheduler]
 ---
-
-# Frequency Cadence Options
 
 > Input representation of the frequency cadence options for an invoice
     scheduler.

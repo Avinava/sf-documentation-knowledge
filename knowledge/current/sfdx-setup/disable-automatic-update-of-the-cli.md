@@ -5,12 +5,10 @@ topic: disable-automatic-update-of-the-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.264Z
+lastCollected: 2026-04-07T18:40:09.209Z
 estimatedTokens: 138
-keywords: [Disable, Automatic, CLI, run, command, Salesforce, checks, latest, version, automatically, updates, itself, environment, variable]
+keywords: [Disable, Automatic, CLI, run, command, Salesforce, checks, latest, automatically, updates, itself, environment, variable]
 ---
-
-# Disable Automatic Update of the CLI
 
 > When you run a command, Salesforce CLI checks to see if you have the latest version. If
     not, the CLI automatically updates itself. You can disable this automatic update with an

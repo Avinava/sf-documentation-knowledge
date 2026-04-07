@@ -5,12 +5,10 @@ topic: getdisabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.401Z
+lastCollected: 2026-04-07T18:38:48.356Z
 estimatedTokens: 85
-keywords: [getDisabled, current, SelectOption, object's, isDisabled, attribute, Usage]
+keywords: [getDisabled, current, SelectOption, object's, isDisabled, attribute]
 ---
-
-# getDisabled()
 
 > Returns the current value of the SelectOption object's isDisabled attribute.
 

@@ -5,12 +5,10 @@ topic: get-measure-exports-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.655Z
+lastCollected: 2026-04-07T18:39:11.171Z
 estimatedTokens: 167
-keywords: [Measure, Exports, Input, Query, paramters, API]
+keywords: [Measure, Exports, Query, paramters, API]
 ---
-
-# Get Measure Exports Input
 
 > Query paramters for Get Measure Exports API.
 

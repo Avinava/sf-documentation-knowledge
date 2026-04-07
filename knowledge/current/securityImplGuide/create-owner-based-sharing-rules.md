@@ -5,12 +5,10 @@ topic: create-owner-based-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.135Z
+lastCollected: 2026-04-07T18:39:23.070Z
 estimatedTokens: 1031
-keywords: [Owner-Based, Sharing, Rules, rule, opens, access, records, owned, certain, users]
+keywords: [Owner-Based, Sharing, rule, opens, records, owned, certain, users]
 ---
-
-# Create Owner-Based Sharing Rules
 
 > An owner-based sharing rule opens access to records owned by certain users.
 

@@ -5,12 +5,10 @@ topic: connectapidatagraphidsdmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.148Z
+lastCollected: 2026-04-07T18:36:08.558Z
 estimatedTokens: 91
-keywords: [ConnectApi.DataGraphIdsDmo, data, Model, DMO, graph]
+keywords: [ConnectApi.DataGraphIdsDmo, Model, DMO, graph]
 ---
-
-# ConnectApi.DataGraphIdsDmo
 
 > Represents data about the Data Model Object (DMO) that contains the ID table for the data graph.
 

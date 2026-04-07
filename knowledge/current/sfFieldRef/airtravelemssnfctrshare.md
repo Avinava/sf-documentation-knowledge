@@ -5,12 +5,10 @@ topic: airtravelemssnfctrshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.594Z
+lastCollected: 2026-04-07T18:39:25.543Z
 estimatedTokens: 252
 keywords: [AirTravelEmssnFctrShare, Sharing, AirTravelEmssnFctr]
 ---
-
-# AirTravelEmssnFctrShare
 
 > Sharing for AirTravelEmssnFctr.
 

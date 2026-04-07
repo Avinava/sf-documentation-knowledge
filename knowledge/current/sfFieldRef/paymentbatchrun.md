@@ -5,12 +5,10 @@ topic: paymentbatchrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.332Z
+lastCollected: 2026-04-07T18:39:52.832Z
 estimatedTokens: 517
-keywords: [PaymentBatchRun, batch, processing, job, processes, payments, Billing, payment, run, schedules, meet, criteria, processed, corresponding, records]
+keywords: [PaymentBatchRun, batch, processing, job, processes, payments, Billing, payment, run, schedules, meet, criteria, processed, corresponding, records, created, applied, invoices, invoice, lines, API, 64.0]
 ---
-
-# PaymentBatchRun
 
 > Represents a batch processing job that processes payments in Billing. During
          a payment batch run, all the payment schedules that meet the specified criteria are

@@ -5,12 +5,10 @@ topic: content-area-utility-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.693Z
+lastCollected: 2026-04-07T18:40:24.131Z
 estimatedTokens: 79
-keywords: [Content, Area, Utility, Functions, Load]
+keywords: [Load, Content, Area, Utility, Functions]
 ---
-
-# Content Area Utility Functions
 
 > Use these functions to return content from a content area.
 

@@ -5,12 +5,10 @@ topic: group-photo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.240Z
+lastCollected: 2026-04-07T18:37:14.201Z
 estimatedTokens: 925
 keywords: [Group, Photo, post, crop]
 ---
-
-# Group Photo
 
 > The photo for the specified group. Get, post, crop, and
    delete the photo.

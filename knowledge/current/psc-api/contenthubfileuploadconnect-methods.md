@@ -5,12 +5,10 @@ topic: contenthubfileuploadconnect-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.156Z
+lastCollected: 2026-04-07T18:39:00.148Z
 estimatedTokens: 388
 keywords: [ContentHubFileUploadConnect, includes, multiple]
 ---
-
-# ContentHubFileUploadConnect Methods
 
 > ContentHubFileUploadConnect includes multiple methods.
 

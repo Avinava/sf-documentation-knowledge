@@ -5,12 +5,10 @@ topic: loyalty-management-mobile-sdk-for-android-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.141Z
+lastCollected: 2026-04-07T18:38:09.429Z
 estimatedTokens: 436
-keywords: [Loyalty, Management, Mobile, SDK, Android, Classes, organize, SDK’s, functionalities, data, structures, developing, apps, provide, components]
+keywords: [Loyalty, Management, Mobile, SDK, Android, Classes, organize, SDK’s, functionalities, structures, developing, apps, provide, services, features, interact]
 ---
-
-# Loyalty Management Mobile SDK for Android Classes
 
 > The Android classes organize the Loyalty Management Mobile SDK’s functionalities and
   data structures. When developing mobile apps using the SDK, these classes provide components,

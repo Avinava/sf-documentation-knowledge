@@ -5,12 +5,10 @@ topic: smart-data-discovery-categorical-projected-prediction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.035Z
+lastCollected: 2026-04-07T18:36:59.526Z
 estimatedTokens: 172
-keywords: [Smart, Data, Discovery, Categorical, Projected, Prediction, Einstein]
+keywords: [Smart, Discovery, Categorical, Projected, Prediction, Einstein]
 ---
-
-# Smart Data Discovery Categorical Projected Prediction
 
 > An Einstein Discovery categorical projected prediction.
 

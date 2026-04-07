@@ -5,12 +5,10 @@ topic: writing-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.646Z
+lastCollected: 2026-04-07T18:36:17.877Z
 estimatedTokens: 575
-keywords: [Writing, Tests, Testing, key, successful, long-term, development, critical, component, process, strongly, recommend, test-driven, test, occurs]
+keywords: [Writing, Tests, Testing, key, successful, long-term, development, critical, process, strongly, recommend, test-driven, test, occurs, time, code]
 ---
-
-# Writing Tests
 
 > Testing is the key to successful long-term development and is a critical component of
         the development process. We strongly recommend that you use a test-driven

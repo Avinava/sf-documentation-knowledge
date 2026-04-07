@@ -5,12 +5,10 @@ topic: tpm-promotion-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.819Z
+lastCollected: 2026-04-07T18:39:16.363Z
 estimatedTokens: 7503
-keywords: [tpm-promotion, Component, LWC, service, loads, TPM, promotion, exposing, state, events, keep, components, sync, changes, provided]
+keywords: [Events, Signaturei, tpm-promotion, LWC, service, loads, TPM, promotion, exposing, state, keep, sync, changes, provided, part, released, managed, package, onfocusedareachange, onisplgridfilteropenchange, onstatuschange, oncalculationstatuschange, oneditmodechange, onselectedtacticidchange, onpromotionchange, oneffectivecategorieschange, oneffectivebrandschange, ontacticschange, ontacticfundschange, onpromotionattachmentlinkschange, onpromotionattachmentschange, onpromotioncategorieschange, onsubaccountschange, onparticipatingcustomerschange, oncustomstatechange, onpromotionproductschange, onupliftpredictionavailablechange, onupliftpredictionenabledchange, onupliftpredictionprocessstatuschange, onmanualinputschange, onaclchange, onkpivalidationschanges, Implementation, exportKPIs, API, duplicateTactic, generateTactic, getProperty, getLevelNames, getKPISubsets, getKPIs, getPeriods, getPeriodTypes, isEditable, isVisible, navigateTo, push, reload, removeCallback, save, close, selectTactic, setCallback, setCustomState, setEditMode, setEditable, setVisible, setParticipatingCustomers, setPLGridFilterOpen, setPromotionAttachmentLinks, setPromotionAttachments, setPromotionCategories, setPromotionField, setPromotionManualInputs, setSubAccounts, setTacticConditionCreationDefinitions, setTacticField, setTacticFunds, predictUplift]
 ---
-
-# tpm-promotion Component
 
 > The tpm-promotion LWC is a service component that
         loads a TPM promotion, exposing methods to update the promotion state, and events to keep

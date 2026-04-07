@@ -5,12 +5,10 @@ topic: actionplantemplateitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.927Z
+lastCollected: 2026-04-07T18:37:45.324Z
 estimatedTokens: 894
-keywords: [ActionPlanTemplateItem, instance, item, action, plan, template, version, API, 44.0, later, Calls, Associated, Objects]
+keywords: [ActionPlanTemplateItem, instance, item, action, plan, template, API, 44.0]
 ---
-
-# ActionPlanTemplateItem
 
 > Represents the instance of an item on an action plan template
 			version. This object is available in API version 44.0 and later.

@@ -5,12 +5,10 @@ topic: device-activation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.275Z
+lastCollected: 2026-04-07T18:39:22.169Z
 estimatedTokens: 193
-keywords: [Device, Activation, Salesforce, challenges, users, verify, their, identity, they, log, unrecognized, browser, address, outside, trusted]
+keywords: [Device, Activation, Salesforce, challenges, users, verify, their, identity, they, log, unrecognized, browser, address, outside, trusted, range, adding, extra, verification, unfamiliar, login, attempts, keeps, orgs, Experience, Cloud, sites, secure]
 ---
-
-# Device Activation
 
 > With device activation, Salesforce challenges users to verify their identity when they
     log in from an unrecognized browser or device or from an IP address outside of a trusted range.

@@ -5,12 +5,10 @@ topic: merchaccpaymentmethodtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:54.250Z
+lastCollected: 2026-04-07T18:39:48.702Z
 estimatedTokens: 351
 keywords: [MerchAccPaymentMethodType, Refers, payment, MerchAccPaymentMethodSet]
 ---
-
-# MerchAccPaymentMethodType
 
 > Refers to payment methods that are available in a MerchAccPaymentMethodSet.
 

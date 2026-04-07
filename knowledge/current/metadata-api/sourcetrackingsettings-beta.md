@@ -5,12 +5,10 @@ topic: sourcetrackingsettings-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.394Z
+lastCollected: 2026-04-07T18:36:29.816Z
 estimatedTokens: 676
-keywords: [SourceTrackingSettings, Beta, settings, source, tracking, changes, Developer, Pro, sandboxes, local, workspace, tracked, extends, Metadata, inherits]
+keywords: [SourceTrackingSettings, Beta, settings, source, changes, Developer, Pro, sandboxes, local, workspace, tracked, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SourceTrackingSettings (Beta)
 
 > Represents settings for source tracking, so that changes you
       make in your Developer and Developer Pro sandboxes or local workspace can be tracked.

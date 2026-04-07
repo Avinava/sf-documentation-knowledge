@@ -5,12 +5,10 @@ topic: territory2objectexclusion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.223Z
+lastCollected: 2026-04-07T18:40:03.953Z
 estimatedTokens: 317
-keywords: [Territory2ObjectExclusion, objects, aren’t, included, territory, assignment, rule, runs, they, meet, criteria, API, version, 54.0, later]
+keywords: [Territory2ObjectExclusion, aren’t, included, territory, assignment, rule, runs, they, meet, criteria, API, 54.0]
 ---
-
-# Territory2ObjectExclusion
 
 > Represents the objects that aren’t included in territory assignment
          rule runs, even when they meet assignment rule criteria. This object is available in

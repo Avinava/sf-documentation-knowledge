@@ -5,12 +5,10 @@ topic: feereversalhelperfunctions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.422Z
+lastCollected: 2026-04-07T18:37:33.860Z
 estimatedTokens: 271
-keywords: [FeeReversalHelperFunctions, callable, data, conversion, functions, Fee, Reversal, OmniScript, Usage]
+keywords: [FeeReversalHelperFunctions, callable, conversion, functions, Fee, Reversal, OmniScript]
 ---
-
-# FeeReversalHelperFunctions Class
 
 > The callable FeeReversalHelperFunctions class provides data conversion
       functions for use in the Fee Reversal OmniScript.

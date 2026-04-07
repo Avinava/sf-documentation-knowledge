@@ -5,12 +5,10 @@ topic: package-dependencies-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.736Z
+lastCollected: 2026-04-07T18:38:53.034Z
 estimatedTokens: 1064
-keywords: [Package, Dependencies, First-Generation, Managed, Packages, created, component, references, another, permission, preference]
+keywords: [Package, Dependencies, First-Generation, Managed, Packages, created, references, another, permission, preference]
 ---
-
-# Package Dependencies in First-Generation Managed Packages
 
 > Package dependencies are created when a component references another component,
     permission, or preference that is required for the component to be valid.

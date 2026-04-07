@@ -5,12 +5,10 @@ topic: inserting-updating-and-upserting-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.671Z
+lastCollected: 2026-04-07T18:40:26.907Z
 estimatedTokens: 1390
-keywords: [Inserting, Updating, Upserting, Data, SmartStore, standard, help, track, entries, synchronize, soups, external, servers, System, _soupEntryId]
+keywords: [Inserting, Updating, Upserting, SmartStore, standard, help, track, entries, synchronize, soups, external, servers, System, _soupEntryId, _soupLastModifiedDate, Upsert]
 ---
-
-# Inserting, Updating, and Upserting Data
 
 > SmartStore defines standard fields
       that help you track entries and synchronize soups with external servers.

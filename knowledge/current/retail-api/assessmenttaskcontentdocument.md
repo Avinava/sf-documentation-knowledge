@@ -5,12 +5,10 @@ topic: assessmenttaskcontentdocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.706Z
+lastCollected: 2026-04-07T18:39:12.231Z
 estimatedTokens: 456
-keywords: [AssessmentTaskContentDocument, Associate, content, documents, visits, tasks, promotions, planograms, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [AssessmentTaskContentDocument, Associate, content, documents, visits, tasks, promotions, planograms, API, 47.0]
 ---
-
-# AssessmentTaskContentDocument
 
 > Associate content documents to visits, tasks, promotions, or planograms.
     This object is available in API version 47.0 and later.

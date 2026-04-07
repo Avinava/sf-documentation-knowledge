@@ -5,12 +5,10 @@ topic: connectapiorderitemsummaryadjustmentaggregates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.260Z
+lastCollected: 2026-04-07T18:36:10.553Z
 estimatedTokens: 245
-keywords: [Adjustment, aggregates, associated, order, item, summary]
+keywords: [Adjustment, aggregates, order, item, summary]
 ---
-
-# ConnectApi.OrderItemSummaryAdjustmentAggregates
 
 > Adjustment aggregates associated with an order item
     summary.

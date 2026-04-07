@@ -5,12 +5,10 @@ topic: things-you-should-know-about-data-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.284Z
+lastCollected: 2026-04-07T18:36:19.497Z
 estimatedTokens: 2131
-keywords: [Things, Know, Data, Apex, upsert, statement, consists, two, operations, inserting, records, updating, subject, runtime, limits]
+keywords: [Things, Know, Apex, upsert, statement, consists, two, operations, inserting, records, updating, subject, runtime, limits, insert, respectively]
 ---
-
-# Things You Should Know about Data in Apex
 
 > Each upsert statement consists of two operations, one for inserting records and
             one for updating records. Each of these operations is subject to the runtime limits for

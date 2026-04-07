@@ -5,12 +5,10 @@ topic: connectapimultipleensurefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.480Z
+lastCollected: 2026-04-07T18:36:05.826Z
 estimatedTokens: 246
-keywords: [Invoices, associated, OrderSummaries]
+keywords: [Invoices, OrderSummaries]
 ---
-
-# ConnectApi.MultipleEnsureFundsAsyncInputRepresentation
 
 > List of Invoices and the associated OrderSummaries.
 

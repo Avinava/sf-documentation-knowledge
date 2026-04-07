@@ -5,12 +5,10 @@ topic: emissionsallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.781Z
+lastCollected: 2026-04-07T18:38:18.295Z
 estimatedTokens: 1318
-keywords: [EmissionsAllocation, emissions, child, partner, account, allocated, API, version, 58.0, later, Calls, Associated, Objects]
+keywords: [EmissionsAllocation, emissions, child, partner, account, allocated, API, 58.0]
 ---
-
-# EmissionsAllocation
 
 > Represents information about the emissions from a child or partner account
          that are allocated to an account. This object is available in API version 58.0 and

@@ -5,12 +5,10 @@ topic: utilization-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:55.639Z
+lastCollected: 2026-04-07T18:37:43.809Z
 estimatedTokens: 1283
-keywords: [Utilization, Management, health, insurance, plan's, process, interfacing, plan, members, contracted, medical, providers, interpret, administer, explain]
+keywords: [Utilization, Management, health, insurance, plan's, process, interfacing, plan, members, contracted, medical, providers, interpret, administer, explain, policies, Cloud, review, evaluate, care, services, communicate, clinical, help, ensure, they, receive, right, setting, time]
 ---
-
-# Utilization Management
 
 > Utilization Management (UM) is a health insurance plan's process of interfacing with
   plan members and contracted medical providers to interpret, administer, and explain the medical

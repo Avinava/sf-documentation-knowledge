@@ -5,12 +5,10 @@ topic: schedulingruleparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:06.032Z
+lastCollected: 2026-04-07T18:40:00.783Z
 estimatedTokens: 308
-keywords: [SchedulingRuleParameter, scheduling, rule, associated, API, version, 52.0, later]
+keywords: [SchedulingRuleParameter, scheduling, rule, API, 52.0]
 ---
-
-# SchedulingRuleParameter
 
 > Represents scheduling rule parameters associated with a scheduling rule.
       This object is available in API version 52.0 and later.

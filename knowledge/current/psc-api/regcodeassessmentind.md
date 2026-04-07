@@ -5,12 +5,10 @@ topic: regcodeassessmentind
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.461Z
+lastCollected: 2026-04-07T18:39:07.683Z
 estimatedTokens: 470
-keywords: [RegCodeAssessmentInd, regulatory, codes, assessment, indicator, definitions, associated, API, version, 49.0, later, Calls, Objects]
+keywords: [RegCodeAssessmentInd, regulatory, codes, assessment, indicator, definitions, API, 49.0]
 ---
-
-# RegCodeAssessmentInd
 
 > Represents the regulatory codes and the assessment indicator definitions associated
     with them. This object is available in API version 49.0 and later.

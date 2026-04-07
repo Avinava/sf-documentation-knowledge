@@ -5,12 +5,10 @@ topic: intelligent-document-automation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.664Z
+lastCollected: 2026-04-07T18:37:57.180Z
 estimatedTokens: 114
-keywords: [Intelligent, Document, Automation, data, objects, simplify, management, process, reduce, manual, entry, patients, right, care, services]
+keywords: [Intelligent, Document, Automation, simplify, management, process, reduce, manual, entry, patients, right, care, services, faster, managing, patient, member, forms, place, intake, processing]
 ---
-
-# Intelligent Document Automation
 
 > Use the Intelligent Document Automation data objects to simplify the document management
   process, reduce manual data entry, and get patients the right care and services faster by managing

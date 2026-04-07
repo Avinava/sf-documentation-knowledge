@@ -5,12 +5,10 @@ topic: locationgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.967Z
+lastCollected: 2026-04-07T18:38:35.207Z
 estimatedTokens: 1540
-keywords: [LocationGroup, group, Omnichannel, Inventory, locations, providing, aggregate, view, availability, across, reservation, order, location, level, assign]
+keywords: [LocationGroup, group, Omnichannel, Inventory, locations, providing, aggregate, view, availability, across, reservation, order, location, level, assign, needed, API, 51.0]
 ---
-
-# LocationGroup
 
 > Represents a group of Omnichannel Inventory locations, providing an aggregate
       view of inventory availability across those locations. Omnichannel Inventory can create an

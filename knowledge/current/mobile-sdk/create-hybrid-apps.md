@@ -5,12 +5,10 @@ topic: create-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.753Z
+lastCollected: 2026-04-07T18:40:26.085Z
 estimatedTokens: 1079
-keywords: [Hybrid, Apps, Once, you’ve, installed, forcehybrid, Cordova, command, line, you’re, ready, functioning, Tools, Mobile, SDK]
+keywords: [Hybrid, Apps, Once, you’ve, installed, forcehybrid, Cordova, command, line, you’re, ready, functioning, Tools, Mobile, SDK, App]
 ---
-
-# Create Hybrid Apps
 
 > Once you’ve installed forcehybrid and the Cordova command line, you’re ready to create
     functioning hybrid apps.

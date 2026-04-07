@@ -5,12 +5,10 @@ topic: variables-array-in-uijson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.162Z
+lastCollected: 2026-04-07T18:37:02.698Z
 estimatedTokens: 281
-keywords: [Variables, Array, ui.json, display, question, users, conditionally, optionally, disabled, case, answer, found, computed, Apex, accommodate]
+keywords: [Variables, Array, ui.json, display, question, users, conditionally, optionally, disabled, case, answer, found, computed, Apex, accommodate, variable, condition, instead]
 ---
-
-# Variables Array in ui.json
 
 > Use a variables array to display a question to
   users conditionally. You can optionally display a question as disabled in the case where an answer

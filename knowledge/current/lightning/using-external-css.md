@@ -5,12 +5,10 @@ topic: using-external-css
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.680Z
+lastCollected: 2026-04-07T18:38:02.609Z
 estimatedTokens: 941
-keywords: [External, CSS, resource, upload, <ltng, require>, tag, cmp, app, markup, Styling, Components, Lightning, Experience, Salesforce]
+keywords: [External, CSS, resource, upload, <ltng, require>, tag, cmp, app, markup, Styling, Lightning, Experience, Salesforce, Android, iOS, mobile, web]
 ---
-
-# Using External CSS
 
 > To reference an external CSS resource, upload it as a static resource and use a <ltng:require> tag in your .cmp or
       .app markup.

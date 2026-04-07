@@ -5,12 +5,10 @@ topic: favorites-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.026Z
+lastCollected: 2026-04-07T18:37:10.721Z
 estimatedTokens: 752
-keywords: [Favorites, Feed, Items, favorite]
+keywords: [Favorites, Items, favorite]
 ---
-
-# Favorites Feed Items
 
 > Get the feed items for a favorite.
 

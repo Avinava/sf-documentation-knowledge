@@ -5,12 +5,10 @@ topic: reputationpointsrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.148Z
+lastCollected: 2026-04-07T18:39:59.833Z
 estimatedTokens: 328
-keywords: [ReputationPointsRule, reputation, point, rules, Experience, Cloud, site, rule, action, members, earn, points, associated, actions, particular]
+keywords: [ReputationPointsRule, reputation, point, Experience, Cloud, site, rule, action, members, earn, points, actions, particular, API, 32.0]
 ---
-
-# ReputationPointsRule
 
 > Represents the reputation point rules for an Experience Cloud site. Each rule
 					specifies an action that members can earn points from and the points associated

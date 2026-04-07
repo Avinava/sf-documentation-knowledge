@@ -5,12 +5,10 @@ topic: channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.547Z
+lastCollected: 2026-04-07T18:40:15.646Z
 estimatedTokens: 182
-keywords: [Channels, virtual, separations, cases, marketing, content, They, typically, correspond, different, internal, app, partner, though, partners]
+keywords: [Channels, virtual, separations, cases, marketing, content, They, typically, correspond, different, internal, app, partner, though, partners, separate, multiple, Email, Studio, channel, web, Items]
 ---
-
-# Channels
 
 > Channels are virtual separations of use cases for your marketing content. They typically correspond to a different internal app, or a different partner, even though partners with separate use cases could have multiple channels. For example, Email Studio has the "email" channel and a web app could ha
 

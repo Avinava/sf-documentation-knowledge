@@ -5,12 +5,10 @@ topic: how-chunking-works-with-reportevent-and-listviewevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.862Z
+lastCollected: 2026-04-07T18:39:22.770Z
 estimatedTokens: 1747
-keywords: [How, Chunking, Works, ReportEvent, ListViewEvent, occurs, report, view, execution, records, Salesforce, splits, data, chunks, Transaction]
+keywords: [How, Chunking, Works, ReportEvent, ListViewEvent, occurs, report, view, execution, records, Salesforce, splits, chunks, Transaction, Security]
 ---
-
-# How Chunking Works with ReportEvent and ListViewEvent
 
 > Chunking occurs when a report or list view execution returns many records and
     Salesforce splits the returned data into chunks.

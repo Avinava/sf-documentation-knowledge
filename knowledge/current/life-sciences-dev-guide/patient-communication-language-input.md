@@ -5,12 +5,10 @@ topic: patient-communication-language-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.898Z
+lastCollected: 2026-04-07T18:37:55.266Z
 estimatedTokens: 219
-keywords: [Patient, Communication, Language, Input, representation]
+keywords: [Patient, Communication, Language]
 ---
-
-# Patient Communication Language Input
 
 > Input representation of the patient communication
     language.

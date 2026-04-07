@@ -5,12 +5,10 @@ topic: calling-component-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.332Z
+lastCollected: 2026-04-07T18:38:04.492Z
 estimatedTokens: 813
-keywords: [Calling, Component, <aura, method>, define, part, component's, API, directly, call, component’s, client-side, controller, instead, firing]
+keywords: [Calling, <aura, method>, define, part, component's, API, directly, call, component’s, client-side, controller, instead, firing, handling, event, simplifies, code, needed, parent, child, Communicate, Inherited]
 ---
-
-# Calling Component Methods
 
 > Use <aura:method> to define a method
             as part of a component's API. This enables you to directly call a method in a

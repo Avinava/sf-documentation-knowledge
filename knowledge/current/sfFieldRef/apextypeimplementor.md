@@ -5,13 +5,11 @@ topic: apextypeimplementor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.995Z
+lastCollected: 2026-04-07T18:39:25.954Z
 estimatedTokens: 328
 namespace: ClassNamespacePrefix
-keywords: [ApexTypeImplementor, Apex, classes, directly, indirectly, implement, SOQL, query, installed, managed, packages, API, version, 54.0, later]
+keywords: [ApexTypeImplementor, Apex, classes, directly, indirectly, implement, SOQL, query, installed, managed, packages, API, 54.0]
 ---
-
-# ApexTypeImplementor
 
 > Represents Apex classes that directly or indirectly implement an interface.
          Using a SOQL query, this object gets information about public or global classes and only

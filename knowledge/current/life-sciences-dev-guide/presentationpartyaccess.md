@@ -5,12 +5,10 @@ topic: presentationpartyaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.304Z
+lastCollected: 2026-04-07T18:38:01.094Z
 estimatedTokens: 942
-keywords: [PresentationPartyAccess, access-sharing, presentation, healthcare, professional, including, expiration, date, access, API, version, 65.0, later, Calls, Associated]
+keywords: [PresentationPartyAccess, access-sharing, presentation, healthcare, professional, including, expiration, date, API, 65.0]
 ---
-
-# PresentationPartyAccess
 
 > Represents the access-sharing details of a presentation with a healthcare
          professional, including an expiration date for that access. This object is available

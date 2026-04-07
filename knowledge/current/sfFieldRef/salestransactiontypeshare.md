@@ -5,12 +5,10 @@ topic: salestransactiontypeshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.945Z
+lastCollected: 2026-04-07T18:40:00.699Z
 estimatedTokens: 253
 keywords: [SalesTransactionTypeShare, Sharing, SalesTransactionType]
 ---
-
-# SalesTransactionTypeShare
 
 > Sharing for SalesTransactionType.
 

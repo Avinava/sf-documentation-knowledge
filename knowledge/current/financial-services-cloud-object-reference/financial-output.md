@@ -5,12 +5,10 @@ topic: financial-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.544Z
+lastCollected: 2026-04-07T18:37:35.153Z
 estimatedTokens: 1724
-keywords: [Financial, Output, transaction]
+keywords: [Financial, transaction]
 ---
-
-# Financial Output
 
 > Output details for the financial transaction.
 

@@ -5,12 +5,10 @@ topic: assessmentindicatordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:12.643Z
+lastCollected: 2026-04-07T18:39:05.643Z
 estimatedTokens: 640
-keywords: [AssessmentIndicatorDefinition, Define, act, markers, compliance, inspections, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [AssessmentIndicatorDefinition, Define, act, markers, compliance, inspections, API, 47.0]
 ---
-
-# AssessmentIndicatorDefinition
 
 > Define parameters that act as markers of compliance for inspections. This
     object is available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: get-started-with-the-journey-builder-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.918Z
+lastCollected: 2026-04-07T18:40:17.069Z
 estimatedTokens: 710
-keywords: [Started, Journey, Builder, API, APIs, Marketing, Cloud, authentication, process, Prerequisites, Items]
+keywords: [Prerequisites, Started, Journey, Builder, API, APIs, Marketing, Cloud, authentication, process, Items]
 ---
-
-# Get Started with the Journey Builder API
 
 > To use the Journey Builder APIs, complete the Marketing Cloud API authentication process.
 

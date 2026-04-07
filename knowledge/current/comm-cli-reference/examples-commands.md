@@ -5,12 +5,10 @@ topic: examples-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.897Z
+lastCollected: 2026-04-07T18:37:25.813Z
 estimatedTokens: 414
 keywords: [examples, Commands, Convert, repo, SFDX, scratch, org, commerce, Command]
 ---
-
-# examples Commands
 
 > Convert repo examples to SFDX scratch org.
 

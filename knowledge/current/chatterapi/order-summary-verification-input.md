@@ -5,12 +5,10 @@ topic: order-summary-verification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.683Z
+lastCollected: 2026-04-07T18:37:09.417Z
 estimatedTokens: 177
-keywords: [Order, Summary, Verification, Input]
+keywords: [Order, Summary, Verification]
 ---
-
-# Order Summary Verification Input
 
 > Order summary verification input.
 

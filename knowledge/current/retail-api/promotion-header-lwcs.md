@@ -5,12 +5,10 @@ topic: promotion-header-lwcs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.827Z
+lastCollected: 2026-04-07T18:39:16.371Z
 estimatedTokens: 167
-keywords: [Promotion, LWCs, TPM, provide, access, entire, specific, slots]
+keywords: [Promotion, LWCs, TPM, provide, entire, specific, slots]
 ---
-
-# Promotion Header LWCs
 
 > The TPM Promotion header LWCs provide access to the entire TPM promotion header and
     specific header slots.

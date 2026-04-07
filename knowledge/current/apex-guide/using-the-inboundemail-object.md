@@ -5,12 +5,10 @@ topic: using-the-inboundemail-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.214Z
+lastCollected: 2026-04-07T18:36:16.423Z
 estimatedTokens: 530
-keywords: [InboundEmail, every, email, Apex, service, domain, receives, Salesforce, creates, separate, contents, attachments, classes, implement, Messaging.InboundEmailHandler]
+keywords: [InboundEmail, every, email, Apex, service, domain, receives, Salesforce, creates, separate, contents, attachments, classes, implement, Messaging.InboundEmailHandler, handle, inbound, message, handleInboundEmail, retrieve, messages, well, perform, functions, Tasks, Contacts, Unsubscribe]
 ---
-
-# Using the InboundEmail Object
 
 > For every email the Apex email service domain receives, Salesforce creates a separate
         InboundEmail object that contains the contents and attachments of that email. You can use

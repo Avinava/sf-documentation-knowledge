@@ -5,12 +5,10 @@ topic: sensitivedataruletriggered-for-chasitors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.232Z
+lastCollected: 2026-04-07T18:38:06.467Z
 estimatedTokens: 238
-keywords: [SensitiveDataRuleTriggered, Chasitors, sensitive, data, rules, chat, visitor, blocking, visitor’s, credit, card, Social, Security, phone, account]
+keywords: [SensitiveDataRuleTriggered, Chasitors, sensitive, chat, visitor, blocking, visitor’s, credit, card, Social, Security, phone, account, numbers, profanity]
 ---
-
-# SensitiveDataRuleTriggered for Chasitors
 
 > Sets the sensitive data rules for the chat visitor, such as blocking the
    visitor’s credit card, Social Security, phone and account numbers, or even

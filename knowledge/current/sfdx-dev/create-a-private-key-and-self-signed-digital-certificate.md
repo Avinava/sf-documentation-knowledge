@@ -5,12 +5,10 @@ topic: create-a-private-key-and-self-signed-digital-certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.845Z
+lastCollected: 2026-04-07T18:40:07.781Z
 estimatedTokens: 949
-keywords: [Key, Self-Signed, Digital, Certificate, Authorizing, org, login, jwt, command, requires, sign, highly, recommend, own, issued]
+keywords: [Key, Self-Signed, Digital, Certificate, Authorizing, org, login, jwt, command, requires, sign, highly, recommend, own, issued, certification, authority, OpenSSL, started, authorize, logging, browser]
 ---
-
-# Create a Private Key and Self-Signed Digital Certificate
 
 > Authorizing an org with the org login jwt command
     requires a digital certificate and the private key used to sign the certificate. We highly

@@ -5,12 +5,10 @@ topic: email-message-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.518Z
+lastCollected: 2026-04-07T18:37:18.607Z
 estimatedTokens: 608
-keywords: [Email, Message, Capability, feed, element, case]
+keywords: [Email, Message, Capability, case]
 ---
-
-# Email Message Capability
 
 > If a feed element has this capability, it has an email message from a case.
 

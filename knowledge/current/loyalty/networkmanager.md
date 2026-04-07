@@ -5,12 +5,10 @@ topic: networkmanager
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.412Z
+lastCollected: 2026-04-07T18:38:09.723Z
 estimatedTokens: 254
-keywords: [NetworkManager, manages, network, requests, processing, data, conforms, NetworkManagerProtocol, manage, responses, Shared, Instance, REST]
+keywords: [NetworkManager, manages, network, requests, processing, conforms, NetworkManagerProtocol, manage, responses, Shared, Instance, REST]
 ---
-
-# NetworkManager
 
 > The NetworkManager class manages network requests and
   processing of data. The NetworkManager class conforms to the NetworkManagerProtocol, which defines

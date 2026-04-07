@@ -5,12 +5,10 @@ topic: apptbundlerestrictpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.336Z
+lastCollected: 2026-04-07T18:36:47.212Z
 estimatedTokens: 639
-keywords: [ApptBundleRestrictPolicy, Policy, restrictions, considered, forming, bundle, API, version, 54.0, later, Calls, Special, Access, Rules]
+keywords: [ApptBundleRestrictPolicy, Policy, restrictions, considered, forming, bundle, API, 54.0]
 ---
-
-# ApptBundleRestrictPolicy
 
 > Policy that defines the restrictions that are considered while forming a
          bundle. This object is available in API version 54.0 and later.

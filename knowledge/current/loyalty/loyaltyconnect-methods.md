@@ -5,12 +5,10 @@ topic: loyaltyconnect-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.612Z
+lastCollected: 2026-04-07T18:38:08.942Z
 estimatedTokens: 64
 keywords: [LoyaltyConnect]
 ---
-
-# LoyaltyConnect Methods
 
 > This is a method for LoyaltyConnect. Method is
     static.

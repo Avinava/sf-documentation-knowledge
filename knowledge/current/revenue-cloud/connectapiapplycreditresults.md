@@ -5,12 +5,10 @@ topic: connectapiapplycreditresults
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.683Z
+lastCollected: 2026-04-07T18:35:41.560Z
 estimatedTokens: 76
-keywords: [ConnectApi.ApplyCreditResults, Output, representation, applied, credit, memo, results]
+keywords: [ConnectApi.ApplyCreditResults, applied, credit, memo, results]
 ---
-
-# ConnectApi.ApplyCreditResults
 
 > Output representation of the list of applied credit memo results.
 

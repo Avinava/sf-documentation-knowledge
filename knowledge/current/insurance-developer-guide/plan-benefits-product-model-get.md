@@ -5,12 +5,10 @@ topic: plan-benefits-product-model-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.817Z
+lastCollected: 2026-04-07T18:37:51.888Z
 estimatedTokens: 271
-keywords: [Plan, Benefits, Product, Model, along, child, components, their, attributes, insurance, policy, coverage]
+keywords: [Plan, Benefits, Product, Model, along, child, their, attributes, insurance, policy, coverage]
 ---
-
-# Plan Benefits Product Model (GET)
 
 > Get the product model details along with child components and their attributes for a
     given insurance policy coverage.

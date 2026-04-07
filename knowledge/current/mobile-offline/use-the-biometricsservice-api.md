@@ -5,12 +5,10 @@ topic: use-the-biometricsservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.161Z
+lastCollected: 2026-04-07T18:38:15.676Z
 estimatedTokens: 658
-keywords: [BiometricsService, API, develop, Lightning, web, component, biometrics-checking, features, accessing, device’s, native, biometrics, functionality, Add, Test]
+keywords: [BiometricsService, API, develop, Lightning, web, biometrics-checking, features, accessing, device’s, native, biometrics, functionality, Add, Test, Availability, Check, Configuration, Prompt, Biometric]
 ---
-
-# Use the BiometricsService API
 
 > To develop a Lightning web component with biometrics-checking features, use the
         BiometricsService API as your method for accessing a device’s native biometrics

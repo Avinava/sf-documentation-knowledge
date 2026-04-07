@@ -5,12 +5,10 @@ topic: edit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.057Z
+lastCollected: 2026-04-07T18:38:48.015Z
 estimatedTokens: 97
 keywords: [edit, PageReference, standard]
 ---
-
-# edit()
 
 > Returns the PageReference of the standard edit page.
 

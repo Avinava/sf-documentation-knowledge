@@ -5,12 +5,10 @@ topic: taxdisclosuresummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.012Z
+lastCollected: 2026-04-07T18:40:03.740Z
 estimatedTokens: 363
-keywords: [TaxDisclosureSummaryFeed, Feed, tracking, TaxDisclosureSummary]
+keywords: [TaxDisclosureSummaryFeed, TaxDisclosureSummary]
 ---
-
-# TaxDisclosureSummaryFeed
 
 > Feed tracking for TaxDisclosureSummary.
 

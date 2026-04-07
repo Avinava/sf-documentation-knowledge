@@ -5,12 +5,10 @@ topic: collections-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.023Z
+lastCollected: 2026-04-07T18:36:55.458Z
 estimatedTokens: 497
-keywords: [Collections, Resource, creates, collection, Analytics, items, URL, Formats, Version, HTTP, POST]
+keywords: [Formats, Collections, Resource, creates, collection, Analytics, items, URL, HTTP, POST]
 ---
-
-# Collections List Resource
 
 > Returns a list of collections or creates a collection. Each collection contains Analytics resource items.
 

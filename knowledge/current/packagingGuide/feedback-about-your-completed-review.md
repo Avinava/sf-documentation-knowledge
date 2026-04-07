@@ -5,12 +5,10 @@ topic: feedback-about-your-completed-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.602Z
+lastCollected: 2026-04-07T18:38:47.535Z
 estimatedTokens: 1038
 keywords: [Feedback, Completed, Review, There, two, possible, AppExchange, security, outcomes, Either, solution, passed, didn’t, case, tips]
 ---
-
-# Feedback About Your Completed Review
 
 > There are two possible AppExchange security review outcomes. Either your solution passed
   or it didn’t. In either case, the feedback section contains tips for what to do next.

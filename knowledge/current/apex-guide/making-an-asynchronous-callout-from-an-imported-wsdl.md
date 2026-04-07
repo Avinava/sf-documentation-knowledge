@@ -5,12 +5,10 @@ topic: making-an-asynchronous-callout-from-an-imported-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.987Z
+lastCollected: 2026-04-07T18:36:17.211Z
 estimatedTokens: 943
-keywords: [Making, Asynchronous, Callout, Imported, WSDL, addition, HttpRequest-based, callouts, Web, service, calls, made, WSDL-generated, classes, process]
+keywords: [Making, Asynchronous, Callout, Imported, WSDL, addition, HttpRequest-based, callouts, Web, service, made, WSDL-generated, classes, process, similar, HttpRequest, Testing, WSDL-Based]
 ---
-
-# Making an Asynchronous Callout from an Imported WSDL
 
 > In addition to HttpRequest-based callouts,
         asynchronous callouts are supported in Web service calls that are made from WSDL-generated

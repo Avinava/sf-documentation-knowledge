@@ -5,12 +5,10 @@ topic: api-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.111Z
+lastCollected: 2026-04-07T18:35:38.901Z
 estimatedTokens: 1695
-keywords: [api, Commands, Execute, GraphQL, statement, Beta, Examples, Flags, rest]
+keywords: [Flags, api, Commands, Execute, GraphQL, statement, Beta, Examples, rest]
 ---
-
-# api Commands
 
 > Execute a GraphQL statement.
 

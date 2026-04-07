@@ -5,12 +5,10 @@ topic: list-of-asset-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.466Z
+lastCollected: 2026-04-07T18:40:15.561Z
 estimatedTokens: 1252
 keywords: [Asset, file, content, Builder, Base, don't, represent, actual, model, files, inherit]
 ---
-
-# List of Asset Types
 
 > Asset types are the file or content types supported by Content Builder. Base asset types don't represent actual file types that can be used in the asset model. All other asset types represent files and inherit from a base asset type.
 

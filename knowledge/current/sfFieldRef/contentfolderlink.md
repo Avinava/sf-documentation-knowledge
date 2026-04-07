@@ -5,12 +5,10 @@ topic: contentfolderlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.826Z
+lastCollected: 2026-04-07T18:39:35.285Z
 estimatedTokens: 231
-keywords: [ContentFolderLink, association, library, root, folder, API, version, 34.0, later]
+keywords: [ContentFolderLink, association, library, root, folder, API, 34.0]
 ---
-
-# ContentFolderLink
 
 > Defines the association between a library and its root folder.
 		This object is available in API version 34.0 and later.

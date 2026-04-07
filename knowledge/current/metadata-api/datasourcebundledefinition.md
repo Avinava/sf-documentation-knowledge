@@ -5,12 +5,10 @@ topic: datasourcebundledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.107Z
+lastCollected: 2026-04-07T18:36:24.441Z
 estimatedTokens: 584
-keywords: [DataSourceBundleDefinition, bundle, streams, user, adds, data, kit, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [DataSourceBundleDefinition, bundle, streams, user, adds, kit, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataSourceBundleDefinition
 
 > Represents the bundle of streams that a user adds to a data
       kit.

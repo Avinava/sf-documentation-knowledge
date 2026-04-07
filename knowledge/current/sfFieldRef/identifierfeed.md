@@ -5,12 +5,10 @@ topic: identifierfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.527Z
+lastCollected: 2026-04-07T18:39:44.173Z
 estimatedTokens: 358
-keywords: [IdentifierFeed, Feed, tracking, Identifier]
+keywords: [IdentifierFeed, Identifier]
 ---
-
-# IdentifierFeed
 
 > Feed tracking for Identifier.
 

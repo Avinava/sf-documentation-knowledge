@@ -5,12 +5,10 @@ topic: appexchange-partners-upgrade-sso-claim-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:26.200Z
+lastCollected: 2026-04-07T18:40:21.476Z
 estimatedTokens: 541
 keywords: [AppExchange, Partners, Upgrade, SSO, Claim, instructions, apply, multi-tenant, applications, apps, Decoded, JWT, Items]
 ---
-
-# AppExchange Partners, Upgrade SSO Claim v2
 
 > These instructions apply only to multi-tenant applications, such as apps on AppExchange.
 

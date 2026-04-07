@@ -5,12 +5,10 @@ topic: unified-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.784Z
+lastCollected: 2026-04-07T18:40:13.713Z
 estimatedTokens: 1633
-keywords: [Unified, Routing, lets, Salesforce, handle, inbound, outbound, voice, calls, skills-based, call, transfers, reps, Configure, admins]
+keywords: [Unified, Routing, lets, Salesforce, handle, inbound, outbound, voice, skills-based, call, transfers, reps, Configure, admins, enable, feature, choose, whether, include, managed, package, Flow]
 ---
-
-# Unified Routing
 
 > Unified routing lets Salesforce handle the routing of inbound and outbound voice
         calls, skills-based call routing, and call transfers to the reps. Configure unified routing

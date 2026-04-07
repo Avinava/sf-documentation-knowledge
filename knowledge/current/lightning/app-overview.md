@@ -5,12 +5,10 @@ topic: app-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:12.712Z
+lastCollected: 2026-04-07T18:38:02.641Z
 estimatedTokens: 158
-keywords: [App, special, top-level, component, whose, markup, resource]
+keywords: [App, top-level, whose, markup, resource]
 ---
-
-# App Overview
 
 > An app is a special top-level component whose markup is in a .app resource.
 

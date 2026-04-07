@@ -5,12 +5,10 @@ topic: customize-a-flows-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.154Z
+lastCollected: 2026-04-07T18:38:51.387Z
 estimatedTokens: 714
-keywords: [Customize, Flow’s, User, you’ve, embedded, flow, Visualforce, looks, run, time, applying, custom, styles, CSS, combination]
+keywords: [Customize, Flow’s, User, you’ve, embedded, flow, Visualforce, looks, run, time, applying, styles, CSS, combination, attributes, classes, individual, parts, button, location, style, background, look, feel, screen, labels, Flow-Specific]
 ---
-
-# Customize a Flow’s User Interface
 
 > After you’ve embedded a flow in a Visualforce page, you can customize what the flow looks like at run time by applying
 custom styles using CSS. Using a combination of flow attributes and

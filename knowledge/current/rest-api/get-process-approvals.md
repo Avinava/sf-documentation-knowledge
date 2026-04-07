@@ -5,12 +5,10 @@ topic: get-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.716Z
+lastCollected: 2026-04-07T18:36:20.957Z
 estimatedTokens: 120
-keywords: [Process, Approvals, approval, processes, resource, REST, API, version, 30.0, later]
+keywords: [Process, Approvals, approval, processes, resource, REST, API, 30.0]
 ---
-
-# Get Process Approvals
 
 > Gets a list of all approval processes. This
     resource is available in REST API version 30.0 and later.

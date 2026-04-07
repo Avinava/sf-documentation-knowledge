@@ -5,12 +5,10 @@ topic: message-segment-input-text
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.332Z
+lastCollected: 2026-04-07T18:37:09.103Z
 estimatedTokens: 263
-keywords: [Message, Segment, Input, Text, Plain, inline, looks, link, surrounded, space, converted, prefixed, hash, square, brackets]
+keywords: [Message, Segment, Text, Plain, inline, looks, link, surrounded, space, converted, prefixed, hash, square, brackets, tag, Multiple, word, tags, 28.0, higher]
 ---
-
-# Message Segment Input: Text
 
 > Plain inline text input. Text that looks like a link and is surrounded by space is
     converted into a link segment. Text prefixed with a hash and surrounded by square brackets ([])

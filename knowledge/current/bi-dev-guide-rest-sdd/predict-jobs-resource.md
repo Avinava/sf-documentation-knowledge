@@ -5,12 +5,10 @@ topic: predict-jobs-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.538Z
+lastCollected: 2026-04-07T18:36:59.036Z
 estimatedTokens: 395
 keywords: [Predict, Jobs, Resource, collection, Einstein, Discovery, creates, job]
 ---
-
-# Predict Jobs Resource
 
 > Returns a collection of Einstein Discovery predict jobs and creates a predict job.
 

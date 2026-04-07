@@ -5,12 +5,10 @@ topic: manufacturingprogramfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.617Z
+lastCollected: 2026-04-07T18:39:48.010Z
 estimatedTokens: 301
-keywords: [ManufacturingProgramFeed, Feed, tracking, ManufacturingProgram]
+keywords: [ManufacturingProgramFeed, ManufacturingProgram]
 ---
-
-# ManufacturingProgramFeed
 
 > Feed tracking for ManufacturingProgram.
 

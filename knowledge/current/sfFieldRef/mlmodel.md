@@ -5,12 +5,10 @@ topic: mlmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.321Z
+lastCollected: 2026-04-07T18:39:47.733Z
 estimatedTokens: 407
-keywords: [MLModel, model, Einstein, Prediction, Builder, Recommendation, features, API, version, 53.0, later]
+keywords: [MLModel, model, Einstein, Prediction, Builder, Recommendation, features, API, 53.0]
 ---
-
-# MLModel
 
 > Represents an AI model that can be used in Einstein Prediction Builder,
          Einstein Recommendation Builder, and other Einstein features. This object is available

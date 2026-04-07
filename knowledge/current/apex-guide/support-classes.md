@@ -5,12 +5,10 @@ topic: support-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.512Z
+lastCollected: 2026-04-07T18:36:17.746Z
 estimatedTokens: 394
 keywords: [Support, Classes, allow, interact, records, commonly, centers, business, hours, cases, Working]
 ---
-
-# Support Classes
 
 > Support classes allow you to interact with records commonly used by support centers,
         such as business hours and cases.

@@ -5,12 +5,10 @@ topic: einstein-llm-generations-safety-score
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.423Z
+lastCollected: 2026-04-07T18:37:18.521Z
 estimatedTokens: 500
 keywords: [Einstein, LLM, Generations, Safety, Score]
 ---
-
-# Einstein LLM Generations Safety Score
 
 > Safety score information related to the LLM response.
 

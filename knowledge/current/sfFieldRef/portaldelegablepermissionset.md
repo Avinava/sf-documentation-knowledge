@@ -5,12 +5,10 @@ topic: portaldelegablepermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.834Z
+lastCollected: 2026-04-07T18:39:54.385Z
 estimatedTokens: 363
-keywords: [PortalDelegablePermissionSet, base, platform, store, permission, assigned, delegated, portal, external, user, admin, DPUA, users, API, version]
+keywords: [PortalDelegablePermissionSet, base, platform, store, permission, assigned, delegated, portal, external, user, admin, DPUA, users, API, 47.0]
 ---
-
-# PortalDelegablePermissionSet
 
 > PortalDelegablePermissionSet is a base platform object used to store permission
       sets that can be assigned by a delegated portal/external user admin (DPUA) to portal

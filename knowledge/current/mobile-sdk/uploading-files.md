@@ -5,12 +5,10 @@ topic: uploading-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.565Z
+lastCollected: 2026-04-07T18:40:25.943Z
 estimatedTokens: 250
-keywords: [Uploading, Files, Native, mobile, platforms, support, file, provide, path, local, uploaded, title, know, MIME, specify]
+keywords: [Uploading, Files, Native, mobile, platforms, support, file, provide, path, local, uploaded, title, know, MIME, specify, well, upload, platform-specific]
 ---
-
-# Uploading Files
 
 > Native mobile platforms support a method for uploading a file.
 You provide a path to the local file to be uploaded, the name or title

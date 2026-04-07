@@ -5,12 +5,10 @@ topic: expression-set-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.117Z
+lastCollected: 2026-04-07T18:39:01.262Z
 estimatedTokens: 256
-keywords: [Expression, Input, representation]
+keywords: [Expression]
 ---
-
-# Expression Set Input
 
 > Input representation of the expression set create and update
       request.

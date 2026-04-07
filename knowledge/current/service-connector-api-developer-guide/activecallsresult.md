@@ -5,12 +5,10 @@ topic: activecallsresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.558Z
+lastCollected: 2026-04-07T18:39:23.496Z
 estimatedTokens: 137
-keywords: [ActiveCallsResult, result, getting, active, calls, Functions]
+keywords: [ActiveCallsResult, result, getting, active, Functions]
 ---
-
-# ActiveCallsResult
 
 > Represents the result when getting a list of active
         calls.

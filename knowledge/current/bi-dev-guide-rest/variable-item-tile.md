@@ -5,12 +5,10 @@ topic: variable-item-tile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.425Z
+lastCollected: 2026-04-07T18:36:57.981Z
 estimatedTokens: 199
 keywords: [Variable, Item, Tile, template, wizard]
 ---
-
-# Variable Item Tile
 
 > A variable item tile for a variable on a template wizard page.
 

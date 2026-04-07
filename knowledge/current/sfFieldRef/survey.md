@@ -5,13 +5,11 @@ topic: survey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.491Z
+lastCollected: 2026-04-07T18:40:03.179Z
 estimatedTokens: 320
 namespace: NamespacePrefix
 keywords: [Survey]
 ---
-
-# Survey
 
 **Namespace:** `NamespacePrefix`
 

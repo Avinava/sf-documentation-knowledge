@@ -5,12 +5,10 @@ topic: aiinsightvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.918Z
+lastCollected: 2026-04-07T18:39:23.849Z
 estimatedTokens: 418
-keywords: [AIInsightValue, Einstein, prediction, insight, API, version, 47.0, later]
+keywords: [AIInsightValue, Einstein, prediction, insight, API, 47.0]
 ---
-
-# AIInsightValue
 
 > Represents an Einstein prediction insight value. This object is available
     in API version 47.0 and later.

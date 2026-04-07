@@ -5,12 +5,10 @@ topic: content-link-data-sync
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.130Z
+lastCollected: 2026-04-07T18:37:25.081Z
 estimatedTokens: 205
-keywords: [Content, Link, Data, Sync, Output, representation, synchronization, success, failure]
+keywords: [Content, Link, Sync, synchronization, success, failure]
 ---
-
-# Content Link Data Sync
 
 > Output representation that contains the details of data synchronization with success and
     failure information.

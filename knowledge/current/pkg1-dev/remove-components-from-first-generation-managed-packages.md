@@ -5,12 +5,10 @@ topic: remove-components-from-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:01.846Z
+lastCollected: 2026-04-07T18:38:54.236Z
 estimatedTokens: 1775
-keywords: [Remove, Components, First-Generation, Managed, Packages, metadata, Apex, classes, longer, want, Removing, Visualforce]
+keywords: [Remove, First-Generation, Managed, Packages, metadata, Apex, classes, longer, want, Removing, Visualforce]
 ---
-
-# Remove Components from First-Generation Managed Packages
 
 > Remove metadata components such as Apex classes that you no longer want in your
     first-generation managed packages.

@@ -6,14 +6,11 @@ topic: describedatacategorygroupresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.506Z
+lastCollected: 2026-04-07T18:36:00.781Z
 estimatedTokens: 953
 namespace: Schema
-keywords: [Describe​DataCategoryGroupResult, category, groups, associated, KnowledgeArticleVersion, Question, Usage, DescribeDataCategoryGroupResult, getCategoryCount, getDescription, getLabel, getName, getSobject]
+keywords: [Describe​DataCategoryGroupResult, category, groups, KnowledgeArticleVersion, Question, DescribeDataCategoryGroupResult, getCategoryCount, getDescription, getLabel, getName, getSobject]
 ---
-
-# Describe​DataCategoryGroupResult
-Class
 
 > Contains the list of the category groups associated with
 KnowledgeArticleVersion and Question.

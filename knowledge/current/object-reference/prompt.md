@@ -5,12 +5,10 @@ topic: prompt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.699Z
+lastCollected: 2026-04-07T18:38:39.201Z
 estimatedTokens: 1073
-keywords: [Prompt, record, in-app, guidance, walkthrough, API, version, 46.0, later, Calls, Special, Access, Rules, Prompts, Walkthroughs]
+keywords: [Prompt, record, in-app, guidance, walkthrough, API, 46.0, Prompts, Walkthroughs, Managed, Packages]
 ---
-
-# Prompt
 
 > Represents record details about an in-app guidance prompt or
          walkthrough. Available in API version 46.0 and later.

@@ -5,12 +5,10 @@ topic: quarterlastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.376Z
+lastCollected: 2026-04-07T18:37:00.941Z
 estimatedTokens: 27
 keywords: [quarter_last_day, date, day, quarter, specific, _last, _day]
 ---
-
-# quarter_last_day(date)
 
 > Returns the date of the last day of the quarter for a specific date.
 

@@ -5,12 +5,10 @@ topic: personalization-recommender-base-predicate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.830Z
+lastCollected: 2026-04-07T18:37:09.557Z
 estimatedTokens: 656
-keywords: [Personalization, Recommender, Base, Predicate, Input, representation, rule]
+keywords: [Personalization, Recommender, Base, Predicate, rule]
 ---
-
-# Personalization Recommender Base Predicate Input
 
 > The base representation for a recommender rule predicate.
 

@@ -5,12 +5,10 @@ topic: messaging-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.958Z
+lastCollected: 2026-04-07T18:37:20.124Z
 estimatedTokens: 79
 keywords: [Messaging, Channels]
 ---
-
-# Messaging Channels
 
 > List of messaging channels.
 

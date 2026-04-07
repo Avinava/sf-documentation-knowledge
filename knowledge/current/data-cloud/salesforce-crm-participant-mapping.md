@@ -5,12 +5,10 @@ topic: salesforce-crm-participant-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.235Z
+lastCollected: 2026-04-07T18:35:52.041Z
 estimatedTokens: 287
-keywords: [Salesforce, CRM, Participant, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
+keywords: [Salesforce, CRM, Participant, Mapping, mappings, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Participant Mapping
 
 > These data mappings are for the Participant DLO found in the Services bundle of the
   Salesforce CRM Connector for Data Cloud.

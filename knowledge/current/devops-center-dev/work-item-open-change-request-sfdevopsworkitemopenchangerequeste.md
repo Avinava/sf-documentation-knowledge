@@ -5,12 +5,10 @@ topic: work-item-open-change-request-sfdevopsworkitemopenchangerequeste
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.709Z
+lastCollected: 2026-04-07T18:37:28.793Z
 estimatedTokens: 564
-keywords: [Work, Item, Open, Change, Notifies, subscribers, whenever, pull, opened, API, version, 62.0, later, _devops, _Work]
+keywords: [Work, Item, Open, Change, Notifies, subscribers, whenever, pull, opened, API, 62.0, _devops, _Work, _Item, _Open, _Change, _Request, Streaming, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# Work Item Open Change Request (sf_devops__Work_Item_Open_Change_Request__e)
 
 > Notifies subscribers whenever a change request (pull request) is
          opened for a work item. This object is available in API version 62.0 and

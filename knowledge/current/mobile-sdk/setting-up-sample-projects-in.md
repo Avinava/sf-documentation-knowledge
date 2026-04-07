@@ -5,12 +5,10 @@ topic: setting-up-sample-projects-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.624Z
+lastCollected: 2026-04-07T18:40:25.024Z
 estimatedTokens: 222
 keywords: [Setting, Sample, Projects, Welcome, screen, click, Import, Project, Eclipse, ADT, Gradle, etc]
 ---
-
-# Setting Up Sample Projects in
 
 > From the Welcome screen, click
                                                   Import Project (Eclipse ADT, Gradle,

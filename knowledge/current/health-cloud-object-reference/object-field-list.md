@@ -5,12 +5,10 @@ topic: object-field-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.771Z
+lastCollected: 2026-04-07T18:37:41.895Z
 estimatedTokens: 83
-keywords: [Output, representation, target]
+keywords: [target]
 ---
-
-# Object Field List
 
 > Output representation of the target object fields
     list.

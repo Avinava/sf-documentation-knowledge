@@ -5,12 +5,10 @@ topic: pid---patient-identification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.986Z
+lastCollected: 2026-04-07T18:37:58.498Z
 estimatedTokens: 726
-keywords: [PID, Patient, Identification, HL7, segment, maps, ContactPointPhone, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [PID, Patient, Identification, HL7, segment, maps, ContactPointPhone, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# PID - Patient Identification
 
 > The Patient Identification (PID) HL7 segment maps to the ContactPointPhone object in Salesforce.
 

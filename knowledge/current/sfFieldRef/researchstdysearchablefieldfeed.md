@@ -5,12 +5,10 @@ topic: researchstdysearchablefieldfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.265Z
+lastCollected: 2026-04-07T18:39:59.965Z
 estimatedTokens: 394
-keywords: [ResearchStdySearchableFieldFeed, Feed, tracking, ResearchStdySearchableField]
+keywords: [ResearchStdySearchableFieldFeed, ResearchStdySearchableField]
 ---
-
-# ResearchStdySearchableFieldFeed
 
 > Feed tracking for ResearchStdySearchableField.
 

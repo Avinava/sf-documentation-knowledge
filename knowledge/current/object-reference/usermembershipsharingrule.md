@@ -5,12 +5,10 @@ topic: usermembershipsharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.880Z
+lastCollected: 2026-04-07T18:38:43.649Z
 estimatedTokens: 666
-keywords: [UserMembershipSharingRule, rules, sharing, user, records, source, group, target, record, Users, members, shared, groups, roles, portal]
+keywords: [UserMembershipSharingRule, sharing, user, records, source, group, target, record, Users, members, shared, groups, roles, portal, territories, API, 26.0]
 ---
-
-# UserMembershipSharingRule
 
 > Represents the rules for sharing user records from a source group to a
       target group. A user record contains details about a user. Users who are members of the source

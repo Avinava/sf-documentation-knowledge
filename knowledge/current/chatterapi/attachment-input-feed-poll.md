@@ -5,12 +5,10 @@ topic: attachment-input-feed-poll
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.518Z
+lastCollected: 2026-04-07T18:37:07.235Z
 estimatedTokens: 219
-keywords: [Attachment, Input, Feed, Poll]
+keywords: [Attachment, Poll]
 ---
-
-# Attachment Input: Feed Poll
 
 > Feed poll attachment input.
 

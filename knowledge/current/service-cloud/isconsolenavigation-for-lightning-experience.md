@@ -5,12 +5,10 @@ topic: isconsolenavigation-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.713Z
+lastCollected: 2026-04-07T18:36:49.885Z
 estimatedTokens: 224
-keywords: [isConsoleNavigation, Lightning, Experience, Determines, whether, app, it’s, uses, console, navigation, isn’t, Web, Components, LWC, Arguments]
+keywords: [Arguments, isConsoleNavigation, Lightning, Experience, Determines, whether, app, it’s, uses, console, navigation, isn’t, Web, LWC, Aura, Sample, Code]
 ---
-
-# isConsoleNavigation() for Lightning Experience
 
 > Determines whether the app it’s used within uses console navigation. This method
         isn’t supported for Lightning Web Components (LWC).

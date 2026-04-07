@@ -5,12 +5,10 @@ topic: streaming-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.864Z
+lastCollected: 2026-04-07T18:35:51.716Z
 estimatedTokens: 450
-keywords: [Streaming, Ingestion, Data, Cloud, API, uses, fire-and-forget, pattern, synchronize, micro-batches, updates, source, system, near-real, time]
+keywords: [Streaming, Ingestion, Cloud, API, uses, fire-and-forget, pattern, synchronize, micro-batches, updates, source, system, near-real, time, processed, asynchronously, approximately, every, minutes]
 ---
-
-# Streaming Ingestion
 
 > The Data Cloud Ingestion API uses a fire-and-forget pattern to
     synchronize micro-batches of updates between the source system and Data Cloud in

@@ -5,12 +5,10 @@ topic: pattern-approach
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.267Z
+lastCollected: 2026-04-07T18:37:53.564Z
 estimatedTokens: 563
 keywords: [Pattern, Approach, integration, patterns, document, classified, three, categories]
 ---
-
-# Pattern Approach
 
 > The integration patterns in this document are classified into three categories:
 

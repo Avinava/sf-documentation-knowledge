@@ -5,12 +5,10 @@ topic: getanchor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.878Z
+lastCollected: 2026-04-07T18:35:59.152Z
 estimatedTokens: 155
 keywords: [getAnchor, anchor, referenced, page’s, URL, part, hashtag]
 ---
-
-# getAnchor()
 
 > Returns the name of the anchor referenced in the page’s
 URL. That is, the part of the URL after the hashtag (#).

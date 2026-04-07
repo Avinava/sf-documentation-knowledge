@@ -5,12 +5,10 @@ topic: salesforce-cli-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:14.406Z
+lastCollected: 2026-04-07T18:40:09.354Z
 estimatedTokens: 96
 keywords: [Salesforce, CLI, Release, Notes, recent, updates, changes]
 ---
-
-# Salesforce CLI Release Notes
 
 > Use the Release Notes to learn about the most recent updates and changes to Salesforce
   CLI.

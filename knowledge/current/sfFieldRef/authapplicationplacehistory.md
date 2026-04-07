@@ -5,12 +5,10 @@ topic: authapplicationplacehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.411Z
+lastCollected: 2026-04-07T18:39:28.477Z
 estimatedTokens: 275
-keywords: [AuthApplicationPlaceHistory, History, tracked, AuthApplicationPlace]
+keywords: [AuthApplicationPlaceHistory, tracked, AuthApplicationPlace]
 ---
-
-# AuthApplicationPlaceHistory
 
 > History for tracked fields of AuthApplicationPlace.
 

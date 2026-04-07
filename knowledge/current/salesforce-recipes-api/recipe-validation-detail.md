@@ -5,12 +5,10 @@ topic: recipe-validation-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.832Z
+lastCollected: 2026-04-07T18:39:19.517Z
 estimatedTokens: 245
-keywords: [Recipe, Validation, Detail, data, prep]
+keywords: [Recipe, Validation, Detail, prep]
 ---
-
-# Recipe Validation Detail
 
 > The validation details for a data prep recipe.
 

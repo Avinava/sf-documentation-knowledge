@@ -5,12 +5,10 @@ topic: application-form
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.038Z
+lastCollected: 2026-04-07T18:36:37.648Z
 estimatedTokens: 267
 keywords: [Application, Form]
 ---
-
-# Application Form
 
 > Create application form with details.
 

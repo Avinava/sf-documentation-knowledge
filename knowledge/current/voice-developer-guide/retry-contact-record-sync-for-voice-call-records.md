@@ -5,12 +5,10 @@ topic: retry-contact-record-sync-for-voice-call-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.715Z
+lastCollected: 2026-04-07T18:40:12.680Z
 estimatedTokens: 4230
-keywords: [Retry, Contact, Record, Sync, Voice, Call, Records, Amazon, Connect, previously, trace, CTR, data, stored, automatically]
+keywords: [Prerequisites, Retry, Contact, Record, Sync, Voice, Call, Records, Amazon, Connect, previously, trace, CTR, stored, automatically, synchronization, Sometimes, doesn’t, occur, isn’t, always, possible, Back, separate, bucket, check, don’t, resync, org, backup, Step, Expiration, Save, Contract, Re-Sync, Aren’t, Synced, New, InvokeSalesforceRestApiFunction, Lambda, Test]
 ---
-
-# Retry Contact Record Sync for Voice Call Records
 
 > Amazon Connect contact record (previously called contact trace record or CTR) data is stored
             automatically in Voice Call records through data synchronization. Sometimes this sync

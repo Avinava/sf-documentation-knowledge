@@ -5,12 +5,10 @@ topic: dynamic-revenue-orchestrator-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.344Z
+lastCollected: 2026-04-07T18:35:47.378Z
 estimatedTokens: 210
 keywords: [Dynamic, Revenue, Orchestrator, Platform, Events, Salesforce, publishes, standard, action, occurred, org, report, errors]
 ---
-
-# Dynamic Revenue Orchestrator Platform Events
 
 > Salesforce publishes standard platform events in response to an action that occurred in
     the org or to report errors.

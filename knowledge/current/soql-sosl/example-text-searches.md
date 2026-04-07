@@ -5,12 +5,10 @@ topic: example-text-searches
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.270Z
+lastCollected: 2026-04-07T18:40:10.249Z
 estimatedTokens: 390
 keywords: [Text, Searches, examples, SOSL]
 ---
-
-# Example Text Searches
 
 > The following are examples of text searches that use SOSL.
 

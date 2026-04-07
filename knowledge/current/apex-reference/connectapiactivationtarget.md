@@ -5,12 +5,10 @@ topic: connectapiactivationtarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.759Z
+lastCollected: 2026-04-07T18:36:07.100Z
 estimatedTokens: 606
 keywords: [ConnectApi.ActivationTarget, activation, target]
 ---
-
-# ConnectApi.ActivationTarget
 
 > Represents an activation target.
 

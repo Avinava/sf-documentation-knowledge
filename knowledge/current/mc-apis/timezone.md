@@ -5,12 +5,10 @@ topic: timezone
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.422Z
+lastCollected: 2026-04-07T18:40:20.667Z
 estimatedTokens: 1305
 keywords: [TimeZone, specific, time, zone, application, supplied, precedence, Zones, Items]
 ---
-
-# TimeZone
 
 > The TimeZone object represents a specific time zone in the application. This indicates a specific time zone to the application. If both an ID and Name are supplied, the ID takes precedence.
 

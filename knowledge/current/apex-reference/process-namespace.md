@@ -5,13 +5,11 @@ topic: process-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.983Z
+lastCollected: 2026-04-07T18:36:15.297Z
 estimatedTokens: 548
 namespace: Process
-keywords: [Process, classes, passing, data, organization, flow]
+keywords: [Process, classes, passing, organization, flow]
 ---
-
-# Process Namespace
 
 > The Process namespace provides an interface and
     classes for passing data between your organization and a flow.

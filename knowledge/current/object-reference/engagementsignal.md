@@ -5,12 +5,10 @@ topic: engagementsignal
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.643Z
+lastCollected: 2026-04-07T18:38:30.461Z
 estimatedTokens: 555
-keywords: [EngagementSignal, data, individual’s, engagement, action, web, click, email, PDF, download, API, version, 62.0, later, Calls]
+keywords: [EngagementSignal, individual’s, engagement, action, web, click, email, PDF, download, API, 62.0]
 ---
-
-# EngagementSignal
 
 > Represents data about an individual’s engagement action, such as a web click,
          an email response, or a PDF download. This object is available in API version 62.0 and

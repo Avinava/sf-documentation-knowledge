@@ -5,12 +5,10 @@ topic: fulfillmenttaskassignmentrulehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.173Z
+lastCollected: 2026-04-07T18:39:41.843Z
 estimatedTokens: 282
-keywords: [FulfillmentTaskAssignmentRuleHistory, History, tracked, FulfillmentTaskAssignmentRule]
+keywords: [FulfillmentTaskAssignmentRuleHistory, tracked, FulfillmentTaskAssignmentRule]
 ---
-
-# FulfillmentTaskAssignmentRuleHistory
 
 > History for tracked fields of FulfillmentTaskAssignmentRule.
 

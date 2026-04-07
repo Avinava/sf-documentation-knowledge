@@ -5,12 +5,10 @@ topic: setupdatasynchronizationshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:07.083Z
+lastCollected: 2026-04-07T18:40:01.858Z
 estimatedTokens: 255
 keywords: [SetupDataSynchronizationShare, Sharing, SetupDataSynchronization]
 ---
-
-# SetupDataSynchronizationShare
 
 > Sharing for SetupDataSynchronization.
 

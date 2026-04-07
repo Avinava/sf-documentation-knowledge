@@ -5,12 +5,10 @@ topic: lead-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.376Z
+lastCollected: 2026-04-07T18:39:20.086Z
 estimatedTokens: 143
-keywords: [Lead, Input]
+keywords: [Lead]
 ---
-
-# Lead Input
 
 > Lead input.
 

@@ -5,12 +5,10 @@ topic: fundingawardparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.135Z
+lastCollected: 2026-04-07T18:38:22.107Z
 estimatedTokens: 793
-keywords: [FundingAwardParticipant, user, group, participants, access, funding, award, API, version, 59.0, later, Calls, Special, Rules, Associated]
+keywords: [FundingAwardParticipant, user, group, participants, funding, award, API, 59.0]
 ---
-
-# FundingAwardParticipant
 
 > Represents information about a user or group of participants who have
          access to a funding award. This object is available in API version 59.0 and

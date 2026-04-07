@@ -5,12 +5,10 @@ topic: locationservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.433Z
+lastCollected: 2026-04-07T18:38:15.961Z
 estimatedTokens: 316
-keywords: [LocationService, Here’s, basic, Lightning, web, component, user’s, current, location, displays, map]
+keywords: [LocationService, Here’s, basic, Lightning, web, user’s, current, location, displays, map]
 ---
-
-# LocationService Example
 
 > Here’s a basic example of a Lightning web component that gets the user’s current
         location and displays it on a map.

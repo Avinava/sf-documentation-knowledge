@@ -5,12 +5,10 @@ topic: logout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.034Z
+lastCollected: 2026-04-07T18:36:50.231Z
 estimatedTokens: 154
-keywords: [logout, Logs, agent, Omni-Channel, API, versions, 32.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, logout, Logs, agent, Omni-Channel, API, versions, 32.0, Sample, Code–Visualforce]
 ---
-
-# logout
 
 > Logs an agent out of Omni-Channel. Available in API versions 32.0 and later.
 

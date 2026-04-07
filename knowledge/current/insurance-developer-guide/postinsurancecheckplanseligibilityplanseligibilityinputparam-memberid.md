@@ -5,12 +5,10 @@ topic: postinsurancecheckplanseligibilityplanseligibilityinputparam-memberid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.547Z
+lastCollected: 2026-04-07T18:37:49.395Z
 estimatedTokens: 307
-keywords: [postInsuranceCheckPlansEligibility, plansEligibilityInputParam, memberId, Check, eligibility, group, census, member, plans, new, context, API, Version, Requires, Chatter]
+keywords: [postInsuranceCheckPlansEligibility, plansEligibilityInputParam, memberId, Check, eligibility, group, census, member, plans, new, context, API, Requires, Chatter]
 ---
-
-# postInsuranceCheckPlansEligibility(plansEligibilityInputParam, memberId)
 
 > Check the eligibility of a group census member for a given set of plans and create a new
   eligibility context.

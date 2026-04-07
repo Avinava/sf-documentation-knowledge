@@ -5,12 +5,10 @@ topic: change-events-for-lead-conversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.753Z
+lastCollected: 2026-04-07T18:37:05.466Z
 estimatedTokens: 1982
 keywords: [Change, Events, Lead, Conversion, Converting, results, creation, account, contact, optionally, opportunity, event, includes, specific]
 ---
-
-# Change Events for Lead Conversion
 
 > Converting a lead results in the creation of an account, a contact, and optionally an
     opportunity, and also a lead update. When converting a lead, the change event for the lead

@@ -5,12 +5,10 @@ topic: backgroundoperationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.679Z
+lastCollected: 2026-04-07T18:38:26.650Z
 estimatedTokens: 648
-keywords: [BackgroundOperationResult, Stores, error, messages, generated, importing, data, big, objects, Bulk, API, version, 37.0, later, Calls]
+keywords: [BackgroundOperationResult, Stores, error, messages, generated, importing, big, Bulk, API, 37.0]
 ---
-
-# BackgroundOperationResult
 
 > Stores error messages generated when or importing data into big objects
    using Bulk API. This is a big object, available in API version 37.0 and

@@ -5,12 +5,10 @@ topic: benefitstartdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.162Z
+lastCollected: 2026-04-07T18:37:40.133Z
 estimatedTokens: 40
 keywords: [benefitStartDate, date, benefit, starts]
 ---
-
-# benefitStartDate
 
 > The date on which the benefit starts.
 

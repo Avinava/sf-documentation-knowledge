@@ -5,12 +5,10 @@ topic: expressionfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.000Z
+lastCollected: 2026-04-07T18:38:31.936Z
 estimatedTokens: 636
-keywords: [ExpressionFilter, logical, expression, that’s, control, execution, macro, instructions, API, version, 46.0, later, Calls, Usage]
+keywords: [ExpressionFilter, logical, expression, that’s, control, execution, macro, instructions, API, 46.0]
 ---
-
-# ExpressionFilter
 
 > Represents a logical expression that’s used to control the execution
          of macro instructions. This object is available in API version 46.0 and

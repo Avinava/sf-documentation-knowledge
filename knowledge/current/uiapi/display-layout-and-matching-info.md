@@ -5,12 +5,10 @@ topic: display-layout-and-matching-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.598Z
+lastCollected: 2026-04-07T18:40:11.604Z
 estimatedTokens: 102
 keywords: [Display, Layout, Matching, Info, Search, lookups, target]
 ---
-
-# Display Layout and Matching Info
 
 > Search lookups target display layout and matching information.
 

@@ -5,12 +5,10 @@ topic: convanalysissummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.974Z
+lastCollected: 2026-04-07T18:38:28.882Z
 estimatedTokens: 438
-keywords: [ConvAnalysisSummary, stored, run, refresh, Sales, Signals, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [ConvAnalysisSummary, stored, run, refresh, Sales, Signals, API, 63.0]
 ---
-
-# ConvAnalysisSummary
 
 > Represents the information stored for each run or refresh of Sales Signals.
        This object is available in API version 63.0 and later.

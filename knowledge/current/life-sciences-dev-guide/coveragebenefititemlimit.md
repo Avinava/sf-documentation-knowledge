@@ -5,12 +5,10 @@ topic: coveragebenefititemlimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.157Z
+lastCollected: 2026-04-07T18:37:59.828Z
 estimatedTokens: 1270
-keywords: [CoverageBenefitItemLimit, track, associated, specific, benefit, relates, expenditures, limits, coverage, levels, eligibility, exclusion, API, version, 53.0]
+keywords: [CoverageBenefitItemLimit, track, specific, benefit, relates, expenditures, limits, coverage, levels, eligibility, exclusion, API, 53.0]
 ---
-
-# CoverageBenefitItemLimit
 
 > Allows you to track details associated with a specific benefit as it relates to expenditures, limits, coverage levels, eligibility, and exclusion. This object is
 		available in API version 53.0 and later.

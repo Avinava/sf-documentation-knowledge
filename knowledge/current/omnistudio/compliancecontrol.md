@@ -5,12 +5,10 @@ topic: compliancecontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.841Z
+lastCollected: 2026-04-07T18:36:44.552Z
 estimatedTokens: 646
-keywords: [ComplianceControl, business, rule, implements, compliance, requirements, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ComplianceControl, business, rule, implements, compliance, requirements, API, 65.0]
 ---
-
-# ComplianceControl
 
 > Represents the business rule that implements compliance requirements.
       This object is available in API version 65.0 and later.

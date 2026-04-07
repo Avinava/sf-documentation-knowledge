@@ -5,12 +5,10 @@ topic: permissionupdateeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.682Z
+lastCollected: 2026-04-07T18:38:38.030Z
 estimatedTokens: 656
-keywords: [PermissionUpdateEventLog, Permission, events, represent, changes, user, permissions, setup, entity, access, occur, profiles, event, tracks, clone]
+keywords: [PermissionUpdateEventLog, Permission, events, represent, changes, user, permissions, setup, entity, occur, profiles, event, tracks, clone, change, whether, session, activation, groups, API, 65.0]
 ---
-
-# PermissionUpdateEventLog
 
 > Permission update events represent changes to object, field, and user
          permissions and setup entity access that occur in profiles and permission sets. The event

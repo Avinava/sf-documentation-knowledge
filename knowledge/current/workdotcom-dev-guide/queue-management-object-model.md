@@ -5,12 +5,10 @@ topic: queue-management-object-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.247Z
+lastCollected: 2026-04-07T18:40:14.255Z
 estimatedTokens: 704
-keywords: [Queue, Management, Model, uses, combination, Salesforce, objects]
+keywords: [Queue, Management, Model, uses, combination, Salesforce]
 ---
-
-# Queue Management Object Model
 
 > Queue Management uses a combination of Salesforce objects.
 

@@ -5,12 +5,10 @@ topic: permissionseteventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.704Z
+lastCollected: 2026-04-07T18:38:59.638Z
 estimatedTokens: 2719
-keywords: [PermissionSetEventStore, Tracks, changes, permission, groups, event, initiates, added, removed, containing, critical, assigned, unassigned, big, stores]
+keywords: [PermissionSetEventStore, Tracks, changes, permission, groups, event, initiates, added, removed, containing, critical, assigned, unassigned, big, stores, PermissionSetEvent, API, 52.0]
 ---
-
-# PermissionSetEventStore
 
 > Tracks changes to permission sets and permission set groups. This event
       initiates when a permission is added to, or removed from a permission set. This event also

@@ -5,12 +5,10 @@ topic: datadetectpolicyobjfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.766Z
+lastCollected: 2026-04-07T18:38:29.649Z
 estimatedTokens: 232
-keywords: [DataDetectPolicyObjField, DataDetect, scan, policy, scanned, API, version, 64.0, later, Calls]
+keywords: [DataDetectPolicyObjField, DataDetect, scan, policy, scanned, API, 64.0]
 ---
-
-# DataDetectPolicyObjField
 
 > Represents an object field of the DataDetect 
       scan policy object to be scanned. This object is available in API 

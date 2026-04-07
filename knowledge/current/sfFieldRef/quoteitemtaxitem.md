@@ -5,12 +5,10 @@ topic: quoteitemtaxitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.303Z
+lastCollected: 2026-04-07T18:39:57.921Z
 estimatedTokens: 356
-keywords: [QuoteItemTaxItem, tax, applied, quote, line, item, API, version, 55.0, later]
+keywords: [QuoteItemTaxItem, tax, applied, quote, line, item, API, 55.0]
 ---
-
-# QuoteItemTaxItem
 
 > The tax that is applied to a quote line item. This object is available
       in API version 55.0 and later.

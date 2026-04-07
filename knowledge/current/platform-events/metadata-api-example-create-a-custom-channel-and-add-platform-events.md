@@ -5,12 +5,10 @@ topic: metadata-api-example-create-a-custom-channel-and-add-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.956Z
+lastCollected: 2026-04-07T18:38:57.781Z
 estimatedTokens: 658
-keywords: [Metadata, API, Custom, Channel, Add, Platform, Events, Instead, Tooling, member, recommend, part, application, lifecycle, management]
+keywords: [Metadata, API, Channel, Add, Platform, Events, Instead, Tooling, member, recommend, part, application, lifecycle, management, process, develop, test, deploy, release, apps, production, want, configure, REST]
 ---
-
-# Metadata API Example: Create a Custom Channel and Add Platform Events
 
 > Instead of Tooling API, you can use Metadata API to create a channel and channel member.
         We recommend using Metadata API as part of the application lifecycle management process to

@@ -5,12 +5,10 @@ topic: gift-transaction-linked-designations-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.245Z
+lastCollected: 2026-04-07T18:38:21.006Z
 estimatedTokens: 90
-keywords: [Gift, Transaction, Linked, Designations, Output, representation]
+keywords: [Gift, Transaction, Linked, Designations]
 ---
-
-# Gift Transaction Linked Designations Output
 
 > Output representation of a list of gift designations.
 

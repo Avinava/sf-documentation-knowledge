@@ -5,12 +5,10 @@ topic: attachfile
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.559Z
+lastCollected: 2026-04-07T18:40:21.846Z
 estimatedTokens: 1205
-keywords: [AttachFile, Function, Ordinal, Location, pull, files, include, HTTP, FTP, Portfolio, Classic, ContentBuilder, **Overview**, **Syntax**, Usage]
+keywords: [AttachFile, Function, Ordinal, Location, pull, files, include, HTTP, FTP, Portfolio, Classic, ContentBuilder, **Overview**, **Syntax**]
 ---
-
-# AttachFile
 
 > AttachFile(1, 2, 3, 4, 5, 6, 7, 8)
 

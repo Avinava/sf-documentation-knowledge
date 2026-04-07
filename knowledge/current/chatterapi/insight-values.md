@@ -5,12 +5,10 @@ topic: insight-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.714Z
+lastCollected: 2026-04-07T18:37:19.864Z
 estimatedTokens: 168
 keywords: [Insight, business, objective, goal]
 ---
-
-# Insight Values
 
 > Insight value details for a business objective, or goal.
 

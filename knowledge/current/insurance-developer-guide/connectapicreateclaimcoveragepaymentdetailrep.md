@@ -5,12 +5,10 @@ topic: connectapicreateclaimcoveragepaymentdetailrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.397Z
+lastCollected: 2026-04-07T18:37:50.232Z
 estimatedTokens: 203
-keywords: [Output, representation, claim, coverage, payment, detail, record]
+keywords: [claim, coverage, payment, detail, record]
 ---
-
-# ConnectApi.CreateClaimCoveragePaymentDetailRep
 
 > Output representation for the details of the create claim coverage payment detail
   record.

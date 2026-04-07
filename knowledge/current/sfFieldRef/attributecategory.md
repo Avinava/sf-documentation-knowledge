@@ -5,12 +5,10 @@ topic: attributecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.177Z
+lastCollected: 2026-04-07T18:39:28.218Z
 estimatedTokens: 346
-keywords: [AttributeCategory, logical, grouping, attributes, reused, defining, products, Attribute, Categories, searching, managing, product, Mobile, Handset, category]
+keywords: [AttributeCategory, logical, grouping, attributes, reused, defining, products, Attribute, Categories, searching, managing, product, Mobile, Handset, category, color, storage, model, size, API, 60.0]
 ---
-
-# AttributeCategory
 
 > Represents a logical grouping of attributes that can be reused while defining
          products. Attribute Categories are used for searching and managing product attributes. For

@@ -5,12 +5,10 @@ topic: catalog-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:58.032Z
+lastCollected: 2026-04-07T18:35:42.912Z
 estimatedTokens: 355
-keywords: [Catalog, Input, representation, retrieve, records]
+keywords: [Catalog, retrieve, records]
 ---
-
-# Catalog Input
 
 > Input representation of the request to retrieve catalog records.
 

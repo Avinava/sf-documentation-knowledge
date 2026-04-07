@@ -5,12 +5,10 @@ topic: pricebookacademicinterval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.681Z
+lastCollected: 2026-04-07T18:37:31.826Z
 estimatedTokens: 783
-keywords: [PriceBookAcademicInterval, junction, price, book, academic, interval, term, API, version, 66.0, later, Calls, Associated, Objects]
+keywords: [PriceBookAcademicInterval, junction, price, book, academic, interval, term, API, 66.0]
 ---
-
-# PriceBookAcademicInterval
 
 > Represents a junction between a price book and an academic interval such as
          an academic term. This object is available in API version 66.0 and later.

@@ -5,12 +5,10 @@ topic: claims-processing-journey
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:01.798Z
+lastCollected: 2026-04-07T18:37:50.696Z
 estimatedTokens: 2827
-keywords: [Claims, Processing, Journey, claim, formal, submitted, policyholder, receive, benefits, compensation, covered, loss, under, active, insurance]
+keywords: [Claims, Processing, Journey, claim, formal, submitted, policyholder, receive, benefits, compensation, covered, loss, under, active, insurance, policy, begins, reports, incident, damage, injury, another, qualifying, event, they, believe, their, Standard, Resolution, Flow, Successful, Payment, Exception, Flows]
 ---
-
-# Claims Processing Journey
 
 > A claim is a formal request submitted by a policyholder to receive benefits or
     compensation for a covered loss under an active insurance policy. A claim journey begins when

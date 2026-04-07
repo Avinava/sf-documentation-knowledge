@@ -5,12 +5,10 @@ topic: productcategorydisqual
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.812Z
+lastCollected: 2026-04-07T18:39:55.384Z
 estimatedTokens: 365
-keywords: [ProductCategoryDisqual, disqualification, rules, product, categories, determine, category, doesn’t, qualify, users, API, version, 60.0, later]
+keywords: [ProductCategoryDisqual, disqualification, product, categories, determine, category, doesn’t, qualify, users, API, 60.0]
 ---
-
-# ProductCategoryDisqual
 
 > Represents disqualification rules for product categories. The rules determine
          when the product category doesn’t qualify to be displayed to users. This object is

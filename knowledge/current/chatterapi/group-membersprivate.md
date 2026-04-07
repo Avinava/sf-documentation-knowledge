@@ -5,12 +5,10 @@ topic: group-membersprivate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.230Z
+lastCollected: 2026-04-07T18:37:14.191Z
 estimatedTokens: 626
 keywords: [Group, Members—Private, membership, status, requests, join]
 ---
-
-# Group Members—Private
 
 > Request membership in a private group or get the
          status of requests to a join a private group.

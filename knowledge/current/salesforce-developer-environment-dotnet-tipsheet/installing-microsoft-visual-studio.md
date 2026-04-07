@@ -5,12 +5,10 @@ topic: installing-microsoft-visual-studio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.081Z
+lastCollected: 2026-04-07T18:39:16.663Z
 estimatedTokens: 328
 keywords: [Installing, Microsoft, Visual, Studio, You’ll, install, Salesforce, APIs, development, environment, robust, NET, applications]
 ---
-
-# Installing Microsoft Visual Studio
 
 > You’ll need to install Microsoft Visual Studio to
 use Salesforce APIs. Visual Studio is a development environment that enables you

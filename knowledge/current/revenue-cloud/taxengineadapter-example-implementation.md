@@ -5,13 +5,11 @@ topic: taxengineadapter-example-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:01:57.066Z
+lastCollected: 2026-04-07T18:35:41.912Z
 estimatedTokens: 554
 namespace: See
-keywords: [TaxEngineAdapter, Implementation, Refer, accept, tax, engine, evaluate, define, Usage, Considerations]
+keywords: [Considerations, TaxEngineAdapter, Implementation, Refer, accept, tax, engine, evaluate, define]
 ---
-
-# TaxEngineAdapter Example Implementation
 
 > Refer to the example implementation of the TaxEngineAdapter interface to accept information from a tax engine and
         evaluate the information to define tax details.

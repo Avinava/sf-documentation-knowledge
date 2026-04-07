@@ -5,12 +5,10 @@ topic: retrieve-the-scheduled-send-time-and-status-of-a-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.694Z
+lastCollected: 2026-04-07T18:40:18.895Z
 estimatedTokens: 538
 keywords: [Retrieve, Scheduled, Send, Time, Status, retrieving, Why, How, Sample, SOAP, Envelope]
 ---
-
-# Retrieve the Scheduled Send Time and Status of a Send
 
 > This page contains information  about retrieving the scheduled send time and status of a scheduled send.
 

@@ -5,12 +5,10 @@ topic: restriction-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.864Z
+lastCollected: 2026-04-07T18:39:10.310Z
 estimatedTokens: 1453
-keywords: [Restriction, Rules, let, enhance, security, allowing, certain, users, access, records, They, prevent, accessing, contain, sensitive]
+keywords: [Restriction, let, enhance, security, allowing, certain, users, records, They, prevent, accessing, contain, sensitive, isn’t, essential, their, work, external, contracts, events, quotes, tasks, time, sheets, sheet, entries, configured, Manager, Tooling, Metadata, API, How, Affect, Sharing, Settings, Configure]
 ---
-
-# Restriction Rules
 
 > Restriction rules let you enhance your security by allowing certain users to access only
   specified records. They can prevent users from accessing records that can contain sensitive data

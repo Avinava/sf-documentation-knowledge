@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.632Z
+lastCollected: 2026-04-07T18:38:20.315Z
 estimatedTokens: 151
 keywords: [Resources, Here’s, Case, Management, Business, API, Group, Membership, Households, APIs, Fundraising, Program, resource, Record, Rollup, Definitions]
 ---
-
-# Resources
 
 > Learn more about the available Fundraising API resources.
 

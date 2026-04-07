@@ -5,12 +5,10 @@ topic: surveyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.523Z
+lastCollected: 2026-04-07T18:40:03.210Z
 estimatedTokens: 294
-keywords: [SurveyFeed, Feed, tracking, Survey]
+keywords: [SurveyFeed, Survey]
 ---
-
-# SurveyFeed
 
 > Feed tracking for Survey.
 

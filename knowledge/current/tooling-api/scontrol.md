@@ -5,12 +5,10 @@ topic: scontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.007Z
+lastCollected: 2026-04-07T18:36:34.411Z
 estimatedTokens: 1045
-keywords: [Scontrol, custom, s-control, content, system, hosts, client, applications, execute, contain, any, display, run, Web, browser]
+keywords: [Scontrol, s-control, content, system, hosts, client, applications, execute, contain, any, display, run, Web, browser, SOAP, REST]
 ---
-
-# Scontrol
 
 > Represents a custom s-control, which is custom content that our system hosts, but client
   applications execute. An s-control can contain any type of content that you can display or run in

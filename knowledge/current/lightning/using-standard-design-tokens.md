@@ -5,12 +5,10 @@ topic: using-standard-design-tokens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.591Z
+lastCollected: 2026-04-07T18:38:05.809Z
 estimatedTokens: 765
-keywords: [Standard, Design, Tokens, Salesforce, “base”, access, component, style, resources, mimic, look-and-feel, Lightning, System, SLDS, own]
+keywords: [Standard, Design, Tokens, Salesforce, “base”, style, resources, mimic, look-and-feel, Lightning, System, SLDS, own]
 ---
-
-# Using Standard Design Tokens
 
 > Salesforce exposes a set of “base” tokens that you can access in your component style
     resources. Use these standard tokens to mimic the look-and-feel of the Salesforce Lightning

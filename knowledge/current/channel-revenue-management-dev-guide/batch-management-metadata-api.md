@@ -5,12 +5,10 @@ topic: batch-management-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.014Z
+lastCollected: 2026-04-07T18:37:05.717Z
 estimatedTokens: 145
 keywords: [Batch, Management, Metadata, API, activate, jobs]
 ---
-
-# Batch Management Metadata API
 
 > Use a Metadata API to create, update, and activate Batch Management jobs.
 

@@ -5,12 +5,10 @@ topic: bucket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.267Z
+lastCollected: 2026-04-07T18:39:18.955Z
 estimatedTokens: 199
 keywords: [Bucket, base, recipe]
 ---
-
-# Bucket
 
 > The base bucket for a recipe.
 

@@ -5,12 +5,10 @@ topic: serviceresourcedatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.297Z
+lastCollected: 2026-04-07T18:38:40.898Z
 estimatedTokens: 574
-keywords: [ServiceResourceDataTranslation, translated, data, stored, ServiceResource, record’s, API, version, 54.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ServiceResourceDataTranslation, translated, stored, ServiceResource, record’s, API, 54.0]
 ---
-
-# ServiceResourceDataTranslation
 
 > Represents the translated values of the data stored within a ServiceResource record’s fields. This object is available in API version 54.0 and
     later.

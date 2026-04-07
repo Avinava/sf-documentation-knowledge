@@ -5,12 +5,10 @@ topic: message-segment-field-change-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.643Z
+lastCollected: 2026-04-07T18:37:20.827Z
 estimatedTokens: 251
-keywords: [Message, Segment, Change, inline, Making, separate, possible, add, special, coding, wrap, anchor, tags]
+keywords: [Message, Segment, Change, inline, Making, separate, possible, add, coding, wrap, anchor, tags]
 ---
-
-# Message Segment: Field Change Value
 
 > Represents an inline value of a field change. Making this a separate segment makes it
   possible to add special coding, for example, to wrap values in anchor tags.

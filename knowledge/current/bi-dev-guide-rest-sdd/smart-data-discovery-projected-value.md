@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.399Z
+lastCollected: 2026-04-07T18:36:59.893Z
 estimatedTokens: 133
-keywords: [Smart, Data, Discovery, Projected, Einstein]
+keywords: [Smart, Discovery, Projected, Einstein]
 ---
-
-# Smart Data Discovery Projected Value
 
 > An Einstein Discovery projected value.
 

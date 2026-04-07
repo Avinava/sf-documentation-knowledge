@@ -5,12 +5,10 @@ topic: how-promotions-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.436Z
+lastCollected: 2026-04-07T18:37:28.453Z
 estimatedTokens: 564
-keywords: [How, Promotions, Work, Show, objects, involved, user, unbundled, bundled, promotion]
+keywords: [How, Promotions, Work, Show, involved, user, unbundled, bundled, promotion]
 ---
-
-# How Promotions Work
 
 > Show the objects involved when a user does an unbundled or bundled promotion.
 

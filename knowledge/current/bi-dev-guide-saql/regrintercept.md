@@ -5,12 +5,10 @@ topic: regrintercept
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.942Z
+lastCollected: 2026-04-07T18:37:00.462Z
 estimatedTokens: 414
-keywords: [regr_intercept, Uses, two, numerical, calculate, trend, line, y-intercept, function, likely, field_y, field_x, zero, regr, _intercept]
+keywords: [regr_intercept, Uses, two, numerical, calculate, trend, line, y-intercept, function, likely, field_y, field_x, zero, regr, _intercept, Amount, Won, Number, Activities]
 ---
-
-# regr_intercept()
 
 > Uses two numerical fields to calculate a trend line, then returns the y-intercept
             value. Use this function to find out the likely value of field_y when

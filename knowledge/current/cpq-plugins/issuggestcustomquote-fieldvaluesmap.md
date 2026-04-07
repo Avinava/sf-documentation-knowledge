@@ -5,12 +5,10 @@ topic: issuggestcustomquote-fieldvaluesmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.608Z
+lastCollected: 2026-04-07T18:37:27.619Z
 estimatedTokens: 252
-keywords: [isSuggestCustom, quote, fieldValuesMap, isInputHidden, getInputDefaulValue, Salesforce, CPQ, Custom, searching, Enhanced]
+keywords: [isSuggestCustom, quote, fieldValuesMap, isInputHidden, getInputDefaulValue, Salesforce, CPQ, searching, Enhanced]
 ---
-
-# isSuggestCustom(quote, fieldValuesMap)
 
 > Called after isInputHidden and
         getInputDefaulValue. Returns True for Salesforce CPQ to use Custom searching or False for Salesforce CPQ to use Enhanced

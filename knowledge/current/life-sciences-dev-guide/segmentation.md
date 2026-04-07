@@ -5,12 +5,10 @@ topic: segmentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.809Z
+lastCollected: 2026-04-07T18:37:57.340Z
 estimatedTokens: 245
-keywords: [Segmentation, Group, accounts, specific, conditions, Segmentations, reusable, across, different, areas, sample, limits, distribute, assign, elements]
+keywords: [Segmentation, Group, accounts, specific, conditions, Segmentations, reusable, across, different, areas, sample, limits, distribute, assign, segments, criteria, There, two, dynamic, maintains, assignment, initial, changes, account, status, logic, restrict, various, individual, management]
 ---
-
-# Segmentation
 
 > Group accounts based on specific conditions. Segmentations are reusable across different
   areas (such as sample limits) to distribute or assign elements to segments of accounts with the

@@ -5,12 +5,10 @@ topic: using-full-text-search-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.660Z
+lastCollected: 2026-04-07T18:40:26.898Z
 estimatedTokens: 874
-keywords: [Full-Text, Search, Queries, perform, efficient, flexible, searches, SmartStore, yield, significant, performance, advantages, over, “like”, you’re]
+keywords: [Full-Text, Search, Queries, perform, efficient, flexible, searches, SmartStore, yield, significant, performance, advantages, over, “like”, you’re, dealing, large, Staying, Current]
 ---
-
-# Using Full-Text Search Queries
 
 > To perform efficient and flexible searches in SmartStore, you use full-text queries.
     Full-text queries yield significant performance advantages over “like” queries when you’re

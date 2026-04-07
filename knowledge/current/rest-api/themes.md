@@ -5,12 +5,10 @@ topic: themes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.352Z
+lastCollected: 2026-04-07T18:36:21.598Z
 estimatedTokens: 689
-keywords: [Themes, icons, colors, Salesforce, application, Theme, provided, objects, organization, resource, REST, API, version, 29.0, later]
+keywords: [Themes, icons, colors, Salesforce, application, Theme, provided, organization, resource, REST, API, 29.0]
 ---
-
-# Themes
 
 > Gets the list of icons and colors used by themes in the
             Salesforce application. Theme information is provided for objects in your

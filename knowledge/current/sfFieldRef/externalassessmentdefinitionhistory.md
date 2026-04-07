@@ -5,12 +5,10 @@ topic: externalassessmentdefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.581Z
+lastCollected: 2026-04-07T18:39:40.211Z
 estimatedTokens: 280
-keywords: [ExternalAssessmentDefinitionHistory, History, tracked, ExternalAssessmentDefinition]
+keywords: [ExternalAssessmentDefinitionHistory, tracked, ExternalAssessmentDefinition]
 ---
-
-# ExternalAssessmentDefinitionHistory
 
 > History for tracked fields of ExternalAssessmentDefinition.
 

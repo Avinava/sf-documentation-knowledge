@@ -5,12 +5,10 @@ topic: serviceterritorylocationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.934Z
+lastCollected: 2026-04-07T18:40:01.699Z
 estimatedTokens: 365
-keywords: [ServiceTerritoryLocationFeed, Feed, tracking, ServiceTerritoryLocation]
+keywords: [ServiceTerritoryLocationFeed, ServiceTerritoryLocation]
 ---
-
-# ServiceTerritoryLocationFeed
 
 > Feed tracking for ServiceTerritoryLocation.
 

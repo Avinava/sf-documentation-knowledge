@@ -5,12 +5,10 @@ topic: install-and-configure-the-salesforce-dx-mcp-server-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:13.197Z
+lastCollected: 2026-04-07T18:40:08.153Z
 estimatedTokens: 3884
-keywords: [Install, Configure, Salesforce, MCP, Server, Beta, client, start, tools, Add, Agentforce, Vibes, Code, Copilot, Clients]
+keywords: [Install, Configure, Salesforce, MCP, Server, Beta, client, start, tools, Add, Agentforce, Vibes, Code, Copilot, Clients, Environment, args, Option, --orgs, Flag, --toolsets, --tools, Manage, Updates, Feedback]
 ---
-
-# Install and Configure the Salesforce DX MCP Server (Beta)
 
 > Install the Salesforce DX MCP Server in your MCP client to start using the tools.
 

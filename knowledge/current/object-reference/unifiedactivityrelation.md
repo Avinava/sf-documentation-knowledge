@@ -5,12 +5,10 @@ topic: unifiedactivityrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.348Z
+lastCollected: 2026-04-07T18:38:43.096Z
 estimatedTokens: 397
-keywords: [UnifiedActivityRelation, relationship, activity, record, that’s, target, topic, opportunity, account, reports, dashboards, Winter, ’24, release, later]
+keywords: [UnifiedActivityRelation, relationship, activity, record, that’s, target, topic, opportunity, account, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedActivityRelation
 
 > Represents a relationship between an activity and a related record
          that’s a target or topic of the activity. For example, a related record can be an

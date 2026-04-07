@@ -5,12 +5,10 @@ topic: cgcloudpaymentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:20.826Z
+lastCollected: 2026-04-07T18:39:14.218Z
 estimatedTokens: 3205
-keywords: [cgcloud__Payment__c, stores, retailers, expect, compensation, running, promotions, executed, tactics, API, version, 54.0, later, cgcloud, _Payment]
+keywords: [cgcloud__Payment__c, stores, retailers, expect, compensation, running, promotions, executed, tactics, API, 54.0, cgcloud, _Payment]
 ---
-
-# cgcloud__Payment__c
 
 > This object stores the value that retailers expect as compensation
          for running promotions, which are executed by using tactics. This object is available

@@ -5,12 +5,10 @@ topic: life-sciences-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.813Z
+lastCollected: 2026-04-07T18:37:57.344Z
 estimatedTokens: 162
-keywords: [Life, Sciences, Cloud, Associated, Objects, standard, their]
+keywords: [Life, Sciences, Cloud, standard, their]
 ---
-
-# Life Sciences Cloud Associated Objects
 
 > This section provides a list of objects associated to Life Sciences Cloud standard
         objects with their standard fields.

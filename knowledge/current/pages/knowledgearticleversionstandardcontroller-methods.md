@@ -6,13 +6,10 @@ topic: knowledgearticleversionstandardcontroller-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.985Z
+lastCollected: 2026-04-07T18:38:47.939Z
 estimatedTokens: 156
 keywords: [instance]
 ---
-
-# KnowledgeArticleVersionStandardController
-Methods
 
 > The following are instance methods for KnowledgeArticleVersionStandardController.
 

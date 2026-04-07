@@ -5,12 +5,10 @@ topic: list-filter-by-info-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.729Z
+lastCollected: 2026-04-07T18:40:10.709Z
 estimatedTokens: 211
-keywords: [Filter, Info, Input]
+keywords: [Filter, Info]
 ---
-
-# List Filter By Info Input
 
 > List filter by info to update or create.
 

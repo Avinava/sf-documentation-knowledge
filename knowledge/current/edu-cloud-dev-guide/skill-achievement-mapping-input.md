@@ -5,12 +5,10 @@ topic: skill-achievement-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.092Z
+lastCollected: 2026-04-07T18:37:29.210Z
 estimatedTokens: 152
-keywords: [Skill, Achievement, Mapping, Input, representation, that’s, associated, created, learning]
+keywords: [Skill, Achievement, Mapping, that’s, created, learning]
 ---
-
-# Skill Achievement Mapping Input
 
 > Input representation of a mapping that’s associated with an existing skill or must be
     created as a learning achievement.

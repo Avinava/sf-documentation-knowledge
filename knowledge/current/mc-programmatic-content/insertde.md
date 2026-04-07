@@ -5,12 +5,10 @@ topic: insertde
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.138Z
+lastCollected: 2026-04-07T18:40:22.529Z
 estimatedTokens: 198
-keywords: [InsertDE, Function, Ordinal, data, extension, insert, row, Column, build, clause, **Overview**, **Syntax**, Usage, array, columns]
+keywords: [InsertDE, Function, Ordinal, extension, insert, row, Column, build, clause, **Overview**, **Syntax**, array, columns]
 ---
-
-# InsertDE
 
 > InsertDE(1, 2, 3)
 

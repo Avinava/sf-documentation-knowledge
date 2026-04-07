@@ -5,12 +5,10 @@ topic: related-feed-post-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.464Z
+lastCollected: 2026-04-07T18:37:16.543Z
 estimatedTokens: 77
-keywords: [Feed, Post, Collection, posts]
+keywords: [Post, Collection, posts]
 ---
-
-# Related Feed Post Collection
 
 > A collection of related feed posts.
 

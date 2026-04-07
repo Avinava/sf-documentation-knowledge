@@ -5,13 +5,11 @@ topic: chatteranswers-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.672Z
+lastCollected: 2026-04-07T18:36:14.984Z
 estimatedTokens: 105
 namespace: ChatterAnswers
 keywords: [ChatterAnswers, creating, Account, records]
 ---
-
-# ChatterAnswers Namespace
 
 > The ChatterAnswers namespace provides an interface for creating Account records.
 

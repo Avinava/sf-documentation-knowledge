@@ -5,12 +5,10 @@ topic: using-salesforce-styles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.099Z
+lastCollected: 2026-04-07T18:38:52.405Z
 estimatedTokens: 298
-keywords: [Salesforce, Styles, Visualforce, components, already, look, feel, detail, Part, styling, including, component’s, color, scheme, tab]
+keywords: [Salesforce, Styles, Visualforce, already, look, feel, detail, Part, styling, including, component’s, color, scheme, tab, appears, specify, style, associating, standard, controller, setting, tabStyle, attribute, <apex, page>, pageBlock>, tags]
 ---
-
-# Using Salesforce Styles
 
 > Many Visualforce components
         already have the look and feel of the same components in Salesforce, such as the related list

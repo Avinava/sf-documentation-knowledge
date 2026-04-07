@@ -5,13 +5,11 @@ topic: datacategorygroupsobjecttypepair-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.499Z
+lastCollected: 2026-04-07T18:36:00.774Z
 estimatedTokens: 1043
 namespace: Schema
-keywords: [DataCategoryGroupSobjectTypePair, category, group, associated, Usage, getDataCategoryGroupName, getSobject, setDataCategoryGroupName, setSobject, sObjectName]
+keywords: [DataCategoryGroupSobjectTypePair, category, group, getDataCategoryGroupName, getSobject, setDataCategoryGroupName, setSobject, sObjectName]
 ---
-
-# DataCategoryGroupSobjectTypePair Class
 
 > Specifies a category group and an associated object.
 

@@ -5,12 +5,10 @@ topic: agentforce-it-service-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.797Z
+lastCollected: 2026-04-07T18:35:54.890Z
 estimatedTokens: 235
 keywords: [Agentforce, Service, Platform, Event, SvcMgmtProacAgntUpdtEvnt, updated, proactive, agent, action, record, user, refreshes]
 ---
-
-# Agentforce IT Service Platform Event
 
 > Use the SvcMgmtProacAgntUpdtEvnt event to get the updated details from the response
    of a proactive agent action and sends the updated details to be displayed on a record page when

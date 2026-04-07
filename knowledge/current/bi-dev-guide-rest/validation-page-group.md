@@ -5,12 +5,10 @@ topic: validation-page-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.384Z
+lastCollected: 2026-04-07T18:36:57.941Z
 estimatedTokens: 153
 keywords: [Validation, Group, org, readiness, requirement, template, wizard]
 ---
-
-# Validation Page Group
 
 > An org readiness requirement group on a validation page for a template validation wizard page.
 

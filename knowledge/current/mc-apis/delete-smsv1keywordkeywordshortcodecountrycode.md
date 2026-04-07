@@ -5,12 +5,10 @@ topic: delete-smsv1keywordkeywordshortcodecountrycode
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.390Z
+lastCollected: 2026-04-07T18:40:16.531Z
 estimatedTokens: 232
-keywords: [sms, keyword, shortCode, countryCode, Deletes, account, short, code, country, **Overview**, Usage]
+keywords: [sms, keyword, shortCode, countryCode, Deletes, account, short, code, country, **Overview**]
 ---
-
-# DELETE /sms/v1/keyword/{keyword}/{shortCode}/{countryCode}
 
 > Deletes a keyword on an account given a keyword, short code, and country code.
 

@@ -5,12 +5,10 @@ topic: sbqqproductsearchplugin-product-search-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.665Z
+lastCollected: 2026-04-07T18:37:27.664Z
 estimatedTokens: 419
 keywords: [SBQQ.ProductSearchPlugin, Product, Search, implementation]
 ---
-
-# SBQQ.ProductSearchPlugin Product Search Methods
 
 > The following are methods for a Product Search implementation of SBQQ.ProductSearchPlugin.
 

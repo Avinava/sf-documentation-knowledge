@@ -5,12 +5,10 @@ topic: sum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.932Z
+lastCollected: 2026-04-07T18:37:01.544Z
 estimatedTokens: 26
 keywords: [sum, rows, numeric, column]
 ---
-
-# sum()
 
 > Returns the sum of all rows values in a numeric column.
 

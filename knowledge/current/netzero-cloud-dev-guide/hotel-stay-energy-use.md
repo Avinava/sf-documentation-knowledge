@@ -5,12 +5,10 @@ topic: hotel-stay-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.266Z
+lastCollected: 2026-04-07T18:38:16.848Z
 estimatedTokens: 371
 keywords: [Hotel, Stay, Energy, consumption]
 ---
-
-# Hotel Stay Energy Use
 
 > The Hotel Stay Energy Use object represents the energy consumption related to hotel
     stay.

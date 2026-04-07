@@ -5,12 +5,10 @@ topic: using-swift-with-salesforce-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.222Z
+lastCollected: 2026-04-07T18:40:26.531Z
 estimatedTokens: 417
 keywords: [Swift, Salesforce, Mobile, SDK, Creating, Apps, API, Naming]
 ---
-
-# Using Swift with Salesforce Mobile SDK
 
 # Using Swift with Salesforce Mobile SDK
 

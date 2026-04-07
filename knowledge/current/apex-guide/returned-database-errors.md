@@ -5,12 +5,10 @@ topic: returned-database-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.192Z
+lastCollected: 2026-04-07T18:36:19.416Z
 estimatedTokens: 316
-keywords: [Database, Errors, DML, statements, always, exceptions, operation, fails, records, processed, rolled, back, either, allow, partial]
+keywords: [Database, Errors, DML, statements, always, exceptions, operation, fails, records, processed, rolled, back, either, allow, partial, success, record, processing, latter, case]
 ---
-
-# Returned Database Errors
 
 > While DML statements always return exceptions when an operation
 fails for one of the records being processed and the operation is

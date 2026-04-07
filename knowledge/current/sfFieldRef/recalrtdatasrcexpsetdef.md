@@ -5,13 +5,11 @@ topic: recalrtdatasrcexpsetdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.144Z
+lastCollected: 2026-04-07T18:39:58.800Z
 estimatedTokens: 367
 namespace: NamespacePrefix
-keywords: [RecAlrtDataSrcExpSetDef, data, source, record, alert, association, expression, definition, API, version, 58.0, later]
+keywords: [RecAlrtDataSrcExpSetDef, source, record, alert, association, expression, definition, API, 58.0]
 ---
-
-# RecAlrtDataSrcExpSetDef
 
 > Represents information about the data source for a record alert and the
          association with an expression set definition. This object is available in API version

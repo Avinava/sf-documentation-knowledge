@@ -5,12 +5,10 @@ topic: keep-your-external-data-current-with-change-data-capture
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.901Z
+lastCollected: 2026-04-07T18:37:05.606Z
 estimatedTokens: 451
-keywords: [Keep, External, Data, Current, Change, Capture, system, instead, doing, periodic, exports, imports, repeated, API, calls]
+keywords: [Keep, External, Current, Change, Capture, system, instead, doing, periodic, exports, imports, repeated, API, Capturing, changes, event, notifications, ensures, updated, real, time, stays, fresh]
 ---
-
-# Keep Your External Data Current with Change Data Capture
 
 > Use Change Data Capture to update data in an external system instead
       of doing periodic exports and imports of data or repeated API calls. Capturing changes with

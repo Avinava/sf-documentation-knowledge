@@ -5,12 +5,10 @@ topic: creating-a-triggered-email-campaign-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.097Z
+lastCollected: 2026-04-07T18:40:16.232Z
 estimatedTokens: 6290
-keywords: [Creating, Triggered, Email, Campaign, Workflow, conceptual, procedural, send, Marketing, Cloud, SOAP, API, Why, How, Process]
+keywords: [Creating, Triggered, Email, Campaign, Workflow, conceptual, procedural, send, Marketing, Cloud, SOAP, API, Why, How, Process, Sample, Code, NET, PHP, Envelopes, Interact, Emails, Definitions, Retrieve, System, SendClassification, Defintion, Start, Definition, Call, Subscriber, Classification]
 ---
-
-# Creating a Triggered Email Campaign Workflow
 
 > This page contains conceptual and procedural information on creating a triggered send email campaign using the Marketing Cloud SOAP API.
 

@@ -5,12 +5,10 @@ topic: bulk-group-census-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.177Z
+lastCollected: 2026-04-07T18:37:52.314Z
 estimatedTokens: 140
-keywords: [Bulk, Group, Census, Management, Output, representation, processing, employee, data]
+keywords: [Bulk, Group, Census, Management, processing, employee]
 ---
-
-# Bulk Group Census Management
 
 > Output representation for the bulk processing of employee census data.
 

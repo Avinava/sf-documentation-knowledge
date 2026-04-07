@@ -5,12 +5,10 @@ topic: cart-item-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.191Z
+lastCollected: 2026-04-07T18:37:17.262Z
 estimatedTokens: 183
 keywords: [Cart, Item, Result, requesting]
 ---
-
-# Cart Item Result
 
 > Result after requesting a cart item.
 

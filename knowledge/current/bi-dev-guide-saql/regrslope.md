@@ -5,12 +5,10 @@ topic: regrslope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.947Z
+lastCollected: 2026-04-07T18:37:00.467Z
 estimatedTokens: 485
-keywords: [regr_slope, Uses, two, numerical, calculate, trend, line, slope, function, relationship, regr, _slope, Number, Activities, Deal]
+keywords: [regr_slope, Uses, two, numerical, calculate, trend, line, slope, function, relationship, regr, _slope, Number, Activities, Deal, Amount]
 ---
-
-# regr_slope()
 
 > Uses two numerical fields to calculate a trend line, then returns the slope. Use
             this function to learn more about the relationship between two numerical

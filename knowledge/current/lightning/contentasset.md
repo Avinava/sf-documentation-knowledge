@@ -5,12 +5,10 @@ topic: contentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.095Z
+lastCollected: 2026-04-07T18:38:04.218Z
 estimatedTokens: 372
-keywords: [$ContentAsset, provider, lets, images, style, sheets, JavaScript, asset, files, Lightning, components, Component, Markup]
+keywords: [$ContentAsset, provider, lets, images, style, sheets, JavaScript, asset, files, Lightning, Markup]
 ---
-
-# $ContentAsset
 
 > The $ContentAsset global
             value provider lets you reference images, style sheets, and JavaScript used as asset

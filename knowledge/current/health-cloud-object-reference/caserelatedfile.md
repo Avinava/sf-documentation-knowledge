@@ -5,12 +5,10 @@ topic: caserelatedfile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.842Z
+lastCollected: 2026-04-07T18:37:46.414Z
 estimatedTokens: 941
-keywords: [CaseRelatedFile, file, attached, case, processing, additional, relevant, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [CaseRelatedFile, file, attached, case, processing, additional, relevant, API, 62.0]
 ---
-
-# CaseRelatedFile
 
 > Represents the details of a file attached to a case, such as file
          properties, file processing details, and other additional relevant information. This

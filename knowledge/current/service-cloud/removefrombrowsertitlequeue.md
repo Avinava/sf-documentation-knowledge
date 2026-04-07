@@ -5,12 +5,10 @@ topic: removefrombrowsertitlequeue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.478Z
+lastCollected: 2026-04-07T18:36:50.736Z
 estimatedTokens: 226
-keywords: [removeFromBrowserTitleQueue, Removes, browser, tab, title, titles, rotates, every, three, seconds, API, version, 28.0, later, Arguments]
+keywords: [Arguments, removeFromBrowserTitleQueue, Removes, browser, tab, title, titles, rotates, every, three, seconds, API, 28.0, Sample, Code–Visualforce]
 ---
-
-# removeFromBrowserTitleQueue()
 
 > Removes a browser tab title from the list of
             titles, which rotates every three seconds. This method is only available in API

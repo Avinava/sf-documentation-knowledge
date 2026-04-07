@@ -5,12 +5,10 @@ topic: articletype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.379Z
+lastCollected: 2026-04-07T18:36:22.632Z
 estimatedTokens: 1699
-keywords: [ArticleType, metadata, associated, article, Declarative, File, Suffix, Directory, Location, Version, ArticleTypeChannelDisplay, ArticleTypeTemplate, Sample, Definitions, Wildcard]
+keywords: [ArticleType, ArticleTypeChannelDisplay, ArticleTypeTemplate, metadata, article, Declarative, File, Suffix, Directory, Location, Sample, Definitions, Wildcard, Support, Manifest]
 ---
-
-# ArticleType
 
 > Represents the metadata associated with an article
         type.

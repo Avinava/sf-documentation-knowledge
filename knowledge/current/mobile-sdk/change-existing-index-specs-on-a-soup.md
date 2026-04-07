@@ -5,12 +5,10 @@ topic: change-existing-index-specs-on-a-soup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.821Z
+lastCollected: 2026-04-07T18:40:27.047Z
 estimatedTokens: 781
 keywords: [Change, Index, Specs, Soup, call, applicable, alteration, Changing, External, Storage, Hybrid, Apps, Android, Native, iOS]
 ---
-
-# Change Existing Index Specs on a Soup
 
 > To change existing index specs, call the applicable soup
   alteration method.

@@ -5,12 +5,10 @@ topic: salestransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.263Z
+lastCollected: 2026-04-07T18:38:24.148Z
 estimatedTokens: 605
-keywords: [SalesTransaction, business, logic, sales, transaction, order, cart, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [SalesTransaction, business, logic, sales, transaction, order, cart, API, 55.0]
 ---
-
-# SalesTransaction
 
 > Defines the business logic for a sales transaction, for example, an order or
          a cart. This object interface is available in API version 55.0 and later.

@@ -5,12 +5,10 @@ topic: quick-start-tutorials
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.917Z
+lastCollected: 2026-04-07T18:38:15.412Z
 estimatedTokens: 225
-keywords: [Quick, Start, Tutorials, hands-on, started, creating, custom, LWCs, mobile, apps]
+keywords: [Quick, Start, Tutorials, hands-on, started, creating, LWCs, mobile, apps]
 ---
-
-# Quick Start Tutorials
 
 > These hands-on tutorials get you started with creating custom LWCs for your mobile
   apps.

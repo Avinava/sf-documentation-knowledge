@@ -5,12 +5,10 @@ topic: waitlists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.472Z
+lastCollected: 2026-04-07T18:39:20.178Z
 estimatedTokens: 431
 keywords: [Waitlists, waitlist, participants, queue, includes, scheduled, appointment]
 ---
-
-# Waitlists
 
 > Get waitlist details with the list of participants. A waitlist is a
       queue that includes participants without a scheduled appointment.

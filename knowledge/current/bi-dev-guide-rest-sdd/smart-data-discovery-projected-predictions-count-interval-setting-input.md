@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-count-interval-setting-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.341Z
+lastCollected: 2026-04-07T18:36:58.839Z
 estimatedTokens: 178
-keywords: [Smart, Data, Discovery, Projected, Predictions, Count, Interval, Setting, Input, settings, Einstein, projection]
+keywords: [Smart, Discovery, Projected, Predictions, Count, Interval, Setting, settings, Einstein, projection]
 ---
-
-# Smart Data Discovery Projected Predictions Count Interval Setting Input
 
 > The input for settings for an Einstein Discovery count based projection interval.
 

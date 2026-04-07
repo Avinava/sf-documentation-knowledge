@@ -5,12 +5,10 @@ topic: care-request-subscriber-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.069Z
+lastCollected: 2026-04-07T18:37:41.070Z
 estimatedTokens: 246
-keywords: [Care, Subscriber, Input, primary, member, plan]
+keywords: [Care, Subscriber, primary, member, plan]
 ---
-
-# Care Request Subscriber Input
 
 > The primary member on the plan.
 

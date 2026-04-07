@@ -5,12 +5,10 @@ topic: unlink-program-member-partner
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.478Z
+lastCollected: 2026-04-07T18:38:07.708Z
 estimatedTokens: 358
-keywords: [Unlink, Program, Member, Partner, Unlinks, association, loyalty, API, securely, removes, linkage, updates, records, ensure, data, Output, representation]
+keywords: [Unlink, Program, Member, Partner, Unlinks, association, loyalty, API, securely, removes, linkage, updates, records, ensure, consistency, across, systems]
 ---
-
-# Unlink Program Member Partner
 
 > Unlinks an existing association between a loyalty program member and a partner program.
     The API securely removes the linkage and updates related records to ensure data consistency

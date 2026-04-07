@@ -5,12 +5,10 @@ topic: product-attribute-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.822Z
+lastCollected: 2026-04-07T18:37:21.934Z
 estimatedTokens: 186
-keywords: [Product, Attribute, data]
+keywords: [Product, Attribute]
 ---
-
-# Product Attribute Set
 
 > Product attribute set data.
 

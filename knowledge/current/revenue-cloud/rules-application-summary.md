@@ -5,12 +5,10 @@ topic: rules-application-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.674Z
+lastCollected: 2026-04-07T18:35:46.641Z
 estimatedTokens: 291
-keywords: [Rules, Application, Summary, Output, representation, rule, includes, number, payments, credit, memos, account, total, that's, applied]
+keywords: [Application, Summary, rule, includes, number, payments, credit, memos, account, total, that's, applied, invoices, whether, considered]
 ---
-
-# Rules Application Summary
 
 > Output representation of the summary of the application rule. This includes the number of
     payments and credit memos for the account, the total number of payments and credit memos that's

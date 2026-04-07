@@ -5,12 +5,10 @@ topic: debugging-constraint-modeling-language-cml
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.543Z
+lastCollected: 2026-04-07T18:35:42.428Z
 estimatedTokens: 492
-keywords: [Debugging, Constraint, Modeling, Language, CML, debug, models, troubleshoot, performance, issues, enable, logging, Apex, log, level]
+keywords: [Debugging, Constraint, Modeling, Language, CML, debug, models, troubleshoot, performance, issues, enable, logging, Apex, log, level, FINE]
 ---
-
-# Debugging Constraint Modeling Language (CML)
 
 > To debug constraint models and troubleshoot performance issues, enable debug logging in
     Apex and set the debug log level to FINE.

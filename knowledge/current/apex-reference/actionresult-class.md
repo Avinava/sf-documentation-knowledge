@@ -5,13 +5,11 @@ topic: actionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.858Z
+lastCollected: 2026-04-07T18:36:00.138Z
 estimatedTokens: 1284
 namespace: Invocable
-keywords: [Action.Result, retrieve, results, invocable, actions, Apex, code, clone, getAction, getErrors, getInvocationParameters, getOutputParameters, isSuccess, ActionResult, execution, actionable, notification, Usage, getErrorCode, getMessage]
+keywords: [Action.Result, retrieve, results, invocable, actions, Apex, code, clone, getAction, getErrors, getInvocationParameters, getOutputParameters, isSuccess, ActionResult, execution, actionable, notification, getErrorCode, getMessage]
 ---
-
-# Action.Result Class
 
 > Contains methods to retrieve results from invocable actions called
       from Apex code.

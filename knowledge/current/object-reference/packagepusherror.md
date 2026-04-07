@@ -5,12 +5,10 @@ topic: packagepusherror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.081Z
+lastCollected: 2026-04-07T18:38:37.374Z
 estimatedTokens: 496
-keywords: [PackagePushError, error, encountered, push, number, records, created, depends, jobs, result, Calls, Special, Access, Rules, Usage]
+keywords: [PackagePushError, error, encountered, push, number, records, created, depends, jobs, result]
 ---
-
-# PackagePushError
 
 > Represents an error encountered during a push request. The number of
 			PackagePushError records created depends on the number of push jobs in the request that

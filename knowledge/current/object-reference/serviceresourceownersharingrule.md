@@ -5,12 +5,10 @@ topic: serviceresourceownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.304Z
+lastCollected: 2026-04-07T18:38:40.905Z
 estimatedTokens: 679
-keywords: [ServiceResourceOwnerSharingRule, rules, sharing, service, resource, user, records, owner, anyone, above, role, hierarchy, API, version, 38.0]
+keywords: [ServiceResourceOwnerSharingRule, sharing, service, resource, user, records, owner, anyone, above, role, hierarchy, API, 38.0]
 ---
-
-# ServiceResourceOwnerSharingRule
 
 > Represents the rules for sharing a service resource with user records
    other than the owner or anyone above the owner in the role hierarchy. This object is

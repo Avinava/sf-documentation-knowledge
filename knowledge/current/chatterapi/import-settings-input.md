@@ -5,12 +5,10 @@ topic: import-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:21.871Z
+lastCollected: 2026-04-07T18:37:08.688Z
 estimatedTokens: 567
-keywords: [Import, Settings, Input, applicable, product, rows, csv, file]
+keywords: [Import, Settings, applicable, product, rows, csv, file]
 ---
-
-# Import Settings Input
 
 > Import settings applicable to all product rows in a product import
       .csv file.

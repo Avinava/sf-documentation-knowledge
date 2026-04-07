@@ -5,12 +5,10 @@ topic: community-publish
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.689Z
+lastCollected: 2026-04-07T18:37:17.759Z
 estimatedTokens: 157
 keywords: [Community, Publish, Result, publishing, Experience, Cloud, site]
 ---
-
-# Community Publish
 
 > Result of publishing an Experience Cloud site.
 

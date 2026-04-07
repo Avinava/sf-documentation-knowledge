@@ -5,12 +5,10 @@ topic: referral-marketing-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.362Z
+lastCollected: 2026-04-07T18:39:09.678Z
 estimatedTokens: 100
 keywords: [Referral, Marketing, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Referral Marketing Business APIs
 
 > Referral Marketing Business APIs are RESTful APIs that are sometimes available as Apex
     classes and methods.

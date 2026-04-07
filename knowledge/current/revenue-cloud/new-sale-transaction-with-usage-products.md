@@ -5,12 +5,10 @@ topic: new-sale-transaction-with-usage-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:01:57.969Z
+lastCollected: 2026-04-07T18:35:42.863Z
 estimatedTokens: 3727
-keywords: [New, Sale, Transaction, Usage, Products, Understand, key, considerations, billing, schedule, usage-based]
+keywords: [Considerations, New, Sale, Transaction, Products, Understand, key, billing, schedule, usage-based]
 ---
-
-# New Sale Transaction With Usage Products
 
 > Understand the required values and key considerations before you create a billing
     schedule for a new sale transaction with usage-based products.

@@ -6,13 +6,10 @@ topic: getrecordidfromemailsubject-textbody-htmlbody
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.847Z
+lastCollected: 2026-04-07T18:35:59.122Z
 estimatedTokens: 1150
-keywords: [getRecordIdFromEmail, subject, textBody, htmlBody, record, corresponding, email, threading, token, none, found, Usage]
+keywords: [getRecordIdFromEmail, subject, textBody, htmlBody, record, corresponding, email, threading, token, none, found]
 ---
-
-# getRecordIdFromEmail(subject, textBody,
-    htmlBody)
 
 > Returns the record ID corresponding to the specified email threading
       token, or returns null if none is found.

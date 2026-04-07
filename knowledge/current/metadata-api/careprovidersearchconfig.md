@@ -5,12 +5,10 @@ topic: careprovidersearchconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.003Z
+lastCollected: 2026-04-07T18:36:23.297Z
 estimatedTokens: 414
-keywords: [CareProviderSearchConfig, appear, care, provider, search, results, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [CareProviderSearchConfig, appear, care, provider, search, results, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# CareProviderSearchConfig
 
 > Represents the information about the fields that appear in
       care provider search results. This type extends the Metadata

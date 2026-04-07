@@ -5,12 +5,10 @@ topic: connectapifulfillmentorderlineiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.211Z
+lastCollected: 2026-04-07T18:36:05.549Z
 estimatedTokens: 298
 keywords: [FulfillmentOrderLineItem, quantity, cancel, less, full, case, reallocate, canceled, different, FulfillmentOrder]
 ---
-
-# ConnectApi.FulfillmentOrderLineItemInputRepresentation
 
 > A FulfillmentOrderLineItem and quantity to cancel. You can cancel
       less than the full quantity, in which case you reallocate the canceled quantity to a different

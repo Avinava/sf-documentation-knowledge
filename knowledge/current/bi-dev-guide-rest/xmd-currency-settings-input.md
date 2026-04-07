@@ -5,12 +5,10 @@ topic: xmd-currency-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.788Z
+lastCollected: 2026-04-07T18:36:55.198Z
 estimatedTokens: 83
-keywords: [Xmd, Currency, Settings, Input, extended, metadata]
+keywords: [Xmd, Currency, Settings, extended, metadata]
 ---
-
-# Xmd Currency Settings Input
 
 > The extended metadata (Xmd) for currency settings of a currency field.
 

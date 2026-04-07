@@ -5,12 +5,10 @@ topic: document-info-attributes-wrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.059Z
+lastCollected: 2026-04-07T18:37:34.609Z
 estimatedTokens: 118
-keywords: [Document, Info, Attributes, Wrapper, Input, representation, supporting, complaint]
+keywords: [Document, Info, Attributes, Wrapper, supporting, complaint]
 ---
-
-# Document Info Attributes Wrapper
 
 > Input representation of the details of a supporting document for the
       complaint.

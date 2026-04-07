@@ -5,12 +5,10 @@ topic: assessmentdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.119Z
+lastCollected: 2026-04-07T18:39:27.088Z
 estimatedTokens: 418
-keywords: [AssessmentDefinition, definition, assessment, including, revised, date, purpose, API, version, 63.0, later]
+keywords: [AssessmentDefinition, definition, assessment, including, revised, date, purpose, API, 63.0]
 ---
-
-# AssessmentDefinition
 
 > Represents the definition of an assessment including details such as the last
          revised date and purpose. This object is available in API version 63.0 and later.

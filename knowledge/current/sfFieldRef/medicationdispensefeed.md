@@ -5,12 +5,10 @@ topic: medicationdispensefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.885Z
+lastCollected: 2026-04-07T18:39:48.337Z
 estimatedTokens: 362
-keywords: [MedicationDispenseFeed, Feed, tracking, MedicationDispense]
+keywords: [MedicationDispenseFeed, MedicationDispense]
 ---
-
-# MedicationDispenseFeed
 
 > Feed tracking for MedicationDispense.
 

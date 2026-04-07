@@ -5,12 +5,10 @@ topic: create-an-apex-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.080Z
+lastCollected: 2026-04-07T18:40:08.028Z
 estimatedTokens: 530
 keywords: [Apex, Salesforce, CLI, classes, local, project, generated, files, live, directory, package]
 ---
-
-# Create an Apex Class
 
 > You can use Salesforce CLI to create Apex classes in your local Salesforce DX project.
   The generated class files live in a classes directory in a

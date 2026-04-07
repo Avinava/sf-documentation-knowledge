@@ -5,13 +5,11 @@ topic: debug-log
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.102Z
+lastCollected: 2026-04-07T18:36:17.330Z
 estimatedTokens: 2569
 namespace: YourClass
-keywords: [Debug, Log, record, database, operations, system, processes, errors, occur, executing, transaction, running, unit, tests, logs]
+keywords: [Debug, Log, record, database, operations, system, processes, errors, occur, executing, transaction, running, unit, tests, logs, contain, Limits, Inspecting, Sections, Setting, Filters, Apex, Classes, Triggers]
 ---
-
-# Debug Log
 
 > A debug log can record database operations, system processes, and errors that occur when
       executing a transaction or running unit tests. Debug logs can contain information about:

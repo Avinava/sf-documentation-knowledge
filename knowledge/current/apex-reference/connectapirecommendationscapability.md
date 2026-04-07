@@ -5,12 +5,10 @@ topic: connectapirecommendationscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.161Z
+lastCollected: 2026-04-07T18:36:11.442Z
 estimatedTokens: 179
-keywords: [ConnectApi.RecommendationsCapability, feed, element, capability, recommendation]
+keywords: [ConnectApi.RecommendationsCapability, capability, recommendation]
 ---
-
-# ConnectApi.RecommendationsCapability
 
 > If a feed element has this capability, it has a
     recommendation.

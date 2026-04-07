@@ -5,12 +5,10 @@ topic: quotelineratecardentryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.460Z
+lastCollected: 2026-04-07T18:39:58.141Z
 estimatedTokens: 274
-keywords: [QuoteLineRateCardEntryHistory, History, tracked, QuoteLineRateCardEntry]
+keywords: [QuoteLineRateCardEntryHistory, tracked, QuoteLineRateCardEntry]
 ---
-
-# QuoteLineRateCardEntryHistory
 
 > History for tracked fields of QuoteLineRateCardEntry.
 

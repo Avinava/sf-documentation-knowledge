@@ -5,12 +5,10 @@ topic: liveagentclientchatsendbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.873Z
+lastCollected: 2026-04-07T18:38:50.097Z
 estimatedTokens: 222
-keywords: [liveAgent, clientChatSendButton, button, chat, window, visitor, clicks, send, message, agent, Attributes]
+keywords: [Attributes, liveAgent, clientChatSendButton, button, chat, window, visitor, clicks, send, message, agent]
 ---
-
-# liveAgent:clientChatSendButton
 
 > The button in a chat window a visitor clicks to send a chat message to an agent.
 

@@ -5,12 +5,10 @@ topic: getnavigationtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.286Z
+lastCollected: 2026-04-07T18:36:49.348Z
 estimatedTokens: 184
-keywords: [getNavigationTabs, objects, navigation, tab, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getNavigationTabs, navigation, tab, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# getNavigationTabs()
 
 > Returns all of the objects in the navigation tab. This
             method is only available in API version 31.0 or later.

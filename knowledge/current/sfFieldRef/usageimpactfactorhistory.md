@@ -5,12 +5,10 @@ topic: usageimpactfactorhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.898Z
+lastCollected: 2026-04-07T18:40:04.682Z
 estimatedTokens: 266
-keywords: [UsageImpactFactorHistory, History, tracked, UsageImpactFactor]
+keywords: [UsageImpactFactorHistory, tracked, UsageImpactFactor]
 ---
-
-# UsageImpactFactorHistory
 
 > History for tracked fields of UsageImpactFactor.
 

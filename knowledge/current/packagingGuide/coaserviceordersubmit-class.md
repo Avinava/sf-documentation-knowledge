@@ -5,12 +5,10 @@ topic: coaserviceordersubmit-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.885Z
+lastCollected: 2026-04-07T18:38:45.710Z
 estimatedTokens: 625
-keywords: [COA_ServiceOrderSubmit, Submit, orders, Salesforce, Partner, Operations, processing, activation, COA, _ServiceOrderSubmit, Usage, Order, Status]
+keywords: [COA_ServiceOrderSubmit, Submit, orders, Salesforce, Partner, Operations, processing, activation, COA, _ServiceOrderSubmit, Order, Status]
 ---
-
-# COA_ServiceOrderSubmit Class
 
 > Submit orders to Salesforce Partner Operations for processing and activation.
 

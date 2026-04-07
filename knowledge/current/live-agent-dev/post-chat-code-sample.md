@@ -5,12 +5,10 @@ topic: post-chat-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.033Z
+lastCollected: 2026-04-07T18:38:06.280Z
 estimatedTokens: 885
 keywords: [Post-Chat, Code, Sample, Test, preview, how, pages, work, agents, customers]
 ---
-
-# Post-Chat Code Sample
 
 > Test and preview how post-chat pages work for your agents and customers using this code
       sample.

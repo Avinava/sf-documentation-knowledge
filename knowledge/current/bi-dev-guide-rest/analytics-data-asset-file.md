@@ -5,12 +5,10 @@ topic: analytics-data-asset-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.065Z
+lastCollected: 2026-04-07T18:36:56.630Z
 estimatedTokens: 157
-keywords: [Analytics, Data, Asset, File, preview]
+keywords: [Analytics, Asset, File, preview]
 ---
-
-# Analytics Data Asset File
 
 > A file used for preview of an Analytics data asset.
 

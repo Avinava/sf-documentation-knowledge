@@ -5,12 +5,10 @@ topic: cgcloudjobdltemplatedeftemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.354Z
+lastCollected: 2026-04-07T18:39:13.763Z
 estimatedTokens: 1118
-keywords: [Stores, job, definition, templates, template, creating, assigned, preset, definitions, API, version, 54.0, later, cgcloud, _Job]
+keywords: [Stores, job, definition, templates, template, creating, assigned, preset, definitions, API, 54.0, cgcloud, _Job, _DL, _Template, _Def]
 ---
-
-# cgcloud__Job_DL_Template_Def_Template__c
 
 > Stores the list of job definition templates in the Job definition list
          template. When creating a job definition list based on this template, the assigned job

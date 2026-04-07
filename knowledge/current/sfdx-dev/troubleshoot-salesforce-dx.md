@@ -5,12 +5,10 @@ topic: troubleshoot-salesforce-dx
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.669Z
+lastCollected: 2026-04-07T18:40:08.626Z
 estimatedTokens: 455
 keywords: [Troubleshoot, Salesforce, tips, help, issues]
 ---
-
-# Troubleshoot Salesforce DX
 
 > Here are some tips to help you troubleshoot issues.
 

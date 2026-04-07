@@ -5,12 +5,10 @@ topic: connectapiwishlisttocartresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.005Z
+lastCollected: 2026-04-07T18:36:12.293Z
 estimatedTokens: 206
 keywords: [ConnectApi.WishlistToCartResult, Result, adding, wishlist, cart]
 ---
-
-# ConnectApi.WishlistToCartResult
 
 > Result of adding a wishlist to a cart.
 

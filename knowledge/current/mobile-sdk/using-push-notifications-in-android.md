@@ -5,12 +5,10 @@ topic: using-push-notifications-in-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.930Z
+lastCollected: 2026-04-07T18:40:27.146Z
 estimatedTokens: 420
 keywords: [Push, Notifications, Android, Salesforce, apps, Firebase, Cloud, Messaging, FCM, framework]
 ---
-
-# Using Push Notifications in Android
 
 > Salesforce sends push notifications to Android apps through the Firebase Cloud Messaging (FCM)
             framework. See Firebase

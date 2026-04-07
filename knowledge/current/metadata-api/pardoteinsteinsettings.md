@@ -5,12 +5,10 @@ topic: pardoteinsteinsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.742Z
+lastCollected: 2026-04-07T18:36:28.282Z
 estimatedTokens: 708
-keywords: [PardotEinsteinSettings, settings, factors, drive, campaign, performance, best, possible, engagement, score, prospects, extends, Metadata, inherits, fullName]
+keywords: [PardotEinsteinSettings, settings, factors, drive, campaign, performance, best, possible, engagement, score, prospects, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# PardotEinsteinSettings
 
 > Represents PardotEinsteinSettings. Use
 		these settings to learn what factors drive your campaign performance, and get the best

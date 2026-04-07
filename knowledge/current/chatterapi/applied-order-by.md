@@ -5,12 +5,10 @@ topic: applied-order-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.664Z
+lastCollected: 2026-04-07T18:37:16.737Z
 estimatedTokens: 200
 keywords: [Applied, Order, search]
 ---
-
-# Applied Order By
 
 > Applied order for object search.
 

@@ -5,12 +5,10 @@ topic: materialityassessment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.326Z
+lastCollected: 2026-04-07T18:38:18.972Z
 estimatedTokens: 799
-keywords: [MaterialityAssessment, stakeholder, engagement, assess, importance, environmental, social, governance, ESG, issues, API, version, 59.0, later, Calls]
+keywords: [MaterialityAssessment, stakeholder, engagement, assess, importance, environmental, social, governance, ESG, issues, API, 59.0]
 ---
-
-# MaterialityAssessment
 
 > Represents information about stakeholder engagement to assess the
          importance of environmental, social, and governance (ESG) issues for them. This object

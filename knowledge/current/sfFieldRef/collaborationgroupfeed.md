@@ -5,12 +5,10 @@ topic: collaborationgroupfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.010Z
+lastCollected: 2026-04-07T18:39:34.448Z
 estimatedTokens: 362
-keywords: [CollaborationGroupFeed, Feed, tracking, CollaborationGroup]
+keywords: [CollaborationGroupFeed, CollaborationGroup]
 ---
-
-# CollaborationGroupFeed
 
 > Feed tracking for CollaborationGroup.
 

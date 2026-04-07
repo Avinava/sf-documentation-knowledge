@@ -5,12 +5,10 @@ topic: preview-benefit-sessions-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.279Z
+lastCollected: 2026-04-07T18:38:21.069Z
 estimatedTokens: 91
-keywords: [Preview, Benefit, Sessions, Output, representation, scheduling, session]
+keywords: [Preview, Benefit, Sessions, scheduling, session]
 ---
-
-# Preview Benefit Sessions Output
 
 > Output representation of the benefit scheduling session preview
       request.

@@ -5,12 +5,10 @@ topic: extlclntappmobileconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.405Z
+lastCollected: 2026-04-07T18:36:25.910Z
 estimatedTokens: 371
-keywords: [ExtlClntAppMobileConfigurablePolicies, external, client, app’s, mobile, policies, configuration, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [ExtlClntAppMobileConfigurablePolicies, external, client, app’s, mobile, policies, configuration, Parent, File, Suffix, Directory, Location]
 ---
-
-# ExtlClntAppMobileConfigurablePolicies
 
 > Represents an external client app’s mobile policies configuration.
 

@@ -5,12 +5,10 @@ topic: chatteranswersdatacategoryfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.227Z
+lastCollected: 2026-04-07T18:38:49.274Z
 estimatedTokens: 207
-keywords: [chatteranswers, datacategoryfilter, Chatter, Answers, data, category, filter, let, users, feeds, components, customized, experience, displays, component]
+keywords: [Attributes, chatteranswers, datacategoryfilter, Chatter, Answers, category, filter, let, users, feeds, customized, experience, displays]
 ---
-
-# chatteranswers:datacategoryfilter
 
 > Chatter Answers data category filter, which let users filter feeds by data category. Use with other Chatter Answers components to create a customized experience for your Chatter Answers users.
 

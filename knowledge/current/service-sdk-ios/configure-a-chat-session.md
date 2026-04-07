@@ -5,13 +5,11 @@ topic: configure-a-chat-session
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.795Z
+lastCollected: 2026-04-07T18:40:27.931Z
 estimatedTokens: 2021
 namespace: ServiceCloud.Chat.Status.EstimatedWait
-keywords: [Configure, Chat, Session, starting, several, ways, SCSChatConfiguration, configuration, settings, allow, specify, pre-chat, determine, whether, starts]
+keywords: [Configure, Chat, Session, starting, several, ways, SCSChatConfiguration, configuration, settings, allow, specify, pre-chat, determine, whether, starts, minimized, full, screen, updates, user's, queue, position]
 ---
-
-# Configure a Chat Session
 
 > Before starting a chat session, you have several ways to
       configure the session using the SCSChatConfiguration

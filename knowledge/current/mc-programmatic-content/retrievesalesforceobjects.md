@@ -5,12 +5,10 @@ topic: retrievesalesforceobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.343Z
+lastCollected: 2026-04-07T18:40:22.757Z
 estimatedTokens: 413
-keywords: [RetrieveSalesforceObjects, UsageThe, system, leads, Salesforce, account, region, equals, west.The, West, AnnualRevenue, over, million, Updated, Jun]
+keywords: [RetrieveSalesforceObjects, UsageThe, system, leads, Salesforce, account, region, equals, west.The, West, AnnualRevenue, over, million, Updated, Jun, Fun, **Overview**, **Syntax**]
 ---
-
-# RetrieveSalesforceObjects
 
 > RetrieveSalesforceObjects(1, 2, 3, 4, 5)
 

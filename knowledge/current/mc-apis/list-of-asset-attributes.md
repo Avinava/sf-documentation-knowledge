@@ -5,12 +5,10 @@ topic: list-of-asset-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.175Z
+lastCollected: 2026-04-07T18:40:15.200Z
 estimatedTokens: 378
 keywords: [Asset, Attributes, possible, creating, manipulating, likely, few]
 ---
-
-# List of Asset Attributes
 
 > This table lists possible attributes used when creating or manipulating an asset. Each asset will likely need no more than a few of these attributes.
 

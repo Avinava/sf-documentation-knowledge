@@ -5,12 +5,10 @@ topic: expression-evaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.121Z
+lastCollected: 2026-04-07T18:38:04.242Z
 estimatedTokens: 581
-keywords: [Expression, Evaluation, Expressions, evaluated, much, way, JavaScript, programming, languages, Action, Lightning, Web, Components]
+keywords: [Expression, Evaluation, Expressions, evaluated, much, way, JavaScript, programming, languages, Action, Lightning, Web]
 ---
-
-# Expression Evaluation
 
 > Expressions are evaluated much the same way that expressions
 in JavaScript or other programming languages are evaluated.

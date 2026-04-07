@@ -5,12 +5,10 @@ topic: financial-goals-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.241Z
+lastCollected: 2026-04-07T18:37:34.813Z
 estimatedTokens: 393
 keywords: [Financial, Goals, Query, goal, members, funding, parent, Person, Account, Household, Party, Relationship, Group, record]
 ---
-
-# Financial Goals Query
 
 > Query financial goals, goal members, and goal funding using the parent Person Account,
     Household, or Party Relationship Group record.

@@ -5,12 +5,10 @@ topic: payment-intents-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.757Z
+lastCollected: 2026-04-07T18:37:09.484Z
 estimatedTokens: 618
-keywords: [Payment, Intents, Input, consumed, initiate]
+keywords: [Payment, Intents, consumed, initiate]
 ---
-
-# Payment Intents Input
 
 > Payment intents input consumed to initiate a
     payment.

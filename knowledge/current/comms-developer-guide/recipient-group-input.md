@@ -5,12 +5,10 @@ topic: recipient-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.178Z
+lastCollected: 2026-04-07T18:37:26.087Z
 estimatedTokens: 165
-keywords: [Recipient, Group, Input, representation, recipients, add, remove]
+keywords: [Recipient, Group, recipients, add, remove]
 ---
-
-# Recipient Group Input
 
 > Input representation of the recipients required to add or remove
       them from a recipient group.

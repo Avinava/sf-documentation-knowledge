@@ -5,12 +5,10 @@ topic: email-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.685Z
+lastCollected: 2026-04-07T18:40:23.101Z
 estimatedTokens: 224
-keywords: [Email, functions, allow, access, control, messages, Marketing, Cloud, account, Load, Initialization]
+keywords: [Load, Initialization, Email, functions, allow, control, messages, Marketing, Cloud, account]
 ---
-
-# Email functions
 
 > These functions allow you to access and control email messages within your Marketing Cloud account.
 

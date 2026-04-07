@@ -5,12 +5,10 @@ topic: aiusecasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:37.112Z
+lastCollected: 2026-04-07T18:36:22.365Z
 estimatedTokens: 2860
-keywords: [AIUsecaseDefinition, collection, Salesforce, org, define, machine, learning, case, real-time, predictions, Parent, File, Suffix, Directory, Location]
+keywords: [AIUsecaseDefinition, AIUsecaseFieldMapping, AIUsecaseModel, AIFeatureExtractor, collection, Salesforce, org, define, machine, learning, case, real-time, predictions, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AIUsecaseDefinition
 
 > Represents a collection of fields in your Salesforce org
 			used to define a machine learning use case and get real-time

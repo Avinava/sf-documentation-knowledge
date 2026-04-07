@@ -5,12 +5,10 @@ topic: retrieve-tracking-results-for-one-to-one-triggered-sends
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.712Z
+lastCollected: 2026-04-07T18:40:18.914Z
 estimatedTokens: 3742
-keywords: [Retrieve, Tracking, Results, One-to-One, Triggered, retrieving, Prerequisites, Why, How, Items]
+keywords: [Prerequisites, Retrieve, Results, One-to-One, Triggered, retrieving, Why, How, Items]
 ---
-
-# Retrieve Tracking Results for One-to-One Triggered Sends
 
 > This page contains information  about retrieving tracking results for one-to-one triggered sends.
 

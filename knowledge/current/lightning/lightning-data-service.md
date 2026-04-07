@@ -5,12 +5,10 @@ topic: lightning-data-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.704Z
+lastCollected: 2026-04-07T18:38:03.762Z
 estimatedTokens: 1768
-keywords: [Lightning, Data, Service, load, edit, record, component, requiring, Apex, code, handles, sharing, rules, field-level, security]
+keywords: [Lightning, Service, load, edit, record, requiring, Apex, code, handles, sharing, field-level, security, addition, simplifying, Salesforce, improves, performance, user, consistency, Creating]
 ---
-
-# Lightning Data Service
 
 > Use Lightning Data Service to load, create, edit, or delete a record
       in your component without requiring Apex code. Lightning Data Service handles sharing rules

@@ -5,12 +5,10 @@ topic: apexoutputlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.021Z
+lastCollected: 2026-04-07T18:38:50.278Z
 estimatedTokens: 1843
-keywords: [apex, outputLink, link, URL, component, rendered, HTML, anchor, tag, href, attribute, equivalent, <apex, outputLink>, text]
+keywords: [Attributes, apex, outputLink, link, URL, rendered, HTML, anchor, tag, href, attribute, equivalent, <apex, outputLink>, text, image, displays, add, query, nested, param>]
 ---
-
-# apex:outputLink
 
 > A link to a URL. This component is rendered in HTML as an anchor tag with an href attribute. Like its HTML equivalent, the body of an <apex:outputLink> is the text or image that displays as the link. To add query string parameters to a link, use nested <apex:param> components.
 

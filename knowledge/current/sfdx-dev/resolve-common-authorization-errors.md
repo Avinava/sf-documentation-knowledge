@@ -5,12 +5,10 @@ topic: resolve-common-authorization-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.685Z
+lastCollected: 2026-04-07T18:40:08.645Z
 estimatedTokens: 5047
-keywords: [Resolve, Common, Authorization, Errors, sometimes, occur, run, either, org, login, web, jwt, log, authorize, they]
+keywords: [Resolve, Common, Authorization, Errors, sometimes, occur, run, either, org, login, web, jwt, log, authorize, they, mean, try, fix, Error, authentication, failure, unable, local, issuer, certificate, grant, ECONNRESET, ETIMEDOUT, self-signed, chain, restricted, ENOTFOUND, user, hasn't, approved, consumer, client, identifier, invalid, ENOENT, HTML, audience]
 ---
-
-# Resolve Common Authorization Errors
 
 > Errors sometimes occur when you run either org login
       web or org login jwt to log into and authorize

@@ -5,12 +5,10 @@ topic: productinvsearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.826Z
+lastCollected: 2026-04-07T18:38:14.159Z
 estimatedTokens: 2263
-keywords: [ProductInvSearchableField, dataset, inventory, that's, basis, searching, product, multiple, Item, objects, API, version, 62.0, later, Calls]
+keywords: [ProductInvSearchableField, dataset, inventory, that's, basis, searching, product, multiple, Item, API, 62.0]
 ---
-
-# ProductInvSearchableField
 
 > Represents a dataset on inventory information that's the basis for searching
          product inventory. Contains multiple fields from Product Item and related objects.

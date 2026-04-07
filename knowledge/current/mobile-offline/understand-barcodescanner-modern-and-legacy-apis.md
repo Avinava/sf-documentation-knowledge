@@ -5,12 +5,10 @@ topic: understand-barcodescanner-modern-and-legacy-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.113Z
+lastCollected: 2026-04-07T18:38:15.626Z
 estimatedTokens: 889
-keywords: [Understand, BarcodeScanner, Modern, Legacy, APIs, previous, versions, scanning, barcode, session, different, programmatic, approach, several, barcodes]
+keywords: [Understand, BarcodeScanner, Modern, Legacy, APIs, previous, versions, scanning, barcode, session, different, programmatic, approach, several, barcodes, row, requiring, user, intervention, scan, Now, new, streamline, development, experience, common, cases, capabilities, large, quantities, efficiently, Practical, Differences, beginCapture]
 ---
-
-# Understand BarcodeScanner Modern and Legacy APIs
 
 > In previous versions of BarcodeScanner, scanning a single barcode in a scanning session
   required a different programmatic approach than scanning several barcodes in a row without

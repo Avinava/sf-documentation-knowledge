@@ -5,12 +5,10 @@ topic: determine-which-license-to-assign-to-dev-hub-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.774Z
+lastCollected: 2026-04-07T18:40:07.712Z
 estimatedTokens: 1023
-keywords: [Determine, License, Assign, Dev, Hub, Users, developer, depends, how, much, access, they, require, org, full]
+keywords: [Determine, License, Assign, Dev, Hub, Users, developer, depends, how, much, they, require, org, full, administrative, Salesforce, Platform, standard, user, want, limit, specific, features, two, options, Free, Limited]
 ---
-
-# Determine Which License to Assign to Dev Hub Users
 
 > Which license type you assign to developer users depends on how much access they require
       in the Dev Hub org. If they require full administrative access, you can assign the Salesforce

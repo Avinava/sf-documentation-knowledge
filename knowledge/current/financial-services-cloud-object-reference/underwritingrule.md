@@ -5,12 +5,10 @@ topic: underwritingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.120Z
+lastCollected: 2026-04-07T18:37:39.030Z
 estimatedTokens: 933
-keywords: [UnderwritingRule, underwriting, rule, product, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [UnderwritingRule, underwriting, rule, product, API, 63.0]
 ---
-
-# UnderwritingRule
 
 > Represents details of an underwriting rule for a product. This object is
       available in API version 63.0 and later.

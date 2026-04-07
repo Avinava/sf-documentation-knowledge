@@ -5,12 +5,10 @@ topic: yourhttpservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.647Z
+lastCollected: 2026-04-07T18:37:03.215Z
 estimatedTokens: 87
-keywords: [YourHttpService, common, HTTP, utilities, building, partner, package, user, gateway, API, classes, different, needs, However, we've]
+keywords: [YourHttpService, common, HTTP, utilities, building, partner, package, user, gateway, API, classes, different, needs, However, we've, provided, template, help, own]
 ---
-
-# YourHttpService
 
 > YourHttpService is an example of common HTTP utilities that might be required while
         building a partner package. All user gateway API classes will be different based on your

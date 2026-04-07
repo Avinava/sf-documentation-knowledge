@@ -5,12 +5,10 @@ topic: warranty-to-supplier-claims-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.366Z
+lastCollected: 2026-04-07T18:38:12.651Z
 estimatedTokens: 388
-keywords: [Warranty, Supplier, Claims, Input, representation, recovery]
+keywords: [Warranty, Supplier, Claims, recovery]
 ---
-
-# Warranty To Supplier Claims Input
 
 > Input representation to create supplier recovery claims from warranty claims.
 

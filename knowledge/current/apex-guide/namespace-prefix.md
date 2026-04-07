@@ -5,13 +5,11 @@ topic: namespace-prefix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.349Z
+lastCollected: 2026-04-07T18:36:16.565Z
 estimatedTokens: 831
 namespace: Schema
-keywords: [Prefix, Salesforce, application, supports, prefixes, managed, AppExchange, packages, differentiate, custom, organizations, Namespaces, Invoking, Package, Versioned]
+keywords: [Prefix, Salesforce, application, supports, prefixes, managed, AppExchange, packages, differentiate, organizations, Namespaces, Invoking, Package, Versioned, Behavior, Changes]
 ---
-
-# Namespace Prefix
 
 > The Salesforce application supports the use of namespace prefixes. Namespace prefixes are used in managed AppExchange packages to
             differentiate custom object and field names from names used by other

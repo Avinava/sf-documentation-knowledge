@@ -5,12 +5,10 @@ topic: topic-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.964Z
+lastCollected: 2026-04-07T18:37:16.039Z
 estimatedTokens: 128
 keywords: [Topic, Files, five, recently, posted]
 ---
-
-# Topic Files
 
 > Returns information about the five files most
          recently posted to the specified topic.

@@ -5,12 +5,10 @@ topic: resolve-retrieve-call-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.311Z
+lastCollected: 2026-04-07T18:40:18.517Z
 estimatedTokens: 402
 keywords: [Resolve, Retrieve, Call, Errors, resolving, Why, How, Items]
 ---
-
-# Resolve Retrieve Call Errors
 
 > This page contains information  about resolving errors during a Retrieve call.
 

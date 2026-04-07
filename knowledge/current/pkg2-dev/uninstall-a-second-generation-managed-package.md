@@ -5,12 +5,10 @@ topic: uninstall-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:03.876Z
+lastCollected: 2026-04-07T18:38:56.500Z
 estimatedTokens: 895
-keywords: [Uninstall, Second-Generation, Managed, Package, org, Salesforce, CLI, Setup, packages, components, including, any, deprecated, were, previously]
+keywords: [Uninstall, Second-Generation, Managed, Package, org, Salesforce, CLI, Setup, packages, including, any, deprecated, were, previously, deleted, Considerations, Uninstalling]
 ---
-
-# Uninstall a Second-Generation Managed Package
 
 > You can uninstall a second-generation managed package from an org using Salesforce CLI or
     from the Setup UI. When you uninstall second-generation managed packages, all components in the

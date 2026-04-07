@@ -5,12 +5,10 @@ topic: managedcareprogramprfm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.318Z
+lastCollected: 2026-04-07T18:38:18.958Z
 estimatedTokens: 972
-keywords: [ManagedCareProgramPrfm, rating, enrollee, retention, rate, according, plan, average, medicare, advantage, API, version, 59.0, later, Calls]
+keywords: [ManagedCareProgramPrfm, rating, enrollee, retention, rate, according, plan, average, medicare, advantage, API, 59.0]
 ---
-
-# ManagedCareProgramPrfm
 
 > Represents the rating and enrollee retention rate according to the
          plan type of an average medicare advantage plan. This object is available in API

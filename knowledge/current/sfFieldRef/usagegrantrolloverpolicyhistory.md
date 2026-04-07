@@ -5,12 +5,10 @@ topic: usagegrantrolloverpolicyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.876Z
+lastCollected: 2026-04-07T18:40:04.655Z
 estimatedTokens: 276
-keywords: [UsageGrantRolloverPolicyHistory, History, tracked, UsageGrantRolloverPolicy]
+keywords: [UsageGrantRolloverPolicyHistory, tracked, UsageGrantRolloverPolicy]
 ---
-
-# UsageGrantRolloverPolicyHistory
 
 > History for tracked fields of UsageGrantRolloverPolicy.
 

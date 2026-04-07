@@ -5,12 +5,10 @@ topic: expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.366Z
+lastCollected: 2026-04-07T18:36:19.584Z
 estimatedTokens: 416
 keywords: [Expressions, expression, construct, made, variables, operators, invocations, evaluates]
 ---
-
-# Expressions
 
 > An expression is a construct made up of variables, operators, and method invocations
         that evaluates to a single value.

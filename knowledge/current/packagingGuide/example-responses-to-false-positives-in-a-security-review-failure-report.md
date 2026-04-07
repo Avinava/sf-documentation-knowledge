@@ -5,12 +5,10 @@ topic: example-responses-to-false-positives-in-a-security-review-failure-report
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.577Z
+lastCollected: 2026-04-07T18:38:47.518Z
 estimatedTokens: 390
 keywords: [Responses, Positives, Security, Review, Failure, Report, how, document, listed, Salesforce, It’s, written, support, retest, submission]
 ---
-
-# Example Responses to False Positives in a Security Review Failure Report
 
 > The following example shows how to document your responses to false positives listed in a
   Salesforce security review failure report. It’s written to support a retest

@@ -5,12 +5,10 @@ topic: create-a-derived-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.813Z
+lastCollected: 2026-04-07T18:37:00.326Z
 estimatedTokens: 204
 keywords: [Derived, Dimension, Perform, manipulations, dimensions, new, City, State]
 ---
-
-# Create a Derived Dimension
 
 > Perform string manipulations on existing dimensions to create a new, or derived,
             dimension.

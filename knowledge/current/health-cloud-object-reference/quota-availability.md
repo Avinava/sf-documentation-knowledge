@@ -5,12 +5,10 @@ topic: quota-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.898Z
+lastCollected: 2026-04-07T18:37:42.047Z
 estimatedTokens: 107
-keywords: [Quota, Availability, Output, representation, quotas, their, start, end, dates, work]
+keywords: [Quota, Availability, quotas, their, start, end, dates, work]
 ---
-
-# Quota Availability
 
 > Output representation of a list of available quotas, and their start and end dates for a
     work type.

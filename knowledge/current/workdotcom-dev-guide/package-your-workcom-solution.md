@@ -5,12 +5,10 @@ topic: package-your-workcom-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.954Z
+lastCollected: 2026-04-07T18:40:13.926Z
 estimatedTokens: 803
 keywords: [Package, Work.com, Solution, Choose, appropriate, design, resulting, dependencies, Base, Hard, Extension]
 ---
-
-# Package Your Work.com Solution
 
 > Choose the most appropriate type of package based on your solution design and resulting
   dependencies.

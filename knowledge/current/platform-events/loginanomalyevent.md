@@ -5,12 +5,10 @@ topic: loginanomalyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.436Z
+lastCollected: 2026-04-07T18:38:59.321Z
 estimatedTokens: 952
-keywords: [LoginAnomalyEvent, entity, detects, data, access, anomalies, caused, potentially, malicious, login, actions, API, version, 64.0, later]
+keywords: [LoginAnomalyEvent, entity, detects, anomalies, caused, potentially, malicious, login, actions, API, 64.0, Subscribers, Event, Delivery, Allocation, Enforced]
 ---
-
-# LoginAnomalyEvent
 
 > This entity detects data access anomalies that are caused by potentially
          malicious login actions. This object is available in API version 64.0 and later.

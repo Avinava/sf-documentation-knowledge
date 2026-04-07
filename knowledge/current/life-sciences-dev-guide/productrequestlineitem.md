@@ -5,12 +5,10 @@ topic: productrequestlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.392Z
+lastCollected: 2026-04-07T18:38:01.220Z
 estimatedTokens: 446
-keywords: [ProductRequestLineItem, junction, ProductRequest, ProductTransfer, API, version, 50.0, later, 65.0, Samples, Management, feature, Calls]
+keywords: [ProductRequestLineItem, junction, ProductRequest, ProductTransfer, API, 50.0, 65.0, Samples, Management, feature]
 ---
-
-# ProductRequestLineItem
 
 > A junction object between ProductRequest
       and ProductTransfer This object is available in API

@@ -5,12 +5,10 @@ topic: handle-errors-in-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.702Z
+lastCollected: 2026-04-07T18:40:16.861Z
 estimatedTokens: 838
-keywords: [Handle, Errors, REST, API, Validation, Authorization, Authentication, Runtime]
+keywords: [Validation, Authorization, Authentication, Runtime, Handle, Errors, REST, API]
 ---
-
-# Handle Errors in REST API
 
 # Handle Errors in REST API
 

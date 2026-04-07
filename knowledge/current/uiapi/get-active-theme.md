@@ -5,12 +5,10 @@ topic: get-active-theme
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.505Z
+lastCollected: 2026-04-07T18:40:11.499Z
 estimatedTokens: 149
-keywords: [Active, Theme, Salesforce, org’s, uses, colors, images, banners, change, overall, appearance, Administrators, define, themes, switch]
+keywords: [Active, Theme, Salesforce, org’s, uses, colors, images, banners, change, overall, appearance, Administrators, define, themes, switch, provide, different, look, User, API, matches, Admin’s, selection]
 ---
-
-# Get Active Theme
 
 > Get a Salesforce org’s active theme. A theme uses colors, images,
       and banners to change the overall appearance of Salesforce. Administrators can define themes

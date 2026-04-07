@@ -5,12 +5,10 @@ topic: connectapiadjustordersummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.810Z
+lastCollected: 2026-04-07T18:36:07.153Z
 estimatedTokens: 522
-keywords: [Output, representation, financial, changes, adjust, items, action, preview, expected, submit, actual]
+keywords: [financial, changes, adjust, items, action, preview, expected, submit, actual]
 ---
-
-# ConnectApi.AdjustOrderSummaryOutputRepresentation
 
 > Output representation of the financial changes for an adjust items
       action. For a preview action, these values are the expected output. For a submit action, these

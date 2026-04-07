@@ -5,12 +5,10 @@ topic: retired-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.507Z
+lastCollected: 2026-04-07T18:40:10.481Z
 estimatedTokens: 470
 keywords: [Retired, Resources, User, API]
 ---
-
-# Retired Resources
 
 > These User Interface API resources are retired.
 

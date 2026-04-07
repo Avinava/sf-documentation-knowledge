@@ -5,12 +5,10 @@ topic: aivisitrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.861Z
+lastCollected: 2026-04-07T18:39:11.398Z
 estimatedTokens: 637
-keywords: [AiVisitRecommendation, visit, recommendation, API, version, 50.0, later, Calls]
+keywords: [AiVisitRecommendation, visit, recommendation, API, 50.0]
 ---
-
-# AiVisitRecommendation
 
 > Represents the details of a visit recommendation. This object is available
     in API version 50.0 and later.

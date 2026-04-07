@@ -6,13 +6,10 @@ topic: is-it-better-to-collect-payment-information-from-appexchange-checkout-cus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.003Z
+lastCollected: 2026-04-07T18:38:45.836Z
 estimatedTokens: 495
-keywords: [better, collect, payment, AppExchange, Checkout, customers, installation, approaches, advantages, recommend, thinking, target, business, processes, deciding]
+keywords: [better, collect, payment, AppExchange, Checkout, customers, installation, approaches, advantages, recommend, thinking, target, business, processes, deciding, decision]
 ---
-
-# Is it better to collect payment information from AppExchange Checkout customers before or
-    after installation?
 
 > Both approaches have advantages. We recommend thinking about your target customers and
     your business processes, and then deciding. Use this table to guide your decision.

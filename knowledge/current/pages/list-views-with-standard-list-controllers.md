@@ -5,12 +5,10 @@ topic: list-views-with-standard-list-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.824Z
+lastCollected: 2026-04-07T18:38:51.063Z
 estimatedTokens: 908
 keywords: [Views, Standard, Controllers, display, filtered, records, Visualforce, associate, controller]
 ---
-
-# List Views with Standard List Controllers
 
 > To display a filtered list of records on a Visualforce page, associate the page with
         a standard list controller.

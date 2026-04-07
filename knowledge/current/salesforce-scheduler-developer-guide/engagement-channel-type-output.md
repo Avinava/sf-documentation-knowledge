@@ -5,12 +5,10 @@ topic: engagement-channel-type-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.538Z
+lastCollected: 2026-04-07T18:39:20.236Z
 estimatedTokens: 92
-keywords: [Engagement, Channel, Output, representation]
+keywords: [Engagement, Channel]
 ---
-
-# Engagement Channel Type Output
 
 > Output representation of the list of the engagement channel
       types.

@@ -5,12 +5,10 @@ topic: partnerfundrequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.354Z
+lastCollected: 2026-04-07T18:39:51.769Z
 estimatedTokens: 268
-keywords: [PartnerFundRequestHistory, History, tracked, PartnerFundRequest]
+keywords: [PartnerFundRequestHistory, tracked, PartnerFundRequest]
 ---
-
-# PartnerFundRequestHistory
 
 > History for tracked fields of PartnerFundRequest.
 

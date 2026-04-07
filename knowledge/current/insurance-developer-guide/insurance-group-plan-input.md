@@ -5,12 +5,10 @@ topic: insurance-group-plan-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.099Z
+lastCollected: 2026-04-07T18:37:51.044Z
 estimatedTokens: 112
-keywords: [Insurance, Group, Plan, Input, representation, census, member, plans, their, coverages]
+keywords: [Insurance, Group, Plan, census, member, plans, their, coverages]
 ---
-
-# Insurance Group Plan Input
 
 > Input representation for group census member plans and their coverages.
 

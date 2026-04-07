@@ -5,12 +5,10 @@ topic: create-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:56.550Z
+lastCollected: 2026-04-07T18:38:48.502Z
 estimatedTokens: 302
 keywords: [Message, Channel, Lightning, org, LightningMessageChannel, metadata]
 ---
-
-# Create a Message Channel
 
 > To create a Lightning Message Channel in your org, use the LightningMessageChannel
   metadata type.

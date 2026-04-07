@@ -5,12 +5,10 @@ topic: interaction-summary-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.999Z
+lastCollected: 2026-04-07T18:39:05.011Z
 estimatedTokens: 164
-keywords: [Interaction, Summary, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Interaction, Summary, Model, relationships, Sector, Solutions]
 ---
-
-# Interaction Summary Data Model
 
 > Learn about the objects and relationships used for interaction summary in Public Sector
   Solutions.

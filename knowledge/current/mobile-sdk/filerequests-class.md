@@ -5,12 +5,10 @@ topic: filerequests-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.666Z
+lastCollected: 2026-04-07T18:40:25.057Z
 estimatedTokens: 383
-keywords: [FileRequests, file, operation, requests, new, RestRequest, Applications, send, Salesforce, service, process, code, snippet, calls, ownedFilesList]
+keywords: [FileRequests, file, operation, requests, new, RestRequest, Applications, send, Salesforce, service, process, code, snippet, ownedFilesList, retrieve, RestReque]
 ---
-
-# FileRequests Class
 
 > The FileRequests class
 provides methods that create file operation requests. Each method

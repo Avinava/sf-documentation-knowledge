@@ -5,12 +5,10 @@ topic: engagement-signal-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.381Z
+lastCollected: 2026-04-07T18:37:08.198Z
 estimatedTokens: 150
-keywords: [Engagement, Signal, Filter, Input, group]
+keywords: [Engagement, Signal, Filter, group]
 ---
-
-# Engagement Signal Filter Input
 
 > Filter used within an Engagement Signal filter group.
 

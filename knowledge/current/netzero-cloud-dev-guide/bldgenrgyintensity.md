@@ -5,12 +5,10 @@ topic: bldgenrgyintensity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.357Z
+lastCollected: 2026-04-07T18:38:17.875Z
 estimatedTokens: 2041
-keywords: [BldgEnrgyIntensity, average, energy, intensity, fuel, across, buildings, derive, data, published, sources, Alternatively, records, source, setting]
+keywords: [BldgEnrgyIntensity, average, energy, intensity, fuel, across, buildings, derive, published, sources, Alternatively, records, source, setting, window, time, characteristics, building, size, API, 54.0]
 ---
-
-# BldgEnrgyIntensity
 
 > Represents the average energy intensity by fuel type across a set of
          buildings. You can derive this data from published sources. Alternatively, you can do so by

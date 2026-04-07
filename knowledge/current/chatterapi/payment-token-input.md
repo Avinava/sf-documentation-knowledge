@@ -5,12 +5,10 @@ topic: payment-token-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.746Z
+lastCollected: 2026-04-07T18:37:09.471Z
 estimatedTokens: 101
-keywords: [Payment, Token, Input, tokenize, credit, card, Commerce, store, checkout]
+keywords: [Payment, Token, tokenize, credit, card, Commerce, store, checkout]
 ---
-
-# Payment Token Input
 
 > Input to tokenize a credit card payment method for a Commerce store checkout.
 

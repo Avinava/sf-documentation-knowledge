@@ -6,13 +6,10 @@ topic: give-customers-the-option-to-transfer-to-sms-in-the-interactive-voice-res
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.803Z
+lastCollected: 2026-04-07T18:40:12.765Z
 estimatedTokens: 2667
-keywords: [Give, Customers, Option, Transfer, SMS, Interactive, Voice, IVR, builds, created, “Link, New, Case, Call, Record”]
+keywords: [Prerequisites, Give, Customers, Option, Transfer, SMS, Interactive, Voice, IVR, builds, created, “Link, New, Case, Call, Record”, recipe, adding, another, switch, customer, selects, record, flow, automated, outbound, message, Step, Messaging, Template, “SCVB, Actions”, Import, “SCVCB, Transfer”, Contact, Add, Case”, Test]
 ---
-
-# Give Customers the Option to Transfer to SMS in the Interactive Voice Response
-    (IVR)
 
 > This example builds on the methods created in the “Link New or
       Existing Case to Voice Call Record” recipe by adding another IVR option to switch to SMS. When

@@ -5,12 +5,10 @@ topic: prechatinit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.726Z
+lastCollected: 2026-04-07T18:38:05.953Z
 estimatedTokens: 452
-keywords: [preChatInit, access, deployment, passed, chat, addCustomDetail, API, Usage, Responses, detailCallback]
+keywords: [Responses, preChatInit, deployment, passed, chat, addCustomDetail, API, detailCallback]
 ---
-
-# preChatInit
 
 > Use the preChatInit method to access the deployment information that has been passed
         into the chat through the addCustomDetail Deployment API method.

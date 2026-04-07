@@ -5,12 +5,10 @@ topic: quotehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.295Z
+lastCollected: 2026-04-07T18:39:57.913Z
 estimatedTokens: 250
-keywords: [QuoteHistory, History, tracked, Quote]
+keywords: [QuoteHistory, tracked, Quote]
 ---
-
-# QuoteHistory
 
 > History for tracked fields of Quote.
 

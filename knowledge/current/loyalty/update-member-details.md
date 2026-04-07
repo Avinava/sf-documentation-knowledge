@@ -5,12 +5,10 @@ topic: update-member-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.483Z
+lastCollected: 2026-04-07T18:38:07.713Z
 estimatedTokens: 375
 keywords: [Member, personal, preference, URL, Sample, JSON]
 ---
-
-# Update Member Details
 
 > Update personal and preference details of a member.
 

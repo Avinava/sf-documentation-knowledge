@@ -5,12 +5,10 @@ topic: tenantusageentitlement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.918Z
+lastCollected: 2026-04-07T18:38:42.642Z
 estimatedTokens: 1308
-keywords: [TenantUsageEntitlement, data, structure, features, functionalities, Salesforce, org, access, API, version, 28.0, later, Calls, Associated, Objects]
+keywords: [TenantUsageEntitlement, structure, features, functionalities, Salesforce, org, API, 28.0]
 ---
-
-# TenantUsageEntitlement
 
 > Represents a data structure that contains information about the features or
    functionalities that a Salesforce org has access to. This object is available in API version

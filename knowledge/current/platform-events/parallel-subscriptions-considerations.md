@@ -5,12 +5,10 @@ topic: parallel-subscriptions-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.317Z
+lastCollected: 2026-04-07T18:38:58.172Z
 estimatedTokens: 626
-keywords: [Parallel, Subscriptions, Considerations, Keep, mind, Active, Apex, Trigger, Deactivating, deleting, PlatformEventSubscriberConfig, Modifying, platformEventConsumer, event, EventUuid]
+keywords: [Parallel, Subscriptions, Considerations, Keep, mind, Active, Apex, Trigger, Deactivating, deleting, PlatformEventSubscriberConfig, Modifying, platformEventConsumer, event, EventUuid, partition, key, due, corrupt, schema, Changing]
 ---
-
-# Parallel Subscriptions Considerations
 
 > Keep in mind these considerations about parallel subscriptions.
 

@@ -5,12 +5,10 @@ topic: optimize-the-view-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.718Z
+lastCollected: 2026-04-07T18:38:48.666Z
 estimatedTokens: 619
-keywords: [Optimize, View, State, maintain, Visualforce, page’s, Lightning, Platform, stores, components, controller, encrypted, hidden, form, element]
+keywords: [Optimize, View, State, maintain, Visualforce, page’s, Lightning, Platform, stores, controller, encrypted, hidden, form, limit, large, requires, longer, processing, times, including, serialization, deserialization, time, encryption, decryption, reduce, size, load, faster, stall, less, often]
 ---
-
-# Optimize the View State
 
 > To maintain a Visualforce page’s view state, Lightning Platform stores the state of
     components, field values, and the controller as an encrypted string in a hidden form element.

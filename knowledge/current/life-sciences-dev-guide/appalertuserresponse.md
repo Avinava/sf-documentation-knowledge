@@ -5,12 +5,10 @@ topic: appalertuserresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.514Z
+lastCollected: 2026-04-07T18:37:59.066Z
 estimatedTokens: 1029
-keywords: [AppAlertUserResponse, user, action, alert, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [AppAlertUserResponse, user, action, alert, API, 65.0]
 ---
-
-# AppAlertUserResponse
 
 > Represents the user action for an alert. This object is available in API version 65.0
       and later.

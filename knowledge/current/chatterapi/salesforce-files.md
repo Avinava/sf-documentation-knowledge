@@ -5,12 +5,10 @@ topic: salesforce-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.911Z
+lastCollected: 2026-04-07T18:37:23.951Z
 estimatedTokens: 1375
 keywords: [Salesforce, Files, Connect, REST, API, work]
 ---
-
-# Salesforce Files
 
 > Use Connect REST API to work with Salesforce Files.
 

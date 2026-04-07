@@ -5,12 +5,10 @@ topic: donor-options-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.020Z
+lastCollected: 2026-04-07T18:37:29.134Z
 estimatedTokens: 230
-keywords: [Donor, Options, Input, representation, processing, includes, targeted, logic, donor-related, components, commitment, transaction]
+keywords: [Donor, Options, processing, includes, targeted, logic, donor-related, commitment, transaction]
 ---
-
-# Donor Options Details Input
 
 > Input representation of the available donor processing options that includes targeted
     update logic for the donor-related components of the commitment transaction.

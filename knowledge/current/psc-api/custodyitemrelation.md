@@ -5,12 +5,10 @@ topic: custodyitemrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.333Z
+lastCollected: 2026-04-07T18:39:06.415Z
 estimatedTokens: 940
-keywords: [CustodyItemRelation, relationship, custody, item, context, it’s, held, case, proceeding, API, version, 59.0, later, Calls, Special]
+keywords: [CustodyItemRelation, relationship, custody, item, context, it’s, held, case, proceeding, API, 59.0]
 ---
-
-# CustodyItemRelation
 
 > Represents the relationship between a custody item and the context in
          which it’s held. For example, a custody item related to a case or case proceeding.

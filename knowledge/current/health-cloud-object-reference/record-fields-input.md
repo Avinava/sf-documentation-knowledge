@@ -5,12 +5,10 @@ topic: record-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.006Z
+lastCollected: 2026-04-07T18:37:41.004Z
 estimatedTokens: 143
-keywords: [Record, Input, representation, generic, account, referral]
+keywords: [Record, generic, account, referral]
 ---
-
-# Record Fields Input
 
 > Input representation of the request to create a generic object, such
       as an account, or referral details.

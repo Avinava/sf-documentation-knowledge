@@ -5,12 +5,10 @@ topic: customonetimepassworddeliveryresult-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.099Z
+lastCollected: 2026-04-07T18:36:12.392Z
 estimatedTokens: 282
-keywords: [CustomOneTimePasswordDeliveryResult, status, attempt, send, one-time, password, OTP, external, user, via, custom, messaging, provider, Usage]
+keywords: [CustomOneTimePasswordDeliveryResult, status, attempt, send, one-time, password, OTP, external, user, via, messaging, provider]
 ---
-
-# CustomOneTimePasswordDeliveryResult Enum
 
 > Indicates the status of an attempt to send a one-time password (OTP) to an external user
     via a custom messaging provider.

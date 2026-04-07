@@ -5,12 +5,10 @@ topic: contentdocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.777Z
+lastCollected: 2026-04-07T18:39:35.223Z
 estimatedTokens: 617
-keywords: [ContentDocument, document, uploaded, library, Salesforce, CRM, Content, Files, versions, 17.0, later, API, version, 21.0]
+keywords: [ContentDocument, document, uploaded, library, Salesforce, CRM, Content, Files, versions, 17.0, API, 21.0]
 ---
-
-# ContentDocument
 
 > Represents a document that has been uploaded to a library in
 			Salesforce CRM Content or Salesforce Files. This object is available in versions 17.0

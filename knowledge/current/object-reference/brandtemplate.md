@@ -5,12 +5,10 @@ topic: brandtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.831Z
+lastCollected: 2026-04-07T18:38:26.812Z
 estimatedTokens: 824
-keywords: [BrandTemplate, Letterhead, HTML, EmailTemplate, Calls, Special, Access, Rules, Usage]
+keywords: [BrandTemplate, Letterhead, HTML, EmailTemplate]
 ---
-
-# BrandTemplate
 
 > Letterhead for HTML EmailTemplate.
 

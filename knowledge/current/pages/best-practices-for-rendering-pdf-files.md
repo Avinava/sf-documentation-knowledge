@@ -5,12 +5,10 @@ topic: best-practices-for-rendering-pdf-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:57.047Z
+lastCollected: 2026-04-07T18:38:49.032Z
 estimatedTokens: 457
 keywords: [Best, Practices, Rendering, PDF, Files, Visualforce, file, great, way, share, Salesforce, organization, consider]
 ---
-
-# Best Practices for Rendering PDF Files
 
 > Rendering a Visualforce page as a
   PDF file is a great way to share information about your Salesforce organization. Here are some best

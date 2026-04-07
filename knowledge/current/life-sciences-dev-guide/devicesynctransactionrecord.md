@@ -5,12 +5,10 @@ topic: devicesynctransactionrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.260Z
+lastCollected: 2026-04-07T18:37:59.951Z
 estimatedTokens: 1255
-keywords: [DeviceSyncTransactionRecord, data, item, synchronize, mobile, device, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [DeviceSyncTransactionRecord, item, synchronize, mobile, device, API, 65.0]
 ---
-
-# DeviceSyncTransactionRecord
 
 > Represents a single data item to synchronize from a mobile device.
       This object is available in API version 65.0 and later.

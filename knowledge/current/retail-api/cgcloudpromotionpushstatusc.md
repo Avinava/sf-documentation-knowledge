@@ -5,12 +5,10 @@ topic: cgcloudpromotionpushstatusc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.159Z
+lastCollected: 2026-04-07T18:39:14.560Z
 estimatedTokens: 1458
-keywords: [cgcloud__Promotion_Push_Status__c, push, process, entry, status, statistics, API, version, 54.0, later, cgcloud, _Promotion, _Push, _Status, Calls]
+keywords: [cgcloud__Promotion_Push_Status__c, push, process, entry, status, statistics, API, 54.0, cgcloud, _Promotion, _Push, _Status]
 ---
-
-# cgcloud__Promotion_Push_Status__c
 
 > Contains for each push process an entry that contains the status and
          statistics for the push. This object is available in API version 54.0 and later.

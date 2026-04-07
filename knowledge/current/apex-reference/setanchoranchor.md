@@ -5,12 +5,10 @@ topic: setanchoranchor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.929Z
+lastCollected: 2026-04-07T18:35:59.204Z
 estimatedTokens: 153
 keywords: [setAnchor, anchor, URL’s]
 ---
-
-# setAnchor(anchor)
 
 > Sets the URL’s anchor reference to the specified
 string.

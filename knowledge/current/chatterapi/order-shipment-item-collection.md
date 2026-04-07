@@ -5,12 +5,10 @@ topic: order-shipment-item-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.286Z
+lastCollected: 2026-04-07T18:37:21.418Z
 estimatedTokens: 305
 keywords: [Order, Shipment, Item, Collection, items]
 ---
-
-# Order Shipment Item Collection
 
 > Collection of order shipment items.
 

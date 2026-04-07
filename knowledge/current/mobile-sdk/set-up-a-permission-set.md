@@ -5,12 +5,10 @@ topic: set-up-a-permission-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.940Z
+lastCollected: 2026-04-07T18:40:25.308Z
 estimatedTokens: 362
 keywords: [Permission, Another, way, enable, mobile, apps, Experience, Cloud, site]
 ---
-
-# Set Up a Permission Set
 
 > Another way to enable mobile apps for your Experience Cloud site is through a permission set.
 

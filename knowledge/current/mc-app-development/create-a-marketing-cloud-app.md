@@ -5,12 +5,10 @@ topic: create-a-marketing-cloud-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.954Z
+lastCollected: 2026-04-07T18:40:21.235Z
 estimatedTokens: 854
 keywords: [Marketing, Cloud, App, August, removed, ability, legacy, packages, new, enhanced, Items]
 ---
-
-# Create a Marketing Cloud App
 
 > As of August 1, 2019, Marketing Cloud has removed the ability to create legacy packages. All new packages are enhanced packages.
 

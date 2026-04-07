@@ -5,12 +5,10 @@ topic: supplementalcompensation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.618Z
+lastCollected: 2026-04-07T18:37:32.870Z
 estimatedTokens: 597
-keywords: [SupplementalCompensation, meals, equivalent, gifts, awarded, service, worker, according, labor, laws, company, policies, API, version, 61.0]
+keywords: [SupplementalCompensation, meals, equivalent, gifts, awarded, service, worker, according, labor, laws, company, policies, API, 61.0]
 ---
-
-# SupplementalCompensation
 
 > Represents the meals or equivalent gifts awarded to the field service worker
          according to the labor laws and company policies. This object is available in API

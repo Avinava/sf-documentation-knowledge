@@ -5,12 +5,10 @@ topic: order-summaries-multiple-ensure-funds-async
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.632Z
+lastCollected: 2026-04-07T18:37:15.694Z
 estimatedTokens: 1141
-keywords: [Order, Summaries, Multiple, Ensure, Funds, Async, apply, Invoices, needed, capture, authorized, sending, payment, provider, inserts]
+keywords: [Order, Summaries, Multiple, Ensure, Funds, Async, apply, Invoices, needed, capture, authorized, sending, payment, provider, inserts, background, operation, asynchronous, job, queue, track, status, gateway, responses, appear, log, affect]
 ---
-
-# Order Summaries, Multiple Ensure Funds Async
 
 > Ensure and apply funds for one or more Invoices. If needed, capture
       authorized funds by sending a request to a payment provider. This method inserts a background

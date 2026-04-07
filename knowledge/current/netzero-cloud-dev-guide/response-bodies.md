@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.959Z
+lastCollected: 2026-04-07T18:38:16.516Z
 estimatedTokens: 1279
 keywords: [Bodies, Here’s, Net, Zero, Cloud, Business, API]
 ---
-
-# Response Bodies
 
 > Here’s a list of Net Zero Cloud Business API response bodies.
 

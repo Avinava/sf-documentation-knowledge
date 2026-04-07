@@ -5,12 +5,10 @@ topic: connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.780Z
+lastCollected: 2026-04-07T18:39:20.531Z
 estimatedTokens: 639
 keywords: [Connect, APIs, Salesforce, Scheduler, REST, service, territories, consolidated, availability, resource, appointments]
 ---
-
-# Connect APIs
 
 > Use Salesforce Scheduler Connect REST APIs to get service territories, get consolidated
     availability of each service resource within specified territories, and create service

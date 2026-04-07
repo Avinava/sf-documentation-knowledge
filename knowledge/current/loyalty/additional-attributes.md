@@ -5,12 +5,10 @@ topic: additional-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.511Z
+lastCollected: 2026-04-07T18:38:07.748Z
 estimatedTokens: 83
-keywords: [Additional, Attributes, Output, representation, promotion]
+keywords: [Additional, Attributes, promotion]
 ---
-
-# Additional Attributes
 
 > Output representation of the additional details of a promotion.
 

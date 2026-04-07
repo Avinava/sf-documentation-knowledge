@@ -5,12 +5,10 @@ topic: wkdwonboardingtaskc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.173Z
+lastCollected: 2026-04-07T18:40:14.207Z
 estimatedTokens: 605
-keywords: [wkdw__OnboardingTask__c, Custom, reusable, task, definition, assigned, employee, transition, plan, template, wkdw, _OnboardingTask, Calls]
+keywords: [wkdw__OnboardingTask__c, reusable, task, definition, assigned, employee, transition, plan, template, wkdw, _OnboardingTask]
 ---
-
-# wkdw__OnboardingTask__c
 
 > Custom object that represents a reusable task definition that defines
          the task assigned to an employee in a transition plan template.

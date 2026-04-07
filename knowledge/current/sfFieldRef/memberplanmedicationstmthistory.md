@@ -5,12 +5,10 @@ topic: memberplanmedicationstmthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.218Z
+lastCollected: 2026-04-07T18:39:48.674Z
 estimatedTokens: 278
-keywords: [MemberPlanMedicationStmtHistory, History, tracked, MemberPlanMedicationStmt]
+keywords: [MemberPlanMedicationStmtHistory, tracked, MemberPlanMedicationStmt]
 ---
-
-# MemberPlanMedicationStmtHistory
 
 > History for tracked fields of MemberPlanMedicationStmt.
 

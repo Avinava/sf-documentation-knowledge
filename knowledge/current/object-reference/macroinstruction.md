@@ -5,12 +5,10 @@ topic: macroinstruction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.151Z
+lastCollected: 2026-04-07T18:38:35.395Z
 estimatedTokens: 1416
-keywords: [MacroInstruction, instruction, macro, specify, interacts, context, publisher, works, operation, action, performs, target, macro’s, actions, Calls]
+keywords: [MacroInstruction, instruction, macro, specify, interacts, context, publisher, works, operation, action, performs, target, macro’s, actions, Model]
 ---
-
-# MacroInstruction
 
 > Represents an instruction in a macro. An instruction can
 				specify the object that the macro interacts with, the context or publisher that the

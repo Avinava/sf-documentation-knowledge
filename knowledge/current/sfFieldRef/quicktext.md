@@ -5,12 +5,10 @@ topic: quicktext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.200Z
+lastCollected: 2026-04-07T18:39:57.813Z
 estimatedTokens: 449
-keywords: [QuickText, stores, snippet, text, users, send, quick, customer, greetings, answers, common, questions, short, notes, API]
+keywords: [QuickText, stores, snippet, text, users, send, quick, customer, greetings, answers, common, questions, short, notes, API, 24.0]
 ---
-
-# QuickText
 
 > This object stores a snippet of text that allows users to send a quick
    response to a customer. Use quick text to create greetings, answers to common questions, short

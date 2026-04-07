@@ -5,12 +5,10 @@ topic: benefits-verification-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.393Z
+lastCollected: 2026-04-07T18:37:41.484Z
 estimatedTokens: 390
-keywords: [Benefits, Verification, Output, content, running, Verify, API, call]
+keywords: [Benefits, Verification, content, running, Verify, API, call]
 ---
-
-# Benefits Verification Output
 
 > This is the content of the output from running the Verify Benefits API
       call.

@@ -5,12 +5,10 @@ topic: hasclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.443Z
+lastCollected: 2026-04-07T18:38:05.645Z
 estimatedTokens: 98
-keywords: [hasClass, Checks, whether, component, CSS, Sample, Code]
+keywords: [hasClass, Checks, whether, CSS, Sample, Code]
 ---
-
-# hasClass()
 
 > Checks whether the component has the specified CSS
   class.

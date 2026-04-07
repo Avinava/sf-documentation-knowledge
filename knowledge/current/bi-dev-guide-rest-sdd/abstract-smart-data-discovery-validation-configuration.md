@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-validation-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.802Z
+lastCollected: 2026-04-07T18:36:59.303Z
 estimatedTokens: 194
-keywords: [Abstract, Smart, Data, Discovery, Validation, Configuration, base, output]
+keywords: [Abstract, Smart, Discovery, Validation, Configuration, base]
 ---
-
-# Abstract Smart Data Discovery Validation Configuration
 
 > The base validation configuration output.
 

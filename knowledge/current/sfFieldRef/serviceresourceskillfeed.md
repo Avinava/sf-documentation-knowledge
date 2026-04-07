@@ -5,12 +5,10 @@ topic: serviceresourceskillfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.875Z
+lastCollected: 2026-04-07T18:40:01.639Z
 estimatedTokens: 363
-keywords: [ServiceResourceSkillFeed, Feed, tracking, ServiceResourceSkill]
+keywords: [ServiceResourceSkillFeed, ServiceResourceSkill]
 ---
-
-# ServiceResourceSkillFeed
 
 > Feed tracking for ServiceResourceSkill.
 

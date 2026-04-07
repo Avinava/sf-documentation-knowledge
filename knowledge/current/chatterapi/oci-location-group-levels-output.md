@@ -5,12 +5,10 @@ topic: oci-location-group-levels-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.977Z
+lastCollected: 2026-04-07T18:37:20.144Z
 estimatedTokens: 94
-keywords: [OCI, Location, Group, Levels, Output, Inventory, data]
+keywords: [OCI, Location, Group, Levels, Inventory]
 ---
-
-# OCI Location Group Levels Output
 
 > Inventory location group levels data.
 

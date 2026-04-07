@@ -5,12 +5,10 @@ topic: gamedefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.504Z
+lastCollected: 2026-04-07T18:39:42.156Z
 estimatedTokens: 262
-keywords: [GameDefinitionHistory, History, tracked, GameDefinition]
+keywords: [GameDefinitionHistory, tracked, GameDefinition]
 ---
-
-# GameDefinitionHistory
 
 > History for tracked fields of GameDefinition.
 

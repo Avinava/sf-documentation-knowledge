@@ -5,12 +5,10 @@ topic: installing-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.854Z
+lastCollected: 2026-04-07T18:40:26.173Z
 estimatedTokens: 76
 keywords: [Installing, Mobile, SDK, Salesforce, two, installation, paths]
 ---
-
-# Installing Mobile SDK
 
 > Salesforce Mobile SDK provides two
   installation paths.

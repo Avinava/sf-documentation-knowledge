@@ -5,12 +5,10 @@ topic: post-datav1asyncdataextensionsidrows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.464Z
+lastCollected: 2026-04-07T18:40:17.639Z
 estimatedTokens: 690
-keywords: [POST, data, async, dataextensions, rows, Asynchronously, insert, identified, extension, key, unique, identifier, external, customer, **Overview**]
+keywords: [POST, async, dataextensions, rows, Asynchronously, insert, identified, extension, key, unique, identifier, external, customer, **Overview**, Success, Accepted, Error]
 ---
-
-# POST /data/v1/async/dataextensions/{id}/rows
 
 > Asynchronously insert data into an identified data extension by id or key, where id is the unique identifier of the data extension and key is the external key (customer key) of the data extension.
 

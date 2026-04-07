@@ -5,12 +5,10 @@ topic: use-functions-in-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.887Z
+lastCollected: 2026-04-07T18:37:02.442Z
 estimatedTokens: 416
-keywords: [Functions, Rules, powerful, apply, iteratively, arrays, conditional, content, array, CRM, Analytics, Templates, supports, json, well]
+keywords: [Functions, powerful, apply, iteratively, arrays, conditional, content, array, CRM, Analytics, Templates, supports, json, well, math, sfdc_fma]
 ---
-
-# Use Functions in Rules
 
 > Functions make rules more powerful. For example, use functions to apply rules
     iteratively to arrays or to make rules conditional on the content of a string or an array. CRM

@@ -5,12 +5,10 @@ topic: adverse-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.956Z
+lastCollected: 2026-04-07T18:37:57.507Z
 estimatedTokens: 246
-keywords: [Adverse, Events, data, model, helps, managing, documenting, any, unfavorable, unintended, signs, symptoms, diseases, occur, participants]
+keywords: [Adverse, Events, model, helps, managing, documenting, any, unfavorable, unintended, signs, symptoms, diseases, occur, participants, research, study, include, wide, range, physical, psychological, effects, varies, mild, discomfort, serious, health, complications]
 ---
-
-# Adverse Events
 
 > Adverse Events data model helps you in managing and documenting any unfavorable or
     unintended signs, symptoms, or diseases that occur in participants during the research study.

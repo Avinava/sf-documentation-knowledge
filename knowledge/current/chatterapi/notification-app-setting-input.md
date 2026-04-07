@@ -6,13 +6,10 @@ topic: notification-app-setting-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.426Z
+lastCollected: 2026-04-07T18:37:09.195Z
 estimatedTokens: 248
-keywords: [Notification, App, Setting, Input]
+keywords: [Notification, App, Setting]
 ---
-
-# Notification App Setting
-    Input
 
 > Notification app setting.
 

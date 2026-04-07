@@ -5,12 +5,10 @@ topic: get-eligible-program-rebate-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.940Z
+lastCollected: 2026-04-07T18:37:05.642Z
 estimatedTokens: 692
-keywords: [Eligible, Program, Rebate, Retrieve, mapped, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Eligible, Program, Rebate, Retrieve, mapped, REST, HTTP]
 ---
-
-# Get Eligible Program Rebate Types
 
 > Retrieve the eligible program rebate types for a mapped
   object.

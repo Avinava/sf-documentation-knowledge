@@ -5,12 +5,10 @@ topic: examples-of-common-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.856Z
+lastCollected: 2026-04-07T18:40:12.809Z
 estimatedTokens: 1475
-keywords: [Examples, Common, Cases, Salesforce, Amazon, Web, Services, provide, help, started, Service, Cloud, Voice, illustrate, how]
+keywords: [Examples, Common, Cases, Salesforce, Amazon, Web, Services, provide, help, started, Service, Cloud, Voice, illustrate, how, implement, SMS, transfers, linking, voicemail, setup, foundational, build, upon, support, company’s, business, processes]
 ---
-
-# Examples of Common Use Cases
 
 > Salesforce and Amazon Web Services provide examples to help you get started using
     Service Cloud Voice. These examples illustrate how to implement common use cases such as SMS

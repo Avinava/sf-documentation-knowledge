@@ -5,12 +5,10 @@ topic: put-platformv1ens-regenerate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.271Z
+lastCollected: 2026-04-07T18:40:18.481Z
 estimatedTokens: 306
-keywords: [PUT, platform, ens-regenerate, Regenerates, key, callback, Regenerating, deactivates, **Overview**, Usage, HTTP, Responses]
+keywords: [PUT, platform, ens-regenerate, Regenerates, key, callback, Regenerating, deactivates, **Overview**, HTTP, Responses]
 ---
-
-# PUT /platform/v1/ens-regenerate
 
 > Regenerates a signature key for a given callback. Regenerating a signature key deactivates the existing key.
 

@@ -5,12 +5,10 @@ topic: uiobjectrelationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.755Z
+lastCollected: 2026-04-07T18:37:45.155Z
 estimatedTokens: 1020
-keywords: [UIObjectRelationConfig, admin-created, configuration, relation, component, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, UIObjectRelationFieldConfig]
+keywords: [UIObjectRelationConfig, UIObjectRelationFieldConfig, admin-created, configuration, relation, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# UIObjectRelationConfig
 
 > Represents the admin-created configuration of the object
 			relation UI component.

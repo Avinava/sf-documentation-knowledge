@@ -5,12 +5,10 @@ topic: oci-transfer-reservation-single-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.577Z
+lastCollected: 2026-04-07T18:37:09.315Z
 estimatedTokens: 438
-keywords: [OCI, Transfer, Reservation, Input, inventory]
+keywords: [OCI, Transfer, Reservation, inventory]
 ---
-
-# OCI Transfer Reservation Single Input
 
 > An inventory reservation transfer.
 

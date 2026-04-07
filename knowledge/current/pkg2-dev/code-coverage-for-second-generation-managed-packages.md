@@ -5,12 +5,10 @@ topic: code-coverage-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.731Z
+lastCollected: 2026-04-07T18:38:56.257Z
 estimatedTokens: 312
-keywords: [Code, Coverage, Second-Generation, Managed, Packages, release, distribute, package, version, AppExchange, Apex, meet, minimum, 75%, requirement]
+keywords: [Code, Coverage, Second-Generation, Managed, Packages, release, distribute, package, AppExchange, Apex, meet, minimum, 75%, requirement, every, Trigger, needs, test]
 ---
-
-# Code Coverage for Second-Generation Managed Packages
 
 > Before you can release and distribute a second-generation managed package version on
     AppExchange, the Apex code must meet a minimum 75% code coverage requirement. And every Apex

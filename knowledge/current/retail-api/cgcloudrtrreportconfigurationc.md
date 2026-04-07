@@ -5,12 +5,10 @@ topic: cgcloudrtrreportconfigurationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.395Z
+lastCollected: 2026-04-07T18:39:14.793Z
 estimatedTokens: 1130
-keywords: [cgcloud__RTR_Report_Configuration__c, Real, Time, Report, RTR, Configurations, record, data, that's, loaded, how, shown, declarative, manner, API]
+keywords: [cgcloud__RTR_Report_Configuration__c, Real, Time, Report, RTR, Configurations, record, that's, loaded, how, shown, declarative, manner, API, 54.0, cgcloud, _RTR, _Report, _Configuration]
 ---
-
-# cgcloud__RTR_Report_Configuration__c
 
 > This object contains Real Time Report (RTR) Configurations. One
          record defines the data that's to be loaded for a report and what or how it gets shown in a

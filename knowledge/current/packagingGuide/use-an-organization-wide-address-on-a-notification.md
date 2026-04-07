@@ -5,12 +5,10 @@ topic: use-an-organization-wide-address-on-a-notification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.432Z
+lastCollected: 2026-04-07T18:38:46.297Z
 estimatedTokens: 489
-keywords: [Organization-Wide, Address, Notification, notifications, sent, Checkout, Management, App, CMA, include, generic, email, want, contact, specific]
+keywords: [Organization-Wide, Address, Notification, notifications, sent, Checkout, Management, App, CMA, include, generic, email, want, contact, specific, team, company, support, billing, specify, customer, replies, directed, right, people]
 ---
-
-# Use an Organization-Wide Address on a Notification
 
 > By default, notifications sent by the Checkout Management App (CMA) include a generic
         email address in the From field. But what if you want to include contact information for a

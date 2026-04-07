@@ -5,12 +5,10 @@ topic: find-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.048Z
+lastCollected: 2026-04-07T18:37:48.769Z
 estimatedTokens: 373
-keywords: [Insurance, Policy, Action, associated, commission, statement, line, item, matches, criteria, status, record, Special, Access, Rules]
+keywords: [Inputs, Outputs, Insurance, Policy, Action, commission, statement, line, item, matches, criteria, status, record, REST, HTTP]
 ---
-
-# Find Insurance Policy Action
 
 > Get the insurance policy associated with a commission statement line item that matches
   the specified criteria, and update the status of the commission statement line item

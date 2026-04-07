@@ -5,12 +5,10 @@ topic: salesforce-pricing-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.667Z
+lastCollected: 2026-04-07T18:35:47.695Z
 estimatedTokens: 2648
-keywords: [Salesforce, Pricing, Standard, Objects, data, model, manage, processes, product, management, calculation, application, discounts]
+keywords: [Salesforce, Pricing, Standard, model, manage, processes, product, management, calculation, application, discounts]
 ---
-
-# Salesforce Pricing Standard Objects
 
 > The Salesforce Pricing data model provides objects and fields to manage pricing
   processes, such as product management and calculation and application of discounts.

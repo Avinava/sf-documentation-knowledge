@@ -5,12 +5,10 @@ topic: resumerecording
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.522Z
+lastCollected: 2026-04-07T18:39:23.454Z
 estimatedTokens: 126
 keywords: [resumeRecording, Resume, recording, call]
 ---
-
-# resumeRecording
 
 > Resume recording a call.
 

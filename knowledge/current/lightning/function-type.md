@@ -5,12 +5,10 @@ topic: function-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.794Z
+lastCollected: 2026-04-07T18:38:04.941Z
 estimatedTokens: 330
-keywords: [Function, attribute, aura, corresponding, JavaScript, pass, component, can’t]
+keywords: [Function, attribute, aura, corresponding, JavaScript, pass, can’t]
 ---
-
-# Function Type
 
 > An attribute of an aura:method can have a
                 type corresponding to a JavaScript function so that you can pass a function into the

@@ -5,12 +5,10 @@ topic: applicationrecordtypeconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.239Z
+lastCollected: 2026-04-07T18:39:04.358Z
 estimatedTokens: 469
-keywords: [ApplicationRecordTypeConfig, Configuration, maps, record, application, API, version, 57.0, later, Parent, File, Suffix, Directory, Location, Special, 50.0, SOAP, Calls, REST]
+keywords: [ApplicationRecordTypeConfig, Configuration, maps, record, application, API, 57.0, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, 50.0, SOAP, REST]
 ---
-
-# ApplicationRecordTypeConfig
 
 > Configuration that maps object record types to an
 			application. This object is available in API version 57.0 and later.

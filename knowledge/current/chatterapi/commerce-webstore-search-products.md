@@ -5,12 +5,10 @@ topic: commerce-webstore-search-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.832Z
+lastCollected: 2026-04-07T18:37:12.711Z
 estimatedTokens: 865
 keywords: [Commerce, Webstore, Search, Products, term, category]
 ---
-
-# Commerce Webstore Search Products
 
 > Search products by search term or category in a
     webstore.

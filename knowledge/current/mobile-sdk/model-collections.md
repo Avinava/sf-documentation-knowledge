@@ -5,12 +5,10 @@ topic: model-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.140Z
+lastCollected: 2026-04-07T18:40:25.506Z
 estimatedTokens: 335
-keywords: [Model, Collections, Mobile, Sync, containers, query, results, stored, collection, come, server, via, SOQL, SOSL, MRU]
+keywords: [Examples, Model, Collections, Mobile, Sync, containers, query, results, stored, collection, come, server, via, SOQL, SOSL, MRU, queries, Optionally, they, cache, SmartSQL, SmartStore, another, mechanism]
 ---
-
-# Model Collections
 
 > Model collections in Mobile Sync are containers for query results. Query results stored in a model collection
    can come from the server via SOQL, SOSL, or MRU queries. Optionally, they can also come from the

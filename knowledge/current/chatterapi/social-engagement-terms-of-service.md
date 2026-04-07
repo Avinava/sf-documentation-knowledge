@@ -5,12 +5,10 @@ topic: social-engagement-terms-of-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.825Z
+lastCollected: 2026-04-07T18:37:15.894Z
 estimatedTokens: 113
 keywords: [Social, Engagement, Terms, Service, accept, PUT, PATCH]
 ---
-
-# Social Engagement Terms of Service
 
 > Get and accept the terms of service. Make a PUT request to read the
       terms of service and then make a PATCH request to accept them.

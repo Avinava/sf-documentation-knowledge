@@ -5,12 +5,10 @@ topic: connectapitopicscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.190Z
+lastCollected: 2026-04-07T18:36:06.541Z
 estimatedTokens: 157
-keywords: [ConnectApi.TopicsCapabilityInput, Assign, topics, feed, element]
+keywords: [ConnectApi.TopicsCapabilityInput, Assign, topics]
 ---
-
-# ConnectApi.TopicsCapabilityInput
 
 > Assign topics to a feed element.
 

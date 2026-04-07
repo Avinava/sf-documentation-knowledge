@@ -5,12 +5,10 @@ topic: retrieve-data-that-salesforce-maps-hosts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.697Z
+lastCollected: 2026-04-07T18:38:10.956Z
 estimatedTokens: 714
-keywords: [Retrieve, Data, Salesforce, Maps, Hosts, GetHostedData, Apex, retrieves, geographical, IDs, displays, accomplish, retrieval, two, requests]
+keywords: [Retrieve, Salesforce, Maps, Hosts, GetHostedData, Apex, retrieves, geographical, IDs, displays, accomplish, retrieval, two, requests, area, filter, criteria, second, display, legend, popup, Sample, Code, Displaying]
 ---
-
-# Retrieve Data That Salesforce Maps Hosts
 
 > The GetHostedData() Apex method
       retrieves geographical IDs for properties and displays them in Salesforce Maps. We

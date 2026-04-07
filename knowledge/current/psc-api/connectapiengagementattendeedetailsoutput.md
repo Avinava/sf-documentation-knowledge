@@ -5,12 +5,10 @@ topic: connectapiengagementattendeedetailsoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.450Z
+lastCollected: 2026-04-07T18:39:00.547Z
 estimatedTokens: 317
-keywords: [Output, representation, engagement, attendee, record]
+keywords: [engagement, attendee, record]
 ---
-
-# ConnectApi.EngagementAttendeeDetailsOutput
 
 > Output representation to create an engagement attendee
     record.

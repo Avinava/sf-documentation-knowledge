@@ -5,12 +5,10 @@ topic: access-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.178Z
+lastCollected: 2026-04-07T18:38:46.033Z
 estimatedTokens: 193
-keywords: [Access, AppExchange, Partner, Console, business, management, site, ISV, partners, consultants, listings, It’s, manage, security, reviews]
+keywords: [AppExchange, Partner, Console, business, management, site, ISV, partners, consultants, listings, It’s, manage, security, reviews, monitor, solution, performance, metrics]
 ---
-
-# Access the AppExchange Partner Console
 
 > The Partner Console is the complete business management site for ISV partners and
         consultants with AppExchange listings. It’s where partners create listings, manage security

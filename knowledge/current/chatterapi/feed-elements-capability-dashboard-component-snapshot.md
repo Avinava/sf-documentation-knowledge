@@ -5,12 +5,10 @@ topic: feed-elements-capability-dashboard-component-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.681Z
+lastCollected: 2026-04-07T18:37:13.644Z
 estimatedTokens: 246
-keywords: [Feed, Elements, Capability, Dashboard, Component, Snapshot, Access, element]
+keywords: [Capability, Dashboard, Snapshot]
 ---
-
-# Feed Elements Capability, Dashboard Component Snapshot
 
 > Access the dashboard component capability of a feed
     element.

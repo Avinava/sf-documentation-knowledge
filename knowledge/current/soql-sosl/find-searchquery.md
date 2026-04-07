@@ -5,12 +5,10 @@ topic: find-searchquery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.288Z
+lastCollected: 2026-04-07T18:40:10.262Z
 estimatedTokens: 1933
-keywords: [SearchQuery, clause, SOSL, query, specify, word, phrase, search, includes, literal, include, wildcards, logical, operators, Terms]
+keywords: [Wildcards, Operators, SearchQuery, clause, SOSL, query, specify, word, phrase, search, includes, literal, include, logical, Terms, Character, Limits, Reserved, Characters, Clauses, Apex]
 ---
-
-# FIND  {SearchQuery}
 
 > Use the required FIND clause of a SOSL query to specify the word or phrase to search for. A search query includes the literal word or phrase and can
 		also include wildcards and logical operators (AND, OR, and AND NOT).

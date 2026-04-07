@@ -5,12 +5,10 @@ topic: using-the-processpluginresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.998Z
+lastCollected: 2026-04-07T18:36:18.223Z
 estimatedTokens: 341
-keywords: [Process.PluginResult, output, implements, flow]
+keywords: [Process.PluginResult, implements, flow]
 ---
-
-# Using the Process.PluginResult Class
 
 > The Process.PluginResult class returns
                 output parameters from the class that implements the interface to the

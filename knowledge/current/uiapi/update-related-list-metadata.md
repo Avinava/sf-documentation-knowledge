@@ -5,12 +5,10 @@ topic: update-related-list-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.436Z
+lastCollected: 2026-04-07T18:40:11.429Z
 estimatedTokens: 297
 keywords: [Metadata, layout]
 ---
-
-# Update Related List Metadata
 
 > Update metadata for a related list in a page
     layout.

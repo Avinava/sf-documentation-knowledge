@@ -5,12 +5,10 @@ topic: enhanced-apex-transaction-security-implementation-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.379Z
+lastCollected: 2026-04-07T18:39:22.270Z
 estimatedTokens: 1024
-keywords: [Enhanced, Apex, Transaction, Security, Implementation, Examples, implementing, Login, Different, Addresses, Logins, Specific, Address, Data, Export]
+keywords: [Enhanced, Apex, Transaction, Security, Implementation, Examples, implementing, Login, Different, Addresses, Logins, Specific, Address, Export, Confidential, Browser, Check, Block, Country, Operating, System]
 ---
-
-# Enhanced Apex Transaction Security Implementation Examples
 
 > Here are examples of implementing enhanced Apex transaction security.
 

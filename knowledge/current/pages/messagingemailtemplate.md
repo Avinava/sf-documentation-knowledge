@@ -5,12 +5,10 @@ topic: messagingemailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:57.968Z
+lastCollected: 2026-04-07T18:38:50.210Z
 estimatedTokens: 511
-keywords: [messaging, emailTemplate, Visualforce, email, template, tags, wrapped, inside, component, tag, contain, either, htmlEmailBody, plainTextEmailBody, detail]
+keywords: [Attributes, messaging, emailTemplate, Visualforce, email, template, tags, wrapped, inside, tag, contain, either, htmlEmailBody, plainTextEmailBody, detail, form, permitted, child, nodes, Translated]
 ---
-
-# messaging:emailTemplate
 
 > Defines a Visualforce email template. All email template tags must be wrapped inside a single emailTemplate component tag. emailTemplate must contain either an htmlEmailBody tag or a plainTextEmailBody tag. The detail and form components are not permitted as child nodes. This component can only be u
 

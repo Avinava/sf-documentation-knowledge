@@ -5,12 +5,10 @@ topic: embeddedservicecustomcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.080Z
+lastCollected: 2026-04-07T18:36:32.546Z
 estimatedTokens: 582
-keywords: [EmbeddedServiceCustomComponent, custom, component, created, Embedded, Service, feature, components, Aura, Lightning, Web, API, version, 44.0, later]
+keywords: [EmbeddedServiceCustomComponent, created, Embedded, Service, feature, Aura, Lightning, Web, API, 44.0, SOAP, REST]
 ---
-
-# EmbeddedServiceCustomComponent
 
 > Represents a custom component created for an Embedded Service feature. The
     custom components can be an Aura or Lightning Web Component. This object is available in API

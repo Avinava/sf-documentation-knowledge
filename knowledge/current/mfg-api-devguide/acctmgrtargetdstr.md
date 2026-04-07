@@ -5,12 +5,10 @@ topic: acctmgrtargetdstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.530Z
+lastCollected: 2026-04-07T18:38:12.844Z
 estimatedTokens: 932
-keywords: [AcctMgrTargetDstr, account, product, price, book, associated, manager, target, child, AcctMgrTarget, API, version, 49.0, later, Calls]
+keywords: [AcctMgrTargetDstr, account, product, price, book, manager, target, child, AcctMgrTarget, API, 49.0]
 ---
-
-# AcctMgrTargetDstr
 
 > Represents the account, product, and price book associated to an account
       manager target. It is a child object of the AcctMgrTarget object.

@@ -5,12 +5,10 @@ topic: videocallptcpsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.164Z
+lastCollected: 2026-04-07T18:38:02.071Z
 estimatedTokens: 840
-keywords: [VideoCallPtcpSession, participants, remote, sessions, including, duration, device, operating, system, browser, logs, reconnections, separately, offering, comprehensive]
+keywords: [VideoCallPtcpSession, participants, remote, sessions, including, duration, device, operating, system, browser, logs, reconnections, separately, offering, comprehensive, view, participant's, experience, API, 65.0]
 ---
-
-# VideoCallPtcpSession
 
 > Represents information about participants during remote sessions, including
          duration, device type, operating system, and browser. It logs reconnections separately,

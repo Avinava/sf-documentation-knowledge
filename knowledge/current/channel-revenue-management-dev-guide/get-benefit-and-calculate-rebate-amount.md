@@ -5,12 +5,10 @@ topic: get-benefit-and-calculate-rebate-amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.338Z
+lastCollected: 2026-04-07T18:37:06.027Z
 estimatedTokens: 462
-keywords: [Benefit, Calculate, Rebate, Amount, benefits, optionally, aggregate, record, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Benefit, Calculate, Rebate, Amount, benefits, optionally, aggregate, record, REST, HTTP]
 ---
-
-# Get Benefit and Calculate Rebate Amount
 
 > Get the details benefits and optionally calculate the rebate amount
          for the specified aggregate record.

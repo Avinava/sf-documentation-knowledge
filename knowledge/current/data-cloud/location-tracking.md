@@ -5,12 +5,10 @@ topic: location-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.477Z
+lastCollected: 2026-04-07T18:35:51.329Z
 estimatedTokens: 249
-keywords: [Location, Tracking, Data, Cloud, Module, Engagement, Mobile, SDK, supports, events, Enable, functionality, setLocation, coordinates, expiresIn]
+keywords: [Location, Cloud, Module, Engagement, Mobile, SDK, supports, events, Enable, functionality, setLocation, coordinates, expiresIn]
 ---
-
-# Location Tracking
 
 > The Data Cloud Module for the Engagement Mobile SDK supports location tracking for
         all events. Enable this functionality using the   setLocation method on

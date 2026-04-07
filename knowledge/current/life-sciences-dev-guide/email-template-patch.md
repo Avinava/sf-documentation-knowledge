@@ -5,12 +5,10 @@ topic: email-template-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.050Z
+lastCollected: 2026-04-07T18:37:55.475Z
 estimatedTokens: 1009
-keywords: [Email, Template, PATCH, template.The, Health, Cloud, Starter, Life, Sciences, Commercial, Admin, Permission, accessing, API, know]
+keywords: [Email, Template, PATCH, template.The, Health, Cloud, Starter, Life, Sciences, Commercial, Admin, Permission, accessing, API, know, Intelligent, Content]
 ---
-
-# Email Template (PATCH)
 
 > Update an email template.The Health Cloud Starter and
         Life Sciences Commercial Admin Permission Sets are required for accessing

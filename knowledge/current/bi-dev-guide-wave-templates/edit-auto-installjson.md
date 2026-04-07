@@ -5,12 +5,10 @@ topic: edit-auto-installjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.789Z
+lastCollected: 2026-04-07T18:37:02.353Z
 estimatedTokens: 504
 keywords: [Edit, auto-install.json, configures, template, auto-install, framework, Always, file, plan, design, auto-installation, via, managed, package]
 ---
-
-# Edit auto-install.json
 
 > auto-install.json configures the template for the
     auto-install framework. Always create this optional file if you plan to design your template for

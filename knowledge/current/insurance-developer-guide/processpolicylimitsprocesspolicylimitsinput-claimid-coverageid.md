@@ -5,12 +5,10 @@ topic: processpolicylimitsprocesspolicylimitsinput-claimid-coverageid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.468Z
+lastCollected: 2026-04-07T18:37:49.302Z
 estimatedTokens: 317
-keywords: [ProcessPolicyLimits, ProcessPolicyLimitsInput, claimId, coverageId, Process, policy, limits, loss, item, claim, current, standings, insurance, API, Version]
+keywords: [ProcessPolicyLimits, ProcessPolicyLimitsInput, claimId, coverageId, Process, policy, limits, loss, item, claim, current, standings, insurance, API, Requires, Chatter]
 ---
-
-# ProcessPolicyLimits(ProcessPolicyLimitsInput, claimId, coverageId)
 
 > Process the policy limits for a loss item in a claim by using the current standings of
     the insurance policy limits.

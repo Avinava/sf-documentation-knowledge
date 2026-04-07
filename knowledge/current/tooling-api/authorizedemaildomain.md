@@ -5,12 +5,10 @@ topic: authorizedemaildomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.465Z
+lastCollected: 2026-04-07T18:36:31.892Z
 estimatedTokens: 1217
-keywords: [AuthorizedEmailDomain, authorized, domain, email, verification, API, version, 64.0, later, SOAP, Calls, REST, Special, Access, Rules]
+keywords: [AuthorizedEmailDomain, authorized, domain, email, verification, API, 64.0, SOAP, REST]
 ---
-
-# AuthorizedEmailDomain
 
 > Represents an authorized domain for email verification. This
       object is available in API version 64.0 and later.

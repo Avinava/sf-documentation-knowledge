@@ -5,12 +5,10 @@ topic: use-array-functions-for-multi-select-widgets-and-looping
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.674Z
+lastCollected: 2026-04-07T18:37:02.251Z
 estimatedTokens: 1169
 keywords: [Array, Functions, Multi-Select, Widgets, Looping, Here’s, how, function, configuration, wizard, widget, lets, user, select, multiple]
 ---
-
-# Use Array Functions for Multi-Select Widgets and Looping
 
 > Here’s how to use an array function to create a configuration wizard widget that lets
     the user select multiple values.

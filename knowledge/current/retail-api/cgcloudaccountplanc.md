@@ -5,12 +5,10 @@ topic: cgcloudaccountplanc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.274Z
+lastCollected: 2026-04-07T18:39:12.712Z
 estimatedTokens: 2001
-keywords: [cgcloud__Account_Plan__c, account, data, planning, business, year, multiple, categories, API, version, 54.0, later, cgcloud, _Account, _Plan]
+keywords: [cgcloud__Account_Plan__c, account, planning, business, year, multiple, categories, API, 54.0, cgcloud, _Account, _Plan]
 ---
-
-# cgcloud__Account_Plan__c
 
 > Contains the details of the account data for one planning account, one
          business year and one or multiple categories. This object is available in API version

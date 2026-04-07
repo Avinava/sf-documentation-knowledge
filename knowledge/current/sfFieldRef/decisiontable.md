@@ -5,13 +5,11 @@ topic: decisiontable
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.017Z
+lastCollected: 2026-04-07T18:39:37.703Z
 estimatedTokens: 346
 namespace: NamespacePrefix
-keywords: [DecisionTable, decision, input, criteria, define, provide, outcomes]
+keywords: [DecisionTable, decision, criteria, define, provide, outcomes]
 ---
-
-# DecisionTable
 
 > Represents the information about a decision table. Use an input fields
          criteria to define when a decision table must provide outcomes.

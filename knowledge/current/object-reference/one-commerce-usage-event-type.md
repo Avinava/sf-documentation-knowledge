@@ -5,12 +5,10 @@ topic: one-commerce-usage-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.567Z
+lastCollected: 2026-04-07T18:38:31.438Z
 estimatedTokens: 2555
-keywords: [Commerce, Usage, Event, events, capture, instance, EventLogFile, API, version, 51.0, later]
+keywords: [Commerce, Event, events, capture, instance, EventLogFile, API, 51.0]
 ---
-
-# One Commerce Usage Event Type
 
 > One Commerce Usage events capture information about your Commerce
          instance. This event type is available in the EventLogFile object in API version 51.0

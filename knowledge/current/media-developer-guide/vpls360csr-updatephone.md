@@ -5,12 +5,10 @@ topic: vpls360csr-updatephone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.521Z
+lastCollected: 2026-04-07T18:38:11.820Z
 estimatedTokens: 135
-keywords: [vpls360csr-UpdatePhone, Omnistudio, Data, Mapper, loads, updates, phone, number, user, IDs, updated, records, Sample, Input, Output]
+keywords: [vpls360csr-UpdatePhone, Omnistudio, Mapper, loads, updates, phone, number, user, IDs, updated, records, Sample]
 ---
-
-# vpls360csr-UpdatePhone
 
 > This Omnistudio Data Mapper loads or updates the phone
     number of a user, and returns the IDs for the updated records.

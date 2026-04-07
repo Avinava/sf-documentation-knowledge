@@ -5,12 +5,10 @@ topic: returnorderlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.109Z
+lastCollected: 2026-04-07T18:38:14.497Z
 estimatedTokens: 1511
-keywords: [ReturnOrderLineItem, product, recalled, repaired, part, order, API, version, 60.0, later, Calls]
+keywords: [ReturnOrderLineItem, product, recalled, repaired, part, order, API, 60.0]
 ---
-
-# ReturnOrderLineItem
 
 > Represents a product that is returned, recalled, or repaired as part of a
          return order. This object is available in API version 60.0 and later.

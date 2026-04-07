@@ -5,12 +5,10 @@ topic: assetcontractrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.776Z
+lastCollected: 2026-04-07T18:39:27.771Z
 estimatedTokens: 379
-keywords: [AssetContractRelationship, relationship, asset, contract, API, version, 60.0, later]
+keywords: [AssetContractRelationship, relationship, asset, contract, API, 60.0]
 ---
-
-# AssetContractRelationship
 
 > Represents a relationship between an asset and a contract. This
       object is available in API version 60.0 and later.

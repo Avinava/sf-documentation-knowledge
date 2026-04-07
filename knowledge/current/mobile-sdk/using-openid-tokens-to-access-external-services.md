@@ -5,12 +5,10 @@ topic: using-openid-tokens-to-access-external-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.829Z
+lastCollected: 2026-04-07T18:40:25.216Z
 estimatedTokens: 930
-keywords: [OpenID, Tokens, Access, External, Services, Mobile, SDK, app, requires, approved, Salesforce, perform, necessary, authentication, handshake]
+keywords: [OpenID, Tokens, External, Services, Mobile, SDK, app, requires, approved, Salesforce, perform, necessary, authentication, handshake, Configure, Server-Side, Settings, Configuration]
 ---
-
-# Using OpenID Tokens to Access External Services
 
 > If your Mobile SDK app requires approved services external to Salesforce, you can use OpenID tokens
   to perform the necessary authentication handshake.

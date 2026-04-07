@@ -5,13 +5,11 @@ topic: authprovidercallbackstate-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.156Z
+lastCollected: 2026-04-07T18:35:59.431Z
 estimatedTokens: 1366
 namespace: Auth
 keywords: [AuthProviderCallbackState, HTTP, query, AuthProviderPlugin.handleCallback, user, authentication, group, passed, rather, passing, individually, queryParameters]
 ---
-
-# AuthProviderCallbackState Class
 
 > Provides request HTTP headers, body, and query parameters to the
         AuthProviderPlugin.handleCallback method for user

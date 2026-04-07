@@ -5,12 +5,10 @@ topic: callback-running-user-and-debug-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.438Z
+lastCollected: 2026-04-07T18:38:58.291Z
 estimatedTokens: 286
-keywords: [Callback, Running, User, Debug, Logs, publish, runs, under, Automated, Process, result, records, created, their, system]
+keywords: [Callback, Running, User, Debug, Logs, publish, runs, under, Automated, Process, result, records, created, their, system, CreatedById, OwnerId]
 ---
-
-# Callback Running User and Debug Logs
 
 > A publish callback runs under the Automated Process user. As a result, all records that
   are created in a callback have their system user fields, such as CreatedById and OwnerId, set to Automated Process.

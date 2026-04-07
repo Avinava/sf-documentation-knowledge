@@ -5,12 +5,10 @@ topic: like-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.198Z
+lastCollected: 2026-04-07T18:37:01.813Z
 estimatedTokens: 660
-keywords: [Clause, match, characters, patterns, found, anywhere, string—beginning, ending, somewhere, Simple, Pattern, Underscore, Multiple, Underscores, End]
+keywords: [Clause, match, characters, patterns, found, anywhere, string—beginning, ending, somewhere, Simple, Pattern, Underscore, Multiple, Underscores, End, Percent, Sign, Exclude, Records]
 ---
-
-# LIKE Clause
 
 > Use LIKE to match single characters and patterns
   found anywhere in a string—beginning, ending, or somewhere in between.

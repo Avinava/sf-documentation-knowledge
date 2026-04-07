@@ -5,12 +5,10 @@ topic: partyphilanthropicindicatorhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.898Z
+lastCollected: 2026-04-07T18:39:52.320Z
 estimatedTokens: 279
-keywords: [PartyPhilanthropicIndicatorHistory, History, tracked, PartyPhilanthropicIndicator]
+keywords: [PartyPhilanthropicIndicatorHistory, tracked, PartyPhilanthropicIndicator]
 ---
-
-# PartyPhilanthropicIndicatorHistory
 
 > History for tracked fields of PartyPhilanthropicIndicator.
 

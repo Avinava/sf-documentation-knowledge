@@ -5,12 +5,10 @@ topic: emailservicesfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.372Z
+lastCollected: 2026-04-07T18:38:30.200Z
 estimatedTokens: 2743
-keywords: [EmailServicesFunction, email, service, Calls, Special, Access, Rules, Usage]
+keywords: [EmailServicesFunction, email, service]
 ---
-
-# EmailServicesFunction
 
 > An email service.
 

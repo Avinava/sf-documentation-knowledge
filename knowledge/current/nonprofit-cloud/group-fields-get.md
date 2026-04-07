@@ -5,12 +5,10 @@ topic: group-fields-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.063Z
+lastCollected: 2026-04-07T18:38:20.811Z
 estimatedTokens: 171
 keywords: [Group, Retrieve, two, party, relationship, groups]
 ---
-
-# Group Fields (GET)
 
 > Retrieve details from two party relationship
     groups.

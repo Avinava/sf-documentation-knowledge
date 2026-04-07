@@ -6,13 +6,10 @@ topic: create-a-visualforce-page-for-the-salesforce-mobile-app-using-slds
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.652Z
+lastCollected: 2026-04-07T18:38:52.944Z
 estimatedTokens: 587
-keywords: [Visualforce, Salesforce, Mobile, App, SLDS, Let’s, displays, recently, accessed, accounts, styled, Lightning, Design, System, add]
+keywords: [Visualforce, Salesforce, Mobile, App, SLDS, Let’s, displays, recently, accessed, accounts, styled, Lightning, Design, System, add, navigation, menu]
 ---
-
-# Create a Visualforce Page for the Salesforce Mobile App Using
-            SLDS
 
 > Let’s create a Visualforce page that displays your recently accessed accounts and is
         styled with the Lightning Design System (SLDS) and add it to the mobile navigation

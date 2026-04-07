@@ -5,12 +5,10 @@ topic: sample-apex-class-to-create-case-records-for-service-process-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.983Z
+lastCollected: 2026-04-07T18:36:43.711Z
 estimatedTokens: 799
-keywords: [Sample, Apex, Case, Records, Service, Process, Requests, submitted, invokes, connect, API, extracts, provided, assigns, data]
+keywords: [Sample, Apex, Case, Records, Service, Process, Requests, submitted, invokes, connect, API, extracts, provided, assigns, attributes, defined, Studio, passes, their, Record, Transaction, Dispute]
 ---
-
-# Sample Apex Class to Create Case Records for Service Process Requests
 
 > When a service process request is submitted, an Apex class invokes the service process
   connect API to create a case. The apex class extracts the details provided for the service request

@@ -5,12 +5,10 @@ topic: publicapplicationparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.982Z
+lastCollected: 2026-04-07T18:39:57.579Z
 estimatedTokens: 280
-keywords: [PublicApplicationParticipantHistory, History, tracked, PublicApplicationParticipant]
+keywords: [PublicApplicationParticipantHistory, tracked, PublicApplicationParticipant]
 ---
-
-# PublicApplicationParticipantHistory
 
 > History for tracked fields of PublicApplicationParticipant.
 

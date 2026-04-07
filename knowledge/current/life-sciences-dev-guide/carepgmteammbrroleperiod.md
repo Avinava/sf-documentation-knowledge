@@ -5,12 +5,10 @@ topic: carepgmteammbrroleperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.759Z
+lastCollected: 2026-04-07T18:37:59.327Z
 estimatedTokens: 473
-keywords: [CarePgmTeamMbrRolePeriod, historical, changes, role, care, program, team, member, API, version, 61.0, later, Calls]
+keywords: [CarePgmTeamMbrRolePeriod, historical, changes, role, care, program, team, member, API, 61.0]
 ---
-
-# CarePgmTeamMbrRolePeriod
 
 > Represents the historical changes in the role of a care program team
          member. This object is available in API version 61.0 and later.

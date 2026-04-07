@@ -5,12 +5,10 @@ topic: connectapimorechangessegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.874Z
+lastCollected: 2026-04-07T18:36:10.174Z
 estimatedTokens: 147
-keywords: [ConnectApi.MoreChangesSegment, feed, items, large, number, tracked, changes, message, formatted, “changed, made, changes.”, MoreChangesSegment]
+keywords: [ConnectApi.MoreChangesSegment, items, large, number, tracked, changes, message, formatted, “changed, made, changes.”, MoreChangesSegment]
 ---
-
-# ConnectApi.MoreChangesSegment
 
 > In feed items with a large number of tracked changes, the message is formatted as:
   “changed A, B, and made X more changes.” The MoreChangesSegment contains the “X more changes.”

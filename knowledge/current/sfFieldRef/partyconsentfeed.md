@@ -5,12 +5,10 @@ topic: partyconsentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.471Z
+lastCollected: 2026-04-07T18:39:51.885Z
 estimatedTokens: 359
-keywords: [PartyConsentFeed, Feed, tracking, PartyConsent]
+keywords: [PartyConsentFeed, PartyConsent]
 ---
-
-# PartyConsentFeed
 
 > Feed tracking for PartyConsent.
 

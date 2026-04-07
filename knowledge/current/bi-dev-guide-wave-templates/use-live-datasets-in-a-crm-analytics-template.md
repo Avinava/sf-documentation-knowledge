@@ -5,12 +5,10 @@ topic: use-live-datasets-in-a-crm-analytics-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:16.137Z
+lastCollected: 2026-04-07T18:37:02.677Z
 estimatedTokens: 697
-keywords: [Live, Datasets, CRM, Analytics, Template, liveConnection, attribute, bring, connections, Snowflake, source, tables, Creating, app, generates]
+keywords: [Live, Datasets, CRM, Analytics, Template, liveConnection, attribute, bring, connections, Snowflake, source, tables, Creating, app, generates, dataset, there, considerations, successful, creation, users, template-info.json, Templated, Assets, Templates]
 ---
-
-# Use Live Datasets in a CRM Analytics Template
 
 > Use live datasets in your CRM Analytics template with the liveConnection attribute to bring in live connections to Snowflake source
 		tables. Creating a template from a source app with live datasets generates the dataset

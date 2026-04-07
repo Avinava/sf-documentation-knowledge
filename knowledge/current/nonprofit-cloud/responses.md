@@ -5,12 +5,10 @@ topic: responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.636Z
+lastCollected: 2026-04-07T18:38:20.319Z
 estimatedTokens: 168
 keywords: [Responses, Here’s, Case, Management, Business, API, bodies, Program, Record, Rollup, Definitions, APIs]
 ---
-
-# Responses
 
 > Here’s a list of Program Management Business API response bodies.
 

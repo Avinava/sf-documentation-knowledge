@@ -5,12 +5,10 @@ topic: uninstalling-mobile-sdk-npm-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.883Z
+lastCollected: 2026-04-07T18:40:26.194Z
 estimatedTokens: 202
 keywords: [Uninstalling, Mobile, SDK, npm, Packages, uninstall, package, script, Installations, Local]
 ---
-
-# Uninstalling Mobile SDK npm Packages
 
 > If you need to uninstall an npm package, use the npm script.
 

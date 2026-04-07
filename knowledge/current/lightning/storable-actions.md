@@ -5,12 +5,10 @@ topic: storable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.676Z
+lastCollected: 2026-04-07T18:38:03.735Z
 estimatedTokens: 960
-keywords: [Storable, Actions, Enhance, component’s, performance, marking, cacheable, quickly, show, cached, data, client-side, storage, waiting, server]
+keywords: [Storable, Actions, Enhance, component’s, performance, marking, cacheable, quickly, show, cached, client-side, storage, waiting, server, trip, stale, framework, retrieves, latest, Caching, especially, beneficial, users, high, latency, slow, unreliable, connections, networks, Action]
 ---
-
-# Storable Actions
 
 > Enhance your component’s performance by marking actions as
             storable (cacheable) to quickly show cached data from client-side storage without

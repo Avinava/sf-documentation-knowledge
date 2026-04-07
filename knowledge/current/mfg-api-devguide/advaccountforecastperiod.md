@@ -5,12 +5,10 @@ topic: advaccountforecastperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.147Z
+lastCollected: 2026-04-07T18:38:13.411Z
 estimatedTokens: 279
-keywords: [AdvAccountForecastPeriod, periods, advanced, account, forecasting, applied, API, version, 53.0, later, Calls]
+keywords: [AdvAccountForecastPeriod, periods, advanced, account, forecasting, applied, API, 53.0]
 ---
-
-# AdvAccountForecastPeriod
 
 > Represents information about the periods for which advanced account
          forecasting is applied.  This object is available in API version 53.0 and later.

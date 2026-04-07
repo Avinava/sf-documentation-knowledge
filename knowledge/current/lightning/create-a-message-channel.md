@@ -5,12 +5,10 @@ topic: create-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.602Z
+lastCollected: 2026-04-07T18:38:04.738Z
 estimatedTokens: 330
-keywords: [Message, Channel, lightning, messageChannel, component, org, LightningMessageChannel, metadata, append, __c, isn’t, custom, uses, suffix]
+keywords: [Message, Channel, lightning, messageChannel, org, LightningMessageChannel, metadata, append, __c, isn’t, uses, suffix]
 ---
-
-# Create a Message Channel
 
 > To create a lightning:messageChannel component in
         your org, use the LightningMessageChannel metadata type and append it with __c. The message channel isn’t a custom object, it just

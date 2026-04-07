@@ -5,12 +5,10 @@ topic: configuration-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.903Z
+lastCollected: 2026-04-07T18:35:46.913Z
 estimatedTokens: 153
-keywords: [Configuration, Output, representation, updated]
+keywords: [Configuration, updated]
 ---
-
-# Configuration Update
 
 > Output representation of the details of the updated configuration.
 

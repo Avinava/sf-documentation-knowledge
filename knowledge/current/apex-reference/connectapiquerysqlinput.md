@@ -5,12 +5,10 @@ topic: connectapiquerysqlinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.851Z
+lastCollected: 2026-04-07T18:36:06.200Z
 estimatedTokens: 407
-keywords: [ConnectApi.QuerySqlInput, input, SQL, query]
+keywords: [ConnectApi.QuerySqlInput, SQL, query]
 ---
-
-# ConnectApi.QuerySqlInput
 
 > Represents the input to create an SQL query.
 

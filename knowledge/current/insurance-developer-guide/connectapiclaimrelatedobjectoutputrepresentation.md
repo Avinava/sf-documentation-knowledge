@@ -5,12 +5,9 @@ topic: connectapiclaimrelatedobjectoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.391Z
+lastCollected: 2026-04-07T18:37:50.226Z
 estimatedTokens: 81
-keywords: [Output, representation]
 ---
-
-# ConnectApi.ClaimRelatedObjectOutputRepresentation
 
 > Output representation for a related object.
 

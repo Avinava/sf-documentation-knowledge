@@ -5,13 +5,11 @@ topic: connectedappplugin-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.230Z
+lastCollected: 2026-04-07T18:35:59.510Z
 estimatedTokens: 4122
 namespace: Auth
-keywords: [ConnectedAppPlugin, Deprecated, API, versions, 35.0, 36.0, version, 37.0, authorize, userId, connectedAppId, isAdminApproved, context, instead, Usage]
+keywords: [ConnectedAppPlugin, Deprecated, API, versions, 35.0, 36.0, 37.0, authorize, userId, connectedAppId, isAdminApproved, context, instead, customAttributes, formulaDefinedAttributes, modifySAMLResponse, authSession, samlResponse, refresh]
 ---
-
-# ConnectedAppPlugin Class
 
 > Deprecated and available only in API versions 35.0 and 36.0. As of
       version 37.0, use authorize(userId, connectedAppId,

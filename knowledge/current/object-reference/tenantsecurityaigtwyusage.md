@@ -5,12 +5,10 @@ topic: tenantsecurityaigtwyusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.506Z
+lastCollected: 2026-04-07T18:38:42.277Z
 estimatedTokens: 664
-keywords: [TenantSecurityAIGtwyUsage, Stores, Einstein, generative, gateway, usage, data, API, version, 65.0, later, Calls, Special, Access, Rules]
+keywords: [TenantSecurityAIGtwyUsage, Stores, Einstein, generative, gateway, API, 65.0]
 ---
-
-# TenantSecurityAIGtwyUsage
 
 > Stores Einstein generative AI gateway usage data. This object is
       available in API version 65.0 and later.

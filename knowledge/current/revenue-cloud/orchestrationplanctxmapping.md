@@ -5,12 +5,10 @@ topic: orchestrationplanctxmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.995Z
+lastCollected: 2026-04-07T18:35:50.854Z
 estimatedTokens: 959
-keywords: [OrchestrationPlanCtxMapping, orchestration, plan, context, mapping, entry, org, connect, business, data, logic, Dynamic, Revenue, Orchestrator, DRO]
+keywords: [OrchestrationPlanCtxMapping, orchestration, plan, context, mapping, entry, org, connect, business, logic, Dynamic, Revenue, Orchestrator, DRO, API, 66.0.0]
 ---
-
-# OrchestrationPlanCtxMapping
 
 > Represents an orchestration plan context mapping entry in the org.
          This entry is used to connect the business data in an object to the orchestration logic

@@ -5,12 +5,10 @@ topic: gift-designation-record-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.475Z
+lastCollected: 2026-04-07T18:37:29.555Z
 estimatedTokens: 114
-keywords: [Gift, Designation, Record, Output, representation]
+keywords: [Gift, Designation, Record]
 ---
-
-# Gift Designation Record Output
 
 > Output representation of a gift designation record.
 

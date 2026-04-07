@@ -5,12 +5,10 @@ topic: category-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:20.844Z
+lastCollected: 2026-04-07T18:37:07.564Z
 estimatedTokens: 193
-keywords: [Category, Settings, Input, applicable, product, rows, import, csv, file]
+keywords: [Category, Settings, applicable, product, rows, import, csv, file]
 ---
-
-# Category Settings Input
 
 > Category settings applicable to all product rows in a product import
       .csv file.

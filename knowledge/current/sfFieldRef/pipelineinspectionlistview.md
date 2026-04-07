@@ -5,12 +5,10 @@ topic: pipelineinspectionlistview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.667Z
+lastCollected: 2026-04-07T18:39:54.228Z
 estimatedTokens: 477
-keywords: [PipelineInspectionListView, pipeline, view, intelligence, saved, filter, opportunity, records, specific, criteria, account, lead, contact, API, version]
+keywords: [PipelineInspectionListView, pipeline, view, intelligence, saved, filter, opportunity, records, specific, criteria, account, lead, contact, API, 53.0]
 ---
-
-# PipelineInspectionListView
 
 > Represents a pipeline view, an intelligence view, or a saved filter. A pipeline view shows a set of opportunity records, based on specific criteria. An intelligence view shows a set of account, lead, or contact records, based on specific criteria. This object is available in API version 53.0 and later.
 

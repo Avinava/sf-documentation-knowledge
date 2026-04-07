@@ -5,12 +5,10 @@ topic: smart-data-discovery-pushback-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.403Z
+lastCollected: 2026-04-07T18:36:59.897Z
 estimatedTokens: 76
-keywords: [Smart, Data, Discovery, Pushback, Einstein, prediction]
+keywords: [Smart, Discovery, Pushback, Einstein, prediction]
 ---
-
-# Smart Data Discovery Pushback Field
 
 > A pushback field for an Einstein Discovery prediction.
 

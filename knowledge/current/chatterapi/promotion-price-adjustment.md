@@ -5,12 +5,10 @@ topic: promotion-price-adjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.230Z
+lastCollected: 2026-04-07T18:37:22.337Z
 estimatedTokens: 209
 keywords: [Promotion, Price, Adjustment, adjustments, product, evaluation]
 ---
-
-# Promotion Price Adjustment
 
 > Price adjustments used in a promotion product
   evaluation.

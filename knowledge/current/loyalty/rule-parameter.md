@@ -5,12 +5,10 @@ topic: rule-parameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.026Z
+lastCollected: 2026-04-07T18:38:08.279Z
 estimatedTokens: 461
-keywords: [Rule, Output, representation, promotion]
+keywords: [Rule, promotion]
 ---
-
-# Rule Parameter
 
 > Output representation of the details of a promotion rule parameter.
 

@@ -5,12 +5,10 @@ topic: users-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.279Z
+lastCollected: 2026-04-07T18:37:16.345Z
 estimatedTokens: 843
-keywords: [Users, Resources, user, user’s, recommendations, Post, feed, items, conversation, status]
+keywords: [Users, Resources, user, user’s, recommendations, Post, items, conversation, status]
 ---
-
-# Users Resources
 
 > Get information about the user, such as who is following the user
             and the user’s recommendations. Post feed items and update conversation

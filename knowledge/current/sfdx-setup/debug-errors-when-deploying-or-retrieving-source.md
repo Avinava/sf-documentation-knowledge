@@ -5,12 +5,10 @@ topic: debug-errors-when-deploying-or-retrieving-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.449Z
+lastCollected: 2026-04-07T18:40:09.398Z
 estimatedTokens: 648
-keywords: [Debug, Errors, Deploying, Retrieving, Source, run, project, deploy, start, retrieve, Salesforce, CLI, creates, temporary, directory]
+keywords: [Debug, Errors, Deploying, Retrieving, Source, run, project, deploy, start, retrieve, Salesforce, CLI, creates, temporary, directory, metadata, files, deletes, upon, successful, completion, command, executing, either, retaining, useful, debugging, purposes, How, Retain]
 ---
-
-# Debug Errors When Deploying or Retrieving Source
 
 > When you run project deploy start or project retrieve start, Salesforce CLI creates a temporary
     directory with all the metadata files, and then deletes the directory upon successful completion

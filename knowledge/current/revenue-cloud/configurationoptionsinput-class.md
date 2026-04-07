@@ -5,13 +5,11 @@ topic: configurationoptionsinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.571Z
+lastCollected: 2026-04-07T18:35:40.370Z
 estimatedTokens: 1682
 namespace: RevSalesTrxn
-keywords: [ConfigurationOptionsInput, configuration, options, input, product, configurator, Usage, addDefaultConfiguration, executeConfigurationRules, validateAmendRenewCancel, validateProductCatalog, equals, obj, hashCode, toString, Converts]
+keywords: [ConfigurationOptionsInput, configuration, options, product, configurator, addDefaultConfiguration, executeConfigurationRules, validateAmendRenewCancel, validateProductCatalog, equals, obj, hashCode, toString, Converts]
 ---
-
-# ConfigurationOptionsInput Class
 
 > Contains methods and properties to set the configuration options for the input to the
     product configurator.

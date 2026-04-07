@@ -5,12 +5,10 @@ topic: create-a-custom-channel-for-real-time-event-monitoring-events-using-the-a
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.944Z
+lastCollected: 2026-04-07T18:38:57.768Z
 estimatedTokens: 284
-keywords: [Custom, Channel, Real-Time, Event, Monitoring, Events, API, Let’s, walk, steps, add, two, via, members]
+keywords: [Channel, Real-Time, Event, Monitoring, Events, API, Let’s, walk, steps, add, two, via, members]
 ---
-
-# Create a Custom Channel for Real-Time Event Monitoring Events Using the API
 
 > Let’s walk through the steps to create a channel and add two Real-Time Event Monitoring
   events via channel members.

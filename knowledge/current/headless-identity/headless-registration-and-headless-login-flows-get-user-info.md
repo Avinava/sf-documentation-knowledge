@@ -5,12 +5,10 @@ topic: headless-registration-and-headless-login-flows-get-user-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.463Z
+lastCollected: 2026-04-07T18:37:39.401Z
 estimatedTokens: 383
-keywords: [Headless, Registration, Login, Flows, User, Info, built, Authorization, Code, Credentials, Flow, exchange, access, token, app]
+keywords: [Headless, Registration, Login, Flows, User, Info, built, Authorization, Code, Credentials, Flow, exchange, token, app, receives, step, processing, creating, session, walks, calling, endpoint, confirm, successful, provide]
 ---
-
-# Headless Registration and Headless Login Flows: Get User Info
 
 > Both headless registration and headless login are built on the Authorization Code and
   Credentials Flow, where you exchange an authorization code for an access token. After your app

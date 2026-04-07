@@ -5,13 +5,11 @@ topic: sites-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.549Z
+lastCollected: 2026-04-07T18:35:58.818Z
 estimatedTokens: 658
 namespace: ConnectApi
-keywords: [Sites, Search, Experience, Cloud, site, searchSite, siteId, queryTerm, pageToken, pageSize, language, API, Version, Guest, Users]
+keywords: [Sites, Search, Experience, Cloud, site, searchSite, siteId, queryTerm, pageToken, pageSize, language, API, Guest, Users, Requires, Chatter]
 ---
-
-# Sites Class
 
 > Search an Experience Cloud site.
 

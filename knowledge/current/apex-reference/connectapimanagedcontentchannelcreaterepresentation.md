@@ -5,12 +5,10 @@ topic: connectapimanagedcontentchannelcreaterepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.360Z
+lastCollected: 2026-04-07T18:36:05.709Z
 estimatedTokens: 510
-keywords: [Input, managed, content, channel]
+keywords: [managed, content, channel]
 ---
-
-# ConnectApi.ManagedContentChannelCreateRepresentation
 
 > Input class to create a managed content channel.
 

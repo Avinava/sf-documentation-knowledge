@@ -5,12 +5,10 @@ topic: datedconversionrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.915Z
+lastCollected: 2026-04-07T18:38:29.798Z
 estimatedTokens: 393
-keywords: [DatedConversionRate, dated, exchange, rates, organization, multicurrency, effective, currency, features, enabled, Calls, Special, Access, Rules, Usage]
+keywords: [DatedConversionRate, dated, exchange, rates, organization, multicurrency, effective, currency, features, enabled]
 ---
-
-# DatedConversionRate
 
 > Represents the dated exchange rates used by an organization for which
       the multicurrency and the effective dated currency features are enabled.

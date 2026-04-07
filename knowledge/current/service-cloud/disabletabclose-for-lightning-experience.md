@@ -5,12 +5,10 @@ topic: disabletabclose-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.554Z
+lastCollected: 2026-04-07T18:36:49.702Z
 estimatedTokens: 700
-keywords: [disableTabClose, Lightning, Experience, Prevents, workspace, tab, subtab, closing, removes, close, button, disables, keyboard, shortcuts, tabs]
+keywords: [Arguments, disableTabClose, Lightning, Experience, Prevents, workspace, tab, subtab, closing, removes, close, button, disables, keyboard, shortcuts, tabs, subtabs, works, console, apps, LWC, Sample, Code, Aura]
 ---
-
-# disableTabClose() for Lightning Experience
 
 > Prevents a workspace tab or subtab from closing. This method removes the close button
         from a tab or subtab, and disables the keyboard shortcuts that close tabs and subtabs. This method works only in

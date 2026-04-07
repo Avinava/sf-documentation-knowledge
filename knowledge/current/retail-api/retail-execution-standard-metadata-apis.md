@@ -5,12 +5,10 @@ topic: retail-execution-standard-metadata-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.641Z
+lastCollected: 2026-04-07T18:39:11.156Z
 estimatedTokens: 146
-keywords: [Retail, Execution, Standard, Metadata, APIs, API, access, entities, feature, settings, customize, user]
+keywords: [Retail, Execution, Standard, Metadata, APIs, API, entities, feature, settings, customize, user]
 ---
-
-# Retail Execution Standard Metadata APIs
 
 > Metadata API enables you to access some entities and feature settings that you can
   customize in the user interface.

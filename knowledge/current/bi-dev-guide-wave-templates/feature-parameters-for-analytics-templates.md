@@ -5,12 +5,10 @@ topic: feature-parameters-for-analytics-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.867Z
+lastCollected: 2026-04-07T18:37:02.424Z
 estimatedTokens: 437
-keywords: [Feature, Analytics, Templates, control, behavior, template-to-app, process, CRM, apps, defined, metadata, deployed, part, managed, package]
+keywords: [Feature, Analytics, Templates, control, behavior, template-to-app, process, CRM, apps, defined, metadata, deployed, part, managed, package, template, LMA, application]
 ---
-
-# Feature Parameters for Analytics Templates
 
 > Feature parameters are available to control behavior in the template-to-app process for
   CRM Analytics apps. Feature parameters are defined as metadata that is deployed as part of the

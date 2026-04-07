@@ -5,12 +5,10 @@ topic: branchunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.721Z
+lastCollected: 2026-04-07T18:37:36.502Z
 estimatedTokens: 1396
-keywords: [BranchUnit, branch, organization, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [BranchUnit, branch, organization, API, 51.0]
 ---
-
-# BranchUnit
 
 > Represents details about a branch of an organization. This object is
     available in API version 51.0 and later.

@@ -5,13 +5,11 @@ topic: field-service-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.879Z
+lastCollected: 2026-04-07T18:36:46.735Z
 estimatedTokens: 909
 namespace: The
-keywords: [Service, Developer, powerful, highly, customizable, toolbox, features, manage, multiplatform, mobile, operation, offers, code, examples, help]
+keywords: [Service, Developer, powerful, highly, customizable, toolbox, features, manage, multiplatform, mobile, operation, offers, code, examples, help, understand, structure, customize]
 ---
-
-# Field Service Developer Guide
 
 > Field Service is a powerful, highly customizable toolbox of features that you can use to
   set up and manage a multiplatform, mobile service operation. This guide offers reference

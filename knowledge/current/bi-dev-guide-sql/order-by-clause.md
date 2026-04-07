@@ -5,12 +5,10 @@ topic: order-by-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.344Z
+lastCollected: 2026-04-07T18:37:01.950Z
 estimatedTokens: 398
 keywords: [ORDER, Clause, SELECT, rows, unspecified, sort, ascending, descending]
 ---
-
-# ORDER BY Clause
 
 > SELECT returns rows in an unspecified order by
   default. To sort returned rows in ascending or descending order, use the ORDER BY clause.

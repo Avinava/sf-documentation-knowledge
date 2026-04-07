@@ -5,12 +5,10 @@ topic: post-contactsv1contactspreferencessearchreferencetypereferencetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:24.878Z
+lastCollected: 2026-04-07T18:40:20.104Z
 estimatedTokens: 350
-keywords: [POST, contacts, preferences, search?ReferenceType=, ReferenceType, Searches, consent, management, contact, records, best, performance, batches, whenever, possible]
+keywords: [POST, contacts, preferences, search?ReferenceType=, ReferenceType, Searches, consent, management, contact, records, best, performance, batches, whenever, possible, **Overview**, Marketing, Cloud, Permissions, Scope]
 ---
-
-# POST /contacts/v1/contacts/preferences/search?ReferenceType={ReferenceType}
 
 > Searches for consent management information in contact records by reference type. For best performance, use batches of contact ID values whenever possible.
 

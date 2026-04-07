@@ -5,12 +5,10 @@ topic: pricerevisionpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:04.857Z
+lastCollected: 2026-04-07T18:35:49.819Z
 estimatedTokens: 959
-keywords: [PriceRevisionPolicy, guidelines, modify, product, service, prices, often, incorporating, formulas, price, revision, entries, various, adjustments, policy]
+keywords: [PriceRevisionPolicy, guidelines, modify, product, service, prices, often, incorporating, formulas, price, revision, entries, various, adjustments, policy, dictate, revised, formula, considers, regional, Consumer, Index, CPI, specific, adjustment, percentage, effective, defined, date, categorized, either, flat, directly, entry, API, 65.0]
 ---
-
-# PriceRevisionPolicy
 
 > Represents the guidelines and methods used to modify product or service
          prices, often incorporating formulas based on price revision entries and various

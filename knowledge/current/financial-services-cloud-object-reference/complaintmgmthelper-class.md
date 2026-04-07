@@ -5,12 +5,10 @@ topic: complaintmgmthelper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.381Z
+lastCollected: 2026-04-07T18:37:33.811Z
 estimatedTokens: 176
-keywords: [ComplaintMgmtHelper, callable, provide, data, helper, functions, Complaint, Management, OmniScript]
+keywords: [ComplaintMgmtHelper, callable, provide, helper, functions, Complaint, Management, OmniScript]
 ---
-
-# ComplaintMgmtHelper Class
 
 > Use the callable ComplaintMgmtHelper class to provide data helper
       functions for use in the Complaint Management OmniScript.

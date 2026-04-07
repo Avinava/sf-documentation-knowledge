@@ -5,12 +5,10 @@ topic: calculation-procedure-variable-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.167Z
+lastCollected: 2026-04-07T18:36:38.830Z
 estimatedTokens: 193
-keywords: [Calculation, Procedure, Variable, Output, variables, expression]
+keywords: [Calculation, Procedure, Variable, variables, expression]
 ---
-
-# Calculation Procedure Variable Output
 
 > Details of the variables of an expression set.
 

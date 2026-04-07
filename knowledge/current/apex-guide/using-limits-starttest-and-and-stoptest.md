@@ -5,12 +5,10 @@ topic: using-limits-starttest-and-and-stoptest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.395Z
+lastCollected: 2026-04-07T18:36:18.628Z
 estimatedTokens: 699
-keywords: [Limits, startTest, stopTest, specific, limit, particular, governor, number, calls, amount, heap, size, remaining]
+keywords: [Limits, startTest, stopTest, specific, limit, particular, governor, number, amount, heap, size, remaining]
 ---
-
-# Using Limits,  startTest , and , and stopTest
 
 > The Limits methods return the specific limit for the particular governor, such as the number
       of calls of a method or the amount of heap size remaining.

@@ -5,12 +5,10 @@ topic: list-view-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.608Z
+lastCollected: 2026-04-07T18:36:20.841Z
 estimatedTokens: 106
-keywords: [View, Basic, specific, including, label, API, resource, REST, version, 32.0, later]
+keywords: [View, Basic, specific, including, label, API, resource, REST, 32.0]
 ---
-
-# List View Basic Information
 
 > Returns basic information for a specific list view, including the label, API name, and
   ID. This resource is available in REST API version 32.0 and later.

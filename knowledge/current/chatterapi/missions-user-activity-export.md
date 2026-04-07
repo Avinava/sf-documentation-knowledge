@@ -5,12 +5,10 @@ topic: missions-user-activity-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.614Z
+lastCollected: 2026-04-07T18:37:14.639Z
 estimatedTokens: 247
 keywords: [Missions, User, Activity, Export, mission]
 ---
-
-# Missions User Activity, Export
 
 > Export mission activity for a user.
 

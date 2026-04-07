@@ -5,13 +5,11 @@ topic: connectapi-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.481Z
+lastCollected: 2026-04-07T18:36:15.719Z
 estimatedTokens: 196
 namespace: ConnectApi
 keywords: [ConnectApi, Utilities, utility]
 ---
-
-# ConnectApi Utilities
 
 > The ConnectApi namespace contains a
                 utility class.

@@ -5,12 +5,10 @@ topic: sync-sustainability-credit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.740Z
+lastCollected: 2026-04-07T18:38:16.287Z
 estimatedTokens: 360
-keywords: [Sync, Sustainability, Credit, Synchronize, organization’s, carbon, footprint, credits, MarketPlace, NetZero, Cloud, API, popluates, SustainabilityCredit, SustainabilityPurchase]
+keywords: [Sync, Sustainability, Credit, Synchronize, organization’s, carbon, footprint, credits, MarketPlace, NetZero, Cloud, API, popluates, SustainabilityCredit, SustainabilityPurchase, CrbnCreditProject, records]
 ---
-
-# Sync Sustainability Credit
 
 > Synchronize your organization’s carbon footprint sustainability
       credits from the MarketPlace to NetZero Cloud. The API popluates the SustainabilityCredit,

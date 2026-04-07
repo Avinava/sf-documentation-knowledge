@@ -5,12 +5,10 @@ topic: opportunity-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:09.258Z
+lastCollected: 2026-04-07T18:35:54.296Z
 estimatedTokens: 1233
-keywords: [Opportunity, DMO, Data, Cloud, model, deals, sales, progress, yet, completed, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Opportunity, DMO, Cloud, model, deals, sales, progress, yet, completed, API, Primary, Subject, Area, Key]
 ---
-
-# Opportunity DMO
 
 > The Opportunity DMO is a Data Cloud data model object (DMO) for deals or
       sales that are in progress and not yet completed.

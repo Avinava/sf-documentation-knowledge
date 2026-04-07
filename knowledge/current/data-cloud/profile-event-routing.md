@@ -5,12 +5,10 @@ topic: profile-event-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.993Z
+lastCollected: 2026-04-07T18:35:51.829Z
 estimatedTokens: 397
-keywords: [Profile, Event, Routing, Events, described, Web, Connector, Schema, mapped, individual, data, streams, deployed, route, collected]
+keywords: [Profile, Event, Routing, Events, described, Web, Connector, Schema, mapped, individual, streams, deployed, route, collected, Salesforce, Interactions, SDK, proper, stream, add, eventType, any, user.attributes, captured]
 ---
-
-# Profile Event Routing
 
 > Profile Events described in a Web Connector Schema are mapped to individual data
     streams when deployed. To route profile data collected in Salesforce Interactions SDK to the

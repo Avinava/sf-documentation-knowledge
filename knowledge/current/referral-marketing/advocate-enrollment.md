@@ -5,12 +5,10 @@ topic: advocate-enrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.281Z
+lastCollected: 2026-04-07T18:39:09.595Z
 estimatedTokens: 531
-keywords: [Advocate, Enrollment, Enroll, new, customer, referral, promotion, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Advocate, Enrollment, Enroll, new, customer, referral, promotion, REST, HTTP]
 ---
-
-# Advocate Enrollment
 
 > Enroll an existing or new customer as an advocate of a referral promotion.
 

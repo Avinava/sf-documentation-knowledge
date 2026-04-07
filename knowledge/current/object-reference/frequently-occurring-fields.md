@@ -5,12 +5,10 @@ topic: frequently-occurring-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.349Z
+lastCollected: 2026-04-07T18:38:32.327Z
 estimatedTokens: 933
-keywords: [Frequently, Occurring, addition, system, found, objects, OwnerId, RecordTypeId, CurrencyIsoCode]
+keywords: [OwnerId, RecordTypeId, CurrencyIsoCode, Frequently, Occurring, addition, system, found]
 ---
-
-# Frequently Occurring Fields
 
 > In
       addition to system fields, these fields are found on many objects.

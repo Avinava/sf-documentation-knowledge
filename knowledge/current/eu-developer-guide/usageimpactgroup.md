@@ -5,12 +5,10 @@ topic: usageimpactgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.684Z
+lastCollected: 2026-04-07T18:37:32.945Z
 estimatedTokens: 653
-keywords: [UsageImpactGroup, collection, Usage, Impact, Groups, across, jurisdictions, programs, API, version, 58.0, later, Calls, Special, Access]
+keywords: [UsageImpactGroup, collection, Impact, Groups, across, jurisdictions, programs, API, 58.0]
 ---
-
-# UsageImpactGroup
 
 > Represents a collection of fields to set up the Usage Impact Groups
          used across jurisdictions and programs. This object is available in API version 58.0

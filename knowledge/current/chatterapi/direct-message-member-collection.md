@@ -5,12 +5,10 @@ topic: direct-message-member-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.299Z
+lastCollected: 2026-04-07T18:37:18.386Z
 estimatedTokens: 272
 keywords: [Direct, Message, Member, Collection, members]
 ---
-
-# Direct Message Member Collection
 
 > A collection of direct message members.
 

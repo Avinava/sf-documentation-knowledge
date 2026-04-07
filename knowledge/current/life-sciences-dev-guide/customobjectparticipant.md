@@ -5,12 +5,10 @@ topic: customobjectparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:08.258Z
+lastCollected: 2026-04-07T18:37:57.795Z
 estimatedTokens: 532
-keywords: [CustomObjectParticipant, Standard, custom, extend, represent, individual, collaborating, needs, informed, Medical, Insight, Calls]
+keywords: [CustomObjectParticipant, Standard, extend, represent, individual, collaborating, needs, informed, Medical, Insight]
 ---
-
-# CustomObjectParticipant
 
 > Standard and custom fields extend the standard CustomObjectParticipant object
          to represent information about the individual collaborating on or who needs to be informed

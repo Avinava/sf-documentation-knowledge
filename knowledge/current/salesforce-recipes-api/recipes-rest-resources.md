@@ -5,12 +5,10 @@ topic: recipes-rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.161Z
+lastCollected: 2026-04-07T18:39:18.859Z
 estimatedTokens: 86
 keywords: [Recipes, REST, Resources, API, sometimes, endpoints]
 ---
-
-# Recipes REST Resources
 
 > REST API resources are sometimes called endpoints.
 

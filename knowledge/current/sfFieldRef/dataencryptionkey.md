@@ -5,12 +5,10 @@ topic: dataencryptionkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.541Z
+lastCollected: 2026-04-07T18:39:37.152Z
 estimatedTokens: 485
-keywords: [DataEncryptionKey, part, Bring, Own, Key, BYOK, feature, users, upload, data, encryption, DEK, generated, Salesforce, Shield]
+keywords: [DataEncryptionKey, part, Bring, Own, Key, BYOK, feature, users, upload, encryption, DEK, generated, Salesforce, Shield, Management, Service, KMS, Customers, their, DEKs, entity, via, API, keys, auditing, purposes, They, programmatically, certificate, material, 63.0]
 ---
-
-# DataEncryptionKey
 
 > The DataEncryptionKey object is part of the Bring Your Own Key (BYOK)
          feature, which allows users to upload a data encryption key (DEK) using a public key

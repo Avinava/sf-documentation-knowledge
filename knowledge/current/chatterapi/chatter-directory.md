@@ -5,12 +5,10 @@ topic: chatter-directory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.869Z
+lastCollected: 2026-04-07T18:37:10.562Z
 estimatedTokens: 91
 keywords: [Chatter, Directory, feeds, groups, users, resources]
 ---
-
-# Chatter Directory
 
 > Chatter directory.
 

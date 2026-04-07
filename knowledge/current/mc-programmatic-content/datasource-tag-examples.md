@@ -5,12 +5,10 @@ topic: datasource-tag-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.979Z
+lastCollected: 2026-04-07T18:40:22.368Z
 estimatedTokens: 365
-keywords: [Datasource, Tag, Examples, loads, AMPscript, variable, collection, objects, Server-Side, JavaScript, JSON, Data, Filter, Order, Nested]
+keywords: [Datasource, Tag, Examples, loads, AMPscript, variable, collection, Server-Side, JavaScript, JSON, Filter, Order, Nested]
 ---
-
-# Datasource Tag Examples
 
 > This example loads information from an AMPscript variable with collection of objects read by a Datasource tag:
 

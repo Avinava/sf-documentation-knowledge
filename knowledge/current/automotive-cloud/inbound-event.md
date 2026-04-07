@@ -5,12 +5,10 @@ topic: inbound-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.812Z
+lastCollected: 2026-04-07T18:36:52.232Z
 estimatedTokens: 157
-keywords: [Inbound, Event, Output, representation, events, processing, incoming]
+keywords: [Inbound, Event, events, processing, incoming]
 ---
-
-# Inbound Event
 
 > Output
     representation of the events processing request during incoming

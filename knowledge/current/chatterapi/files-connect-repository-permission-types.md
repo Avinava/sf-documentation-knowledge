@@ -5,12 +5,10 @@ topic: files-connect-repository-permission-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.091Z
+lastCollected: 2026-04-07T18:37:12.996Z
 estimatedTokens: 132
 keywords: [Files, Connect, Repository, Permission, file]
 ---
-
-# Files Connect Repository Permission Types
 
 > Get the permission types of a repository file.
 

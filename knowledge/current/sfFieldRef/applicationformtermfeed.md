@@ -5,12 +5,10 @@ topic: applicationformtermfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.530Z
+lastCollected: 2026-04-07T18:39:26.479Z
 estimatedTokens: 390
-keywords: [ApplicationFormTermFeed, Feed, tracking, ApplicationFormTerm]
+keywords: [ApplicationFormTermFeed, ApplicationFormTerm]
 ---
-
-# ApplicationFormTermFeed
 
 > Feed tracking for ApplicationFormTerm.
 

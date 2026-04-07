@@ -5,12 +5,10 @@ topic: context-runtime-schema-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.308Z
+lastCollected: 2026-04-07T18:36:37.907Z
 estimatedTokens: 195
-keywords: [Context, Runtime, Schema, Clear, cache, definitions, their, associated, mappings]
+keywords: [Context, Runtime, Schema, Clear, cache, definitions, their, mappings]
 ---
-
-# Context Runtime Schema (DELETE)
 
 > Clear runtime schema cache for context definitions and their associated mappings.
 

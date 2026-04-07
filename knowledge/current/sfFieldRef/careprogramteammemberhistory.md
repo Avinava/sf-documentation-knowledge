@@ -5,12 +5,10 @@ topic: careprogramteammemberhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.283Z
+lastCollected: 2026-04-07T18:39:32.686Z
 estimatedTokens: 272
-keywords: [CareProgramTeamMemberHistory, History, tracked, CareProgramTeamMember]
+keywords: [CareProgramTeamMemberHistory, tracked, CareProgramTeamMember]
 ---
-
-# CareProgramTeamMemberHistory
 
 > History for tracked fields of CareProgramTeamMember.
 

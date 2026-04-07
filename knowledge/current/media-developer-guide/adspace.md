@@ -5,12 +5,10 @@ topic: adspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.083Z
+lastCollected: 2026-04-07T18:38:12.379Z
 estimatedTokens: 1592
-keywords: [AdSpace, row, inventory, item, product, media, channel, applicable, space, eligible, creative, size, targeting, API, version]
+keywords: [AdSpace, row, inventory, item, product, media, channel, applicable, space, eligible, creative, size, targeting, API, 65.0]
 ---
-
-# AdSpace
 
 > Each row represents information about an ad inventory item, such as related
          product, media type, media channel, applicable ad space, eligible creative size, and

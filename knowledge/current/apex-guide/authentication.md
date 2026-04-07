@@ -5,12 +5,10 @@ topic: authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.654Z
+lastCollected: 2026-04-07T18:36:18.873Z
 estimatedTokens: 250
 keywords: [Authentication, Salesforce, various, ways, authenticate, users, Build, combination, fit, needs, org, users’, patterns]
 ---
-
-# Authentication
 
 > Salesforce provides various ways to authenticate users. Build a combination of
         authentication methods to fit the needs of your org and your users’ use

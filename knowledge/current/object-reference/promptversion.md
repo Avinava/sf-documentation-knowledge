@@ -5,13 +5,11 @@ topic: promptversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.765Z
+lastCollected: 2026-04-07T18:38:39.285Z
 estimatedTokens: 3629
 namespace: NamespacePrefix
-keywords: [PromptVersion, in-app, guidance, prompt, walkthrough, API, version, 46.0, later, Calls, Special, Access, Rules, Prompts, Walkthroughs]
+keywords: [PromptVersion, in-app, guidance, prompt, walkthrough, API, 46.0, Prompts, Walkthroughs, Managed, Packages]
 ---
-
-# PromptVersion
 
 > Represents an in-app guidance prompt or walkthrough. Available
       in API version 46.0 and later.

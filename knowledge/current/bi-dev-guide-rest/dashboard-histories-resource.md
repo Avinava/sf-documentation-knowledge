@@ -5,12 +5,10 @@ topic: dashboard-histories-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.490Z
+lastCollected: 2026-04-07T18:36:55.971Z
 estimatedTokens: 152
-keywords: [Dashboard, Histories, Resource, API, URL, Formats, Version, HTTP]
+keywords: [Formats, Dashboard, Histories, Resource, API, URL, HTTP]
 ---
-
-# Dashboard Histories Resource
 
 > Returns the dashboard histories with the specified ID or
   API name.

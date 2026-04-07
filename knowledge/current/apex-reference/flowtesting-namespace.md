@@ -5,13 +5,11 @@ topic: flowtesting-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:29.918Z
+lastCollected: 2026-04-07T18:36:15.229Z
 estimatedTokens: 152
 namespace: The
 keywords: [Flowtesting, dynamically, generated, Apex, classes, flow, tests, created, Builder]
 ---
-
-# Flowtesting Namespace
 
 > The flowtesting namespace provides dynamically generated Apex classes for flow tests
     that are created in Flow Builder.

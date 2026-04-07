@@ -6,13 +6,10 @@ topic: tell-me-more-where-visualforce-pages-can-appear-in-the-salesforce-mobile-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.703Z
+lastCollected: 2026-04-07T18:38:52.996Z
 estimatedTokens: 438
 keywords: [Tell, Visualforce, Pages, Appear, Salesforce, Mobile, App, number, places, user]
 ---
-
-# Tell Me More: Where Visualforce Pages Can Appear in the Salesforce Mobile App Where Visualforce Pages Can
-                  Appear in the Salesforce Mobile App
 
 > When you create a Visualforce page, you can make it available from a number of
             places in the user interface.

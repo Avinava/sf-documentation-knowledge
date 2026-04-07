@@ -5,13 +5,11 @@ topic: getaccountsandcontacts-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.346Z
+lastCollected: 2026-04-07T18:39:00.417Z
 estimatedTokens: 757
 namespace: PublicSectrSltn
-keywords: [GetAccountsAndContacts, person, accounts, business, contacts, Special, Access, Rules, Usage, invokeMethod, methodName, input, output, options]
+keywords: [GetAccountsAndContacts, person, accounts, business, contacts, invokeMethod, methodName, options]
 ---
-
-# GetAccountsAndContacts Class
 
 > This class contains a method that returns a list of the person accounts, business
     accounts, and contacts.

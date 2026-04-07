@@ -5,12 +5,10 @@ topic: fhir-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.820Z
+lastCollected: 2026-04-07T18:37:55.175Z
 estimatedTokens: 249
-keywords: [FHIR, Rate, Input, representation, dosage]
+keywords: [FHIR, Rate, dosage]
 ---
-
-# FHIR Rate
 
 > Input representation for dosage rate.
 

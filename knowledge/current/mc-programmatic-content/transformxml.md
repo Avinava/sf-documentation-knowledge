@@ -5,12 +5,10 @@ topic: transformxml
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.816Z
+lastCollected: 2026-04-07T18:40:24.301Z
 estimatedTokens: 178
-keywords: [TransformXML, Function, Ordinal, XML, transform, XSL, document, transformation, **Overview**, **Syntax**, Usage]
+keywords: [TransformXML, Function, Ordinal, XML, transform, XSL, document, transformation, **Overview**, **Syntax**]
 ---
-
-# TransformXML
 
 > TransformXML(1, 2)
 

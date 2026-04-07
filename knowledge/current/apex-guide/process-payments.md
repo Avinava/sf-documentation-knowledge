@@ -5,12 +5,10 @@ topic: process-payments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.582Z
+lastCollected: 2026-04-07T18:36:16.802Z
 estimatedTokens: 334
 keywords: [Process, Payments, payment, gateway]
 ---
-
-# Process Payments
 
 > Process a payment in the payment gateway.
 

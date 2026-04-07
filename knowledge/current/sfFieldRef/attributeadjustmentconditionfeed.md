@@ -5,12 +5,10 @@ topic: attributeadjustmentconditionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.105Z
+lastCollected: 2026-04-07T18:39:28.133Z
 estimatedTokens: 395
-keywords: [AttributeAdjustmentConditionFeed, Feed, tracking, AttributeAdjustmentCondition]
+keywords: [AttributeAdjustmentConditionFeed, AttributeAdjustmentCondition]
 ---
-
-# AttributeAdjustmentConditionFeed
 
 > Feed tracking for AttributeAdjustmentCondition.
 

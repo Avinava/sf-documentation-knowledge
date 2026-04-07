@@ -5,12 +5,10 @@ topic: contactpointemailhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.640Z
+lastCollected: 2026-04-07T18:39:35.077Z
 estimatedTokens: 266
-keywords: [ContactPointEmailHistory, History, tracked, ContactPointEmail]
+keywords: [ContactPointEmailHistory, tracked, ContactPointEmail]
 ---
-
-# ContactPointEmailHistory
 
 > History for tracked fields of ContactPointEmail.
 

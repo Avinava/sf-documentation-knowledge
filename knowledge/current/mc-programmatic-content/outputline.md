@@ -5,12 +5,10 @@ topic: outputline
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.444Z
+lastCollected: 2026-04-07T18:40:21.735Z
 estimatedTokens: 231
-keywords: [OutputLine, Function, Ordinal, code, produces, results, output, system, **Overview**, **Syntax**, Usage]
+keywords: [OutputLine, Function, Ordinal, code, produces, results, system, **Overview**, **Syntax**]
 ---
-
-# OutputLine
 
 > OutputLine(value)
 

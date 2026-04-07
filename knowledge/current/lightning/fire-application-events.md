@@ -5,12 +5,10 @@ topic: fire-application-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.919Z
+lastCollected: 2026-04-07T18:38:04.017Z
 estimatedTokens: 455
-keywords: [Fire, Application, Events, follow, traditional, publish-subscribe, model, event, fired, instance, component, components, provide, handler, notified]
+keywords: [Fire, Application, Events, follow, traditional, publish-subscribe, model, event, fired, instance, provide, handler, notified, Register, App, Rendering]
 ---
-
-# Fire Application Events
 
 > Application events follow a traditional publish-subscribe model. An application event
     is fired from an instance of a component. All components that provide a handler for the event

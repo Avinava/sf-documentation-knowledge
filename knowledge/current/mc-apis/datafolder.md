@@ -5,12 +5,10 @@ topic: datafolder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.303Z
+lastCollected: 2026-04-07T18:40:16.443Z
 estimatedTokens: 1161
 keywords: [DataFolder, folder, Marketing, Cloud, Content, Child, Folders, Items]
 ---
-
-# DataFolder
 
 > The DataFolder object represents a folder in Marketing Cloud.
 

@@ -5,12 +5,10 @@ topic: update-bill-to-contact-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.867Z
+lastCollected: 2026-04-07T18:35:39.646Z
 estimatedTokens: 429
-keywords: [Bill, Contact, Action, detail, invoice, ensure, accurate, billing, communication, routing, Special, Access, Rules, REST, HTTP]
+keywords: [Inputs, Outputs, Bill, Contact, Action, detail, invoice, ensure, accurate, billing, communication, routing, REST, HTTP]
 ---
-
-# Update Bill To Contact Action
 
 > Update the Bill to Contact detail on an invoice to ensure accurate
             billing communication and routing.

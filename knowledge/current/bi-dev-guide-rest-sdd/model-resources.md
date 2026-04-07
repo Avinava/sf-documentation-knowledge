@@ -5,12 +5,10 @@ topic: model-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.511Z
+lastCollected: 2026-04-07T18:36:59.009Z
 estimatedTokens: 677
-keywords: [Model, Resources, Einstein, Discovery, models, sophisticated, custom, mathematical, constructs, predict, particular, outcomes]
+keywords: [Model, Resources, Einstein, Discovery, models, sophisticated, mathematical, constructs, predict, particular, outcomes]
 ---
-
-# Model Resources
 
 > Einstein Discovery models are sophisticated, custom mathematical constructs that are used to predict particular outcomes.
 

@@ -5,12 +5,10 @@ topic: pymtschddistributionmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:05.332Z
+lastCollected: 2026-04-07T18:35:50.233Z
 estimatedTokens: 809
-keywords: [PymtSchdDistributionMethod, partial, payments, total, payment, divided, API, version, 64.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [PymtSchdDistributionMethod, partial, payments, total, payment, divided, API, 64.0]
 ---
-
-# PymtSchdDistributionMethod
 
 > Represents information about the partial payments that the total
          payment is divided into. This object is available in API version 64.0 and

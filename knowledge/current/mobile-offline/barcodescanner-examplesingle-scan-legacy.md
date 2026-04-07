@@ -5,12 +5,10 @@ topic: barcodescanner-examplesingle-scan-legacy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.057Z
+lastCollected: 2026-04-07T18:38:15.575Z
 estimatedTokens: 695
-keywords: [BarcodeScanner, Example—Single, Scan, Legacy, Here’s, minimal, Lightning, web, component, uses, recognize, barcode]
+keywords: [BarcodeScanner, Example—Single, Scan, Legacy, Here’s, minimal, Lightning, web, uses, recognize, barcode]
 ---
-
-# BarcodeScanner Example—Single Scan (Legacy)
 
 > Here’s a minimal but complete example of a Lightning web component that uses
         BarcodeScanner to recognize a barcode.

@@ -5,12 +5,10 @@ topic: promotion-loyalty-partner-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.473Z
+lastCollected: 2026-04-07T18:35:54.530Z
 estimatedTokens: 599
-keywords: [Promotion, Loyalty, Partner, Product, DMO, Data, Cloud, model, co-marketing, program, members, API, Category, Primary, Subject]
+keywords: [Category, Relationships, Promotion, Loyalty, Partner, Product, DMO, Cloud, model, co-marketing, program, members, API, Primary, Subject, Area, Key]
 ---
-
-# Promotion Loyalty Partner Product DMO
 
 > The Promotion Loyalty Partner Product DMO is a Data Cloud data model
       object (DMO) for the promotion of a product that a partner is co-marketing to loyalty program

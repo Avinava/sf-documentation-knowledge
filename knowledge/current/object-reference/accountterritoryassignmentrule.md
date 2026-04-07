@@ -5,12 +5,10 @@ topic: accountterritoryassignmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.689Z
+lastCollected: 2026-04-07T18:38:24.560Z
 estimatedTokens: 668
-keywords: [AccountTerritoryAssignmentRule, account, assignment, rule, assigns, accounts, territories, Sales, enabled, Calls, Special, Access, Rules, Usage]
+keywords: [AccountTerritoryAssignmentRule, account, assignment, rule, assigns, accounts, territories, Sales, enabled]
 ---
-
-# AccountTerritoryAssignmentRule
 
 > An account assignment rule that assigns accounts to territories based
       on account fields. Available if Sales Territories has been enabled.

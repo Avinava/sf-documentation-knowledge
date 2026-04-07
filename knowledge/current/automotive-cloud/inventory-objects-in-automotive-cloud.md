@@ -5,12 +5,10 @@ topic: inventory-objects-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.844Z
+lastCollected: 2026-04-07T18:36:52.267Z
 estimatedTokens: 998
-keywords: [Inventory, Objects, Automotive, Cloud, access, standard, organize, products, track, their, movement, monitor, suppliers, enabled, org]
+keywords: [Inventory, Automotive, Cloud, standard, organize, products, track, their, movement, monitor, suppliers, enabled, org]
 ---
-
-# Inventory Objects in Automotive Cloud
 
 > Automotive Cloud provides access to standard objects that you can use to organize
     products, track their movement, and monitor suppliers. You can access these objects when

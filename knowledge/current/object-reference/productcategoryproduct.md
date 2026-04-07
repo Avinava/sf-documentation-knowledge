@@ -5,12 +5,10 @@ topic: productcategoryproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.292Z
+lastCollected: 2026-04-07T18:38:38.694Z
 estimatedTokens: 742
-keywords: [ProductCategoryProduct, Holds, relation, product, category, assign, products, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [ProductCategoryProduct, Holds, relation, product, category, assign, products, API, 55.0]
 ---
-
-# ProductCategoryProduct
 
 > Holds the relation between product and product category to assign products to a category. This object is available in API version 55.0 and later.
 

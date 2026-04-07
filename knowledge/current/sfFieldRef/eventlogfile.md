@@ -5,12 +5,10 @@ topic: eventlogfile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.176Z
+lastCollected: 2026-04-07T18:39:39.806Z
 estimatedTokens: 449
-keywords: [EventLogFile, event, log, files, monitoring, product, gathers, Salesforce, org’s, operational, events, analyze, usage, trends, user]
+keywords: [EventLogFile, event, log, files, monitoring, product, gathers, Salesforce, org’s, operational, events, analyze, trends, user, behavior, API, 32.0, Interval, Sequence, 37.0]
 ---
-
-# EventLogFile
 
 > Represents event log files for event monitoring. The event monitoring
    product gathers information about your Salesforce org’s operational events, which you can use to

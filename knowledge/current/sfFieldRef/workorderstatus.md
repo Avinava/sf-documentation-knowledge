@@ -5,12 +5,10 @@ topic: workorderstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.982Z
+lastCollected: 2026-04-07T18:40:06.880Z
 estimatedTokens: 302
 keywords: [WorkOrderStatus, possible, status, work, order, service]
 ---
-
-# WorkOrderStatus
 
 > Represents a possible status of a work order in field
 		service.

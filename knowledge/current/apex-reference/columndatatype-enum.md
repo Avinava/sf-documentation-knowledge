@@ -5,13 +5,11 @@ topic: columndatatype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.597Z
+lastCollected: 2026-04-07T18:36:12.886Z
 estimatedTokens: 406
 namespace: Reports
-keywords: [ColumnDataType, Reports.ColumnDataType, data, column, getDataType]
+keywords: [ColumnDataType, Reports.ColumnDataType, column, getDataType]
 ---
-
-# ColumnDataType Enum
 
 > The Reports.ColumnDataType enum describes the type of data in a column. It is returned by the getDataType method.
 

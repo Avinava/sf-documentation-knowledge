@@ -5,12 +5,10 @@ topic: removeqmfromquotegroup-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.050Z
+lastCollected: 2026-04-07T18:37:32.226Z
 estimatedTokens: 94
 keywords: [removeQM_FromQuoteGroup, API, Remove, quote, member, record, group, removeQM, _FromQuoteGroup, URI, HTTP]
 ---
-
-# removeQM_FromQuoteGroup API
 
 > Remove a quote member record from the quote group.
 

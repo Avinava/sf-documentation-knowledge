@@ -5,12 +5,10 @@ topic: configurator-unit-of-measure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:00.561Z
+lastCollected: 2026-04-07T18:35:45.572Z
 estimatedTokens: 174
-keywords: [Configurator, Unit, Measure, Output, representation, record]
+keywords: [Configurator, Unit, Measure, record]
 ---
-
-# Configurator Unit Of Measure
 
 > Output representation of the details of the unit of measure record.
 

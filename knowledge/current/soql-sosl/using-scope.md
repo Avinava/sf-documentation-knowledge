@@ -5,12 +5,10 @@ topic: using-scope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.219Z
+lastCollected: 2026-04-07T18:40:10.191Z
 estimatedTokens: 547
-keywords: [SCOPE, clause, SOQL, query, records, limit, objects, user, owns, user’s, territory]
+keywords: [SCOPE, clause, SOQL, query, records, limit, user, owns, user’s, territory]
 ---
-
-# USING SCOPE
 
 > The optional USING SCOPE clause of a SOQL query
 		returns records within a specified scope. For example, you can limit the records to return

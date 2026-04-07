@@ -5,12 +5,10 @@ topic: styling-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.057Z
+lastCollected: 2026-04-07T18:38:52.358Z
 estimatedTokens: 1136
 keywords: [Styling, Visualforce, Pages, It’s, easy, style, either, mimicking, look, feel, standard, Salesforce, own, stylesheets, content]
 ---
-
-# Styling Visualforce Pages
 
 > It’s easy to style a Visualforce
   page, either by mimicking the look and feel of a standard Salesforce page, or by using your own

@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.331Z
+lastCollected: 2026-04-07T18:37:43.489Z
 estimatedTokens: 1592
 keywords: [Resources, Health, Cloud, Business, APIs, enhance, Salesforce, implementation, integrate, applications]
 ---
-
-# Resources
 
 > Use these resources of Health Cloud Business APIs to enhance your Salesforce
   implementation or integrate with other applications.

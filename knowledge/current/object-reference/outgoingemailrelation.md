@@ -5,12 +5,10 @@ topic: outgoingemailrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.035Z
+lastCollected: 2026-04-07T18:38:37.324Z
 estimatedTokens: 12
 keywords: [OutgoingEmailRelation, internal]
 ---
-
-# OutgoingEmailRelation
 
 > For internal use
       only.

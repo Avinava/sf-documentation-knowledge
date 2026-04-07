@@ -5,13 +5,11 @@ topic: matchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.824Z
+lastCollected: 2026-04-07T18:36:00.109Z
 estimatedTokens: 1086
 namespace: Datacloud
 keywords: [MatchResult, duplicate, results, matching, rule, getEntityType, getErrors, getMatchEngine, getMatchRecords, getRule, getSize, isSuccess]
 ---
-
-# MatchResult Class
 
 > Represents the duplicate results for a matching rule.
 

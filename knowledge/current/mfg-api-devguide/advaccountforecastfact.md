@@ -5,12 +5,10 @@ topic: advaccountforecastfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.140Z
+lastCollected: 2026-04-07T18:38:13.404Z
 estimatedTokens: 1289
-keywords: [AdvAccountForecastFact, generated, advanced, account, forecast, records, API, version, 53.0, later, Calls]
+keywords: [AdvAccountForecastFact, generated, advanced, account, forecast, records, API, 53.0]
 ---
-
-# AdvAccountForecastFact
 
 > Represents information about the generated advanced account forecast
          records. This object is available in API version 53.0 and later.

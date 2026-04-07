@@ -5,12 +5,10 @@ topic: version-apex-code-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.753Z
+lastCollected: 2026-04-07T18:36:17.973Z
 estimatedTokens: 928
-keywords: [Version, Apex, Code, Behavior, Package, developers, conditional, logic, classes, triggers, exhibit, different, versions, support, previous]
+keywords: [Apex, Code, Behavior, Package, developers, conditional, logic, classes, triggers, exhibit, different, versions, support, previous, evolving]
 ---
-
-# Version Apex Code Behavior
 
 > Package developers can use conditional logic in Apex classes and triggers to exhibit
         different behavior for different versions. With this conditional logic, you can support

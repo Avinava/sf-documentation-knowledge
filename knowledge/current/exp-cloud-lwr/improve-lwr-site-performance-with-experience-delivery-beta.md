@@ -5,12 +5,10 @@ topic: improve-lwr-site-performance-with-experience-delivery-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.019Z
+lastCollected: 2026-04-07T18:37:33.349Z
 estimatedTokens: 558
-keywords: [Improve, LWR, Site, Performance, Experience, Delivery, Beta, powerful, new, infrastructure, hosting, sites, boost, scalability, created]
+keywords: [Improve, LWR, Site, Performance, Experience, Delivery, Beta, powerful, new, infrastructure, hosting, sites, boost, scalability, created, Build, Own, template, Along, subsecond, load, times, improved, security, search, engine, optimization]
 ---
-
-# Improve LWR Site Performance with Experience Delivery (Beta)
 
 > Use Experience Delivery, a powerful new infrastructure for hosting LWR sites, to boost
   the scalability and performance of sites created with the Build Your Own (LWR) template. Along

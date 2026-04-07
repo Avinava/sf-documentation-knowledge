@@ -5,12 +5,10 @@ topic: connectapiverifypolicycoverageinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.289Z
+lastCollected: 2026-04-07T18:37:50.126Z
 estimatedTokens: 120
-keywords: [Input, representation, verifying, policy, coverage's, applicability, loss, date]
+keywords: [verifying, policy, coverage's, applicability, loss, date]
 ---
-
-# ConnectApi.VerifyPolicyCoverageInputRepresentation
 
 > Input representation for verifying a policy coverage's applicability for a specified loss date.
 

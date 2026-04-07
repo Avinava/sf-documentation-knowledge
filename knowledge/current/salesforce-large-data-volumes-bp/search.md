@@ -5,12 +5,10 @@ topic: search
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.268Z
+lastCollected: 2026-04-07T18:39:17.950Z
 estimatedTokens: 90
-keywords: [Search, large, volumes, data, added, changed, system, index, becomes, users, process, take, long, time]
+keywords: [Search, large, volumes, added, changed, system, index, becomes, users, process, take, long, time]
 ---
-
-# Search
 
 > When large volumes of data are added or changed, the search system
 must index that information before it becomes available for search

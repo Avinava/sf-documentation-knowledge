@@ -5,12 +5,10 @@ topic: orgincidentsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.417Z
+lastCollected: 2026-04-07T18:38:19.073Z
 estimatedTokens: 1863
-keywords: [OrgIncidentSummary, statistics, according, various, categories, incidents, organization, non-compliance, laws, corruptions, health, safety, discrimination, marketing, labeling]
+keywords: [OrgIncidentSummary, statistics, according, various, categories, incidents, organization, non-compliance, laws, corruptions, health, safety, discrimination, marketing, labeling, customer, privacy, API, 57.0]
 ---
-
-# OrgIncidentSummary
 
 > Represents statistics according to various categories of incidents in
          an organization, such as non-compliance with laws, corruptions, health and safety,

@@ -5,13 +5,11 @@ topic: container-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.969Z
+lastCollected: 2026-04-07T18:36:00.254Z
 estimatedTokens: 1443
 namespace: Metadata
-keywords: [Container, location, style, display, custom, console, component, sidebars, Usage, height, isContainerAutoSizeEnabled, region, sidebarComponents, unit, width]
+keywords: [Container, location, style, display, console, sidebars, height, isContainerAutoSizeEnabled, region, sidebarComponents, unit, width, clone]
 ---
-
-# Container Class
 
 > Represents a location and style in which to display more than one
       custom console component in the sidebars of the console.

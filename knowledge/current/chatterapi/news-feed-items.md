@@ -5,12 +5,10 @@ topic: news-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.213Z
+lastCollected: 2026-04-07T18:37:10.896Z
 estimatedTokens: 4779
-keywords: [News, Feed, Items, groups, context, user, either, owns, member, well, files, records, users, follows, Post]
+keywords: [News, Items, groups, context, user, either, owns, member, well, files, records, users, follows, Post, Flat]
 ---
-
-# News Feed Items
 
 > Get feed items from all groups the context user either owns or is a
       member of, as well as from files, records, and users the context user follows. Post feed

@@ -5,12 +5,10 @@ topic: appendix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.989Z
+lastCollected: 2026-04-07T18:37:02.536Z
 estimatedTokens: 1415
 keywords: [Appendix, document, detailed, examples, attribute, descriptions, in-depth, materials, build, concepts, discussed, point]
 ---
-
-# Appendix
 
 > The reference section of this document contains detailed examples, attribute lists and
     descriptions, and other in-depth reference materials that build on the concepts we have

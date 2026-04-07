@@ -5,12 +5,10 @@ topic: stagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.422Z
+lastCollected: 2026-04-07T18:36:43.161Z
 estimatedTokens: 2169
-keywords: [StageDefinition, collection, states, transitions, Stage, Management, Parent, File, Suffix, Directory, Location, Version, StageTransition, StageCriteria, StageCondition]
+keywords: [StageDefinition, StageTransition, StageCriteria, StageCondition, StgFulfillmentStepDefGrp, StgFulfillmentStepDef, StgFulfillmentStepDpndDef, StageValue, collection, states, transitions, Stage, Management, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# StageDefinition
 
 > Represents a collection of fields to set up the states and
 			transitions for Stage Management.

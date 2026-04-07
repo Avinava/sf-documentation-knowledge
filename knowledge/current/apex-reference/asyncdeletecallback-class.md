@@ -5,13 +5,11 @@ topic: asyncdeletecallback-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.472Z
+lastCollected: 2026-04-07T18:35:59.749Z
 estimatedTokens: 543
 namespace: DataSource
-keywords: [AsyncDeleteCallback, callback, Database.deleteAsync, references, Salesforce, calls, remote, deleteAsync, operation, completed, compensating, transaction, completion, context, Extend]
+keywords: [AsyncDeleteCallback, callback, Database.deleteAsync, references, Salesforce, remote, deleteAsync, operation, completed, compensating, transaction, completion, context, Extend, define, actions, execute, finishes, execution, processDelete, deleteResult]
 ---
-
-# AsyncDeleteCallback Class
 
 > A callback class that the Database.deleteAsync method references. Salesforce calls this class after
       the remote deleteAsync operation is completed. This

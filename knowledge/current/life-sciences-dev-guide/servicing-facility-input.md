@@ -5,12 +5,10 @@ topic: servicing-facility-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.955Z
+lastCollected: 2026-04-07T18:37:55.331Z
 estimatedTokens: 103
-keywords: [Servicing, Facility, Input, service, provided]
+keywords: [Servicing, Facility, service, provided]
 ---
-
-# Servicing Facility Input
 
 > Facility where the service is being provided.
 

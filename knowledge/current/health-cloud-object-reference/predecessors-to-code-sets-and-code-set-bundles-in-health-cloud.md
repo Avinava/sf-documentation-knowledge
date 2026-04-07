@@ -5,12 +5,10 @@ topic: predecessors-to-code-sets-and-code-set-bundles-in-health-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.280Z
+lastCollected: 2026-04-07T18:37:42.420Z
 estimatedTokens: 570
-keywords: [Predecessors, Code, Bundles, Health, Cloud, Spring, ’21, release, Healthcare, Procedure, Diagnosis, objects, stored, codes, specifically]
+keywords: [Predecessors, Code, Bundles, Health, Cloud, Spring, ’21, release, Healthcare, Procedure, Diagnosis, stored, codes, specifically, procedures, diagnoses, were, prior-authorization, requests, approval, processes, Since, Spring’21, uses, Bundle, purpose, instead]
 ---
-
-# Predecessors to Code Sets and Code Set Bundles in Health Cloud
 
 > Before the Spring ’21 release, the Healthcare Procedure and Healthcare Diagnosis objects
   stored codes specifically related to procedures and diagnoses. These codes were used for

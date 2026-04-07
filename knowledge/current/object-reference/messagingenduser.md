@@ -5,12 +5,10 @@ topic: messagingenduser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.381Z
+lastCollected: 2026-04-07T18:38:35.630Z
 estimatedTokens: 1841
-keywords: [MessagingEndUser, address—such, phone, number, Facebook, page—communicating, Messaging, channel, API, version, 40.0, later, Calls, Associated, Objects]
+keywords: [MessagingEndUser, address—such, phone, number, Facebook, page—communicating, Messaging, channel, API, 40.0]
 ---
-
-# MessagingEndUser
 
 > Represents a single address—such as a phone number or Facebook
       page—communicating with a single Messaging channel. This object is available in API

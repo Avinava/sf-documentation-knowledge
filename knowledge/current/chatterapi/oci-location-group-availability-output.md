@@ -5,12 +5,10 @@ topic: oci-location-group-availability-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.055Z
+lastCollected: 2026-04-07T18:37:21.210Z
 estimatedTokens: 135
-keywords: [OCI, Location, Group, Availability, Output, inventory, data]
+keywords: [OCI, Location, Group, Availability, inventory]
 ---
-
-# OCI Location Group Availability Output
 
 > A set of inventory availability data for one inventory location
       group.

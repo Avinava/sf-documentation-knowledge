@@ -5,12 +5,10 @@ topic: connectapiportalusercreationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.221Z
+lastCollected: 2026-04-07T18:37:50.062Z
 estimatedTokens: 192
-keywords: [Input, representation, containing, creating, portal, user]
+keywords: [containing, creating, portal, user]
 ---
-
-# ConnectApi.PortalUserCreationInputRepresentation
 
 > Input representation containing the details for creating a portal user.
 

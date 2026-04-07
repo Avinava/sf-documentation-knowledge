@@ -5,12 +5,10 @@ topic: union
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:14.721Z
+lastCollected: 2026-04-07T18:37:01.329Z
 estimatedTokens: 780
-keywords: [union, Combines, multiple, result, structure, different, dataset, Considerations]
+keywords: [Considerations, union, Combines, multiple, result, structure, different, dataset]
 ---
-
-# union
 
 > Combines multiple result sets into one result set. The result sets must have the same
   field names and structure. You can use a different dataset to create each result set, or you can

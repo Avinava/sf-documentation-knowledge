@@ -5,12 +5,10 @@ topic: return-http-headers-for-a-process-rule-of-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.746Z
+lastCollected: 2026-04-07T18:36:20.984Z
 estimatedTokens: 154
-keywords: [HTTP, Process, Rule, sObject, sending, rules, resource, specific, gives, chance, retrieving, content]
+keywords: [HTTP, Process, Rule, sObject, sending, resource, specific, gives, chance, retrieving, content]
 ---
-
-# Return HTTP Headers for a Process Rule of an sObject
 
 > Returns only the headers that are returned by sending a GET request to the process
         rules resource for a specific process rule of an sObject. This gives you a chance to see

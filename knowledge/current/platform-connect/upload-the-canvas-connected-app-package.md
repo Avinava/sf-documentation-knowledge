@@ -5,12 +5,10 @@ topic: upload-the-canvas-connected-app-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.756Z
+lastCollected: 2026-04-07T18:38:57.563Z
 estimatedTokens: 642
 keywords: [Upload, Canvas, Connected, App, Package, Now, packaged, you’re, ready]
 ---
-
-# Upload the Canvas Connected App Package
 
 > Now that you packaged the canvas app, you’re ready to upload the package.
 

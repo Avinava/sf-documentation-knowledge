@@ -5,12 +5,10 @@ topic: fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.983Z
+lastCollected: 2026-04-07T18:37:25.895Z
 estimatedTokens: 125
-keywords: [Standard, Objects, added, Salesforce, features]
+keywords: [Standard, added, Salesforce, features]
 ---
-
-# Fields on Standard Objects
 
 > This section provides a list of fields that have been added to the standard Salesforce
     objects of other features.

@@ -5,12 +5,10 @@ topic: get-unread-count-for-conversations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.363Z
+lastCollected: 2026-04-07T18:37:16.428Z
 estimatedTokens: 199
 keywords: [Unread, Count, Conversations, number, messages, user]
 ---
-
-# Get Unread Count for Conversations
 
 > Get the number of private conversations that have unread
    messages for a user.

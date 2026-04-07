@@ -5,12 +5,10 @@ topic: cgcloudkpimapc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.453Z
+lastCollected: 2026-04-07T18:39:13.843Z
 estimatedTokens: 1676
-keywords: [cgcloud__KPI_Map__c, Holds, KPI, Map, configuration, API, version, 54.0, later, cgcloud, _KPI, _Map, Calls, Associated, Objects]
+keywords: [cgcloud__KPI_Map__c, Holds, KPI, Map, configuration, API, 54.0, cgcloud, _KPI, _Map]
 ---
-
-# cgcloud__KPI_Map__c
 
 > Holds the information about the KPI Map configuration. This
       object is available in API version 54.0 and later.

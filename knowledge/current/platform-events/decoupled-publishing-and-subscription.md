@@ -5,12 +5,10 @@ topic: decoupled-publishing-and-subscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.935Z
+lastCollected: 2026-04-07T18:38:57.757Z
 estimatedTokens: 908
-keywords: [Decoupled, Publishing, Subscription, publish, behavior, platform, event, Immediately, it’s, published, outside, Lightning, database, transaction, result]
+keywords: [Decoupled, Publishing, Subscription, publish, behavior, platform, event, Immediately, it’s, published, outside, Lightning, database, transaction, result, processes, decoupled—the, process, can’t, assume, action, made, committed, message, received, Familiarize, yourself, scenarios, occur, Publisher, Respect, Boundaries, Trigger]
 ---
-
-# Decoupled Publishing and Subscription
 
 > When the publish behavior of a platform event is set to
         Publish Immediately, it’s published outside of a Lightning Platform

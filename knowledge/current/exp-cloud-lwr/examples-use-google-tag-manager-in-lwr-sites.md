@@ -5,12 +5,10 @@ topic: examples-use-google-tag-manager-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.817Z
+lastCollected: 2026-04-07T18:37:33.096Z
 estimatedTokens: 830
-keywords: [Examples, Google, Tag, Manager, LWR, Sites, track, customer, interactions, site, single-page, application, <x-oasis-script>, privileged, script]
+keywords: [Examples, Google, Tag, Manager, LWR, Sites, track, customer, interactions, site, single-page, application, <x-oasis-script>, privileged, script, lets, interact, shadow, DOM, Form, Inputs, Submissions, Button, Link, Clicks]
 ---
-
-# Examples: Use Google Tag Manager in LWR Sites
 
 > Use Google Tag Manager to track customer interactions with your LWR site, which is a
   single-page application. In these examples, the <x-oasis-script> privileged script tag lets Google Tag Manager interact with

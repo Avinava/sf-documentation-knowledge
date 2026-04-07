@@ -5,12 +5,10 @@ topic: test-the-release-artifact-in-a-staging-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.901Z
+lastCollected: 2026-04-07T18:40:07.844Z
 estimatedTokens: 358
 keywords: [Test, Release, Artifact, Staging, Environment, Stage, changes, run, regression, tests, Full, sandbox]
 ---
-
-# Test the Release Artifact in a Staging Environment
 
 > Stage the changes and run regression tests in a Full
         sandbox.

@@ -5,12 +5,10 @@ topic: state
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.119Z
+lastCollected: 2026-04-07T18:37:40.089Z
 estimatedTokens: 40
 keywords: [state, address, group, visit, scheduled]
 ---
-
-# state
 
 > The state of the address where the group visit is scheduled.
 

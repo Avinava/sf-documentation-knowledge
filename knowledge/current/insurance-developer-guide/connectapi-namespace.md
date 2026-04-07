@@ -5,13 +5,11 @@ topic: connectapi-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.689Z
+lastCollected: 2026-04-07T18:37:52.904Z
 estimatedTokens: 278
 namespace: ConnectApi
-keywords: [ConnectApi, Connect, Apex, Insurance, Brokerage, classes, accessing, data, Business, APIs, Claim, Policy, Administration, Group, Benefits]
+keywords: [ConnectApi, Connect, Apex, Insurance, Brokerage, classes, accessing, Business, APIs, Claim, Policy, Administration, Group, Benefits]
 ---
-
-# ConnectApi Namespace
 
 > The ConnectApi namespace (also called Connect in
         Apex) in Insurance Group Benefits provides classes for accessing the same data available in

@@ -5,12 +5,10 @@ topic: formatdatetimeutc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.916Z
+lastCollected: 2026-04-07T18:38:05.077Z
 estimatedTokens: 316
 keywords: [formatDateTimeUTC, formatted, date, time, UTC, Sample, Code]
 ---
-
-# formatDateTimeUTC()
 
 > Returns a formatted date time in UTC.
 

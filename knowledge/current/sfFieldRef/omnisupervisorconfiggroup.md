@@ -5,12 +5,10 @@ topic: omnisupervisorconfiggroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.917Z
+lastCollected: 2026-04-07T18:39:50.342Z
 estimatedTokens: 284
-keywords: [OmniSupervisorConfigGroup, group, agents, visible, supervisors, Omni-Channel, supervisor, configuration, appears, tab, Omni, API, version, 41.0, later]
+keywords: [OmniSupervisorConfigGroup, group, agents, visible, supervisors, Omni-Channel, supervisor, configuration, appears, tab, Omni, API, 41.0]
 ---
-
-# OmniSupervisorConfigGroup
 
 > Represents the group of agents who are visible to the supervisors of an Omni-Channel supervisor configuration. The group, if visible, appears in the Agents tab of Omni
 		Supervisor. This object is available in API version 41.0 and later.

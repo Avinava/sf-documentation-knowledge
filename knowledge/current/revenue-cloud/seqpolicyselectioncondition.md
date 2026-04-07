@@ -5,12 +5,10 @@ topic: seqpolicyselectioncondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.580Z
+lastCollected: 2026-04-07T18:35:50.472Z
 estimatedTokens: 729
-keywords: [SeqPolicySelectionCondition, condition, determine, sequence, policy, applied, record, API, version, 65.0, later, Calls, Special, Access, Rules]
+keywords: [SeqPolicySelectionCondition, condition, determine, sequence, policy, applied, record, API, 65.0]
 ---
-
-# SeqPolicySelectionCondition
 
 > Represents the condition used to determine which sequence policy is
          applied to a record. This object is available in API version 65.0 and

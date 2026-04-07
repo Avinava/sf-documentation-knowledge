@@ -5,12 +5,10 @@ topic: save-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.861Z
+lastCollected: 2026-04-07T18:39:19.551Z
 estimatedTokens: 111
-keywords: [Save, Node, data, recipe]
+keywords: [Save, Node, recipe]
 ---
-
-# Save Node
 
 > A save data node in a recipe.
 

@@ -5,12 +5,10 @@ topic: unbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.157Z
+lastCollected: 2026-04-07T18:36:47.023Z
 estimatedTokens: 1710
-keywords: [Unbundle, bundle, service, appointments, resource, accepts, API, Gov, Cloud, endpoint, version, 54.0, later, Salesforce, Add]
+keywords: [Unbundle, bundle, service, appointments, resource, accepts, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---
-
-# Unbundle
 
 > Unbundle a bundle of service appointments. This resource accepts a bundle ID. This API
   is not supported in Gov Cloud. This endpoint is available in version 54.0 and later of the

@@ -5,12 +5,10 @@ topic: defining-sync-names-and-sync-configuration-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.382Z
+lastCollected: 2026-04-07T18:40:25.752Z
 estimatedTokens: 2761
-keywords: [Defining, Sync, Configuration, Files, Beginning, Mobile, SDK, 6.0, define, assign, configurations, run, edit, saved, operation]
+keywords: [Defining, Sync, Configuration, Files, Beginning, Mobile, SDK, 6.0, define, assign, configurations, run, edit, saved, operation, Since, platforms, app, describe, syncs, file, compile, any, project, Locations, Loading, Definitions, iOS, Native, Apps, Android]
 ---
-
-# Defining Sync Names and Sync Configuration Files
 
 > Beginning in Mobile SDK 6.0, you can define sync configuration files and assign names to
     sync configurations. You can use sync names to run, edit, or delete a saved sync operation.

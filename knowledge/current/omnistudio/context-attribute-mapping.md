@@ -5,12 +5,10 @@ topic: context-attribute-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.264Z
+lastCollected: 2026-04-07T18:36:38.927Z
 estimatedTokens: 263
-keywords: [Context, Attribute, Mapping, Output, representation]
+keywords: [Context, Attribute, Mapping]
 ---
-
-# Context Attribute Mapping
 
 > Output representation of the context attribute mapping.
 

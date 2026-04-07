@@ -5,13 +5,11 @@ topic: bankpaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.579Z
+lastCollected: 2026-04-07T18:36:01.811Z
 estimatedTokens: 2999
 namespace: CommercePayments
-keywords: [BankPaymentMethodRequest, data, bank, payment, gateway, adapter, service, call, Usage, accountHolderFirstName, accountHolderLastName, accountHolderName, accountHolderType, accountId, accountNumber]
+keywords: [BankPaymentMethodRequest, bank, payment, gateway, adapter, service, call, accountHolderFirstName, accountHolderLastName, accountHolderName, accountHolderType, accountId, accountNumber, accountType, autoPay, bankCode, bankType, comments, email, mandate, nickName, standardEntryClassCode, equals, obj, hashCode, toString]
 ---
-
-# BankPaymentMethodRequest Class
 
 > Sends data related to a bank payment method to a gateway adapter
       during a service call.

@@ -5,12 +5,10 @@ topic: adorderitemdeliveryschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.773Z
+lastCollected: 2026-04-07T18:38:12.055Z
 estimatedTokens: 689
-keywords: [AdOrderItemDeliverySchedule, time, period, days, order, item, served, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [AdOrderItemDeliverySchedule, time, period, days, order, item, served, API, 64.0]
 ---
-
-# AdOrderItemDeliverySchedule
 
 > Represents information about the time period and the days on which
          the ad order item must be served. This object is available in API version 64.0 and

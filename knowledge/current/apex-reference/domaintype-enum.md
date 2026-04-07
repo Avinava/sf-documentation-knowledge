@@ -5,12 +5,10 @@ topic: domaintype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.400Z
+lastCollected: 2026-04-07T18:36:12.697Z
 estimatedTokens: 482
-keywords: [DomainType, domain, System.Domain, Usage]
+keywords: [DomainType, domain, System.Domain]
 ---
-
-# DomainType Enum
 
 > Specifies the domain type for a System.Domain.
 

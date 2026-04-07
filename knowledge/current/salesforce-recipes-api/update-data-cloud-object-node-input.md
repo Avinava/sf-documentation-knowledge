@@ -5,12 +5,10 @@ topic: update-data-cloud-object-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.136Z
+lastCollected: 2026-04-07T18:39:18.838Z
 estimatedTokens: 128
-keywords: [Data, Cloud, Node, Input, recipe]
+keywords: [Cloud, Node, recipe]
 ---
-
-# Update Data Cloud Object Node Input
 
 > A Data 360 object update node in a recipe.
 

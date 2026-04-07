@@ -5,12 +5,10 @@ topic: create-a-triggered-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.103Z
+lastCollected: 2026-04-07T18:40:16.238Z
 estimatedTokens: 2355
-keywords: [Triggered, Send, Definition, documentation, managed, Email, Studio, transactional, messaging, REST, API, review, Why, How, Sample]
+keywords: [Triggered, Send, Definition, documentation, managed, Email, Studio, transactional, messaging, REST, API, review, Why, How, Sample, NET, Code, Ruby, Rails, Java, Axis, 1.4, 2.0, PHP, SOAP, Envelope, Items]
 ---
-
-# Create a Triggered Send Definition
 
 > This documentation applies only to triggered sends that are managed in Email Studio. To use the transactional messaging REST API, review Transactional Messaging API.
 

@@ -5,12 +5,10 @@ topic: post-messagingv1domainverificationregister
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.578Z
+lastCollected: 2026-04-07T18:40:16.722Z
 estimatedTokens: 194
-keywords: [POST, messaging, domainverification, register, Registers, domain, validation, generating, returning, token, added, DNS, **Overview**, Usage, Marketing]
+keywords: [POST, messaging, domainverification, register, Registers, domain, validation, generating, returning, token, added, DNS, **Overview**, Marketing, Cloud, Permissions]
 ---
-
-# POST /messaging/v1/domainverification/register
 
 > Registers a domain for validation by generating and returning the token added to the DNS.
 

@@ -5,12 +5,10 @@ topic: tenantsecuritytrustediprangetrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.889Z
+lastCollected: 2026-04-07T18:38:42.610Z
 estimatedTokens: 1196
-keywords: [TenantSecurityTrustedIpRangeTrend, Stores, changes, trusted, ranges, Security, Center.This, Center, subscribers, API, version, 54.0, later, Calls, Special]
+keywords: [TenantSecurityTrustedIpRangeTrend, Stores, changes, trusted, ranges, Security, Center.This, Center, subscribers, API, 54.0]
 ---
-
-# TenantSecurityTrustedIpRangeTrend
 
 > Stores details of changes related to trusted IP ranges in Security
 			Center.This object is available for Security Center subscribers in API version 54.0

@@ -5,12 +5,10 @@ topic: dashboard-saved-view-step-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.448Z
+lastCollected: 2026-04-07T18:36:56.974Z
 estimatedTokens: 79
 keywords: [Dashboard, Saved, View, Step, Metadata, Analytics]
 ---
-
-# Dashboard Saved View Step Metadata
 
 > The step metadata for the saved view of an Analytics dashboard.
 

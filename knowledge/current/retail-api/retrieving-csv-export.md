@@ -6,13 +6,10 @@ topic: retrieving-csv-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.293Z
+lastCollected: 2026-04-07T18:39:11.838Z
 estimatedTokens: 38
-keywords: [Retrieving, CSV, Export, fetch, history, making, Apex, call]
+keywords: [Retrieving, CSV, Export, fetch, making, Apex, call]
 ---
-
-# Retrieving
-    CSV Export
 
 > You can fetch the history of the CSV export by making an Apex
    call.

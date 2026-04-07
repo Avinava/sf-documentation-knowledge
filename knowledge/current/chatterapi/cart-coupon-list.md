@@ -5,12 +5,10 @@ topic: cart-coupon-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.112Z
+lastCollected: 2026-04-07T18:37:17.180Z
 estimatedTokens: 68
-keywords: [Cart, Coupon, coupons, associated]
+keywords: [Cart, Coupon, coupons]
 ---
-
-# Cart Coupon List
 
 > List of coupons associated with a cart.
 

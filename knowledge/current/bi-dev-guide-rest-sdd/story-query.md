@@ -5,12 +5,10 @@ topic: story-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.637Z
+lastCollected: 2026-04-07T18:37:00.141Z
 estimatedTokens: 375
 keywords: [Story, Query, insights]
 ---
-
-# Story Query
 
 > A query for story insights.
 

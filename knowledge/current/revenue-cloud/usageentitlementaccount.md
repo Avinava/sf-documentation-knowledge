@@ -5,12 +5,10 @@ topic: usageentitlementaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.799Z
+lastCollected: 2026-04-07T18:35:50.678Z
 estimatedTokens: 1054
-keywords: [UsageEntitlementAccount, entitlement, account, asset, holds, wallet, granted, units, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [UsageEntitlementAccount, entitlement, account, asset, holds, wallet, granted, units, API, 63.0]
 ---
-
-# UsageEntitlementAccount
 
 > Represents the entitlement account details related to the asset that
          holds the wallet with the granted units. This object is available in API version 63.0

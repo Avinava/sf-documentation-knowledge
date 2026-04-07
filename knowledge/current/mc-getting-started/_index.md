@@ -2,7 +2,7 @@
 domain: mc-getting-started
 name: Get Started, Marketing Cloud Developers
 documentCount: 3
-lastGenerated: 2026-04-07T09:06:39.458Z
+lastGenerated: 2026-04-07T18:40:44.652Z
 ---
 
 # Get Started, Marketing Cloud Developers — Knowledge Index

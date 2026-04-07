@@ -5,12 +5,10 @@ topic: configure-components-for-record-specific-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.397Z
+lastCollected: 2026-04-07T18:38:03.416Z
 estimatedTokens: 1256
-keywords: [Configure, Components, Record-Specific, Actions, Add, force, hasRecordId, Aura, component, enable, assigned, current, record, useful, Lightning]
+keywords: [Configure, Record-Specific, Actions, Add, force, hasRecordId, Aura, enable, assigned, current, record, useful, Lightning, object-specific, action, override, Experience, Salesforce, app]
 ---
-
-# Configure Components for Record-Specific Actions
 
 > Add the force:hasRecordId interface to an Aura
         component to enable the component to be assigned the ID of the current record. The current

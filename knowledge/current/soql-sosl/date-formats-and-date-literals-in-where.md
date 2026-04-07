@@ -5,12 +5,10 @@ topic: date-formats-and-date-literals-in-where
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.046Z
+lastCollected: 2026-04-07T18:40:09.999Z
 estimatedTokens: 3917
-keywords: [Date, Formats, Literals, specify, clauses, filter, SOQL, query, results, Dates, represent, specific, day, time, relative]
+keywords: [Date, Formats, Literals, specify, clauses, filter, SOQL, query, results, Dates, represent, specific, day, time, relative, range, month, week, year, Minimum, Maximum]
 ---
-
-# Date Formats and Date Literals in WHERE
 
 > You can specify date values or date literals in WHERE
 		clauses to filter SOQL query results. Dates represent a specific day or time, while date

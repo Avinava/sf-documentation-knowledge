@@ -5,12 +5,10 @@ topic: action-plans-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.551Z
+lastCollected: 2026-04-07T18:36:51.903Z
 estimatedTokens: 352
-keywords: [Action, Plans, Automotive, Cloud, data, model, capture, commonly, repeated, tasks, metrics, partner, visits, vehicles, asset]
+keywords: [Action, Plans, Automotive, Cloud, model, capture, commonly, repeated, tasks, metrics, partner, visits, vehicles, asset, milestones, account, contact, participants]
 ---
-
-# Action Plans in Automotive Cloud
 
 > Use the Action Plans data model to capture commonly repeated tasks and metrics for
     partner visits. You can also use action plans for vehicles, asset milestones, and asset account

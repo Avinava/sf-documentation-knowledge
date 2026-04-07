@@ -5,12 +5,10 @@ topic: connectapiquerysqlstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:26.063Z
+lastCollected: 2026-04-07T18:36:11.343Z
 estimatedTokens: 667
 keywords: [ConnectApi.QuerySqlStatus, status, SQL, query]
 ---
-
-# ConnectApi.QuerySqlStatus
 
 > Represents the status of an SQL query.
 

@@ -5,12 +5,10 @@ topic: feed-item-attachment-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.036Z
+lastCollected: 2026-04-07T18:37:19.135Z
 estimatedTokens: 517
-keywords: [Feed, Item, Attachment, Dashboard]
+keywords: [Item, Attachment, Dashboard]
 ---
-
-# Feed Item Attachment: Dashboard
 
 > Dashboard feed item attachment.
 

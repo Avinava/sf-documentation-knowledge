@@ -5,12 +5,10 @@ topic: role
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.877Z
+lastCollected: 2026-04-07T18:36:29.357Z
 estimatedTokens: 422
-keywords: [Role, organization, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition, Wildcard, Support, Manifest]
+keywords: [Role, organization, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Role
 
 > Represents a role in your organization.
 

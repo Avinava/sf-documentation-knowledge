@@ -5,12 +5,10 @@ topic: enable-einstein-chatbot-features-in-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.115Z
+lastCollected: 2026-04-07T18:40:09.068Z
 estimatedTokens: 179
-keywords: [Enable, Einstein, Chatbot, Features, Scratch, Orgs, Turn, Dev, Hub, eliminate, manual, steps, enabling, feature, accept]
+keywords: [Enable, Einstein, Chatbot, Features, Scratch, Orgs, Turn, Dev, Hub, eliminate, manual, steps, enabling, feature, accept, Terms, Service, separate, acceptance, org, created, previously, accepted, Einstein-related, setting, already, enabled]
 ---
-
-# Enable Einstein Chatbot Features in Scratch Orgs
 
 > Turn on Einstein Features in your Dev Hub to eliminate the manual steps for enabling the
         Chatbot feature in scratch orgs. When you accept the Terms of Service for Einstein, a

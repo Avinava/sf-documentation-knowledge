@@ -5,12 +5,10 @@ topic: connectapicartcoupon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.206Z
+lastCollected: 2026-04-07T18:36:07.569Z
 estimatedTokens: 78
-keywords: [ConnectApi.CartCoupon, Cart, Coupon, representation]
+keywords: [ConnectApi.CartCoupon, Cart, Coupon]
 ---
-
-# ConnectApi.CartCoupon
 
 > Cart Coupon representation.
 

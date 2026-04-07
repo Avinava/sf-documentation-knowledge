@@ -5,12 +5,10 @@ topic: suggestedassessmentdeffeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.386Z
+lastCollected: 2026-04-07T18:40:03.076Z
 estimatedTokens: 392
-keywords: [SuggestedAssessmentDefFeed, Feed, tracking, SuggestedAssessmentDef]
+keywords: [SuggestedAssessmentDefFeed, SuggestedAssessmentDef]
 ---
-
-# SuggestedAssessmentDefFeed
 
 > Feed tracking for SuggestedAssessmentDef.
 

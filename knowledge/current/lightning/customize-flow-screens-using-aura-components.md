@@ -5,12 +5,10 @@ topic: customize-flow-screens-using-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.013Z
+lastCollected: 2026-04-07T18:38:02.971Z
 estimatedTokens: 640
-keywords: [Customize, Flow, Screens, Aura, Components, look, feel, screen, build, custom, component, Configure, design, resource, they’re]
+keywords: [Customize, Flow, Screens, Aura, look, feel, screen, build, Configure, design, resource, they’re, compatible, Builder, add]
 ---
-
-# Customize Flow Screens Using Aura Components
 
 > To customize the look and feel of your flow screen, build a custom Aura component.
   Configure the component and its design resource so that they’re compatible with flow screens. Then

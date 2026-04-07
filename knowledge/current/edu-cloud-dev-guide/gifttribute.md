@@ -5,12 +5,10 @@ topic: gifttribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:43.258Z
+lastCollected: 2026-04-07T18:37:30.320Z
 estimatedTokens: 1374
-keywords: [GiftTribute, status, gift, tribute, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftTribute, status, gift, tribute, API, 59.0]
 ---
-
-# GiftTribute
 
 > Represents the details and status of the gift tribute. This object is
       available in API version 59.0 and later.

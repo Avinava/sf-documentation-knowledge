@@ -5,12 +5,10 @@ topic: post-smsv1messagelistiddeliveryreporttokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.713Z
+lastCollected: 2026-04-07T18:40:17.891Z
 estimatedTokens: 205
-keywords: [POST, sms, messageList, deliveryReport, tokenId, Triggers, delivery, report, API, **Overview**, Usage]
+keywords: [POST, sms, messageList, deliveryReport, tokenId, Triggers, delivery, report, API, **Overview**]
 ---
-
-# POST /sms/v1/messageList/{id}/deliveryReport/{tokenId}
 
 > Triggers a delivery report for messageList API.
 

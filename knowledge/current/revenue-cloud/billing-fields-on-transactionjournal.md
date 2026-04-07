@@ -5,12 +5,10 @@ topic: billing-fields-on-transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.276Z
+lastCollected: 2026-04-07T18:35:42.132Z
 estimatedTokens: 1249
-keywords: [Billing, TransactionJournal, Standard, extend, represent, general, ledger, accounts, transactions, API, version, 63.0, later, Calls, Special]
+keywords: [Billing, TransactionJournal, Standard, extend, represent, general, ledger, accounts, transactions, API, 63.0]
 ---
-
-# Billing Fields on TransactionJournal
 
 > Standard fields extend the TransactionJournal object for use in
          Billing to represent information about the general ledger accounts for billing

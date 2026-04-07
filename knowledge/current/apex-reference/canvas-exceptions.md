@@ -5,13 +5,11 @@ topic: canvas-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.637Z
+lastCollected: 2026-04-07T18:36:12.926Z
 estimatedTokens: 352
 namespace: Canvas
 keywords: [Canvas, Exceptions, exception, classes]
 ---
-
-# Canvas Exceptions
 
 > The Canvas namespace contains exception
         classes.

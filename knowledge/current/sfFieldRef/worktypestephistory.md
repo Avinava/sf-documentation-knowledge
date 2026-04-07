@@ -5,12 +5,10 @@ topic: worktypestephistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.505Z
+lastCollected: 2026-04-07T18:40:07.443Z
 estimatedTokens: 260
-keywords: [WorkTypeStepHistory, History, tracked, WorkTypeStep]
+keywords: [WorkTypeStepHistory, tracked, WorkTypeStep]
 ---
-
-# WorkTypeStepHistory
 
 > History for tracked fields of WorkTypeStep.
 

@@ -5,12 +5,10 @@ topic: vpls360csrassetfetchforcustomer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.386Z
+lastCollected: 2026-04-07T18:38:11.728Z
 estimatedTokens: 112
-keywords: [vpls360csr_AssetFetchForCustomer, Integration, Procedure, agent, console, fetch, assets, order, items, total, subscription, amount, account, vpls360csr, _AssetFetchForCustomer]
+keywords: [vpls360csr_AssetFetchForCustomer, Integration, Procedure, agent, console, fetch, assets, order, items, total, subscription, amount, account, vpls360csr, _AssetFetchForCustomer, Sample]
 ---
-
-# vpls360csr_AssetFetchForCustomer
 
 > This Integration Procedure is used in the agent console, to
     fetch all the assets and order items, and the total subscription amount for an

@@ -5,12 +5,10 @@ topic: b2bexpressassetconfigdata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.870Z
+lastCollected: 2026-04-07T18:37:32.028Z
 estimatedTokens: 77
 keywords: [b2bExpress_assetConfigData, API, Retrieve, assets, b2bExpress, _assetConfigData, URI, HTTP]
 ---
-
-# b2bExpress_assetConfigData API
 
 > Retrieve the information that is displayed on the assets
 		page.

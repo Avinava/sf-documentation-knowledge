@@ -5,12 +5,10 @@ topic: direct-to-agent-routing-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.984Z
+lastCollected: 2026-04-07T18:38:06.228Z
 estimatedTokens: 571
 keywords: [Direct-to-Agent, Routing, Deployment, APIs, lets, route, chats, specific, button, agent]
 ---
-
-# Direct-to-Agent Routing with the Deployment APIs
 
 > You can set up direct-to-agent routing that lets you to route chats from a specific
         button to a single agent.

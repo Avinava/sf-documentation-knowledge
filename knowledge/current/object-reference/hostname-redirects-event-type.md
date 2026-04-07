@@ -5,12 +5,10 @@ topic: hostname-redirects-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:40.290Z
+lastCollected: 2026-04-07T18:38:31.085Z
 estimatedTokens: 3738
-keywords: [Hostname, Redirects, Event, Redirect, events, contain, blocked, successful, redirections, previous, Domain, hostnames, EventLogFile, API, version]
+keywords: [Hostname, Redirects, Event, Redirect, events, contain, blocked, successful, redirections, previous, Domain, hostnames, EventLogFile, API, 56.0, Salesforce, CLI, REST]
 ---
-
-# Hostname Redirects Event Type
 
 > Hostname Redirect events contain details about blocked and successful redirections for
   your previous My Domain hostnames. The Hostname Redirects event type is available in the

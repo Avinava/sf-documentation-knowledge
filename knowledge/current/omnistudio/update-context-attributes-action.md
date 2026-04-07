@@ -5,12 +5,10 @@ topic: update-context-attributes-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.772Z
+lastCollected: 2026-04-07T18:36:35.238Z
 estimatedTokens: 211
-keywords: [Context, Attributes, Action, instance, tags, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Context, Attributes, Action, instance, tags, REST, HTTP]
 ---
-
-# Update Context Attributes Action
 
 > Update the attributes in the context instance using tags.
 

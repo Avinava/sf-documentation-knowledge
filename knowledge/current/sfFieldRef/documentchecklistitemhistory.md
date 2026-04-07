@@ -5,12 +5,10 @@ topic: documentchecklistitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.630Z
+lastCollected: 2026-04-07T18:39:38.336Z
 estimatedTokens: 271
-keywords: [DocumentChecklistItemHistory, History, tracked, DocumentChecklistItem]
+keywords: [DocumentChecklistItemHistory, tracked, DocumentChecklistItem]
 ---
-
-# DocumentChecklistItemHistory
 
 > History for tracked fields of DocumentChecklistItem.
 

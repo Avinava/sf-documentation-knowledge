@@ -5,12 +5,10 @@ topic: pagereference-types-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.269Z
+lastCollected: 2026-04-07T18:38:03.280Z
 estimatedTokens: 3483
-keywords: [pageReference, navigate, Lightning, Experience, Builder, sites, Salesforce, mobile, app, define, generates, unique, URL, attributes, apply]
+keywords: [pageReference, navigate, Lightning, Experience, Builder, sites, Salesforce, mobile, app, define, generates, unique, URL, attributes, apply, pages, depending, requirements, differ, LWR, Aura, External, Record, Relationship, Login, Knowledge, Article, Managed, Content, CMS, Named, Cloud, Standard, Navigation, Item, Flow, Web]
 ---
-
-# pageReference Types Types
 
 > To navigate in Lightning Experience, Experience Builder sites, or the Salesforce mobile
   app, define a PageReference object. The pageReference type generates a unique URL format and defines

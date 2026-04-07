@@ -5,12 +5,10 @@ topic: customer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.390Z
+lastCollected: 2026-04-07T18:38:29.281Z
 estimatedTokens: 443
-keywords: [Customer, role, individual, respect, particular, company, organization, API, version, 53.0, later, Calls]
+keywords: [Customer, role, individual, respect, particular, company, organization, API, 53.0]
 ---
-
-# Customer
 
 > Represents the customer role of an individual with respect to a particular
          company or organization. This object is available in API version 53.0 and

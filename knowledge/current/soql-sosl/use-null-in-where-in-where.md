@@ -5,12 +5,10 @@ topic: use-null-in-where-in-where
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.860Z
+lastCollected: 2026-04-07T18:40:09.799Z
 estimatedTokens: 286
 keywords: [search, keyword, SOQL, queries]
 ---
-
-# Use  null in WHERE in WHERE
 
 > You can search for null values by using the null
 		keyword in SOQL queries.

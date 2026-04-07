@@ -5,12 +5,10 @@ topic: sample-flow-with-sharing-give-guest-users-access-to-read-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.965Z
+lastCollected: 2026-04-07T18:37:26.926Z
 estimatedTokens: 755
-keywords: [Sample, Flow, Sharing, Give, Guest, Users, Access, Records, user, enters, date, range, views, events, rules]
+keywords: [Sample, Flow, Sharing, Give, Guest, Users, Records, user, enters, date, range, views, events, profile, determines, Configuration, Enter, Loop, Show]
 ---
-
-# Sample Flow With Sharing: Give Guest Users Access to Read Records
 
 > In this sample flow, the guest user enters a date range and then views events within that
     range. The guest user has read access to the records with sharing rules, so the guest user

@@ -5,12 +5,10 @@ topic: specimenfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.888Z
+lastCollected: 2026-04-07T18:40:02.576Z
 estimatedTokens: 357
-keywords: [SpecimenFeed, Feed, tracking, Specimen]
+keywords: [SpecimenFeed, Specimen]
 ---
-
-# SpecimenFeed
 
 > Feed tracking for Specimen.
 

@@ -5,12 +5,10 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.372Z
+lastCollected: 2026-04-07T18:36:29.791Z
 estimatedTokens: 679
-keywords: [Skill, settings, service, route, chats, agents, Chat, skills, assigned, File, Suffix, Directory, Location, Version, SkillAssignments]
+keywords: [Skill, SkillAssignments, SkillProfileAssignments, SkillUserAssignments, settings, service, route, chats, agents, Chat, skills, assigned, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Skill
 
 > Represents the settings for a skill used for field service or
             to route chats to agents in Chat, such as the name of the skill and which agents the

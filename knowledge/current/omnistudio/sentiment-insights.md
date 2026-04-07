@@ -5,12 +5,10 @@ topic: sentiment-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.921Z
+lastCollected: 2026-04-07T18:36:43.654Z
 estimatedTokens: 123
-keywords: [Sentiment, Insights, Analyze, customers, actionable, improve, uses, Amazon, Comprehend, BatchDetectSentiment, API, AWS, account, customers’, their]
+keywords: [Sentiment, Insights, Analyze, customers, actionable, improve, uses, Amazon, Comprehend, BatchDetectSentiment, API, AWS, account, customers’, their, feedback]
 ---
-
-# Sentiment Insights
 
 > Analyze the sentiment of your customers and get actionable insights to improve it.
       Sentiment Insights uses the Amazon Comprehend BatchDetectSentiment API with your AWS account

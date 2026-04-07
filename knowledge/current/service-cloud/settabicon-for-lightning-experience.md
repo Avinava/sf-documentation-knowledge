@@ -5,12 +5,10 @@ topic: settabicon-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.941Z
+lastCollected: 2026-04-07T18:36:50.135Z
 estimatedTokens: 480
-keywords: [setTabIcon, Lightning, Experience, icon, alternative, text, tab, works, console, apps, Arguments, LWC, Sample, Code, Aura]
+keywords: [Arguments, setTabIcon, Lightning, Experience, icon, alternative, text, tab, works, console, apps, LWC, Sample, Code, Aura]
 ---
-
-# setTabIcon() for Lightning Experience
 
 > Sets the icon and alternative text of the specified tab. This method works only in
    Lightning console apps.

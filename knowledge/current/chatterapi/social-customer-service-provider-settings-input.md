@@ -5,12 +5,10 @@ topic: social-customer-service-provider-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.429Z
+lastCollected: 2026-04-07T18:37:10.132Z
 estimatedTokens: 207
-keywords: [Social, Customer, Service, Provider, Settings, Input, behavior, specific, networks]
+keywords: [Social, Customer, Service, Provider, Settings, behavior, specific, networks]
 ---
-
-# Social Customer Service Provider Settings Input
 
 > Social Customer Service settings related to the behavior of specific
       social networks.

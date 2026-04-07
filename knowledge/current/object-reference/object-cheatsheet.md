@@ -5,12 +5,10 @@ topic: object-cheatsheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.211Z
+lastCollected: 2026-04-07T18:38:24.103Z
 estimatedTokens: 846
-keywords: [Cheatsheet, glance, how, objects, compare, Groups]
+keywords: [Cheatsheet, glance, how, compare, Groups]
 ---
-
-# Object Cheatsheet
 
 > At a glance, see how objects compare to each other.
 

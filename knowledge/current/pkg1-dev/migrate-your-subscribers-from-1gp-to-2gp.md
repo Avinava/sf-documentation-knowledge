@@ -5,12 +5,10 @@ topic: migrate-your-subscribers-from-1gp-to-2gp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.700Z
+lastCollected: 2026-04-07T18:38:54.058Z
 estimatedTokens: 824
-keywords: [Migrate, Subscribers, 1GP, 2GP, ready, converted, package, install, subscriber, org, already, managed, version, installed, migration]
+keywords: [Migrate, Subscribers, 1GP, 2GP, ready, converted, package, install, subscriber, org, already, managed, installed, migration, requires, major, minor, subscriber's, match, you’re, installing, Bulk, Multiple, Beta, Manually, Push, Upgrade, Migrations]
 ---
-
-# Migrate Your Subscribers from 1GP to 2GP
 
 > Are you ready to migrate your converted package? To migrate a package you install the
   converted 2GP package into a subscriber org that already has the managed 1GP package version

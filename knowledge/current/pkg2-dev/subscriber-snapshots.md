@@ -5,12 +5,10 @@ topic: subscriber-snapshots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.598Z
+lastCollected: 2026-04-07T18:38:55.007Z
 estimatedTokens: 869
-keywords: [Subscriber, Snapshots, give, point-in-time, summary, activity, usage, trends, org, package]
+keywords: [Subscriber, Snapshots, give, point-in-time, summary, activity, trends, org, package]
 ---
-
-# Subscriber Snapshots
 
 > Subscriber snapshots give you a point-in-time summary of subscriber activity. Use
     subscriber snapshots to see usage trends by org and package.

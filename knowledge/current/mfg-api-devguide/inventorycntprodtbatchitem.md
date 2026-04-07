@@ -5,12 +5,10 @@ topic: inventorycntprodtbatchitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.501Z
+lastCollected: 2026-04-07T18:38:13.808Z
 estimatedTokens: 903
-keywords: [InventoryCntProdtBatchItem, inventory, count, batch, product, location, API, version, 55.0, later, Calls]
+keywords: [InventoryCntProdtBatchItem, inventory, count, batch, product, location, API, 55.0]
 ---
-
-# InventoryCntProdtBatchItem
 
 > Represents the inventory count of a batch of a product at a location.
       This object is available in API version 55.0 and later.

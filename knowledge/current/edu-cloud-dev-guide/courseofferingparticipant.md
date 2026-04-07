@@ -5,12 +5,10 @@ topic: courseofferingparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.816Z
+lastCollected: 2026-04-07T18:37:30.929Z
 estimatedTokens: 1687
-keywords: [CourseOfferingParticipant, student's, enrollment, Course, Offering, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [CourseOfferingParticipant, student's, enrollment, Course, Offering, API, 57.0]
 ---
-
-# CourseOfferingParticipant
 
 > Represents information about a student's enrollment in a Course
          Offering. This object is available in API version 57.0 and later.

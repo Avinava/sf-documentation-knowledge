@@ -5,12 +5,10 @@ topic: signuprequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:49.662Z
+lastCollected: 2026-04-07T18:38:41.337Z
 estimatedTokens: 3123
-keywords: [SignupRequest, new, sign-up, isn’t, sandbox, instances, result, error, API, version, 27.0, later, Calls, Usage, Codes]
+keywords: [SignupRequest, new, sign-up, isn’t, sandbox, instances, result, error, API, 27.0, Codes]
 ---
-
-# SignupRequest
 
 > Represents a request for a new sign-up. SignupRequest isn’t
 		supported in sandbox instances and will result in an error. This object is available in API

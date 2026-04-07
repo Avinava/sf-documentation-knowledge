@@ -5,12 +5,10 @@ topic: service-appointments-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.842Z
+lastCollected: 2026-04-07T18:39:20.599Z
 estimatedTokens: 108
 keywords: [Service, Appointments, PATCH, error, codes, code, messages, Salesforce, Scheduler, API, service-appointments, resource]
 ---
-
-# Service Appointments (PATCH)
 
 > Contains the error codes and error code messages related with Salesforce Scheduler
    API for the service-appointments (PATCH)

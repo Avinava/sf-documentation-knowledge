@@ -5,12 +5,10 @@ topic: custom-pre-chat-component-code-samples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.675Z
+lastCollected: 2026-04-07T18:40:09.613Z
 estimatedTokens: 370
-keywords: [Custom, Pre-Chat, Component, Code, Samples, Aura, plain, JavaScript, components]
+keywords: [Pre-Chat, Code, Samples, Aura, plain, JavaScript]
 ---
-
-# Custom Pre-Chat Component Code Samples
 
 > You can use Aura or plain JavaScript to create your pre-chat components.
 

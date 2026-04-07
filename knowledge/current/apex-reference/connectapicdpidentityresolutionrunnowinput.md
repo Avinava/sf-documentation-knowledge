@@ -5,12 +5,10 @@ topic: connectapicdpidentityresolutionrunnowinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.585Z
+lastCollected: 2026-04-07T18:36:04.933Z
 estimatedTokens: 96
-keywords: [Input, representation, running, identity, resolution, ruleset, job, demand]
+keywords: [running, identity, resolution, ruleset, job, demand]
 ---
-
-# ConnectApi.CdpIdentityResolutionRunNowInput
 
 > Input representation for running an identity resolution ruleset job on
     demand.

@@ -5,12 +5,10 @@ topic: set-up-xcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.852Z
+lastCollected: 2026-04-07T18:38:15.335Z
 estimatedTokens: 551
-keywords: [Xcode, run, previews, iOS, simulators, sure, latest, version, properly, installed, configured, install, test, environment, Mobile]
+keywords: [Xcode, run, previews, iOS, simulators, sure, latest, properly, installed, configured, install, test, environment, Mobile, Preview, setup, command, you’re, installation, verify, meets, Extensions, requirements]
 ---
-
-# Set Up Xcode
 
 > Before you run previews in iOS simulators, make sure that the latest version of Xcode
     is properly installed and configured. After you install Xcode, test your environment with the

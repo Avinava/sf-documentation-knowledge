@@ -5,12 +5,10 @@ topic: plan-benefit-networks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.496Z
+lastCollected: 2026-04-07T18:37:52.686Z
 estimatedTokens: 130
-keywords: [Plan, Benefit, Networks, Output, representation, insurance, policy, coverage]
+keywords: [Plan, Benefit, Networks, insurance, policy, coverage]
 ---
-
-# Plan Benefit Networks
 
 > Output representation details of the insurance policy coverage networks.
 

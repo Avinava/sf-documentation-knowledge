@@ -5,12 +5,10 @@ topic: connectapiclaimattributeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.770Z
+lastCollected: 2026-04-07T18:37:49.635Z
 estimatedTokens: 86
-keywords: [Input, representation, claim, attributes]
+keywords: [claim, attributes]
 ---
-
-# ConnectApi.ClaimAttributeInputRepresentation
 
 > Input representation for claim attributes.
 

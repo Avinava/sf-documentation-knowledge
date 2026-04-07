@@ -5,12 +5,10 @@ topic: net-zero-cloud-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:26.465Z
+lastCollected: 2026-04-07T18:38:17.085Z
 estimatedTokens: 157
-keywords: [Net, Zero, Cloud, objects, relationships, data, model]
+keywords: [Net, Zero, Cloud, relationships, model]
 ---
-
-# Net Zero Cloud Overview
 
 > Learn about the objects and relationships within the Net Zero Cloud data
   model.

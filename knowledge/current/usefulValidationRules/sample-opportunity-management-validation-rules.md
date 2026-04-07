@@ -5,12 +5,10 @@ topic: sample-opportunity-management-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.502Z
+lastCollected: 2026-04-07T18:40:12.529Z
 estimatedTokens: 1673
-keywords: [Sample, Opportunity, Management, Validation, Rules, Examples, how, validate, custom, opportunities, Conditionally-Required, Stage, Close, Date, Cannot]
+keywords: [Sample, Opportunity, Management, Validation, Examples, how, validate, opportunities, Conditionally-Required, Stage, Close, Date, Cannot, Prior, Current, Month, Future, Discounts, High-Value, Approved, Closed, Amount, Exceed, $10, Million, Check, Products, Beyond, “Needs, Analysis”, Prevent, Sales, Reps, Moving, Backwards, Probability, 100%, Won, Zero, Lost, Project, Start]
 ---
-
-# Sample Opportunity Management Validation Rules
 
 > Examples for Examples for how to validate custom fields and other fields on
       opportunities.

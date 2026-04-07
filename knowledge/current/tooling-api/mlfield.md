@@ -5,12 +5,10 @@ topic: mlfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.163Z
+lastCollected: 2026-04-07T18:36:33.560Z
 estimatedTokens: 498
-keywords: [MLField, modeling, data, definition, model, machine, learning, application, API, version, 50.0, later, SOAP, Calls, REST]
+keywords: [MLField, modeling, definition, model, machine, learning, application, API, 50.0, SOAP, REST]
 ---
-
-# MLField
 
 > Represents a field in a modeling data definition. A modeling data
         definition specifies the data used to create a model for a machine learning (ML)

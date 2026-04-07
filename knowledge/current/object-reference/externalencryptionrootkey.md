@@ -5,12 +5,10 @@ topic: externalencryptionrootkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.093Z
+lastCollected: 2026-04-07T18:38:32.051Z
 estimatedTokens: 1297
-keywords: [ExternalEncryptionRootKey, metadata, root, keys, stored, third-party, key, stores, generate, secure, encrypt, Salesforce, data, API, version]
+keywords: [ExternalEncryptionRootKey, metadata, root, keys, stored, third-party, key, stores, generate, secure, encrypt, Salesforce, API, 58.0]
 ---
-
-# ExternalEncryptionRootKey
 
 > Represents metadata about root keys stored in third-party key stores
          that are used to generate and secure keys that encrypt Salesforce data. This object is

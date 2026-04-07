@@ -5,12 +5,10 @@ topic: getselected
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.164Z
+lastCollected: 2026-04-07T18:38:48.121Z
 estimatedTokens: 39
 keywords: [getSelected, sObjects, selected]
 ---
-
-# getSelected()
 
 > Returns the list of sObjects that have been selected.
 

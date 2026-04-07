@@ -5,12 +5,10 @@ topic: ingest-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.620Z
+lastCollected: 2026-04-07T18:35:51.476Z
 estimatedTokens: 300
-keywords: [Ingest, Data, Load, records, Cloud, programmatically, Ingestion, API, configure, connector, retrieval, schedule, order, pull]
+keywords: [Ingest, Load, records, Cloud, programmatically, Ingestion, API, configure, connector, retrieval, schedule, order, pull]
 ---
-
-# Ingest Data
 
 > Load data records into your Data Cloud programmatically using the Ingestion
   API or configure an S3 connector with retrieval schedule in order to pull records from

@@ -5,12 +5,10 @@ topic: what-happens-when-members-submit-receipts-for-manual-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.902Z
+lastCollected: 2026-04-07T18:38:09.197Z
 estimatedTokens: 327
-keywords: [Happens, Members, Submit, Receipts, Manual, Review, eligible, items, receipt, don’t, show, there’s, incorrect, evaluation, loyalty]
+keywords: [Happens, Members, Submit, Receipts, Manual, Review, eligible, items, receipt, don’t, show, there’s, incorrect, evaluation, loyalty, points]
 ---
-
-# What Happens When Members Submit Receipts for Manual Review
 
 > If the eligible items of a receipt don’t show all items or if there’s an incorrect
   evaluation of loyalty points for the receipt, members can submit the receipt for a manual

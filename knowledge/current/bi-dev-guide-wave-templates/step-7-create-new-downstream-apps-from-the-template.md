@@ -5,12 +5,10 @@ topic: step-7-create-new-downstream-apps-from-the-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.731Z
+lastCollected: 2026-04-07T18:37:02.301Z
 estimatedTokens: 326
 keywords: [Step, New, Downstream, Apps, Template, Users, now, follows]
 ---
-
-# Step 7: Create New (Downstream) Apps from the Template
 
 > Users can now create apps using your template as follows:
 

@@ -5,12 +5,10 @@ topic: deploy-data-kit-components-by-using-deploy-data-kit-components-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.148Z
+lastCollected: 2026-04-07T18:36:20.360Z
 estimatedTokens: 315
-keywords: [Deploy, Data, Kit, Components, Flow, Deploys, sequentially, call, Flow_InterviewGuid, REST, API, version, 61.0, later, URI]
+keywords: [Formats, Authentication, Deploy, Kit, Flow, Deploys, sequentially, call, Flow_InterviewGuid, REST, API, 61.0, URI, HTTP]
 ---
-
-# Deploy Data Kit Components by Using Deploy Data Kit Components Flow
 
 > Deploys data kit components sequentially in one call. The response body contains the
       Flow_InterviewGuid. This flow is available by using the REST API version

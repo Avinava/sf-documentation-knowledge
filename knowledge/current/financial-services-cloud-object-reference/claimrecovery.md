@@ -5,12 +5,10 @@ topic: claimrecovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.019Z
+lastCollected: 2026-04-07T18:37:36.796Z
 estimatedTokens: 1448
-keywords: [ClaimRecovery, recovery, funds, insurance, claim, subrogation, salvage, activities, Recovered, amounts, come, company, legal, litigation, arbitration]
+keywords: [ClaimRecovery, recovery, funds, insurance, claim, subrogation, salvage, activities, Recovered, amounts, come, company, legal, litigation, arbitration, Master-detail, child, API, 54.0]
 ---
-
-# ClaimRecovery
 
 > Represents a recovery of funds on an insurance claim through subrogation and
          salvage activities. Recovered amounts can come from a salvage company or through legal

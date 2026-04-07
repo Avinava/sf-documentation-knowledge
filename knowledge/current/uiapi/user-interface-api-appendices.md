@@ -5,12 +5,10 @@ topic: user-interface-api-appendices
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.499Z
+lastCollected: 2026-04-07T18:40:10.473Z
 estimatedTokens: 196
-keywords: [User, API, Appendices, supports, custom, objects, external, standard, retired, resources, bodies]
+keywords: [User, API, Appendices, supports, external, standard, retired, resources, bodies]
 ---
-
-# User Interface API Appendices
 
 > User Interface API supports all custom objects and external objects and many standard
   objects. Use these appendices to find more information on supported objects. You can also find

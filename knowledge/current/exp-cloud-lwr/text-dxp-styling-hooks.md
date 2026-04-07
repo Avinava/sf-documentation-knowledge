@@ -5,12 +5,10 @@ topic: text---dxp-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.886Z
+lastCollected: 2026-04-07T18:37:33.176Z
 estimatedTokens: 792
 keywords: [Text, --dxp, Styling, Hooks, Extensive, branding, easy, control, headings, button, link, forms, throughout, site]
 ---
-
-# Text --dxp Styling Hooks
 
 > Extensive text branding properties make it easy to control the styling of the headings,
     body, button, link, and forms text used throughout your site.

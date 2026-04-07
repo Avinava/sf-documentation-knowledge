@@ -5,12 +5,10 @@ topic: gamedefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.496Z
+lastCollected: 2026-04-07T18:39:42.144Z
 estimatedTokens: 360
-keywords: [GameDefinitionFeed, Feed, tracking, GameDefinition]
+keywords: [GameDefinitionFeed, GameDefinition]
 ---
-
-# GameDefinitionFeed
 
 > Feed tracking for GameDefinition.
 

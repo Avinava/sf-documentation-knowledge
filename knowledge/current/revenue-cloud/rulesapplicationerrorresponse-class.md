@@ -5,13 +5,11 @@ topic: rulesapplicationerrorresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.655Z
+lastCollected: 2026-04-07T18:35:40.469Z
 estimatedTokens: 989
 namespace: RulesAppln
-keywords: [RulesApplicationErrorResponse, store, error, occurred, rules, application, errorCode, message]
+keywords: [RulesApplicationErrorResponse, store, error, occurred, application, errorCode, message]
 ---
-
-# RulesApplicationErrorResponse Class
 
 > Contains properties to store error details that occurred during the rules application.
 

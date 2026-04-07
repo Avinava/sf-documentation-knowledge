@@ -5,12 +5,10 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.153Z
+lastCollected: 2026-04-07T18:39:20.955Z
 estimatedTokens: 399
-keywords: [Skill, service, resources, API, version, 24.0, later, Calls]
+keywords: [Skill, service, resources, API, 24.0]
 ---
-
-# Skill
 
 > Represents a skill that service resources have. This object is
   available in API version 24.0 and later.

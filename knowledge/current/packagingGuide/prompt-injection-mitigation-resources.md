@@ -5,12 +5,10 @@ topic: prompt-injection-mitigation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.347Z
+lastCollected: 2026-04-07T18:38:47.320Z
 estimatedTokens: 191
 keywords: [Prompt, Injection, Mitigation, Resources, vulnerabilities, techniques]
 ---
-
-# Prompt Injection Mitigation Resources
 
 > Learn more about prompt injection vulnerabilities and mitigation
     techniques.

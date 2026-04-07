@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.074Z
+lastCollected: 2026-04-07T18:39:03.303Z
 estimatedTokens: 170
-keywords: [Bodies, Here’s, Decision, Explainer, API, Expression, includes, Group, Membership, Households, APIs, Intelligent, Document, Reader, Interest, Tags, Lookup, known, Calculation, Procedure]
+keywords: [Bodies, Here’s, Decision, Explainer, API, Expression, includes, Group, Membership, Households, APIs, Intelligent, Document, Reader, Interest, Tags, Lookup, known, Calculation, Procedure, Matrix, Mapper, Integration, Sector, Solutions, Record, Alerts, Service, Process, Studio]
 ---
-
-# Request Bodies
 
 > Expression Set API includes these request bodies.
 

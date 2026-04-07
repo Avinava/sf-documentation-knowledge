@@ -5,13 +5,11 @@ topic: processsubmitrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.792Z
+lastCollected: 2026-04-07T18:35:59.067Z
 estimatedTokens: 2397
 namespace: Approval
-keywords: [ProcessSubmitRequest, developer, process, definition, Usage, Inherited, getObjectId, getProcessDefinitionNameOrId, getSkipEntryCriteria, getSubmitterId, setObjectId, recordId, setProcessDefinitionNameOrId, nameOrId, setSkipEntryCriteria]
+keywords: [ProcessSubmitRequest, developer, process, definition, Inherited, getObjectId, getProcessDefinitionNameOrId, getSkipEntryCriteria, getSubmitterId, setObjectId, recordId, setProcessDefinitionNameOrId, nameOrId, setSkipEntryCriteria, skipEntryCriteria, setSubmitterId, userID]
 ---
-
-# ProcessSubmitRequest Class
 
 > Returns the developer name or ID of the process definition.
 

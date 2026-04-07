@@ -5,12 +5,10 @@ topic: emssnrdctncommitmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.577Z
+lastCollected: 2026-04-07T18:39:39.230Z
 estimatedTokens: 274
-keywords: [EmssnRdctnCommitmentHistory, History, tracked, EmssnRdctnCommitment]
+keywords: [EmssnRdctnCommitmentHistory, tracked, EmssnRdctnCommitment]
 ---
-
-# EmssnRdctnCommitmentHistory
 
 > History for tracked fields of EmssnRdctnCommitment.
 

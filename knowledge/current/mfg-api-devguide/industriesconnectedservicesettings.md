@@ -5,12 +5,10 @@ topic: industriesconnectedservicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.740Z
+lastCollected: 2026-04-07T18:38:13.065Z
 estimatedTokens: 448
-keywords: [IndustriesConnectedServiceSettings, settings, enabling, Manufacturing, cloud, feature, Telemetry, Definition, Action, Management, Parent, Manifest, Access, File, Suffix]
+keywords: [IndustriesConnectedServiceSettings, settings, enabling, Manufacturing, cloud, feature, Telemetry, Definition, Action, Management, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample]
 ---
-
-# IndustriesConnectedServiceSettings
 
 > Represents the settings for enabling
 			Manufacturing cloud feature Telemetry Definition and Action Management.

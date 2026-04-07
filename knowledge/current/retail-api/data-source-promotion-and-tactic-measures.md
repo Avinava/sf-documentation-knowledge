@@ -5,12 +5,10 @@ topic: data-source-promotion-and-tactic-measures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.321Z
+lastCollected: 2026-04-07T18:39:11.859Z
 estimatedTokens: 149
-keywords: [Data, Source, Promotion, Tactic, Measures, integration, metadata, report, configuration, PromotionAndTacticMeasures, requires, dimensions]
+keywords: [Source, Promotion, Tactic, Measures, integration, metadata, report, configuration, PromotionAndTacticMeasures, requires, dimensions]
 ---
-
-# Data Source: Promotion and Tactic Measures
 
 > An integration metadata report configuration using the data source PromotionAndTacticMeasures requires dimensions.
 

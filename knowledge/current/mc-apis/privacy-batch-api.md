@@ -5,12 +5,10 @@ topic: privacy-batch-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.910Z
+lastCollected: 2026-04-07T18:40:18.092Z
 estimatedTokens: 183
 keywords: [Privacy, Batch, API, Change, settings, Einstein, Recommendations, profile, identifies, profiles, actions, perform]
 ---
-
-# Privacy Batch API
 
 > Change privacy settings for a Einstein Recommendations profile using the privacy batch API. The batch identifies the profiles and specifies which privacy actions to perform on each profile.
 

@@ -5,12 +5,10 @@ topic: customfielddisplay
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.772Z
+lastCollected: 2026-04-07T18:36:24.113Z
 estimatedTokens: 494
-keywords: [CustomFieldDisplay, view, assigned, product, attribute, custom, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [CustomFieldDisplay, view, assigned, product, attribute, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomFieldDisplay
 
 > Represents the view type assigned to product attribute
 			custom fields. This type extends the Metadata metadata type and inherits its

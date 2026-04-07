@@ -5,12 +5,10 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.536Z
+lastCollected: 2026-04-07T18:40:04.269Z
 estimatedTokens: 593
-keywords: [TransactionJournal, journal, records, API, version, 57.0, later]
+keywords: [TransactionJournal, journal, records, API, 57.0]
 ---
-
-# TransactionJournal
 
 > Represents information about journal records. This object is available
       in API version 57.0 and later.

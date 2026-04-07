@@ -5,12 +5,10 @@ topic: apex-publish-callback-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.414Z
+lastCollected: 2026-04-07T18:38:58.267Z
 estimatedTokens: 749
 keywords: [Apex, Publish, Callback, Limits, Keep, mind, limit, callbacks]
 ---
-
-# Apex Publish Callback Limits
 
 > Keep in mind this limit for Apex publish callbacks.
 

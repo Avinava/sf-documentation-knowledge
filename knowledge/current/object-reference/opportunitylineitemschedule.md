@@ -5,12 +5,10 @@ topic: opportunitylineitemschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.330Z
+lastCollected: 2026-04-07T18:38:36.504Z
 estimatedTokens: 1693
-keywords: [OpportunityLineItemSchedule, quantity, revenue, distribution, delivery, dates, particular, OpportunityLineItem, Calls, Allowed, Usage, Products, Schedules, Enabled, Effects]
+keywords: [OpportunityLineItemSchedule, quantity, revenue, distribution, delivery, dates, particular, OpportunityLineItem, Allowed, Products, Schedules, Enabled, Effects, Opportunities, Opportunity, Line, Items, Deleting, Item, Schedule]
 ---
-
-# OpportunityLineItemSchedule
 
 > Represents information about the quantity, revenue distribution, and
 			delivery dates for a particular

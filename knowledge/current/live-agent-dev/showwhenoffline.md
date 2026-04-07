@@ -5,12 +5,10 @@ topic: showwhenoffline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.775Z
+lastCollected: 2026-04-07T18:38:06.010Z
 estimatedTokens: 525
-keywords: [showWhenOffline, specify, customers, particular, button, offline, Usage]
+keywords: [showWhenOffline, specify, customers, particular, button, offline]
 ---
-
-# showWhenOffline
 
 > Use the showWhenOffline method to specify what customers see when a particular button is
 offline.

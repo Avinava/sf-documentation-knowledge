@@ -5,12 +5,10 @@ topic: group-definitions-merge-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.058Z
+lastCollected: 2026-04-07T18:38:20.805Z
 estimatedTokens: 414
 keywords: [Group, Definitions, Merge, POST, members, member, relationships, party, relationship]
 ---
-
-# Group Definitions Merge (POST)
 
 > Merge the details, members, member relationships, and relationships
       of a party relationship group.

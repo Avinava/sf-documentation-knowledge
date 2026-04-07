@@ -5,12 +5,10 @@ topic: bar-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:56.733Z
+lastCollected: 2026-04-07T18:38:48.682Z
 estimatedTokens: 679
-keywords: [Bar, Charts, several, linear, data, series, Visualforce, plotted, against, standard, rectangular, grid]
+keywords: [Bar, Charts, several, linear, series, Visualforce, plotted, against, standard, rectangular, grid]
 ---
-
-# Bar Charts
 
 > Bar charts are one of several linear data series charts available in Visualforce.
         Linear series charts are charts plotted against a standard rectangular grid.

@@ -5,12 +5,10 @@ topic: cgcloudfundtransactionrowc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.162Z
+lastCollected: 2026-04-07T18:39:13.571Z
 estimatedTokens: 1182
-keywords: [cgcloud__Fund_Transaction_Row__c, Transaction, rows, funds, API, version, 54.0, later, cgcloud, _Fund, _Transaction, _Row, Calls, Associated, Objects]
+keywords: [cgcloud__Fund_Transaction_Row__c, Transaction, rows, funds, API, 54.0, cgcloud, _Fund, _Transaction, _Row]
 ---
-
-# cgcloud__Fund_Transaction_Row__c
 
 > Transaction rows for the funds. This object is available in API
       version 54.0 and later.

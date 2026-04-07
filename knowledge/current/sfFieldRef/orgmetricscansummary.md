@@ -5,12 +5,10 @@ topic: orgmetricscansummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.968Z
+lastCollected: 2026-04-07T18:39:51.382Z
 estimatedTokens: 414
-keywords: [OrgMetricScanSummary, results, summary, specific, feature, Salesforce, Optimizer, evaluation, API, version, 47.0, later]
+keywords: [OrgMetricScanSummary, results, summary, specific, feature, Salesforce, Optimizer, evaluation, API, 47.0]
 ---
-
-# OrgMetricScanSummary
 
 > Represents the results summary for a specific feature in
          a Salesforce Optimizer evaluation. This object is available in API

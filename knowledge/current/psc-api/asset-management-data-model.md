@@ -5,12 +5,10 @@ topic: asset-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.985Z
+lastCollected: 2026-04-07T18:39:04.998Z
 estimatedTokens: 151
-keywords: [Asset, Management, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Asset, Management, Model, relationships, Sector, Solutions]
 ---
-
-# Asset Management Data Model
 
 > Learn about the objects and relationships used for asset management in Public Sector
   Solutions.

@@ -5,12 +5,10 @@ topic: dynamic-references-to-action-methods-using-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.969Z
+lastCollected: 2026-04-07T18:38:51.211Z
 estimatedTokens: 730
 keywords: [Dynamic, References, Action, $Action, variable, dynamically, actions, specific, record, likely, way, URL, perform]
 ---
-
-# Dynamic References to Action Methods Using  $Action
 
 > The $Action global variable allows you to
         dynamically reference valid actions on an object type, or on a specific record. The most

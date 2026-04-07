@@ -5,12 +5,10 @@ topic: getpartyexpensetypelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.634Z
+lastCollected: 2026-04-07T18:37:34.122Z
 estimatedTokens: 64
 keywords: [GetPartyExpenseTypeLabel, picklist, party, expense, entity]
 ---
-
-# GetPartyExpenseTypeLabel
 
 > Returns the picklist values for the party expense type field on
             the party expense entity.

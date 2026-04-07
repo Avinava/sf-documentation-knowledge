@@ -5,12 +5,10 @@ topic: recipe-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.199Z
+lastCollected: 2026-04-07T18:39:18.890Z
 estimatedTokens: 1176
-keywords: [Recipe, Resource, updates, deletes, Data, Prep, URL, Formats, Version, Postman, Components, HTTP, Run, Schedule, PATCH]
+keywords: [Formats, Recipe, Resource, updates, deletes, Prep, URL, Postman, HTTP, Run, Schedule, PATCH, PUT]
 ---
-
-# Recipe Resource
 
 > Returns, updates, or deletes a Data Prep recipe.
 

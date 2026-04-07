@@ -5,12 +5,10 @@ topic: insurance-product-surcharge-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.841Z
+lastCollected: 2026-04-07T18:37:51.919Z
 estimatedTokens: 472
 keywords: [Insurance, Product, Surcharge, PATCH, fetch, root]
 ---
-
-# Insurance Product Surcharge (PATCH)
 
 > Update or fetch a product surcharge for a root product.
 

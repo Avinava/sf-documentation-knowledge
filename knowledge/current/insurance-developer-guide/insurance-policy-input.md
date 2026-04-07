@@ -5,12 +5,10 @@ topic: insurance-policy-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.154Z
+lastCollected: 2026-04-07T18:37:51.099Z
 estimatedTokens: 245
-keywords: [Insurance, Policy, Input, representation]
+keywords: [Insurance, Policy]
 ---
-
-# Insurance Policy Input
 
 > Input representation of insurance policy details.
 

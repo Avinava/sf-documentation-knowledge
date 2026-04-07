@@ -5,12 +5,10 @@ topic: stagedinviteeemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.931Z
+lastCollected: 2026-04-07T18:38:41.681Z
 estimatedTokens: 196
-keywords: [StagedInviteeEmail, email, address, included, calendar, event, doesn’t, match, user, contact, lead, record, API, version, 66.0]
+keywords: [StagedInviteeEmail, email, address, included, calendar, event, doesn’t, match, user, contact, lead, record, API, 66.0]
 ---
-
-# StagedInviteeEmail
 
 > Represents an email address that is included on a calendar event but that
          doesn’t match an existing user, contact, or lead record. This object is available in

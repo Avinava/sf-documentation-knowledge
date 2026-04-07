@@ -5,12 +5,10 @@ topic: connectapicontentcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.737Z
+lastCollected: 2026-04-07T18:36:05.105Z
 estimatedTokens: 421
 keywords: [ConnectApi.ContentCapabilityInput, Attach, file, comment, new, already, uploaded, Salesforce]
 ---
-
-# ConnectApi.ContentCapabilityInput
 
 > Attach or update a file on a comment. Use this class to attach a new
       file or update a file that has already been uploaded to Salesforce.

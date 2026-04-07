@@ -5,12 +5,10 @@ topic: example-contact-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.048Z
+lastCollected: 2026-04-07T18:40:21.329Z
 estimatedTokens: 2307
-keywords: [Contact, Event, Every, custom, index.html, root, endpoint, config.json, customEvent.js]
+keywords: [Contact, Event, Every, index.html, root, endpoint, config.json, customEvent.js]
 ---
-
-# Example Contact Event
 
 > Every custom event must have an index.html in the root of its endpoint.
 

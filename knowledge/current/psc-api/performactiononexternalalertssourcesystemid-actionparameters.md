@@ -5,12 +5,10 @@ topic: performactiononexternalalertssourcesystemid-actionparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.123Z
+lastCollected: 2026-04-07T18:39:00.108Z
 estimatedTokens: 233
-keywords: [performActionOnExternalAlerts, sourceSystemId, actionParameters, Snooze, external, record, alerts, source, system, time, period, dismiss, API, Version, Requires]
+keywords: [performActionOnExternalAlerts, sourceSystemId, actionParameters, Snooze, external, record, alerts, source, system, time, period, dismiss, API, Requires, Chatter]
 ---
-
-# performActionOnExternalAlerts(sourceSystemId, actionParameters)
 
 > Snooze external record alerts that are from an external source system
       for a specified time period or dismiss them.

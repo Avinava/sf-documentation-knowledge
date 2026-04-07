@@ -5,12 +5,10 @@ topic: tools-for-visualforce-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.185Z
+lastCollected: 2026-04-07T18:38:52.492Z
 estimatedTokens: 640
-keywords: [Tools, Visualforce, Development, begin, develop, pages, components, familiarize, yourself, different, places]
+keywords: [Tools, Visualforce, Development, begin, develop, pages, familiarize, yourself, different, places]
 ---
-
-# Tools for Visualforce Development
 
 > Before you begin to develop Visualforce pages and components, familiarize yourself with
     the different places to create them.

@@ -5,12 +5,10 @@ topic: update-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.324Z
+lastCollected: 2026-04-07T18:40:24.768Z
 estimatedTokens: 418
-keywords: [Subscriber, Patch, Specify, unique, identifier, props, order, identify, updated, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Subscriber, Patch, Specify, unique, identifier, props, order, identify, updated, PHP]
 ---
-
-# Update a Subscriber
 
 > Use the Patch method to update an existing subscriber. Specify a unique identifier in the props property in order to identify which subscriber will be updated:
 

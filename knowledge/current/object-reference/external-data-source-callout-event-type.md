@@ -5,12 +5,10 @@ topic: external-data-source-callout-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.229Z
+lastCollected: 2026-04-07T18:38:31.024Z
 estimatedTokens: 1175
-keywords: [External, Data, Source, Callout, Event, events, represent, callouts, via, Salesforce, Connect, adapters, Amazon, DynamoDB, Athena]
+keywords: [External, Source, Callout, Event, events, represent, callouts, via, Salesforce, Connect, adapters, Amazon, DynamoDB, Athena, EventLogFile, API, 56.0]
 ---
-
-# External Data Source Callout Event Type
 
 > External Data Source Callout events represent external data callouts
          via the Salesforce Connect adapters for Amazon DynamoDB and Amazon Athena. This event

@@ -5,12 +5,10 @@ topic: microbatching-error-record-info-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.578Z
+lastCollected: 2026-04-07T18:37:20.761Z
 estimatedTokens: 135
 keywords: [Microbatching, Error, Record, Info]
 ---
-
-# Microbatching Error Record Info Request Body
 
 > Microbatching error record info request body.
 

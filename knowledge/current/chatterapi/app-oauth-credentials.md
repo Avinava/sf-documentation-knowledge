@@ -5,12 +5,10 @@ topic: app-oauth-credentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.593Z
+lastCollected: 2026-04-07T18:37:16.665Z
 estimatedTokens: 176
 keywords: [App, Oauth, Credentials, primary, staged, consumer]
 ---
-
-# App Oauth Credentials
 
 > Represents the primary and staged credentials of a single OAuth consumer.
 

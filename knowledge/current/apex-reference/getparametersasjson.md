@@ -5,12 +5,10 @@ topic: getparametersasjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.050Z
+lastCollected: 2026-04-07T18:35:59.328Z
 estimatedTokens: 289
-keywords: [getParametersAsJSON, Retrieves, current, custom, canvas, app, JSON, Usage]
+keywords: [getParametersAsJSON, Retrieves, current, canvas, app, JSON]
 ---
-
-# getParametersAsJSON()
 
 > Retrieves the current custom parameters for the canvas app. Parameters are returned
         as a JSON string.

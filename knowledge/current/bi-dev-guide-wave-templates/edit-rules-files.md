@@ -5,12 +5,10 @@ topic: edit-rules-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.814Z
+lastCollected: 2026-04-07T18:37:02.374Z
 estimatedTokens: 821
-keywords: [Edit, Rules, Files, define, how, app, created, template]
+keywords: [Edit, Files, define, how, app, created, template]
 ---
-
-# Edit Rules Files
 
 > Rules files define how an app gets created by the template.
 

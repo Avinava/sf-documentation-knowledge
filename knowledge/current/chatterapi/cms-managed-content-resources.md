@@ -5,12 +5,10 @@ topic: cms-managed-content-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.447Z
+lastCollected: 2026-04-07T18:37:14.405Z
 estimatedTokens: 817
-keywords: [CMS, Managed, Content, Resources, published, versions, Experience, Cloud, site, channel, Search, delivery, channels, context, user]
+keywords: [CMS, Managed, Content, Resources, published, versions, Experience, Cloud, site, channel, Search, delivery, channels, context, user, binary, stream, searchable, status, piece, folder]
 ---
-
-# CMS Managed Content Resources
 
 > Get published managed content versions for an Experience Cloud site or a channel.
     Search managed content in an Experience Cloud site or channel. Get managed content delivery

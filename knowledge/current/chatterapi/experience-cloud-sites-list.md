@@ -5,12 +5,10 @@ topic: experience-cloud-sites-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.926Z
+lastCollected: 2026-04-07T18:37:12.826Z
 estimatedTokens: 647
 keywords: [Experience, Cloud, Sites, context, user, site]
 ---
-
-# Experience Cloud Sites List
 
 > Get a list of all Experience Cloud sites available to the context
       user. Create an Experience Cloud site.

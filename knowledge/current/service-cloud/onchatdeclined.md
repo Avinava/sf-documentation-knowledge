@@ -5,12 +5,10 @@ topic: onchatdeclined
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.274Z
+lastCollected: 2026-04-07T18:36:50.491Z
 estimatedTokens: 183
-keywords: [onChatDeclined, Registers, function, call, agent, declines, chat, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, onChatDeclined, Registers, function, call, agent, declines, chat, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# onChatDeclined()
 
 > Registers a function to call when an agent declines a chat request. Available in API version 29.0 or
             later.

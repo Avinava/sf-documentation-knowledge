@@ -5,12 +5,10 @@ topic: claim-coverage-payment-adjustment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.943Z
+lastCollected: 2026-04-07T18:37:52.024Z
 estimatedTokens: 128
-keywords: [Claim, Coverage, Payment, Adjustment, Output, representation]
+keywords: [Claim, Coverage, Payment, Adjustment]
 ---
-
-# Claim Coverage Payment Adjustment Details
 
 > Output representation for the claim coverage payment adjustment details.
 

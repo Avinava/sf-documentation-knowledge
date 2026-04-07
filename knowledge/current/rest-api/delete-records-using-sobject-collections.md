@@ -5,12 +5,10 @@ topic: delete-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.331Z
+lastCollected: 2026-04-07T18:36:20.559Z
 estimatedTokens: 457
-keywords: [Records, sObject, Collections, returning, DeleteResult, objects, choose, roll, back, entire, error, occurs]
+keywords: [Records, sObject, Collections, returning, DeleteResult, choose, roll, back, entire, error, occurs]
 ---
-
-# Delete Records Using sObject Collections
 
 > Use a DELETE request with sObject Collections to delete up to 200 records, returning a
       list of DeleteResult objects. You can choose to roll back the entire request when an error

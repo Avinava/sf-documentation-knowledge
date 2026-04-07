@@ -5,12 +5,10 @@ topic: connectapiflowapprovalprocesscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.987Z
+lastCollected: 2026-04-07T18:36:09.379Z
 estimatedTokens: 196
 keywords: [results, requesting, flow, approval, status]
 ---
-
-# ConnectApi.FlowApprovalProcessCollection
 
 > The results of requesting a flow approval status.
 

@@ -5,12 +5,10 @@ topic: receiveddocumenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.240Z
+lastCollected: 2026-04-07T18:37:47.860Z
 estimatedTokens: 618
-keywords: [ReceivedDocumentType, junction, Received, Document, API, version, 58.0, later, Calls, Associated, Objects]
+keywords: [ReceivedDocumentType, junction, Received, Document, API, 58.0]
 ---
-
-# ReceivedDocumentType
 
 > Represents a junction object between Received Document and Document
          Type. This object is available in API version 58.0 and later.

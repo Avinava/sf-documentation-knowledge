@@ -5,12 +5,10 @@ topic: credit-invoice-line-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.205Z
+lastCollected: 2026-04-07T18:35:43.092Z
 estimatedTokens: 463
-keywords: [Credit, Invoice, Line, Input, representation, lines, credited]
+keywords: [Credit, Invoice, Line, lines, credited]
 ---
-
-# Credit Invoice Line Input
 
 > Input representation of the details of the invoice lines to be credited.
 

@@ -5,12 +5,10 @@ topic: using-key-value-stores-for-secure-data-storage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.249Z
+lastCollected: 2026-04-07T18:40:26.558Z
 estimatedTokens: 1623
-keywords: [Key-Value, Stores, Secure, Data, Storage, Beginning, Mobile, SDK, 8.2, encrypted, offer, alternative, SmartStore, devices, aren’t]
+keywords: [Key-Value, Stores, Secure, Storage, Beginning, Mobile, SDK, 8.2, encrypted, offer, alternative, SmartStore, devices, aren’t, replacement, They're, designed, simpler, scenarios, don't, demand, full, power, relational, database, cache, requires, app, fetch, quickly, opaque, pool, unaware, relationships, structure, Store, Versions, Classes, Retrieve, Binary, Keys, Inspect]
 ---
-
-# Using Key-Value Stores for Secure Data Storage
 
 > Beginning in Mobile SDK 8.2, encrypted key-value stores offer an alternative to
     SmartStore for secure data storage on mobile devices. Key-value stores aren’t a replacement for

@@ -5,12 +5,10 @@ topic: view-appexchange-checkout-receipts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.131Z
+lastCollected: 2026-04-07T18:38:45.984Z
 estimatedTokens: 158
-keywords: [View, AppExchange, Checkout, Receipts, customer, requests, receipt, previous, payment, share, self-service, steps, viewing, history]
+keywords: [View, AppExchange, Checkout, Receipts, customer, requests, receipt, previous, payment, share, self-service, steps, viewing]
 ---
-
-# View AppExchange Checkout Receipts
 
 > If a customer requests a receipt for a previous Checkout payment, you can share
   self-service steps for viewing payment history on AppExchange.

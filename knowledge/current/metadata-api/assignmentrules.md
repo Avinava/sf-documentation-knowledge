@@ -5,12 +5,10 @@ topic: assignmentrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.452Z
+lastCollected: 2026-04-07T18:36:22.695Z
 estimatedTokens: 999
-keywords: [AssignmentRules, assignment, rules, allow, automatically, route, cases, appropriate, users, queues, access, metadata, applicable, objects, specific]
+keywords: [AssignmentRules, AssignmentRule, RuleEntry, assignment, allow, automatically, route, cases, appropriate, users, queues, metadata, applicable, specific, rule, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AssignmentRules
 
 > Represents assignment rules that allow you to
             automatically route cases to the appropriate users or queues. You can access rules

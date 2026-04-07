@@ -5,12 +5,10 @@ topic: apexsoapapieventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.602Z
+lastCollected: 2026-04-07T18:38:25.490Z
 estimatedTokens: 1587
-keywords: [ApexSoapApiEventLog, Apex, SOAP, event, logs, contain, custom, web, service, calls, API, version, 55.0, later, Special]
+keywords: [ApexSoapApiEventLog, Apex, SOAP, event, logs, contain, web, service, API, 55.0]
 ---
-
-# ApexSoapApiEventLog
 
 > Apex SOAP event logs contain details about custom SOAP web service
          calls. This object is available in API version 55.0 and later.

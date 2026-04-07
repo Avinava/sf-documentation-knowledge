@@ -5,12 +5,10 @@ topic: transactions-payment-updates-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.082Z
+lastCollected: 2026-04-07T18:38:20.836Z
 estimatedTokens: 351
-keywords: [Transactions, Payment, Updates, POST, gateway, processor, metadata, gift, API, supports, updating, reuest, include, any, standard]
+keywords: [Transactions, Payment, Updates, POST, gateway, processor, metadata, gift, API, supports, updating, reuest, include, any, standard, beyond, error, shown]
 ---
-
-# Transactions Payment Updates (POST)
 
 > Update the gateway and processor metadata for gift transactions. This API supports
     updating only the properties that are specified in the reuest body. If you include any other

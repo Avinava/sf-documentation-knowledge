@@ -5,13 +5,11 @@ topic: cursorfetchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.722Z
+lastCollected: 2026-04-07T18:36:00.004Z
 estimatedTokens: 1111
 namespace: Database
-keywords: [CursorFetchResult, encapsulates, result, PaginationCursor.fetchPage, call, rows, current, start, index, number, deleted, skipped, fetch, operation, whether]
+keywords: [CursorFetchResult, encapsulates, result, PaginationCursor.fetchPage, call, rows, current, start, index, number, deleted, skipped, fetch, operation, whether, pagination, cursor, fetched, getNextIndex, getNumDeletedRecords, getRecords, isDone]
 ---
-
-# CursorFetchResult Class
 
 > This class encapsulates the result of a PaginationCursor.fetchPage() call. It contains
     methods that get the rows for the current page, the start index of the next page, and the number

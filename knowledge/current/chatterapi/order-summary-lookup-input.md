@@ -5,12 +5,10 @@ topic: order-summary-lookup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.677Z
+lastCollected: 2026-04-07T18:37:09.411Z
 estimatedTokens: 265
-keywords: [Order, Summary, Lookup, Input]
+keywords: [Order, Summary, Lookup]
 ---
-
-# Order Summary Lookup Input
 
 > Order summary lookup input.
 

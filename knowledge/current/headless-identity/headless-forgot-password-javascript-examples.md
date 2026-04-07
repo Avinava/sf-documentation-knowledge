@@ -5,12 +5,10 @@ topic: headless-forgot-password-javascript-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.403Z
+lastCollected: 2026-04-07T18:37:39.343Z
 estimatedTokens: 189
 keywords: [Headless, Forgot, Password, JavaScript, Examples, high-level, understand, how, implement, Flow, single-page, app]
 ---
-
-# Headless Forgot Password JavaScript Examples
 
 > Use these high-level  examples to understand how to implement the Headless Forgot
   Password Flow for a single-page app.

@@ -5,12 +5,10 @@ topic: service-process-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.771Z
+lastCollected: 2026-04-07T18:36:40.478Z
 estimatedTokens: 185
-keywords: [Service, Process, Record, output]
+keywords: [Service, Process, Record]
 ---
-
-# Service Process Record
 
 > Service process record output.
 

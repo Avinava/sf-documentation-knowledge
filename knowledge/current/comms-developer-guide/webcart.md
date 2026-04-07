@@ -5,12 +5,10 @@ topic: webcart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.615Z
+lastCollected: 2026-04-07T18:37:26.516Z
 estimatedTokens: 579
-keywords: [WebCart, row, item, online, shopping, cart, store, built, B2B, Commerce, B2C, total, amounts, products, shipping]
+keywords: [WebCart, row, item, online, shopping, cart, store, built, B2B, Commerce, B2C, total, amounts, products, shipping, handling, taxes, API, 66.0]
 ---
-
-# WebCart
 
 > Each row represents an item of an online shopping cart for a store built with
          B2B Commerce or B2C Commerce with total amounts for products, shipping and handling, and

@@ -5,12 +5,10 @@ topic: personalizationtargetinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.532Z
+lastCollected: 2026-04-07T18:39:54.087Z
 estimatedTokens: 347
-keywords: [PersonalizationTargetInfo, target, audience, API, version, 47.0, later]
+keywords: [PersonalizationTargetInfo, target, audience, API, 47.0]
 ---
-
-# PersonalizationTargetInfo
 
 > Represents a target for an audience. This object is available in API
     version 47.0 and later.

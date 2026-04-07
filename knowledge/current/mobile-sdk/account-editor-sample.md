@@ -5,12 +5,10 @@ topic: account-editor-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.391Z
+lastCollected: 2026-04-07T18:40:27.563Z
 estimatedTokens: 2444
-keywords: [Account, Editor, Sample, complex, MobileSync-based, application, Mobile, SDK, 2.0, edit, accounts, online, offline, demonstrates, conflict]
+keywords: [Templates, Models, Views, Router, Account, Editor, Sample, complex, MobileSync-based, application, Mobile, SDK, 2.0, edit, accounts, online, offline, demonstrates, conflict, detection, Looking, Under, Hood, Script, Includes]
 ---
-
-# Account Editor Sample
 
 > Account Editor is the most complex MobileSync-based sample application in Mobile SDK 2.0. It allows you to
             create/edit/update/delete accounts online and offline, and also demonstrates conflict

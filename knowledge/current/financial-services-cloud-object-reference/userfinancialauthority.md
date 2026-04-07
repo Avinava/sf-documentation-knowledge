@@ -5,12 +5,10 @@ topic: userfinancialauthority
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.138Z
+lastCollected: 2026-04-07T18:37:39.049Z
 estimatedTokens: 1291
-keywords: [UserFinancialAuthority, maximum, monetary, amount, user, authorize, financial, product, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [UserFinancialAuthority, maximum, monetary, amount, user, authorize, financial, product, API, 57.0]
 ---
-
-# UserFinancialAuthority
 
 > Represents the maximum monetary amount a user can authorize for a given financial type and product. This object is available in API version 57.0 and later.
 

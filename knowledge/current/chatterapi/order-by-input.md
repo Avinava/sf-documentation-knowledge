@@ -5,12 +5,10 @@ topic: order-by-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.606Z
+lastCollected: 2026-04-07T18:37:09.339Z
 estimatedTokens: 178
-keywords: [Order, Input, Sort, search, results]
+keywords: [Order, Sort, search, results]
 ---
-
-# Order By Input
 
 > Sort order for the search results.
 

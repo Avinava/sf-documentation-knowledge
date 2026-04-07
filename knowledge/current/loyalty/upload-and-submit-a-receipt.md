@@ -5,12 +5,10 @@ topic: upload-and-submit-a-receipt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.936Z
+lastCollected: 2026-04-07T18:38:09.229Z
 estimatedTokens: 584
-keywords: [Upload, Submit, Receipt, Members, receipts, their, third-party, store, purchases, less, loyalty, points, eligible, line, items]
+keywords: [Upload, Submit, Receipt, Members, receipts, their, third-party, store, purchases, less, loyalty, points, eligible, line, items, scanned, review, detected, Expense, Analysis, API]
 ---
-
-# Upload and Submit a Receipt
 
 > Members can upload receipts from their third-party store purchases that are less than 5
   MB, and get loyalty points for eligible receipt line items. After the receipt is scanned, members

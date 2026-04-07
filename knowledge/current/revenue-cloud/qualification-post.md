@@ -5,12 +5,10 @@ topic: qualification-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.280Z
+lastCollected: 2026-04-07T18:35:44.246Z
 estimatedTokens: 488
 keywords: [Qualification, POST, Run, procedure, product, IDs, API, composite, Discovery]
 ---
-
-# Qualification (POST)
 
 > Run the qualification procedure on a list of product IDs. This API
       is a composite API for Product Discovery.

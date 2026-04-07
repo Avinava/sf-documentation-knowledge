@@ -5,12 +5,10 @@ topic: member-benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.795Z
+lastCollected: 2026-04-07T18:38:08.039Z
 estimatedTokens: 304
-keywords: [Member, Benefit, Output, representation, individual]
+keywords: [Member, Benefit, individual]
 ---
-
-# Member Benefit
 
 > Output representation of an individual benefit available for a
       member.

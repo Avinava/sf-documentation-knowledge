@@ -5,12 +5,10 @@ topic: claim-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.854Z
+lastCollected: 2026-04-07T18:37:36.663Z
 estimatedTokens: 800
-keywords: [Claim, Case, junction, associates, enabled, Many-to-Many, Relationships, org, pref, Calls, Associated, Objects]
+keywords: [Claim, Case, junction, associates, enabled, Many-to-Many, Relationships, org, pref]
 ---
-
-# Claim Case
 
 > A junction object that associates the Claim object with the Case object.
 			You see this object only if you have enabled the Use Many-to-Many Relationships org

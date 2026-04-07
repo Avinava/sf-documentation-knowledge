@@ -5,12 +5,10 @@ topic: rebateclaim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.018Z
+lastCollected: 2026-04-07T18:37:06.722Z
 estimatedTokens: 1877
-keywords: [RebateClaim, claim, submitted, end, customer, distributor, ship, debit, program, API, version, 54.0, later, Calls]
+keywords: [RebateClaim, claim, submitted, end, customer, distributor, ship, debit, program, API, 54.0]
 ---
-
-# RebateClaim
 
 > Represents information about the claim submitted by the end customer
          or distributor for a ship and debit program. This object is available in API version

@@ -5,12 +5,10 @@ topic: member-vouchers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.366Z
+lastCollected: 2026-04-07T18:38:07.589Z
 estimatedTokens: 476
-keywords: [Member, Vouchers, issued, loyalty, program, Retrieve, asynchronously, requesting, data, API, Resource, Input, Sample, Output]
+keywords: [Member, Vouchers, issued, loyalty, program, Resource, Retrieve, asynchronously, requesting, API, Sample]
 ---
-
-# Member Vouchers
 
 > Retrieve a list of vouchers issued to the member, while asynchronously requesting data
   from the Member Vouchers API.

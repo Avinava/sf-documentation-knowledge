@@ -5,12 +5,10 @@ topic: cgcloudfundproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.107Z
+lastCollected: 2026-04-07T18:39:13.519Z
 estimatedTokens: 923
-keywords: [cgcloud__Fund_Product__c, Fund, linked, multiple, brands, categories, template, settings, API, version, 54.0, later, cgcloud, _Fund, _Product]
+keywords: [cgcloud__Fund_Product__c, Fund, linked, multiple, brands, categories, template, settings, API, 54.0, cgcloud, _Fund, _Product]
 ---
-
-# cgcloud__Fund_Product__c
 
 > A
          Fund object can be linked to multiple brands or categories based on the

@@ -5,12 +5,10 @@ topic: connect-in-apex-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.918Z
+lastCollected: 2026-04-07T18:36:19.139Z
 estimatedTokens: 519
 keywords: [Connect, Apex, Features, topic, classes, work, common]
 ---
-
-# Connect in Apex Features
 
 > This topic describes which classes and methods to use to work with common Connect in
     Apex features.

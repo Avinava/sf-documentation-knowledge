@@ -5,12 +5,10 @@ topic: using-software-that-has-known-vulnerabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.486Z
+lastCollected: 2026-04-07T18:38:47.439Z
 estimatedTokens: 428
-keywords: [Software, Known, Vulnerabilities, documented, common, exposures, CVE, cases, security, vulnerability, solution, test, deploy, patches, soon]
+keywords: [Software, Known, Vulnerabilities, documented, common, exposures, CVE, cases, security, vulnerability, solution, test, deploy, patches, soon, they’re, uses, CVE-documented, unrelated, prepare, positive, documentation]
 ---
-
-# Using Software That Has Known Vulnerabilities
 
 > Using software that has documented common vulnerabilities and exposures (CVE) related
     to your use cases is a security vulnerability. If your solution has known vulnerabilities, test

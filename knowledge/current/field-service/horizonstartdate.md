@@ -5,12 +5,10 @@ topic: horizonstartdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.462Z
+lastCollected: 2026-04-07T18:36:46.292Z
 estimatedTokens: 73
 keywords: [horizonStartDate, horizon, start, date, calculated, operation]
 ---
-
-# horizonStartDate
 
 > The horizon start date as calculated and used by the operation.
 

@@ -5,12 +5,10 @@ topic: differences-between-change-events-received-with-streaming-api-vs-pubsub-a
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.872Z
+lastCollected: 2026-04-07T18:36:51.169Z
 estimatedTokens: 785
-keywords: [Differences, Change, Events, Received, Streaming, API, Pub, Sub, differs, delivers, entire, event, message, JSON, payload]
+keywords: [Differences, Change, Events, Received, Streaming, API, Pub, Sub, differs, delivers, entire, event, message, JSON, payload, Apache, Avro, binary, CometD]
 ---
-
-# Differences Between Change Events Received with Streaming API vs. Pub/Sub API
 
 > The format of change events received with Streaming API differs from change events
     received with Pub/Sub API. Streaming API delivers the entire event message in JSON format while

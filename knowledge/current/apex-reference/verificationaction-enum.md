@@ -5,12 +5,10 @@ topic: verificationaction-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.145Z
+lastCollected: 2026-04-07T18:36:12.433Z
 estimatedTokens: 144
-keywords: [VerificationAction, send, one-time, password, OTP, user, headless, passwordless, login, flow, Usage]
+keywords: [VerificationAction, send, one-time, password, OTP, user, headless, passwordless, login, flow]
 ---
-
-# VerificationAction Enum
 
 > Indicates the method that you use to send a one-time password (OTP) to a user during the
     headless passwordless login flow.

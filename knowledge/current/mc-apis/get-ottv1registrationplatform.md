@@ -5,12 +5,10 @@ topic: get-ottv1registrationplatform
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.990Z
+lastCollected: 2026-04-07T18:40:15.012Z
 estimatedTokens: 922
-keywords: [ott, registration, platform, Retrieves, paginated, collection, registered, **Overview**, Usage, Retrieve, Messenger, Resource, LINE]
+keywords: [ott, registration, platform, Retrieves, paginated, collection, registered, **Overview**, Retrieve, Messenger, Resource, LINE]
 ---
-
-# GET /ott/v1/registration/{platform}
 
 > Retrieves paginated collection of registered OTT properties by OTT Platform.
 

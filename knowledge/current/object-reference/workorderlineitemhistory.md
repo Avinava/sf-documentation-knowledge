@@ -5,12 +5,10 @@ topic: workorderlineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.029Z
+lastCollected: 2026-04-07T18:38:44.832Z
 estimatedTokens: 369
-keywords: [WorkOrderLineItemHistory, history, changes, made, tracked, work, order, line, item, API, version, 36.0, later, Calls, Special]
+keywords: [WorkOrderLineItemHistory, changes, made, tracked, work, order, line, item, API, 36.0]
 ---
-
-# WorkOrderLineItemHistory
 
 > Represents the history of changes made to tracked fields
 				on a work order line item. This object is available in API version 36.0

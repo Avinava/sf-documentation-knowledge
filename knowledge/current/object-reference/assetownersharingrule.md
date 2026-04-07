@@ -5,12 +5,10 @@ topic: assetownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.171Z
+lastCollected: 2026-04-07T18:38:26.117Z
 estimatedTokens: 757
-keywords: [AssetOwnerSharingRule, rules, sharing, Asset, users, owner, API, version, 33.0, later, Calls, Special, Access, Usage]
+keywords: [AssetOwnerSharingRule, sharing, Asset, users, owner, API, 33.0]
 ---
-
-# AssetOwnerSharingRule
 
 > Represents the rules for sharing an Asset with users other than the
          owner. This object is available in API version 33.0 and later.

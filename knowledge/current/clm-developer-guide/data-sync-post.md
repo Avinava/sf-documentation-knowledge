@@ -5,12 +5,10 @@ topic: data-sync-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.859Z
+lastCollected: 2026-04-07T18:37:24.833Z
 estimatedTokens: 343
-keywords: [Data, Sync, POST, Synchronize, save, updated, content, link, IDs]
+keywords: [Sync, POST, Synchronize, save, updated, content, link, IDs]
 ---
-
-# Data Sync (POST)
 
 > Synchronize and save the updated values for a specified reference ID
       and a set of content link IDs.

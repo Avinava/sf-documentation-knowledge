@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-quote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.011Z
+lastCollected: 2026-04-07T18:35:48.048Z
 estimatedTokens: 1166
-keywords: [Transaction, Management, Quote, Standard, custom, extend, represent, quotes, API, version, 60.0, later, Special, Access, Rules]
+keywords: [Transaction, Management, Quote, Standard, extend, represent, quotes, API, 60.0]
 ---
-
-# Transaction Management Fields on Quote
 
 > Standard and custom fields extend the standard Quote object for use in
          Transaction Management to represent information about quotes. This object is available

@@ -5,12 +5,10 @@ topic: asset-action-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.019Z
+lastCollected: 2026-04-07T18:37:17.092Z
 estimatedTokens: 67
-keywords: [Asset, Action, Output, representation, lifecycle-managed]
+keywords: [Asset, Action, lifecycle-managed]
 ---
-
-# Asset Action Output
 
 > Asset action output representation for a lifecycle-managed
       asset.

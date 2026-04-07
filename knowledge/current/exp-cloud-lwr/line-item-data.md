@@ -5,12 +5,10 @@ topic: line-item-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.003Z
+lastCollected: 2026-04-07T18:37:33.307Z
 estimatedTokens: 218
-keywords: [Line, Item, Data, items, intended, describe, purchasable, They’re, cart, catalog, wish-list, interactions]
+keywords: [Line, Item, items, intended, describe, purchasable, They’re, cart, catalog, wish-list, interactions]
 ---
-
-# Line Item Data
 
 > Line items are intended to describe purchasable items. They’re used in cart, catalog,
   and wish-list interactions.

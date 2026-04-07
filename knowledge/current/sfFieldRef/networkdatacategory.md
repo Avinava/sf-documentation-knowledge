@@ -5,12 +5,10 @@ topic: networkdatacategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.107Z
+lastCollected: 2026-04-07T18:39:49.590Z
 estimatedTokens: 369
-keywords: [NetworkDataCategory, data, categories, Lightning, Web, Runtime, LWR, Experience, Cloud, Sites, API, version, 59.0, later]
+keywords: [NetworkDataCategory, categories, Lightning, Web, Runtime, LWR, Experience, Cloud, Sites, API, 59.0]
 ---
-
-# NetworkDataCategory
 
 > Represents data categories in Lightning Web Runtime (LWR) Experience Cloud Sites. This object is available in API version 59.0 and later.
 

@@ -5,12 +5,10 @@ topic: apexmapmarker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.919Z
+lastCollected: 2026-04-07T18:38:50.153Z
 estimatedTokens: 582
-keywords: [apex, mapMarker, marker, location, <apex, map>, Map, Contacts, Account, Attributes]
+keywords: [Attributes, apex, mapMarker, marker, location, <apex, map>, Map, Contacts, Account]
 ---
-
-# apex:mapMarker
 
 > Defines a marker to be displayed at a location on an <apex:map>.
 

@@ -5,12 +5,10 @@ topic: flow-for-salesforce-contracts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.587Z
+lastCollected: 2026-04-07T18:37:24.590Z
 estimatedTokens: 189
-keywords: [Flow, Salesforce, Contracts, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
+keywords: [FlowActionCall, Flow, Salesforce, Contracts, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Salesforce Contracts
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

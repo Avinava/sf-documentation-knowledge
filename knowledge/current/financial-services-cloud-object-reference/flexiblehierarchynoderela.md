@@ -5,12 +5,10 @@ topic: flexiblehierarchynoderela
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.599Z
+lastCollected: 2026-04-07T18:37:37.385Z
 estimatedTokens: 708
-keywords: [FlexibleHierarchyNodeRela, relationship, any, two, nodes, hierarchy, instance, parent-subsidiary, companies, individual's, affiliation, company, API, version, 66.0]
+keywords: [FlexibleHierarchyNodeRela, relationship, any, two, nodes, hierarchy, instance, parent-subsidiary, companies, individual's, affiliation, company, API, 66.0]
 ---
-
-# FlexibleHierarchyNodeRela
 
 > Represents the type of relationship between any two nodes in an hierarchy.
          For instance, a parent-subsidiary relationship between companies or an individual's

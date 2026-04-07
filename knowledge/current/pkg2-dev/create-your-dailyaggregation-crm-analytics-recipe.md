@@ -5,12 +5,10 @@ topic: create-your-dailyaggregation-crm-analytics-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.304Z
+lastCollected: 2026-04-07T18:38:54.699Z
 estimatedTokens: 1230
-keywords: [DailyAggregation, CRM, Analytics, Recipe, join, raw, package, log, file, data, License, Management, App, LMA, produces]
+keywords: [DailyAggregation, CRM, Analytics, Recipe, join, raw, package, log, file, License, Management, App, LMA, produces, dataset, recipes]
 ---
-
-# Create Your DailyAggregation CRM Analytics Recipe
 
 > You join your raw package log file data with your License Management 
   App (LMA) data to create the DailyAggregation CRM Analytics recipe. The recipe 

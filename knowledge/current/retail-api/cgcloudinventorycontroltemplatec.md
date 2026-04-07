@@ -5,12 +5,10 @@ topic: cgcloudinventorycontroltemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.213Z
+lastCollected: 2026-04-07T18:39:13.627Z
 estimatedTokens: 2049
-keywords: [cgcloud__Inventory_Control_Template__c, Stores, inventory, control, template, that's, inventories, API, version, 54.0, later, cgcloud, _Inventory, _Control, _Template]
+keywords: [cgcloud__Inventory_Control_Template__c, Stores, inventory, control, template, that's, inventories, API, 54.0, cgcloud, _Inventory, _Control, _Template]
 ---
-
-# cgcloud__Inventory_Control_Template__c
 
 > Stores the details of the inventory control template that's to be
          used for inventories. This object is available in API version 54.0 and later.

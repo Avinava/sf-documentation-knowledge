@@ -5,12 +5,10 @@ topic: audienceitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.369Z
+lastCollected: 2026-04-07T18:40:15.443Z
 estimatedTokens: 470
 keywords: [AudienceItem, audience, send, directed]
 ---
-
-# AudienceItem
 
 > The AudienceItem object defines the audience to which a send can be directed.
 

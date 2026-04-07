@@ -5,12 +5,10 @@ topic: commerce-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.781Z
+lastCollected: 2026-04-07T18:35:52.677Z
 estimatedTokens: 351
-keywords: [Commerce, Promotion, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, any]
+keywords: [Commerce, Promotion, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, any, marketing, communication, inform, persuade, target, audiences, merits, product, service, brand, issue, DLO]
 ---
-
-# Commerce: Promotion Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Promotion data is any type of marketing

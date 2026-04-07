@@ -5,12 +5,10 @@ topic: loyaltyprogrampartnershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.191Z
+lastCollected: 2026-04-07T18:39:47.616Z
 estimatedTokens: 253
 keywords: [LoyaltyProgramPartnerShare, Sharing, LoyaltyProgramPartner]
 ---
-
-# LoyaltyProgramPartnerShare
 
 > Sharing for LoyaltyProgramPartner.
 

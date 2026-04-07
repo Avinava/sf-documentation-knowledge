@@ -5,12 +5,10 @@ topic: configurationinputenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.841Z
+lastCollected: 2026-04-07T18:35:41.708Z
 estimatedTokens: 231
-keywords: [ConfigurationInputEnum, configuration, input, place, order, Usage, quote]
+keywords: [ConfigurationInputEnum, configuration, place, order, quote]
 ---
-
-# ConfigurationInputEnum Enum
 
 > Specifies the configuration input for the request to place a quote.
 

@@ -5,12 +5,10 @@ topic: using-relationship-queries-with-data-category-selection-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.917Z
+lastCollected: 2026-04-07T18:40:09.859Z
 estimatedTokens: 176
-keywords: [Relationship, Queries, Data, Category, Selection, Objects, categories, classify, records, SOQL, Article__DataCategorySelection, QuestionDataCategorySelection, build, query, DataCategorySelections]
+keywords: [Relationship, Queries, Category, Selection, categories, classify, records, SOQL, Article__DataCategorySelection, QuestionDataCategorySelection, build, query, DataCategorySelections, clause]
 ---
-
-# Using Relationship Queries with Data Category Selection Objects
 
 > Data categories are used to classify records. In SOQL, you can use the
     Article__DataCategorySelection or QuestionDataCategorySelection objects. You can also build

@@ -5,12 +5,10 @@ topic: messaging-channels-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.626Z
+lastCollected: 2026-04-07T18:37:11.408Z
 estimatedTokens: 703
-keywords: [Messaging, Channels, Resource, Manage, channel, doesn't, already, add, register, taking, data, passing, POST]
+keywords: [Messaging, Channels, Resource, Manage, channel, doesn't, already, add, register, taking, passing, POST]
 ---
-
-# Messaging Channels Resource
 
 > Manage Messaging channels. You can get Messaging channels using the
       GET method. If a channel doesn't already have an ID, you can add and register it by taking the

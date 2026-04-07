@@ -5,12 +5,10 @@ topic: cluster-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.525Z
+lastCollected: 2026-04-07T18:39:18.212Z
 estimatedTokens: 217
 keywords: [Cluster, node, recipe]
 ---
-
-# Cluster Parameters
 
 > The parameters for a cluster node in a recipe.
 

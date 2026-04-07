@@ -5,12 +5,10 @@ topic: promotion-and-tactic-transfer-customization-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.707Z
+lastCollected: 2026-04-07T18:39:16.247Z
 estimatedTokens: 382
-keywords: [Promotion, Tactic, Transfer, Customization, Cases, different, Apex, process, Change, managed, package, sObject, record, Add, custom]
+keywords: [Promotion, Tactic, Transfer, Customization, Cases, different, Apex, process, Change, managed, package, sObject, record, Add, products, linked, perform, new, records]
 ---
-
-# Promotion and Tactic Transfer Customization Use Cases
 
 > This section provides different Apex customization use cases for the promotion and
     tactic transfer process.

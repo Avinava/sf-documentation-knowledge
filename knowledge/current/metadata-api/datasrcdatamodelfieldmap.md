@@ -5,12 +5,10 @@ topic: datasrcdatamodelfieldmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.136Z
+lastCollected: 2026-04-07T18:36:24.475Z
 estimatedTokens: 505
-keywords: [DataSrcDataModelFieldMap, entity, storing, design, time, bundle, level, mappings, data, source, model, Parent, File, Suffix, Directory]
+keywords: [DataSrcDataModelFieldMap, entity, storing, design, time, bundle, level, mappings, source, model, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataSrcDataModelFieldMap
 
 > Represents the entity that is used for storing the design
       time bundle level mappings for the data source fields and data model fields.

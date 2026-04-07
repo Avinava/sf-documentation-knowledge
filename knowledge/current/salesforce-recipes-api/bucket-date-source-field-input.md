@@ -5,12 +5,10 @@ topic: bucket-date-source-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.420Z
+lastCollected: 2026-04-07T18:39:18.115Z
 estimatedTokens: 101
-keywords: [Bucket, Date, Source, Input, node, recipe]
+keywords: [Bucket, Date, Source, node, recipe]
 ---
-
-# Bucket Date Source Field Input
 
 > A date source field for a bucket node in a recipe.
 

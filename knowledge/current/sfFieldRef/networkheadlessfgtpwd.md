@@ -5,12 +5,10 @@ topic: networkheadlessfgtpwd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.134Z
+lastCollected: 2026-04-07T18:39:49.620Z
 estimatedTokens: 257
 keywords: [NetworkHeadlessFgtPwd, regarding, whether, Experience, Cloud, site, user, Headless, Forgot, Password, Flow, settings]
 ---
-
-# NetworkHeadlessFgtPwd
 
 > Represents information regarding whether an Experience Cloud site
 			user can use the Headless Forgot Password Flow and related settings.

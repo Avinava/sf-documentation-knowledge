@@ -5,12 +5,10 @@ topic: file-shares
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.019Z
+lastCollected: 2026-04-07T18:37:13.984Z
 estimatedTokens: 584
 keywords: [File, Shares, users, groups, records, shared, Share]
 ---
-
-# File Shares
 
 > Get the users, groups, or records with which a file has been
       shared. Share a file with users.

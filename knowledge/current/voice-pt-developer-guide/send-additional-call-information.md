@@ -5,12 +5,10 @@ topic: send-additional-call-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.298Z
+lastCollected: 2026-04-07T18:40:13.235Z
 estimatedTokens: 530
 keywords: [Send, Additional, Call, disable, certain, handling, options, end, dial, pad, phone, book, softphone]
 ---
-
-# Send Additional Call Information
 
 > You can disable certain call handling options such as end call, dial pad, and phone book
   in the softphone.

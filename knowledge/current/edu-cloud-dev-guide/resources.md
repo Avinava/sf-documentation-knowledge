@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:42.668Z
+lastCollected: 2026-04-07T18:37:29.744Z
 estimatedTokens: 625
 keywords: [Resources, Education, Cloud, Business, API, Fundraising]
 ---
-
-# Resources
 
 > Learn more about the available Fundraising API resources.
 

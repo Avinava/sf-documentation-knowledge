@@ -5,12 +5,10 @@ topic: group-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.258Z
+lastCollected: 2026-04-07T18:37:14.214Z
 estimatedTokens: 309
 keywords: [Group, Settings, context, user’s, Chatter]
 ---
-
-# Group Settings
 
 > Get information about the context user’s Chatter
    settings for the specified group.

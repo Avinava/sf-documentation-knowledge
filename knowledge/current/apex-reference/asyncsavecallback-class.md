@@ -5,13 +5,11 @@ topic: asyncsavecallback-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.477Z
+lastCollected: 2026-04-07T18:35:59.754Z
 estimatedTokens: 554
 namespace: DataSource
-keywords: [AsyncSaveCallback, callback, Database.insertAsync, Database.updateAsync, references, Salesforce, calls, remote, operation, completed, compensating, transaction, completion, context, insert]
+keywords: [AsyncSaveCallback, callback, Database.insertAsync, Database.updateAsync, references, Salesforce, remote, operation, completed, compensating, transaction, completion, context, insert, Extend, define, actions, execute, finishes, execution, processSave, saveResult]
 ---
-
-# AsyncSaveCallback Class
 
 > A callback class that the Database.insertAsync or Database.updateAsync method references. Salesforce calls this class after
       the remote operation is completed. This class provides the compensating transaction in the

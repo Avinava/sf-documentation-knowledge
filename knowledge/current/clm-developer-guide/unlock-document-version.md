@@ -5,12 +5,10 @@ topic: unlock-document-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.081Z
+lastCollected: 2026-04-07T18:37:25.038Z
 estimatedTokens: 86
-keywords: [Unlock, Document, Version, latest, contract]
+keywords: [Unlock, Document, latest, contract]
 ---
-
-# Unlock Document Version
 
 > Unlock latest contract document version.
 

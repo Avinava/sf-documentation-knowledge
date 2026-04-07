@@ -5,12 +5,10 @@ topic: distinct-value-search-facet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.330Z
+lastCollected: 2026-04-07T18:37:18.419Z
 estimatedTokens: 288
 keywords: [Distinct, Search, Facet, product, results]
 ---
-
-# Distinct Value Search Facet
 
 > Facet with distinct values in product search results.
 

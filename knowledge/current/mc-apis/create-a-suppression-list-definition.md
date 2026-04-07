@@ -5,12 +5,10 @@ topic: create-a-suppression-list-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.083Z
+lastCollected: 2026-04-07T18:40:16.219Z
 estimatedTokens: 2114
-keywords: [Suppression, Definition, regarding, creating, retrieving, Why, Retrieve, How, Sample, NET, Code, Contexts, Associated]
+keywords: [Suppression, Definition, regarding, creating, retrieving, Why, Retrieve, How, Sample, NET, Code, Contexts]
 ---
-
-# Create a Suppression List Definition
 
 > This page contains information  regarding creating and retrieving a suppression list definition.
 

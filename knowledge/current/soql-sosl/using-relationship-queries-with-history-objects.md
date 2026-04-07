@@ -5,12 +5,10 @@ topic: using-relationship-queries-with-history-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.920Z
+lastCollected: 2026-04-07T18:40:09.864Z
 estimatedTokens: 128
-keywords: [Relationship, Queries, History, Objects, Custom, standard, associated, tracks, changes, record, SOQL, traverse, parent]
+keywords: [Relationship, Queries, standard, tracks, changes, record, SOQL, traverse, parent]
 ---
-
-# Using Relationship Queries with History Objects
 
 > Custom objects and some standard objects have an associated history object that tracks
   changes to an object record. You can use SOQL relationship queries to traverse a history object to

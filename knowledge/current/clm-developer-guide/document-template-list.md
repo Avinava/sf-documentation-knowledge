@@ -5,12 +5,10 @@ topic: document-template-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.254Z
+lastCollected: 2026-04-07T18:37:25.187Z
 estimatedTokens: 116
-keywords: [Document, Template, Output, representation]
+keywords: [Document, Template]
 ---
-
-# Document Template List
 
 > Output representation for the document template list.
 

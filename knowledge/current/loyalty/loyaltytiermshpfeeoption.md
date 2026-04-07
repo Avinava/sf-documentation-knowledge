@@ -5,12 +5,10 @@ topic: loyaltytiermshpfeeoption
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.230Z
+lastCollected: 2026-04-07T18:38:10.486Z
 estimatedTokens: 604
-keywords: [LoyaltyTierMshpFeeOption, options, members, pay, tier, club, memberships, API, version, 63.0, later, Calls]
+keywords: [LoyaltyTierMshpFeeOption, options, members, pay, tier, club, memberships, API, 63.0]
 ---
-
-# LoyaltyTierMshpFeeOption
 
 > Represents the options by which members can pay for tier or club
          memberships. This object is available in API version 63.0 and later.

@@ -5,12 +5,10 @@ topic: sfuseraccount-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.372Z
+lastCollected: 2026-04-07T18:40:26.676Z
 estimatedTokens: 620
-keywords: [SFUserAccount, user, account, that’s, currently, authenticated, encapsulates, data, uniquely, identify, Function]
+keywords: [SFUserAccount, user, account, that’s, currently, authenticated, encapsulates, uniquely, identify, Function]
 ---
-
-# SFUserAccount Class
 
 > The SFUserAccount class
 represents a single user account that’s currently authenticated.

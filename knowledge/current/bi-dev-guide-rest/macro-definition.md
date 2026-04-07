@@ -5,12 +5,10 @@ topic: macro-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:10.896Z
+lastCollected: 2026-04-07T18:36:57.416Z
 estimatedTokens: 163
 keywords: [Macro, Definition, part, larger, JSON, transformation, rule]
 ---
-
-# Macro Definition
 
 > A macro definition that is part of a larger macro for a JSON transformation
   rule.

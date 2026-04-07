@@ -5,13 +5,11 @@ topic: cookie-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:02:18.778Z
+lastCollected: 2026-04-07T18:36:04.011Z
 estimatedTokens: 3927
 namespace: System
-keywords: [Cookie, lets, access, cookies, Salesforce, site, Apex, Usage, path, maxAge, isSecure, SameSite, isHttpOnly, getDomain, getMaxAge]
+keywords: [Cookie, lets, cookies, Salesforce, site, Apex, path, maxAge, isSecure, SameSite, isHttpOnly, getDomain, getMaxAge, getName, getPath, getSameSite, getValue]
 ---
-
-# Cookie Class
 
 > The Cookie class lets you access cookies for
         your Salesforce site using Apex.

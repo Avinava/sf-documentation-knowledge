@@ -5,12 +5,10 @@ topic: cms-folder-share-targets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.827Z
+lastCollected: 2026-04-07T18:37:11.626Z
 estimatedTokens: 163
 keywords: [CMS, Folder, Share, Targets, managed, content, space, shared]
 ---
-
-# CMS Folder Share Targets
 
 > Get targets that a managed content space folder can be shared with.
 

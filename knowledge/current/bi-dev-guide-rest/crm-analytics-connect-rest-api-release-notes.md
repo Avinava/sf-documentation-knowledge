@@ -5,12 +5,10 @@ topic: crm-analytics-connect-rest-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:11.719Z
+lastCollected: 2026-04-07T18:36:58.279Z
 estimatedTokens: 164
 keywords: [CRM, Analytics, Connect, REST, API, Release, Notes, Salesforce, recent, updates, changes]
 ---
-
-# CRM Analytics Connect REST API Release Notes
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
   the CRM Analytics Connect REST API.

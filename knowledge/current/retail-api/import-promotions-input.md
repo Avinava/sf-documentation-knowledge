@@ -5,12 +5,10 @@ topic: import-promotions-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.665Z
+lastCollected: 2026-04-07T18:39:11.181Z
 estimatedTokens: 152
-keywords: [Import, Promotions, Input, representation, promotion]
+keywords: [Import, Promotions, promotion]
 ---
-
-# Import Promotions Input
 
 > Input representation of the promotion import
         object.

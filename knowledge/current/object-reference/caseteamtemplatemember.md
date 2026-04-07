@@ -5,12 +5,10 @@ topic: caseteamtemplatemember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.748Z
+lastCollected: 2026-04-07T18:38:27.705Z
 estimatedTokens: 216
-keywords: [CaseTeamTemplateMember, member, predefined, case, team, group, users, helps, resolve, cases, Calls, Special, Access, Rules]
+keywords: [CaseTeamTemplateMember, member, predefined, case, team, group, users, helps, resolve, cases]
 ---
-
-# CaseTeamTemplateMember
 
 > Represents a member on a predefined case team, which is a
     group of users that helps resolve cases.

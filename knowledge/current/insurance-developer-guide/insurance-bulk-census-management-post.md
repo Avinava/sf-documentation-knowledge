@@ -5,12 +5,10 @@ topic: insurance-bulk-census-management-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.613Z
+lastCollected: 2026-04-07T18:37:51.670Z
 estimatedTokens: 542
-keywords: [Insurance, Bulk, Census, Management, POST, Process, group, data]
+keywords: [Insurance, Bulk, Census, Management, POST, Process, group]
 ---
-
-# Insurance Bulk Census Management (POST)
 
 > Process group census data in bulk.
 

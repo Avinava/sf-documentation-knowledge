@@ -5,12 +5,10 @@ topic: definitionadd
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.414Z
+lastCollected: 2026-04-07T18:40:23.844Z
 estimatedTokens: 196
-keywords: [Definition.Add, Function, Ordinal, Customer, key, subject, line, send, definition, classifica, **Overview**, **Syntax**, Examples]
+keywords: [Examples, Definition.Add, Function, Ordinal, Customer, key, subject, line, send, definition, classifica, **Overview**, **Syntax**]
 ---
-
-# Definition.Add
 
 > Definition.Add(1, 2, 3, 4)
 

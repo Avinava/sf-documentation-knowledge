@@ -5,12 +5,10 @@ topic: customize-the-retail-order-proposal-list-creation-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.982Z
+lastCollected: 2026-04-07T18:39:11.531Z
 estimatedTokens: 441
 keywords: [Customize, Retail, Order, Proposal, Creation, Process, callable, Apex, customization, hook]
 ---
-
-# Customize the Retail Order Proposal List Creation Process
 
 > To customize the order proposal list creation process, create a callable Apex class as
     a customization hook.

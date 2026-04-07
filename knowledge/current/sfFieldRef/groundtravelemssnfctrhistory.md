@@ -5,12 +5,10 @@ topic: groundtravelemssnfctrhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.442Z
+lastCollected: 2026-04-07T18:39:43.008Z
 estimatedTokens: 275
-keywords: [GroundTravelEmssnFctrHistory, History, tracked, GroundTravelEmssnFctr]
+keywords: [GroundTravelEmssnFctrHistory, tracked, GroundTravelEmssnFctr]
 ---
-
-# GroundTravelEmssnFctrHistory
 
 > History for tracked fields of GroundTravelEmssnFctr.
 

@@ -5,12 +5,10 @@ topic: streaming-api-error-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.253Z
+lastCollected: 2026-04-07T18:36:51.579Z
 estimatedTokens: 1868
 keywords: [Streaming, API, Error, Codes, errors, troubleshoot, client, Generic, Streaming-only]
 ---
-
-# Streaming API Error Codes
 
 > Learn about the errors that Streaming API can return to troubleshoot your streaming
     client.

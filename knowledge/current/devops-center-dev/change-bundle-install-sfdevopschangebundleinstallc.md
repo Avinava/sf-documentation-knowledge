@@ -5,12 +5,10 @@ topic: change-bundle-install-sfdevopschangebundleinstallc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.515Z
+lastCollected: 2026-04-07T18:37:28.538Z
 estimatedTokens: 1223
-keywords: [Change, Bundle, Install, sf_devops__Change_Bundle_Install__c, deployment, metadata, components, associated, environment, orgs, DevOps, Center, installed, _devops, _Change]
+keywords: [Change, Bundle, Install, sf_devops__Change_Bundle_Install__c, deployment, metadata, environment, orgs, DevOps, Center, installed, _devops, _Change, _Bundle, _Install]
 ---
-
-# Change Bundle Install (sf_devops__Change_Bundle_Install__c)
 
 > Represents the deployment of the metadata components associated with a change
          bundle into an environment. This object is available in all orgs that have DevOps

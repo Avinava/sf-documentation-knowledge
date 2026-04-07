@@ -5,12 +5,10 @@ topic: grpcensusgrpclasssummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.681Z
+lastCollected: 2026-04-07T18:39:43.227Z
 estimatedTokens: 278
-keywords: [GrpCensusGrpClassSummaryHistory, History, tracked, GrpCensusGrpClassSummary]
+keywords: [GrpCensusGrpClassSummaryHistory, tracked, GrpCensusGrpClassSummary]
 ---
-
-# GrpCensusGrpClassSummaryHistory
 
 > History for tracked fields of GrpCensusGrpClassSummary.
 

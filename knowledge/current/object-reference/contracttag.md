@@ -5,12 +5,10 @@ topic: contracttag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.966Z
+lastCollected: 2026-04-07T18:38:28.874Z
 estimatedTokens: 356
-keywords: [ContractTag, Associates, word, short, phrase, Contract, Calls, Usage]
+keywords: [ContractTag, Associates, word, short, phrase, Contract]
 ---
-
-# ContractTag
 
 > Associates a word or short phrase with a Contract.
 

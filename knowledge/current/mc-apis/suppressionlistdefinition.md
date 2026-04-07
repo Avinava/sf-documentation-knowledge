@@ -5,12 +5,10 @@ topic: suppressionlistdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.367Z
+lastCollected: 2026-04-07T18:40:20.611Z
 estimatedTokens: 724
-keywords: [SuppressionListDefinition, suppression, associated, different, contexts, Once, created, definition, variety, email, send, processed, system, finds, Items]
+keywords: [SuppressionListDefinition, suppression, different, contexts, Once, created, definition, variety, email, send, processed, system, finds, Items]
 ---
-
-# SuppressionListDefinition
 
 > The SuppressionListDefinition object is a suppression list that can be associated with different contexts. Once it has been created, the definition can be associated with a variety of different contexts that are specified in the Contexts property. When an email send is processed, the system finds al
 

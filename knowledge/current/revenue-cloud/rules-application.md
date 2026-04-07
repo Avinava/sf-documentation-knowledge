@@ -5,12 +5,10 @@ topic: rules-application
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.664Z
+lastCollected: 2026-04-07T18:35:46.635Z
 estimatedTokens: 253
-keywords: [Rules, Application, Output, representation]
+keywords: [Application]
 ---
-
-# Rules Application
 
 > Output representation of the details of rules application.
 

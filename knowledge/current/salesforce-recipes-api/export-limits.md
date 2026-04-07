@@ -5,12 +5,10 @@ topic: export-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.411Z
+lastCollected: 2026-04-07T18:39:19.095Z
 estimatedTokens: 101
 keywords: [Export, Limits, node, recipe]
 ---
-
-# Export Limits
 
 > The limits for an export node in a recipe.
 

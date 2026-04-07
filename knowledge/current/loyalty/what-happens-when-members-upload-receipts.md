@@ -5,12 +5,10 @@ topic: what-happens-when-members-upload-receipts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.800Z
+lastCollected: 2026-04-07T18:38:09.095Z
 estimatedTokens: 259
-keywords: [Happens, Members, Upload, Receipts, their, third-party, store, purchases, they, Expense, Analysis, API, scans, reviews, eligibility]
+keywords: [Happens, Members, Upload, Receipts, their, third-party, store, purchases, they, Expense, Analysis, API, scans, reviews, eligibility, receipt]
 ---
-
-# What Happens When Members Upload Receipts
 
 > Members can upload receipts of their third-party store purchases and after they upload
     the receipts, the Expense Analysis API scans the receipts and reviews the eligibility of the

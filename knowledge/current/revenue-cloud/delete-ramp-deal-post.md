@@ -5,12 +5,10 @@ topic: delete-ramp-deal-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.429Z
+lastCollected: 2026-04-07T18:35:44.405Z
 estimatedTokens: 440
 keywords: [Ramp, Deal, POST, convert, ramped, product, include, quote, line, item, order]
 ---
-
-# Delete Ramp Deal (POST)
 
 > Delete a ramp deal to convert a ramped product to include a single
       quote line item or order item.

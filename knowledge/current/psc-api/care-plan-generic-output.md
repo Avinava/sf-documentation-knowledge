@@ -6,13 +6,10 @@ topic: care-plan-generic-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.602Z
+lastCollected: 2026-04-07T18:39:02.823Z
 estimatedTokens: 158
-keywords: [Care, Plan, Generic, Output, representation, created, record, template]
+keywords: [Care, Plan, Generic, created, record, template]
 ---
-
-# Care Plan Generic
-    Output
 
 > Output representation of the created care plan record or care plan
       template record.

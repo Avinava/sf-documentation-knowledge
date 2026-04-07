@@ -5,12 +5,10 @@ topic: energyserviceagreementitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.749Z
+lastCollected: 2026-04-07T18:39:39.412Z
 estimatedTokens: 521
-keywords: [EnergyServiceAgreementItem, Energy, Service, Agreement, time, location, pricing, API, version, 62.0, later]
+keywords: [EnergyServiceAgreementItem, Energy, Service, Agreement, time, location, pricing, API, 62.0]
 ---
-
-# EnergyServiceAgreementItem
 
 > Represents the details of the Energy Service Agreement object such as the
          time, location, and pricing information.  This object is available in API version 62.0

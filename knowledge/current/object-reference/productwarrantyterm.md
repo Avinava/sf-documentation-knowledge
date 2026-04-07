@@ -5,12 +5,10 @@ topic: productwarrantyterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.526Z
+lastCollected: 2026-04-07T18:38:38.982Z
 estimatedTokens: 563
-keywords: [ProductWarrantyTerm, relationship, product, family, warranty, term, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [ProductWarrantyTerm, relationship, product, family, warranty, term, API, 50.0]
 ---
-
-# ProductWarrantyTerm
 
 > Defines the relationship between a product or product family and warranty term.
      This object is available in API version 50.0 and later.

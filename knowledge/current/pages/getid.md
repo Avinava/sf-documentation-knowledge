@@ -5,12 +5,10 @@ topic: getid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.061Z
+lastCollected: 2026-04-07T18:38:48.020Z
 estimatedTokens: 55
 keywords: [getId, record, currently, context, query, Visualforce, URL]
 ---
-
-# getId()
 
 > Returns the ID of the record that is currently in context,
 based on the value of the id query string parameter in the Visualforce page URL.

@@ -5,12 +5,10 @@ topic: composite-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.527Z
+lastCollected: 2026-04-07T18:36:34.984Z
 estimatedTokens: 296
 keywords: [Composite, result, Results, Subrequest]
 ---
-
-# Composite Response Body
 
 > Describes the result of a /composite
   request.

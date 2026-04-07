@@ -5,12 +5,10 @@ topic: get-measure-exports-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.717Z
+lastCollected: 2026-04-07T18:39:11.234Z
 estimatedTokens: 25
-keywords: [Measure, Exports, Output, API]
+keywords: [Measure, Exports, API]
 ---
-
-# Get Measure Exports Output
 
 > Response body for Get Measure Exports API.
 

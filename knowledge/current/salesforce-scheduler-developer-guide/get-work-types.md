@@ -5,12 +5,10 @@ topic: get-work-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.616Z
+lastCollected: 2026-04-07T18:39:21.463Z
 estimatedTokens: 355
 keywords: [Work, correct, record, group, service, territory, selected, previous, step]
 ---
-
-# Get Work Types
 
 > Get the correct work type record that represents the work type group and service
       territory that are selected in the previous step.

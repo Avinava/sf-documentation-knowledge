@@ -5,12 +5,10 @@ topic: reinstatepolicyreinstatepolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.659Z
+lastCollected: 2026-04-07T18:37:49.510Z
 estimatedTokens: 259
-keywords: [ReinstatePolicy, ReinstatePolicyInput, policyId, Reinstate, previously, canceled, insurance, policy, API, Version, Requires, Chatter]
+keywords: [ReinstatePolicy, ReinstatePolicyInput, policyId, Reinstate, previously, canceled, insurance, policy, API, Requires, Chatter]
 ---
-
-# ReinstatePolicy(ReinstatePolicyInput, policyId)
 
 > Reinstate a previously canceled insurance policy.
 

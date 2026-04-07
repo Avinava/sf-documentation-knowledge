@@ -5,12 +5,10 @@ topic: notsentevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.791Z
+lastCollected: 2026-04-07T18:40:17.970Z
 estimatedTokens: 542
 keywords: [NotSentEvent, email, message, failed, sent, Items]
 ---
-
-# NotSentEvent
 
 > The NotSentEvent object contains information on when email message failed to be sent.
 

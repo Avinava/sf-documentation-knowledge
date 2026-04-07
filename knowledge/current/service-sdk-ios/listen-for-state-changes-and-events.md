@@ -5,12 +5,10 @@ topic: listen-for-state-changes-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.995Z
+lastCollected: 2026-04-07T18:40:28.126Z
 estimatedTokens: 1197
-keywords: [Listen, State, Changes, Events, Implement, SCSChatSessionDelegate, notified, made, chat, session, delegate, error, conditions, present, alerts]
+keywords: [Listen, State, Changes, Events, Implement, SCSChatSessionDelegate, notified, made, chat, session, delegate, error, conditions, present, alerts, user, applicable, Listening, Handling, Termination]
 ---
-
-# Listen for State Changes and Events
 
 > Implement SCSChatSessionDelegate to be notified
     about state changes made before, during, and after a chat session. This delegate also allows you

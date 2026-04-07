@@ -5,12 +5,10 @@ topic: userdefinedlabelshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.272Z
+lastCollected: 2026-04-07T18:40:05.104Z
 estimatedTokens: 251
 keywords: [UserDefinedLabelShare, Sharing, UserDefinedLabel]
 ---
-
-# UserDefinedLabelShare
 
 > Sharing for UserDefinedLabel.
 

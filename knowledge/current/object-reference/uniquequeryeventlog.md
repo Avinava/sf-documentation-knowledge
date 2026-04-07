@@ -5,12 +5,10 @@ topic: uniquequeryeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.464Z
+lastCollected: 2026-04-07T18:38:43.218Z
 estimatedTokens: 510
-keywords: [UniqueQueryEventLog, Unique, Query, events, capture, specific, search, queries, SOQL, filter, IDs, report, processed, along, underlying]
+keywords: [UniqueQueryEventLog, Unique, Query, events, capture, specific, search, queries, SOQL, filter, IDs, report, processed, along, underlying, database, SQL, API, 65.0]
 ---
-
-# UniqueQueryEventLog
 
 > Unique Query events capture specific search queries (SOQL), filter IDs, and
          report IDs that are processed, along with the underlying database queries (SQL). This

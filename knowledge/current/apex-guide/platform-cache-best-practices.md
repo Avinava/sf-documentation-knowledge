@@ -5,12 +5,10 @@ topic: platform-cache-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.915Z
+lastCollected: 2026-04-07T18:36:18.143Z
 estimatedTokens: 1464
-keywords: [Platform, Cache, Best, Practices, greatly, improve, performance, applications, However, it’s, follow, guidelines, general, efficient, few]
+keywords: [Platform, Cache, Best, Practices, greatly, improve, performance, applications, However, it’s, follow, guidelines, general, efficient, few, large, items, small, separately, mindful, limits, prevent, unexpected, evictions, Evaluate, Impact, Handle, Misses, Gracefully, Group, Requests, Larger, Aware, Diagnostics, Sparingly, Minimize, Expensive, Operations]
 ---
-
-# Platform Cache Best Practices
 
 > Platform Cache can greatly improve performance in your applications.
       However, it’s important to follow these guidelines to get the best cache performance. In

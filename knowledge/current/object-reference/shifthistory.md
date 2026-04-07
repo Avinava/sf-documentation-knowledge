@@ -5,12 +5,10 @@ topic: shifthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.473Z
+lastCollected: 2026-04-07T18:38:41.126Z
 estimatedTokens: 366
-keywords: [ShiftHistory, history, changes, made, tracked, time, sheet, API, versions, 46.0, later, Calls, Special, Access, Rules]
+keywords: [ShiftHistory, changes, made, tracked, time, sheet, API, versions, 46.0]
 ---
-
-# ShiftHistory
 
 > Represents the history of changes made to tracked fields on a time
          sheet. Available in API versions 46.0 and later.

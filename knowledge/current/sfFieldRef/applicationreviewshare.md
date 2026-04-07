@@ -5,12 +5,10 @@ topic: applicationreviewshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.600Z
+lastCollected: 2026-04-07T18:39:26.549Z
 estimatedTokens: 251
 keywords: [ApplicationReviewShare, Sharing, ApplicationReview]
 ---
-
-# ApplicationReviewShare
 
 > Sharing for ApplicationReview.
 

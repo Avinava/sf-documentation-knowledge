@@ -5,12 +5,10 @@ topic: location-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.447Z
+lastCollected: 2026-04-07T18:38:15.981Z
 estimatedTokens: 367
-keywords: [Location, Basics, surface, concept, simple, Salesforce, Tower, How, right, now, location-based, features, we’ve, mobile, devices]
+keywords: [Location, Basics, surface, concept, simple, Salesforce, Tower, How, right, now, location-based, features, we’ve, mobile, devices, years, developer, complex]
 ---
-
-# Location Basics
 
 > On the surface, the concept of location is a simple one. Where am I? Where is Salesforce
   Tower? How do I get to Salesforce Tower from where I am right now? These are all location-based

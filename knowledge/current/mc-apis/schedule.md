@@ -5,12 +5,10 @@ topic: schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.833Z
+lastCollected: 2026-04-07T18:40:20.055Z
 estimatedTokens: 264
 keywords: [Schedule, action, event, occur, specific, time, part, email, send, definition, override, certain, aspects, SenderProfile, Items]
 ---
-
-# Schedule
 
 > Use the Schedule method to schedule an action or event to occur at a specific time. When using the Schedule method as part of an email send definition, you can override certain aspects of the SenderProfile object.
 

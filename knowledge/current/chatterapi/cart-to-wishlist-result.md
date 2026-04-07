@@ -5,12 +5,10 @@ topic: cart-to-wishlist-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.274Z
+lastCollected: 2026-04-07T18:37:17.350Z
 estimatedTokens: 104
 keywords: [Cart, Wishlist, Result, copying, products]
 ---
-
-# Cart to Wishlist Result
 
 > Result of copying products from a cart to a wishlist.
 

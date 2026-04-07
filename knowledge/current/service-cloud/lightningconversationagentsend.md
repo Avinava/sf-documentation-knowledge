@@ -5,12 +5,10 @@ topic: lightningconversationagentsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.876Z
+lastCollected: 2026-04-07T18:36:48.935Z
 estimatedTokens: 218
-keywords: [lightning, conversationAgentSend, Event, triggered, agent, chat, message, Salesforce, console, intercept, it’s, sent, visitor, Enhanced, Messaging, event, intercepts, lightning__conversationAgentSend, channels]
+keywords: [lightning, conversationAgentSend, Event, triggered, agent, chat, message, Salesforce, console, intercept, it’s, sent, visitor, Enhanced, Messaging, channels, event, intercepts, work, session, active, Conversation, visible, lightning__conversationAgentSend, _conversationAgentSend, LWC, Sample, Code, Aura]
 ---
-
-# lightning:conversationAgentSend
 
 > Messaging event triggered when an agent
             sends a message through the Salesforce console. This method intercepts the message

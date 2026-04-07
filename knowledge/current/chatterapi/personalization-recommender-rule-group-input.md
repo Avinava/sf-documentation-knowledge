@@ -5,12 +5,10 @@ topic: personalization-recommender-rule-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.916Z
+lastCollected: 2026-04-07T18:37:09.639Z
 estimatedTokens: 113
-keywords: [Personalization, Recommender, Rule, Group, Input, rules, logical, operator, apply]
+keywords: [Personalization, Recommender, Rule, Group, logical, operator, apply]
 ---
-
-# Personalization Recommender Rule Group Input
 
 > Defines a group of rules and the logical operator to apply.
 

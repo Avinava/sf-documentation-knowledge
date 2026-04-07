@@ -5,12 +5,10 @@ topic: key-concepts-in-second-generation-managed-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.643Z
+lastCollected: 2026-04-07T18:38:56.193Z
 estimatedTokens: 652
 keywords: [Key, Concepts, Second-Generation, Managed, Packaging, Let’s, look, high-level, 2GP]
 ---
-
-# Key Concepts in Second-Generation Managed Packaging
 
 > Let’s look at some key high-level concepts in second-generation managed packaging
   (managed 2GP).

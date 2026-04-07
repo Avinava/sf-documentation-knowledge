@@ -5,12 +5,10 @@ topic: the-development-process-and-the-importance-of-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.501Z
+lastCollected: 2026-04-07T18:38:51.763Z
 estimatedTokens: 257
 keywords: [Development, Process, Importance, Testing, It’s, test, Visualforce, pages, deploying, production, across, different, environments, devices, users]
 ---
-
-# The Development Process and the Importance of Testing
 
 > It’s important to test your Visualforce pages before deploying them in production. Test
   your pages across different environments, devices, and users.

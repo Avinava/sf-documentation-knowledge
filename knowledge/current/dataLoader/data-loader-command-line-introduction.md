@@ -5,12 +5,10 @@ topic: data-loader-command-line-introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.108Z
+lastCollected: 2026-04-07T18:37:28.146Z
 estimatedTokens: 616
-keywords: [Data, Loader, Command, Line, Introduction, addition, interactively, import, export, run, commands, automate]
+keywords: [Loader, Command, Line, Introduction, addition, interactively, import, export, run, commands, automate]
 ---
-
-# Data Loader Command Line Introduction
 
 > In addition to using Data Loader interactively to import and export data, you can run
     it from the command line. You can use commands to automate the import and export of

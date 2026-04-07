@@ -5,12 +5,10 @@ topic: emaildomainkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.178Z
+lastCollected: 2026-04-07T18:39:38.851Z
 estimatedTokens: 525
-keywords: [EmailDomainKey, domain, key, organization’s, authenticate, outbound, email, Salesforce, behalf, API, version, 28.0, later]
+keywords: [EmailDomainKey, domain, key, organization’s, authenticate, outbound, email, Salesforce, behalf, API, 28.0]
 ---
-
-# EmailDomainKey
 
 > Represents a domain key for an organization’s domain, used to
       authenticate outbound email that Salesforce sends on the organization’s behalf. This

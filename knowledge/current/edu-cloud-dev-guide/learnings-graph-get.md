@@ -5,12 +5,10 @@ topic: learnings-graph-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.182Z
+lastCollected: 2026-04-07T18:37:29.306Z
 estimatedTokens: 164
 keywords: [Learnings, Graph, learning, course, program, achievements, their, associations]
 ---
-
-# Learnings Graph (GET)
 
 > Get details about a learning course or program,
       achievements, and their associations.

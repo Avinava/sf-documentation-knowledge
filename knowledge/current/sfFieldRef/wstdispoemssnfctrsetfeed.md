@@ -5,12 +5,10 @@ topic: wstdispoemssnfctrsetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.619Z
+lastCollected: 2026-04-07T18:40:07.559Z
 estimatedTokens: 363
-keywords: [WstDispoEmssnFctrSetFeed, Feed, tracking, WstDispoEmssnFctrSet]
+keywords: [WstDispoEmssnFctrSetFeed, WstDispoEmssnFctrSet]
 ---
-
-# WstDispoEmssnFctrSetFeed
 
 > Feed tracking for WstDispoEmssnFctrSet.
 

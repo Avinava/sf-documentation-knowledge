@@ -5,12 +5,10 @@ topic: update-a-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.271Z
+lastCollected: 2026-04-07T18:40:24.718Z
 estimatedTokens: 376
-keywords: [Patch, Specify, unique, identifier, props, order, identify, updated, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Patch, Specify, unique, identifier, props, order, identify, updated, PHP]
 ---
-
-# Update a List
 
 > Use the Patch method to update an existing list. Specify a unique identifier in the props property in order to identify which list will be updated:
 

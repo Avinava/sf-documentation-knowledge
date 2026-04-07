@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-product
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.418Z
+lastCollected: 2026-04-07T18:37:12.291Z
 estimatedTokens: 303
 keywords: [Commerce, Webstore, Cart, Product, items, specific]
 ---
-
-# Commerce Webstore Cart Product
 
 > Get cart items of a specific product.
 

@@ -5,12 +5,10 @@ topic: csptrustedsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:38.668Z
+lastCollected: 2026-04-07T18:36:24.006Z
 estimatedTokens: 1816
-keywords: [CspTrustedSite, trusted, URL, component, specify, Content, Security, Policy, CSP, directives, permissions, directive, Lightning, components, third-party]
+keywords: [CspTrustedSite, trusted, URL, specify, Content, Security, Policy, CSP, directives, permissions, directive, Lightning, third-party, APIs, WebSocket, connections, resource, Permissions-Policy, HTTP, enabled, grants, browser, feature, API, 58.0, earlier, included, were, referred, Sites, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CspTrustedSite
 
 > Represents a trusted URL. For each CspTrustedSite
             component, you can specify Content Security Policy (CSP) directives and permissions

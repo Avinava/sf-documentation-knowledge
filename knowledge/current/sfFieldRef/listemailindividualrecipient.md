@@ -5,12 +5,10 @@ topic: listemailindividualrecipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.777Z
+lastCollected: 2026-04-07T18:39:46.328Z
 estimatedTokens: 370
-keywords: [ListEmailIndividualRecipient, email, Salesforce, recipient, record, link, Recipients, contacts, leads, campaign, members, one-to-many, relationship, ListEmail, API]
+keywords: [ListEmailIndividualRecipient, email, Salesforce, recipient, record, link, Recipients, contacts, leads, campaign, members, one-to-many, relationship, ListEmail, API, 44.0]
 ---
-
-# ListEmailIndividualRecipient
 
 > For a list email in Salesforce, represents a recipient. Each record
          represents a link from a list email to exactly one recipient for that list email.

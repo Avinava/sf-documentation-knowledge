@@ -5,12 +5,10 @@ topic: assigndraftarticletaskarticleid-assigneeid-instructions-duedate-sendemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.452Z
+lastCollected: 2026-04-07T18:37:53.730Z
 estimatedTokens: 129
 keywords: [assignDraftArticleTask, articleId, assigneeId, instructions, dueDate, sendEmailNotification, Assigns, review, task, draft, article]
 ---
-
-# assignDraftArticleTask(articleId, assigneeId, instructions, dueDate, sendEmailNotification)
 
 > Assigns a review task related to a draft article.
 

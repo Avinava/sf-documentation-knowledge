@@ -5,12 +5,10 @@ topic: net-zero-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.573Z
+lastCollected: 2026-04-07T18:38:17.148Z
 estimatedTokens: 10344
-keywords: [Net, Zero, Cloud, Standard, Objects, data, model, calculate, manage, carbon, footprints, organization]
+keywords: [Net, Zero, Cloud, Standard, model, calculate, manage, carbon, footprints, organization]
 ---
-
-# Net Zero Cloud Standard Objects
 
 > The Net Zero Cloud data model provides objects and fields
   to

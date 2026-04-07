@@ -5,12 +5,10 @@ topic: calculating-true-end-date-and-subscription-term
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.456Z
+lastCollected: 2026-04-07T18:37:27.459Z
 estimatedTokens: 261
-keywords: [Calculating, End, Date, Subscription, Term, JavaScript, Quote, Line, Calculator, plugin, calculates, stores, maximum, custom, Effective, sample, script, calculate, store]
+keywords: [Calculating, End, Date, Subscription, Term, JavaScript, Quote, Line, Calculator, plugin, calculates, stores, maximum, Effective, sample, script, calculate, store]
 ---
-
-# Calculating True End Date and Subscription Term
 
 > The sample JavaScript script can be used in the Quote Line Calculator to calculate
         values and store maximum values for the custom quote line fields True Effective End Date and

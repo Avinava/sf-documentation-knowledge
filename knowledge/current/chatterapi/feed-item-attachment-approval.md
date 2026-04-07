@@ -5,12 +5,10 @@ topic: feed-item-attachment-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.994Z
+lastCollected: 2026-04-07T18:37:19.098Z
 estimatedTokens: 285
-keywords: [Feed, Item, Attachment, Approval]
+keywords: [Item, Attachment, Approval]
 ---
-
-# Feed Item Attachment: Approval
 
 > An approval attachment.
 

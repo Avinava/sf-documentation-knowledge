@@ -5,12 +5,10 @@ topic: cgcloudpromotionrewardgroupc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.193Z
+lastCollected: 2026-04-07T18:39:14.589Z
 estimatedTokens: 1875
-keywords: [cgcloud__Promotion_Reward_Group__c, holds, reward, group, that's, assigned, promotion, API, version, 54.0, later, cgcloud, _Promotion, _Reward, _Group]
+keywords: [cgcloud__Promotion_Reward_Group__c, holds, reward, group, that's, assigned, promotion, API, 54.0, cgcloud, _Promotion, _Reward, _Group]
 ---
-
-# cgcloud__Promotion_Reward_Group__c
 
 > This object holds the details of the reward group that's assigned to
          a promotion. This object is available in API version 54.0 and later.

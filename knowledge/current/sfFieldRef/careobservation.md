@@ -5,12 +5,10 @@ topic: careobservation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:37.500Z
+lastCollected: 2026-04-07T18:39:31.865Z
 estimatedTokens: 986
-keywords: [CareObservation, observed, care, metrics, originating, external, systems, contain, biometric, data, API, version, 49.0, later]
+keywords: [CareObservation, observed, care, metrics, originating, external, systems, contain, biometric, API, 49.0]
 ---
-
-# CareObservation
 
 > Represents the observed values for care
       metrics originating from external systems that contain biometric data. This object is

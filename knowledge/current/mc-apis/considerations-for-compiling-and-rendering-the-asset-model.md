@@ -5,12 +5,10 @@ topic: considerations-for-compiling-and-rendering-the-asset-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.586Z
+lastCollected: 2026-04-07T18:40:15.689Z
 estimatedTokens: 862
-keywords: [Considerations, Compiling, Rendering, Asset, Model, Compile, context, channel, flattened, content, two, Standard, Sample, Full, Compiler]
+keywords: [Rendering, Considerations, Compiling, Asset, Model, Compile, context, channel, flattened, content, two, Standard, Sample, Full, Compiler, JavaScript]
 ---
-
-# Considerations for Compiling and Rendering the Asset Model
 
 > Compile an asset in the context of a channel to return a flattened string of the asset content. You can use two compiling types:
 

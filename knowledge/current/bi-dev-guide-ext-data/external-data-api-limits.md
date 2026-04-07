@@ -5,12 +5,10 @@ topic: external-data-api-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.528Z
+lastCollected: 2026-04-07T18:36:53.893Z
 estimatedTokens: 210
-keywords: [External, Data, API, Limits, working, consider, addition, general, CRM, Analytics]
+keywords: [External, API, Limits, working, consider, addition, general, CRM, Analytics]
 ---
-
-# External Data API Limits
 
 > When working with the External Data API, consider the following limits, in addition to
     the general CRM Analytics limits.

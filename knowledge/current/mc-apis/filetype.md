@@ -5,12 +5,10 @@ topic: filetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.876Z
+lastCollected: 2026-04-07T18:40:17.027Z
 estimatedTokens: 146
 keywords: [FileType, files, imports]
 ---
-
-# FileType
 
 > The FileType object contains the types of files that are supported for imports.
 

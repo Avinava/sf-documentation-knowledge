@@ -5,12 +5,10 @@ topic: track-changes-between-your-project-and-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.610Z
+lastCollected: 2026-04-07T18:40:08.569Z
 estimatedTokens: 1046
-keywords: [Track, Changes, Project, Org, source, tracking, local, scratch, sandbox, code]
+keywords: [Track, Changes, Project, Org, source, local, scratch, sandbox, code]
 ---
-
-# Track Changes Between Your Project and Org
 
 > Use source tracking to track the changes between your local project and a scratch org or
     sandbox when you create, update, or delete source code.

@@ -5,12 +5,10 @@ topic: considerations-for-querying-currency-data-using-soql
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.818Z
+lastCollected: 2026-04-07T18:40:09.758Z
 estimatedTokens: 428
-keywords: [Considerations, Querying, Currency, Data, SOQL, apply, query, Cloud, objects, lake, DLOs, model, DMOs]
+keywords: [Considerations, Querying, Currency, SOQL, apply, query, Cloud, lake, DLOs, model, DMOs]
 ---
-
-# Considerations for Querying Currency Data Using SOQL
 
 > These considerations apply when using SOQL to query Data Cloud objects, such as data
     lake objects (DLOs) and data model objects (DMOs).

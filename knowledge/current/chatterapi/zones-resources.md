@@ -5,12 +5,10 @@ topic: zones-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:29.405Z
+lastCollected: 2026-04-07T18:37:16.480Z
 estimatedTokens: 249
 keywords: [Zones, Resources, Chatter, Answers]
 ---
-
-# Zones Resources
 
 > Information about Chatter Answers zones.
 

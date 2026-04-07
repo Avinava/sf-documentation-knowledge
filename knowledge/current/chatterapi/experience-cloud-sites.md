@@ -5,12 +5,10 @@ topic: experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.877Z
+lastCollected: 2026-04-07T18:37:23.925Z
 estimatedTokens: 2017
-keywords: [Experience, Cloud, Sites, Salesforce, lets, branded, digital, experiences, share, collaborate, people, key, business, processes, customers]
+keywords: [Experience, Cloud, Sites, Salesforce, lets, branded, digital, experiences, share, collaborate, people, key, business, processes, customers, partners, employees, Whether, call, portal, help, forum, support, community, something, else, site, great, place, connect, folks, life]
 ---
-
-# Experience Cloud Sites
 
 > Salesforce
     Experience Cloud lets you create branded digital experiences to share information and

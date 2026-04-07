@@ -5,12 +5,10 @@ topic: deploymentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.344Z
+lastCollected: 2026-04-07T18:36:24.739Z
 estimatedTokens: 646
-keywords: [DeploymentSettings, settings, affecting, how, deployments, behave, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [DeploymentSettings, settings, affecting, how, deployments, behave, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DeploymentSettings
 
 > Represents the settings affecting how deployments behave in
       the org.

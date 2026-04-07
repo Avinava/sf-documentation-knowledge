@@ -5,12 +5,10 @@ topic: finservidentificationdocumentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.712Z
+lastCollected: 2026-04-07T18:37:37.512Z
 estimatedTokens: 1099
-keywords: [FinServ_IdentificationDocument__c, documents, verify, individual’s, identity, FinServ, _IdentificationDocument, Calls]
+keywords: [FinServ_IdentificationDocument__c, documents, verify, individual’s, identity, FinServ, _IdentificationDocument]
 ---
-
-# FinServ_IdentificationDocument__c
 
 > Represents information about documents used to verify an individual’s
          identity.

@@ -5,12 +5,10 @@ topic: record-feed-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.270Z
+lastCollected: 2026-04-07T18:37:10.945Z
 estimatedTokens: 2341
-keywords: [Record, Feed, Resource, group, person, file, post, items, another, user’s, URL, Elements]
+keywords: [Record, Resource, group, person, file, post, items, another, user’s, URL]
 ---
-
-# Record Feed Resource
 
 > The feed of the specified record, which could be a group,
       person, object, file and so on. You can post feed items to the record feed. You can get

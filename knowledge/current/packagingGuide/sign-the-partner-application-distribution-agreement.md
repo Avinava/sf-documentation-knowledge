@@ -5,12 +5,10 @@ topic: sign-the-partner-application-distribution-agreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.229Z
+lastCollected: 2026-04-07T18:38:46.082Z
 estimatedTokens: 254
 keywords: [Sign, Partner, Application, Distribution, Agreement, solution, uses, AppExchange, Checkout, payment, management, system, digitally, clickthrough]
 ---
-
-# Sign the Partner Application Distribution Agreement
 
 > If your solution uses AppExchange Checkout as its payment management system, you must
   read and digitally sign the clickthrough Partner Application Distribution Agreement.

@@ -5,12 +5,10 @@ topic: cgcloudpromotionrewardc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.180Z
+lastCollected: 2026-04-07T18:39:14.576Z
 estimatedTokens: 2244
-keywords: [cgcloud__Promotion_Reward__c, stores, rewards, assigned, reward, group, API, version, 54.0, later, cgcloud, _Promotion, _Reward, Calls, Associated]
+keywords: [cgcloud__Promotion_Reward__c, stores, rewards, assigned, reward, group, API, 54.0, cgcloud, _Promotion, _Reward]
 ---
-
-# cgcloud__Promotion_Reward__c
 
 > This object stores the details of rewards that are assigned to a
          reward group. This object is available in API version 54.0 and later.

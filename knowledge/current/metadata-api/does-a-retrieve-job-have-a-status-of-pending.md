@@ -5,12 +5,10 @@ topic: does-a-retrieve-job-have-a-status-of-pending
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.300Z
+lastCollected: 2026-04-07T18:36:24.692Z
 estimatedTokens: 159
-keywords: [Retrieve, Job, Status, Pending, initiate, several, concurrent, operations, org, Metadata, API, automatically, puts, jobs, queue]
+keywords: [Retrieve, Job, Status, Pending, initiate, several, concurrent, operations, org, Metadata, API, automatically, puts, jobs, queue, becomes, necessary, service, protection, it’s, active, completes, activates, InProgress, process, repeats, until, cleared]
 ---
-
-# Does a Retrieve Job Have a Status of Pending?
 
 > If you initiate several concurrent retrieve operations for a single
    org, Metadata API automatically puts some of those jobs in a queue, if that becomes necessary for

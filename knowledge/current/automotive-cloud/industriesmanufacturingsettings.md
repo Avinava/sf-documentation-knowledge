@@ -5,12 +5,10 @@ topic: industriesmanufacturingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.640Z
+lastCollected: 2026-04-07T18:36:52.013Z
 estimatedTokens: 980
-keywords: [IndustriesManufacturingSettings, settings, enabling, features, Partner, Lead, Management, Performance, Visit, Fleet, access, Advanced, Account, Forecasts, Manager]
+keywords: [IndustriesManufacturingSettings, settings, enabling, features, Partner, Lead, Management, Performance, Visit, Fleet, Advanced, Account, Forecasts, Manager, Targets, Manufacturing, Programs, Sales, Agreements, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesManufacturingSettings
 
 > Represents the settings for enabling
       features like Partner Lead Management, Partner Performance Management, Partner Visit

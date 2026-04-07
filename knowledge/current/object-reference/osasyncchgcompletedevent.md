@@ -5,12 +5,10 @@ topic: osasyncchgcompletedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.023Z
+lastCollected: 2026-04-07T18:38:37.308Z
 estimatedTokens: 1077
-keywords: [OSAsyncChgCompletedEvent, event, processing, credit, memo, invoices, entities, bulk, action, successfully, completed, exist, synchronous, APIs, API]
+keywords: [OSAsyncChgCompletedEvent, event, processing, credit, memo, invoices, entities, bulk, action, successfully, completed, exist, synchronous, APIs, API, 63.0]
 ---
-
-# OSAsyncChgCompletedEvent
 
 > An event that allows the processing of the credit memo, invoices, and other
          entities after a bulk action has successfully completed. The event provides all of the

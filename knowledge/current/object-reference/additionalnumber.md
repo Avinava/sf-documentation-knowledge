@@ -5,12 +5,10 @@ topic: additionalnumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.049Z
+lastCollected: 2026-04-07T18:38:25.009Z
 estimatedTokens: 356
-keywords: [AdditionalNumber, additional, number, call, center, visible, center's, phone, directory, Calls, Special, Access, Rules, Usage]
+keywords: [AdditionalNumber, additional, number, call, center, visible, center's, phone, directory]
 ---
-
-# AdditionalNumber
 
 > Represents an optional additional number for a call center. This
       additional number is visible in the call center's phone directory.

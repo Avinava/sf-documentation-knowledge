@@ -5,12 +5,10 @@ topic: get-prompt-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.122Z
+lastCollected: 2026-04-07T18:37:14.086Z
 estimatedTokens: 434
 keywords: [Prompt, Templates, filters]
 ---
-
-# Get Prompt Templates
 
 > Get a list of prompt templates based on specified filters.
 

@@ -5,12 +5,10 @@ topic: claimcoveragepaymentdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.880Z
+lastCollected: 2026-04-07T18:37:36.697Z
 estimatedTokens: 1691
-keywords: [ClaimCoveragePaymentDetail, claim, coverage, amount, paid, recipient, loss, expense, payment, API, version, 52.0, later, Calls, Associated]
+keywords: [ClaimCoveragePaymentDetail, claim, coverage, amount, paid, recipient, loss, expense, payment, API, 52.0]
 ---
-
-# ClaimCoveragePaymentDetail
 
 > Represents the claim coverage amount that must be paid to a recipient for a loss or an expense payment. This object is available in API version 52.0 and later.
 

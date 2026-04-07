@@ -5,12 +5,10 @@ topic: update-an-email-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.161Z
+lastCollected: 2026-04-07T18:40:24.627Z
 estimatedTokens: 460
-keywords: [Email, Message, Patch, Specify, unique, identifier, props, order, identify, updated, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Email, Message, Patch, Specify, unique, identifier, props, order, identify, updated, PHP]
 ---
-
-# Update an Email Message
 
 > Use the Patch method to update an existing email message. Specify a unique identifier in the props property in order to identify which email will be updated:
 

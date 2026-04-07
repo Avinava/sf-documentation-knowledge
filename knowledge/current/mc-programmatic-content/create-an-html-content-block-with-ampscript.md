@@ -5,12 +5,10 @@ topic: create-an-html-content-block-with-ampscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.749Z
+lastCollected: 2026-04-07T18:40:22.107Z
 estimatedTokens: 316
 keywords: [HTML, Content, Block, AMPScript, uses, Asset, include, email, message, process, requires, AssetType]
 ---
-
-# Create an HTML Content Block with AMPScript
 
 > This example uses AMPscript to create an Asset block with a type of HTML Content Block. You can include this content block in an email message. This process requires values for Name and AssetType.
 

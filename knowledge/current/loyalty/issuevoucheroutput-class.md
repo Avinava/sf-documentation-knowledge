@@ -5,13 +5,11 @@ topic: issuevoucheroutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.599Z
+lastCollected: 2026-04-07T18:38:06.803Z
 estimatedTokens: 551
 namespace: LoyaltyManagement
 keywords: [IssueVoucherOutput, voucher, issued, loyalty, program, member, getErrors, getVoucherId, isSuccess]
 ---
-
-# IssueVoucherOutput Class
 
 > Represents the voucher ID issued to a loyalty program
     member.

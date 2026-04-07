@@ -5,12 +5,10 @@ topic: asyncopsyndicationfeedfile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.340Z
+lastCollected: 2026-04-07T18:38:26.292Z
 estimatedTokens: 631
-keywords: [AsyncOpSyndicationFeedFile, sync, status, file-related, shared, external, channels, Facebook, Instagram, API, version, 64.0, later, Calls, Special]
+keywords: [AsyncOpSyndicationFeedFile, sync, status, file-related, shared, external, channels, Facebook, Instagram, API, 64.0]
 ---
-
-# AsyncOpSyndicationFeedFile
 
 > Represents the sync status of file-related information shared with external
          channels such as Facebook and Instagram. This object is available in API version  64.0

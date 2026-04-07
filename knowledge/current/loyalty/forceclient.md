@@ -5,12 +5,10 @@ topic: forceclient
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.352Z
+lastCollected: 2026-04-07T18:38:09.643Z
 estimatedTokens: 459
-keywords: [ForceClient, authentication, network, requests, uses, ForceAuthenticator, protocol, handle, access, tokens, Salesforce, API, Define, Manager, Instance]
+keywords: [ForceClient, authentication, network, requests, uses, ForceAuthenticator, protocol, handle, tokens, Salesforce, API, Define, Manager, Instance, Force, Authenticator, Fetch]
 ---
-
-# ForceClient
 
 > Create authentication network requests by using the ForceClient class. ForceClient uses
   ForceAuthenticator, which is a protocol that defines the required methods to handle access tokens

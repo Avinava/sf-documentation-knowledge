@@ -5,12 +5,10 @@ topic: omniprocessshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.835Z
+lastCollected: 2026-04-07T18:39:50.269Z
 estimatedTokens: 248
 keywords: [OmniProcessShare, Sharing, OmniProcess]
 ---
-
-# OmniProcessShare
 
 > Sharing for OmniProcess.
 

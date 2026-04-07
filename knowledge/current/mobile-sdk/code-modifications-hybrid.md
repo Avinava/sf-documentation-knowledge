@@ -5,12 +5,10 @@ topic: code-modifications-hybrid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.900Z
+lastCollected: 2026-04-07T18:40:27.121Z
 estimatedTokens: 151
 keywords: [Code, Modifications, Hybrid, project, number, Google, authorized, send, push, notifications, Android, device]
 ---
-
-# Code Modifications (Hybrid)
 
 > This value is the project number of
                         the Google project that is authorized to send push notifications to an

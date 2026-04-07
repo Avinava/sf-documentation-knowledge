@@ -5,12 +5,10 @@ topic: submit-a-triggered-send-definition-using-the-asynchronous-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.238Z
+lastCollected: 2026-04-07T18:40:20.474Z
 estimatedTokens: 1733
-keywords: [Submit, Triggered, Send, Definition, Asynchronous, API, regarding, submitting, definitions, Why, How, Sample, NET, Code, SOAP]
+keywords: [Submit, Triggered, Send, Definition, Asynchronous, API, regarding, submitting, definitions, Why, How, Sample, NET, Code, SOAP, Envelope, Retrieve, Status]
 ---
-
-# Submit a Triggered Send Definition Using the Asynchronous API
 
 > This page contains information  regarding submitting triggered send definitions using the asynchronous API.
 

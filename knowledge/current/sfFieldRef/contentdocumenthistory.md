@@ -5,12 +5,10 @@ topic: contentdocumenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.790Z
+lastCollected: 2026-04-07T18:39:35.237Z
 estimatedTokens: 272
-keywords: [ContentDocumentHistory, history, document, versions, 17.0, later]
+keywords: [ContentDocumentHistory, document, versions, 17.0]
 ---
-
-# ContentDocumentHistory
 
 > Represents the history of a document. This object is available in
   versions 17.0 and later.

@@ -5,12 +5,10 @@ topic: revenue-cloud-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.156Z
+lastCollected: 2026-04-07T18:35:47.182Z
 estimatedTokens: 1078
-keywords: [Revenue, Cloud, Deployment, clear, roadmap, accurately, efficiently, deploying, objects, metadata, development, staging, sandbox, production, orgs]
+keywords: [Revenue, Cloud, Deployment, clear, roadmap, accurately, efficiently, deploying, metadata, development, staging, sandbox, production, orgs, What’s, Included]
 ---
-
-# Revenue Cloud Deployment
 
 > This section provides a clear roadmap for accurately and efficiently deploying Revenue
     Cloud objects and metadata between development, staging, sandbox, and production

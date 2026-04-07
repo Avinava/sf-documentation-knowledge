@@ -5,12 +5,10 @@ topic: consent-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.403Z
+lastCollected: 2026-04-07T18:35:51.257Z
 estimatedTokens: 445
-keywords: [Consent, Management, Engagement, Mobile, SDK, offers, managed, solution, allowing, restricting, collection, event, data, application, responsible]
+keywords: [Consent, Management, Engagement, Mobile, SDK, offers, managed, solution, allowing, restricting, collection, event, application, responsible, presenting, device, owner, choice, opt, setting, Cloud, Module, accordingly, States, Granting, Revoking, Reading, State]
 ---
-
-# Consent Management
 
 > Engagement Mobile SDK offers a managed solution for allowing and restricting collection
     of event data. Your mobile application is responsible for presenting the device owner with the

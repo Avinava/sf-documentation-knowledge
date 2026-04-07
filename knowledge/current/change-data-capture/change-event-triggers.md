@@ -5,12 +5,10 @@ topic: change-event-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.883Z
+lastCollected: 2026-04-07T18:37:05.590Z
 estimatedTokens: 1031
-keywords: [Change, Event, Triggers, Because, events, platform, they, share, characteristics, subscription, Apex, messages, contain, record, additional]
+keywords: [Change, Event, Triggers, Because, events, platform, they, share, characteristics, subscription, Apex, messages, contain, record, additional, present, JSON, Message]
 ---
-
-# Change Event Triggers
 
 > Because change events are based on platform events, they share characteristics for
   subscription with Apex platform event triggers. Also, change event messages in triggers contain

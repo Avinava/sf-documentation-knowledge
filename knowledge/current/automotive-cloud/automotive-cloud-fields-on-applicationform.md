@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-applicationform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.945Z
+lastCollected: 2026-04-07T18:36:52.373Z
 estimatedTokens: 393
 keywords: [Automotive, Cloud, ApplicationForm, Standard, extend, represent, high-level, application, that's, submitted, financial, product]
 ---
-
-# Automotive Cloud Fields on ApplicationForm
 
 > Standard fields extend the ApplicationForm object for use in Automotive Cloud
          to represent high-level information of an application that's submitted for an automotive

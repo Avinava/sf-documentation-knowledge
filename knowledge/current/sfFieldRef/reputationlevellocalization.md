@@ -5,13 +5,11 @@ topic: reputationlevellocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.142Z
+lastCollected: 2026-04-07T18:39:59.824Z
 estimatedTokens: 246
 namespace: NamespacePrefix
 keywords: [ReputationLevelLocalization, translated, reputation, level, localization, levels, Experience, Cloud, sites]
 ---
-
-# ReputationLevelLocalization
 
 > Represents the translated value of a
 				reputation level. Reputation level localization only applies for reputation levels

@@ -5,12 +5,10 @@ topic: now
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.036Z
+lastCollected: 2026-04-07T18:37:00.559Z
 estimatedTokens: 214
-keywords: [now, current, datetime, UTC, function, foreach, statement, Usage, time, zone]
+keywords: [now, current, datetime, UTC, function, foreach, statement, time, zone]
 ---
-
-# now()
 
 > Returns the current datetime in UTC. This function is only valid in a foreach statement.
 

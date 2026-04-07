@@ -5,12 +5,10 @@ topic: swarm
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.256Z
+lastCollected: 2026-04-07T18:38:42.062Z
 estimatedTokens: 1351
-keywords: [Swarm, team, agents, Salesforce, users, Slack, channel, thread, dedicated, solving, problem, support, case, incident, sales]
+keywords: [Swarm, team, agents, Salesforce, users, Slack, channel, thread, dedicated, solving, problem, support, case, incident, sales, opportunity, change, API, 55.0]
 ---
-
-# Swarm
 
 > Represents a team of agents, Salesforce users, or Slack users in a Slack
          channel or thread dedicated to solving a problem. This problem can be related to a support

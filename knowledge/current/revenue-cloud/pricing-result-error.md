@@ -5,12 +5,10 @@ topic: pricing-result-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.623Z
+lastCollected: 2026-04-07T18:35:45.626Z
 estimatedTokens: 186
-keywords: [Pricing, Result, Error, Output, representation]
+keywords: [Pricing, Result, Error]
 ---
-
-# Pricing Result Error
 
 > Output representation of the pricing result error.
 

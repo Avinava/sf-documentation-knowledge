@@ -5,12 +5,10 @@ topic: watchlist-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.697Z
+lastCollected: 2026-04-07T18:36:55.082Z
 estimatedTokens: 157
-keywords: [Watchlist, Schedule, Input, Analytics]
+keywords: [Watchlist, Schedule, Analytics]
 ---
-
-# Watchlist Schedule Input
 
 > An Analytics watchlist schedule.
 

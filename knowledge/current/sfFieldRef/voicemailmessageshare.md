@@ -5,12 +5,10 @@ topic: voicemailmessageshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.249Z
+lastCollected: 2026-04-07T18:40:06.143Z
 estimatedTokens: 251
 keywords: [VoiceMailMessageShare, Sharing, VoiceMailMessage]
 ---
-
-# VoiceMailMessageShare
 
 > Sharing for VoiceMailMessage.
 

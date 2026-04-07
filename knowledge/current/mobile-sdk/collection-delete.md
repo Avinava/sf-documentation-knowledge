@@ -5,12 +5,10 @@ topic: collection-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.038Z
+lastCollected: 2026-04-07T18:40:27.267Z
 estimatedTokens: 272
-keywords: [Collection, Deletes, objects, match, IDs, iOS, Android, React, Native]
+keywords: [Android, Collection, Deletes, match, IDs, iOS, React, Native]
 ---
-
-# Collection Delete
 
 > Deletes the objects in a collection that match the given object IDs.
 

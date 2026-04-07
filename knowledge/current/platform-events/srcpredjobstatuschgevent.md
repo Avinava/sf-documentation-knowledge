@@ -5,12 +5,10 @@ topic: srcpredjobstatuschgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.929Z
+lastCollected: 2026-04-07T18:38:59.871Z
 estimatedTokens: 582
-keywords: [SrcPredJobStatusChgEvent, Notifies, subscribers, Data, Cloud, prediction, job’s, status, changed, API, version, 50.0, later, Calls, Subscription]
+keywords: [SrcPredJobStatusChgEvent, Notifies, subscribers, Cloud, prediction, job’s, status, changed, API, 50.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# SrcPredJobStatusChgEvent
 
 > Notifies subscribers that the Data Cloud prediction job’s status is
 			changed. This object is available in API version 50.0 and later.

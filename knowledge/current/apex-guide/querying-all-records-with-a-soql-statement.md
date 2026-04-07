@@ -5,12 +5,10 @@ topic: querying-all-records-with-a-soql-statement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.026Z
+lastCollected: 2026-04-07T18:36:19.249Z
 estimatedTokens: 121
 keywords: [Querying, Records, SOQL, Statement, ROWS, query, organization's, Recycle, Bin, cannot, keywords]
 ---
-
-# Querying All Records with a SOQL Statement
 
 > You can use ALL ROWS to query records in your
 organization's Recycle Bin. You cannot use the ALL ROWS

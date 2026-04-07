@@ -5,12 +5,10 @@ topic: asset-model-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.179Z
+lastCollected: 2026-04-07T18:40:15.209Z
 estimatedTokens: 414
-keywords: [Asset, Model, offers, comprehensive, yet, simple, representation, marketing, content, across, Cloud, easy, clouds, partners, clients]
+keywords: [Asset, Model, offers, comprehensive, yet, simple, marketing, content, across, Cloud, easy, clouds, partners, clients, build, their, own, supports, assets, emails, HTML, images, Items]
 ---
-
-# Asset Model Reference
 
 > The asset model offers a comprehensive yet simple representation of marketing content across Marketing Cloud. This model makes it easy for other clouds, partners, and clients to build their own content representation. The model supports all types of assets, such as emails, HTML, and images. Assets a
 

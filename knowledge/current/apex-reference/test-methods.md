@@ -5,12 +5,10 @@ topic: test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.092Z
+lastCollected: 2026-04-07T18:35:59.366Z
 estimatedTokens: 181
-keywords: [Test, creating, contexts, invoking, CanvasLifecycleHandler, mock, data]
+keywords: [Test, creating, contexts, invoking, CanvasLifecycleHandler, mock]
 ---
-
-# Test Methods
 
 > The Test class provides methods for creating test contexts
 and invoking your CanvasLifecycleHandler with mock data.

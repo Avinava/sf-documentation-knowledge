@@ -5,12 +5,10 @@ topic: get-sobject-quick-action-default-values-by-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.122Z
+lastCollected: 2026-04-07T18:36:21.359Z
 estimatedTokens: 236
-keywords: [sObject, Quick, Action, specific, context_id, resource, REST, API, version, 29.0, later]
+keywords: [sObject, Quick, Action, specific, context_id, resource, REST, API, 29.0]
 ---
-
-# Get sObject Quick Action Default Values by ID
 
 > Returns the default values for an action specific to the context_id
   object. This resource is available in REST API version 29.0 and later.

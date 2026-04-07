@@ -5,12 +5,10 @@ topic: care-program-enrollment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.289Z
+lastCollected: 2026-04-07T18:37:55.789Z
 estimatedTokens: 261
 keywords: [Care, Program, Enrollment, Result, containing, patient]
 ---
-
-# Care Program Enrollment Result
 
 > Result containing details about a single patient
     enrollment.

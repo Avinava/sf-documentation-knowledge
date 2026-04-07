@@ -5,12 +5,10 @@ topic: cgcloudproductconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.995Z
+lastCollected: 2026-04-07T18:39:14.391Z
 estimatedTokens: 1320
-keywords: [cgcloud__Product_Condition__c, uses, product-specific, conditions, specifying, product, prices, relevant, simple, order, calculation, API, version, 54.0, later]
+keywords: [cgcloud__Product_Condition__c, uses, product-specific, conditions, specifying, product, prices, relevant, simple, order, calculation, API, 54.0, cgcloud, _Product, _Condition]
 ---
-
-# cgcloud__Product_Condition__c
 
 > This object uses product-specific conditions. For example, specifying
          product prices that are relevant for simple order value calculation. This object is

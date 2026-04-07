@@ -5,12 +5,10 @@ topic: workplantemplateshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.097Z
+lastCollected: 2026-04-07T18:40:07.005Z
 estimatedTokens: 251
 keywords: [WorkPlanTemplateShare, Sharing, WorkPlanTemplate]
 ---
-
-# WorkPlanTemplateShare
 
 > Sharing for WorkPlanTemplate.
 

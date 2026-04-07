@@ -5,12 +5,10 @@ topic: actionable-segmentation-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.555Z
+lastCollected: 2026-04-07T18:36:51.907Z
 estimatedTokens: 256
-keywords: [Actionable, Segmentation, Automotive, Cloud, data, model, helps, segment, similar, client, profiles, curate, design, timely, personalized]
+keywords: [Actionable, Segmentation, Automotive, Cloud, model, helps, segment, similar, client, profiles, curate, design, timely, personalized, outreach, programs, Enable, creators, assign, sales, agents, service, Help, their, prospect, engagements, split, view, engage, build, trusted, relationships, prospects]
 ---
-
-# Actionable Segmentation in Automotive Cloud
 
 > The Actionable Segmentation data model helps segment similar client profiles and curate
   them to design timely and personalized client outreach programs. Enable list creators to set up

@@ -5,12 +5,10 @@ topic: referral-management-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.908Z
+lastCollected: 2026-04-07T18:37:42.058Z
 estimatedTokens: 106
-keywords: [Referral, Management, Output, representation, patient]
+keywords: [Referral, Management, patient]
 ---
-
-# Referral Management Output
 
 > Output representation of the request to create a patient
       referral.

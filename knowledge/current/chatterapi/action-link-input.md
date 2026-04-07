@@ -5,12 +5,10 @@ topic: action-link-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.409Z
+lastCollected: 2026-04-07T18:37:07.122Z
 estimatedTokens: 219
-keywords: [Action, Link, Input, desired, execution, status]
+keywords: [Action, Link, desired, execution, status]
 ---
-
-# Action Link Input
 
 > The desired execution status of an action link.
 

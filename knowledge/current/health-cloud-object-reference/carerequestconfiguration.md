@@ -5,12 +5,10 @@ topic: carerequestconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.572Z
+lastCollected: 2026-04-07T18:37:44.936Z
 estimatedTokens: 653
-keywords: [CareRequestConfiguration, record, service, drug, admission, associated, care, Parent, File, Suffix, Directory, Location, Version, CareRequestRecords, Declarative, SOAP, API, Calls, REST]
+keywords: [CareRequestConfiguration, CareRequestRecords, record, service, drug, admission, care, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, SOAP, API, REST]
 ---
-
-# CareRequestConfiguration
 
 > Represents the details for a record type such as service request, drug
          request, or admission request. One or more record types can be associated with a care

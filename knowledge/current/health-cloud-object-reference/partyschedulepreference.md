@@ -5,12 +5,10 @@ topic: partyschedulepreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.561Z
+lastCollected: 2026-04-07T18:37:43.727Z
 estimatedTokens: 828
-keywords: [PartySchedulePreference, schedule, preference, patient, their, home, healthcare, visit, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [PartySchedulePreference, schedule, preference, patient, their, home, healthcare, visit, API, 61.0]
 ---
-
-# PartySchedulePreference
 
 > Represents the schedule preference that a patient has for their home healthcare visit.
       This object is available in API version 61.0 and later.

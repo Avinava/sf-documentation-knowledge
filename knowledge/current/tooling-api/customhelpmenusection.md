@@ -5,12 +5,10 @@ topic: customhelpmenusection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.771Z
+lastCollected: 2026-04-07T18:36:32.224Z
 estimatedTokens: 808
-keywords: [CustomHelpMenuSection, Lightning, Experience, help, menu, admin, added, display, custom, org-specific, resources, API, version, 45.0, later]
+keywords: [CustomHelpMenuSection, Lightning, Experience, help, menu, admin, added, display, org-specific, resources, API, 45.0, SOAP, REST, HTTP]
 ---
-
-# CustomHelpMenuSection
 
 > Represents a section of the Lightning Experience help
             menu that the admin added to display custom, org-specific help resources. Available

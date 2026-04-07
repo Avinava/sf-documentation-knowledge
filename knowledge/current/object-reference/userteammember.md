@@ -5,12 +5,10 @@ topic: userteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.119Z
+lastCollected: 2026-04-07T18:38:43.892Z
 estimatedTokens: 490
-keywords: [UserTeamMember, User, opportunity, team, another, Calls, Special, Access, Rules, Usage]
+keywords: [UserTeamMember, User, opportunity, team, another]
 ---
-
-# UserTeamMember
 
 > Represents a single User on the
    default opportunity team of another User.

@@ -5,12 +5,10 @@ topic: connectapicommerceaddresscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.786Z
+lastCollected: 2026-04-07T18:36:08.149Z
 estimatedTokens: 270
 keywords: [ConnectApi.CommerceAddressCollection, collection, Commerce, addresses]
 ---
-
-# ConnectApi.CommerceAddressCollection
 
 > A collection of Commerce addresses.
 

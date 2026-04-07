@@ -5,12 +5,10 @@ topic: stories-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.695Z
+lastCollected: 2026-04-07T18:36:59.192Z
 estimatedTokens: 766
-keywords: [Stories, Resources, Einstein, Discovery, analyze, data, insights, show, happened, why, happen]
+keywords: [Stories, Resources, Einstein, Discovery, analyze, insights, show, happened, why, happen]
 ---
-
-# Stories Resources
 
 > Einstein Discovery stories are used to analyze your data. The insights from stories show you what happened in your data, why it 
   happened, and what could happen.

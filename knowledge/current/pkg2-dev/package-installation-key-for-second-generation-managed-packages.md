@@ -6,13 +6,10 @@ topic: package-installation-key-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.748Z
+lastCollected: 2026-04-07T18:38:56.279Z
 estimatedTokens: 374
-keywords: [Package, Installation, Key, Second-Generation, Managed, Packages, ensure, security, metadata, specify, creating, version, creators, provide, authorized]
+keywords: [Package, Installation, Key, Second-Generation, Managed, Packages, ensure, security, metadata, specify, creating, creators, provide, authorized, subscribers, they, install, installers, whether, installing, CLI, browser, step, ensures, disclosed, until, correct, supplied, Change, Check, Requires]
 ---
-
-# Package Installation Key for Second-Generation Managed
-    Packages
 
 > To ensure the security of the metadata in your second-generation managed package, you
     must specify an installation key when creating a package version. Package creators provide the

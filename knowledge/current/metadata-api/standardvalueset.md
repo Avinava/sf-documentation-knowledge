@@ -5,12 +5,10 @@ topic: standardvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.455Z
+lastCollected: 2026-04-07T18:36:29.877Z
 estimatedTokens: 689
-keywords: [StandardValueSet, standard, picklist, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
+keywords: [StandardValueSet, standard, picklist, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# StandardValueSet
 
 > Represents the set of values in a standard picklist
       field. This type extends the Metadata metadata type and inherits its fullName field.

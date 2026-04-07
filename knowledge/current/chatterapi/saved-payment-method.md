@@ -5,12 +5,10 @@ topic: saved-payment-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.104Z
+lastCollected: 2026-04-07T18:37:15.154Z
 estimatedTokens: 641
-keywords: [Saved, Payment, Deletes, updates, patches, associated, merchant, account, Special, Access, Rules]
+keywords: [Saved, Payment, Deletes, updates, patches, merchant, account]
 ---
-
-# Saved Payment Method
 
 > Deletes or updates (patches) a single saved payment method associated with a given
     merchant account.

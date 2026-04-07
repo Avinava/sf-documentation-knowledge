@@ -5,12 +5,10 @@ topic: addeventlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.737Z
+lastCollected: 2026-04-07T18:36:48.788Z
 estimatedTokens: 544
-keywords: [addEventListener, Adds, listener, custom, event, standard, fired, API, version, 25.0, later, 30.0, Arguments, Sample, Code]
+keywords: [Arguments, addEventListener, Adds, listener, event, standard, fired, API, 25.0, 30.0, Sample, Code, Later–Visualforce]
 ---
-
-# addEventListener()
 
 > Adds a listener for a custom event type or a standard
             event type when the event is fired. This method adds a listener for custom event types

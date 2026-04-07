@@ -5,12 +5,10 @@ topic: loanapplicationassetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.325Z
+lastCollected: 2026-04-07T18:39:46.816Z
 estimatedTokens: 253
 keywords: [LoanApplicationAssetShare, Sharing, LoanApplicationAsset]
 ---
-
-# LoanApplicationAssetShare
 
 > Sharing for LoanApplicationAsset.
 

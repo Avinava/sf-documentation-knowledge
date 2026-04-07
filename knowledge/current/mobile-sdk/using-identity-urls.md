@@ -5,12 +5,10 @@ topic: using-identity-urls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.539Z
+lastCollected: 2026-04-07T18:40:26.794Z
 estimatedTokens: 2111
 keywords: [Identity, URLs, URL, scope, https, login.salesforce.com, 00Dx0000000BV7z, 005x00000012Q9P]
 ---
-
-# Using Identity URLs
 
 > The Identity URL is returned in the id scope parameter.
    For example, https://login.salesforce.com/id/00Dx0000000BV7z/005x00000012Q9P.

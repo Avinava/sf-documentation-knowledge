@@ -5,12 +5,10 @@ topic: priceprotectionterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.980Z
+lastCollected: 2026-04-07T18:38:38.348Z
 estimatedTokens: 791
-keywords: [PriceProtectionTerm, configuration, record, rules, eligible, conditions, price, protection, API, version, 63.0, later, Calls]
+keywords: [PriceProtectionTerm, configuration, record, eligible, conditions, price, protection, API, 63.0]
 ---
-
-# PriceProtectionTerm
 
 > Represents a configuration record that defines the rules, types, and eligible
          conditions for price protection. This object is available in API version 63.0 and

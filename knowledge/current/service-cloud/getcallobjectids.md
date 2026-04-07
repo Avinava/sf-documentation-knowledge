@@ -5,12 +5,10 @@ topic: getcallobjectids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.227Z
+lastCollected: 2026-04-07T18:36:49.298Z
 estimatedTokens: 222
-keywords: [getCallObjectIds, any, active, call, IDs, order, they, arrived, there, aren’t, calls, computer-telephony, integration, CTI, it’s]
+keywords: [Arguments, getCallObjectIds, any, active, call, IDs, order, they, arrived, there, aren’t, computer-telephony, integration, CTI, it’s, API, 24.0, Sample, Code–Visualforce]
 ---
-
-# getCallObjectIds()
 
 > Returns any active call object IDs in the order in
             which they arrived or null if there aren’t any active calls. This method is for computer-telephony integration (CTI);

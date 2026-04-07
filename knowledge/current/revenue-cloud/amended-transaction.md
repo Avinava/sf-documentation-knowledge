@@ -5,12 +5,10 @@ topic: amended-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:01:57.807Z
+lastCollected: 2026-04-07T18:35:42.695Z
 estimatedTokens: 3036
-keywords: [Amended, Transaction, Understand, key, considerations, billing, schedule]
+keywords: [Considerations, Amended, Transaction, Understand, key, billing, schedule]
 ---
-
-# Amended Transaction
 
 > Understand the required values and key considerations before you create a billing
     schedule for an amended transaction.

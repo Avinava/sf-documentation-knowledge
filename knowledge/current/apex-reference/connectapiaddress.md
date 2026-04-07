@@ -5,12 +5,10 @@ topic: connectapiaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.795Z
+lastCollected: 2026-04-07T18:36:07.137Z
 estimatedTokens: 227
 keywords: [ConnectApi.Address, Address]
 ---
-
-# ConnectApi.Address
 
 > Address.
 

@@ -5,12 +5,10 @@ topic: refresh
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.271Z
+lastCollected: 2026-04-07T18:37:04.996Z
 estimatedTokens: 17
-keywords: [refresh, Refreshes, current, record, Arguments]
+keywords: [Arguments, refresh, Refreshes, current, record]
 ---
-
-# refresh
 
 > Refreshes the current record page.
 

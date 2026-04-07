@@ -5,12 +5,10 @@ topic: with-divisionfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.412Z
+lastCollected: 2026-04-07T18:40:10.384Z
 estimatedTokens: 199
 keywords: [DivisionFilter, clause, added, SOSL, query, filter, search, results, division, pre-filters, records, applying, filters, specify, rather]
 ---
-
-# WITH  DivisionFilter
 
 > WITH DivisionFilter is an optional clause that
   can be added to a SOSL query to filter all search results based on the division field. It

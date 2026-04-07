@@ -5,12 +5,10 @@ topic: quote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.249Z
+lastCollected: 2026-04-07T18:39:57.858Z
 estimatedTokens: 1233
-keywords: [Quote, record, showing, proposed, prices, products, services, API, version, 18.0, later]
+keywords: [Quote, record, showing, proposed, prices, products, services, API, 18.0]
 ---
-
-# Quote
 
 > Represents a quote, which is a record showing proposed prices for
 			products and services. Available in API version 18.0 and later.

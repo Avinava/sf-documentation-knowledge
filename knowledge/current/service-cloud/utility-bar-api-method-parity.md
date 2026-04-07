@@ -5,12 +5,10 @@ topic: utility-bar-api-method-parity
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:03.475Z
+lastCollected: 2026-04-07T18:36:49.600Z
 estimatedTokens: 681
-keywords: [Utility, Bar, API, Parity, Aura, Components, Lightning, Web, LWC, Experience, Salesforce, Classic, isn’t, Bars, Considerations]
+keywords: [Utility, Bar, API, Parity, Aura, Lightning, Web, LWC, Experience, Salesforce, Classic, isn’t, Bars, Considerations]
 ---
-
-# Utility Bar API Method Parity
 
 > The utility bar API provides methods for Aura Components and Lightning Web Components
         (LWC) in Lightning Experience only. Salesforce Classic isn’t supported.

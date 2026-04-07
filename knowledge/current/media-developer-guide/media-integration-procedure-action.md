@@ -5,12 +5,10 @@ topic: media-integration-procedure-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.764Z
+lastCollected: 2026-04-07T18:38:11.032Z
 estimatedTokens: 488
-keywords: [Media, Integration, Procedure, Action, Call, Salesforce, Flow, process, content, Special, Access, Rules, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Media, Integration, Procedure, Action, Call, Salesforce, Flow, process, content, REST, HTTP]
 ---
-
-# Media Integration Procedure Action
 
 > Call an Integration Procedure from a Salesforce Flow to process media
    content.

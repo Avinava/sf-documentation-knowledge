@@ -5,12 +5,10 @@ topic: about-package-conversion-and-package-migration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.684Z
+lastCollected: 2026-04-07T18:38:54.038Z
 estimatedTokens: 502
 keywords: [Package, Conversion, Migration, There, two, main, stages, involved, migrations, starts, ends]
 ---
-
-# About Package Conversion and Package Migration
 
 > There are two main stages involved in package migrations. It starts with package
     conversion and ends with package migration.

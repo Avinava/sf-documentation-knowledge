@@ -5,12 +5,10 @@ topic: operatinghours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.992Z
+lastCollected: 2026-04-07T18:39:20.778Z
 estimatedTokens: 620
-keywords: [OperatingHours, hours, service, territory, resource, account, work, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special]
+keywords: [OperatingHours, hours, service, territory, resource, account, work, Salesforce, Scheduler, API, 38.0]
 ---
-
-# OperatingHours
 
 > Represents the hours in which a service territory, service resource, or
 			account is available for work in Salesforce Scheduler. This object is available in

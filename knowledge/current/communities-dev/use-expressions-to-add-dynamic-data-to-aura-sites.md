@@ -5,12 +5,10 @@ topic: use-expressions-to-add-dynamic-data-to-aura-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.726Z
+lastCollected: 2026-04-07T18:37:26.668Z
 estimatedTokens: 605
-keywords: [Expressions, Add, Dynamic, Data, Aura, Sites, access, pass, component's, attributes]
+keywords: [Expressions, Add, Dynamic, Aura, Sites, pass, component's, attributes]
 ---
-
-# Use Expressions to Add Dynamic Data to Aura Sites
 
 > With expressions, you can access property values and other information to pass into a
     component's attributes.

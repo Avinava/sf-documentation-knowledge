@@ -5,12 +5,10 @@ topic: applying-slds-to-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.643Z
+lastCollected: 2026-04-07T18:38:52.935Z
 estimatedTokens: 272
-keywords: [Applying, SLDS, Visualforce, Pages, Lightning, Design, System, build, match, look, feel, Salesforce, mobile, app, tweaks]
+keywords: [Applying, SLDS, Visualforce, Pages, Lightning, Design, System, build, match, look, feel, Salesforce, mobile, app, tweaks, code, few, things, remember, part, uses, works, issue, Naming]
 ---
-
-# Applying SLDS to Visualforce Pages
 
 > You can use the Lightning Design System (SLDS) to build Visualforce pages that match the
     look and feel of the Salesforce mobile app. To use SLDS, it takes some tweaks in your code and a

@@ -5,12 +5,10 @@ topic: territory2modelhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.967Z
+lastCollected: 2026-04-07T18:38:42.687Z
 estimatedTokens: 322
-keywords: [Territory2ModelHistory, history, changes, territory, model, Sales, Territories, enabled, Calls, Usage]
+keywords: [Territory2ModelHistory, changes, territory, model, Sales, Territories, enabled]
 ---
-
-# Territory2ModelHistory
 
 > Represents the history of changes to the values in the fields on a
       territory model. Available if Sales Territories has been enabled.

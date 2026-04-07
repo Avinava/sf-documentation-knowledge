@@ -5,12 +5,10 @@ topic: commerce-webstore-order-summary-adjustments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.615Z
+lastCollected: 2026-04-07T18:37:12.500Z
 estimatedTokens: 168
 keywords: [Commerce, Webstore, Order, Summary, Adjustments]
 ---
-
-# Commerce Webstore Order Summary, Adjustments
 
 > Get adjustments for an order summary.
 

@@ -5,12 +5,10 @@ topic: accountrelationhipsharerule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.673Z
+lastCollected: 2026-04-07T18:37:35.294Z
 estimatedTokens: 378
-keywords: [AccountRelationhipShareRule, rule, determines, records, shared, how, they, account, relationship, shares, level, access, granted]
+keywords: [AccountRelationhipShareRule, rule, determines, records, shared, how, they, account, relationship, shares, level, granted]
 ---
-
-# AccountRelationhipShareRule
 
 > Represents the rule that determines which object records are shared, how they are
     shared, the account relationship type that shares the records, and the level of access granted

@@ -5,12 +5,10 @@ topic: get-global-account-product-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.527Z
+lastCollected: 2026-04-07T18:39:11.032Z
 estimatedTokens: 158
 keywords: [Account, Product, Retrieves, products, volumes, measures, customer]
 ---
-
-# Get Global Account Product List
 
 > Retrieves the account products from the global account product list
       based on the volumes and measures for the customer for the account.

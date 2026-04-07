@@ -5,12 +5,10 @@ topic: with-highlight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.425Z
+lastCollected: 2026-04-07T18:40:10.398Z
 estimatedTokens: 454
-keywords: [HIGHLIGHT, clause, added, SOSL, query, business, account, campaign, contact, custom, lead, opportunity, quote, user, searches]
+keywords: [HIGHLIGHT, clause, added, SOSL, query, business, account, campaign, contact, lead, opportunity, quote, user, searches, highlights, terms, matching, search, results, making, easier, identify, relevant, content, API, 39.0, 40.0, APIs]
 ---
-
-# WITH HIGHLIGHT
 
 > WITH HIGHLIGHT is an
             optional clause that can be added to a SOSL query for business account, campaign,

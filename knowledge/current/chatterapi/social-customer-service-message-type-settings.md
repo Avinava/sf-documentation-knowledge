@@ -5,12 +5,10 @@ topic: social-customer-service-message-type-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.819Z
+lastCollected: 2026-04-07T18:37:22.938Z
 estimatedTokens: 184
 keywords: [Social, Customer, Service, Message, Settings, behavior, specific]
 ---
-
-# Social Customer Service Message Type Settings
 
 > Social Customer Service settings related to the behavior of specific
       message types.

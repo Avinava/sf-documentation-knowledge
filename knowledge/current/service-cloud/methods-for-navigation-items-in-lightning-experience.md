@@ -5,12 +5,10 @@ topic: methods-for-navigation-items-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.185Z
+lastCollected: 2026-04-07T18:36:50.391Z
 estimatedTokens: 485
-keywords: [Navigation, Items, Lightning, Experience, console, apps, display, item, menu, lets, users, select, cases, contacts, accounts]
+keywords: [Navigation, Items, Lightning, Experience, console, apps, display, item, menu, lets, users, select, cases, contacts, accounts, Salesforce, admins, choose]
 ---
-
-# Methods for Navigation Items in Lightning Experience
 
 > Lightning console apps display an item menu that lets users select navigation items,
         such as cases, contacts, and accounts. Salesforce admins choose which navigation items to

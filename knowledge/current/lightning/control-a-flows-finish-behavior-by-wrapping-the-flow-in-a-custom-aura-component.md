@@ -6,13 +6,10 @@ topic: control-a-flows-finish-behavior-by-wrapping-the-flow-in-a-custom-aura-com
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.320Z
+lastCollected: 2026-04-07T18:38:03.335Z
 estimatedTokens: 438
-keywords: [Control, Flow’s, Finish, Behavior, Wrapping, Flow, Custom, Aura, Component, user, clicks, new, interview, starts, sees]
+keywords: [Control, Flow’s, Finish, Behavior, Wrapping, Flow, Aura, user, clicks, new, interview, starts, sees, screen, again, embedding, shape, happens, finishes, onstatuschange, action, redirect, another, force, navigateTo*, events, navigateToObjectHome, navigateToUrl]
 ---
-
-# Control a Flow’s Finish Behavior by Wrapping the Flow in a
-                        Custom Aura Component
 
 > By default, when a flow user clicks Finish, a new
                 interview starts and the user sees the first screen of the flow again. By embedding

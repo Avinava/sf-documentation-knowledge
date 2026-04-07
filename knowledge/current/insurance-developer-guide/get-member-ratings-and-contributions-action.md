@@ -5,12 +5,10 @@ topic: get-member-ratings-and-contributions-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.120Z
+lastCollected: 2026-04-07T18:37:48.848Z
 estimatedTokens: 523
-keywords: [Member, Ratings, Contributions, Action, standard, prorated, insurance, rates, group, census, members, their, selected, plan, coverages]
+keywords: [Inputs, Outputs, Member, Ratings, Contributions, Action, standard, prorated, insurance, rates, group, census, members, their, selected, plan, coverages, including, REST, HTTP]
 ---
-
-# Get Member Ratings and Contributions Action
 
 > Get standard and prorated insurance rates for the specified group census members and
     their selected plan coverages, including contributions.

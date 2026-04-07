@@ -5,12 +5,10 @@ topic: test-soap-envelopes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.414Z
+lastCollected: 2026-04-07T18:40:20.659Z
 estimatedTokens: 3102
-keywords: [Test, SOAP, Envelopes, testing, ensure, correct, coding, interact, Marketing, Cloud, API, Why, How, Simple, Sample]
+keywords: [Test, SOAP, Envelopes, testing, ensure, correct, coding, interact, Marketing, Cloud, API, Why, How, Simple, Sample, Describe, Call]
 ---
-
-# Test SOAP Envelopes
 
 > This page contains information  about testing SOAP envelopes. You can test SOAP envelopes to ensure correct coding before using them to interact with the Marketing Cloud SOAP API.
 

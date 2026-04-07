@@ -5,12 +5,10 @@ topic: gifts-transactions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.226Z
+lastCollected: 2026-04-07T18:37:29.321Z
 estimatedTokens: 354
-keywords: [Gifts, Transactions, POST, gift, new, matched, donor, transaction, designations, payment-instrument, metadata, API, supports, custom, account]
+keywords: [Gifts, Transactions, POST, gift, new, matched, donor, transaction, designations, payment-instrument, metadata, API, supports, account]
 ---
-
-# Gifts Transactions (POST)
 
 > Create gift transactions with related new or matched donor, optional transaction
     designations, and payment-instrument metadata. This API supports custom fields for the donor

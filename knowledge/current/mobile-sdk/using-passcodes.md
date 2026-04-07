@@ -5,12 +5,10 @@ topic: using-passcodes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.614Z
+lastCollected: 2026-04-07T18:40:25.014Z
 estimatedTokens: 922
-keywords: [Passcodes, customer-defined, tokens, provide, extra, layer, login, security, app, Optionally, Salesforce, administrator, connected, require, passcode]
+keywords: [Passcodes, customer-defined, tokens, provide, extra, layer, login, security, app, Optionally, Salesforce, administrator, connected, require, passcode, setting, requires, backgrounded, prompt, Mobile, Policies, Multi-User, Behavior, Lock, Screen, Disabling, Biometric, Identification]
 ---
-
-# Using Passcodes
 
 > Passcodes are customer-defined tokens that can provide an extra layer of login security for your
       app. Optionally, a Salesforce administrator can set the connected app to require a passcode

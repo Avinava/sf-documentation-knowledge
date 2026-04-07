@@ -5,12 +5,10 @@ topic: key-account-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.687Z
+lastCollected: 2026-04-07T18:37:57.205Z
 estimatedTokens: 1133
-keywords: [Key, Account, Management, Managers, KAM, strategically, manage, engage, their, customers, comprehensive, territory, plans, KAMs, clear]
+keywords: [Key, Account, Management, Managers, KAM, strategically, manage, engage, their, customers, comprehensive, territory, plans, KAMs, clear, business, objectives, track, progress, ensure, alignment, across, affiliate, levels, structured, approach, enhances, customer, targeting, accuracy, drives, effective, execution, strategic, initiatives, capabilities, creating, multiple, defining, specific, assigning, tasks, ensures, collaboration, strategies, achieve, desired, outcomes, Plan]
 ---
-
-# Key Account Management
 
 > Key Account Management enables Key Account Managers (KAM) to strategically manage and
   engage with their most important customers. By using comprehensive account and territory plans,

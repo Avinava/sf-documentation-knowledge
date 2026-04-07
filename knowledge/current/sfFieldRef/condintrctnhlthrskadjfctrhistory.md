@@ -5,12 +5,10 @@ topic: condintrctnhlthrskadjfctrhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.333Z
+lastCollected: 2026-04-07T18:39:34.790Z
 estimatedTokens: 288
-keywords: [CondIntrctnHlthRskAdjFctrHistory, History, tracked, CondIntrctnHlthRskAdjFctr]
+keywords: [CondIntrctnHlthRskAdjFctrHistory, tracked, CondIntrctnHlthRskAdjFctr]
 ---
-
-# CondIntrctnHlthRskAdjFctrHistory
 
 > History for tracked fields of CondIntrctnHlthRskAdjFctr.
 

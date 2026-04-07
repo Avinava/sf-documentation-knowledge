@@ -5,12 +5,10 @@ topic: configure-the-xmd-for-a-dataset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.219Z
+lastCollected: 2026-04-07T18:37:02.777Z
 estimatedTokens: 782
 keywords: [Configure, XMD, Dataset, file, override, appearance, add, actions, dimensions, charts, tables, separate]
 ---
-
-# Configure the XMD for a Dataset
 
 > You can configure the XMD file to override the default appearance of dataset
                   fields and field values and to add actions to dimensions in charts and tables.

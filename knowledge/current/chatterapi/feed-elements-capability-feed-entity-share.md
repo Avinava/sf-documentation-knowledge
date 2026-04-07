@@ -5,12 +5,10 @@ topic: feed-elements-capability-feed-entity-share
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.803Z
+lastCollected: 2026-04-07T18:37:13.762Z
 estimatedTokens: 203
-keywords: [Feed, Elements, Capability, Entity, Share, Access, element]
+keywords: [Capability, Entity, Share]
 ---
-
-# Feed Elements Capability, Feed Entity Share
 
 > Access the feed entity share capability of a feed
     element.

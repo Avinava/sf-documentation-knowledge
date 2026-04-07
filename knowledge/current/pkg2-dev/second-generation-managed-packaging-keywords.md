@@ -5,12 +5,10 @@ topic: second-generation-managed-packaging-keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.754Z
+lastCollected: 2026-04-07T18:38:56.285Z
 estimatedTokens: 476
-keywords: [Second-Generation, Managed, Packaging, Keywords, keyword, variable, specify, package, version, number]
+keywords: [Second-Generation, Managed, Packaging, Keywords, keyword, variable, specify, package, number]
 ---
-
-# Second-Generation Managed Packaging Keywords
 
 > A keyword is a variable that you can use to specify a package version
   number.

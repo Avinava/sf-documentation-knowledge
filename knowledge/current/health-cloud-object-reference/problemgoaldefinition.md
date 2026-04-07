@@ -5,12 +5,10 @@ topic: problemgoaldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.610Z
+lastCollected: 2026-04-07T18:37:47.183Z
 estimatedTokens: 795
-keywords: [ProblemGoalDefinition, junction, associated, goal, definition, parent, problem, records, assist, establishing, problem-goal, hierarchy, care, plans, instantiated]
+keywords: [ProblemGoalDefinition, junction, goal, definition, parent, problem, records, assist, establishing, problem-goal, hierarchy, care, plans, instantiated, PGI, library, multiple, definitions, children, parents, API, 57.0]
 ---
-
-# ProblemGoalDefinition
 
 > A junction object that associated a goal definition to its parent problem
          definition. These junction records assist in establishing the problem-goal hierarchy in

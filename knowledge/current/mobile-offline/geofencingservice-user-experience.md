@@ -5,12 +5,10 @@ topic: geofencingservice-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.315Z
+lastCollected: 2026-04-07T18:38:15.840Z
 estimatedTokens: 124
-keywords: [GeofencingService, User, Experience, component, deliver, any, desire, There, number, geofencing-based, features, suitable]
+keywords: [GeofencingService, User, Experience, deliver, any, desire, There, number, geofencing-based, features, suitable]
 ---
-
-# GeofencingService User Experience
 
 > Your component can deliver any user experience you desire. There are a number of
     geofencing-based features where GeofencingService might be suitable.

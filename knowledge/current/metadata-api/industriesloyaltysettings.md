@@ -5,12 +5,10 @@ topic: industriesloyaltysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:36.685Z
+lastCollected: 2026-04-07T18:36:21.920Z
 estimatedTokens: 2048
-keywords: [IndustriesLoyaltySettings, settings, enable, capabilities, Loyalty, Management, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [IndustriesLoyaltySettings, settings, enable, capabilities, Loyalty, Management, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# IndustriesLoyaltySettings
 
 > Represents the settings to enable
       capabilities of Loyalty Management.

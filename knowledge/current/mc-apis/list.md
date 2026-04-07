@@ -5,12 +5,10 @@ topic: list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.567Z
+lastCollected: 2026-04-07T18:40:17.750Z
 estimatedTokens: 775
 keywords: [marketing, subscribers, AutomatedEmail, customer, key, greater, Email, Manage, Welcome, permission, Cases, Items]
 ---
-
-# List
 
 > The List object is a marketing list of subscribers. To create or update a List where AutomatedEmail contains a customer key and has an ID greater than 0, you need the Email | Subscribers | List | Manage Welcome Email permission.
 

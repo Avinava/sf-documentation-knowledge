@@ -5,12 +5,10 @@ topic: grow-your-appexchange-business
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.168Z
+lastCollected: 2026-04-07T18:38:46.021Z
 estimatedTokens: 255
-keywords: [Grow, AppExchange, Business, listing, best, practices, Collect, leads, customers, interact, how, search, works, Optimize, boost]
+keywords: [Grow, AppExchange, Business, listing, best, practices, Collect, leads, customers, interact, how, search, works, Optimize, boost, ranking]
 ---
-
-# Grow Your AppExchange Business
 
 > Grow your AppExchange business with listing best practices. Collect leads when customers
   interact with your listing. Learn how AppExchange search works. Optimize your listing to boost its

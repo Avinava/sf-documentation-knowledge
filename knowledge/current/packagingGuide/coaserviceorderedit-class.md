@@ -5,12 +5,10 @@ topic: coaserviceorderedit-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.855Z
+lastCollected: 2026-04-07T18:38:45.680Z
 estimatedTokens: 485
-keywords: [COA_ServiceOrderEdit, Edit, orders, you’ve, submitted, Salesforce, Partner, Operations, COA, _ServiceOrderEdit, Usage]
+keywords: [COA_ServiceOrderEdit, Edit, orders, you’ve, submitted, Salesforce, Partner, Operations, COA, _ServiceOrderEdit]
 ---
-
-# COA_ServiceOrderEdit Class
 
 > Edit orders that you’ve submitted to Salesforce Partner Operations.
 

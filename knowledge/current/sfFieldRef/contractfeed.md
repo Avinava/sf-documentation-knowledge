@@ -5,12 +5,10 @@ topic: contractfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.078Z
+lastCollected: 2026-04-07T18:39:35.542Z
 estimatedTokens: 357
-keywords: [ContractFeed, Feed, tracking, Contract]
+keywords: [ContractFeed, Contract]
 ---
-
-# ContractFeed
 
 > Feed tracking for Contract.
 

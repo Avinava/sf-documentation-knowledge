@@ -5,12 +5,10 @@ topic: steps-for-implementing-mobile-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.014Z
+lastCollected: 2026-04-07T18:39:09.337Z
 estimatedTokens: 316
 keywords: [Steps, Implementing, Mobile, Notifications, implement, configure, participating, technologies]
 ---
-
-# Steps for Implementing Mobile Notifications
 
 > To implement mobile notifications, you configure each of the participating
     technologies.

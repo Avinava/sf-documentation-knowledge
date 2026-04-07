@@ -5,12 +5,10 @@ topic: cgcloudkpisetkpidefinitionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.476Z
+lastCollected: 2026-04-07T18:39:13.864Z
 estimatedTokens: 1618
-keywords: [cgcloud__KPI_Set_KPI_Definition__c, Junction, KPI, Definition, API, version, 54.0, later, cgcloud, _KPI, _Set, _Definition, Calls, Associated, Objects]
+keywords: [cgcloud__KPI_Set_KPI_Definition__c, Junction, KPI, Definition, API, 54.0, cgcloud, _KPI, _Set, _Definition]
 ---
-
-# cgcloud__KPI_Set_KPI_Definition__c
 
 > Junction object between KPI Definition and KPI Definition Set.
       This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: product-requirement-specification-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.430Z
+lastCollected: 2026-04-07T18:38:12.720Z
 estimatedTokens: 467
-keywords: [Product, Requirement, Specification, Output, representation, resulting, data]
+keywords: [Product, Requirement, Specification, resulting]
 ---
-
-# Product Requirement Specification Output
 
 > Output representation of the resulting Product Requirement Specification
     data.

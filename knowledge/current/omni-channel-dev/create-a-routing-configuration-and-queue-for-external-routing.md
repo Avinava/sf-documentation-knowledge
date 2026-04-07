@@ -6,13 +6,10 @@ topic: create-a-routing-configuration-and-queue-for-external-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.325Z
+lastCollected: 2026-04-07T18:38:45.157Z
 estimatedTokens: 245
-keywords: [Routing, Configuration, Queue, External, requires, separate, Omni-Channel, objects, define, behavior, assign, work, reps]
+keywords: [Routing, Configuration, Queue, External, requires, separate, Omni-Channel, define, behavior, assign, work, reps]
 ---
-
-# Create
-        a Routing Configuration and Queue for External Routing
 
 > External routing requires a separate routing configuration and queue in Omni-Channel.
         These separate objects define routing behavior and assign work to

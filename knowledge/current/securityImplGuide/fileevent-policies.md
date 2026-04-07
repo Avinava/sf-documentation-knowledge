@@ -5,12 +5,10 @@ topic: fileevent-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.421Z
+lastCollected: 2026-04-07T18:39:22.312Z
 estimatedTokens: 258
 keywords: [FileEvent, Policies, File, event, detect, file-related, events, user, downloads, containing, sensitive, Policy, Glance]
 ---
-
-# FileEvent Policies
 
 > File event policies detect file-related events, such as when a user downloads a file
   containing sensitive information.

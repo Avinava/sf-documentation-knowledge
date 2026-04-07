@@ -5,12 +5,10 @@ topic: android-application-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.420Z
+lastCollected: 2026-04-07T18:40:24.855Z
 estimatedTokens: 546
 keywords: [Android, Application, Structure, Native, apps, Mobile, SDK, typically, require, Authentication, App, Lifecycle, Classes, Resources, Activities]
 ---
-
-# Android Application Structure
 
 > Native Android apps that use Mobile SDK typically
       require:

@@ -5,12 +5,10 @@ topic: pending-review-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.225Z
+lastCollected: 2026-04-07T18:37:10.907Z
 estimatedTokens: 962
-keywords: [Pending, Review, Feed, Resources, containing, elements, comments, URL]
+keywords: [Pending, Review, Resources, containing, comments, URL]
 ---
-
-# Pending Review Feed Resources
 
 > The feed containing feed elements and comments that are pending review.
 

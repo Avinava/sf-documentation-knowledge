@@ -5,12 +5,10 @@ topic: connectapicancelallorderitemsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.402Z
+lastCollected: 2026-04-07T18:36:04.735Z
 estimatedTokens: 199
 keywords: [Cancellation, items, order]
 ---
-
-# ConnectApi.CancelAllOrderItemsInputRepresentation
 
 > Cancellation of all items in an order.
 

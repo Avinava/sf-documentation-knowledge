@@ -5,12 +5,10 @@ topic: post-authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.051Z
+lastCollected: 2026-04-07T18:37:15.100Z
 estimatedTokens: 651
 keywords: [Post, Authorization, Confirms, merchant, ready, capture, payment, pre-authorized, transaction]
 ---
-
-# Post Authorization
 
 > Confirms that the merchant is ready to capture payment of an
       existing pre-authorized transaction.

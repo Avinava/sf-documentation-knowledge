@@ -5,12 +5,10 @@ topic: order-summary-adjustment-aggregates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.313Z
+lastCollected: 2026-04-07T18:37:21.449Z
 estimatedTokens: 410
-keywords: [Order, Summary, Adjustment, Aggregates, Output, representation, associated]
+keywords: [Order, Summary, Adjustment, Aggregates]
 ---
-
-# Order Summary Adjustment Aggregates
 
 > Output
       representation of the adjustment aggregates associated with an order

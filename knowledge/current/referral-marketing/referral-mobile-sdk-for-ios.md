@@ -5,12 +5,10 @@ topic: referral-mobile-sdk-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.450Z
+lastCollected: 2026-04-07T18:39:09.764Z
 estimatedTokens: 482
 keywords: [Referral, Mobile, SDK, iOS, Clone, import, integrate, program, feature, app]
 ---
-
-# Referral Mobile SDK for iOS
 
 > Clone and import the Referral Mobile iOS SDK to integrate the referral program feature
     in a mobile app.

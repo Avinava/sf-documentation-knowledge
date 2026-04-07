@@ -5,12 +5,10 @@ topic: videocallparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.433Z
+lastCollected: 2026-04-07T18:37:57.959Z
 estimatedTokens: 1082
-keywords: [VideoCallParticipant, Standard, custom, extend, represent, participant, video, call, come, provider, Zoom, Salesforce, API, version, 65.0]
+keywords: [VideoCallParticipant, Standard, extend, represent, participant, video, call, come, provider, Zoom, Salesforce, API, 65.0]
 ---
-
-# VideoCallParticipant
 
 > Standard and custom fields extend the standard
             VideoCallParticipant object to represent a participant of a video

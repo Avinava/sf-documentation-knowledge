@@ -5,13 +5,11 @@ topic: commercecart-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.255Z
+lastCollected: 2026-04-07T18:35:57.592Z
 estimatedTokens: 27585
 namespace: ConnectApi
-keywords: [CommerceCart, Add, item, cart, specific, currency, addItemToCart, webstoreId, effectiveAccountId, activeCartOrId, cartItemInput, currencyIsoCode, API, Version, Guest]
+keywords: [CommerceCart, Add, item, cart, specific, currency, addItemToCart, webstoreId, effectiveAccountId, activeCartOrId, cartItemInput, currencyIsoCode, API, Guest, Users, Requires, Chatter, includeCartData, addItemsToCart, cartItems, applyCartCoupon, cartCouponInput, copyCartToWishlist, cartToWishlistInput, calculateCart, calculateCartInput, createCart, cloneCart, targetEffectiveAccountId, targetType, deleteCart, deleteCartCoupon, cartCouponId, deleteCartItem, cartItemId, deleteInventoryReservation, Pilot, evaluateShipping, cartEvaluateShippingInput, evaluateTaxes, cartEvaluateTaxInput, getCartCoupons, getCartItemPromotion, cartItemPromotionCollectionInput, getCartItems, pageParam, sortParam, pageSize, productFields, includePromotions, includeCoupons, pageNumber, getCartPromotions, getCartSummary, getOrCreateActiveCartSummary, getProductCartItem, productId, getProductCartItems, makeCartPrimary, preserveGuestCart, setCartMessagesVisibility, messageVisibility, updateCartItem, cartItem, upsertInventoryReservation, cartInventoryReservationInput]
 ---
-
-# CommerceCart Class
 
 > Add an item to a cart of a specific currency.
 

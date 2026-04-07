@@ -5,12 +5,10 @@ topic: expression-set-advanced-condition-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.854Z
+lastCollected: 2026-04-07T18:36:39.554Z
 estimatedTokens: 167
-keywords: [Expression, Advanced, Condition, Step, Output, representation]
+keywords: [Expression, Advanced, Condition, Step]
 ---
-
-# Expression Set Advanced Condition Step
 
 > Output representation of an advanced condition step in an expression
       set.

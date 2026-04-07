@@ -5,12 +5,10 @@ topic: activitytimingfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.924Z
+lastCollected: 2026-04-07T18:39:24.830Z
 estimatedTokens: 360
-keywords: [ActivityTimingFeed, Feed, tracking, ActivityTiming]
+keywords: [ActivityTimingFeed, ActivityTiming]
 ---
-
-# ActivityTimingFeed
 
 > Feed tracking for ActivityTiming.
 

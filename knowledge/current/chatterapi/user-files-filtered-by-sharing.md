@@ -5,12 +5,10 @@ topic: user-files-filtered-by-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.317Z
+lastCollected: 2026-04-07T18:37:16.382Z
 estimatedTokens: 317
 keywords: [User, Files, Filtered, Sharing, shared]
 ---
-
-# User Files, Filtered by Sharing
 
 > Get information about files that have been shared
             with the specified user.

@@ -5,12 +5,10 @@ topic: academicsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.455Z
+lastCollected: 2026-04-07T18:37:30.514Z
 estimatedTokens: 1041
-keywords: [AcademicSession, Records, course, offering, period, time, periods, institution’s, calendar, whether, semesters, quarters, trimesters, terms, API]
+keywords: [AcademicSession, Records, course, offering, period, time, periods, institution’s, calendar, whether, semesters, quarters, trimesters, terms, API, 57.0]
 ---
-
-# AcademicSession
 
 > Records course offering period. Specifies time periods based on an
          institution’s calendar whether that is semesters, quarters, trimesters, or other

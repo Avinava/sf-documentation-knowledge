@@ -5,12 +5,10 @@ topic: apexpagemessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.156Z
+lastCollected: 2026-04-07T18:38:50.426Z
 estimatedTokens: 440
-keywords: [apex, pageMessage, component, presenting, custom, messages, Salesforce, pattern, errors, warnings, severity, pageMessages, Attributes]
+keywords: [Attributes, apex, pageMessage, presenting, messages, Salesforce, pattern, errors, warnings, severity, pageMessages]
 ---
-
-# apex:pageMessage
 
 > This component should be used for presenting custom messages in the page using the Salesforce pattern for errors, warnings and other types of messages for a given severity. See also the pageMessages component.
 

@@ -5,12 +5,10 @@ topic: return-order-item-split-line-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.751Z
+lastCollected: 2026-04-07T18:37:22.865Z
 estimatedTokens: 236
-keywords: [Order, Item, Split, Line, Output, change, created, ReturnOrderLineItem, read-only, Items, API, partial, quantity, creates, new]
+keywords: [Order, Item, Split, Line, change, created, ReturnOrderLineItem, read-only, Items, API, partial, quantity, creates, new, “split”, hold, remaining, case, IDs, original, ReturnOrderLineItems]
 ---
-
-# Return Order Item Split Line Output
 
 > After a change order is created for a ReturnOrderLineItem, that
       ReturnOrderLineItem is read-only. If the Return Items API is used to return a partial

@@ -5,12 +5,10 @@ topic: business-objective-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.654Z
+lastCollected: 2026-04-07T18:37:07.373Z
 estimatedTokens: 126
-keywords: [Business, Objective, Input, goal, insights, associated]
+keywords: [Business, Objective, goal, insights]
 ---
-
-# Business Objective Details Input
 
 > A business objective, or goal, and insights associated with it.
 

@@ -5,12 +5,10 @@ topic: eventcondition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.977Z
+lastCollected: 2026-04-07T18:36:13.287Z
 estimatedTokens: 1019
-keywords: [EventCondition, implementing, specify, whether, take, action, certain, events, occur, transaction, security, policy, Apex, policies, created]
+keywords: [EventCondition, implementing, specify, whether, take, action, certain, events, occur, transaction, security, policy, Apex, policies, created, Real-Time, Event, Monitoring, evaluate, Implementation]
 ---
-
-# EventCondition Interface
 
 > Allows an implementing class to specify whether to take action when
       certain events occur based on a transaction security policy. This interface is only used for

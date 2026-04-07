@@ -5,12 +5,10 @@ topic: social-customer-service-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:35.814Z
+lastCollected: 2026-04-07T18:37:22.926Z
 estimatedTokens: 577
 keywords: [Social, Customer, Service, Configuration, current]
 ---
-
-# Social Customer Service Configuration
 
 > The current configuration of Social Customer
     Service.

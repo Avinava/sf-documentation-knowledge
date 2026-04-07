@@ -5,12 +5,10 @@ topic: alternative-payment-method-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.566Z
+lastCollected: 2026-04-07T18:37:16.644Z
 estimatedTokens: 249
-keywords: [Alternative, Payment, Output]
+keywords: [Alternative, Payment]
 ---
-
-# Alternative Payment Method Output
 
 > Alternative payment method details.
 

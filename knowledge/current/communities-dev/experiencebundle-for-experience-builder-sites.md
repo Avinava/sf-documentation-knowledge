@@ -5,12 +5,10 @@ topic: experiencebundle-for-experience-builder-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.811Z
+lastCollected: 2026-04-07T18:37:26.753Z
 estimatedTokens: 1978
-keywords: [ExperienceBundle, Experience, Builder, Sites, metadata, text-based, representations, different, settings, components, pages, branding, themes, site, Whether]
+keywords: [Limitations, ExperienceBundle, Experience, Builder, Sites, metadata, text-based, representations, different, settings, pages, branding, themes, site, Whether, it’s, own, org, you’re, consulting, partner, ISV, quickly, deploy, programmatically, preferred, development, tools, including, Salesforce, Extensions, Code, CLI, favorite, IDE, text, editor, Structure, Enable, Retrieve, API]
 ---
-
-# ExperienceBundle for Experience Builder Sites
 
 > The ExperienceBundle metadata type provides text-based representations of the different
     settings and components, such as pages, branding sets, and themes, that make up an Experience

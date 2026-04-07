@@ -5,13 +5,11 @@ topic: scontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.062Z
+lastCollected: 2026-04-07T18:40:00.819Z
 estimatedTokens: 391
 namespace: NamespacePrefix
-keywords: [Scontrol, custom, s-control, content, hosted, system, executed, client, application]
+keywords: [Scontrol, s-control, content, hosted, system, executed, client, application]
 ---
-
-# Scontrol
 
 > A custom s-control, which is custom content that is hosted by the
          system but executed by the client application.

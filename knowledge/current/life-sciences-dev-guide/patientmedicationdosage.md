@@ -5,12 +5,10 @@ topic: patientmedicationdosage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.358Z
+lastCollected: 2026-04-07T18:37:56.791Z
 estimatedTokens: 1864
-keywords: [PatientMedicationDosage, dosage, medication, primarily, add, MedicationStatement, MedicationRequest, MedicationDispense, records, API, version, 51.0, later, Calls, Usage]
+keywords: [PatientMedicationDosage, dosage, medication, primarily, add, MedicationStatement, MedicationRequest, MedicationDispense, records, API, 51.0]
 ---
-
-# PatientMedicationDosage
 
 > Represents dosage information for medication. This object is primarily
       used to add dosage information in MedicationStatement, MedicationRequest, or

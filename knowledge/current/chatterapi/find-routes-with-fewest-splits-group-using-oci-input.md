@@ -5,12 +5,10 @@ topic: find-routes-with-fewest-splits-group-using-oci-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.644Z
+lastCollected: 2026-04-07T18:37:08.486Z
 estimatedTokens: 484
-keywords: [Routes, Fewest, Splits, Group, OCI, Input, Data, calculate, inventory, availability, fulfillment, order, involving, number, shipment]
+keywords: [Routes, Fewest, Splits, Group, OCI, calculate, inventory, availability, fulfillment, order, involving, number, shipment]
 ---
-
-# Find Routes With Fewest Splits Group Using OCI Input
 
 > Data used to calculate inventory availability and fulfillment routes for one order
     involving the fewest number of shipment splits.

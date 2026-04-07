@@ -5,12 +5,10 @@ topic: transfer-points
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.536Z
+lastCollected: 2026-04-07T18:38:08.846Z
 estimatedTokens: 661
-keywords: [Transfer, Points, Transfers, source, loyalty, program, member, target, group, part, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Transfer, Points, Transfers, source, loyalty, program, member, target, group, part, REST, HTTP]
 ---
-
-# Transfer Points
 
 > Transfers points from a source loyalty program member to a target loyalty program
   member, or to a group that the member is a part of.

@@ -5,12 +5,10 @@ topic: accountleadtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.569Z
+lastCollected: 2026-04-07T18:37:06.274Z
 estimatedTokens: 937
-keywords: [AccountLeadTime, estimated, lead, time, account, specific, activity, business, indicate, needed, API, version, 65.0, later, Calls]
+keywords: [AccountLeadTime, estimated, lead, time, account, specific, activity, business, indicate, needed, API, 65.0]
 ---
-
-# AccountLeadTime
 
 > Represents the estimated lead time for an account for a specific activity
          type. The business specifies this value to indicate the time needed to complete the

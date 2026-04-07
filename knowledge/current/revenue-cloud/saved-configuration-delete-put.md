@@ -5,12 +5,10 @@ topic: saved-configuration-delete-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.951Z
+lastCollected: 2026-04-07T18:35:44.976Z
 estimatedTokens: 326
 keywords: [Saved, Configuration, PUT, record's]
 ---
-
-# Saved Configuration (DELETE, PUT)
 
 > Update or delete a record's saved configuration by using the configuration
     ID.

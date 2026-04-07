@@ -5,12 +5,10 @@ topic: blngcreditnotec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.911Z
+lastCollected: 2026-04-07T18:37:04.534Z
 estimatedTokens: 2206
-keywords: [blng__CreditNote__c, amount, that's, reduce, buyer, owes, seller, under, terms, earlier, invoice, credit, always, decreases, balance]
+keywords: [blng__CreditNote__c, amount, that's, reduce, buyer, owes, seller, under, terms, earlier, invoice, credit, always, decreases, balance, Users, apply, positive, notes, invoices, $10, reduces, $100, line, $90, blng, _CreditNote]
 ---
-
-# blng__CreditNote__c
 
 > Represents information about the amount that's used to reduce the amount that
          a buyer owes a seller under the terms of an earlier invoice. A credit note always decreases

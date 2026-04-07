@@ -5,12 +5,10 @@ topic: cgcloudvehiclewarehousec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.050Z
+lastCollected: 2026-04-07T18:39:15.566Z
 estimatedTokens: 1001
-keywords: [cgcloud__Vehicle_Warehouse__c, stores, relationship, vehicle, warehouse, API, version, 54.0, later, cgcloud, _Vehicle, _Warehouse, Calls, Associated, Objects]
+keywords: [cgcloud__Vehicle_Warehouse__c, stores, relationship, vehicle, warehouse, API, 54.0, cgcloud, _Vehicle, _Warehouse]
 ---
-
-# cgcloud__Vehicle_Warehouse__c
 
 > This object stores the relationship between a vehicle and a
          warehouse.  This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: save-group-census-members-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.237Z
+lastCollected: 2026-04-07T18:37:48.970Z
 estimatedTokens: 461
-keywords: [Save, Group, Census, Members, Data, Action, member, records, primary, IDs, dependent, groups, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Save, Group, Census, Members, Action, member, records, primary, IDs, dependent, groups, REST, HTTP]
 ---
-
-# Save Group Census Members Data Action
 
 > Create or update the group census member records for primary members, update the IDs
         of the dependent members, and create or update groups census member records for the

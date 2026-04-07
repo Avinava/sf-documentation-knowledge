@@ -5,12 +5,10 @@ topic: emailservicesfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.792Z
+lastCollected: 2026-04-07T18:36:25.244Z
 estimatedTokens: 2273
-keywords: [EmailServicesFunction, email, service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, EmailServicesAddress, Wildcard, Support]
+keywords: [EmailServicesFunction, EmailServicesAddress, email, service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---
-
-# EmailServicesFunction
 
 > Represents an email service.
     This type extends the Metadata metadata type and inherits its fullName field.

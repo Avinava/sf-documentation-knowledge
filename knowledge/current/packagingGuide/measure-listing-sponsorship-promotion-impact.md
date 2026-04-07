@@ -5,12 +5,10 @@ topic: measure-listing-sponsorship-promotion-impact
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.186Z
+lastCollected: 2026-04-07T18:38:47.155Z
 estimatedTokens: 1291
-keywords: [Measure, Listing, Sponsorship, Promotion, Impact, Partner, Co-Marketing, formula, provided, Salesforce, data, AppExchange, Marketplace, Analytics, compares]
+keywords: [Measure, Listing, Sponsorship, Promotion, Impact, Partner, Co-Marketing, formula, provided, Salesforce, AppExchange, Marketplace, Analytics, compares, visits, time, period, equivalent, apply, Home, Consultant, Business, Industry, Promotions]
 ---
-
-# Measure Listing Sponsorship Promotion Impact
 
 > To measure the impact of a Partner Co-Marketing Listing Sponsorship Promotion, use a
   formula provided by Salesforce and data from AppExchange Marketplace Analytics. The formula

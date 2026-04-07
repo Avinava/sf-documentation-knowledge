@@ -5,12 +5,10 @@ topic: webstoreinventorysource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.684Z
+lastCollected: 2026-04-07T18:40:06.583Z
 estimatedTokens: 499
-keywords: [WebStoreInventorySource, configure, inventory, source, webstore, API, version, 57.0, later]
+keywords: [WebStoreInventorySource, configure, inventory, source, webstore, API, 57.0]
 ---
-
-# WebStoreInventorySource
 
 > Used to configure the inventory source for a webstore. This object is
       available in API version 57.0 and later.

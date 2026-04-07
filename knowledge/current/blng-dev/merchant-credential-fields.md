@@ -5,12 +5,10 @@ topic: merchant-credential-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.556Z
+lastCollected: 2026-04-07T18:37:03.117Z
 estimatedTokens: 353
 keywords: [Merchant, Credential, payment, gateway, package, installs, Salesforce, Billing, provide, making, transaction]
 ---
-
-# Merchant Credential Fields
 
 > Each payment gateway package installs merchant credential fields on the Salesforce
   Billing payment gateway object. You can use these fields to  provide merchant information when

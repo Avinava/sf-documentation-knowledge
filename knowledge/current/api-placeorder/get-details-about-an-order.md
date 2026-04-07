@@ -5,12 +5,10 @@ topic: get-details-about-an-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.791Z
+lastCollected: 2026-04-07T18:36:51.076Z
 estimatedTokens: 126
-keywords: [Order, Here’s, resource, query, products, custom, records]
+keywords: [Order, Here’s, resource, query, products, records]
 ---
-
-# Get Details About an Order
 
 > Here’s an example of a GET request using the Order resource to query details about an order and its order
 products and custom object records.

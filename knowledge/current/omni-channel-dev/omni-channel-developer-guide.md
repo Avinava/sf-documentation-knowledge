@@ -5,12 +5,10 @@ topic: omni-channel-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.293Z
+lastCollected: 2026-04-07T18:38:45.127Z
 estimatedTokens: 661
-keywords: [Omni-Channel, Developer, Customize, records, console, integration, API, objects]
+keywords: [Omni-Channel, Developer, Customize, records, console, integration, API]
 ---
-
-# Omni-Channel Developer Guide
 
 > Customize your Omni-Channel records and console integration with Omni-Channel API
   objects and console methods.

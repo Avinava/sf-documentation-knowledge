@@ -5,12 +5,10 @@ topic: orderby-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.653Z
+lastCollected: 2026-04-07T18:36:37.189Z
 estimatedTokens: 137
-keywords: [OrderBy, Input, representation, clause, sort, actionable, members]
+keywords: [OrderBy, clause, sort, actionable, members]
 ---
-
-# OrderBy Input
 
 > Input representation of the
       orderBy

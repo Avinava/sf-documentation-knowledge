@@ -5,12 +5,10 @@ topic: choosing-a-partition-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.305Z
+lastCollected: 2026-04-07T18:38:58.119Z
 estimatedTokens: 804
-keywords: [Choosing, Partition, Key, event, choose, depends, whether, want, maximize, trigger’s, performance, order, processing, Best, Avoiding]
+keywords: [Choosing, Partition, Key, event, choose, depends, whether, want, maximize, trigger’s, performance, order, processing, Best, Avoiding, Record, Contention, Locking, In-Order]
 ---
-
-# Choosing a Partition Key
 
 > Which event field you choose for the partition key depends on whether you want to
   maximize the trigger’s performance or whether the order of event processing is

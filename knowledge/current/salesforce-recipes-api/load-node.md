@@ -5,12 +5,10 @@ topic: load-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.602Z
+lastCollected: 2026-04-07T18:39:19.284Z
 estimatedTokens: 109
 keywords: [Load, Node, recipe]
 ---
-
-# Load Node
 
 > A load node in a recipe.
 

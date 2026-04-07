@@ -5,12 +5,10 @@ topic: return-headers-of-app-menu-item-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.209Z
+lastCollected: 2026-04-07T18:36:20.422Z
 estimatedTokens: 134
-keywords: [App, Menu, Item, Requests, Salesforce, dropdown, items, URI, retrieve, content, resource, REST, API, version, 29.0]
+keywords: [App, Menu, Item, Requests, Salesforce, dropdown, items, URI, retrieve, content, resource, REST, API, 29.0]
 ---
-
-# Return Headers of App Menu Item Requests
 
 > Returns only the headers that are returned by a GET request for the Salesforce app
 		dropdown menu items. Use this URI to see the header values before you retrieve the content

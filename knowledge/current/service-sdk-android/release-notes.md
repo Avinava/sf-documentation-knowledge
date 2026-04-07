@@ -5,12 +5,10 @@ topic: release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:32.623Z
+lastCollected: 2026-04-07T18:40:27.775Z
 estimatedTokens: 302
 keywords: [Release, Notes, Check, new, features, known, issues, Android, Service, Chat, SDK]
 ---
-
-# Release Notes
 
 > Check out the new features and known issues for the Android Service Chat SDK
     .

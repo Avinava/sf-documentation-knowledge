@@ -5,12 +5,10 @@ topic: retrieve-the-results-of-an-import
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.689Z
+lastCollected: 2026-04-07T18:40:18.891Z
 estimatedTokens: 2942
-keywords: [Retrieve, Results, Import, retrieving, Why, How, Sample, NET, Code, Loop, Print, New, Output, Java, Axis]
+keywords: [Retrieve, Results, Import, retrieving, Why, How, Sample, NET, Code, Loop, Print, New, Java, Axis, 1.4, PHP, SOAP, Envelope, Items]
 ---
-
-# Retrieve the Results of an Import
 
 > This page contains information  about retrieving the results of an import.
 

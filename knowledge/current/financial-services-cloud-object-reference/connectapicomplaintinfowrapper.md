@@ -5,12 +5,10 @@ topic: connectapicomplaintinfowrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.509Z
+lastCollected: 2026-04-07T18:37:33.973Z
 estimatedTokens: 647
-keywords: [ConnectApi.ComplaintInfoWrapper, Input, representation, complaint]
+keywords: [ConnectApi.ComplaintInfoWrapper, complaint]
 ---
-
-# ConnectApi.ComplaintInfoWrapper
 
 > Input representation of the complaint details.
 

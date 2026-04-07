@@ -5,13 +5,11 @@ topic: cookie-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.455Z
+lastCollected: 2026-04-07T18:38:48.406Z
 estimatedTokens: 633
 namespace: System
-keywords: [Cookie, lets, access, cookies, Salesforce, site, Apex, Usage]
+keywords: [Cookie, lets, cookies, Salesforce, site, Apex]
 ---
-
-# Cookie Class
 
 > The Cookie class lets you access cookies for
         your Salesforce site using Apex.

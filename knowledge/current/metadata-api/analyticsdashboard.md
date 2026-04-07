@@ -5,12 +5,10 @@ topic: analyticsdashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:37.161Z
+lastCollected: 2026-04-07T18:36:22.413Z
 estimatedTokens: 3474
-keywords: [AnalyticsDashboard, Tableau, dashboard, Parent, File, Suffix, Directory, Location, Version, Limits, AnalyticsDashboardLayout, AnalyticsDashboardPage, AnalyticsDashPageWidget, AnalyticsDashboardWidget, AnalyticsAssetAction]
+keywords: [AnalyticsDashboard, Limits, AnalyticsDashboardLayout, AnalyticsDashboardPage, AnalyticsDashPageWidget, AnalyticsDashboardWidget, AnalyticsAssetAction, AnalyticsButtonWidgetDef, AnalyticsContainerWidgetDef, AnlytDshbrdWdgtDynamicTkn, AnalyticsFilterWidgetDef, AnalyticsImageWidgetDef, AnalyticsMetricWidgetDef, AnalyticsParamWidgetDef, AnalyticsTextWidgetDef, AnalyticsVizWidgetDef, Tableau, dashboard, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AnalyticsDashboard
 
 > Represents a Tableau Next dashboard.
 

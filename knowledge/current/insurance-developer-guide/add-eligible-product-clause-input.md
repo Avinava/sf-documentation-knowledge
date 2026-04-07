@@ -5,12 +5,10 @@ topic: add-eligible-product-clause-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.005Z
+lastCollected: 2026-04-07T18:37:50.936Z
 estimatedTokens: 234
-keywords: [Add, Eligible, Product, Clause, Input, representation, adding, clauses]
+keywords: [Add, Eligible, Product, Clause, adding, clauses]
 ---
-
-# Add Eligible Product Clause Input
 
 > Input representation for adding eligible product clauses.
 

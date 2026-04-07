@@ -5,12 +5,10 @@ topic: image-upload-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.398Z
+lastCollected: 2026-04-07T18:38:15.932Z
 estimatedTokens: 1927
-keywords: [Image, Upload, Here’s, quick, uploading, Salesforce, createContentDocumentAndVersion, adapter, technique, works, mobile, devices, whether, they’re, online]
+keywords: [Image, Upload, Here’s, quick, uploading, Salesforce, createContentDocumentAndVersion, adapter, technique, works, mobile, devices, whether, they’re, online, offline, apps, Import, Statements, State, Convenience, Handler, Functions, File, Where’s, “Offline”, Part]
 ---
-
-# Image Upload Example
 
 > Here’s a quick example of uploading an image to Salesforce using the createContentDocumentAndVersion adapter. This technique works
     on mobile devices, whether they’re online or offline. This technique works only in Salesforce

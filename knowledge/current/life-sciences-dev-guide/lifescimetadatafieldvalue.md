@@ -5,12 +5,10 @@ topic: lifescimetadatafieldvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.974Z
+lastCollected: 2026-04-07T18:38:00.760Z
 estimatedTokens: 1108
-keywords: [LifeSciMetadataFieldValue, Life, Sciences, configuration, record, child, LifeSciMetadataRecord, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [LifeSciMetadataFieldValue, Life, Sciences, configuration, record, child, LifeSciMetadataRecord, API, 65.0]
 ---
-
-# LifeSciMetadataFieldValue
 
 > Represents a field value for a Life Sciences configuration record. This
          object is a child of LifeSciMetadataRecord. This object is available in API version 65.0 and later.

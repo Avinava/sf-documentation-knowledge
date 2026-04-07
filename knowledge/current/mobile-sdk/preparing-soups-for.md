@@ -5,12 +5,10 @@ topic: preparing-soups-for
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.729Z
+lastCollected: 2026-04-07T18:40:26.959Z
 estimatedTokens: 1236
-keywords: [Preparing, Soups, exchange, Salesforce, cloud, typically, Mobile, Sync, synchronization, support, app, require, manage, special, soup]
+keywords: [Preparing, Soups, exchange, Salesforce, cloud, typically, Mobile, Sync, synchronization, support, app, require, manage, soup, “sync, up”, operations, Add, Behavior]
 ---
-
-# Preparing Soups for
 
 > Soups that exchange information with the Salesforce cloud typically use Mobile Sync for synchronization. To support
    Mobile Sync, most app types require you to

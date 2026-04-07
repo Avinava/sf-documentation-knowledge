@@ -5,12 +5,10 @@ topic: payment-method-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.087Z
+lastCollected: 2026-04-07T18:37:15.137Z
 estimatedTokens: 263
 keywords: [Payment, Retrieve, configured, Retrieved, Salesforce, Payments, merchant, accounts]
 ---
-
-# Payment Method Sets
 
 > Retrieve a list of all configured payment method
     sets.

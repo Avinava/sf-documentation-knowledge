@@ -5,12 +5,10 @@ topic: hpi-score-sync-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.899Z
+lastCollected: 2026-04-07T18:37:40.890Z
 estimatedTokens: 130
-keywords: [HPI, Score, Sync, Input, representation, synchronization]
+keywords: [HPI, Score, Sync, synchronization]
 ---
-
-# HPI Score Sync Input
 
 > Input representation of the score synchronization
     request.

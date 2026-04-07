@@ -5,12 +5,10 @@ topic: aura-component-versioning-for-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.419Z
+lastCollected: 2026-04-07T18:38:03.439Z
 estimatedTokens: 806
-keywords: [Aura, Component, Versioning, Managed, Packages, declare, dependencies, against, specific, revisions, installed, package]
+keywords: [Aura, Versioning, Managed, Packages, declare, dependencies, against, specific, revisions, installed, package]
 ---
-
-# Aura Component Versioning for Managed Packages
 
 > Aura component versioning enables you to declare dependencies against
    specific revisions of an installed managed

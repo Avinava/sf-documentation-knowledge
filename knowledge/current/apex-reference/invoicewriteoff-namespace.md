@@ -5,13 +5,11 @@ topic: invoicewriteoff-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.950Z
+lastCollected: 2026-04-07T18:36:15.260Z
 estimatedTokens: 373
 namespace: InvoiceWriteOff
 keywords: [InvoiceWriteOff, classes, credit, memos, total, charge, amount, invoice, write-off]
 ---
-
-# InvoiceWriteOff Namespace
 
 > The InvoiceWriteOff namespace provides classes to
         create credit memos with the total charge amount on the invoice as the write-off

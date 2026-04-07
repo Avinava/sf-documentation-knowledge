@@ -5,12 +5,10 @@ topic: connectapicancelclaimcoveragepaymentdetailrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.313Z
+lastCollected: 2026-04-07T18:37:50.148Z
 estimatedTokens: 140
-keywords: [Output, representation, cancel, claim, coverage, payment, detail, record]
+keywords: [cancel, claim, coverage, payment, detail, record]
 ---
-
-# ConnectApi.CancelClaimCoveragePaymentDetailRep
 
 > Output representation for the details of the cancel claim coverage payment detail
   record.

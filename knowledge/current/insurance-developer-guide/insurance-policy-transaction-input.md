@@ -5,12 +5,10 @@ topic: insurance-policy-transaction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.163Z
+lastCollected: 2026-04-07T18:37:51.116Z
 estimatedTokens: 84
-keywords: [Insurance, Policy, Transaction, Input, representation]
+keywords: [Insurance, Policy, Transaction]
 ---
-
-# Insurance Policy Transaction Input
 
 > Input representation of the insurance policy transaction details.
 

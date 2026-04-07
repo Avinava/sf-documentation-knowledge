@@ -5,12 +5,10 @@ topic: getting-the-size-of-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.229Z
+lastCollected: 2026-04-07T18:38:57.001Z
 estimatedTokens: 125
 keywords: [Getting, Size, Canvas, App, code, how, call, console.log, function, outputs, frame, sizes, change, resize]
 ---
-
-# Getting the Size of a Canvas App
 
 > The following code example shows how to call the size method to get the size of the canvas
 app. The console.log function

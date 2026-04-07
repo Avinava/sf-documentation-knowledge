@@ -5,12 +5,10 @@ topic: apexcommandbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.323Z
+lastCollected: 2026-04-07T18:38:49.419Z
 estimatedTokens: 1765
-keywords: [apex, commandButton, button, rendered, HTML, input, element, attribute, submit, reset, image, depending, <apex, commandButton>, tag's]
+keywords: [Attributes, apex, commandButton, button, rendered, HTML, attribute, submit, reset, image, depending, <apex, commandButton>, tag's]
 ---
-
-# apex:commandButton
 
 > A button that is rendered as an HTML input element with the type
 		attribute set to submit, reset, or image, depending on the <apex:commandButton> tag's

@@ -5,12 +5,10 @@ topic: fhir-address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.728Z
+lastCollected: 2026-04-07T18:37:40.709Z
 estimatedTokens: 327
-keywords: [FHIR, Address, Input, representation]
+keywords: [FHIR, Address]
 ---
-
-# FHIR Address Input
 
 > Input representation for the Address FHIR object.
 

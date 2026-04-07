@@ -5,12 +5,10 @@ topic: job-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.786Z
+lastCollected: 2026-04-07T18:36:57.298Z
 estimatedTokens: 204
 keywords: [Job, Event, audit, events, recipe, start, dataflow, cancelled]
 ---
-
-# Job Event
 
 > An audit events for a job, like recipe start or dataflow cancelled.
 

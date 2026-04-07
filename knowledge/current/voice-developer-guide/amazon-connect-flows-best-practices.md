@@ -5,12 +5,10 @@ topic: amazon-connect-flows-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:17.613Z
+lastCollected: 2026-04-07T18:40:12.594Z
 estimatedTokens: 446
-keywords: [Amazon, Connect, Flows, Best, Practices, Follow, ensure, configured, optimally, correctly, environment, isn’t, voice, resiliency, may]
+keywords: [Amazon, Connect, Flows, Best, Practices, Follow, ensure, configured, optimally, correctly, environment, isn’t, voice, resiliency, may, experience, missing]
 ---
-
-# Amazon Connect Flows Best Practices
 
 > Follow these best practices to ensure your Amazon Connect flows are configured
     optimally and correctly. If your environment isn’t set up correctly for voice resiliency, you

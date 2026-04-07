@@ -5,12 +5,10 @@ topic: smart-data-discovery-feature-importance-metric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.060Z
+lastCollected: 2026-04-07T18:36:59.550Z
 estimatedTokens: 104
-keywords: [Smart, Data, Discovery, Feature, Importance, Metric, Einstein, model]
+keywords: [Smart, Discovery, Feature, Importance, Metric, Einstein, model]
 ---
-
-# Smart Data Discovery Feature Importance Metric
 
 > An importance metric for a Einstein Discovery model.
 

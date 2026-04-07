@@ -5,12 +5,10 @@ topic: multi-factor-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.519Z
+lastCollected: 2026-04-07T18:39:22.415Z
 estimatedTokens: 440
-keywords: [Multi-Factor, Authentication, MFA, secure, requires, users, prove, their, identity, supplying, two, pieces, evidence, factors, they]
+keywords: [Multi-Factor, Authentication, MFA, secure, requires, users, prove, their, identity, supplying, two, pieces, evidence, factors, they, log, factor, something, user, knows, username, password, include, authenticator, app, security, key, tying, multiple, much, harder, common, threats, phishing, attacks, account, takeovers, succeed]
 ---
-
-# Multi-Factor Authentication
 
 > Multi-factor authentication (MFA) is a secure authentication method that requires
                 users to prove their identity by supplying two or more pieces of evidence (or

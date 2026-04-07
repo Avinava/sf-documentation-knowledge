@@ -5,12 +5,10 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.432Z
+lastCollected: 2026-04-07T18:37:31.574Z
 estimatedTokens: 223
-keywords: [Location, facility, building, room, region, API, version, 57.0, later, Calls]
+keywords: [Location, facility, building, room, region, API, 57.0]
 ---
-
-# Location
 
 > Represents details about a facility, building, room, or region. This
       object is available in API version 57.0 and later.

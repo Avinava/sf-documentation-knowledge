@@ -5,12 +5,10 @@ topic: objecttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.340Z
+lastCollected: 2026-04-07T18:38:52.650Z
 estimatedTokens: 417
-keywords: [$ObjectType, merge, referencing, standard, custom, objects, Accounts, Cases, Opportunities, their, Usage]
+keywords: [$ObjectType, merge, referencing, standard, Accounts, Cases, Opportunities, their]
 ---
-
-# $ObjectType
 
 > A global merge field type to use when referencing standard or custom objects (such as
   Accounts, Cases, or Opportunities) and the values of their fields.

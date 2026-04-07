@@ -5,12 +5,10 @@ topic: authorization-integration-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.827Z
+lastCollected: 2026-04-07T18:35:54.919Z
 estimatedTokens: 377
-keywords: [Authorization, Integration, User, access, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, authenticate, via, standard]
+keywords: [Authorization, Integration, User, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, authenticate, via, standard, OAuth, 2.0, flow]
 ---
-
-# Authorization: Integration User
 
 > To access the Agentforce IT Service Configuration Management Database (CMDB) GraphQL
     API, you must authenticate using an Integration User via a standard OAuth 2.0 flow.

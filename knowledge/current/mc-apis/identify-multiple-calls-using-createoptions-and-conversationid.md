@@ -5,12 +5,10 @@ topic: identify-multiple-calls-using-createoptions-and-conversationid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.241Z
+lastCollected: 2026-04-07T18:40:15.290Z
 estimatedTokens: 77
-keywords: [Identify, Multiple, Calls, CreateOptions, ConversationID, external, unique, identifier, typically, don't, specify, include, RequestID, API, processes]
+keywords: [Identify, Multiple, CreateOptions, ConversationID, external, unique, identifier, typically, don't, specify, include, RequestID, API, processes, order, PHP, SOAP, Envelope]
 ---
-
-# Identify Multiple Calls Using CreateOptions and ConversationID
 
 > A request can have an external unique identifier, typically the ConversationID. If you don't specify a ConversationID, include the RequestID. The API processes the calls in the order specified.
 

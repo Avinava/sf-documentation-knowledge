@@ -5,12 +5,10 @@ topic: context-definition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.324Z
+lastCollected: 2026-04-07T18:36:38.985Z
 estimatedTokens: 177
-keywords: [Context, Definition, Output, representation]
+keywords: [Context, Definition]
 ---
-
-# Context Definition Interface
 
 > Output representation of the details of the context definition interface.
 

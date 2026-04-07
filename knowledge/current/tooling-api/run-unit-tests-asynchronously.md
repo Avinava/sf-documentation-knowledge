@@ -5,12 +5,10 @@ topic: run-unit-tests-asynchronously
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.918Z
+lastCollected: 2026-04-07T18:36:31.314Z
 estimatedTokens: 2025
-keywords: [Run, Unit, Tests, Asynchronously, Test, Runner, API, execute, Apex, flow, version, 30.0, later, automated, 65.0]
+keywords: [Run, Unit, Tests, Asynchronously, Test, Runner, API, execute, Apex, flow, 30.0, automated, 65.0]
 ---
-
-# Run Unit Tests Asynchronously
 
 > Use the Test Runner API to execute Apex and flow tests asynchronously. Available for
   Apex tests in API version 30.0 and later. Available for automated flow tests in API version 65.0

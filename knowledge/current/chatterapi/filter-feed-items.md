@@ -5,12 +5,10 @@ topic: filter-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.088Z
+lastCollected: 2026-04-07T18:37:10.782Z
 estimatedTokens: 1326
-keywords: [Filter, Feed, Items, context, user’s, news, whose, parent, key, prefix, Flat]
+keywords: [Filter, Items, context, user’s, news, whose, parent, key, prefix, Flat]
 ---
-
-# Filter Feed Items
 
 > Get feed items from the context user’s news feed whose parent has
       the specified key prefix.

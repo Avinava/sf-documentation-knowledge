@@ -5,12 +5,10 @@ topic: product-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.986Z
+lastCollected: 2026-04-07T18:37:22.096Z
 estimatedTokens: 65
-keywords: [Product, Products, data, expand]
+keywords: [Product, Products, expand]
 ---
-
-# Product List
 
 > Products with product data and with expand details.
 

@@ -5,12 +5,10 @@ topic: userprovisioningrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:52.054Z
+lastCollected: 2026-04-07T18:38:43.828Z
 estimatedTokens: 2670
-keywords: [UserProvisioningRequest, individual, provisioning, user, account, third-party, service, system, another, Salesforce, organization, API, version, 33.0, later]
+keywords: [UserProvisioningRequest, individual, provisioning, user, account, third-party, service, system, another, Salesforce, organization, API, 33.0, State, Managing, Failures]
 ---
-
-# UserProvisioningRequest
 
 > Represents an individual provisioning request to create, update, or
 			delete a single user account in a third-party service system (or another Salesforce

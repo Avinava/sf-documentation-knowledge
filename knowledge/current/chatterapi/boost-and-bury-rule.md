@@ -5,12 +5,10 @@ topic: boost-and-bury-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.841Z
+lastCollected: 2026-04-07T18:37:22.955Z
 estimatedTokens: 293
 keywords: [Boost, Bury, Rule]
 ---
-
-# Boost and Bury Rule
 
 > Boost and bury rule information.
 

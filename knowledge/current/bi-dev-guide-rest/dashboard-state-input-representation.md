@@ -5,13 +5,11 @@ topic: dashboard-state-input-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.253Z
+lastCollected: 2026-04-07T18:36:55.704Z
 estimatedTokens: 21707
 namespace: String
-keywords: [Dashboard, State, Input, Representation, DashboardStateInputRepresentation, resource, representations, API, POST, PATCH, requests, REST, endpoints, their, own]
+keywords: [ParameterItemInputRepresentation, ForecastingStepInputRepresentation, HierarchyStepInputRepresentation, HierarchyStepQueryInputRepresentation, InputStepInputRepresentation, InputStepValuesInputRepresentation, ForecastingStepQueryInputRepresentation, InputWidgetParametersInputRepresentation, InteractionClearActionInputRepresentation, InteractionFlowActionInputRepresentation, InteractionNavigateActionInputRepresentation, InteractionResetActionInputRepresentation, ColumnParametersBarInputRepresentation, ColumnParametersImageInputRepresentation, ColumnParametersTextInputRepresentation, TextStyleInputRepresentation, TooltipStyleInputRepresentation, HeaderPropertiesInputRepresentation, TableColumnHeaderTooltipInputRepresentation, Dashboard, State, DashboardStateInputRepresentation, resource, representations, API, POST, PATCH, requests, REST, endpoints, their, own, describe, bodies, Dashboard​State​Input​Representation, Filter​Item​Input​Representation, Grid​Layout​Style​Input​Representation, Aggregate​Step​Input​Representation, Apex​Step​Input​Representation, Apex​Step​Query​Input​Representation, Cdp​Step​Input​Representation, Direct​Report​Step​Input​Representation, Grain​Step​Input​Representation, Lens​Step​Input​Representation, Multi​Step​Input​Representation, Sql​Step​Input​Representation, Saql​Step​Input​Representation, Soql​Step​Input​Representation, Static​Flex​Step​Input​Representation, Static​Step​Input​Representation, Flex​Metadata​Step​Input​Representation, Legacy​Step​Input​Representation, Step​Input​Representation, Column​Input​Representation, Grid​Layout​Input​Representation, Grid​Layout​Page​Input​Representation, Grid​Layout​Widget​Input​Representation, Layout​Input​Representation, Layout​Page​Input​Representation, Dashboard​Widget​Input​Representation, Image​Parameters​Input​Representation, Widget​Parameters​Input​Representation, Widget​Onboarding​Input​Representation, Widget​Position​Input​Representation, InteractionRepresentation​Input, InteractionAction​InputRepresentation, Filter​Panel​Title​Input​Representation, Text​Input​Representation, Filter​Style​Input​Representation, Tooltip​Input​Representation, Column​Properties​Input​Representation, Custom​Bulk​Action​Input​Representation, Dynamic​Data​Input​Representation, Dynamic​Value​Input​Representation, Tooltip​Content​Input​Representation, Tooltip​Widget​Input​Representation, Tooltip​Source​Input​Representation]
 ---
-
-# Dashboard State Input Representation
 
 > This page contains the reference for the DashboardStateInputRepresentation resource and
     all the representations that make up the dashboard state for API POST and PATCH requests. The

@@ -5,12 +5,10 @@ topic: associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.340Z
+lastCollected: 2026-04-07T18:39:09.656Z
 estimatedTokens: 640
-keywords: [Associated, Objects, Referral, Marketing, B2B, Management, standard, along, their]
+keywords: [Referral, Marketing, B2B, Management, standard, along, their]
 ---
-
-# Associated Objects
 
 > This section provides a list of objects associated with Referral Marketing and B2B
     Referral Management standard objects, along with their standard fields.

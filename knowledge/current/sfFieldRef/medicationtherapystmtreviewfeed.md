@@ -5,12 +5,10 @@ topic: medicationtherapystmtreviewfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.113Z
+lastCollected: 2026-04-07T18:39:48.570Z
 estimatedTokens: 366
-keywords: [MedicationTherapyStmtReviewFeed, Feed, tracking, MedicationTherapyStmtReview]
+keywords: [MedicationTherapyStmtReviewFeed, MedicationTherapyStmtReview]
 ---
-
-# MedicationTherapyStmtReviewFeed
 
 > Feed tracking for MedicationTherapyStmtReview.
 

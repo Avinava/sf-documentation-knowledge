@@ -5,12 +5,10 @@ topic: integrationproviderdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.080Z
+lastCollected: 2026-04-07T18:36:42.769Z
 estimatedTokens: 1484
-keywords: [IntegrationProviderDef, integration, definition, associated, service, process, Stores, data, Industries, Send, Apex, Async, External, invocable, actions]
+keywords: [IntegrationProviderDef, IntegrationProviderAttr, integration, definition, service, process, Stores, Industries, Send, Apex, Async, External, invocable, actions, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# IntegrationProviderDef
 
 > Represents an integration definition associated with a service process. Stores data for
 		the Industries: Send Apex Async Request and Industries: Send External Async Request

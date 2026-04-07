@@ -5,12 +5,10 @@ topic: configure-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:13.748Z
+lastCollected: 2026-04-07T18:40:08.709Z
 estimatedTokens: 859
-keywords: [Configure, Unlocked, Packages, include, entry, sfdx-project.json, file, package, specify, alias, version, dependencies, features, org, settings]
+keywords: [Configure, Unlocked, Packages, include, entry, sfdx-project.json, file, package, specify, alias, dependencies, features, org, settings, command, line, change, options, specifying, installation, key, add]
 ---
-
-# Configure Unlocked Packages
 
 > You include an entry in the sfdx-project.json file for each
         package to specify its alias, version details, dependencies, features, and org settings.

@@ -5,12 +5,10 @@ topic: financialdealproductshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.054Z
+lastCollected: 2026-04-07T18:39:40.663Z
 estimatedTokens: 162
 keywords: [FinancialDealProductShare, Sharing, FinancialDealProduct]
 ---
-
-# FinancialDealProductShare
 
 > Sharing for FinancialDealProduct.
 

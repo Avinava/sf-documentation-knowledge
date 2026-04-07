@@ -5,12 +5,10 @@ topic: omni-channel-components-for-the-salesforce-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.390Z
+lastCollected: 2026-04-07T18:38:45.216Z
 estimatedTokens: 273
-keywords: [Omni-Channel, Components, Salesforce, Console, lets, call, center, route, any, incoming, work, item, qualified, agents]
+keywords: [Omni-Channel, Salesforce, Console, lets, call, center, route, any, incoming, work, item, qualified, agents]
 ---
-
-# Omni-Channel Components for the Salesforce Console
 
 > Omni-Channel lets your call center route any type of incoming work item to the most
     qualified, available agents.

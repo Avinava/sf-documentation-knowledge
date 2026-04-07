@@ -5,12 +5,10 @@ topic: loanapplicantaddresshistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.072Z
+lastCollected: 2026-04-07T18:39:46.628Z
 estimatedTokens: 270
-keywords: [LoanApplicantAddressHistory, History, tracked, LoanApplicantAddress]
+keywords: [LoanApplicantAddressHistory, tracked, LoanApplicantAddress]
 ---
-
-# LoanApplicantAddressHistory
 
 > History for tracked fields of LoanApplicantAddress.
 

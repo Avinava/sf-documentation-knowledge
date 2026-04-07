@@ -5,12 +5,10 @@ topic: contractgroupplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.089Z
+lastCollected: 2026-04-07T18:37:36.867Z
 estimatedTokens: 1672
-keywords: [ContractGroupPlan, plans, part, contract, insurance, carrier, group, corresponds, included, quote, Line, Items, Child, API, version]
+keywords: [ContractGroupPlan, plans, part, contract, insurance, carrier, group, corresponds, included, quote, Line, Items, Child, API, 55.0]
 ---
-
-# ContractGroupPlan
 
 > Represents a set of plans as part of the contract between the insurance carrier and the group. This set of plans corresponds to the plans included in the quote (as Quote Line Items). Child object of Contract. This object is available in API version 55.0 and later.
 

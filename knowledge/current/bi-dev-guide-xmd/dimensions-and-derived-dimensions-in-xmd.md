@@ -5,12 +5,10 @@ topic: dimensions-and-derived-dimensions-in-xmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.278Z
+lastCollected: 2026-04-07T18:37:02.843Z
 estimatedTokens: 1503
-keywords: [Dimensions, Derived, XMD, add, action, menu, dimension, Analytics, lens, dashboard, charts, tables, Users, open, record]
+keywords: [Dimensions, Derived, XMD, add, action, menu, dimension, Analytics, lens, dashboard, charts, tables, Users, open, record, perform, record-level, actions]
 ---
-
-# Dimensions and Derived Dimensions in XMD
 
 > You can add an action menu to a dimension value in Analytics lens and dashboard
     charts and tables. Users can then open a record and perform record-level actions. The available

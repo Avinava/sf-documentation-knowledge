@@ -5,12 +5,10 @@ topic: homevisitpatientquotedetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.338Z
+lastCollected: 2026-04-07T18:37:40.314Z
 estimatedTokens: 1258
-keywords: [HomeVisitPatientQuoteDetails, home, visit, storing, quote, data, Additional, Quotes, flow, Budget, screen, Agent, review, Agentforce]
+keywords: [HomeVisitPatientQuoteDetails, home, visit, storing, quote, Additional, Quotes, flow, Budget, screen, Agent, review, Agentforce]
 ---
-
-# HomeVisitPatientQuoteDetails Class
 
 > Represents the home visit details for storing quote related data. This class is used
         in the Additional Quotes flow in Budget screen and Agent Quote review flow in

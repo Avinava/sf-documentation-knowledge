@@ -5,12 +5,10 @@ topic: decision-table-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.422Z
+lastCollected: 2026-04-07T18:36:41.114Z
 estimatedTokens: 661
-keywords: [Decision, Tooling, API, Objects, activate, tables, Dataset, links, created, associated]
+keywords: [Decision, Tooling, API, activate, tables, Dataset, links, created]
 ---
-
-# Decision Table Tooling API Objects
 
 > Use Tooling API objects to create, update, and activate decision tables. Dataset links
     can also be created and associated with decision tables using Tooling API objects.

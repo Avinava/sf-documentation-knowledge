@@ -5,12 +5,10 @@ topic: product2datatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.229Z
+lastCollected: 2026-04-07T18:38:38.625Z
 estimatedTokens: 524
-keywords: [Product2DataTranslation, translated, data, stored, Product2, record’s, API, version, 45.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [Product2DataTranslation, translated, stored, Product2, record’s, API, 45.0]
 ---
-
-# Product2DataTranslation
 
 > Represents the translated values of the data stored within a Product2 record’s fields. This object is available in API version 45.0 and
     later.

@@ -5,12 +5,10 @@ topic: gri-standards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.862Z
+lastCollected: 2026-04-07T18:38:17.405Z
 estimatedTokens: 7350
-keywords: [GRI, Standards, help, organizations, achieve, sustainable, development​, reporting, range, economic, environmental, social, impacts, Energy, Water]
+keywords: [GRI, Standards, help, organizations, achieve, sustainable, development​, reporting, range, economic, environmental, social, impacts, Energy, Water, Effluents, Emissions, Waste, Employment, Training, Education, Diversity, Equal, Opportunity, Non-discrimination, Policy, Customer, Health, Safety, Marketing, Labeling, Privacy, General, Disclosures, Performance, Anti-corruption, Tax]
 ---
-
-# GRI Standards
 
 > The GRI standards help organizations to achieve sustainable development​ by
         reporting on a range of economic, environmental and social impacts.

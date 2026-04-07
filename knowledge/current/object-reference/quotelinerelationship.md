@@ -5,12 +5,10 @@ topic: quotelinerelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:48.091Z
+lastCollected: 2026-04-07T18:38:39.660Z
 estimatedTokens: 1532
-keywords: [QuoteLineRelationship, relationship, quote, line, items, bundle, it’s, immutable, can’t, edited, removed, API, version, 58.0, later]
+keywords: [QuoteLineRelationship, relationship, quote, line, items, bundle, it’s, immutable, can’t, edited, removed, API, 58.0]
 ---
-
-# QuoteLineRelationship
 
 > Describes the relationship between quote line items, such as items in a bundle. When you create a QuoteLineRelationship object, it’s immutable: it can’t be edited or
 		removed. This object is available in API version 58.0 and later.

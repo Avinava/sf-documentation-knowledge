@@ -5,12 +5,10 @@ topic: worktypesvcterrschdpriofeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.554Z
+lastCollected: 2026-04-07T18:40:07.497Z
 estimatedTokens: 392
-keywords: [WorkTypeSvcTerrSchdPrioFeed, Feed, tracking, WorkTypeSvcTerrSchdPrio]
+keywords: [WorkTypeSvcTerrSchdPrioFeed, WorkTypeSvcTerrSchdPrio]
 ---
-
-# WorkTypeSvcTerrSchdPrioFeed
 
 > Feed tracking for WorkTypeSvcTerrSchdPrio.
 

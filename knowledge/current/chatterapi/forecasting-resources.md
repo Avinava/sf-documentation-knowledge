@@ -5,12 +5,10 @@ topic: forecasting-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.099Z
+lastCollected: 2026-04-07T18:37:14.065Z
 estimatedTokens: 284
-keywords: [Forecasting, Resources, jump-to, managers, hierarchy, user, access, forecasts]
+keywords: [Forecasting, Resources, jump-to, managers, hierarchy, user, forecasts]
 ---
-
-# Forecasting Resources
 
 > Get jump-to information, managers in a hierarchy, and user access to
         forecasts.

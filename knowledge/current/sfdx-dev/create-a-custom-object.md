@@ -5,12 +5,10 @@ topic: create-a-custom-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.095Z
+lastCollected: 2026-04-07T18:40:08.047Z
 estimatedTokens: 530
-keywords: [Custom, Salesforce, CLI, generate, metadata, files, new, objects, local, project]
+keywords: [Salesforce, CLI, generate, metadata, files, new, local, project]
 ---
-
-# Create a Custom Object
 
 > You can use Salesforce CLI to generate the metadata files for new custom objects in your local Salesforce DX project.
 

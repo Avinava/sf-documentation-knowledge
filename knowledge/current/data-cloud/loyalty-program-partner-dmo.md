@@ -5,12 +5,10 @@ topic: loyalty-program-partner-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.993Z
+lastCollected: 2026-04-07T18:35:54.021Z
 estimatedTokens: 874
-keywords: [Loyalty, Program, Partner, DMO, Data, Cloud, model, companies, offerings, API, Category, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Loyalty, Program, Partner, DMO, Cloud, model, companies, offerings, API, Primary, Subject, Area, Key]
 ---
-
-# Loyalty Program Partner DMO
 
 > The Loyalty Program Partner DMO is a Data Cloud data model object (DMO)
       for companies with loyalty program offerings.

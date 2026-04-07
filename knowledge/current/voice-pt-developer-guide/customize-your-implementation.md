@@ -5,12 +5,10 @@ topic: customize-your-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.483Z
+lastCollected: 2026-04-07T18:40:13.415Z
 estimatedTokens: 707
 keywords: [Customize, Implementation, setup, add, vendor]
 ---
-
-# Customize Your Implementation
 
 > Use this information to customize the setup and add vendor value to your
   implementation.

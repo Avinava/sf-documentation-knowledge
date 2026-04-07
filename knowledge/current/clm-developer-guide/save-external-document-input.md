@@ -5,12 +5,10 @@ topic: save-external-document-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.786Z
+lastCollected: 2026-04-07T18:37:24.764Z
 estimatedTokens: 110
-keywords: [Save, External, Document, Input, representation, salesforce]
+keywords: [Save, External, Document, salesforce]
 ---
-
-# Save External Document Input
 
 > Input representation to save external document to
     salesforce.

@@ -5,12 +5,10 @@ topic: warrantylifecyclemgmtsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.080Z
+lastCollected: 2026-04-07T18:36:27.601Z
 estimatedTokens: 494
-keywords: [WarrantyLifeCycleMgmtSettings, settings, control, Warranty, Administration, org, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [WarrantyLifeCycleMgmtSettings, settings, control, Warranty, Administration, org, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# WarrantyLifeCycleMgmtSettings
 
 > Represents settings that control the Warranty Administration for your
       org.

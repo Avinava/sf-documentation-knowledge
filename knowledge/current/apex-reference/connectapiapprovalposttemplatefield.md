@@ -5,12 +5,10 @@ topic: connectapiapprovalposttemplatefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.861Z
+lastCollected: 2026-04-07T18:36:07.202Z
 estimatedTokens: 157
 keywords: [ConnectApi.ApprovalPostTemplateField, Approval, post, template]
 ---
-
-# ConnectApi.ApprovalPostTemplateField
 
 > Approval post template field.
 

@@ -5,12 +5,10 @@ topic: adding-remote-site-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.897Z
+lastCollected: 2026-04-07T18:36:16.117Z
 estimatedTokens: 335
-keywords: [Adding, Remote, Site, Settings, any, Apex, callout, call, external, registered, fails, Salesforce, prevents, calls, unauthorized]
+keywords: [Adding, Remote, Site, Settings, any, Apex, callout, call, external, registered, fails, Salesforce, prevents, unauthorized, network, addresses]
 ---
-
-# Adding Remote Site Settings
 
 > Before any Apex callout can call an external site, that site
         must be registered in the Remote Site Settings page, or the callout fails. Salesforce

@@ -5,12 +5,10 @@ topic: accountuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.065Z
+lastCollected: 2026-04-07T18:40:15.088Z
 estimatedTokens: 1168
 keywords: [AccountUser, individual, user, account, Items]
 ---
-
-# AccountUser
 
 > The AccountUser object is an individual user within an account.
 

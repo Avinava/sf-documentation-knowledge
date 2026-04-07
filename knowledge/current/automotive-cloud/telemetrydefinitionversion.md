@@ -5,12 +5,10 @@ topic: telemetrydefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.717Z
+lastCollected: 2026-04-07T18:36:52.111Z
 estimatedTokens: 494
-keywords: [TelemetryDefinitionVersion, version, structure, telemetry, signal, sent, connected, asset, vehicle, Parent, File, Suffix, Directory, Location, Declarative, API, 65.0, later, Calls]
+keywords: [TelemetryDefinitionVersion, structure, telemetry, signal, sent, connected, asset, vehicle, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, API, 65.0]
 ---
-
-# TelemetryDefinitionVersion
 
 > Represents a version of the structure of a telemetry
 			signal sent from a connected asset or vehicle.

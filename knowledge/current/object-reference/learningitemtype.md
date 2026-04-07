@@ -5,12 +5,10 @@ topic: learningitemtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.088Z
+lastCollected: 2026-04-07T18:38:34.290Z
 estimatedTokens: 1527
-keywords: [LearningItemType, custom, exercise, Enablement, user, program, Guidance, Center, requires, corresponding, LearningItem, record, EnblProgramTaskDefinition, EnblProgramTaskSubCategory, records]
+keywords: [LearningItemType, exercise, Enablement, user, program, Guidance, Center, requires, corresponding, LearningItem, record, EnblProgramTaskDefinition, EnblProgramTaskSubCategory, records, admins, Builder, API, 62.0]
 ---
-
-# LearningItemType
 
 > Represents a custom exercise type that an Enablement user takes in an
          Enablement program in the Guidance Center. A custom exercise type also requires a

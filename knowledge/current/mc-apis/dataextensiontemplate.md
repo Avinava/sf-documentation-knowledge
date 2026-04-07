@@ -5,12 +5,10 @@ topic: dataextensiontemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.282Z
+lastCollected: 2026-04-07T18:40:16.422Z
 estimatedTokens: 427
-keywords: [DataExtensionTemplate, data, extension, template, account, Items]
+keywords: [DataExtensionTemplate, extension, template, account, Items]
 ---
-
-# DataExtensionTemplate
 
 > The DataExtensionTemplate object represents a data extension template within an account.
 

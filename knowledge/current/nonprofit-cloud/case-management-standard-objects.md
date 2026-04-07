@@ -5,12 +5,10 @@ topic: case-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.653Z
+lastCollected: 2026-04-07T18:38:21.518Z
 estimatedTokens: 1169
-keywords: [Case, Management, Standard, Objects, data, model, manage, cases, care, plans, nonprofit, organization]
+keywords: [Case, Management, Standard, model, manage, cases, care, plans, nonprofit, organization]
 ---
-
-# Case Management Standard Objects
 
 > Case Management data model provides objects and fields to manage cases and care plans
   for your nonprofit organization.

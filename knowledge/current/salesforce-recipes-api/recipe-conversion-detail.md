@@ -5,12 +5,10 @@ topic: recipe-conversion-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.799Z
+lastCollected: 2026-04-07T18:39:19.474Z
 estimatedTokens: 158
-keywords: [Recipe, Conversion, Detail, upconversion, data, prep]
+keywords: [Recipe, Conversion, Detail, upconversion, prep]
 ---
-
-# Recipe Conversion Detail
 
 > The details for the upconversion of a data prep recipe.
 

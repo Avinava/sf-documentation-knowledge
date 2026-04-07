@@ -5,12 +5,10 @@ topic: using-custom-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.490Z
+lastCollected: 2026-04-07T18:38:04.647Z
 estimatedTokens: 505
-keywords: [Custom, Labels, text, translated, any, language, Salesforce, supports, access, Aura, components, $Label, provider]
+keywords: [Labels, text, translated, any, language, Salesforce, supports, Aura, $Label, provider]
 ---
-
-# Using Custom Labels
 
 > Custom labels are custom text values that can be translated into any language that
         Salesforce  supports. To access custom labels in Aura components, use the $Label global value provider.

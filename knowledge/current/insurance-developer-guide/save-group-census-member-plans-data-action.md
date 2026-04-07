@@ -5,12 +5,10 @@ topic: save-group-census-member-plans-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.246Z
+lastCollected: 2026-04-07T18:37:48.984Z
 estimatedTokens: 487
-keywords: [Save, Group, Census, Member, Plans, Data, Action, Validate, new, members, Special, Access, Rules, REST, HTTP]
+keywords: [Inputs, Outputs, Save, Group, Census, Member, Plans, Action, Validate, new, members, REST, HTTP]
 ---
-
-# Save Group Census Member Plans Data Action
 
 > Validate and save group census member plans for the new members. Update the group
         census member plans for existing members.

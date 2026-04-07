@@ -5,12 +5,10 @@ topic: borrower-income-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.007Z
+lastCollected: 2026-04-07T18:37:34.548Z
 estimatedTokens: 209
-keywords: [Borrower, Income, Input, representation]
+keywords: [Borrower, Income]
 ---
-
-# Borrower Income Input
 
 > Input representation for Borrower income
 

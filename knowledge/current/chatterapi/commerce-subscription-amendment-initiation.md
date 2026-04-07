@@ -5,12 +5,10 @@ topic: commerce-subscription-amendment-initiation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.155Z
+lastCollected: 2026-04-07T18:37:11.988Z
 estimatedTokens: 575
 keywords: [Commerce, Subscription, Amendment, Initiation, Amend, active, API, registered, shoppers]
 ---
-
-# Commerce Subscription Amendment Initiation
 
 > Amend an active Commerce subscription. This API is available only
     to registered shoppers.

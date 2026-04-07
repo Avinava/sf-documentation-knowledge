@@ -5,12 +5,10 @@ topic: direct-messages-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.975Z
+lastCollected: 2026-04-07T18:37:10.667Z
 estimatedTokens: 762
-keywords: [Direct, Messages, Feed, Resources, URL, Elements]
+keywords: [Direct, Messages, Resources, URL]
 ---
-
-# Direct Messages Feed Resources
 
 > The feed of direct messages.
 

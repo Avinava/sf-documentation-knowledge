@@ -5,12 +5,10 @@ topic: engagement-signal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.389Z
+lastCollected: 2026-04-07T18:37:08.208Z
 estimatedTokens: 368
 keywords: [Engagement, Signal, creating]
 ---
-
-# Engagement Signal
 
 > Response body for an Engagement Signal.
 

@@ -5,12 +5,10 @@ topic: get-contactsv1attributesetdefinitionsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.505Z
+lastCollected: 2026-04-07T18:40:18.704Z
 estimatedTokens: 4007
-keywords: [contacts, attributeSetDefinitions, Retrieves, attribute, definitiond, contact, data, model, **Overview**, Usage]
+keywords: [contacts, attributeSetDefinitions, Retrieves, attribute, definitiond, contact, model, **Overview**]
 ---
-
-# GET /contacts/v1/attributeSetDefinitions/{id}
 
 > Retrieves all attribute set definitiond in your contact data model.
 

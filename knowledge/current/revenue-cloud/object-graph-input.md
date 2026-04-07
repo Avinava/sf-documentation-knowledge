@@ -5,12 +5,10 @@ topic: object-graph-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.500Z
+lastCollected: 2026-04-07T18:35:43.402Z
 estimatedTokens: 95
-keywords: [Graph, Input, representation, sObject]
+keywords: [Graph, sObject]
 ---
-
-# Object Graph Input
 
 > Input representation of an sObject  with a graph ID.
 

@@ -5,12 +5,10 @@ topic: care-request-drug
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.486Z
+lastCollected: 2026-04-07T18:37:41.592Z
 estimatedTokens: 1757
-keywords: [Care, Drug, Requested, including, strength, frequency, instructions, administration, requests, associated]
+keywords: [Care, Drug, Requested, including, strength, frequency, instructions, administration, requests]
 ---
-
-# Care Request Drug
 
 > Requested drug including name, strength, frequency, and instructions
       for administration. One or more drug requests can be associated with a care

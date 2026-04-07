@@ -5,12 +5,10 @@ topic: drorderfetch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.035Z
+lastCollected: 2026-04-07T18:38:11.306Z
 estimatedTokens: 95
-keywords: [DROrderFetch, Omnistudio, Data, Mapper, fetch, order, line, items, account, Sample, Input, Output]
+keywords: [DROrderFetch, Omnistudio, Mapper, fetch, order, line, items, account, Sample]
 ---
-
-# DROrderFetch
 
 > This Omnistudio Data Mapper is used to fetch the order line
     items for an account.

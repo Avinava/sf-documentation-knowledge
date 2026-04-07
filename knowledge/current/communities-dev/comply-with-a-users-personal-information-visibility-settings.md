@@ -5,12 +5,10 @@ topic: comply-with-a-users-personal-information-visibility-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.856Z
+lastCollected: 2026-04-07T18:37:26.797Z
 estimatedTokens: 308
-keywords: [Comply, User’s, Personal, Visibility, Settings, Orgs, portals, sites, provide, specific, hide, personally, identifiable, contact, users]
+keywords: [Comply, User’s, Personal, Visibility, Settings, Orgs, portals, sites, provide, specific, hide, personally, identifiable, contact, users, aren’t, enforced, Apex, security, features, USER_MODE, clause, stripInaccessible, guest, external, authenticated, follow, sample, code, outlined, below]
 ---
-
-# Comply with a User’s Personal Information Visibility Settings
 
 > Orgs with portals and sites provide specific settings to hide a user’s personally
         identifiable and contact information from other users. These settings aren’t enforced in

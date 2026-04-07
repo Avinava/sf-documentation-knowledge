@@ -5,12 +5,10 @@ topic: saveaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.806Z
+lastCollected: 2026-04-07T18:40:20.032Z
 estimatedTokens: 480
-keywords: [SaveAction, how, upsert, acts, nested, objects, apply, Subscriber, DataExtension, Role, Send, Items]
+keywords: [SaveAction, how, upsert, acts, nested, apply, Subscriber, DataExtension, Role, Send, Items]
 ---
-
-# SaveAction
 
 > The SaveAction object defines how upsert acts on nested objects for Create and Update methods. You can apply SaveAction to Subscriber, List, DataExtension, Role, and Send objects.
 

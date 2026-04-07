@@ -5,12 +5,10 @@ topic: connectapicdpsegmentmemberoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.642Z
+lastCollected: 2026-04-07T18:36:08.006Z
 estimatedTokens: 180
-keywords: [ConnectApi.CdpSegmentMemberOutput, Data, segment, member, output]
+keywords: [ConnectApi.CdpSegmentMemberOutput, segment, member]
 ---
-
-# ConnectApi.CdpSegmentMemberOutput
 
 > Data 360 segment member output.
 

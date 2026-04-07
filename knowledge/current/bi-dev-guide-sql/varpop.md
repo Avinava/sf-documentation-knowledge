@@ -5,12 +5,10 @@ topic: varpop
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.935Z
+lastCollected: 2026-04-07T18:37:01.548Z
 estimatedTokens: 48
-keywords: [var_pop, population, variance, Accepts, measure, input, function, accept, expressions, var, _pop]
+keywords: [var_pop, population, variance, Accepts, measure, function, accept, expressions, var, _pop]
 ---
-
-# var_pop()
 
 > Returns the population variance of the values in a field. Accepts measure fields as
   input. This function does not accept expressions.

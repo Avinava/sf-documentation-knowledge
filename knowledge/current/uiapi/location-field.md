@@ -5,12 +5,10 @@ topic: location-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.865Z
+lastCollected: 2026-04-07T18:40:11.869Z
 estimatedTokens: 118
 keywords: [Location, complex, record]
 ---
-
-# Location Field
 
 > A complex location value for a record field.
 

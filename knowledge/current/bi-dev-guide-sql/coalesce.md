@@ -5,12 +5,10 @@ topic: coalesce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.972Z
+lastCollected: 2026-04-07T18:37:01.579Z
 estimatedTokens: 212
 keywords: [COALESCE, function, shorthand, case, statements, replaces, dataset, another, series, arguments]
 ---
-
-# COALESCE()
 
 > You can use the coalesce() function as shorthand
   for case statements. The coalesce() function replaces null

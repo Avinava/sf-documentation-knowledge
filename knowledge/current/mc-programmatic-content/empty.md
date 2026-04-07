@@ -5,12 +5,10 @@ topic: empty
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.827Z
+lastCollected: 2026-04-07T18:40:22.191Z
 estimatedTokens: 83
-keywords: [Empty, Function, Ordinal, Variable, evaluate, **Overview**, **Syntax**, Usage]
+keywords: [Empty, Function, Ordinal, Variable, evaluate, **Overview**, **Syntax**]
 ---
-
-# Empty
 
 > Empty(1)
 

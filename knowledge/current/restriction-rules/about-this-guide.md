@@ -5,12 +5,10 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.923Z
+lastCollected: 2026-04-07T18:39:10.370Z
 estimatedTokens: 752
-keywords: [Restriction, rules, record-level, access, control, mechanism, grant, granular, visibility, users, outlines, different, cases, how, Tooling]
+keywords: [Restriction, record-level, control, mechanism, grant, granular, visibility, users, outlines, different, cases, how, Tooling, Metadata, API]
 ---
-
-# About This Guide
 
 > Restriction rules are a record-level access control mechanism that allows you to grant
   granular visibility to specified users. This guide outlines the different use cases of restriction

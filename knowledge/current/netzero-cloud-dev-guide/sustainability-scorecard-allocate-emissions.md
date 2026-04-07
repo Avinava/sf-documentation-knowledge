@@ -5,12 +5,10 @@ topic: sustainability-scorecard-allocate-emissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.803Z
+lastCollected: 2026-04-07T18:38:16.352Z
 estimatedTokens: 100
-keywords: [Sustainability, Scorecard, Allocate, Emissions, Output, representation]
+keywords: [Sustainability, Scorecard, Allocate, Emissions]
 ---
-
-# Sustainability Scorecard Allocate Emissions
 
 > Output representation of the allocate scorecard emissions
       request.

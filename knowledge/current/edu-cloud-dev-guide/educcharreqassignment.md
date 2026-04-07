@@ -5,12 +5,10 @@ topic: educcharreqassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.991Z
+lastCollected: 2026-04-07T18:37:31.067Z
 estimatedTokens: 1054
-keywords: [EducCharReqAssignment, assignment, educational, characteristic, requirement, learning, course, offering, API, version, 66.0, later, Calls, Associated, Objects]
+keywords: [EducCharReqAssignment, assignment, educational, characteristic, requirement, learning, course, offering, API, 66.0]
 ---
-
-# EducCharReqAssignment
 
 > Represents the assignment of an educational characteristic requirement to a
          learning or course offering. This object is available in API version 66.0 and later.

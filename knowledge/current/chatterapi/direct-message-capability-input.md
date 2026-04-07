@@ -5,12 +5,10 @@ topic: direct-message-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.307Z
+lastCollected: 2026-04-07T18:37:08.116Z
 estimatedTokens: 266
-keywords: [Direct, Message, Capability, Input, members]
+keywords: [Direct, Message, Capability, members]
 ---
-
-# Direct Message Capability Input
 
 > Create or update the members of a direct message.
 

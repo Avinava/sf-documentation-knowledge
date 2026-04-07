@@ -5,12 +5,10 @@ topic: subscribe-to-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.618Z
+lastCollected: 2026-04-07T18:38:04.760Z
 estimatedTokens: 405
 keywords: [Subscribe, Message, Channel, handler, run, receives]
 ---
-
-# Subscribe to a Message Channel
 
 > To subscribe to a message channel, create a handler method to run when it receives a
   message.

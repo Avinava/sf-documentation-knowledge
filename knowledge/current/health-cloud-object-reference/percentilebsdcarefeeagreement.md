@@ -5,12 +5,10 @@ topic: percentilebsdcarefeeagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.010Z
+lastCollected: 2026-04-07T18:37:47.610Z
 estimatedTokens: 1232
-keywords: [PercentileBsdCareFeeAgreement, payment, terms, contracts, Percentile, Care, Fee, Agreement, API, version, 54.0, later, Provider, Network, Management]
+keywords: [PercentileBsdCareFeeAgreement, payment, terms, contracts, Percentile, Care, Fee, Agreement, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# PercentileBsdCareFeeAgreement
 
 > Specifies the payment terms for contracts of Percentile Based Care Fee
          Agreement. This object is available in API version 54.0 and later with the Provider

@@ -5,12 +5,10 @@ topic: insurance-update-underwriting-rules-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.242Z
+lastCollected: 2026-04-07T18:37:51.227Z
 estimatedTokens: 286
-keywords: [Insurance, Underwriting, Rules, Input, Rule, Representation]
+keywords: [Insurance, Underwriting, Rule]
 ---
-
-# Insurance Update Underwriting Rules Input
 
 > Update Underwriting Rule Input Representation
 

@@ -5,12 +5,10 @@ topic: caregapcriteriaresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.224Z
+lastCollected: 2026-04-07T18:37:45.704Z
 estimatedTokens: 521
-keywords: [CareGapCriteriaResult, result, evaluated, clinical, measure, criteria, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [CareGapCriteriaResult, result, evaluated, clinical, measure, criteria, API, 59.0]
 ---
-
-# CareGapCriteriaResult
 
 > Represents the result of an evaluated clinical measure criteria. This object
          is available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: contactcontactrelationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.473Z
+lastCollected: 2026-04-07T18:39:34.909Z
 estimatedTokens: 275
-keywords: [ContactContactRelationHistory, History, tracked, ContactContactRelation]
+keywords: [ContactContactRelationHistory, tracked, ContactContactRelation]
 ---
-
-# ContactContactRelationHistory
 
 > History for tracked fields of ContactContactRelation.
 

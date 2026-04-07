@@ -5,12 +5,10 @@ topic: productrequestlineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.604Z
+lastCollected: 2026-04-07T18:39:56.138Z
 estimatedTokens: 273
-keywords: [ProductRequestLineItemHistory, History, tracked, ProductRequestLineItem]
+keywords: [ProductRequestLineItemHistory, tracked, ProductRequestLineItem]
 ---
-
-# ProductRequestLineItemHistory
 
 > History for tracked fields of ProductRequestLineItem.
 

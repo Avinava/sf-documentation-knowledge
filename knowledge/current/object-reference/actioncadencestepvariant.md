@@ -5,12 +5,10 @@ topic: actioncadencestepvariant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.807Z
+lastCollected: 2026-04-07T18:38:24.672Z
 estimatedTokens: 490
-keywords: [ActionCadenceStepVariant, email, template, call, script, variant, associated, action, cadence, step, steps, variants, sales, teams, compare]
+keywords: [ActionCadenceStepVariant, email, template, call, script, variant, action, cadence, step, steps, variants, sales, teams, compare, engagement, results, API, 53.0]
 ---
-
-# ActionCadenceStepVariant
 
 > Represents an email template or call script variant associated with an 
          action cadence step. Email and call steps can have up to 3 variants associated so sales teams 

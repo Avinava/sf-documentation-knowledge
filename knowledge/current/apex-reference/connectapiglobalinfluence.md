@@ -5,12 +5,10 @@ topic: connectapiglobalinfluence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.272Z
+lastCollected: 2026-04-07T18:36:06.623Z
 estimatedTokens: 135
 keywords: [ConnectApi.GlobalInfluence, Chatter, influence]
 ---
-
-# ConnectApi.GlobalInfluence
 
 > Chatter influence.
 

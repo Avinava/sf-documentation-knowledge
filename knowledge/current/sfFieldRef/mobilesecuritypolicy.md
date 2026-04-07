@@ -5,13 +5,11 @@ topic: mobilesecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.686Z
+lastCollected: 2026-04-07T18:39:49.160Z
 estimatedTokens: 437
 namespace: NamespacePrefix
-keywords: [MobileSecurityPolicy, mobile, security, policies, Salesforce, app, Enhanced, API, version, 50.0, later]
+keywords: [MobileSecurityPolicy, mobile, security, policies, Salesforce, app, Enhanced, API, 50.0]
 ---
-
-# MobileSecurityPolicy
 
 > Enables mobile security policies on the Salesforce mobile app with
          Enhanced Mobile Security. This object is available in API version 50.0 and

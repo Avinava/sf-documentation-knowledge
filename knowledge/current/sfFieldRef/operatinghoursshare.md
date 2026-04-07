@@ -5,12 +5,10 @@ topic: operatinghoursshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.073Z
+lastCollected: 2026-04-07T18:39:50.497Z
 estimatedTokens: 250
 keywords: [OperatingHoursShare, Sharing, OperatingHours]
 ---
-
-# OperatingHoursShare
 
 > Sharing for OperatingHours.
 

@@ -5,12 +5,10 @@ topic: coaserviceordersubmitoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.893Z
+lastCollected: 2026-04-07T18:38:45.719Z
 estimatedTokens: 161
-keywords: [COA_ServiceOrderSubmitOutput, Wrapper, output, submit, operation, COA, _ServiceOrderSubmitOutput]
+keywords: [COA_ServiceOrderSubmitOutput, Wrapper, submit, operation, COA, _ServiceOrderSubmitOutput]
 ---
-
-# COA_ServiceOrderSubmitOutput Class
 
 > Wrapper class for output parameters returned from the submit operation.
 

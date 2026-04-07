@@ -5,12 +5,10 @@ topic: soap-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.952Z
+lastCollected: 2026-04-07T18:36:31.344Z
 estimatedTokens: 2780
-keywords: [SOAP, Calls, you’re, strongly, typed, language, Java, generates, Web, service, client, code, usage, authentication, API]
+keywords: [Examples, SOAP, you’re, strongly, typed, language, Java, generates, Web, service, client, code, authentication, API, Developer]
 ---
-
-# SOAP Calls
 
 > Use SOAP if you’re using a strongly typed language like Java that
             generates Web service client code. For details about usage, syntax, and

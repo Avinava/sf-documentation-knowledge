@@ -5,12 +5,10 @@ topic: finservbillingstatementc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.711Z
+lastCollected: 2026-04-07T18:37:36.490Z
 estimatedTokens: 847
-keywords: [FinServ_BillingStatement__c, billing, statement, individual’s, financial, account, FinServ, _BillingStatement, Calls]
+keywords: [FinServ_BillingStatement__c, billing, statement, individual’s, financial, account, FinServ, _BillingStatement]
 ---
-
-# FinServ_BillingStatement__c
 
 > Represents a billing statement for an individual’s financial
          account.

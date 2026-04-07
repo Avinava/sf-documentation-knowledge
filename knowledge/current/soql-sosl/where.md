@@ -5,12 +5,10 @@ topic: where
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.005Z
+lastCollected: 2026-04-07T18:40:09.962Z
 estimatedTokens: 784
-keywords: [condition, expression, clause, SOQL, query, includes, expressions, specify, multiple, logical, operators, conditionExpression, fieldExpression, SOSL, retrieves, rows, visible, user, including, archived]
+keywords: [condition, expression, clause, SOQL, query, includes, expressions, specify, multiple, logical, operators, conditionExpression, fieldExpression, SOSL, retrieves, rows, visible, user, including, archived, limit, search, filter, result, specific, Comparison, Operators, Logical, Quoted, Escape, Sequences, Clauses]
 ---
-
-# WHERE
 
 > By default, a SOSL query on an object retrieves all rows that are visible to the
 		user, including archived rows. To limit the search, you can filter the search result by

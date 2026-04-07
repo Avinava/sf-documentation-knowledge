@@ -5,12 +5,10 @@ topic: managed-content-variant-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.231Z
+lastCollected: 2026-04-07T18:37:09.001Z
 estimatedTokens: 178
-keywords: [Managed, Content, Variant, Input]
+keywords: [Managed, Content, Variant]
 ---
-
-# Managed Content Variant Input
 
 > Input used to create a managed content variant.
 

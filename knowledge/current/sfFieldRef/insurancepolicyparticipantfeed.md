@@ -5,12 +5,10 @@ topic: insurancepolicyparticipantfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.711Z
+lastCollected: 2026-04-07T18:39:45.265Z
 estimatedTokens: 366
-keywords: [InsurancePolicyParticipantFeed, Feed, tracking, InsurancePolicyParticipant]
+keywords: [InsurancePolicyParticipantFeed, InsurancePolicyParticipant]
 ---
-
-# InsurancePolicyParticipantFeed
 
 > Feed tracking for InsurancePolicyParticipant.
 

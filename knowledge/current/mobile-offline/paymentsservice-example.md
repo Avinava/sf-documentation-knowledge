@@ -5,12 +5,10 @@ topic: paymentsservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.504Z
+lastCollected: 2026-04-07T18:38:16.041Z
 estimatedTokens: 140
-keywords: [PaymentsService, Here’s, basic, Lightning, web, component, minimal, HTML, template, includes, button, initiates, collecting, payment]
+keywords: [PaymentsService, Here’s, basic, Lightning, web, minimal, HTML, template, includes, button, initiates, collecting, payment]
 ---
-
-# PaymentsService Example
 
 > Here’s a basic example of a Lightning web component minimal HTML template that
         includes a button that initiates collecting payment.

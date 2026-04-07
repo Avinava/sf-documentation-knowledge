@@ -5,12 +5,10 @@ topic: loyaltyprogramfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.037Z
+lastCollected: 2026-04-07T18:39:47.479Z
 estimatedTokens: 360
-keywords: [LoyaltyProgramFeed, Feed, tracking, LoyaltyProgram]
+keywords: [LoyaltyProgramFeed, LoyaltyProgram]
 ---
-
-# LoyaltyProgramFeed
 
 > Feed tracking for LoyaltyProgram.
 

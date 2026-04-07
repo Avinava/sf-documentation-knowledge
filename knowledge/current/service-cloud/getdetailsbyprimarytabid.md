@@ -5,12 +5,10 @@ topic: getdetailsbyprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.190Z
+lastCollected: 2026-04-07T18:36:49.261Z
 estimatedTokens: 1621
-keywords: [getDetailsByPrimaryTabId, chat, associated, specific, primary, tab, API, version, 29.0, later, Arguments, Sample, Code–Visualforce, breadcrumb, customDetail]
+keywords: [Arguments, getDetailsByPrimaryTabId, chat, specific, primary, tab, API, 29.0, Sample, Code–Visualforce, breadcrumb, customDetail, entityMap, geoLocation, visitorInfo]
 ---
-
-# getDetailsByPrimaryTabId()
 
 > Returns the details of the chat associated with a specific primary tab ID. Available in API version 29.0 or
             later.

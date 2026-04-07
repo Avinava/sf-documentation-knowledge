@@ -5,12 +5,10 @@ topic: license-object-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.602Z
+lastCollected: 2026-04-07T18:38:53.918Z
 estimatedTokens: 831
-keywords: [License, custom, limits, how, users, subscriber’s, org, app, long]
+keywords: [License, limits, how, users, subscriber’s, org, app, long]
 ---
-
-# License Object Fields
 
 > Use the License custom object to set limits on how many users in the subscriber’s org can
     use your app and for how long.

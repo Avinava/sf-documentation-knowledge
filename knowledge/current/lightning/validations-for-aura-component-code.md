@@ -5,12 +5,10 @@ topic: validations-for-aura-component-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:15.660Z
+lastCollected: 2026-04-07T18:38:05.882Z
 estimatedTokens: 404
-keywords: [Validations, Aura, Component, Code, Validate, ensure, compatibility, APIs, best, practices, avoidance, anti-patterns, There, several, ways]
+keywords: [Validations, Aura, Code, Validate, ensure, compatibility, APIs, best, practices, avoidance, anti-patterns, There, several, ways, Minimal, save-time, catch, significant, issues, Salesforce, tools, provide, comprehensive, analysis]
 ---
-
-# Validations for Aura Component Code
 
 > Validate your Aura component code to ensure compatibility with Aura component APIs, best
   practices, and avoidance of anti-patterns. There are several ways to validate your code. Minimal save-time validations catch the most

@@ -5,12 +5,10 @@ topic: assettokenevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.857Z
+lastCollected: 2026-04-07T18:38:58.717Z
 estimatedTokens: 903
-keywords: [AssetTokenEvent, Notifies, subscribers, asset, token, issuance, registration, connected, device, API, version, 39.0, later, Calls, Subscription]
+keywords: [AssetTokenEvent, Notifies, subscribers, asset, token, issuance, registration, connected, device, API, 39.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# AssetTokenEvent
 
 > Notifies subscribers of asset token issuance and
 			registration of a connected device as an Asset. This object is available in API

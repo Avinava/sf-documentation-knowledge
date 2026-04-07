@@ -5,12 +5,10 @@ topic: retail-order-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:18.115Z
+lastCollected: 2026-04-07T18:39:11.718Z
 estimatedTokens: 273
 keywords: [Retail, Order, Customization, Customize, proposal, screens, Items, Add, Free, creating, Apex, hook]
 ---
-
-# Retail Order Customization
 
 > Customize the order proposal list and the order screens, such as Order Header, Order
         Details, Order Items, Add Items, and Free Items by creating an Apex customization

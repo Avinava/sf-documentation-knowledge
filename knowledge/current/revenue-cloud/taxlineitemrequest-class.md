@@ -5,13 +5,11 @@ topic: taxlineitemrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.975Z
+lastCollected: 2026-04-07T18:35:40.842Z
 estimatedTokens: 2927
 namespace: CommerceTax
-keywords: [TaxLineItemRequest, line, item, tax, addresses, amount, productCode, quantity, lineNumber, taxCode, effectiveDate, customTaxAttributes, productSKU, referenceDocumentCode, equals]
+keywords: [TaxLineItemRequest, line, item, tax, addresses, amount, productCode, quantity, lineNumber, taxCode, effectiveDate, customTaxAttributes, productSKU, referenceDocumentCode, equals, obj, hashCode, toString]
 ---
-
-# TaxLineItemRequest Class
 
 > Contains line item details of a tax request.
 

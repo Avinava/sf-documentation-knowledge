@@ -5,12 +5,10 @@ topic: search-with-parameters-in-the-uri
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.899Z
+lastCollected: 2026-04-07T18:36:21.132Z
 estimatedTokens: 2140
-keywords: [Search, URI, results, simple, instead, SOSL, basic, queries, defining, large, query, API, case, cover, replacing]
+keywords: [Search, URI, results, simple, instead, SOSL, basic, queries, defining, large, query, API, case, cover, replacing, searchString, including, resource, REST, 36.0]
 ---
-
-# Search with Parameters in the URI
 
 > Get search results using simple URI parameters instead of using SOSL. Make basic queries
   without defining a large SOSL query. Use this API when you have a basic use case to cover,

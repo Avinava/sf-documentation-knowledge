@@ -5,13 +5,11 @@ topic: actionlinks-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.454Z
+lastCollected: 2026-04-07T18:35:55.576Z
 estimatedTokens: 4033
 namespace: ConnectApi
-keywords: [ActionLinks, action, link, group, definition, associate, feed, element, post, associated, actions, capability, Usage, createActionLinkGroupDefinition​, communityId]
+keywords: [ActionLinks, action, link, group, definition, associate, post, actions, capability, createActionLinkGroupDefinition​, communityId, actionLinkGroup, API, Requires, Chatter, Defining, Posting, Template, deleteActionLinkGroupDefinition, actionLinkGroupId, getActionLink, actionLinkId, getActionLinkDiagnosticInfo, getActionLinkGroup, getActionLinkGroupDefinition]
 ---
-
-# ActionLinks Class
 
 > Create an action link group definition. To associate an action link
       group with a feed element, first create an action link group definition. Then post a feed

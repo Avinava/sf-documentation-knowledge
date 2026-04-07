@@ -5,12 +5,10 @@ topic: contentvalidationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.754Z
+lastCollected: 2026-04-07T18:40:15.873Z
 estimatedTokens: 297
 keywords: [ContentValidationResult, results, content, validation, perform, call]
 ---
-
-# ContentValidationResult
 
 > The ContentValidationResult object contains results of content validation perform call.
 

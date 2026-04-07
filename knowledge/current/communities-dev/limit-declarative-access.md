@@ -5,12 +5,10 @@ topic: limit-declarative-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.008Z
+lastCollected: 2026-04-07T18:37:26.979Z
 estimatedTokens: 262
-keywords: [Limit, Declarative, Access, Granting, permission, view, external, users, standard, controllers, Experience, Builder, sites, Salesforce, Tabs]
+keywords: [Limit, Declarative, Granting, permission, view, external, users, standard, controllers, Experience, Builder, sites, Salesforce, Tabs, Visualforce, Lightning, features, enabled, grant, solely, platform, permissions]
 ---
-
-# Limit Declarative Access
 
 > Granting permission to view an object allows external users to view that object using
     standard controllers. Standard controllers are available in Experience Builder sites and

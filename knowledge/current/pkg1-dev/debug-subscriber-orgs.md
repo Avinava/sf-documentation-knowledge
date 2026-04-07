@@ -5,12 +5,10 @@ topic: debug-subscriber-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.742Z
+lastCollected: 2026-04-07T18:38:53.040Z
 estimatedTokens: 832
-keywords: [Debug, Subscriber, Orgs, logging, subscriber’s, org, view, logs, initiate, ISV, Customer, Debugger, sessions, Access, Troubleshoot]
+keywords: [Debug, Subscriber, Orgs, logging, subscriber’s, org, view, logs, initiate, ISV, Customer, Debugger, sessions, Troubleshoot]
 ---
-
-# Debug Subscriber Orgs
 
 > After logging in to a subscriber’s org, you can view
         logs

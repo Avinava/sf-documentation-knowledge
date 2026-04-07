@@ -5,12 +5,10 @@ topic: add-pardot-tracking-to-your-experience-builder-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.626Z
+lastCollected: 2026-04-07T18:37:26.531Z
 estimatedTokens: 663
-keywords: [Add, Pardot, Tracking, Experience, Builder, Site, track, visitor, interactions, activities, visitors, haven’t, yet, converted, prospect]
+keywords: [Add, Pardot, Experience, Builder, Site, track, visitor, interactions, activities, visitors, haven’t, yet, converted, prospect, enabled, view, reports, engagement, automatically, score, leads, on-site, activity]
 ---
-
-# Add Pardot Tracking to Your Experience Builder Site
 
 > Pardot can track visitor interactions and activities on a site, even when the visitors
   haven’t yet been converted to a prospect. After tracking is enabled, use Pardot to view reports on

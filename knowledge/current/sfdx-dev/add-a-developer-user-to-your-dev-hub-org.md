@@ -5,12 +5,10 @@ topic: add-a-developer-user-to-your-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.067Z
+lastCollected: 2026-04-07T18:40:09.048Z
 estimatedTokens: 387
 keywords: [Add, Developer, User, Dev, Hub, Org, license, profile, assign, permission]
 ---
-
-# Add a Developer User to Your Dev Hub Org
 
 > Using a Developer license, add a user with the Developer profile and assign them the
 		Developer permission set.

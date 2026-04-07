@@ -5,12 +5,10 @@ topic: domaincomputation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.392Z
+lastCollected: 2026-04-07T18:35:42.264Z
 estimatedTokens: 3753
-keywords: [domainComputation, Annotation, CML, how, domain, model, element, determined, either, fixed, computing, dynamically, configuration, Configurator, Result]
+keywords: [domainComputation, Annotation, CML, how, domain, model, determined, either, fixed, computing, dynamically, configuration, Configurator, Result, Settings]
 ---
-
-# domainComputation Annotation
 
 > domainComputation is a CML annotation that specifies
     how the domain of a model element is determined, either by using a fixed domain or by

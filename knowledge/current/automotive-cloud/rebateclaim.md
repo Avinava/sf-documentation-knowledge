@@ -5,12 +5,10 @@ topic: rebateclaim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.718Z
+lastCollected: 2026-04-07T18:36:53.093Z
 estimatedTokens: 1939
-keywords: [RebateClaim, proof, sale, vehicle, submitted, dealer, form, retail, delivery, report, rebate, payout, calculations, Automotive, Cloud]
+keywords: [RebateClaim, proof, sale, vehicle, submitted, dealer, form, retail, delivery, report, rebate, payout, calculations, Automotive, Cloud, API, 56.0]
 ---
-
-# RebateClaim
 
 > Represents proof of sale of a vehicle submitted by a dealer in the form of a
          retail delivery report. This report can also be used for rebate payout calculations.

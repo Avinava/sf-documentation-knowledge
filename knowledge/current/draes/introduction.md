@@ -5,12 +5,10 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.760Z
+lastCollected: 2026-04-07T18:37:28.849Z
 estimatedTokens: 334
-keywords: [Introduction, introduces, advanced, topics, user, record, access, recommendations, how, configure, organization, optimize, control, performance]
+keywords: [Introduction, introduces, advanced, topics, user, record, recommendations, how, configure, organization, optimize, control, performance]
 ---
-
-# Introduction
 
 > This guide introduces advanced topics in user record access, and provides
         recommendations on how to configure your organization to optimize access control

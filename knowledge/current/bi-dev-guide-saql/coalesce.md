@@ -5,12 +5,10 @@ topic: coalesce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.997Z
+lastCollected: 2026-04-07T18:37:00.513Z
 estimatedTokens: 376
 keywords: [coalesce, non-null, replace, nulls, different, Left, Outer, Cogroup]
 ---
-
-# coalesce
 
 > Use coalesce() to get the first non-null value
         from a list of parameters, or to replace nulls with a different value.

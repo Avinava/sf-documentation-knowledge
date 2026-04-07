@@ -5,12 +5,10 @@ topic: use-managed-packages-to-develop-your-appexchange-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.988Z
+lastCollected: 2026-04-07T18:38:46.954Z
 estimatedTokens: 444
-keywords: [Managed, Packages, Develop, AppExchange, Solution, tool, Salesforce, partners, business, apps, distribute, their, customers, via, suite]
+keywords: [Managed, Packages, Develop, AppExchange, Solution, tool, Salesforce, partners, business, apps, distribute, their, customers, via, suite, capabilities, offered, helps, license, pilot, features, troubleshoot, monetize, offerings]
 ---
-
-# Use Managed Packages to Develop Your AppExchange Solution
 
 > Managed packages are the tool that Salesforce partners use to create business apps, and
   distribute their apps to customers via AppExchange. The suite of capabilities offered by managed

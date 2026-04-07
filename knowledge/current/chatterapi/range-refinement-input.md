@@ -5,12 +5,10 @@ topic: range-refinement-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.217Z
+lastCollected: 2026-04-07T18:37:09.941Z
 estimatedTokens: 191
-keywords: [Range, Refinement, Input, Attribute-based, minimum, maximum, numeric, product, search]
+keywords: [Range, Refinement, Attribute-based, minimum, maximum, numeric, product, search]
 ---
-
-# Range Refinement Input
 
 > Attribute-based refinement with minimum or maximum numeric values for product
     search.

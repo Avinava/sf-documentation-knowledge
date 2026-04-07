@@ -5,12 +5,10 @@ topic: participantrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.944Z
+lastCollected: 2026-04-07T18:37:35.606Z
 estimatedTokens: 609
-keywords: [ParticipantRole, associated, access, level, role, participant, context, parent, record, File, Suffix, Directory, Location, Version, Declarative, API, version, 50.0, later, Calls]
+keywords: [ParticipantRole, level, role, participant, context, parent, record, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 50.0]
 ---
-
-# ParticipantRole
 
 > Represents details, such as the name and associated default access level, for a role
     that a participant can have in the context of a parent record.

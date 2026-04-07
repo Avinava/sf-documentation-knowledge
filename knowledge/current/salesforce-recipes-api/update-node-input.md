@@ -5,12 +5,10 @@ topic: update-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.151Z
+lastCollected: 2026-04-07T18:39:18.850Z
 estimatedTokens: 115
-keywords: [Node, Input, recipe]
+keywords: [Node, recipe]
 ---
-
-# Update Node Input
 
 > An update node in a recipe.
 

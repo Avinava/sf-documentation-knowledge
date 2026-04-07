@@ -5,12 +5,10 @@ topic: quick-text-preview-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.311Z
+lastCollected: 2026-04-07T18:37:22.422Z
 estimatedTokens: 91
 keywords: [Quick, Text, Preview]
 ---
-
-# Quick Text Preview Body
 
 > Body of a preview quick text.
 

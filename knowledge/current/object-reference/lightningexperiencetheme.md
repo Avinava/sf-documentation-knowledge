@@ -5,12 +5,10 @@ topic: lightningexperiencetheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.147Z
+lastCollected: 2026-04-07T18:38:34.351Z
 estimatedTokens: 802
-keywords: [LightningExperienceTheme, theme, Lightning, Experience, API, Version, 42.0, later, Calls]
+keywords: [LightningExperienceTheme, theme, Lightning, Experience, API, 42.0]
 ---
-
-# LightningExperienceTheme
 
 > Represents information for a theme in Lightning Experience. This
       object is available in API Version 42.0 and later.

@@ -5,12 +5,10 @@ topic: sample-pricing-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.395Z
+lastCollected: 2026-04-07T18:40:12.414Z
 estimatedTokens: 203
 keywords: [Sample, Pricing, Formulas, total, amounts, user, Amount]
 ---
-
-# Sample Pricing Formulas
 
 > Use these formulas for total amounts and user pricing.
 

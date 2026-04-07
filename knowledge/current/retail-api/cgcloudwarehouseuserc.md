@@ -5,12 +5,10 @@ topic: cgcloudwarehouseuserc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.154Z
+lastCollected: 2026-04-07T18:39:15.665Z
 estimatedTokens: 987
-keywords: [cgcloud__Warehouse_User__c, Stores, relationship, warehouse, user, API, version, 54.0, later, cgcloud, _Warehouse, _User, Calls, Associated, Objects]
+keywords: [cgcloud__Warehouse_User__c, Stores, relationship, warehouse, user, API, 54.0, cgcloud, _Warehouse, _User]
 ---
-
-# cgcloud__Warehouse_User__c
 
 > Stores the details of the relationship between a warehouse and a
          user. This object is available in API version 54.0 and later.

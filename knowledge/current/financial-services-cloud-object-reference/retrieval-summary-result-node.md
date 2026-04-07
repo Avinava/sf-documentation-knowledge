@@ -5,12 +5,10 @@ topic: retrieval-summary-result-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.638Z
+lastCollected: 2026-04-07T18:37:35.263Z
 estimatedTokens: 123
-keywords: [Retrieval, Summary, Result, Node, Output, representation, definition, call]
+keywords: [Retrieval, Summary, Result, Node, definition, call]
 ---
-
-# Retrieval Summary Result Node
 
 > Output representation of the result of a retrieval summary definition call.
 

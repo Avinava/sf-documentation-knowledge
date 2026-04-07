@@ -5,12 +5,10 @@ topic: personalization-recommender-calculated-insight-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.859Z
+lastCollected: 2026-04-07T18:37:09.580Z
 estimatedTokens: 284
-keywords: [Personalization, Recommender, Calculated, Insight, Rule, Input]
+keywords: [Personalization, Recommender, Calculated, Insight, Rule]
 ---
-
-# Personalization Recommender Calculated Insight Rule Input
 
 > Represents a rule based on a calculated insight.
 

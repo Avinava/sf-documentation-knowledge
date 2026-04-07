@@ -5,13 +5,11 @@ topic: weblinklocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.640Z
+lastCollected: 2026-04-07T18:40:06.553Z
 estimatedTokens: 248
 namespace: NamespacePrefix
-keywords: [WebLinkLocalization, translated, label, custom, link, URL, s-control, Translation, Workbench, enabled, organization]
+keywords: [WebLinkLocalization, translated, label, link, URL, s-control, Translation, Workbench, enabled, organization]
 ---
-
-# WebLinkLocalization
 
 > Represents the translated value of the field label for a custom link to
    a URL or s-control when the Translation Workbench is enabled for your

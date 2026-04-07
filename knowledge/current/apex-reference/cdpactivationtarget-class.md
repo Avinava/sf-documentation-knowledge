@@ -5,13 +5,11 @@ topic: cdpactivationtarget-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.494Z
+lastCollected: 2026-04-07T18:35:55.626Z
 estimatedTokens: 1709
 namespace: ConnectApi
-keywords: [CdpActivationTarget, Data, activation, targets, createActivationTarget, input, API, Version, Requires, Chatter, getActivationTarget, activationTargetId, getActivationTargets, getActivationTargetsPaginated, batchSize]
+keywords: [CdpActivationTarget, activation, targets, createActivationTarget, API, Requires, Chatter, getActivationTarget, activationTargetId, getActivationTargets, getActivationTargetsPaginated, batchSize, offset, orderBy, filters, updateActivationTarget]
 ---
-
-# CdpActivationTarget Class
 
 > Get, create, and update Data 360 activation targets.
 

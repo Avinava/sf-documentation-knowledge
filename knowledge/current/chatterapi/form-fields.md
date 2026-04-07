@@ -5,12 +5,10 @@ topic: form-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.458Z
+lastCollected: 2026-04-07T18:37:19.605Z
 estimatedTokens: 106
 keywords: [Form, marketing, integration]
 ---
-
-# Form Fields
 
 > List of marketing integration form fields.
 

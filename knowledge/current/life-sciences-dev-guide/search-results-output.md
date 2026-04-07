@@ -5,12 +5,10 @@ topic: search-results-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.725Z
+lastCollected: 2026-04-07T18:37:56.173Z
 estimatedTokens: 163
-keywords: [Search, Results, Output, representation, provider]
+keywords: [Search, Results, provider]
 ---
-
-# Search Results Output
 
 > Output representation for provider search request.
 

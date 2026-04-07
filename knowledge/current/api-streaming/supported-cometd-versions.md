@@ -5,12 +5,10 @@ topic: supported-cometd-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.042Z
+lastCollected: 2026-04-07T18:36:51.355Z
 estimatedTokens: 99
-keywords: [CometD, Versions, version, 3.1.0, later, clients, connect, Streaming, API, Earlier, aren’t, result, unexpected, behavior, prevent]
+keywords: [CometD, Versions, 3.1.0, clients, connect, Streaming, API, Earlier, aren’t, result, unexpected, behavior, prevent, potential, issues, old, upgrade, library, mor]
 ---
-
-# Supported CometD Versions
 
 > Use CometD version 3.1.0 or later in your clients to connect to Streaming API. Earlier
       versions aren’t supported and could result in unexpected behavior. To prevent potential issues

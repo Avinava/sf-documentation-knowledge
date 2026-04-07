@@ -5,12 +5,10 @@ topic: refund-line-apply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.813Z
+lastCollected: 2026-04-07T18:35:43.718Z
 estimatedTokens: 187
-keywords: [Refund, Line, Apply, Input, representation, transaction, outlines, including, amount, payment, credit, memo, record, applied]
+keywords: [Refund, Line, Apply, transaction, outlines, including, amount, payment, credit, memo, record, applied]
 ---
-
-# Refund Line Apply Input
 
 > Input representation of the details of a transaction refund request. This representation
     outlines the properties of a refund, including the refund amount and ID of the payment or credit

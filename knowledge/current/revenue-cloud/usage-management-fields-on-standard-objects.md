@@ -5,12 +5,10 @@ topic: usage-management-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.131Z
+lastCollected: 2026-04-07T18:35:50.988Z
 estimatedTokens: 268
-keywords: [Usage, Management, Standard, Objects, adds, custom, Salesforce, orgs, enabled, API, version, 63.0, later]
+keywords: [Management, Standard, adds, Salesforce, orgs, enabled, API, 63.0]
 ---
-
-# Usage Management Fields on Standard Objects
 
 > Usage Management adds standard and custom fields to some standard
          Salesforce objects. These fields are available only in orgs where Usage Management is

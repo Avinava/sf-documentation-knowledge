@@ -5,12 +5,10 @@ topic: scheduled-custom-recommendations-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.371Z
+lastCollected: 2026-04-07T18:37:15.424Z
 estimatedTokens: 285
-keywords: [Scheduled, Custom, Recommendations, Resources]
+keywords: [Scheduled, Recommendations, Resources]
 ---
-
-# Scheduled Custom Recommendations Resources
 
 > Get information about, create, update, or delete scheduled custom
     recommendations.

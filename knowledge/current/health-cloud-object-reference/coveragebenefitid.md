@@ -5,12 +5,10 @@ topic: coveragebenefitid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.038Z
+lastCollected: 2026-04-07T18:37:39.999Z
 estimatedTokens: 39
 keywords: [coverageBenefitId, coverage, benefit]
 ---
-
-# coverageBenefitId
 
 > The ID of the coverage benefit.
 

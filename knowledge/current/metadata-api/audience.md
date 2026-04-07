@@ -5,12 +5,10 @@ topic: audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.493Z
+lastCollected: 2026-04-07T18:36:22.742Z
 estimatedTokens: 2860
-keywords: [Audience, Experience, Builder, site, consists, different, criteria, assigned, targeting, extends, Metadata, inherits, fullName, File, Suffix]
+keywords: [Audience, AudienceCriteria, AudienceCriterion, AudienceCriteriaValue, PersonalizationTargetInfos, PersonalizationTargetInfo, Experience, Builder, site, consists, different, criteria, assigned, targeting, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Audience
 
 > Represents the audience in an Experience Builder site. 
     An audience consists of different types of criteria, where the audience can be assigned and 

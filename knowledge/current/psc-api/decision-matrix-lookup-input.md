@@ -5,12 +5,10 @@ topic: decision-matrix-lookup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.905Z
+lastCollected: 2026-04-07T18:39:01.036Z
 estimatedTokens: 149
-keywords: [Decision, Matrix, Lookup, Input, representation]
+keywords: [Decision, Matrix, Lookup]
 ---
-
-# Decision Matrix Lookup Input
 
 > Input representation of the input for a decision matrix
     lookup.

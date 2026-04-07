@@ -5,12 +5,10 @@ topic: math-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.262Z
+lastCollected: 2026-04-07T18:37:01.874Z
 estimatedTokens: 1438
 keywords: [Math, Functions, SQL, CRM, Analytics, supports]
 ---
-
-# Math Functions
 
 > SQL for CRM Analytics supports the following math functions.
 

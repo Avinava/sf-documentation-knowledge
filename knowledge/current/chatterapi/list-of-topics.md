@@ -5,12 +5,10 @@ topic: list-of-topics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.959Z
+lastCollected: 2026-04-07T18:37:16.034Z
 estimatedTokens: 650
 keywords: [Topics, organization, topic]
 ---
-
-# List of Topics
 
 > Get information about topics in the organization or create a
    topic.

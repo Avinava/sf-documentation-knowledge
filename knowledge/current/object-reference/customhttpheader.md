@@ -5,12 +5,10 @@ topic: customhttpheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.422Z
+lastCollected: 2026-04-07T18:38:29.317Z
 estimatedTokens: 438
-keywords: [CustomHttpHeader, custom, HTTP, context, Salesforce, region, org, role, person, viewing, external, API, version, 43.0, later]
+keywords: [CustomHttpHeader, HTTP, context, Salesforce, region, org, role, person, viewing, external, API, 43.0]
 ---
-
-# CustomHttpHeader
 
 > Represents a custom HTTP header that provides context information from
       Salesforce such as region, org details, or the role of the person viewing the external object.

@@ -5,12 +5,10 @@ topic: gameparticipantreward
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.747Z
+lastCollected: 2026-04-07T18:38:10.065Z
 estimatedTokens: 942
-keywords: [GameParticipantReward, reward, that’s, provided, participant, they’ve, played, game, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [GameParticipantReward, reward, that’s, provided, participant, they’ve, played, game, API, 60.0]
 ---
-
-# GameParticipantReward
 
 > Represents the reward that’s provided to a participant after they’ve
          played a game. This object is available in API version 60.0 and later.

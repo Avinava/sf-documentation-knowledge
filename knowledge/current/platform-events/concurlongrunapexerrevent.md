@@ -5,12 +5,10 @@ topic: concurlongrunapexerrevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.963Z
+lastCollected: 2026-04-07T18:38:58.822Z
 estimatedTokens: 1230
-keywords: [ConcurLongRunApexErrEvent, Notifies, subscribers, errors, occur, Salesforce, org, exceeds, concurrent, long-running, Apex, limit, high, volume, events]
+keywords: [ConcurLongRunApexErrEvent, Notifies, subscribers, errors, occur, Salesforce, org, exceeds, concurrent, long-running, Apex, limit, high, volume, events, concurrently, may, rate, resource, availability, Event, log, files, predecessor, Real-time, Monitoring, provide, Apex-related, EventLogFile, API, 49.0, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# ConcurLongRunApexErrEvent
 
 > Notifies subscribers of errors that occur when a Salesforce org exceeds
 			the concurrent long-running Apex limit. If a high volume of these events occur

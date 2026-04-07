@@ -5,12 +5,10 @@ topic: recommended-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.439Z
+lastCollected: 2026-04-07T18:37:22.544Z
 estimatedTokens: 147
-keywords: [Recommended, custom, recommendation]
+keywords: [Recommended, recommendation]
 ---
-
-# Recommended Object
 
 > A custom or static recommendation.
 

@@ -5,12 +5,10 @@ topic: omnitrackingcomponentdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.959Z
+lastCollected: 2026-04-07T18:39:50.387Z
 estimatedTokens: 400
-keywords: [OmniTrackingComponentDef, FlexCard, OmniScript, member, OmniTrackingGroup, tracks, user, interactions, OmniAnalytics, API, version, 60.0, later]
+keywords: [OmniTrackingComponentDef, FlexCard, OmniScript, member, OmniTrackingGroup, tracks, user, interactions, OmniAnalytics, API, 60.0]
 ---
-
-# OmniTrackingComponentDef
 
 > Represents a FlexCard or OmniScript that is a member of an OmniTrackingGroup,
          which tracks user interactions in OmniAnalytics. This object is available in API

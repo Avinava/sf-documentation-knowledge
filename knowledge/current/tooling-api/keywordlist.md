@@ -5,12 +5,10 @@ topic: keywordlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.928Z
+lastCollected: 2026-04-07T18:36:33.336Z
 estimatedTokens: 523
-keywords: [KeywordList, keywords, Experience, Cloud, site, moderation, Tooling, API, version, 36.0, later, SOAP, Calls, REST, HTTP]
+keywords: [KeywordList, keywords, Experience, Cloud, site, moderation, Tooling, API, 36.0, SOAP, REST, HTTP]
 ---
-
-# KeywordList
 
 > Represents a list of keywords
             used in Experience Cloud site moderation. Available in Tooling API version 36.0 and

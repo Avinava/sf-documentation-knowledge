@@ -5,12 +5,10 @@ topic: dashboard-snapshot-item-last-run
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.473Z
+lastCollected: 2026-04-07T18:36:56.995Z
 estimatedTokens: 154
 keywords: [Dashboard, Snapshot, Item, Run, Analytics]
 ---
-
-# Dashboard Snapshot Item Last Run
 
 > The Analytics dashboard snapshot item last run information.
 

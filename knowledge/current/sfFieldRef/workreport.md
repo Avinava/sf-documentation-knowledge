@@ -5,12 +5,10 @@ topic: workreport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.160Z
+lastCollected: 2026-04-07T18:40:07.073Z
 estimatedTokens: 418
-keywords: [WorkReport, total, work, performed, contractor, business, certain, period, time, utility, customers, locations, providing, services, measures]
+keywords: [WorkReport, total, work, performed, contractor, business, certain, period, time, utility, customers, locations, providing, services, measures, API, 59.0]
 ---
-
-# WorkReport
 
 > Represents the total work performed by a contractor business in a certain
          period of time for utility customers at one or more locations, providing services for one

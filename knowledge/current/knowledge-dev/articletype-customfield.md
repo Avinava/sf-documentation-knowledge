@@ -5,12 +5,10 @@ topic: articletype-customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.766Z
+lastCollected: 2026-04-07T18:37:54.064Z
 estimatedTokens: 1187
-keywords: [ArticleType, CustomField, metadata, associated, article, custom, definitions, Declarative, File, Suffix, Directory, Location, Retrieving, Standard, Objects]
+keywords: [ArticleType, CustomField, metadata, article, definitions, Declarative, File, Suffix, Directory, Location, Retrieving, Standard, Sample, Definition]
 ---
-
-# ArticleType CustomField
 
 > Represents the metadata associated with an article type custom field. Use this metadata
     type to create, update, or delete article type custom field definitions.

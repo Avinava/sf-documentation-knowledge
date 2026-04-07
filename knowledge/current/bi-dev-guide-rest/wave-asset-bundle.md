@@ -5,12 +5,10 @@ topic: wave-asset-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.470Z
+lastCollected: 2026-04-07T18:36:58.028Z
 estimatedTokens: 282
-keywords: [Wave, Asset, Bundle, Analytics, bundled, associated, metadata]
+keywords: [Wave, Asset, Bundle, Analytics, bundled, metadata]
 ---
-
-# Wave Asset Bundle
 
 > The Analytics asset bundled with the associated metadata.
 

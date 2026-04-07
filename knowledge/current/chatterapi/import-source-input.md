@@ -5,12 +5,10 @@ topic: import-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:21.884Z
+lastCollected: 2026-04-07T18:37:08.695Z
 estimatedTokens: 374
-keywords: [Import, Source, Input, Specify, product, csv, file, operation]
+keywords: [Import, Source, Specify, product, csv, file, operation]
 ---
-
-# Import Source Input
 
 > Specify a product import .csv file for a product import operation.
 

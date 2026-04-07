@@ -5,12 +5,10 @@ topic: connecting-to-the-soap-api-using-wse-30-and-net-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.671Z
+lastCollected: 2026-04-07T18:40:15.781Z
 estimatedTokens: 930
-keywords: [Connecting, SOAP, API, WSE, 3.0, NET, 2.0, development, environment, systems, Marketing, Cloud, standards, instructions, Visual]
+keywords: [Code, Connecting, SOAP, API, WSE, 3.0, NET, 2.0, development, environment, systems, Marketing, Cloud, standards, instructions, Visual, Studio, Express, connect, Why, How, Windows, Vista, 64-Bit, Users, Items]
 ---
-
-# Connecting to the SOAP API Using WSE 3.0 and .NET 2.0
 
 > This page contains information on connecting your development environment or other systems to the Marketing Cloud SOAP API using the WSE 3.0 standards.
 This information contains instructions for connecting using Visual Studio 2005 and Visual Studio 2005 Express. For Visual Studio 2008, connect using

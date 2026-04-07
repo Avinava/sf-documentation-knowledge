@@ -5,12 +5,10 @@ topic: omniprocessfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.828Z
+lastCollected: 2026-04-07T18:39:50.263Z
 estimatedTokens: 358
-keywords: [OmniProcessFeed, Feed, tracking, OmniProcess]
+keywords: [OmniProcessFeed, OmniProcess]
 ---
-
-# OmniProcessFeed
 
 > Feed tracking for OmniProcess.
 

@@ -5,12 +5,10 @@ topic: use-group-and-filter-pre-projection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.534Z
+lastCollected: 2026-04-07T18:37:01.132Z
 estimatedTokens: 501
-keywords: [Group, Filter, Pre-projection, Improve, query, performance, moving, operations, simple, foreach, statement, projected, as-is, doesn't, additional]
+keywords: [Group, Filter, Pre-projection, Improve, query, performance, moving, operations, simple, foreach, statement, projected, as-is, doesn't, additional, expressions]
 ---
-
-# Use Group and Filter Pre-projection
 
 > Improve query performance by moving group and filter operations on simple fields
       before the foreach statement. A simple field is projected

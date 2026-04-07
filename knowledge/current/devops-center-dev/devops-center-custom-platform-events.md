@@ -5,12 +5,10 @@ topic: devops-center-custom-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.431Z
+lastCollected: 2026-04-07T18:37:28.449Z
 estimatedTokens: 682
-keywords: [DevOps, Center, Custom, Platform, Events, generates, work, items, they, move, development, promotion, lifecycle]
+keywords: [DevOps, Center, Platform, Events, generates, work, items, they, move, development, promotion, lifecycle]
 ---
-
-# DevOps Center Custom Platform Events
 
 > DevOps Center generates platform events for work items as they move through the
   development and promotion lifecycle.

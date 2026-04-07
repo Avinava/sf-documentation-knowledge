@@ -5,13 +5,11 @@ topic: groupingvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.928Z
+lastCollected: 2026-04-07T18:36:03.137Z
 estimatedTokens: 932
 namespace: Reports
-keywords: [GroupingValue, grouping, row, column, including, key, label, getGroupings, getKey, getLabel, getValue, Usage]
+keywords: [GroupingValue, grouping, row, column, including, key, label, getGroupings, getKey, getLabel, getValue]
 ---
-
-# GroupingValue Class
 
 > Contains grouping values for a row or column, including
 the key, label, and value.

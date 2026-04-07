@@ -5,12 +5,10 @@ topic: transfer-calls-to-a-queue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.763Z
+lastCollected: 2026-04-07T18:40:13.688Z
 estimatedTokens: 169
-keywords: [Transfer, Calls, Queue, call, Salesforce, supervisor, transferred, waiting]
+keywords: [Transfer, Queue, call, Salesforce, supervisor, transferred, waiting]
 ---
-
-# Transfer Calls to a Queue
 
 > Transfer a call to a Salesforce queue so that a supervisor can see the transferred call
     waiting in the queue.

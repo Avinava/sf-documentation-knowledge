@@ -5,12 +5,10 @@ topic: push-notifications-and
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.904Z
+lastCollected: 2026-04-07T18:40:27.125Z
 estimatedTokens: 291
-keywords: [Push, Notifications, sent, Salesforce, help, mobile, users, stay, top, developments, their, organizations, notification, services, let]
+keywords: [Push, Notifications, sent, Salesforce, help, mobile, users, stay, top, developments, their, organizations, notification, services, let, configure, test, implement, any, code, receive, production, enviro]
 ---
-
-# Push Notifications and
 
 > Notifications sent from Salesforce help your mobile users stay on top of important developments
    in their organizations. Salesforce notification services let you configure and test mobile push

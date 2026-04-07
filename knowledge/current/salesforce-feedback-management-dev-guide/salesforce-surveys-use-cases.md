@@ -5,12 +5,10 @@ topic: salesforce-surveys-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.593Z
+lastCollected: 2026-04-07T18:39:17.238Z
 estimatedTokens: 155
-keywords: [Salesforce, Surveys, Cases, usage, examples]
+keywords: [Salesforce, Surveys, Cases, examples]
 ---
-
-# Salesforce Surveys Use Cases
 
 > Learn more about surveys through use cases and usage examples.
 

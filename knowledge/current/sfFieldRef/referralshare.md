@@ -5,12 +5,10 @@ topic: referralshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.596Z
+lastCollected: 2026-04-07T18:39:59.257Z
 estimatedTokens: 247
 keywords: [ReferralShare, Sharing, Referral]
 ---
-
-# ReferralShare
 
 > Sharing for Referral.
 

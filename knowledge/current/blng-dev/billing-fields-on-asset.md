@@ -5,12 +5,10 @@ topic: billing-fields-on-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.767Z
+lastCollected: 2026-04-07T18:37:04.390Z
 estimatedTokens: 194
-keywords: [Billing, Asset, Standard, custom, extend, represent, assets]
+keywords: [Billing, Asset, Standard, extend, represent, assets]
 ---
-
-# Billing Fields on Asset
 
 > Standard and custom fields extend the standard Asset object for use
          in Billing to represent information about assets.

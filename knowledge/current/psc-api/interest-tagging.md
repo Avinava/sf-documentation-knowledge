@@ -5,12 +5,10 @@ topic: interest-tagging
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.144Z
+lastCollected: 2026-04-07T18:39:04.269Z
 estimatedTokens: 173
 keywords: [Interest, Tagging, Tags, words, short, phrases, users, associate, Salesforce, records, capture, customer, needs, interests, opportunities]
 ---
-
-# Interest Tagging
 
 > Tags are words or short phrases that users can associate with
             Salesforce records to capture customer needs, interests, and

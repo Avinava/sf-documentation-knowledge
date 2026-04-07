@@ -5,12 +5,10 @@ topic: simulation-variable-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.967Z
+lastCollected: 2026-04-07T18:39:03.196Z
 estimatedTokens: 258
-keywords: [Simulation, Variable, Output, representation]
+keywords: [Simulation, Variable]
 ---
-
-# Simulation Variable Output
 
 > Output representation of a simulation variable and its
     value.

@@ -5,12 +5,10 @@ topic: salesforce-crm-convreasonreportsegmentdefinition-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.179Z
+lastCollected: 2026-04-07T18:35:51.989Z
 estimatedTokens: 335
-keywords: [Salesforce, CRM, ConvReasonReportSegmentDefinition, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
+keywords: [Salesforce, CRM, ConvReasonReportSegmentDefinition, Mapping, mappings, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: ConvReasonReportSegmentDefinition Mapping
 
 > These data mappings are for the ConvReasonReportSegmentDefinition DLO found in the
   Services bundle of the Salesforce CRM Connector for Data Cloud.

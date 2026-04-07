@@ -5,13 +5,11 @@ topic: fscwmgen-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.954Z
+lastCollected: 2026-04-07T18:37:34.487Z
 estimatedTokens: 370
 namespace: The
 keywords: [fscwmgen, Record, Alerts]
 ---
-
-# fscwmgen Namespace
 
 > The fscwmgen namespace provides an interface used
   for Record Alerts.

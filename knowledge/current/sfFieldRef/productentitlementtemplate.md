@@ -5,12 +5,10 @@ topic: productentitlementtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.181Z
+lastCollected: 2026-04-07T18:39:55.749Z
 estimatedTokens: 250
 keywords: [ProductEntitlementTemplate, predefined, terms, customer, support, Entitlement, users, add, products, Product2]
 ---
-
-# ProductEntitlementTemplate
 
 > Represents predefined terms of
     customer support (Entitlement) that

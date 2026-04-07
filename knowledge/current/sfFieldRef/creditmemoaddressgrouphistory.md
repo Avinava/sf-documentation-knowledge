@@ -5,12 +5,10 @@ topic: creditmemoaddressgrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.907Z
+lastCollected: 2026-04-07T18:39:36.460Z
 estimatedTokens: 273
-keywords: [CreditMemoAddressGroupHistory, History, tracked, CreditMemoAddressGroup]
+keywords: [CreditMemoAddressGroupHistory, tracked, CreditMemoAddressGroup]
 ---
-
-# CreditMemoAddressGroupHistory
 
 > History for tracked fields of CreditMemoAddressGroup.
 

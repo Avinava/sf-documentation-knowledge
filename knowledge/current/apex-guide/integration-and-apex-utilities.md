@@ -5,13 +5,11 @@ topic: integration-and-apex-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.571Z
+lastCollected: 2026-04-07T18:36:17.803Z
 estimatedTokens: 408
 namespace: Compression
-keywords: [Integration, Apex, Utilities, integrate, external, SOAP, REST, Web, services, callouts, JSON, XML, data, security, encoding]
+keywords: [Integration, Apex, Utilities, integrate, external, SOAP, REST, Web, services, callouts, JSON, XML, security, encoding, general-purpose, utility, regular, expressions, text, strings, provided]
 ---
-
-# Integration and Apex Utilities
 
 > Apex allows you to integrate with external SOAP and REST Web services using callouts.
         You can use utilities for JSON, XML, data security, and encoding. A general-purpose utility

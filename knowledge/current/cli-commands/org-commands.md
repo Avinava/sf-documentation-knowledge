@@ -5,12 +5,10 @@ topic: org-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.473Z
+lastCollected: 2026-04-07T18:35:39.258Z
 estimatedTokens: 22446
-keywords: [org, Commands, Assign, permission, users, permset, Examples, Flags, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot]
+keywords: [Flags, org, Commands, Assign, permission, users, permset, Examples, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot, user, disable, display, enable, generate, password, auth, limits, metadata, metadata-types, sobject, record-counts, login, access-token, jwt, sfdx-url, web, logout, open, agent, authoring-bundle, refresh, resume]
 ---
-
-# org Commands
 
 > Assign a permission set to one or more org users.
 

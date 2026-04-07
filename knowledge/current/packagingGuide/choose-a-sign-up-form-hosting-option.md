@@ -5,12 +5,10 @@ topic: choose-a-sign-up-form-hosting-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.906Z
+lastCollected: 2026-04-07T18:38:47.863Z
 estimatedTokens: 183
 keywords: [Choose, Sign-Up, Form, Hosting, Option, serves, registration, prospective, customers, sign, trials, Review]
 ---
-
-# Choose a Sign-Up Form Hosting Option
 
 > The sign-up form serves as the registration page that prospective customers use to sign
     up for trials. Review and choose a hosting option for your sign-up form.

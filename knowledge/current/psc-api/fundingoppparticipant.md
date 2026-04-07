@@ -5,12 +5,10 @@ topic: fundingoppparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.605Z
+lastCollected: 2026-04-07T18:39:06.737Z
 estimatedTokens: 806
-keywords: [FundingOppParticipant, user, group, participants, access, funding, opportunity, API, version, 60.0, later, Calls, Special, Rules, Associated]
+keywords: [FundingOppParticipant, user, group, participants, funding, opportunity, API, 60.0]
 ---
-
-# FundingOppParticipant
 
 > Represents information about a user or group of participants who have
       access to a funding opportunity. This object is available in API version 60.0 and

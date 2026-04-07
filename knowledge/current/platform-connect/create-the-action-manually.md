@@ -5,12 +5,10 @@ topic: create-the-action-manually
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.379Z
+lastCollected: 2026-04-07T18:38:57.176Z
 estimatedTokens: 475
 keywords: [Action, Manually, didn’t, select, Actions, Automatically, created, canvas, app, you’ll]
 ---
-
-# Create the Action Manually
 
 > If you didn’t select the Create Actions
 Automatically field when you created the canvas app, then

@@ -5,12 +5,10 @@ topic: caseteamrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.107Z
+lastCollected: 2026-04-07T18:39:33.515Z
 estimatedTokens: 283
 keywords: [CaseTeamRole, case, team, role, Every, member, “Customer, Contact”, “Case, Manager.”]
 ---
-
-# CaseTeamRole
 
 > Represents a case team role. Every
         case team member has a role on a case, such as “Customer Contact” or

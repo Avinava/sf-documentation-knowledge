@@ -5,12 +5,10 @@ topic: connectapidatagraphrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.167Z
+lastCollected: 2026-04-07T18:36:08.578Z
 estimatedTokens: 139
-keywords: [ConnectApi.DataGraphRelationship, relationship, data, graph]
+keywords: [ConnectApi.DataGraphRelationship, relationship, graph]
 ---
-
-# ConnectApi.DataGraphRelationship
 
 > Represents the relationship of a field of the object data for the data graph.
 

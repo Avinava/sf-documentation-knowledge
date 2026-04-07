@@ -5,12 +5,10 @@ topic: datacloud-contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.197Z
+lastCollected: 2026-04-07T18:37:18.282Z
 estimatedTokens: 500
 keywords: [Datacloud, Contact, Data.com, contacts, own, don’t, record, hidden, asterisks, ***]
 ---
-
-# Datacloud Contact
 
 > Information about Data.com contacts. If you own a contact, you see all
       the fields. If you don’t own the contact record, some fields are hidden by asterisks

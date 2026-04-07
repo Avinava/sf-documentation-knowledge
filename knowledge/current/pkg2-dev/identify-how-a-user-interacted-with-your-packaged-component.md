@@ -5,12 +5,10 @@ topic: identify-how-a-user-interacted-with-your-packaged-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.518Z
+lastCollected: 2026-04-07T18:38:54.900Z
 estimatedTokens: 134
-keywords: [Identify, How, User, Interacted, Packaged, Component]
+keywords: [Identify, How, User, Interacted, Packaged]
 ---
-
-# Identify How a User Interacted with Your Packaged Component
 
 > After you identify your packaged component and who interacted with it, identify how the
   user interacted with your packaged component.

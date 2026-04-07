@@ -5,12 +5,10 @@ topic: posttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.638Z
+lastCollected: 2026-04-07T18:36:33.969Z
 estimatedTokens: 234
-keywords: [PostTemplate, approval, post, template, Approvals, Chatter, SOAP, Calls, REST, HTTP]
+keywords: [PostTemplate, approval, post, template, Approvals, Chatter, SOAP, REST, HTTP]
 ---
-
-# PostTemplate
 
 > Represents an approval post template for
             Approvals in Chatter.

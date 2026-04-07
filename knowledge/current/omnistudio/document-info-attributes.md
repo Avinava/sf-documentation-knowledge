@@ -5,12 +5,10 @@ topic: document-info-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.957Z
+lastCollected: 2026-04-07T18:36:37.505Z
 estimatedTokens: 101
-keywords: [Document, Info, Attributes, Input, including, documents, service, process]
+keywords: [Document, Info, Attributes, including, documents, service, process]
 ---
-
-# Document Info Attributes
 
 > Input for including documents in a service process.
 

@@ -5,12 +5,10 @@ topic: record-alert-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.806Z
+lastCollected: 2026-04-07T18:39:03.043Z
 estimatedTokens: 75
-keywords: [Record, Alert, Collection, Output, representation, alerts]
+keywords: [Record, Alert, Collection, alerts]
 ---
-
-# Record Alert Collection
 
 > Output representation of a collection of record
     alerts.

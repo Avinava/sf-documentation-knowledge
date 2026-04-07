@@ -5,12 +5,10 @@ topic: individual
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.524Z
+lastCollected: 2026-04-07T18:38:33.706Z
 estimatedTokens: 1834
-keywords: [Individual, customer’s, data, privacy, protection, preferences, records, store, customers’, associated, leads, contacts, person, accounts, users]
+keywords: [Individual, customer’s, privacy, protection, preferences, records, store, customers’, leads, contacts, person, accounts, users, API, 42.0]
 ---
-
-# Individual
 
 > Represents a customer’s data privacy and protection preferences. Data
 			privacy records based on the Individual object store your customers’ preferences. Data

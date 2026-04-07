@@ -5,12 +5,10 @@ topic: eligible-coupon-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.001Z
+lastCollected: 2026-04-07T18:38:07.216Z
 estimatedTokens: 256
-keywords: [Eligible, Coupon, Input, promotion]
+keywords: [Eligible, Coupon, promotion]
 ---
-
-# Eligible Coupon Input
 
 > The details of an eligible coupon for the promotion.
 

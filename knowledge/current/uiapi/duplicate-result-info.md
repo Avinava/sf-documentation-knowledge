@@ -5,12 +5,10 @@ topic: duplicate-result-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.613Z
+lastCollected: 2026-04-07T18:40:11.620Z
 estimatedTokens: 146
 keywords: [Duplicate, Result, Info, check, records, exist, IDs, rule, match]
 ---
-
-# Duplicate Result Info
 
 > The result of the check for duplicate records. If duplicate records
       exist, returns the records' IDs and the duplicate rule that was used to match the

@@ -5,12 +5,10 @@ topic: order-on-behalf-of-for-external-payments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.637Z
+lastCollected: 2026-04-07T18:38:45.433Z
 estimatedTokens: 330
-keywords: [Order, Behalf, External, Payments, support, payment, flows, non-tokenized, configure, Mode, flow, bypasses, tokenized, calls, Authorize]
+keywords: [Order, Behalf, External, Payments, support, payment, flows, non-tokenized, configure, Mode, flow, bypasses, tokenized, Authorize, directly]
 ---
-
-# Order on Behalf Of for External Payments
 
 > To support payment flows with non-tokenized payments, configure the External Payment
     Mode flow. This flow bypasses the tokenized payment flow and calls Payment Authorize

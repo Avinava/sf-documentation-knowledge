@@ -5,12 +5,10 @@ topic: custom-metadata-type-mdt-mdt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.433Z
+lastCollected: 2026-04-07T18:38:29.326Z
 estimatedTokens: 1141
-keywords: [Custom, Metadata, __mdt, record, API, version, 34.0, later, _mdt, Calls]
+keywords: [Metadata, __mdt, record, API, 34.0, _mdt]
 ---
-
-# Custom Metadata Type __mdt __mdt
 
 > Represents a custom metadata record. This object is available
 		in API version 34.0 and later.

@@ -5,12 +5,10 @@ topic: dataassessmentmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.601Z
+lastCollected: 2026-04-07T18:38:29.494Z
 estimatedTokens: 460
-keywords: [DataAssessmentMetric, summary, statistics, matched, unmatched, account, records, Data.com, API, version, 37.0, later, Calls]
+keywords: [DataAssessmentMetric, summary, statistics, matched, unmatched, account, records, Data.com, API, 37.0]
 ---
-
-# DataAssessmentMetric
 
 > Represents a summary of statistics for fields matched and unmatched
 			in your account records with Data.com account records. This object is available in

@@ -5,12 +5,10 @@ topic: accountforecastadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.089Z
+lastCollected: 2026-04-07T18:38:13.356Z
 estimatedTokens: 542
-keywords: [AccountForecastAdjustment, manual, adjustments, made, forecast, particular, account, API, version, 47.0, later, Calls]
+keywords: [AccountForecastAdjustment, manual, adjustments, made, forecast, particular, account, API, 47.0]
 ---
-
-# AccountForecastAdjustment
 
 > Represents the manual adjustments made to forecast values for a particular
       account. This object is available in API version 47.0 and later.

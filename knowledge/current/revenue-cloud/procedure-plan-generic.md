@@ -5,12 +5,10 @@ topic: procedure-plan-generic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.345Z
+lastCollected: 2026-04-07T18:35:46.275Z
 estimatedTokens: 191
-keywords: [Procedure, Plan, Generic, Output, representation, created, definition, record]
+keywords: [Procedure, Plan, Generic, created, definition, record]
 ---
-
-# Procedure Plan Generic
 
 > Output representation of the details of the created procedure plan definition
     record.

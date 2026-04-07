@@ -5,12 +5,10 @@ topic: actionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.051Z
+lastCollected: 2026-04-07T18:37:57.612Z
 estimatedTokens: 927
-keywords: [ActionPlan, Life, Sciences, Cloud, extend, standard, represent, instance, action, plan, Calls, Associated, Objects, Standard, custom, compliance, program, assigned, account]
+keywords: [ActionPlan, Life, Sciences, Cloud, extend, standard, represent, instance, action, plan, Standard, compliance, program, assigned, account]
 ---
-
-# ActionPlan
 
 > Life Sciences Cloud fields extend the standard ActionPlan object to represent
          the instance of an action plan.

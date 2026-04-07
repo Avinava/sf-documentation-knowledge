@@ -5,12 +5,10 @@ topic: cgcloudaccounttradeorghierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.453Z
+lastCollected: 2026-04-07T18:39:12.876Z
 estimatedTokens: 998
-keywords: [cgcloud__Account_Trade_Org_Hierarchy__c, account, hierarchy, API, version, 54.0, later, cgcloud, _Account, _Trade, _Org, _Hierarchy, Calls, Associated, Objects]
+keywords: [cgcloud__Account_Trade_Org_Hierarchy__c, account, hierarchy, API, 54.0, cgcloud, _Account, _Trade, _Org, _Hierarchy]
 ---
-
-# cgcloud__Account_Trade_Org_Hierarchy__c
 
 > This object represents the details of the account hierarchy.
       This object is available in API version 54.0 and later.

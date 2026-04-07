@@ -5,12 +5,10 @@ topic: svccatalogcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.191Z
+lastCollected: 2026-04-07T18:38:41.995Z
 estimatedTokens: 488
-keywords: [SvcCatalogCategory, group, Service, Catalog, items, functional, area, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [SvcCatalogCategory, group, Service, Catalog, items, functional, area, API, 58.0]
 ---
-
-# SvcCatalogCategory
 
 > Represents a group of Service Catalog items by functional area.
       This object is available in API version 58.0 and later.

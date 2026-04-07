@@ -5,12 +5,10 @@ topic: getselectednavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.305Z
+lastCollected: 2026-04-07T18:36:49.403Z
 estimatedTokens: 238
-keywords: [getSelectedNavigationTab, selected, navigation, tab, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getSelectedNavigationTab, selected, navigation, tab, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# getSelectedNavigationTab()
 
 > Returns the selected object in the navigation
             tab. This method is only available in API version 31.0 or later.

@@ -5,12 +5,10 @@ topic: imagehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.655Z
+lastCollected: 2026-04-07T18:39:44.316Z
 estimatedTokens: 250
-keywords: [ImageHistory, History, tracked, Image]
+keywords: [ImageHistory, tracked, Image]
 ---
-
-# ImageHistory
 
 > History for tracked fields of Image.
 

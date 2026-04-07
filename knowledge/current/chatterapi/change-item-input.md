@@ -5,12 +5,10 @@ topic: change-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.876Z
+lastCollected: 2026-04-07T18:37:07.602Z
 estimatedTokens: 632
-keywords: [Change, Item, Input, OrderItemSummary, cancel, specify, whether, prorate, associated, shipping, charge, price, can’t]
+keywords: [Change, Item, OrderItemSummary, cancel, specify, whether, prorate, shipping, charge, price, can’t]
 ---
-
-# Change Item Input
 
 > Change to an OrderItemSummary, such as a return or cancel. You
       specify whether to prorate the associated shipping charge based on the price change. The

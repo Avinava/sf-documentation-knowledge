@@ -5,12 +5,10 @@ topic: remote-change-sfdevopsremotechangec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.632Z
+lastCollected: 2026-04-07T18:37:28.695Z
 estimatedTokens: 1043
-keywords: [Remote, Change, sf_devops__Remote_Change__c, environment, that’s, connected, DevOps, Center, particular, record, accumulation, operations, piece, metadata, presents]
+keywords: [Remote, Change, sf_devops__Remote_Change__c, environment, that’s, connected, DevOps, Center, particular, record, accumulation, operations, piece, metadata, presents, user, they, pull, their, work, item, commit, feature, branch, How, Keeps, Track, Changes, orgs, installed, _devops, _Remote, _Change]
 ---
-
-# Remote Change (sf_devops__Remote_Change__c)
 
 > Represents a change to an environment that’s connected to DevOps
          Center. In particular, a Remote Change record represents an accumulation of operations on a

@@ -5,12 +5,10 @@ topic: billschdcreatedeventdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.731Z
+lastCollected: 2026-04-07T18:35:48.711Z
 estimatedTokens: 417
-keywords: [BillSchdCreatedEventDetail, order, item, commerce, invoicing, billing-schedules, actions, any, errors, occurred, processing, included, BillingScheduleCreatedEvent, message, can't]
+keywords: [BillSchdCreatedEventDetail, order, item, commerce, invoicing, billing-schedules, actions, any, errors, occurred, processing, included, BillingScheduleCreatedEvent, message, can't, subscribe, platform, event, directly, API, 63.0]
 ---
-
-# BillSchdCreatedEventDetail
 
 > Contains details about each order item in the /commerce/invoicing/billing-schedules/actions/create request and any errors
          that occurred while processing the request. This object is included in an BillingScheduleCreatedEvent message. You can't subscribe to

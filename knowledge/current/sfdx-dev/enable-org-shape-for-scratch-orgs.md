@@ -5,12 +5,10 @@ topic: enable-org-shape-for-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.514Z
+lastCollected: 2026-04-07T18:40:08.467Z
 estimatedTokens: 504
 keywords: [Enable, Org, Shape, Scratch, Orgs, whose, want, capture, source]
 ---
-
-# Enable Org Shape for Scratch Orgs
 
 > Enable Org Shape for Scratch Orgs in the org whose shape you want to capture (source
   org).

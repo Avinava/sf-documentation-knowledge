@@ -5,12 +5,10 @@ topic: confirm-held-fo-capacity-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.085Z
+lastCollected: 2026-04-07T18:37:07.853Z
 estimatedTokens: 129
-keywords: [Confirm, Held, Capacity, Input, fulfillment, order, locations, correspond, action, call]
+keywords: [Confirm, Held, Capacity, fulfillment, order, locations, correspond, action, call]
 ---
-
-# Confirm Held FO Capacity Input
 
 > Request to confirm held fulfillment order capacity at one or more
       locations. Can correspond to one action call.

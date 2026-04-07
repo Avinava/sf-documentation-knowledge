@@ -5,12 +5,10 @@ topic: patientmedicalprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.489Z
+lastCollected: 2026-04-07T18:37:56.934Z
 estimatedTokens: 2332
-keywords: [PatientMedicalProcedure, detailed, healthcare, procedure, patient, undergone, undergoing, undergo, API, version, 51.0, later, Calls, Additional, Objects]
+keywords: [PatientMedicalProcedure, detailed, healthcare, procedure, patient, undergone, undergoing, undergo, API, 51.0, Additional]
 ---
-
-# PatientMedicalProcedure
 
 > Represents detailed information about a healthcare procedure the patient has
       undergone, is undergoing or will undergo.  This object is available in API version 51.0

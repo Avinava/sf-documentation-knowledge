@@ -5,12 +5,10 @@ topic: advacctforecastdimsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.087Z
+lastCollected: 2026-04-07T18:39:24.992Z
 estimatedTokens: 278
 keywords: [AdvAcctForecastDimSource, dimensions, advanced, account, forecast, generate, records]
 ---
-
-# AdvAcctForecastDimSource
 
 > Represents information about the dimensions that can be used by advanced
          account forecast sets to generate advanced account forecast records.

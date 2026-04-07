@@ -5,12 +5,10 @@ topic: loyalty-process-input-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.078Z
+lastCollected: 2026-04-07T18:38:07.297Z
 estimatedTokens: 143
-keywords: [Loyalty, Process, Input, Options, representation, execution]
+keywords: [Loyalty, Process, Options, execution]
 ---
-
-# Loyalty Process Input Options
 
 > Input representation of the execution options for the loyalty
       process.

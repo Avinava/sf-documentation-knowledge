@@ -5,12 +5,10 @@ topic: connectapiinsurancebulkcensusmgmtoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.547Z
+lastCollected: 2026-04-07T18:37:50.378Z
 estimatedTokens: 130
-keywords: [Output, representation, bulk, employee, census, management, process]
+keywords: [bulk, employee, census, management, process]
 ---
-
-# ConnectApi.InsuranceBulkCensusMgmtOutputRepresentation
 
 > Output representation for the bulk employee census management process.
 

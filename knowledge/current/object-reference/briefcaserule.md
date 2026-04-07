@@ -5,12 +5,10 @@ topic: briefcaserule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.864Z
+lastCollected: 2026-04-07T18:38:26.847Z
 estimatedTokens: 783
-keywords: [BriefcaseRule, rule, records, briefcase, definition, API, version, 50.0, later, Special, Access, Rules, Calls]
+keywords: [BriefcaseRule, rule, records, briefcase, definition, API, 50.0]
 ---
-
-# BriefcaseRule
 
 > Represents a rule that specifies records for a briefcase definition.
 		This object is available in API version 50.0 and later.

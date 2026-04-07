@@ -5,12 +5,10 @@ topic: action-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.304Z
+lastCollected: 2026-04-07T18:37:29.397Z
 estimatedTokens: 254
-keywords: [Action, Plan, Output, representation, individual, hold, result, items]
+keywords: [Action, Plan, individual, hold, result, items]
 ---
-
-# Action Plan
 
 > Output representation of the action plan information related to individual hold result
     items.

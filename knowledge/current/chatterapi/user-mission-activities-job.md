@@ -5,12 +5,10 @@ topic: user-mission-activities-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.528Z
+lastCollected: 2026-04-07T18:37:23.600Z
 estimatedTokens: 155
 keywords: [User, Mission, Activities, Job]
 ---
-
-# User Mission Activities Job
 
 > User mission activities job.
 

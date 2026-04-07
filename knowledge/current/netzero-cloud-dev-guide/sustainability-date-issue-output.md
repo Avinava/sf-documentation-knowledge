@@ -5,12 +5,10 @@ topic: sustainability-date-issue-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.840Z
+lastCollected: 2026-04-07T18:38:16.385Z
 estimatedTokens: 231
-keywords: [Sustainability, Date, Issue, Output, representation]
+keywords: [Sustainability, Date, Issue]
 ---
-
-# Sustainability Date Issue Output
 
 > Output representation for sustainability date issue
     request.

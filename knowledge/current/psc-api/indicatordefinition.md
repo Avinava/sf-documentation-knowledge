@@ -5,12 +5,10 @@ topic: indicatordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.874Z
+lastCollected: 2026-04-07T18:39:04.892Z
 estimatedTokens: 869
-keywords: [IndicatorDefinition, indicator, assignment, process, measuring, calculating, results, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [IndicatorDefinition, indicator, assignment, process, measuring, calculating, results, API, 59.0]
 ---
-
-# IndicatorDefinition
 
 > Represents information about the indicator assignment and the process
          of measuring and calculating the indicator results. This object is available in API

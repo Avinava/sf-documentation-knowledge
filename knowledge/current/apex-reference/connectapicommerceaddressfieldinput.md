@@ -5,12 +5,10 @@ topic: connectapicommerceaddressfieldinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.691Z
+lastCollected: 2026-04-07T18:36:05.052Z
 estimatedTokens: 99
-keywords: [ConnectApi.CommerceAddressFieldInput, Commerce, address, input, custom]
+keywords: [ConnectApi.CommerceAddressFieldInput, Commerce, address]
 ---
-
-# ConnectApi.CommerceAddressFieldInput
 
 > Commerce address field input. This is used to reference custom fields for the
       address.

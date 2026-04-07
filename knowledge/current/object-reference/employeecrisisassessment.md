@@ -5,12 +5,10 @@ topic: employeecrisisassessment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.505Z
+lastCollected: 2026-04-07T18:38:30.331Z
 estimatedTokens: 1075
-keywords: [EmployeeCrisisAssessment, crisis, assessment, Employee, API, version, 48.0, later, 49.0, supports, reports, criteria-based, sharing, rules, history]
+keywords: [EmployeeCrisisAssessment, crisis, assessment, Employee, API, 48.0, 49.0, supports, reports, criteria-based, sharing, plus, exclude, individual, layouts]
 ---
-
-# EmployeeCrisisAssessment
 
 > Represents a crisis assessment of an Employee. This object is available in
     API version 48.0 and later. In API version 49.0 and later, this object supports reports,

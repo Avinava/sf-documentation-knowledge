@@ -5,12 +5,10 @@ topic: place-order-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.102Z
+lastCollected: 2026-04-07T18:35:46.061Z
 estimatedTokens: 148
-keywords: [Place, Order, Error, Output, representation]
+keywords: [Place, Order, Error]
 ---
-
-# Place Order Error Response
 
 > Output representation of the error response for the place order request.
 

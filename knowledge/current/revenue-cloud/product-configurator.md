@@ -5,12 +5,10 @@ topic: product-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.682Z
+lastCollected: 2026-04-07T18:35:47.706Z
 estimatedTokens: 476
-keywords: [Product, Configurator, Customize, components, attributes, align, specific, business, requirements]
+keywords: [Product, Configurator, Customize, attributes, align, specific, business, requirements]
 ---
-
-# Product Configurator
 
 > Customize the components and attributes of a product to align with specific business
   requirements.

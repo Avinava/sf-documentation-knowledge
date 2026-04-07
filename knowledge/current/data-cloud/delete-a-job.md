@@ -5,12 +5,10 @@ topic: delete-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.318Z
+lastCollected: 2026-04-07T18:35:51.176Z
 estimatedTokens: 281
-keywords: [Job, state, UploadComplete, JobComplete, Aborted, Failed, stored, data, deleted, metadata, removed, Usage, Notes]
+keywords: [Job, state, UploadComplete, JobComplete, Aborted, Failed, stored, deleted, metadata, removed, Notes]
 ---
-
-# Delete a Job
 
 > To delete, a job must have a state of UploadComplete,
    JobComplete, Aborted, or Failed. When

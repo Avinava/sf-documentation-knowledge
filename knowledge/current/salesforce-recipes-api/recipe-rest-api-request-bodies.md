@@ -5,12 +5,10 @@ topic: recipe-rest-api-request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.816Z
+lastCollected: 2026-04-07T18:39:18.533Z
 estimatedTokens: 7637
-keywords: [Recipe, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON, chapter]
+keywords: [Recipe, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON, chapter, listed, resource]
 ---
-
-# Recipe REST API Request Bodies
 
 > To perform a POST, PATCH, or PUT request, pass query parameters
   or create a request body formatted in either XML or JSON. This chapter

@@ -5,12 +5,10 @@ topic: salesforce-crm-topic-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.175Z
+lastCollected: 2026-04-07T18:35:53.110Z
 estimatedTokens: 168
-keywords: [Salesforce, CRM, Topic, Mappings, data, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage, DMO, Mapping]
+keywords: [Salesforce, CRM, Topic, Mappings, DLO, found, Financial, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---
-
-# Salesforce CRM: Topic Mappings
 
 > These data mappings are for the Topic DLO found in Financial Services Cloud bundle of
   the Salesforce CRM Connector for Data Cloud.

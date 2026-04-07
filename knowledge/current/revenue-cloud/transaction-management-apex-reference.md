@@ -5,13 +5,11 @@ topic: transaction-management-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.870Z
+lastCollected: 2026-04-07T18:35:47.907Z
 estimatedTokens: 477
 namespace: CommerceOrders
 keywords: [Transaction, Management, Apex, built-in, classes, interfaces, grouped]
 ---
-
-# Transaction Management Apex Reference
 
 > Use built-in Apex classes and interfaces grouped by
     namespace.

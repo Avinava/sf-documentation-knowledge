@@ -5,12 +5,10 @@ topic: product-cart-item-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.871Z
+lastCollected: 2026-04-07T18:37:21.985Z
 estimatedTokens: 241
 keywords: [Product, Cart, Item, Collection, Items, grouped]
 ---
-
-# Product Cart Item Collection
 
 > Items in the cart, grouped by product type.
 

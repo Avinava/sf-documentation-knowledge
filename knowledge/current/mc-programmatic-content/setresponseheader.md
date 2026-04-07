@@ -5,12 +5,10 @@ topic: setresponseheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.969Z
+lastCollected: 2026-04-07T18:40:23.399Z
 estimatedTokens: 115
 keywords: [SetResponseHeader, Function, Ordinal, **Overview**, **Syntax**]
 ---
-
-# SetResponseHeader
 
 > SetResponseHeader(1, 2)
 

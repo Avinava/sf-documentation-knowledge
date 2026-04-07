@@ -5,12 +5,10 @@ topic: cases-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.836Z
+lastCollected: 2026-04-07T18:35:59.105Z
 estimatedTokens: 216
 keywords: [Cases]
 ---
-
-# Cases Methods
 
 > The following are static methods for Cases.
 

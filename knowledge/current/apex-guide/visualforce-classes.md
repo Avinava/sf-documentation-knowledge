@@ -5,12 +5,10 @@ topic: visualforce-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.901Z
+lastCollected: 2026-04-07T18:36:18.130Z
 estimatedTokens: 659
-keywords: [Visualforce, Classes, addition, giving, developers, ability, add, business, logic, Salesforce, system, events, button, clicks, record]
+keywords: [Visualforce, Classes, addition, giving, developers, ability, add, business, logic, Salesforce, system, events, button, clicks, record, updates, Apex, provide, pages, controllers, controller, extensions]
 ---
-
-# Visualforce Classes
 
 > In addition to giving developers the ability to add business logic to Salesforce
         system events such as button clicks and related record updates, Apex can also be used to

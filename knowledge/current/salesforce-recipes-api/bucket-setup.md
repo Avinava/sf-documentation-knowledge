@@ -5,12 +5,10 @@ topic: bucket-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:25.308Z
+lastCollected: 2026-04-07T18:39:18.994Z
 estimatedTokens: 210
 keywords: [Bucket, Setup, node, recipe]
 ---
-
-# Bucket Setup
 
 > The setup for a bucket node field in a recipe.
 

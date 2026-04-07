@@ -5,12 +5,10 @@ topic: medtech-commercial-engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.703Z
+lastCollected: 2026-04-07T18:37:57.224Z
 estimatedTokens: 89
-keywords: [MedTech, Commercial, Engagement, objects, Life, Sciences, Cloud]
+keywords: [MedTech, Commercial, Engagement, Life, Sciences, Cloud]
 ---
-
-# MedTech Commercial Engagement
 
 > These objects are available for Life Sciences Cloud for MedTech Commercial
     Engagement.

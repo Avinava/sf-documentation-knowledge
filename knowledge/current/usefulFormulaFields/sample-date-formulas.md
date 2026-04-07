@@ -5,12 +5,10 @@ topic: sample-date-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.281Z
+lastCollected: 2026-04-07T18:40:12.295Z
 estimatedTokens: 2369
-keywords: [Sample, Date, Formulas, topic, manipulate, perform, calculations, time, Day, Month, Year, Leap, Quarter, Week, Whether]
+keywords: [Sample, Date, Formulas, topic, manipulate, perform, calculations, time, Day, Month, Year, Leap, Quarter, Week, Whether, Two, Dates, Display, instead, Number, Days, Weekdays, Months, Add, Years, Business, Hour, Minute, Second, Elapsed, Times, Hours]
 ---
-
-# Sample Date Formulas
 
 > Use the sample formulas in this topic to manipulate and perform calculations with date
     and time.

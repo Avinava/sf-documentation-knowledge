@@ -5,12 +5,10 @@ topic: new-sale-transaction-with-ramped-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:01:57.916Z
+lastCollected: 2026-04-07T18:35:42.807Z
 estimatedTokens: 3652
-keywords: [New, Sale, Transaction, Ramped, Products, Understand, key, considerations, billing, schedule]
+keywords: [Considerations, New, Sale, Transaction, Ramped, Products, Understand, key, billing, schedule]
 ---
-
-# New Sale Transaction With Ramped Products
 
 > Understand the required values and key considerations before you create a billing
     schedule for a new sale transaction with ramped products.

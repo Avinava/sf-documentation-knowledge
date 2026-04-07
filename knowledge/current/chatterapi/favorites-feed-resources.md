@@ -5,12 +5,10 @@ topic: favorites-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.008Z
+lastCollected: 2026-04-07T18:37:10.699Z
 estimatedTokens: 1102
-keywords: [Favorites, Feed, Resources, containing, saved, context, user, Favorite]
+keywords: [Favorite, Favorites, Resources, containing, saved, context, user]
 ---
-
-# Favorites Feed Resources
 
 > A feed containing favorites saved by the context
             user.

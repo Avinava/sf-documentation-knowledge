@@ -5,12 +5,10 @@ topic: replicated-dataset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.508Z
+lastCollected: 2026-04-07T18:36:54.869Z
 estimatedTokens: 469
-keywords: [Replicated, Dataset, Input, Analytics, know, connected]
+keywords: [Replicated, Dataset, Analytics, know, connected]
 ---
-
-# Replicated Dataset Input
 
 > An Analytics replicated dataset, also know as a connected object.
 

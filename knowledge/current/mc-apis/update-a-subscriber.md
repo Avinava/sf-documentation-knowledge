@@ -5,12 +5,10 @@ topic: update-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.683Z
+lastCollected: 2026-04-07T18:40:20.950Z
 estimatedTokens: 377
-keywords: [Subscriber, scenario, how, pre-existing, case, already, exists, call, modifies, attributes, either, UpdateAdd, save, action, Diagram, Updating, via, SOAP, API, better]
+keywords: [Diagram, Subscriber, scenario, how, pre-existing, case, already, exists, call, modifies, attributes, either, UpdateAdd, save, action, Referenced, Items, Updating, via, SOAP, API, better, maintain, utilizing, tight, integration, system, development, environment, Why, How, Sample, Envelope]
 ---
-
-# Update a Subscriber
 
 > Updating an existing subscriber via the SOAP API allows you to better maintain your subscriber information while utilizing a tight integration with your system or development environment.
 

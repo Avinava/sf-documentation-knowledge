@@ -5,12 +5,10 @@ topic: set-the-canvas-app-location-for-external-client-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.792Z
+lastCollected: 2026-04-07T18:38:57.603Z
 estimatedTokens: 829
 keywords: [Canvas, App, Location, External, Client, Apps, Specify, display, user, Salesforce, via]
 ---
-
-# Set the Canvas App Location for External Client Apps
 
 > Specify where your canvas app can display to a user in Salesforce via an external client
   app.

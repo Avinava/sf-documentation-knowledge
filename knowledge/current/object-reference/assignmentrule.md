@@ -5,12 +5,10 @@ topic: assignmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.277Z
+lastCollected: 2026-04-07T18:38:26.225Z
 estimatedTokens: 420
-keywords: [AssignmentRule, assignment, rule, associated, Case, Lead, Calls, Special, Access, Rules, Usage]
+keywords: [AssignmentRule, assignment, rule, Case, Lead]
 ---
-
-# AssignmentRule
 
 > Represents an assignment rule associated with a Case or
     Lead.

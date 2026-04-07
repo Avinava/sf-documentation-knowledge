@@ -5,12 +5,10 @@ topic: productqualificationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.354Z
+lastCollected: 2026-04-07T18:39:55.934Z
 estimatedTokens: 363
-keywords: [ProductQualificationFeed, Feed, tracking, ProductQualification]
+keywords: [ProductQualificationFeed, ProductQualification]
 ---
-
-# ProductQualificationFeed
 
 > Feed tracking for ProductQualification.
 

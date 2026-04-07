@@ -6,13 +6,10 @@ topic: lwc-offline-enabled-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.804Z
+lastCollected: 2026-04-07T18:38:15.291Z
 estimatedTokens: 312
 keywords: [LWC, Offline, Enabled, Apps, opt-in, enhancement, Salesforce, mobile]
 ---
-
-# LWC Offline Enabled
-  Apps
 
 > LWC Offline is
   available as an optional, opt-in enhancement to existing Salesforce mobile apps.

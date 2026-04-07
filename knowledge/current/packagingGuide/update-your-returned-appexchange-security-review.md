@@ -5,12 +5,10 @@ topic: update-your-returned-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.794Z
+lastCollected: 2026-04-07T18:38:47.746Z
 estimatedTokens: 216
-keywords: [AppExchange, Security, Review, submitted, solution, team, because, something, they, testing, missing, incorrect, status, back, wizard]
+keywords: [AppExchange, Security, Review, submitted, solution, team, because, something, they, testing, missing, incorrect, status, back, wizard, fix, issues, resubmit]
 ---
-
-# Update Your Returned AppExchange Security Review
 
 > You submitted your solution for security review. Then the review team returned it to
         you because something that they need for testing is missing or incorrect. The status of your

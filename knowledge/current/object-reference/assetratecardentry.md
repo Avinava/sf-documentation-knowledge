@@ -5,12 +5,10 @@ topic: assetratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.189Z
+lastCollected: 2026-04-07T18:38:26.135Z
 estimatedTokens: 1004
-keywords: [AssetRateCardEntry, Stores, negotiated, rate, card, entries, associated, asset, Revenue, Cloud, API, version, 62.0, later, Calls]
+keywords: [AssetRateCardEntry, Stores, negotiated, rate, card, entries, asset, Revenue, Cloud, API, 62.0]
 ---
-
-# AssetRateCardEntry
 
 > Stores the negotiated rate card entries that are associated with an
          asset in Revenue Cloud. This object is available in API version 62.0 and

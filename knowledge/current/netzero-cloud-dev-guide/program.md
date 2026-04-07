@@ -5,12 +5,10 @@ topic: program
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.982Z
+lastCollected: 2026-04-07T18:38:17.518Z
 estimatedTokens: 1676
-keywords: [Program, enrollment, disbursement, benefits, API, version, 57.0, later, Calls]
+keywords: [Program, enrollment, disbursement, benefits, API, 57.0]
 ---
-
-# Program
 
 > Represents information about the enrollment and disbursement of
          benefits in a program. This object is available in API version 57.0 and

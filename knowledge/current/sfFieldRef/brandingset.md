@@ -5,13 +5,11 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.988Z
+lastCollected: 2026-04-07T18:39:30.113Z
 estimatedTokens: 339
 namespace: NamespacePrefix
-keywords: [BrandingSet, definition, branding, Experience, Builder, site, defined, Theme, panel, API, version, 40.0, later]
+keywords: [BrandingSet, definition, branding, Experience, Builder, site, defined, Theme, panel, API, 40.0]
 ---
-
-# BrandingSet
 
 > Represents the definition of a set of branding properties for an
          Experience Builder site, as defined in the Theme panel in Experience Builder. This

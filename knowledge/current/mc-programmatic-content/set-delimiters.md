@@ -5,12 +5,10 @@ topic: set-delimiters
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.026Z
+lastCollected: 2026-04-07T18:40:22.418Z
 estimatedTokens: 159
 keywords: [Delimiters, simple, tags, prefix, suffix, include, whitespace, delimiter, tokens, cannot, sample, new]
 ---
-
-# Set Delimiters
 
 > Set Delimiters use simple tags and use the = prefix and suffix. You must also include a single whitespace between the specified delimiter tokens, and you cannot include whitespace before or after those tokens. This sample sets the new delimiter tokens to {< and >}.
 

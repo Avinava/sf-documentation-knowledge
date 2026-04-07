@@ -5,12 +5,10 @@ topic: locationshippingcarriermethodhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:52.570Z
+lastCollected: 2026-04-07T18:39:47.047Z
 estimatedTokens: 282
-keywords: [LocationShippingCarrierMethodHistory, History, tracked, LocationShippingCarrierMethod]
+keywords: [LocationShippingCarrierMethodHistory, tracked, LocationShippingCarrierMethod]
 ---
-
-# LocationShippingCarrierMethodHistory
 
 > History for tracked fields of LocationShippingCarrierMethod.
 

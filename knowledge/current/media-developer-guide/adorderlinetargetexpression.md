@@ -5,12 +5,10 @@ topic: adorderlinetargetexpression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.821Z
+lastCollected: 2026-04-07T18:38:12.103Z
 estimatedTokens: 787
-keywords: [AdOrderLineTargetExpression, expression, decides, targeting, criteria, order, line, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [AdOrderLineTargetExpression, expression, decides, targeting, criteria, order, line, API, 62.0]
 ---
-
-# AdOrderLineTargetExpression
 
 > Represents the expression that decides the targeting criteria for an
          ad order line. This object is available in API version 62.0 and later.

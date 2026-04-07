@@ -5,12 +5,10 @@ topic: connectapiauthorizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.973Z
+lastCollected: 2026-04-07T18:36:07.311Z
 estimatedTokens: 271
-keywords: [ConnectApi.AuthorizationResponse, Payment, Authorization, output, representation]
+keywords: [ConnectApi.AuthorizationResponse, Payment, Authorization]
 ---
-
-# ConnectApi.AuthorizationResponse
 
 > Payment Authorization output representation.
 

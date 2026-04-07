@@ -5,12 +5,10 @@ topic: delete-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.048Z
+lastCollected: 2026-04-07T18:40:24.558Z
 estimatedTokens: 402
-keywords: [Data, Extension, Specify, unique, identifier, needs, props, order, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Extension, Specify, unique, identifier, needs, props, order, identify, PHP]
 ---
-
-# Delete a Data Extension
 
 > Use the Delete method to delete a data extension. Specify a unique identifier needs to be specified in the props properties in order to identify which data extension to update:
 

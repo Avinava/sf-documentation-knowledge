@@ -5,12 +5,10 @@ topic: party-financial-asset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.685Z
+lastCollected: 2026-04-07T18:36:37.213Z
 estimatedTokens: 686
-keywords: [Party, Financial, Asset, Input, representation]
+keywords: [Party, Financial, Asset]
 ---
-
-# Party Financial Asset Input
 
 > Input representation of the details of the party financial asset.
 

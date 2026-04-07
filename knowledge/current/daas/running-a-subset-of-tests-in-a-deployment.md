@@ -5,13 +5,11 @@ topic: running-a-subset-of-tests-in-a-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.974Z
+lastCollected: 2026-04-07T18:37:28.014Z
 estimatedTokens: 762
 namespace: MyNamespace
-keywords: [Running, Subset, Tests, Deployment, Test, levels, enable, control, over, run, shorten, time, production, deploying, Apex]
+keywords: [Running, Subset, Tests, Deployment, Test, levels, enable, control, over, run, shorten, time, production, deploying, Apex, execution, behavior, changed, level, executed, unless, package, classes, triggers, Notes, Specific]
 ---
-
-# Running a Subset of Tests in a Deployment
 
 > Test levels enable you to have more control over which tests are run in a deployment.
     To shorten deployment time to production, run a subset of tests when deploying Apex components.

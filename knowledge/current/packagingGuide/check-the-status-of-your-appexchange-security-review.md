@@ -5,12 +5,10 @@ topic: check-the-status-of-your-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.532Z
+lastCollected: 2026-04-07T18:38:47.480Z
 estimatedTokens: 289
 keywords: [Check, Status, AppExchange, Security, Review, Partner, Console, updates, appear, submit, solution]
 ---
-
-# Check the Status of Your AppExchange Security Review
 
 > Find the status of your security review in the AppExchange Partner Console. Status
         updates appear after you submit the solution for review.

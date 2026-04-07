@@ -5,12 +5,10 @@ topic: using-apex-variables-in-soql-and-sosl-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.038Z
+lastCollected: 2026-04-07T18:36:19.260Z
 estimatedTokens: 340
-keywords: [Apex, Variables, SOQL, SOSL, Queries, statements, code, expressions, they’re, preceded, colon, local, variable, statement, bind]
+keywords: [Apex, Variables, SOQL, SOSL, Queries, statements, code, expressions, they’re, preceded, colon, local, variable, statement, bind, parser, evaluates]
 ---
-
-# Using Apex Variables in SOQL and SOSL Queries
 
 > SOQL and SOSL statements in Apex can reference Apex code
             variables and expressions if they’re preceded by a colon (:). This use of a local code variable within a SOQL

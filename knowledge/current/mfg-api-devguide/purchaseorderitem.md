@@ -5,12 +5,10 @@ topic: purchaseorderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.073Z
+lastCollected: 2026-04-07T18:38:14.462Z
 estimatedTokens: 740
-keywords: [PurchaseOrderItem, individual, line, parent, Purchase, Order, detailing, specific, product, service, procured, captures, core, transactional, data]
+keywords: [PurchaseOrderItem, individual, line, parent, Purchase, Order, detailing, specific, product, service, procured, captures, core, transactional, including, Quantity, UnitPrice, calculated, LineTotal, API, 65.0]
 ---
-
-# PurchaseOrderItem
 
 > Represents an individual line on a parent Purchase Order, detailing a specific
       product or service being procured. It captures the core transactional data including the

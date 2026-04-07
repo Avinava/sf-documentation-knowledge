@@ -5,12 +5,10 @@ topic: output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.946Z
+lastCollected: 2026-04-07T18:37:57.490Z
 estimatedTokens: 82
-keywords: [Output, Classes, Apex, Life, Sciences, Cloud]
+keywords: [Classes, Apex, Life, Sciences, Cloud]
 ---
-
-# Output Classes
 
 > These are the Apex output classes for Life Sciences Cloud.
 

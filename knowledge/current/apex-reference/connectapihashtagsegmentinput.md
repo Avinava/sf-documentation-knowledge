@@ -5,12 +5,10 @@ topic: connectapihashtagsegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.237Z
+lastCollected: 2026-04-07T18:36:05.575Z
 estimatedTokens: 188
-keywords: [ConnectApi.HashtagSegmentInput, Include, hashtag, feed, item, comment]
+keywords: [ConnectApi.HashtagSegmentInput, Include, hashtag, item, comment]
 ---
-
-# ConnectApi.HashtagSegmentInput
 
 > Include a hashtag in a feed item or comment.
 

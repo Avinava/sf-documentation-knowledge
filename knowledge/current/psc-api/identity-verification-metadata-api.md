@@ -5,12 +5,10 @@ topic: identity-verification-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.509Z
+lastCollected: 2026-04-07T18:39:03.694Z
 estimatedTokens: 177
 keywords: [Identity, Verification, Metadata, API, edit, configuration]
 ---
-
-# Identity Verification Metadata API
 
 > Create and edit identity verification configuration using a Metadata API.
 

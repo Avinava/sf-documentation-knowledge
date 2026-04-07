@@ -5,12 +5,10 @@ topic: search-with-parameters-in-the-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.919Z
+lastCollected: 2026-04-07T18:36:21.148Z
 estimatedTokens: 2257
-keywords: [Search, defining, Access, advanced, offers, control, over, how, query, executes, filter, several, DataCategories, networks, sites]
+keywords: [Search, defining, advanced, offers, control, over, how, query, executes, filter, several, DataCategories, networks, sites, orderBy, constraints, filters, resource, REST, API, 36.0]
 ---
-
-# Search with Parameters in the Request Body
 
 > Search by defining parameters in the request body Access advanced search that offers
     more control over how the search query executes. It also allows you to filter using several

@@ -5,12 +5,10 @@ topic: manage-favorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.528Z
+lastCollected: 2026-04-07T18:40:10.503Z
 estimatedTokens: 550
-keywords: [Manage, Favorites, let, users, access, frequently, pages, Salesforce, User, API, resources]
+keywords: [Manage, Favorites, let, users, frequently, pages, Salesforce, User, API, resources]
 ---
-
-# Manage Favorites
 
 > Favorites let users access frequently used pages in Salesforce. Use
       User Interface API Favorites resources to manage favorites.

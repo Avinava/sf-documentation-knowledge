@@ -5,12 +5,10 @@ topic: blngrevenueadjustmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.421Z
+lastCollected: 2026-04-07T18:37:04.015Z
 estimatedTokens: 1170
-keywords: [blng__RevenueAdjustment__c, adjustment, increase, decrease, transfer, balance, revenue, schedules, actual, differs, initial, schedule, blng, _RevenueAdjustment, Calls]
+keywords: [blng__RevenueAdjustment__c, adjustment, increase, decrease, transfer, balance, revenue, schedules, actual, differs, initial, schedule, blng, _RevenueAdjustment]
 ---
-
-# blng__RevenueAdjustment__c
 
 > Represents the adjustment to increase, decrease, or transfer the available
          balance between revenue schedules when actual revenue differs from the initial revenue

@@ -5,12 +5,10 @@ topic: recordalertinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.431Z
+lastCollected: 2026-04-07T18:37:33.873Z
 estimatedTokens: 120
 keywords: [RecordAlertInfo, record, alert]
 ---
-
-# RecordAlertInfo Class
 
 > Represents details about the record alert.
 

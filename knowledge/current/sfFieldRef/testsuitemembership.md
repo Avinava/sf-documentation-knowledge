@@ -5,12 +5,10 @@ topic: testsuitemembership
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.256Z
+lastCollected: 2026-04-07T18:40:03.987Z
 estimatedTokens: 285
-keywords: [TestSuiteMembership, Associates, Apex, ApexTestSuite, API, version, 36.0, later]
+keywords: [TestSuiteMembership, Associates, Apex, ApexTestSuite, API, 36.0]
 ---
-
-# TestSuiteMembership
 
 > Associates an Apex class with an ApexTestSuite.
    This object is available in API version 36.0 and later.

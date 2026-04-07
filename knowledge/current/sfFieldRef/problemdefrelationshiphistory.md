@@ -5,12 +5,10 @@ topic: problemdefrelationshiphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.337Z
+lastCollected: 2026-04-07T18:39:54.896Z
 estimatedTokens: 276
-keywords: [ProblemDefRelationshipHistory, History, tracked, ProblemDefRelationship]
+keywords: [ProblemDefRelationshipHistory, tracked, ProblemDefRelationship]
 ---
-
-# ProblemDefRelationshipHistory
 
 > History for tracked fields of ProblemDefRelationship.
 

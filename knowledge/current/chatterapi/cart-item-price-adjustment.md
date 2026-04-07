@@ -5,12 +5,10 @@ topic: cart-item-price-adjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.182Z
+lastCollected: 2026-04-07T18:37:17.252Z
 estimatedTokens: 335
 keywords: [Cart, Item, Price, Adjustment]
 ---
-
-# Cart Item Price Adjustment
 
 > Price adjustment that applies to an item in the
     cart.

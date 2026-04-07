@@ -5,12 +5,10 @@ topic: blngtaxconfigc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.545Z
+lastCollected: 2026-04-07T18:37:04.152Z
 estimatedTokens: 279
-keywords: [blng__TaxConfig__c, tax, configuration, associated, billing, schedule, blng, _TaxConfig, Calls]
+keywords: [blng__TaxConfig__c, tax, configuration, billing, schedule, blng, _TaxConfig]
 ---
-
-# blng__TaxConfig__c
 
 > Represents the tax configuration associated with a billing
          schedule.

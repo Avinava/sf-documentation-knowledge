@@ -5,12 +5,10 @@ topic: iserviceprocessconnectfamily-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.864Z
+lastCollected: 2026-04-07T18:36:35.340Z
 estimatedTokens: 232
-keywords: [IServiceProcessConnectFamily, Output, Classes]
+keywords: [IServiceProcessConnectFamily, Classes]
 ---
-
-# IServiceProcessConnectFamily Output Classes
 
 > The following are output classes for IServiceProcessConnectFamily.
 

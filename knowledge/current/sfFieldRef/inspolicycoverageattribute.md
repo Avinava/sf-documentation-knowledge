@@ -5,12 +5,10 @@ topic: inspolicycoverageattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.314Z
+lastCollected: 2026-04-07T18:39:44.887Z
 estimatedTokens: 297
-keywords: [InsPolicyCoverageAttribute, attributes, insurance, policy, coverage, API, version, 63.0, later]
+keywords: [InsPolicyCoverageAttribute, attributes, insurance, policy, coverage, API, 63.0]
 ---
-
-# InsPolicyCoverageAttribute
 
 > Represents attributes for insurance policy coverage. This object is
       available in API version 63.0 and later.

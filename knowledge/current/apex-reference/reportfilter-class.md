@@ -5,13 +5,11 @@ topic: reportfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.989Z
+lastCollected: 2026-04-07T18:36:03.202Z
 estimatedTokens: 2898
 namespace: Reports
-keywords: [ReportFilter, report, filter, including, column, operator, filterType, entityName, getColumn, getEntityName, getFilterType, getOperator, getValue, setColumn, setEntityName]
+keywords: [ReportFilter, report, filter, including, column, operator, filterType, entityName, getColumn, getEntityName, getFilterType, getOperator, getValue, setColumn, setEntityName, setFilterType, setOperator, setValue, toString]
 ---
-
-# ReportFilter Class
 
 > Contains information about a report filter, including column,
 operator, and value.

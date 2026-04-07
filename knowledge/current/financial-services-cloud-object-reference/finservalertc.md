@@ -5,12 +5,10 @@ topic: finservalertc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.410Z
+lastCollected: 2026-04-07T18:37:36.144Z
 estimatedTokens: 404
-keywords: [FinServ_Alert__c, notifications, alert, advisors, their, client, accounts, FinServ, _Alert, Calls]
+keywords: [FinServ_Alert__c, notifications, alert, advisors, their, client, accounts, FinServ, _Alert]
 ---
-
-# FinServ_Alert__c
 
 > Represents notifications to alert advisors about their client
          accounts.

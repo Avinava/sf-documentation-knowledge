@@ -5,12 +5,10 @@ topic: invoking-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.651Z
+lastCollected: 2026-04-07T18:36:17.882Z
 estimatedTokens: 765
 keywords: [Invoking, Apex, run, code, triggers, asynchronously, SOAP, REST, web, services]
 ---
-
-# Invoking Apex
 
 > You can run Apex code with triggers, or asynchronously, or as SOAP or REST web
         services.

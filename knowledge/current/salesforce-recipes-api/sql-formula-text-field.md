@@ -5,12 +5,10 @@ topic: sql-formula-text-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.957Z
+lastCollected: 2026-04-07T18:39:19.641Z
 estimatedTokens: 125
 keywords: [SQL, Formula, Text, recipe, node]
 ---
-
-# SQL Formula Text Field
 
 > The SQL formula text field for a recipe node.
 

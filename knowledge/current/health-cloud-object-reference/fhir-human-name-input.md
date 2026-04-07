@@ -5,12 +5,10 @@ topic: fhir-human-name-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.798Z
+lastCollected: 2026-04-07T18:37:40.780Z
 estimatedTokens: 412
-keywords: [FHIR, Human, Input, representation, person, associated, metadata]
+keywords: [FHIR, Human, person, metadata]
 ---
-
-# FHIR Human Name Input
 
 > The input representation for the name of a person and all its
       associated metadata.

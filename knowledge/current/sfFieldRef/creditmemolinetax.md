@@ -5,12 +5,10 @@ topic: creditmemolinetax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.994Z
+lastCollected: 2026-04-07T18:39:36.553Z
 estimatedTokens: 542
-keywords: [CreditMemoLineTax, tax, credit, memo, line, API, version, 62.0, later]
+keywords: [CreditMemoLineTax, tax, credit, memo, line, API, 62.0]
 ---
-
-# CreditMemoLineTax
 
 > Represents tax information of a credit memo line of type Tax. This object is available in API version 62.0 and
       later.

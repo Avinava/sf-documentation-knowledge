@@ -5,12 +5,10 @@ topic: connectapirefundsequenceitemoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.273Z
+lastCollected: 2026-04-07T18:36:11.565Z
 estimatedTokens: 86
 keywords: [order, payment, summary, amount, processed, refund, items]
 ---
-
-# ConnectApi.RefundSequenceItemOutputRepresentation
 
 > The order payment summary ID and amount of the processed refund items.
 

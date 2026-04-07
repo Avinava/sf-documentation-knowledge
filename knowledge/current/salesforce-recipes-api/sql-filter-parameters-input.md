@@ -5,12 +5,10 @@ topic: sql-filter-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.996Z
+lastCollected: 2026-04-07T18:39:18.725Z
 estimatedTokens: 73
-keywords: [SQL, Filter, Input, node, recipe]
+keywords: [SQL, Filter, node, recipe]
 ---
-
-# SQL Filter Parameters Input
 
 > The parameters for a SQL filter node in a recipe.
 

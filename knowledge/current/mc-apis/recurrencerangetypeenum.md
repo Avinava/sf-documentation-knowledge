@@ -5,12 +5,10 @@ topic: recurrencerangetypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.248Z
+lastCollected: 2026-04-07T18:40:18.451Z
 estimatedTokens: 70
 keywords: [RecurrenceRangeTypeEnum]
 ---
-
-# RecurrenceRangeTypeEnum
 
 # RecurrenceRangeTypeEnum
 

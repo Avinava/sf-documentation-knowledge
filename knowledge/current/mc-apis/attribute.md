@@ -5,12 +5,10 @@ topic: attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.318Z
+lastCollected: 2026-04-07T18:40:15.399Z
 estimatedTokens: 169
 keywords: [Attribute, attributes, subscriber, any, applicable, compression, configuration]
 ---
-
-# Attribute
 
 > The Attribute object defines attributes for a subscriber. Each Attribute object contains an attribute name, the value of that attribute, and any applicable compression configuration.
 

@@ -5,13 +5,11 @@ topic: managedcontentdelivery-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.871Z
+lastCollected: 2026-04-07T18:35:58.208Z
 estimatedTokens: 14078
 namespace: ConnectApi
-keywords: [ManagedContentDelivery, collection, items, managed, content, channel, getChannels, pageParam, pageSize, API, Version, Guest, Users, Requires, Chatter]
+keywords: [ManagedContentDelivery, collection, items, managed, content, channel, getChannels, pageParam, pageSize, API, Guest, Users, Requires, Chatter, getCollectionItemsForChannel, channelId, collectionKeyOrId, language, pageToken, getCollectionItemsForSite, siteId, getManagedContentDeliveryChannel, getManagedContentForChannel, contentKeyOrId, showAbsoluteUrl, referenceDepth, expandReferences, referencesAsList, getManagedContentForSite, getManagedContentsForChannel, managedContentIds, contentKeys, contentTypeFQN, publishStartDate, publishEndDate, includeContentBody, getManagedContentsForSite, Retired, getManagedContentChannel]
 ---
-
-# ManagedContentDelivery Class
 
 > Get collection items. Get a managed
   content channel. Get managed content.

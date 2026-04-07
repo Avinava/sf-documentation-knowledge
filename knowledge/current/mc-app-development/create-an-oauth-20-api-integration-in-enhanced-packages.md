@@ -5,12 +5,10 @@ topic: create-an-oauth-20-api-integration-in-enhanced-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.962Z
+lastCollected: 2026-04-07T18:40:21.244Z
 estimatedTokens: 271
 keywords: [OAuth, 2.0, API, Integration, Enhanced, Packages, Items]
 ---
-
-# Create an OAuth 2.0 API Integration in Enhanced Packages
 
 # Create an OAuth 2.0 API Integration in Enhanced Packages
 

@@ -5,12 +5,10 @@ topic: folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.896Z
+lastCollected: 2026-04-07T18:40:17.047Z
 estimatedTokens: 220
 keywords: [Folder, deprecated, DataFolder, instead, Items]
 ---
-
-# Folder
 
 > The Folder object is deprecated. Use DataFolder instead.
 

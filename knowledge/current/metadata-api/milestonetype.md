@@ -5,12 +5,10 @@ topic: milestonetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.096Z
+lastCollected: 2026-04-07T18:36:27.619Z
 estimatedTokens: 526
-keywords: [MilestoneType, milestone, entitlement, process, track, steps, cases, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
+keywords: [MilestoneType, milestone, entitlement, process, track, steps, cases, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MilestoneType
 
 > Represents the name and description of a milestone,
             which you can use in an entitlement process to track important steps in

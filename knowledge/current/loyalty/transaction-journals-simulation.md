@@ -5,12 +5,10 @@ topic: transaction-journals-simulation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.328Z
+lastCollected: 2026-04-07T18:38:07.553Z
 estimatedTokens: 639
 keywords: [Transaction, Journals, Simulation, Runs, determine, how, processed, against, their, corresponding, loyalty, program, processes]
 ---
-
-# Transaction Journals Simulation
 
 > Runs a simulation to determine how transaction journals are
       processed against their corresponding loyalty program processes.

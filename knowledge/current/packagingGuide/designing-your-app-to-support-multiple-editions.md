@@ -5,12 +5,10 @@ topic: designing-your-app-to-support-multiple-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.773Z
+lastCollected: 2026-04-07T18:38:46.671Z
 estimatedTokens: 186
-keywords: [Designing, App, Support, Multiple, Editions, Supporting, opportunity, release, richer, versions, advanced, features, found, PXE, There]
+keywords: [Designing, App, Support, Multiple, Editions, Supporting, opportunity, release, richer, versions, advanced, features, found, PXE, There, two, technologies, leveraged, approach, uses, extension, packages, second, leve]
 ---
-
-# Designing Your App to Support Multiple Editions
 
 > Supporting multiple editions provides the opportunity to release
 richer versions of your app that can support more advanced features

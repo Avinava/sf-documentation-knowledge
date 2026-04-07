@@ -5,12 +5,10 @@ topic: weeklyrecurrencepatterntypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.862Z
+lastCollected: 2026-04-07T18:40:21.138Z
 estimatedTokens: 68
 keywords: [WeeklyRecurrencePatternTypeEnum, weekly, recurrence]
 ---
-
-# WeeklyRecurrencePatternTypeEnum
 
 > The WeeklyRecurrencePatternTypeEnum object specifies the type of weekly recurrence.
 

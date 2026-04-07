@@ -5,12 +5,10 @@ topic: custom-domain-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.066Z
+lastCollected: 2026-04-07T18:37:18.143Z
 estimatedTokens: 196
-keywords: [Custom, Domain, Collection, domains, org, own, https, www.example.com, serves, content, Experience, Cloud, sites, Salesforce]
+keywords: [Domain, Collection, domains, org, own, https, www.example.com, serves, content, Experience, Cloud, sites, Salesforce]
 ---
-
-# Custom Domain Collection
 
 > List of custom domains for the org. A custom domain is a domain that you own, such as
       https://www.example.com, that serves content from your Experience Cloud

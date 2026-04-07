@@ -5,12 +5,10 @@ topic: getselectednavigationitem-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.663Z
+lastCollected: 2026-04-07T18:36:49.834Z
 estimatedTokens: 303
-keywords: [getSelectedNavigationItem, Lightning, Experience, selected, navigation, item, works, console, apps, Arguments, Sample, Code]
+keywords: [Arguments, getSelectedNavigationItem, Lightning, Experience, selected, navigation, item, works, console, apps, Sample, Code]
 ---
-
-# getSelectedNavigationItem() for Lightning Experience
 
 > Returns information about the selected navigation item. This method works only in
     Lightning console apps.

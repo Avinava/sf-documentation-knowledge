@@ -5,12 +5,10 @@ topic: example-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.918Z
+lastCollected: 2026-04-07T18:39:10.365Z
 estimatedTokens: 764
-keywords: [Scenarios, Refer, sample, restriction, rules, fulfill, different, access, requirements, review, how, built, Salesforce, Rule, Help]
+keywords: [Scenarios, Refer, sample, restriction, fulfill, different, requirements, review, how, built, Salesforce, Rule, Help]
 ---
-
-# Example Scenarios
 
 > Refer to these sample restriction rules that fulfill different access requirements. To
   review how these example scenarios are built in Salesforce, see Restriction Rule Example Scenarios

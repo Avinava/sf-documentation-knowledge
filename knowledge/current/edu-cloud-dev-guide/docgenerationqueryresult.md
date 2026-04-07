@@ -5,12 +5,10 @@ topic: docgenerationqueryresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.977Z
+lastCollected: 2026-04-07T18:37:30.041Z
 estimatedTokens: 848
-keywords: [DocGenerationQueryResult, including, report, template, process, lookup, document, generation, job, API, version, 61.0, later, Calls, Special]
+keywords: [DocGenerationQueryResult, including, report, template, process, lookup, document, generation, job, API, 61.0]
 ---
-
-# DocGenerationQueryResult
 
 > Represents information, including a report, template, and process
          lookup, for a document generation job. This object is available in API version 61.0

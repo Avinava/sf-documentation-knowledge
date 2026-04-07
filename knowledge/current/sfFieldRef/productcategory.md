@@ -5,12 +5,10 @@ topic: productcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.805Z
+lastCollected: 2026-04-07T18:39:55.376Z
 estimatedTokens: 386
-keywords: [ProductCategory, category, products, organized, in.This, API, version, 49.0, later]
+keywords: [ProductCategory, category, products, organized, in.This, API, 49.0]
 ---
-
-# ProductCategory
 
 > Represents the category that products are organized in.This
       object is available in API version 49.0 and later.

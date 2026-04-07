@@ -5,12 +5,10 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:56.643Z
+lastCollected: 2026-04-07T18:37:45.025Z
 estimatedTokens: 1458
-keywords: [IndustriesSettings, settings, Health, Cloud.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [IndustriesSettings, settings, Health, Cloud.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Cloud, Declarative, Sample, Definition]
 ---
-
-# IndustriesSettings
 
 > Represents settings for Health Cloud.This type extends
     the Metadata metadata type and inherits its fullName field.

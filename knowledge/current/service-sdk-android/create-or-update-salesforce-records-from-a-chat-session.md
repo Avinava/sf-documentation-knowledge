@@ -5,12 +5,10 @@ topic: create-or-update-salesforce-records-from-a-chat-session
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:32.541Z
+lastCollected: 2026-04-07T18:40:27.703Z
 estimatedTokens: 1811
 keywords: [Salesforce, Records, Chat, Session, begins, org, pass, agent, technique, immediately, context, they, effective, Basic, Flow]
 ---
-
-# Create or Update Salesforce Records from a Chat Session
 
 > When a chat session begins, you can create or find records within your org and pass
     this information to the agent. Using this technique, your agent can immediately have all the

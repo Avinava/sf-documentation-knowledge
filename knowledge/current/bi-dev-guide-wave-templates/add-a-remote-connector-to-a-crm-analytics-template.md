@@ -5,12 +5,10 @@ topic: add-a-remote-connector-to-a-crm-analytics-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.532Z
+lastCollected: 2026-04-07T18:37:02.140Z
 estimatedTokens: 534
-keywords: [Add, Remote, Connector, CRM, Analytics, Template, connectors, digest, node, dataflow, referencing, variables.json, editing, ui.json, rules.json]
+keywords: [Add, Remote, Connector, CRM, Analytics, Template, connectors, digest, node, dataflow, referencing, variables.json, editing, ui.json, rules.json, ConnectorType, Variable, Rule, Replace, connectionName]
 ---
-
-# Add a Remote Connector to a CRM Analytics Template
 
 > Add remote connectors to the digest node of a template dataflow by referencing
   connectors in variables.json and editing ui.json and rules.json.

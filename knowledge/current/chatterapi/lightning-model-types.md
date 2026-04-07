@@ -5,12 +5,10 @@ topic: lightning-model-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.331Z
+lastCollected: 2026-04-07T18:37:14.297Z
 estimatedTokens: 263
 keywords: [Lightning, Model, detailed, Apex]
 ---
-
-# Lightning Model Types
 
 > Get detailed information about each Lightning type and Apex class type.
 

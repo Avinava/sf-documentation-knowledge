@@ -5,13 +5,11 @@ topic: compression-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.642Z
+lastCollected: 2026-04-07T18:36:12.930Z
 estimatedTokens: 170
 namespace: Compression
 keywords: [Compression, Exceptions, exception, classes]
 ---
-
-# Compression Exceptions
 
 > The Compression namespace contains exception
         classes.

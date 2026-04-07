@@ -5,12 +5,10 @@ topic: quicktextshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.212Z
+lastCollected: 2026-04-07T18:39:57.825Z
 estimatedTokens: 247
 keywords: [QuickTextShare, Sharing, QuickText]
 ---
-
-# QuickTextShare
 
 > Sharing for QuickText.
 

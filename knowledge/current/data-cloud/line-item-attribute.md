@@ -5,12 +5,10 @@ topic: line-item-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.472Z
+lastCollected: 2026-04-07T18:35:51.324Z
 estimatedTokens: 194
 keywords: [Line, Item, Attribute, items, intended, describe, purchasable, cart, order, interactions]
 ---
-
-# Line Item Attribute
 
 > Line items are intended to describe purchasable items and are used in cart and order
   interactions.

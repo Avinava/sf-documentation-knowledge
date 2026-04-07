@@ -5,13 +5,11 @@ topic: recordalertcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.326Z
+lastCollected: 2026-04-07T18:39:59.009Z
 estimatedTokens: 296
 namespace: NamespacePrefix
-keywords: [RecordAlertCategory, category, group, present, record, alerts, API, version, 54.0, later]
+keywords: [RecordAlertCategory, category, group, present, record, alerts, API, 54.0]
 ---
-
-# RecordAlertCategory
 
 > Represents a category to group and present record alerts. This object is
       available in API version 54.0 and later.

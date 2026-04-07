@@ -5,12 +5,10 @@ topic: attributecategoryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.225Z
+lastCollected: 2026-04-07T18:39:28.269Z
 estimatedTokens: 266
-keywords: [AttributeCategoryHistory, History, tracked, AttributeCategory]
+keywords: [AttributeCategoryHistory, tracked, AttributeCategory]
 ---
-
-# AttributeCategoryHistory
 
 > History for tracked fields of AttributeCategory.
 

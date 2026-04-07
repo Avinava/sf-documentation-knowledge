@@ -5,12 +5,10 @@ topic: load-a-custom-ui-for-your-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:26.175Z
+lastCollected: 2026-04-07T18:40:21.455Z
 estimatedTokens: 602
-keywords: [Load, Custom, Activity, hover, UIs, display, journey, running, mode, configure, appears, there’s, userInterfaces.runningHover, config.json, iframe]
+keywords: [Sample, Load, Activity, hover, UIs, display, journey, running, mode, configure, appears, there’s, userInterfaces.runningHover, config.json, iframe, loads, Button, Dynamic, URLs, Modal, Interacting, via, Postmonger, Dimensions, Items]
 ---
-
-# Load a Custom UI for Your Activity
 
 > Custom hover UIs are used to display information. While a journey is in running mode, you can configure a custom hover UI to load for an activity. This hover UI is optional and appears only if there’s a userInterfaces.runningHover object in the config.json. The hover UI contains an iframe that loads
 

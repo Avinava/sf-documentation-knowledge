@@ -5,12 +5,10 @@ topic: common-error-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:03.781Z
+lastCollected: 2026-04-07T18:37:53.000Z
 estimatedTokens: 344
 keywords: [Common, Error, Codes, code, messages, applicable, Insurance, APIs, across, families]
 ---
-
-# Common Error Codes
 
 > Contains the error codes and error code messages that are applicable to all
       Insurance APIs across all Insurance families.

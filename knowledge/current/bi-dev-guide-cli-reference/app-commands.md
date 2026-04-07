@@ -5,12 +5,10 @@ topic: app-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.162Z
+lastCollected: 2026-04-07T18:36:53.513Z
 estimatedTokens: 1729
 keywords: [app, Commands, manage, Analytics, apps, Examples, Command, decouple, display]
 ---
-
-# app Commands
 
 > Create and manage Analytics apps.
 

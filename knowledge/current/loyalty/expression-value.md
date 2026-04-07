@@ -5,12 +5,10 @@ topic: expression-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.659Z
+lastCollected: 2026-04-07T18:38:07.892Z
 estimatedTokens: 100
-keywords: [Expression, Output, representation]
+keywords: [Expression]
 ---
-
-# Expression Value
 
 > Output representation of the expression value.
 

@@ -5,12 +5,10 @@ topic: classes-and-casting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:31.150Z
+lastCollected: 2026-04-07T18:36:16.356Z
 estimatedTokens: 459
-keywords: [Classes, Casting, general, run, time, means, Apex, data, assigned, another, subclass, want, convert]
+keywords: [Classes, Casting, general, run, time, means, Apex, assigned, another, subclass, want, convert]
 ---
-
-# Classes and Casting
 
 > In general, all type information is available at run time. This means that Apex
         enables casting, that is, a data type of one class can be assigned to a data

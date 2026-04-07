@@ -5,12 +5,10 @@ topic: data-connector-source-object-data-preview-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.564Z
+lastCollected: 2026-04-07T18:36:56.066Z
 estimatedTokens: 322
-keywords: [Data, Connector, Source, Preview, Resource, Analytics, knows, synced, datasets, URL, Formats, Version, Components, HTTP, POST]
+keywords: [Formats, Connector, Source, Preview, Resource, Analytics, knows, synced, datasets, URL, HTTP, POST]
 ---
-
-# Data Connector Source Object Data Preview Resource
 
 > Returns a preview of the source object data that the Analytics
       connector knows about. When a source object is synced to Analytics, it can be used to

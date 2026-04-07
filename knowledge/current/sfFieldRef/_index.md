@@ -2,7 +2,7 @@
 domain: sfFieldRef
 name: Salesforce Field Reference Guide
 documentCount: 4817
-lastGenerated: 2026-04-07T09:06:39.137Z
+lastGenerated: 2026-04-07T18:40:44.270Z
 ---
 
 # Salesforce Field Reference Guide — Knowledge Index

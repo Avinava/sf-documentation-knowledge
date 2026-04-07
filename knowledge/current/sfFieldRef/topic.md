@@ -5,12 +5,10 @@ topic: topic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.410Z
+lastCollected: 2026-04-07T18:40:04.143Z
 estimatedTokens: 247
-keywords: [Topic, Chatter, post, record, API, version, 28.0, later]
+keywords: [Topic, Chatter, post, record, API, 28.0]
 ---
-
-# Topic
 
 > Represents a topic on a Chatter post or record. This object is available in API version 28.0 and
 			later.

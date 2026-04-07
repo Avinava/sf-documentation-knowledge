@@ -5,12 +5,10 @@ topic: claim-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.457Z
+lastCollected: 2026-04-07T18:37:51.488Z
 estimatedTokens: 692
-keywords: [Claim, PATCH, record, associated, items, participants]
+keywords: [Claim, PATCH, record, items, participants]
 ---
-
-# Claim (GET, PATCH)
 
 > Get or update a claim record and its associated claim items and
   participants.

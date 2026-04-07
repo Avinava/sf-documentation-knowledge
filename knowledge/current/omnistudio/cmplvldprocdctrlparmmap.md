@@ -5,12 +5,10 @@ topic: cmplvldprocdctrlparmmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.775Z
+lastCollected: 2026-04-07T18:36:44.498Z
 estimatedTokens: 628
-keywords: [CmplVldProcdCtrlParmMap, association, Validation, Procedure, Control, Param, Map, record, Context, Attribute, API, version, 65.0, later, Calls]
+keywords: [CmplVldProcdCtrlParmMap, association, Validation, Procedure, Control, Param, Map, record, Context, Attribute, API, 65.0]
 ---
-
-# CmplVldProcdCtrlParmMap
 
 > Represents the association between a Validation Procedure Control Param Map
          record and a Context Attribute for a specified Validation Procedure and Control. This

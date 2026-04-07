@@ -5,12 +5,10 @@ topic: boost-and-bury-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.436Z
+lastCollected: 2026-04-07T18:37:10.139Z
 estimatedTokens: 287
-keywords: [Boost, Bury, Rule, Input]
+keywords: [Boost, Bury, Rule]
 ---
-
-# Boost and Bury Rule Input
 
 > Boost and bury rule input.
 

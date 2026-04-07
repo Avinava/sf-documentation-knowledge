@@ -5,12 +5,10 @@ topic: removeclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.468Z
+lastCollected: 2026-04-07T18:38:05.678Z
 estimatedTokens: 69
-keywords: [removeClass, Removes, CSS, component, Sample, Code]
+keywords: [removeClass, Removes, CSS, Sample, Code]
 ---
-
-# removeClass()
 
 > Removes a CSS class from a component.
 

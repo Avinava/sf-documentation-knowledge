@@ -5,12 +5,10 @@ topic: orgpaymentpracsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.445Z
+lastCollected: 2026-04-07T18:38:19.108Z
 estimatedTokens: 2014
-keywords: [OrgPaymentPracSummary, payment, practice, external, parties, organization, discloses, part, ESRS, Business, conduct, API, version, 65.0, later]
+keywords: [OrgPaymentPracSummary, payment, practice, external, parties, organization, discloses, part, ESRS, Business, conduct, API, 65.0]
 ---
-
-# OrgPaymentPracSummary
 
 > Represents the payment practice information to external parties that an
          organization discloses as part of ESRS G1 - Business conduct. This object is available

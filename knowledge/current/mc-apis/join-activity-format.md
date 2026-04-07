@@ -5,12 +5,10 @@ topic: join-activity-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.530Z
+lastCollected: 2026-04-07T18:40:17.705Z
 estimatedTokens: 366
-keywords: [Join, Activity, actually, Joins, convention, outcomes, represented, journey, activities, easier, edit, Multiple, pointing, constitutes, marketers]
+keywords: [Join, Activity, actually, Joins, convention, outcomes, represented, journey, activities, easier, edit, Multiple, pointing, constitutes, marketers, easily, branches, #journey-specification-format, Specification, Sample, Items]
 ---
-
-# Join Activity Format
 
 > Join is not actually an activity. Joins are a convention of outcomes, but are represented in the journey as activities to make them easier to edit. Multiple outcomes with the same next value, pointing to the same activity, constitutes a join. Joins are used by marketers to to easily join branches ba
 

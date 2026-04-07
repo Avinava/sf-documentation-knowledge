@@ -5,12 +5,10 @@ topic: creating-an-empty-html5-container-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.220Z
+lastCollected: 2026-04-07T18:38:51.458Z
 estimatedTokens: 818
-keywords: [Creating, Empty, HTML5, “Container”, container, want, bypass, Visualforce, add, own, markup, especially, useful, mobile, development]
+keywords: [Creating, Empty, HTML5, “Container”, container, want, bypass, Visualforce, add, own, markup, especially, useful, mobile, development, web, apps, standard, isn’t, desired]
 ---
-
-# Creating an Empty HTML5 “Container” Page
 
 > Use an empty container page when you want to bypass most of Visualforce and add your own
     markup. A container page is especially useful for HTML5 and mobile

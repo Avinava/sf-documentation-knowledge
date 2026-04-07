@@ -5,12 +5,10 @@ topic: integrate-third-party-libraries-using-the-privileged-script-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.803Z
+lastCollected: 2026-04-07T18:37:33.079Z
 estimatedTokens: 953
-keywords: [Integrate, Third-Party, Libraries, Privileged, Script, Tag, components, LWR, site, encapsulate, their, elements, shadow, DOM, prevents]
+keywords: [Integrate, Third-Party, Libraries, Privileged, Script, Tag, LWR, site, encapsulate, their, shadow, DOM, prevents, interaction, result, JavaScript, Google, Analytics, Manager, trouble, querying, globally, programmatic, needed, write, scripts, <x-oasis-script>, Loading, lets, bypass, any, boundaries]
 ---
-
-# Integrate Third-Party Libraries Using the Privileged Script Tag
 
 > Some components within an LWR site encapsulate their elements in shadow DOM, which
     prevents global interaction with those components. As a result, third-party JavaScript libraries

@@ -5,12 +5,10 @@ topic: employeedemographicsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.864Z
+lastCollected: 2026-04-07T18:38:18.382Z
 estimatedTokens: 2457
-keywords: [EmployeeDemographicSum, statistics, employees, their, demographic, employee, count, age, group, gender, region, API, version, 57.0, later]
+keywords: [EmployeeDemographicSum, statistics, employees, their, demographic, employee, count, age, group, gender, region, API, 57.0]
 ---
-
-# EmployeeDemographicSum
 
 > Represents statistics about employees based on their demographic
          information, such as employee count by age group, by gender, and by region. This

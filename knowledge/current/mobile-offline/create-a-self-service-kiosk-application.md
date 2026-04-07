@@ -5,12 +5,10 @@ topic: create-a-self-service-kiosk-application
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.048Z
+lastCollected: 2026-04-07T18:38:15.566Z
 estimatedTokens: 1895
 keywords: [Self-Service, Kiosk, Application, BarcodeScanner, device’s, front-facing, camera, applications, suitable, unattended, You'll, Putting, Together]
 ---
-
-# Create a Self-Service Kiosk Application
 
 > Use BarcodeScanner with a device’s front-facing camera to create applications suitable
   for use as an unattended self-service kiosk.

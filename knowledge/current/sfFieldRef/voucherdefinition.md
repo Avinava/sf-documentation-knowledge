@@ -5,12 +5,10 @@ topic: voucherdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.349Z
+lastCollected: 2026-04-07T18:40:06.245Z
 estimatedTokens: 652
-keywords: [VoucherDefinition, voucher, definition, that’s, associated, loyalty, program]
+keywords: [VoucherDefinition, voucher, definition, that’s, loyalty, program]
 ---
-
-# VoucherDefinition
 
 > Represents details about a voucher definition that’s associated with a
       loyalty program.

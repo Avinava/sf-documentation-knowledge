@@ -5,12 +5,10 @@ topic: validate-group-census-members-plans-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.286Z
+lastCollected: 2026-04-07T18:37:49.062Z
 estimatedTokens: 541
-keywords: [Validate, Group, Census, Members, Plans, Action, member, plan, records, assign, Special, Access, Rules, REST, HTTP]
+keywords: [Inputs, Outputs, Validate, Group, Census, Members, Plans, Action, member, plan, records, assign, REST, HTTP]
 ---
-
-# Validate Group Census Members Plans Action
 
 > Validate the specified group census member plan records and assign default values to
         the specified fields.

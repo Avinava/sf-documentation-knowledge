@@ -5,12 +5,10 @@ topic: boolean-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.195Z
+lastCollected: 2026-04-07T18:36:56.770Z
 estimatedTokens: 120
 keywords: [Analytics, template, variable]
 ---
-
-# Boolean Type
 
 > The boolean type of an Analytics template variable.
 

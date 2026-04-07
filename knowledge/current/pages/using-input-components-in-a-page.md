@@ -5,12 +5,10 @@ topic: using-input-components-in-a-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.754Z
+lastCollected: 2026-04-07T18:38:52.069Z
 estimatedTokens: 753
-keywords: [Input, Components, far, examples, quick, start, tutorial, show, ways, display, data, Visualforce, capture, user, <apex]
+keywords: [far, examples, quick, start, tutorial, show, ways, display, Visualforce, capture, user, <apex, form>, tag, commandLink>, commandButton>, submit]
 ---
-
-# Using Input Components in a Page
 
 > So far the examples in this quick start tutorial show ways that you can display data in a
                 Visualforce page. To capture

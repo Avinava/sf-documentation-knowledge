@@ -5,12 +5,10 @@ topic: feed-elements-capability-topics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.827Z
+lastCollected: 2026-04-07T18:37:13.788Z
 estimatedTokens: 647
-keywords: [Feed, Elements, Capability, Topics, post, associated, element]
+keywords: [Capability, Topics, post]
 ---
-
-# Feed Elements Capability, Topics
 
 > Get, delete, and post topics associated with a feed
     element.

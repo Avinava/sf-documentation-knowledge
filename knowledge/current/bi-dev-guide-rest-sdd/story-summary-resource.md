@@ -5,12 +5,10 @@ topic: story-summary-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.688Z
+lastCollected: 2026-04-07T18:36:59.184Z
 estimatedTokens: 151
-keywords: [Story, Summary, Resource, current, version, Einstein, Discovery]
+keywords: [Story, Summary, Resource, current, Einstein, Discovery]
 ---
-
-# Story Summary Resource
 
 > Returns a summary for the current version of an Einstein Discovery
    story.

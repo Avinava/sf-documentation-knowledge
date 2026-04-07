@@ -5,13 +5,11 @@ topic: functionreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:42.208Z
+lastCollected: 2026-04-07T18:38:33.310Z
 estimatedTokens: 782
 namespace: Global
-keywords: [FunctionReference, deployed, Salesforce, Function, associated, org, API, version, 52.0, later, Calls, Usage]
+keywords: [FunctionReference, deployed, Salesforce, Function, org, API, 52.0]
 ---
-
-# FunctionReference
 
 > Represents a deployed Salesforce Function associated with an org. This
       object is available in API version 52.0 and later.

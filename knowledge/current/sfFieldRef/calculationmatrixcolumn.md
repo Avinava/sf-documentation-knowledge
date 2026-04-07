@@ -5,13 +5,11 @@ topic: calculationmatrixcolumn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.779Z
+lastCollected: 2026-04-07T18:39:31.064Z
 estimatedTokens: 416
 namespace: Namespace
-keywords: [CalculationMatrixColumn, column, Decision, Matrix, label, API, version, 53.0, later]
+keywords: [CalculationMatrixColumn, column, Decision, Matrix, label, API, 53.0]
 ---
-
-# CalculationMatrixColumn
 
 > Defines a column in a Decision Matrix. The label for this object is Decision
          Matrix Column. This object is available in API version 53.0 and later.

@@ -5,12 +5,10 @@ topic: setting-up-your-net-developer-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.047Z
+lastCollected: 2026-04-07T18:39:16.588Z
 estimatedTokens: 875
 keywords: [Setting, NET, Developer, Environment, tipsheet, how, local, start, Salesforce, APIs, SOAP, API, REST]
 ---
-
-# Setting Up Your .NET Developer Environment
 
 > This tipsheet describes how to set up your local environment so that you can start using
    Salesforce APIs, such as SOAP API or REST API.

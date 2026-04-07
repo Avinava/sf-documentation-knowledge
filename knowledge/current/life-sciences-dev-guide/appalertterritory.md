@@ -5,12 +5,10 @@ topic: appalertterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.501Z
+lastCollected: 2026-04-07T18:37:59.057Z
 estimatedTokens: 906
-keywords: [AppAlertTerritory, junction, Alert, Territory, sent, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [AppAlertTerritory, junction, Alert, Territory, sent, API, 65.0]
 ---
-
-# AppAlertTerritory
 
 > Represents a junction between an Alert and a Territory where the alert is sent. This
       object is available in API version 65.0 and later.

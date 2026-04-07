@@ -5,12 +5,10 @@ topic: work-type-lead-time-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.786Z
+lastCollected: 2026-04-07T18:37:56.229Z
 estimatedTokens: 164
-keywords: [Work, Lead, Time, Output, representation, their, associated, times]
+keywords: [Work, Lead, Time, their, times]
 ---
-
-# Work Type Lead Time Output
 
 > Output representation of a list of work types and their associated lead
     times.

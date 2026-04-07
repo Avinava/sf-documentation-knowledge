@@ -5,12 +5,10 @@ topic: deleting-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.220Z
+lastCollected: 2026-04-07T18:36:19.444Z
 estimatedTokens: 629
-keywords: [Deleting, Records, persist, database, operation, Deleted, aren’t, permanently, Salesforce, they, placed, Recycle, Bin, days, restored]
+keywords: [Deleting, Records, persist, database, operation, Deleted, aren’t, permanently, Salesforce, they, placed, Recycle, Bin, days, restored, Restoring, cov, Referential, Integrity]
 ---
-
-# Deleting Records
 
 > After you persist records in the database, you can delete those records using the delete operation. Deleted records aren’t deleted
             permanently from Salesforce, but they are placed in the Recycle Bin for 15 days from

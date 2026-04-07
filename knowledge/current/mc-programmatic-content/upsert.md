@@ -5,12 +5,10 @@ topic: upsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.557Z
+lastCollected: 2026-04-07T18:40:23.988Z
 estimatedTokens: 195
 keywords: [Upsert, Function, Ordinal, **Overview**, **Syntax**]
 ---
-
-# Upsert
 
 > Upsert(1)
 

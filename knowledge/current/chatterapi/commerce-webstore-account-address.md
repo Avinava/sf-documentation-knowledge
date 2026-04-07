@@ -5,12 +5,10 @@ topic: commerce-webstore-account-address
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.192Z
+lastCollected: 2026-04-07T18:37:12.026Z
 estimatedTokens: 535
-keywords: [Commerce, Webstore, Account, Address, associated]
+keywords: [Commerce, Webstore, Account, Address]
 ---
-
-# Commerce Webstore Account Address
 
 > Update or delete an address for a Commerce account associated with a
       webstore.

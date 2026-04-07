@@ -5,12 +5,10 @@ topic: firstbillpaymentsetupevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:06.166Z
+lastCollected: 2026-04-07T18:38:59.048Z
 estimatedTokens: 563
-keywords: [FirstBillPaymentSetupEvent, Notifies, subscribers, bill, payment, API, version, 60.0, later, Calls, Subscription, Channel, Event, Delivery, Allocation]
+keywords: [FirstBillPaymentSetupEvent, Notifies, subscribers, bill, payment, API, 60.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# FirstBillPaymentSetupEvent
 
 > Notifies subscribers when a first bill payment is set up. This object is available in
       API version 60.0 and later.

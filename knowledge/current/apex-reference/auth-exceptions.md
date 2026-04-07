@@ -5,13 +5,11 @@ topic: auth-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.437Z
+lastCollected: 2026-04-07T18:35:55.556Z
 estimatedTokens: 980
 namespace: Auth
-keywords: [Auth, Exceptions, exception, classes, Examples]
+keywords: [Examples, Auth, Exceptions, exception, classes]
 ---
-
-# Auth Exceptions
 
 > The Auth namespace contains some exception
     classes.

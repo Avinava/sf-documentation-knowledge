@@ -5,12 +5,10 @@ topic: get-service-appointment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.538Z
+lastCollected: 2026-04-07T18:39:21.365Z
 estimatedTokens: 270
 keywords: [Service, Appointment, booked, Salesforce, Scheduler, that’s, via, fetch, record]
 ---
-
-# Get Service Appointment Details
 
 > A service appointment represents an appointment booked through Salesforce
       Scheduler.

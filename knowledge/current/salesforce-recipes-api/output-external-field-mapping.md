@@ -5,12 +5,10 @@ topic: output-external-field-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.675Z
+lastCollected: 2026-04-07T18:39:19.357Z
 estimatedTokens: 96
-keywords: [Output, External, Mapping, node, recipe]
+keywords: [External, Mapping, node, recipe]
 ---
-
-# Output External Field Mapping
 
 > A field mapping for an output external node in a recipe.
 

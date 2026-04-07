@@ -5,12 +5,10 @@ topic: commerce-webstore-order-delivery-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.633Z
+lastCollected: 2026-04-07T18:37:12.519Z
 estimatedTokens: 537
 keywords: [Commerce, Webstore, Order, Delivery, Groups]
 ---
-
-# Commerce Webstore Order Delivery Groups
 
 > Get order delivery groups.
 

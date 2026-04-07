@@ -5,12 +5,10 @@ topic: recipe-configuration-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.165Z
+lastCollected: 2026-04-07T18:39:18.863Z
 estimatedTokens: 165
-keywords: [Recipe, Configuration, Resource, Data, Prep, updates, deletes, URL, Formats, Version, HTTP, PATCH]
+keywords: [Formats, Recipe, Configuration, Resource, Prep, updates, deletes, URL, HTTP, PATCH]
 ---
-
-# Recipe Configuration Resource
 
 > Returns a Data Prep recipe configuration and updates or deletes the
   configuration.

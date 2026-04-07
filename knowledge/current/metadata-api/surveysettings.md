@@ -5,12 +5,10 @@ topic: surveysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.503Z
+lastCollected: 2026-04-07T18:36:29.919Z
 estimatedTokens: 647
-keywords: [SurveySettings, org’s, survey, settings, component, enable, Salesforce, Surveys, Customer, Lifecycle, Maps, choose, whether, owner, manage]
+keywords: [SurveySettings, org’s, survey, settings, enable, Salesforce, Surveys, Customer, Lifecycle, Maps, choose, whether, owner, manage, responses, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# SurveySettings
 
 > Represents an org’s survey settings. Use the SurveySettings
             component to enable Salesforce Surveys, enable Customer

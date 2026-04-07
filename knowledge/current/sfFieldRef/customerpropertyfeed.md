@@ -5,12 +5,10 @@ topic: customerpropertyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.285Z
+lastCollected: 2026-04-07T18:39:36.866Z
 estimatedTokens: 361
-keywords: [CustomerPropertyFeed, Feed, tracking, CustomerProperty]
+keywords: [CustomerPropertyFeed, CustomerProperty]
 ---
-
-# CustomerPropertyFeed
 
 > Feed tracking for CustomerProperty.
 

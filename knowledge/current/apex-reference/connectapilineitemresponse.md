@@ -5,12 +5,10 @@ topic: connectapilineitemresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.286Z
+lastCollected: 2026-04-07T18:36:09.676Z
 estimatedTokens: 252
 keywords: [ConnectApi.LineItemResponse, stores, line, items, tax, engine, calculated]
 ---
-
-# ConnectApi.LineItemResponse
 
 > Response class that stores information about a list of one or more
       line items on which the tax engine has calculated tax.

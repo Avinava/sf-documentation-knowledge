@@ -5,12 +5,10 @@ topic: productionbatch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.365Z
+lastCollected: 2026-04-07T18:38:01.189Z
 estimatedTokens: 826
-keywords: [ProductionBatch, batch, homogeneous, products, manufactured, production, line, API, version, 65.0, later, Calls]
+keywords: [ProductionBatch, batch, homogeneous, products, manufactured, production, line, API, 65.0]
 ---
-
-# ProductionBatch
 
 > Represents the batch of homogeneous products manufactured in the same
          production line. This object is available in API version 65.0 and later.

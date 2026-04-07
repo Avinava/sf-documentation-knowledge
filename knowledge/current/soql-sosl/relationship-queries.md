@@ -5,12 +5,10 @@ topic: relationship-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.877Z
+lastCollected: 2026-04-07T18:40:09.821Z
 estimatedTokens: 1306
-keywords: [Relationship, Queries, Client, applications, able, query, time, SOQL, support, against, standard, objects, custom, traverse, parent-to-child]
+keywords: [Relationship, Queries, Client, applications, able, query, time, SOQL, support, against, standard, traverse, parent-to-child, child-to-parent, relationships, filter, results]
 ---
-
-# Relationship Queries
 
 > Client applications need to be able to query for more than a single type of
                 object at a time. SOQL provides syntax to support these types of queries, called

@@ -5,12 +5,10 @@ topic: salesforce-contracts-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.079Z
+lastCollected: 2026-04-07T18:35:47.103Z
 estimatedTokens: 103
 keywords: [Salesforce, Contracts, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---
-
-# Salesforce Contracts Metadata
 
 > This table provides the metadata deployment reference for Salesforce Contracts in
     Revenue Cloud, including setup paths and configuration details.

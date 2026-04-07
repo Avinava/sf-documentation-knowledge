@@ -5,12 +5,10 @@ topic: businessprofilefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.562Z
+lastCollected: 2026-04-07T18:39:30.782Z
 estimatedTokens: 360
-keywords: [BusinessProfileFeed, Feed, tracking, BusinessProfile]
+keywords: [BusinessProfileFeed, BusinessProfile]
 ---
-
-# BusinessProfileFeed
 
 > Feed tracking for BusinessProfile.
 

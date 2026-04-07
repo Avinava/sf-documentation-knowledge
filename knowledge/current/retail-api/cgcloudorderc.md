@@ -5,12 +5,10 @@ topic: cgcloudorderc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:20.546Z
+lastCollected: 2026-04-07T18:39:13.942Z
 estimatedTokens: 5229
-keywords: [cgcloud__Order__c, Stores, order, entry, API, version, 54.0, later, cgcloud, _Order, Calls, Associated, Objects]
+keywords: [cgcloud__Order__c, Stores, order, entry, API, 54.0, cgcloud, _Order]
 ---
-
-# cgcloud__Order__c
 
 > Stores the header details of the order entry. This object is
       available in API version 54.0 and later.

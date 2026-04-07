@@ -5,12 +5,10 @@ topic: customize-the-theme-layout-of-your-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.702Z
+lastCollected: 2026-04-07T18:37:26.647Z
 estimatedTokens: 248
-keywords: [Customize, Theme, Layout, Template, put, own, stamp, transform, appearance, build, custom, component, template’s, structural, footer]
+keywords: [Customize, Theme, Layout, Template, put, own, stamp, transform, appearance, build, template’s, structural, footer, override, styles]
 ---
-
-# Customize the Theme Layout of Your Template
 
 > To put your own stamp on a template theme and transform its appearance, build a custom
     theme layout component. You can customize the template’s structural layout, such as the header

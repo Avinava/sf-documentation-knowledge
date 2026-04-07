@@ -5,12 +5,10 @@ topic: opportunitylineitemschdactual
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.269Z
+lastCollected: 2026-04-07T18:38:12.556Z
 estimatedTokens: 1104
-keywords: [OpportunityLineItemSchdActual, different, amounts, recognized, across, lifecycle, opportunity, line, item, API, version, 64.0, later, Calls, Associated]
+keywords: [OpportunityLineItemSchdActual, different, amounts, recognized, across, lifecycle, opportunity, line, item, API, 64.0]
 ---
-
-# OpportunityLineItemSchdActual
 
 > Represents the information about the different amounts that are recognized
          across the lifecycle of an opportunity line item. This object is available in API

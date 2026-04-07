@@ -5,12 +5,10 @@ topic: address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.444Z
+lastCollected: 2026-04-07T18:37:40.423Z
 estimatedTokens: 293
-keywords: [Address, Input, detailed, facility, search, criteria]
+keywords: [Address, detailed, facility, search, criteria]
 ---
-
-# Address Input
 
 > The detailed address information for a facility used as search criteria.
 

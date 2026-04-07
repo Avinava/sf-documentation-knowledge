@@ -5,12 +5,10 @@ topic: inspolicycvrbnftattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.887Z
+lastCollected: 2026-04-07T18:37:37.692Z
 estimatedTokens: 393
-keywords: [InsPolicyCvrBnftAttribute, view, attributes, insurance, policy, coverage, benefit, API, version, later, Calls]
+keywords: [InsPolicyCvrBnftAttribute, view, attributes, insurance, policy, coverage, benefit, API]
 ---
-
-# InsPolicyCvrBnftAttribute
 
 > Represents a view of the attributes on an insurance policy coverage benefit.
       This object is available in API version 62 and later.

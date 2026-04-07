@@ -5,12 +5,10 @@ topic: promotion-eligibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.904Z
+lastCollected: 2026-04-07T18:38:08.160Z
 estimatedTokens: 395
-keywords: [Promotion, Eligibility, Output, representation, criteria]
+keywords: [Promotion, Eligibility, criteria]
 ---
-
-# Promotion Eligibility
 
 > Output representation of the promotion eligibility criteria.
 

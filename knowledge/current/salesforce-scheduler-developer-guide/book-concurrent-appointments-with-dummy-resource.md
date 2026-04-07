@@ -5,12 +5,10 @@ topic: book-concurrent-appointments-with-dummy-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.332Z
+lastCollected: 2026-04-07T18:39:21.142Z
 estimatedTokens: 751
-keywords: [Book, Concurrent, Appointments, Dummy, Resource, scheduling, feature, Salesforce, Scheduler, easily, schedule, multiple, service, time, slot]
+keywords: [Book, Concurrent, Appointments, Dummy, Resource, scheduling, feature, Salesforce, Scheduler, easily, schedule, multiple, service, time, slot, event, created, appointment, various, slots, day]
 ---
-
-# Book Concurrent Appointments with Dummy Resource
 
 > Use the concurrent scheduling feature of Salesforce Scheduler to
       easily schedule multiple service appointments in the same time slot. An event is created for

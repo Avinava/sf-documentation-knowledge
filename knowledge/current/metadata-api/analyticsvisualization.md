@@ -5,12 +5,10 @@ topic: analyticsvisualization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.227Z
+lastCollected: 2026-04-07T18:36:22.484Z
 estimatedTokens: 1551
-keywords: [AnalyticsVisualization, Tableau, visualization, Parent, File, Suffix, Directory, Location, Version, Limits, AnalyticsVizField, AnalyticsVizViewDef, Declarative, Metadata, Sample]
+keywords: [AnalyticsVisualization, Limits, AnalyticsVizField, AnalyticsVizViewDef, Tableau, visualization, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AnalyticsVisualization
 
 > Represents a Tableau Next visualization.
 

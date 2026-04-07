@@ -5,12 +5,10 @@ topic: connectapibannercapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.999Z
+lastCollected: 2026-04-07T18:36:07.337Z
 estimatedTokens: 244
-keywords: [ConnectApi.BannerCapability, feed, element, capability, banner, motif, style]
+keywords: [ConnectApi.BannerCapability, capability, banner, motif, style]
 ---
-
-# ConnectApi.BannerCapability
 
 > If a feed element has this capability,
 it has a banner motif and style.

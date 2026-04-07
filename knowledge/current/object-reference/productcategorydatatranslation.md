@@ -5,12 +5,10 @@ topic: productcategorydatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.284Z
+lastCollected: 2026-04-07T18:38:38.680Z
 estimatedTokens: 507
-keywords: [ProductCategoryDataTranslation, translated, data, stored, ProductCategory, record’s, API, version, 46.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ProductCategoryDataTranslation, translated, stored, ProductCategory, record’s, API, 46.0]
 ---
-
-# ProductCategoryDataTranslation
 
 > Represents the translated values for the data stored within a ProductCategory record’s fields. This object is available in API version 46.0 and
     later.

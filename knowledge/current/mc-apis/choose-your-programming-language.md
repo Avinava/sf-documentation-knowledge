@@ -5,12 +5,10 @@ topic: choose-your-programming-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.555Z
+lastCollected: 2026-04-07T18:40:15.660Z
 estimatedTokens: 379
 keywords: [Choose, Programming, Language, Configure, development, environment, connect, API, SDK, preferred]
 ---
-
-# Choose Your Programming Language
 
 > Configure your development environment to connect to the API. First, choose the SDK for your preferred programming language.
 

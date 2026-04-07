@@ -5,12 +5,10 @@ topic: merchantaccountshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.294Z
+lastCollected: 2026-04-07T18:39:48.750Z
 estimatedTokens: 250
 keywords: [MerchantAccountShare, Sharing, MerchantAccount]
 ---
-
-# MerchantAccountShare
 
 > Sharing for MerchantAccount.
 

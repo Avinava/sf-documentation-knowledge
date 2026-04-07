@@ -5,13 +5,11 @@ topic: columnselection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.537Z
+lastCollected: 2026-04-07T18:35:59.815Z
 estimatedTokens: 558
 namespace: DataSource
-keywords: [ColumnSelection, Identifies, columns, query, search, Usage, aggregation, columnName, tableName]
+keywords: [ColumnSelection, Identifies, columns, query, search, aggregation, columnName, tableName]
 ---
-
-# ColumnSelection Class
 
 > Identifies the list of columns to return during a query or
       search.

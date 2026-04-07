@@ -5,13 +5,11 @@ topic: sobjecttype-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.561Z
+lastCollected: 2026-04-07T18:36:00.836Z
 estimatedTokens: 2078
 namespace: SObjectDescribeOptions.FULL
-keywords: [SObjectType, Schema.sObjectType, describe, result, getReferenceTo, sObject, getSObjectType, Usage, getDescribe, options, newSObject, recordTypeId, loadDefaults, Creating, New]
+keywords: [SObjectType, Schema.sObjectType, describe, result, getReferenceTo, sObject, getSObjectType, getDescribe, options, newSObject, recordTypeId, loadDefaults, Creating, New]
 ---
-
-# SObjectType Class
 
 > A Schema.sObjectType object is returned from the field describe result using the getReferenceTo method, or from the
 sObject describe result using the getSObjectType method.

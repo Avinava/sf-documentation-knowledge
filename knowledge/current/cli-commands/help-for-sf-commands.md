@@ -5,12 +5,10 @@ topic: help-for-sf-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:54.325Z
+lastCollected: 2026-04-07T18:35:39.111Z
 estimatedTokens: 491
 keywords: [Help, Commands, --help, flags, show, topics, their]
 ---
-
-# Help for sf Commands
 
 > The -h and --help flags show details about sf topics and
     their commands.

@@ -5,12 +5,10 @@ topic: data-gap-percentage-calculation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.594Z
+lastCollected: 2026-04-07T18:38:17.168Z
 estimatedTokens: 132
-keywords: [Data, Gap, Percentage, Calculation, Input, representation, endpoint]
+keywords: [Gap, Percentage, Calculation, endpoint]
 ---
-
-# Data Gap Percentage Calculation Input
 
 > Input representation of Data Gap Percentage Calculation endpoint.
 

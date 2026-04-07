@@ -5,12 +5,10 @@ topic: serviceprocessrequestpreprocessor-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.560Z
+lastCollected: 2026-04-07T18:36:36.101Z
 estimatedTokens: 708
-keywords: [ServiceProcessRequestPreProcessor, Implement, preprocessor, transforms, validates, data, custom, attributes, Service, Catalog, Connect, REST, API, processServiceProcessRequest, serviceProcessDefId]
+keywords: [ServiceProcessRequestPreProcessor, Implement, preprocessor, transforms, validates, attributes, Service, Catalog, Connect, REST, API, processServiceProcessRequest, serviceProcessDefId, caseInfo, serviceProcessAttrs, Implementation]
 ---
-
-# ServiceProcessRequestPreProcessor Interface
 
 > Implement the ServiceProcessRequestPreProcessor interface to create a
       preprocessor class that transforms and validates data for custom attributes in the Service

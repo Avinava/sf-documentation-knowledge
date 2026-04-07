@@ -5,12 +5,10 @@ topic: careprogramsiteshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.235Z
+lastCollected: 2026-04-07T18:39:32.641Z
 estimatedTokens: 250
 keywords: [CareProgramSiteShare, Sharing, CareProgramSite]
 ---
-
-# CareProgramSiteShare
 
 > Sharing for CareProgramSite.
 

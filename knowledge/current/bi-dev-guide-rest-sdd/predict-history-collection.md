@@ -5,12 +5,10 @@ topic: predict-history-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.933Z
+lastCollected: 2026-04-07T18:36:59.420Z
 estimatedTokens: 116
-keywords: [Predict, History, Collection, historical, predictions, goal]
+keywords: [Predict, Collection, historical, predictions, goal]
 ---
-
-# Predict History Collection
 
 > A collection of historical predictions for a goal.
 

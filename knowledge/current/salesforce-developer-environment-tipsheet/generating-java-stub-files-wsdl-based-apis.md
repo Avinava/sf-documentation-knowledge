@@ -6,13 +6,10 @@ topic: generating-java-stub-files-wsdl-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.111Z
+lastCollected: 2026-04-07T18:39:16.692Z
 estimatedTokens: 398
 keywords: [Generating, Java, Stub, Files, WSDL-Based, APIs, Salesforce, generate, jar, projects]
 ---
-
-# Generating Java Stub Files (WSDL-Based
-APIs)
 
 > To use WSDL-based Salesforce APIs
 with Java, you need to generate .jar stub files that you can use in

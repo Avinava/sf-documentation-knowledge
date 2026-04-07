@@ -5,12 +5,10 @@ topic: recentfieldchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.213Z
+lastCollected: 2026-04-07T18:39:58.864Z
 estimatedTokens: 322
-keywords: [RecentFieldChange, virtual, how, opportunity, changed, past, seven, days, previous, made, change, API, version, 52.0, later]
+keywords: [RecentFieldChange, virtual, how, opportunity, changed, past, seven, days, previous, made, change, API, 52.0]
 ---
-
-# RecentFieldChange
 
 > Use this virtual object to see how an opportunity has changed in the past
          seven days. Learn the previous value of a field, who made the change, and when the change

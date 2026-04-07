@@ -5,12 +5,10 @@ topic: httppost2
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.095Z
+lastCollected: 2026-04-07T18:40:22.488Z
 estimatedTokens: 500
-keywords: [HTTPPost2, Function, Ordinal, URL, receive, posted, content, content-type, **Overview**, **Syntax**, Usage]
+keywords: [HTTPPost2, Function, Ordinal, URL, receive, posted, content, content-type, **Overview**, **Syntax**]
 ---
-
-# HTTPPost2
 
 > HTTPPost2(1, 2, 3, 4, 5, 6, 7, 8)
 

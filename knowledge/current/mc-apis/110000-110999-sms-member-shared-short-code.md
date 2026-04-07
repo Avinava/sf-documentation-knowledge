@@ -5,12 +5,10 @@ topic: 110000-110999-sms-member-shared-short-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.594Z
+lastCollected: 2026-04-07T18:40:14.615Z
 estimatedTokens: 131
 keywords: [110000-110999, SMS, Member, Shared, Short, Code]
 ---
-
-# 110000-110999 SMS Member Shared Short Code
 
 # 110000-110999 SMS Member Shared Short Code
 

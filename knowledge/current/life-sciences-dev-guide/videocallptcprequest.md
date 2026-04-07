@@ -5,12 +5,10 @@ topic: videocallptcprequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.156Z
+lastCollected: 2026-04-07T18:38:02.059Z
 estimatedTokens: 949
-keywords: [VideoCallPtcpRequest, remote, video, call, participants, including, key, status, relevant, tracking, managing, process, API, version, 65.0]
+keywords: [VideoCallPtcpRequest, remote, video, call, participants, including, key, status, relevant, managing, process, API, 65.0]
 ---
-
-# VideoCallPtcpRequest
 
 > Represents information about remote signature request for video call
          participants, including key details such as status, type, and other relevant information

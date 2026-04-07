@@ -5,13 +5,11 @@ topic: writeoffinvoiceinputlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.513Z
+lastCollected: 2026-04-07T18:35:40.305Z
 estimatedTokens: 973
 namespace: InvoiceWriteOff
 keywords: [WriteOffInvoiceInputList, invoice, write, off, posted, invoices]
 ---
-
-# WriteOffInvoiceInputList Class
 
 > Contains invoice details to write off a list of posted invoices.
 

@@ -5,12 +5,10 @@ topic: salestransactionfulfillreq
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.551Z
+lastCollected: 2026-04-07T18:35:50.434Z
 estimatedTokens: 896
-keywords: [SalesTransactionFulfillReq, statuses, sub-orders, belong, selected, commercial, technical, product, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [SalesTransactionFulfillReq, statuses, sub-orders, belong, selected, commercial, technical, product, API, 62.0]
 ---
-
-# SalesTransactionFulfillReq
 
 > Represents the statuses of all the sub-orders that belong to the selected
          commercial or technical product. This object is available in API version 62.0 and

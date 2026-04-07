@@ -5,12 +5,10 @@ topic: fundingaward
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.530Z
+lastCollected: 2026-04-07T18:39:06.649Z
 estimatedTokens: 950
-keywords: [FundingAward, award, individual, organization, facilitate, goal, funder’s, mission, API, version, 57.0, later, Calls, Special, Access]
+keywords: [FundingAward, award, individual, organization, facilitate, goal, funder’s, mission, API, 57.0]
 ---
-
-# FundingAward
 
 > Represents an award given to an individual or organization to facilitate a goal related to the funder’s mission. This object is available in API version 57.0 and
 		later.

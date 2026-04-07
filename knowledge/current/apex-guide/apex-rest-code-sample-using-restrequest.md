@@ -5,12 +5,10 @@ topic: apex-rest-code-sample-using-restrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:33.154Z
+lastCollected: 2026-04-07T18:36:18.381Z
 estimatedTokens: 544
 keywords: [Apex, REST, Code, Sample, RestRequest, how, add, attachment, record]
 ---
-
-# Apex REST Code Sample Using RestRequest
 
 > This sample shows you how to add an attachment to a record by using the RestRequest
         object.

@@ -5,12 +5,10 @@ topic: invoking-actions-on-component-initialization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.277Z
+lastCollected: 2026-04-07T18:38:04.422Z
 estimatedTokens: 616
-keywords: [Invoking, Actions, Component, Initialization, init, event, initialize, fire, construction, rendering]
+keywords: [Invoking, Actions, Initialization, init, event, initialize, fire, construction, rendering]
 ---
-
-# Invoking Actions on Component Initialization
 
 > Use the init event to initialize a component or
         fire an event after component construction but before rendering.

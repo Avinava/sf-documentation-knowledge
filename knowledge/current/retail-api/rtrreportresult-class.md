@@ -5,13 +5,11 @@ topic: rtrreportresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.239Z
+lastCollected: 2026-04-07T18:39:10.712Z
 estimatedTokens: 1260
 namespace: CGCloud
-keywords: [RTRReportResult, execute, Trade, Promotion, Management, Real, Time, Reporting, RTR, report, access, data, salesOrg, Map<String, Object>]
+keywords: [RTRReportResult, execute, Trade, Promotion, Management, Real, Time, Reporting, RTR, report, salesOrg, Map<String, Object>, filters, getComponent]
 ---
-
-# RTRReportResult Class
 
 > Use this class to execute the Trade Promotion Management Real Time Reporting (RTR)
   report and access the report data.

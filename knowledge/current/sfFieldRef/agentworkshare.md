@@ -5,12 +5,10 @@ topic: agentworkshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.500Z
+lastCollected: 2026-04-07T18:39:25.444Z
 estimatedTokens: 247
 keywords: [AgentWorkShare, Sharing, AgentWork]
 ---
-
-# AgentWorkShare
 
 > Sharing for AgentWork.
 

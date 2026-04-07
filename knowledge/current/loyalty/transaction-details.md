@@ -5,12 +5,10 @@ topic: transaction-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.046Z
+lastCollected: 2026-04-07T18:38:08.300Z
 estimatedTokens: 357
-keywords: [Transaction, Output, representation, journal, ledger, records]
+keywords: [Transaction, journal, ledger, records]
 ---
-
-# Transaction Details
 
 > Output representation of the transaction journal ledger
     records.

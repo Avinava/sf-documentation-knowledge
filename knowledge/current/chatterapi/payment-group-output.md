@@ -5,12 +5,10 @@ topic: payment-group-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.478Z
+lastCollected: 2026-04-07T18:37:21.596Z
 estimatedTokens: 124
-keywords: [Payment, Group, Output, representation]
+keywords: [Payment, Group]
 ---
-
-# Payment Group Output
 
 > Payment group output representation.
 

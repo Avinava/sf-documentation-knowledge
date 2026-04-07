@@ -5,12 +5,10 @@ topic: prodtsvccmpnpreferredpartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:23.745Z
+lastCollected: 2026-04-07T18:38:14.072Z
 estimatedTokens: 970
-keywords: [ProdtSvcCmpnPreferredPartner, appropriate, partner, execute, product, service, campaign, specific, geographic, area, Helps, map, allocate, providers, minimize]
+keywords: [ProdtSvcCmpnPreferredPartner, appropriate, partner, execute, product, service, campaign, specific, geographic, area, Helps, map, allocate, providers, minimize, costs, turnaround, time, facilitating, efficient, execution, API, 65.0]
 ---
-
-# ProdtSvcCmpnPreferredPartner
 
 > Represents information about the most appropriate partner to execute a
          product service campaign within a specific geographic area. Helps to map and allocate

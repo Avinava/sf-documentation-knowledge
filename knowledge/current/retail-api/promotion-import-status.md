@@ -5,12 +5,10 @@ topic: promotion-import-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.692Z
+lastCollected: 2026-04-07T18:39:11.215Z
 estimatedTokens: 150
 keywords: [Promotion, Import, Status, started, BEGIN_PROMOTION_IMPORT, monitored, endpoint, number, promotions, process, moved, either, Calculated, Error]
 ---
-
-# Promotion Import Status
 
 > An import started with BEGIN_PROMOTION_IMPORT can be monitored with this endpoint. It takes the import ID
       and returns the status of the number of promotions. The import process will be complete, after

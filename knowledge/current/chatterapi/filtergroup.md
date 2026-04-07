@@ -5,12 +5,10 @@ topic: filtergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.960Z
+lastCollected: 2026-04-07T18:37:24.004Z
 estimatedTokens: 867
-keywords: [filterGroup, URL, specify, whether, small, medium, big, group, API, version, 29.0, later, include, exclude]
+keywords: [filterGroup, URL, specify, whether, small, medium, big, group, API, 29.0, include, exclude]
 ---
-
-# filterGroup
 
 > Use the filterGroup parameter in a request URL
 or in a request body to specify whether to return a small, medium,

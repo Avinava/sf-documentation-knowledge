@@ -5,12 +5,10 @@ topic: data-integration-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.257Z
+lastCollected: 2026-04-07T18:37:13.200Z
 estimatedTokens: 99
-keywords: [Data, Integration, Resources, external, contract, credit]
+keywords: [Integration, Resources, external, contract, credit]
 ---
-
-# Data Integration Resources
 
 > Get external object names, and use those names to get
     contract credit information.

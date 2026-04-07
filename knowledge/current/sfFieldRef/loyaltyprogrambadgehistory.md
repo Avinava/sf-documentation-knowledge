@@ -5,12 +5,10 @@ topic: loyaltyprogrambadgehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.014Z
+lastCollected: 2026-04-07T18:39:47.462Z
 estimatedTokens: 269
-keywords: [LoyaltyProgramBadgeHistory, History, tracked, LoyaltyProgramBadge]
+keywords: [LoyaltyProgramBadgeHistory, tracked, LoyaltyProgramBadge]
 ---
-
-# LoyaltyProgramBadgeHistory
 
 > History for tracked fields of LoyaltyProgramBadge.
 

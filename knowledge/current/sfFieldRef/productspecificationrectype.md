@@ -5,13 +5,11 @@ topic: productspecificationrectype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.742Z
+lastCollected: 2026-04-07T18:39:56.282Z
 estimatedTokens: 337
 namespace: NamespacePrefix
-keywords: [ProductSpecificationRecType, relationship, industry-specific, product, specifications, record, API, version, 60.0, later]
+keywords: [ProductSpecificationRecType, relationship, industry-specific, product, specifications, record, API, 60.0]
 ---
-
-# ProductSpecificationRecType
 
 > Represents the relationship between industry-specific product specifications
          and the product record type. This object is available in API version 60.0 and later.

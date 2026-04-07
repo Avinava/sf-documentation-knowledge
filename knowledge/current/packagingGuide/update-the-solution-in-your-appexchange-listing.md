@@ -5,12 +5,10 @@ topic: update-the-solution-in-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.373Z
+lastCollected: 2026-04-07T18:38:46.238Z
 estimatedTokens: 461
-keywords: [Solution, AppExchange, Listing, revise, published, new, customers, access, latest, version, subject, security, review, link, submit]
+keywords: [Solution, AppExchange, Listing, revise, published, new, customers, latest, subject, security, review, link, submit, However, cases, can’t, publish, updated, until, passes]
 ---
-
-# Update the Solution in Your AppExchange Listing
 
 > If you revise a published solution, update your AppExchange listing so that new
         customers get access to the latest version. If the solution is subject to security review,

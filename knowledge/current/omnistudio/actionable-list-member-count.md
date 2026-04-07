@@ -5,12 +5,10 @@ topic: actionable-list-member-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.032Z
+lastCollected: 2026-04-07T18:36:37.640Z
 estimatedTokens: 228
 keywords: [Actionable, Member, Count]
 ---
-
-# Actionable List Member Count
 
 > Update the member count of an actionable list.
 

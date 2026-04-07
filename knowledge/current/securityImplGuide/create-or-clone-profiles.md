@@ -5,12 +5,10 @@ topic: create-or-clone-profiles
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.227Z
+lastCollected: 2026-04-07T18:39:23.161Z
 estimatedTokens: 453
-keywords: [Clone, Profiles, custom, API, customize, fit, business’s, needs]
+keywords: [Clone, Profiles, API, customize, fit, business’s, needs]
 ---
-
-# Create or Clone Profiles
 
 > Create custom profiles using the API, or clone existing profiles and customize them to
       fit your business’s needs.

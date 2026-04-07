@@ -5,12 +5,10 @@ topic: generate-a-secret-key-for-signature-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.578Z
+lastCollected: 2026-04-07T18:35:51.439Z
 estimatedTokens: 188
-keywords: [Generate, Secret, Key, Validation, protect, webhook, system, malicious, attacks, don’t, targets, receive, payload, calls, marked]
+keywords: [Generate, Secret, Key, Validation, protect, webhook, system, malicious, attacks, don’t, targets, receive, payload, marked, Signing, Found, Cloud, actions, HMACSHA256, algorithm]
 ---
-
-# Generate a Secret Key for Signature Validation
 
 > To protect a webhook system from malicious attacks, generate a secret key for
   validation. If you don’t generate a secret key, targets don’t receive a payload, and calls are

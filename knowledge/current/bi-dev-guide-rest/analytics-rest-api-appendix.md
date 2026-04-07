@@ -5,12 +5,10 @@ topic: analytics-rest-api-appendix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.978Z
+lastCollected: 2026-04-07T18:36:55.408Z
 estimatedTokens: 6021
-keywords: [Analytics, REST, API, Appendix, references, shared, representations, enums, across, resources, representation, endpoints, their, own, describe]
+keywords: [AbstractFieldRepresentation, AdvancedPropertyValueRepresentation, AssetReferenceInputRepresentation, AssetRevertHistoryInputRepresentation, BaseAssetInputRepresentation, BaseWaveAssetRepresentation, ScheduleRepresentation, DailyScheduleRepresentation, EventDrivenScheduleRepresentation, HourlyScheduleRepresentation, MonthlyRelativeScheduleRepresentation, MonthlySpecificScheduleRepresentation, WeeklyScheduleRepresentation, TimeRepresentation, TimeZoneRepresentation, ScheduleInputRepresentation, DailyScheduleInputRepresentation, EventBasedScheduleInputRepresentation, HourlyScheduleInputRepresentation, MonthlyRelativeScheduleInputRepresentation, MonthlySpecificScheduleInputRepresentation, WeeklyScheduleInputRepresentation, TimeInputRepresentation, Analytics, REST, API, Appendix, references, shared, representations, enums, across, resources, endpoints, their, own, describe, bodies, Asset​Reference​Representation, Typed​Asset​Reference​Representation, Wave​User​Representation, Permissions​Representation, Common]
 ---
-
-# Analytics REST API Appendix
 
 > This appendix contains the references for shared representations and enums that are used
   across the Analytics REST API resources. The following representation details are not REST API

@@ -5,12 +5,10 @@ topic: webcartadjustmentbasis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.597Z
+lastCollected: 2026-04-07T18:40:06.509Z
 estimatedTokens: 371
-keywords: [WebCartAdjustmentBasis, Coupons, trigger, promotions, cart, customer, tries, add, coupon, store, looks, associated, promotion, results, price]
+keywords: [WebCartAdjustmentBasis, Coupons, trigger, promotions, cart, customer, tries, add, coupon, store, looks, promotion, results, price, adjustment, WebCartAdjusmentBasis, record, created, API, 54.0]
 ---
-
-# WebCartAdjustmentBasis
 
 > Coupons that trigger promotions for the cart. When a customer tries
          to add a coupon to the cart, the store looks for promotions associated with the coupon. If

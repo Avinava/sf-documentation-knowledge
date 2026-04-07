@@ -5,12 +5,10 @@ topic: invocable-actions-for-lightning-knowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.685Z
+lastCollected: 2026-04-07T18:37:53.982Z
 estimatedTokens: 132
 keywords: [Invocable, Actions, Lightning, Knowledge, invoked, REST, endpoint, manage, articles, article, versions]
 ---
-
-# Invocable Actions for Lightning Knowledge
 
 > Actions for Lightning Knowledge can be invoked from a REST endpoint. Use these actions
   to manage your articles and article versions.

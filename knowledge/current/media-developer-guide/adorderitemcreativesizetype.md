@@ -5,12 +5,10 @@ topic: adorderitemcreativesizetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.755Z
+lastCollected: 2026-04-07T18:38:12.034Z
 estimatedTokens: 813
-keywords: [AdOrderItemCreativeSizeType, junction, order, line, creative, size, including, companion, sizes, number, times, parent, served, API, version]
+keywords: [AdOrderItemCreativeSizeType, junction, order, line, creative, size, including, companion, sizes, number, times, parent, served, API, 59.0]
 ---
-
-# AdOrderItemCreativeSizeType
 
 > Represents a junction between ad order line and an ad creative size, including
       information about companion creative sizes for each ad creative size and the number of times

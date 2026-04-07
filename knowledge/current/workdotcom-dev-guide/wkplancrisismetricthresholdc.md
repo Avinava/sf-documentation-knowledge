@@ -5,12 +5,10 @@ topic: wkplancrisismetricthresholdc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.430Z
+lastCollected: 2026-04-07T18:40:14.442Z
 estimatedTokens: 1626
-keywords: [wkplan__CrisisMetricThreshold__c, organization's, threshold, every, crisis, metric, Workplace, Strategy, Planner, location, opening, closing, thresholds, data, evaluated]
+keywords: [wkplan__CrisisMetricThreshold__c, organization's, threshold, every, crisis, metric, Workplace, Strategy, Planner, location, opening, closing, thresholds, evaluated, determine, risk, level, whether, considered, either, installed, part, managed, package, API, 50.0, wkplan, _CrisisMetricThreshold]
 ---
-
-# wkplan__CrisisMetricThreshold__c
 
 > Defines your organization's threshold values for every crisis metric.
       By default, Workplace Strategy Planner allows location opening and closing thresholds. The

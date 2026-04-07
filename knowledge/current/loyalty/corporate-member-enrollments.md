@@ -5,12 +5,10 @@ topic: corporate-member-enrollments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.272Z
+lastCollected: 2026-04-07T18:38:07.498Z
 estimatedTokens: 800
 keywords: [Corporate, Member, Enrollments, Enroll, members, loyalty, program, business, account, record, new]
 ---
-
-# Corporate Member Enrollments
 
 > Enroll corporate members in a loyalty program. Create a business
       account and a Corporate type loyalty program member record for the new

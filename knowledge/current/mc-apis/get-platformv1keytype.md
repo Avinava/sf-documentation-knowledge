@@ -5,12 +5,10 @@ topic: get-platformv1keytype
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.054Z
+lastCollected: 2026-04-07T18:40:17.203Z
 estimatedTokens: 276
-keywords: [platform, key, Retrieves, algorithms, appropriate, lengths, Data, Rest, Encryption, prerequisite, feature, **Overview**, Usage]
+keywords: [platform, key, Retrieves, algorithms, appropriate, lengths, Rest, Encryption, prerequisite, feature, **Overview**]
 ---
-
-# GET /platform/v1/key/type
 
 > Retrieves supported key algorithms and appropriate key lengths. Data at Rest Encryption is a prerequisite for this feature.
 

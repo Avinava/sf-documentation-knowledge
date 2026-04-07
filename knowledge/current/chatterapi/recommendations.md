@@ -5,12 +5,10 @@ topic: recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.920Z
+lastCollected: 2026-04-07T18:37:23.964Z
 estimatedTokens: 1174
-keywords: [Recommendations, Salesforce, several, Connect, REST, API, supports, Einstein, Best, Action, custom, Experience, Cloud, sites, Chatter]
+keywords: [Recommendations, Salesforce, several, Connect, REST, API, supports, Einstein, Best, Action, Experience, Cloud, sites, Chatter]
 ---
-
-# Recommendations
 
 > Salesforce provides several types of recommendations, and Connect REST API supports
     Einstein Next Best Action, custom recommendations for Experience Cloud sites, and Chatter

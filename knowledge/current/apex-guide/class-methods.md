@@ -5,12 +5,10 @@ topic: class-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.200Z
+lastCollected: 2026-04-07T18:36:16.410Z
 estimatedTokens: 1887
 keywords: [how, define, Apex, Understand, differences, passing, arguments, Versioned, Behavior, Changes]
 ---
-
-# Class Methods
 
 > Learn how to define Apex methods. Understand the differences between passing method
         arguments by value and passing method arguments by reference.

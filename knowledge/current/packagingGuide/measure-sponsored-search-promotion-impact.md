@@ -5,12 +5,10 @@ topic: measure-sponsored-search-promotion-impact
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.199Z
+lastCollected: 2026-04-07T18:38:47.170Z
 estimatedTokens: 1113
-keywords: [Measure, Sponsored, Search, Promotion, Impact, co-marketing, formula, provided, Salesforce, data, AppExchange, Marketplace, Analytics, compares, listing]
+keywords: [Measure, Sponsored, Search, Promotion, Impact, co-marketing, formula, provided, Salesforce, AppExchange, Marketplace, Analytics, compares, listing, visits, time, period, equivalent]
 ---
-
-# Measure Sponsored Search Promotion Impact
 
 > To measure the impact of a co-marketing Sponsored Search Promotion, use a formula
   provided by Salesforce and data from AppExchange Marketplace Analytics. The formula compares

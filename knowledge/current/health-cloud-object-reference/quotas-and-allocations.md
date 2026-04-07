@@ -5,12 +5,10 @@ topic: quotas-and-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.278Z
+lastCollected: 2026-04-07T18:37:41.344Z
 estimatedTokens: 405
 keywords: [Quotas, Allocations, slots, manage, therapies, Work, Procedures, various, stages, across, multiple, treatment, centers]
 ---
-
-# Quotas and Allocations
 
 > Find available slots and manage quotas for therapies (Work Procedures) at various
     stages (Work Types) across multiple treatment centers.

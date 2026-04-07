@@ -5,12 +5,10 @@ topic: custombrand
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.196Z
+lastCollected: 2026-04-07T18:39:36.778Z
 estimatedTokens: 234
-keywords: [CustomBrand, custom, branding, color, scheme, API, version, 28.0, later]
+keywords: [CustomBrand, branding, color, scheme, API, 28.0]
 ---
-
-# CustomBrand
 
 > Represents a custom branding and color scheme.
     This object is available in API version 28.0 and

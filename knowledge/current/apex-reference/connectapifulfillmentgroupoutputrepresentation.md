@@ -5,12 +5,10 @@ topic: connectapifulfillmentgroupoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.087Z
+lastCollected: 2026-04-07T18:36:09.470Z
 estimatedTokens: 333
-keywords: [FulfillmentOrder, fulfillment, orders, multiple, OrderDeliveryGroupSummaries, created, failed, data, input, resubmit]
+keywords: [FulfillmentOrder, fulfillment, orders, multiple, OrderDeliveryGroupSummaries, created, failed, resubmit]
 ---
-
-# ConnectApi.FulfillmentGroupOutputRepresentation
 
 > Information about one FulfillmentOrder from a request to create
       fulfillment orders from multiple OrderDeliveryGroupSummaries. If the FulfillmentOrder was

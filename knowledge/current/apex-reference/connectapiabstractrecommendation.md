@@ -5,12 +5,10 @@ topic: connectapiabstractrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.564Z
+lastCollected: 2026-04-07T18:36:06.919Z
 estimatedTokens: 437
-keywords: [ConnectApi.AbstractRecommendation, Chatter, custom, recommendation]
+keywords: [ConnectApi.AbstractRecommendation, Chatter, recommendation]
 ---
-
-# ConnectApi.AbstractRecommendation
 
 > A Chatter, custom, or static recommendation.
 

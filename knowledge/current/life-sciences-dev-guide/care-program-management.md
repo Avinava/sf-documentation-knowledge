@@ -5,12 +5,10 @@ topic: care-program-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.805Z
+lastCollected: 2026-04-07T18:37:56.247Z
 estimatedTokens: 192
-keywords: [Care, Program, Management, Drive, increased, adherence, improve, patient, outcomes, data, model, Now, enroll, manage, patients]
+keywords: [Care, Program, Management, Drive, increased, adherence, improve, patient, outcomes, model, Now, enroll, manage, patients, achieve, maximum, impact, programs]
 ---
-
-# Care Program Management
 
 > Drive increased adherence and improve patient outcomes using the care program
   management data model. Now you can enroll and manage patients to achieve the maximum impact of

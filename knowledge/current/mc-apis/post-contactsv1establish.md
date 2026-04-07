@@ -5,12 +5,10 @@ topic: post-contactsv1establish
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.718Z
+lastCollected: 2026-04-07T18:40:16.873Z
 estimatedTokens: 888
-keywords: [POST, contacts, establish, Creates, contact, Key, provided, payload, **Overview**, Usage, Marketing, Cloud, Permissions, Fast, Fire]
+keywords: [POST, contacts, establish, Creates, contact, Key, provided, payload, **Overview**, Marketing, Cloud, Permissions, Fast, Fire, Forget]
 ---
-
-# POST /contacts/v1/establish
 
 > Creates or returns a contact using the Contact Key and Contact Type provided in the payload.
 

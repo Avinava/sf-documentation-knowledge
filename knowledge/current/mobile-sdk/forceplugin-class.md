@@ -5,12 +5,10 @@ topic: forceplugin-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.488Z
+lastCollected: 2026-04-07T18:40:24.896Z
 estimatedTokens: 199
-keywords: [ForcePlugin, classes, thecom.salesforce.androidsdk.phonegap, package, intended, hybrid, app, support, implement, Javascript, plug-ins, access, native, code, base]
+keywords: [ForcePlugin, classes, thecom.salesforce.androidsdk.phonegap, package, intended, hybrid, app, support, implement, Javascript, plug-ins, native, code, base, Mobile, SDK, require, own, plug-in, Mob]
 ---
-
-# ForcePlugin Class
 
 > All classes in thecom.salesforce.androidsdk.phonegap package
    are intended for hybrid app support. Most of these classes implement Javascript plug-ins that

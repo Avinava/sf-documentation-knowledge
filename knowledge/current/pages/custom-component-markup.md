@@ -5,12 +5,10 @@ topic: custom-component-markup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.916Z
+lastCollected: 2026-04-07T18:38:48.861Z
 estimatedTokens: 316
-keywords: [Custom, Component, Markup, defined, <apex, component>, tag, top-level, definition]
+keywords: [Markup, defined, <apex, component>, tag, top-level, definition]
 ---
-
-# Custom Component Markup
 
 > All markup for a custom component is defined within
 an <apex:component> tag.

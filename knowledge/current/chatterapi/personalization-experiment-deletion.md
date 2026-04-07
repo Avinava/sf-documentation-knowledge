@@ -5,12 +5,10 @@ topic: personalization-experiment-deletion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.178Z
+lastCollected: 2026-04-07T18:37:15.228Z
 estimatedTokens: 102
 keywords: [Personalization, Experiment, Deletion]
 ---
-
-# Personalization Experiment Deletion
 
 > Delete a personalization experiment.
 

@@ -5,12 +5,10 @@ topic: videocallfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.935Z
+lastCollected: 2026-04-07T18:40:05.815Z
 estimatedTokens: 357
-keywords: [VideoCallFeed, Feed, tracking, VideoCall]
+keywords: [VideoCallFeed, VideoCall]
 ---
-
-# VideoCallFeed
 
 > Feed tracking for VideoCall.
 

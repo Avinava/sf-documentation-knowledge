@@ -5,12 +5,10 @@ topic: datetimeunitofmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.317Z
+lastCollected: 2026-04-07T18:40:16.457Z
 estimatedTokens: 177
-keywords: [DateTimeUnitOfMeasure, unit, measure, time, data, retention, settings, extensions]
+keywords: [DateTimeUnitOfMeasure, unit, measure, time, retention, settings, extensions]
 ---
-
-# DateTimeUnitOfMeasure
 
 > The DateTimeUnitOfMeasure object indicates the unit of measure for time values in data retention settings for data extensions.
 

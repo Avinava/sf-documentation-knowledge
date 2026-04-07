@@ -5,12 +5,10 @@ topic: relationshipinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.884Z
+lastCollected: 2026-04-07T18:36:34.255Z
 estimatedTokens: 699
-keywords: [RelationshipInfo, relationship, objects, Simplify, queries, answering, question, “which, parent, defined, ChildSobject, Tooling, API, version, 34.0]
+keywords: [RelationshipInfo, Limitations, relationship, Simplify, queries, answering, question, “which, parent, defined, ChildSobject, Tooling, API, 34.0, SOAP, REST, HTTP]
 ---
-
-# RelationshipInfo
 
 > Represents the properties of a relationship between objects. Simplify queries with
         RelationshipInfo, such as answering the question “which objects are parent objects for the

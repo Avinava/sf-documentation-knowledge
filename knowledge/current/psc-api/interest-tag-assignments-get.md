@@ -5,12 +5,10 @@ topic: interest-tag-assignments-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.770Z
+lastCollected: 2026-04-07T18:39:01.916Z
 estimatedTokens: 289
 keywords: [Interest, Tag, Assignments, Retrieve, record]
 ---
-
-# Interest Tag Assignments (GET)
 
 > Retrieve a list of record assignments by an Interest
     Tag.

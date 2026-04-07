@@ -5,12 +5,10 @@ topic: order-summary-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.669Z
+lastCollected: 2026-04-07T18:37:09.404Z
 estimatedTokens: 531
-keywords: [Order, Summary, Input, OrderSummary, Optionally, specify, OrderSummary-specific, Status, whether, managed, Salesforce, Management]
+keywords: [Order, Summary, OrderSummary, Optionally, specify, OrderSummary-specific, Status, whether, managed, Salesforce, Management]
 ---
-
-# Order Summary Input
 
 > An order from which to create an OrderSummary. Optionally, you can
       specify OrderSummary-specific information such as its Status and whether it is managed in

@@ -5,12 +5,10 @@ topic: methods-for-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.018Z
+lastCollected: 2026-04-07T18:36:50.210Z
 estimatedTokens: 2419
 keywords: [Chat, Connect, customers, website, visitors, real, time, Web-based]
 ---
-
-# Methods for Chat
 
 > Connect with customers or website visitors in real time through Web-based chat.
 

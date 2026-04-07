@@ -5,12 +5,10 @@ topic: replace-design-tokens-with-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.550Z
+lastCollected: 2026-04-07T18:38:05.766Z
 estimatedTokens: 533
-keywords: [Replace, Design, Tokens, Styling, Hooks, customize, Aura, components, SLDS, instead, Custom, work, they, longer, receive]
+keywords: [Replace, Design, Tokens, Styling, Hooks, customize, Aura, SLDS, instead, work, they, longer, receive, updates, LWC, API, 61.0, cleanly, adopt, future, product, innovations, updated, web, accessibility, standards, Unavailable]
 ---
-
-# Replace Design Tokens with Styling Hooks
 
 > If you use design tokens to customize the styling of your Aura components, use SLDS
     global styling hooks instead. Custom components that use design tokens still work, but they no

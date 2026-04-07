@@ -5,12 +5,10 @@ topic: post-interactionv1interactionscontactmembership
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.694Z
+lastCollected: 2026-04-07T18:40:15.811Z
 estimatedTokens: 247
-keywords: [POST, interaction, interactions, contactMembership, journeys, journey, versions, contact, keys, **Overview**, Usage, Marketing, Cloud, Permissions]
+keywords: [POST, interaction, interactions, contactMembership, journeys, journey, versions, contact, keys, **Overview**, Marketing, Cloud, Permissions]
 ---
-
-# POST /interaction/v1/interactions/contactMembership
 
 > Provides a list of journeys and journey versions for a list of contact keys.
 

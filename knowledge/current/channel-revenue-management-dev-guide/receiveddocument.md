@@ -5,12 +5,10 @@ topic: receiveddocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.145Z
+lastCollected: 2026-04-07T18:37:06.853Z
 estimatedTokens: 245
-keywords: [ReceivedDocument, partners, upload, CSV, document, API, version, 51.0, later, Calls]
+keywords: [ReceivedDocument, partners, upload, CSV, document, API, 51.0]
 ---
-
-# ReceivedDocument
 
 > Allows partners to upload .CSV document. This object is available in API
     version 51.0 and later.

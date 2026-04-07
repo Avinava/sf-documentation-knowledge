@@ -5,12 +5,10 @@ topic: update-a-data-extension-with-a-null-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.718Z
+lastCollected: 2026-04-07T18:40:20.982Z
 estimatedTokens: 789
-keywords: [Data, Extension, how, SOAP, API, nullable, Why, Sample, Code, NET, Envelope]
+keywords: [Extension, how, SOAP, API, nullable, Why, Sample, Code, NET, Envelope]
 ---
-
-# Update a Data Extension with a Null Field Value
 
 > This page contains information on how to use the SOAP API to update a nullable field in a data extension to a null value.
 

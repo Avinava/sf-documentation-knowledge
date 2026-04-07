@@ -5,12 +5,10 @@ topic: assettokenevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.917Z
+lastCollected: 2026-04-07T18:39:27.901Z
 estimatedTokens: 365
 keywords: [AssetTokenEvent, event]
 ---
-
-# AssetTokenEvent
 
 > An event related to the AssetTokenEvent object.
 

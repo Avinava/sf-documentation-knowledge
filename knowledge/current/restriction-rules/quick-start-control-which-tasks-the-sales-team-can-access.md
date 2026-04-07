@@ -5,12 +5,10 @@ topic: quick-start-control-which-tasks-the-sales-team-can-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.928Z
+lastCollected: 2026-04-07T18:39:10.380Z
 estimatedTokens: 277
-keywords: [Quick, Start, Control, Tasks, Sales, Team, Access, restriction, rule, members]
+keywords: [Quick, Start, Control, Tasks, Sales, Team, restriction, rule, members]
 ---
-
-# Quick Start: Control Which Tasks the Sales Team Can Access
 
 > In this Quick Start, we create a restriction rule that controls which tasks members of
   the Sales Team can access.

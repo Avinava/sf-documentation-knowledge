@@ -5,12 +5,10 @@ topic: user-profile-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.390Z
+lastCollected: 2026-04-07T18:37:11.134Z
 estimatedTokens: 1324
-keywords: [User, Profile, Feed, Resources, containing, elements, created, parented, mentioned, Experience, Cloud, sites, commented, different, news]
+keywords: [User, Profile, Resources, containing, created, parented, mentioned, Experience, Cloud, sites, commented, different, news, items, including, group, updates, post, user-profile, another, user’s, URL]
 ---
-
-# User Profile Feed Resources
 
 > A feed containing feed elements created by the user,
    parented

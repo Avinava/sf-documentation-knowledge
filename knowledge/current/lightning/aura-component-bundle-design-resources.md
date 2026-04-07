@@ -5,12 +5,10 @@ topic: aura-component-bundle-design-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.861Z
+lastCollected: 2026-04-07T18:38:02.790Z
 estimatedTokens: 2402
-keywords: [Aura, Component, Bundle, Design, Resources, resource, control, attributes, exposed, builder, tools, Lightning, App, Experience, Flow]
+keywords: [Aura, Bundle, Design, Resources, resource, control, attributes, exposed, builder, tools, Lightning, App, Experience, Flow, lives, folder, cmp, design-time, behavior, component—information, visual, display, attribute, <design, suppportedFormFactors>, suppportedFormFactor>, <sfdc, objects>, object>, ai>, description>, Beta]
 ---
-
-# Aura Component Bundle Design Resources
 
 > Use a design resource to control which attributes are exposed
       to builder tools like the Lightning App Builder, Experience Builder, or Flow

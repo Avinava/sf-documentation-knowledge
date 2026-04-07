@@ -5,12 +5,10 @@ topic: understand-the-barcodescanner-scanning-lifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.129Z
+lastCollected: 2026-04-07T18:38:15.643Z
 estimatedTokens: 1135
 keywords: [Understand, BarcodeScanner, Scanning, Lifecycle, four, distinct, modes, appropriate, different, cases, Continuous, Bulk, Multi-Scanning, Similarities]
 ---
-
-# Understand the BarcodeScanner Scanning Lifecycle
 
 > BarcodeScanner has four distinct scanning modes, each appropriate for different use
   cases.

@@ -5,12 +5,10 @@ topic: run-the-same-tests-in-sandbox-and-production-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.968Z
+lastCollected: 2026-04-07T18:37:28.009Z
 estimatedTokens: 394
-keywords: [Run, Tests, Sandbox, Production, Deployments, Starting, API, version, 34.0, choose, development, environment, local, match, earlier]
+keywords: [Run, Tests, Sandbox, Production, Deployments, Starting, API, 34.0, choose, development, environment, local, match, earlier, versions, enabled, deployment, couldn’t, exclude, managed, package]
 ---
-
-# Run the Same Tests in Sandbox and Production Deployments
 
 > Starting in API version 34.0, you can choose which tests to run in your development
     environment, such as only local tests, to match the tests run in production. In earlier

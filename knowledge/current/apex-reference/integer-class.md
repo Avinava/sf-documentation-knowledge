@@ -5,13 +5,11 @@ topic: integer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.815Z
+lastCollected: 2026-04-07T18:36:14.118Z
 estimatedTokens: 717
 namespace: System
-keywords: [primitive, data, Usage, valueOf, stringToInteger, Examples, fieldValue]
+keywords: [Examples, primitive, valueOf, stringToInteger, fieldValue]
 ---
-
-# Integer Class
 
 > Contains methods for the Integer primitive data type.
 

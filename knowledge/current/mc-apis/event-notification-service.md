@@ -5,12 +5,10 @@ topic: event-notification-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.694Z
+lastCollected: 2026-04-07T18:40:16.853Z
 estimatedTokens: 159
-keywords: [Event, Notification, Service, ENS, API, receive, notifications, certain, events, occur, Marketing, Cloud, notified, customers, password]
+keywords: [Event, Notification, Service, ENS, API, receive, notifications, certain, events, occur, Marketing, Cloud, notified, customers, password, resets, order, confirmations, log, two-factor, authentication]
 ---
-
-# Event Notification Service
 
 > Use the Event Notification Service (ENS) API to receive notifications when certain events occur in Marketing Cloud. You can be notified when customers request password resets, get order confirmations, log in using two-factor authentication, and other events.
 

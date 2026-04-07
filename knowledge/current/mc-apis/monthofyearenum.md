@@ -5,12 +5,10 @@ topic: monthofyearenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.779Z
+lastCollected: 2026-04-07T18:40:17.958Z
 estimatedTokens: 294
 keywords: [MonthOfYearEnum, month, year, appropriate, months, specify, recurrent, event, place, part, ScheduleDefinition]
 ---
-
-# MonthOfYearEnum
 
 > The MonthOfYearEnum object specifies the month of the year using the appropriate property. These months can be used to specify in which month a recurrent event takes place as part of a ScheduleDefinition.
 

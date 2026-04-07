@@ -5,12 +5,10 @@ topic: setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.404Z
+lastCollected: 2026-04-07T18:38:52.715Z
 estimatedTokens: 302
-keywords: [$Setup, merge, referencing, custom, setting, “hierarchy.”, Usage]
+keywords: [$Setup, merge, referencing, setting, “hierarchy.”]
 ---
-
-# $Setup
 
 > A global merge field type to use when referencing a custom setting of type
   “hierarchy.”

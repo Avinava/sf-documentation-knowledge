@@ -5,12 +5,10 @@ topic: digitalverfsetupdetailhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.259Z
+lastCollected: 2026-04-07T18:39:37.976Z
 estimatedTokens: 277
-keywords: [DigitalVerfSetupDetailHistory, History, tracked, DigitalVerfSetupDetail]
+keywords: [DigitalVerfSetupDetailHistory, tracked, DigitalVerfSetupDetail]
 ---
-
-# DigitalVerfSetupDetailHistory
 
 > History for tracked fields of DigitalVerfSetupDetail.
 

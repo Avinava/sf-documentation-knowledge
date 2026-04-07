@@ -5,12 +5,10 @@ topic: insurance-group-benefits-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.853Z
+lastCollected: 2026-04-07T18:37:53.083Z
 estimatedTokens: 152
-keywords: [Insurance, Group, Benefits, Metadata, API, access, feature, settings, customize, user]
+keywords: [Insurance, Group, Benefits, Metadata, API, feature, settings, customize, user]
 ---
-
-# Insurance Group Benefits Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

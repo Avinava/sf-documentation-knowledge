@@ -5,12 +5,10 @@ topic: conversationalintelligencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.508Z
+lastCollected: 2026-04-07T18:36:23.834Z
 estimatedTokens: 1333
-keywords: [ConversationalIntelligenceSettings, org's, Einstein, Conversation, Insights, settings, whether, enabled, lets, analyze, rep's, call, recordings, gives, optimize]
+keywords: [ConversationalIntelligenceSettings, org's, Einstein, Conversation, Insights, settings, whether, enabled, lets, analyze, rep's, call, recordings, gives, optimize, every, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# ConversationalIntelligenceSettings
 
 > Represents the org's Einstein Conversation Insights
       settings, such as whether Einstein Conversation Insights is enabled. Einstein Conversation

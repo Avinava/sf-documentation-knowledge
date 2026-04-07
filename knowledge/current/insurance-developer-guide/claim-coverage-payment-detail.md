@@ -5,12 +5,10 @@ topic: claim-coverage-payment-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.989Z
+lastCollected: 2026-04-07T18:37:52.115Z
 estimatedTokens: 254
-keywords: [Claim, Coverage, Payment, Detail, Output, representation, creating, record]
+keywords: [Claim, Coverage, Payment, Detail, creating, record]
 ---
-
-# Claim Coverage Payment Detail
 
 > Output representation for creating the claim coverage payment detail record.
 

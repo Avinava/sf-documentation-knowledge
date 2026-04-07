@@ -5,12 +5,10 @@ topic: hlthcareprovtreatedconditionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.398Z
+lastCollected: 2026-04-07T18:39:44.026Z
 estimatedTokens: 367
-keywords: [HlthCareProvTreatedConditionFeed, Feed, tracking, HlthCareProvTreatedCondition]
+keywords: [HlthCareProvTreatedConditionFeed, HlthCareProvTreatedCondition]
 ---
-
-# HlthCareProvTreatedConditionFeed
 
 > Feed tracking for HlthCareProvTreatedCondition.
 

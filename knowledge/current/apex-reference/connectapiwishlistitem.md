@@ -5,12 +5,10 @@ topic: connectapiwishlistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.983Z
+lastCollected: 2026-04-07T18:36:12.271Z
 estimatedTokens: 192
 keywords: [ConnectApi.WishlistItem, Item, wishlist]
 ---
-
-# ConnectApi.WishlistItem
 
 > Item in a wishlist.
 

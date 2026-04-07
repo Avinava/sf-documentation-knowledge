@@ -5,12 +5,10 @@ topic: order-interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.700Z
+lastCollected: 2026-04-07T18:35:51.560Z
 estimatedTokens: 549
 keywords: [Order, Interaction, ecommerce, event, captures, actions, performed, user, manage, new, progress, completed, orders]
 ---
-
-# Order Interaction
 
 > An order interaction is an ecommerce event that captures actions performed by a user to
         manage new, in progress, or completed orders.

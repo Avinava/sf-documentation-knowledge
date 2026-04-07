@@ -5,12 +5,10 @@ topic: describe-global
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.425Z
+lastCollected: 2026-04-07T18:36:20.649Z
 estimatedTokens: 645
-keywords: [Describe, objects, associated, metadata, resource, custom, standard]
+keywords: [Describe, metadata, resource, standard]
 ---
-
-# Describe Global
 
 > Lists the available objects and the associated metadata. This resource returns both
 		custom and standard objects.

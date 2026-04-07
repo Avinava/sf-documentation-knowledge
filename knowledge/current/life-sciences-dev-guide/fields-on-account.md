@@ -5,12 +5,10 @@ topic: fields-on-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.570Z
+lastCollected: 2026-04-07T18:37:57.061Z
 estimatedTokens: 165
 keywords: [Account, Life, Sciences, Cloud, extend, standard, represent, patients, providers]
 ---
-
-# Fields on Account
 
 > Life Sciences Cloud fields extend the standard Account object to represent information
       about patients and providers.

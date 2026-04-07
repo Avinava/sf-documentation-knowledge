@@ -5,12 +5,10 @@ topic: claimpaymentsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.537Z
+lastCollected: 2026-04-07T18:39:33.966Z
 estimatedTokens: 356
-keywords: [ClaimPaymentSummary, amount, money, that's, paid, claimant, claim, participant, cover, API, version, 51.0, later]
+keywords: [ClaimPaymentSummary, amount, money, that's, paid, claimant, claim, participant, cover, API, 51.0]
 ---
-
-# ClaimPaymentSummary
 
 > Represents the amount of money that's paid to a claimant or claim participant
       to cover a claim. This object is available in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: delete-a-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.241Z
+lastCollected: 2026-04-07T18:40:24.698Z
 estimatedTokens: 337
-keywords: [Specify, unique, identifier, needs, props, order, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Specify, unique, identifier, needs, props, order, identify, PHP]
 ---
-
-# Delete a List
 
 > Use the Delete method to delete a list. Specify a unique identifier needs to be specified in the props properties in order to identify which list to update:
 

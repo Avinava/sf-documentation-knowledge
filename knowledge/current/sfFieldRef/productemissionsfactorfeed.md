@@ -5,12 +5,10 @@ topic: productemissionsfactorfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.164Z
+lastCollected: 2026-04-07T18:39:55.731Z
 estimatedTokens: 364
-keywords: [ProductEmissionsFactorFeed, Feed, tracking, ProductEmissionsFactor]
+keywords: [ProductEmissionsFactorFeed, ProductEmissionsFactor]
 ---
-
-# ProductEmissionsFactorFeed
 
 > Feed tracking for ProductEmissionsFactor.
 

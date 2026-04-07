@@ -5,12 +5,10 @@ topic: identity-verification-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.655Z
+lastCollected: 2026-04-07T18:36:41.346Z
 estimatedTokens: 176
 keywords: [Identity, Verification, Connect, APIs, validate, representative, customer]
 ---
-
-# Identity Verification Connect APIs
 
 > Use the Identity Verification Connect
     APIs to validate the identity of a representative or customer.

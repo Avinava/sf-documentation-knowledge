@@ -5,12 +5,10 @@ topic: medicationstatementdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.131Z
+lastCollected: 2026-04-07T18:37:43.334Z
 estimatedTokens: 959
-keywords: [MedicationStatementDetail, additional, associated, MedicationStatement, records, API, version, 54.0, later, Calls, Usage, Objects]
+keywords: [MedicationStatementDetail, additional, MedicationStatement, records, API, 54.0]
 ---
-
-# MedicationStatementDetail
 
 > Represents additional information associated with MedicationStatement
          records. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: xmd-dimension-custom-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:11.637Z
+lastCollected: 2026-04-07T18:36:58.195Z
 estimatedTokens: 156
-keywords: [Xmd, Dimension, Custom, Action, extended, metadata, Analytics, dataset]
+keywords: [Xmd, Dimension, Action, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Dimension Custom Action
 
 > The extended metadata (Xmd) for a custom action on an Analytics dataset
   dimension.

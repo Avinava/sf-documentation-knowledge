@@ -5,12 +5,10 @@ topic: supported-html-tags
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.481Z
+lastCollected: 2026-04-07T18:38:05.692Z
 estimatedTokens: 379
 keywords: [HTML, Tags, framework, supports, including, majority, HTML5]
 ---
-
-# Supported HTML Tags
 
 > The framework supports most HTML tags, including the majority of HTML5
     tags.

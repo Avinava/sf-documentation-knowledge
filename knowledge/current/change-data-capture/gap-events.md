@@ -5,12 +5,10 @@ topic: gap-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.645Z
+lastCollected: 2026-04-07T18:37:05.396Z
 estimatedTokens: 1253
-keywords: [Gap, Events, Salesforce, sometimes, instead, change, inform, subscribers, errors, it’s, possible, generate, event, record, doesn’t]
+keywords: [Gap, Events, Salesforce, sometimes, instead, change, inform, subscribers, errors, it’s, possible, generate, event, record, doesn’t, include]
 ---
-
-# Gap Events
 
 > Salesforce sometimes sends gap events instead of change events to inform subscribers
     about errors, or if it’s not possible to generate change events. A gap event contains

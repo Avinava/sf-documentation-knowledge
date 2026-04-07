@@ -5,12 +5,10 @@ topic: cms-delivery-content-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.417Z
+lastCollected: 2026-04-07T18:37:14.376Z
 estimatedTokens: 226
 keywords: [CMS, Delivery, Content, Channel, binary, stream, media, node, published]
 ---
-
-# CMS Delivery Content, Channel
 
 > Get the binary stream of a media node of published content in a
       channel.

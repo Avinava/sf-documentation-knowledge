@@ -5,12 +5,10 @@ topic: financialgoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.072Z
+lastCollected: 2026-04-07T18:39:40.681Z
 estimatedTokens: 494
-keywords: [FinancialGoal, Financial, Goal, standard, Salesforce, person, account, API, version, 59.0, later]
+keywords: [FinancialGoal, Financial, Goal, standard, Salesforce, person, account, API, 59.0]
 ---
-
-# FinancialGoal
 
 > This Financial Goal object is a standard Salesforce object. It represents a
          financial goal for a person account. This object is available in API version 59.0 and

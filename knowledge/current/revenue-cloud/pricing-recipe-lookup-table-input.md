@@ -5,12 +5,10 @@ topic: pricing-recipe-lookup-table-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:58.656Z
+lastCollected: 2026-04-07T18:35:43.529Z
 estimatedTokens: 124
-keywords: [Pricing, Recipe, LookUp, Input, representation, tables, setup]
+keywords: [Pricing, Recipe, LookUp, tables, setup]
 ---
-
-# Pricing Recipe LookUp Table Input
 
 > Input representation of the lookup tables for the setup page recipe.
 

@@ -5,12 +5,10 @@ topic: suggest-salesforce-knowledge-articles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.488Z
+lastCollected: 2026-04-07T18:36:17.723Z
 estimatedTokens: 298
-keywords: [Suggest, Salesforce, Knowledge, Articles, Provide, users, shortcuts, navigate, relevant, they, perform, search, Call, Search.suggest, searchText]
+keywords: [Suggest, Salesforce, Knowledge, Articles, Provide, users, shortcuts, navigate, relevant, they, perform, search, Call, Search.suggest, searchText, objectType, options, whose, titles, match, user’s, query]
 ---
-
-# Suggest Salesforce Knowledge Articles
 
 > Provide users with shortcuts to navigate to relevant articles before they perform a
         search. Call Search.suggest(searchText, objectType,

@@ -5,12 +5,10 @@ topic: dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:38.949Z
+lastCollected: 2026-04-07T18:36:24.296Z
 estimatedTokens: 7034
-keywords: [Dashboard, Dashboards, visual, representations, data, allow, key, metrics, performance, glance, Declarative, Metadata, File, Suffix, Directory]
+keywords: [Dashboard, DashboardFilter, DashboardFilterOption, DashboardGridLayout, DashboardGridComponent, DashboardComponent, DashboardComponentContent, DashboardDynamicValue, DashboardFilterColumn, DashboardTableColumn, DashboardFlexTableComponentProperties, DashboardComponentGroupingSortProperties, DashboardComponentGroupingSort, DashboardComponentColumn, DashboardComponentSortInfo, DashboardComponentSection, DashboardComponentFilter, Dashboards, visual, representations, allow, key, metrics, performance, glance, Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Sample, Definition, Filtered, Unfiltered, Lightning, Experience, isGridLayout, Equals, Wildcard, Support, Manifest]
 ---
-
-# Dashboard
 
 > Represents a dashboard. Dashboards are visual
             representations of data that allow you to see key metrics and performance at a

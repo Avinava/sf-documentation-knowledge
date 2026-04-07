@@ -5,12 +5,10 @@ topic: other-emissions-factor-set-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.310Z
+lastCollected: 2026-04-07T18:38:16.899Z
 estimatedTokens: 1270
-keywords: [Emissions, Factor, Item, individual, entries, conversion, factors, various, data, sources, neither, electricity, grid, nor, scope]
+keywords: [Emissions, Factor, Item, individual, entries, conversion, factors, various, sources, neither, electricity, grid, nor, scope, Stationary, Fuels, Mobile, Jet, Fuel]
 ---
-
-# Other Emissions Factor Set Item
 
 > The Other Emissions Factor Set item object represents the individual entries for
     emissions and conversion factors for various data types and sources that are neither the

@@ -5,12 +5,10 @@ topic: remove-metadata-components-from-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.976Z
+lastCollected: 2026-04-07T18:38:56.635Z
 estimatedTokens: 1773
-keywords: [Remove, Metadata, Components, Second-Generation, Managed, Packages, Apex, classes, longer, want, Impact, Component, Removal, Subscriber, Orgs]
+keywords: [Remove, Metadata, Second-Generation, Managed, Packages, Apex, classes, longer, want, Impact, Removal, Subscriber, Orgs, How, Dependencies, Package, Located]
 ---
-
-# Remove Metadata Components from Second-Generation Managed Packages
 
 > Remove metadata components such as Apex classes that you no longer want in your
   second-generation managed packages.

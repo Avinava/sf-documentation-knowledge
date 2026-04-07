@@ -5,12 +5,10 @@ topic: datalineagenodedefsyncloghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.672Z
+lastCollected: 2026-04-07T18:39:37.307Z
 estimatedTokens: 281
-keywords: [DataLineageNodeDefSyncLogHistory, History, tracked, DataLineageNodeDefSyncLog]
+keywords: [DataLineageNodeDefSyncLogHistory, tracked, DataLineageNodeDefSyncLog]
 ---
-
-# DataLineageNodeDefSyncLogHistory
 
 > History for tracked fields of DataLineageNodeDefSyncLog.
 

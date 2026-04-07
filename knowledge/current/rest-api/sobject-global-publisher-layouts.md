@@ -5,12 +5,10 @@ topic: sobject-global-publisher-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.056Z
+lastCollected: 2026-04-07T18:36:21.285Z
 estimatedTokens: 287
 keywords: [sObject, Publisher, Layouts, Retrieves, customize, actions, pages, Home, Lightning, Experience, populate, menu]
 ---
-
-# sObject Global Publisher Layouts
 
 > Retrieves lists of global publisher layouts. Global publisher layouts customize the
     actions on global pages (like the Home page). In Lightning Experience, these layouts populate

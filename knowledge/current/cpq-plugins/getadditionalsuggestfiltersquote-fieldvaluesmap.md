@@ -6,13 +6,10 @@ topic: getadditionalsuggestfiltersquote-fieldvaluesmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.595Z
+lastCollected: 2026-04-07T18:37:27.600Z
 estimatedTokens: 174
-keywords: [getAdditionalSuggestFilters, quote, fieldValuesMap, Appends, clause, SOQL, query, guided, selling, prompt, Salesforce, CPQ, Calls, isSuggestCustom]
+keywords: [getAdditionalSuggestFilters, quote, fieldValuesMap, Appends, clause, SOQL, query, guided, selling, prompt, Salesforce, CPQ, isSuggestCustom]
 ---
-
-# getAdditionalSuggestFilters(quote,
-    fieldValuesMap)
 
 > Appends a WHERE clause to the SOQL query used for a guided selling
       prompt. Salesforce CPQ Calls this method only when isSuggestCustom returns FALSE.

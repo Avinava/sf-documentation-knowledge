@@ -5,12 +5,10 @@ topic: performance-tuning-for-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.638Z
+lastCollected: 2026-04-07T18:38:52.925Z
 estimatedTokens: 337
 keywords: [Performance, Tuning, Visualforce, Pages, aspect, mobile, caching, mechanism, help, tune, Resources]
 ---
-
-# Performance Tuning for Visualforce Pages
 
 > Performance is an important aspect of mobile Visualforce pages. Visualforce has a
     caching mechanism to help you tune the performance of your pages.

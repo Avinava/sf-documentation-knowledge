@@ -5,12 +5,10 @@ topic: development-tools-and-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.521Z
+lastCollected: 2026-04-07T18:38:14.994Z
 estimatedTokens: 1162
 keywords: [Development, Tools, Processes, efficient, developer, experience, building, mobile, offline, LWCs]
 ---
-
-# Development Tools and Processes
 
 > Set up and use your development tools for the most efficient developer experience while
   building mobile and offline LWCs.

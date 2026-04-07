@@ -5,12 +5,10 @@ topic: configurator-pricing-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.487Z
+lastCollected: 2026-04-07T18:35:45.456Z
 estimatedTokens: 174
-keywords: [Configurator, Pricing, Model, Output, representation, product, configuration]
+keywords: [Configurator, Pricing, Model, product, configuration]
 ---
-
-# Configurator Pricing Model
 
 > Output representation of the details of a pricing model in a product
     configuration.

@@ -5,12 +5,10 @@ topic: connectapiclaimitemrelatedobjectinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.794Z
+lastCollected: 2026-04-07T18:37:49.660Z
 estimatedTokens: 101
-keywords: [Invocable, action, input, representation, claim, items]
+keywords: [Invocable, action, claim, items]
 ---
-
-# ConnectApi.ClaimItemRelatedObjectInputRep
 
 > Invocable action input representation for the related object in claim items.
 

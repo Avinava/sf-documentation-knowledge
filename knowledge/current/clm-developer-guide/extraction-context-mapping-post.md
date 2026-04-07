@@ -5,12 +5,10 @@ topic: extraction-context-mapping-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.054Z
+lastCollected: 2026-04-07T18:37:25.008Z
 estimatedTokens: 228
-keywords: [Extraction, Context, Mapping, POST, context-mapping, show, how, extracted, data, associated, Salesforce]
+keywords: [Extraction, Context, Mapping, POST, context-mapping, show, how, extracted, Salesforce]
 ---
-
-# Extraction Context Mapping (POST)
 
 > Create extraction context-mapping details that show how extracted
       data is associated with Salesforce fields.

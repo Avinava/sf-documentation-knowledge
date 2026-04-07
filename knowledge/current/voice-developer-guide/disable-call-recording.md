@@ -5,12 +5,10 @@ topic: disable-call-recording
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.733Z
+lastCollected: 2026-04-07T18:40:12.702Z
 estimatedTokens: 455
 keywords: [Disable, Call, Recording, Configure, Amazon, Connect, flow, voice]
 ---
-
-# Disable Call Recording
 
 > Configure an Amazon Connect flow to disable recording for a voice call.
 

@@ -5,12 +5,10 @@ topic: personexaminationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.407Z
+lastCollected: 2026-04-07T18:39:53.951Z
 estimatedTokens: 266
-keywords: [PersonExaminationHistory, History, tracked, PersonExamination]
+keywords: [PersonExaminationHistory, tracked, PersonExamination]
 ---
-
-# PersonExaminationHistory
 
 > History for tracked fields of PersonExamination.
 

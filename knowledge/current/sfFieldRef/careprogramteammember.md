@@ -5,12 +5,10 @@ topic: careprogramteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.269Z
+lastCollected: 2026-04-07T18:39:32.672Z
 estimatedTokens: 369
 keywords: [CareProgramTeamMember, person, delivers, services, under, program, manager, care, coordinator]
 ---
-
-# CareProgramTeamMember
 
 > Represents a person who delivers services under a program, such as a program manager or care coordinator.
 

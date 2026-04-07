@@ -5,13 +5,11 @@ topic: tokenizenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.934Z
+lastCollected: 2026-04-07T18:36:02.151Z
 estimatedTokens: 2914
 namespace: TokenizeNotification
-keywords: [TokenizeNotification, payment, gateway, notification, tokenization, adapter, creates, store, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate]
+keywords: [TokenizeNotification, payment, gateway, notification, tokenization, adapter, creates, store, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setGatewayToken, gatewayToken, setGatewayTokenEncrypted, gatewayTokenEncrypted, setId, setSalesforceResultCodeInfo, salesforceResultCodeInfo, setStatus, status]
 ---
-
-# TokenizeNotification Class
 
 > When a payment gateway sends a notification for a payment method
       tokenization, the payment gateway adapter creates the TokenizeNotification object to store information about

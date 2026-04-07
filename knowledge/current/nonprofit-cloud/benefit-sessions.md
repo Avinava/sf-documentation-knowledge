@@ -5,12 +5,10 @@ topic: benefit-sessions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.112Z
+lastCollected: 2026-04-07T18:38:20.865Z
 estimatedTokens: 119
-keywords: [Benefit, Sessions, Output, representation, generated, preview]
+keywords: [Benefit, Sessions, generated, preview]
 ---
-
-# Benefit Sessions
 
 > Output representation of the benefit sessions that are generated for
       preview.

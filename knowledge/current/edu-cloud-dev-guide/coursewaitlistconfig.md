@@ -5,12 +5,10 @@ topic: coursewaitlistconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.934Z
+lastCollected: 2026-04-07T18:37:31.008Z
 estimatedTokens: 610
-keywords: [CourseWaitlistConfig, configuration, Course, Waitlists, API, version, 66.0, later, Calls]
+keywords: [CourseWaitlistConfig, configuration, Course, Waitlists, API, 66.0]
 ---
-
-# CourseWaitlistConfig
 
 > Represents the configuration for Course Waitlists. This object
       is available in API version 66.0 and later.

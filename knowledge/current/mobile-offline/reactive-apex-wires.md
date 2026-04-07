@@ -5,12 +5,10 @@ topic: reactive-apex-wires
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.414Z
+lastCollected: 2026-04-07T18:38:14.871Z
 estimatedTokens: 623
-keywords: [Reactive, Apex, Wires, Reading, data, via, wire, adapter, “natural”, way, access, Lightning, web, components, add]
+keywords: [Reactive, Apex, Wires, Reading, via, wire, adapter, “natural”, way, Lightning, web, add, read-only, import, @salesforce, module, @wire, annotation, connect, function]
 ---
-
-# Reactive Apex Wires
 
 > Reading data via a wire adapter is the “natural” way to access data in Lightning web
   components. To add a read-only Apex method to a Lightning web component, first import the Apex

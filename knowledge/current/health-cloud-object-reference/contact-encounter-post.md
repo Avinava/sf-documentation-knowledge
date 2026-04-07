@@ -6,13 +6,10 @@ topic: contact-encounter-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:54.433Z
+lastCollected: 2026-04-07T18:37:42.581Z
 estimatedTokens: 2323
 keywords: [Contact, Encounter, POST, Load, encounters, system]
 ---
-
-# Contact Encounter
-    (POST)
 
 > Load details of contact encounters into the system.
 

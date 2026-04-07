@@ -5,12 +5,10 @@ topic: payment-credit-sequence-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.701Z
+lastCollected: 2026-04-07T18:37:09.429Z
 estimatedTokens: 210
-keywords: [Payment, Credit, Sequence, Input, order, amount, applied, determines, processing, credited, determined, summary]
+keywords: [Payment, Credit, Sequence, order, amount, applied, determines, processing, credited, determined, summary]
 ---
-
-# Payment Credit Sequence Input
 
 > The order in which the credit amount is applied to specified payment methods. The
     sequence determines the order that the credit is applied to each payment during processing. The

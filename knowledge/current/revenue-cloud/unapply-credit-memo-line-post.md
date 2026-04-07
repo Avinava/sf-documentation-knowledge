@@ -5,12 +5,10 @@ topic: unapply-credit-memo-line-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.405Z
+lastCollected: 2026-04-07T18:35:44.385Z
 estimatedTokens: 318
 keywords: [Unapply, Credit, Memo, Line, POST, invoice, their, pre-application, states]
 ---
-
-# Unapply Credit Memo Line (POST)
 
 > Unapply a credit memo line from an invoice line and return the invoice
       line and the credit memo line to their pre-application states.

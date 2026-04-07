@@ -5,12 +5,10 @@ topic: capability-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:27.176Z
+lastCollected: 2026-04-07T18:36:12.471Z
 estimatedTokens: 791
-keywords: [Capability, Declares, functional, operations, external, system, supports, endpoint, settings, data, source, definition, Usage]
+keywords: [Capability, Declares, functional, operations, external, system, supports, endpoint, settings, source, definition]
 ---
-
-# Capability Enum
 
 > Declares which functional operations the external system supports. Also specifies
     required endpoint settings for the external data source definition.

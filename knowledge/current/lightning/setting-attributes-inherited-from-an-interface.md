@@ -5,12 +5,10 @@ topic: setting-attributes-inherited-from-an-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.509Z
+lastCollected: 2026-04-07T18:38:05.721Z
 estimatedTokens: 81
-keywords: [Setting, Attributes, Inherited, attribute, redefine, component, Let’s, look, myIntf]
+keywords: [Setting, Attributes, Inherited, attribute, redefine, Let’s, look, myIntf]
 ---
-
-# Setting Attributes Inherited from an Interface
 
 > To set the value of an attribute inherited from an interface, redefine the attribute in the
             component and set its default value. Let’s look at an example with the

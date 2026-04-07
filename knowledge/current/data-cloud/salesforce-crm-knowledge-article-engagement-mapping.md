@@ -5,12 +5,10 @@ topic: salesforce-crm-knowledge-article-engagement-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.212Z
+lastCollected: 2026-04-07T18:35:53.150Z
 estimatedTokens: 449
-keywords: [Salesforce, CRM, Knowledge, Article, Engagement, Mapping, data, mappings, KnowledgeArticleView, DLO, created, Views, Ingestion, API, Cloud]
+keywords: [Salesforce, CRM, Knowledge, Article, Engagement, Mapping, mappings, KnowledgeArticleView, DLO, created, Views, Ingestion, API, Cloud, KnowledgeArticleEngagement, DMO, Bundle]
 ---
-
-# Salesforce CRM: Knowledge Article Engagement Mapping
 
 > The data mappings are for KnowledgeArticleView DLO created by the Knowledge Article Views
   Ingestion API for Data Cloud. The mappings are for the KnowledgeArticleEngagement DMO

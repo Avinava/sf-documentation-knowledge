@@ -5,12 +5,10 @@ topic: reference-flow-output-variable-values-in-a-wrapper-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.307Z
+lastCollected: 2026-04-07T18:38:03.321Z
 estimatedTokens: 250
-keywords: [Flow, Output, Variable, Wrapper, Aura, Component, embed, display, flow’s, onstatuschange, action, flow's, variables, array]
+keywords: [Flow, Variable, Wrapper, Aura, embed, display, flow’s, onstatuschange, action, flow's, variables, array]
 ---
-
-# Reference Flow Output Variable Values in a Wrapper Aura Component
 
 > When you embed a flow in an Aura component, you can display or reference the
                 flow’s variable values. Use the onstatuschange

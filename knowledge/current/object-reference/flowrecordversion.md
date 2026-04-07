@@ -5,12 +5,10 @@ topic: flowrecordversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.730Z
+lastCollected: 2026-04-07T18:38:32.723Z
 estimatedTokens: 5549
-keywords: [FlowRecordVersion, version, flow, API, 58.0, later, Calls]
+keywords: [FlowRecordVersion, flow, API, 58.0]
 ---
-
-# FlowRecordVersion
 
 > Represents the version of a flow. This object is available in API
          version 58.0 and later.

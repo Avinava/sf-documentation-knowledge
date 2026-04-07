@@ -5,12 +5,10 @@ topic: formulafunctioncategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.761Z
+lastCollected: 2026-04-07T18:39:41.398Z
 estimatedTokens: 217
-keywords: [FormulaFunctionCategory, category, formula, belongs, building, API, version, 47.0, later]
+keywords: [FormulaFunctionCategory, category, formula, belongs, building, API, 47.0]
 ---
-
-# FormulaFunctionCategory
 
 > Represents the category to which a formula belongs when building a formula.
        This object is available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: automate-time-sheet-creation-capture-omni-status-change-and-calculate-shr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.484Z
+lastCollected: 2026-04-07T18:40:14.495Z
 estimatedTokens: 964
-keywords: [Automate, Time, Sheet, Creation, Capture, Omni, Status, Change, Calculate, Shrinkage, basic, automation, Log, agents, Omni-Channel]
+keywords: [Prerequisites, Automate, Time, Sheet, Creation, Capture, Omni, Status, Change, Calculate, Shrinkage, basic, automation, Log, agents, Omni-Channel, changes, throughout, day, percentage, shift, Step, Entry, Introduce, Salesforce, Flow, Test]
 ---
-
-# Automate Time Sheet Creation, Capture Omni Status Change, and Calculate Shrinkage
 
 > Set up basic time sheet automation. Log agents' Omni-Channel
             status changes throughout the day and use that information to calculate the shrinkage

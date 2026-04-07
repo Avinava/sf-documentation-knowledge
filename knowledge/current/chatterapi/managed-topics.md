@@ -5,12 +5,10 @@ topic: managed-topics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.520Z
+lastCollected: 2026-04-07T18:37:14.508Z
 estimatedTokens: 2196
 keywords: [Managed, Topics, Experience, Cloud, site, topic, hierarchies, reorder]
 ---
-
-# Managed Topics
 
 > Get all the managed topics for an Experience Cloud site. Create a
       managed topic, create managed topic hierarchies, and reorder managed topics.

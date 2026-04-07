@@ -5,12 +5,10 @@ topic: topic-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.937Z
+lastCollected: 2026-04-07T18:37:16.010Z
 estimatedTokens: 98
 keywords: [Topic, Groups, five, recently, contributed]
 ---
-
-# Topic Groups
 
 > Get information about the five groups that most recently
    contributed to a topic.

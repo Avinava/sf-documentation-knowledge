@@ -5,12 +5,10 @@ topic: calculate-how-long-activities-take
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.847Z
+lastCollected: 2026-04-07T18:37:00.357Z
 estimatedTokens: 382
-keywords: [Calculate, How, Long, Activities, Take, daysBetween, date_diff, difference, two, dates, times, Display, Number, Days, Since]
+keywords: [Calculate, How, Long, Activities, Take, daysBetween, date_diff, difference, two, dates, times, Display, Number, Days, Since, Opportunity, Opened, Weeks, Did, Close]
 ---
-
-# Calculate How Long Activities Take
 
 > Use daysBetween() and date_diff() to calculate the difference between two
             dates or times.

@@ -5,12 +5,10 @@ topic: group-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:01:57.566Z
+lastCollected: 2026-04-07T18:35:42.452Z
 estimatedTokens: 1482
-keywords: [Group, Constraint, Modeling, Language, CML, logically, containerize, components, bundle, configuration, primarily, product, component, groups, imported]
+keywords: [Group, Constraint, Modeling, Language, CML, logically, containerize, bundle, configuration, primarily, product, groups, imported, Catalog, Management, PCM, Conceptual, Hierarchy, Role, Cardinality, Selection, Syntactic, Implementation, Defining, Generator, Referencing, Root, Writing, Constraints, Final, Code, Sample, Key, Considerations]
 ---
-
-# Group Type
 
 > In Constraint Modeling Language (CML), a Group Type is used to logically containerize
     related components within a bundle configuration, primarily when product component groups are

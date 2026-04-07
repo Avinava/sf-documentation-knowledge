@@ -5,13 +5,11 @@ topic: territorymgmt-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.833Z
+lastCollected: 2026-04-07T18:36:15.144Z
 estimatedTokens: 128
 namespace: TerritoryMgmt
 keywords: [TerritoryMgmt, territory, management]
 ---
-
-# TerritoryMgmt Namespace
 
 > The TerritoryMgmt namespace provides an
   interface used for territory management.

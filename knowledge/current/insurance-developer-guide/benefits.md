@@ -5,12 +5,10 @@ topic: benefits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.914Z
+lastCollected: 2026-04-07T18:37:51.998Z
 estimatedTokens: 217
-keywords: [Benefits, Output, representation, plan, insurance, policy, coverage]
+keywords: [Benefits, plan, insurance, policy, coverage]
 ---
-
-# Benefits
 
 > Output representation details of the plan benefits for an insurance policy coverage
         plan.

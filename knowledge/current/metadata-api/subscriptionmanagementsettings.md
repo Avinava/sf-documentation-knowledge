@@ -5,12 +5,10 @@ topic: subscriptionmanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.492Z
+lastCollected: 2026-04-07T18:36:29.908Z
 estimatedTokens: 941
-keywords: [SubscriptionManagementSettings, settings, manage, recurring, subscriptions, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules]
+keywords: [SubscriptionManagementSettings, settings, manage, recurring, subscriptions, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# SubscriptionManagementSettings
 
 > Represents the settings used to manage recurring
 			subscriptions.

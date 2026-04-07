@@ -5,12 +5,10 @@ topic: packaging-checklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.047Z
+lastCollected: 2026-04-07T18:38:54.464Z
 estimatedTokens: 329
-keywords: [Packaging, Checklist, Ready, deploy, metadata, start, creating, package, Take, few, minutes, verify, covered, items, you’re]
+keywords: [Packaging, Checklist, Ready, deploy, metadata, start, creating, package, Take, few, minutes, verify, covered, items, you’re, good]
 ---
-
-# Packaging Checklist
 
 > Ready to deploy your packaging metadata and start creating a package? Take a few
     minutes to verify that you covered the items in this checklist, and you’re good to

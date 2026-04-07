@@ -5,12 +5,10 @@ topic: connectapisortrulescollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.569Z
+lastCollected: 2026-04-07T18:36:11.853Z
 estimatedTokens: 56
-keywords: [ConnectApi.SortRulesCollection, Collection, sort, rules]
+keywords: [ConnectApi.SortRulesCollection, Collection, sort]
 ---
-
-# ConnectApi.SortRulesCollection
 
 > Collection of sort rules.
 

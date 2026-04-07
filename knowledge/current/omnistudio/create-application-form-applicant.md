@@ -5,12 +5,10 @@ topic: create-application-form-applicant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.465Z
+lastCollected: 2026-04-07T18:36:39.147Z
 estimatedTokens: 378
-keywords: [Application, Form, Applicant, Output, representation]
+keywords: [Application, Form, Applicant]
 ---
-
-# Create Application Form Applicant
 
 > Output representation of the request to create the application form
     applicant.

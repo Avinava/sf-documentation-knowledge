@@ -5,12 +5,10 @@ topic: voucherdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.504Z
+lastCollected: 2026-04-07T18:38:10.766Z
 estimatedTokens: 1870
-keywords: [VoucherDefinition, voucher, definition, that’s, associated, loyalty, program, API, version, 51.0, later, Calls, Objects]
+keywords: [VoucherDefinition, voucher, definition, that’s, loyalty, program, API, 51.0]
 ---
-
-# VoucherDefinition
 
 > Represents details about a voucher definition that’s associated with a
       loyalty program. This object is available in API version 51.0 and later.

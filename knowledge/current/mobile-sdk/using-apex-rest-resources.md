@@ -5,12 +5,10 @@ topic: using-apex-rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.070Z
+lastCollected: 2026-04-07T18:40:25.438Z
 estimatedTokens: 545
-keywords: [Apex, REST, Resources, support, Mobile, SDK, two, classes, Force.ApexRestObject, Force.ApexRestObjectCollection, subclass, Force.RemoteObject, Force.RemoteObjectCollection, respectively, talk]
+keywords: [Apex, REST, Resources, support, Mobile, SDK, two, classes, Force.ApexRestObject, Force.ApexRestObjectCollection, subclass, Force.RemoteObject, Force.RemoteObjectCollection, respectively, talk, API, created]
 ---
-
-# Using Apex REST Resources
 
 > To support Apex REST resources, Mobile SDK provides two classes: Force.ApexRestObject and Force.ApexRestObjectCollection. These classes subclass Force.RemoteObject and Force.RemoteObjectCollection, respectively, and can talk to a REST API
             that you have created using Apex REST.

@@ -5,12 +5,10 @@ topic: pricebookratecardfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.032Z
+lastCollected: 2026-04-07T18:39:54.588Z
 estimatedTokens: 389
-keywords: [PriceBookRateCardFeed, Feed, tracking, PriceBookRateCard]
+keywords: [PriceBookRateCardFeed, PriceBookRateCard]
 ---
-
-# PriceBookRateCardFeed
 
 > Feed tracking for PriceBookRateCard.
 

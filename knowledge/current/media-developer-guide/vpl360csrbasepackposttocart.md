@@ -5,12 +5,10 @@ topic: vpl360csrbasepackposttocart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.200Z
+lastCollected: 2026-04-07T18:38:11.508Z
 estimatedTokens: 197
-keywords: [VPL360_CsrBasePackPosttocart, Integration, Procedure, base, packages, cart, items, display, agent, console, changing, package, subscriber, VPL360, _CsrBasePackPosttocart]
+keywords: [VPL360_CsrBasePackPosttocart, Integration, Procedure, base, packages, cart, items, display, agent, console, changing, package, subscriber, VPL360, _CsrBasePackPosttocart, Sample]
 ---
-
-# VPL360_CsrBasePackPosttocart
 
 > This Integration Procedure gets the available base packages and also gets
                       cart items to display in the agent console while changing a base package for a

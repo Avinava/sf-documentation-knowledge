@@ -5,12 +5,10 @@ topic: leadstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.025Z
+lastCollected: 2026-04-07T18:38:34.222Z
 estimatedTokens: 741
-keywords: [LeadStatus, status, Lead, record, Open, Qualified, Converted, Calls, Usage]
+keywords: [LeadStatus, status, Lead, record, Open, Qualified, Converted]
 ---
-
-# LeadStatus
 
 > Represents the status of a Lead record, such as Open, Qualified, or
    Converted.

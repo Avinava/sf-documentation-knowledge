@@ -5,12 +5,10 @@ topic: forecasting-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.423Z
+lastCollected: 2026-04-07T18:37:19.575Z
 estimatedTokens: 252
-keywords: [Forecasting, User, representation]
+keywords: [Forecasting, User]
 ---
-
-# Forecasting User
 
 > A representation of a forecasting user.
 

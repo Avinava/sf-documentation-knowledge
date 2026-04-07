@@ -5,12 +5,10 @@ topic: bounceevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.492Z
+lastCollected: 2026-04-07T18:40:15.593Z
 estimatedTokens: 684
 keywords: [BounceEvent, SMTP, pertaining, specific, event, email, message, bounce, Items]
 ---
-
-# BounceEvent
 
 > The BounceEvent object contains SMTP and other information pertaining to the specific event of an email message bounce.
 

@@ -5,12 +5,10 @@ topic: remove-redundant-projections
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.560Z
+lastCollected: 2026-04-07T18:37:01.154Z
 estimatedTokens: 204
-keywords: [Remove, Redundant, Projections, improve, memory, usage, performance, costs, unnecessary, queries, load, data, perform, operation, include]
+keywords: [Remove, Redundant, Projections, improve, memory, performance, costs, unnecessary, queries, load, perform, operation, include, pre-projection, statements, needed]
 ---
-
-# Remove Redundant Projections
 
 > To improve memory usage and performance costs, remove unnecessary projections from your
   queries and load only the data required. If you have to perform an operation, include

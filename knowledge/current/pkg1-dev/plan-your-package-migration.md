@@ -5,12 +5,10 @@ topic: plan-your-package-migration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.707Z
+lastCollected: 2026-04-07T18:38:54.066Z
 estimatedTokens: 1099
-keywords: [Plan, Package, Migration, ready, move, subscribers, 2GP, speed, ease, depend, few, key, factors, Supporting, Multiple]
+keywords: [Plan, Package, Migration, ready, move, subscribers, 2GP, speed, ease, depend, few, key, factors, Supporting, Multiple, Versions, Migrating, Packages, Dependencies]
 ---
-
-# Plan Your Package Migration
 
 > Are you ready to move your subscribers to 2GP? The speed and ease of your package
   migration depend on a few key factors.

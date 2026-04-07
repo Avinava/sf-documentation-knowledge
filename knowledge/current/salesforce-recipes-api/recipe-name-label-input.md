@@ -5,12 +5,10 @@ topic: recipe-name-label-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.892Z
+lastCollected: 2026-04-07T18:39:18.614Z
 estimatedTokens: 108
-keywords: [Recipe, Label, Input, node]
+keywords: [Recipe, Label, node]
 ---
-
-# Recipe Name Label Input
 
 > The name and label for a field in a recipe node.
 

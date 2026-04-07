@@ -5,13 +5,11 @@ topic: standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:43.646Z
+lastCollected: 2026-04-07T18:38:34.884Z
 estimatedTokens: 123845
 namespace: NamespaceRegistry
-keywords: [Standard, Objects, their, subset, appear, Manager]
+keywords: [Standard, their, subset, appear, Manager]
 ---
-
-# Standard Objects
 
 > This section provides a list of standard objects and their standard
             fields. Only a subset of standard objects appear in Object Manager.

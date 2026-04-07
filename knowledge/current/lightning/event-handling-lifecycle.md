@@ -5,12 +5,10 @@ topic: event-handling-lifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.072Z
+lastCollected: 2026-04-07T18:38:04.185Z
 estimatedTokens: 479
 keywords: [Event, Handling, Lifecycle, chart, summarizes, how, framework, handles, events]
 ---
-
-# Event Handling Lifecycle
 
 > The following chart summarizes how the framework handles events.
 

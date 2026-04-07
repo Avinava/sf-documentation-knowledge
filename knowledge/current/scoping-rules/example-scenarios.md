@@ -5,12 +5,10 @@ topic: example-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.850Z
+lastCollected: 2026-04-07T18:39:21.718Z
 estimatedTokens: 392
-keywords: [Scenarios, sample, scoping, rules, provide, relevant, records, users]
+keywords: [Scenarios, sample, scoping, provide, relevant, records, users]
 ---
-
-# Example Scenarios
 
 > These sample scoping rules provide relevant records to users.
 

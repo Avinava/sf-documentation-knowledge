@@ -5,12 +5,10 @@ topic: managed-content-delivery-search-experience-cloud-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.424Z
+lastCollected: 2026-04-07T18:37:14.382Z
 estimatedTokens: 279
 keywords: [Managed, Content, Delivery, Search, Experience, Cloud, Site]
 ---
-
-# Managed Content Delivery Search, Experience Cloud Site
 
 > Search managed content in an Experience Cloud site.
 

@@ -5,12 +5,10 @@ topic: understanding-relationship-fields-and-polymorphic-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.895Z
+lastCollected: 2026-04-07T18:40:09.840Z
 estimatedTokens: 3005
 keywords: [Understanding, Relationship, Polymorphic, referenced, several, different, Common, Qualifier, TYPEOF, Combining, WSDLs]
 ---
-
-# Understanding Relationship Fields and Polymorphic Fields
 
 > In a polymorphic relationship, the referenced object of the relationship can be one of several different types of object.
 

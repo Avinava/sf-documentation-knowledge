@@ -5,12 +5,10 @@ topic: binding-object-resource-grant-and-policy-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.336Z
+lastCollected: 2026-04-07T18:35:45.305Z
 estimatedTokens: 168
-keywords: [Binding, Resource, Grant, Policy, Detail, Output, representation, grants, policies]
+keywords: [Binding, Resource, Grant, Policy, Detail, grants, policies]
 ---
-
-# Binding Object Resource Grant And Policy Detail
 
 > Output representation of the details of resource grants and binding policies.
 

@@ -5,12 +5,10 @@ topic: mobilesettingsassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.705Z
+lastCollected: 2026-04-07T18:39:49.177Z
 estimatedTokens: 320
-keywords: [MobileSettingsAssignment, assignment, particular, service, mobile, settings, configuration, user, profile, API, version, 41.0, later]
+keywords: [MobileSettingsAssignment, assignment, particular, service, mobile, settings, configuration, user, profile, API, 41.0]
 ---
-
-# MobileSettingsAssignment
 
 > Represents the assignment of a particular field
 			service mobile settings configuration to a user profile. This

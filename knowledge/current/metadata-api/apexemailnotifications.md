@@ -5,12 +5,10 @@ topic: apexemailnotifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.257Z
+lastCollected: 2026-04-07T18:36:22.509Z
 estimatedTokens: 761
-keywords: [ApexEmailNotifications, define, users, email, addresses, receive, unhandled, Apex, errors, Flow, metadata, Declarative, File, Suffix, Directory]
+keywords: [ApexEmailNotifications, ApexEmailNotification, define, users, email, addresses, receive, unhandled, Apex, errors, Flow, metadata, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ApexEmailNotifications
 
 > The ApexEmailNotifications type allows you to define
             users and email addresses that receive email for unhandled Apex errors. Flow errors can

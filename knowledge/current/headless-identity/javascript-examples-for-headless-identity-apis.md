@@ -5,12 +5,10 @@ topic: javascript-examples-for-headless-identity-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.399Z
+lastCollected: 2026-04-07T18:37:39.338Z
 estimatedTokens: 1037
-keywords: [JavaScript, Examples, Headless, Identity, APIs, Postman, great, testing, learning, how, flows, doesn’t, show, app, interact]
+keywords: [JavaScript, Examples, Headless, Identity, APIs, Postman, great, testing, learning, how, flows, doesn’t, show, app, interact, high-level, understand, call, real-world, implementation, rest, apply, single-page, apps, known, clients, don’t, client-server]
 ---
-
-# JavaScript Examples for Headless Identity APIs
 
 > Postman is great for testing and learning how to set up headless identity flows, but it
     doesn’t show you how your app can interact with Headless Identity APIs. Use these high-level

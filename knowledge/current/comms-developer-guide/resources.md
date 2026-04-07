@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.002Z
+lastCollected: 2026-04-07T18:37:25.914Z
 estimatedTokens: 625
 keywords: [Resources, Here’s, Revenue, Cloud, Communications, API]
 ---
-
-# Resources
 
 > Here’s a list of Revenue Cloud for Communications API resources.
 

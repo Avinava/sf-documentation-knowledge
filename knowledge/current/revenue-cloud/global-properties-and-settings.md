@@ -5,12 +5,10 @@ topic: global-properties-and-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.558Z
+lastCollected: 2026-04-07T18:35:42.444Z
 estimatedTokens: 659
-keywords: [Settings, Header-level, declarations, define, model, including, constants, external, foundation, CML, code, Regex, Pattern, Components]
+keywords: [Settings, Header-level, declarations, define, model, including, constants, external, foundation, CML, code, Regex, Pattern]
 ---
-
-# Global Properties and Settings
 
 > Header-level declarations define the global properties and settings for a model, including
     constants, properties, and external values that set up the foundation of the CML code.

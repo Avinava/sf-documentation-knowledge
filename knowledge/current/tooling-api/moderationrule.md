@@ -5,12 +5,10 @@ topic: moderationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.203Z
+lastCollected: 2026-04-07T18:36:33.596Z
 estimatedTokens: 1118
-keywords: [ModerationRule, rule, Experience, Cloud, site, moderate, member-generated, content, Tooling, API, version, 36.0, later, SOAP, Calls]
+keywords: [ModerationRule, rule, Experience, Cloud, site, moderate, member-generated, content, Tooling, API, 36.0, SOAP, REST, HTTP]
 ---
-
-# ModerationRule
 
 > Represents a rule used in
             your Experience Cloud site to moderate member-generated content. Available in

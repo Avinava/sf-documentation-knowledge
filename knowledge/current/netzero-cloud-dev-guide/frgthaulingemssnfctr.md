@@ -5,12 +5,10 @@ topic: frgthaulingemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.031Z
+lastCollected: 2026-04-07T18:38:18.568Z
 estimatedTokens: 1391
-keywords: [FrgtHaulingEmssnFctr, emissions, factors, scope, freight, hauling, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [FrgtHaulingEmssnFctr, emissions, factors, scope, freight, hauling, API, 54.0]
 ---
-
-# FrgtHaulingEmssnFctr
 
 > Represents the emissions factors for scope 3 freight hauling. This
       object is available in API version 54.0 and later.

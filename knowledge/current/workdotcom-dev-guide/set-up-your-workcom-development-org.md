@@ -5,12 +5,10 @@ topic: set-up-your-workcom-development-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.960Z
+lastCollected: 2026-04-07T18:40:13.932Z
 estimatedTokens: 958
 keywords: [Work.com, Development, Org, develop, test, solution, enabled, Partner, Developer, Edition, scratch]
 ---
-
-# Set Up Your Work.com Development Org
 
 > To develop and test your Work.com solution, you need an org with Work.com enabled. You
     can use a Partner Developer Edition org or a scratch org.

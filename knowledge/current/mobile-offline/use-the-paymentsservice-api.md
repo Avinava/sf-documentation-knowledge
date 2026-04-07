@@ -5,12 +5,10 @@ topic: use-the-paymentsservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.510Z
+lastCollected: 2026-04-07T18:38:16.048Z
 estimatedTokens: 652
-keywords: [PaymentsService, API, develop, LWC, Payments, Service, plug-in, features, Plugin, accessing, device’s, native, Tap, Pay, functionality]
+keywords: [PaymentsService, API, develop, LWC, Payments, Service, plug-in, features, Plugin, accessing, device’s, native, Tap, Pay, functionality, Add, Lightning, Web, Test, Availability, Start, Collect]
 ---
-
-# Use the PaymentsService API
 
 > To develop an LWC with the Payments Service plug-in features, use the Payments Plugin
         API as your method for accessing a device’s native Tap to Pay functionality.

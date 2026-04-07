@@ -5,12 +5,10 @@ topic: product-configurator-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.816Z
+lastCollected: 2026-04-07T18:35:47.851Z
 estimatedTokens: 272
 keywords: [Product, Configurator, Standard, Invocable, Actions]
 ---
-
-# Product Configurator Standard Invocable Actions
 
 > Learn more about the standard invocable actions available with Product
     Configurator.

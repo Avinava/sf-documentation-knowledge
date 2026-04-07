@@ -5,13 +5,11 @@ topic: context-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.895Z
+lastCollected: 2026-04-07T18:36:15.207Z
 estimatedTokens: 98
 namespace: Context
-keywords: [Context, classes, manage, sharing, consumption, business, application, data, Service]
+keywords: [Context, classes, manage, sharing, consumption, business, application, Service]
 ---
-
-# Context Namespace
 
 > The Context namespace provides classes and methods
         to manage the sharing and consumption of business application data by using Context

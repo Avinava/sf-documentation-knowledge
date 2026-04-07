@@ -5,12 +5,10 @@ topic: transaction-payment-updates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.324Z
+lastCollected: 2026-04-07T18:38:21.126Z
 estimatedTokens: 162
-keywords: [Transaction, Payment, Updates, Output, representation]
+keywords: [Transaction, Payment, Updates]
 ---
-
-# Transaction Payment Updates
 
 > Output representation of the transaction payment updates.
 

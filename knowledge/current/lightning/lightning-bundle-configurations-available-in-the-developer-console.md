@@ -6,13 +6,10 @@ topic: lightning-bundle-configurations-available-in-the-developer-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.140Z
+lastCollected: 2026-04-07T18:38:03.136Z
 estimatedTokens: 1036
-keywords: [Lightning, Bundle, Configurations, Developer, Console, easier, component, application, specific, purpose, Experience, Builder, site, quick, action]
+keywords: [Lightning, Bundle, Configurations, Developer, Console, easier, application, specific, purpose, Experience, Builder, site, quick, action, navigation, item, Salesforce, mobile, app, New, panel, offers, choice, Aura]
 ---
-
-# Lightning Bundle Configurations Available in the Developer
-      Console
 
 > Configurations make it easier to create a component or application for a specific
     purpose, like a Lightning page or Experience Builder site page, or

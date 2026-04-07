@@ -5,12 +5,10 @@ topic: promotion-wizards-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:17.976Z
+lastCollected: 2026-04-07T18:39:11.524Z
 estimatedTokens: 663
-keywords: [Promotion, Wizards, Customization, promotions, implemented, Metadata, Wizard, Business, API, Installing, Updating, Base, Configuration, Records, MetadataWizard]
+keywords: [Promotion, Wizards, Customization, promotions, implemented, Metadata, Wizard, Business, API, Installing, Updating, Base, Configuration, Records, MetadataWizard, Configurations]
 ---
-
-# Promotion Wizards & Customization
 
 > Wizards related to promotions are implemented using Metadata Wizard
       and Business Object API.

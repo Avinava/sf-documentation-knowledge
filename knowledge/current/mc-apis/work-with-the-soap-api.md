@@ -5,12 +5,10 @@ topic: work-with-the-soap-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.876Z
+lastCollected: 2026-04-07T18:40:21.154Z
 estimatedTokens: 3793
-keywords: [Work, SOAP, API, comprehensive, integration, flexibility, exposing, portions, functionality, Marketing, Cloud, interoperable, reusable, services, built]
+keywords: [Deliverability, Internationalization, Work, SOAP, API, comprehensive, integration, flexibility, exposing, portions, functionality, Marketing, Cloud, interoperable, reusable, services, built, web, service, standards, assure, enterprise-level, security, reliability, Because, SOAP-based, developers, lead, Why, Email, Retrieve, Send, Development, Platform, Support, WS-Security, 1.0, Asynchronous, Processing, Expected, Times, Typical, Synchronous, Opt-in, CAN-SPAM, Reports, Domain, Address, Error, Handling, Command, Level, Command-Level, Status, Encoding, Outbound, Emails, Creation, Triggered, Retrieving, Sub-Objects, Working, Dates, Managing, Downtime, Items]
 ---
-
-# Work with the SOAP API
 
 > The SOAP API provides comprehensive integration flexibility by exposing portions of functionality of Marketing Cloud as interoperable, reusable services. The API is built on web service standards that assure enterprise-level security and reliability. Because it is SOAP-based, developers can use lead
 

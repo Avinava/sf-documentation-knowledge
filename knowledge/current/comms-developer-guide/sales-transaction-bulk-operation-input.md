@@ -5,12 +5,10 @@ topic: sales-transaction-bulk-operation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.129Z
+lastCollected: 2026-04-07T18:37:26.039Z
 estimatedTokens: 328
-keywords: [Sales, Transaction, Bulk, Operation, Input, representation, perform, operations, quote, line, items, order, products]
+keywords: [Sales, Transaction, Bulk, Operation, perform, operations, quote, line, items, order, products]
 ---
-
-# Sales Transaction Bulk Operation Input
 
 > Input representation of the details of a request to perform bulk operations for
     specified quote line items or order products.

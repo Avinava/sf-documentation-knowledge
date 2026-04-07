@@ -5,12 +5,10 @@ topic: providervisitchangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.624Z
+lastCollected: 2026-04-07T18:38:01.494Z
 estimatedTokens: 260
-keywords: [ProviderVisitChangedEvent, event, data, manipulation, operation, performed, provider, visit, record, API, version, 65.0, later, Calls]
+keywords: [ProviderVisitChangedEvent, event, manipulation, operation, performed, provider, visit, record, API, 65.0]
 ---
-
-# ProviderVisitChangedEvent
 
 > Represents an event for a data manipulation operation performed on a provider
          visit record. This object is available in API version 65.0 and later.

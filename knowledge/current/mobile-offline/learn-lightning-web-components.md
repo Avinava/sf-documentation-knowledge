@@ -5,12 +5,10 @@ topic: learn-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.808Z
+lastCollected: 2026-04-07T18:38:15.295Z
 estimatedTokens: 269
-keywords: [Lightning, Web, Components, LWC, Offline-enabled, mobile, apps, basics]
+keywords: [Lightning, Web, LWC, Offline-enabled, mobile, apps, basics]
 ---
-
-# Learn Lightning Web Components
 
 > To create Lightning web components for use in LWC Offline-enabled mobile apps, you must
   learn the basics of Lightning web components.

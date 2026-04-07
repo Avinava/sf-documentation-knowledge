@@ -5,12 +5,10 @@ topic: finservsecuritiesc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.019Z
+lastCollected: 2026-04-07T18:37:38.917Z
 estimatedTokens: 560
-keywords: [FinServ_Securities__c, security, stock, bond, FinServ, _Securities, Calls]
+keywords: [FinServ_Securities__c, security, stock, bond, FinServ, _Securities]
 ---
-
-# FinServ_Securities__c
 
 > Represents a security, such as a stock or bond.
 

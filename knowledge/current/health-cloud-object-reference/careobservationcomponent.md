@@ -5,12 +5,10 @@ topic: careobservationcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.595Z
+lastCollected: 2026-04-07T18:37:42.758Z
 estimatedTokens: 1993
-keywords: [CareObservationComponent, component, care, observation, API, version, 51.0, later, Calls, Usage, Associated, Objects]
+keywords: [CareObservationComponent, care, observation, API, 51.0]
 ---
-
-# CareObservationComponent
 
 > Represents information about a component of a care observation. This
     object is available in API version 51.0 and later.

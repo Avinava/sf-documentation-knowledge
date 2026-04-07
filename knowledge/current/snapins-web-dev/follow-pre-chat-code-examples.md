@@ -5,12 +5,10 @@ topic: follow-pre-chat-code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:06:14.728Z
+lastCollected: 2026-04-07T18:40:09.671Z
 estimatedTokens: 1084
-keywords: [Follow, Pre-Chat, Code, Examples, stage, contacts, avoid, attaching, records, transcripts, attach, record, override, specific, org]
+keywords: [Follow, Pre-Chat, Code, Examples, stage, contacts, avoid, attaching, records, transcripts, attach, record, override, specific, org, illustrate, common, cases, snippets, don't, new, ones, Don’t, chat, transcript, show, created, agent, org’s, setup, different, Salesforce, Link, another, contact, case, Disable, pass, along, user's, Save, form]
 ---
-
-# Follow Pre-Chat Code Examples
 
 > During the pre-chat stage: find existing contacts, avoid attaching
       records to transcripts, attach a record to an existing field, or override a specific field in

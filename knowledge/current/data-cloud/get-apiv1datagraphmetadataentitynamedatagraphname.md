@@ -5,12 +5,10 @@ topic: get-apiv1datagraphmetadataentitynamedatagraphname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.966Z
+lastCollected: 2026-04-07T18:35:51.805Z
 estimatedTokens: 224
-keywords: [api, dataGraph, metadata?entityName=, dataGraphName, metadata, data, graph, includes, object's, primary, model, objects, Examples]
+keywords: [Examples, api, dataGraph, metadata?entityName=, dataGraphName, metadata, graph, includes, object's, primary, model]
 ---
-
-# GET /api/v1/dataGraph/metadata?entityName={dataGraphName}
 
 > Request the metadata for a single
     data

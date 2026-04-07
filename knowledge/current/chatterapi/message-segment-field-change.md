@@ -5,12 +5,10 @@ topic: message-segment-field-change
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.627Z
+lastCollected: 2026-04-07T18:37:20.816Z
 estimatedTokens: 334
 keywords: [Message, Segment, Change, inline]
 ---
-
-# Message Segment: Field Change
 
 > Represents an inline field change.
 

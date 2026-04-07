@@ -5,12 +5,10 @@ topic: assessmenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.699Z
+lastCollected: 2026-04-07T18:39:12.225Z
 estimatedTokens: 1124
-keywords: [AssessmentTask, Perform, activities, planogram, check, inventory, promotion, in-store, survey, custom, task, stores, capture, API, version]
+keywords: [AssessmentTask, Perform, activities, planogram, check, inventory, promotion, in-store, survey, task, stores, capture, API, 47.0]
 ---
-
-# AssessmentTask
 
 > Perform activities such as planogram check, inventory check, promotion check,
       in-store survey, or custom task in stores to capture information. This object is

@@ -5,12 +5,10 @@ topic: add-pricing-plans-to-your-appexchange-checkout-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.936Z
+lastCollected: 2026-04-07T18:38:45.762Z
 estimatedTokens: 1044
-keywords: [Add, Pricing, Plans, AppExchange, Checkout, Listing, offer, subscription, solution, plan, Partner, Console, sync, Stripe, solution’s]
+keywords: [Add, Pricing, Plans, AppExchange, Checkout, Listing, offer, subscription, solution, plan, Partner, Console, sync, Stripe, solution’s, cost, currency, billing, frequency]
 ---
-
-# Add Pricing Plans to Your AppExchange Checkout Listing
 
 > To offer a subscription to your solution with AppExchange Checkout, create a pricing
     plan in the AppExchange Partner Console. Then sync the plan to Stripe. A pricing plan sets the

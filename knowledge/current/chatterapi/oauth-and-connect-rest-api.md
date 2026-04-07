@@ -5,12 +5,10 @@ topic: oauth-and-connect-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:37.044Z
+lastCollected: 2026-04-07T18:37:24.091Z
 estimatedTokens: 431
 keywords: [OAuth, Connect, REST, API, uses, securely, identify, application, connecting, Salesforce, Flows]
 ---
-
-# OAuth and Connect REST API
 
 > Connect REST API uses OAuth to securely identify your application before connecting to
     Salesforce.

@@ -5,12 +5,10 @@ topic: stockrotationexecutionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.294Z
+lastCollected: 2026-04-07T18:38:14.710Z
 estimatedTokens: 854
-keywords: [StockRotationExecutionItem, affected, partner, inventory, stock, rotation, rebate, execution, determine, claim, eligibility, API, version, 65.0, later]
+keywords: [StockRotationExecutionItem, affected, partner, inventory, stock, rotation, rebate, execution, determine, claim, eligibility, API, 65.0]
 ---
-
-# StockRotationExecutionItem
 
 > Represents the affected partner inventory in a stock rotation rebate
          execution, used to determine claim eligibility. This object is available in API

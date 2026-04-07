@@ -5,12 +5,10 @@ topic: enum-mapping-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.766Z
+lastCollected: 2026-04-07T18:38:16.312Z
 estimatedTokens: 168
-keywords: [Mapping, Error, Output, representation, errors, sync-sustainability-credits, connect, API]
+keywords: [Mapping, Error, errors, sync-sustainability-credits, connect, API]
 ---
-
-# Enum Mapping Error
 
 > Output representation for enum mapping errors for
       sync-sustainability-credits connect API.

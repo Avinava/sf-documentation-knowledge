@@ -5,12 +5,10 @@ topic: engagement-attendee-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.403Z
+lastCollected: 2026-04-07T18:39:02.620Z
 estimatedTokens: 360
-keywords: [Engagement, Attendee, Output, representation, record]
+keywords: [Engagement, Attendee, record]
 ---
-
-# Engagement Attendee Output
 
 > Output representation to create an engagement attendee
     record.

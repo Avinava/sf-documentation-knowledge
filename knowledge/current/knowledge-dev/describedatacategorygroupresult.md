@@ -5,12 +5,10 @@ topic: describedatacategorygroupresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.991Z
+lastCollected: 2026-04-07T18:37:54.290Z
 estimatedTokens: 167
-keywords: [DescribeDataCategoryGroupResult, describeDataCategoryGroups, call, containing, category, groups, associated, objects]
+keywords: [DescribeDataCategoryGroupResult, describeDataCategoryGroups, call, containing, category, groups]
 ---
-
-# DescribeDataCategoryGroupResult
 
 > The describeDataCategoryGroups() call returns a DescribeDataCategoryGroupResult object
     containing the list of the category groups associated with the specified objects.

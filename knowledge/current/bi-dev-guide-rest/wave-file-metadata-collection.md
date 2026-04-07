@@ -5,12 +5,10 @@ topic: wave-file-metadata-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.529Z
+lastCollected: 2026-04-07T18:36:58.088Z
 estimatedTokens: 206
 keywords: [Wave, File, Metadata, Collection, Analytics, files]
 ---
-
-# Wave File Metadata Collection
 
 > A collection of the metadata for Analytics files.
 

@@ -5,12 +5,10 @@ topic: offline-considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:24.452Z
+lastCollected: 2026-04-07T18:38:14.921Z
 estimatedTokens: 596
-keywords: [Offline, Considerations, Limitations, LWC, designed, let, build, great, apps, function, network, connection, it’s, full, Salesforce]
+keywords: [Offline, Considerations, Limitations, LWC, designed, let, build, great, apps, function, network, connection, it’s, full, Salesforce, service, Lightning, web, number, including, missing, capabilities, reduced, performance, software, defects, bugs, Keep, mind, design, develop, customizations]
 ---
-
-# Offline Considerations and Limitations
 
 > LWC Offline is designed to let you build great apps that can function without a network
   connection, but it’s not the full Salesforce service. Lightning web components have a

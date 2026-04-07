@@ -5,12 +5,10 @@ topic: get-platformv1wrappingkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.260Z
+lastCollected: 2026-04-07T18:40:17.420Z
 estimatedTokens: 478
-keywords: [platform, wrappingKey, Retrieve, necessary, wrapping, key, RSA, Data, Rest, Encryption, prerequisite, feature, **Overview**, Usage]
+keywords: [platform, wrappingKey, Retrieve, necessary, wrapping, key, RSA, Rest, Encryption, prerequisite, feature, **Overview**]
 ---
-
-# GET /platform/v1/wrappingKey
 
 > Retrieve and create, if necessary, the wrapping key - RSA 4096. Data at Rest Encryption is a prerequisite for this feature.
 

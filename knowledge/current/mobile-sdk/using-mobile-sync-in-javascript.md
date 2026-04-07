@@ -6,13 +6,10 @@ topic: using-mobile-sync-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.498Z
+lastCollected: 2026-04-07T18:40:25.873Z
 estimatedTokens: 748
 keywords: [Mobile, Sync, JavaScript, hybrid, app, import, files, <script>, tags, Implementing, Model, Collection]
 ---
-
-# Using Mobile Sync in
-        JavaScript
 
 > To use Mobile Sync in a hybrid app, import
             these files with <script> tags:

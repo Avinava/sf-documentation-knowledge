@@ -5,12 +5,10 @@ topic: configure-the-consent-opt-in-default
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.931Z
+lastCollected: 2026-04-07T18:37:33.227Z
 estimatedTokens: 644
-keywords: [Configure, Consent, Opt-In, start, capturing, events, send, Data, Cloud, user, options, Tag, Manager, doesn’t, destination]
+keywords: [Configure, Consent, Opt-In, start, capturing, events, send, Cloud, user, options, Tag, Manager, doesn’t, destination, until, explicitly, opts, Choose, how, present, site, visitor, whether, behavior]
 ---
-
-# Configure the Consent Opt-In Default
 
 > To start capturing events to send to Data Cloud, configure your user consent options. By
     default, Tag Manager doesn’t send data to its destination until the user explicitly opts in.

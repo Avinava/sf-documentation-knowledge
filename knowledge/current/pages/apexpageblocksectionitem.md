@@ -5,12 +5,10 @@ topic: apexpageblocksectionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.125Z
+lastCollected: 2026-04-07T18:38:50.391Z
 estimatedTokens: 1744
-keywords: [apex, pageBlockSectionItem, piece, data, <apex, pageBlockSection>, column, row, pageBlockSectionItem>, component, include, two, child, components, content]
+keywords: [Attributes, apex, pageBlockSectionItem, piece, <apex, pageBlockSection>, column, row, pageBlockSectionItem>, include, two, child, content, rendered, empty, space, spans]
 ---
-
-# apex:pageBlockSectionItem
 
 > A single piece of data in an <apex:pageBlockSection> that takes up one column in one row. An <apex:pageBlockSectionItem> component can include up to two child components. If no content is specified, the column is rendered as an empty space. If one child component is specified, the content spans both
 

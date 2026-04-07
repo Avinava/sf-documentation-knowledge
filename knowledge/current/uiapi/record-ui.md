@@ -5,12 +5,10 @@ topic: record-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.128Z
+lastCollected: 2026-04-07T18:40:12.139Z
 estimatedTokens: 236
-keywords: [Record, layout, data]
+keywords: [Record, layout]
 ---
-
-# Record UI
 
 > The layout information, field information, and data for a
       record.

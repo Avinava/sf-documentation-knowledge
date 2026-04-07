@@ -5,12 +5,10 @@ topic: set-up-a-demo-profile-for-end-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.354Z
+lastCollected: 2026-04-07T18:37:39.286Z
 estimatedTokens: 353
-keywords: [Demo, Profile, End, Users, Headless, Identity, profiles, define, how, access, data, Salesforce, New, automatically, assigned]
+keywords: [Demo, Profile, End, Users, Headless, Identity, profiles, define, how, Salesforce, New, automatically, assigned, they, register, test, login, registration, forgot, password, sign-on, processes, user]
 ---
-
-# Set Up a Demo Profile for End Users
 
 > For Headless Identity, you use profiles to define how your end users access data in
   Salesforce. New users are automatically assigned to this profile when they register. Create a demo

@@ -5,12 +5,10 @@ topic: profileskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.544Z
+lastCollected: 2026-04-07T18:38:39.008Z
 estimatedTokens: 895
-keywords: [ProfileSkill, profile, skill, user’s, professional, knowledge, record, organization, users, associated, ProfileSkillUser, Calls, Usage, Objects]
+keywords: [ProfileSkill, profile, skill, user’s, professional, knowledge, record, organization, users, ProfileSkillUser]
 ---
-
-# ProfileSkill
 
 > Represents a profile skill, which describes a user’s
 			professional knowledge. This is a global record for the organization, and users are

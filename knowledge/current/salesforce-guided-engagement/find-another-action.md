@@ -5,12 +5,10 @@ topic: find-another-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.012Z
+lastCollected: 2026-04-07T18:39:17.680Z
 estimatedTokens: 257
-keywords: [Another, Action, Sometimes, customer, interaction, requires, step, doesn’t, appear, Actions, Recommendations, component, agent, clicks, Add]
+keywords: [Another, Action, Sometimes, customer, interaction, requires, step, doesn’t, appear, Actions, Recommendations, agent, clicks, Add, they, search, start, help, users, narrow, their, configuring, subset]
 ---
-
-# Find Another Action
 
 > Sometimes a customer interaction requires a step that doesn’t appear in the Actions
     & Recommendations component. When an agent clicks Add, they can search for an action and

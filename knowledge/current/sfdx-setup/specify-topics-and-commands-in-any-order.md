@@ -5,12 +5,10 @@ topic: specify-topics-and-commands-in-any-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.421Z
+lastCollected: 2026-04-07T18:40:09.369Z
 estimatedTokens: 326
-keywords: [Specify, Topics, Commands, Any, Order, command, terminal, prompt, enter, Salesforce, CLI, determines, mean, automatically, runs]
+keywords: [Specify, Topics, Commands, Any, Order, command, terminal, prompt, enter, Salesforce, CLI, determines, mean, automatically, runs, errors]
 ---
-
-# Specify Topics and Commands in Any Order
 
 > When you type a command at a terminal or command prompt, you can enter the topics and
     commands in any order. Salesforce CLI determines which command you mean and automatically runs

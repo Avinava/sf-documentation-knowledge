@@ -5,12 +5,10 @@ topic: story-query-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.683Z
+lastCollected: 2026-04-07T18:36:59.179Z
 estimatedTokens: 158
-keywords: [Story, Query, Resource, Queries, current, version, Einstein, Discovery]
+keywords: [Story, Query, Resource, Queries, current, Einstein, Discovery]
 ---
-
-# Story Query Resource
 
 > Queries the current version of an Einstein Discovery
   story.

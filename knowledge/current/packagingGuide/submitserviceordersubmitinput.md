@@ -5,12 +5,10 @@ topic: submitserviceordersubmitinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.835Z
+lastCollected: 2026-04-07T18:38:45.655Z
 estimatedTokens: 138
 keywords: [submit, serviceOrderSubmitInput, entry, point, submitting, orders, Salesforce, Partner, Operations]
 ---
-
-# submit(serviceOrderSubmitInput)
 
 > Provides an entry point for submitting orders to Salesforce Partner Operations.
 

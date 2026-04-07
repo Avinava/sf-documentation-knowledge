@@ -5,12 +5,10 @@ topic: edit-an-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.527Z
+lastCollected: 2026-04-07T18:38:46.390Z
 estimatedTokens: 222
 keywords: [Edit, Order, product, quantity, pricing, hours, submitting, Salesforce, processed, can’t, edited, change, customer, recall, new]
 ---
-
-# Edit an Order
 
 > You can edit the product, quantity, and pricing details of an order within 2 hours of
     submitting it to Salesforce. After 2 hours, the order is processed and can’t be edited. To

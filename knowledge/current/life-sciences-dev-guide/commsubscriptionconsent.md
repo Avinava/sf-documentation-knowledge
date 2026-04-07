@@ -5,12 +5,10 @@ topic: commsubscriptionconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.229Z
+lastCollected: 2026-04-07T18:37:57.763Z
 estimatedTokens: 438
-keywords: [CommSubscriptionConsent, Standard, custom, extend, Communication, Subscription, Consent, represent, customer’s, API, version, 65.0, later, Calls]
+keywords: [CommSubscriptionConsent, Standard, extend, Communication, Subscription, Consent, represent, customer’s, API, 65.0]
 ---
-
-# CommSubscriptionConsent
 
 > Standard and custom fields extend the standard Communication
          Subscription Consent object to represent a customer’s consent to a communication

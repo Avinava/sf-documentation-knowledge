@@ -5,12 +5,10 @@ topic: configure-the-finishlocation-attribute-in-a-flow-attribute-in-a-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.161Z
+lastCollected: 2026-04-07T18:38:51.395Z
 estimatedTokens: 714
-keywords: [Configure, finishLocation, Attribute, Flow, isn’t, users, click, Finish, start, new, interview, screen, shape, happens, user]
+keywords: [Configure, finishLocation, Attribute, Flow, isn’t, users, click, Finish, start, new, interview, screen, shape, happens, user, clicks, final, URLFOR, function, $Page, variable, controller]
 ---
-
-# Configure the  finishLocation Attribute in a Flow Attribute in a Flow
 
 > If finishLocation isn’t specified, users
     who click Finish start a new interview and see the first screen of the

@@ -5,12 +5,10 @@ topic: analytics-templates-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:15.993Z
+lastCollected: 2026-04-07T18:37:02.541Z
 estimatedTokens: 193
 keywords: [Analytics, Templates, Release, Notes, Salesforce, recent, updates, changes]
 ---
-
-# Analytics Templates Release Notes
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
   Analytics Templates.

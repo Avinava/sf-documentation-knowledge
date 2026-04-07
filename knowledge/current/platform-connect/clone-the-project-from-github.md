@@ -5,12 +5,10 @@ topic: clone-the-project-from-github
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.658Z
+lastCollected: 2026-04-07T18:38:57.465Z
 estimatedTokens: 375
 keywords: [Clone, Project, GitHub, “hello, world”, sample, part, Canvas, SDK, located, copy, local, machine]
 ---
-
-# Clone the Project from GitHub
 
 > The “hello world” sample project is part of the Canvas SDK, which is
   located on GitHub. From GitHub, clone the project to make a copy of it on your local

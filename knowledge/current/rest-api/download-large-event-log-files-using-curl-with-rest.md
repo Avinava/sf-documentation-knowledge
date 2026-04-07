@@ -5,12 +5,10 @@ topic: download-large-event-log-files-using-curl-with-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.618Z
+lastCollected: 2026-04-07T18:36:19.845Z
 estimatedTokens: 223
 keywords: [Download, Large, Event, Log, Files, cURL, REST, larger, tool, handle, command, line, sObject, Blob]
 ---
-
-# Download Large Event Log Files Using cURL with REST
 
 > You might have some event log files that are larger than your tool can handle. A
             command line tool such as cURL is one method to download files larger than 100 MB using

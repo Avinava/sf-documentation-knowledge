@@ -5,12 +5,10 @@ topic: get-started-with-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.875Z
+lastCollected: 2026-04-07T18:40:28.010Z
 estimatedTokens: 1333
 keywords: [Started, Chat, rolling, quickly, sessions, customers, agents]
 ---
-
-# Get Started with Chat
 
 > Get rolling quickly with chat sessions between your customers and your
         agents.

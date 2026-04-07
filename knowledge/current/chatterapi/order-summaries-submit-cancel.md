@@ -5,12 +5,10 @@ topic: order-summaries-submit-cancel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.672Z
+lastCollected: 2026-04-07T18:37:15.733Z
 estimatedTokens: 709
 keywords: [Order, Summaries, Submit, Cancel, OrderItemSummaries, OrderSummary, corresponding, change]
 ---
-
-# Order Summaries, Submit Cancel
 
 > Cancel one or more OrderItemSummaries from an OrderSummary, and
       create a corresponding change order.

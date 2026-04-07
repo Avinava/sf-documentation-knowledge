@@ -5,12 +5,10 @@ topic: manage-the-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.532Z
+lastCollected: 2026-04-07T18:36:53.897Z
 estimatedTokens: 159
-keywords: [Manage, Upload, you’ve, created, uploaded, data, parts, InsightsExternalData, InsightsExternalDataPart, objects, Action, Process, start, processing]
+keywords: [Manage, Upload, you’ve, created, uploaded, parts, InsightsExternalData, InsightsExternalDataPart, Action, Process, start, processing]
 ---
-
-# Manage the Upload
 
 > After you’ve created a header and uploaded the data parts by using the InsightsExternalData and InsightsExternalDataPart objects,
         update the Action field on the header object to Process to start processing the data.

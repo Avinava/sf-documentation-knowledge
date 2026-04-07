@@ -5,12 +5,10 @@ topic: voucher-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.124Z
+lastCollected: 2026-04-07T18:38:08.386Z
 estimatedTokens: 256
 keywords: [Voucher, that's, issued, customer]
 ---
-
-# Voucher Details
 
 > The details of the voucher that's issued to the customer.
 

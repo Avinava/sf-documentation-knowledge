@@ -5,12 +5,10 @@ topic: group-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.102Z
+lastCollected: 2026-04-07T18:40:10.058Z
 estimatedTokens: 381
 keywords: [GROUP, option, SOQL, query, avoid, iterating, individual, results, specify, records, instead, processing]
 ---
-
-# GROUP BY
 
 > You can use the GROUP BY option in a SOQL query to
 		avoid iterating through individual query results. That is, you specify a group of records

@@ -5,12 +5,10 @@ topic: visual-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.669Z
+lastCollected: 2026-04-07T18:36:55.050Z
 estimatedTokens: 87
-keywords: [Visual, Input, Analytics, watchlist, item]
+keywords: [Visual, Analytics, watchlist, item]
 ---
-
-# Visual Parameters Input
 
 > A visual parameters for an Analytics watchlist item.
 

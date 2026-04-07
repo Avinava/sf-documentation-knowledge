@@ -5,12 +5,10 @@ topic: marketing-cloud-account-engagement-web-page-activity-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.081Z
+lastCollected: 2026-04-07T18:35:54.116Z
 estimatedTokens: 694
-keywords: [Marketing, Cloud, Account, Engagement, Web, Activity, Mapping, data, stream, deployed, maps, source, objects, model, DMOs]
+keywords: [Marketing, Cloud, Account, Engagement, Web, Activity, Mapping, stream, deployed, maps, source, model, DMOs, includes, form, forms, embedded, landing, pages, codes, DLO, DMO]
 ---
-
-# Marketing Cloud Account Engagement: Web Page Activity Mapping
 
 > After a data stream is deployed, the Marketing Cloud Account Engagement data stream maps
   source objects from Account Engagement to data model objects (DMOs) in Data Cloud. The Web Page Activity object includes form engagement data from forms embedded

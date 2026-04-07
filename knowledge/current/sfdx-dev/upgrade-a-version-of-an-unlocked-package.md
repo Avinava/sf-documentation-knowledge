@@ -5,12 +5,10 @@ topic: upgrade-a-version-of-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.850Z
+lastCollected: 2026-04-07T18:40:08.797Z
 estimatedTokens: 935
-keywords: [Upgrade, Version, Unlocked, Package, occurs, install, new, org, previous, installed]
+keywords: [Upgrade, Unlocked, Package, occurs, install, new, org, previous, installed]
 ---
-
-# Upgrade a Version of an Unlocked Package
 
 > A package upgrade occurs when you install a new package version into an org that has a
     previous version of that package installed.

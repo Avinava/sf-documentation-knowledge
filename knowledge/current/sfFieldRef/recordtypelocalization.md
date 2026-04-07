@@ -5,13 +5,11 @@ topic: recordtypelocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.408Z
+lastCollected: 2026-04-07T18:39:59.076Z
 estimatedTokens: 238
 namespace: NamespacePrefix
 keywords: [RecordTypeLocalization, translated, label, record, Translation, Workbench, enabled, organization]
 ---
-
-# RecordTypeLocalization
 
 > Represents the translated value of a label for a record type when the
    Translation Workbench is enabled for your organization.

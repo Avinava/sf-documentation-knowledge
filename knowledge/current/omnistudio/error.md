@@ -5,12 +5,10 @@ topic: error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.782Z
+lastCollected: 2026-04-07T18:36:39.501Z
 estimatedTokens: 91
 keywords: [Error, fails]
 ---
-
-# Error
 
 > Specifies the details of the error when the request
     fails.

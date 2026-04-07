@@ -5,12 +5,10 @@ topic: medicationtherapystmtreview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.852Z
+lastCollected: 2026-04-07T18:37:47.435Z
 estimatedTokens: 829
-keywords: [MedicationTherapyStmtReview, junction, Medication, Therapy, Review, Statement, objects, API, version, 56.0, later, Calls, Associated]
+keywords: [MedicationTherapyStmtReview, junction, Medication, Therapy, Review, Statement, API, 56.0]
 ---
-
-# MedicationTherapyStmtReview
 
 > Represents a junction object between the Medication Therapy Review and
          Medication Statement objects. This object is available in API version 56.0 and later.

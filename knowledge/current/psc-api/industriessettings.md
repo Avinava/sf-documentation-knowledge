@@ -5,12 +5,10 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.596Z
+lastCollected: 2026-04-07T18:39:04.639Z
 estimatedTokens: 513
-keywords: [IndustriesSettings, settings, Sector, Solutions, Cloud, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [IndustriesSettings, settings, Sector, Solutions, Cloud, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesSettings
 
 > Represents settings for Public Sector Solutions Cloud.
 

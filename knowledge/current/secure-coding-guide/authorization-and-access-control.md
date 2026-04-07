@@ -5,12 +5,10 @@ topic: authorization-and-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.977Z
+lastCollected: 2026-04-07T18:39:21.852Z
 estimatedTokens: 619
-keywords: [Authorization, Access, Control, ensures, users, resources, they’re, permitted, web, application, Common, vulnerabilities, include, directory, traversal]
+keywords: [Authorization, Control, ensures, users, resources, they’re, permitted, web, application, Common, vulnerabilities, include, directory, traversal, insecure, direct, bypassing, mechanisms, privilege, escalation, Understand, User, Roles]
 ---
-
-# Authorization and Access Control
 
 > Authorization and access control ensures that your users can only access resources
         they’re permitted to use in a web application. Common vulnerabilities include directory

@@ -5,12 +5,10 @@ topic: createpresentationcontentpresentationcontentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.348Z
+lastCollected: 2026-04-07T18:37:54.679Z
 estimatedTokens: 697
-keywords: [createPresentationContent, presentationContentInput, new, presentation, content, provided, metadata, API, Version, Requires, Chatter]
+keywords: [createPresentationContent, presentationContentInput, new, presentation, content, provided, metadata, API, Requires, Chatter]
 ---
-
-# createPresentationContent(presentationContentInput)
 
 > Create new presentation content with the provided
         metadata.

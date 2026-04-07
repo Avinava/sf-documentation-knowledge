@@ -5,12 +5,10 @@ topic: jenkinsfile-walkthrough
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.960Z
+lastCollected: 2026-04-07T18:40:07.903Z
 estimatedTokens: 3012
-keywords: [Jenkinsfile, Walkthrough, sample, how, integrate, Dev, Hub, scratch, orgs, Jenkins, job, uses, Multibranch, Pipelines, Every]
+keywords: [Jenkinsfile, Walkthrough, sample, how, integrate, Dev, Hub, scratch, orgs, Jenkins, job, uses, Multibranch, Pipelines, Every, setup, different, ways, automate, testing, Salesforce, applications, highlights, CLI, commands, org, upload, code, run, tests, Define, Variables, Check, Source, Wrap, Stages, withCredentials, Command, withEnv, Authorize, Push, Assign, Permission, Apex, Package, Display, Info, Install, Unit]
 ---
-
-# Jenkinsfile Walkthrough
 
 > The sample  Jenkinsfile shows how to integrate your Dev Hub and scratch orgs into a
         Jenkins job. The sample uses Jenkins Multibranch Pipelines. Every Jenkins setup is

@@ -5,12 +5,10 @@ topic: the-template-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.111Z
+lastCollected: 2026-04-07T18:37:02.652Z
 estimatedTokens: 1925
 keywords: [Template, Turning, source, app, creates, waveTemplates, JSON, files, define, app’s, user, experience, assets, provide, instructions]
 ---
-
-# The Template Object
 
 > Turning the source app into a template creates a waveTemplates object. The object contains JSON files that define an app’s user
     experience assets and provide instructions to create the app.

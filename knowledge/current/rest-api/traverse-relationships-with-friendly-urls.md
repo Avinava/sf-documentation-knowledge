@@ -5,12 +5,10 @@ topic: traverse-relationships-with-friendly-urls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.733Z
+lastCollected: 2026-04-07T18:36:19.959Z
 estimatedTokens: 1905
-keywords: [Traverse, Relationships, Friendly, URLs, relationship, standard, custom, objects, constructing, sObject, resource, approach, directly, access, records]
+keywords: [Traverse, Relationships, Friendly, URLs, relationship, standard, constructing, sObject, resource, approach, directly, records, easier, alternative, accessing, obtaining, IDs, inspecting, record, Traversing, Multiple, Filtering, Result]
 ---
-
-# Traverse Relationships with Friendly URLs
 
 > You can traverse relationship fields in standard and custom objects by constructing
         friendly URLs using the sObject Relationship resource. This approach allows you to directly

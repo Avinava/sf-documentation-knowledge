@@ -5,12 +5,10 @@ topic: actionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.346Z
+lastCollected: 2026-04-07T18:37:58.895Z
 estimatedTokens: 1339
-keywords: [ActionPlanTemplate, instance, action, plan, template, Life, Sciences, cloud, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ActionPlanTemplate, instance, action, plan, template, Life, Sciences, cloud, API, 65.0]
 ---
-
-# ActionPlanTemplate
 
 > Represents the instance of an action plan template.
     In Life Sciences cloud, this object is available in API version 65.0 and

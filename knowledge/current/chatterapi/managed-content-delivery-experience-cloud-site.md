@@ -5,12 +5,10 @@ topic: managed-content-delivery-experience-cloud-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.381Z
+lastCollected: 2026-04-07T18:37:14.351Z
 estimatedTokens: 527
 keywords: [Managed, Content, Delivery, Experience, Cloud, Site, published, versions]
 ---
-
-# Managed Content Delivery, Experience Cloud Site
 
 > Get published managed content versions for an Experience Cloud
       site.

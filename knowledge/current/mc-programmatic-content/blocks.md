@@ -5,12 +5,10 @@ topic: blocks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.946Z
+lastCollected: 2026-04-07T18:40:22.325Z
 estimatedTokens: 373
-keywords: [Blocks, Template, Language, containers, markup, links, external, code, Examples, Data]
+keywords: [Blocks, Examples, Template, Language, containers, markup, links, external, code]
 ---
-
-# Blocks
 
 > Use blocks within Guide Template Language as containers for markup that links to external code.
 

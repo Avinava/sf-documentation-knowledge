@@ -5,12 +5,10 @@ topic: quick-start-run-your-first-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.350Z
+lastCollected: 2026-04-07T18:37:01.957Z
 estimatedTokens: 503
 keywords: [Quick, Start, Run, Query, Let’s, write, basic, SQL, CRM, Analytics, Studio]
 ---
-
-# Quick Start: Run Your First Query
 
 > Let’s write a basic query for SQL for CRM Analytics in Analytics Studio.
 

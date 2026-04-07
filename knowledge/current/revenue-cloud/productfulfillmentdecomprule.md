@@ -5,12 +5,10 @@ topic: productfulfillmentdecomprule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:05.137Z
+lastCollected: 2026-04-07T18:35:50.072Z
 estimatedTokens: 997
-keywords: [ProductFulfillmentDecompRule, rule, determines, how, order, broken, sub-orders, specific, technical, help, fulfillment, applied, commercial, product, API]
+keywords: [ProductFulfillmentDecompRule, rule, determines, how, order, broken, sub-orders, specific, technical, help, fulfillment, applied, commercial, product, API, 61.0]
 ---
-
-# ProductFulfillmentDecompRule
 
 > Represents a rule that determines how an order is broken into
          sub-orders with specific technical details that help in order fulfillment. It can be

@@ -5,12 +5,10 @@ topic: programproductfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.312Z
+lastCollected: 2026-04-07T18:39:56.864Z
 estimatedTokens: 360
-keywords: [ProgramProductFeed, Feed, tracking, ProgramProduct]
+keywords: [ProgramProductFeed, ProgramProduct]
 ---
-
-# ProgramProductFeed
 
 > Feed tracking for ProgramProduct.
 

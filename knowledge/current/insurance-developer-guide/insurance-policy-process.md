@@ -5,12 +5,10 @@ topic: insurance-policy-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.396Z
+lastCollected: 2026-04-07T18:37:52.579Z
 estimatedTokens: 99
-keywords: [Insurance, Policy, Process, Output, representation, renewed]
+keywords: [Insurance, Policy, Process, renewed]
 ---
-
-# Insurance Policy Process
 
 > Output representation details of the renewed policy.
 

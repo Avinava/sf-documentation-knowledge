@@ -5,12 +5,10 @@ topic: contracttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.438Z
+lastCollected: 2026-04-07T18:37:25.369Z
 estimatedTokens: 758
-keywords: [ContractType, contract, group, contracts, they, exhibit, similar, characteristics, lifecycle, states, people, access, templates, clauses, extends, sub, groups, permissions, API, version]
+keywords: [ContractType, ContractTypeConfig, contract, group, contracts, they, exhibit, similar, characteristics, lifecycle, states, people, templates, clauses, extends, Metadata, inherits, fullName, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest, sub, groups, permissions, API, 56.0]
 ---
-
-# ContractType
 
 > A contract type is used to group contracts so that they exhibit
 			similar characteristics. For example, the lifecycle states, the people who access, the

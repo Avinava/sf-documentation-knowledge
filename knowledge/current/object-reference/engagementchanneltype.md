@@ -5,12 +5,10 @@ topic: engagementchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.635Z
+lastCollected: 2026-04-07T18:38:30.453Z
 estimatedTokens: 937
-keywords: [EngagementChannelType, channel, customer, reached, communication, API, version, 48.0, later, Calls, Associated, Objects]
+keywords: [EngagementChannelType, channel, customer, reached, communication, API, 48.0]
 ---
-
-# EngagementChannelType
 
 > Represents a channel through which a customer can be reached for
       communication. This object is available in API version 48.0 and later.

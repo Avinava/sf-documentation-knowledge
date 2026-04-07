@@ -5,12 +5,10 @@ topic: updating-charts-with-refreshed-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.853Z
+lastCollected: 2026-04-07T18:38:48.796Z
 estimatedTokens: 274
-keywords: [Updating, Charts, Refreshed, Data, Redraw, chart, new, updated, <apex, actionSupport>, component, JavaScript, remoting, own, code]
+keywords: [Updating, Charts, Refreshed, Redraw, chart, new, updated, <apex, actionSupport>, JavaScript, remoting, own, code]
 ---
-
-# Updating Charts with Refreshed Data
 
 > Redraw a chart with new or updated data by using the <apex:actionSupport> component,
 or by using JavaScript remoting and your own JavaScript code.

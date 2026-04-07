@@ -5,12 +5,10 @@ topic: sendmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.541Z
+lastCollected: 2026-04-07T18:36:50.811Z
 estimatedTokens: 212
-keywords: [sendMessage, new, chat, message, agent, specific, key, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, sendMessage, new, chat, message, agent, specific, key, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# sendMessage()
 
 > Sends a new chat message from the agent to a chat with a specific chat key. Available
         in API version 29.0 or later.

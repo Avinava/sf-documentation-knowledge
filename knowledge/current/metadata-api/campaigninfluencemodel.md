@@ -5,12 +5,10 @@ topic: campaigninfluencemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.953Z
+lastCollected: 2026-04-07T18:36:23.243Z
 estimatedTokens: 921
-keywords: [CampaignInfluenceModel, campaign, influence, model, Customizable, can’t, configure, via, Metadata, API, add, File, Suffix, Directory, Location]
+keywords: [CampaignInfluenceModel, campaign, influence, model, Customizable, can’t, configure, via, Metadata, API, add, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CampaignInfluenceModel
 
 > Represents a campaign influence model used by
             Customizable Campaign Influence. You can’t configure Customizable Campaign

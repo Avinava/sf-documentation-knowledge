@@ -5,12 +5,10 @@ topic: experience-builder-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.983Z
+lastCollected: 2026-04-07T18:37:12.880Z
 estimatedTokens: 89
 keywords: [Experience, Builder, Templates, context, user]
 ---
-
-# Experience Builder Templates
 
 > Get the Experience Builder templates available to the context
       user.

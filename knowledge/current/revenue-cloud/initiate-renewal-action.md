@@ -5,12 +5,10 @@ topic: initiate-renewal-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.266Z
+lastCollected: 2026-04-07T18:35:40.045Z
 estimatedTokens: 467
-keywords: [Initiate, Renewal, Action, execute, asset, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Initiate, Renewal, Action, execute, asset, REST, HTTP]
 ---
-
-# Initiate Renewal Action
 
 > Initiate and execute the renewal of an asset.
 

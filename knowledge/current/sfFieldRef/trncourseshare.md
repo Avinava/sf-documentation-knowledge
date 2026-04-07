@@ -5,12 +5,10 @@ topic: trncourseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.604Z
+lastCollected: 2026-04-07T18:40:04.338Z
 estimatedTokens: 247
 keywords: [TrnCourseShare, Sharing, TrnCourse]
 ---
-
-# TrnCourseShare
 
 > Sharing for TrnCourse.
 

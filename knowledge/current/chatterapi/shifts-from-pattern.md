@@ -5,12 +5,10 @@ topic: shifts-from-pattern
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.846Z
+lastCollected: 2026-04-07T18:37:21.032Z
 estimatedTokens: 133
 keywords: [Shifts, Pattern, created]
 ---
-
-# Shifts from Pattern
 
 > Shifts created from a pattern.
 

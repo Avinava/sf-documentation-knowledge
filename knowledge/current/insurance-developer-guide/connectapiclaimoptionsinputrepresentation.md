@@ -5,12 +5,10 @@ topic: connectapiclaimoptionsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.798Z
+lastCollected: 2026-04-07T18:37:49.664Z
 estimatedTokens: 79
-keywords: [Input, representation, claim, options]
+keywords: [claim, options]
 ---
-
-# ConnectApi.ClaimOptionsInputRepresentation
 
 > Input representation for claim options.
 

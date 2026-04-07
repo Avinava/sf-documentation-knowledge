@@ -5,12 +5,10 @@ topic: assigned-resource-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.477Z
+lastCollected: 2026-04-07T18:37:07.192Z
 estimatedTokens: 200
-keywords: [Assigned, Resource, Input, representation]
+keywords: [Assigned, Resource]
 ---
-
-# Assigned Resource Input
 
 > Input representation of the assigned resource
     details.

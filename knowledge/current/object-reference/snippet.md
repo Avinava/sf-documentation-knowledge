@@ -5,12 +5,10 @@ topic: snippet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.807Z
+lastCollected: 2026-04-07T18:38:41.542Z
 estimatedTokens: 597
-keywords: [Snippet, container, rich, text, reused, across, Account, Engagement, emails, email, templates, API, version, 47.0, later]
+keywords: [Snippet, container, rich, text, reused, across, Account, Engagement, emails, email, templates, API, 47.0]
 ---
-
-# Snippet
 
 > Represents a snippet, which is a container for rich text that can be
 			reused across Account Engagement emails and email templates. This object is

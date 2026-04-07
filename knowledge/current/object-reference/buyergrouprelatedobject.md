@@ -5,12 +5,10 @@ topic: buyergrouprelatedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:36.104Z
+lastCollected: 2026-04-07T18:38:27.081Z
 estimatedTokens: 1238
-keywords: [BuyerGroupRelatedObject, associate, currencies, ship-to, countries, buyer, group, price, books, promotions, entitlements, Supports, experience, members, shop]
+keywords: [BuyerGroupRelatedObject, associate, currencies, ship-to, countries, buyer, group, price, books, promotions, entitlements, Supports, experience, members, shop, stores, enabled, multiple, locales, API, 58.0]
 ---
-
-# BuyerGroupRelatedObject
 
 > Used to
          associate

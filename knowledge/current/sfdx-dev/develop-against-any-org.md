@@ -5,12 +5,10 @@ topic: develop-against-any-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.060Z
+lastCollected: 2026-04-07T18:40:08.011Z
 estimatedTokens: 2045
-keywords: [Develop, Against, Any, Org, developing, scratch, sandbox, orgs, source, tracking, enabled, eventually, test, validate, changes]
+keywords: [Develop, Against, Any, Org, developing, scratch, sandbox, orgs, source, enabled, eventually, test, validate, changes, non-source-tracked, Begin, Metadata, Require, Encoding, Command, Line, Retrieve, Deploy, Non-Tracked, Want, Retain, Generated]
 ---
-
-# Develop Against Any Org
 
 > After developing against scratch or sandbox orgs that have source tracking enabled, you
     eventually test and validate your changes in a non-source-tracked org.

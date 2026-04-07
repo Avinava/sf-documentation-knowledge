@@ -5,12 +5,10 @@ topic: intelligent-appointment-management-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:55.796Z
+lastCollected: 2026-04-07T18:37:43.976Z
 estimatedTokens: 730
 keywords: [Intelligent, Appointment, Management, Operations, include, finding, time, slots, determining, status, slot, creating, getting, scheduled, canceling]
 ---
-
-# Intelligent Appointment Management Operations
 
 > The available operations for Intelligent Appointment Management include finding
     available appointment time slots, determining the status of an appointment slot, creating an

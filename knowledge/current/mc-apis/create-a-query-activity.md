@@ -5,12 +5,10 @@ topic: create-a-query-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.025Z
+lastCollected: 2026-04-07T18:40:16.170Z
 estimatedTokens: 1203
-keywords: [Query, Activity, Creating, retrieve, tracking, account, criteria, call, Why, How, Sample, NET, Code, PHP, SOAP]
+keywords: [Query, Activity, Creating, retrieve, account, criteria, call, Why, How, Sample, NET, Code, PHP, SOAP, Envelope, Items]
 ---
-
-# Create a Query Activity
 
 > Creating a query activity allows you to retrieve tracking information from your account based on criteria specified in your call.
 

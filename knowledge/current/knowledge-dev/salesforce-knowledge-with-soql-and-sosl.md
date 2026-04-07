@@ -5,12 +5,10 @@ topic: salesforce-knowledge-with-soql-and-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.719Z
+lastCollected: 2026-04-07T18:37:54.014Z
 estimatedTokens: 547
-keywords: [Salesforce, Knowledge, SOQL, SOSL, Query, Language, search, organization’s, data, specific, similar, SELECT, statement, widely, Structured]
+keywords: [Salesforce, Knowledge, SOQL, SOSL, Query, Language, search, organization’s, specific, similar, SELECT, statement, widely, Structured, SQL, designed, specifically, construct, text-based, queries, against, index]
 ---
-
-# Salesforce Knowledge with SOQL and SOSL
 
 > Use the Salesforce Object Query Language (SOQL) to search your organization’s
   Knowledge data for specific information. SOQL is similar to the SELECT statement in the widely

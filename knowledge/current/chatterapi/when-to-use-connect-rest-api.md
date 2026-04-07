@@ -5,13 +5,11 @@ topic: when-to-use-connect-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.034Z
+lastCollected: 2026-04-07T18:37:24.081Z
 estimatedTokens: 719
 namespace: ConnectApi
 keywords: [Connect, REST, API, right, How, Different, Salesforce, APIs, Apex]
 ---
-
-# When to Use Connect REST API
 
 > Is Connect REST API the right API for you?
 

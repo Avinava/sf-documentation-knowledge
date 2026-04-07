@@ -5,12 +5,10 @@ topic: interoptopicsubscriptiondtl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.803Z
+lastCollected: 2026-04-07T18:37:47.386Z
 estimatedTokens: 854
-keywords: [InteropTopicSubscriptionDtl, interoperability, topic, subscription, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [InteropTopicSubscriptionDtl, interoperability, topic, subscription, API, 64.0]
 ---
-
-# InteropTopicSubscriptionDtl
 
 > Represents the details of an interoperability topic subscription. This
       object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: linkedarticlefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.755Z
+lastCollected: 2026-04-07T18:39:46.306Z
 estimatedTokens: 376
-keywords: [LinkedArticleFeed, comment, feed, linked, article, API, version, 39.0, later]
+keywords: [LinkedArticleFeed, comment, linked, article, API, 39.0]
 ---
-
-# LinkedArticleFeed
 
 > Represents the comment feed on a linked article. This object is available
     in API version 39.0 and later.

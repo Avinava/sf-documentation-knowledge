@@ -6,13 +6,10 @@ topic: providing-chart-data-using-a-javascript-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.838Z
+lastCollected: 2026-04-07T18:38:48.785Z
 estimatedTokens: 586
-keywords: [Providing, Chart, Data, JavaScript, Function, access, remoting, external, non-Salesforce, source, provide, <apex, chart>, component, defined]
+keywords: [Providing, Chart, JavaScript, Function, remoting, external, non-Salesforce, source, provide, <apex, chart>, defined, linked, Visualforce]
 ---
-
-# Providing Chart Data Using a JavaScript
-Function
 
 > To access data using JavaScript remoting, or an external (non-Salesforce)
 data source, provide the <apex:chart> component with the name of a JavaScript function that provides the

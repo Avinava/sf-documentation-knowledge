@@ -5,12 +5,10 @@ topic: groups-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.110Z
+lastCollected: 2026-04-07T18:37:10.795Z
 estimatedTokens: 1470
-keywords: [Groups, Feed, Resources, containing, elements, context, user, either, owns, member, URL]
+keywords: [Groups, Resources, containing, context, user, either, owns, member, URL]
 ---
-
-# Groups Feed Resources
 
 > A feed containing all feed elements from all groups the
       context user either owns or is a member of.

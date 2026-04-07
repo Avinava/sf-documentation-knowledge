@@ -5,12 +5,10 @@ topic: considerations-for-multi-resource-scheduling
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:27.478Z
+lastCollected: 2026-04-07T18:39:21.295Z
 estimatedTokens: 227
-keywords: [Considerations, Multi-Resource, Scheduling, primary, service, resource, anchors, appointment, marked, resources, whose, skills, matched, skill, requirements]
+keywords: [Considerations, Multi-Resource, Scheduling, primary, service, resource, anchors, appointment, marked, resources, whose, skills, matched, skill, requirements, appointments, their, availability, resource’s, territory]
 ---
-
-# Considerations for Multi-Resource Scheduling
 
 > In multi-resource scheduling, a primary service resource anchors the appointment and
    must be marked required. Primary service resources are the only required resources whose skills

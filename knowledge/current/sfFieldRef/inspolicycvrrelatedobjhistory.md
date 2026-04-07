@@ -5,12 +5,10 @@ topic: inspolicycvrrelatedobjhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.340Z
+lastCollected: 2026-04-07T18:39:44.910Z
 estimatedTokens: 281
-keywords: [InsPolicyCvrRelatedObjHistory, History, tracked, InsPolicyCvrRelatedObj]
+keywords: [InsPolicyCvrRelatedObjHistory, tracked, InsPolicyCvrRelatedObj]
 ---
-
-# InsPolicyCvrRelatedObjHistory
 
 > History for tracked fields of InsPolicyCvrRelatedObj.
 

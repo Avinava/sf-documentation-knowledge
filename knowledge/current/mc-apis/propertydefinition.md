@@ -5,12 +5,10 @@ topic: propertydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.149Z
+lastCollected: 2026-04-07T18:40:18.354Z
 estimatedTokens: 1459
 keywords: [PropertyDefinition, Items]
 ---
-
-# PropertyDefinition
 
 > The PropertyDefinition object defines the properties on the object type.
 

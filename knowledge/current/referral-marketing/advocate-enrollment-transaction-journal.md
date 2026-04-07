@@ -5,12 +5,10 @@ topic: advocate-enrollment-transaction-journal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.156Z
+lastCollected: 2026-04-07T18:39:09.477Z
 estimatedTokens: 253
-keywords: [Advocate, Enrollment, Transaction, Journal, Output, representation, created, enrolled, referral, program]
+keywords: [Advocate, Enrollment, Transaction, Journal, created, enrolled, referral, program]
 ---
-
-# Advocate Enrollment Transaction Journal
 
 > Output representation of the details of a transaction journal created for the enrolled
     referral program advocate.

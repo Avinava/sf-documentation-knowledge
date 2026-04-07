@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-record-overrides-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.316Z
+lastCollected: 2026-04-07T18:36:58.814Z
 estimatedTokens: 126
-keywords: [Smart, Data, Discovery, Predict, Record, Overrides, Input, Einstein]
+keywords: [Smart, Discovery, Predict, Record, Overrides, Einstein]
 ---
-
-# Smart Data Discovery Predict Record Overrides Input
 
 > The predict record overrides input for Einstein Discovery.
 

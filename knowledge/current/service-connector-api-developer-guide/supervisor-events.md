@@ -5,12 +5,10 @@ topic: supervisor-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.827Z
+lastCollected: 2026-04-07T18:39:23.762Z
 estimatedTokens: 847
-keywords: [Supervisor, Events, softphone, sent, base, connector, automatically, publishEvent, API, desk, phone, rep, capability, isSupervisor, They’re]
+keywords: [Supervisor, Events, softphone, sent, base, connector, automatically, publishEvent, API, desk, phone, rep, capability, isSupervisor, They’re, Salesforce, Call, Monitor]
 ---
-
-# Supervisor Events
 
 > These events can be used by a softphone (sent from the base
         connector automatically) or by using the publishEvent API (when on a desk phone). These

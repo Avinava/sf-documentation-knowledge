@@ -5,12 +5,10 @@ topic: takeaway-tuning-data-relationships-and-updates-for-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.783Z
+lastCollected: 2026-04-07T18:37:28.872Z
 estimatedTokens: 286
-keywords: [Takeaway, Tuning, Data, Relationships, Updates, Performance, Understand, characteristics, various, maintenance, operations, you’re, performing, always, test]
+keywords: [Takeaway, Tuning, Relationships, Updates, Performance, Understand, characteristics, various, maintenance, operations, you’re, performing, always, test, substantial, uploads, changes, full, copy, sandbox, that's, recently, refreshed, know, expect]
 ---
-
-# Takeaway: Tuning Data Relationships and Updates for Performance
 
 > Understand the performance characteristics of the various maintenance operations that
     you’re performing and always test substantial data uploads and changes to object relationships

@@ -5,12 +5,10 @@ topic: prediction-definitions-model-metrics-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.618Z
+lastCollected: 2026-04-07T18:36:59.109Z
 estimatedTokens: 254
 keywords: [Prediction, Definitions, Model, Metrics, Resource, collection, definition]
 ---
-
-# Prediction Definitions Model Metrics Resource
 
 > Returns a collection of metrics for a prediction definition model.
 

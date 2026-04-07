@@ -5,12 +5,10 @@ topic: bulk-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.684Z
+lastCollected: 2026-04-07T18:36:19.909Z
 estimatedTokens: 150
 keywords: [Bulk, Approvals, Process, resource, specify, collection, different, requests, executed]
 ---
-
-# Bulk Approvals
 
 > Use the Process Approvals resource to do bulk approvals. You can specify a collection of different
       Process Approvals requests to have them all executed in bulk.

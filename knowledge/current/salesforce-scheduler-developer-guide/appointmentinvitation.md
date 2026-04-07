@@ -5,12 +5,10 @@ topic: appointmentinvitation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.887Z
+lastCollected: 2026-04-07T18:39:20.655Z
 estimatedTokens: 1390
-keywords: [AppointmentInvitation, appointment, invitation, that’s, created, customers, booking, appointments, API, version, 55.0, later, Calls, Special, Access]
+keywords: [AppointmentInvitation, appointment, invitation, that’s, created, customers, booking, appointments, API, 55.0]
 ---
-
-# AppointmentInvitation
 
 > Represents information about an appointment invitation that’s created
          for customers who can use it for booking appointments. This object is available in API

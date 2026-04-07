@@ -5,12 +5,10 @@ topic: isinconsole
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.378Z
+lastCollected: 2026-04-07T18:36:49.484Z
 estimatedTokens: 171
-keywords: [isInConsole, Determines, Salesforce, console, API, version, 22.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, isInConsole, Determines, Salesforce, console, API, 22.0, Sample, Code–Visualforce]
 ---
-
-# isInConsole()
 
 > Determines if the page is in the Salesforce console. This
                 method is only available in API version 22.0 or later.

@@ -5,12 +5,10 @@ topic: conversationmessagedefinitiontranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.589Z
+lastCollected: 2026-04-07T18:36:23.923Z
 estimatedTokens: 629
-keywords: [translated, labels, constant, conversation, message, definitions, Enhanced, Messaging, In-App, Web, Parent, Version, Usage]
+keywords: [ConversationMessageDefinitionTranslation, ConversationMessageConstantValueTranslation, translated, labels, constant, conversation, message, definitions, Enhanced, Messaging, In-App, Web, Parent]
 ---
-
-# ConversationMessageDefinitionTranslation
 
 > Represents translated labels and constant
       values for conversation message definitions in Enhanced Messaging and Messaging for In-App and

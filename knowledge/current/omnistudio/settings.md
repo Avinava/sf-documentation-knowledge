@@ -5,12 +5,10 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.431Z
+lastCollected: 2026-04-07T18:36:41.123Z
 estimatedTokens: 121
 keywords: [Settings, organization, control, Intelligent, Document, Reader]
 ---
-
-# Settings
 
 > Represents the organization settings to control the settings related to Intelligent
     Document Reader. For more information, see Settings.

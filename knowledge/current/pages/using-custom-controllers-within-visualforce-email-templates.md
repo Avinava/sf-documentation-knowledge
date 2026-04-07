@@ -5,12 +5,10 @@ topic: using-custom-controllers-within-visualforce-email-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.122Z
+lastCollected: 2026-04-07T18:38:51.361Z
 estimatedTokens: 719
-keywords: [Custom, Controllers, Visualforce, Email, Templates, leverage, render, highly, customized, content, include, component, template, uses, controller]
+keywords: [Controllers, Visualforce, Email, Templates, leverage, render, highly, customized, content, include, template, uses, controller]
 ---
-
-# Using Custom Controllers within Visualforce Email Templates
 
 > Visualforce email templates can leverage custom controllers to render highly customized
 			content. To do so, include a custom component in a Visualforce email template that uses

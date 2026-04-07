@@ -5,12 +5,10 @@ topic: create-an-external-client-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.840Z
+lastCollected: 2026-04-07T18:38:09.135Z
 estimatedTokens: 899
-keywords: [External, Client, App, Amazon, Web, Services, AWS, connect, Loyalty, Management, Receipt, Scanner, Kit, unlocked, package]
+keywords: [External, Client, App, Amazon, Web, Services, AWS, connect, Loyalty, Management, Receipt, Scanner, Kit, unlocked, package, secure, OAuth, authentication, Expense, Analysis, API, runs, receipts, uploaded, creates, transaction, journals, submitted]
 ---
-
-# Create an External Client App
 
 > Create an external client app for Amazon Web Services (AWS) to connect with the Loyalty
   Management Receipt Scanner Kit unlocked package. This external client app enables secure OAuth

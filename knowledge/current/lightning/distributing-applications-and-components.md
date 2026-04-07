@@ -5,12 +5,10 @@ topic: distributing-applications-and-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:12.717Z
+lastCollected: 2026-04-07T18:38:02.646Z
 estimatedTokens: 623
-keywords: [Distributing, Applications, Components, ISV, Salesforce, partner, package, distribute, users, organizations, including, outside, company]
+keywords: [Distributing, Applications, ISV, Salesforce, partner, package, distribute, users, organizations, including, outside, company]
 ---
-
-# Distributing Applications and Components
 
 > As an ISV or Salesforce partner, you can package and distribute applications and
   components to other Salesforce users and organizations, including those outside your

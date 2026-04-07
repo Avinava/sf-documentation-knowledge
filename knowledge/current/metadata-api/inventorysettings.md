@@ -5,12 +5,10 @@ topic: inventorysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.460Z
+lastCollected: 2026-04-07T18:36:26.888Z
 estimatedTokens: 649
-keywords: [InventorySettings, options, Salesforce, Omnichannel, Inventory, product.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [InventorySettings, options, Salesforce, Omnichannel, Inventory, product.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# InventorySettings
 
 > Represents options for the Salesforce Omnichannel
             Inventory product.This type extends the Metadata metadata type and inherits its fullName field.

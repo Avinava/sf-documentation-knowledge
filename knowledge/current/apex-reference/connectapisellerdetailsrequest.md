@@ -5,12 +5,10 @@ topic: connectapisellerdetailsrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.043Z
+lastCollected: 2026-04-07T18:36:06.393Z
 estimatedTokens: 67
 keywords: [ConnectApi.SellerDetailsRequest, Seller, tax, calculation]
 ---
-
-# ConnectApi.SellerDetailsRequest
 
 > Seller details for the tax calculation
 

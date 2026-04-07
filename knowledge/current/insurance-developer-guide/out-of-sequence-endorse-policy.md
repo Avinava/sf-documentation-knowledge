@@ -5,12 +5,10 @@ topic: out-of-sequence-endorse-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.501Z
+lastCollected: 2026-04-07T18:37:52.692Z
 estimatedTokens: 128
-keywords: [Out-of-Sequence, Endorse, Policy, Output, representation, sequence, endorsement, process]
+keywords: [Out-of-Sequence, Endorse, Policy, sequence, endorsement, process]
 ---
-
-# Out-of-Sequence Endorse Policy
 
 > Output representation of the details for the out of sequence policy endorsement
     process.

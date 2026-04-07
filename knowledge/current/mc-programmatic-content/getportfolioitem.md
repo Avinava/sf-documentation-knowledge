@@ -5,12 +5,10 @@ topic: getportfolioitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.915Z
+lastCollected: 2026-04-07T18:40:22.295Z
 estimatedTokens: 99
-keywords: [GetPortfolioItem, Function, Ordinal, External, Key, Portfolio, item, **Overview**, **Syntax**, Usage]
+keywords: [GetPortfolioItem, Function, Ordinal, External, Key, Portfolio, item, **Overview**, **Syntax**]
 ---
-
-# GetPortfolioItem
 
 > GetPortfolioItem(1)
 

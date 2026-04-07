@@ -5,12 +5,10 @@ topic: usercustombadge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.730Z
+lastCollected: 2026-04-07T18:38:43.498Z
 estimatedTokens: 177
-keywords: [UserCustomBadge, custom, badge, user, API, version, 38.0, later, Calls]
+keywords: [UserCustomBadge, badge, user, API, 38.0]
 ---
-
-# UserCustomBadge
 
 > Represents a custom badge for a user. This object is available in
 		API version 38.0 and later.

@@ -5,12 +5,10 @@ topic: intelligent-sales
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.455Z
+lastCollected: 2026-04-07T18:37:42.604Z
 estimatedTokens: 1591
 keywords: [Intelligent, Sales, Help, team, plan, execute, visits, manage, inventory]
 ---
-
-# Intelligent Sales
 
 > Help your sales team plan and execute sales visits and manage field inventory with
   Intelligent Sales.

@@ -5,12 +5,10 @@ topic: decision-table-refresh-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.335Z
+lastCollected: 2026-04-07T18:39:03.519Z
 estimatedTokens: 413
-keywords: [Decision, Refresh, Action, business, rules, active, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Decision, Refresh, Action, business, active, REST, HTTP]
 ---
-
-# Decision Table Refresh Action
 
 > Refresh business rules for an active decision table.
 

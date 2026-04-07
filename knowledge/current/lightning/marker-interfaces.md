@@ -5,12 +5,10 @@ topic: marker-interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.685Z
+lastCollected: 2026-04-07T18:38:04.831Z
 estimatedTokens: 195
-keywords: [Marker, Interfaces, empty, attributes, events, enable, specific, usage, component, app]
+keywords: [Marker, Interfaces, empty, attributes, events, enable, specific, app]
 ---
-
-# Marker Interfaces
 
 > A marker interface is an empty interface with no attributes, events, or methods. A marker
   interface is used to enable specific usage for a component in an app.

@@ -5,12 +5,10 @@ topic: compact-form-join-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.282Z
+lastCollected: 2026-04-07T18:36:56.828Z
 estimatedTokens: 118
 keywords: [Compact, Form, Join, query]
 ---
-
-# Compact Form Join Object
 
 > A compact form join object for q query.
 

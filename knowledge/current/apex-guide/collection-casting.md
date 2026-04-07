@@ -5,12 +5,10 @@ topic: collection-casting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:31.155Z
+lastCollected: 2026-04-07T18:36:16.361Z
 estimatedTokens: 407
 keywords: [Collection, Casting, Because, collections, Apex, declared, runtime]
 ---
-
-# Collection Casting
 
 > Because collections in Apex have a declared type at runtime, Apex allows collection casting.
 

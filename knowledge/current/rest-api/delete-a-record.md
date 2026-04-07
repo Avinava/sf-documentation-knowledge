@@ -5,12 +5,10 @@ topic: delete-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.596Z
+lastCollected: 2026-04-07T18:36:19.822Z
 estimatedTokens: 153
 keywords: [Record, sObject, Rows, resource, records, Specify]
 ---
-
-# Delete a Record
 
 > Use the sObject Rows resource to delete records. Specify the record ID and use the DELETE method of
    the resource to delete a record.

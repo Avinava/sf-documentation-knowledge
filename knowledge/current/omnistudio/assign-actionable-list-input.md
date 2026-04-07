@@ -5,12 +5,10 @@ topic: assign-actionable-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.918Z
+lastCollected: 2026-04-07T18:36:36.447Z
 estimatedTokens: 159
-keywords: [Assign, Actionable, Input, representation, assigning]
+keywords: [Assign, Actionable, assigning]
 ---
-
-# Assign Actionable List Input
 
 > Input representation for assigning an actionable list.
 

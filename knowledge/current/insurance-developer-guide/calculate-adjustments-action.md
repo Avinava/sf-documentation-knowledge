@@ -5,12 +5,10 @@ topic: calculate-adjustments-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.910Z
+lastCollected: 2026-04-07T18:37:48.613Z
 estimatedTokens: 245
-keywords: [Calculate, Adjustments, Action, adjusted, amount, loss, item, generate, data, insurance, policy, limit, tracking, claim, coverage]
+keywords: [Inputs, Outputs, Calculate, Adjustments, Action, adjusted, amount, loss, item, generate, insurance, policy, limit, claim, coverage, payment, adjustment, records, REST, HTTP]
 ---
-
-# Calculate Adjustments Action
 
 > Calculate the adjusted amount for a loss item and generate data for insurance policy
   limit tracking and claim coverage payment adjustment records.

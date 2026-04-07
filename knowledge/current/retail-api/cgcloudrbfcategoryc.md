@@ -5,12 +5,10 @@ topic: cgcloudrbfcategoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.309Z
+lastCollected: 2026-04-07T18:39:14.718Z
 estimatedTokens: 883
-keywords: [cgcloud__RBF_Category__c, Junction, Rate, Funding, Product, driving, RBF, association, API, version, 54.0, later, cgcloud, _RBF, _Category]
+keywords: [cgcloud__RBF_Category__c, Junction, Rate, Funding, Product, driving, RBF, association, API, 54.0, cgcloud, _RBF, _Category]
 ---
-
-# cgcloud__RBF_Category__c
 
 > Junction object between Rate Based Funding and Product for driving
          RBF and Product association. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: order-of-execution-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.704Z
+lastCollected: 2026-04-07T18:38:50.939Z
 estimatedTokens: 455
-keywords: [Order, Execution, Visualforce, user, views, instances, controller, extensions, components, associated, created, server, elements, executed, affect]
+keywords: [Order, Execution, Visualforce, user, views, instances, controller, extensions, created, server, executed, affect, how]
 ---
-
-# Order of Execution in a Visualforce Page
 
 > When a user views a Visualforce page, instances of the controller, extensions, and components
    associated with the page are created by the server. The order in which these elements are

@@ -5,13 +5,11 @@ topic: sustainabilityuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.742Z
+lastCollected: 2026-04-07T18:40:03.452Z
 estimatedTokens: 351
 namespace: NamespacePrefix
 keywords: [SustainabilityUom, additional, unit, measure, defined, customer]
 ---
-
-# SustainabilityUom
 
 > Represents information about the additional unit of measure values defined by
          a customer.

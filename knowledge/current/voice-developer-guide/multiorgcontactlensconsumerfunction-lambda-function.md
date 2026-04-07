@@ -5,12 +5,10 @@ topic: multiorgcontactlensconsumerfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.132Z
+lastCollected: 2026-04-07T18:40:13.080Z
 estimatedTokens: 183
 keywords: [MultiorgContactLensConsumerFunction, Lambda, Function, real-time, transcripts, intelligence, signals, generated, Contact, Lens, Amazon, Connect, ContactLensProcessorFunction]
 ---
-
-# MultiorgContactLensConsumerFunction Lambda Function
 
 > This Lambda function gets real-time transcripts and intelligence signals generated from
   Contact Lens for Amazon Connect and sends them to the ContactLensProcessorFunction Lambda

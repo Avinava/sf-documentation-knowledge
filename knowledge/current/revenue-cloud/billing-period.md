@@ -5,12 +5,10 @@ topic: billing-period
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.286Z
+lastCollected: 2026-04-07T18:35:45.262Z
 estimatedTokens: 122
-keywords: [Billing, Period, Output, representation, specific]
+keywords: [Billing, Period, specific]
 ---
-
-# Billing Period
 
 > Output representation of the details of a specific billing period.
 

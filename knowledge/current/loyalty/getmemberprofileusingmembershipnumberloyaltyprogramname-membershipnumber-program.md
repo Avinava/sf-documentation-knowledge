@@ -5,12 +5,10 @@ topic: getmemberprofileusingmembershipnumberloyaltyprogramname-membershipnumber-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.463Z
+lastCollected: 2026-04-07T18:38:06.682Z
 estimatedTokens: 299
-keywords: [getMemberProfileUsingMembershipNumber, loyaltyProgramName, membershipNumber, programCurrencyName, loyalty, program, member, membership, number, API, Version, Requires, Chatter]
+keywords: [getMemberProfileUsingMembershipNumber, loyaltyProgramName, membershipNumber, programCurrencyName, loyalty, program, member, membership, number, API, Requires, Chatter]
 ---
-
-# getMemberProfileUsingMembershipNumber(loyaltyProgramName, membershipNumber, programCurrencyName)
 
 > Get the details of a loyalty program member using the program
       membership number.

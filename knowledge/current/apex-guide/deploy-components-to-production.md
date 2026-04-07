@@ -5,12 +5,10 @@ topic: deploy-components-to-production
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.081Z
+lastCollected: 2026-04-07T18:36:18.307Z
 estimatedTokens: 758
-keywords: [Deploy, Components, Production, step, Apex, code, custom, created, previously, organization, change]
+keywords: [Deploy, Production, step, Apex, code, created, previously, organization, change]
 ---
-
-# Deploy Components to Production
 
 > In this step, you deploy the Apex code and the custom object you created previously
         to your production organization using change sets.

@@ -5,12 +5,10 @@ topic: telephony-integration-rest-api-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.173Z
+lastCollected: 2026-04-07T18:40:13.118Z
 estimatedTokens: 103
 keywords: [Telephony, Integration, REST, API, Sample, Code, JavaScript, performs, authorization, process, invokes, Voice]
 ---
-
-# Telephony Integration REST API Sample Code
 
 > The following JavaScript code sample performs the authorization process and then invokes
         the Voice API.

@@ -5,12 +5,10 @@ topic: commerce-webstore-order-shipments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.575Z
+lastCollected: 2026-04-07T18:37:12.460Z
 estimatedTokens: 438
 keywords: [Commerce, Webstore, Order, Shipments]
 ---
-
-# Commerce Webstore Order Shipments
 
 > Get order shipments.
 

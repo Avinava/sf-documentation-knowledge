@@ -5,12 +5,10 @@ topic: reportevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.838Z
+lastCollected: 2026-04-07T18:38:59.783Z
 estimatedTokens: 5088
-keywords: [ReportEvent, Tracks, reports, run, org, transaction, security, policy, big, stores, event, data, ReportEventStream, API, version]
+keywords: [ReportEvent, Tracks, reports, run, org, transaction, security, policy, big, stores, event, ReportEventStream, API, 46.0, Standard, SOQL]
 ---
-
-# ReportEvent
 
 > Tracks when reports are run in your org. You can use ReportEvent
       in a transaction security policy. ReportEvent is a big object that stores the event data of

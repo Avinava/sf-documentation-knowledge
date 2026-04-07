@@ -5,12 +5,10 @@ topic: stationary-asset-water-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.000Z
+lastCollected: 2026-04-07T18:38:17.534Z
 estimatedTokens: 160
 keywords: [Stationary, Asset, Water, Activity, total, volume, activities, withdrawal, consumption, discharge, assets]
 ---
-
-# Stationary Asset Water Activity
 
 > The Stationary Asset Water Activity object represents information about the total
     volume of water from the water activities, such as withdrawal, consumption, or discharge that

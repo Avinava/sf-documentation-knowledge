@@ -5,12 +5,10 @@ topic: facetable-attributes-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.545Z
+lastCollected: 2026-04-07T18:37:08.376Z
 estimatedTokens: 91
-keywords: [Facetable, Attributes, Collection, Input, settings, search]
+keywords: [Facetable, Attributes, Collection, settings, search]
 ---
-
-# Facetable Attributes Collection Input
 
 > Collection of facetable settings for search
     attributes.

@@ -5,12 +5,10 @@ topic: salesforce-billing-developer-guides-lightning-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.667Z
+lastCollected: 2026-04-07T18:37:04.286Z
 estimatedTokens: 833
-keywords: [Salesforce, Billing, Developer, Guides, Lightning, Components, Want, started, developing, Check, plugins]
+keywords: [Salesforce, Billing, Developer, Guides, Lightning, Want, started, developing, Check, plugins]
 ---
-
-# Salesforce Billing Developer Guides & Lightning Components
 
 > Want to get started developing with Salesforce Billing? Check out developer guides,
   plugins, and Lightning components.

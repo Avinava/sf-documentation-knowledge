@@ -5,12 +5,10 @@ topic: caseparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.794Z
+lastCollected: 2026-04-07T18:38:22.769Z
 estimatedTokens: 791
-keywords: [CaseParticipant, junction, case, account, contact, stores, participant, associated, applicant, co-applicant, household, business, API, version, 54.0]
+keywords: [CaseParticipant, junction, case, account, contact, stores, participant, applicant, co-applicant, household, business, API, 54.0]
 ---
-
-# CaseParticipant
 
 > Represents a junction between a case, and an account or a contact. This
          object stores the details of the participant associated with a case. This participant could

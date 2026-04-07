@@ -5,12 +5,10 @@ topic: loginevent-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.433Z
+lastCollected: 2026-04-07T18:39:22.324Z
 estimatedTokens: 551
-keywords: [LoginEvent, Policies, Login, event, track, activity, enforce, requirements, Policy, Glance, How, Compare, Log, Lines, History]
+keywords: [LoginEvent, Policies, Login, event, track, activity, enforce, requirements, Policy, Glance, How, Compare, Log, Lines]
 ---
-
-# LoginEvent Policies
 
 > Login event policies track login activity and enforce your login
   requirements.

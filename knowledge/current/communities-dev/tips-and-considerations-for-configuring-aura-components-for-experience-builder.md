@@ -5,12 +5,10 @@ topic: tips-and-considerations-for-configuring-aura-components-for-experience-bu
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:39.651Z
+lastCollected: 2026-04-07T18:37:26.569Z
 estimatedTokens: 1402
-keywords: [Tips, Considerations, Configuring, Aura, Components, Experience, Builder, Keep, guidelines, mind, creating, component, bundles, sites, Attributes]
+keywords: [Attributes, Tips, Considerations, Configuring, Aura, Experience, Builder, Keep, guidelines, mind, creating, bundles, sites]
 ---
-
-# Tips and Considerations for Configuring Aura Components for Experience Builder
 
 > Keep these guidelines in mind when creating Aura components and component bundles for
     Aura sites.

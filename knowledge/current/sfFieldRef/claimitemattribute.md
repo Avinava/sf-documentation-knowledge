@@ -5,12 +5,10 @@ topic: claimitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.468Z
+lastCollected: 2026-04-07T18:39:33.894Z
 estimatedTokens: 279
-keywords: [ClaimItemAttribute, attributes, claim, item, API, version, 65.0, later]
+keywords: [ClaimItemAttribute, attributes, claim, item, API, 65.0]
 ---
-
-# ClaimItemAttribute
 
 > Represents attributes for a claim item. This object is available in API
       version 65.0 and later.

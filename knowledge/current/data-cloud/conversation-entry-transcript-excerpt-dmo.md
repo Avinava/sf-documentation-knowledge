@@ -5,12 +5,10 @@ topic: conversation-entry-transcript-excerpt-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.973Z
+lastCollected: 2026-04-07T18:35:52.888Z
 estimatedTokens: 767
-keywords: [Conversation, Entry, Transcript, Excerpt, DMO, Data, Cloud, model, portion, includes, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Conversation, Entry, Transcript, Excerpt, DMO, Cloud, model, portion, includes, API, Primary, Subject, Area, Key]
 ---
-
-# Conversation Entry Transcript Excerpt DMO
 
 > The Conversation Entry Transcript Excerpt DMO is a Data Cloud data model
 		object for a portion of a Conversation Entry that includes a portion of a transcript.

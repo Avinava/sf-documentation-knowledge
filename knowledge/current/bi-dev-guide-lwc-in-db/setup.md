@@ -5,12 +5,10 @@ topic: setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.987Z
+lastCollected: 2026-04-07T18:36:54.356Z
 estimatedTokens: 306
-keywords: [Setup, environment, Lightning, Web, Component, widgets, add, CRM, Analytics, dashboards]
+keywords: [Setup, environment, Lightning, Web, widgets, add, CRM, Analytics, dashboards]
 ---
-
-# Setup
 
 > Set up your environment to create Lightning Web Component widgets, and then add them to
   your CRM Analytics and Lightning dashboards.

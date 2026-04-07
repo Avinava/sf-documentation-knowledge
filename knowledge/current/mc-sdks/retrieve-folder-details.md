@@ -5,12 +5,10 @@ topic: retrieve-folder-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.190Z
+lastCollected: 2026-04-07T18:40:24.648Z
 estimatedTokens: 786
-keywords: [Retrieve, Folder, folders, Ruby, PHP, Python, CSharp, Java, Streamline, Usage, Filter, Requests]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Folder, folders, PHP, Streamline, Filter, Requests]
 ---
-
-# Retrieve Folder Details
 
 > Use the Get method to return information about existing folders.
 

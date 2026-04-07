@@ -2,7 +2,7 @@
 domain: mc-app-development
 name: Marketing Cloud Package Development
 documentCount: 45
-lastGenerated: 2026-04-07T09:06:39.457Z
+lastGenerated: 2026-04-07T18:40:44.651Z
 ---
 
 # Marketing Cloud Package Development — Knowledge Index
@@ -16,7 +16,7 @@ lastGenerated: 2026-04-07T09:06:39.457Z
 | [api-integration.md](./api-integration.md) | API Integration | developer-guide | To obtain credentials for authentication, add an API integration to your install |
 | [api-integration-permission-scopes.md](./api-integration-permission-scopes.md) | API Integration Permission Scopes | developer-guide | To let your API integration access Marketing Cloud functionality, assign it perm |
 | [appexchange-partners-upgrade-sso-claim-v2.md](./appexchange-partners-upgrade-sso-claim-v2.md) | AppExchange Partners, Upgrade SSO Claim v2 | api-reference | These instructions apply only to multi-tenant applications, such as apps on AppE |
-| [build-custom-activities-and-events.md](./build-custom-activities-and-events.md) | Build Custom Activities and Events | developer-guide | Build, Custom, Activities |
+| [build-custom-activities-and-events.md](./build-custom-activities-and-events.md) | Build Custom Activities and Events | developer-guide | Prerequisites, Steps, Build |
 | [considerations-for-building-custom-events.md](./considerations-for-building-custom-events.md) | Considerations for Building Custom Events | concept | Custom events in Journey Builder use the same framework as activities, so they f |
 | [create-a-marketing-cloud-app.md](./create-a-marketing-cloud-app.md) | Create a Marketing Cloud App | developer-guide | As of August 1, 2019, Marketing Cloud has removed the ability to create legacy p |
 | [create-an-api-integration-in-legacy-packages.md](./create-an-api-integration-in-legacy-packages.md) | Create an API Integration in Legacy Packages | developer-guide | As of August 1, 2019, Marketing Cloud has removed the ability to create legacy p |

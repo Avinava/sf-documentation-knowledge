@@ -5,12 +5,10 @@ topic: pricingprocessexecutionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.190Z
+lastCollected: 2026-04-07T18:39:54.748Z
 estimatedTokens: 392
-keywords: [PricingProcessExecutionFeed, Feed, tracking, PricingProcessExecution]
+keywords: [PricingProcessExecutionFeed, PricingProcessExecution]
 ---
-
-# PricingProcessExecutionFeed
 
 > Feed tracking for PricingProcessExecution.
 

@@ -5,12 +5,10 @@ topic: account-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.575Z
+lastCollected: 2026-04-07T18:37:57.072Z
 estimatedTokens: 931
-keywords: [Account, Management, Life, Sciences, industry, crucial, organizations, effectively, manage, their, relationships, healthcare, providers, HCPs, HCOs, resources, customer, accounts]
+keywords: [Account, Management, Life, Sciences, industry, crucial, organizations, effectively, manage, their, relationships, healthcare, providers, HCPs, HCOs, profile, serves, foundation, various, operational, activities, organization, providing, comprehensive, view, including, contact, social, network, specialties, affiliations, business, licenses, ratings, segment, categorize, well, territory, product, team-specific, Cloud, extends, Salesforce, Core, model, allowing, holistic, customers, up-to-date, support, priorities, resources, customer, accounts]
 ---
-
-# Account Management
 
 > Account Management in the Life Sciences industry is crucial for organizations to
   effectively manage their relationships with healthcare providers (HCPs) and healthcare

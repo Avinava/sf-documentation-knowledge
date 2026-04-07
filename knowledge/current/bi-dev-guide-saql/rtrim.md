@@ -5,12 +5,10 @@ topic: rtrim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.239Z
+lastCollected: 2026-04-07T18:37:00.806Z
 estimatedTokens: 150
-keywords: [rtrim, Removes, characters, end, Usage]
+keywords: [rtrim, Removes, characters, end]
 ---
-
-# rtrim()
 
 > Removes the specified characters from the end of a string.
 

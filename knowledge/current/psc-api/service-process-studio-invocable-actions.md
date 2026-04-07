@@ -5,12 +5,10 @@ topic: service-process-studio-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:12.272Z
+lastCollected: 2026-04-07T18:39:05.267Z
 estimatedTokens: 235
 keywords: [Service, Process, Studio, Invocable, Actions, invoke, flow]
 ---
-
-# Service Process Studio Invocable Actions
 
 > Use actions to invoke Service Process Studio actions in a flow.
 

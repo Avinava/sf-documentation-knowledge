@@ -5,12 +5,10 @@ topic: quoteactionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.264Z
+lastCollected: 2026-04-07T18:39:57.880Z
 estimatedTokens: 358
-keywords: [QuoteActionFeed, Feed, tracking, QuoteAction]
+keywords: [QuoteActionFeed, QuoteAction]
 ---
-
-# QuoteActionFeed
 
 > Feed tracking for QuoteAction.
 

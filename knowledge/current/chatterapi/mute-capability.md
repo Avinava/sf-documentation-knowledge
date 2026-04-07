@@ -5,12 +5,10 @@ topic: mute-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.710Z
+lastCollected: 2026-04-07T18:37:20.894Z
 estimatedTokens: 155
-keywords: [Mute, Capability, feed, element, users]
+keywords: [Mute, Capability, users]
 ---
-
-# Mute Capability
 
 > If a feed element has this capability, users can mute it.
 

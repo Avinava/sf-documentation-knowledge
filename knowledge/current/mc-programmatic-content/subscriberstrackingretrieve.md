@@ -5,12 +5,10 @@ topic: subscriberstrackingretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.820Z
+lastCollected: 2026-04-07T18:40:23.240Z
 estimatedTokens: 163
 keywords: [Subscribers.Tracking.Retrieve, Function, Ordinal, Criteria, search, subscribers, **Overview**, **Syntax**]
 ---
-
-# Subscribers.Tracking.Retrieve
 
 > Subscribers.Tracking.Retrieve(1)
 

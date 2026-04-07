@@ -5,12 +5,10 @@ topic: considerations-for-creating-custom-controllers-and-controller-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:58.634Z
+lastCollected: 2026-04-07T18:38:50.866Z
 estimatedTokens: 854
-keywords: [Considerations, Creating, Custom, Controllers, Controller, Extensions]
+keywords: [Considerations, Creating, Controllers, Controller, Extensions]
 ---
-
-# Considerations for Creating Custom Controllers and Controller Extensions
 
 > Note the following considerations when creating controller extensions and custom
     controllers.

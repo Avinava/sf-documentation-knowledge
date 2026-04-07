@@ -5,12 +5,10 @@ topic: disclosuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.543Z
+lastCollected: 2026-04-07T18:36:24.983Z
 estimatedTokens: 493
-keywords: [DisclosureDefinition, disclosure, publisher, vendor, created, implemented, report, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [DisclosureDefinition, disclosure, publisher, vendor, created, implemented, report, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DisclosureDefinition
 
 > Represents information that defines a disclosure type,
 			such as details of the publisher or vendor who created or implemented the

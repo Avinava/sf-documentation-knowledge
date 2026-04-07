@@ -5,12 +5,10 @@ topic: listviewchartinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.818Z
+lastCollected: 2026-04-07T18:39:46.369Z
 estimatedTokens: 414
-keywords: [ListViewChartInstance, Retrieves, metadata, standard, custom, charts, entity, context, view, API, versions, 34.0, later]
+keywords: [ListViewChartInstance, Retrieves, metadata, standard, charts, entity, context, view, API, versions, 34.0]
 ---
-
-# ListViewChartInstance
 
 > Retrieves metadata for all standard and custom charts for a given
 			entity in context of a given list view. This object is

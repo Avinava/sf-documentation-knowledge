@@ -5,12 +5,10 @@ topic: dataflow-node-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.607Z
+lastCollected: 2026-04-07T18:36:57.127Z
 estimatedTokens: 112
 keywords: [Dataflow, Node, Collection, nodes, Analytics]
 ---
-
-# Dataflow Node Collection
 
 > The collection of nodes for an Analytics dataflow.
 

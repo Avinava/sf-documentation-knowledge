@@ -5,13 +5,11 @@ topic: embeddedai-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.909Z
+lastCollected: 2026-04-07T18:36:15.220Z
 estimatedTokens: 189
 namespace: The
-keywords: [embeddedai, classes, manage, represent, records, data, Apex, support, embedded, features]
+keywords: [embeddedai, classes, manage, represent, records, Apex, support, embedded, features]
 ---
-
-# embeddedai Namespace
 
 > The embeddedai namespace provides classes and
     methods to manage and represent records and data in Apex to support embedded AI

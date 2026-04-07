@@ -5,12 +5,10 @@ topic: debugging-a-hybrid-app-on-an-android-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.702Z
+lastCollected: 2026-04-07T18:40:26.041Z
 estimatedTokens: 269
 keywords: [Debugging, Hybrid, App, Android, Device, debug, apps, devices, Google, Chrome]
 ---
-
-# Debugging a Hybrid App On an Android Device
 
 > To debug hybrid apps on Android devices, use Google
             Chrome.

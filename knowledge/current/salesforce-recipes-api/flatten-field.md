@@ -5,12 +5,10 @@ topic: flatten-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.494Z
+lastCollected: 2026-04-07T18:39:19.182Z
 estimatedTokens: 108
 keywords: [Flatten, node, recipe]
 ---
-
-# Flatten Field
 
 > A field for a flatten node in a recipe.
 

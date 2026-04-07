@@ -5,13 +5,11 @@ topic: formula-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.773Z
+lastCollected: 2026-04-07T18:36:01.062Z
 estimatedTokens: 937
 namespace: System
-keywords: [Formula, Updates, recalculates, input, SObjects, Usage, builder, recalculateFormulas]
+keywords: [Formula, Updates, recalculates, SObjects, builder, recalculateFormulas]
 ---
-
-# Formula Class
 
 > Updates (recalculates) all formula fields on the input
     SObjects

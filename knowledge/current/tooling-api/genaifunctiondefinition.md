@@ -5,12 +5,10 @@ topic: genaifunctiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.748Z
+lastCollected: 2026-04-07T18:36:33.187Z
 estimatedTokens: 568
-keywords: [GenAiFunctionDefinition, agent, action, API, version, 60.0, later, SOAP, Calls, REST, Special, Access, Rules]
+keywords: [GenAiFunctionDefinition, agent, action, API, 60.0, SOAP, REST]
 ---
-
-# GenAiFunctionDefinition
 
 > Represents an agent action. This object is available in API
       version 60.0 and later.

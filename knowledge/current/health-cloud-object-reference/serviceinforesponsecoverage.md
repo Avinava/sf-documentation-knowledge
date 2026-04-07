@@ -5,12 +5,10 @@ topic: serviceinforesponsecoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.367Z
+lastCollected: 2026-04-07T18:37:47.980Z
 estimatedTokens: 1439
-keywords: [ServiceInfoResponseCoverage, coverage, service, additional, documentation, provided, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [ServiceInfoResponseCoverage, coverage, service, additional, documentation, provided, API, 63.0]
 ---
-
-# ServiceInfoResponseCoverage
 
 > Represents coverage details about a service information response. For
          example, if additional information or documentation is required for the coverage to be

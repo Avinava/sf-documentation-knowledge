@@ -5,12 +5,10 @@ topic: accesstoken
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.924Z
+lastCollected: 2026-04-07T18:39:17.583Z
 estimatedTokens: 188
-keywords: [accessToken, Listed, error, codes, code, messages, associated, Salesforce, Feedback, Management, SFM, UnAuth, APIs, resource, Responses]
+keywords: [accessToken, Listed, error, codes, code, messages, Salesforce, Feedback, Management, SFM, UnAuth, APIs, resource, Responses]
 ---
-
-# accessToken
 
 > Listed are the error codes and error code messages associated with the Salesforce
    Feedback Management (SFM) UnAuth Response APIs for the accessToken resource.

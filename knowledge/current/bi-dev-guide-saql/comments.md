@@ -5,12 +5,10 @@ topic: comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.808Z
+lastCollected: 2026-04-07T18:37:00.321Z
 estimatedTokens: 142
 keywords: [Comments, add, single-line, comment, SAQL, preface, two, hyphens, multi-line, start, forward, slash, asterisk, end]
 ---
-
-# Comments
 
 > To add a single-line comment in SAQL, preface your comment with two hyphens (--). To add a multi-line comment, start your comment with a forward
   slash and asterisk (/*) and end it with an asterisk and

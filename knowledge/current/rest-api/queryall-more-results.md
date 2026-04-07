@@ -5,12 +5,10 @@ topic: queryall-more-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.827Z
+lastCollected: 2026-04-07T18:36:21.058Z
 estimatedTokens: 729
-keywords: [QueryAll, Results, batch, query, locator, API, resource, executes, REST, version, 29.0, later, Resources, Executing, SOQL]
+keywords: [QueryAll, Results, batch, query, locator, API, resource, executes, REST, 29.0, Resources, Executing, SOQL, Queries]
 ---
-
-# QueryAll More Results
 
 > Returns the next batch of results from a QueryAll request using a query locator. This
 		API resource executes the specified QueryAll request. This resource is available in REST API

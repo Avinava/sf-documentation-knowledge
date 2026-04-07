@@ -5,12 +5,10 @@ topic: advanced-events-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.018Z
+lastCollected: 2026-04-07T18:38:04.119Z
 estimatedTokens: 1495
-keywords: [Advanced, Events, builds, simpler, component, application, event, examples, uses, notifier, handler, work, wired, let's, look]
+keywords: [Advanced, Events, builds, simpler, application, event, examples, uses, notifier, handler, work, wired, let's, look, individual, resources, involved, Container]
 ---
-
-# Advanced Events Example
 
 > This example builds on the simpler component and application event
 examples. It uses one notifier component and one handler component

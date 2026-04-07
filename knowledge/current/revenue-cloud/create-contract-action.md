@@ -5,12 +5,10 @@ topic: create-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.905Z
+lastCollected: 2026-04-07T18:35:39.689Z
 estimatedTokens: 444
-keywords: [Contract, Action, specific, quote, record, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Contract, Action, specific, quote, record, REST, HTTP]
 ---
-
-# Create Contract Action
 
 > Create a contract from a specific quote record.
 

@@ -5,12 +5,10 @@ topic: academiccredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.422Z
+lastCollected: 2026-04-07T18:37:30.481Z
 estimatedTokens: 224
-keywords: [AcademicCredential, credential, earned, learners, API, version, 59.0, later, Calls]
+keywords: [AcademicCredential, credential, earned, learners, API, 59.0]
 ---
-
-# AcademicCredential
 
 > A credential which can be earned by learners. This object is available
       in API version 59.0 and later.

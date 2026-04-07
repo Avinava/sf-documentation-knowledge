@@ -5,12 +5,10 @@ topic: enablelogging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.017Z
+lastCollected: 2026-04-07T18:38:06.269Z
 estimatedTokens: 2162
-keywords: [enableLogging, deployment, enable, logging, particular, API, versions, 28.0, later, Usage, Messages, Logged, Events]
+keywords: [enableLogging, deployment, enable, logging, particular, API, versions, 28.0, Messages, Logged, Events]
 ---
-
-# enableLogging
 
 > Use the enableLogging deployment method to enable logging on a particular deployment.
   Available in API versions 28.0 and later.

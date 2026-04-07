@@ -5,12 +5,10 @@ topic: put-visualforce-pages-on-external-domains
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.725Z
+lastCollected: 2026-04-07T18:38:52.035Z
 estimatedTokens: 1147
-keywords: [Put, Visualforce, Pages, External, Domains, frame, content, trusted, domain, enable, clickjack, protection, specify, allow, framing]
+keywords: [Put, Visualforce, Pages, External, Domains, frame, content, trusted, domain, enable, clickjack, protection, specify, allow, framing, requires, authentication, serve, frames, Options, Authenticated, Inline, HTML]
 ---
-
-# Put Visualforce Pages on External Domains
 
 > To frame your Visualforce content on a trusted external domain, enable clickjack
     protection, and then specify the domains where you allow framing. If your Visualforce page

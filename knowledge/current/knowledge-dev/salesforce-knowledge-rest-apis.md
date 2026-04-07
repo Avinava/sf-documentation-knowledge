@@ -5,12 +5,10 @@ topic: salesforce-knowledge-rest-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.693Z
+lastCollected: 2026-04-07T18:37:53.986Z
 estimatedTokens: 228
 keywords: [Salesforce, Knowledge, REST, APIs, manage, articles, support]
 ---
-
-# Salesforce Knowledge REST APIs
 
 > You can manage articles and get support information with REST APIs.
 

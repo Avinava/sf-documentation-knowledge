@@ -5,12 +5,10 @@ topic: dial
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.413Z
+lastCollected: 2026-04-07T18:39:23.350Z
 estimatedTokens: 134
 keywords: [dial, contact]
 ---
-
-# dial
 
 > Dial a contact.
 

@@ -5,12 +5,10 @@ topic: quoterecipientgroupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.551Z
+lastCollected: 2026-04-07T18:39:58.207Z
 estimatedTokens: 383
-keywords: [QuoteRecipientGroupMember, junction, quote, line, item, recipient, group, API, version, 64.0, later]
+keywords: [QuoteRecipientGroupMember, junction, quote, line, item, recipient, group, API, 64.0]
 ---
-
-# QuoteRecipientGroupMember
 
 > Represents a junction between a quote line item recipient and a quote
          recipient group. This object is available in API version 64.0 and later.

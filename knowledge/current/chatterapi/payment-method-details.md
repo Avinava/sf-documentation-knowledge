@@ -5,12 +5,10 @@ topic: payment-method-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.495Z
+lastCollected: 2026-04-07T18:37:21.612Z
 estimatedTokens: 104
 keywords: [Payment]
 ---
-
-# Payment Method Details
 
 > Details about the payment method.
 

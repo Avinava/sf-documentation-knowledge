@@ -5,12 +5,10 @@ topic: array-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.895Z
+lastCollected: 2026-04-07T18:37:02.449Z
 estimatedTokens: 941
-keywords: [array, Functions, rules, manipulate, arrays, asset, JSON, runtime, Function, forEach, forEachIndex, concat, unique, uniqueBy, union]
+keywords: [array, Functions, manipulate, arrays, asset, JSON, runtime, Function, forEach, forEachIndex, concat, unique, uniqueBy, union, unionBy, size]
 ---
-
-# array Functions
 
 > Use array functions in rules to manipulate arrays
     in asset JSON at runtime.

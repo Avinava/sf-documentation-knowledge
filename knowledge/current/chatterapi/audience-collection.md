@@ -5,12 +5,10 @@ topic: audience-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.734Z
+lastCollected: 2026-04-07T18:37:16.802Z
 estimatedTokens: 61
 keywords: [Audience, Collection, audiences]
 ---
-
-# Audience Collection
 
 > Collection of audiences.
 

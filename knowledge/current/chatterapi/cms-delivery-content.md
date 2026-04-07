@@ -5,12 +5,10 @@ topic: cms-delivery-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.804Z
+lastCollected: 2026-04-07T18:37:11.606Z
 estimatedTokens: 497
 keywords: [CMS, Delivery, Content, piece, published, channel, Experience, Cloud, site]
 ---
-
-# CMS Delivery Content
 
 > Get a piece of published content for a channel or Experience Cloud
       site.

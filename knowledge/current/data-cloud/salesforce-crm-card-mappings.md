@@ -5,12 +5,10 @@ topic: salesforce-crm-card-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.103Z
+lastCollected: 2026-04-07T18:35:53.035Z
 estimatedTokens: 180
-keywords: [Salesforce, CRM, Card, Mappings, data, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage, DMO, Mapping]
+keywords: [Salesforce, CRM, Card, Mappings, DLO, found, Financial, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---
-
-# Salesforce CRM: Card Mappings
 
 > These data mappings are for the Card DLO found in the Financial Services Cloud bundle of
   the Salesforce CRM Connector for Data Cloud.

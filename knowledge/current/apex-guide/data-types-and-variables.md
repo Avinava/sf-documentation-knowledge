@@ -5,12 +5,10 @@ topic: data-types-and-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.157Z
+lastCollected: 2026-04-07T18:36:19.381Z
 estimatedTokens: 557
-keywords: [Data, Variables, Apex, uses, language, constructs, enums, constants, expressions, operators, assignment, statements]
+keywords: [Variables, Apex, uses, language, constructs, enums, constants, expressions, operators, assignment, statements]
 ---
-
-# Data Types and Variables
 
 > Apex uses data types, variables, and related language constructs such as enums,
         constants, expressions, operators, and assignment statements.

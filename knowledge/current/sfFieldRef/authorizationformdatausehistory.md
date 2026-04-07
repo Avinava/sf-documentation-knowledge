@@ -5,12 +5,10 @@ topic: authorizationformdatausehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.598Z
+lastCollected: 2026-04-07T18:39:28.679Z
 estimatedTokens: 276
-keywords: [AuthorizationFormDataUseHistory, History, tracked, AuthorizationFormDataUse]
+keywords: [AuthorizationFormDataUseHistory, tracked, AuthorizationFormDataUse]
 ---
-
-# AuthorizationFormDataUseHistory
 
 > History for tracked fields of AuthorizationFormDataUse.
 

@@ -5,12 +5,10 @@ topic: time-series-output-confidence-interval-high-low
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.977Z
+lastCollected: 2026-04-07T18:39:19.660Z
 estimatedTokens: 101
-keywords: [Time, Series, Output, Confidence, Interval, High, Low, recipe, node]
+keywords: [Time, Series, Confidence, Interval, High, Low, recipe, node]
 ---
-
-# Time Series Output Confidence Interval High Low
 
 > A confidence interval for a time series recipe node.
 

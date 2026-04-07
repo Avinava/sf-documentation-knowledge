@@ -5,12 +5,10 @@ topic: list-object-picklist-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.773Z
+lastCollected: 2026-04-07T18:40:11.787Z
 estimatedTokens: 115
 keywords: [Picklist]
 ---
-
-# List Object Picklist Value
 
 > List object picklist value.
 

@@ -5,12 +5,10 @@ topic: components-available-in-unmanaged-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.916Z
+lastCollected: 2026-04-07T18:38:54.318Z
 estimatedTokens: 914
-keywords: [Components, Unmanaged, Packages, packaged, distribution]
+keywords: [Unmanaged, Packages, packaged, distribution]
 ---
-
-# Components Available in Unmanaged Packages
 
 > Not all components can be packaged for distribution.
 

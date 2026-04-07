@@ -5,12 +5,10 @@ topic: data-mapper-execution-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:51.158Z
+lastCollected: 2026-04-07T18:36:36.691Z
 estimatedTokens: 430
-keywords: [Data, Mapper, Execution, Options, Input, representation]
+keywords: [Mapper, Execution, Options]
 ---
-
-# Data Mapper Execution Options
 
 > Input representation of the optional parameters for the data mapper
     execution.

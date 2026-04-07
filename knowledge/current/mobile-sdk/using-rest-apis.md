@@ -5,12 +5,10 @@ topic: using-rest-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.710Z
+lastCollected: 2026-04-07T18:40:25.107Z
 estimatedTokens: 1275
-keywords: [REST, APIs, query, describe, data, Salesforce, org, Mobile, SDK, apps, call, honor, SOQL, SOSL, strings]
+keywords: [REST, APIs, query, describe, Salesforce, org, Mobile, SDK, apps, call, honor, SOQL, SOSL, strings, accept, either, JSON, XML, wraps, standard, requests, handle, Coding, Interactions, Checking, Status]
 ---
-
-# Using REST APIs
 
 > To query, describe, create, or update data from a Salesforce org, Mobile SDK apps call Salesforce REST APIs. Salesforce REST APIs honor SOQL and SOSL strings and can accept
 			and return data in either JSON or XML format. Mobile SDK wraps standard

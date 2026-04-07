@@ -5,12 +5,10 @@ topic: connectapirecordsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.215Z
+lastCollected: 2026-04-07T18:36:11.505Z
 estimatedTokens: 123
 keywords: [ConnectApi.RecordSnapshot, record, snapshot, recommendation, reaction]
 ---
-
-# ConnectApi.RecordSnapshot
 
 > A record snapshot in a recommendation reaction.
 

@@ -5,12 +5,10 @@ topic: paymentscheduletreatmentdtl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:58.671Z
+lastCollected: 2026-04-07T18:39:53.186Z
 estimatedTokens: 522
-keywords: [PaymentScheduleTreatmentDtl, configuration, payment, schedule, treatment, detail, API, version, 56.0, later]
+keywords: [PaymentScheduleTreatmentDtl, configuration, payment, schedule, treatment, detail, API, 56.0]
 ---
-
-# PaymentScheduleTreatmentDtl
 
 > Contains configuration information for the payment schedule treatment
          detail. This object is available in API version 56.0 and later.

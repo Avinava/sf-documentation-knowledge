@@ -5,12 +5,10 @@ topic: component-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.923Z
+lastCollected: 2026-04-07T18:36:54.294Z
 estimatedTokens: 855
-keywords: [Component, Attributes, convert, any, Lightning, Web, CRM, Analytics, adding, specific]
+keywords: [Attributes, convert, any, Lightning, Web, CRM, Analytics, adding, specific]
 ---
-
-# Component Attributes
 
 > You can convert any Lightning Web Component into a CRM Analytics Lightning Web Component
         by adding specific attributes.

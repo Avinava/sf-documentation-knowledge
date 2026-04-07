@@ -5,12 +5,10 @@ topic: prvdactvtygoalmeasureprodt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.711Z
+lastCollected: 2026-04-07T18:38:01.589Z
 estimatedTokens: 699
-keywords: [PrvdActvtyGoalMeasureProdt, products, associated, activity, goal, measure, API, version, 65.0, later, Calls, Objects]
+keywords: [PrvdActvtyGoalMeasureProdt, products, activity, goal, measure, API, 65.0]
 ---
-
-# PrvdActvtyGoalMeasureProdt
 
 > Represents the details of the products associated with the activity goal
          measure. This object is available in API version 65.0 and later.

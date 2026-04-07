@@ -5,12 +5,10 @@ topic: accountpartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.293Z
+lastCollected: 2026-04-07T18:39:24.215Z
 estimatedTokens: 402
 keywords: [AccountPartner, partner, relationship, two, Account, records, record, created, automatically, accounts, opportunity’s, opportunity]
 ---
-
-# AccountPartner
 
 > This object represents a partner relationship between two Account records. An AccountPartner record is created automatically when a Partner record is created for a partner relationship between two accounts. An AccountPartner record is also created automatically between an account and an opportunity’s account when a Partner record is created between an account and an opportunity.
 

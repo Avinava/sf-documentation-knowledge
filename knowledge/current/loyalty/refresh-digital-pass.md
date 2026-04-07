@@ -5,12 +5,10 @@ topic: refresh-digital-pass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.500Z
+lastCollected: 2026-04-07T18:38:08.808Z
 estimatedTokens: 955
-keywords: [Refresh, Digital, Pass, action, refreshes, party, configured, setup, trigger, corresponding, custom, invocable, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Examples, Refresh, Digital, Pass, action, refreshes, party, configured, setup, trigger, corresponding, invocable, REST, HTTP, template, Loyalty, Gift, Card]
 ---
-
-# Refresh Digital Pass
 
 > This action refreshes a digital pass to a specified party based on the
       configured digital pass setup. You can trigger the digital pass refresh using its

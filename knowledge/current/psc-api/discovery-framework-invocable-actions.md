@@ -5,12 +5,10 @@ topic: discovery-framework-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.284Z
+lastCollected: 2026-04-07T18:39:03.469Z
 estimatedTokens: 90
 keywords: [Discovery, Framework, Invocable, Actions, invoke, flow]
 ---
-
-# Discovery Framework Invocable Actions
 
 > Use actions to invoke Discovery Framework actions in a flow.
 

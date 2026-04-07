@@ -5,12 +5,10 @@ topic: cgcloudflattenaccounthierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.053Z
+lastCollected: 2026-04-07T18:39:13.455Z
 estimatedTokens: 2029
-keywords: [cgcloud__Flatten_Account_Hierarchy__c, stores, node, hierarchy, Customer, Segmentation, functionality, API, version, 54.0, later, cgcloud, _Flatten, _Account, _Hierarchy]
+keywords: [cgcloud__Flatten_Account_Hierarchy__c, stores, node, hierarchy, Customer, Segmentation, functionality, API, 54.0, cgcloud, _Flatten, _Account, _Hierarchy]
 ---
-
-# cgcloud__Flatten_Account_Hierarchy__c
 
 > This object stores node hierarchy information for the Customer
          Segmentation functionality. This object is available in API version 54.0 and later.

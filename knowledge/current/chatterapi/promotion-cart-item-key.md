@@ -5,12 +5,10 @@ topic: promotion-cart-item-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.200Z
+lastCollected: 2026-04-07T18:37:22.308Z
 estimatedTokens: 90
 keywords: [Promotion, Cart, Item, Key, bonus, product]
 ---
-
-# Promotion Cart Item Key
 
 > Cart Item key for a bonus product in a promotion.
 

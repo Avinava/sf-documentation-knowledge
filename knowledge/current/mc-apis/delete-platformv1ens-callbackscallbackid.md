@@ -5,12 +5,10 @@ topic: delete-platformv1ens-callbackscallbackid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.349Z
+lastCollected: 2026-04-07T18:40:16.489Z
 estimatedTokens: 241
-keywords: [platform, ens-callbacks, callbackId, Deletes, registered, callback, isn't, any, subscriptions, deleting, **Overview**, Usage, HTTP, Responses]
+keywords: [platform, ens-callbacks, callbackId, Deletes, registered, callback, isn't, any, subscriptions, deleting, **Overview**, HTTP, Responses]
 ---
-
-# DELETE /platform/v1/ens-callbacks/{callbackId}
 
 > Deletes a registered callback that isn't used by any subscriptions. Delete all subscriptions for the callback before deleting the callback.
 

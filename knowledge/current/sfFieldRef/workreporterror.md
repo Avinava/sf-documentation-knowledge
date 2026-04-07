@@ -5,12 +5,10 @@ topic: workreporterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.168Z
+lastCollected: 2026-04-07T18:40:07.081Z
 estimatedTokens: 350
-keywords: [WorkReportError, errors, Work, Report, Line, Item, API, version, 59.0, later]
+keywords: [WorkReportError, errors, Work, Report, Line, Item, API, 59.0]
 ---
-
-# WorkReportError
 
 > Represents errors in the Work Report through the Work Report Line Item
          object. This object is available in API version 59.0 and later.

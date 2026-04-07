@@ -6,13 +6,10 @@ topic: contact-point-email-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.428Z
+lastCollected: 2026-04-07T18:35:51.282Z
 estimatedTokens: 414
-keywords: [Contact, Point, Email, Schema, capture, profile, data, map, individual, streams]
+keywords: [Contact, Point, Email, Schema, capture, profile, map, individual, streams]
 ---
-
-# Contact
-  Point Email Schema
 
 > Use the contact point email schema to capture profile data to map to individual data
   streams.

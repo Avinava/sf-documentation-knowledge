@@ -5,12 +5,10 @@ topic: commerce-webstore-order-summary-lookup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.645Z
+lastCollected: 2026-04-07T18:37:12.532Z
 estimatedTokens: 1560
 keywords: [Commerce, Webstore, Order, Summary, Lookup, Look, including, line, items, relevant, amount]
 ---
-
-# Commerce Webstore Order Summary Lookup
 
 > Look up details about an order summary, including its line items and
       relevant order amount fields.

@@ -5,12 +5,10 @@ topic: userdailymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.235Z
+lastCollected: 2026-04-07T18:40:05.069Z
 estimatedTokens: 1024
 keywords: [UserDailyMetric, daily, engagement, metrics, user]
 ---
-
-# UserDailyMetric
 
 > Represents the daily engagement metrics for a user.
 

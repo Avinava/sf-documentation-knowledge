@@ -5,13 +5,11 @@ topic: quickaction-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.751Z
+lastCollected: 2026-04-07T18:36:15.063Z
 estimatedTokens: 1110
 namespace: QuickAction
 keywords: [QuickAction, classes, quick, actions]
 ---
-
-# QuickAction Namespace
 
 > The QuickAction namespace provides classes and
     methods for quick actions.

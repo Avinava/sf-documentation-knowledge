@@ -5,12 +5,10 @@ topic: investigate-report-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.754Z
+lastCollected: 2026-04-07T18:39:22.648Z
 estimatedTokens: 943
-keywords: [Investigate, Report, Anomalies, It's, often, necessary, further, anomaly, either, rule, benign, determine, data, breach, occurred]
+keywords: [Investigate, Report, Anomalies, It's, often, necessary, further, anomaly, either, rule, benign, determine, breach, occurred]
 ---
-
-# Investigate Report Anomalies
 
 > It's often necessary to further investigate a report anomaly to either rule it out as
     benign or to determine if a data breach occurred.

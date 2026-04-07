@@ -5,12 +5,10 @@ topic: appointmentschedulingevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.924Z
+lastCollected: 2026-04-07T18:39:20.699Z
 estimatedTokens: 695
-keywords: [AppointmentSchedulingEvent, Notifies, subscribers, appointment, schedule, added, updated, deleted, API, version, 50.0, later, Calls, Special, Access]
+keywords: [AppointmentSchedulingEvent, Notifies, subscribers, appointment, schedule, added, updated, deleted, API, 50.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# AppointmentSchedulingEvent
 
 > Notifies subscribers when an appointment schedule is added, updated, or
       deleted. This object is available in API version 50.0 and later.

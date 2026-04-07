@@ -5,12 +5,10 @@ topic: smart-data-discovery-complex-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.133Z
+lastCollected: 2026-04-07T18:36:58.643Z
 estimatedTokens: 86
-keywords: [Smart, Data, Discovery, Complex, Filter, Input, Einstein]
+keywords: [Smart, Discovery, Complex, Filter, Einstein]
 ---
-
-# Smart Data Discovery Complex Filter Input
 
 > The complex filter input for Einstein Discovery.
 

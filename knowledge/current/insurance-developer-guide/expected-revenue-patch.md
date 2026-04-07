@@ -5,12 +5,10 @@ topic: expected-revenue-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.541Z
+lastCollected: 2026-04-07T18:37:51.589Z
 estimatedTokens: 487
-keywords: [Expected, Revenue, PATCH, Calculate, derived, Insurance, Rate, Plan, Commission, flat, fee, percentage, premium, equivalent, amount]
+keywords: [Expected, Revenue, PATCH, Calculate, derived, Insurance, Rate, Plan, Commission, flat, fee, percentage, premium, equivalent, amount, rolled, Coverage, Policy]
 ---
-
-# Expected Revenue (PATCH)
 
 > Calculate the expected revenue, derived both from an Insurance Rate Plan Commission
     object, such as a flat fee and percentage premium, and the premium, fee, or premium equivalent

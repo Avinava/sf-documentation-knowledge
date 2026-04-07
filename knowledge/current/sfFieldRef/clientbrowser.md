@@ -5,12 +5,10 @@ topic: clientbrowser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.625Z
+lastCollected: 2026-04-07T18:39:34.057Z
 estimatedTokens: 251
-keywords: [ClientBrowser, cookie, added, browser, upon, login, includes, application, inserted, version, 28.0, later]
+keywords: [ClientBrowser, cookie, added, browser, upon, login, includes, application, inserted, 28.0]
 ---
-
-# ClientBrowser
 
 > Represents a cookie added to the browser upon login, and also includes
    information about the browser application where the cookie was inserted. This object is

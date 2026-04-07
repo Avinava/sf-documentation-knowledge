@@ -5,12 +5,10 @@ topic: schema-field-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.952Z
+lastCollected: 2026-04-07T18:39:18.677Z
 estimatedTokens: 113
-keywords: [Schema, Input, node, recipe]
+keywords: [Schema, node, recipe]
 ---
-
-# Schema Field Parameters Input
 
 > The field parameters for a schema node in a recipe.
 

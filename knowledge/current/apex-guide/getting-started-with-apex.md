@@ -5,12 +5,10 @@ topic: getting-started-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.608Z
+lastCollected: 2026-04-07T18:36:17.841Z
 estimatedTokens: 253
 keywords: [Getting, Started, Apex, development, lifecycle, Follow, step-by-step, tutorial, trigger, deploy, production, organization]
 ---
-
-# Getting Started with Apex
 
 > Learn about the Apex development lifecycle. Follow a step-by-step tutorial to create
         an Apex class and trigger, and deploy them to a production organization.

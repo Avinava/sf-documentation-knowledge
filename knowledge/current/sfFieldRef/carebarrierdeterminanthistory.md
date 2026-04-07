@@ -5,12 +5,10 @@ topic: carebarrierdeterminanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.194Z
+lastCollected: 2026-04-07T18:39:31.535Z
 estimatedTokens: 273
-keywords: [CareBarrierDeterminantHistory, History, tracked, CareBarrierDeterminant]
+keywords: [CareBarrierDeterminantHistory, tracked, CareBarrierDeterminant]
 ---
-
-# CareBarrierDeterminantHistory
 
 > History for tracked fields of CareBarrierDeterminant.
 

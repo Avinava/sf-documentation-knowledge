@@ -5,12 +5,10 @@ topic: tabdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.894Z
+lastCollected: 2026-04-07T18:40:03.628Z
 estimatedTokens: 327
-keywords: [TabDefinition, custom, tab, tabs, current, user, access, API, version, 43.0, later]
+keywords: [TabDefinition, tab, tabs, current, user, API, 43.0]
 ---
-
-# TabDefinition
 
 > Represents a custom tab. Returns only the tabs that the current user
 			has access to. This object is available in API version 43.0 and later.

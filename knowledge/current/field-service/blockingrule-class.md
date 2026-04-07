@@ -5,13 +5,11 @@ topic: blockingrule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.552Z
+lastCollected: 2026-04-07T18:36:46.399Z
 estimatedTokens: 526
 namespace: FSL
-keywords: [BlockingRule, holds, array, blocking, rules, AppointmentInsightsResult, getAppointmentInsights, ScheduleService, Usage]
+keywords: [BlockingRule, holds, array, blocking, AppointmentInsightsResult, getAppointmentInsights, ScheduleService]
 ---
-
-# BlockingRule Class
 
 > Represents a global class that holds an array of blocking rules. .
         BlockingRule is a required  parameter for AppointmentInsightsResult, which

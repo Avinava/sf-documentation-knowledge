@@ -5,12 +5,10 @@ topic: act-on-security-review-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.516Z
+lastCollected: 2026-04-07T18:38:47.464Z
 estimatedTokens: 350
-keywords: [Act, Security, Review, Results, Approximately, 4–6, weeks, submit, solution, initial, Check, AppExchange, Partner, Console, passed]
+keywords: [Act, Security, Review, Results, Approximately, 4–6, weeks, submit, solution, initial, Check, AppExchange, Partner, Console, passed, how, publicly, follow-up, didn’t]
 ---
-
-# Act on Security Review Results
 
 > Approximately 4–6 weeks after you submit a solution for an initial review, your
   security review is complete. Check the AppExchange Partner Console to see if your solution passed.

@@ -5,12 +5,10 @@ topic: apievent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.718Z
+lastCollected: 2026-04-07T18:38:58.606Z
 estimatedTokens: 3819
-keywords: [ApiEvent, Tracks, user-initiated, read-only, API, calls, query, queryMore, count, Captures, requests, SOAP, Bulk, Enterprise, Partner]
+keywords: [ApiEvent, Tracks, user-initiated, read-only, API, query, queryMore, count, Captures, requests, SOAP, Bulk, Enterprise, Partner, WSDLs, Tooling, originating, Salesforce, mobile, app, aren’t, captured, transaction, security, policy, big, stores, event, ApiEventStream, 46.0, Working, AdditionalInfo, How, Pass, Additional, HTTP, cURL, Java, Standard, SOQL, Unfiltered, Filtered]
 ---
-
-# ApiEvent
 
 > Tracks these user-initiated read-only API calls: query(), queryMore(),
          and count(). Captures API requests through SOAP API

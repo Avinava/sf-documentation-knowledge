@@ -5,12 +5,10 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.042Z
+lastCollected: 2026-04-07T18:37:54.344Z
 estimatedTokens: 241
-keywords: [Track, keywords, Salesforce, Knowledge, article, searches, TRACKING, clause, Determine, how, hits, had, VIEWSTAT, Article’s, Keyword]
+keywords: [Track, keywords, Salesforce, Knowledge, article, searches, clause, Determine, how, hits, had, VIEWSTAT, Article’s, Keyword, SOQL]
 ---
-
-# UPDATE
 
 > Track keywords that are used in Salesforce Knowledge article searches by using the
       UPDATE TRACKING optional clause. Determine how many hits

@@ -5,12 +5,10 @@ topic: individualapplnparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.781Z
+lastCollected: 2026-04-07T18:39:06.908Z
 estimatedTokens: 818
-keywords: [IndividualApplnParticipant, user, group, participants, access, individual, application, API, version, 59.0, later, Calls, Special, Rules, Associated]
+keywords: [IndividualApplnParticipant, user, group, participants, individual, application, API, 59.0]
 ---
-
-# IndividualApplnParticipant
 
 > Represents information about a user or group of participants who have
       access to a individual application. This object is available in API version 59.0 and

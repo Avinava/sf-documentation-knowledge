@@ -5,12 +5,10 @@ topic: standardvaluesettranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.463Z
+lastCollected: 2026-04-07T18:36:29.884Z
 estimatedTokens: 568
-keywords: [StandardValueSetTranslation, standard, picklist, translation, translated, set.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [StandardValueSetTranslation, standard, picklist, translation, translated, set.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# StandardValueSetTranslation
 
 > Contains details for a standard picklist
       translation. It returns a translated standard value set.This type extends the Metadata metadata type and inherits its fullName field.

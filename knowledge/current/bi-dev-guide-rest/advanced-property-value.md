@@ -5,12 +5,10 @@ topic: advanced-property-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.034Z
+lastCollected: 2026-04-07T18:36:56.597Z
 estimatedTokens: 89
 keywords: [Advanced, pair]
 ---
-
-# Advanced Property Value
 
 > An advanced property name and value pair.
 

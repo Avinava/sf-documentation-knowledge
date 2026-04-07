@@ -5,12 +5,10 @@ topic: aiinsightfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.897Z
+lastCollected: 2026-04-07T18:39:23.832Z
 estimatedTokens: 361
-keywords: [AIInsightFeedback, Einstein, prediction, insight, feedback, API, version, 47.0, later]
+keywords: [AIInsightFeedback, Einstein, prediction, insight, feedback, API, 47.0]
 ---
-
-# AIInsightFeedback
 
 > Represents an Einstein prediction insight feedback. This object is
     available in API version 47.0 and later.

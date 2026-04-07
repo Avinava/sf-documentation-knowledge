@@ -5,12 +5,10 @@ topic: fulfillmentworkspaceitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.324Z
+lastCollected: 2026-04-07T18:35:49.274Z
 estimatedTokens: 404
-keywords: [FulfillmentWorkspaceItem, attributes, definition, fulfillment, step, group, API, version, 61.0, later, Calls]
+keywords: [FulfillmentWorkspaceItem, attributes, definition, fulfillment, step, group, API, 61.0]
 ---
-
-# FulfillmentWorkspaceItem
 
 > Represents information about the attributes that are used in the
          definition for a fulfillment step group. This object is available in API version 61.0

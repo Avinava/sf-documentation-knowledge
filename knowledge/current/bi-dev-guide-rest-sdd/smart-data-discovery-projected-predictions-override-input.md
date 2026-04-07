@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-override-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.356Z
+lastCollected: 2026-04-07T18:36:58.854Z
 estimatedTokens: 277
-keywords: [Smart, Data, Discovery, Projected, Predictions, Override, Input, deploy, time, transformation, overrides]
+keywords: [Smart, Discovery, Projected, Predictions, Override, deploy, time, transformation, overrides]
 ---
-
-# Smart Data Discovery Projected Predictions Override Input
 
 > The input for deploy time projected predictions transformation overrides.
 

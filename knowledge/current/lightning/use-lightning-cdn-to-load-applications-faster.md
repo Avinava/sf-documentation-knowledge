@@ -5,12 +5,10 @@ topic: use-lightning-cdn-to-load-applications-faster
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.700Z
+lastCollected: 2026-04-07T18:38:04.846Z
 estimatedTokens: 669
-keywords: [Lightning, CDN, Load, Applications, Faster, Experience, content, delivery, network, enabled, org, serves, component, framework]
+keywords: [Lightning, CDN, Load, Applications, Faster, Experience, content, delivery, network, enabled, org, serves, framework]
 ---
-
-# Use Lightning CDN to Load Applications Faster
 
 > To load Lightning Experience faster, the Lightning content delivery network (CDN) is
   enabled for your org by default. The Lightning CDN serves static content for the Lightning

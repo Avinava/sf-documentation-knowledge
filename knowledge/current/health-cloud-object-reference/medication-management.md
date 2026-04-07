@@ -5,12 +5,10 @@ topic: medication-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.461Z
+lastCollected: 2026-04-07T18:37:42.609Z
 estimatedTokens: 1079
-keywords: [Medication, Management, data, model, objects, enable, providers, care, coordinators, clinicians, perform, reconciliation, therapy, review, their]
+keywords: [Medication, Management, model, enable, providers, care, coordinators, clinicians, perform, reconciliation, therapy, review, their, patients’, regimen, managing, reconciliations, recommendations, comprehensive, targeted, reviews, conducted, patients]
 ---
-
-# Medication Management
 
 > The Medication Management data model provides objects to enable providers, care
   coordinators, and clinicians to perform a medication reconciliation and medication therapy review

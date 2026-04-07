@@ -5,12 +5,10 @@ topic: tenantsecurityguestuseranomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.656Z
+lastCollected: 2026-04-07T18:38:42.405Z
 estimatedTokens: 1392
-keywords: [TenantSecurityGuestUserAnomaly, metric, guest, user, anomaly, events, detected, Threat, Detection, API, version, 60.0, later, Calls, Special]
+keywords: [TenantSecurityGuestUserAnomaly, metric, guest, user, anomaly, events, detected, Threat, Detection, API, 60.0]
 ---
-
-# TenantSecurityGuestUserAnomaly
 
 > Represents metric details for guest user anomaly events detected by Threat
          Detection. This object is available in API version 60.0 and later.

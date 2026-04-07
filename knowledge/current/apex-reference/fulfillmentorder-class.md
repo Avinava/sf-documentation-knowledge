@@ -5,13 +5,11 @@ topic: fulfillmentorder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.770Z
+lastCollected: 2026-04-07T18:35:58.105Z
 estimatedTokens: 2091
 namespace: ConnectApi
-keywords: [FulfillmentOrder, Cancel, FulfillmentOrderLineItems, action, doesn’t, associated, OrderItemSummaries, reallocate, canceled, quantities, new, cancelFulfillmentOrderLineItems, fulfillmentOrderId, cancelFulfillmentOrderLineItemsInput, API]
+keywords: [FulfillmentOrder, Cancel, FulfillmentOrderLineItems, action, doesn’t, OrderItemSummaries, reallocate, canceled, quantities, new, cancelFulfillmentOrderLineItems, fulfillmentOrderId, cancelFulfillmentOrderLineItemsInput, API, Requires, Chatter, createFulfillmentOrders, fulfillmentOrderInput, createInvoice, invoiceInput, createMultipleFulfillmentOrder, multipleFulfillmentOrderInput, createMultipleInvoices, invoicesInput]
 ---
-
-# FulfillmentOrder Class
 
 > Cancel FulfillmentOrderLineItems from a FulfillmentOrder. This
       action doesn’t cancel the associated OrderItemSummaries, so reallocate the canceled quantities

@@ -5,12 +5,10 @@ topic: configure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.606Z
+lastCollected: 2026-04-07T18:40:15.711Z
 estimatedTokens: 446
-keywords: [Configure, account, SOAP, accepts, array, objects, act, upon, result, Therefore, web, service, client, subscriber, attributes]
+keywords: [Configure, account, SOAP, accepts, array, act, upon, result, Therefore, web, service, client, subscriber, attributes, definitio, Items]
 ---
-
-# Configure
 
 > Use the Configure method to configure an account. Like many other SOAP methods, the Configure method accepts an array of objects to act upon and returns one result object for each object in the array. Therefore, a web service client can create one or many subscriber attributes (or property definitio
 

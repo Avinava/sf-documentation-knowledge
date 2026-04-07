@@ -5,12 +5,10 @@ topic: lowerstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.408Z
+lastCollected: 2026-04-07T18:37:02.015Z
 estimatedTokens: 70
 keywords: [lower, str, copy, cased, characters, converted, lowercase]
 ---
-
-# lower(str)
 
 > Returns a copy of string str with all cased characters converted to
   lowercase.

@@ -5,12 +5,10 @@ topic: interest-tags-delete-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.672Z
+lastCollected: 2026-04-07T18:39:01.817Z
 estimatedTokens: 572
 keywords: [Interest, Tags, POST, Tag, IDs, Retrieve, category]
 ---
-
-# Interest Tags (DELETE, GET, POST)
 
 > Create an Interest Tag. Delete Interest Tags by the tag IDs.
       Retrieve a list of Interest Tags by a category ID.

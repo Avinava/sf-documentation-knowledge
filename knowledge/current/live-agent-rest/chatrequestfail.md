@@ -5,12 +5,10 @@ topic: chatrequestfail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.137Z
+lastCollected: 2026-04-07T18:38:06.407Z
 estimatedTokens: 52
 keywords: [ChatRequestFail, chat, successful]
 ---
-
-# ChatRequestFail
 
 > Indicates that the chat request was not successful.
 

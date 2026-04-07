@@ -5,12 +5,10 @@ topic: submit-return-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.117Z
+lastCollected: 2026-04-07T18:37:23.234Z
 estimatedTokens: 219
-keywords: [Submit, Output, change, order, created, action, financial]
+keywords: [Submit, change, order, created, action, financial]
 ---
-
-# Submit Return Output
 
 > ID of the change order created for a return action, and a set of its
       financial values.

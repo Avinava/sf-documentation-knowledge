@@ -5,12 +5,10 @@ topic: publish-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.104Z
+lastCollected: 2026-04-07T18:37:33.460Z
 estimatedTokens: 209
-keywords: [Publish, LWR, Site, Unlike, Aura, sites, any, time, unchanged, changing, organization’s, schema, updating, component, changes]
+keywords: [Publish, LWR, Site, Unlike, Aura, sites, any, time, unchanged, changing, organization’s, schema, updating, changes, live, Otherwise, break, runtime]
 ---
-
-# Publish Your LWR Site
 
 > Unlike with Aura sites, you can publish your LWR site at any time, even when the site
     is unchanged. When changing your organization’s schema or updating a component used in an LWR

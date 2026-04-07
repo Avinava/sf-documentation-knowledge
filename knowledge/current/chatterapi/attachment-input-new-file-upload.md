@@ -5,12 +5,10 @@ topic: attachment-input-new-file-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.513Z
+lastCollected: 2026-04-07T18:37:07.223Z
 estimatedTokens: 312
-keywords: [Attachment, Input, New, File, Upload]
+keywords: [Attachment, New, File, Upload]
 ---
-
-# Attachment Input: New File Upload
 
 > New file upload attachment input.
 

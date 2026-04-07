@@ -5,12 +5,10 @@ topic: get-started-with-the-journey-specification
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.291Z
+lastCollected: 2026-04-07T18:40:17.453Z
 estimatedTokens: 3685
-keywords: [Started, Journey, Specification, structured, JSON, representation, Builder, scale, meet, massive, enterprise, demands, event-driven, one-to-one, cloud]
+keywords: [Structure, Started, Journey, Specification, structured, JSON, Builder, scale, meet, massive, enterprise, demands, event-driven, one-to-one, cloud, applications, offer, benefits, developers, considerations, Spec, hierarchy, Event, Activity, Outcome, Goal, Items]
 ---
-
-# Get Started with the Journey Specification
 
 > The Journey Specification is a structured JSON representation of a single journey in Journey Builder. It allows Journey Builder to scale to meet the massive enterprise demands that true, event-driven, one-to-one cloud applications offer.
 

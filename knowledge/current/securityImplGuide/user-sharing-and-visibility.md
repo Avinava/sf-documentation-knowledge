@@ -5,12 +5,10 @@ topic: user-sharing-and-visibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.147Z
+lastCollected: 2026-04-07T18:39:23.083Z
 estimatedTokens: 354
 keywords: [User, Sharing, Visibility, show, hide, internal, external, another, organization]
 ---
-
-# User Sharing and Visibility
 
 > User Sharing enables you to show or hide an internal or external user from another user
     in your organization.

@@ -5,12 +5,10 @@ topic: using-test-setup-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:33.375Z
+lastCollected: 2026-04-07T18:36:18.604Z
 estimatedTokens: 858
-keywords: [Test, Setup, annotated, @testSetup, records, once, access, every, time-saving, prerequisite, data, common, operate, Considerations]
+keywords: [Test, Setup, annotated, @testSetup, records, once, every, time-saving, prerequisite, common, operate, Considerations]
 ---
-
-# Using Test Setup Methods
 
 > Use test setup methods (methods that are annotated with @testSetup) to create test records once and then
             access them in every test method in the test class. Test setup methods can be

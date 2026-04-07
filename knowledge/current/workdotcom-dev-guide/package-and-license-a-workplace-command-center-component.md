@@ -5,12 +5,10 @@ topic: package-and-license-a-workplace-command-center-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.950Z
+lastCollected: 2026-04-07T18:40:13.921Z
 estimatedTokens: 206
-keywords: [Package, License, Workplace, Command, Center, Component, extend, functionality, solution, that’s, installed, Work.com, deciding, how, consider]
+keywords: [Package, License, Workplace, Command, Center, extend, functionality, solution, that’s, installed, Work.com, deciding, how, consider, features, impact, dependencies]
 ---
-
-# Package and License a Workplace Command Center Component
 
 > To extend Workplace Command Center functionality, you package a solution that’s
   installed where Work.com and the Workplace Command Center package are installed. When deciding how

@@ -5,12 +5,10 @@ topic: connectapiengagementinteractiondetailsoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.471Z
+lastCollected: 2026-04-07T18:39:00.572Z
 estimatedTokens: 513
-keywords: [Output, representation, fetch, engagement, interaction, record]
+keywords: [fetch, engagement, interaction, record]
 ---
-
-# ConnectApi.EngagementInteractionDetailsOutput
 
 > Output representation to fetch an engagement interaction
     record.

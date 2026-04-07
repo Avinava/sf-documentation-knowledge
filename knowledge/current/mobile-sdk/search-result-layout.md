@@ -5,12 +5,10 @@ topic: search-result-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.182Z
+lastCollected: 2026-04-07T18:40:27.378Z
 estimatedTokens: 176
-keywords: [Search, Result, Layout, objects, query, iOS, Android]
+keywords: [Android, Search, Result, Layout, query, iOS]
 ---
-
-# Search Result Layout
 
 > Gets the search result layout for up to 100 objects with a single query.
 

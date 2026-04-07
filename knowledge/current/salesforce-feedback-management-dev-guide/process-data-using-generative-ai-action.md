@@ -5,12 +5,10 @@ topic: process-data-using-generative-ai-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.163Z
+lastCollected: 2026-04-07T18:39:16.756Z
 estimatedTokens: 352
-keywords: [Process, Data, Generative, Action, Einstein, perform, Natural, Language, Processing, NLP, summarize, text, extract, key, phrases]
+keywords: [Inputs, Outputs, Process, Generative, Action, Einstein, perform, Natural, Language, Processing, NLP, summarize, text, extract, key, phrases, analyze, sentiment, unlock, valuable, insights, REST, HTTP]
 ---
-
-# Process Data Using Generative AI Action
 
 > Using Einstein Generative AI, perform Natural Language Processing
             (NLP) to summarize text, extract key phrases, analyze sentiment, and unlock valuable

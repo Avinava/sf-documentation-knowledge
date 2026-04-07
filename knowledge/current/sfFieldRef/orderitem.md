@@ -5,12 +5,10 @@ topic: orderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.438Z
+lastCollected: 2026-04-07T18:39:50.843Z
 estimatedTokens: 491
 keywords: [OrderItem, order, product, organization, sells]
 ---
-
-# OrderItem
 
 > Represents an order product that your organization
 		sells.

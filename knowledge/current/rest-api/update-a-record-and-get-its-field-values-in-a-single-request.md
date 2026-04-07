@@ -6,13 +6,10 @@ topic: update-a-record-and-get-its-field-values-in-a-single-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.569Z
+lastCollected: 2026-04-07T18:36:19.787Z
 estimatedTokens: 207
 keywords: [Record, Composite, Batch, resource, execute, multiple, requests, API, call]
 ---
-
-# Update a Record and Get Its Field Values in a Single
-        Request
 
 > Use the Composite Batch resource to execute multiple requests in a single API
         call.

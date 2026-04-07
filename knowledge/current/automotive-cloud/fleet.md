@@ -5,12 +5,10 @@ topic: fleet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.415Z
+lastCollected: 2026-04-07T18:36:52.832Z
 estimatedTokens: 980
-keywords: [Fleet, group, assets, vehicles, commercial, transport, operations, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [Fleet, group, assets, vehicles, commercial, transport, operations, API, 59.0]
 ---
-
-# Fleet
 
 > Represents a group of assets or vehicles used in commercial or transport
          operations. This object is available in API version 59.0 and later.

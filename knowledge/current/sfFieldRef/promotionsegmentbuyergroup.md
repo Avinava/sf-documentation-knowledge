@@ -5,12 +5,10 @@ topic: promotionsegmentbuyergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.673Z
+lastCollected: 2026-04-07T18:39:57.254Z
 estimatedTokens: 356
-keywords: [PromotionSegmentBuyerGroup, promotion, segment, associated, buyer, group, B2B, Commerce, API, version, 52.0, later]
+keywords: [PromotionSegmentBuyerGroup, promotion, segment, buyer, group, B2B, Commerce, API, 52.0]
 ---
-
-# PromotionSegmentBuyerGroup
 
 > Represents a promotion segment, associated with a buyer group, and used for
          B2B Commerce. This object is available in API version 52.0 and later.

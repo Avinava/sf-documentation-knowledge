@@ -5,12 +5,10 @@ topic: configuration-save-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.817Z
+lastCollected: 2026-04-07T18:35:45.809Z
 estimatedTokens: 177
-keywords: [Configuration, Save, Output, representation, saved]
+keywords: [Configuration, Save, saved]
 ---
-
-# Configuration Save Details
 
 > Output representation of the details of a saved configuration.
 

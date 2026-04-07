@@ -5,12 +5,10 @@ topic: document-management-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.708Z
+lastCollected: 2026-04-07T18:37:40.690Z
 estimatedTokens: 262
-keywords: [Document, Management, Input, representation, split]
+keywords: [Document, Management, split]
 ---
-
-# Document Management Input
 
 > Input representation for the document split request.
 

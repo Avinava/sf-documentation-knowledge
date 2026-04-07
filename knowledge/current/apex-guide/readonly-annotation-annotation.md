@@ -5,12 +5,10 @@ topic: readonly-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.048Z
+lastCollected: 2026-04-07T18:36:16.268Z
 estimatedTokens: 515
-keywords: [ReadOnly, Annotation, @ReadOnly, perform, less, restrictive, queries, against, Lightning, Platform, database, increasing, limit, number, rows]
+keywords: [ReadOnly, Annotation, @ReadOnly, perform, less, restrictive, queries, against, Lightning, Platform, database, increasing, limit, number, rows, limits, apply, blocks, operations, reque, Versioned, Behavior, Changes]
 ---
-
-# ReadOnly Annotation Annotation
 
 > The @ReadOnly annotation allows you to
     perform less restrictive queries against the Lightning Platform database by increasing the limit

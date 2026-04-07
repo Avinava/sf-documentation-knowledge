@@ -5,12 +5,9 @@ topic: related-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.839Z
+lastCollected: 2026-04-07T18:40:10.807Z
 estimatedTokens: 296
-keywords: [Input]
 ---
-
-# Related List Input
 
 > A related list to update.
 

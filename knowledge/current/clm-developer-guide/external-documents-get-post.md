@@ -5,12 +5,10 @@ topic: external-documents-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.026Z
+lastCollected: 2026-04-07T18:37:24.987Z
 estimatedTokens: 491
 keywords: [External, Documents, POST, document]
 ---
-
-# External Documents (GET, POST)
 
 > Get information about external document details and
     update.

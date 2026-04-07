@@ -5,12 +5,10 @@ topic: healthcarefacility
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.201Z
+lastCollected: 2026-04-07T18:37:56.631Z
 estimatedTokens: 4593
-keywords: [HealthcareFacility, healthcare, facility, may, physical, functional, geographic, business, API, version, 51.0, later, Calls, Additional, Objects]
+keywords: [HealthcareFacility, healthcare, facility, may, physical, functional, geographic, business, API, 51.0, Additional]
 ---
-
-# HealthcareFacility
 
 > Represents a healthcare facility and all its related details. These details may
       be physical, functional, geographic, or business details. This object is available in API

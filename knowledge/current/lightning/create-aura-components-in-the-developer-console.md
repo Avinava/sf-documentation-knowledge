@@ -5,12 +5,10 @@ topic: create-aura-components-in-the-developer-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.110Z
+lastCollected: 2026-04-07T18:38:03.092Z
 estimatedTokens: 625
-keywords: [Aura, Components, Developer, Console, convenient, built-in, tool, new, edit, bundles]
+keywords: [Aura, Developer, Console, convenient, built-in, tool, new, edit, bundles]
 ---
-
-# Create Aura Components in the Developer Console
 
 > The Developer Console is a convenient, built-in tool you can use to create new and
         edit existing Aura components and other bundles.

@@ -5,12 +5,10 @@ topic: loyaltyprogramprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:53.201Z
+lastCollected: 2026-04-07T18:39:47.624Z
 estimatedTokens: 419
 keywords: [LoyaltyProgramProcess, loyalty, program, processes, determine, how, transaction, journals, processed]
 ---
-
-# LoyaltyProgramProcess
 
 > Represents information about loyalty program processes that determine how
          transaction journals are processed.

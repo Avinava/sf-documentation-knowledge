@@ -5,12 +5,10 @@ topic: parentid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.823Z
+lastCollected: 2026-04-07T18:37:34.339Z
 estimatedTokens: 33
 keywords: [parentId, parent, record, alert]
 ---
-
-# parentId
 
 > The parent ID of the record alert.
 

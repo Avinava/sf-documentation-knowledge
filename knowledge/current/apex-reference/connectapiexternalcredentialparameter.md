@@ -5,12 +5,10 @@ topic: connectapiexternalcredentialparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.689Z
+lastCollected: 2026-04-07T18:36:09.083Z
 estimatedTokens: 397
 keywords: [ConnectApi.ExternalCredentialParameter, External, credential]
 ---
-
-# ConnectApi.ExternalCredentialParameter
 
 > External credential parameter.
 

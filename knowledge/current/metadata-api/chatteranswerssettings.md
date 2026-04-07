@@ -5,12 +5,10 @@ topic: chatteranswerssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.128Z
+lastCollected: 2026-04-07T18:36:23.427Z
 estimatedTokens: 1137
-keywords: [ChatterAnswersSettings, metadata, manage, settings, Chatter, Answers, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition, Wildcard]
+keywords: [ChatterAnswersSettings, metadata, manage, settings, Chatter, Answers, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ChatterAnswersSettings
 
 > Represents the metadata used to manage settings
             for Chatter Answers.

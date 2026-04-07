@@ -5,12 +5,10 @@ topic: developing-with-salesforce-knowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.658Z
+lastCollected: 2026-04-07T18:37:53.948Z
 estimatedTokens: 139
-keywords: [Developing, Salesforce, Knowledge, gives, website, visitors, clients, partners, service, agents, ultimate, support, manage, company, securely]
+keywords: [Developing, Salesforce, Knowledge, gives, website, visitors, clients, partners, service, agents, ultimate, support, manage, company, securely, share, needed, features, declarative, let, point-and-click, way, successful, implementation, However, API, code, case, deflection, happier, customers, productive, discusses, Lightning, Classic]
 ---
-
-# Developing with Salesforce Knowledge
 
 > Salesforce Knowledge gives your website visitors, clients, partners, and service agents
   the ultimate in support. You can create and manage your company information and securely share it

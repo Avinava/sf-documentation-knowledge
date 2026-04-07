@@ -6,13 +6,10 @@ topic: parameters-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.882Z
+lastCollected: 2026-04-07T18:36:54.259Z
 estimatedTokens: 7922
 keywords: [key, control, appearance, widget, including, chart, unique]
 ---
-
-# parameters
-        Properties
 
 > The parameters key contains a list of properties
         that control the appearance of the widget. Each widget type, including each chart type,

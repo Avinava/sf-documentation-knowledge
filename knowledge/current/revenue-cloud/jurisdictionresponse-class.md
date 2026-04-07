@@ -5,13 +5,11 @@ topic: jurisdictionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.857Z
+lastCollected: 2026-04-07T18:35:40.673Z
 estimatedTokens: 1315
 namespace: CommerceTax
-keywords: [JurisdictionResponse, Stores, external, tax, engine, jurisdiction, calculation, process, government, entity, collects, setCountry, country, setId, setLevel]
+keywords: [JurisdictionResponse, Stores, external, tax, engine, jurisdiction, calculation, process, government, entity, collects, setCountry, country, setId, setLevel, level, setName, setRegion, region, setStateAssignedNumber, stateAssignedNo]
 ---
-
-# JurisdictionResponse Class
 
 > Stores details from the external tax engine about the tax
       jurisdiction used in the tax calculation process. A tax jurisdiction represents a government

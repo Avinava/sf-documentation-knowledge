@@ -5,12 +5,10 @@ topic: dependency-detail-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.382Z
+lastCollected: 2026-04-07T18:39:02.598Z
 estimatedTokens: 205
-keywords: [Dependency, Detail, Output, representation, expression, version, dependencies]
+keywords: [Dependency, Detail, expression, dependencies]
 ---
-
-# Dependency Detail Output
 
 > Output representation of the  expression set version
       dependencies.

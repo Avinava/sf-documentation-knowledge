@@ -6,13 +6,10 @@ topic: accessing-connectapi-data-in-experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.677Z
+lastCollected: 2026-04-07T18:36:16.891Z
 estimatedTokens: 316
-keywords: [Accessing, ConnectApi, Data, Experience, Cloud, Sites, work, context, site]
+keywords: [Accessing, ConnectApi, Experience, Cloud, Sites, work, context, site]
 ---
-
-# Accessing ConnectApi Data in Experience Cloud
-      Sites
 
 > Many ConnectApi methods work within the context
       of a single Experience Cloud site.

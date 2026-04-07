@@ -5,12 +5,10 @@ topic: connectapiexternalmanagedaccountcollectionoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.729Z
+lastCollected: 2026-04-07T18:36:09.118Z
 estimatedTokens: 103
 keywords: [Collection, externally, managed, accounts]
 ---
-
-# ConnectApi.ExternalManagedAccountCollectionOutput
 
 > Collection of externally managed accounts.
 

@@ -5,12 +5,10 @@ topic: vpl360cancelasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.146Z
+lastCollected: 2026-04-07T18:38:11.438Z
 estimatedTokens: 192
-keywords: [VPL360_CancelAsset, Integration, Procedure, initiates, cancellation, active, asset, customer, self, care, VPL360, _CancelAsset, Sample, Input, Output]
+keywords: [VPL360_CancelAsset, Integration, Procedure, initiates, cancellation, active, asset, customer, self, care, VPL360, _CancelAsset, Sample]
 ---
-
-# VPL360_CancelAsset
 
 > This Integration Procedure initiates the cancellation of an
       active asset for a customer in self care.

@@ -5,12 +5,10 @@ topic: sharingrecordcollectionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.434Z
+lastCollected: 2026-04-07T18:38:41.098Z
 estimatedTokens: 230
-keywords: [SharingRecordCollectionItem, record, collection, records, API, version, 51.0, later, Calls]
+keywords: [SharingRecordCollectionItem, record, collection, records, API, 51.0]
 ---
-
-# SharingRecordCollectionItem
 
 > Represents a single record in a collection of records. This object is available in API version 51.0 and later.
 

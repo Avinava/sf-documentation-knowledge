@@ -5,12 +5,10 @@ topic: get-resources-for-manual-scheduling-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.616Z
+lastCollected: 2026-04-07T18:37:39.562Z
 estimatedTokens: 1037
-keywords: [Resources, Manual, Scheduling, Action, Recommend, manually, schedule, start, care, visit, recurring, visits, Special, Access, Rules]
+keywords: [Inputs, Outputs, Resources, Manual, Scheduling, Action, Recommend, manually, schedule, start, care, visit, recurring, visits, REST, HTTP]
 ---
-
-# Get Resources for Manual Scheduling Action
 
 > Recommend resources to use when you manually schedule a start of
             care visit or recurring visits.

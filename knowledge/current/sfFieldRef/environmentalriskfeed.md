@@ -5,12 +5,10 @@ topic: environmentalriskfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.099Z
+lastCollected: 2026-04-07T18:39:39.749Z
 estimatedTokens: 361
-keywords: [EnvironmentalRiskFeed, Feed, tracking, EnvironmentalRisk]
+keywords: [EnvironmentalRiskFeed, EnvironmentalRisk]
 ---
-
-# EnvironmentalRiskFeed
 
 > Feed tracking for EnvironmentalRisk.
 

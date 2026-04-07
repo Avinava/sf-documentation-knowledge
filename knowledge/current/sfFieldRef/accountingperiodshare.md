@@ -5,12 +5,10 @@ topic: accountingperiodshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.419Z
+lastCollected: 2026-04-07T18:39:24.369Z
 estimatedTokens: 251
 keywords: [AccountingPeriodShare, Sharing, AccountingPeriod]
 ---
-
-# AccountingPeriodShare
 
 > Sharing for AccountingPeriod.
 

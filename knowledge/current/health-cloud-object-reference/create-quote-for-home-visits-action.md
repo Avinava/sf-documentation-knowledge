@@ -5,12 +5,10 @@ topic: create-quote-for-home-visits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.574Z
+lastCollected: 2026-04-07T18:37:39.517Z
 estimatedTokens: 705
-keywords: [Quote, Home, Visits, Action, patient, visit, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Quote, Home, Visits, Action, patient, visit, REST, HTTP]
 ---
-
-# Create Quote for Home Visits Action
 
 > Create a quote for patient home visits based on the specified visit
             details.

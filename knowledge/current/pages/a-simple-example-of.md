@@ -5,12 +5,10 @@ topic: a-simple-example-of
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.898Z
+lastCollected: 2026-04-07T18:38:52.210Z
 estimatedTokens: 578
-keywords: [Simple, short, demonstrates, two, pieces, functionality, implement, Remote, Objects]
+keywords: [Simple, short, demonstrates, two, pieces, functionality, implement, Remote]
 ---
-
-# A Simple Example of
 
 > This short example demonstrates the two pieces of functionality you need to implement
         to use Remote Objects.

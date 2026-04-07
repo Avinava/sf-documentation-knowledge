@@ -5,12 +5,10 @@ topic: insurance-billing-schedules-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.605Z
+lastCollected: 2026-04-07T18:37:51.661Z
 estimatedTokens: 282
 keywords: [Insurance, Billing, Schedules, POST, policy, transactions, generate, financial, records, lifecycle, events]
 ---
-
-# Insurance Billing Schedules (POST)
 
 > Create billing schedules from insurance policy transactions to generate financial
         records for policy lifecycle events.

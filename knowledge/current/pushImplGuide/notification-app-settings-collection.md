@@ -5,12 +5,10 @@ topic: notification-app-settings-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.869Z
+lastCollected: 2026-04-07T18:39:09.185Z
 estimatedTokens: 77
 keywords: [Notification, App, Settings, Collection]
 ---
-
-# Notification App Settings Collection
 
 > Notification app settings.
 

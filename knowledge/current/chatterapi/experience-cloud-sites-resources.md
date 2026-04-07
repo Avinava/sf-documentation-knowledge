@@ -5,12 +5,10 @@ topic: experience-cloud-sites-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:25.907Z
+lastCollected: 2026-04-07T18:37:12.806Z
 estimatedTokens: 246
 keywords: [Experience, Cloud, Sites, Resources, site, publish, Builder, templates, context, user, externally, managed, accounts]
 ---
-
-# Experience Cloud Sites Resources
 
 > Get information about Experience Cloud sites, create
       a site, and publish a site. Get the Experience Builder templates available to the context

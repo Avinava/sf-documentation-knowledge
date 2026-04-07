@@ -5,12 +5,10 @@ topic: accountparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.286Z
+lastCollected: 2026-04-07T18:39:24.208Z
 estimatedTokens: 267
-keywords: [AccountParticipantHistory, History, tracked, AccountParticipant]
+keywords: [AccountParticipantHistory, tracked, AccountParticipant]
 ---
-
-# AccountParticipantHistory
 
 > History for tracked fields of AccountParticipant.
 

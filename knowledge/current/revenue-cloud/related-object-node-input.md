@@ -5,12 +5,10 @@ topic: related-object-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.830Z
+lastCollected: 2026-04-07T18:35:43.739Z
 estimatedTokens: 244
-keywords: [Node, Input, representation]
+keywords: [Node]
 ---
-
-# Related Object Node Input
 
 > Input representation of the details of a related object node.
 

@@ -5,13 +5,11 @@ topic: flowapprovalprocesses-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.758Z
+lastCollected: 2026-04-07T18:35:58.094Z
 estimatedTokens: 497
 namespace: ConnectApi
-keywords: [FlowApprovalProcesses, status, actions, flow, approval, processes, getFlowApprovalProcessWithStatus, relatedRecordId, processNames, API, Version, Requires, Chatter]
+keywords: [FlowApprovalProcesses, status, actions, flow, approval, processes, getFlowApprovalProcessWithStatus, relatedRecordId, processNames, API, Requires, Chatter]
 ---
-
-# FlowApprovalProcesses Class
 
 > Get the status and available actions for flow approval processes.
 

@@ -5,12 +5,10 @@ topic: order-summaries-ensure-funds-async
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.615Z
+lastCollected: 2026-04-07T18:37:15.677Z
 estimatedTokens: 1284
-keywords: [Order, Summaries, Ensure, Funds, Async, Invoice, apply, define, sequence, capture, payments, needed, authorized, sending, payment]
+keywords: [Order, Summaries, Ensure, Funds, Async, Invoice, apply, define, sequence, capture, payments, needed, authorized, sending, payment, provider, inserts, background, operation, asynchronous, job, queue, track, status, gateway, responses, appear, log, affect]
 ---
-
-# Order Summaries, Ensure Funds Async
 
 > Ensure funds for an Invoice and apply them to it and optional define
       a sequence to capture payments in. If needed, capture authorized funds by sending a request to

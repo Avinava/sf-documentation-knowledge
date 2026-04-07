@@ -5,12 +5,10 @@ topic: managedeventsubscription-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.019Z
+lastCollected: 2026-04-07T18:36:33.428Z
 estimatedTokens: 1338
-keywords: [ManagedEventSubscription, Beta, managed, event, subscription, Pub, Sub, API, track, events, subscriber, client, consumed, resume, left]
+keywords: [ManagedEventSubscription, Beta, managed, event, subscription, Pub, Sub, API, track, events, subscriber, client, consumed, resume, left, off, 60.0, SOAP, REST]
 ---
-
-# ManagedEventSubscription (Beta)
 
 > Represents a managed event subscription in Pub/Sub API. Use a managed event
          subscription to track the events that a subscriber client consumed and resume a

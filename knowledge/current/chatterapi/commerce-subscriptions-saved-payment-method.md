@@ -5,12 +5,10 @@ topic: commerce-subscriptions-saved-payment-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.170Z
+lastCollected: 2026-04-07T18:37:12.004Z
 estimatedTokens: 559
-keywords: [Commerce, Subscriptions, Saved, Payment, associated, specific, subscription, API, registered, buyers]
+keywords: [Commerce, Subscriptions, Saved, Payment, specific, subscription, API, registered, buyers]
 ---
-
-# Commerce Subscriptions, Saved Payment Method
 
 > Update the saved payment method associated with a specific Commerce
       subscription. This API is available only to registered buyers.

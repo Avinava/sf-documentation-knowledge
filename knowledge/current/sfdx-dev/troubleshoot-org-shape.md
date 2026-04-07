@@ -5,12 +5,10 @@ topic: troubleshoot-org-shape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.531Z
+lastCollected: 2026-04-07T18:40:08.485Z
 estimatedTokens: 1031
-keywords: [Troubleshoot, Org, Shape, issues, encounter, Scratch, Orgs, Features, Captured, Service, Aren't, Enabled, DevOps, Center, Isn’t]
+keywords: [Troubleshoot, Org, Shape, issues, encounter, Scratch, Orgs, Features, Captured, Service, Aren't, Enabled, DevOps, Center, Isn’t, ERROR, running, force, Can't, Digital, Experience, Cloud, Site, Creating, Shift, Status, Picklists, Aren’t, Populated, Feature, Accepts, 15-Character, IDs]
 ---
-
-# Troubleshoot Org Shape
 
 > Here are some issues you can encounter when using Org Shape for Scratch Orgs.
 

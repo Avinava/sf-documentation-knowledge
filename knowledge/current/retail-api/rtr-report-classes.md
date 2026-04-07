@@ -5,12 +5,10 @@ topic: rtr-report-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.082Z
+lastCollected: 2026-04-07T18:39:10.542Z
 estimatedTokens: 653
-keywords: [RTR, Report, Classes, report-related, APEX, provide, programmatic, access, TPM, Real, Time, Reporting, data]
+keywords: [RTR, Report, Classes, report-related, APEX, provide, programmatic, TPM, Real, Time, Reporting]
 ---
-
-# RTR Report Classes
 
 > The RTR report-related APEX classes provide programmatic access to the TPM Real Time
         Reporting (RTR) report data.

@@ -5,12 +5,10 @@ topic: claim-participant-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.860Z
+lastCollected: 2026-04-07T18:37:50.764Z
 estimatedTokens: 281
-keywords: [Claim, Participant, Input, representation]
+keywords: [Claim, Participant]
 ---
-
-# Claim Participant Input
 
 > Input representation for a claim participant.
 

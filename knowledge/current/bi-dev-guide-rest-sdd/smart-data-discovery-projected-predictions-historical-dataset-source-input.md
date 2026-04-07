@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-historical-dataset-source-inpu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.351Z
+lastCollected: 2026-04-07T18:36:58.849Z
 estimatedTokens: 124
-keywords: [Smart, Data, Discovery, Projected, Predictions, Historical, Dataset, Source, Input, transformation]
+keywords: [Smart, Discovery, Projected, Predictions, Historical, Dataset, Source, transformation]
 ---
-
-# Smart Data Discovery Projected Predictions Historical Dataset Source Input
 
 > The input for projected predictions transformation.
 

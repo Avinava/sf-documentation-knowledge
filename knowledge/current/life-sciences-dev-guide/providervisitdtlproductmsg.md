@@ -5,12 +5,10 @@ topic: providervisitdtlproductmsg
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.634Z
+lastCollected: 2026-04-07T18:38:01.506Z
 estimatedTokens: 1162
-keywords: [ProviderVisitDtlProductMsg, delivered, messages, reactions, health, care, provider, products, discussed, visit, API, version, 65.0, later, Calls]
+keywords: [ProviderVisitDtlProductMsg, delivered, messages, reactions, health, care, provider, products, discussed, visit, API, 65.0]
 ---
-
-# ProviderVisitDtlProductMsg
 
 > Represents delivered messages and reactions from the health care provider for
          products discussed during a visit. This object is available in API version 65.0 and

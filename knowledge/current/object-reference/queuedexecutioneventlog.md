@@ -5,12 +5,10 @@ topic: queuedexecutioneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.879Z
+lastCollected: 2026-04-07T18:38:39.425Z
 estimatedTokens: 1159
-keywords: [QueuedExecutionEventLog, Queued, Execution, events, contain, executions—for, batch, Apex, API, version, 65.0, later, Calls, Special, Access]
+keywords: [QueuedExecutionEventLog, Queued, Execution, events, contain, executions—for, batch, Apex, API, 65.0]
 ---
-
-# QueuedExecutionEventLog
 
 > Queued Execution events contain details about queued executions—for example,
          batch Apex. This object is available in API version 65.0 and later.

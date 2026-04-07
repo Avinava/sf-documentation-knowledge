@@ -5,12 +5,10 @@ topic: configure-permissions-for-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.567Z
+lastCollected: 2026-04-07T18:38:53.881Z
 estimatedTokens: 464
-keywords: [Configure, Permissions, License, Management, App, Determine, needs, access, LMA, Consider, permission, assign, user]
+keywords: [Configure, Permissions, License, Management, App, Determine, needs, LMA, Consider, permission, assign, user]
 ---
-
-# Configure Permissions for the License Management App
 
 > Determine who needs access to the License Management App (LMA), and set object
   permissions. Consider using a permission set to assign user permissions.

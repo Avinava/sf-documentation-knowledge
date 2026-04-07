@@ -5,12 +5,10 @@ topic: post-messagingv1emailmessages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:24.920Z
+lastCollected: 2026-04-07T18:40:20.141Z
 estimatedTokens: 1000
-keywords: [POST, messaging, email, messages, message, multiple, recipients, send, definition, provide, messageKey, otherwise, automatically, generated, limit]
+keywords: [POST, messaging, email, messages, message, multiple, recipients, send, definition, provide, messageKey, otherwise, automatically, generated, limit, per, attributes, recommend, recip, **Overview**, Mixed, Responses, HTTP]
 ---
-
-# POST /messaging/v1/email/messages/
 
 > Sends a message to multiple recipients using a send definition. You can provide a messageKey in the request; otherwise, the messageKey is automatically generated in the response. The limit is 2000 recipients per request. If you send attributes with the recipients, we recommend no more than 500 recip
 

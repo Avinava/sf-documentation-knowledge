@@ -2,7 +2,7 @@
 domain: api
 name: SOAP API Developer GuideSOA
 documentCount: 0
-lastGenerated: 2026-04-07T09:06:35.597Z
+lastGenerated: 2026-04-07T18:40:41.057Z
 ---
 
 # SOAP API Developer GuideSOA — Knowledge Index

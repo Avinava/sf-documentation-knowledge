@@ -5,12 +5,10 @@ topic: sustainabilitypurchaseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.697Z
+lastCollected: 2026-04-07T18:40:03.410Z
 estimatedTokens: 254
 keywords: [SustainabilityPurchaseShare, Sharing, SustainabilityPurchase]
 ---
-
-# SustainabilityPurchaseShare
 
 > Sharing for SustainabilityPurchase.
 

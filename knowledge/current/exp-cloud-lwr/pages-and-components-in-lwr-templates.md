@@ -5,12 +5,10 @@ topic: pages-and-components-in-lwr-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.246Z
+lastCollected: 2026-04-07T18:37:33.641Z
 estimatedTokens: 862
-keywords: [Pages, Components, LWR, Templates, Build, Own, Microsite, Experience, Cloud, provide, essential, out-of-the-box, Site, Light, DOM]
+keywords: [Pages, LWR, Templates, Build, Own, Microsite, Experience, Cloud, provide, essential, out-of-the-box, Site, Light, DOM, Standard]
 ---
-
-# Pages and Components in LWR Templates
 
 > The Build Your Own (LWR) and the Microsite (LWR) templates in Experience Cloud provide
     only the most essential out-of-the-box pages and components.

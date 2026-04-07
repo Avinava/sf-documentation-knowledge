@@ -5,12 +5,10 @@ topic: run-apex-on-package-uninstall
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.776Z
+lastCollected: 2026-04-07T18:38:53.068Z
 estimatedTokens: 489
-keywords: [Run, Apex, Package, Uninstall, App, developers, specify, script, automatically, subscriber, uninstalls, managed, possible, perform, cleanup]
+keywords: [Run, Apex, Package, Uninstall, App, developers, specify, script, automatically, subscriber, uninstalls, managed, possible, perform, cleanup, notification, tasks, subscriber’s, organization, simplicity, member]
 ---
-
-# Run Apex on Package Uninstall
 
 > App developers can specify an Apex script to run automatically after a subscriber
   uninstalls a managed package. This script makes it possible to perform cleanup and notification

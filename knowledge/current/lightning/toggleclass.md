@@ -5,12 +5,10 @@ topic: toggleclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.472Z
+lastCollected: 2026-04-07T18:38:05.683Z
 estimatedTokens: 78
-keywords: [toggleClass, Toggles, adds, removes, CSS, component, Sample, Code]
+keywords: [toggleClass, Toggles, adds, removes, CSS, Sample, Code]
 ---
-
-# toggleClass()
 
 > Toggles (adds or removes) a CSS class from a
   component.

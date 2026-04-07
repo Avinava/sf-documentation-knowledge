@@ -5,12 +5,10 @@ topic: escape-rendered-content-tag-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.995Z
+lastCollected: 2026-04-07T18:40:22.381Z
 estimatedTokens: 135
-keywords: [Escape, Rendered, Content, Tag, escapes, any, message, text, html, renders, HTML-escaped, include, character, enclose, variable]
+keywords: [Escape, Rendered, Content, Tag, escapes, any, message, text, html, renders, HTML-escaped, include, character, enclose, variable, curly, brackets, render, un-escaped]
 ---
-
-# Escape Rendered Content Tag Syntax
 
 > Guide escapes any rendered content based on the content type for your message. For example, within a text/html message, Guide renders that content as HTML-escaped. You can include an & character or enclose the variable with single curly brackets {} to render the content as un-escaped:
 

@@ -5,12 +5,10 @@ topic: benefitdisbursementadj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.886Z
+lastCollected: 2026-04-07T18:39:05.867Z
 estimatedTokens: 888
-keywords: [BenefitDisbursementAdj, changes, enrollee's, benefit, made, monetary, non-monetary, similar, units, measure, API, version, 56.0, later, Calls]
+keywords: [BenefitDisbursementAdj, changes, enrollee's, benefit, made, monetary, non-monetary, similar, units, measure, API, 56.0]
 ---
-
-# BenefitDisbursementAdj
 
 > Represents the changes of an enrollee's benefit that can be made as
          monetary or non-monetary with similar units of measure. This object is available in

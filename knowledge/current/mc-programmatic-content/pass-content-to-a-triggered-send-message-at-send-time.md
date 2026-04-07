@@ -5,12 +5,10 @@ topic: pass-content-to-a-triggered-send-message-at-send-time
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.257Z
+lastCollected: 2026-04-07T18:40:22.672Z
 estimatedTokens: 605
 keywords: [Pass, Content, Triggered, Send, Message, Time, manipulate, Construct, variables, variable, XML, email, NET, Code, AMPscript]
 ---
-
-# Pass Content to a Triggered Send Message at Send Time
 
 > Pass content to a triggered send message at send time so that the triggered send can manipulate that content. Construct a triggered send with variables and pass the content to those variables at send time. In this example, the variable contains information in an XML format so that the email message 
 

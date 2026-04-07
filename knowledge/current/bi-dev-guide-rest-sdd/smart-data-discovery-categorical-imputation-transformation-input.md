@@ -5,12 +5,10 @@ topic: smart-data-discovery-categorical-imputation-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.114Z
+lastCollected: 2026-04-07T18:36:58.627Z
 estimatedTokens: 181
-keywords: [Smart, Data, Discovery, Categorical, Imputation, Transformation, Input, identify]
+keywords: [Smart, Discovery, Categorical, Imputation, Transformation, identify]
 ---
-
-# Smart Data Discovery Categorical Imputation Transformation Input
 
 > The input to identify the transformation as categorical imputation.
 

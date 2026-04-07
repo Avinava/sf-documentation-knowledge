@@ -5,12 +5,10 @@ topic: application-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.479Z
+lastCollected: 2026-04-07T18:38:02.402Z
 estimatedTokens: 85
-keywords: [Application, Access, Control, attribute, aura, tag, whether, app, outside, app’s]
+keywords: [Application, Control, attribute, aura, tag, whether, app, outside, app’s]
 ---
-
-# Application Access Control
 
 > The access attribute on the aura:application tag controls whether the app
                 can be used outside of the app’s namespace.

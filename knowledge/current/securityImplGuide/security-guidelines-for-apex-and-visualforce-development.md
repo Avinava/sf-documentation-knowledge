@@ -6,13 +6,10 @@ topic: security-guidelines-for-apex-and-visualforce-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.926Z
+lastCollected: 2026-04-07T18:39:22.845Z
 estimatedTokens: 3724
-keywords: [Security, Guidelines, Apex, Visualforce, Development, Understand, guard, against, vulnerabilities, code, develop, custom, applications, Understanding, Cross-Site]
+keywords: [Security, Guidelines, Apex, Visualforce, Development, Understand, guard, against, vulnerabilities, code, develop, applications, Understanding, Cross-Site, Scripting, XSS, Protection, Disabling, Escape, Tags, Programming, Items, Protected, JavaScript, <apex, includeScript>, Formula, Forgery, CSRF, SOQL, Injection, Vulnerability, Defenses, Control]
 ---
-
-# Security Guidelines for Apex and Visualforce
-        Development
 
 > Understand and guard against vulnerabilities in your
             code as you develop custom applications.

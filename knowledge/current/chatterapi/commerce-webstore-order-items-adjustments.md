@@ -5,12 +5,10 @@ topic: commerce-webstore-order-items-adjustments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.620Z
+lastCollected: 2026-04-07T18:37:12.506Z
 estimatedTokens: 284
 keywords: [Commerce, Webstore, Order, Items, Adjustments]
 ---
-
-# Commerce Webstore Order Items, Adjustments
 
 > Get adjustments for  order items.
 

@@ -5,12 +5,10 @@ topic: expected-revenue-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.055Z
+lastCollected: 2026-04-07T18:37:52.194Z
 estimatedTokens: 185
-keywords: [Expected, Revenue, Policy, Output, representation, associated, coverages, rate, plans]
+keywords: [Expected, Revenue, Policy, coverages, rate, plans]
 ---
-
-# Expected Revenue Policy
 
 > Output representation of the associated expected revenue details for a policy, such as
     coverages and rate plans.

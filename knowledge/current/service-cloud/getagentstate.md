@@ -5,12 +5,10 @@ topic: getagentstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.135Z
+lastCollected: 2026-04-07T18:36:49.205Z
 estimatedTokens: 199
-keywords: [getAgentState, agent's, current, Chat, status, Online, Away, Offline, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getAgentState, agent's, current, Chat, status, Online, Away, Offline, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# getAgentState()
 
 > Returns the agent's current Chat status, such as Online, Away, or Offline. Available in API version 29.0 or
             later.

@@ -5,12 +5,10 @@ topic: get-contactsv1contactsactionsdeletestatusoperationid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.919Z
+lastCollected: 2026-04-07T18:40:14.940Z
 estimatedTokens: 1189
-keywords: [contacts, actions, status?operationID=, Retrieves, status, contact, deletion, operation, **Overview**, Usage, GetStatusRoute, Operations, Completed, Suppression, ‘Delete]
+keywords: [contacts, actions, status?operationID=, Retrieves, status, contact, deletion, operation, **Overview**, GetStatusRoute, Operations, Completed, Suppression, ‘Delete, Phase’, Processing]
 ---
-
-# GET /contacts/v1/contacts/actions/delete/status?operationID=
 
 > Retrieves status of contact deletion operation.
 

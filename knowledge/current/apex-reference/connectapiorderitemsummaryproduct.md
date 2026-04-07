@@ -5,12 +5,10 @@ topic: connectapiorderitemsummaryproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.300Z
+lastCollected: 2026-04-07T18:36:10.591Z
 estimatedTokens: 229
 keywords: [ConnectApi.OrderItemSummaryProduct, Product, item, mapped, order, summary]
 ---
-
-# ConnectApi.OrderItemSummaryProduct
 
 > Product item mapped to the order item summary.
 

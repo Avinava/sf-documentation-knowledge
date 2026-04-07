@@ -5,12 +5,10 @@ topic: --dxp-styling-hooks-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.840Z
+lastCollected: 2026-04-07T18:37:33.127Z
 estimatedTokens: 887
-keywords: [--dxp, Styling, Hooks, LWR, Sites, hook, affects, base, custom, Lightning, web, components, throughout, site, Experience]
+keywords: [--dxp, Styling, Hooks, LWR, Sites, hook, affects, base, Lightning, web, throughout, site, Experience, Cloud]
 ---
-
-# --dxp Styling Hooks in LWR Sites
 
 > With --dxp styling hooks, you can set a single
     hook that affects both base and custom Lightning web components throughout your LWR site in

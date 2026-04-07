@@ -5,12 +5,10 @@ topic: packaging-action-overrides
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.381Z
+lastCollected: 2026-04-07T18:38:03.400Z
 estimatedTokens: 324
-keywords: [Packaging, Action, Overrides, custom, objects, automatically, packaged, standard, can’t]
+keywords: [Packaging, Action, Overrides, automatically, packaged, standard, can’t]
 ---
-
-# Packaging Action Overrides
 
 > Action overrides for custom objects are automatically packaged with the custom object.
     Action overrides for standard objects can’t be packaged.

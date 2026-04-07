@@ -5,13 +5,11 @@ topic: evaluationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.980Z
+lastCollected: 2026-04-07T18:36:35.465Z
 estimatedTokens: 901
 namespace: ComplianceMgmt
 keywords: [EvaluationResult, compliance, evaluation, result, three, properties—isCompliant, complianceMessage, complianceLogMessage, isCompliant, complianceMessageLog, getComplianceMessage, getComplianceMessageLog, getIsCompliant]
 ---
-
-# EvaluationResult Class
 
 > Represents the object that contains the details of the compliance evaluation result. It
         contains three properties—isCompliant, complianceMessage, and

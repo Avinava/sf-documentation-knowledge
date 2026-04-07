@@ -5,12 +5,10 @@ topic: samplerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.213Z
+lastCollected: 2026-04-07T18:38:14.616Z
 estimatedTokens: 845
-keywords: [SampleRequest, product, samples, including, customer, account, date, status, API, version, 65.0, later, Calls]
+keywords: [SampleRequest, product, samples, including, customer, account, date, status, API, 65.0]
 ---
-
-# SampleRequest
 
 > Represents a request for product samples, including customer account details,
       request date and status. This object is available in API version 65.0 and

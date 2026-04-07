@@ -5,12 +5,10 @@ topic: accountuserterritory2view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.715Z
+lastCollected: 2026-04-07T18:38:24.582Z
 estimatedTokens: 311
-keywords: [AccountUserTerritory2View, view, Users, Assigned, Territories, Lightning, Experience, Sales, API, version, 42.0, later, Calls, Special, Access]
+keywords: [AccountUserTerritory2View, view, Users, Assigned, Territories, Lightning, Experience, Sales, API, 42.0]
 ---
-
-# AccountUserTerritory2View
 
 > Represents the view of the Users in Assigned Territories related list
 			in Lightning Experience for Sales Territories. Available in API version 42.0 and

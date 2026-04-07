@@ -5,12 +5,10 @@ topic: connectapiupdateclaimcoverageinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.285Z
+lastCollected: 2026-04-07T18:37:50.122Z
 estimatedTokens: 196
-keywords: [ConnectApi.UpdateClaimCoverageInputRep, Input, representation, claim, coverage, action]
+keywords: [ConnectApi.UpdateClaimCoverageInputRep, claim, coverage, action]
 ---
-
-# ConnectApi.UpdateClaimCoverageInputRep
 
 > Input representation for the update claim coverage action.
 

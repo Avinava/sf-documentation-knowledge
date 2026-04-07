@@ -5,12 +5,10 @@ topic: building-a-synchronous-gateway-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.622Z
+lastCollected: 2026-04-07T18:36:16.841Z
 estimatedTokens: 951
-keywords: [Building, Synchronous, Gateway, Adapter, payment, configurations, Salesforce, platform, transaction, waits, final, status, creates, successful, PaymentGatewayAdapter]
+keywords: [PaymentGatewayAdapter, Building, Synchronous, Gateway, Adapter, payment, configurations, Salesforce, platform, transaction, waits, final, status, creates, successful, Processing, Initial]
 ---
-
-# Building a Synchronous Gateway Adapter
 
 > In synchronous payment configurations, the Salesforce payment platform sends
         transaction information to the gateway, and then waits for a gateway response that contains

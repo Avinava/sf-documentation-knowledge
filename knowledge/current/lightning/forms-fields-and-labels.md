@@ -5,12 +5,10 @@ topic: forms-fields-and-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.537Z
+lastCollected: 2026-04-07T18:38:02.465Z
 estimatedTokens: 485
-keywords: [Forms, Labels, Input, components, designed, easy, assign, form, build, programmatic, relationship, textual, label, placeholder, component]
+keywords: [Forms, Labels, designed, easy, assign, form, build, programmatic, relationship, textual, label, placeholder, attribute, accessibility]
 ---
-
-# Forms, Fields, and Labels
 
 > Input components are designed to make it easy to assign labels to form fields. Labels build a
       programmatic relationship between a form field and its textual label. When using a placeholder

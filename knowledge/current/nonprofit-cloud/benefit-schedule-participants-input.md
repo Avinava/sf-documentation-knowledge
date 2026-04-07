@@ -5,12 +5,10 @@ topic: benefit-schedule-participants-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.679Z
+lastCollected: 2026-04-07T18:38:20.398Z
 estimatedTokens: 125
-keywords: [Benefit, Schedule, Participants, Input, representation, add]
+keywords: [Benefit, Schedule, Participants, add]
 ---
-
-# Benefit Schedule Participants Input
 
 > Input representation of the request to add participants to a benefit
       schedule.

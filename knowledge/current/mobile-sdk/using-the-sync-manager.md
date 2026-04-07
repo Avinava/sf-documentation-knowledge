@@ -5,12 +5,10 @@ topic: using-the-sync-manager
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.251Z
+lastCollected: 2026-04-07T18:40:25.613Z
 estimatedTokens: 833
-keywords: [Sync, Manager, handles, simple, down, operations, authenticated, requests, server, behalf, stores, data, locally, SmartStore, collects]
+keywords: [Sync, Manager, handles, simple, down, operations, authenticated, requests, server, behalf, stores, locally, SmartStore, collects, records, specify, merges, cor, States, Instantiation, iOS, Android]
 ---
-
-# Using the Sync Manager
 
 > The sync manager object handles simple sync up and sync down operations. For sync down, it
    sends authenticated requests to the server on your behalf, and stores response data locally in

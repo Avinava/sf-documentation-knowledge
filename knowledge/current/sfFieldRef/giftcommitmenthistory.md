@@ -5,12 +5,10 @@ topic: giftcommitmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.935Z
+lastCollected: 2026-04-07T18:39:42.573Z
 estimatedTokens: 262
-keywords: [GiftCommitmentHistory, History, tracked, GiftCommitment]
+keywords: [GiftCommitmentHistory, tracked, GiftCommitment]
 ---
-
-# GiftCommitmentHistory
 
 > History for tracked fields of GiftCommitment.
 

@@ -5,12 +5,10 @@ topic: sample-integration-link-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.368Z
+lastCollected: 2026-04-07T18:40:12.390Z
 estimatedTokens: 780
-keywords: [Sample, Integration, Link, Formulas, links, Application, API, Shipment, Tracking, Skype™, Auto, Dialer]
+keywords: [Sample, Integration, Link, Formulas, links, Application, API, Shipment, Skype™, Auto, Dialer]
 ---
-
-# Sample Integration Link Formulas
 
 > Use these formulas for integration links.
 

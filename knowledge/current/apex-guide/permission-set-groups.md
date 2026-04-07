@@ -5,12 +5,10 @@ topic: permission-set-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.906Z
+lastCollected: 2026-04-07T18:36:18.134Z
 estimatedTokens: 368
 keywords: [Permission, Groups, provide, Apex, test, coverage, write, tests, calculatePermissionSetGroup, System.Test]
 ---
-
-# Permission Set Groups
 
 > To provide Apex test coverage for permission set groups, write tests using the calculatePermissionSetGroup() method in the System.Test class.
 

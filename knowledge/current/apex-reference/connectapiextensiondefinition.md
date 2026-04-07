@@ -5,12 +5,10 @@ topic: connectapiextensiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.610Z
+lastCollected: 2026-04-07T18:36:09.014Z
 estimatedTokens: 331
 keywords: [ConnectApi.ExtensionDefinition, extension's, definition]
 ---
-
-# ConnectApi.ExtensionDefinition
 
 > An extension's definition.
 

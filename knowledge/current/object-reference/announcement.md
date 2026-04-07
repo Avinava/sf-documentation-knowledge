@@ -5,12 +5,10 @@ topic: announcement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.449Z
+lastCollected: 2026-04-07T18:38:25.359Z
 estimatedTokens: 789
-keywords: [Announcement, Chatter, group, API, version, 30.0, later, Calls, Usage]
+keywords: [Announcement, Chatter, group, API, 30.0]
 ---
-
-# Announcement
 
 > Represents a Chatter group announcement. This object is available
   in API version 30.0 and later.

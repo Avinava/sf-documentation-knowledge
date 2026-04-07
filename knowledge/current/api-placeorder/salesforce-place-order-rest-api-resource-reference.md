@@ -5,12 +5,10 @@ topic: salesforce-place-order-rest-api-resource-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.815Z
+lastCollected: 2026-04-07T18:36:51.109Z
 estimatedTokens: 242
 keywords: [Salesforce, Place, Order, REST, API, Resource, URI, HTTP]
 ---
-
-# Salesforce Place Order REST API Resource Reference
 
 > Each Salesforce Place Order REST API resource is a URI used with an HTTP method (such
     as GET).

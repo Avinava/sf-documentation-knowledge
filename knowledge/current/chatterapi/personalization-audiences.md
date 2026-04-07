@@ -5,12 +5,10 @@ topic: personalization-audiences
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.139Z
+lastCollected: 2026-04-07T18:37:15.185Z
 estimatedTokens: 803
 keywords: [Personalization, Audiences, assigned, match, user, context, audience]
 ---
-
-# Personalization Audiences
 
 > Get a list of assigned audiences that match the user context. Create
       an audience.

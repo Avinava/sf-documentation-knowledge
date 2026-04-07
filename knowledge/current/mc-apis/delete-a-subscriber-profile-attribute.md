@@ -5,12 +5,10 @@ topic: delete-a-subscriber-profile-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.498Z
+lastCollected: 2026-04-07T18:40:16.641Z
 estimatedTokens: 597
 keywords: [Subscriber, Profile, Attribute, deleting, SOAP, API, Why, How, Sample, Java, Code, Axis, 1.4]
 ---
-
-# Delete a Subscriber Profile Attribute
 
 > This page contains information  about deleting a subscriber profile attribute using the SOAP API.
 

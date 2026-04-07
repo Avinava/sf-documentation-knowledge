@@ -5,12 +5,10 @@ topic: apex-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.291Z
+lastCollected: 2026-04-07T18:39:10.770Z
 estimatedTokens: 209
 keywords: [APEX, Configuration, order, customize, Promotion, Save, process, layer, introduce, callable, customization, hook]
 ---
-
-# APEX Configuration
 
 > In order to customize the Promotion Save process in
     APEX layer, you must introduce a callable APEX class as a customization hook.

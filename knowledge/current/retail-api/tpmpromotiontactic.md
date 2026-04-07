@@ -5,12 +5,10 @@ topic: tpmpromotiontactic
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.887Z
+lastCollected: 2026-04-07T18:39:11.425Z
 estimatedTokens: 160
-keywords: [TPM_Promotion.Tactic, promotion, template, products, copied, components, Filter, Criteria, empty, rule, filters, Product, removing, longer, period]
+keywords: [TPM_Promotion.Tactic, promotion, template, products, copied, Filter, Criteria, empty, rule, filters, Product, removing, longer, period, TPM, _Promotion.Tactic, resetTactic2, manageTacticProductFilterCopy2]
 ---
-
-# TPM_Promotion.Tactic
 
 > If promotion template does not have products as copied components, the Filter Criteria is empty. This rule filters the Product Filter Criteria by removing products that are no longer
     valid for the promotion period.

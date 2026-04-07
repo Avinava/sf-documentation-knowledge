@@ -5,12 +5,10 @@ topic: connecting-to-the-soap-api-using-python
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.640Z
+lastCollected: 2026-04-07T18:40:15.753Z
 estimatedTokens: 1156
-keywords: [Connecting, SOAP, API, Python, connection, test, calls, perform, various, tasks, sending, email, retrieving, tracking, Why]
+keywords: [Connecting, SOAP, API, Python, connection, test, perform, various, tasks, sending, email, retrieving, Why, Connect, How, Generating, Client, Stubs, Sample, Code, namespaces, urn, above, surrounded, tag, mapping, original, mappings, ElementSOAP, insufficient, Running]
 ---
-
-# Connecting to the SOAP API using Python
 
 > Use the connection to the SOAP API to test your calls and perform various tasks, such as sending email and retrieving tracking information.
 

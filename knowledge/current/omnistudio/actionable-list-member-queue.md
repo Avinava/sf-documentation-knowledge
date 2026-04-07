@@ -5,12 +5,10 @@ topic: actionable-list-member-queue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:52.969Z
+lastCollected: 2026-04-07T18:36:38.630Z
 estimatedTokens: 109
-keywords: [Actionable, Member, Queue, Output, representation]
+keywords: [Actionable, Member, Queue]
 ---
-
-# Actionable List Member Queue
 
 > Output representation of the actionable list member queue details.
 

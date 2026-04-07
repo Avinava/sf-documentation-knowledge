@@ -5,12 +5,10 @@ topic: package-versions-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.860Z
+lastCollected: 2026-04-07T18:38:53.171Z
 estimatedTokens: 797
-keywords: [Package, Versions, First-Generation, Managed, Packages, version, number, identifies, components, uploaded, majorNumber.minorNumber.patchNumber, 2.1.3]
+keywords: [Package, Versions, First-Generation, Managed, Packages, number, identifies, uploaded, majorNumber.minorNumber.patchNumber, 2.1.3]
 ---
-
-# Package Versions in First-Generation Managed Packages
 
 > A package version is a number that identifies the set of components uploaded in a
     package. The version number has the format

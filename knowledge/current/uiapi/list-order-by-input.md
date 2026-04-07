@@ -5,12 +5,10 @@ topic: list-order-by-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.753Z
+lastCollected: 2026-04-07T18:40:10.729Z
 estimatedTokens: 302
-keywords: [Order, Input, describing, how, supports, sorting]
+keywords: [Order, describing, how, supports, sorting]
 ---
-
-# List Order By Input
 
 > Information describing how to order a related list. This request
       body supports sorting related lists only by one field. Use this request body to update a

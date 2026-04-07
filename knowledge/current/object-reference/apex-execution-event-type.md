@@ -5,12 +5,10 @@ topic: apex-execution-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:39.867Z
+lastCollected: 2026-04-07T18:38:30.685Z
 estimatedTokens: 1726
 keywords: [Apex, Execution, Event, events, contain, classes]
 ---
-
-# Apex Execution Event Type
 
 > Apex Execution events contain details about Apex classes that are used.
 

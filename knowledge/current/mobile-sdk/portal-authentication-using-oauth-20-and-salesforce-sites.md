@@ -5,12 +5,10 @@ topic: portal-authentication-using-oauth-20-and-salesforce-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.477Z
+lastCollected: 2026-04-07T18:40:26.747Z
 estimatedTokens: 442
-keywords: [Portal, Authentication, OAuth, 2.0, Salesforce, Sites, Spring, Release, adds, enhanced, flexibility, app, runs, site, obtain]
+keywords: [Portal, Authentication, OAuth, 2.0, Salesforce, Sites, Spring, Release, adds, enhanced, flexibility, app, runs, site, obtain, API, tokens, behalf, users, configuration]
 ---
-
-# Portal Authentication Using OAuth 2.0 and Salesforce Sites
 
 > The Salesforce Spring '13 Release adds enhanced flexibility for portal authentication. If your
     app runs in a Salesforce portal, you can use OAuth 2.0 with a Salesforce site to obtain API

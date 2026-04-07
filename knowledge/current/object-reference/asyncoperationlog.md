@@ -5,12 +5,10 @@ topic: asyncoperationlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.306Z
+lastCollected: 2026-04-07T18:38:26.254Z
 estimatedTokens: 620
-keywords: [AsyncOperationLog, async, operations, log, containing, progress, status, external, synchronizations, Omnichannel, Inventory, service, API, version, 51.0]
+keywords: [AsyncOperationLog, async, operations, log, containing, progress, status, external, synchronizations, Omnichannel, Inventory, service, API, 51.0]
 ---
-
-# AsyncOperationLog
 
 > Represents an async operations log containing progress and status information
       about external synchronizations to the Omnichannel Inventory service. This object is

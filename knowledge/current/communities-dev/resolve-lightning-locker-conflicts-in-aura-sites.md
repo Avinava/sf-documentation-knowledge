@@ -5,12 +5,10 @@ topic: resolve-lightning-locker-conflicts-in-aura-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.019Z
+lastCollected: 2026-04-07T18:37:26.991Z
 estimatedTokens: 1795
-keywords: [Resolve, Lightning, Locker, Conflicts, Aura, Sites, enabled, new, Experience, Cloud, However, occasionally, third-party, component, custom]
+keywords: [Resolve, Lightning, Locker, Conflicts, Aura, Sites, enabled, new, Experience, Cloud, However, occasionally, third-party, code, head, markup, doesn’t, work, expected, due, conflict, situation, Salesforce, recommends, workarounds, described, JavaScript, Events, API, 39.0, Turn, Off]
 ---
-
-# Resolve Lightning Locker Conflicts in Aura Sites
 
 > Lightning Locker is enabled by default for all new Aura sites in Experience Cloud.
     However, occasionally a third-party component on the page or custom code in your head markup doesn’t work as expected due to a conflict with

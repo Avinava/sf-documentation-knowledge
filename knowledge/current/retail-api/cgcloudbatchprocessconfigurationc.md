@@ -5,12 +5,10 @@ topic: cgcloudbatchprocessconfigurationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.532Z
+lastCollected: 2026-04-07T18:39:12.955Z
 estimatedTokens: 1667
-keywords: [cgcloud__Batch_Process_Configuration__c, Custom, setting, captures, configuration, batch, process, API, version, 54.0, later, cgcloud, _Batch, _Process, _Configuration]
+keywords: [cgcloud__Batch_Process_Configuration__c, setting, captures, configuration, batch, process, API, 54.0, cgcloud, _Batch, _Process, _Configuration]
 ---
-
-# cgcloud__Batch_Process_Configuration__c
 
 > Custom setting that captures the configuration of the batch
          process. This object is available in API version 54.0 and later.

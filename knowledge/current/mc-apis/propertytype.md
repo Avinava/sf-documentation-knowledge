@@ -5,12 +5,10 @@ topic: propertytype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.158Z
+lastCollected: 2026-04-07T18:40:18.358Z
 estimatedTokens: 141
-keywords: [PropertyType, metadata, associated, object-for, retrievable, creatable, updateable]
+keywords: [PropertyType, metadata, object-for, retrievable, creatable, updateable]
 ---
-
-# PropertyType
 
 > The PropertyType object provides information on the metadata associated with an object-for example, what fields are retrievable, creatable, and updateable.
 

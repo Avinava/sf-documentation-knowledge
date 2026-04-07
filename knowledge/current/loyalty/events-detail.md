@@ -5,12 +5,10 @@ topic: events-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.649Z
+lastCollected: 2026-04-07T18:38:07.882Z
 estimatedTokens: 121
-keywords: [Events, Detail, Output, representation, customer, event, eligible, promotion]
+keywords: [Events, Detail, customer, event, eligible, promotion]
 ---
-
-# Events Detail
 
 > Output representation of the customer event eligible for a promotion.
 

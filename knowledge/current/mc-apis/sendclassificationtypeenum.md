@@ -5,12 +5,10 @@ topic: sendclassificationtypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:24.983Z
+lastCollected: 2026-04-07T18:40:20.205Z
 estimatedTokens: 98
 keywords: [SendClassificationTypeEnum, send, classification]
 ---
-
-# SendClassificationTypeEnum
 
 > The SendClassificationTypeEnum object indicates type of send classification.
 

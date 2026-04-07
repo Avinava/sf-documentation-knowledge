@@ -5,12 +5,10 @@ topic: connectapiconvertnegativeinvoicelinesinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.528Z
+lastCollected: 2026-04-07T18:35:41.382Z
 estimatedTokens: 224
-keywords: [Input, representation, convert, negative, invoice, line, credit]
+keywords: [convert, negative, invoice, line, credit]
 ---
-
-# ConnectApi.ConvertNegativeInvoiceLinesInputRequest
 
 > Input representation of the request details to convert a negative invoice line into a
     credit.

@@ -5,12 +5,10 @@ topic: shared-activities-and-parent-records-for-tasks-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.804Z
+lastCollected: 2026-04-07T18:37:05.518Z
 estimatedTokens: 371
-keywords: [Shared, Activities, Parent, Records, Tasks, Events, enabled, relationships, task, contacts, lead, correspond, TaskRelation, objects, tracked]
+keywords: [Shared, Activities, Parent, Records, Tasks, Events, enabled, relationships, task, contacts, lead, correspond, TaskRelation, tracked, change]
 ---
-
-# Shared Activities and Parent Records for Tasks and Events
 
 > If Shared Activities is enabled, the relationships between a task and its parent
     records (for example, contacts and lead), which correspond to TaskRelation objects, are tracked

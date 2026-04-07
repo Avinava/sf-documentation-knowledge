@@ -5,12 +5,10 @@ topic: mobile-mcp-tools-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.668Z
+lastCollected: 2026-04-07T18:38:15.153Z
 estimatedTokens: 947
 keywords: [Mobile, MCP, Tools, LWC, offline, device-native, capability, development, part, mobile-core, toolsets, Core]
 ---
-
-# Mobile MCP Tools Reference
 
 > Mobile MCP tools for LWC offline and device-native capability development are part
       of the mobile and mobile-core toolsets.

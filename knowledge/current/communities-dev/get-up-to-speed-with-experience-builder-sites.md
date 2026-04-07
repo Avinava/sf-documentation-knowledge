@@ -5,12 +5,10 @@ topic: get-up-to-speed-with-experience-builder-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:39.748Z
+lastCollected: 2026-04-07T18:37:26.694Z
 estimatedTokens: 970
-keywords: [Speed, Experience, Builder, Sites, templates, let, branded, employees, customers, partners, connect, Built, Lightning, Component, framework]
+keywords: [Speed, Experience, Builder, Sites, templates, let, branded, employees, customers, partners, connect, Built, Lightning, framework, include, ready-to-use, features, real, power, develop, meet, unique, business, needs, completely, transform, look, feel, site]
 ---
-
-# Get Up to Speed with Experience Builder Sites
 
 > Experience Builder templates let you create branded sites where your employees,
     customers, and partners can connect. Built on the Lightning Component framework, Experience

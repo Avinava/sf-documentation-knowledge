@@ -5,12 +5,10 @@ topic: create-a-template-with-the-command-line-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.739Z
+lastCollected: 2026-04-07T18:37:02.307Z
 estimatedTokens: 451
 keywords: [Template, Command, Line, analytics, commands, templates, Salesforce, CLI, manage]
 ---
-
-# Create a Template with the Command Line Interface
 
 > Use analytics template commands to create templates
     with the Salesforce Analytics Command Line Interface (CLI). You can also use the CLI to manage

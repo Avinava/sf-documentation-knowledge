@@ -5,12 +5,10 @@ topic: usageresourceshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.092Z
+lastCollected: 2026-04-07T18:40:04.908Z
 estimatedTokens: 249
 keywords: [UsageResourceShare, Sharing, UsageResource]
 ---
-
-# UsageResourceShare
 
 > Sharing for UsageResource.
 

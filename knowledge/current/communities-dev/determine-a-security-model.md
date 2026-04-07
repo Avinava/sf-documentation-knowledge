@@ -5,12 +5,10 @@ topic: determine-a-security-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.004Z
+lastCollected: 2026-04-07T18:37:26.975Z
 estimatedTokens: 982
-keywords: [Determine, Security, Model, every, case, whether, implement, custom, access, control, rely, declarative, platform, recommend, possible]
+keywords: [Determine, Security, Model, every, case, whether, implement, control, rely, declarative, platform, recommend, possible, However, sometimes, requirements, call, Choosing, Controller]
 ---
-
-# Determine a Security Model
 
 > For every use case, determine whether to implement a custom access control model or to
     rely on the declarative platform access control model. We recommend using the platform

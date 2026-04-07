@@ -5,12 +5,10 @@ topic: connectapicdpidentityresolutionreconciliationfieldrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.564Z
+lastCollected: 2026-04-07T18:36:04.915Z
 estimatedTokens: 297
-keywords: [Input, representation, identity, resolution, ruleset's, reconciliation, rule]
+keywords: [identity, resolution, ruleset's, reconciliation, rule]
 ---
-
-# ConnectApi.CdpIdentityResolutionReconciliationFieldRule
 
 > Input representation for an identity resolution ruleset's
       reconciliation rule for a field.

@@ -5,12 +5,10 @@ topic: lookedupfromactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.723Z
+lastCollected: 2026-04-07T18:39:47.195Z
 estimatedTokens: 669
-keywords: [LookedUpFromActivity, read-only, activity, record, event, task, records, custom, lookup, relationships, another, queryable]
+keywords: [LookedUpFromActivity, read-only, activity, record, event, task, records, lookup, relationships, another, queryable]
 ---
-
-# LookedUpFromActivity
 
 > This read-only object is displayed as a related list on an activity
 			record (an event or a task); the list contains records that have custom lookup

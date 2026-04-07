@@ -5,12 +5,10 @@ topic: create-an-event-with-an-eventuuid-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.450Z
+lastCollected: 2026-04-07T18:38:58.309Z
 estimatedTokens: 213
-keywords: [Event, EventUuid, uniquely, identifies, message, match, events, callback, result, publish, call, system, generate, SObjectType.newSObject, recordTypeId]
+keywords: [Event, EventUuid, uniquely, identifies, message, match, events, callback, result, publish, call, system, generate, SObjectType.newSObject, recordTypeId, loadDefaults, Apex]
 ---
-
-# Create an Event with an EventUuid Field
 
 > The EventUuid field uniquely identifies an event
   message and is used to match the events returned in the callback result with the events in the

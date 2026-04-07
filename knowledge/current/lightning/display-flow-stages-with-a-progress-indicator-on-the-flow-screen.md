@@ -6,13 +6,10 @@ topic: display-flow-stages-with-a-progress-indicator-on-the-flow-screen
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.064Z
+lastCollected: 2026-04-07T18:38:03.031Z
 estimatedTokens: 988
-keywords: [Display, Flow, Stages, Progress, Indicator, Screen, track, runtime, adding, custom, component, flow’s, screens, displays, active]
+keywords: [Display, Flow, Stages, Progress, Indicator, Screen, track, runtime, adding, flow’s, screens, displays, active, current, stage, sure, it’s, add, pass, $Flow.ActiveStages, $Flow.CurrentStage, variables, component’s, attributes]
 ---
-
-# Display Flow Stages with a Progress Indicator on the Flow
-                Screen
 
 > If you track stages in your flow, display them at runtime by adding a custom
                 component to the flow’s screens. Create a progress indicator component that displays

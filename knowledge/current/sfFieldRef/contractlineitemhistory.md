@@ -5,12 +5,10 @@ topic: contractlineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.237Z
+lastCollected: 2026-04-07T18:39:35.700Z
 estimatedTokens: 265
-keywords: [ContractLineItemHistory, History, tracked, ContractLineItem]
+keywords: [ContractLineItemHistory, tracked, ContractLineItem]
 ---
-
-# ContractLineItemHistory
 
 > History for tracked fields of ContractLineItem.
 

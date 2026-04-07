@@ -5,12 +5,10 @@ topic: svccatalogreqrelateditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.794Z
+lastCollected: 2026-04-07T18:40:03.507Z
 estimatedTokens: 344
 keywords: [SvcCatalogReqRelatedItem, item, Service, Catalog]
 ---
-
-# SvcCatalogReqRelatedItem
 
 > Represents an item related to a Service Catalog Request.
 

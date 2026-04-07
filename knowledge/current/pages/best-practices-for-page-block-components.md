@@ -5,12 +5,10 @@ topic: best-practices-for-page-block-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:57.038Z
+lastCollected: 2026-04-07T18:38:49.020Z
 estimatedTokens: 190
-keywords: [Best, Practices, Block, Components, display, account, data, record, query, URL]
+keywords: [Best, Practices, Block, display, account, record, query, URL]
 ---
-
-# Best Practices for Page Block Components
 
 > For this page to display account data, the ID of
 a valid account record must be specified as a query parameter in the

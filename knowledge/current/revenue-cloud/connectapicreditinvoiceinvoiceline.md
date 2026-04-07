@@ -5,12 +5,10 @@ topic: connectapicreditinvoiceinvoiceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.542Z
+lastCollected: 2026-04-07T18:35:41.396Z
 estimatedTokens: 467
-keywords: [ConnectApi.CreditInvoiceInvoiceLine, Input, representation, invoice, lines, credited]
+keywords: [ConnectApi.CreditInvoiceInvoiceLine, invoice, lines, credited]
 ---
-
-# ConnectApi.CreditInvoiceInvoiceLine
 
 > Input representation of the details of the invoice lines to be credited.
 

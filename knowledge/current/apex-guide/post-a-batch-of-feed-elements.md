@@ -5,12 +5,10 @@ topic: post-a-batch-of-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.845Z
+lastCollected: 2026-04-07T18:36:19.069Z
 estimatedTokens: 104
-keywords: [Post, Batch, Feed, Elements, trigger, call, bulk, feeds, accounts]
+keywords: [Post, Batch, trigger, call, bulk, feeds, accounts]
 ---
-
-# Post a Batch of Feed Elements
 
 > Use a trigger to call a method to bulk post to the feeds of accounts.
 

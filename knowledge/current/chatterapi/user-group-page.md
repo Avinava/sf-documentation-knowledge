@@ -5,12 +5,10 @@ topic: user-group-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.515Z
+lastCollected: 2026-04-07T18:37:23.589Z
 estimatedTokens: 211
 keywords: [User, Group, paginated, collection, groups, member]
 ---
-
-# User Group Page
 
 > A paginated collection of groups a user is a member of.
 

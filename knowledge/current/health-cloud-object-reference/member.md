@@ -5,12 +5,10 @@ topic: member
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:55.688Z
+lastCollected: 2026-04-07T18:37:43.862Z
 estimatedTokens: 272
 keywords: [Member, person, primary, subscriber, dependent, anyone, else, covered, under, insurance, plan]
 ---
-
-# Member
 
 > A member is a person who is the primary subscriber, a dependent, or anyone else who
 		is covered under the insurance plan.

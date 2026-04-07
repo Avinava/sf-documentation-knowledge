@@ -5,12 +5,10 @@ topic: start-an-import-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.234Z
+lastCollected: 2026-04-07T18:40:20.469Z
 estimatedTokens: 2154
-keywords: [Start, Import, Definition, Starting, via, SOAP, API, maintaining, tight, integration, system, development, environment, Why, How]
+keywords: [Start, Import, Definition, Starting, via, SOAP, API, maintaining, tight, integration, system, development, environment, Why, How, Sample, NET, Code, Java, Axis, 1.4, 2.0, Ruby, Rails, Envelope, Items]
 ---
-
-# Start an Import Definition
 
 > Starting an import definition via the SOAP API allows you to import information while maintaining a tight integration with your system or development environment.
 

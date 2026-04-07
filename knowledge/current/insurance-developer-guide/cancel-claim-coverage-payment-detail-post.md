@@ -5,12 +5,10 @@ topic: cancel-claim-coverage-payment-detail-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.442Z
+lastCollected: 2026-04-07T18:37:51.462Z
 estimatedTokens: 224
 keywords: [Cancel, Claim, Coverage, Payment, Detail, POST, record]
 ---
-
-# Cancel Claim Coverage Payment Detail (POST)
 
 > Cancel payment for a claim coverage payment detail record.
 

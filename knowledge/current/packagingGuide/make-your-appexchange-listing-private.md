@@ -5,12 +5,10 @@ topic: make-your-appexchange-listing-private
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.322Z
+lastCollected: 2026-04-07T18:38:46.178Z
 estimatedTokens: 303
-keywords: [AppExchange, Listing, longer, want, publicly, customers, can’t, discover, browsing, searching, URL, access, listings, directly]
+keywords: [AppExchange, Listing, longer, want, publicly, customers, can’t, discover, browsing, searching, URL, listings, directly]
 ---
-
-# Make Your AppExchange Listing Private
 
 > If you no longer want your AppExchange listing to be publicly available, make it
   private. After you make a listing private, customers can’t discover it by browsing or searching

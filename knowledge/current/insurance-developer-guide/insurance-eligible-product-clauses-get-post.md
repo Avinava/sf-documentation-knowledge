@@ -5,12 +5,10 @@ topic: insurance-eligible-product-clauses-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.662Z
+lastCollected: 2026-04-07T18:37:51.723Z
 estimatedTokens: 264
 keywords: [Insurance, Eligible, Product, Clauses, POST, quoteId, contextId]
 ---
-
-# Insurance Eligible Product Clauses Get (POST)
 
 > Get eligible product clauses based on quoteId and
   contextId.

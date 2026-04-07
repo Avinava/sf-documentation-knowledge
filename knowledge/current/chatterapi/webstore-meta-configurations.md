@@ -5,12 +5,10 @@ topic: webstore-meta-configurations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.718Z
+lastCollected: 2026-04-07T18:37:23.778Z
 estimatedTokens: 109
 keywords: [Webstore, Meta, Configurations]
 ---
-
-# Webstore Meta Configurations
 
 > List of webstore Meta configurations.
 

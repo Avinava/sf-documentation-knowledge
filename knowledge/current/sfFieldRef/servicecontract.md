@@ -5,12 +5,10 @@ topic: servicecontract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.631Z
+lastCollected: 2026-04-07T18:40:01.390Z
 estimatedTokens: 930
-keywords: [ServiceContract, customer, support, contract, business, agreement, API, version, 18.0, later]
+keywords: [ServiceContract, customer, support, contract, business, agreement, API, 18.0]
 ---
-
-# ServiceContract
 
 > Represents a customer support contract
 				(business agreement).

@@ -5,12 +5,10 @@ topic: taxation-in-order-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.682Z
+lastCollected: 2026-04-07T18:38:45.475Z
 estimatedTokens: 308
-keywords: [Taxation, Order, Management, Tax, calculations, complex, especially, supporting, multiple, currencies, Orders, different, taxes, affected, price]
+keywords: [Taxation, Order, Management, Tax, calculations, complex, especially, supporting, multiple, currencies, Orders, different, taxes, affected, price, adjustments]
 ---
-
-# Taxation in Order Management
 
 > Tax calculations can be complex, especially when supporting
       multiple currencies. Orders can have different tax types, and taxes can be affected by price

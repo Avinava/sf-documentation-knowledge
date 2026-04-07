@@ -5,12 +5,10 @@ topic: care-authorization-request-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.246Z
+lastCollected: 2026-04-07T18:37:55.726Z
 estimatedTokens: 218
 keywords: [Care, Authorization, Services, Review]
 ---
-
-# Care Authorization Request Response
 
 > The response body for the Care Services Review GET
     request.

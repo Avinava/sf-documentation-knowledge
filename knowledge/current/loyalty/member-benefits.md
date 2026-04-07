@@ -5,12 +5,10 @@ topic: member-benefits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.344Z
+lastCollected: 2026-04-07T18:38:07.566Z
 estimatedTokens: 89
-keywords: [Member, Benefits, loyalty, program, Output, representation, JSON, Retrieve, asynchronously, requesting, data, API, Resource, Input, Sample]
+keywords: [Member, Benefits, loyalty, program, JSON, Resource, Retrieve, asynchronously, requesting, API, Sample]
 ---
-
-# Member Benefits
 
 > Retrieve a list of benefits for a member, while asynchronously requesting data from the
         Member Benefits API.

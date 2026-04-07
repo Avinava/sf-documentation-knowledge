@@ -5,12 +5,10 @@ topic: recalculate-sharing-rules-manually
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.082Z
+lastCollected: 2026-04-07T18:39:23.012Z
 estimatedTokens: 657
-keywords: [Recalculate, Sharing, Rules, Manually, changes, settings, groups, roles, territories, reevaluated, add, remove, access, necessary, rule]
+keywords: [Recalculate, Sharing, Manually, changes, settings, groups, roles, territories, reevaluated, add, remove, necessary, rule, updates, failed, aren’t, working, expected]
 ---
-
-# Recalculate Sharing Rules Manually
 
 > When you make changes to sharing settings, groups, roles, and territories,
                 sharing rules are reevaluated to add or remove access as necessary. You can manually

@@ -5,12 +5,10 @@ topic: setting-custom-login-servers-in-android-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.424Z
+lastCollected: 2026-04-07T18:40:26.702Z
 estimatedTokens: 684
-keywords: [Setting, Custom, Login, Servers, Android, Apps, special, cases—for, you’re, Salesforce, partner, Trialforce—you, redirect, user’s, requests]
+keywords: [Setting, Login, Servers, Android, Apps, cases—for, you’re, Salesforce, partner, Trialforce—you, redirect, user’s, requests, URI]
 ---
-
-# Setting Custom Login Servers in Android Apps
 
 > For special cases—for example, if you’re a Salesforce partner using
     Trialforce—you can redirect your user’s login requests to a custom login URI.

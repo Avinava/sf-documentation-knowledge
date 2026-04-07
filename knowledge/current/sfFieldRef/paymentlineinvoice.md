@@ -5,12 +5,10 @@ topic: paymentlineinvoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.462Z
+lastCollected: 2026-04-07T18:39:52.970Z
 estimatedTokens: 544
-keywords: [PaymentLineInvoice, payment, allocated, unallocated, invoice, API, version, 48.0, later]
+keywords: [PaymentLineInvoice, payment, allocated, unallocated, invoice, API, 48.0]
 ---
-
-# PaymentLineInvoice
 
 > Represents a payment allocated to or unallocated from an invoice. This
     object is available in API version 48.0 and later.

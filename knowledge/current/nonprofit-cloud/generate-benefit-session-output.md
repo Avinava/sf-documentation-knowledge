@@ -5,12 +5,10 @@ topic: generate-benefit-session-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.202Z
+lastCollected: 2026-04-07T18:38:20.961Z
 estimatedTokens: 111
-keywords: [Generate, Benefit, Session, Output, representation, schedule]
+keywords: [Generate, Benefit, Session, schedule]
 ---
-
-# Generate Benefit Session Output
 
 > Output representation of the request to create a benefit schedule
       session.

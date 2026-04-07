@@ -5,12 +5,10 @@ topic: set-up-an-api-enabled-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.945Z
+lastCollected: 2026-04-07T18:40:25.313Z
 estimatedTokens: 474
-keywords: [API-Enabled, Profile, you’re, new, Experience, Cloud, sites, start, enabling, digital, experiences, org, Enable, asked, domain]
+keywords: [API-Enabled, Profile, you’re, new, Experience, Cloud, sites, start, enabling, digital, experiences, org, Enable, asked, domain, sure, doesn’t, SSL, https]
 ---
-
-# Set Up an API-Enabled Profile
 
 > If you’re new to Experience Cloud sites, start by enabling digital
                         experiences in your org. See Enable Digital

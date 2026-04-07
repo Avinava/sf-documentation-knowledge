@@ -5,12 +5,10 @@ topic: ask-us-to-take-a-second-look-at-our-submission-verification-feedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.712Z
+lastCollected: 2026-04-07T18:38:47.666Z
 estimatedTokens: 315
-keywords: [Ask, Take, Second, Look, Submission, Verification, Feedback, submit, solution, security, review, stage, begins, teams, assess]
+keywords: [Ask, Take, Second, Look, Submission, Verification, Feedback, submit, solution, security, review, stage, begins, teams, assess, everything, included, anything, missing, incorrect, they, post, wizard, disagree, any, There’s, charge, another]
 ---
-
-# Ask Us to Take A Second Look at Our Submission Verification Feedback
 
 > When you submit a solution for security review, the submission verification stage of
         your review begins. During this stage, the review teams assess everything that you included

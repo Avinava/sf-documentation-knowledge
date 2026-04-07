@@ -5,12 +5,10 @@ topic: oauth-20-user-agent-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.518Z
+lastCollected: 2026-04-07T18:40:26.778Z
 estimatedTokens: 965
-keywords: [OAuth, 2.0, User-Agent, Flow, users, authorize, desktop, mobile, app, access, data, external, embedded, browser, Client]
+keywords: [OAuth, 2.0, User-Agent, Flow, users, authorize, desktop, mobile, app, external, embedded, browser, Client, apps, running, scripting, language, JavaScript, SDK, 11.0]
 ---
-
-# OAuth 2.0 User-Agent Flow
 
 > With the OAuth 2.0 user-agent flow, users authorize a desktop or mobile app to access
     data by using an external or embedded browser. Client apps running in a browser using a

@@ -5,12 +5,10 @@ topic: surveys-responses-using-invitation-id-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.191Z
+lastCollected: 2026-04-07T18:37:13.133Z
 estimatedTokens: 954
-keywords: [Surveys, Responses, Invitation, POST, PATCH, Initialize, process, submitting, survey, making, Submit, Special, Access, Rules]
+keywords: [Surveys, Responses, Invitation, POST, PATCH, Initialize, process, submitting, survey, making, Submit]
 ---
-
-# Surveys Responses Using Invitation ID (POST, PATCH)
 
 > Initialize the process of submitting survey responses and return the
       details of the first page of the survey by making a POST request. Submit the survey responses

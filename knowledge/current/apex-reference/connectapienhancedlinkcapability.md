@@ -5,12 +5,10 @@ topic: connectapienhancedlinkcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.516Z
+lastCollected: 2026-04-07T18:36:08.956Z
 estimatedTokens: 271
-keywords: [ConnectApi.EnhancedLinkCapability, feed, element, capability, link, may, contain, supplemental, icon, title]
+keywords: [ConnectApi.EnhancedLinkCapability, capability, link, may, contain, supplemental, icon, title]
 ---
-
-# ConnectApi.EnhancedLinkCapability
 
 > If a feed element has this capability, it has a link that may contain
       supplemental information like an icon, a title, and a description.

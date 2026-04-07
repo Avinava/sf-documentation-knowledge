@@ -5,12 +5,10 @@ topic: apex-email-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:31.222Z
+lastCollected: 2026-04-07T18:36:16.437Z
 estimatedTokens: 714
 keywords: [Apex, Email, Service, services, process, contents, attachments, inbound, automatically, creates, contact, records, messages]
 ---
-
-# Apex Email Service
 
 > You can use email services to process the contents, headers, and attachments of
         inbound email. For example, you can create an email service that automatically creates

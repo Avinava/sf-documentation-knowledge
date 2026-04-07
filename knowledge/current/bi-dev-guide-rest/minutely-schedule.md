@@ -5,12 +5,10 @@ topic: minutely-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.920Z
+lastCollected: 2026-04-07T18:36:57.434Z
 estimatedTokens: 214
 keywords: [Minutely, Schedule, Specify, runs, multiple, times, hour, Analytics, asset]
 ---
-
-# Minutely Schedule
 
 > Specify a schedule that runs multiple times an hour for an Analytics asset.
 

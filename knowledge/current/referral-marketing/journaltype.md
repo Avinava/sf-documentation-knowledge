@@ -5,12 +5,10 @@ topic: journaltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.614Z
+lastCollected: 2026-04-07T18:39:09.997Z
 estimatedTokens: 964
-keywords: [JournalType, category, transaction, journal, identify, reason, journals, created, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [JournalType, category, transaction, journal, identify, reason, journals, created, API, 59.0]
 ---
-
-# JournalType
 
 > Represents a category of transaction journal. Journal types identify
          the reason for which transaction journals are created. This object is available in API

@@ -5,12 +5,10 @@ topic: connectapieinsteinllmgenerationgenaicitedreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.380Z
+lastCollected: 2026-04-07T18:36:08.813Z
 estimatedTokens: 129
-keywords: [Metadata, input, source, cited, generated]
+keywords: [Metadata, source, cited, generated]
 ---
-
-# ConnectApi.EinsteinLlmGenerationGenAiCitedReference
 
 > Metadata from an input source that is cited in a generated response.
 

@@ -5,12 +5,10 @@ topic: collectionsdashboardsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.269Z
+lastCollected: 2026-04-07T18:36:23.572Z
 estimatedTokens: 645
-keywords: [CollectionsDashboardSettings, org’s, settings, add, Collections, Dashboard, application, org, Parent, Manifest, Access, File, Suffix, Directory, Location]
+keywords: [CollectionsDashboardSettings, org’s, settings, add, Collections, Dashboard, application, org, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# CollectionsDashboardSettings
 
 > Represents an org’s settings to add the
 			Collections Dashboard application to an org.

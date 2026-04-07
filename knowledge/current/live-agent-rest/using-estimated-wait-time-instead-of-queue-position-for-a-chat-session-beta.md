@@ -5,12 +5,10 @@ topic: using-estimated-wait-time-instead-of-queue-position-for-a-chat-session-be
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.324Z
+lastCollected: 2026-04-07T18:38:06.545Z
 estimatedTokens: 1034
-keywords: [Estimated, Wait, Time, Instead, Queue, Position, Chat, Session, Beta, API, relay, customers, However, receive, addition]
+keywords: [Estimated, Wait, Time, Instead, Queue, Position, Chat, Session, Beta, API, relay, customers, However, receive, addition, Sometimes, effectively, conveys, right, number, feature, 47.0]
 ---
-
-# Using Estimated Wait Time Instead of Queue Position for a Chat Session (Beta)
 
 > By default, the Chat API returns queue position information that you can relay to
     customers. However, you can also receive the estimated wait time in addition to the queue

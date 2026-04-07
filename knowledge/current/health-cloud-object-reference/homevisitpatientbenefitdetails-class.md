@@ -5,12 +5,10 @@ topic: homevisitpatientbenefitdetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.332Z
+lastCollected: 2026-04-07T18:37:40.308Z
 estimatedTokens: 1058
-keywords: [HomeVisitPatientBenefitDetails, home, visit, storing, benefit, data, Additional, Benefits, flow, Budget, screen, Agent, review, Agentforce]
+keywords: [HomeVisitPatientBenefitDetails, home, visit, storing, benefit, Additional, Benefits, flow, Budget, screen, Agent, review, Agentforce]
 ---
-
-# HomeVisitPatientBenefitDetails Class
 
 > Represents the home visit details for storing benefit related data. This class is
         used in the Additional Benefits flow in Budget screen and Agent benefit review flow in

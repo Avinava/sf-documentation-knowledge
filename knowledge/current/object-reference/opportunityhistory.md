@@ -5,12 +5,10 @@ topic: opportunityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.283Z
+lastCollected: 2026-04-07T18:38:36.457Z
 estimatedTokens: 857
-keywords: [OpportunityHistory, stage, history, opportunity, Calls, Usage]
+keywords: [OpportunityHistory, stage, opportunity]
 ---
-
-# OpportunityHistory
 
 > Represents the stage history of an
    opportunity.

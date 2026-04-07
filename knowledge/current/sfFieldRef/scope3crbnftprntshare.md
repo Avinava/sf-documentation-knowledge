@@ -5,12 +5,10 @@ topic: scope3crbnftprntshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.111Z
+lastCollected: 2026-04-07T18:40:00.883Z
 estimatedTokens: 251
 keywords: [Scope3CrbnFtprntShare, Sharing, Scope3CrbnFtprnt]
 ---
-
-# Scope3CrbnFtprntShare
 
 > Sharing for Scope3CrbnFtprnt.
 

@@ -5,12 +5,10 @@ topic: find
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.185Z
+lastCollected: 2026-04-07T18:38:05.382Z
 estimatedTokens: 165
-keywords: [Locates, component, local, aura]
+keywords: [Locates, local, aura]
 ---
-
-# find()
 
 > Locates a component using its local ID (aura:id).
 

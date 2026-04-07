@@ -5,12 +5,10 @@ topic: features-of-the-browser-fingerprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.841Z
+lastCollected: 2026-04-07T18:39:22.748Z
 estimatedTokens: 555
-keywords: [Features, Browser, Fingerprint, collection, together, identify, device, Salesforce, uses, build, model, user’s, original, they, logged]
+keywords: [Features, Browser, Fingerprint, collection, together, identify, device, Salesforce, uses, build, model, user’s, original, they, logged, detect, whether, session, hijacked]
 ---
-
-# Features of the Browser Fingerprint
 
 > A browser fingerprint is a collection of features that together identify a device.
 		Salesforce uses these features to build a model of the user’s original browser fingerprint

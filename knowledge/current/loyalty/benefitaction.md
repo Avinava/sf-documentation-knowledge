@@ -5,12 +5,10 @@ topic: benefitaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.094Z
+lastCollected: 2026-04-07T18:38:09.378Z
 estimatedTokens: 837
-keywords: [BenefitAction, action, triggered, automatically, benefit.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, benefit, API, version, 51.0, later]
+keywords: [BenefitAction, BenefitActionParameter, BenefitActionParameterValue, action, triggered, automatically, benefit.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest, benefit, API, 51.0, SOAP, REST]
 ---
-
-# BenefitAction
 
 > Represents details of an action that can be triggered for a benefit.
       This object is available in API version 51.0 and later.

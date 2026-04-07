@@ -5,12 +5,10 @@ topic: release-held-fo-capacity-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.287Z
+lastCollected: 2026-04-07T18:37:10.009Z
 estimatedTokens: 129
-keywords: [Release, Held, Capacity, Input, fulfillment, order, locations, correspond, action, call]
+keywords: [Release, Held, Capacity, fulfillment, order, locations, correspond, action, call]
 ---
-
-# Release Held FO Capacity Input
 
 > Request to release held fulfillment order capacity at one or more
       locations. Can correspond to one action call.

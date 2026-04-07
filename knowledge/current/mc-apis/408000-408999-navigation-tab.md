@@ -5,12 +5,10 @@ topic: 408000-408999-navigation-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.772Z
+lastCollected: 2026-04-07T18:40:14.780Z
 estimatedTokens: 50
 keywords: [408000-408999, Navigation, Tab]
 ---
-
-# 408000-408999 Navigation Tab
 
 # 408000-408999 Navigation Tab
 

@@ -5,12 +5,10 @@ topic: insurance-quote-input-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.180Z
+lastCollected: 2026-04-07T18:37:51.134Z
 estimatedTokens: 250
-keywords: [Insurance, Quote, Input, Node, representation, root, line, items, child]
+keywords: [Insurance, Quote, Node, root, line, items, child]
 ---
-
-# Insurance Quote Input Node
 
 > Input representation of root quote line items and child quote line items of insurance
     quote.

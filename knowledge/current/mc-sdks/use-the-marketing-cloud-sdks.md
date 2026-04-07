@@ -5,12 +5,10 @@ topic: use-the-marketing-cloud-sdks
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.380Z
+lastCollected: 2026-04-07T18:40:24.822Z
 estimatedTokens: 1754
-keywords: [Marketing, Cloud, SDKs, Fuel, wrappers, around, APIs, enable, developers, integrate, native, language, constructs, download, SDK]
+keywords: [Marketing, Cloud, SDKs, Fuel, wrappers, around, APIs, enable, developers, integrate, native, language, constructs, download, SDK, preferred, environment, There, currently, Java, PHP, Python, Ruby, Client, Library, Items]
 ---
-
-# Use the Marketing Cloud SDKs
 
 > The Fuel SDKs are wrappers around the Marketing Cloud APIs that enable developers to integrate with those APIs using native language constructs. You can download the SDK for your preferred environment. There are currently SDKs available for C#, Java, PHP, Python, and Ruby.
 

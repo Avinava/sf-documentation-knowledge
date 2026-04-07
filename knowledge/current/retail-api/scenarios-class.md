@@ -5,12 +5,10 @@ topic: scenarios-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.203Z
+lastCollected: 2026-04-07T18:39:10.673Z
 estimatedTokens: 2320
-keywords: [Scenarios, APEX, programmatic, access, TPM, Promotion, Scenario, define, selectable, Level, Manual, Inputs, overrides, simulate, different]
+keywords: [Scenarios, APEX, programmatic, TPM, Promotion, Scenario, define, selectable, Level, Manual, Inputs, overrides, simulate, different, combinations, active, inactive, tactics, KPI, TPM_Scenarios, structure, contain, five, _Scenarios, ScenarioParameter, addScenarioParameter, API, List<ScenarioParameter>, getScenarioParameters, Map<String, Object>, toGenericObject, toGenericObjectParameters, toGenericObjectManualInputs, load, toJSONParameters, toJSON, toJSONManualInputs, setScenarioManualInputs, _ManualInputs, getScenarioManualInputs, clear, removeScenarioParameter]
 ---
-
-# Scenarios Class
 
 > This APEX class provides programmatic access to the TPM Promotion Scenario information
   used in the Promotion. Scenarios define selectable sets of Promotion Level Manual Inputs overrides

@@ -5,12 +5,10 @@ topic: claimcoveragefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.420Z
+lastCollected: 2026-04-07T18:39:33.843Z
 estimatedTokens: 359
-keywords: [ClaimCoverageFeed, Feed, tracking, ClaimCoverage]
+keywords: [ClaimCoverageFeed, ClaimCoverage]
 ---
-
-# ClaimCoverageFeed
 
 > Feed tracking for ClaimCoverage.
 

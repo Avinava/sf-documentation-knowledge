@@ -5,12 +5,10 @@ topic: get-ottv1registrationplatformottpropertyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.995Z
+lastCollected: 2026-04-07T18:40:15.017Z
 estimatedTokens: 434
-keywords: [ott, registration, platform, ottPropertyId, Retrieves, registered, **Overview**, Usage, Retrieve, Messenger, Resource, LINE]
+keywords: [ott, registration, platform, ottPropertyId, Retrieves, registered, **Overview**, Retrieve, Messenger, Resource, LINE]
 ---
-
-# GET /ott/v1/registration/{platform}/{ottPropertyId}
 
 > Retrieves information about a registered OTT property by Platform and ID.
 

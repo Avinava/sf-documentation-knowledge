@@ -5,12 +5,10 @@ topic: careplantemplatehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.809Z
+lastCollected: 2026-04-07T18:39:32.177Z
 estimatedTokens: 265
-keywords: [CarePlanTemplateHistory, History, tracked, CarePlanTemplate]
+keywords: [CarePlanTemplateHistory, tracked, CarePlanTemplate]
 ---
-
-# CarePlanTemplateHistory
 
 > History for tracked fields of CarePlanTemplate.
 

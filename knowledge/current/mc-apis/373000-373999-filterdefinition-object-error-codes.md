@@ -5,12 +5,10 @@ topic: 373000-373999-filterdefinition-object-error-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.738Z
+lastCollected: 2026-04-07T18:40:14.745Z
 estimatedTokens: 286
 keywords: [373000-373999, FilterDefinition, Error, Codes]
 ---
-
-# 373000-373999 FilterDefinition Object Error Codes
 
 # 373000-373999 FilterDefinition Object Error Codes
 

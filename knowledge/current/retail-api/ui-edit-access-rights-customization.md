@@ -5,12 +5,10 @@ topic: ui-edit-access-rights-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.855Z
+lastCollected: 2026-04-07T18:39:16.401Z
 estimatedTokens: 268
-keywords: [Edit, Access, Rights, Customization, EARights, mechanism, TPM, application, selectively, enable, disable, certain, functionality, elements, depending]
+keywords: [Edit, Rights, Customization, EARights, mechanism, TPM, application, selectively, enable, disable, certain, functionality, depending, business, logic]
 ---
-
-# UI Edit Access Rights Customization
 
 > Edit Access Rights (EARights) is a mechanism used by the TPM UI application to
     selectively enable or disable certain functionality, or UI elements, depending on the business

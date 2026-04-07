@@ -5,12 +5,10 @@ topic: use-the-geofencingservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.312Z
+lastCollected: 2026-04-07T18:38:15.835Z
 estimatedTokens: 733
-keywords: [GeofencingService, API, develop, Lightning, web, component, location-based, features, creating, monitoring, geofences, Add, Test, Availability, Start]
+keywords: [GeofencingService, API, develop, Lightning, web, location-based, features, creating, monitoring, geofences, Add, Test, Availability, Start, Geofence, Region, Stop, Remove, Monitored, Regions, Specific, IDs, Active]
 ---
-
-# Use the GeofencingService API
 
 > To develop a Lightning web component with location-based features for creating and
         monitoring geofences, use the GeofencingService API.

@@ -5,12 +5,10 @@ topic: cogroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.610Z
+lastCollected: 2026-04-07T18:37:01.214Z
 estimatedTokens: 1910
-keywords: [cogroup, combine, data, two, streams, stream, least, common, Inner, Left, Outer, coalesce, Right, Full]
+keywords: [cogroup, combine, two, streams, stream, least, common, Inner, Left, Outer, coalesce, Right, Full]
 ---
-
-# cogroup
 
 > Use cogroup to combine data from two or more data
     streams into a single data stream. The data streams must have at least one common

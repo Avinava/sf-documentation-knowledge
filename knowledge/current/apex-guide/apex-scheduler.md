@@ -5,12 +5,10 @@ topic: apex-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:33.227Z
+lastCollected: 2026-04-07T18:36:18.460Z
 estimatedTokens: 4298
-keywords: [Apex, Scheduler, delay, execution, run, classes, time, ideal, daily, weekly, maintenance, tasks, Batch, Implementing, Schedulable]
+keywords: [Apex, Scheduler, delay, execution, run, classes, time, ideal, daily, weekly, maintenance, tasks, Batch, Implementing, Schedulable, Progress, Scheduled, Job, Queries, Testing, System.schedule, System.scheduleBatch, Jobs, Limits, Notes, Best, Practices]
 ---
-
-# Apex Scheduler
 
 > Use the Apex Scheduler to delay execution so that you can run Apex classes at a
         specified time. This is ideal for daily or weekly maintenance tasks using Batch

@@ -5,13 +5,11 @@ topic: saleresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.914Z
+lastCollected: 2026-04-07T18:36:02.132Z
 estimatedTokens: 3326
 namespace: CommercePayments
-keywords: [SaleResponse, sent, payment, gateway, adapters, sales, service, Usage, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode, setGatewayDate]
+keywords: [SaleResponse, sent, payment, gateway, adapters, sales, service, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setPaymentMethodTokenizationResponse, paymentMethodTokenizationResponse, setRetryCategory, retryCategory, setRetryDecision, retryDecision, setSalesforceResultCodeInfo, salesforceResultCodeInfo]
 ---
-
-# SaleResponse Class
 
 > Response sent by payment gateway adapters for a sales
     service.

@@ -5,12 +5,10 @@ topic: operatinghoursholiday
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.203Z
+lastCollected: 2026-04-07T18:38:36.378Z
 estimatedTokens: 424
-keywords: [OperatingHoursHoliday, day, hours, service, territory, resources, exclusive, unavailable, Salesforce, Scheduler, API, version, 54.0, later, Calls]
+keywords: [OperatingHoursHoliday, day, hours, service, territory, resources, exclusive, unavailable, Salesforce, Scheduler, API, 54.0]
 ---
-
-# OperatingHoursHoliday
 
 > Represents the day or hours for which a service territory and service
          resources exclusive to the service territory are unavailable in Salesforce Scheduler.

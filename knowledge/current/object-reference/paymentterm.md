@@ -5,12 +5,10 @@ topic: paymentterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.538Z
+lastCollected: 2026-04-07T18:38:37.860Z
 estimatedTokens: 764
-keywords: [PaymentTerm, company's, expectations, receiving, payment, API, version, 55.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [PaymentTerm, company's, expectations, receiving, payment, API, 55.0]
 ---
-
-# PaymentTerm
 
 > Defines your company's method and expectations for receiving payment.
       This object is available in API version 55.0 and later.

@@ -5,12 +5,10 @@ topic: approve-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.679Z
+lastCollected: 2026-04-07T18:36:19.904Z
 estimatedTokens: 168
-keywords: [Approve, Record, Process, Approvals, resource, collection, records, call, array, requests, current, user, assigned, approver, contextId]
+keywords: [Approve, Record, Process, Approvals, resource, collection, records, call, array, requests, current, user, assigned, approver, contextId, submit, approval]
 ---
-
-# Approve a Record
 
 > Use the Process Approvals resource to approve a record or a collection of records. Each call takes
       an array of requests. The current user must be an assigned approver. The contextId is ID of

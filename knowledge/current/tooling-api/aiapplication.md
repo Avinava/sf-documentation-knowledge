@@ -5,12 +5,10 @@ topic: aiapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.211Z
+lastCollected: 2026-04-07T18:36:31.579Z
 estimatedTokens: 1115
-keywords: [AIApplication, instance, machine, learning, application.Available, API, version, 50.0, later, SOAP, Calls, REST]
+keywords: [AIApplication, instance, machine, learning, application.Available, API, 50.0, SOAP, REST]
 ---
-
-# AIApplication
 
 > Represents an instance of a machine learning (ML)
         application.Available in API version 50.0 and later.

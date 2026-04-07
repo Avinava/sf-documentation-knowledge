@@ -5,12 +5,10 @@ topic: packageinstalleventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.065Z
+lastCollected: 2026-04-07T18:38:37.356Z
 estimatedTokens: 855
-keywords: [PackageInstallEventLog, stores, package, installation, organization, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [PackageInstallEventLog, stores, package, installation, organization, API, 62.0]
 ---
-
-# PackageInstallEventLog
 
 > PackageInstallEventLog stores details about package installation in the
          organization. This object is available in API version 62.0 and later.

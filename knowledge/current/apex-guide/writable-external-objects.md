@@ -5,13 +5,11 @@ topic: writable-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.886Z
+lastCollected: 2026-04-07T18:36:17.111Z
 estimatedTokens: 739
 namespace: DataSource
-keywords: [Writable, External, Objects, Doing, lets, Salesforce, users, APIs, data, that’s, stored, outside, org, interacting, orders]
+keywords: [Writable, External, Doing, lets, Salesforce, users, APIs, that’s, stored, outside, org, interacting, orders, reside, SAP, system, account, leaving, user, they, place, new, order, route, relevant, automatically, created, updated]
 ---
-
-# Writable External Objects
 
 > By default, external objects are read only, but you can make them writable. Doing so
         lets Salesforce users and APIs create, update, and delete data that’s stored outside the org

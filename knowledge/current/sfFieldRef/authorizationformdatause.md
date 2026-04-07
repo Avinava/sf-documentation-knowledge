@@ -5,12 +5,10 @@ topic: authorizationformdatause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.584Z
+lastCollected: 2026-04-07T18:39:28.668Z
 estimatedTokens: 355
-keywords: [AuthorizationFormDataUse, data, consented, authorization, form, API, version, 46.0, later]
+keywords: [AuthorizationFormDataUse, consented, authorization, form, API, 46.0]
 ---
-
-# AuthorizationFormDataUse
 
 > Represents the data use consented to in an authorization form.
 		This object is available in API version 46.0 and later.

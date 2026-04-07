@@ -5,12 +5,10 @@ topic: features-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.724Z
+lastCollected: 2026-04-07T18:38:46.594Z
 estimatedTokens: 583
-keywords: [Features, Group, Professional, Editions, easiest, way, determine, objects, particular, edition, reviewing, Comparison, look, support, specific]
+keywords: [Features, Group, Professional, Editions, easiest, way, determine, particular, edition, reviewing, Comparison, look, support, specific, feature, searching, online, help, It’s, check, resources]
 ---
-
-# Features in Group and Professional Editions
 
 > The easiest way to determine which features and objects are available in a particular edition
    is by reviewing the Edition Comparison Table. You can also look up

@@ -5,12 +5,10 @@ topic: caretaskdetailhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.743Z
+lastCollected: 2026-04-07T18:39:33.151Z
 estimatedTokens: 263
-keywords: [CareTaskDetailHistory, History, tracked, CareTaskDetail]
+keywords: [CareTaskDetailHistory, tracked, CareTaskDetail]
 ---
-
-# CareTaskDetailHistory
 
 > History for tracked fields of CareTaskDetail.
 

@@ -5,12 +5,10 @@ topic: access-modifiers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.983Z
+lastCollected: 2026-04-07T18:36:16.208Z
 estimatedTokens: 1227
-keywords: [Access, Modifiers, Apex, protected, defining, variables, Versioned, Behavior, Changes]
+keywords: [Modifiers, Apex, protected, defining, variables, Versioned, Behavior, Changes]
 ---
-
-# Access Modifiers
 
 > Apex allows you to use the private, protected, public, and global access modifiers
          when defining methods and variables.

@@ -5,12 +5,10 @@ topic: fieldhistoryarchive
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.290Z
+lastCollected: 2026-04-07T18:37:33.691Z
 estimatedTokens: 915
-keywords: [FieldHistoryArchive, history, objects, retain, big, users, “Retain, History”, permission, API, version, 29.0, later, Calls, Usage]
+keywords: [FieldHistoryArchive, retain, big, users, “Retain, History”, permission, API, 29.0]
 ---
-
-# FieldHistoryArchive
 
 > Represents field history values for all objects that retain field
    history. FieldHistoryArchive is a big object, available only

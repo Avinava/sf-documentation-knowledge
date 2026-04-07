@@ -5,12 +5,10 @@ topic: secure-coding-cross-site-scripting
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.059Z
+lastCollected: 2026-04-07T18:39:21.937Z
 estimatedTokens: 14196
-keywords: [Secure, Coding, Cross, Site, Scripting, Cross-site, XSS, prevalent, security, threat, attackers, inject, malicious, scripts, web]
+keywords: [Secure, Coding, Cross, Site, Scripting, Cross-site, XSS, prevalent, security, threat, attackers, inject, malicious, scripts, web, pages, potentially, leading, theft, session, hijacking, altered, website, content, topic, cover, how, attacks, work, protect, against, Sample, vulnerability, browser, parsing, General, References, Specific, Guidance]
 ---
-
-# Secure Coding Cross Site Scripting
 
 > Cross-site scripting (XSS) is a prevalent security threat where attackers inject
         malicious scripts into web pages, potentially leading to data theft, session hijacking, and

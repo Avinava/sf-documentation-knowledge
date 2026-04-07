@@ -5,12 +5,10 @@ topic: cgcloudtacticproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.712Z
+lastCollected: 2026-04-07T18:39:15.179Z
 estimatedTokens: 1644
-keywords: [cgcloud__Tactic_Product__c, Junction, Tactic, Product, API, version, 54.0, later, cgcloud, _Tactic, _Product, Calls, Associated, Objects]
+keywords: [cgcloud__Tactic_Product__c, Junction, Tactic, Product, API, 54.0, cgcloud, _Tactic, _Product]
 ---
-
-# cgcloud__Tactic_Product__c
 
 > Junction object between Tactic and Product. This object is
       available in API version 54.0 and later.

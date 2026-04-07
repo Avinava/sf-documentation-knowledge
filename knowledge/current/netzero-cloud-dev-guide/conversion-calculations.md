@@ -5,12 +5,10 @@ topic: conversion-calculations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.084Z
+lastCollected: 2026-04-07T18:38:16.657Z
 estimatedTokens: 1503
 keywords: [Conversion, Calculations, convert, unit, measure, another, compatible, factors, MMBtu, gal, kWh, Tonnes, MWh, tCO2e]
 ---
-
-# Conversion Calculations
 
 > You can convert the values from one unit of measure to another compatible unit of
   measure based on the conversion factors.

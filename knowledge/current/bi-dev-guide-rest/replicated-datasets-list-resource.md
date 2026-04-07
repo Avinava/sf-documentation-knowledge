@@ -5,12 +5,10 @@ topic: replicated-datasets-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.822Z
+lastCollected: 2026-04-07T18:36:56.367Z
 estimatedTokens: 764
-keywords: [Replicated, Datasets, Resource, know, connected, objects, URL, Formats, Version, Postman, Components, HTTP, POST]
+keywords: [Formats, Replicated, Datasets, Resource, know, connected, URL, Postman, HTTP, POST]
 ---
-
-# Replicated Datasets List Resource
 
 > Returns a list of replicated datasets, also know as connected
       objects.

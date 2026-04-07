@@ -5,12 +5,10 @@ topic: loyaltytierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.306Z
+lastCollected: 2026-04-07T18:39:47.718Z
 estimatedTokens: 258
-keywords: [LoyaltyTierHistory, History, tracked, LoyaltyTier]
+keywords: [LoyaltyTierHistory, tracked, LoyaltyTier]
 ---
-
-# LoyaltyTierHistory
 
 > History for tracked fields of LoyaltyTier.
 

@@ -6,13 +6,10 @@ topic: assign-access-to-new-and-changed-features-in-first--and-second-generation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.570Z
+lastCollected: 2026-04-07T18:38:56.108Z
 estimatedTokens: 225
-keywords: [Assign, Access, New, Changed, Features, First-, Second-Generation, Managed, Packages, Determine, how, provide, non-admin, users, any]
+keywords: [Assign, New, Changed, Features, First-, Second-Generation, Managed, Packages, Determine, how, provide, non-admin, users, any, included, push, upgrade, package, assigned, admins]
 ---
-
-# Assign Access to New and Changed Features in First- and Second-Generation Managed
-  Packages
 
 > Determine how to provide existing non-admin users access to new and changed features. By
   default, any new components included in the push upgrade package version are assigned only to

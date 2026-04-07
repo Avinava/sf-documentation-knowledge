@@ -5,12 +5,10 @@ topic: generate-rebate-payout-periods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.330Z
+lastCollected: 2026-04-07T18:37:06.019Z
 estimatedTokens: 215
-keywords: [Generate, Rebate, Payout, Periods, program, frequency, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Generate, Rebate, Payout, Periods, program, frequency, REST, HTTP]
 ---
-
-# Generate Rebate Payout Periods
 
 > Generate payout periods for a rebate program based on the frequency
          specified in the program.

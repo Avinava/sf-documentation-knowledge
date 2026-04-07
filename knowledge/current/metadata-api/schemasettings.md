@@ -5,12 +5,10 @@ topic: schemasettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.960Z
+lastCollected: 2026-04-07T18:36:29.438Z
 estimatedTokens: 770
-keywords: [SchemaSettings, org’s, schema, settings, manage, availability, custom, metadata, extends, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [SchemaSettings, org’s, schema, settings, manage, availability, metadata, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SchemaSettings
 
 > Represents an org’s schema settings, which manage the
       availability of custom settings and custom metadata type values. This type extends the Metadata metadata type and inherits its fullName field.

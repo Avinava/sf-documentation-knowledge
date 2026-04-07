@@ -6,13 +6,10 @@ topic: search-actionable-list-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.726Z
+lastCollected: 2026-04-07T18:36:40.435Z
 estimatedTokens: 140
-keywords: [Search, Actionable, Members, Output, representation, searching]
+keywords: [Search, Actionable, Members, searching]
 ---
-
-# Search
-    Actionable List Members
 
 > Output representation of the request for searching for actionable list
     members.

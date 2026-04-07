@@ -5,12 +5,10 @@ topic: story-history-summary-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.678Z
+lastCollected: 2026-04-07T18:36:59.174Z
 estimatedTokens: 177
-keywords: [Story, History, Summary, Resource, Einstein, Discovery, item]
+keywords: [Story, Summary, Resource, Einstein, Discovery, item]
 ---
-
-# Story History Summary Resource
 
 > Returns a summary for an Einstein Discovery story history item.
 

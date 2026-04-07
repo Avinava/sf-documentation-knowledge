@@ -5,12 +5,10 @@ topic: loyaltyledger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.805Z
+lastCollected: 2026-04-07T18:38:10.126Z
 estimatedTokens: 926
-keywords: [LoyaltyLedger, Records, points, credited, debited, member, across, transactions, API, version, 51.0, later, Calls]
+keywords: [LoyaltyLedger, Records, points, credited, debited, member, across, transactions, API, 51.0]
 ---
-
-# LoyaltyLedger
 
 > Records the points that have been credited or debited for a member across the
       transactions. This object is available in API version 51.0 and later.

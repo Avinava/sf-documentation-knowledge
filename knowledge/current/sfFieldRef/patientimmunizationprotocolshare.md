@@ -5,12 +5,10 @@ topic: patientimmunizationprotocolshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.195Z
+lastCollected: 2026-04-07T18:39:52.686Z
 estimatedTokens: 256
 keywords: [PatientImmunizationProtocolShare, Sharing, PatientImmunizationProtocol]
 ---
-
-# PatientImmunizationProtocolShare
 
 > Sharing for PatientImmunizationProtocol.
 

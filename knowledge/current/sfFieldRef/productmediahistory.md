@@ -5,12 +5,10 @@ topic: productmediahistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.339Z
+lastCollected: 2026-04-07T18:39:55.913Z
 estimatedTokens: 260
-keywords: [ProductMediaHistory, History, tracked, ProductMedia]
+keywords: [ProductMediaHistory, tracked, ProductMedia]
 ---
-
-# ProductMediaHistory
 
 > History for tracked fields of ProductMedia.
 

@@ -5,12 +5,10 @@ topic: business-object-api-workflows
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.404Z
+lastCollected: 2026-04-07T18:39:10.896Z
 estimatedTokens: 130
 keywords: [Business, API, Workflows, provided, configuration]
 ---
-
-# Business Object API Workflows
 
 > The following workflows are provided in the default configuration.
 

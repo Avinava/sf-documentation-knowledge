@@ -5,12 +5,10 @@ topic: get-list-view-preferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.008Z
+lastCollected: 2026-04-07T18:40:10.994Z
 estimatedTokens: 168
 keywords: [View, Preferences]
 ---
-
-# Get List View Preferences
 
 > Get list view preferences.
 

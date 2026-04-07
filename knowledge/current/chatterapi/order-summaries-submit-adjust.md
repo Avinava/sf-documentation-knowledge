@@ -5,12 +5,10 @@ topic: order-summaries-submit-adjust
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.665Z
+lastCollected: 2026-04-07T18:37:15.727Z
 estimatedTokens: 2174
 keywords: [Order, Summaries, Submit, Adjust, price, OrderItemSummaries, OrderSummary, corresponding, change, orders]
 ---
-
-# Order Summaries, Submit Adjust
 
 > Adjust the price of one or more OrderItemSummaries from an
       OrderSummary, and create corresponding change orders.

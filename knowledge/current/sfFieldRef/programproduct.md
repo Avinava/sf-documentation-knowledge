@@ -5,12 +5,10 @@ topic: programproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.305Z
+lastCollected: 2026-04-07T18:39:56.856Z
 estimatedTokens: 403
-keywords: [ProgramProduct, junction, Program, Product2, hold, API, version, 58.0, later]
+keywords: [ProgramProduct, junction, Program, Product2, hold, API, 58.0]
 ---
-
-# ProgramProduct
 
 > Represents a junction between Program and Product2. This will hold Product2 values related to a Program. This object is available in API version 58.0 and later.
 

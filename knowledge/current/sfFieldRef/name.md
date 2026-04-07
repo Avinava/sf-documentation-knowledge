@@ -5,12 +5,10 @@ topic: name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.985Z
+lastCollected: 2026-04-07T18:39:49.460Z
 estimatedTokens: 350
 keywords: [Non-queryable, foreign, key, traversals, parent]
 ---
-
-# Name
 
 > Non-queryable object that provides information about foreign key
       traversals when the foreign key has more than one parent.

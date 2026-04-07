@@ -5,12 +5,10 @@ topic: maintenanceworkrulefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.515Z
+lastCollected: 2026-04-07T18:39:47.908Z
 estimatedTokens: 362
-keywords: [MaintenanceWorkRuleFeed, Feed, tracking, MaintenanceWorkRule]
+keywords: [MaintenanceWorkRuleFeed, MaintenanceWorkRule]
 ---
-
-# MaintenanceWorkRuleFeed
 
 > Feed tracking for MaintenanceWorkRule.
 

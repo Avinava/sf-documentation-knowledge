@@ -5,12 +5,10 @@ topic: files-connect-repository-file-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.049Z
+lastCollected: 2026-04-07T18:37:12.948Z
 estimatedTokens: 580
 keywords: [Files, Connect, Repository, File, Preview, specific]
 ---
-
-# Files Connect Repository File Preview
 
 > Get a repository file preview or a specific page in a
     preview.

@@ -5,12 +5,10 @@ topic: apply-ajax-behavior-to-events-on-any-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.626Z
+lastCollected: 2026-04-07T18:38:51.935Z
 estimatedTokens: 579
-keywords: [Apply, Ajax, Behavior, Events, Any, Component, Implement, partial, command, links, buttons, user, hover, over, trigger]
+keywords: [Apply, Ajax, Behavior, Events, Any, Implement, partial, command, links, buttons, user, hover, over, trigger]
 ---
-
-# Apply Ajax Behavior to Events on Any Component
 
 > Implement a partial page update without using command links or
         buttons. For example, a user can hover over a component to trigger the

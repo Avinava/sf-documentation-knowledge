@@ -5,12 +5,10 @@ topic: field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.357Z
+lastCollected: 2026-04-07T18:36:46.202Z
 estimatedTokens: 233
 keywords: [raw, displayable, record]
 ---
-
-# Field Value
 
 > The raw and displayable field values for a field in a
     record.

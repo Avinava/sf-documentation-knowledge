@@ -5,12 +5,10 @@ topic: updateutility-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.131Z
+lastCollected: 2026-04-07T18:36:50.334Z
 estimatedTokens: 366
-keywords: [updateUtility, Lightning, Experience, label, icon, utility, bar, highlighted, Web, Components, LWC, Arguments, Sample, Code]
+keywords: [Arguments, updateUtility, Lightning, Experience, label, icon, utility, bar, highlighted, Web, LWC, Sample, Code]
 ---
-
-# updateUtility() for Lightning Experience
 
 > Specifies a label and icon on the utility bar, and sets a utility as highlighted.
         This method is available for Lightning Web Components (LWC) only.

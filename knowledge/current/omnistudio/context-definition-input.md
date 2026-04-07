@@ -5,12 +5,10 @@ topic: context-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.054Z
+lastCollected: 2026-04-07T18:36:36.588Z
 estimatedTokens: 107
-keywords: [Context, Definition, Input, representation, definitions, expression]
+keywords: [Context, Definition, definitions, expression]
 ---
-
-# Context Definition Input
 
 > Input representation of the context definition.
 

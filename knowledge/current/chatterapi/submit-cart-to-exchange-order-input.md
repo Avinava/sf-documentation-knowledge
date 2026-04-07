@@ -5,12 +5,10 @@ topic: submit-cart-to-exchange-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.605Z
+lastCollected: 2026-04-07T18:37:10.305Z
 estimatedTokens: 283
-keywords: [Submit, Cart, Exchange, Order, Input]
+keywords: [Submit, Cart, Exchange, Order]
 ---
-
-# Submit Cart to Exchange Order Input
 
 > Information required to submit an exchange order.
 

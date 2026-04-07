@@ -5,12 +5,10 @@ topic: index-setting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.900Z
+lastCollected: 2026-04-07T18:35:45.898Z
 estimatedTokens: 147
-keywords: [Index, Setting, Output, representation, retrieved, settings]
+keywords: [Index, Setting, retrieved, settings]
 ---
-
-# Index Setting
 
 > Output representation of the retrieved index settings.
 

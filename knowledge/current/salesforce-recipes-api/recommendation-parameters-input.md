@@ -5,12 +5,10 @@ topic: recommendation-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.923Z
+lastCollected: 2026-04-07T18:39:18.647Z
 estimatedTokens: 262
-keywords: [Recommendation, Input, node, recipe]
+keywords: [Recommendation, node, recipe]
 ---
-
-# Recommendation Parameters Input
 
 > The parameters for a recommendation node in a recipe.
 

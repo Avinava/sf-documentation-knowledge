@@ -5,12 +5,10 @@ topic: salesforce-cli-environment-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:14.220Z
+lastCollected: 2026-04-07T18:40:09.168Z
 estimatedTokens: 6350
-keywords: [Salesforce, CLI, Environment, Variables, configure, certain, uses, FORCE, _OPEN, _URL, _SHOW, _SPINNER, _DELAY, _ACCESS, _TOKEN]
+keywords: [Salesforce, CLI, Environment, Variables, configure, certain, uses, FORCE, _OPEN, _URL, _SHOW, _SPINNER, _DELAY, _ACCESS, _TOKEN, _APPLY, _REPLACEMENTS, _ON, _CONVERT, _AUDIENCE, _CAPITALIZE, _RECORD, _TYPES, _CI, _HEARTBEAT, _FREQUENCY, _MS, _UPDATE, _CONTAINER, _MODE, _CONTENT, _TYPE, _CRYPTO, _V2, _CUSTOM, _ORG, _METADATA, _TEMPLATES, _DEPLOY, _SIZE, _THRESHOLD, _DISABLE, _AUTOUPDATE, either, var, works, _DNS, _CHECK, _SOURCE, _MEMBER, _POLLING, _MOBILITY, _TELEMETRY, _TIMEOUT, _DOMAIN, _RETRY, _HIDE, _RELEASE, _NOTES, _FOOTER, _IMPROVED, _CODE, _COVERAGE, _JSON, _TO, _STDOUT, _LIST, _BATCH, _LOG, _LEVEL, _ROTATION, _PERIOD, _MDAPI, _TEMP, _DIR, _NEW, _VERSION, _FREQ, _UNIT, _NETWORK, _MUTEX, _PORT, _NO, _TABLE, _STYLE, _NPM, _REGISTRY, _API, _INSTANCE, _MAX, _QUERY, _LIMIT, _REST, _PRECOMPILE, _ENABLE, _PROJECT, _FOR, _PACKAGE, _CREATE, _SKIP]
 ---
-
-# Salesforce CLI Environment Variables
 
 > You can set environment variables to configure certain values that Salesforce CLI uses.
 

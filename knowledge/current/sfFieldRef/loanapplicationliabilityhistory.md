@@ -5,12 +5,10 @@ topic: loanapplicationliabilityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.392Z
+lastCollected: 2026-04-07T18:39:46.877Z
 estimatedTokens: 275
-keywords: [LoanApplicationLiabilityHistory, History, tracked, LoanApplicationLiability]
+keywords: [LoanApplicationLiabilityHistory, tracked, LoanApplicationLiability]
 ---
-
-# LoanApplicationLiabilityHistory
 
 > History for tracked fields of LoanApplicationLiability.
 

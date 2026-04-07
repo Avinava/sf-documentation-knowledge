@@ -5,12 +5,10 @@ topic: connectapiaudiencecriteriondetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.930Z
+lastCollected: 2026-04-07T18:36:07.269Z
 estimatedTokens: 107
 keywords: [ConnectApi.AudienceCriterionDetail, Audience, criterion]
 ---
-
-# ConnectApi.AudienceCriterionDetail
 
 > Audience criterion information.
 

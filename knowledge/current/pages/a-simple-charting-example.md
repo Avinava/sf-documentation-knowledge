@@ -5,12 +5,10 @@ topic: a-simple-charting-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.848Z
+lastCollected: 2026-04-07T18:38:48.792Z
 estimatedTokens: 398
-keywords: [Simple, Charting, Visualforce, chart, requires, container, component, encloses, least, data, series, optionally, add, additional, components]
+keywords: [Simple, Charting, Visualforce, chart, requires, container, encloses, least, series, optionally, add, additional, axes, well, labeling, legend, labels, tooltips, points]
 ---
-
-# A Simple Charting Example
 
 > A Visualforce chart requires that you create a chart container component, which
 encloses at least one data series component. You can optionally add

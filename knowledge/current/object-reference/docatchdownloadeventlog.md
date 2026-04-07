@@ -5,12 +5,10 @@ topic: docatchdownloadeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.043Z
+lastCollected: 2026-04-07T18:38:29.906Z
 estimatedTokens: 302
-keywords: [DocAtchDownloadEventLog, Document, Attachment, Downloads, events, contain, API, version, 65.0, later, Calls, Special, Access, Rules]
+keywords: [DocAtchDownloadEventLog, Document, Attachment, Downloads, events, contain, API, 65.0]
 ---
-
-# DocAtchDownloadEventLog
 
 > Document Attachment Downloads events contain details of document and
          attachment downloads. This object is available in API version 65.0 and later.

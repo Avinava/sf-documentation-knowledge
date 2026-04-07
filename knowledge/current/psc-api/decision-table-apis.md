@@ -5,12 +5,10 @@ topic: decision-table-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.187Z
+lastCollected: 2026-04-07T18:39:03.414Z
 estimatedTokens: 86
 keywords: [Decision, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Decision Table APIs
 
 > Decision table APIs are RESTful APIs that are sometimes available as Apex classes
     and methods.

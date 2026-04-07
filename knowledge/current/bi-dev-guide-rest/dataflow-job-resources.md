@@ -5,12 +5,10 @@ topic: dataflow-job-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.622Z
+lastCollected: 2026-04-07T18:36:56.141Z
 estimatedTokens: 578
-keywords: [Dataflow, Job, Resources, jobs, sync, data, prep, recipes, standard, dataflows]
+keywords: [Dataflow, Job, Resources, jobs, sync, prep, recipes, standard, dataflows]
 ---
-
-# Dataflow Job Resources
 
 > Dataflow jobs are used to sync data for data prep recipes and standard dataflows.
 

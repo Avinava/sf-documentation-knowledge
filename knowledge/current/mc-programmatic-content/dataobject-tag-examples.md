@@ -5,12 +5,10 @@ topic: dataobject-tag-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.971Z
+lastCollected: 2026-04-07T18:40:22.359Z
 estimatedTokens: 200
-keywords: [Dataobject, Tag, Examples, loads, AMPscript, variable, referenced, JSON, Data, Filter, Order]
+keywords: [Dataobject, Tag, Examples, loads, AMPscript, variable, referenced, JSON, Filter, Order]
 ---
-
-# Dataobject Tag Examples
 
 > This example loads information from an AMPscript variable using a single Dataobject tag referenced by a section tag:
 

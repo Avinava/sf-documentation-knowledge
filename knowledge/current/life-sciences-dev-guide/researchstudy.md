@@ -5,12 +5,10 @@ topic: researchstudy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.928Z
+lastCollected: 2026-04-07T18:37:58.438Z
 estimatedTokens: 1796
-keywords: [ResearchStudy, FHIR, resource, maps, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping, research, study, include, design, execution, oversight, API, version, 61.0]
+keywords: [ResearchStudy, FHIR, resource, maps, Salesforce, V4.0, Clinical, Model, Mapping, research, study, include, design, execution, oversight, API, 61.0]
 ---
-
-# ResearchStudy
 
 > Represents the details of a research study that include its design,
          execution, and oversight. This object is available in API version 61.0 and

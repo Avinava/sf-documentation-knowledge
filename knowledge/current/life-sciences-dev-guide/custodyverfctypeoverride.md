@@ -5,12 +5,10 @@ topic: custodyverfctypeoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:10.196Z
+lastCollected: 2026-04-07T18:37:59.874Z
 estimatedTokens: 1450
-keywords: [CustodyVerfcTypeOverride, verification, entry, chain, custody, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [CustodyVerfcTypeOverride, verification, entry, chain, custody, API, 59.0]
 ---
-
-# CustodyVerfcTypeOverride
 
 > Represents information about the verification of an entry in the chain of
          custody. This object is available in API version 59.0 and later.

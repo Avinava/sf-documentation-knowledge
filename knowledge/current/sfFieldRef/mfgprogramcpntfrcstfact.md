@@ -5,12 +5,10 @@ topic: mfgprogramcpntfrcstfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.443Z
+lastCollected: 2026-04-07T18:39:48.909Z
 estimatedTokens: 628
-keywords: [MfgProgramCpntFrcstFact, generated, manufacturing, program, component, forecast, records]
+keywords: [MfgProgramCpntFrcstFact, generated, manufacturing, program, forecast, records]
 ---
-
-# MfgProgramCpntFrcstFact
 
 > Represents information about the generated manufacturing program component
          forecast records.

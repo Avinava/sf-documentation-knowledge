@@ -5,12 +5,10 @@ topic: configuration-load-rule-executor-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.206Z
+lastCollected: 2026-04-07T18:37:27.210Z
 estimatedTokens: 534
-keywords: [Configuration, Load, Rule, Executor, API, invokes, event, product, rules, configuring, nested, bundle, parentProduct, parent, inherit]
+keywords: [Configuration, Load, Rule, Executor, API, invokes, event, product, configuring, nested, bundle, parentProduct, parent, inherit, attributes, REST, Examples, APEX]
 ---
-
-# Configuration Load Rule Executor API
 
 > The Configuration Load Rule Executor API invokes all the load event product rules for
   the specified product. When configuring a nested bundle, set the

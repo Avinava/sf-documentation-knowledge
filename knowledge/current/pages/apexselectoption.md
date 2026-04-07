@@ -5,12 +5,10 @@ topic: apexselectoption
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.410Z
+lastCollected: 2026-04-07T18:38:50.655Z
 estimatedTokens: 1382
-keywords: [apex, selectOption, possible, <apex, selectCheckboxes>, selectRadio>, selectList>, component, selectOption>, child, components, Attributes]
+keywords: [Attributes, apex, selectOption, possible, <apex, selectCheckboxes>, selectRadio>, selectList>, selectOption>, child]
 ---
-
-# apex:selectOption
 
 > A possible value for an <apex:selectCheckboxes>,
 				<apex:selectRadio>, or <apex:selectList> component. The <apex:selectOption> component must be a child

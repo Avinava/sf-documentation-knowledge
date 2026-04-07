@@ -5,12 +5,10 @@ topic: using-sync-names
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.156Z
+lastCollected: 2026-04-07T18:40:25.520Z
 estimatedTokens: 1074
-keywords: [Sync, Mobile, SDK, collection, APIs, managing, named, operations, programmatically, syncs, runtime, run, rerun, manage, memory]
+keywords: [Sync, Mobile, SDK, collection, APIs, managing, named, operations, programmatically, syncs, runtime, run, rerun, manage, memory, Name-Based, iOS, Android, Hybrid, React, Native, Invoking, Resync, Apps]
 ---
-
-# Using Sync Names
 
 > Mobile SDK
         provides a collection of APIs for using and managing named sync operations. You can

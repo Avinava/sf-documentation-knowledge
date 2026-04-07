@@ -5,12 +5,10 @@ topic: with
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.048Z
+lastCollected: 2026-04-07T18:37:54.350Z
 estimatedTokens: 904
-keywords: [filter, records, according, category, query, retrieve, changes, tracked, user’s, profile, feed, filteringExpression, clause, added, SELECT]
+keywords: [filter, records, according, category, query, retrieve, changes, tracked, user’s, profile, filteringExpression, clause, added, SELECT, statement, SOQL]
 ---
-
-# WITH
 
 > You can filter records based on field values, for example, to filter according to
 		category or to query and retrieve changes that are tracked in a user’s profile feed by using

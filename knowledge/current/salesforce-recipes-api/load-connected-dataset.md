@@ -5,12 +5,10 @@ topic: load-connected-dataset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.583Z
+lastCollected: 2026-04-07T18:39:19.260Z
 estimatedTokens: 197
 keywords: [Load, Connected, Dataset, node, recipe]
 ---
-
-# Load Connected Dataset
 
 > A connected dataset for a load node in a recipe.
 

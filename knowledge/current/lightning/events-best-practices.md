@@ -5,12 +5,10 @@ topic: events-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:13.943Z
+lastCollected: 2026-04-07T18:38:04.041Z
 estimatedTokens: 611
-keywords: [Events, Best, Practices, working, Component, Whenever, Possible, Separate, Low-Level, Business, Logic, Dynamic, Actions, State, Dispatcher]
+keywords: [Events, Best, Practices, working, Whenever, Possible, Separate, Low-Level, Business, Logic, Dynamic, Actions, State, Dispatcher, Listen, Relay]
 ---
-
-# Events Best Practices
 
 > Here are some best practices for working with events.
 

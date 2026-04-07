@@ -5,12 +5,10 @@ topic: loyalty-program-process-rule-condition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.765Z
+lastCollected: 2026-04-07T18:38:08.008Z
 estimatedTokens: 336
-keywords: [Loyalty, Program, Process, Rule, Condition, Output, representation]
+keywords: [Loyalty, Program, Process, Rule, Condition]
 ---
-
-# Loyalty Program Process Rule Condition
 
 > Output representation of the loyalty program process rule
       condition.

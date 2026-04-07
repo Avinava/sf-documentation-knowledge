@@ -5,12 +5,10 @@ topic: deletedata
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.790Z
+lastCollected: 2026-04-07T18:40:22.156Z
 estimatedTokens: 194
-keywords: [DeleteData, Function, Ordinal, data, extension, row, column, identify, rows, **Overview**, **Syntax**, Usage, array, columns]
+keywords: [DeleteData, Function, Ordinal, extension, row, column, identify, rows, **Overview**, **Syntax**, array, columns]
 ---
-
-# DeleteData
 
 > DeleteData(1, 2, 3)
 

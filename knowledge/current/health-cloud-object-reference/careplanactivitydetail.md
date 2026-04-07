@@ -5,12 +5,10 @@ topic: careplanactivitydetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.527Z
+lastCollected: 2026-04-07T18:37:47.112Z
 estimatedTokens: 1074
-keywords: [CarePlanActivityDetail, additional, associated, CarePlanActivity, record, may, outcomes, activity, performers, contributed, reasons, why, necessary, child, API]
+keywords: [CarePlanActivityDetail, additional, CarePlanActivity, record, may, outcomes, activity, performers, contributed, reasons, why, necessary, child, API, 57.0]
 ---
-
-# CarePlanActivityDetail
 
 > Represents additional information associated with a CarePlanActivity record.
       This information may be outcomes of the activity, the performers who contributed to it,

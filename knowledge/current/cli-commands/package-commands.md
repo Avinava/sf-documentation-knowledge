@@ -5,12 +5,10 @@ topic: package-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:01:54.570Z
+lastCollected: 2026-04-07T18:35:39.352Z
 estimatedTokens: 14557
-keywords: [package, Commands, Convert, managed-released, first-generation, managed, second-generation, Examples, Flags, Aliases, install, report, installed, push-upgrade, abort]
+keywords: [Flags, package, Commands, Convert, managed-released, first-generation, managed, second-generation, Examples, Aliases, install, report, installed, push-upgrade, abort, schedule, uninstall, displayancestry, displaydependencies, promote, retrieve]
 ---
-
-# package Commands
 
 > Convert a managed-released first-generation managed package into a second-generation managed package.
 

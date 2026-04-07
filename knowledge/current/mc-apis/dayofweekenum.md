@@ -5,12 +5,10 @@ topic: dayofweekenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.322Z
+lastCollected: 2026-04-07T18:40:16.462Z
 estimatedTokens: 208
 keywords: [DayOfWeekEnum]
 ---
-
-# DayOfWeekEnum
 
 # DayOfWeekEnum
 

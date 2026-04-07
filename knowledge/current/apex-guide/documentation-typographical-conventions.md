@@ -5,12 +5,10 @@ topic: documentation-typographical-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.057Z
+lastCollected: 2026-04-07T18:36:18.284Z
 estimatedTokens: 449
 keywords: [Documentation, Typographical, Conventions, Apex, Visualforce, uses]
 ---
-
-# Documentation Typographical Conventions
 
 > Apex and Visualforce documentation uses these typographical conventions.
 

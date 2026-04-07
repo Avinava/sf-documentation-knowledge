@@ -5,12 +5,10 @@ topic: buyergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:36.639Z
+lastCollected: 2026-04-07T18:39:30.889Z
 estimatedTokens: 366
-keywords: [BuyerGroup, Associates, group, qualifiers, entitlements, price, books, promotions, shipping, buyer, members, account, localized, language, currency]
+keywords: [BuyerGroup, Associates, group, qualifiers, entitlements, price, books, promotions, shipping, buyer, members, account, localized, language, currency, market, browsed, webstore, API, 57.0, amended, support, 58.0]
 ---
-
-# BuyerGroup
 
 > Associates group qualifiers (entitlements, price books, promotions, and
          shipping methods) with buyer members based

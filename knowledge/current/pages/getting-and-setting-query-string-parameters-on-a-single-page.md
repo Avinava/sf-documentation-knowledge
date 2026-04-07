@@ -6,13 +6,10 @@ topic: getting-and-setting-query-string-parameters-on-a-single-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.808Z
+lastCollected: 2026-04-07T18:38:52.114Z
 estimatedTokens: 362
 keywords: [Getting, Setting, Query, Having, seen, examples, how, two, actions, combined, produce, interesting, result]
 ---
-
-# Getting and Setting Query String Parameters
-on a Single         Page
 
 > Having seen examples of both getting and setting query string parameters,
 this example             shows how the two actions can be combined

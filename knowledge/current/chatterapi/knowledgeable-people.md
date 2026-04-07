@@ -5,12 +5,10 @@ topic: knowledgeable-people
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.359Z
+lastCollected: 2026-04-07T18:37:23.469Z
 estimatedTokens: 293
 keywords: [Knowledgeable, People, User, topic]
 ---
-
-# Knowledgeable People
 
 > User that is knowledgeable about a topic.
 

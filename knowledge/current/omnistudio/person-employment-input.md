@@ -5,12 +5,10 @@ topic: person-employment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.770Z
+lastCollected: 2026-04-07T18:36:37.302Z
 estimatedTokens: 414
-keywords: [Person, Employment, Input, representation]
+keywords: [Person, Employment]
 ---
-
-# Person Employment Input
 
 > Input representation of the details of the person employment.
 

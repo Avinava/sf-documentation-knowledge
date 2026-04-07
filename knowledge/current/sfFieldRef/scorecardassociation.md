@@ -5,12 +5,10 @@ topic: scorecardassociation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.240Z
+lastCollected: 2026-04-07T18:40:00.993Z
 estimatedTokens: 364
-keywords: [ScorecardAssociation, connection, specific, scorecard, associated, account, channel, program, level, API, version, 41.0, later]
+keywords: [ScorecardAssociation, connection, specific, scorecard, account, channel, program, level, API, 41.0]
 ---
-
-# ScorecardAssociation
 
 > Represents a connection between a specific scorecard and the associated
          account, channel program, or channel program level. This object is available in API

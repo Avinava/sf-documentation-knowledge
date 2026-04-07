@@ -5,12 +5,10 @@ topic: message-segment-entity-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.680Z
+lastCollected: 2026-04-07T18:37:20.870Z
 estimatedTokens: 218
 keywords: [Message, Segment, Entity, Link, user, group]
 ---
-
-# Message Segment: Entity Link
 
 > Represents an entity, such as a user or a group.
 

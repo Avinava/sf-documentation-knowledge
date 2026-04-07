@@ -5,12 +5,10 @@ topic: database-save-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.180Z
+lastCollected: 2026-04-07T18:38:30.975Z
 estimatedTokens: 537
-keywords: [Database, Save, Event, events, track, records, created, updated, deleted, API, version, 63.0, later]
+keywords: [Database, Save, Event, events, track, records, created, updated, deleted, API, 63.0]
 ---
-
-# Database Save Event Type
 
 > Database Save events track when records are created, updated, or deleted. This object
       is available in API version 63.0 and later.

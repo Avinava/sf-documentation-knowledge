@@ -5,12 +5,10 @@ topic: network-data-category-parent-path
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.808Z
+lastCollected: 2026-04-07T18:37:14.855Z
 estimatedTokens: 184
-keywords: [Network, Data, Category, Parent, Path, Retrieve, hierarchy, categories, Experience, Cloud, site, API]
+keywords: [Network, Category, Parent, Path, Retrieve, hierarchy, categories, Experience, Cloud, site, API]
 ---
-
-# Network Data Category Parent Path
 
 > Retrieve the hierarchy of the network data categories in an Experience Cloud site. This
     API returns the network data category path from the parent category to the specified

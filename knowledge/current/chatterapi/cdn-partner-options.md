@@ -5,12 +5,10 @@ topic: cdn-partner-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.061Z
+lastCollected: 2026-04-07T18:37:18.138Z
 estimatedTokens: 150
-keywords: [CDN, Partner, Options, Content, delivery, network, custom, domain, uses, Experience, Cloud]
+keywords: [CDN, Partner, Options, Content, delivery, network, domain, uses, Experience, Cloud]
 ---
-
-# CDN Partner Options
 
 > Content delivery network (CDN) partner for a custom domain that uses the Experience
   Cloud CDN.

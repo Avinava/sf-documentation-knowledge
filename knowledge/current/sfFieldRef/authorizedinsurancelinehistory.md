@@ -5,12 +5,10 @@ topic: authorizedinsurancelinehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.668Z
+lastCollected: 2026-04-07T18:39:28.760Z
 estimatedTokens: 274
-keywords: [AuthorizedInsuranceLineHistory, History, tracked, AuthorizedInsuranceLine]
+keywords: [AuthorizedInsuranceLineHistory, tracked, AuthorizedInsuranceLine]
 ---
-
-# AuthorizedInsuranceLineHistory
 
 > History for tracked fields of AuthorizedInsuranceLine.
 

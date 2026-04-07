@@ -5,12 +5,10 @@ topic: schema-field-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.891Z
+lastCollected: 2026-04-07T18:39:19.576Z
 estimatedTokens: 192
 keywords: [Schema, node, recipe]
 ---
-
-# Schema Field Type Properties
 
 > The field type properties for a schema node in a recipe.
 

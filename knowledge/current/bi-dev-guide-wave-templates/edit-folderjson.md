@@ -5,12 +5,10 @@ topic: edit-folderjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.794Z
+lastCollected: 2026-04-07T18:37:02.358Z
 estimatedTokens: 356
 keywords: [Edit, folder.json, file, featuredAssets, application]
 ---
-
-# Edit folder.json
 
 > The folder.json file describes the featuredAssets for the application.
 

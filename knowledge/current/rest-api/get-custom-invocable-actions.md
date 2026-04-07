@@ -5,12 +5,10 @@ topic: get-custom-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.162Z
+lastCollected: 2026-04-07T18:36:20.375Z
 estimatedTokens: 509
-keywords: [Custom, Invocable, Actions, require, special, access, resource, REST, API, version, 32.0, later, URI, Formats, HTTP]
+keywords: [Formats, Authentication, Invocable, Actions, require, resource, REST, API, 32.0, URI, HTTP]
 ---
-
-# Get Custom Invocable Actions
 
 > Gets the list of all custom invocable actions. Some actions require special access.
     This resource is available in REST API version 32.0 and later.

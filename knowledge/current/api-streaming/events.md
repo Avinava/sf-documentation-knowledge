@@ -5,12 +5,10 @@ topic: events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.082Z
+lastCollected: 2026-04-07T18:36:51.404Z
 estimatedTokens: 469
 keywords: [Events, may, generate, notification, creation, undelete, record, PushTopic, NotifyForOperationCreate, NotifyForOperationUpdate, NotifyForOperationDelete, NotifyForOperationUndelete, enable, specify, notifica]
 ---
-
-# Events
 
 > Events that may generate a notification are the creation, update, delete, or undelete of a
    record. The PushTopic NotifyForOperationCreate,

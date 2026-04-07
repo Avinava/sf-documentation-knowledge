@@ -5,12 +5,10 @@ topic: usermonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.398Z
+lastCollected: 2026-04-07T18:40:05.235Z
 estimatedTokens: 1350
 keywords: [UserMonthlyMetric, monthly, engagement, metrics, user]
 ---
-
-# UserMonthlyMetric
 
 > Represents the monthly engagement metrics for a user.
 

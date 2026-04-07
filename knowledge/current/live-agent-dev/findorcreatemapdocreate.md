@@ -5,12 +5,10 @@ topic: findorcreatemapdocreate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.846Z
+lastCollected: 2026-04-07T18:38:06.081Z
 estimatedTokens: 399
-keywords: [findOrCreate.map.doCreate, specify, findOrCreate.map, new, record, isn’t, found, Usage]
+keywords: [findOrCreate.map.doCreate, specify, findOrCreate.map, new, record, isn’t, found]
 ---
-
-# findOrCreate.map.doCreate
 
 > Use the findOrCreate.map.doCreate method to specify which fields in findOrCreate.map
     method to use to create a new record if an existing record isn’t found.

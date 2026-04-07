@@ -5,12 +5,10 @@ topic: display-service-orders-in-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.684Z
+lastCollected: 2026-04-07T18:38:46.546Z
 estimatedTokens: 288
-keywords: [Display, Service, Orders, Channel, Order, App, you’re, upgrading, COA, later, remove, tab, replace, new]
+keywords: [Display, Service, Orders, Channel, Order, App, you’re, upgrading, COA, remove, tab, replace, new]
 ---
-
-# Display Service Orders in the Channel Order App
 
 > If you’re upgrading to Channel Order App (COA) v2 and later, remove the existing Orders
     tab and replace it with the new Service Orders tab.

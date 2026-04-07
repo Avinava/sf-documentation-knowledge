@@ -5,12 +5,10 @@ topic: isactive
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.819Z
+lastCollected: 2026-04-07T18:37:34.334Z
 estimatedTokens: 37
 keywords: [isActive, whether, record, alert, active]
 ---
-
-# isActive
 
 > Indicates whether a record alert is active or not.
 

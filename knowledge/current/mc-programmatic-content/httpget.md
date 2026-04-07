@@ -5,12 +5,10 @@ topic: httpget
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.082Z
+lastCollected: 2026-04-07T18:40:22.470Z
 estimatedTokens: 561
-keywords: [HTTPGet, Function, Ordinal, URL, content, whether, process, continues, error, Defaults, **Overview**, **Syntax**, Usage, retrieve, occurs]
+keywords: [HTTPGet, Function, Ordinal, URL, content, whether, process, continues, error, Defaults, **Overview**, **Syntax**, retrieve, occurs]
 ---
-
-# HTTPGet
 
 > HTTPGet(1, 2, 3, 4)
 

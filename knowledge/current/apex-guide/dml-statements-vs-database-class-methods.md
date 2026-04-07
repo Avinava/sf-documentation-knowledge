@@ -5,12 +5,10 @@ topic: dml-statements-vs-database-class-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.171Z
+lastCollected: 2026-04-07T18:36:19.396Z
 estimatedTokens: 720
-keywords: [DML, Statements, Database, Apex, offers, two, ways, perform, operations, flexibility, how, data, straightforward, result, exceptions]
+keywords: [DML, Statements, Database, Apex, offers, two, ways, perform, operations, flexibility, how, straightforward, result, exceptions, handle, code]
 ---
-
-# DML Statements vs. Database Class Methods
 
 > Apex offers two ways to perform DML operations: using DML statements or Database
         class methods. This provides flexibility in how you perform data operations. DML statements

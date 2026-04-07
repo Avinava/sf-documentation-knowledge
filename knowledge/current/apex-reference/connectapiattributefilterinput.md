@@ -5,12 +5,10 @@ topic: connectapiattributefilterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.234Z
+lastCollected: 2026-04-07T18:36:04.536Z
 estimatedTokens: 190
-keywords: [ConnectApi.AttributeFilterInput, attribute, filter, input]
+keywords: [ConnectApi.AttributeFilterInput, attribute, filter]
 ---
-
-# ConnectApi.AttributeFilterInput
 
 > Represents the attribute filter input.
 

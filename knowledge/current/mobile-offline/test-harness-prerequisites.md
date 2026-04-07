@@ -5,12 +5,10 @@ topic: test-harness-prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.591Z
+lastCollected: 2026-04-07T18:38:15.068Z
 estimatedTokens: 422
 keywords: [Test, Harness, Prerequisites, full, working, mobile, development, environment, haven’t, tools, yet, resources, guidance]
 ---
-
-# Test Harness Prerequisites
 
 > To make full use of Test Harness, you need a complete working mobile development
                 environment. If you haven’t set up your mobile development tools yet, see the

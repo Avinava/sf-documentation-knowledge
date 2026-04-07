@@ -5,12 +5,10 @@ topic: casesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.057Z
+lastCollected: 2026-04-07T18:36:23.355Z
 estimatedTokens: 5338
-keywords: [CaseSettings, organization’s, case, settings, owner, case-related, features, enabled, Classic, email, templates, various, activities, extends, Metadata]
+keywords: [CaseSettings, EmailToCaseSettings, EmailToCaseRoutingAddress, FeedItemSettings, WebToCaseSettings, organization’s, case, settings, owner, case-related, features, enabled, Classic, email, templates, various, activities, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CaseSettings
 
 > Represents an organization’s case settings, such
             as the default case owner, which case-related features are enabled, and which Classic

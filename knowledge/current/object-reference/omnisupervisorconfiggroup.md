@@ -5,12 +5,10 @@ topic: omnisupervisorconfiggroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.122Z
+lastCollected: 2026-04-07T18:38:36.302Z
 estimatedTokens: 315
-keywords: [OmniSupervisorConfigGroup, group, reps, visible, supervisors, Command, Center, Service, configuration, appears, Agents, tab, API, version, 41.0]
+keywords: [OmniSupervisorConfigGroup, group, reps, visible, supervisors, Command, Center, Service, configuration, appears, Agents, tab, API, 41.0]
 ---
-
-# OmniSupervisorConfigGroup
 
 > Represents the group of reps who are visible to the supervisors of a
    Command Center for Service configuration. The group, if visible, appears in the Agents tab of

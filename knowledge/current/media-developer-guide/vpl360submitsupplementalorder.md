@@ -5,12 +5,10 @@ topic: vpl360submitsupplementalorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.878Z
+lastCollected: 2026-04-07T18:38:11.144Z
 estimatedTokens: 152
-keywords: [VPL360_SubmitSupplementalOrder, Integration, Procedure, submits, supplemental, order, created, cancelling, VPL360, _SubmitSupplementalOrder, Sample, Input, Output, Calls]
+keywords: [VPL360_SubmitSupplementalOrder, Integration, Procedure, submits, supplemental, order, created, cancelling, VPL360, _SubmitSupplementalOrder, Sample]
 ---
-
-# VPL360_SubmitSupplementalOrder
 
 > This Integration Procedure submits the supplemental order
     created while cancelling an order.

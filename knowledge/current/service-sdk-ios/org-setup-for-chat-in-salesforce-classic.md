@@ -5,12 +5,10 @@ topic: org-setup-for-chat-in-salesforce-classic
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.964Z
+lastCollected: 2026-04-07T18:40:28.095Z
 estimatedTokens: 1048
 keywords: [Org, Setup, Chat, Salesforce, Classic, mobile, app]
 ---
-
-# Org Setup for Chat in Salesforce Classic
 
 > To use Chat in your mobile app, first set up Chat in your org.
 

@@ -5,12 +5,10 @@ topic: locationwaitlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.001Z
+lastCollected: 2026-04-07T18:38:35.246Z
 estimatedTokens: 815
-keywords: [LocationWaitlist, queue, created, specific, location, Multiple, queues, sales, agent, standard, vulnerable, groups, party, people, represented]
+keywords: [LocationWaitlist, queue, created, specific, location, Multiple, queues, sales, agent, standard, vulnerable, groups, party, people, represented, LocationWaitlistedParty, API, 50.0]
 ---
-
-# LocationWaitlist
 
 > Represents a queue created for a specific location. Multiple queues can be
       created for a single location. For example, you can have a queue for each sales agent or a

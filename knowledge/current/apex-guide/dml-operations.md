@@ -5,12 +5,10 @@ topic: dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.293Z
+lastCollected: 2026-04-07T18:36:19.507Z
 estimatedTokens: 319
 keywords: [DML, Operations, insert, new, records, commit, database]
 ---
-
-# DML Operations
 
 > Using DML, you can insert new records and commit them to the database. You can also
         update the field values of existing records.

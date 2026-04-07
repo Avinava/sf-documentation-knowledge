@@ -5,12 +5,10 @@ topic: flowsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:40.746Z
+lastCollected: 2026-04-07T18:36:26.206Z
 estimatedTokens: 3058
-keywords: [FlowSettings, Salesforce, settings, processes, flows, whether, Lightning, runtime, enabled, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [FlowSettings, Salesforce, settings, processes, flows, whether, Lightning, runtime, enabled, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# FlowSettings
 
 > Represents the Salesforce settings for processes and
     flows, such as whether Lightning runtime for flows is enabled.

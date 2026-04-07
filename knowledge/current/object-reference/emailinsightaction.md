@@ -5,12 +5,10 @@ topic: emailinsightaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.285Z
+lastCollected: 2026-04-07T18:38:30.117Z
 estimatedTokens: 588
-keywords: [EmailInsightAction, actions, taken, relation, email, insights, logs, different, associated, metadata, helping, track, manage, activities, decisions]
+keywords: [EmailInsightAction, actions, taken, relation, email, insights, logs, different, metadata, helping, track, manage, activities, decisions, made, API, 63.0]
 ---
-
-# EmailInsightAction
 
 > Represents the actions that have been taken, or could be taken, in relation
          to email insights. It logs different types of actions and associated metadata, helping to

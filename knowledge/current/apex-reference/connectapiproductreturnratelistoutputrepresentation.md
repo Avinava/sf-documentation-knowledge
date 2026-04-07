@@ -5,12 +5,10 @@ topic: connectapiproductreturnratelistoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.858Z
+lastCollected: 2026-04-07T18:36:11.128Z
 estimatedTokens: 77
 keywords: [Products, corresponding, rates]
 ---
-
-# ConnectApi.ProductReturnRateListOutputRepresentation
 
 > Products with corresponding return rates.
 

@@ -5,12 +5,10 @@ topic: overview-of-application-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:30.974Z
+lastCollected: 2026-04-07T18:40:26.286Z
 estimatedTokens: 711
-keywords: [Application, Flow, Native, iOS, apps, Mobile, SDK, whether, Objective-C, Swift, follow, similar, designs, main.swift, source]
+keywords: [Application, Flow, Native, iOS, apps, Mobile, SDK, whether, Objective-C, Swift, follow, similar, designs, main.swift, source, file, main.m, creates, UIApplicationMain, root, rest, instan]
 ---
-
-# Overview of Application Flow
 
 > Native iOS apps for Mobile SDK, whether
         Objective-C and Swift, follow similar designs. The main.swift source

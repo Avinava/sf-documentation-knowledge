@@ -5,12 +5,10 @@ topic: weeklastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.389Z
+lastCollected: 2026-04-07T18:37:00.959Z
 estimatedTokens: 25
 keywords: [week_last_day, date, day, week, specific, _last, _day]
 ---
-
-# week_last_day(date)
 
 > Returns the date of the last day of the week for a specific date.
 

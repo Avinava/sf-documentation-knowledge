@@ -5,12 +5,10 @@ topic: connectapiconfirmheldfocapacityresponseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.909Z
+lastCollected: 2026-04-07T18:36:08.266Z
 estimatedTokens: 108
 keywords: [confirm, held, fulfillment, order, capacity, locations]
 ---
-
-# ConnectApi.ConfirmHeldFOCapacityResponseOutputRepresentation
 
 > Response to a request to confirm held fulfillment order capacity at
       one or more locations.

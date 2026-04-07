@@ -5,12 +5,10 @@ topic: enable-encryption-of-change-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.717Z
+lastCollected: 2026-04-07T18:37:05.439Z
 estimatedTokens: 266
 keywords: [Enable, Encryption, Change, Events, event, bus, tenant, secret, setting, becomes, Settings, starts]
 ---
-
-# Enable Encryption of Change Events
 
 > After you create an event bus tenant secret, a setting becomes available in the
     Encryption Settings page that starts encryption of change events.

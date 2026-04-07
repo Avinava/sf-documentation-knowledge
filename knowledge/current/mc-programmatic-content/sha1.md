@@ -5,12 +5,10 @@ topic: sha1
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.475Z
+lastCollected: 2026-04-07T18:40:21.763Z
 estimatedTokens: 160
-keywords: [SHA1, Function, Ordinal, Alphanumeric, hash, tag, derives, Character, encoding, defaults, UTC, **Overview**, **Syntax**, Usage]
+keywords: [SHA1, Function, Ordinal, Alphanumeric, hash, tag, derives, Character, encoding, defaults, UTC, **Overview**, **Syntax**]
 ---
-
-# SHA1
 
 > SHA1(1, 2)
 

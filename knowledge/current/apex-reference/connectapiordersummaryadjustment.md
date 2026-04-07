@@ -5,12 +5,10 @@ topic: connectapiordersummaryadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.343Z
+lastCollected: 2026-04-07T18:36:10.633Z
 estimatedTokens: 340
-keywords: [ConnectApi.OrderSummaryAdjustment, Adjustment, associated, order, summary]
+keywords: [ConnectApi.OrderSummaryAdjustment, Adjustment, order, summary]
 ---
-
-# ConnectApi.OrderSummaryAdjustment
 
 > Adjustment associated with an order summary.
 

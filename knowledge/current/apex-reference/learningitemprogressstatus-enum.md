@@ -5,12 +5,10 @@ topic: learningitemprogressstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.632Z
+lastCollected: 2026-04-07T18:36:12.921Z
 estimatedTokens: 199
-keywords: [LearningItemProgressStatus, status, user’s, progress, learning, item, Enablement, program, Usage]
+keywords: [LearningItemProgressStatus, status, user’s, progress, learning, item, Enablement, program]
 ---
-
-# LearningItemProgressStatus Enum
 
 > Represents the status of a user’s progress for a learning item in an Enablement
     program.

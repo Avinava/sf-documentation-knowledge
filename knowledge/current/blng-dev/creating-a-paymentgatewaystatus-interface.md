@@ -5,12 +5,10 @@ topic: creating-a-paymentgatewaystatus-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.474Z
+lastCollected: 2026-04-07T18:37:03.042Z
 estimatedTokens: 132
 keywords: [Creating, PaymentGatewayStatus, Salesforce, Billing, implements, populate, TransactionResult’s, GatewayStatus, code, external, gateway, transactionResult]
 ---
-
-# Creating a PaymentGatewayStatus Interface
 
 > Salesforce Billing implements the PaymentGatewayStatus interface to populate the
             TransactionResult’s GatewayStatus enum with the value of the return code

@@ -5,12 +5,10 @@ topic: subscriptions-notifications-member-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.878Z
+lastCollected: 2026-04-07T18:37:15.948Z
 estimatedTokens: 466
 keywords: [Subscriptions, Notifications, Member, Resource, frequency, user, receives, subscription, Subscribe, unsubscribe, receiving]
 ---
-
-# Subscriptions Notifications Member Resource
 
 > Get information about the frequency with which a user receives
       subscription notifications. Subscribe or unsubscribe a user from receiving

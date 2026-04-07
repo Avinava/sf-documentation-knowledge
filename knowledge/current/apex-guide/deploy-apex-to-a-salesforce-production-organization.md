@@ -5,12 +5,10 @@ topic: deploy-apex-to-a-salesforce-production-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.590Z
+lastCollected: 2026-04-07T18:36:17.824Z
 estimatedTokens: 244
-keywords: [Deploy, Apex, Salesforce, Production, Organization, you’ve, finished, unit, tests, verified, code, executing, properly, final, step]
+keywords: [Deploy, Apex, Salesforce, Production, Organization, you’ve, finished, unit, tests, verified, code, executing, properly, final, step, deploying]
 ---
-
-# Deploy Apex to a Salesforce Production Organization
 
 > After you’ve finished all of your unit tests and verified that your Apex code is
         executing properly, the final step is deploying Apex to your Salesforce production

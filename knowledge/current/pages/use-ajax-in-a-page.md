@@ -5,12 +5,10 @@ topic: use-ajax-in-a-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.614Z
+lastCollected: 2026-04-07T18:38:51.917Z
 estimatedTokens: 362
-keywords: [Ajax, Visualforce, components, aware, add, behaviors, writing, any, JavaScript]
+keywords: [Ajax, Visualforce, aware, add, behaviors, writing, any, JavaScript]
 ---
-
-# Use Ajax in a Page
 
 > Some Visualforce components are Ajax aware. With these components,
   you can add Ajax behaviors to a page without writing any

@@ -5,12 +5,10 @@ topic: enable-user-permissions-in-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.536Z
+lastCollected: 2026-04-07T18:39:22.430Z
 estimatedTokens: 306
-keywords: [Enable, User, Permissions, Permission, specify, tasks, users, perform, features, access, App, System, sections]
+keywords: [Enable, User, Permissions, Permission, specify, tasks, users, perform, features, App, System, sections]
 ---
-
-# Enable User Permissions in Permission Sets
 
 > User permissions specify what tasks users can perform and what features users can
     access. In permission sets, you enable user permissions in the App Permissions and System

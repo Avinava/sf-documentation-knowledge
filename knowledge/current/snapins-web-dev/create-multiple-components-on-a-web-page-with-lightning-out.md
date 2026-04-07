@@ -5,12 +5,10 @@ topic: create-multiple-components-on-a-web-page-with-lightning-out
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.536Z
+lastCollected: 2026-04-07T18:40:09.482Z
 estimatedTokens: 364
-keywords: [Multiple, Components, Web, Lightning, Salesforce, outside, domain, Component, Code]
+keywords: [Multiple, Web, Lightning, Salesforce, outside, domain, Code]
 ---
-
-# Create Multiple Components on a Web Page with Lightning Out
 
 > Lightning Out allows you to create Salesforce components outside of the Salesforce
         domain.

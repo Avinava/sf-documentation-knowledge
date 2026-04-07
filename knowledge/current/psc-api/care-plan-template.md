@@ -5,12 +5,10 @@ topic: care-plan-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.160Z
+lastCollected: 2026-04-07T18:39:02.361Z
 estimatedTokens: 235
-keywords: [Care, Plan, Template, Input, representation, benefit, goal, records, associated]
+keywords: [Care, Plan, Template, benefit, goal, records]
 ---
-
-# Care Plan Template
 
 > Input representation of the care plan template benefit and care plan
   template goal records associated with the care plan template.

@@ -5,12 +5,10 @@ topic: using-the-sobject-collection-sync-up-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.419Z
+lastCollected: 2026-04-07T18:40:25.788Z
 estimatedTokens: 529
-keywords: [sObject, Collection, Sync, Target, best, performance, large, operations, Mobile, SDK, 10.1, introduced, iOS, Native, Android]
+keywords: [sObject, Collection, Sync, Target, best, performance, large, operations, Mobile, SDK, 10.1, introduced, iOS, Native, Android, Hybrid, React, Config, Files]
 ---
-
-# Using the sObject Collection Sync Up Target
 
 > For the very best performance in large sync up operations, Mobile SDK 10.1 introduced an
   sObject collection sync up target.

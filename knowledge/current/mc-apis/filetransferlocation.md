@@ -5,12 +5,10 @@ topic: filetransferlocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.851Z
+lastCollected: 2026-04-07T18:40:17.005Z
 estimatedTokens: 455
-keywords: [FileTransferLocation, location, part, file, transfer, activity, import, refer, external, FTP, site, Marketing, Cloud's, enhanced, created]
+keywords: [FileTransferLocation, location, part, file, transfer, activity, import, refer, external, FTP, site, Marketing, Cloud's, enhanced, created, inside, Cloud, cannot, included, Items]
 ---
-
-# FileTransferLocation
 
 > The FileTransferLocation object specifies the location used as part of a file transfer activity or import. The FileTransferLocation object can refer to an external FTP site or Marketing Cloud's enhanced FTP site. This location must be created inside Marketing Cloud, and it cannot be included as part
 

@@ -5,12 +5,10 @@ topic: retrievemscrmrecords
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.323Z
+lastCollected: 2026-04-07T18:40:22.740Z
 estimatedTokens: 480
-keywords: [RetrieveMscrmRecords, Function, Ordinal, Dynamics, CRM, entity, retrieve, records, comma-separated, fie, **Overview**, **Syntax**, Usage]
+keywords: [RetrieveMscrmRecords, Function, Ordinal, Dynamics, CRM, entity, retrieve, records, comma-separated, fie, **Overview**, **Syntax**]
 ---
-
-# RetrieveMscrmRecords
 
 > RetrieveMscrmRecords(1, 2, 3, 4, 5)
 

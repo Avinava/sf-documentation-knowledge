@@ -5,12 +5,10 @@ topic: salesforce-knowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.497Z
+lastCollected: 2026-04-07T18:36:17.732Z
 estimatedTokens: 327
 keywords: [Salesforce, Knowledge, base, users, easily, manage, content, known, articles, quickly, view, they]
 ---
-
-# Salesforce Knowledge
 
 > Salesforce Knowledge is a knowledge base where users can easily create and manage
   content, known as articles, and quickly find and view the articles they need.

@@ -5,12 +5,10 @@ topic: careprovidersearchconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.563Z
+lastCollected: 2026-04-07T18:37:44.923Z
 estimatedTokens: 419
-keywords: [CareProviderSearchConfig, appear, care, provider, search, results, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, specify, arbitrary, objects, source, made]
+keywords: [CareProviderSearchConfig, appear, care, provider, search, results, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, specify, arbitrary, source, made, target, API, 48.0, SOAP, REST]
 ---
-
-# CareProviderSearchConfig
 
 > Represents fields that can appear in provider search results. Use this object
          to specify fields in arbitrary objects (source) that are made available in the search

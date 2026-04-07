@@ -5,12 +5,10 @@ topic: usageentitlementbucket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.810Z
+lastCollected: 2026-04-07T18:35:50.689Z
 estimatedTokens: 1179
-keywords: [UsageEntitlementBucket, usage, entitlement, that's, granted, sellable, product, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [UsageEntitlementBucket, entitlement, that's, granted, sellable, product, API, 63.0]
 ---
-
-# UsageEntitlementBucket
 
 > Represents a usage entitlement that's granted with the sellable
          product. This object is available in API version 63.0 and later.

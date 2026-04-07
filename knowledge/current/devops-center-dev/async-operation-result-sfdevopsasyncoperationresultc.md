@@ -5,12 +5,10 @@ topic: async-operation-result-sfdevopsasyncoperationresultc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.480Z
+lastCollected: 2026-04-07T18:37:28.500Z
 estimatedTokens: 791
-keywords: [Async, Operation, Result, sf_devops__Async_Operation_Result__c, communication, bridge, Heroku, app, DevOps, Center, creates, instance, delegates, certain, asynchronous]
+keywords: [Async, Operation, Result, sf_devops__Async_Operation_Result__c, communication, bridge, Heroku, app, DevOps, Center, creates, instance, delegates, certain, asynchronous, operations, include, merging, branches, source, control, repository, system, VCS, deploying, metadata, environments, orgs, installed, _devops, _Async, _Operation, _Result]
 ---
-
-# Async Operation Result (sf_devops__Async_Operation_Result__c)
 
 > Represents the communication bridge between the Heroku app and DevOps Center.
          DevOps Center creates an instance of Async Operation Result when it delegates certain

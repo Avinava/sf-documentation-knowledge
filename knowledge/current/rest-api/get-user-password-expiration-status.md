@@ -5,12 +5,10 @@ topic: get-user-password-expiration-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.317Z
+lastCollected: 2026-04-07T18:36:21.557Z
 estimatedTokens: 285
-keywords: [User, Password, Expiration, Status, user’s, resource, REST, API, version, 24.0, later]
+keywords: [User, Password, Expiration, Status, user’s, resource, REST, API, 24.0]
 ---
-
-# Get User Password Expiration Status
 
 > Gets a user’s password expiration status based on the specified user ID. A True or False
   value is returned in the response body. This resource is available in REST API version 24.0 and

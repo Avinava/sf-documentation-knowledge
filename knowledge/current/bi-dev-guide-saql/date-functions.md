@@ -5,12 +5,10 @@ topic: date-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:14.005Z
+lastCollected: 2026-04-07T18:37:00.521Z
 estimatedTokens: 1394
 keywords: [Date, Functions, SAQL, perform, time-based, analysis, Understanding, How, Uploaded, Analytics]
 ---
-
-# Date Functions
 
 > Use SAQL date functions to perform time-based analysis.
 

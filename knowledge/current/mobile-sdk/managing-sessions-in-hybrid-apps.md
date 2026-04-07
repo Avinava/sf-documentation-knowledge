@@ -5,12 +5,10 @@ topic: managing-sessions-in-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.776Z
+lastCollected: 2026-04-07T18:40:26.105Z
 estimatedTokens: 1050
-keywords: [Managing, Sessions, Hybrid, Apps, help, resolve, common, issues, often, affect, mobile, SDK, wraps, native, containers]
+keywords: [Managing, Sessions, Hybrid, Apps, help, resolve, common, issues, often, affect, mobile, SDK, wraps, native, containers, provide, seamless, authentication, session, management, internally, OAuth, token, exchanges, However, popular, app, architectures, evolve, “on, REST, APIs, Including, Apex2REST, JavaScript, Remoting, Visualforce]
 ---
-
-# Managing Sessions in Hybrid Apps
 
 > To help resolve common issues that often affect mobile apps, Mobile SDK wraps hybrid apps
 			in native containers. These containers provide seamless authentication and session

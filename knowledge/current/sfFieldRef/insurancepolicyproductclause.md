@@ -5,12 +5,10 @@ topic: insurancepolicyproductclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:50.727Z
+lastCollected: 2026-04-07T18:39:45.281Z
 estimatedTokens: 532
-keywords: [InsurancePolicyProductClause, clauses, associated, products, applicable, specific, insurance, policy, record, clause, product, API, version, 65.0, later]
+keywords: [InsurancePolicyProductClause, clauses, products, applicable, specific, insurance, policy, record, clause, product, API, 65.0]
 ---
-
-# InsurancePolicyProductClause
 
 > Represents all clauses associated with the products that are applicable to a
          specific insurance policy. The object contains one record for each clause associated with a

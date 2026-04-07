@@ -5,12 +5,10 @@ topic: expression-set-assignment-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.083Z
+lastCollected: 2026-04-07T18:39:01.227Z
 estimatedTokens: 138
-keywords: [Expression, Assignment, Step, Input, representation]
+keywords: [Expression, Assignment, Step]
 ---
-
-# Expression Set Assignment Step Input
 
 > Input representation of an assignment step in an expression
     set.

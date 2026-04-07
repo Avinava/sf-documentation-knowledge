@@ -5,12 +5,10 @@ topic: create-commitment-response-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.164Z
+lastCollected: 2026-04-07T18:38:20.919Z
 estimatedTokens: 213
-keywords: [Commitment, Link, Output, representation, links]
+keywords: [Commitment, Link, links]
 ---
-
-# Create Commitment Response Link
 
 > Output representation of the links to the response object.
 

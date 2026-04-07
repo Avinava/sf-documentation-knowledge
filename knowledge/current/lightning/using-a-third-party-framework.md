@@ -5,12 +5,10 @@ topic: using-a-third-party-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.459Z
+lastCollected: 2026-04-07T18:38:03.479Z
 estimatedTokens: 802
-keywords: [Third-Party, Framework, lightning, container, app, developed, AngularJS, React, Aura, component, Upload, resource]
+keywords: [Third-Party, Framework, lightning, container, app, developed, AngularJS, React, Aura, Upload, resource]
 ---
-
-# Using a Third-Party Framework
 
 > lightning:container allows you to use an app
     developed with a third-party framework, such as AngularJS or React, in an Aura component. Upload

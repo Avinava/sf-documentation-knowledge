@@ -5,12 +5,10 @@ topic: collection-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.784Z
+lastCollected: 2026-04-07T18:38:04.936Z
 estimatedTokens: 681
 keywords: [Collection, Checking, Setting, Items, Working, Map]
 ---
-
-# Collection Types
 
 > Here are the supported collection type values.
 

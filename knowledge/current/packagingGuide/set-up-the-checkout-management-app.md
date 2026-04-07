@@ -5,12 +5,10 @@ topic: set-up-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.401Z
+lastCollected: 2026-04-07T18:38:46.260Z
 estimatedTokens: 871
-keywords: [Checkout, Management, App, CMA, setup, tool, connect, Stripe, account, import, data, Salesforce, org, familiar, dashboard]
+keywords: [Checkout, Management, App, CMA, setup, tool, connect, Stripe, account, import, Salesforce, org, familiar, dashboard, choose, customers, team, members, receive, email, notifications]
 ---
-
-# Set Up the Checkout Management App
 
 > Use the Checkout Management App (CMA) setup tool to connect your Stripe account and
         import data into your Salesforce org. Then get familiar with your dashboard and choose when

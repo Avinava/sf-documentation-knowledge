@@ -5,12 +5,10 @@ topic: cgcloudassetauditc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:19.489Z
+lastCollected: 2026-04-07T18:39:12.917Z
 estimatedTokens: 1661
-keywords: [cgcloud__Asset_Audit__c, asset, survey, API, version, 54.0, later, cgcloud, _Asset, _Audit, Calls, Associated, Objects]
+keywords: [cgcloud__Asset_Audit__c, asset, survey, API, 54.0, cgcloud, _Asset, _Audit]
 ---
-
-# cgcloud__Asset_Audit__c
 
 > Represents the details of an asset survey. This object is available in
       API version 54.0 and later.

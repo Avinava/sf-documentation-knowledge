@@ -5,12 +5,10 @@ topic: eligible-clubs-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.995Z
+lastCollected: 2026-04-07T18:38:07.210Z
 estimatedTokens: 106
-keywords: [Eligible, Clubs, Input, club, tier, groups, tiers, whose, members, promotion]
+keywords: [Eligible, Clubs, club, tier, groups, tiers, whose, members, promotion]
 ---
-
-# Eligible Clubs Input
 
 > The club tier groups and tiers whose members are eligible for the promotion.
 

@@ -5,12 +5,10 @@ topic: redemption-cancellation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.381Z
+lastCollected: 2026-04-07T18:38:08.681Z
 estimatedTokens: 250
-keywords: [Redemption, Cancellation, Revert, specific, transactions, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Redemption, Cancellation, Revert, specific, transactions, REST, HTTP]
 ---
-
-# Redemption Cancellation
 
 > Revert a specific set of redemption transactions.
 

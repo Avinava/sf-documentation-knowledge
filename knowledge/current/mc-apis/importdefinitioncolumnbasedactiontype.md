@@ -5,12 +5,10 @@ topic: importdefinitioncolumnbasedactiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.423Z
+lastCollected: 2026-04-07T18:40:17.602Z
 estimatedTokens: 246
 keywords: [ImportDefinitionColumnBasedActionType, action, take, columns, import, definition]
 ---
-
-# ImportDefinitionColumnBasedActionType
 
 > The ImportDefinitionColumnBasedActionType object indicates which action to take on columns during an import definition.
 

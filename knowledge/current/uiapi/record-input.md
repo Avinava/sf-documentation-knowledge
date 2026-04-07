@@ -5,12 +5,10 @@ topic: record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.833Z
+lastCollected: 2026-04-07T18:40:10.802Z
 estimatedTokens: 664
-keywords: [Record, Input, check, duplicate, records]
+keywords: [Record, check, duplicate, records]
 ---
-
-# Record Input
 
 > A description of a record to use in a request to create or update a
       record or in a request to check for duplicate records.

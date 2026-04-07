@@ -5,12 +5,10 @@ topic: territoryprodtqtyallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.083Z
+lastCollected: 2026-04-07T18:38:01.982Z
 estimatedTokens: 726
-keywords: [TerritoryProdtQtyAllocation, quantity, allocation, product, territory, system, validates, against, remaining, maximum, disbursement, limit, API, version, 65.0]
+keywords: [TerritoryProdtQtyAllocation, quantity, allocation, product, territory, system, validates, against, remaining, maximum, disbursement, limit, API, 65.0]
 ---
-
-# TerritoryProdtQtyAllocation
 
 > Represents the quantity allocation of a product to a given territory so that
          the system validates against the remaining quantity or maximum disbursement limit.

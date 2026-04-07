@@ -5,12 +5,10 @@ topic: cgcloudlistingmodulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.489Z
+lastCollected: 2026-04-07T18:39:13.884Z
 estimatedTokens: 835
-keywords: [cgcloud__Listing_Module__c, stores, listing, modules, product, assortment, API, version, 54.0, later, cgcloud, _Listing, _Module, Calls, Associated]
+keywords: [cgcloud__Listing_Module__c, stores, listing, modules, product, assortment, API, 54.0, cgcloud, _Listing, _Module]
 ---
-
-# cgcloud__Listing_Module__c
 
 > This object stores information about listing modules for a product
          assortment. This object is available in API version 54.0 and later.

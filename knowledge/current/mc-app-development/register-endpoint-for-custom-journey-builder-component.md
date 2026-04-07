@@ -5,12 +5,10 @@ topic: register-endpoint-for-custom-journey-builder-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.009Z
+lastCollected: 2026-04-07T18:40:21.286Z
 estimatedTokens: 385
-keywords: [Register, Endpoint, Custom, Journey, Builder, Component, Once, know, hosted, activity, event, Marketing, Cloud, installed, package]
+keywords: [Register, Endpoint, Journey, Builder, Once, know, hosted, activity, event, Marketing, Cloud, installed, package, add, events, activities, app, Items]
 ---
-
-# Register Endpoint for Custom Journey Builder Component
 
 > Once you know the hosted endpoint for your custom activity or event UI, you must register that endpoint in a Marketing Cloud installed package. To add events or activities to an existing Marketing Cloud app, add them as components in the same package.
 

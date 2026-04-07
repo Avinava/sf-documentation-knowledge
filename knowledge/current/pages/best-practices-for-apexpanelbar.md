@@ -5,12 +5,10 @@ topic: best-practices-for-apexpanelbar
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:57.043Z
+lastCollected: 2026-04-07T18:38:49.027Z
 estimatedTokens: 195
-keywords: [Best, Practices, <apex, panelbar>, display, account, data, record, query, URL, https, MyDomain_login_URL, apex, myPage?id=001D000000IRosz]
+keywords: [Best, Practices, <apex, panelbar>, display, account, record, query, URL, https, MyDomain_login_URL, apex, myPage?id=001D000000IRosz]
 ---
-
-# Best Practices for  <apex:panelbar>
 
 > For this page to display account data, the ID of a valid account
 record must be specified as a query parameter in the URL for the page.

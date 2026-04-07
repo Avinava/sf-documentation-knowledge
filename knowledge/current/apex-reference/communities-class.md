@@ -5,13 +5,11 @@ topic: communities-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.424Z
+lastCollected: 2026-04-07T18:35:57.774Z
 estimatedTokens: 713
 namespace: ConnectApi
-keywords: [Communities, Experience, Cloud, sites, org, getCommunities, API, Version, Requires, Chatter, communityStatus, getCommunity, communityId, Guest, Users]
+keywords: [Communities, Experience, Cloud, sites, org, getCommunities, API, Requires, Chatter, communityStatus, getCommunity, communityId, Guest, Users]
 ---
-
-# Communities Class
 
 > Get information about Experience Cloud sites in your org.
 

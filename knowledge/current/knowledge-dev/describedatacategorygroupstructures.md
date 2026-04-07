@@ -5,12 +5,10 @@ topic: describedatacategorygroupstructures
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:05.000Z
+lastCollected: 2026-04-07T18:37:54.304Z
 estimatedTokens: 941
-keywords: [describeDataCategoryGroupStructures, Retrieves, category, groups, along, their, data, structure, objects, Usage, Sample, Code—Java, Code—C#, Arguments, Faults, call, array, containing, categories, associated]
+keywords: [Arguments, Faults, describeDataCategoryGroupStructures, Retrieves, category, groups, along, their, structure, Sample, Code—Java, Code—C#, DataCategory, call, array, containing, categories]
 ---
-
-# describeDataCategoryGroupStructures()
 
 > Retrieves available category groups along with their data category structure for
         objects specified in the request.

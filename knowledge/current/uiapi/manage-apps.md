@@ -5,12 +5,10 @@ topic: manage-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.523Z
+lastCollected: 2026-04-07T18:40:10.498Z
 estimatedTokens: 820
-keywords: [Manage, Apps, app, collection, items, work, together, serve, particular, function, Salesforce, come, two, flavors, Classic]
+keywords: [Manage, Apps, app, collection, items, work, together, serve, particular, function, Salesforce, come, two, flavors, Classic, Lightning, created, managed, Experience, Admins, customize, match, way, users]
 ---
-
-# Manage Apps
 
 > An app is a collection of items that work together to serve a
       particular function. Salesforce apps come in two flavors: Classic apps and Lightning apps.

@@ -5,12 +5,10 @@ topic: collections-and-recovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.702Z
+lastCollected: 2026-04-07T18:36:36.268Z
 estimatedTokens: 163
-keywords: [Collections, Recovery, data, model, streamline, collection, process, prioritized, plans, manage, promise, pay, agreements, better, management]
+keywords: [Collections, Recovery, model, streamline, collection, process, prioritized, plans, manage, promise, pay, agreements, better, management, overdue, amounts]
 ---
-
-# Collections and Recovery
 
 > Use Collections data model to streamline the collection process. Create prioritized lists
                 of collection plans. Create and manage promise to pay agreements for better

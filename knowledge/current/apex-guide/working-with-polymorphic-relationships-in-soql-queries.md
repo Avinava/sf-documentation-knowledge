@@ -5,12 +5,10 @@ topic: working-with-polymorphic-relationships-in-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.022Z
+lastCollected: 2026-04-07T18:36:19.244Z
 estimatedTokens: 842
-keywords: [Working, Polymorphic, Relationships, SOQL, Queries, relationship, objects, referenced, several, different, Task, Contact, Lead]
+keywords: [Working, Polymorphic, Relationships, SOQL, Queries, relationship, referenced, several, different, Task, Contact, Lead]
 ---
-
-# Working with Polymorphic Relationships in SOQL Queries
 
 > A polymorphic relationship is a relationship between objects where a referenced
         object can be one of several different types. For example, the Who relationship field of a Task can be a Contact or a Lead.

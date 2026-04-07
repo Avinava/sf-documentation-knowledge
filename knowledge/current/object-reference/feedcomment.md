@@ -5,12 +5,10 @@ topic: feedcomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.246Z
+lastCollected: 2026-04-07T18:38:32.213Z
 estimatedTokens: 2414
-keywords: [FeedComment, comment, added, feed, user, API, version, 18.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [FeedComment, comment, added, user, API, 18.0]
 ---
-
-# FeedComment
 
 > Represents a comment added to a feed by a user. This object
       is available in API version 18.0 and later.

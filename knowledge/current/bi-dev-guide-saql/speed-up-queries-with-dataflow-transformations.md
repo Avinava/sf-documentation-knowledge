@@ -5,12 +5,10 @@ topic: speed-up-queries-with-dataflow-transformations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.528Z
+lastCollected: 2026-04-07T18:37:01.126Z
 estimatedTokens: 504
-keywords: [Speed, Queries, Dataflow, Transformations, reduce, number, network, round, trips, perform, data, ELT, process, instead, query]
+keywords: [Speed, Queries, Dataflow, Transformations, reduce, number, network, round, trips, perform, ELT, process, instead, query, GEO, Date]
 ---
-
-# Speed Up Queries with Dataflow Transformations
 
 > To speed up your queries and reduce the number of network round trips, perform data
         transformations in the ELT process instead of in the query.

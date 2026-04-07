@@ -5,12 +5,10 @@ topic: add-products-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.188Z
+lastCollected: 2026-04-07T18:37:27.185Z
 estimatedTokens: 369
-keywords: [Add, Products, API, Receive, CPQ, quote, product, collection, group, key, model, provided, added, lines, REST]
+keywords: [Add, Products, API, Receive, CPQ, quote, product, collection, group, key, model, provided, added, lines, REST, Examples, Apex]
 ---
-
-# Add Products API
 
 > Receive a CPQ quote, product collection, and quote group key in a request, and return a
     Quote model with all provided products added as quote lines.

@@ -5,12 +5,10 @@ topic: contactpointemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.446Z
+lastCollected: 2026-04-07T18:38:28.350Z
 estimatedTokens: 1374
-keywords: [ContactPointEmail, contact’s, email, associated, individual, person, account, API, version, 48.0, later, Calls, Objects]
+keywords: [ContactPointEmail, contact’s, email, individual, person, account, API, 48.0]
 ---
-
-# ContactPointEmail
 
 > Represents a contact’s email, which is  associated with an individual
       or person account. This object is available in API version 48.0 and later.

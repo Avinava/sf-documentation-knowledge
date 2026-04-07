@@ -5,13 +5,11 @@ topic: domain-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.710Z
+lastCollected: 2026-04-07T18:36:00.997Z
 estimatedTokens: 1242
 namespace: System
-keywords: [Domain, hosted, Salesforce, serves, org, content, obtain, domains, sandbox, Usage, getDomainType, getMyDomainName, getPackageName, getSandboxName, getSitesSubdomainName]
+keywords: [Domain, hosted, Salesforce, serves, org, content, obtain, domains, sandbox, getDomainType, getMyDomainName, getPackageName, getSandboxName, getSitesSubdomainName]
 ---
-
-# Domain Class
 
 > Represents an existing domain hosted by Salesforce that serves the org
       or its content. Contains methods to obtain information about these domains, such as the domain

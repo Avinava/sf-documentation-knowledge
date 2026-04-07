@@ -5,12 +5,10 @@ topic: cgcloudmobilelinkc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.503Z
+lastCollected: 2026-04-07T18:39:13.898Z
 estimatedTokens: 1731
-keywords: [cgcloud__Mobile_Link__c, Deep, Link, API, version, 54.0, later, cgcloud, _Mobile, _Link, Calls, Associated, Objects]
+keywords: [cgcloud__Mobile_Link__c, Deep, Link, API, 54.0, cgcloud, _Mobile, _Link]
 ---
-
-# cgcloud__Mobile_Link__c
 
 > Deep Link Object. This object is available in API version 54.0
       and later.

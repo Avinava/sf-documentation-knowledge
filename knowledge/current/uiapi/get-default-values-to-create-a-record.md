@@ -5,12 +5,10 @@ topic: get-default-values-to-create-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.266Z
+lastCollected: 2026-04-07T18:40:11.258Z
 estimatedTokens: 847
 keywords: [Record, new, getting, POST, ui-api, records]
 ---
-
-# Get Default Values to Create a Record
 
 > Get the default values for fields for a new record of a specified
       object and optional record type. After getting the default values, make a request to POST /ui-api/records to create the record.

@@ -5,12 +5,10 @@ topic: connectapichangeitemoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.678Z
+lastCollected: 2026-04-07T18:36:08.046Z
 estimatedTokens: 930
-keywords: [financial, changes, resulting, change, OrderItemSummaries, represent, deltas, associated, OrderSummary, sign, opposite, corresponding, order, record, discount]
+keywords: [financial, changes, resulting, change, OrderItemSummaries, represent, deltas, OrderSummary, sign, opposite, corresponding, order, record, discount, positive, negative]
 ---
-
-# ConnectApi.ChangeItemOutputRepresentation
 
 > The financial changes resulting from a change to one or more
       OrderItemSummaries. Most of the values represent the deltas of the values on the associated

@@ -5,12 +5,10 @@ topic: debitmemolinetax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.050Z
+lastCollected: 2026-04-07T18:35:49.022Z
 estimatedTokens: 1051
-keywords: [DebitMemoLineTax, tax, debit, memo, line, API, version, 66.0, later, Calls, Special, Access, Rules]
+keywords: [DebitMemoLineTax, tax, debit, memo, line, API, 66.0]
 ---
-
-# DebitMemoLineTax
 
 > Represents the tax information for a debit memo line. This
       object is available in API version 66.0 and later.

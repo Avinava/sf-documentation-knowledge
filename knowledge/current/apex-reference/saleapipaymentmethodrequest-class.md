@@ -5,13 +5,11 @@ topic: saleapipaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.869Z
+lastCollected: 2026-04-07T18:36:02.087Z
 estimatedTokens: 1717
 namespace: CommercePayments
-keywords: [SaleApiPaymentMethodRequest, data, card, payment, gateway, adapter, sale, service, call, Usage, cardPaymentMethodRequest, cardPaymentMethod, standardEntryClassCode, equals, obj]
+keywords: [SaleApiPaymentMethodRequest, card, payment, gateway, adapter, sale, service, call, cardPaymentMethodRequest, cardPaymentMethod, standardEntryClassCode, equals, obj, hashCode, toString]
 ---
-
-# SaleApiPaymentMethodRequest Class
 
 > Sends data related to a card payment method to a gateway adapter
       during a sale service call.

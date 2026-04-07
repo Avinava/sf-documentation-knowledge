@@ -5,12 +5,10 @@ topic: connection-property-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.329Z
+lastCollected: 2026-04-07T18:36:56.866Z
 estimatedTokens: 90
 keywords: [Connection, pair]
 ---
-
-# Connection Property Value
 
 > A connection property name and value pair.
 

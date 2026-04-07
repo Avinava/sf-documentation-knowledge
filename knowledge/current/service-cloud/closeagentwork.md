@@ -5,12 +5,10 @@ topic: closeagentwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.814Z
+lastCollected: 2026-04-07T18:36:48.870Z
 estimatedTokens: 200
-keywords: [closeAgentWork, Changes, status, work, item, “Closed”, removes, items, Omni-Channel, widget, API, versions, 32.0, later, Arguments]
+keywords: [Arguments, closeAgentWork, Changes, status, work, item, “Closed”, removes, items, Omni-Channel, widget, API, versions, 32.0, Sample, Code–Visualforce]
 ---
-
-# closeAgentWork
 
 > Changes the status of a work item to “Closed” and removes it from the list of work
         items in the Omni-Channel widget. Available in API versions 32.0 and later.

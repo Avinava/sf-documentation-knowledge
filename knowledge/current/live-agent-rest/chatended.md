@@ -5,12 +5,10 @@ topic: chatended
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.122Z
+lastCollected: 2026-04-07T18:38:06.384Z
 estimatedTokens: 78
 keywords: [ChatEnded, chat, ended]
 ---
-
-# ChatEnded
 
 > Indicates that the chat has ended.
 

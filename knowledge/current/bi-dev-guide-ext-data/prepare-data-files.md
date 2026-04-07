@@ -5,12 +5,10 @@ topic: prepare-data-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.570Z
+lastCollected: 2026-04-07T18:36:53.940Z
 estimatedTokens: 209
-keywords: [Prepare, Data, Files, upload, external, csv, dataset]
+keywords: [Prepare, Files, upload, external, csv, dataset]
 ---
-
-# Prepare Data Files
 
 > To upload external data from .csv files into a dataset, first prepare your data
         files.

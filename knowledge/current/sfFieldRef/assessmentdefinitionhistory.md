@@ -5,12 +5,10 @@ topic: assessmentdefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.134Z
+lastCollected: 2026-04-07T18:39:27.103Z
 estimatedTokens: 270
-keywords: [AssessmentDefinitionHistory, History, tracked, AssessmentDefinition]
+keywords: [AssessmentDefinitionHistory, tracked, AssessmentDefinition]
 ---
-
-# AssessmentDefinitionHistory
 
 > History for tracked fields of AssessmentDefinition.
 

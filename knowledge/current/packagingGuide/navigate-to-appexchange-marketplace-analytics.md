@@ -5,12 +5,10 @@ topic: navigate-to-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.244Z
+lastCollected: 2026-04-07T18:38:47.217Z
 estimatedTokens: 108
 keywords: [Navigate, AppExchange, Marketplace, Analytics, Partner, Console, Salesforce, Community]
 ---
-
-# Navigate to AppExchange Marketplace Analytics
 
 > To navigate to AppExchange Marketplace Analytics, go to the Partner Console in the
     Salesforce Partner Community.

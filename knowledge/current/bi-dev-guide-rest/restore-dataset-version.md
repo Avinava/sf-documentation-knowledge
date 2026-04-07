@@ -5,12 +5,10 @@ topic: restore-dataset-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.087Z
+lastCollected: 2026-04-07T18:36:57.607Z
 estimatedTokens: 245
-keywords: [Restore, Dataset, Version, message, Analytics, data, connector, ingest]
+keywords: [Restore, Dataset, message, Analytics, connector, ingest]
 ---
-
-# Restore Dataset Version
 
 > The message returned for an Analytics data connector ingest request or an Analytics
   dataset version update request.

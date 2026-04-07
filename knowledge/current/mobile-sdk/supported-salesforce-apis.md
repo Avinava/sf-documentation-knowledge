@@ -5,12 +5,10 @@ topic: supported-salesforce-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.008Z
+lastCollected: 2026-04-07T18:40:27.223Z
 estimatedTokens: 1736
-keywords: [Salesforce, APIs, RestRequest, factory, extension, wrap, API, calls, provide, construct, network, call]
+keywords: [Salesforce, APIs, RestRequest, factory, extension, wrap, API, provide, construct, network, call]
 ---
-
-# Supported Salesforce APIs
 
 > The RestRequest class provides factory and
         extension methods that wrap Salesforce API calls. These methods use request parameters that

@@ -5,13 +5,11 @@ topic: controlevaluationinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.960Z
+lastCollected: 2026-04-07T18:36:35.449Z
 estimatedTokens: 734
 namespace: ComplianceMgmt
-keywords: [ControlEvaluationInput, input, ComplianceEvaluation, interface's, evaluate, map, ControlInput, stores, business, context, compliance, getControlInputValue, setControlInputValue]
+keywords: [ControlEvaluationInput, ComplianceEvaluation, interface's, evaluate, map, ControlInput, stores, business, context, compliance, getControlInputValue, setControlInputValue]
 ---
-
-# ControlEvaluationInput Class
 
 > Represents the input object used by the ComplianceEvaluation interface's evaluate method.
         It contains a map of ControlInput class that stores the business context value required to

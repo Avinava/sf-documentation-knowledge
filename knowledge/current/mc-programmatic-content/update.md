@@ -5,12 +5,10 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.451Z
+lastCollected: 2026-04-07T18:40:22.880Z
 estimatedTokens: 140
-keywords: [Function, Ordinal, Account, attributes, change, **Overview**, **Syntax**, Attributes, regarding, account, content, area, delivery, profile, Examples, filter, definition, Portfolio, query, send]
+keywords: [Function, Ordinal, Account, attributes, change, **Overview**, **Syntax**, Attributes, regarding, account, content, area, Examples, delivery, profile, filter, definition, Portfolio, query, send, classification, sender, template, triggered]
 ---
-
-# Update
 
 > Update(1)
 

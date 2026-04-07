@@ -5,12 +5,10 @@ topic: using-custom-styles
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.077Z
+lastCollected: 2026-04-07T18:38:52.378Z
 estimatedTokens: 931
-keywords: [Custom, Styles, <apex, stylesheet>, tag, HTML, include, own, style, sheet]
+keywords: [Styles, <apex, stylesheet>, tag, HTML, include, own, style, sheet]
 ---
-
-# Using Custom Styles
 
 > Use the <apex:stylesheet> tag or static
         HTML to include your own style sheet or styles.

@@ -5,13 +5,11 @@ topic: cache-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.974Z
+lastCollected: 2026-04-07T18:35:59.245Z
 estimatedTokens: 632
 namespace: Cache
 keywords: [Cache, Exceptions, exception, classes]
 ---
-
-# Cache Exceptions
 
 > The Cache namespace contains exception
   classes.

@@ -5,12 +5,10 @@ topic: layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.542Z
+lastCollected: 2026-04-07T18:40:17.725Z
 estimatedTokens: 331
 keywords: [Layout]
 ---
-
-# Layout
 
 # Layout
 

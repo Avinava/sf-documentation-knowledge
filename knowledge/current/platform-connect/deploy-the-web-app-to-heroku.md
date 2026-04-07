@@ -5,12 +5,10 @@ topic: deploy-the-web-app-to-heroku
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.809Z
+lastCollected: 2026-04-07T18:38:57.616Z
 estimatedTokens: 1134
 keywords: [Deploy, Web, App, Heroku, run, locally, test, canvas, there]
 ---
-
-# Deploy the Web App to Heroku
 
 > After you run the web app locally and test it as a canvas app, deploy the web app to
     Heroku and run it from there.

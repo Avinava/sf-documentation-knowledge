@@ -5,12 +5,10 @@ topic: loyalty-benefit-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.895Z
+lastCollected: 2026-04-07T18:35:53.911Z
 estimatedTokens: 610
-keywords: [Loyalty, Benefit, DMO, Data, Cloud, model, rewards, gift, cards, API, Category, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Loyalty, Benefit, DMO, Cloud, model, rewards, gift, cards, API, Primary, Subject, Area, Key]
 ---
-
-# Loyalty Benefit Type DMO
 
 > The Loyalty Benefit Type DMO is a Data Cloud data model object (DMO)
       for the type of loyalty benefit, such as rewards or gift cards.

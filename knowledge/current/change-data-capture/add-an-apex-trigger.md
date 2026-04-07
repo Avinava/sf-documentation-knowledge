@@ -5,12 +5,10 @@ topic: add-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.379Z
+lastCollected: 2026-04-07T18:37:05.106Z
 estimatedTokens: 584
-keywords: [Add, Apex, Trigger, quick, start, adds, simple, change, event, how, access, record, message]
+keywords: [Add, Apex, Trigger, quick, start, adds, simple, change, event, how, record, message]
 ---
-
-# Add an Apex Trigger
 
 > The quick start adds a simple change event trigger that shows how to access header
         and record fields in a change event message.

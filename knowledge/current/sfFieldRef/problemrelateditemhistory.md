@@ -5,12 +5,10 @@ topic: problemrelateditemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.431Z
+lastCollected: 2026-04-07T18:39:54.994Z
 estimatedTokens: 268
-keywords: [ProblemRelatedItemHistory, History, tracked, ProblemRelatedItem]
+keywords: [ProblemRelatedItemHistory, tracked, ProblemRelatedItem]
 ---
-
-# ProblemRelatedItemHistory
 
 > History for tracked fields of ProblemRelatedItem.
 

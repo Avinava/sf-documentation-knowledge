@@ -5,12 +5,10 @@ topic: store-and-query-log-data-with-event-log-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.656Z
+lastCollected: 2026-04-07T18:39:22.554Z
 estimatedTokens: 3104
-keywords: [Store, Query, Log, Data, Event, Objects, framework, surfaces, stored, standard, They, critical, via, Salesforce, Platform]
+keywords: [Store, Query, Log, Event, framework, surfaces, stored, standard, They, critical, via, Salesforce, Platform, APIs, contain, events, currently, represented, File, Unlike, Files, surface, CSV, allow, querying, similar, SOQL]
 ---
-
-# Store and Query Log Data with Event Log Objects
 
 > The Event Log Object framework surfaces event data stored in standard objects called
                 Event Log Objects. They store critical event data that you can query via Salesforce

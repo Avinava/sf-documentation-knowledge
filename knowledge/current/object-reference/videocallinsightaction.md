@@ -5,12 +5,10 @@ topic: videocallinsightaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.227Z
+lastCollected: 2026-04-07T18:38:44.035Z
 estimatedTokens: 782
-keywords: [VideoCallInsightAction, suggested, follow-up, action, derived, video, call, insight, manages, recommended, steps—such, sending, email, creating, task]
+keywords: [VideoCallInsightAction, suggested, follow-up, action, derived, video, call, insight, manages, recommended, steps—such, sending, email, creating, task, scheduling, meeting—that, address, specific, moments, including, competitor, mentions, pricing, discussions, objections, API, 66.0]
 ---
-
-# VideoCallInsightAction
 
 > Represents a suggested follow-up action derived from a video call insight.
          VideoCallInsightAction manages recommended steps—such as sending an email, creating a task,

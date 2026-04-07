@@ -5,12 +5,10 @@ topic: make-a-request-in-an-experience-cloud-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.214Z
+lastCollected: 2026-04-07T18:37:24.263Z
 estimatedTokens: 245
 keywords: [Experience, Cloud, Site]
 ---
-
-# Make a Request in an Experience Cloud Site
 
 > Make a request in an Experience Cloud site.
 

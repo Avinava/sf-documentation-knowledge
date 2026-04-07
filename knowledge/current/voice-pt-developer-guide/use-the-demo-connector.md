@@ -5,12 +5,10 @@ topic: use-the-demo-connector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.494Z
+lastCollected: 2026-04-07T18:40:13.421Z
 estimatedTokens: 692
-keywords: [Demo, Connector, sample, application, partner, telephony, systems, integrate, Service, Cloud, Voice, demonstrates, optimal, implementation, group]
+keywords: [Demo, Connector, sample, application, partner, telephony, systems, integrate, Service, Cloud, Voice, demonstrates, optimal, implementation, group, API, mocks, includes, call, simulation, tool, test, actions, making, answering, phone, Start, Verify, Loaded]
 ---
-
-# Use the Demo Connector
 
 > The demo connector is a sample application for partner telephony systems that integrate
     with Service Cloud Voice. It demonstrates an optimal Voice implementation based on a group of

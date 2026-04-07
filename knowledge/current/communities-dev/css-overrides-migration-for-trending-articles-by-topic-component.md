@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-trending-articles-by-topic-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.055Z
+lastCollected: 2026-04-07T18:37:27.030Z
 estimatedTokens: 481
-keywords: [CSS, Overrides, Migration, Trending, Articles, Topic, Component, plan, continue, custom, migrate, forward, template, Full, Title]
+keywords: [CSS, Overrides, Migration, Trending, Articles, Topic, plan, continue, migrate, forward, template, Full, Title, Article, Items, Links]
 ---
-
-# CSS Overrides Migration for Trending Articles by Topic Component
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

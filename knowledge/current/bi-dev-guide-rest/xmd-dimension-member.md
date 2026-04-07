@@ -5,12 +5,10 @@ topic: xmd-dimension-member
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.642Z
+lastCollected: 2026-04-07T18:36:58.200Z
 estimatedTokens: 133
 keywords: [Xmd, Dimension, Member, extended, metadata, linked, Analytics, dataset]
 ---
-
-# Xmd Dimension Member
 
 > The extended metadata (Xmd) for a member linked to a dimension in an Analytics
   dataset.

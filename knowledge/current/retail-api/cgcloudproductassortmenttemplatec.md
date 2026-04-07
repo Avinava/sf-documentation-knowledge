@@ -5,12 +5,10 @@ topic: cgcloudproductassortmenttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.974Z
+lastCollected: 2026-04-07T18:39:14.370Z
 estimatedTokens: 1565
-keywords: [cgcloud__Product_Assortment_Template__c, Template, product, assortments, behavior, instances, business, partner, AccountMultiplicity, dependent, sales, organization, API, version, 54.0]
+keywords: [cgcloud__Product_Assortment_Template__c, Template, product, assortments, behavior, instances, business, partner, AccountMultiplicity, dependent, sales, organization, API, 54.0, cgcloud, _Product, _Assortment, _Template]
 ---
-
-# cgcloud__Product_Assortment_Template__c
 
 > Template for product assortments. Controls the behavior of the
          instances of this template. For example, if a business partner is to be specified

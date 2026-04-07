@@ -5,12 +5,10 @@ topic: displaydurationinmilliseconds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.874Z
+lastCollected: 2026-04-07T18:38:05.031Z
 estimatedTokens: 127
 keywords: [displayDurationInMilliseconds, Displays, length, time, milliseconds, Sample, Code]
 ---
-
-# displayDurationInMilliseconds()
 
 > Displays a length of time in milliseconds.
 

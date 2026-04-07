@@ -5,12 +5,10 @@ topic: b2bexpresssubmitsuborder-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.890Z
+lastCollected: 2026-04-07T18:37:32.056Z
 estimatedTokens: 71
 keywords: [b2bExpress_SubmitSubOrder, API, Submit, order, b2bExpress, _SubmitSubOrder, URI, HTTP]
 ---
-
-# b2bExpress_SubmitSubOrder API
 
 > Submit an order.
 

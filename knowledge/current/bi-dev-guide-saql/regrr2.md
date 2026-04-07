@@ -5,12 +5,10 @@ topic: regrr2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.937Z
+lastCollected: 2026-04-07T18:37:00.451Z
 estimatedTokens: 326
-keywords: [regr_r2, Uses, two, numerical, calculate, R-squared, goodness, fit, understand, how, well, trend, line, fits, data]
+keywords: [regr_r2, Uses, two, numerical, calculate, R-squared, goodness, fit, understand, how, well, trend, line, fits, regr, _r2, Calculated]
 ---
-
-# regr_r2()
 
 > Uses two numerical fields to calculate R-squared, or goodness of fit. Use regr_r2() to understand how well the trend line fits
             your data.

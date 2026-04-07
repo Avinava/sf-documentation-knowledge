@@ -5,12 +5,10 @@ topic: einstein-prompt-record-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.437Z
+lastCollected: 2026-04-07T18:37:18.541Z
 estimatedTokens: 101
 keywords: [Einstein, Prompt, Record, template]
 ---
-
-# Einstein Prompt Record Field
 
 > Field values for the specified prompt template record field.
 

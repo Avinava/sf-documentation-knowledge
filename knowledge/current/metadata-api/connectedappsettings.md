@@ -5,12 +5,10 @@ topic: connectedappsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.418Z
+lastCollected: 2026-04-07T18:36:23.734Z
 estimatedTokens: 487
-keywords: [ConnectedAppSettings, settings, connected, apps, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
+keywords: [ConnectedAppSettings, settings, connected, apps, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# ConnectedAppSettings
 
 > Represents settings for connected apps.
     This type extends the Metadata metadata type and inherits its fullName field.

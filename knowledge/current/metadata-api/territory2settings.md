@@ -5,12 +5,10 @@ topic: territory2settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.658Z
+lastCollected: 2026-04-07T18:36:30.069Z
 estimatedTokens: 1739
-keywords: [Territory2Settings, org’s, Territory2, settings, access, level, Sales, Territories, users, records, associated, enable, features, standard, record]
+keywords: [Territory2Settings, Territory2SettingsOpportunityFilter, Territory2SupportedObject, org’s, Territory2, settings, level, Sales, Territories, users, records, enable, features, standard, record, apply, accounts, opportunities, internal, contacts, cases, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Territory2Settings
 
 > Represents an org’s Territory2 settings. Use Territory2 settings to set the access level
     that Sales Territories users have to records associated with sales territories, and to enable

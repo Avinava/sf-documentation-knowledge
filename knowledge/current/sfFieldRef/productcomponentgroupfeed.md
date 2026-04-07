@@ -5,12 +5,10 @@ topic: productcomponentgroupfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.987Z
+lastCollected: 2026-04-07T18:39:55.554Z
 estimatedTokens: 363
-keywords: [ProductComponentGroupFeed, Feed, tracking, ProductComponentGroup]
+keywords: [ProductComponentGroupFeed, ProductComponentGroup]
 ---
-
-# ProductComponentGroupFeed
 
 > Feed tracking for ProductComponentGroup.
 

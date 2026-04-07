@@ -5,12 +5,10 @@ topic: ocr-template-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.274Z
+lastCollected: 2026-04-07T18:36:39.992Z
 estimatedTokens: 158
-keywords: [OCR, Template, Output, representation]
+keywords: [OCR, Template]
 ---
-
-# OCR Template Output
 
 > Output representation of the details of an OCR
     template.

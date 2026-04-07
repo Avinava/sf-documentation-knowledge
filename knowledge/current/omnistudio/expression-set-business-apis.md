@@ -5,12 +5,10 @@ topic: expression-set-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:55.481Z
+lastCollected: 2026-04-07T18:36:41.174Z
 estimatedTokens: 310
 keywords: [Expression, Business, APIs, Connect, REST, help, customers, partners, ISVs, integrate, Salesforce, software, UIs]
 ---
-
-# Expression Set Business APIs
 
 > Connect REST APIs help customers, partners, and ISVs integrate with Salesforce
         software and UIs.

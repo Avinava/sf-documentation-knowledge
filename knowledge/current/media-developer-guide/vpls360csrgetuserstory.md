@@ -5,12 +5,10 @@ topic: vpls360csrgetuserstory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.478Z
+lastCollected: 2026-04-07T18:38:11.782Z
 estimatedTokens: 137
-keywords: [vpls360csr_GetUserStory, Integration, Procedure, agent, console, customer, story, vpls360csr, _GetUserStory, Sample, Input, Output, Calls]
+keywords: [vpls360csr_GetUserStory, Integration, Procedure, agent, console, customer, story, vpls360csr, _GetUserStory, Sample]
 ---
-
-# vpls360csr_GetUserStory
 
 > This Integration Procedure is used in the agent console to
       get the details of the customer story.

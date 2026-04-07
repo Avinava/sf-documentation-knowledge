@@ -5,12 +5,10 @@ topic: basic-structure-of-the-xmd-json-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.246Z
+lastCollected: 2026-04-07T18:37:02.812Z
 estimatedTokens: 301
-keywords: [Basic, Structure, XMD, JSON, File, block, dataset, design, easier, debug, specific, behavior, maintain, consistent, usage]
+keywords: [Basic, Structure, XMD, JSON, File, block, dataset, design, easier, debug, specific, behavior, maintain, consistent, streamlines, generation, process, doesn’t, support, empty, strings]
 ---
-
-# Basic Structure of the XMD JSON File
 
 > The XMD file is in JSON format. It contains a block of parameters for each dataset
   field. This design makes it easier to debug specific field behavior and maintain consistent syntax

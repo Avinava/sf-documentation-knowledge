@@ -5,12 +5,10 @@ topic: insuranceratingrequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.836Z
+lastCollected: 2026-04-07T18:39:45.395Z
 estimatedTokens: 273
-keywords: [InsuranceRatingRequestHistory, History, tracked, InsuranceRatingRequest]
+keywords: [InsuranceRatingRequestHistory, tracked, InsuranceRatingRequest]
 ---
-
-# InsuranceRatingRequestHistory
 
 > History for tracked fields of InsuranceRatingRequest.
 

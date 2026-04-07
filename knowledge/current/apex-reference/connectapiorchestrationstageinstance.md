@@ -5,12 +5,10 @@ topic: connectapiorchestrationstageinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.012Z
+lastCollected: 2026-04-07T18:36:09.398Z
 estimatedTokens: 218
 keywords: [ConnectApi.OrchestrationStageInstance, Orchestration, stage, instance]
 ---
-
-# ConnectApi.OrchestrationStageInstance
 
 > Orchestration stage instance.
 

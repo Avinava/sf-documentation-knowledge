@@ -5,12 +5,10 @@ topic: special-behavior-in-metadata-api-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.398Z
+lastCollected: 2026-04-07T18:36:29.819Z
 estimatedTokens: 96
-keywords: [Special, Behavior, Metadata, API, Deployments, considerations, specific, contents, deployment]
+keywords: [Behavior, Metadata, API, Deployments, considerations, specific, contents, deployment]
 ---
-
-# Special Behavior in Metadata API Deployments
 
 > Important considerations for specific types and contents
 of a deployment.

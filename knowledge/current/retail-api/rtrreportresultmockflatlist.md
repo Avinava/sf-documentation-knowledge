@@ -5,13 +5,11 @@ topic: rtrreportresultmockflatlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.016Z
+lastCollected: 2026-04-07T18:39:10.472Z
 estimatedTokens: 219
 namespace: The
 keywords: [RTRReportResult.MockFlatlist, mock, responses, unit, test, execution, Implementation]
 ---
-
-# RTRReportResult.MockFlatlist
 
 > This class is used to create mock responses for the unit test execution.
 

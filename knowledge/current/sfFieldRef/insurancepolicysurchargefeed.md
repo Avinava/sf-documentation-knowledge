@@ -5,12 +5,10 @@ topic: insurancepolicysurchargefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.770Z
+lastCollected: 2026-04-07T18:39:45.329Z
 estimatedTokens: 365
-keywords: [InsurancePolicySurchargeFeed, Feed, tracking, InsurancePolicySurcharge]
+keywords: [InsurancePolicySurchargeFeed, InsurancePolicySurcharge]
 ---
-
-# InsurancePolicySurchargeFeed
 
 > Feed tracking for InsurancePolicySurcharge.
 

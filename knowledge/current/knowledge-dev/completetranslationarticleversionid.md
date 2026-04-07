@@ -5,12 +5,10 @@ topic: completetranslationarticleversionid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.469Z
+lastCollected: 2026-04-07T18:37:53.755Z
 estimatedTokens: 71
 keywords: [completeTranslation, articleVersionId, Puts, translation, completed, state, ready, publish]
 ---
-
-# completeTranslation(articleVersionId)
 
 > Puts a translation in a completed state that is ready to
 publish.

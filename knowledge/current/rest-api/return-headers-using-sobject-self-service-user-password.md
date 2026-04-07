@@ -5,12 +5,10 @@ topic: return-headers-using-sobject-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.248Z
+lastCollected: 2026-04-07T18:36:21.486Z
 estimatedTokens: 321
-keywords: [sObject, Self-Service, User, Password, sending, resource, operation, retrieving, content, itself, REST, API, version, 24.0, later]
+keywords: [sObject, Self-Service, User, Password, sending, resource, operation, retrieving, content, itself, REST, API, 24.0]
 ---
-
-# Return Headers Using sObject Self-Service User Password
 
 > Returns only the headers that are returned by sending a GET request to the sObject
   Self-Service User Password resource. This operation allows you to see returned header values of

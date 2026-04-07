@@ -5,12 +5,10 @@ topic: order-summary-authorization-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.643Z
+lastCollected: 2026-04-07T18:37:09.373Z
 estimatedTokens: 295
-keywords: [Order, Summary, Authorization, Input, representation, authorize, guest, access, requested, record]
+keywords: [Order, Summary, Authorization, authorize, guest, requested, record]
 ---
-
-# Order Summary Authorization Input
 
 > Input representation to authorize guest access for the requested order
   summary record.

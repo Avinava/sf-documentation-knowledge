@@ -5,12 +5,10 @@ topic: loyaltyclient
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.163Z
+lastCollected: 2026-04-07T18:38:09.447Z
 estimatedTokens: 149
-keywords: [LoyaltyClient, authentication, network, requests, uses, ForceAuthenticator, handle, access, tokens, Salesforce, API, creates, retrofit, instance, invoke]
+keywords: [LoyaltyClient, authentication, network, requests, uses, ForceAuthenticator, handle, tokens, Salesforce, API, creates, retrofit, instance, invoke, Force, APIs, getNetworkClient]
 ---
-
-# LoyaltyClient
 
 > Create authentication network requests by using the LoyaltyClient class. LoyaltyClient uses ForceAuthenticator, which is an interface that defines the methods
   to handle access tokens in the Salesforce API. LoyaltyClient

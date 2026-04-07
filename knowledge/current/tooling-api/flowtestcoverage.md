@@ -5,12 +5,10 @@ topic: flowtestcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.609Z
+lastCollected: 2026-04-07T18:36:33.092Z
 estimatedTokens: 686
-keywords: [FlowTestCoverage, test, coverage, flow, process, Apex, SOAP, Calls, REST, HTTP, Usage, Sample, Query]
+keywords: [FlowTestCoverage, test, coverage, flow, process, Apex, SOAP, REST, HTTP, Sample, Query]
 ---
-
-# FlowTestCoverage
 
 > Represents test coverage for a flow or
             process by a given Apex method.

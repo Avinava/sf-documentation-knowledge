@@ -5,12 +5,10 @@ topic: paymentscheduleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:58.631Z
+lastCollected: 2026-04-07T18:39:53.148Z
 estimatedTokens: 734
-keywords: [PaymentScheduleItem, payment, schedule, items, item, processed, schedule’s, different, configuration, dates, accounts, scheduler, launches, run, evaluates]
+keywords: [PaymentScheduleItem, payment, schedule, items, item, processed, schedule’s, different, configuration, dates, accounts, scheduler, launches, run, evaluates, active, picks, processing, they, align, scheduler’s, criteria, API, 55.0]
 ---
-
-# PaymentScheduleItem
 
 > A payment schedule contains one or more payment schedule items, where each
          item represents one payment to be processed. Each of a schedule’s items can have different

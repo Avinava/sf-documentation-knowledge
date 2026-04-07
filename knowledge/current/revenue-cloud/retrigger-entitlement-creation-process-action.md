@@ -5,12 +5,10 @@ topic: retrigger-entitlement-creation-process-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.273Z
+lastCollected: 2026-04-07T18:35:40.051Z
 estimatedTokens: 307
-keywords: [Retrigger, Entitlement, Creation, Process, Action, failed, unprocessed, assets, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Retrigger, Entitlement, Creation, Process, Action, failed, unprocessed, assets, REST, HTTP]
 ---
-
-# Retrigger Entitlement Creation Process Action
 
 > Retrigger entitlement creation process for failed or unprocessed
             assets.

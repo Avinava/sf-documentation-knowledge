@@ -5,12 +5,10 @@ topic: cgcloudpicklisttoggleaddonc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.917Z
+lastCollected: 2026-04-07T18:39:14.312Z
 estimatedTokens: 1016
-keywords: [cgcloud__Picklist_Toggle_Addon__c, non-data, It's, purely, define, different, picklists, retail, mobile, don't, any, real, corresponding, RCG, back]
+keywords: [cgcloud__Picklist_Toggle_Addon__c, non-data, It's, purely, define, different, picklists, retail, mobile, don't, any, real, corresponding, RCG, back, end, mapped, Picklist-Toggle-Mapping, concepts, Sync, Package, API, 54.0, cgcloud, _Picklist, _Toggle, _Addon]
 ---
-
-# cgcloud__Picklist_Toggle_Addon__c
 
 > This is a non-data object. It's purely used to define different
          picklists, which are retail mobile only or that don't have any real corresponding field in

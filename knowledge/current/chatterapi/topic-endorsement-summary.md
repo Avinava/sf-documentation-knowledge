@@ -5,12 +5,10 @@ topic: topic-endorsement-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.316Z
+lastCollected: 2026-04-07T18:37:23.427Z
 estimatedTokens: 200
 keywords: [Topic, Endorsement, Summary]
 ---
-
-# Topic Endorsement Summary
 
 > Topic endorsement summary.
 

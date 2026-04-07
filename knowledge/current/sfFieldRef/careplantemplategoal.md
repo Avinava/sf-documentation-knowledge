@@ -5,12 +5,10 @@ topic: careplantemplategoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.796Z
+lastCollected: 2026-04-07T18:39:32.163Z
 estimatedTokens: 359
-keywords: [CarePlanTemplateGoal, junction, care, plan, template, goal, definition, stores, API, version, 55.0, later]
+keywords: [CarePlanTemplateGoal, junction, care, plan, template, goal, definition, stores, API, 55.0]
 ---
-
-# CarePlanTemplateGoal
 
 > Represents a junction between a care plan template and a goal definition.
          This object stores the goal details of a care plan template. This object is available

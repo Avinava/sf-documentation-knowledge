@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.371Z
+lastCollected: 2026-04-07T18:39:09.686Z
 estimatedTokens: 236
 keywords: [Resources, Here’s, Referral, Marketing, API]
 ---
-
-# Resources
 
 > Here’s a list of Referral Marketing API resources.
 

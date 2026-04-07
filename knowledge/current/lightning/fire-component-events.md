@@ -5,12 +5,10 @@ topic: fire-component-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.980Z
+lastCollected: 2026-04-07T18:38:04.081Z
 estimatedTokens: 268
-keywords: [Fire, Component, Events, event, communicate, data, another, handled, fired, containment, hierarchy, receives, Register]
+keywords: [Fire, Events, event, communicate, another, handled, fired, containment, hierarchy, receives, Register]
 ---
-
-# Fire Component Events
 
 > Fire a component event to communicate data to another component. A component event can
   be handled by the component that fired the event or by a component in the containment hierarchy

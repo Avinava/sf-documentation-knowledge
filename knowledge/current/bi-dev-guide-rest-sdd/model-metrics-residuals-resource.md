@@ -5,12 +5,10 @@ topic: model-metrics-residuals-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.504Z
+lastCollected: 2026-04-07T18:36:59.002Z
 estimatedTokens: 239
 keywords: [Model, Metrics, Residuals, Resource, Einstein, Discovery]
 ---
-
-# Model Metrics Residuals Resource
 
 > Returns the metrics residuals for an Einstein Discovery model.
 

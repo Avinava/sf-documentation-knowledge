@@ -5,12 +5,10 @@ topic: message-segment-input-entity-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.445Z
+lastCollected: 2026-04-07T18:37:08.271Z
 estimatedTokens: 134
-keywords: [Message, Segment, Input, Entity, Link]
+keywords: [Message, Segment, Entity, Link]
 ---
-
-# Message Segment Input: Entity Link
 
 > An entity link segment.
 

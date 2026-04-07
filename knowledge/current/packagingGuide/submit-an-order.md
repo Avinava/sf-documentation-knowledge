@@ -5,12 +5,10 @@ topic: submit-an-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.690Z
+lastCollected: 2026-04-07T18:38:46.552Z
 estimatedTokens: 704
 keywords: [Submit, Order, Salesforce, customer, purchases, new, products, requests, changes, subscription, you’re, ordering, verify, customer’s, org]
 ---
-
-# Submit an Order
 
 > Submit an order to Salesforce when a customer purchases new products or requests changes
     to a subscription. If you’re ordering products for a new customer, verify that you have the

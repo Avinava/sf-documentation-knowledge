@@ -5,12 +5,10 @@ topic: platform-cache-internals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.943Z
+lastCollected: 2026-04-07T18:36:18.169Z
 estimatedTokens: 560
 keywords: [Platform, Cache, Internals, uses, local, least, recently, LRU, algorithm, improve, performance, Atomic, Transactions, Eviction]
 ---
-
-# Platform Cache Internals
 
 > Platform Cache uses local cache and a least recently used (LRU) algorithm to improve
     performance.

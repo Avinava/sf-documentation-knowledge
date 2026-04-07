@@ -5,12 +5,10 @@ topic: returnorderownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.591Z
+lastCollected: 2026-04-07T18:38:40.177Z
 estimatedTokens: 680
-keywords: [ReturnOrderOwnerSharingRule, rules, sharing, order, user, records, owner, anyone, above, role, hierarchy, API, version, 42.0, later]
+keywords: [ReturnOrderOwnerSharingRule, sharing, order, user, records, owner, anyone, above, role, hierarchy, API, 42.0]
 ---
-
-# ReturnOrderOwnerSharingRule
 
 > Represents the rules for sharing a return order with user records
 			other than the owner or anyone above the owner in the role hierarchy. This object

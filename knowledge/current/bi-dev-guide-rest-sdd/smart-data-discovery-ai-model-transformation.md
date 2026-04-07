@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-transformation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.026Z
+lastCollected: 2026-04-07T18:36:59.517Z
 estimatedTokens: 368
-keywords: [Smart, Data, Discovery, Model, Transformation, Einstein]
+keywords: [Smart, Discovery, Model, Transformation, Einstein]
 ---
-
-# Smart Data Discovery AI Model Transformation
 
 > An Einstein Discovery AI model transformation.
 

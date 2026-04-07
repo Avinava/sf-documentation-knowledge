@@ -5,12 +5,10 @@ topic: intro-to-marketing-cloud-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.453Z
+lastCollected: 2026-04-07T18:40:17.633Z
 estimatedTokens: 487
-keywords: [Intro, Marketing, Cloud, APIs, offers, two, share, common, authentication, mechanism, OAuth, REST, API, Web, Services]
+keywords: [Intro, Marketing, Cloud, APIs, offers, two, share, common, authentication, mechanism, OAuth, REST, API, Web, Services, SOAP, Items]
 ---
-
-# Intro to Marketing Cloud APIs
 
 > The Marketing Cloud offers two APIs that share a common authentication mechanism based on OAuth 2:
 

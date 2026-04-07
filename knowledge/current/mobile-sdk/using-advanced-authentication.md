@@ -5,12 +5,10 @@ topic: using-advanced-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.719Z
+lastCollected: 2026-04-07T18:40:25.116Z
 estimatedTokens: 1773
-keywords: [Advanced, Authentication, Mobile, SDK, automatically, uses, standard, server, side, however, Salesforce, orgs, choose, configuring, either]
+keywords: [Advanced, Authentication, Mobile, SDK, automatically, uses, standard, server, side, however, Salesforce, orgs, choose, configuring, either, Domain, MDM, auth, requires, small, amount, configuration, apps, User, Flow, iOS, Development, Requirements, Connected, App, Settings, Login, Session, Management]
 ---
-
-# Using Advanced Authentication
 
 > By default, Mobile SDK
         automatically uses standard authentication. On the server side, however, Salesforce orgs can choose

@@ -5,13 +5,11 @@ topic: documentcategorydocumenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.599Z
+lastCollected: 2026-04-07T18:39:38.305Z
 estimatedTokens: 297
 namespace: NamespacePrefix
-keywords: [DocumentCategoryDocumentType, junction, Document, Category, API, version, 59.0, later]
+keywords: [DocumentCategoryDocumentType, junction, Document, Category, API, 59.0]
 ---
-
-# DocumentCategoryDocumentType
 
 > Represents a junction between Document Category and Document Type.  This
       object is available in API version 59.0 and later.

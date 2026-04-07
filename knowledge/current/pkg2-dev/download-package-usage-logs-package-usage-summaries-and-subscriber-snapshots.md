@@ -5,12 +5,10 @@ topic: download-package-usage-logs-package-usage-summaries-and-subscriber-snapsh
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.423Z
+lastCollected: 2026-04-07T18:38:54.797Z
 estimatedTokens: 779
-keywords: [Download, Package, Usage, Logs, Summaries, Subscriber, Snapshots, monthly, AppAnalyticsQueryRequest, downloadable, comma-separated, csv, files]
+keywords: [Download, Package, Logs, Summaries, Subscriber, Snapshots, monthly, AppAnalyticsQueryRequest, downloadable, comma-separated, csv, files]
 ---
-
-# Download Package Usage Logs, Package Usage Summaries, and Subscriber Snapshots
 
 > To request package usage logs, monthly package usage summaries, and subscriber
         snapshots, use the AppAnalyticsQueryRequest object. Usage logs, usage summaries, and

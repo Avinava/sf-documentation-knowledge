@@ -5,12 +5,10 @@ topic: einstein-prompt-template-attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.449Z
+lastCollected: 2026-04-07T18:37:18.546Z
 estimatedTokens: 135
-keywords: [Einstein, Prompt, Template, Attachment, Data, file, attachments, prompts]
+keywords: [Einstein, Prompt, Template, Attachment, file, attachments, prompts]
 ---
-
-# Einstein Prompt Template Attachment
 
 > Data for file attachments to prompts.
 

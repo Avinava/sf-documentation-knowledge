@@ -5,12 +5,10 @@ topic: outreachsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.301Z
+lastCollected: 2026-04-07T18:37:30.364Z
 estimatedTokens: 1762
-keywords: [OutreachSummary, summary, results, outreach, campaign, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [OutreachSummary, summary, results, outreach, campaign, API, 59.0]
 ---
-
-# OutreachSummary
 
 > Represents a summary of results of the outreach campaign. This object is
       available in API version 59.0 and later.

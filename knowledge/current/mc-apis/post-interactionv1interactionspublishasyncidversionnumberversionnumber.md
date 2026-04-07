@@ -5,12 +5,10 @@ topic: post-interactionv1interactionspublishasyncidversionnumberversionnumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.086Z
+lastCollected: 2026-04-07T18:40:18.271Z
 estimatedTokens: 309
-keywords: [POST, interaction, interactions, publishAsync, versionNumber=, versionNumber, Publishes, journey, version, asynchronously, call, resource, assign, API, Integration]
+keywords: [POST, interaction, interactions, publishAsync, versionNumber=, versionNumber, Publishes, journey, asynchronously, call, resource, assign, API, Integration, Automation, scope, **Overview**]
 ---
-
-# POST /interaction/v1/interactions/publishAsync/{id}?versionNumber={versionNumber}
 
 > Publishes a journey version asynchronously. To call this resource, assign your API Integration the Automation | Interactions | Read scope.
 

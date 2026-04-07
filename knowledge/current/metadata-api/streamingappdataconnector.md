@@ -5,12 +5,10 @@ topic: streamingappdataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.484Z
+lastCollected: 2026-04-07T18:36:29.900Z
 estimatedTokens: 633
-keywords: [StreamingAppDataConnector, connection, specific, Web, Mobile, Connectors, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [StreamingAppDataConnector, connection, specific, Web, Mobile, Connectors, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# StreamingAppDataConnector
 
 > Represents the connection information specific to Web and
 			Mobile Connectors.

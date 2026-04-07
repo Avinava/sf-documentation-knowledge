@@ -5,12 +5,10 @@ topic: livechatblockingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.873Z
+lastCollected: 2026-04-07T18:39:46.438Z
 estimatedTokens: 368
-keywords: [LiveChatBlockingRule, rule, blocking, chat, visitors’, addresses, starting, new, chats, agents, API, version, 34.0, later]
+keywords: [LiveChatBlockingRule, rule, blocking, chat, visitors’, addresses, starting, new, chats, agents, API, 34.0]
 ---
-
-# LiveChatBlockingRule
 
 > Represents a rule for blocking chat visitors’ IP addresses from
    starting new chats with agents. This object is available in API version 34.0 and

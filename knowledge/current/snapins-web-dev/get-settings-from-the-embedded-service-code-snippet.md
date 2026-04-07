@@ -5,12 +5,10 @@ topic: get-settings-from-the-embedded-service-code-snippet
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.681Z
+lastCollected: 2026-04-07T18:40:09.619Z
 estimatedTokens: 711
-keywords: [Settings, Embedded, Service, Code, Snippet, Aura, components, Chat, button, deployment, assigned, agent, chatbot, avatar, image]
+keywords: [Settings, Embedded, Service, Code, Snippet, Aura, Chat, button, deployment, assigned, agent, chatbot, avatar, image, URLs]
 ---
-
-# Get Settings from the Embedded Service Code Snippet
 
 > Get settings for use with your Embedded Service Aura components. You can get the Chat
         button ID or deployment ID assigned to your Embedded Service deployment and the agent and

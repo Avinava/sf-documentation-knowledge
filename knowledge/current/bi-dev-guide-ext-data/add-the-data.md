@@ -5,12 +5,10 @@ topic: add-the-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.506Z
+lastCollected: 2026-04-07T18:36:53.875Z
 estimatedTokens: 299
-keywords: [Add, Data, uploading, external, files, InsightsExternalDataPart, load, smaller, chunks]
+keywords: [Add, uploading, external, files, InsightsExternalDataPart, load, smaller, chunks]
 ---
-
-# Add the Data
 
 > When uploading external data files, you can use the InsightsExternalDataPart object to
         load the data in smaller chunks.

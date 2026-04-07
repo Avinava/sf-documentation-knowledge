@@ -5,12 +5,10 @@ topic: removecookie
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.953Z
+lastCollected: 2026-04-07T18:40:23.374Z
 estimatedTokens: 87
 keywords: [RemoveCookie, Function, Ordinal, Identifies, cookie, remove, **Overview**, **Syntax**]
 ---
-
-# RemoveCookie
 
 > RemoveCookie(1)
 

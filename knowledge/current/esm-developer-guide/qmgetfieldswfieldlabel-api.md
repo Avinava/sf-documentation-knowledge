@@ -5,12 +5,10 @@ topic: qmgetfieldswfieldlabel-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.042Z
+lastCollected: 2026-04-07T18:37:32.218Z
 estimatedTokens: 100
 keywords: [QMgetFields_WFieldLabel, API, labels, quote, members, QMgetFields, _WFieldLabel, URI, HTTP]
 ---
-
-# QMgetFields_WFieldLabel API
 
 > Get the field set with fields and labels for the quote members.
 

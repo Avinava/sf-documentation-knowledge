@@ -5,12 +5,10 @@ topic: pricing-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.617Z
+lastCollected: 2026-04-07T18:35:45.620Z
 estimatedTokens: 252
-keywords: [Pricing, Result, Output, representation]
+keywords: [Pricing, Result]
 ---
-
-# Pricing Result
 
 > Output representation of the pricing result.
 

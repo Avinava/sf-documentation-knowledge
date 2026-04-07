@@ -5,12 +5,10 @@ topic: sequence-gap-reconciliation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.922Z
+lastCollected: 2026-04-07T18:35:43.831Z
 estimatedTokens: 247
-keywords: [Sequence, Gap, Reconciliation, Input, representation, identify, reconcile, gaps, policy, target]
+keywords: [Sequence, Gap, Reconciliation, identify, reconcile, gaps, policy, target]
 ---
-
-# Sequence Gap Reconciliation Input
 
 > Input representation of the details that are used to identify and reconcile gaps in
     sequence values based on the sequence policy or target object.

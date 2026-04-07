@@ -5,12 +5,10 @@ topic: caseprogramhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.005Z
+lastCollected: 2026-04-07T18:39:33.420Z
 estimatedTokens: 258
-keywords: [CaseProgramHistory, History, tracked, CaseProgram]
+keywords: [CaseProgramHistory, tracked, CaseProgram]
 ---
-
-# CaseProgramHistory
 
 > History for tracked fields of CaseProgram.
 

@@ -5,13 +5,11 @@ topic: datarow-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.192Z
+lastCollected: 2026-04-07T18:36:01.447Z
 estimatedTokens: 1370
 namespace: VisualEditor
-keywords: [DataRow, item, picklist, Lightning, component, label, selected, clone, compareTo, getLabel, getValue, isSelected]
+keywords: [DataRow, item, picklist, Lightning, label, selected, clone, compareTo, getLabel, getValue, isSelected]
 ---
-
-# DataRow Class
 
 > Contains information about one item in a picklist used in a Lightning component on a Lightning page.
 

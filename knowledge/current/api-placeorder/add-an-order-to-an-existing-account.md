@@ -5,12 +5,10 @@ topic: add-an-order-to-an-existing-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.805Z
+lastCollected: 2026-04-07T18:36:51.092Z
 estimatedTokens: 113
 keywords: [Add, Order, Account, Here’s, POST, resource, products]
 ---
-
-# Add an Order to an Existing Account
 
 > Here’s an example of a POST request using the Create Order resource to create an order with order products for an existing
       account.

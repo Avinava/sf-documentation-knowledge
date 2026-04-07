@@ -5,12 +5,10 @@ topic: signaturetasklineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.565Z
+lastCollected: 2026-04-07T18:40:02.257Z
 estimatedTokens: 316
-keywords: [SignatureTaskLineItem, junction, task, digital, captured, visit, API, version, 50.0, later]
+keywords: [SignatureTaskLineItem, junction, task, digital, captured, visit, API, 50.0]
 ---
-
-# SignatureTaskLineItem
 
 > Represents a junction between a signature task and a digital signature captured
       in a visit.  This object is available in API version 50.0 and later.

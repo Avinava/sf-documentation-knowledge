@@ -5,12 +5,10 @@ topic: claimcoverageprodtprocdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.889Z
+lastCollected: 2026-04-07T18:37:36.708Z
 estimatedTokens: 925
-keywords: [ClaimCoverageProdtProcDef, definition, custom, configurations, that's, processing, claim, coverage, payment, API, version, 65.0, later, Calls]
+keywords: [ClaimCoverageProdtProcDef, definition, configurations, that's, processing, claim, coverage, payment, API, 65.0]
 ---
-
-# ClaimCoverageProdtProcDef
 
 > Represents the definition for custom configurations that's used for
          processing claim coverage payment details. This object is available in API version

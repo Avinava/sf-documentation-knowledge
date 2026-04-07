@@ -5,12 +5,10 @@ topic: stream-subscription-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.594Z
+lastCollected: 2026-04-07T18:37:10.294Z
 estimatedTokens: 154
-keywords: [Stream, Subscription, Input, entity, subscribe, feed]
+keywords: [Stream, Subscription, entity, subscribe]
 ---
-
-# Stream Subscription Input
 
 > An entity to subscribe to for a feed stream.
 

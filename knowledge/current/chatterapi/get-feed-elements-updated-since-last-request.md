@@ -5,12 +5,10 @@ topic: get-feed-elements-updated-since-last-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.162Z
+lastCollected: 2026-04-07T18:37:24.210Z
 estimatedTokens: 544
-keywords: [Feed, Elements, Updated, Since]
+keywords: [Updated, Since]
 ---
-
-# Get Feed Elements Updated Since Last Request
 
 > Get the feed elements updated since the last request.
 

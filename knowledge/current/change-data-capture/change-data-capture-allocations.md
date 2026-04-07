@@ -5,12 +5,10 @@ topic: change-data-capture-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.399Z
+lastCollected: 2026-04-07T18:37:05.131Z
 estimatedTokens: 6546
-keywords: [Change, Data, Capture, Allocations, events, including, number, custom, channels, selected, entities, channel, event, delivery, Common]
+keywords: [Change, Capture, Allocations, events, including, number, channels, selected, entities, channel, event, delivery, Common, Combined, Subscribers, How, Calculated, Avoid, Exceeding, Exceed, Allocation, Increased, AppExchange, Released, Managed, Packages, Increase, Add-On, License, Monitor, Against, Hourly, Track, Trends, SOQL, Queries, PlatformEventUsageMetric]
 ---
-
-# Change Data Capture Allocations
 
 > Learn about the allocations for change events including the number of custom channels,
     selected entities in a channel, and event delivery.

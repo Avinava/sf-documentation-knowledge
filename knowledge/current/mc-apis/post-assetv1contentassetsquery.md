@@ -5,12 +5,10 @@ topic: post-assetv1contentassetsquery
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.188Z
+lastCollected: 2026-04-07T18:40:15.218Z
 estimatedTokens: 1529
-keywords: [POST, asset, content, assets, query, collection, advanced, **Overview**, Sort, Filter, simpleOperators, Usage]
+keywords: [POST, asset, content, assets, query, collection, advanced, **Overview**, Sort, Filter, simpleOperators]
 ---
-
-# POST /asset/v1/content/assets/query
 
 > Gets an asset collection by advanced query.
 

@@ -5,12 +5,10 @@ topic: apexcomponentbody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.364Z
+lastCollected: 2026-04-07T18:38:49.480Z
 estimatedTokens: 223
-keywords: [apex, componentBody, tag, custom, component, author, define, location, user, insert, content, especially, useful, generating, iteration]
+keywords: [Attributes, apex, componentBody, tag, author, define, location, user, insert, content, especially, useful, generating, iteration, <apex, component>, definition, per, compone, Simple, Advanced]
 ---
-
-# apex:componentBody
 
 > This tag allows a custom component author to define a location where a user can insert content into the custom component. This is especially useful for generating custom iteration components. This component is valid only within an <apex:component> tag, and only a single definition per custom compone
 

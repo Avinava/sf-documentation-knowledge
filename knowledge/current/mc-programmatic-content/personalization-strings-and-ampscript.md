@@ -5,12 +5,10 @@ topic: personalization-strings-and-ampscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.264Z
+lastCollected: 2026-04-07T18:40:22.679Z
 estimatedTokens: 1069
-keywords: [Personalization, Strings, AMPscript, system, building, expressions, want, display, different, message, text, day, week, month, add]
+keywords: [Personalization, Strings, AMPscript, system, building, expressions, want, display, different, message, text, day, week, month, add, Marketing, Cloud]
 ---
-
-# Personalization Strings and AMPscript
 
 > Use system personalization strings when building AMPscript expressions. For example, you might want to display a different message or text based on the day of the week or the month. Use these personalization strings to add that information:
 

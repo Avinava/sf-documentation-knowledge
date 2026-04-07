@@ -5,12 +5,10 @@ topic: billingperioditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:03.617Z
+lastCollected: 2026-04-07T18:35:48.606Z
 estimatedTokens: 1487
-keywords: [BillingPeriodItem, payment, period, invoice, billing, item, pass, line, API, version, 62.0, later, Calls, Special, Access]
+keywords: [BillingPeriodItem, payment, period, invoice, billing, item, pass, line, API, 62.0]
 ---
-
-# BillingPeriodItem
 
 > Represents a payment period for an invoice. The billing period item
          is used to pass billing information to an invoice line. This object is available in

@@ -5,12 +5,10 @@ topic: permissionsetlicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.652Z
+lastCollected: 2026-04-07T18:38:37.987Z
 estimatedTokens: 1253
-keywords: [PermissionSetLicense, license, that’s, enable, users, receive, permission, changing, their, profile, reassigning, profiles, licenses, grant, access]
+keywords: [PermissionSetLicense, license, that’s, enable, users, receive, permission, changing, their, profile, reassigning, profiles, licenses, grant, deny, API, 29.0]
 ---
-
-# PermissionSetLicense
 
 > Represents a license that’s used to enable one or more users to
       receive a specified permission without changing their profile or reassigning profiles. You can

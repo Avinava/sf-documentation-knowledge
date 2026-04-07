@@ -5,12 +5,10 @@ topic: file-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.983Z
+lastCollected: 2026-04-07T18:37:13.948Z
 estimatedTokens: 1787
-keywords: [File, including, references, external, files, Upload, new, version, Rename, move, different, folder]
+keywords: [File, including, references, external, files, Upload, new, Rename, move, different, folder]
 ---
-
-# File Information
 
 > Get information about a specified file, including
    references to external files. Upload a new version of an existing file, including references to

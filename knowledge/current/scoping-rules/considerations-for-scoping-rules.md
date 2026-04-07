@@ -5,12 +5,10 @@ topic: considerations-for-scoping-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:27.823Z
+lastCollected: 2026-04-07T18:39:21.693Z
 estimatedTokens: 2036
-keywords: [Considerations, Scoping, Rules, Familiarize, yourself, Creating, SOQL, Modifying, Accounts, Contacts, Person, Performance]
+keywords: [Considerations, Scoping, Familiarize, yourself, Creating, SOQL, Modifying, Accounts, Contacts, Person, Performance]
 ---
-
-# Considerations for Scoping Rules
 
 > Familiarize yourself with these considerations for using scoping rules.
 

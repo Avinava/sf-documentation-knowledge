@@ -5,12 +5,10 @@ topic: fields-on-actionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.585Z
+lastCollected: 2026-04-07T18:37:57.083Z
 estimatedTokens: 197
 keywords: [ActionPlanTemplate, Life, Sciences, Cloud, extend, standard, integration, external, systems]
 ---
-
-# Fields on ActionPlanTemplate
 
 > Life Sciences Cloud fields extend the standard ActionPlanTemplate object for
     integration with external systems.

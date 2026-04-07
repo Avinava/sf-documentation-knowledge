@@ -5,12 +5,10 @@ topic: request-a-follow-up-security-review-for-an-api-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.617Z
+lastCollected: 2026-04-07T18:38:47.571Z
 estimatedTokens: 393
-keywords: [Follow-Up, Security, Review, API, Solution, remediated, vulnerabilities, code, runs, externally, Salesforce, API-only, changed, fix, vulnerabilites]
+keywords: [Follow-Up, Security, Review, API, Solution, remediated, vulnerabilities, code, runs, externally, Salesforce, API-only, changed, fix, vulnerabilites, determine, others, positives, start, new, Solutions, AppExchange, Partner, Console, Submit, false-positives, documentation, There’s, fee, retest]
 ---
-
-# Request a Follow-Up Security Review for an API Solution
 
 > Request a follow-up review when you have remediated vulnerabilities in code
         that runs externally to Salesforce or your API-only solution, or

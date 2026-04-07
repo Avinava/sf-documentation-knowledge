@@ -5,12 +5,10 @@ topic: project-a-custom-fiscal-date-part
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.983Z
+lastCollected: 2026-04-07T18:37:01.594Z
 estimatedTokens: 123
-keywords: [Project, Custom, Fiscal, Date, Part, pass, parts, EXTRACT, function]
+keywords: [Project, Fiscal, Date, Part, pass, parts, EXTRACT, function]
 ---
-
-# Project a Custom Fiscal Date Part
 
 > To project a custom fiscal date part, pass custom fiscal date parts to the EXTRACT() function.
 

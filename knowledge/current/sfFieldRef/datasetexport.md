@@ -5,12 +5,10 @@ topic: datasetexport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.983Z
+lastCollected: 2026-04-07T18:39:37.672Z
 estimatedTokens: 396
-keywords: [DatasetExport, dataset, exported, CRM, Analytics, data, converted, csv, file, schema, stored, separate, JSON, files, two]
+keywords: [DatasetExport, dataset, exported, CRM, Analytics, converted, csv, file, schema, stored, separate, JSON, files, two, DatasetExportPart, acts, includes]
 ---
-
-# DatasetExport
 
 > Represents a dataset exported from CRM Analytics. When a dataset is exported,
       the data is converted into a .csv file and the schema is stored in a separate JSON file. These

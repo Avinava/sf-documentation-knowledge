@@ -5,12 +5,10 @@ topic: base-components-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:24.467Z
+lastCollected: 2026-04-07T18:38:14.937Z
 estimatedTokens: 1259
-keywords: [Base, Components, Support, described, Lightning, Web, reviewed, correct, behavior, LWC, Offline-enabled, mobile, apps, Additional, Component]
+keywords: [Base, Support, described, Lightning, Web, reviewed, correct, behavior, LWC, Offline-enabled, mobile, apps, Additional, Considerations]
 ---
-
-# Base Components Support
 
 > Base components are described in the Lightning Web Components Reference. All components
   are being reviewed for correct behavior in LWC Offline-enabled mobile apps.

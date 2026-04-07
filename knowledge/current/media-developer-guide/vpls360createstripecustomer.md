@@ -5,12 +5,10 @@ topic: vpls360createstripecustomer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.343Z
+lastCollected: 2026-04-07T18:38:11.672Z
 estimatedTokens: 142
-keywords: [VPLS360_CreateStripeCustomer, Integration, Procedure, creates, new, customer, Payment, Gateway, Stripe, VPLS360, _CreateStripeCustomer, Sample, Input, Output, Calls]
+keywords: [VPLS360_CreateStripeCustomer, Integration, Procedure, creates, new, customer, Payment, Gateway, Stripe, VPLS360, _CreateStripeCustomer, Sample]
 ---
-
-# VPLS360_CreateStripeCustomer
 
 > This Integration Procedure creates a new customer in the Payment Gateway
                       (Stripe).

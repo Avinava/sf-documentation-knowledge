@@ -5,12 +5,10 @@ topic: climatechgriskoppsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.450Z
+lastCollected: 2026-04-07T18:38:17.959Z
 estimatedTokens: 2498
-keywords: [ClimateChgRiskOppSummary, climate-related, risks, opportunities, company, discloses, part, ESRS, Climate, change, API, version, 65.0, later, Calls]
+keywords: [ClimateChgRiskOppSummary, climate-related, risks, opportunities, company, discloses, part, ESRS, Climate, change, API, 65.0]
 ---
-
-# ClimateChgRiskOppSummary
 
 > Represents the climate-related risks and opportunities that a company
          discloses as part of ESRS E1 - Climate change. This object is available in API version

@@ -5,12 +5,10 @@ topic: run-record-aggregation-batch-processing-definition-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.077Z
+lastCollected: 2026-04-07T18:39:00.049Z
 estimatedTokens: 373
-keywords: [Run, Record, Aggregation, Batch, Processing, Definition, Action, Runs, Data, Engine, process, asynchronous, job, creates, updates]
+keywords: [Inputs, Outputs, Run, Record, Aggregation, Batch, Processing, Definition, Action, Runs, Engine, process, asynchronous, job, creates, updates, results, REST, HTTP]
 ---
-
-# Run Record Aggregation Batch Processing Definition Action
 
 > Runs a Data Processing Engine definition to process an asynchronous
 			batch job that creates or updates record aggregation results.

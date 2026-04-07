@@ -5,12 +5,10 @@ topic: managed-package-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.788Z
+lastCollected: 2026-04-07T18:36:18.008Z
 estimatedTokens: 873
 keywords: [Managed, Package, Salesforce, supports, creation, distribution, Apex, different, packages, Understand, distinctions, recognize, behavior, vary, across]
 ---
-
-# Managed Package Types
 
 > Salesforce supports the creation and distribution of Apex through different types of
   packages. Understand the distinctions between package types, and recognize that Apex behavior can

@@ -5,12 +5,10 @@ topic: events-for
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.869Z
+lastCollected: 2026-04-07T18:36:48.928Z
 estimatedTokens: 863
-keywords: [Events, handlers, Aura, components, controllers, respond, workspace, tabs, opening, closing, gaining, focus, Lightning, web, subscribe]
+keywords: [Events, handlers, Aura, controllers, respond, workspace, tabs, opening, closing, gaining, focus, Lightning, web, subscribe, application, their, corresponding, message, channels]
 ---
-
-# Events for
 
 > Use events and handlers in your Aura components and controllers to respond to events
   like workspace tabs opening, closing, or gaining focus. In Lightning web components, subscribe to

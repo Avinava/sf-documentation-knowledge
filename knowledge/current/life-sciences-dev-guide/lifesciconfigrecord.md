@@ -5,12 +5,10 @@ topic: lifesciconfigrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.153Z
+lastCollected: 2026-04-07T18:37:58.677Z
 estimatedTokens: 873
-keywords: [LifeSciConfigRecord, configuration, records, Life, Sciences, Cloud, Parent, File, Suffix, Directory, Location, Version, LifeSciConfigAssignment, LifeSciConfigFieldValue, Declarative, record, child, LifeScienceConfigCategory, SOAP, API]
+keywords: [LifeSciConfigRecord, LifeSciConfigAssignment, configuration, records, Life, Sciences, Cloud, Parent, File, Suffix, Directory, Location, LifeSciConfigFieldValue, Declarative, Metadata, Sample, Definition, record, child, LifeScienceConfigCategory, SOAP, API, REST]
 ---
-
-# LifeSciConfigRecord
 
 > Represents a configuration record for Life Sciences. This object is a child
          of LifeScienceConfigCategory.

@@ -5,12 +5,10 @@ topic: anticorruptioninitsumhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.855Z
+lastCollected: 2026-04-07T18:39:25.828Z
 estimatedTokens: 277
-keywords: [AntiCorruptionInitSumHistory, History, tracked, AntiCorruptionInitSum]
+keywords: [AntiCorruptionInitSumHistory, tracked, AntiCorruptionInitSum]
 ---
-
-# AntiCorruptionInitSumHistory
 
 > History for tracked fields of AntiCorruptionInitSum.
 

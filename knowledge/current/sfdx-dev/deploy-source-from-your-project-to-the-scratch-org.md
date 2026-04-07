@@ -5,12 +5,10 @@ topic: deploy-source-from-your-project-to-the-scratch-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.229Z
+lastCollected: 2026-04-07T18:40:08.183Z
 estimatedTokens: 1652
-keywords: [Deploy, Source, Project, Scratch, Org, changing, sync, changes, deploying, changed, start, command, Preview, Deployment, Select]
+keywords: [Deploy, Source, Project, Scratch, Org, changing, sync, changes, deploying, changed, start, command, Preview, Deployment, Select, Files, Ignore, Deploys, Detects, Warnings, File, Conflicts]
 ---
-
-# Deploy Source From Your Project to the Scratch Org
 
 > After changing the source, you can sync the changes to your scratch org by deploying
     the changed source to it with the project deploy start

@@ -5,12 +5,10 @@ topic: orderpaymentsummaryreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:45.830Z
+lastCollected: 2026-04-07T18:38:37.101Z
 estimatedTokens: 1072
-keywords: [OrderPaymentSummaryReference, junction, order, payment, summary, shared, another, API, version, 60.0, later, Calls, Special, Access, Rules]
+keywords: [OrderPaymentSummaryReference, junction, order, payment, summary, shared, another, API, 60.0]
 ---
-
-# OrderPaymentSummaryReference
 
 > OrderPaymentSummaryReference is a junction object that allows an order
          payment summary to be shared with another order summary.  This object is available in

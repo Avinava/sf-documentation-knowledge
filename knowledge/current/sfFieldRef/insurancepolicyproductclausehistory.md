@@ -5,12 +5,10 @@ topic: insurancepolicyproductclausehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.741Z
+lastCollected: 2026-04-07T18:39:45.298Z
 estimatedTokens: 281
-keywords: [InsurancePolicyProductClauseHistory, History, tracked, InsurancePolicyProductClause]
+keywords: [InsurancePolicyProductClauseHistory, tracked, InsurancePolicyProductClause]
 ---
-
-# InsurancePolicyProductClauseHistory
 
 > History for tracked fields of InsurancePolicyProductClause.
 

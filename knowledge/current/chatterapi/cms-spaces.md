@@ -5,12 +5,10 @@ topic: cms-spaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.860Z
+lastCollected: 2026-04-07T18:37:11.666Z
 estimatedTokens: 441
 keywords: [CMS, Spaces, managed, content, space]
 ---
-
-# CMS Spaces
 
 > Get managed content spaces. Create a managed content space.
 

@@ -5,12 +5,10 @@ topic: care-plan-template-benefit-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.826Z
+lastCollected: 2026-04-07T18:39:00.952Z
 estimatedTokens: 113
-keywords: [Care, Plan, Template, Benefit, Input, representation]
+keywords: [Care, Plan, Template, Benefit]
 ---
-
-# Care Plan Template Benefit Input
 
 > Input representation of the care plan template
   benefit.

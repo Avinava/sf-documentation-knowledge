@@ -5,12 +5,10 @@ topic: log-out-of-an-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.850Z
+lastCollected: 2026-04-07T18:40:07.786Z
 estimatedTokens: 463
-keywords: [Log, Org, security, purposes, Salesforce, CLI, any, you’ve, previously, authorized, practice, prevents, users, accessing, orgs]
+keywords: [Log, Org, security, purposes, Salesforce, CLI, any, you’ve, previously, authorized, practice, prevents, users, accessing, orgs, don’t, want]
 ---
-
-# Log Out of an Org
 
 > For security purposes, you can use the Salesforce CLI to log out of any org you’ve
   previously authorized. This practice prevents other users from accessing your orgs if you don’t

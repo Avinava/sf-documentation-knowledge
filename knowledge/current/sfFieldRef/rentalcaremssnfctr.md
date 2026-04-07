@@ -5,12 +5,10 @@ topic: rentalcaremssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.959Z
+lastCollected: 2026-04-07T18:39:59.628Z
 estimatedTokens: 423
-keywords: [RentalCarEmssnFctr, emissions, factors, scope, rental, car, usage]
+keywords: [RentalCarEmssnFctr, emissions, factors, scope, rental, car]
 ---
-
-# RentalCarEmssnFctr
 
 > Represents the emissions factors for scope 3 rental car usage.
 

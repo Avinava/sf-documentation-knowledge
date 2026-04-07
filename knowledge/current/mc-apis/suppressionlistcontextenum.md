@@ -5,12 +5,10 @@ topic: suppressionlistcontextenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.356Z
+lastCollected: 2026-04-07T18:40:20.599Z
 estimatedTokens: 189
-keywords: [SuppressionListContextEnum, possible, contexts, SuppressionListDefinition, associated]
+keywords: [SuppressionListContextEnum, possible, contexts, SuppressionListDefinition]
 ---
-
-# SuppressionListContextEnum
 
 > The SuppressionListContextEnum object contains the possible contexts with which a SuppressionListDefinition can be associated.
 

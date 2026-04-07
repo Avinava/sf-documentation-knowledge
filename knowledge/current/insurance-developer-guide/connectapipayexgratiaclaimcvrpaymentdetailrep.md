@@ -5,12 +5,10 @@ topic: connectapipayexgratiaclaimcvrpaymentdetailrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.746Z
+lastCollected: 2026-04-07T18:37:50.644Z
 estimatedTokens: 343
-keywords: [Output, representation, gratia, payment, that’s, made, claim, coverage, detail]
+keywords: [gratia, payment, that’s, made, claim, coverage, detail]
 ---
-
-# ConnectApi.PayExGratiaClaimCvrPaymentDetailRep
 
 > Output representation for the details of the ex gratia payment that’s made for the claim coverage payment detail.
 

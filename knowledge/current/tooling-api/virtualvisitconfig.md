@@ -5,12 +5,10 @@ topic: virtualvisitconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.397Z
+lastCollected: 2026-04-07T18:36:34.842Z
 estimatedTokens: 1702
-keywords: [VirtualVisitConfig, configuration, external, video, provider, relays, events, Salesforce, API, version, 56.0, later, SOAP, Calls, REST]
+keywords: [VirtualVisitConfig, configuration, external, video, provider, relays, events, Salesforce, API, 56.0, SOAP, REST]
 ---
-
-# VirtualVisitConfig
 
 > Represents the configuration of an external video provider, which
          relays events from Salesforce to the provider. This object is available in API version

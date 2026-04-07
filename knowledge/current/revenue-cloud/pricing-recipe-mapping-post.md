@@ -5,12 +5,10 @@ topic: pricing-recipe-mapping-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.782Z
+lastCollected: 2026-04-07T18:35:44.792Z
 estimatedTokens: 267
 keywords: [Pricing, Recipe, Mapping, POST, Decision, Tables, recipes, lookup, procedures]
 ---
-
-# Pricing Recipe Mapping (POST)
 
 > Create a mapping between the pricing recipe and the Decision Tables.
       Post recipes with lookup tables or procedures.

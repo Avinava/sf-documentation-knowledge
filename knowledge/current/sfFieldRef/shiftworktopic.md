@@ -5,12 +5,10 @@ topic: shiftworktopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.353Z
+lastCollected: 2026-04-07T18:40:02.064Z
 estimatedTokens: 381
-keywords: [ShiftWorkTopic, relationship, Shift, Work, Group, Salesforce, Scheduler, API, version, 56.0, later]
+keywords: [ShiftWorkTopic, relationship, Shift, Work, Group, Salesforce, Scheduler, API, 56.0]
 ---
-
-# ShiftWorkTopic
 
 > Represents the relationship between a Shift object and a Work Type or
          Work Type Group object for Salesforce Scheduler. This object is available in API

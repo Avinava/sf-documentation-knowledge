@@ -6,13 +6,10 @@ topic: connectapi-versioning-and-equality-checking
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.745Z
+lastCollected: 2026-04-07T18:36:16.930Z
 estimatedTokens: 474
-keywords: [ConnectApi, Versioning, Equality, Checking, classes, follows, specific, rules, different, Apex]
+keywords: [ConnectApi, Versioning, Equality, Checking, classes, follows, specific, different, Apex]
 ---
-
-# ConnectApi Versioning and Equality
-        Checking
 
 > Versioning in ConnectApi classes follows
         specific rules that are different than the rules for other Apex classes.

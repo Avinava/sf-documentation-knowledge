@@ -6,13 +6,10 @@ topic: what-is-salesforce-lightning
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.216Z
+lastCollected: 2026-04-07T18:38:04.351Z
 estimatedTokens: 400
-keywords: [Salesforce, Lightning, includes, Component, Framework, exciting, tools, developers, easier, build, responsive, applications, any, device]
+keywords: [Salesforce, Lightning, includes, Framework, exciting, tools, developers, easier, build, responsive, applications, any, device]
 ---
-
-# What is Salesforce
-      Lightning?
 
 > Lightning includes the Lightning Component Framework and some exciting tools for
     developers. Lightning makes it easier to build responsive applications for any

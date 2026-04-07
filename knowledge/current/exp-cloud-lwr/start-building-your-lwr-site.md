@@ -5,12 +5,10 @@ topic: start-building-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.024Z
+lastCollected: 2026-04-07T18:37:33.359Z
 estimatedTokens: 787
-keywords: [Start, Building, LWR, Site, initial, steps, basic, Experience, Cloud, running, creating, custom, Lightning, web, components]
+keywords: [Start, Building, LWR, Site, initial, steps, basic, Experience, Cloud, running, creating, Lightning, web]
 ---
-
-# Start Building Your LWR Site
 
 > Learn about the initial steps to get a basic LWR in Experience Cloud site up and
     running, such as creating custom Lightning web components.

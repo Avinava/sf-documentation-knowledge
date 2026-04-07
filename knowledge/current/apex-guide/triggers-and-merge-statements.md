@@ -5,12 +5,10 @@ topic: triggers-and-merge-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.560Z
+lastCollected: 2026-04-07T18:36:18.779Z
 estimatedTokens: 436
 keywords: [Triggers, Merge, Statements, two, contacts, merged, contact, fire, records, accounts, opportunities]
 ---
-
-# Triggers and Merge Statements
 
 > For example, if two contacts are merged, only the delete and update
 contact triggers fire. No triggers for records related to the contacts,

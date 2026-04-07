@@ -5,12 +5,10 @@ topic: cancel-approval-submission-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.874Z
+lastCollected: 2026-04-07T18:35:39.658Z
 estimatedTokens: 308
-keywords: [Cancel, Approval, Submission, Action, Cancels, child, work, items, haven't, completed, add, comments, why, admin, made]
+keywords: [Inputs, Outputs, Cancel, Approval, Submission, Action, Cancels, child, work, items, haven't, completed, add, comments, why, admin, made, cancellation, REST, HTTP]
 ---
-
-# Cancel Approval Submission Action
 
 > Cancels an approval submission and all child approval work items
             that haven't been completed. You can also add comments about why the approval admin made

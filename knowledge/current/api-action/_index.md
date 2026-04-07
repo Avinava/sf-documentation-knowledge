@@ -2,7 +2,7 @@
 domain: api-action
 name: Actions Developer Guide
 documentCount: 0
-lastGenerated: 2026-04-07T09:06:35.597Z
+lastGenerated: 2026-04-07T18:40:41.057Z
 ---
 
 # Actions Developer Guide — Knowledge Index

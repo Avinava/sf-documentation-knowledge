@@ -5,12 +5,10 @@ topic: features-configuration-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.061Z
+lastCollected: 2026-04-07T18:36:55.493Z
 estimatedTokens: 85
 keywords: [Features, Configuration, Resource, Analytics, user]
 ---
-
-# Features Configuration Resource
 
 > The Analytics features that are
       available to a user.

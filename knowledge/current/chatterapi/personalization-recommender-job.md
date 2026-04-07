@@ -5,12 +5,10 @@ topic: personalization-recommender-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.634Z
+lastCollected: 2026-04-07T18:37:21.744Z
 estimatedTokens: 158
 keywords: [Personalization, Recommender, Job]
 ---
-
-# Personalization Recommender Job
 
 > Contains the details of a personalization recommender job.
 

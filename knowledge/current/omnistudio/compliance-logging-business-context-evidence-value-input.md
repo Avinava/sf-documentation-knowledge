@@ -5,12 +5,10 @@ topic: compliance-logging-business-context-evidence-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.985Z
+lastCollected: 2026-04-07T18:36:36.510Z
 estimatedTokens: 96
-keywords: [Compliance, Logging, Business, Context, Evidence, Input, representation, generic]
+keywords: [Compliance, Logging, Business, Context, Evidence, generic]
 ---
-
-# Compliance Logging Business Context Evidence Value Input
 
 > Input representation of the generic context and evidence value.
 

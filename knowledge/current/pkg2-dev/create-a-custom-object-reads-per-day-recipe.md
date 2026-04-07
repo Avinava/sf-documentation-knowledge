@@ -5,12 +5,10 @@ topic: create-a-custom-object-reads-per-day-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.224Z
+lastCollected: 2026-04-07T18:38:54.621Z
 estimatedTokens: 278
-keywords: [Custom, Reads, Per, Day, Recipe, produces, unique, count, how, times]
+keywords: [Reads, Per, Day, Recipe, produces, unique, count, how, times]
 ---
-
-# Create a Custom Object Reads Per Day Recipe
 
 > This recipe produces a unique count of how many times per day a custom object was
   read.

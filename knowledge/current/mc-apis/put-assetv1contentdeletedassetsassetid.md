@@ -5,12 +5,10 @@ topic: put-assetv1contentdeletedassetsassetid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.604Z
+lastCollected: 2026-04-07T18:40:20.860Z
 estimatedTokens: 442
 keywords: [PUT, asset, content, deletedAssets, AssetID, Updates, Builder, category, **Overview**]
 ---
-
-# PUT /asset/v1/content/deletedAssets/[AssetID]
 
 > Updates one Content Builder category by ID.
 

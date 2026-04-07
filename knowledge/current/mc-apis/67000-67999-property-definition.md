@@ -5,12 +5,10 @@ topic: 67000-67999-property-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.864Z
+lastCollected: 2026-04-07T18:40:14.881Z
 estimatedTokens: 520
 keywords: [67000-67999, Definition]
 ---
-
-# 67000-67999 Property Definition
 
 # 67000-67999 Property Definition
 

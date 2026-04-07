@@ -5,12 +5,10 @@ topic: configurator-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.108Z
+lastCollected: 2026-04-07T18:35:42.992Z
 estimatedTokens: 488
-keywords: [Configurator, Options, Input, representation, product, configuration, that’s, passed]
+keywords: [Configurator, Options, product, configuration, that’s, passed]
 ---
-
-# Configurator Options Input
 
 > Input representation of the request to get the product configuration options that’s
     passed to the configurator.

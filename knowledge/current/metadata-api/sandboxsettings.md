@@ -5,12 +5,10 @@ topic: sandboxsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.928Z
+lastCollected: 2026-04-07T18:36:29.406Z
 estimatedTokens: 491
-keywords: [SandboxSettings, Sandbox, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
+keywords: [SandboxSettings, Sandbox, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SandboxSettings
 
 > Represents Sandbox settings. This type extends the Metadata metadata type and inherits its fullName field.
 

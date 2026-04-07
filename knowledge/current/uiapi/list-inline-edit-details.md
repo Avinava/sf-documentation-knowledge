@@ -5,12 +5,10 @@ topic: list-inline-edit-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.745Z
+lastCollected: 2026-04-07T18:40:11.759Z
 estimatedTokens: 125
 keywords: [Inline, Edit]
 ---
-
-# List Inline Edit Details
 
 > List inline edit details.
 

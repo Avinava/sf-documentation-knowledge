@@ -5,12 +5,10 @@ topic: attributevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.564Z
+lastCollected: 2026-04-07T18:40:21.882Z
 estimatedTokens: 158
-keywords: [AttributeValue, Function, Ordinal, attribute, **Overview**, **Syntax**, Usage]
+keywords: [AttributeValue, Function, Ordinal, attribute, **Overview**, **Syntax**]
 ---
-
-# AttributeValue
 
 > AttributeValue(1)
 

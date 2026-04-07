@@ -5,12 +5,10 @@ topic: isvforce-guide-build-and-distribute-appexchange-solutions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.033Z
+lastCollected: 2026-04-07T18:38:47.000Z
 estimatedTokens: 1396
-keywords: [ISVforce, Build, Distribute, AppExchange, Solutions, thriving, Salesforce, business, independent, software, vendor, ISV, Start, joining, Partner]
+keywords: [ISVforce, Build, Distribute, AppExchange, Solutions, thriving, Salesforce, business, independent, software, vendor, ISV, Start, joining, Partner, Program, getting, familiar, helpful, resources, consulting, journey, plan, sell, support, marketplace]
 ---
-
-# ISVforce Guide: Build and Distribute AppExchange Solutions
 
 > Build a thriving Salesforce business as an independent software vendor (ISV). Start by
     joining the Salesforce Partner Program and getting familiar with helpful resources for your

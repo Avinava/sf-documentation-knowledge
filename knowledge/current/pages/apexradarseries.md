@@ -5,12 +5,10 @@ topic: apexradarseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.239Z
+lastCollected: 2026-04-07T18:38:50.514Z
 estimatedTokens: 1073
-keywords: [apex, radarSeries, data, series, rendered, area, inside, connected, points, radial, Visualforce, chart, Radar, charts, sometimes]
+keywords: [Attributes, apex, radarSeries, series, rendered, area, inside, connected, points, radial, Visualforce, chart, Radar, charts, sometimes, spider, web, minimum, specify, collection, point, well, axis]
 ---
-
-# apex:radarSeries
 
 > A data series to be rendered as the area inside a series of connected points in a radial Visualforce chart. Radar charts are also sometimes called "spider web" charts. At a minimum you must specify the fields in the data collection to use as X and Y values for each point, as well as a radial axis to
 

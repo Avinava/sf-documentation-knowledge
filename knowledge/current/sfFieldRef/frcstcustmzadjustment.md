@@ -5,12 +5,10 @@ topic: frcstcustmzadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.779Z
+lastCollected: 2026-04-07T18:39:41.414Z
 estimatedTokens: 455
-keywords: [FrcstCustmzAdjustment, individual, forecast, manager’s, adjustment, subordinate’s, consumption, API, version, 63.0, later, different, ForecastingAdjustment, managers’, adjustments]
+keywords: [FrcstCustmzAdjustment, individual, forecast, manager’s, adjustment, subordinate’s, consumption, API, 63.0, different, ForecastingAdjustment, managers’, adjustments, subordinates’, pipeline, forecasts]
 ---
-
-# FrcstCustmzAdjustment
 
 > Represents an individual forecast manager’s adjustment of a subordinate’s
          consumption forecast.  Available in API version 63.0 and later. This object is

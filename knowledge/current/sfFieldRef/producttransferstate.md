@@ -5,12 +5,10 @@ topic: producttransferstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.792Z
+lastCollected: 2026-04-07T18:39:56.333Z
 estimatedTokens: 356
-keywords: [ProductTransferState, action, taken, associate, serialized, product, transfer, new, state, result, record, created, products, attached, API]
+keywords: [ProductTransferState, action, taken, associate, serialized, product, transfer, new, state, result, record, created, products, attached, API, 60.0]
 ---
-
-# ProductTransferState
 
 > Represents an action taken to associate a serialized product with a product
          transfer. The new state is a result of the action. A product transfer state record is

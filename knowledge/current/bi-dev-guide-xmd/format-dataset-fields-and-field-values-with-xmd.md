@@ -5,12 +5,10 @@ topic: format-dataset-fields-and-field-values-with-xmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.237Z
+lastCollected: 2026-04-07T18:37:02.803Z
 estimatedTokens: 806
 keywords: [Dataset, XMD, topics, explore, common, uses, Almost, functionality, now, CRM, Analytics, dashboards, lenses]
 ---
-
-# Format Dataset Fields and Field Values with XMD
 
 > These topics explore some common uses of XMD. Almost all of the XMD functionality is now
   supported in the UI for CRM Analytics dashboards and lenses.

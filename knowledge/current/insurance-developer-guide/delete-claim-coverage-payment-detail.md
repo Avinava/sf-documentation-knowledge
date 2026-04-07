@@ -5,12 +5,10 @@ topic: delete-claim-coverage-payment-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.014Z
+lastCollected: 2026-04-07T18:37:52.140Z
 estimatedTokens: 152
-keywords: [Claim, Coverage, Payment, Detail, Output, representation, deleted]
+keywords: [Claim, Coverage, Payment, Detail, deleted]
 ---
-
-# Delete Claim Coverage Payment Detail
 
 > Output representation for the deleted claim coverage payment detail.
 

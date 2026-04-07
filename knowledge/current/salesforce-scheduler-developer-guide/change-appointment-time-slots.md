@@ -5,12 +5,10 @@ topic: change-appointment-time-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.634Z
+lastCollected: 2026-04-07T18:39:21.491Z
 estimatedTokens: 574
-keywords: [Change, Appointment, Time, Slots, slot, period, day, place, multi-resource, service, modified, show, alternative, tome, assigned]
+keywords: [Change, Appointment, Time, Slots, slot, period, day, place, multi-resource, service, modified, show, alternative, tome, assigned, resources, getAppointmentSlots, REST, API]
 ---
-
-# Change Appointment Time Slots
 
 > A time slot represents a period in a day when an appointment takes place. a
       multi-resource service appointment can be modified. To show the alternative tome slots for the

@@ -5,12 +5,10 @@ topic: soql-select-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.092Z
+lastCollected: 2026-04-07T18:40:10.047Z
 estimatedTokens: 272
-keywords: [SOQL, SELECT, Functions, queries, generate, reports, analysis, apply, localized, formatting, standard, custom, group, filter, data]
+keywords: [SOQL, SELECT, Functions, queries, generate, reports, analysis, apply, localized, formatting, standard, group, filter, date, periods]
 ---
-
-# SOQL SELECT Functions
 
 > Use functions in SOQL queries to generate reports for analysis, apply localized
     formatting to standard and custom fields, group or filter data by date periods, and
