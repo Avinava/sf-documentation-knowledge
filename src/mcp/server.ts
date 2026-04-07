@@ -33,7 +33,7 @@ const codeIndex = new CodeIndex(KNOWLEDGE_DIR);
 
 const server = new McpServer({
   name: "sf-documentation-knowledge",
-  version: "2.0.0",
+  version: "2.0.1",
 });
 
 // ─── Helper: build next-action suggestions ──────────────────────
@@ -1088,7 +1088,7 @@ async function main() {
   const { nodes, edges } = gq.getStats();
   const { totalSnippets } = codeIndex.getStats();
   console.error(
-    `@sfdxy/sf-documentation-knowledge MCP Server v2.0.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 10 tools + 4 prompts + 4 resources)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v2.0.1 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 10 tools + 4 prompts + 4 resources)`,
   );
 }
 
