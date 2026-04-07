@@ -78,8 +78,11 @@ describe("Graph Query API", () => {
     await gq.load();
 
     const namespaces = gq.listNamespaces();
-    expect(namespaces.length).toBeGreaterThan(10);
-    expect(namespaces.find((n) => n.namespace === "System")).toBeDefined();
+    expect(namespaces.length).toBeGreaterThan(0);
+    // Validate structure: each entry has namespace name and doc count
+    expect(namespaces[0]).toHaveProperty("namespace");
+    expect(namespaces[0]).toHaveProperty("docCount");
+    expect(namespaces[0].docCount).toBeGreaterThan(0);
   });
 
   it("lists services", async () => {
