@@ -16,8 +16,8 @@ and there's a well-documented 70% accuracy ceiling.
 1. **Context Engineering** — Pre-compiled, curated Markdown files (2-4K tokens)
    with `_index.md` routing tables. LLMs read the index, pick the right file.
 
-2. **MCP Server** — Model Context Protocol tools that agents discover and call
-   on-demand (`sf_search`, `sf_read_topic`, `sf_graph_query`, `sf_apex_lookup`, `sf_list_domains`)
+2. **MCP Server** — 10 Model Context Protocol tools that agents discover and call
+   on-demand (`sf_search`, `sf_semantic_search`, `sf_read_topic`, `sf_graph_query`, `sf_list_domains`, `sf_apex_lookup`, `sf_code_examples`, `sf_object_reference`, `sf_explain_error`, `sf_limits`)
 
 3. **Knowledge Graph** — Directed graph (53k+ nodes, 450k+ edges) with 9 edge types
    connecting documents, namespaces, service categories, and cross-references.
@@ -77,7 +77,9 @@ and there's a well-documented 70% accuracy ceiling.
 ### MCP Server (Layer 4)
 
 - **server.ts**: stdio-based MCP server powered by `graph-query.ts`
-- 5 tools: `sf_search`, `sf_read_topic`, `sf_graph_query`, `sf_list_domains`, `sf_apex_lookup`
+- 10 tools: `sf_search`, `sf_semantic_search`, `sf_read_topic`, `sf_graph_query`, `sf_list_domains`, `sf_apex_lookup`, `sf_code_examples`, `sf_object_reference`, `sf_explain_error`, `sf_limits`
+- 4 prompt templates: `explore_api`, `debug_apex`, `compare_services`, `write_apex`
+- 4 resources: `sf://overview`, `sf://domains`, `sf://namespaces`, `sf://services`
 - Loads full 53k-node graph into memory for fast traversal
 
 ## Domain Registry

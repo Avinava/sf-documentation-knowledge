@@ -19,7 +19,7 @@
 This system programmatically collects **all** Salesforce documentation from `developer.salesforce.com` (121 domains, 31,000+ pages), processes it into structured, curated knowledge files, and serves them to LLM agents via:
 
 1. **Context Engineering** — Pre-compiled Markdown files with `_index.md` routing tables
-2. **MCP Server** — 5 tools + 3 prompt templates via Model Context Protocol
+2. **MCP Server** — 10 tools + 4 prompts + 4 resources via Model Context Protocol
 3. **Knowledge Graph** — 53,000+ nodes and 450,000+ edges connecting SF concepts, namespaces, services, and cross-references
 
 No embeddings. No vector stores. No blind chunking.
@@ -137,11 +137,12 @@ Or via npx (no clone required):
 npx -y -p @sfdxy/sf-documentation-knowledge sf-docs-mcp
 ```
 
-### Tools (9)
+### Tools (10)
 
 | Tool | Purpose | Example Usage |
 |---|---|---|
 | `sf_search` | Search across all 121 SF documentation domains | *"Find docs about Platform Events"* |
+| `sf_semantic_search` | AI-powered semantic search with NLP query understanding | *"how to process records in bulk"* |
 | `sf_read_topic` | Read a specific documentation topic's content | *Read the SOQL reference page* |
 | `sf_graph_query` | Navigate the knowledge graph — related docs, namespaces, services | *"Show all docs in the System namespace"* |
 | `sf_list_domains` | List all available domains, filter by service category | *"List analytics domains"* |
