@@ -73,26 +73,32 @@ jobs:
             "mcpServers": {
               "sf-docs": {
                 "command": "npx",
-                "args": ["-y", "@sfdxy/sf-documentation-knowledge@${{ steps.version.outputs.VERSION }}"]
+                "args": ["-y", "-p", "@sfdxy/sf-documentation-knowledge@${{ steps.version.outputs.VERSION }}", "sf-docs-mcp"]
               }
             }
           }
           ```
 
-          ## Available MCP Tools
+          > **Note:** The `-p` flag installs the package and `sf-docs-mcp` explicitly invokes the MCP server binary (not the data pipeline CLI).
+
+          ## Available MCP Tools (9)
           | Tool | Purpose |
           |---|---|
           | `sf_search` | Search across 121 SF documentation domains |
           | `sf_read_topic` | Read a specific documentation topic |
           | `sf_graph_query` | Navigate the knowledge graph |
           | `sf_list_domains` | List all available domains |
-          | `sf_apex_lookup` | Look up Apex classes |
+          | `sf_apex_lookup` | Look up Apex classes and methods |
+          | `sf_code_examples` | Find working code snippets |
+          | `sf_object_reference` | Look up Salesforce objects and fields |
+          | `sf_explain_error` | Decode error messages with resolution steps |
+          | `sf_limits` | Governor limits lookup (15 categories) |
 
           See [README.md](https://github.com/Avinava/sf-documentation-knowledge#readme) for full documentation.
           BODY
           gh release create "v${{ steps.version.outputs.VERSION }}" \
             --title "v${{ steps.version.outputs.VERSION }}" \
-            --notes-file /tmp/release-body.md \
-            --generate-notes
+            --notes-file /tmp/release-body.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

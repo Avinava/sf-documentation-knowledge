@@ -99,8 +99,8 @@ program
         documents,
         options.output,
       );
-      console.log(
-        `✅ ${domain.id}: ${result.filesGenerated} files → ${result.outputDir}`,
+      process.stderr.write(
+        `✅ ${domain.id}: ${result.filesGenerated} files → ${result.outputDir}\n`,
       );
     }
 
@@ -119,7 +119,7 @@ program
 
       // Re-export with service categories included
       await graphBuilder.exportGraph();
-      console.log(`✅ Knowledge graph built → ${options.output}/graph.json`);
+      process.stderr.write(`✅ Knowledge graph built → ${options.output}/graph.json\n`);
     } catch (err) {
       log.error({ err }, "Failed to build knowledge graph");
     }
@@ -127,7 +127,7 @@ program
     // Always update the inventory documentation
     try {
       await generateInventory(options.output, "docs/inventory.md");
-      console.log(`✅ Knowledge inventory built → docs/inventory.md`);
+      process.stderr.write(`✅ Knowledge inventory built → docs/inventory.md\n`);
     } catch (err) {
       log.error({ err }, "Failed to build inventory documentation");
     }
@@ -135,7 +135,7 @@ program
     // Always update the README documentation table
     try {
       await generateReadmeStats(options.output, "README.md");
-      console.log(`✅ README.md documentation table updated`);
+      process.stderr.write(`✅ README.md documentation table updated\n`);
     } catch (err) {
       log.error({ err }, "Failed to update README documentation");
     }

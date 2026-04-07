@@ -28,7 +28,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
   "mcpServers": {
     "sf-docs": {
       "command": "npx",
-      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+      "args": ["-y", "-p", "@sfdxy/sf-documentation-knowledge", "sf-docs-mcp"]
     }
   }
 }
@@ -45,7 +45,7 @@ Add to `.vscode/mcp.json` in your workspace (or globally in VS Code settings):
   "servers": {
     "sf-docs": {
       "command": "npx",
-      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+      "args": ["-y", "-p", "@sfdxy/sf-documentation-knowledge", "sf-docs-mcp"]
     }
   }
 }
@@ -62,7 +62,7 @@ Add to your MCP config (`~/.gemini/settings.json` or project `.gemini/settings.j
   "mcpServers": {
     "sf-docs": {
       "command": "npx",
-      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+      "args": ["-y", "-p", "@sfdxy/sf-documentation-knowledge", "sf-docs-mcp"]
     }
   }
 }
@@ -73,7 +73,7 @@ Add to your MCP config (`~/.gemini/settings.json` or project `.gemini/settings.j
 Add in `Settings → MCP Servers → Add Server`:
 
 - **Name**: `sf-docs`
-- **Command**: `npx -y @sfdxy/sf-documentation-knowledge`
+- **Command**: `npx -y -p @sfdxy/sf-documentation-knowledge sf-docs-mcp`
 - **Transport**: `stdio`
 
 ### Windsurf
@@ -85,7 +85,7 @@ Add to `~/.codeium/windsurf/mcp_config.json`:
   "mcpServers": {
     "sf-docs": {
       "command": "npx",
-      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+      "args": ["-y", "-p", "@sfdxy/sf-documentation-knowledge", "sf-docs-mcp"]
     }
   }
 }
@@ -95,10 +95,13 @@ Add to `~/.codeium/windsurf/mcp_config.json`:
 
 Point your MCP client to:
 ```
-npx -y @sfdxy/sf-documentation-knowledge
+npx -y -p @sfdxy/sf-documentation-knowledge sf-docs-mcp
 ```
 
 The server uses **stdio** transport and is compatible with any MCP client.
+
+> **Why `-p` + `sf-docs-mcp`?**  
+> The package ships two binaries: `sf-knowledge` (the data pipeline CLI) and `sf-docs-mcp` (the MCP server). Using `-p` installs the package and then explicitly calls the `sf-docs-mcp` binary, ensuring you get the MCP server and not the CLI.
 
 ### Use from Source
 
@@ -115,6 +118,15 @@ npm run mcp:start
 ## MCP Server
 
 The MCP server loads the full 53k-node knowledge graph and 18,000+ code snippets into memory on startup (~5s) and serves all queries instantly.
+
+Run directly from source:
+```bash
+npm run mcp:start
+```
+Or via npx (no clone required):
+```bash
+npx -y -p @sfdxy/sf-documentation-knowledge sf-docs-mcp
+```
 
 ### Tools (9)
 
