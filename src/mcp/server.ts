@@ -16,8 +16,14 @@ import path from "node:path";
 import { GraphQuery } from "../utils/graph-query.js";
 import { CodeIndex } from "./code-index.js";
 
+import { fileURLToPath } from "node:url";
+
+// Resolve knowledge dir relative to package root, not cwd.
+// This file lives at dist/mcp/server.js → package root is ../../
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const PKG_ROOT = path.resolve(__dirname, "..", "..");
 const KNOWLEDGE_DIR = path.resolve(
-  process.env.SF_KNOWLEDGE_DIR || "knowledge/current",
+  process.env.SF_KNOWLEDGE_DIR || path.join(PKG_ROOT, "knowledge", "current"),
 );
 
 // Shared graph query instance — loaded once on startup
